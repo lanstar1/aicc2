@@ -1,0 +1,127 @@
+{
+  "model_no": "LSP-BK-44R",
+  "product_name": "돌출형 아울렛 공박스 4Port",
+  "category": [
+    "랜케이블",
+    "키스톤잭",
+    "UTP포트",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "4포트 아울렛 공박스로 벽면 매립이 아닌 돌출형으로 바닥에 놓고 사용",
+    "RJ45 규격의 키스톤 잭 모듈 장착 가능",
+    "랜케이블이 통과하는 구멍 내장",
+    "RoHS(특정위험물질 사용제한) 규격 준수",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "모델명": "LSP-BK-44R",
+    "제품명": "돌출형 아울렛 공박스 4Port",
+    "포트수": "4포트",
+    "지원규격": "CAT 5e",
+    "설치방식": "돌출형 (바닥 거치)",
+    "인증": "RoHS Compliant",
+    "인증번호": "상세페이지 참조",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주), 한국아이티판매협동조합"
+  },
+  "compatibility": [
+    "RJ45 키스톤 잭 모듈 (별도 구매)",
+    "CAT 5e"
+  ],
+  "package_contents": [
+    "돌출형 아울렛 공박스 본체",
+    "강력 양면테이프",
+    "타이",
+    "나사못 2개"
+  ],
+  "usage_instructions": "바닥에 놓고 사용하는 돌출형 박스입니다. RJ45 키스톤 잭 모듈(별도 구매)을 장착하여 사용하며, 랜케이블은 박스 측면 구멍을 통해 인입합니다. 동봉된 강력 양면테이프 또는 나사못으로 고정할 수 있습니다.",
+  "cautions": [
+    "키스톤 잭 모듈은 별도 구매 필요",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "한국아이티판매협동조합에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-BK-44R",
+      "품목코드": "NEO-아울렛088",
+      "품목명": "[◆Lanstar-Plus] 돌출형아울렛 MOUNT BOX, 공박스 4-Port, White [40533] (130개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-BK-44R",
+      "내용": "빠른배송감사합니다.."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "N/A",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 규격의 키스톤 잭 모듈",
+    "connectivity.output_signals": "RJ45 규격의 키스톤 잭 모듈",
+    "connectivity.port_count": "4포트 아울렛 공박스",
+    "form_physical.has_case": "돌출형 아울렛 공박스",
+    "certification.rohs": "RoHS(특정위험물질 사용제한) 규격 준수",
+    "family.cat_category": "CAT 5e"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:27",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,177 @@
+{
+  "model_no": "LS-DPAOC",
+  "product_name": "LANStar DisplayPort 1.4 Hybrid Active Optical Cable (하이브리드 광 케이블)",
+  "category": [
+    "광케이블",
+    "DisplayPort"
+  ],
+  "key_features": [
+    "광섬유(OM3 4Core Fiber)와 구리 동선을 결합한 하이브리드 구조",
+    "최대 8K@60Hz / 4K@144Hz / 2K@165Hz 해상도 지원",
+    "최대 32.4Gbps 데이터 전송속도",
+    "최대 50m 장거리 신호 손실 없이 전송 가능",
+    "HDR(High Dynamic Range) 지원 – SDR 대비 10배(1000nit) 명암 표현",
+    "3D 디스플레이 지원",
+    "21:9 와이드 화면 비율(시네마스코프) 지원",
+    "YUV 4:4:4 크로마 서브샘플링 지원",
+    "멀티스트림(MST) 기능 지원: 4K@60Hz 2대 또는 WQXGA@60Hz(2560x1600) 4대 출력",
+    "DPCP(DisplayPort Content Protection) 영상 저작권 보호 지원",
+    "Plug & Play 지원",
+    "DP 1.2 호환",
+    "방향성 있는 제품 (Source → Display 단방향)",
+    "50m 길이는 드럼 방식 케이블로 출고",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "인터페이스": "DisplayPort 19Pin A(Male) - 19Pin A(Male) [표준 19핀]",
+    "최대 해상도": "8K@60Hz / 4K@144Hz / 2K@165Hz",
+    "전송속도": "32.4Gbps",
+    "커넥터": "DisplayPort",
+    "규격": "DP 1.4 (DP 1.2 호환)",
+    "선 구조": "Active Optical Cable (Fiber OM3 4Core + Bare Copper)",
+    "직경": "4.5mm",
+    "길이": "10m / 20m / 30m / 50m",
+    "동작온도": "0°C ~ 50°C",
+    "습도": "0% ~ 80%",
+    "모델명(10m)": "LS-DPAOC-10M",
+    "모델명(20m)": "LS-DPAOC-20M",
+    "모델명(30m)": "LS-DPAOC-30M",
+    "모델명(50m)": "LS-DPAOC-50M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "커넥터 외경": "19mm",
+    "커넥터 길이": "44mm"
+  },
+  "compatibility": [
+    "DisplayPort 1.4 규격 장치",
+    "DisplayPort 1.2 규격 장치 (하위 호환)",
+    "Source 기기: PC, 노트북, 콘솔, DVD 플레이어 등 DP 출력 지원 기기",
+    "Display 기기: TV, 모니터, 빔 프로젝터 등 DP 입력 지원 기기",
+    "멀티스트림(MST) 기능 이용 시 연결 기기(모니터, 그래픽카드 등)도 MST 지원 필요",
+    "홈씨어터(Home Theater)",
+    "옥외광고(Outdoor Advertising)",
+    "방송국(TV Broadcasting)",
+    "병원(Medical Center)",
+    "화상회의(Video Conference)"
+  ],
+  "package_contents": [
+    "DP 1.4 AOC 케이블 본체 (선택 길이: 10m / 20m / 30m / 50m)",
+    "커넥터 보호캡",
+    "제품 패키지(박스)"
+  ],
+  "usage_instructions": "본 케이블은 방향성이 있는 제품입니다. 케이블에 표기된 'DP Input (Source)' 단자를 PC·노트북·콘솔·DVD 플레이어 등 영상 출력 기기(Source)에 연결하고, 'DP Output (Display)' 단자를 TV·모니터·빔 프로젝터 등 표시 기기(Display)에 연결하십시오. 입/출력 방향을 반드시 확인 후 연결하십시오. 50m 제품은 드럼 방식 케이블로 출고됩니다.",
+  "cautions": [
+    "입력/출력 방향성이 있는 제품입니다. 연결 시 케이블의 Input(Source)과 Output(Display) 방향을 반드시 확인하십시오.",
+    "멀티스트림(MST) 기능 사용 시 연결하는 모니터 및 그래픽카드 등 기기도 MST 기능을 지원해야 정상 작동합니다.",
+    "50m 길이 제품은 드럼 방식 케이블로 출고됩니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DPAOC-10M",
+      "품목코드": "CAB-HDO098",
+      "품목명": "[LANstar] DisplayPort케이블 1.4v , AOC케이블 10M [30670] (10개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DPAOC-20M",
+      "품목코드": "CAB-HDO099",
+      "품목명": "[LANstar] DisplayPort케이블 1.4v , AOC케이블 20M [30671] (10개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DPAOC-30M",
+      "품목코드": "CAB-HDO100",
+      "품목명": "[LANstar] DisplayPort케이블 1.4v , AOC케이블 30M [30672] (10개)",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DPAOC-50M",
+      "품목코드": "CAB-HDO101",
+      "품목명": "[LANstar] DisplayPort케이블 1.4v , AOC케이블 50M [30673] (10개)",
+      "variant_suffix": "-50M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DPAOC-30M",
+      "내용": "배송이 빠르고 정확하게 왔어요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DisplayPort"
+      ],
+      "output_signals": [
+        "DisplayPort"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [
+        10,
+        20,
+        30,
+        50
+      ],
+      "color_options": []
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "8K@60",
+      "hdr_support": true,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "DP1.4",
+      "dvi_type": "N/A",
+      "optical_core": true,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DisplayPort 19Pin A(Male)",
+    "connectivity.output_signals": "19Pin A(Male) [표준 19핀]",
+    "connectivity.directional": "방향성 있는 제품 (Source → Display 단방향)",
+    "form_physical.length_options_meters": "10m / 20m / 30m / 50m",
+    "audio_video.max_resolution": "8K@60Hz / 4K@144Hz / 2K@165Hz",
+    "audio_video.hdr_support": "HDR(High Dynamic Range) 지원",
+    "family.dp_version": "DP 1.4 (DP 1.2 호환)",
+    "family.optical_core": "Active Optical Cable (Fiber OM3 4Core + Bare Copper)"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:42",
+  "feature_schema_version": "1.0.0"
+}

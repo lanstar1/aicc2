@@ -1,0 +1,125 @@
+{
+  "model_no": "LS-PCHEADSET-F0.2MF",
+  "product_name": "PC 헤드셋 변환케이블 (3.5ST/F-3.5ST/M×2)",
+  "category": [
+    "컨버터",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "스마트폰용 4극 3.5mm 이어폰을 PC 헤드셋으로 사용 가능",
+    "4극 이어폰 신호를 이어폰 신호와 마이크 신호로 분리",
+    "4극 3.5mm Female 단자 1개 + 3극 3.5mm Male 단자 2개 구성",
+    "1.2mm 납작한 평면 케이블로 선 꼬임 방지",
+    "커널형 이어폰 연결로 주변 소음 차단 가능",
+    "이어폰 단선 방지용 연장 젠더로도 활용 가능"
+  ],
+  "specifications": {
+    "입력 단자": "4극 3.5mm Female (4극 3.5ST)",
+    "출력 단자": "3극 3.5mm Male × 2 (3극 3.5ST)",
+    "케이블 길이": "0.2M",
+    "케이블 형태": "1.2mm 납작한 평면 케이블",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "인증 마크": "RoHS, FCC, CE, KC",
+    "품질경영시스템": "ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "4극 3.5mm 이어폰 단자를 갖춘 스마트폰용 이어폰",
+    "3극 3.5mm 이어폰/마이크 단자를 갖춘 PC 및 노트북",
+    "음성채팅 프로그램 (네이트톡, Skype, TalkOn 등)",
+    "인터넷 전화, 인터넷 방송 (afreecaTV 등)",
+    "게임 음성 채팅 (게임톡, NCtalk, WeChat 등)"
+  ],
+  "package_contents": [
+    "PC 헤드셋 변환케이블 (LS-PCHEADSET-F0.2MF) 1개"
+  ],
+  "usage_instructions": "4극 3.5mm 이어폰을 변환케이블의 Female 단자에 연결한 뒤, 케이블의 3극 Male 단자 2개를 각각 PC의 이어폰 단자와 마이크 단자에 연결하여 사용. 연결 전 이어폰 단자가 반드시 4극인지 확인 필요.",
+  "cautions": [
+    "연결하는 이어폰 단자가 4극인지 반드시 확인하세요 (3극 이어폰은 사용 불가).",
+    "이어폰 연결 시 이어폰의 좌(L)와 우(R) 단자가 바뀔 수 있습니다.",
+    "4극 이어폰은 별도 구매 필요.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCHEADSET-F0.2MF",
+      "품목코드": "AVO-이어폰195",
+      "품목명": "[LANstar] PC 헤드셋 변환케이블 평면 Black/Red 0.2M[10909]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "3.5mm"
+      ],
+      "directional": "일방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "4극 3.5mm Female 단자 1개",
+    "connectivity.output_signals": "3극 3.5mm Male 단자 2개",
+    "connectivity.directional": "4극 이어폰 신호를 이어폰 신호와 마이크 신호로 분리",
+    "connectivity.port_count": "4극 3.5mm Female 단자 1개 + 3극 3.5mm Male 단자 2개",
+    "power.power_mode": "무전원",
+    "form_physical.length_meters": "케이블 길이: 0.2M",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.audio_pass": "이어폰 신호와 마이크 신호로 분리",
+    "family.conversion_direction": "4극 이어폰 신호를 이어폰 신호와 마이크 신호로 분리",
+    "family.requires_external_power": "무전원"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:08",
+  "feature_schema_version": "1.0.0"
+}

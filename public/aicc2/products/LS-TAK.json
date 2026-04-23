@@ -1,0 +1,126 @@
+{
+  "model_no": "LS-TAK",
+  "product_name": "LANStar 다목적 건타카 (3WAY 건타카)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "U자핀, ㄷ자핀, T자핀 세 가지 핀을 모두 사용할 수 있는 3WAY 건타카",
+    "압력 조절 버튼 탑재 — 단단한 부분 작업 시 핀 강도를 더 강하게 조절 가능",
+    "논슬립 고무 핸들 — 미끄럼 방지로 안전하고 편안한 그립 제공",
+    "핸들 고정 스트랩 및 스테이플 제거 버튼 내장",
+    "현대해상화재 생산물배상책임보험 1억 원 가입 제품"
+  ],
+  "specifications": {
+    "모델명": "LS-TAK",
+    "제품명": "다목적 건타카",
+    "브랜드": "LANStar",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "T자핀 사용 범위": "10~14mm",
+    "ㄷ자핀 사용 범위": "4~14mm",
+    "U자핀 사용 범위": "10~12mm",
+    "U자핀 호환 선 굵기": "5.5mm 이내",
+    "제품 치수 (가로)": "11.2cm",
+    "제품 치수 (세로)": "15.2cm",
+    "제품 치수 (폭)": "2.2cm",
+    "핸들 길이": "10cm"
+  },
+  "compatibility": [
+    "UTP 랜케이블 (굵기 5.5mm 이내, U자핀 사용)",
+    "인터폰선 (굵기 5.5mm 이내, U자핀 사용)",
+    "전화선 (굵기 5.5mm 이내, U자핀 사용)",
+    "T자형 타카핀 10mm",
+    "U자형 타카핀 12mm",
+    "ㄷ자형 타카핀 6mm"
+  ],
+  "package_contents": [
+    "건타카 본체 (LS-TAK) 1개",
+    "T자형 타카핀 10mm 200pcs",
+    "U자형 타카핀 12mm 200pcs",
+    "ㄷ자형 타카핀 6mm 200pcs"
+  ],
+  "usage_instructions": "1. 스테이플 입구를 눌러 열어줍니다. 2. 로드를 끝까지 뺀 뒤 타카핀을 넣어줍니다. 3. 로드를 끝까지 밀어 넣어줍니다. 4. 로드를 고리에 걸면 타카 사용 준비 완료.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)의 동의 없이 상품 및 콘텐츠를 무단 복제·이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-TAK",
+      "품목코드": "NEO-잡공구503",
+      "품목명": "[LANstar] 다목적 건타카 ,10~12mm , 10~14mm , 4~14mm 전용 [20260] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-TAK",
+      "내용": "U자형과 ㄷ자형 타카핀 모두 쓸 수 있어서 좋음.\n소리가 엄청 큼."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "고무",
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.directional": "해당없음",
+    "power.power_mode": "해당없음",
+    "form_physical.has_case": "LANStar 다목적 건타카",
+    "form_physical.material": "논슬립 고무 핸들",
+    "certification.kc": "인증번호: 해당없음",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_physical_button": "압력 조절 버튼 탑재"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:16",
+  "feature_schema_version": "1.0.0"
+}

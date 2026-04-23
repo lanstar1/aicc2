@@ -1,0 +1,131 @@
+{
+  "model_no": "LS-ASAUTO",
+  "product_name": "LANStar 애플/삼성/LG 겸용 8핀 5핀 겸용 자동감김 케이블 (USB 2.0 A/M-8Pin+Micro B/M)",
+  "category": [
+    "USB케이블",
+    "USB2.0",
+    "자동감김케이블",
+    "아이폰케이블"
+  ],
+  "key_features": [
+    "2in1 콤보 케이블: Micro 5핀 + Lightning 8핀 동시 지원",
+    "자동감김(Auto Reel) 방식으로 최대 1m까지 사용 가능",
+    "너비 5mm 플랫 케이블로 줄 엉킴이 적음",
+    "PC 연결 시 충전 및 데이터 전송 동시 지원",
+    "RoHS·FCC·CE 인증 및 ISO 9001:2008 품질경영시스템 준수",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터": "USB A/M - 마이크로 5핀 + 라이트닝 8핀",
+    "기능": "충전 / 데이터 전송",
+    "케이블 길이": "최대 1M",
+    "본체 크기": "113(W) x 45(H) x 17(D) mm",
+    "USB 규격": "USB 2.0",
+    "케이블 유형": "플랫 케이블 (너비 5mm)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증": "RoHS, FCC, CE, ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "Lightning 8핀 단자 탑재 기기 (아이폰, 아이패드 등 Apple 기기)",
+    "Micro USB 5핀 단자 탑재 스마트폰",
+    "Micro USB 5핀 단자 탑재 태블릿",
+    "Micro USB 5핀 단자 탑재 디지털 카메라",
+    "Micro USB 5핀 단자 탑재 보조배터리팩",
+    "Micro USB 5핀 단자 탑재 블루투스 기기",
+    "PC (충전 및 데이터 전송)"
+  ],
+  "package_contents": [
+    "8핀 5핀 자동감김 2in1 콤보 케이블 본체 1개"
+  ],
+  "usage_instructions": "자동감김 케이블을 당겨 최대 1m까지 늘려 사용하며, 사용 후 자동으로 감김. Micro 5핀 또는 Lightning 8핀 커넥터를 호환 기기에 연결하고 USB A 단자를 PC 또는 충전기에 연결하여 충전 및 데이터 전송 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-ASAUTO-1M",
+      "품목코드": "CAB-자동감003",
+      "품목명": "[LANstar] 애플 8핀 /삼성/Lg 겸용 Micro 5핀 2 in 1 자동감김 케이블- 블루 90Cm[10862]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-Micro",
+        "Lightning"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        1
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A/M",
+    "connectivity.output_signals": "마이크로 5핀 + 라이트닝 8핀",
+    "connectivity.directional": "충전 및 데이터 전송 동시 지원",
+    "power.power_mode": "PC 연결 시 충전 및 데이터 전송",
+    "power.charging_support": "충전 및 데이터 전송 동시 지원",
+    "form_physical.has_case": "본체 크기: 113(W) x 45(H) x 17(D) mm",
+    "form_physical.length_options_meters": "최대 1m까지 사용 가능",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "family.usb_version": "USB 2.0",
+    "family.charging_only": "충전 및 데이터 전송 동시 지원",
+    "family.data_only": "충전 및 데이터 전송 동시 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:20",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,139 @@
+{
+  "model_no": "LS-MX25SFP",
+  "product_name": "25Gbps SFP28 듀얼 랜카드 (PCI-Express SFP28 DUAL 25Gbps Card)",
+  "category": [
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "PCI-Express x8 v3.0 버스 슬롯 지원 (x8/x16 슬롯 장착 가능)",
+    "SFP28 듀얼 인터페이스 (포트 2개)",
+    "최대 25Gbps 전송 속도 지원",
+    "Mellanox ConnectX-4 칩셋 탑재",
+    "SFP28 멀티모드 및 싱글모드 지원",
+    "SFP+ 하위 호환 (SFP, SFP+ 모듈 사용 가능)",
+    "RDMA(Remote Direct Memory Access) 지원으로 CPU 부하 절감",
+    "SR-IOV(Single Root I/O Virtualization) 지원으로 가상머신 고성능 사용 가능",
+    "대형 방열판으로 효과적인 열 방산",
+    "슬림 PC용 로우 프로파일 브라켓 포함",
+    "Plug & Play 지원 (별도 설치 과정 불필요)",
+    "FreeBSD, Linux, VMware ESXi, Windows 7/8/10/11 지원 (Mac OS 미지원)",
+    "국립전파연구원(KC) 인증 획득",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "BUS_SLOT": "PCIe x8 v3.0 with 8.0GT/s",
+    "칩셋": "Mellanox ConnectX-4",
+    "인터페이스": "SFP28 x2",
+    "TOPOLOGY": "IEEE 802.3: 10GBASE-SR, 10GBASE-LR, IEEE 802.3ad, IEEE 802.3Q(VLANs), IEEE 802.3p, IEEE 802.3 2005, flow control support",
+    "기능": "IPMI Pass-through via SMBus or NC-SI, WoL, PXE remote boot, iSCSI Boot, VLAN filtering",
+    "지원_OS": "FreeBSD, Linux, VMware ESXi, Windows 7/8/10/11 (Mac OS 미지원)",
+    "크기": "144 x 51 x 20 (mm)",
+    "무게": "약 109g",
+    "KC_인증번호": "R-R-LUS-LS-MX25SFP",
+    "제조국": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)",
+    "AS_문의": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "PCI-Express x8 슬롯 (메인보드)",
+    "PCI-Express x16 슬롯 (메인보드)",
+    "SFP28 모듈 (LR, SR 모두 지원)",
+    "SFP+ 모듈 (하위 호환)",
+    "SFP 모듈 (하위 호환)",
+    "SFP28 AOC Patch Cord",
+    "SFP28 DAC Patch Cord",
+    "FreeBSD",
+    "Linux",
+    "VMware ESXi",
+    "Windows 7",
+    "Windows 8",
+    "Windows 10",
+    "Windows 11"
+  ],
+  "package_contents": [
+    "PCIe SFP28 듀얼 랜카드 본체",
+    "슬림 PC용 브라켓 (로우 프로파일)",
+    "매뉴얼",
+    "드라이버 설치 CD"
+  ],
+  "usage_instructions": "PC 전원이 꺼진 상태에서 메인보드 PCIe 슬롯(x8 또는 x16)에 카드를 장착한 뒤 전원을 켜면 운영체제가 자동으로 카드를 인식하고 드라이버를 설치하여 별도의 추가 작업 없이 사용 가능(Plug & Play). 드라이버가 자동 설치되지 않을 경우 동봉된 CD를 이용하여 해당 OS에 맞는 드라이버를 수동 설치. SFP28 모듈 및 패치코드(AOC/DAC)는 별도 구매 필요.",
+  "cautions": [
+    "SFP28 광 모듈은 제품에 포함되어 있지 않으며 별도 구매 필요",
+    "SFP28 모듈 및 패치코드(AOC Patch Cord, DAC Patch Cord)는 별도 구매 제품",
+    "Mac OS는 지원하지 않음",
+    "당일출고는 평일 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니므로 A/S 불가",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "무단 복제 및 콘텐츠 이용 시 불이익 발생 가능"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MX25SFP",
+      "품목코드": "PCI-SFP001",
+      "품목명": "[LANstar] PCIe SFP28 듀얼 25G 서버랜카드 Mellanox (ConnectX-4) 칩셋 [30867] [10개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "SFP28"
+      ],
+      "output_signals": [],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 25000,
+      "chipset": "Mellanox ConnectX-4"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "SFP28 듀얼 인터페이스",
+    "connectivity.directional": "최대 25Gbps 전송 속도 지원",
+    "connectivity.port_count": "SFP28 듀얼 인터페이스 (포트 2개)",
+    "form_physical.has_case": "대형 방열판으로 효과적인 열 방산",
+    "certification.kc": "국립전파연구원(KC) 인증 획득",
+    "family.bus_interface": "PCI-Express x8 v3.0 버스 슬롯 지원",
+    "family.speed_mbps": "최대 25Gbps 전송 속도 지원",
+    "family.chipset": "Mellanox ConnectX-4 칩셋 탑재"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:21",
+  "feature_schema_version": "1.0.0"
+}

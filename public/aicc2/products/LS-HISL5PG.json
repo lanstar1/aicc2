@@ -1,0 +1,137 @@
+{
+  "model_no": "LS-HISL5PG",
+  "product_name": "LANStar 고속충전 데이터 삼성/LG 케이블 USB A/M-Micro B/M 1M",
+  "category": [
+    "USB케이블"
+  ],
+  "key_features": [
+    "패브릭 소재를 땋아서 만든 케이블로 줄꼬임 없고 유연하여 단선 위험 감소",
+    "단선 방지 설계: 콘넥터와 케이블 이음 부분에 완충장치 적용",
+    "퀵차지 2.0 지원으로 일반 케이블 대비 2배 빠른 충전속도",
+    "2mm 단차 콘넥터 설계로 두꺼운 폰 케이스와도 결합 가능",
+    "고급 알루미늄 콘넥터로 내구성 강화",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS, FCC, CE 인증, ISO 9001:2008 품질경영시스템 적용"
+  ],
+  "specifications": {
+    "커넥터 타입": "USB A Male - Micro B Male (마이크로 5핀, 안드로이드)",
+    "케이블 길이": "1M (1000mm)",
+    "최대 전류": "최대 2.1A",
+    "지원 기능": "충전 및 데이터 전송",
+    "색상": "골드메탈 (LS-HISL5PG-1M), 실버메탈 (LS-HISL5PS-1M)",
+    "케이블 소재": "패브릭",
+    "콘넥터 소재": "알루미늄",
+    "USB A Male 크기": "11.1mm x 5.8mm x 3.5mm",
+    "Micro B Male 크기": "5.8mm x 11mm",
+    "실측 전류값": "5V 2A 전원 어댑터로 갤럭시A 연결 시 1.16A (오차범위 ±0.05)",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증": "RoHS, FCC, CE, ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "삼성 갤럭시 시리즈 (Micro USB/안드로이드)",
+    "LG 스마트폰 (Micro USB/안드로이드)",
+    "퀵차지 2.0 지원 기기",
+    "Micro 5핀(안드로이드) 단자 사용 기기"
+  ],
+  "package_contents": [
+    "고속충전 데이터 케이블 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "충전기의 성능에 따라 충전 속도는 달라질 수 있음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 가능",
+    "AS 소비자상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HISL5PG-1M",
+      "품목코드": "CAB-모바일022",
+      "품목명": "[LANstar] 고속충전 데이터 삼성/LG , Gold cable-골드메탈 A/M-Micro B/M, 1M[10851]★★단종 ★★",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "알루미늄",
+        "패브릭"
+      ],
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": [
+        "골드메탈",
+        "실버메탈"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": null,
+      "charging_only": null,
+      "data_only": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A Male",
+    "connectivity.output_signals": "Micro B Male",
+    "connectivity.directional": "충전 및 데이터 전송",
+    "power.power_mode": "5V 2A 전원 어댑터로 갤럭시A",
+    "power.charging_support": "고속충전 데이터",
+    "form_physical.material": "패브릭 소재를 땋아서 만든 케이블",
+    "form_physical.material.1": "고급 알루미늄 콘넥터",
+    "form_physical.length_meters": "1M (1000mm)",
+    "form_physical.color_options": "골드메탈 (LS-HISL5PG-1M)",
+    "form_physical.color_options.1": "실버메탈 (LS-HISL5PS-1M)",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "family.usb_version": "USB A Male - Micro B Male",
+    "family.charging_only": "충전 및 데이터 전송",
+    "family.data_only": "충전 및 데이터 전송"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:39",
+  "feature_schema_version": "1.0.0"
+}

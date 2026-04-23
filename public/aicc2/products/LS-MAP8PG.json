@@ -1,0 +1,138 @@
+{
+  "model_no": "LS-MAP8PG",
+  "product_name": "LAN Star 자석 애플 8핀 데이터 충전+전송 케이블 1M (USB A/M - 8Pin/M)",
+  "category": [
+    "USB케이블",
+    "커넥터",
+    "아이폰케이블"
+  ],
+  "key_features": [
+    "자석 방식으로 한 손으로 1초 만에 케이블 연결 및 분리 가능",
+    "LED 표시 기능: 충전 중 파란색(BLUE), 미충전 시 초록색(GREEN)",
+    "어두운 곳에서도 LED 불빛과 자성으로 쉽게 연결 가능",
+    "커넥터 위아래 구분 없이 꽂을 수 있어 편리",
+    "자석 커넥터 장착으로 기기 커넥터 수명 연장 및 먼지·이물질 유입 차단",
+    "2A 고속충전 지원",
+    "충전 및 데이터 전송 동시 가능",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "RoHS, FCC, CE, KCC 인증",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "커넥터": "라이트닝 8핀 (애플 아이폰)",
+    "전압(전류)": "2A",
+    "충전/데이터전송": "가능",
+    "LED표시": "BLUE(충전시) / GREEN(미충전시)",
+    "길이": "1M (1000mm)",
+    "색상": "골드메탈 (LS-MAP8PG-1M), 실버메탈 (LS-MAP8PS-1M), 핑크메탈 (LS-MAP8PP-1M)",
+    "USB A Male 커넥터 크기": "11.5mm x 6.5mm",
+    "8Pin Male 커넥터 크기": "2.8mm x 6.5mm x 12mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증": "RoHS, FCC, CE, KCC",
+    "품질경영시스템": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "애플 아이폰 (라이트닝 8핀 지원 기기)"
+  ],
+  "package_contents": [
+    "자석 애플 8핀 케이블 1M",
+    "커넥터 제거기 (U자형 홈 포함)"
+  ],
+  "usage_instructions": "1. 자석 커넥터를 기기의 8핀 포트에 장착한 뒤, 케이블을 자석으로 연결하여 충전 또는 데이터 전송에 사용합니다. 2. 커넥터 분리 시: 동봉된 제거기의 U자형 홈에 커넥터를 끼워 빼냅니다. 3. 케이블과 기기 분리 시: 앞으로 당기지 말고 살짝 옆으로 들어 빼주세요.",
+  "cautions": [
+    "기기와 케이블 분리 시 앞으로 당기면 자성에 의해 커넥터가 딸려나올 수 있으니 살짝 옆으로 들어 빼주세요.",
+    "커넥터 분리 시 동봉된 제거기의 U자형 홈을 사용하세요.",
+    "제품의 색상 및 형태 등의 사양은 제조사 사정에 따라 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상(AS 소비자상담: 070-7018-3386)."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MAP8PG-1M",
+      "품목코드": "CAB-모바일027",
+      "품목명": "[LANstar] 자석 애플 8핀/라이트닝-골드메탈 A/M-Apple 8핀, 1M[10864]★★할인제외★★",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Lightning"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "메탈"
+      ],
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": [
+        "골드메탈",
+        "실버메탈",
+        "핑크메탈"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A/M",
+    "connectivity.output_signals": "8핀",
+    "connectivity.directional": "충전 및 데이터 전송 동시 가능",
+    "power.power_mode": "버스파워",
+    "power.charging_support": "2A 고속충전 지원",
+    "form_physical.material": "골드메탈",
+    "form_physical.length_meters": "1M (1000mm)",
+    "form_physical.color_options": "골드메탈 (LS-MAP8PG-1M), 실버메탈",
+    "certification.kc": "KCC 인증",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "family.usb_version": "USB A/M",
+    "family.transfer_speed_gbps": "데이터 전송 동시 가능",
+    "family.charging_only": "충전 및 데이터 전송 동시 가능",
+    "family.data_only": "충전 및 데이터 전송 동시 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:25",
+  "feature_schema_version": "1.0.0"
+}

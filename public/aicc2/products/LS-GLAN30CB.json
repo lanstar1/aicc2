@@ -1,0 +1,144 @@
+{
+  "model_no": "LS-GLAN30CB",
+  "product_name": "LANStar USB 3.0 기가 랜카드 LS-GLAN30CB",
+  "category": [
+    "USB케이블",
+    "USB3.0",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "USB 3.0 포트를 통해 기가비트 유선 랜포트 생성 (10/100/1000Mbps)",
+    "별도의 전원 케이블 없이 USB 포트만으로 사용 가능",
+    "Plug & Play 지원 — 별도 소프트웨어 없이 연결 즉시 사용 가능",
+    "Hot Swap 지원 — 전원이 켜진 상태에서도 제품 분리 가능",
+    "REALTEK RTL8153 칩셋 사용으로 안정성과 호환성 향상",
+    "IEEE 802.3 및 IEEE 802.3az EEE(에너지 효율 이더넷) 표준 지원",
+    "일시정지(Pause) 기능 및 원격 Wake-up 지원",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품",
+    "국립전파연구원 인증 획득 (인증번호: MSIP-REI-LUS-LS-GLAN30)",
+    "USB 3.0 포트를 통해 기가비트 랜포트를 생성하는 이더넷 어댑터",
+    "Plug & Play 및 Hot Swap 지원 (별도 소프트웨어 설치 없이 즉시 사용 가능)",
+    "리얼텍 칩셋 RTL-8153 사용으로 안정성과 호환성 강화",
+    "10/100/1000Mbps 전송 속도 지원",
+    "IEEE 802.3az EEE(에너지 효율 이더넷) 표준 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "전송속도": "10/100/1000 Mbps",
+    "인터페이스": "USB 3.0",
+    "칩셋": "REALTEK RTL8153 / Realtek RTL-8153",
+    "운영체제": "Windows XP/Vista/7/8/8.1(32/64bit)/10, Mac OS 9X/10X, Linux",
+    "지원표준": "IEEE 802.3, IEEE 802.3az EEE(에너지 효율 이더넷)",
+    "추가기능": "일시정지(Pause) 기능, 원격 Wake-up 지원",
+    "크기": "65 × 25 × 18 mm (L × W × H)",
+    "인증": "KC, FCC, CE, RoHS COMPLIANT, ISO 9001:2008",
+    "인증번호": "MSIP-REI-LUS-LS-GLAN30",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "USB 인터페이스": "USB 3.0",
+    "지원 표준": "IEEE 802.3, IEEE 802.3az EEE(에너지 효율 이더넷)",
+    "추가 기능": "일시정지(Pause) 기능, 원격 Wake-up 지원",
+    "품질경영시스템": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "Windows XP / Vista / 7 / 8 / 8.1 (32/64bit) / 10",
+    "Mac OS 9X / 10X (v10.0 이상)",
+    "Linux",
+    "USB 3.0 포트 탑재 데스크탑",
+    "USB 3.0 포트 탑재 노트북",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8 / 8.1 (32/64bit)",
+    "Windows 10",
+    "Mac OS 9X",
+    "Mac OS 10.0 이상"
+  ],
+  "package_contents": [
+    "USB 3.0 기가 랜카드 본체 (LS-GLAN30CB)",
+    "한글 매뉴얼",
+    "User Manual",
+    "USB 3.0 기가 랜카드 (LS-GLAN30CB) 본체",
+    "USB 3.0 to Gigabit Adapter User Manual"
+  ],
+  "usage_instructions": "【Windows 드라이버 설치】 ① 제품 연결 시 내 컴퓨터에 자동 생성되는 CD를 열어 Setup.exe를 클릭하여 설치합니다. ② 장치 관리자 > 네트워크 어댑터 항목에 'Realtek USB GBE Family Controller' 드라이버가 표시되면 설치 완료입니다. 【Mac 드라이버 설치】 제품 연결 시 내 컴퓨터에 생성되는 CD롬 폴더에서 RTUNICv.1.0.5.pkg를 클릭하여 설치합니다. 【공통】 Plug & Play를 지원하므로 별도 소프트웨어 없이 USB 포트에 연결하는 것만으로도 바로 사용 가능한 경우가 있습니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "RoHS 규정에 따라 납, 수은, 카드뮴 등 중금속 사용이 제한된 제품입니다."
+  ],
+  "variants": [],
+  "_variant_raw_texts": {
+    "LS-GLAN30CB (1)": "LAN Star\n®\n내 컴퓨터에 랜포트를 만들어주는\nUSB 3.0 기가 랜카드\nLS-GLAN30CB\nLANStar\nLS-GLAN30CB\nC\n10\nMac OS\nv10.0~\nLinux\nWindows\nUSB 3.0 랜카드는?\n데스크탑, 노트북 등에 랜포트가 없거나 작동이 안될때\n랜포트를 생성해주는 USB 3.0 랜카드입니다.\nUSB 3.0 이더넷 어댑터\n별도의 전원케이블 없이 USB 포트만으로 사용할 수 있습니다.\n데스크탑\nUSB3.0\n노트북\n10/100/1000Mbps|\n꽂으면 바로 사용가능한\nPlug & Play, Hot Swap\n별도의 소프트웨어 없이도 기기와 연결시 바로 사용이 가능하며\n전원이 켜진 상태에서도 제품분리를 할 수 있습니다.\n\n\nLAMStor®\nLS-GLAN30CB\n117\nREALTEK\nوں\n리얼텍 칩셋 RTL-8153을 사용하여\n안정성과 호환성을 높였습니다.\nFAME\nRTL 81DSES\n8153\n50,00\nSIG\n윈도우에서 드라이버 설치 시\n제품 연결 시 내 컴퓨터에 생성되는 CD를 열어 Setup.exe를 클릭합니다.\n● 장치 관리자 내 네트워크 어댑터 항목에 Realtek USB GBE Family Controller\n드라이버가 보이면 설치 완료입니다.\n장치관리자 > 네트워크 어댑터 > Realtek USB GBE Family Controller\n수 장치 관리자\n回\n파일 동작(A) 보기 도움말)\n中国国\n夜館夜市\narian-PC\n4 Bluetooth 송수신 장치\n• DVD/CD-ROM 드라이브\nCIDE ATA/ATAPI 컨트롤러\n네트워크 어댑터\nAtheros AR8161/8165 PCI-E Gigabit Ethernet Controller (NDIS 6.20)\nBluetooth 장치(RFCOMM 프로토콜 TDD\nBluetooth 장치(개인 영역 네트워크)\nIntel(R) Centrino(R) Wireless-N2230\nMicrosoft Virtual WiFi Miniport Adapter\nMicrosoft Virtual WiFi Miniport Adapter #2\nRealtek USB GBE Family Controller\n디스크 드라이브\n- 디스플레이 어댑터\n- 마우스 및 기타 포인팅 장치\n메모리 기술 드라이버\nMAC 드라이버 설치 시\n제품 연결 시 내 컴퓨터에 생성되는 CD롬 폴더에서 RTUNICv.1.0.5.pkg를\n클릭하여 설치합니다.\n드라이버 자동설치가 안될 때!\n• 내 컴퓨터에 CD롬이 생성되지 않거나 자동설치가 안될시 www.lanmart.co.kr에\n접속하여 커뮤니티>기술자료실에서 이름,제목,내용으로 찾기란에 GLAN30CB로\n검색하여 드라이버를 다운받아 설치하시기 바랍니다.\n• 1000Mbps를 속도를 내려면 반드시 USB 3.0 단자에 연결하시기 바랍니다.\nPRODUCT SIZE\n210mm\n25mm\nUSB3.0\n65mm\n⠀⠀\n18mm\nPRODUCT IMAGE\nLS-GLAN30CB\nㄷ\nPACKAGE IMAGE\n\n\nPACKAGE IMAGE\nLANStar\n10\nLinux\nv10.0\n| BOOENVID-ST\nLANar\nUSB 3.0 to Gialan Adapter\nUser Manual\n+\nUSB 3.0 기가랜카드\nLS-GLANBOCB\n한글매뉴얼\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSpecification\n10/100/1000 (Mbps)\n전송속도\n운영체제\nWIN XP/Vista/7/8/8.1(32/64bit)/10\nMac OS 9X/10X, Linux\n운영지원\nIEEE 802.3 표준지원\nIEEE 802.3az EEE(에너지 효율 이더넷) 표준지원\n추가기능\n일시정지(Pause) 기능, 원격 wake-up 지원\n크\n기\n65×25×18mm (L x W x H)\nC\nROHS\nK FC CE\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를\n인증마크로 사용합니다.\nK\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\n인증번호 MSIP-REI-LUS-LS-GLAN30\nⓇ\nLANG\nStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nUSB 3.0 기가 랜카드\nLAN Star\n®\n모\n델\n명\nLS-GLAN30CB\n인증번호\nMSIP-REI-LUS-LS-GLAN30\n回回\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 1,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 포트를 통해",
+    "connectivity.output_signals": "기가비트 유선 랜포트 생성",
+    "connectivity.directional": "10/100/1000Mbps",
+    "power.power_mode": "별도의 전원 케이블 없이 USB 포트만으로 사용 가능",
+    "certification.kc": "국립전파연구원 인증 획득",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "family.usb_version": "USB 3.0",
+    "family.transfer_speed_gbps": "10/100/1000Mbps 전송 속도 지원",
+    "family.data_only": "기가비트 유선 랜포트 생성"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:19",
+  "feature_schema_version": "1.0.0"
+}

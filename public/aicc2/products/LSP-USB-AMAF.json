@@ -1,0 +1,186 @@
+{
+  "model_no": "LSP-USB-AMAF",
+  "product_name": "LANstar plus USB 2.0 연장케이블 (A/M-A/F)",
+  "category": [
+    "USB선택기",
+    "USB케이블",
+    "USB2.0",
+    "익스텐더"
+  ],
+  "key_features": [
+    "USB 2.0 규격 지원, 최대 480Mbps 전송속도",
+    "USB 1.1 대비 40배 빠른 전송 성능",
+    "USB A Male to A Female 연장 구조",
+    "1M / 1.8M / 3M / 5M 길이 선택 가능",
+    "RoHS 인증 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "규격": "USB 2.0 (HI-SPEED)",
+    "커넥터": "USB A Male - USB A Female",
+    "최대 전송속도": "480Mb/s",
+    "제공 길이": "1M, 1.8M, 3M, 5M",
+    "모델명 (1M)": "LSP-USB-AMAF-1M",
+    "모델명 (1.8M)": "LSP-USB-AMAF-1.8M",
+    "모델명 (3M)": "LSP-USB-AMAF-3M",
+    "모델명 (5M)": "LSP-USB-AMAF-5M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "RoHS 준수": "Compliant"
+  },
+  "compatibility": [
+    "USB 2.0 (HI-SPEED) 기기",
+    "USB 1.1 (FULL SPEED) 기기 (하위 호환)",
+    "USB 1.0 (LOW SPEED) 기기 (하위 호환)"
+  ],
+  "package_contents": [
+    "USB 2.0 연장케이블 (A/M-A/F) 1개"
+  ],
+  "usage_instructions": "USB 단자를 가진 기기끼리 연결을 연장할 때 사용합니다. USB A Male 단자를 기기 또는 케이블에 연결하고, USB A Female 단자에 연장할 기기를 연결합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상합니다.",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단 참조)로 문의하세요.",
+    "AS 및 소비자 상담은 라인업시스템(주)으로 문의하세요."
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-USB-AMAF-1M",
+      "품목코드": "PCA-U연장001",
+      "품목명": "[◆Lanstar-Plus] USB 2.0연장케이블 , A형M/F, 1M [70031][300개]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-USB-AMAF-1.8M",
+      "품목코드": "PCA-U연장002",
+      "품목명": "[◆Lanstar-Plus] USB 2.0연장케이블 , A형M/F, 1.8M [70032][200개]",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-USB-AMAF-3M",
+      "품목코드": "PCA-U연장003",
+      "품목명": "[◆Lanstar-Plus] USB 2.0연장케이블 , A형M/F, 3M [70033][100개]",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-USB-AMAF-5M",
+      "품목코드": "PCA-U연장004",
+      "품목명": "[◆Lanstar-Plus] USB 2.0연장케이블 , A형M/F, 5M [70034][50개]",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LSP-USB-AMAF-3M",
+      "chatUrl": "2pSzu",
+      "dateIso": "2026-01-16T04:53:43.155Z",
+      "name": "고이접어",
+      "isTechnical": true,
+      "category": "shipping",
+      "modelConfidence": "high",
+      "question": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!\n(추가 문의) [배송도착예정] 주문하신 상품이 오늘 도착예정입니다~",
+      "answer": "주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        1.8,
+        3,
+        5
+      ],
+      "color_options": []
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "selector_type": "N/A",
+      "input_count": null,
+      "output_count": null,
+      "interfaces": [
+        "USB 2.0"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A Male",
+    "connectivity.output_signals": "USB A Female",
+    "connectivity.directional": "연장 구조",
+    "form_physical.length_options_meters": "1M / 1.8M / 3M / 5M 길이 선택 가능",
+    "certification.rohs": "RoHS 인증 준수",
+    "family.interfaces": "USB 2.0 규격 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:52",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "shipping": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

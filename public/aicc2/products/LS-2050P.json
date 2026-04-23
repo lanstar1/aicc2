@@ -1,0 +1,176 @@
+{
+  "model_no": "LS-2050P",
+  "product_name": "USB2.0 4포트 리피터 (USB 2.0 4-Port Extender Kit 50M Power Over Cable)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "랜케이블",
+    "USB케이블",
+    "USB2.0",
+    "익스텐더",
+    "리피터",
+    "전원아답터",
+    "UTP포트"
+  ],
+  "key_features": [
+    "CAT.5E / CAT.6 UTP 랜케이블을 이용하여 USB 2.0 신호를 최대 50M까지 전송",
+    "USB 2.0 4포트 수신기 지원",
+    "POC(Power Over Cable) 기능 지원: 송신기 전원을 UTP 케이블을 통해 수신기에 전달",
+    "USB 2.0 Hi-Speed 480Mbps 전송속도 지원",
+    "USB 1.0 / 1.1 하위버전 호환",
+    "벽면 및 바닥면 고정 가이드 일체형 디자인 (마운트홀 내장)",
+    "기본 제공 아답터 및 USB A/M-B/M 케이블에 노이즈 필터 처리 적용",
+    "메탈 하우징 재질",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC 인증 획득 (인증번호: MSIP-REI-LUS-LS-USB-2070M)",
+    "RoHS 규정 준수"
+  ],
+  "specifications": {
+    "인터페이스": "USB 2.0 (USB 1.0 / 1.1 하위버전 호환)",
+    "전송속도": "480Mbps",
+    "송신기_입력단자": "USB 2.0 B Female",
+    "송신기_출력단자": "RJ45",
+    "수신기_입력단자": "RJ45",
+    "수신기_출력단자": "USB 2.0 A Female x4",
+    "케이블규격": "CAT.5E / CAT.6 UTP",
+    "최대전송거리": "50M",
+    "입력전원": "DC 12V 1A",
+    "POC기능": "지원 (Power Over Cable, DC 24V 출력)",
+    "송신기_무게": "약 91g",
+    "수신기_무게": "약 166g",
+    "재질": "메탈 하우징",
+    "송신기_크기": "86.5mm x 66mm x 23.5mm (추정: 길이 x 폭 x 높이)",
+    "수신기_크기": "115mm x 63mm x 24mm (추정: 길이 x 폭 x 높이)",
+    "인증번호": "MSIP-REI-LUS-LS-USB-2070M",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANStar"
+  },
+  "compatibility": [
+    "PC, 노트북 (USB 2.0 포트 보유 기기)",
+    "키보드, 마우스, 프린터, 기타 USB 장치",
+    "CAT.5E UTP 랜케이블",
+    "CAT.6 UTP 랜케이블",
+    "USB 1.0 장치",
+    "USB 1.1 장치",
+    "USB 2.0 장치"
+  ],
+  "package_contents": [
+    "송신기 (Transmitter) x1",
+    "수신기 (Receiver) x1",
+    "DC 12V 1A 아답터 x1",
+    "USB A/B 케이블 (약 60cm) x1",
+    "User's Manual x1"
+  ],
+  "usage_instructions": "1) PC 또는 노트북의 USB 포트에 USB A/M-B/M 케이블을 이용하여 송신기(Transmitter)를 연결한다. 2) 송신기와 수신기를 CAT.5E 또는 CAT.6 UTP 랜케이블(최대 50M)로 RJ45 포트에 연결한다. 3) DC 12V 1A 아답터를 송신기에 연결하여 전원을 공급한다. POC 기능을 통해 수신기에 별도 전원 없이 케이블로 전원이 전달된다. 4) 수신기의 USB A Female 포트 4개에 사용할 USB 장치를 연결한다. 벽면 또는 바닥면에 고정이 필요한 경우 마운트홀을 이용하여 고정한다(고정 나사는 별도 구매 필요).",
+  "cautions": [
+    "케이블 설치 환경에 따라 최대 전송 거리에 영향을 줄 수 있습니다.",
+    "외장 하드의 경우 정상적인 연결이 불가능합니다.",
+    "벽면/바닥면 고정용 나사는 패키지에 포함되어 있지 않습니다. 구매 시 유의하시기 바랍니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-2050P",
+      "품목코드": "USB-리피터210",
+      "품목명": "[LANstar] USB2.0 4포트 리피터 , RJ45 , 50M , 아답터포함 [30397] ★★할인제외★★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-2050P",
+      "내용": "성능 좋고 만족합니다!"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-2050P",
+      "id": 171143883,
+      "date": "2021-06-18 23:12",
+      "answerDate": "2021-06-21 09:45",
+      "user": "j_mi****",
+      "productName": "랜스타 USB2.0 4포트 리피터 LS-2050P",
+      "question": "30m 정도의 길이의 기기를 usb 연결하려고 하는데..\n리피터 케이블 30m 를 쓰는것과, 이 제품처럼, 중간을 랜선으로 연결하는것 큰 차이가 있나요? 무엇보다 오랫동안 고장없이 안정적인것을 찾고 있는데.. 두 방식의 차이를 알고 싶습니다",
+      "answer": "안녕하세요 랜스타 입니다\n\n해당제품은 리피터케이블 보다 더 장거리에 적합한 제품으로\n\n30m정도의 제품은 두가지 제품의 차이가 없을듯 합니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-B",
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45",
+        "USB-A"
+      ],
+      "directional": "일방향",
+      "port_count": 5
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": false,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": [
+        "CAT5E",
+        "CAT6"
+      ],
+      "shielding": "UTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "송신기_입력단자\": \"USB 2.0 B Female",
+    "connectivity.output_signals": "수신기_출력단자\": \"USB 2.0 A Female x4",
+    "connectivity.directional": "USB 2.0 신호를 최대 50M까지 전송",
+    "connectivity.port_count": "USB 2.0 4포트 수신기 지원",
+    "power.power_mode": "POC(Power Over Cable) 기능 지원: 송신기 전원을 UTP 케이블을 통해 수신기에 전달",
+    "form_physical.has_case": "메탈 하우징 재질",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "RoHS 규정 준수",
+    "audio_video.max_resolution": "USB 2.0 신호를 최대 50M까지 전송",
+    "audio_video.hdcp_version": "USB 2.0 신호를 최대 50M까지 전송",
+    "family.cat_category": "CAT.5E / CAT.6 UTP 랜케이블",
+    "family.shielding": "UTP 랜케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:06:37",
+  "feature_schema_version": "1.0.0"
+}

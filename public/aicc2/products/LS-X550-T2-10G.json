@@ -1,0 +1,156 @@
+{
+  "model_no": "LS-X550-T2-10G",
+  "product_name": "LAN Star PCI-Express 인텔 듀얼 기가 랜카드 (LS-X550-T2-10G)",
+  "category": [
+    "랜케이블-CAT6A",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "2개의 RJ45 포트를 제공하는 PCI-Express 듀얼 기가 랜카드",
+    "최대 10Gbps 전송속도 지원",
+    "Intel ELX550-AT2 칩셋 사용",
+    "IEEE802.3an/ab, IEEE802.1Q, IEEE802.1p, IEEE802.3ad(LACP) 표준 규격 준수",
+    "LACP 및 Teaming 기능 지원 (Teaming은 Windows 7까지만 지원)",
+    "망분리(Network Separation) 기능 지원 - 업무망/인터넷망 동시 사용 가능",
+    "PCI-Express x8 슬롯 규격 (x8, x16 슬롯에 장착 가능)",
+    "대형 방열판 탑재로 발열 대비",
+    "슬림 PC용 LP 브라켓 포함",
+    "Windows 11 지원",
+    "국립전파연구원 인증 획득 (인증번호: R-R-LUS-LS-X550-T2)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "라인업시스템(주) / 랜스타 정품 수입·유통 제품"
+  ],
+  "specifications": {
+    "슬롯": "PCI-Express x8",
+    "인터페이스": "RJ45 x2",
+    "칩셋": "Intel ELX550-AT2",
+    "Topology": "IEEE802.3an/ab, IEEE802.1Q, IEEE802.1p, IEEE802.3ad(LACP)",
+    "전송속도": "10Gbps / 5Gbps / 2.5Gbps / 1Gbps / 100Mbps",
+    "기능": "Transport Protocol: TCP/IP, UDP/IP, IPSec, iSCSI / VMDq, PCI-SIG SR-IOV, Intel VT-c",
+    "지원_OS": "WIN 7 / Server 2008 / Server 2012 / WIN 8 / WIN 8.1 / WIN 10 / WIN 11, FreeBSD, Linux, VMWare ESXi",
+    "제품_크기": "168mm x 119mm x 19mm (돌출부 56mm)",
+    "제품_무게": "약 120g",
+    "제조국_원산지": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)",
+    "인증번호": "R-R-LUS-LS-X550-T2",
+    "AS_문의": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "PCI-Express x8 슬롯 장착 가능",
+    "PCI-Express x16 슬롯 장착 가능",
+    "Windows 7",
+    "Windows Server 2008",
+    "Windows Server 2012",
+    "Windows 8 / 8.1",
+    "Windows 10",
+    "Windows 11",
+    "Linux",
+    "FreeBSD",
+    "VMWare ESXi",
+    "CAT-5 케이블 호환",
+    "10/100BASE-T 시스템과 하위 호환"
+  ],
+  "package_contents": [
+    "PCIe 듀얼 RJ45 랜카드 본체",
+    "슬림 PC LP 브라켓",
+    "Manual",
+    "CD Driver"
+  ],
+  "usage_instructions": "1. 메인보드의 PCI-Express x8 또는 x16 슬롯에 랜카드를 장착한다. 2. PC 부팅 후 장치관리자 > 네트워크 어댑터에서 듀얼 포트가 인식되는지 확인한다. 3. 제어판 > 네트워크 및 인터넷 > 네트워크 연결에서 이더넷 포트 연결 상태를 확인한다. 4. 랜 케이블을 모두 연결하면 이더넷8, 이더넷9가 연결된 상태로 표시된다. 5. Teaming 기능 사용 시 랜마트 자료실에서 티밍 프로그램을 다운로드하여 설치한다 (Windows 7까지만 지원). 6. LACP 사용 시 연결 대상 NAS, 스토리지, 공유기, 스위칭허브가 LACP를 지원하는지 확인한다.",
+  "cautions": [
+    "PCI-Express x1 및 x4 슬롯에는 장착 불가 (x8, x16 슬롯만 사용 가능)",
+    "Teaming 기능은 Windows 7까지만 지원되며, Windows 8 / 8.1 / 10 / 11에서는 지원하지 않음",
+    "티밍 프로그램은 랜마트 자료실에서 다운로드 필요",
+    "LACP 사용 조건: 연결하려는 데이터 서버(NAS, 스토리지), 공유기, 스위칭허브가 LACP를 지원해야 함",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처의 제품은 A/S를 받을 수 없음",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-X550-T2-10G",
+      "품목코드": "NET-유랜카107",
+      "품목명": "[LANstar] PCIe 인텔 X550-T2 듀얼포트 RJ45 랜카드 [30726] (30개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-X550-T2-10G",
+      "내용": "빠른배송 감사합니다",
+      "관련내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-X550-T2-10G",
+      "내용": "빠른배송 감사합니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "2개의 RJ45 포트를 제공하는",
+    "connectivity.output_signals": "2개의 RJ45 포트를 제공하는",
+    "connectivity.directional": "최대 10Gbps 전송속도 지원",
+    "connectivity.port_count": "2개의 RJ45 포트를 제공하는",
+    "form_physical.has_case": "대형 방열판 탑재로 발열 대비",
+    "certification.kc": "국립전파연구원 인증 획득 (인증번호: R-R-LUS-LS-X550-T2)",
+    "family.cat_category": "랜케이블-CAT6A",
+    "family.poe_support": "PoE"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:42",
+  "feature_schema_version": "1.0.0"
+}

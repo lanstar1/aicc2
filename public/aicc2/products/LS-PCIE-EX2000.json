@@ -1,0 +1,134 @@
+{
+  "model_no": "LS-PCIE-EX2000",
+  "product_name": "LANStar PCI-Express 듀얼 기가 랜카드 2Port",
+  "category": [
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "2개의 RJ45 포트 제공 (듀얼 포트)",
+    "10/100/1000Mbps 전이중(Full Duplex) / 반이중(Half Duplex) 자동 적응 지원",
+    "PCI Express 2.1 규격 사용으로 빠르고 안정적인 데이터 전송",
+    "티밍(Teaming) 기능 지원: 2개의 회선을 하나의 인터페이스로 묶어 대역폭 증가 (최대 2Gbps)",
+    "망분리(Network Separation) 기능 지원: 내부망·외부망 동시 사용 가능",
+    "칩셋: ASMedia ASM1182e + Realtek RTL8111F 듀얼 구성",
+    "LED 속도 표시: 100Mbps 연결 시 황색, 1000Mbps 연결 시 녹색",
+    "IEEE802.3 / IEEE802.3u / IEEE802.3ab 규격 준수",
+    "CAT-5 케이블 호환, 기존 10/100BASE-T 시스템과 100% 하위 호환",
+    "RoHS 준수, KC·FCC·CE 인증 획득",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "모델명": "LS-PCIE-EX2000",
+    "인터페이스": "PCI Express 2.1",
+    "포트": "RJ45 x 2",
+    "지원 속도": "10/100/1000Mbps",
+    "통신 방식": "전이중(Full Duplex) / 반이중(Half Duplex) 자동 적응",
+    "칩셋": "ASMedia ASM1182e + Realtek RTL8111F (듀얼)",
+    "지원 규격": "IEEE802.3, IEEE802.3u, IEEE802.3ab",
+    "네트워크 토폴로지": "10BASE-T / 100BASE-T / 1000BASE-T",
+    "LED 표시": "100Mbps 황색, 1000Mbps 녹색",
+    "제품 크기": "12cm x 7.8cm x 5.4cm (추정, OCR 도면 기준)",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "KCC-REM-LUS-LS-PCIE-EX1000",
+    "안전규격인증": "KC, FCC, CE",
+    "품질경영시스템": "ISO 9001:2008",
+    "환경규격": "RoHS 준수"
+  },
+  "compatibility": [
+    "Windows XP / 2003 / Vista / Windows 7 / Windows 8 / Windows 8.1 / Windows 10",
+    "Linux (bonding 기능)",
+    "FreeBSD",
+    "Novell Netware / OpenNetware",
+    "CAT-5 케이블",
+    "10/100BASE-T 기존 네트워크 시스템",
+    "슬림 PC (슬림 PC용 가이드 포함)",
+    "티밍(Teaming) 기능: Windows 7까지만 지원, Windows 8/8.1/10 미지원"
+  ],
+  "package_contents": [
+    "LS-PCIE-EX2000 LAN 카드 본체",
+    "슬림 PC용 가이드",
+    "드라이버 설치 CD"
+  ],
+  "usage_instructions": "1. PCI Express 슬롯에 카드를 삽입한다. 2. 장치관리자 > 네트워크 어댑터에서 Realtek PCIe GBE Family Controller가 인식되는지 확인한다. 3. RJ45 포트에 LAN 케이블을 연결하면 제어판 > 네트워크 연결에서 이더넷 아이콘이 활성화된다. 4. 티밍(Teaming) 기능 사용 시 랜스타 자료실(https://www.LANstar.co.kr)에서 티밍 프로그램을 다운로드하여 설치한다. 5. 망분리 사용 시 LAN 1, LAN 2 포트에 각각 다른 회선(ISP)을 연결하여 내부망·외부망을 분리 운용한다.",
+  "cautions": [
+    "티밍(Teaming) 기능은 Windows 7까지만 지원되며, Windows 8 / 8.1 / 10에서는 지원되지 않습니다.",
+    "티밍 프로그램은 랜스타 자료실(https://www.LANstar.co.kr)에서 별도 다운로드 필요합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "구매·배송·반품 관련 문의는 판매처(쇼핑몰 하단 참조)로 문의하세요.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-EX2000",
+      "품목코드": "USB-PCI230",
+      "품목명": "[LANstar] PCI EXPRESS 듀얼 기가 랜 카드 2Port, RTL8111F [20175] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [],
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 2000,
+      "chipset": "ASMedia ASM1182e + Realtek RTL8111F"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "2개의 RJ45 포트 제공",
+    "connectivity.port_count": "2개의 RJ45 포트 제공 (듀얼 포트)",
+    "certification.kc": "KC·FCC·CE 인증 획득",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "KC·FCC·CE 인증 획득",
+    "certification.ce": "KC·FCC·CE 인증 획득",
+    "family.bus_interface": "PCI Express 2.1 규격 사용",
+    "family.speed_mbps": "대역폭 증가 (최대 2Gbps)",
+    "family.chipset": "칩셋: ASMedia ASM1182e + Realtek RTL8111F 듀얼 구성"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:15",
+  "feature_schema_version": "1.0.0"
+}

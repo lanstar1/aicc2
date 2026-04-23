@@ -1,0 +1,138 @@
+{
+  "model_no": "LS-HDMIG-19MFL",
+  "product_name": "LANStar HDMI 변환젠더 19핀 ㄱ자 90도 꺾임 (HDMI19P A/M-A/F)",
+  "category": [
+    "HDMI케이블",
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "HDMI 19핀 A/M(Male)과 HDMI 19핀 A/F(Female) 커넥터가 ㄱ자(90도) 형태로 구성된 젠더",
+    "좁은 공간에서 케이블이 꽂히지 않을 때 사용 가능",
+    "신호 손실을 최소화하는 금도금 커넥터 적용",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 유해 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "커넥터 타입": "HDMI 19P A/M (Male) - HDMI 19P A/F (Female)",
+    "형태": "ㄱ자 90도 꺾임",
+    "핀 수": "19핀",
+    "커넥터 도금": "금도금",
+    "모델명": "LS-HDMIG-19MFL",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "환경규격": "RoHS COMPLIANT",
+    "품질인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "HDMI 19핀 A타입 커넥터를 사용하는 기기",
+    "HDMI Male 포트 및 HDMI Female 포트 기기"
+  ],
+  "package_contents": [
+    "HDMI 변환젠더 ㄱ자 90도 꺾임 (LS-HDMIG-19MFL) 1개"
+  ],
+  "usage_instructions": "좁은 공간 등 직선형 케이블 연결이 어려운 환경에서 HDMI Male 포트에 젠더를 연결한 후 HDMI 케이블을 Female 포트에 꽂아 사용.",
+  "cautions": [
+    "유통 과정상 제품의 모양이 조금씩 달라질 수 있음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품은 판매처(쇼핑몰 하단) 참조"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무관",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19핀 A/M(Male)",
+    "connectivity.output_signals": "HDMI 19핀 A/F(Female)",
+    "connectivity.directional": "HDMI 19핀 A/M(Male)과 HDMI 19핀 A/F(Female)",
+    "connectivity.port_count": "HDMI 19핀 A/M(Male)과 HDMI 19핀 A/F(Female)",
+    "power.power_mode": "무관",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "HDMI 변환젠더",
+    "form_physical.material": "금도금 커넥터 적용",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "해당없음",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "null",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.hdmi_version": "null",
+    "family.dp_version": "null",
+    "family.dvi_type": "null",
+    "family.optical_core": "null",
+    "family.ethernet_channel": "null"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:28",
+  "feature_schema_version": "1.0.0"
+}

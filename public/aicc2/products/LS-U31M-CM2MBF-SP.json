@@ -1,0 +1,168 @@
+{
+  "model_no": "LS-U31M-CM2MBF-SP",
+  "product_name": "LANStar USB 3.1 Type C 젠더 (OTG) 3.1 C/M - 2.0 Micro B/F 메탈",
+  "category": [
+    "USB-C",
+    "USB2.0",
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 3.1 Type C Male → USB 2.0 Micro B Female 변환 젠더",
+    "OTG(On-The-Go) 데이터 전송 및 충전 기능 지원",
+    "Type C 커넥터는 위아래 방향 구분 없이 연결 가능",
+    "메탈 재질 적용",
+    "Plug-and-Play 지원",
+    "기존 USB 포트 대비 3분의 1 크기의 Type C 포트로 외장기기 연결 및 빠른 데이터 전송·충전 가능",
+    "RoHS 준수 (특정 유해물질 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 규격": "USB 3.1 Type C Male / USB 2.0 Micro B Female",
+    "재질": "메탈",
+    "전체 길이": "28.5mm",
+    "Type C Male 너비": "8.2mm",
+    "Type C Male 높이": "2.4mm",
+    "Micro B Female 너비": "7.6mm",
+    "Micro B Female 높이": "3mm",
+    "본체 너비": "10.2mm",
+    "본체 높이": "7.7mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "넥서스 5X",
+    "넥서스 6P",
+    "샤오미 Mi4C",
+    "LeTV Le 1 Pro",
+    "LeTV Le 1s",
+    "애플 맥북 (MacBook)",
+    "구글 크롬북 (Chromebook)"
+  ],
+  "package_contents": [
+    "OTG USB Type-C 젠더 (LS-U31M-CM2MBF-SP) 1개"
+  ],
+  "usage_instructions": "USB 3.1 Type C Male 단자를 Type C 포트가 있는 기기에 연결하고, USB 2.0 Micro B Female 단자에 Micro B 케이블 또는 기기를 연결하여 사용. Type C 커넥터는 방향 구분 없이 삽입 가능. Plug-and-Play 방식으로 별도 드라이버 설치 불필요.",
+  "cautions": [
+    "해당 젠더는 삼성 갤럭시 S8과 호환되지 않습니다. 갤럭시 S8과 호환되는 모델 LS-U31M-CM2MBF-68을 구입하시기 바랍니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-U31M-CM2MBF-SP",
+      "품목코드": "CAB-U31037",
+      "품목명": "[LANstar] USB 3.1 C-Type OTG젠더 C/M-2.0 MicroB/F, 실버메탈 포장타입 [30144]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-U31M-CM2MBF-SP",
+      "chatUrl": "3an7b",
+      "dateIso": "2025-12-29T07:16:49.351Z",
+      "name": "인시디움",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "medium",
+      "question": "배송지연 사유로 주문이 취소 되었다는게 뭔가요?? 일부 제품의 발송이 불가하다는 의미인가요?",
+      "answer": "'배송지연' 사유로 판매를 취소하였습니다. 궁금한 내용이 있으시면 언제든 문의주세요. 판매자가 취소처리 후 타 사이트 안내 또는",
+      "turn_count": 1,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "배송지연 사유로 주문이 취소 되었다는게 뭔가요?? 일부 제품의 발송이 불가하다는 의미인가요?"
+        },
+        {
+          "role": "agent",
+          "text": "[주문취소] 고객님, 불편을 드려 죄송합니다. '배송지연' 사유로 판매를 취소하였습니다. 궁금한 내용이 있으시면 언제든 문의주세요. \n\n판매자가 취소처리 후 타 사이트 안내 또는"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "메탈"
+      ],
+      "length_meters": 0.0285,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.1Gen1",
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 Type C Male",
+    "connectivity.output_signals": "USB 2.0 Micro B Female",
+    "connectivity.directional": "OTG(On-The-Go) 데이터 전송 및 충전 기능 지원",
+    "power.power_mode": "OTG(On-The-Go) 데이터 전송 및 충전 기능 지원",
+    "power.charging_support": "OTG(On-The-Go) 데이터 전송 및 충전 기능 지원",
+    "form_physical.has_case": "메탈 재질 적용",
+    "form_physical.material": "메탈 재질 적용",
+    "form_physical.length_meters": "전체 길이: 28.5mm",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.usb_version": "USB 3.1 Type C Male",
+    "family.charging_only": "OTG(On-The-Go) 데이터 전송 및 충전 기능 지원",
+    "family.data_only": "OTG(On-The-Go) 데이터 전송 및 충전 기능 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:44",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

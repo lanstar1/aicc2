@@ -1,0 +1,123 @@
+{
+  "model_no": "LS-6PLB-12P10L",
+  "product_name": "CAT.6 패치판넬 12포트 롱타입",
+  "category": [
+    "랜케이블-CAT6",
+    "분배판넬"
+  ],
+  "key_features": [
+    "12포트 CAT.6 패치판넬 롱타입",
+    "10인치 랙 마운트(RACK MOUNT) 표준형",
+    "T568B 배선 방식 지원",
+    "110 단자대 PUNCH-DOWN 방식 연결",
+    "국가통합인증(KC) 안전인증 획득 (인증번호: LUS-LS-CAT6)",
+    "UL 규격 인증",
+    "근거리통신망(LAN) 내 컴퓨터 연결 및 인터넷·광역통신망 접속 지원"
+  ],
+  "specifications": {
+    "포트 수": "12포트",
+    "카테고리 규격": "CAT.6",
+    "타입": "롱타입",
+    "랙 마운트 크기": "10인치",
+    "제품 폭": "270mm",
+    "KC 안전인증번호": "LUS-LS-CAT6",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "10인치 랙 마운트(RACK MOUNT) 표준형 호환",
+    "CAT.6 LAN 케이블 호환",
+    "T568B 배선 규격 호환",
+    "스위치허브 연결 호환",
+    "UL 규격 호환"
+  ],
+  "package_contents": [
+    "CAT.6 패치판넬 (LS-6PLB-12P10L) 1개",
+    "볼트 4개",
+    "케이블타이 4개",
+    "먼지덮개 12개",
+    "사용설명서 1부"
+  ],
+  "usage_instructions": "1. 패치판넬 조립 상태 및 볼트 체결 상태를 확인하고 펀치 툴(IMPACT TOOL)을 준비한다. 2. LAN 케이블 탈피기를 사용하여 케이블 피복을 약 30mm 정도 탈피한다. 3. LAN 케이블을 각 Pair별 색깔 순으로 정돈하고 110 단자대에 밀착시킨다. T568B 사용 시 좌측부터 갈색, 갈색, 녹색, 녹백, 등색, 등백, 청색, 청백 순으로 정렬한다. 4. 펀치 툴의 칼날이 바깥쪽으로 향하여 랜케이블 끝부분이 잘려나가도록 위치시켜 PUNCH-DOWN 한다. 5. 각 포트별로 모두 연결하고 랜 케이블을 정리한 후 케이블 타이 및 볼트나사를 이용하여 패치판넬을 RACK에 장착한다. 6. 안전을 위해 보호커버를 씌우고 각 랜선에 인식표 또는 네임타이를 이용하여 마킹한다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됨",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-6PLB-12P10L",
+      "품목코드": "NEO-패치판027",
+      "품목명": "[LANstar] 패치판넬 , 10인치 Long타입, CAT.6, 12PORT, UL규격, 중국산 [50062]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "N/A",
+      "port_count": 12
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "LAN 케이블을 각 Pair별 색깔 순으로",
+    "connectivity.output_signals": "LAN 케이블을 각 Pair별 색깔 순으로",
+    "connectivity.port_count": "12포트",
+    "power.power_mode": "무전원",
+    "form_physical.has_case": "패치판넬 조립 상태 및 볼트 체결 상태를 확인",
+    "certification.kc": "국가통합인증(KC) 안전인증 획득",
+    "family.cat_category": "CAT.6 패치판넬"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:35",
+  "feature_schema_version": "1.0.0"
+}

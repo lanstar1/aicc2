@@ -1,0 +1,120 @@
+{
+  "model_no": "LS-1394-6F6F",
+  "product_name": "1394 6Pin(F) - 6Pin(F) 젠더",
+  "category": [
+    "젠더",
+    "1394케이블"
+  ],
+  "key_features": [
+    "IEEE 1394 6Pin Female to 6Pin Female 젠더",
+    "두 개의 IEEE 1394 6Pin Female 포트를 연결하는 젠더 타입",
+    "제조사: 라인업시스템(주) (LANStar 브랜드)"
+  ],
+  "specifications": {
+    "품명": "1394 젠더 6P(F)-6P(F)",
+    "모델명": "LS-1394-6F6F",
+    "커넥터 타입": "IEEE 1394 6Pin Female - IEEE 1394 6Pin Female",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "IEEE 1394 6Pin Female 규격 기기"
+  ],
+  "package_contents": [
+    "1394 6P(F)-6P(F) 젠더 본체 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상해드립니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-1394-6F6F",
+      "품목코드": "GEN-139004",
+      "품목명": "[LANstar] 1394 젠더 6P(F)-6P(F) [20042]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "IEEE1394-6P"
+      ],
+      "output_signals": [
+        "IEEE1394-6P"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "IEEE 1394 6Pin Female",
+      "connector_type_b": "IEEE 1394 6Pin Female",
+      "gender": "F-F",
+      "pin_count": 6
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "IEEE 1394 6Pin Female",
+    "connectivity.output_signals": "IEEE 1394 6Pin Female",
+    "connectivity.directional": "젠더 타입",
+    "connectivity.port_count": "두 개의 IEEE 1394 6Pin Female 포트",
+    "power.power_mode": "젠더",
+    "power.charging_support": "젠더",
+    "form_physical.has_case": "젠더",
+    "certification.kc": "인증번호: 해당없음",
+    "audio_video.max_resolution": "1394 6Pin(F) - 6Pin(F) 젠더",
+    "audio_video.hdr_support": "1394 6Pin(F) - 6Pin(F) 젠더",
+    "audio_video.hdcp_version": "1394 6Pin(F) - 6Pin(F) 젠더",
+    "audio_video.audio_pass": "IEEE 1394",
+    "control_switching.has_remote": "젠더",
+    "control_switching.has_hotkey": "젠더",
+    "control_switching.has_physical_button": "젠더",
+    "control_switching.has_mouse_switching": "젠더",
+    "control_switching.has_auto_scan": "젠더",
+    "control_switching.has_app_control": "젠더",
+    "family.connector_type_a": "IEEE 1394 6Pin Female",
+    "family.connector_type_b": "IEEE 1394 6Pin Female",
+    "family.gender": "6Pin(F) - 6Pin(F)",
+    "family.pin_count": "6Pin"
+  },
+  "feature_extracted_at": "2026-04-23T03:02:38",
+  "feature_schema_version": "1.0.0"
+}

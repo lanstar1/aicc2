@@ -1,0 +1,90 @@
+{
+  "model_no": "LS-C5U305_THUMBNAIL",
+  "product_name": "LAN Star 통신공사용 랜케이블 CAT.5E UTP 305M",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP",
+    "랜케이블"
+  ],
+  "key_features": [
+    "CAT.5E 규격 UTP 랜케이블",
+    "통신공사용",
+    "305M 롤 단위 제공"
+  ],
+  "specifications": {
+    "규격": "CAT.5E",
+    "케이블 타입": "UTP",
+    "길이": "305M",
+    "용도": "통신공사용"
+  },
+  "compatibility": [
+    "CAT.5E 이더넷(Ethernet) 규격 호환"
+  ],
+  "package_contents": [
+    "CAT.5E UTP 랜케이블 305M"
+  ],
+  "usage_instructions": null,
+  "cautions": [],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        305
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "랜케이블",
+    "form_physical.length_options_meters": "305M 롤 단위 제공",
+    "family.cat_category": "CAT.5E 규격 UTP 랜케이블",
+    "family.shielding": "UTP 랜케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:56",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,328 @@
+{
+  "model_no": "LS-PCIE-M2SSD",
+  "product_name": "PCI-Express M.2 NVMe SSD 확장 카드",
+  "category": [
+    "HDD관련"
+  ],
+  "key_features": [
+    "M.2 NVMe SSD 전용 PCI-Express 확장 카드",
+    "PCIe X4 V3.0 버스 슬롯 사용 (대역폭 최대 3500MB/s 지원)",
+    "PCIe X4, X8, X16 슬롯 모두 장착 가능 (X1 사용 불가)",
+    "PCIe V2.0 / V1.0 하위 버전 호환 가능",
+    "2230 / 2242 / 2260 / 2280 사이즈 SSD 호환",
+    "'M' Key 및 'B+M' Key SSD 지원 ('B' Key 미지원)",
+    "써멀패드 제공으로 발열 관리 지원",
+    "슬림 PC용 LP 브라켓 포함",
+    "드라이버(공구) 및 SSD 고정 나사 세트 제공",
+    "KC 인증 획득 제품 (인증번호: MSIP-REI-LUS-LS-PCIE-MSATA)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "Bus Slot": "PCI-Express X4 V3.0",
+    "인터페이스": "PCIe to M.2 NVMe 'M' Key",
+    "지원 규격": "M.2 NVMe SSD 'M' Key",
+    "메인보드 호환": "PCIe V3.0 / V2.0 / V1.0 하위 버전 호환",
+    "SSD 지원 사이즈": "2230 / 2242 / 2260 / 2280",
+    "지원 운영체제": "Windows Server 2012 R2, Win8, Win8.1, Win10, Win11, Linux, Fedora, SUSE, Ubuntu 등 PCIe NVMe 지원 OS",
+    "제품 크기": "105mm x 40mm x 19mm (두께), 전체 길이 120mm",
+    "무게": "약 120g",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "MSIP-REI-LUS-LS-PCIE-MSATA"
+  },
+  "compatibility": [
+    "M.2 NVMe SSD 'M' Key 타입",
+    "M.2 NVMe SSD 'B+M' Key 타입",
+    "SSD 사이즈: 2230, 2242, 2260, 2280",
+    "PCIe X4 슬롯 (사용 가능)",
+    "PCIe X8 슬롯 (사용 가능)",
+    "PCIe X16 슬롯 (사용 가능)",
+    "PCIe X1 슬롯 (사용 불가)",
+    "PCIe V3.0 / V2.0 / V1.0",
+    "슬림 PC (LP 브라켓 사용 시)",
+    "Windows Server 2012 R2, Win8, Win8.1, Win10, Win11",
+    "Linux, Fedora, SUSE, Ubuntu 등 NVMe 지원 OS",
+    "비호환: M.2 SATA SSD, 'B' Key 타입 SSD"
+  ],
+  "package_contents": [
+    "PCIe M.2 NVMe SSD 확장 카드 본체 x1",
+    "슬림 PC용 LP 브라켓 x1",
+    "써멀패드 x1",
+    "SSD 고정 나사 세트",
+    "드라이버(공구) x1"
+  ],
+  "usage_instructions": "1단계: M.2 NVMe SSD를 카드의 홈(M 또는 B+M 규격)에 맞춰 결합한다. 2단계: SSD 고정 지지 나사를 SSD 뒤 홈에 결합한다. 3단계: 카드 뒷면 나사 홈에 나사를 넣고 드라이버로 고정한다. 4단계: 써멀패드를 부착한 후 메인보드 PCIe 슬롯에 연결한다. 5단계: PC 부팅 후 '컴퓨터 관리 > 디스크 관리'에서 새 볼륨을 생성하여 사용한다. ※ SSD 연결 시 반드시 PC 전원을 끈 상태에서 장착할 것.",
+  "cautions": [
+    "사용하던 SSD 재사용 시 반드시 초기화하여 사용할 것. 기존 노트북, 외장 SSD 케이스, 도킹 스테이션 등에서 사용하던 SSD는 정상 작동하지 않을 수 있음.",
+    "디스크 호환 문제, 불량 섹터 등의 오류로 사용이 불가할 수 있음.",
+    "중요 데이터는 반드시 백업 후 사용할 것. 데이터 손상 및 이로 인한 경제적 손실은 당사에서 책임지지 않음.",
+    "제품 사용 시 발열이 생길 수 있으며, 케이스 사용을 권장하지 않음.",
+    "SSD 연결 시 반드시 PC 전원을 끈 상태에서 메인보드에 장착할 것. 전원이 켜진 상태에서 삽입 시 데이터 손실 및 디스크 인식 문제가 발생할 수 있음.",
+    "M.2 NVMe 타입 전용 제품이며, M.2 SATA는 지원하지 않음.",
+    "PCIe 3.0 및 하위 버전(2.0, 1.0) 호환 가능.",
+    "메인보드 호환성에 따라 SSD 최대 전송속도 차이가 발생할 수 있음.",
+    "호환 문제로 일부 SSD에서는 사용이 불가할 수 있음.",
+    "일부 운영체제 및 SSD의 특정 영역에 대해 복제가 되지 않을 수 있음.",
+    "Windows 7에서는 드라이버 자동 설치를 지원하지 않음. SSD 제조사의 해당 모델 드라이버를 별도로 설치해야 함.",
+    "PCIe 4.0, 5.0 SSD 연결 시 PCIe 3.0 최대 속도(약 3500MB/s)로 제한되어 출력됨.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처 제품은 A/S를 받을 수 없음."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-M2SSD",
+      "품목코드": "USB-PCI321",
+      "품목명": "[LANstar] PCI-e M.2 NVMe 확장카드 [30798] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-PCIE-M2SSD",
+      "내용": "주문한지 하루만에 오다니..."
+    },
+    {
+      "source_model": "LS-PCIE-M2SSD",
+      "내용": "M.2 ssd 삼성 990 pro 2tb 잘 호환됩니다.",
+      "관련내용": "확장 m.2 ssd 추가하기 편하네요"
+    },
+    {
+      "source_model": "LS-PCIE-M2SSD",
+      "내용": "인식 잘 되네요 건승하세요",
+      "관련내용": "최초 설치 시 해맸는데 잘돠네요 번창하세요"
+    },
+    {
+      "source_model": "LS-PCIE-M2SSD",
+      "내용": "확장 m.2 ssd 추가하기 편하네요"
+    },
+    {
+      "source_model": "LS-PCIE-M2SSD",
+      "내용": "최초 설치 시 해맸는데 잘돠네요 번창하세요"
+    },
+    {
+      "source_model": "LS-PCIE-M2SSD",
+      "내용": "좋아요좋앙요좋아용ㅇ",
+      "관련내용": "좋아요좋아요좋아요아"
+    },
+    {
+      "source_model": "LS-PCIE-M2SSD",
+      "내용": "좋아요좋아요좋아요아"
+    },
+    {
+      "source_model": "LS-PCIE-M2SSD",
+      "내용": "최신형 PC가 아닌데도 호환성 좋은 제품입니다."
+    },
+    {
+      "source_model": "LS-PCIE-M2SSD",
+      "내용": "호환성이 좋네요. 만족합니다."
+    },
+    {
+      "source_model": "LS-PCIE-M2SSD",
+      "내용": "좋은제품 잘받았습니다 감사합니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-PCIE-M2SSD",
+      "chatUrl": "3h6v4",
+      "dateIso": "2025-06-16T08:13:17.395Z",
+      "name": "히힛",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "매인보드 : h87-plus\nssd : pm9b1 m2\n상품 주문하면 이거 두개가 호환될까요?\n\n이미 ssd하나를 컨버터 하고 있는거 같은데\n(추가 문의) 그럼 pm9b1 m2는 뭘 사야될까요?",
+      "answer": "호환되지 않습니다 해당 SSD 모델은 NVME 모델이고, 해당 제품은 SATA를 지원하기 때문에 호환이 되지 않습니다. 정직한 가격과 품질로\n\n고객님. LS-PCIE-M2SSD 모델 추천 드립니다.",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "감사합니다!"
+        },
+        {
+          "role": "agent",
+          "text": "고객님.\n\nLS-PCIE-M2SSD 모델 추천 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나"
+        },
+        {
+          "role": "customer",
+          "text": "그럼 pm9b1 m2는 뭘 사야될까요?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n호환되지 않습니다 해당 SSD 모델은 NVME 모델이고, 해당 제품은 SATA를 지원하기 때문에 호환이 되지 않습니다.\n\n정직한 가격과 품질로"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "매인보드 : h87-plus\nssd : pm9b1 m2\n상품 주문하면 이거 두개가 호환될까요?\n\n이미 ssd하나를 컨버터 하고 있는거 같은데"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-PCIE-M2SSD",
+      "chatUrl": "63CSc",
+      "dateIso": "2025-01-31T07:12:19.455Z",
+      "name": "미미미누",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "LS-PCIE-M2SSD 검색해보니 같은 제품 나오는데 제가 구매한 제품이 맞을까요?\n(추가 문의) 하나만 사용할건데 추천하는 이유가 있으실까요?",
+      "answer": "요청하신 반품을 진행할 수가 없습니다. 관련해서 궁금한 내용이 있으시면 언제든 문의주세요.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "[반품안내] 고객님, 불편을 드려 죄송합니다.\n요청하신 반품을 진행할 수가 없습니다. 관련해서 궁금한 내용이 있으시면 언제든 문의주세요."
+        },
+        {
+          "role": "customer",
+          "text": "LS-PCIE-M2SSD 검색해보니 같은 제품 나오는데 제가 구매한 제품이 맞을까요?"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "하나만 사용할건데 추천하는 이유가 있으실까요?"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-PCIE-M2SSD",
+      "chatUrl": "aWGaF",
+      "dateIso": "2024-07-10T05:43:51.527Z",
+      "name": "박영준",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "답변 감사합니다 \n해당 제품 pciex1에 껴서 사용가능한 제품일까요\n(추가 문의) 속도가 많이 안나올거라는건 인지하고있습니다 \n사용만 가능하면 됩니다\n(추가 문의) 도움주셔서 정말 감사합니다!!",
+      "answer": "문의주신 제품의 경우 PCIE 4슬롯 이상에 가능한 제품이라 PCIE 1슬롯에서 사용 붙가합니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "도움주셔서 정말 감사합니다!!"
+        },
+        {
+          "role": "agent",
+          "text": "고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+        },
+        {
+          "role": "customer",
+          "text": "속도가 많이 안나올거라는건 인지하고있습니다 \n사용만 가능하면 됩니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n문의주신 제품의 경우 PCIE 4슬롯 이상에 가능한 제품이라 PCIE 1슬롯에서 사용 붙가합니다."
+        },
+        {
+          "role": "customer",
+          "text": "답변 감사합니다 \n해당 제품 pciex1에 껴서 사용가능한 제품일까요"
+        },
+        {
+          "role": "agent",
+          "text": "고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "PCIe"
+      ],
+      "output_signals": [
+        "M.2"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "storage_interface": "NVMe",
+      "drive_size": "M.2"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "PCI-Express X4 V3.0 버스 슬롯 사용",
+    "connectivity.output_signals": "M.2 NVMe SSD 전용",
+    "connectivity.directional": "PCI-Express M.2 NVMe SSD 확장 카드",
+    "connectivity.port_count": "M.2 NVMe SSD 전용",
+    "power.power_mode": "PCI-Express M.2 NVMe SSD 확장 카드",
+    "form_physical.has_case": "PCI-Express M.2 NVMe SSD 확장 카드",
+    "certification.kc": "KC 인증 획득 제품",
+    "family.storage_interface": "M.2 NVMe SSD 전용",
+    "family.drive_size": "M.2 NVMe SSD 전용"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:15",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 3,
+    "category_breakdown": {
+      "troubleshoot": 2,
+      "compatibility": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

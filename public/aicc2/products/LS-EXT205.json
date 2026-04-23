@@ -1,0 +1,100 @@
+{
+  "model_no": "LS-EXT205",
+  "product_name": "[LANstar] USB2.0 리피터 케이블 5M (20개) [30577]",
+  "category": [
+    "USB케이블",
+    "USB2.0",
+    "리피터"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-EXT205",
+      "품목코드": "USB-리피터226",
+      "품목명": "[LANstar] USB2.0 리피터 케이블 5M (20개) [30577]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-EXT205",
+      "내용": "끌김없이 길게 잘쓰고 있어요. 작동시 불들어와서 구분도 달되요. 강추입니다",
+      "관련내용": "자리를 정리하려다 보니 USB라인이 길 수 밖에 없었는데...리피터 제품...아주 만족합니다. 바로 5m(리피터) + 4m(기존) 확인했는데 작동 완벽하네요. 잘 쓸게요"
+    },
+    {
+      "source_model": "LS-EXT205",
+      "내용": "자리를 정리하려다 보니 USB라인이 길 수 밖에 없었는데...리피터 제품...아주 만족합니다. 바로 5m(리피터) + 4m(기존) 확인했는데 작동 완벽하네요. 잘 쓸게요"
+    },
+    {
+      "source_model": "LS-EXT205",
+      "내용": "10미터 연결이라 전력 걱정했는데 잘 됩니다. 잘쓰겠습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": 5,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB2.0 리피터 케이블",
+    "connectivity.output_signals": "USB2.0 리피터 케이블",
+    "connectivity.directional": "리피터 케이블",
+    "form_physical.length_meters": "리피터 케이블 5M",
+    "family.usb_version": "USB2.0 리피터 케이블",
+    "family.transfer_speed_gbps": "USB2.0",
+    "family.data_only": "리피터 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:03",
+  "feature_schema_version": "1.0.0"
+}

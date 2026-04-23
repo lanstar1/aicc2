@@ -1,0 +1,122 @@
+{
+  "model_no": "LS-SHE-750HB",
+  "product_name": "LANStar 허브랙 일반 선반 BLACK (LS-750HB / LS-1000HB 전용)",
+  "category": [
+    "허브랙"
+  ],
+  "key_features": [
+    "19\" 표준 규격 허브랙(LS-750HB, LS-1000HB) 전용 선반",
+    "케이지 너트/볼트 방식으로 4방향 결합, 견고한 고정",
+    "최대 하중 20kg — 스위칭 허브, 라우터, 서버 장비 등 거치 가능",
+    "선반에 타공 구멍이 있어 발열 배출에 효과적",
+    "랙 내부 공간을 분리·활용하여 공간 효율성 극대화",
+    "스틸 소재로 내구성이 뛰어나며 장기 사용 가능",
+    "서버룸, 데이터 센터, 네트워크 환경 등 다양한 장소에 적합",
+    "낱개 단위 출고 및 박스(1박스 5개입) 출고 모두 가능",
+    "오후 4시 이전 결제 완료 건 당일 출고(평일 기준)"
+  ],
+  "specifications": {
+    "치수(W×D×H)": "472mm × 350mm × 40mm",
+    "색상": "BLACK",
+    "최대 하중": "20kg",
+    "소재": "스틸",
+    "고정 방식": "케이지 너트 / 볼트 방식 (4방향 결합)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "모델명": "LS-SHE-750HB"
+  },
+  "compatibility": [
+    "LS-750HB (750H × 600D × 600W mm, 19\" 표준 규격 블랙 허브랙, 12U, 바퀴 장착 출고)",
+    "LS-1000HB (1000H × 600D × 600W mm, 19\" 표준 규격 블랙 허브랙, 18U, 바퀴 장착 출고)",
+    "동일 규격 아이보리색 허브랙 LS-750H / LS-1000H (색상 차이로 외관상 어색할 수 있음)"
+  ],
+  "package_contents": [
+    "허브랙 일반 선반 1EA",
+    "케이지 너트 4EA",
+    "볼트 4EA"
+  ],
+  "usage_instructions": "같은 높이의 랙 프레임에 케이지 너트 4개를 먼저 결합한 뒤, 랙 선반을 해당 위치에 올리고 볼트로 조여 고정합니다. 선반에 무게가 있으므로 2인 작업 시 더욱 수월합니다.",
+  "cautions": [
+    "최대 하중(20kg)을 초과하면 선반 및 허브랙 프레임이 휠 수 있으며, 랙 내부 장비에도 영향을 줄 수 있으므로 반드시 최대 하중 이내로 사용하세요.",
+    "본 선반은 LS-750HB / LS-1000HB 전용이며, 높이가 다른 허브랙에는 해당 허브랙에 맞는 전용 선반을 별도 구매하세요.",
+    "아이보리색 허브랙(LS-750H, LS-1000H)에 장착 가능하나 색상 차이로 외관상 어색할 수 있습니다.",
+    "전면 거치 선반은 랙 내부 절반만 거치 가능하며, 전면&후면 거치 선반은 랙 내부 전체를 거치할 수 있습니다. 용도에 맞는 선반을 선택하세요.",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준입니다. 택배사 사정에 따라 배송 기간이 길어질 수 있습니다.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처의 제품은 정품이 아닐 수 있으며, A/S를 받을 수 없습니다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SHE-750HB",
+      "품목코드": "NEO-랙선반025",
+      "품목명": "[LANstar] 랙선반, 472*350, 검정, For LS-750HB, Black [50057] (5개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "BLACK"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "rack_unit": null,
+      "mount_type": "N/A",
+      "depth_mm": 350,
+      "width_mm": 472,
+      "height_mm": 40,
+      "has_door": null,
+      "has_lock": null,
+      "has_fan": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "스틸 소재로 내구성이 뛰어나며",
+    "form_physical.color_options": "색상: BLACK",
+    "family.depth_mm": "472mm × 350mm × 40mm",
+    "family.width_mm": "472mm × 350mm × 40mm",
+    "family.height_mm": "472mm × 350mm × 40mm"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:23",
+  "feature_schema_version": "1.0.0"
+}

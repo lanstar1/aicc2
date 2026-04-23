@@ -1,0 +1,126 @@
+{
+  "model_no": "LS-SL6-2B",
+  "product_name": "[LANstar] Cat.6 UTP 다이렉트 초슬림 랜케이블 2m 블랙 [30538] (250개)",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "랜케이블"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-SL6-2B",
+      "품목코드": "CAB-U5G150",
+      "품목명": "[LANstar] Cat.6 UTP 다이렉트 초슬림 랜케이블 2m 블랙 [30538] (250개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-SL6-2B",
+      "내용": "품질은 딱 가격만큼이네요....\n엘레컴 대체품으로 사봤어요..."
+    },
+    {
+      "source_model": "LS-SL6-2B",
+      "내용": "너무너무 맘에 듭니다 이뻐여~~구매추천입니당!!"
+    },
+    {
+      "source_model": "LS-SL6-2B",
+      "내용": "좋아요 잘 사용했습니다",
+      "관련내용": "좋아요 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-SL6-2B",
+      "내용": "좋아요 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-SL6-2B",
+      "내용": "미터별로 사서 집안 곳곳의 PS5, PC, TV, 프린터, 공유기 등등 여러 곳에 연결했어요. 선이 얇아서 시공하거나 숨기기 좋아요."
+    },
+    {
+      "source_model": "LS-SL6-2B",
+      "내용": "좋습니다\n속도 정상적으로 나오고 무엇보다 강선이 아닌 얇은 강선이라 좋네요."
+    },
+    {
+      "source_model": "LS-SL6-2B",
+      "내용": "가성비 좋고 부드러워서 사용하기 편하네요.\n만족합니다~^^"
+    },
+    {
+      "source_model": "LS-SL6-2B",
+      "내용": "제품 퀄리티가 좋습니다."
+    },
+    {
+      "source_model": "LS-SL6-2B",
+      "내용": "외부 작업용으로 잘 사용 중입니다."
+    },
+    {
+      "source_model": "LS-SL6-2B",
+      "내용": "인테리어 해치지 않는 날렵하고 시크한 랜선입니다. 강추"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": 2,
+      "length_options_meters": null,
+      "color_options": [
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.length_meters": "2m",
+    "form_physical.color_options": "블랙",
+    "family.cat_category": "Cat.6",
+    "family.shielding": "UTP"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:30",
+  "feature_schema_version": "1.0.0"
+}

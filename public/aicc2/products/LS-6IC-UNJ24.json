@@ -1,0 +1,148 @@
+{
+  "model_no": "LS-6IC-UNJ24",
+  "product_name": "CAT.6 UTP 커플러 형 (LS-6IC-UNJ24)",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "키스톤잭",
+    "커플러"
+  ],
+  "key_features": [
+    "10/100/1000Mbps 전송속도 지원",
+    "UTP Coupler 1:1 / RJ45 형 / 8P8C",
+    "50 금도금 단자",
+    "UL-94V0 규격",
+    "110 Block Keystone Type",
+    "공공기관·기업 공사용으로 사용 가능",
+    "LAN 케이블 길이가 짧거나 연장이 필요할 때 사용",
+    "ㅣ형 Jack Type 커플러",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 준수 (납·수은·카드뮴 등 중금속 미사용)",
+    "KC 인증 획득 (인증번호: LUS-LS-CAT6)",
+    "UL 인증 (인증번호: DUXR.E203713)"
+  ],
+  "specifications": {
+    "제품명": "CAT.6 UTP 커플러 형",
+    "모델명": "LS-6IC-UNJ24",
+    "전송속도": "10/100/1000Mbps",
+    "커넥터 타입": "RJ45 / 8P8C",
+    "커플러 방식": "UTP Coupler 1:1",
+    "커플러 형태": "ㅣ형 Jack Type",
+    "블록 타입": "110 Block Keystone Type",
+    "단자 도금": "50 금도금",
+    "난연 규격": "UL-94V0",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "LUS-LS-CAT6",
+    "UL 인증번호": "DUXR.E203713",
+    "브랜드": "LANStar",
+    "RoHS": "준수 (COMPLIANT)",
+    "ISO": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "CAT.6 UTP LAN 케이블",
+    "RJ45 (8P8C) 커넥터",
+    "10/100/1000Mbps 네트워크 장비",
+    "110 Block Keystone 패널"
+  ],
+  "package_contents": [],
+  "usage_instructions": "LAN 케이블 길이가 짧거나 연장이 필요할 때 두 LAN 케이블의 RJ45 플러그를 커플러 양쪽에 각각 연결하여 사용. 공공기관·기업 공사용으로 활용 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 소비자상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-6IC-UNJ24",
+      "품목코드": "NEO-커플러007",
+      "품목명": "[LANstar] CAT.6커플러 , I형, RJ-45, 적색/흰색 대만산[40032]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "PVC",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 형 / 8P8C",
+    "connectivity.output_signals": "RJ45 형 / 8P8C",
+    "connectivity.directional": "UTP Coupler 1:1",
+    "connectivity.port_count": "두 LAN 케이블의 RJ45 플러그를 커플러 양쪽에",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "CAT.6 UTP 커플러 형",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "audio_video.max_resolution": "10/100/1000Mbps 전송속도 지원",
+    "audio_video.hdr_support": "10/100/1000Mbps 전송속도 지원",
+    "audio_video.hdcp_version": "10/100/1000Mbps 전송속도 지원",
+    "audio_video.audio_pass": "10/100/1000Mbps 전송속도 지원",
+    "control_switching.has_remote": "LAN 케이블 길이가 짧거나 연장이 필요할 때",
+    "control_switching.has_hotkey": "LAN 케이블 길이가 짧거나 연장이 필요할 때",
+    "control_switching.has_physical_button": "LAN 케이블 길이가 짧거나 연장이 필요할 때",
+    "control_switching.has_mouse_switching": "LAN 케이블 길이가 짧거나 연장이 필요할 때",
+    "control_switching.has_auto_scan": "LAN 케이블 길이가 짧거나 연장이 필요할 때",
+    "control_switching.has_app_control": "LAN 케이블 길이가 짧거나 연장이 필요할 때",
+    "family.cat_category": "CAT.6",
+    "family.shielding": "UTP Coupler",
+    "family.flame_rating": "UL-94V0 규격",
+    "family.poe_support": "10/100/1000Mbps 전송속도 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:34",
+  "feature_schema_version": "1.0.0"
+}

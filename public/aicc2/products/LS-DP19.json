@@ -1,0 +1,152 @@
+{
+  "model_no": "LS-DP19",
+  "product_name": "디스플레이포트 to HDMI 컨버터 (DisplayPort to HDMI Converter)",
+  "category": [
+    "DisplayPort",
+    "컨버터"
+  ],
+  "key_features": [
+    "DisplayPort 신호를 HDMI 단자를 가진 모니터, TV, 프로젝터 등에 연결 가능",
+    "DisplayPort 1.1a 지원, 최대 10.8Gbps 대역폭",
+    "최대 해상도 1920x1200 @ 60Hz (Full HD급 초고해상도) 지원",
+    "3D 입체영상 구현 지원",
+    "DPCP(디스플레이포트 콘텐츠 보호) 및 HDCP(고대역 디지털 콘텐츠 보호) 지원",
+    "Sleep mode(suspend mode) 지원",
+    "전원, 영상, 음성 동시 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC 인증 획득 (인증번호: KCC-REI-LUS-LS-MDP19)",
+    "RoHS 준수, ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "입력 단자": "DisplayPort (Male)",
+    "출력 단자": "HDMI (Female)",
+    "지원 DisplayPort 버전": "DisplayPort 1.1a",
+    "최대 대역폭": "10.8Gbps",
+    "최대 해상도": "1920x1200 @ 60Hz",
+    "지원 해상도": "Full HD 1920x1200 / 1080p / HD 1280x720 / SD 720x480",
+    "3D 지원": "지원",
+    "오디오 지원": "지원 (dts-HD, Dolby TrueHD, HD DVD, Blu-ray Master Audio)",
+    "HDCP 지원": "지원",
+    "DPCP 지원": "지원",
+    "Sleep mode": "지원 (suspend mode)",
+    "색상": "BLACK",
+    "케이블 길이": "0.2M",
+    "제품 크기": "250mm x 45mm x 20mm (커넥터부 포함 전체), DisplayPort Male 단자부 45mm x 15mm x 9.5mm",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템 (주)",
+    "인증번호": "KCC-REI-LUS-LS-MDP19",
+    "보험": "현대해상화재 생산물배상책임보험 1억원",
+    "안전규격": "KC 인증, RoHS COMPLIANT, ISO 9001:2008"
+  },
+  "compatibility": [
+    "DisplayPort 1.1a 출력 포트를 갖춘 노트북, PC 등",
+    "HDMI 입력 단자를 갖춘 모니터",
+    "HDMI 입력 단자를 갖춘 TV",
+    "HDMI 입력 단자를 갖춘 프로젝터",
+    "HD DVD 재생 기기",
+    "Blu-ray Disc 재생 기기"
+  ],
+  "package_contents": [
+    "DP to HDMI 컨버터 본체 1개 (DisplayPort Male → HDMI Female)",
+    "HDMI 케이블 미포함 (별도 구매 필요)"
+  ],
+  "usage_instructions": "1) 컨버터의 DisplayPort(Male) 단자를 노트북 또는 PC의 DisplayPort 출력 포트에 연결합니다. 2) 별도 구매한 HDMI 케이블을 컨버터의 HDMI(Female) 단자에 연결하고, 반대쪽을 TV·모니터·프로젝터의 HDMI 입력 단자에 연결합니다. 3) DisplayPort 분리 시에는 커넥터의 고정핀 버튼을 화살표 방향으로 누르면 고정핀이 내려가 쉽게 분리됩니다.",
+  "cautions": [
+    "HDMI 케이블은 제품 구성품에 포함되지 않으며 별도 구매가 필요합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "DisplayPort 분리 시 반드시 고정핀 버튼을 누른 후 분리하십시오.",
+    "본 제품의 콘텐츠 및 상품을 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DP19",
+      "품목코드": "CAB-젠DP020",
+      "품목명": "[LANstar] 신호변환기, 디스플레이포트 DP to HDMI, 0.2M[30046] (120개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DP19",
+      "내용": "빠른배송감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DisplayPort"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": [
+        "BLACK"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": "DP1.1a",
+      "dvi_type": null,
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DisplayPort (Male)",
+    "connectivity.output_signals": "HDMI (Female)",
+    "connectivity.directional": "DisplayPort 신호를 HDMI 단자를 가진",
+    "power.power_mode": "전원, 영상, 음성 동시 지원",
+    "power.charging_support": "전원, 영상, 음성 동시 지원",
+    "form_physical.has_case": "제품 크기: 250mm x 45mm x 20mm (커넥터부 포함 전체)",
+    "form_physical.length_meters": "케이블 길이: 0.2M",
+    "form_physical.color_options": "색상: BLACK",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "최대 해상도 1920x1200 @ 60Hz",
+    "audio_video.hdcp_version": "HDCP(고대역 디지털 콘텐츠 보호) 지원",
+    "audio_video.audio_pass": "전원, 영상, 음성 동시 지원",
+    "family.dp_version": "DisplayPort 1.1a 지원",
+    "family.optical_core": "DisplayPort to HDMI 컨버터"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:38",
+  "feature_schema_version": "1.0.0"
+}

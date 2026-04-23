@@ -1,0 +1,139 @@
+{
+  "model_no": "LS-GEN-DB9MFL",
+  "product_name": "19핀 시리얼 90도 꺾임 MF 젠더 (9M/9F)",
+  "category": [
+    "젠더",
+    "시리얼브라켓"
+  ],
+  "key_features": [
+    "DB9 9핀 M/F 90도 꺾임(직각) 구조",
+    "비좁은 공간에서 케이블 연결 가능",
+    "시리얼 포트 연장 젠더"
+  ],
+  "specifications": {
+    "품명": "젠더 모니터 90도 꺾임 M/F DB 9",
+    "모델명": "LS-GEN-DB9MFL",
+    "핀 구성": "9핀 M/F (DB9)",
+    "각도": "90도 꺾임",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "브랜드": "LANStar",
+    "인증서번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "DB9 9핀 시리얼 포트"
+  ],
+  "package_contents": [
+    "90도 꺾임 DB9 MF 젠더 본체 1개"
+  ],
+  "usage_instructions": "좁은 공간에서 시리얼 케이블이 꽂히지 않을 때, 해당 젠더를 DB9 포트에 먼저 연결한 후 케이블을 90도 방향으로 연결하여 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "라인업시스템(주)의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GEN-DB9MFL",
+      "품목코드": "GEN-시리얼018",
+      "품목명": "[LANstar] 젠더Changer , DB9P M／F, 2열, 90도 꺽임[20074] (500개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-GEN-DB9MFL",
+      "내용": "업체 주문건으로 구매했습니다 빠른배송 최고예요!"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Serial(DB9)"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무관",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "DB9 Male",
+      "connector_type_b": "DB9 Female",
+      "gender": "M-F",
+      "pin_count": 9
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DB9 9핀 M/F 90도 꺾임",
+    "connectivity.output_signals": "DB9 9핀 M/F 90도 꺾임",
+    "connectivity.directional": "시리얼 포트 연장 젠더",
+    "connectivity.port_count": "9핀 M/F (DB9)",
+    "power.power_mode": "무관",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "젠더",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "해당없음",
+    "certification.rohs": "null",
+    "certification.iso9001": "null",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "null",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.connector_type_a": "9핀 M/F (DB9)",
+    "family.connector_type_b": "9핀 M/F (DB9)",
+    "family.gender": "9핀 M/F (DB9)",
+    "family.pin_count": "9핀 M/F (DB9)"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:12",
+  "feature_schema_version": "1.0.0"
+}

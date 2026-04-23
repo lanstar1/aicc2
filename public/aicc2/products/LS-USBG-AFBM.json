@@ -1,0 +1,106 @@
+{
+  "model_no": "LS-USBG-AFBM",
+  "product_name": "LANSStar USB 변환젠더 A/F-B/M",
+  "category": [
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB A(Female) 타입과 USB B(Male) 타입 커넥터로 구성된 젠더",
+    "데이터 전송 및 충전 동시 지원",
+    "휴대성 높은 소형 젠더",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "커넥터 구성": "USB A(Female) - USB B(Male)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "AS 소비자상담": "라인업시스템(주) 070-7018-3386"
+  },
+  "compatibility": [
+    "USB A(Female) 포트 장치",
+    "USB B(Male) 포트 장치"
+  ],
+  "package_contents": [
+    "USB 변환젠더 A/F-B/M 본체 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "유통 과정상 제품의 모양이나 색상은 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USBG-AFBM",
+      "품목코드": "GEN-USB005",
+      "품목명": "[LANstar] USB젠더Changer A／F-B／M[20051]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-B"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A(Female) 타입",
+    "connectivity.output_signals": "USB B(Male) 타입",
+    "connectivity.directional": "데이터 전송 및 충전 동시 지원",
+    "power.power_mode": "데이터 전송 및 충전 동시 지원",
+    "power.charging_support": "데이터 전송 및 충전 동시 지원",
+    "form_physical.has_case": "USB 변환젠더 A/F-B/M",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.conversion_direction": "데이터 전송 및 충전 동시 지원",
+    "family.requires_external_power": "데이터 전송 및 충전 동시 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:59",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,89 @@
+{
+  "model_no": "LS-PB18",
+  "product_name": "[LANstar] 키스톤 모듈 통합 포인트 박스 8포트 [30526](10개)",
+  "category": [
+    "키스톤잭"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-PB18",
+      "품목코드": "NEO-아울렛158",
+      "품목명": "[LANstar] 키스톤 모듈 통합 포인트 박스 8포트 [30526](10개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-PB18",
+      "내용": "QKfms qothd rkatkgkqslek. 빠른 ㅂㅐ송 ㄱ감ㅅㅏ합니다."
+    },
+    {
+      "source_model": "LS-PB18",
+      "내용": "정리깔끔하게 됩니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 8
+    },
+    "power": {
+      "power_mode": "N/A"
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "키스톤 모듈 통합 포인트 박스",
+    "connectivity.output_signals": "키스톤 모듈 통합 포인트 박스",
+    "connectivity.directional": "키스톤 모듈 통합 포인트 박스",
+    "connectivity.port_count": "8포트",
+    "form_physical.has_case": "포인트 박스"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:56",
+  "feature_schema_version": "1.0.0"
+}

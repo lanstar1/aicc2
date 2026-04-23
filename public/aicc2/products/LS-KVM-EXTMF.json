@@ -1,0 +1,121 @@
+{
+  "model_no": "LS-KVM-EXTMF",
+  "product_name": "KVM 연장 케이블 (KVM Extension Cable)",
+  "category": [
+    "KVM스위치",
+    "KVM익스텐더",
+    "KVM",
+    "익스텐더"
+  ],
+  "key_features": [
+    "KVM 스위치와 PC를 연결하는 케이블을 연장해 주는 케이블",
+    "USB 지원",
+    "A타입: 6 pin mini-DIN Male ↔ 6 pin mini-DIN Female 연장",
+    "B타입: 15 pin HDB Male ↔ 15 pin HDB Female 연장"
+  ],
+  "specifications": {
+    "커넥터 A (입력)": "6 pin mini-DIN Male",
+    "커넥터 A (출력)": "6 pin mini-DIN Female",
+    "커넥터 B (입력)": "15 pin HDB Male",
+    "커넥터 B (출력)": "15 pin HDB Female",
+    "인터페이스": "USB"
+  },
+  "compatibility": [
+    "KVM 스위치",
+    "6 pin mini-DIN 규격 장치",
+    "15 pin HDB 규격 장치"
+  ],
+  "package_contents": [
+    "KVM 연장 케이블 A타입 (6 pin mini-DIN Male to Female)",
+    "KVM 연장 케이블 B타입 (15 pin HDB Male to Female)"
+  ],
+  "usage_instructions": "KVM 스위치와 PC 사이의 기존 연결 케이블에 본 연장 케이블을 삽입하여 연결 거리를 연장함",
+  "cautions": [],
+  "variants": [
+    {
+      "model_no": "LS-KVM-EXTMF-1.8M",
+      "품목코드": "CAB-KFF001",
+      "품목명": "[LANstar] KVM연장케이블 , KMM all M／F 1.8M[10546] (25개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-KVM-EXTMF-10M",
+      "품목코드": "CAB-KFF006",
+      "품목명": "KVM연장케이블 , KMM all M／F 10M(LANstar)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "PS/2",
+        "VGA",
+        "USB-A"
+      ],
+      "output_signals": [
+        "PS/2",
+        "VGA",
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "pc_count": null,
+      "video_interface": [
+        "VGA"
+      ],
+      "switching_methods": [],
+      "keyboard_type": "USB+PS/2",
+      "usb_peripheral_ports": null,
+      "cable_built_in": true,
+      "hub_built_in": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "6 pin mini-DIN Male",
+    "connectivity.output_signals": "6 pin mini-DIN Female",
+    "connectivity.directional": "연장해 주는 케이블",
+    "family.video_interface": "15 pin HDB Male",
+    "family.keyboard_type": "USB 지원",
+    "family.cable_built_in": "KVM 연장 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:58",
+  "feature_schema_version": "1.0.0"
+}

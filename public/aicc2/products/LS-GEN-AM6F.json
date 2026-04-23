@@ -1,0 +1,119 @@
+{
+  "model_no": "LS-GEN-AM6F",
+  "product_name": "LAN Star PS2 변환젠더 USB A/M-PS2/F",
+  "category": [
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB A(Male) 타입과 PS2 6P(Female) 타입 커넥터로 구성된 변환 젠더",
+    "COMBO(USB+PS2) 타입의 키보드/마우스 연결 시 PS2 포트를 USB 포트로 타입 변환 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "RoHS 준수(유해물질 사용 제한) 및 ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "커넥터 A": "USB A (Male)",
+    "커넥터 B": "PS2 6P (Female)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "품질보증기준": "공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "RoHS": "COMPLIANT",
+    "ISO": "9001:2008"
+  },
+  "compatibility": [
+    "COMBO(USB+PS2) 타입 키보드",
+    "COMBO(USB+PS2) 타입 마우스"
+  ],
+  "package_contents": [
+    "PS2 변환젠더 (USB A/M-PS2/F) 본체 1개"
+  ],
+  "usage_instructions": "COMBO(USB+PS2) 타입 키보드 또는 마우스의 PS2 커넥터를 본 젠더의 PS2(Female) 단자에 연결한 후, USB A(Male) 단자를 PC의 USB 포트에 삽입하여 사용.",
+  "cautions": [
+    "PS2 전용(PS2 Only) 키보드/마우스에는 호환되지 않으며, COMBO(USB+PS2) 타입의 키보드/마우스에서만 사용 가능합니다.",
+    "구매 전 기존에 사용 중인 젠더가 있는지 확인하세요.",
+    "유통 과정상 제품의 모양이나 색상은 조금씩 달라질 수 있습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GEN-AM6F",
+      "품목코드": "GEN-USB002",
+      "품목명": "[LANstar] 키보드젠더Changer USB A(M)／PS2(F) [녹색] [20060]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-GEN-AM6F",
+      "내용": "예전에 인터넷 케이블 자작 부품도 여기서 샀었네요."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "PS/2"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A(Male) 타입",
+    "connectivity.output_signals": "PS2 6P(Female) 타입",
+    "connectivity.directional": "PS2 포트를 USB 포트로 타입 변환 가능",
+    "power.power_mode": "무전원",
+    "form_physical.has_case": "변환 젠더",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.conversion_direction": "PS2 포트를 USB 포트로 타입 변환 가능",
+    "family.requires_external_power": "무전원"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:06",
+  "feature_schema_version": "1.0.0"
+}

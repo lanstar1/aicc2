@@ -1,0 +1,149 @@
+{
+  "model_no": "LS-HDMIG-AMF9",
+  "product_name": "LANStar HDMI 90° 상향 꺾임 젠더",
+  "category": [
+    "HDMI케이블",
+    "젠더"
+  ],
+  "key_features": [
+    "HDMI 19P Male to HDMI 19P Female 90° 상향 꺾임 구조",
+    "협소한 공간에서 HDMI 케이블 연결 시 활용 가능",
+    "케이블 단선 방지 목적으로 사용 가능",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 A": "HDMI 19P Male",
+    "커넥터 B": "HDMI 19P Female",
+    "꺾임 방향": "상향 90°",
+    "치수 1": "14.5mm",
+    "치수 2": "30mm",
+    "치수 3": "19.5mm",
+    "치수 4": "12.5mm",
+    "KC 인증 번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 19P Male 단자 보유 기기",
+    "HDMI 19P Female 단자 보유 기기"
+  ],
+  "package_contents": [
+    "HDMI 90° 상향 꺾임 젠더 본체 1개"
+  ],
+  "usage_instructions": "HDMI Male 단자를 기기의 HDMI 포트에 연결하고, Female 단자에 HDMI 케이블을 연결하여 사용. 구매 전 반드시 HDMI 단자의 방향(상향)을 확인 후 사용.",
+  "cautions": [
+    "구매 전 반드시 HDMI 단자의 방향(상향)을 확인하여 주시기 바랍니다.",
+    "구매자의 오주문으로 인한 반품이나 교환은 어렵습니다.",
+    "제조사의 사정에 따라 제품의 색상, 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 가능."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMIG-AMF9",
+      "품목코드": "GEN-HDI175",
+      "품목명": "[LANstar] HDMI젠더, HDMI A／M-A／F, Black, 상향90도 [30576]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDMIG-AMF9",
+      "내용": "품질 좋고 잘 작동합니다."
+    },
+    {
+      "source_model": "LS-HDMIG-AMF9",
+      "내용": "가격도 저렴하고 물품도 사진상의 설명과 동일합니다"
+    },
+    {
+      "source_model": "LS-HDMIG-AMF9",
+      "내용": "잘 받았어요 구멍이 좁아서 2개를 꼽기힘들었는데 편해졌어요"
+    },
+    {
+      "source_model": "LS-HDMIG-AMF9",
+      "내용": "맘에들어요 매번시켜요"
+    },
+    {
+      "source_model": "LS-HDMIG-AMF9",
+      "내용": "이번엔 배송이 빨라 좋았습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19P Male",
+    "connectivity.output_signals": "HDMI 19P Female",
+    "connectivity.directional": "HDMI 19P Male to HDMI 19P Female",
+    "connectivity.port_count": "HDMI 19P Male to HDMI 19P Female",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "젠더",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.audio_pass": "HDMI",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.hdmi_version": "HDMI 19P",
+    "family.dp_version": "N/A",
+    "family.dvi_type": "N/A",
+    "family.optical_core": "N/A",
+    "family.ethernet_channel": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:31",
+  "feature_schema_version": "1.0.0"
+}

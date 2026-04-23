@@ -1,0 +1,192 @@
+{
+  "model_no": "LS-SRGB-15MM",
+  "product_name": "LANStar 슬림 RGB 모니터 케이블 (Slim RGB Cable)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "기존 RGB 케이블보다 얇은 슬림 설계",
+    "3+6 Core 구조 (3 Core RGB + 6 Core + Shield)",
+    "2중 차폐 (알루미늄 은박 + 망사 Shield)",
+    "노이즈 방지 필터 장착으로 외부 간섭 최소화",
+    "UL AWM 20276 인증 획득",
+    "RoHS 인증 친환경 소재 사용",
+    "영상 데이터 손실 최소화로 선명한 영상 제공",
+    "라인업시스템(주) 브랜드 LANStar 정품 케이블"
+  ],
+  "specifications": {
+    "커넥터": "RGB 15Pin (Male) - RGB 15Pin (Male)",
+    "케이블 구조": "3+6 Core (3 Core RGB + 6 Core + Shield)",
+    "차폐 방식": "2중 차폐 (알루미늄 은박 + 망사 Shield)",
+    "도체": "구리",
+    "최고 사용 온도": "80°C",
+    "인증": "UL AWM 20276, RoHS",
+    "제품 길이": "1m, 1.8m, 3m, 5m, 10m, 15m, 20m",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "데스크탑 컴퓨터 (VGA 15핀 포트)",
+    "노트북 / 넷북 (VGA 15핀 포트)",
+    "모니터 (VGA 15핀 포트)",
+    "PDP TV",
+    "프로젝터 / 빔프로젝터",
+    "디지털 TV"
+  ],
+  "package_contents": [
+    "슬림 RGB 모니터 케이블 1개"
+  ],
+  "usage_instructions": "PC 또는 VGA 15핀 포트가 있는 기기와 모니터, 빔프로젝터, 디지털 TV 등을 연결하여 영상을 입출력한다. 케이블 양단의 RGB 15Pin (Male) 커넥터를 각각 기기의 VGA 포트에 연결하여 사용한다.",
+  "cautions": [
+    "9번 핀은 예비핀으로 사용되지 않는 핀이다.",
+    "케이블에 따라 핀이 비어있는 경우가 있으나 제품 이상이 아니며, 반품 또는 교환 사유가 될 수 없다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상한다.",
+    "정품 여부는 케이블의 'LANstar' 마크로 확인한다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SRGB-15MM-10M",
+      "품목코드": "CAB-SRG004",
+      "품목명": "[LANstar] Slim RGB3+6 모니터케이블 10M[10291] / 20276규격 / (20개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SRGB-15MM-15M",
+      "품목코드": "CAB-SRG012",
+      "품목명": "[LANstar] Slim RGB3+6 모니터케이블 15M[10292] / 20276규격 / (16개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SRGB-15MM-20M",
+      "품목코드": "CAB-SRG013",
+      "품목명": "[LANstar] Slim RGB3+6 모니터케이블 20M[10293] / 20276규격 / (14개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SRGB-15MM-1.8M",
+      "품목코드": "CAB-SRG014",
+      "품목명": "[LANstar] Slim RGB3+6 모니터케이블 1.8M[10288]/ 20276규격 / (90개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SRGB-15MM-3M",
+      "품목코드": "CAB-SRG015",
+      "품목명": "[LANstar] Slim RGB3+6 모니터케이블 3M[10289] / 20276규격 / (70개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SRGB-15MM-5M",
+      "품목코드": "CAB-SRG016",
+      "품목명": "[LANstar] Slim RGB3+6 모니터케이블 5M[10290] / 20276규격 / (40개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SRGB-15MM-1M",
+      "품목코드": "CAB-SRG017",
+      "품목명": "[LANstar] Slim RGB3+6 모니터케이블 1M/ 20276규격 (140개) [10294]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-SRGB-15MM-15M",
+      "내용": "제품 좋습니다 잘 사용할께요"
+    },
+    {
+      "source_model": "LS-SRGB-15MM-5M",
+      "내용": "아주 잘사용하고 있습니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-SRGB-15MM-1M",
+      "id": 234304283,
+      "date": "2022-08-29 13:11",
+      "answerDate": "2022-08-29 15:52",
+      "user": "ds****",
+      "productName": "랜스타 LS-SRGB-15MM-1M 슬림형 RGB 모니터 케이블 1M 3+6C",
+      "question": "주문일자 22년 7월 7일\n주문번호 2022070793185991\n랜스타 LS-SRGB-15MM-1M 슬림형 RGB 모니터 케이블 1M 3+6C\n요 제품을 48개 구매 했는데\n길이가 1M가 아니라 1.8M로 제품을 보내셨네요\n1M로 제품 교환하려면 어떻게 해야 되나요",
+      "answer": "안녕하세요 랜스타입니다.\n\n해당 주문건 및 제품 확인 결과, 해당 케이블 1M 제품은 현재 품절 상태로, 1.8M로 대체되어 발송된 것으로 확인 되었습니다.\n\n고객님께 미리 사전 고지하지 않고 발송해 드린 점 죄송하다는 말씀 드리며, 혹여 사용이 어려우시다면 반품 요청 해주시면 신속하게 처리 진행 해드리겠습니다.\n\n다시 한 번 제품 사용에 불편을 드려 죄송하다는 말씀 드립니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "알루미늄",
+        "PVC"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        1.8,
+        3,
+        5,
+        10,
+        15,
+        20
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": null,
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RGB 15Pin (Male)",
+    "connectivity.output_signals": "RGB 15Pin (Male)",
+    "connectivity.directional": "영상을 입출력한다",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "케이블",
+    "form_physical.material": "알루미늄 은박 + 망사 Shield",
+    "form_physical.length_options_meters": "1m, 1.8m, 3m, 5m, 10m, 15m, 20m",
+    "certification.rohs": "RoHS 인증 친환경 소재 사용",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "영상을 입출력한다"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:47",
+  "feature_schema_version": "1.0.0"
+}

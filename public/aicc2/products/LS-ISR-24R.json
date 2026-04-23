@@ -1,0 +1,63 @@
+{
+  "model_no": "LS-ISR-24R",
+  "product_name": "BNC 커플러 & 키스톤 모듈",
+  "category": [
+    "키스톤잭",
+    "커플러",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "BNC 타입, Female-Female 구조",
+    "표준형 크기로 제작되어 다양한 아울렛·패널·기타 장치에 장착 가능",
+    "일반 표준형 크기 규격 적용"
+  ],
+  "specifications": {
+    "커넥터 타입": "BNC, Female-Female",
+    "크기 규격": "표준형(Standard)",
+    "치수 (단위: mm)": "32.2 x 14.6 x 16.01",
+    "제조국/원산지": "Made in Taiwan",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "랙장착형 블링크 패널 (모델명: LS-PLKP-24BK, 1U/2U/3U/4U/6U/8U)",
+    "Blank 아울렛 박스 (모델명: LS-BK-14R/24R/44R/64R/84R)",
+    "벽부착용 아울렛 PLATE (모델명: OUTLET-WP1P/2P/3P/4P/6P, 1구~6구)",
+    "패널용 PLATE (1구/2구/3구/4구/6구)",
+    "모델명 LS-BZ-KTWHZ 호환"
+  ],
+  "package_contents": [
+    "BNC 커플러 & 키스톤 모듈 (LS-ISR-24R) 본체"
+  ],
+  "usage_instructions": "표준형 크기의 커플러 입구를 이용하여 다양한 종류의 아울렛, 패널 등에 장착하여 설치·부착 가능.",
+  "cautions": [
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 의거하여 보상."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "BNC"
+      ],
+      "output_signals": [
+        "BNC"
+      ],
+      "directional": "양방향"
+    },
+    "form_physical": {
+      "has_case": true
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "BNC 타입, Female-Female 구조",
+    "connectivity.output_signals": "BNC 타입, Female-Female 구조",
+    "connectivity.directional": "BNC 타입, Female-Female 구조",
+    "form_physical.has_case": "BNC 커플러 & 키스톤 모듈"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:52",
+  "feature_schema_version": "1.0.0"
+}

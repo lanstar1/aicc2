@@ -1,0 +1,120 @@
+{
+  "model_no": "LS-VGA2HD",
+  "product_name": "LANStar VGA TO HDMI Video Converter",
+  "category": [
+    "VGA",
+    "컨버터"
+  ],
+  "key_features": [
+    "VGA 신호를 HDMI 신호로 변환 (단방향, VGA 입력 → HDMI 출력 전용)",
+    "최대 입력 해상도 1920x1080 지원",
+    "최대 출력 해상도 1080P 지원",
+    "오디오 동시 출력 지원 (스테레오/헤드셋 단자 연결)",
+    "DC 5V 유전원 방식"
+  ],
+  "specifications": {
+    "VGA 입력 해상도": "최대 1920x1080",
+    "HDMI 출력 해상도": "최대 1080P",
+    "오디오 입력": "스테레오/헤드셋 단자",
+    "전원 입력": "DC 5V 1500mAh (유전원)",
+    "인증번호": "MSIP-REI-LUS-VGA2HD",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "본체 크기": "93mm x 62mm x 21mm (추정 포함: 45mm 표기 병기)"
+  },
+  "compatibility": [
+    "VGA 단자가 있는 컴퓨터 및 노트북 (입력)",
+    "HDMI 단자가 있는 모니터 (출력)",
+    "HDMI 단자가 있는 TV (출력)",
+    "HDMI 단자가 있는 프로젝터 (출력)"
+  ],
+  "package_contents": [
+    "VGA TO HDMI 컨버터 본체",
+    "DC 5V 전원 아답터",
+    "사용설명서 (User Manual)"
+  ],
+  "usage_instructions": "1. VGA TO HDMI 컨버터의 VGA 입력단자에 VGA 케이블(별도 구매)을 연결하여 컴퓨터 또는 노트북과 연결합니다. 2. 컨버터의 HDMI 출력단자에 HDMI 케이블(별도 구매)을 연결하여 모니터, TV, 프로젝터 등 HDMI 단자가 있는 디스플레이 기기에 연결합니다. 3. 필요 시 컨버터 본체의 오디오 입력단자[Audio In]에 오디오 케이블(별도 구매)을 연결하여 PC/오디오 사운드를 모니터로 출력합니다. 4. 컨버터 본체의 DC 5V 단자에 DC 5V 전원 아답터를 연결하여 전원을 공급한 후 사용합니다.",
+  "cautions": [
+    "VGA 입력 → HDMI 출력 단방향 전용 컨버터이므로 반대 방향(HDMI 입력 → VGA 출력)으로는 사용 불가",
+    "입·출력이 반대로 인식되지 않으므로 구매 전 사용 방향을 반드시 확인할 것",
+    "반드시 DC 5V 전원을 연결한 후 사용할 것",
+    "VGA 케이블, HDMI 케이블, 오디오 케이블은 별도 구매 필요",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-VGA2HD",
+      "품목코드": "INT-HDS018",
+      "품목명": "[LANstar] VGA TO HDMI 컨버터, 오디오지원[30094]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA",
+        "3.5mm"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "VGA 입력단자에 VGA 케이블",
+    "connectivity.input_signals[1]": "오디오 입력단자[Audio In]",
+    "connectivity.output_signals": "HDMI 출력단자에 HDMI 케이블",
+    "connectivity.directional": "단방향, VGA 입력 → HDMI 출력 전용",
+    "power.power_mode": "DC 5V 유전원 방식",
+    "certification.kc": "MSIP-REI-LUS-VGA2HD",
+    "audio_video.max_resolution": "최대 출력 해상도 1080P 지원",
+    "audio_video.audio_pass": "오디오 동시 출력 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:16",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,254 @@
+{
+  "model_no": "LS-5FTP",
+  "product_name": "CAT.5E FTP 단선 랜 케이블 회색 100M",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-FTP",
+    "랜케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "CAT.5E FTP(Foiled Twisted Pair) 규격, 알루미늄 차폐막으로 노이즈 방지",
+    "단선(Solid) 케이블 구조로 외부 간섭이 적고 데이터 전송이 안정적",
+    "24AWG 미국전선규격 적용으로 간섭이 적은 우수한 신호 품질",
+    "최대 전송속도 1Gbps, 대역폭 100MHz 지원",
+    "케이블 양쪽 끝 RJ45 커넥터 결합 완성품",
+    "RoHS(특정유해물질 사용제한) 준수",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "CAT.5E FTP 규격, 최대 전송속도 400Mbps, 대역폭 100MHz",
+    "알루미늄 차폐막(Shield) 및 십자형 Spacer 적용으로 노이즈 방지",
+    "연선(Stranded) 구조로 단선 대비 유연성이 높아 설치가 용이하고 잡음·감쇄 현상이 적음",
+    "24AWG 규격 적용으로 데이터 전송 시 간섭이 적고 안정적인 전송 품질 제공",
+    "High Quality Copper(고품질 구리) 소재 사용",
+    "RoHS 준수(납·수은·카드뮴 등 유해 중금속 미사용)",
+    "현대해상화재 생산물배상책임보험 1억 원 가입 제품",
+    "CAT.5E FTP 규격, 100MHz 대역폭 지원",
+    "최대 전송속도 1Gbps (1000BASE-T 지원)",
+    "24AWG 단선(SOLID) 구조로 안정적인 데이터 전송",
+    "CCA(알루미늄 코어 + 외부 구리) 소재 사용",
+    "4페어 트위스트 구조 + 알루미늄 차폐막 + 노이즈 방지 비닐막으로 노이즈 및 신호간섭 최소화",
+    "PVC 자켓 적용",
+    "Drain Wire 포함 구조",
+    "제작용 박스 케이블 (300M 권취)",
+    "RoHS 규정 준수"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.5E FTP",
+    "모델명": "LS-5FTP-100M",
+    "케이블 길이": "100M / 300M",
+    "케이블 색상": "회색",
+    "케이블 타입": "단선(Solid)",
+    "전선 규격": "24AWG (American Wire Gauge)",
+    "최대 전송속도": "1Gbps / 400Mbps",
+    "대역폭": "100MHz",
+    "커넥터": "RJ45 (8P8C)",
+    "차폐 구조": "알루미늄 차폐막 + 구리 접지선 / 알루미늄 차폐막 + 노이즈 방지 비닐막",
+    "핀배열": "다이렉트 케이블(568B-568B), 크로스 케이블(568B-568A)",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "환경 규격": "RoHS COMPLIANT",
+    "품질 인증": "ISO 9001:2008",
+    "케이블 유형": "FTP (Foiled Twisted Pair)",
+    "케이블 구조": "연선 (Stranded)",
+    "길이": "300M",
+    "색상": "회색 / Grey",
+    "차폐": "알루미늄 차폐막",
+    "내부 구조": "십자형 Spacer, 노이즈 방지 비닐막, 7가닥 연선",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "케이블 소재": "CCA (알루미늄 코어 + 외부 구리)",
+    "도체 규격": "24AWG",
+    "도체 구조": "단선(SOLID)",
+    "작동온도": "섭씨 80도",
+    "재킷 소재": "PVC",
+    "페어 구성": "Twisted 4Pair",
+    "박스 크기 (가로x세로x높이)": "380mm x 370mm x 210mm"
+  },
+  "compatibility": [
+    "CAT.5E 규격 호환 네트워크 장비",
+    "RJ45(8P8C) 포트를 가진 스위치, 허브, 공유기, NIC 등",
+    "1Gbps 이하 유선 네트워크 환경",
+    "568B 다이렉트 배열 장비 간 연결",
+    "568A-568B 크로스 배열 지원 장비",
+    "CAT.5E 표준 규격 준수 장비",
+    "다이렉트 케이블 핀배열 (568B-568B) 지원",
+    "크로스 케이블 핀배열 (568B-568A) 지원",
+    "1000BASE-T (CAT.5E 규격 네트워크 장비)",
+    "CAT.5E 규격 RJ45 커넥터 및 패치패널",
+    "기가비트 이더넷 스위치/허브/라우터"
+  ],
+  "package_contents": [
+    "CAT.5E FTP 단선 랜 케이블 100M (양쪽 RJ45 커넥터 결합 완성품)",
+    "CAT.5E FTP 연선 랜 케이블 회색 300M (LS-5FTP-300M) × 1",
+    "CAT.5E FTP 단선 박스케이블 300M (Grey) x 1"
+  ],
+  "usage_instructions": "케이블 양쪽에 RJ45 커넥터가 결합되어 있으므로 별도 작업 없이 네트워크 장비의 RJ45 포트에 바로 연결하여 사용. 일반 장비 간 연결 시 다이렉트(568B-568B) 배열 사용, 동종 장비 직접 연결 시 크로스(568B-568A) 배열 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결기준에 따라 보상",
+    "단선(Solid) 케이블은 고정 배선용으로 적합하며, 반복적인 굴곡·이동 환경에는 연선(Stranded) 케이블이 적합"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-5FTP-100M",
+      "품목코드": "CAB-F5박001",
+      "품목명": "[LANstar] FTP 랜케이블 , CAT.5E, BOX, 100M , Grey, 24AWG BOA[10113] (4개)",
+      "variant_suffix": "-100M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-5FTP-300MG",
+      "품목코드": "CAB-F5박025",
+      "품목명": "[LANstar] Cat.5e FTP 케이블 300M [30715]",
+      "variant_suffix": "-300MG",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-5FTP-100MG",
+      "내용": "잘 사용하겠습니다."
+    },
+    {
+      "source_model": "LS-5FTP-300MG",
+      "내용": "빠른배송 고맙습니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-5FTP-100MG",
+      "chatUrl": "a9Qat",
+      "dateIso": "2024-01-08T05:47:05.798Z",
+      "name": "liberal",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하십니까,\n랜스타 LS-6FTP-100MG CAT.6케이블 FTP 100M x 3ea 구매 완료\n재고 부족으로 하기의 제품으로 교환 및 차액입금 요청 건 입니다.\n랜스타 LS-\n(추가 문의) 감사합니다.\n입금대기중인 상품은 명일 입금 예정이며,\n1월 출하로 진행해주시면 될 것 같습니다.\n좋은 연말 보내십시요\n(추가 문의) 안녕하십니까,\n2023122778799231 주문번호 건에 대한\n현금영수증 발행 내역 확인 가능할까요?",
+      "answer": "고객님, 금일 발송 운송장번호 남겨드립니다. [로젠 37170137841] 랜스타 제품 이용 중\n\n주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "안녕하십니까,\n2023122778799231 주문번호 건에 대한\n현금영수증 발행 내역 확인 가능할까요?"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        },
+        {
+          "role": "customer",
+          "text": "감사합니다.\n입금대기중인 상품은 명일 입금 예정이며,\n1월 출하로 진행해주시면 될 것 같습니다.\n좋은 연말 보내십시요"
+        },
+        {
+          "role": "agent",
+          "text": "고객님, 금일 발송 운송장번호 남겨드립니다. [로젠 37170137841]\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. 랜스타 제품 이용 중"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하십니까,\n랜스타 LS-6FTP-100MG CAT.6케이블 FTP 100M x 3ea 구매 완료\n재고 부족으로 하기의 제품으로 교환 및 차액입금 요청 건 입니다.\n랜스타 LS-"
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-5FTP-300M": "LAN Star®\nⓇ\nCAT.5E FTP 연선\n랜 케이블 회색 300M\nLS-5FTP-300M\nLAN Star\nHigh Qually Copper\nHigh Quality Copper\n통신공사용 랜케이블ㄴㅇ\nCAT.5E LAN Cable\nCAT SE\nHIGH\n300M\nCAT.5E FTP LAN CABLE\n알루미늄 차폐막 | Twisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n노이즈 방지 쉴드\n- 7개의 선\n십자형 Spacer\n노이즈 방지 비닐막\nStranded Cable\n연선(線) 케이블\n연선 케이블은 단선에 비해 잘 휘어져\n설치가 용이하며 잡음이나 감쇄현상이\n현저히 적어 널리 쓰입니다\n단선\nㄴㄴ\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\n2 주황\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n8 갈색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\n8 갈색\nPRODUCT IMAGE\n24AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n24AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다.\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n\n\n24AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n24AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다.\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.5E\n최대전송속도\n400Mbps\n대역폭\n100MHz\nCR\nROHS\nCOMPLIANT\nn\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.5E FTP 랜 케이블 300M\nLANStar\nⓇ\n모\n델\n명\nLS-5FTP-300M\n인증번호\n상세페이지 참조\n日日\nEFFER\n제조국/원산지\n중국 (China)\n回\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-5FTP-300MG": "LAN Star\n300M\nCAT.5E FTP 박스케이블\n단선(SOLID) / 300M / 제작용 박스 케이블\nLS-5FTP-300MG\n30\nLAN Star\nHigh Quality Copper\n|통신공사용 랜케이블\nCAT.5E\nHigh Quality Copper\n토시공사용 케이블\nCAT.5E LAN Cable\n300M\nCAT.5E\n100MHz\n24AWG\nCAT.5E FTP 단선\n100MHz 대역폭\n안정성이 뛰어난\n24AWG 사용\nCAT.5E FTP CABLE\n1000BASE-T 지원\n1000BASE-T를 지원하는 CAT.5E 규격의 FTP 랜케이블로\n100MHz 대역폭을 지원하여 최대 1Gbps의 전송속도를 나타냅니다.\n케이블 비교\nCAT.5E\nCAT.6\nCAT.6A / CAT.7\nCAT.8\n대역폭\n100MHz\n250MHz\n500MHz/600MHz\n2000MHz\n전송속도\n1Gbps\n1Gbps\n10Gbps\n40Gbps\n규격\n1000BASE-T\n1000BASE-TX\n10GBASE-T\n40GBASE-T\nCABLE STRUCTURE\nCAT.5E FTP 단선 케이블로 제작용 박스 케이블입니다.\n기본적으로 4개의 Pair는 트위스트 구조로 이루어져 있으며,\n알루미늄 차폐막과 노이즈 방지 비닐막이 4개의 Pair를\n감싸고 있는 구조입니다.\nPVC 자켓\nTwisted Pair\n노이즈 방지 비닐막\n\n\nTwisted Pair\n노이즈 방지 비닐막\n알루미늄\n차폐막\nDrain Wire\nTwisted 4Pair\n4페어 꼬임방식, 노이즈방지 비님막, 알루미늄 차폐를 통해\n노이즈 및 신호간섭을 최소화합니다.\nPVC Jacket\n알루미늄 차폐\n노이즈 방지 비닐막\n꼬임구조 Pair\nDrain Wire\n단선(SOLID) 케이블\n하나의 구리선으로 이루어진 구조로\n외부 간섭을 적게 받아 안정적인 데이터 전송이 가능합니다.\nCCA 재질\n알루미늄 코어 바깥부분에 구리를 씌운 CCA 재질로 이루어진 케이블로,\nCU 케이블에 비해 가볍고, 순수 알루미늄에 비해 전기 전도성이\n높으며 강도가 뛰어나 신호 전달에 이점이 있습니다.\n구리\n알루미늄\n\n\n24AWG\nAmerican Wire Gauge\n케이블 내심의 굵기를 표시하는 단위로 AWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 전송에 적합합니다.\n●\nO\n40\n16\n설치가 용이하며\n저화질 전송에 적합\n설치가 까다로우나\n잡음이 적고\n안정적인 전송이 가능\nAWG\n직경(Inch)\n직경(mm)\n(mm)\n저항(요/m)\n허용전류(A)\n20\n0,032\n0,812\n0,518\n0,0333\n4,5\n21\n0,0285\n0.723\n0.41\n0,042\n3.8\n2\n22\n0.0253\n0.644\n0,326\n0.053\n3.0\n23\n0,0226\n0.573\n0.258\n0.0668\n2,2\n24\n24\n0.0201\n0.511\n0,205\n0.0842\n0.588\n25\n0.0179\n0.455\n0,162\n0.106\n0.477\n26\n26\n0.0159\n0.405\n0.129\n0.134\n0,378\n22\n27\n0.0142\n0.361\n0.102\n0.169\n0,288\n28\n20\n0.0126\n0.321\n0.081\n0.213\n0,250\n29\n2\n0,0113\n0.286\n0.0642\n0.268\n0,212\n30\n0.01\n0,255\n0.0509\n0.339\n0,147\n※ 저항값, 허용전류는 구리 기준입니다.\nPRODUCT SIZE\n210mm\n380mm\n00\nLAN Star\nHigh Quality Copper\n통신공사용 랜케이블CAT \n5E\nHigh Quality Copper\n트시공사용 케이블\nCAT.5E LAN Cable\n370mm\n18x\n300M\n\n\n18x\n300M\nSPECIFICATION\n케이블 규격\nCAT.5E FTP\n최대전송속도\n1Gbps\n대\n역폭\n100MHz\n케이블 길이\n300M\n케이블 소재\nCCA\n작동온도\n섭씨 80도\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nCR\nROHS\nCOMPLIANT\nCAN THERIAL\nPRISHIDE\nCERTIFICATION\nCATION RES\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\nLAN Star 집현상시 스킬에 따라 제출한 생과일들을 상시로 왕의 없이 부분 복제 및 지\n불이익을 당할 수 있습니다.\n상품 정보\n품\n명\nCAT.5E FTP 박스케이블, Grey, 300m\nLAN Star\n모\n델\n명\nLS-5FTP-300MG\n인증 번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "알루미늄",
+        "구리",
+        "PVC"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        100,
+        300
+      ],
+      "color_options": [
+        "회색",
+        "Grey"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "FTP",
+      "conductor": "단선(solid)",
+      "awg": 24,
+      "pair_count": 4,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 커넥터 결합 완성품",
+    "connectivity.output_signals": "RJ45 커넥터 결합 완성품",
+    "connectivity.directional": "네트워크 장비의 RJ45 포트에 바로 연결",
+    "form_physical.material": "알루미늄 차폐막",
+    "form_physical.length_options_meters": "100M / 300M",
+    "form_physical.color_options": "회색",
+    "certification.rohs": "RoHS(특정유해물질 사용제한) 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.cat_category": "CAT.5E FTP 규격",
+    "family.shielding": "FTP(Foiled Twisted Pair) 규격",
+    "family.conductor": "단선(Solid) 케이블 구조",
+    "family.awg": "24AWG 미국전선규격 적용",
+    "family.pair_count": "4페어 트위스트 구조"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:17",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "model_no": "LS-KS",
+  "product_name": "LANStar Video Selector (모니터 선택기)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "모니터 1대에 여러 대의 PC를 선택적으로 디스플레이하는 장치",
+    "전시장, 관공서, 병원 등 홍보용 모니터링 시스템에 활용 가능",
+    "프리젠테이션, 원격지 TV 출력, 화상 회의 교육 시스템에 활용 가능",
+    "Push Button 또는 리모컨으로 본체 원격 선택 가능",
+    "대역폭 450MHz, 최대 해상도 2048×1536 지원",
+    "케이블 전송거리(선택기 ↔ 모니터) 최대 65m(213ft)",
+    "DDC, DDC2, DDC2B 중 1개 Port만 선택적으로 지원",
+    "제품끼리 Uplink(Daisy Chain)하여 추가 연결 가능",
+    "모든 VGA 카드와 상호 호환",
+    "모니터 분배기와 조합하여 다양한 구성으로 사용 가능"
+  ],
+  "specifications": {
+    "Video In Connector (LS-KS201)": "HDB 15P Male, 2 Port",
+    "Video In Connector (LS-KS401)": "HDB 15P Male, 4 Port",
+    "Video In Connector (LS-KS801)": "HDB 15P Male, 8 Port",
+    "Video Out Connector (공통)": "HDB 15P Female, 1 Port",
+    "Video Bandwidth": "450MHz",
+    "Maximum Resolution": "2048×1536",
+    "Cable Distance (Selector to Monitor)": "65m (213ft)",
+    "Support Signal": "VGA, SVGA, XGA, Multisync",
+    "Power Adapter": "DC 5V 1A",
+    "동작 온도/습도": "-20~60°C / 0~80%",
+    "IR 리모컨 동작거리": "1.8m (max)",
+    "Housing": "Metal",
+    "Size (LS-KS201)": "130×75×40mm",
+    "Size (LS-KS401)": "130×75×40mm",
+    "Size (LS-KS801)": "200×75×40mm"
+  },
+  "compatibility": [
+    "모든 VGA 카드",
+    "VGA 신호",
+    "SVGA 신호",
+    "XGA 신호",
+    "Multisync 신호",
+    "DDC, DDC2, DDC2B (1개 Port 선택 지원)",
+    "LANStar 모니터 분배기 (Daisy Chain 연결)"
+  ],
+  "package_contents": [
+    "모니터 선택기 본체 1대",
+    "사용자 매뉴얼 및 보증서",
+    "DC Power Adapter 및 USB 전원케이블 Y형",
+    "본체 선택용 리모컨 1대",
+    "연결케이블(모니터 연장케이블) - 별도 구입 필요",
+    "PC와 선택기 연결용 케이블(HDB 15P M/F) - 별도 구입 필요 (모델에 따라 2개/4개/8개 필요)"
+  ],
+  "usage_instructions": "1) 컴퓨터, 모니터, 모니터 분배기 등 모든 전원 OFF. 2) 새로 구입한 연결케이블을 사용하여 여러 대의 PC와 선택기의 비디오 입력단자 연결. 3) 선택기의 Video Out Port와 모니터 연결. 4) 선택기 → 모니터 → PC 순으로 전원 ON. 전면부: 동작 LED, 리모컨 센서, Push Button, 전원스위치(On/Off). 후면부: ①전원 연결부(DC 5V 1A), ②비디오 출력단자(모니터 연결 또는 Daisy Chain 시 상단 PC 입력단자와 연결), ③비디오 입력단자(PC 연결).",
+  "cautions": [
+    "연결케이블(모니터 연장케이블 및 PC-선택기 연결용 HDB 15P M/F 케이블)은 제품에 포함되어 있지 않으므로 반드시 별도 구입 필요",
+    "DDC, DDC2, DDC2B 중 1개 Port만 선택적으로 지원됨"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "2048×1536"
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDB 15P Male",
+    "connectivity.output_signals": "HDB 15P Female",
+    "connectivity.directional": "모니터 1대에 여러 대의 PC를 선택적으로 디스플레이하는 장치",
+    "power.power_mode": "DC 5V 1A",
+    "power.charging_support": "DC 5V 1A",
+    "form_physical.has_case": "Housing: Metal",
+    "form_physical.material": "Metal",
+    "audio_video.max_resolution": "2048×1536",
+    "control_switching.has_remote": "리모컨으로 본체 원격 선택 가능",
+    "control_switching.has_physical_button": "Push Button 또는 리모컨으로 본체 원격 선택 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:54",
+  "feature_schema_version": "1.0.0"
+}

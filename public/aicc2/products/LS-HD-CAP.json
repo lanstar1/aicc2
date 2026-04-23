@@ -1,0 +1,191 @@
+{
+  "model_no": "LS-HD-CAP",
+  "product_name": "HDMI 캡처보드 (USB 3.0 TO HDMI)",
+  "category": [
+    "USB3.0"
+  ],
+  "key_features": [
+    "1080P Full HD 60프레임 방송과 녹화 동시 지원",
+    "1인 크리에이터를 위한 HDMI 캡처보드",
+    "스트리밍 영상 및 게임 영상 실시간 무손실 캡처",
+    "YouTube, Twitch, AfreecaTV, USTREAM 등 주요 플랫폼 지원",
+    "Directshow, Webcam 방식 드라이버 지원으로 다양한 외부 소프트웨어 사용 가능",
+    "인터넷 연결 시 자동 드라이버 설치 지원",
+    "HDMI 분배기 활용 시 방송장비 모니터와 송출용 모니터 동시 출력 가능",
+    "실시간 방송 송출과 동시 녹화 가능",
+    "국립전파연구원 인증 제품 (인증번호: R-REI-LUS-LS-HD-CAP)",
+    "외부 케이스 손상 제품을 기존 가격보다 저렴하게 판매 (기능상 문제 없음 테스트 완료)",
+    "스트리밍 영상·게임 영상 실시간 무손실 캡처 및 고화질 저장",
+    "Plug and Play 지원, 인터넷 연결 시 드라이버 자동 설치",
+    "OBS Studio 등 방송 소프트웨어와 연동 가능",
+    "HDMI 분배기 연결 시 방송장비 모니터와 송출용 컴퓨터 모니터 동시 출력 가능",
+    "실시간 방송 송출과 동시 녹화 가능 (스트림키 입력 필수)",
+    "배송비 무료"
+  ],
+  "specifications": {
+    "HDMI 입력 해상도": "최대 1920x1080, FullHD, 60Hz",
+    "오디오": "PCM",
+    "입출력 포트": "HDMI input port, Audio outport, USB 3.0 A port / HDMI input port / Audio outport / USB 3.0 A port",
+    "캡처 동영상 형식": "AVI(무인코딩, 소프트웨어 인코딩), MPG, TS",
+    "캡처 정지화면 형식": "BMP, JPEG",
+    "필요 메모리": "2GB 이상",
+    "CPU (재생)": "인텔 듀얼코어 2.0GHz 이상 (또는 동급사양의 AMD CPU)",
+    "CPU (녹화)": "인텔 쿼드코어 2.8GHz 이상",
+    "그래픽카드": "nVidia 200 series 이상, AMD Radeon 4000 이상, Intel 3000 Series 이상 / nVidia 200 Series 이상, AMD Radeon 4000 이상, Intel 3000 Series 이상",
+    "하드디스크": "SATA2 이상, 시스템 사양에 따라 녹화 시 별도",
+    "사운드카드": "DirectSound 호환 메인보드 내장형 또는 별도",
+    "무게": "106g",
+    "크기 (LxWxH)": "92×21×50mm",
+    "인증번호": "R-REI-LUS-LS-HD-CAP",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "정상가": "105,000원",
+    "특가": "60,000원",
+    "HDMI 최대 해상도": "최대 1920x1080, Full HD, 60Hz / 오디오 PCM",
+    "운영체제": "Windows 10, 8, 7 (x86/x64), XP (서비스팩 3 이상) / MacOS / Linux",
+    "메모리": "2GB 이상",
+    "캡쳐 사양 동영상": "AVI (무인코딩, 소프트웨어 인코딩), MPG, TS",
+    "캡쳐 사양 정지화면": "BMP, JPEG",
+    "CPU 재생": "인텔 듀얼코어 2.0GHz 이상 (또는 동급사양의 AMD CPU)",
+    "CPU 녹화": "인텔 쿼드코어 2.8GHz 이상",
+    "크기": "92×21×50mm (L×W×H)",
+    "제조국/원산지": "중국 (China)",
+    "안전규격인증": "KC, FCC, CE, RoHS",
+    "품질경영시스템": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "Windows 10, 8, 7 (x86/x64)",
+    "Windows XP (서비스팩 3 이상)",
+    "MacOS",
+    "Linux",
+    "HDMI 출력 기기 (노트북, 카메라, 게임기)",
+    "OBS Studio (obsproject.com)",
+    "YouTube / YouTube Gaming",
+    "Twitch",
+    "AfreecaTV",
+    "USTREAM",
+    "USB 3.0 인터페이스 지원 PC",
+    "nVidia 200 Series 이상 그래픽카드",
+    "AMD Radeon 4000 이상 그래픽카드",
+    "Intel 3000 Series 이상 그래픽카드",
+    "DirectSound 호환 사운드카드",
+    "YouTube / YouTube Gaming 스트리밍",
+    "Twitch, Facebook Live, Afreeca TV, USTREAM 등 스트리밍 플랫폼",
+    "HDMI 분배기 (4K×2K HDMI Splitter 1×2) 연동",
+    "IPTV, 셋톱박스, 인터넷강의 기기"
+  ],
+  "package_contents": [
+    "USB3.0 HDMI 캡처보드 본체 (LS-HD-CAP)",
+    "USB 3.0 케이블 (Length: 0.6m)",
+    "사용자 메뉴얼 (영상 캡쳐 편집기 사용자메뉴얼)",
+    "HDMI 캡처보드 본체 (LS-HD-CAP)",
+    "사용자 매뉴얼 (영상 캡쳐 편집기 사용자 메뉴얼)",
+    "패키지 박스"
+  ],
+  "usage_instructions": "1. 장치를 컴퓨터의 USB 3.0 포트에 연결하면 인터넷 연결 시 드라이버가 자동 설치되며, 장치 관리자에서 'USB3.0 capture video'를 확인할 수 있습니다.\n2. [오디오 설정] 컴퓨터의 스피커 아이콘을 오른쪽 클릭하여 '녹음 장치'를 선택하고, '디지털 오디오 인터페이스-USB3.0 capture video'를 더블 클릭한 후 '고급' 탭에서 '2채널 16비트 48000Hz(DVD 음질)'로 설정합니다. (미설정 시 오디오 음질 저하 가능)\n3. [소프트웨어 설치] obsproject.com/download 에서 운영체제(Windows/MacOS/Linux)에 맞는 OBS Studio를 다운로드하여 설치합니다.\n4. [OBS 초기 세팅] OBS Studio 실행 후 '소스 목록'에서 '비디오 캡쳐 장치'를 마우스 오른쪽 클릭하여 '속성'을 선택하고, 드롭박스에서 'FHD Webcamera'를 선택합니다.\n5. [비디오 설정] 기본(캔버스) 해상도 1920x1080, 출력(조정된) 해상도 1920x1080, FPS 60으로 설정합니다.\n6. [방송 설정] 방송 형식을 '방송 서비스'로 설정하고 원하는 플랫폼(예: YouTube/YouTube Gaming 등)을 선택한 후 스트림 키를 입력합니다.\n7. 초기 세팅 완료 후 방송 및 녹화를 시작합니다.\n8. HDMI 분배기(별도) 사용 시 HDMI 출력 기기→분배기→캡처보드 및 모니터로 동시 출력이 가능합니다.",
+  "cautions": [
+    "오디오를 반드시 48kHz로 설정해주세요. 미설정 시 오디오 음질이 떨어질 수 있습니다.",
+    "HDCP로 보호된 콘텐츠는 컴포넌트를 통해 녹화가 가능합니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상합니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HD-CAP",
+      "품목코드": "usb-응용제085",
+      "품목명": "[LANstar] USB 3.0 TO HDMI 영상 캡쳐 편집기[30173] (20개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HD-CAP",
+      "내용": "작고 가볍고 신가해요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HD-CAP",
+      "id": 143561406,
+      "date": "2020-12-16 18:32",
+      "answerDate": "2020-12-17 09:26",
+      "user": "rewq****",
+      "productName": "랜스타 USB3.0 TO HDMI 1080P 60Hz 영상 캡처 편집기 LS-HD-CAP",
+      "question": "소니 카메라 a6000을 웹캠으로 사용하려고 하는데 지원이 되나요?",
+      "answer": "안녕하세요 랜스타 입니다\n\n사용에 문제 없습니다"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-HD-CAP-BREAK": "영상 캡쳐 편집기 손상제품 안내\nUSB 3.0 to HDMI 영상 캡쳐 편집기 (LS-HD-CAP)의\n외부 케이스 손상 제품을\n기존 가격보다 저렴하게 판매하고 있습니다.\n제품을 구매하시기 전에\n상품 정보를 꼼꼼히 확인해주시기 바라며\n문의사항이 있으실 경우\n랜스타 고객센터 번호로 전화 부탁드립니다.\n※ 배송비 무료\n제품 테스트 결과 기능상 문제는 없습니다!!\n정상기 : 105,000일:105,000원\n특가 60,000원\nLS-HD-CAP\n—\nocasn\nUSB3.0 HDMI Capture\nHDMI IN\n위 사진은 외부 케이스 손상 제품 예시이며,\n외부 케이스 손상 부위는 달라질 수 있습니다.\nLAN Star®\nHD\n1080\nUSB 3.0 TO HDMI\nHDMI 캡처보드\nLS-HD-CAP\nHDMI IN\nUSB3.0 HDMI Capture\nUSB3.0\nUSB OUT\nAudio\nII\nYou Tube twitch LIVEf\nafreeca™V USTREAM\n\n\nII\nYou Tube twitch f LIVE\nafreeca™V USTREAM\n로고의 저작권은 해당 회사에 있습니다\n1080P Full HD 60프레임 방송과 녹화를 함께!\n1인 크리에이터를 위한 HDMI 캡처보드\nFull HD\n| 1080p\nYou Tube\nHDMI IN\nUSB3.0 HDMI Capture\nUSB3.0\nUSB OUT\nAudio\n당신도 오늘부터 1인 방송국 인기 BJ!\n스트리밍 영상, 게임 영상을 실시간으로\n무손실 캡처하고 고화질로 소장해서\n나만의 스타일로 디자인해보세요!\n연결 도면 ・・・ 1\nHDMI 출력기기\n(노트북, 카메라, 게임기)\nHDMI\nUSB3.0\n기존 연결\nHDMI 캡처보드\nUS830 NOMICapture\n송출용 컴퓨터\n(노트북)\n송출용 모니터\n\n\n송출용 컴퓨터\n(노트북)\n송출용 모니터\n연결 도면 … 2\n\"\nHDMI\nUSB3.0\nHDMI 출력기기\n기존 연결\n(노트북, 카메라, 게임기)\nHDMI 분배기\n4K x 2K\nHDMI Splitter 1x2\nHDMI 캡처보드\nHDMI 출력기기 모니터\nUSB3.0 HDMI Capture\n송출용 컴퓨터\n송출용 모니터\n단, HDCP로 보호된 컨텐츠는 컴포넌트를 통해 녹화가 가능합니다.\n모니터\n범용 직렬 버스 컨트롤러\n사운드, 비디오 및 게임 컨트롤러\nLIFHD Webcamera HDMI 캡처보드aj\nNVIDIA High Definition Audio\nNVIDIA Virtual Audio Device (Wave Extensible) (WDM)\nRealtek High Definition Audio\n인텔(R) 디스플레이 오디오\n소프트웨어 장치\n| 시스템 장치\n피 오디오 입력 및 출력\n> 인쇄 대기열\n««\n장치 관리자\n소리\nx\n● 디지털 오디오 인터페이스 속성\n재생\n녹음\n소리\n통신\n일반\n수신 대기 수준 고급\n설정을 수정할 녹음 장치 선택:\n기본 형식\n공유 모드에서 실험할 때 사용할 샘플 속도 및 비트 수준 선택\n디지털 오디오 인터페이스\nFHD Webcamera\n기본 장지\n마이크\nRealtek High Definition Audio\n• 연결되지 않음\n2 채널 16비트 44100Hz(CD 음질)\n2 채널 16비트 BOOOHz(전화 음질)\n2채널 16비트 11025Hz(받아쓰기 음질)\n2 채널 16비트 16000Hz(테이프 레코더 음질)\n2채널 16비트 22050Hz(AM 라디오 음질)\n2 채널 16비트 32000Hz(FM 라디오 음질)\n216 44100HzCD &\n2 채널\n라인 입력\nRealtek High Definition Audio\n• 연결되지 않음\n스테레오 믹스\nRealtek High Definition Audio\n• 사용안함\n구성(\n기본값으로 설정(S) -\n기본값 복원(D)\n속성(P)\n<<\n오디오를 반드시 48khz로 설정해주세요.\n미설정 시 오디오 음질이 떨어질 수 있습니다.\n오디오 설정\n1) 장치를 컴퓨터에 연결한 후, 컴퓨터의 '스피커'를 오른쪽 클릭하여\n\"녹음 장치\"를 선택합니다.\n2) \"디지털 오디오 인터페이스-FHD Webcamera\"를 더블 클릭,\"\n고급\"에서 \"2채널 16비트, 48000Hz(DVD 음질)\"로 설정합니다.\n0\nx\n・BC 검색\n1. 수\nhttps://obsproject.com/download\nOpen Broadcaster Software\n파일 편집 보기 즐겨찾기 (A) 도구(T) 도움말H\nHome\nDownload\nHelp\nForum\nOpen Broadcaster Software\nㅁ Blog Community Chat ® Donale\nDownload OBS Studio\nSelect Your Operating System\nThe Windows release of OBS Studio supports Windows 7,8, 8.1 and 10\nVersion: 21.1\nReleased: March 18th\nWindows Vista is supported with Service Pack 2.\nDownload Installer\nDownload via Bittorrent\n<<\n\n\n00\nThe Windows release of OBS Studio supports Windows 7.8.8.1 and 10.\nVersion: 21.1\nReleased: March 18th\nWindows Vista is supported with Service Pack 2.\nDownload Installer\nDownload via Bittorrent\nK\n소프트웨어 설치\n1) obsproject.com/download 주소로 이동합니다.\n2) 컴퓨터의 운영 체제(Windows/MacOS/Linux)에 따라 다운로드하고 설치합니다.\n인터넷이 연결되어 있다면 자동으로 드라이버가 설치되므로, 디바이스 매니저에서\n바로 \"FHD Webcamera\"를 찾으실 수 있습니다.\nDirectshow, webcam 방식의 드라이버 지원,\n다양한 외부 소프트웨어 사용이 가능합니다.\nHDMI 캡처보드 초기 세팅은\n다음 사진에 따라 순서대로 해주세요.\nOBS 21.1.0 (64bit, windows) - 프로파일: 제목없음 • 장면 제목없음\n'S1' 속성\n파일(F) 편집(E) 보기(VM) 프로파일(P) 장면 모음(S) 도구(T) 도움말()\n장치 FHD Webcamera\nHD Webcamera\n비디오 설정\n크로스바 설정\n■ 보이지 않는 경우 비활성화\n장면 목록\n소스 목록\n믹서\n해상도/FPS 유형 기본 설정 사용\n장면 1\n해상도\nSFPSU\n・비디오 액처럼 마이크/보조\n0,0 dB\nTELAT\n40 °\n데스크림 오디오 0.008\nCOTTERIE\nO\n비디오 형식의\nYUV 색 공간 기본\n비디오 캡쳐 장치\n0.0 dB\nYUV 색상 범위 부분\n버퍼링 자동 감지\n■ 수직으로 뒤집기\n기본\n<<<\n장면/소스 설정\n드라이버 OBS 스튜디오가 구동되면,\n\"소스 목록\" 창에서 비디오 캡쳐 장치\"를\n마우스 오른쪽 클릭 후 “속성\"을 선택합니다.\n드롭박스에서 \"FHD Webcamera\"를 선택합니다.\n설정\n?\nX\n2 일반\n기본 (캔버스) 해상도 1920x1080\n먹어\n출력 (조정된 해상도 1920x1080\n방송\nI\n축소 필터 Bicubic (영상 크기 변경을 좀 더 날카롭게 처리, 16 샘플)\n출력\n공동 FPS 값 : 60\n오디오\n비디오\n단축키\nfor 고급\n비디오 설정\n설정\n?\n일반\n방송 형식 방송 서비스\n방송\nYouTube / YouTube Gaming\n----------\n출력\nYouTube YouTube Garning\n서버 Smashcast\n오디오\nMixer.com-FTL\n스트럼 키 Mover.com - RTMP\nDalyMotion\nFacebook Live\nRestream.io\nLive Edu.ty\nTwitter/Periscope\n비디오\nCD\nto 단축키\n하고급\nK\n방송 설정\n초기세팅이 완료되었다면\n방송 녹화 시작!\nㅇ\n- HDMI IN -\nUSB3.0 HDMI Capture\nUSB3.0\n\n\nUSB3.0 HDMI Capture\n| | casn ||||\nHDMI 캡처보드!\n이렇게 활용할 수 있습니다.\n실시간으로 방송을 시청하면서\nSaral\n3(9) ₁/\n녹화기능도 함께!\n(IPTV, 셋톱박스, 인터넷강의)\n실시간 방송 송출과 함께\n실시간으로 녹화도 가능!\ndiuin\n(스트림키 입력 필수)\nCHIC\nCHICAGO\n방송장비의 모니터와\n송출용 컴퓨터의 모니터\n동시 출력!\n(IHDMI 분배기 이용)\n실시간방송 송출 시 바로 녹화를 원할 때\n스트림키 입력은 다음과 같은 방법으로\n해주시면 됩니다.\n(()) 실시간 스트리밍\n인코더 설정\n서버 URL\n지금 스트리밍하기\n_rtmp://a.rtmp.youtube.com/live2\n이벤트\n스트림 이름 및 키\n카메라\n새 기능\n2\n| 설정\nX\n2 일반\n방송 형식 방송 서비스\n방송\n서비스 YouTube / YouTube Gaming\n출력\n■ 모든 방송 서비스 표시\n서버 Primary YouTube ingest server\n오디오\n●●●●●●●●●●●●●●●●●●●\n보이기\n| 비디오\nfo 단축키\n고급\n3\n제품 구성\n50mm\nHDMIIN -\nUSB3.0 HDMI Capture\n21mm\n- USB3.0\n92mm\n본체\nUSB3.0\nNI IWGH\n\n\n92mm\n본체\nUSB3.0\nNI IWGH\nAudio\nUSB OUT\nHDMI IN\nAudio outport\nHDMI input port\nUSB 3.0 A port\n*LS-HD-CAP\nLANStar\n4mm\nUSB3.0 HD capture\n12mm\nUser Manual\n영상 캡쳐 편집기 사용자메뉴얼\nLength:\n0.6m\n산업시스(주)\n홈페이지\nUSB3.0 케이블\n메뉴얼\n패키지\nHDMI 캡처보드\nLAN tar\nUS83 0 HDMI Capture\nFull HD\n1080p\n-CAP\nHDMHD-CA\nMI CAPTURE\nLS-\nPlug and Play Streaming and Caputure Board\nSpecification\nHDMI\n최대 1920x1080, FullHD, 60Hz / 오디오 PCM\n운영체제\nWindows10,8,7(x86/x64),XP(서비스팩3이상)\n/MacOS/Linux\n입/출력\nHDMI input port / Audio outport,\nUSB 3.0 A port\n메모리\n2GB 이상\n캡쳐사양\n동영상 AVI(무인코딩, 소프트웨어 인코딩),\nMPG, TS / 정지화면 BMP, JPEG\nCPU\n재생 : 인텔 듀얼코어 2.0GHz 이상\n(또는 동급사양의 AMD CPU)\n녹화 : 인텔 쿼드코어 2.8GHz 이상\n그래픽\n카 드\nnVidia 200 serise 이상, AMD Radeon 4000\n이상, Intel 3000 Serise 이상\n하드디스크\nSATA2 이상 시스템 사양에 따라 녹화 시 별도\n사운드카드\nDirectSound 호환 메인보드 내장형 또는 별도\n무게/크기\n92×21×50mm (LxWxH) / 106g\nCR\nRoHS É FC CE\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를\n인증마크로 사용합니다.\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\nk\n인증번호 R-REI-LUS-LS-HD-CAP\nLAN Star\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nHDMI 캡처보드 (USB 3.0 TO HDMI)\nLANStar\nⓇ\n모\n델\n명\nLS-HD-CAP\n인증번호\nR-REI-LUS-LS-HD-CAP\n回回\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n*구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n\n\nLANStar\nⓇ\n모\n델\n명\nLS-HD-CAP\n인증번호\nR-REI-LUS-LS-HD-CAP\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A",
+        "3.5mm"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 입력 해상도",
+    "connectivity.output_signals": "USB 3.0 A port",
+    "connectivity.directional": "방송과 녹화 동시 지원",
+    "power.power_mode": "컴퓨터의 USB 3.0 포트에 연결",
+    "form_physical.has_case": "외부 케이스 손상 제품을",
+    "certification.kc": "국립전파연구원 인증 제품 (인증번호: R-REI-LUS-LS-HD-CAP)",
+    "audio_video.max_resolution": "1080P Full HD 60프레임",
+    "audio_video.audio_pass": "오디오 PCM",
+    "family.usb_version": "USB 3.0 TO HDMI"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:31",
+  "feature_schema_version": "1.0.0"
+}

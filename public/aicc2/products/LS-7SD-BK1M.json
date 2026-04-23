@@ -1,0 +1,75 @@
+{
+  "model_no": "LS-7SD-BK1M",
+  "product_name": "[LANstar] 랜연장 판넬형 케이블, CAT.7 S/FTP, Screw, 연장 M-F 1M 검정 [11069][120개]",
+  "category": [
+    "랜케이블-CAT7",
+    "랜케이블-FTP",
+    "랜케이블-SFTP",
+    "분배판넬"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-7SD-BK1M",
+      "품목코드": "CAB-S7S004",
+      "품목명": "[LANstar] 랜연장 판넬형 케이블, CAT.7 S/FTP, Screw, 연장 M-F 1M 검정 [11069][120개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-7SD-BK1M",
+      "내용": "제품, 배송 모두만족합니다"
+    },
+    {
+      "source_model": "LS-7SD-BK1M",
+      "내용": "원하는 상품 그대로 잘 도착해서 알맞게 사용했습니다!"
+    },
+    {
+      "source_model": "LS-7SD-BK1M",
+      "내용": "제품 잘 받았습니다.. 항상 사용하는 제품입니다."
+    },
+    {
+      "source_model": "LS-7SD-BK1M",
+      "내용": "상품 잘받았습니다~"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향"
+    },
+    "form_physical": {
+      "length_meters": 1,
+      "color_options": [
+        "검정"
+      ]
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "SFTP",
+      "conductor": "연선(stranded)"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "랜연장 판넬형 케이블",
+    "connectivity.output_signals": "랜연장 판넬형 케이블",
+    "connectivity.directional": "랜연장 판넬형 케이블",
+    "form_physical.length_meters": "1M",
+    "form_physical.color_options": "검정",
+    "family.cat_category": "CAT.7",
+    "family.shielding": "S/FTP",
+    "family.conductor": "연장 M-F"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:41",
+  "feature_schema_version": "1.0.0"
+}

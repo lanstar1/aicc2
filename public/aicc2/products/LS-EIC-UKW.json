@@ -1,0 +1,156 @@
+{
+  "model_no": "LS-EIC-UKW",
+  "product_name": "CAT.5E 인라인 UTP 고급 커플러 (키스톤형)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP",
+    "키스톤잭",
+    "커플러",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "CAT.5E UTP용 고급형 키스톤 타입 인라인 커플러",
+    "UTP Coupler 1:1 / RJ-45 / 8P8C / 110 Block Keystone Type",
+    "Blank 아울렛, 벽부착용 아웃렛, Blank 박스에 부착하여 사용 가능",
+    "공공기관 및 기업 등 공사용으로 많이 사용",
+    "LAN 케이블 길이가 짧거나 연장이 필요할 때 사용 가능",
+    "UL 인증 취득 (인증번호: DUXR.E203713)",
+    "Meets C6 EIA/TIA 568B Standard",
+    "제조국: 대만 (Taiwan)",
+    "커넥터 타입: F/F (Female/Female)",
+    "색상: White (흰색)"
+  ],
+  "specifications": {
+    "제품 소재 (본체)": "불연 ABS UL-94V0",
+    "잭 (XH JACK)": "8P8C 50 금도금",
+    "PCB": "FR-4 / UL-94V0",
+    "절연 저항": "500M ohms (최소)",
+    "접속 저항": "200M ohms (최대)",
+    "전류 정격": "1.5 Amps",
+    "DC 저항": "0.1 ohms (최대)",
+    "내전압": "1000 VAC RMS @ 60Hz / 1분",
+    "잭 삽입 주기": "2000회 이상",
+    "작동 온도": "-40도 ~ 70도",
+    "커넥터 타입": "RJ-45 / 8P8C / F/F",
+    "배선 방식": "UTP 1:1",
+    "키스톤 타입": "110 Block Keystone Type",
+    "색상": "White (흰색)",
+    "UL 인증번호": "DUXR.E203713",
+    "준수 규격": "EIA/TIA 568B (CAT.5E)",
+    "치수 (가로)": "23.9mm",
+    "치수 (세로)": "17mm",
+    "치수 (깊이)": "28.7mm",
+    "제조국": "대만 (Taiwan)",
+    "제조사 / 수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "CAT.5E UTP LAN 케이블",
+    "RJ-45 / 8P8C 커넥터",
+    "110 Block Keystone 타입 아울렛",
+    "Blank 아울렛",
+    "벽부착용 아웃렛",
+    "Blank 박스",
+    "EIA/TIA 568B 표준 준수 장비"
+  ],
+  "package_contents": [
+    "CAT.5E 인라인 UTP 고급 커플러 (키스톤형) 본체 1개"
+  ],
+  "usage_instructions": "키스톤형 커플러를 Blank 아울렛, 벽부착용 아웃렛, 또는 Blank 박스에 장착한 후 RJ-45 LAN 케이블을 양쪽 단자에 연결하여 사용. LAN 케이블 연장 또는 길이 부족 시에도 활용 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 소비자 상담 전화: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-EIC-UKW",
+      "품목코드": "NEO-커플러029",
+      "품목명": "[LANstar] 키스톤 장착형 커플러, CAT.5E, UTP, I형, RJ45, 대만산[40097]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-EIC-UKW",
+      "내용": "장비에 잘 맞네요~"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "PVC",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ-45 / 8P8C",
+    "connectivity.output_signals": "RJ-45 / 8P8C",
+    "connectivity.directional": "UTP Coupler 1:1",
+    "connectivity.port_count": "RJ-45 LAN 케이블을 양쪽 단자에 연결",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "키스톤 타입 인라인 커플러",
+    "form_physical.material": "불연 ABS UL-94V0",
+    "form_physical.color_options": "색상: White (흰색)",
+    "family.cat_category": "CAT.5E UTP용",
+    "family.shielding": "UTP",
+    "family.flame_rating": "불연 ABS UL-94V0"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:52",
+  "feature_schema_version": "1.0.0"
+}

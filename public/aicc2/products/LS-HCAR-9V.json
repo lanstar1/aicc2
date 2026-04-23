@@ -1,0 +1,155 @@
+{
+  "model_no": "LS-HCAR-9V",
+  "product_name": "LANStar 차량용 고속 무선충전기 (중력거치형)",
+  "category": [
+    "무선충전"
+  ],
+  "key_features": [
+    "중력 거치 방식: 휴대폰을 올려놓으면 양쪽 고정 클램프가 자동으로 고정",
+    "10W 고속 무선충전 지원 (9V / 1.67A)",
+    "Qi 표준 규격 지원으로 Qi 인증 모든 스마트 디바이스 충전 가능",
+    "고효율 대형 코일 1개로 안정적인 충전 지원",
+    "360° 회전축으로 원하는 방향 고정 가능",
+    "고정클램프 및 하단 지지대에 스크래치·미끄럼 방지 특수 재질 코팅",
+    "Micro 5Pin USB 포트 추가 제공",
+    "송풍구 거치대 및 3M 스티커 마운트 2가지 설치 방식 지원",
+    "LED 표시등으로 충전 상태 확인 가능 (충전 중: 파란색, 미충전: 적색)",
+    "과전압·과전류 보호 기능 내장",
+    "가로 방향 거치 사용 가능",
+    "KC, FCC, CE 인증 획득, RoHS 준수",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "입력": "DC 5V-2A / 9V-1.67A",
+    "출력": "DC 5V-1A / 9V-1.3A Max",
+    "최대출력": "10W",
+    "충전효율": "83% 이상",
+    "충전거리": "3~10mm",
+    "표준출력규격": "Qi",
+    "크기": "10cm x 9.5cm x 4.5cm",
+    "중량": "115g",
+    "거치가능_최소폭": "7cm",
+    "거치가능_최대폭": "9.5cm",
+    "인증번호": "R-RMI-LUS-LS-HCS-9V",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "안전규격인증": "KC, FCC, CE",
+    "품질규격": "ISO 9001:2008, RoHS COMPLIANT"
+  },
+  "compatibility": [
+    "Qi 규격을 지원하는 모든 무선충전 기기",
+    "[5W 일반 무선충전] 애플 아이폰X / 8 / 8+",
+    "[5W 일반 무선충전] 삼성 갤럭시S6 / S6엣지",
+    "[5W 일반 무선충전] LG G6+",
+    "[5W 일반 무선충전] 넥서스 5 / 6, 베가 IM-100",
+    "[10W 고속 무선충전] 삼성 갤럭시노트9 / 8 / FE / 7 / 5",
+    "[10W 고속 무선충전] 삼성 갤럭시S9 / S9+ / S8 / S8+ / S7 / S7엣지 / S6엣지+",
+    "[10W 고속 무선충전] LG V30, G7",
+    "무선충전 미지원 기기: Qi 규격 무선충전케이스 또는 무선충전패드(별도 구매) 사용 시 호환",
+    "[무선충전패드 - 아이폰 호환 8Pin] LS-MPATCH-AP8P",
+    "[무선충전패드 - Micro 5Pin] LS-MPATCH-MICB",
+    "[무선충전패드 - Type-C] LS-MPATCH-U31"
+  ],
+  "package_contents": [
+    "차량용 고속 무선충전기 본체 (LS-HCAR-9V)",
+    "매뉴얼 (한글)",
+    "Micro 5pin 케이블 (1M)",
+    "송풍구 마운트",
+    "스티커 마운트"
+  ],
+  "usage_instructions": "1. 송풍구 거치대(직선형 송풍구 전용) 또는 3M 스티커 마운트 중 하나를 선택하여 차량에 고정한다. 2. 360° 회전축을 이용해 원하는 방향으로 각도를 조절한 뒤 고정용 버클로 고정한다. 3. 9V 고속충전을 위해서는 반드시 9V 전용 시거잭(모델명 STIM-QC1-241 등 Adaptive Fast Charging 지원 어댑터)을 사용한다. 일반 차량 USB 포트나 5V 시거잭은 5V 일반 충전만 지원한다. 4. 휴대폰을 충전기 위에 올려놓으면 중력에 의해 양쪽 고정 클램프가 자동으로 휴대폰을 고정하며 충전이 시작된다. 5. LED 표시등으로 충전 상태를 확인한다(충전 중: 파란색, 미충전: 적색). 6. 무선충전 미지원 기기는 별도 판매 무선충전패드를 기기에 연결 후 사용한다.",
+  "cautions": [
+    "충전기는 안전을 위해 반드시 KC인증을 받은 제품만 사용할 것",
+    "고속무선충전 사용 시 고속충전 가능한 충전기 어댑터(9V 전용 시거잭)를 사용할 것",
+    "일반 차량 USB 포트 및 5V 시거잭에서는 5V 일반 충전만 가능",
+    "스마트폰 기기에서 고속무선충전(9V)을 지원하지 않는 경우 일반 무선충전(5V)으로 충전됨",
+    "LG V30은 15W 고속충전 시 '고속무선충전중'으로 표시, 9W 고속충전 시 '무선충전중'으로 표시됨",
+    "스마트폰 케이스가 너무 두꺼운 경우 충전이 제대로 되지 않을 수 있으므로 케이스 분리 후 사용",
+    "신용카드, 통장, 승차권 등 자성을 이용한 제품은 제품의 자기에 의해 정보가 훼손될 수 있으므로 주의",
+    "WPC 글로벌 자기유도방식 무선충전 표준으로 제작되어 Qi 인증 제품과 호환 가능",
+    "무선충전을 지원하지 않는 디바이스는 Qi 규격 무선충전케이스 또는 무선충전패드를 함께 사용",
+    "송풍구 거치대는 직선형 송풍구에만 사용 가능하며, 홈이 얕거나 곡선형 송풍구에는 사용 불가",
+    "고출력 전원(5V/2A 이상)을 연결해야 안정적인 충전 가능",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "무단 복제 및 콘텐츠 이용 금지"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HCAR-9V",
+      "품목코드": "CAB-APP629",
+      "품목명": "[LANstar] 차량용 고속 무선충전기, 중력 거치형, 9V/1.67A [60111] (50개)]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-Micro"
+      ],
+      "output_signals": [
+        "무선"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "wireless_standard": "Qi",
+      "output_watts": 10
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Micro 5Pin USB 포트 추가 제공",
+    "connectivity.output_signals": "10W 고속 무선충전 지원",
+    "connectivity.directional": "양쪽 고정 클램프가 자동으로 고정",
+    "power.power_mode": "9V 전용 시거잭",
+    "power.charging_support": "10W 고속 무선충전 지원",
+    "form_physical.has_case": "LANStar 차량용 고속 무선충전기",
+    "form_physical.material": "특수 재질 코팅",
+    "certification.kc": "KC, FCC, CE 인증 획득",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "KC, FCC, CE 인증 획득",
+    "certification.ce": "KC, FCC, CE 인증 획득",
+    "family.wireless_standard": "Qi 표준 규격 지원",
+    "family.output_watts": "10W 고속 무선충전 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:31",
+  "feature_schema_version": "1.0.0"
+}

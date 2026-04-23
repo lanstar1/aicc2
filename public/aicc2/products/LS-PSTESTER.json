@@ -1,0 +1,155 @@
+{
+  "model_no": "LS-PSTESTER",
+  "product_name": "파워 서플라이 LCD 테스터기",
+  "category": [
+    "커넥터"
+  ],
+  "key_features": [
+    "LCD 창을 통해 핀별 정격 전압 확인 가능",
+    "PC 파워 불량 시 사운드(알람)로 이상 알림",
+    "디지털 방식의 전압 측정값을 LCD로 간단하게 확인",
+    "낮은 전압, 초과 전압, 전압 미감지 시 알람 울림",
+    "파워 서플라이 각 출력 커넥터 체크 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "모델명": "LS-PSTESTER",
+    "제품명": "파워 서플라이 LCD 테스터기",
+    "전압 측정 항목": "+12V / +5V / +3.3V / 5VSB",
+    "전압 오차범위": "+/- 0.1V",
+    "제품 크기": "65mm x 125mm x 18mm",
+    "KC 인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "20+4pin 커넥터",
+    "4pin 커넥터",
+    "6pin 커넥터",
+    "8pin(4pin) 커넥터",
+    "FDD 커넥터",
+    "SATA 커넥터",
+    "HDD/ODD 4pin Power 커넥터"
+  ],
+  "package_contents": [
+    "파워 서플라이 테스터기 본체 (LS-PSTESTER)"
+  ],
+  "usage_instructions": "파워 서플라이의 각 핀(20+4pin, 4pin, 6pin, 8pin, FDD, SATA 등)을 테스터기에 꽂은 뒤 전원을 연결하면 LCD 창에서 핀별 전압 계측값을 확인할 수 있으며, 이상 발생 시 알람음으로 불량 여부를 알 수 있습니다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단 참조)로 문의하세요."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PSTESTER",
+      "품목코드": "NEO-테스터121",
+      "품목명": "[LANstar] 파워서플라이 LCD 테스터기 [30496] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-PSTESTER",
+      "내용": "도착 후 바로 파워 부품 받은 것 테스트 했어요 파워 고장 확인 간편하게 할 수 있어서 아주 좋습니다."
+    },
+    {
+      "source_model": "LS-PSTESTER",
+      "내용": "잘 사용하고있습니다!!"
+    },
+    {
+      "source_model": "LS-PSTESTER",
+      "내용": "테스트기 덕분에 본체를 조립했어요"
+    },
+    {
+      "source_model": "LS-PSTESTER",
+      "내용": "잘 작동합니다 추천합니다",
+      "관련내용": "잘 작동합니다 빠른  배송  감사 합니다"
+    },
+    {
+      "source_model": "LS-PSTESTER",
+      "내용": "아주 만족하면서 잘 쓰고 있습니다.",
+      "관련내용": "예전 구형만 보다 신형을 보니 새삼 다르네요. 훨씬 편해져서 좋네요."
+    },
+    {
+      "source_model": "LS-PSTESTER",
+      "내용": "잘 작동합니다 빠른  배송  감사 합니다"
+    },
+    {
+      "source_model": "LS-PSTESTER",
+      "내용": "예전 구형만 보다 신형을 보니 새삼 다르네요. 훨씬 편해져서 좋네요."
+    },
+    {
+      "source_model": "LS-PSTESTER",
+      "내용": "일단 배송 빨랐고, 사용법이 간단합니다. 일단 lcd창이 있어서 뭐가 전압수등도 빠르게 확인이 가능합니다. 예전에는 그냥 불만 들어와서 제대로 작동하는지만 알고 있었거든요. 사용하는데 있어 만족합니다"
+    },
+    {
+      "source_model": "LS-PSTESTER",
+      "내용": "배송 빠르고 알리에서 구매하는 가격하고도 차이없고 좋네요 아직 사용전 이라 나중에 사용 후기 따로 올릴게요 그럼 많이 파세요"
+    },
+    {
+      "source_model": "LS-PSTESTER",
+      "내용": "품질른 별로지만 잘 작동해요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "SATA",
+        "FDD"
+      ],
+      "output_signals": [],
+      "directional": "N/A"
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [],
+      "color_options": []
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": null,
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "각 핀(20+4pin, 4pin, 6pin, 8pin, FDD, SATA 등)",
+    "form_physical.has_case": "제품 크기: 65mm x 125mm x 18mm",
+    "certification.kc": "KC 인증번호: 해당없음"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:36",
+  "feature_schema_version": "1.0.0"
+}

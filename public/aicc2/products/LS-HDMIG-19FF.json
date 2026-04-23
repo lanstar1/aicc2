@@ -1,0 +1,135 @@
+{
+  "model_no": "LS-HDMIG-19FF",
+  "product_name": "LANStar HDMI 변환젠더 19핀 F/F (HDMI19P/F-HDMI19P/F)",
+  "category": [
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "양쪽 모두 HDMI 19핀 Female(F) 타입 커넥터로 구성된 젠더",
+    "신호 손실을 최소화하는 금도금 커넥터 적용",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "품명": "HDMI 변환젠더 F/F",
+    "모델명": "LS-HDMIG-19FF",
+    "커넥터 타입": "HDMI 19핀 Female / HDMI 19핀 Female",
+    "커넥터 도금": "금도금",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 19핀 Male 커넥터를 사용하는 기기 및 케이블"
+  ],
+  "package_contents": [
+    "HDMI 변환젠더 F/F (LS-HDMIG-19FF) 본체 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "유통 과정상 제품의 모양이 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단 참조)로 문의하세요."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMIG-19FF",
+      "품목코드": "GEN-HDI008",
+      "품목명": "[LANstar] HDMI젠더, HDMI 19P F／F, Gold[20092]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDMIG-19FF",
+      "내용": "아직사용전입니다.아직사용전입니다."
+    },
+    {
+      "source_model": "LS-HDMIG-19FF",
+      "내용": "가격대비 괜찮은듯 합니다"
+    },
+    {
+      "source_model": "LS-HDMIG-19FF",
+      "내용": "만족합니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19핀 Female(F) 타입",
+    "connectivity.output_signals": "HDMI 19핀 Female(F) 타입",
+    "connectivity.directional": "양쪽 모두 HDMI 19핀 Female(F)",
+    "connectivity.port_count": "양쪽 모두 HDMI 19핀 Female(F)",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "HDMI 변환젠더 19핀 F/F",
+    "form_physical.material": "금도금 커넥터 적용",
+    "certification.kc": "인증번호: 해당없음",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.conversion_direction": "양쪽 모두 HDMI 19핀 Female(F)",
+    "family.requires_external_power": "무전원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:27",
+  "feature_schema_version": "1.0.0"
+}

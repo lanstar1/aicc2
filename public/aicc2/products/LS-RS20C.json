@@ -1,0 +1,150 @@
+{
+  "model_no": "LS-RS20C",
+  "product_name": "LAN Star USB2.0 to RS232 Cable (USB to 시리얼 컨버터)",
+  "category": [
+    "USB2.0",
+    "컨버터",
+    "젠더"
+  ],
+  "key_features": [
+    "USB 2.0 지원 (480Mbps), USB 1.1 대비 40배 빠른 전송 속도",
+    "FTDI FT232 칩셋 사용으로 RS232 장치와 높은 호환성",
+    "양방향/단방향 통신 지원, 최대 1Mbps 전송 속도",
+    "케이블 길이 1.8M로 PC와 시리얼 기기 간 원거리 연결 가능",
+    "Plug & Play 지원 (별도 프로그램 설치 없이 자동 인식)",
+    "9Pin(M) 단자 및 25Pin 변환 젠더 포함으로 다양한 시리얼 장치 연결 가능",
+    "RoHS 준수, KC/FCC/CE 안전규격 인증"
+  ],
+  "specifications": {
+    "USB 규격": "USB 2.0 (USB 1.1 하위 호환)",
+    "USB 전송 속도": "480Mbps",
+    "최대 시리얼 전송 속도": "1Mbps",
+    "사용 칩셋": "FTDI FT232BL",
+    "케이블 길이": "1.8M",
+    "시리얼 커넥터": "9Pin D-Sub(M) (RS232)",
+    "USB 커넥터": "USB Type-A (M)",
+    "기본 포트 설정 (비트/초)": "9600",
+    "기본 포트 설정 (데이터 비트)": "8",
+    "기본 포트 설정 (패리티)": "없음",
+    "기본 포트 설정 (정지 비트)": "1",
+    "기본 포트 설정 (흐름 제어)": "없음",
+    "USB 수신 버퍼 크기": "4096 바이트",
+    "USB 송신 버퍼 크기": "4096 바이트",
+    "KC 전기용품 안전인증번호": "E-F900-04-1010",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "환경 인증": "RoHS 준수",
+    "안전규격 인증": "KC, FCC, CE"
+  },
+  "compatibility": [
+    "Windows 98",
+    "Windows 2000",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Mac OS X (8.6 이상)",
+    "Linux",
+    "모뎀 (RS232)",
+    "PDA (RS232)",
+    "GPS (RS232)",
+    "내비게이션 (RS232)",
+    "카드결제 단말기 (RS232)",
+    "RS232 규격 시리얼 장치 전반"
+  ],
+  "package_contents": [
+    "USB RS20C 케이블 (1.8M)",
+    "9-25 변환 젠더",
+    "드라이버 CD"
+  ],
+  "usage_instructions": "USB 단자를 PC에 연결하고 9Pin(M) 단자를 RS232 시리얼 장치에 연결하면 Plug & Play로 자동 인식됩니다. 장치 관리자에서 느낌표가 표시될 경우 제품에 동봉된 드라이버 CD로 드라이버를 설치하세요. 25Pin 시리얼 장치 연결 시 동봉된 9-25 변환 젠더를 사용하세요.",
+  "cautions": [
+    "장치 관리자에서 느낌표가 표시되면 동봉된 드라이버 CD로 드라이버를 설치해야 합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 소비자 상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RS20C",
+      "품목코드": "USB-시리얼004",
+      "품목명": "[LANstar] USB 2.0 시리얼 컨버터 케이블+젠더(30개)[30014]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 1.8,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.00048,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB Type-A (M)",
+    "connectivity.output_signals": "9Pin D-Sub(M) (RS232)",
+    "connectivity.directional": "양방향/단방향 통신 지원",
+    "power.power_mode": "USB 단자를 PC에 연결하고",
+    "power.charging_support": "USB2.0 to RS232 Cable",
+    "form_physical.has_case": "LAN Star USB2.0 to RS232 Cable",
+    "form_physical.length_meters": "케이블 길이 1.8M",
+    "certification.kc": "KC 전기용품 안전인증번호",
+    "certification.rohs": "RoHS 준수",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "USB to 시리얼 컨버터",
+    "audio_video.hdcp_version": "USB to 시리얼 컨버터",
+    "audio_video.audio_pass": "USB to 시리얼 컨버터",
+    "family.usb_version": "USB 2.0 (USB 1.1 하위 호환)",
+    "family.transfer_speed_gbps": "480Mbps",
+    "family.charging_only": "USB2.0 to RS232 Cable",
+    "family.data_only": "USB2.0 to RS232 Cable"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:43",
+  "feature_schema_version": "1.0.0"
+}

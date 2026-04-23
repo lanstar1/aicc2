@@ -1,0 +1,131 @@
+{
+  "model_no": "LS-CGNT",
+  "product_name": "허브랙 & 서버랙 전용 케이지너트 세트",
+  "category": [
+    "분배판넬",
+    "서버랙",
+    "허브랙"
+  ],
+  "key_features": [
+    "허브랙 및 서버랙 전용 케이지너트·볼트·고무와셔 구성 세트",
+    "선반, 패치판넬, 서랍 등 랙 마운트 장비 결합에 사용",
+    "기존 케이지너트·볼트 분실 시 여분으로 구매 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "제조사: 라인업시스템(주) / 브랜드: LANStar"
+  ],
+  "specifications": {
+    "모델명": "LS-CGNT",
+    "제품명": "허브랙&서버랙 전용 케이지너트 세트",
+    "제조사/수입사": "라인업시스템(주)",
+    "브랜드": "LANStar",
+    "제조국/원산지": "중국 (China)",
+    "KC 인증 번호": "해당없음",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입",
+    "AS 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr",
+    "구성 수량": "케이지너트 10pcs, 볼트 10pcs, 고무와셔 10pcs (1SET)"
+  },
+  "compatibility": [
+    "미니 허브랙: LS-240HM, LS-240HC, LS-420HM",
+    "일반 허브랙: LS-1000H/B, LS-1200H/B, LS-1600H/B, LS-1800H/B, LS-2000H/B",
+    "고급형 허브랙: LS-800HQ, LS-1000HQ, LS-1200HQ, LS-1600HQ, LS-1800HQ, LS-2000HQ",
+    "일반 서버랙: LS-750HS, LS-1200HS, LS-1800HS, LS-2000HS",
+    "고급형 서버랙: LS-1600HSQ, LS-1800HSQ, LS-2000HSQ",
+    "오픈형 허브랙 및 랜스타 일반 허브랙(300H/B, 500H/B, 750H/B)은 일반 나사형으로 케이지너트 세트 사용 불가"
+  ],
+  "package_contents": [
+    "케이지너트 10pcs",
+    "케이지볼트 10pcs",
+    "고무와셔 10pcs"
+  ],
+  "usage_instructions": "허브랙 및 서버랙에 선반, 패치판넬, 서랍 등을 결합할 때 케이지너트를 랙 프레임에 먼저 장착한 후, 고무와셔를 끼운 볼트로 장비를 고정하여 사용. 기존 사용 중 케이지너트 또는 볼트 분실 시 여분으로 구매하여 교체 사용 가능.",
+  "cautions": [
+    "오픈형 허브랙과 랜스타 일반 허브랙(300H/B, 500H/B, 750H/B)은 일반 나사형으로 케이지너트 세트를 사용할 수 없으므로 구매 시 반드시 확인 필요.",
+    "제조사 사정에 따라 제품의 색상·형태 등 사양은 예고 없이 변경될 수 있음.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-CGNT",
+      "품목코드": "NEO-랙선반059",
+      "품목명": "[LANstar] 허브랙&서버랙용 케이지너트 세트 (10개입) [30573]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-CGNT",
+      "내용": "가격좋습니다.\n\n잘쓸게요"
+    },
+    {
+      "source_model": "LS-CGNT",
+      "내용": "좋아요 배송이 빨라요"
+    },
+    {
+      "source_model": "LS-CGNT",
+      "내용": "배송빠르고 만족합니다"
+    },
+    {
+      "source_model": "LS-CGNT",
+      "내용": "빠른배송과 저렴한 가격"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "스틸",
+        "고무"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "port_count": null,
+      "mount_style": "bracket"
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "케이지너트 세트",
+    "form_physical.material": "케이지너트 10pcs, 볼트 10pcs, 고무와셔 10pcs",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "family.mount_style": "랙 마운트 장비 결합에 사용"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:05",
+  "feature_schema_version": "1.0.0"
+}

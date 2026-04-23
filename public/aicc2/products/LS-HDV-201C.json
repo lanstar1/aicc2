@@ -1,0 +1,134 @@
+{
+  "model_no": "LS-HDV-201C",
+  "product_name": "Mini HDMI to VGA 컨버터 (오디오 미지원)",
+  "category": [
+    "VGA",
+    "컨버터"
+  ],
+  "key_features": [
+    "Mini HDMI(입력)를 VGA(출력)로 변환",
+    "오디오 미지원",
+    "1080P Full HD 고해상도 지원",
+    "HDMI 단자에서 전원 공급 (별도 전원 불필요)",
+    "노트북, 데스크탑, 게임기 등의 영상을 TV, 모니터, 프로젝터로 출력 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC, FCC, CE 안전규격 인증 획득",
+    "RoHS 규격 준수"
+  ],
+  "specifications": {
+    "입력 단자": "Mini HDMI Male",
+    "출력 단자": "VGA Female",
+    "HDMI 출력 해상도": "480P, 576P, 720P, 1080P",
+    "지원 해상도": "1920x1080, 1680x1050, 1600x1200, 1600x900, 1440x900, 1400x1050, 1366x768, 1280x1024, 1280x960, 1280x800, 1280x600, 1152x864, 1024x768, 800x600",
+    "지원 운영체제": "WIN XP, Vista, WIN7(32/64bit), WIN8(32/64bit)",
+    "케이블 길이": "25cm",
+    "작동 온도": "섭씨 10~40도",
+    "보관 온도": "영하 15~85도",
+    "인증번호": "KCC-REI-LUS-LS-PAD2VGA",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "Mini HDMI 단자 탑재 노트북",
+    "Mini HDMI 단자 탑재 데스크탑",
+    "Mini HDMI 단자 탑재 게임기",
+    "Mini HDMI 단자 탑재 캠코더",
+    "Mini HDMI 단자 탑재 DSLR",
+    "Mini HDMI 단자 탑재 태블릿 PC",
+    "VGA 입력 지원 모니터",
+    "VGA 입력 지원 TV",
+    "VGA 입력 지원 프로젝터"
+  ],
+  "package_contents": [
+    "Mini HDMI to VGA 컨버터 본체 (LS-HDV-201C) 1개"
+  ],
+  "usage_instructions": "Mini HDMI Male 단자를 소스 기기(노트북, 데스크탑, 게임기 등)의 Mini HDMI 포트에 연결하고, VGA Female 단자를 출력 기기(모니터, TV, 프로젝터 등)의 VGA 포트에 연결하면 전원 없이 사용 가능합니다.",
+  "cautions": [
+    "오디오 신호는 지원하지 않습니다.",
+    "별도 전원 공급 장치 없이 HDMI 단자에서 전원을 공급받습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품의 상품 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDV-201C",
+      "품목코드": "INT-HD선073",
+      "품목명": "[LANstar] MINI HDMI TO VGA 컨버터/영상/오디오미지원 0.15M, 보급형[30119]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.25,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Mini HDMI(입력)",
+    "connectivity.output_signals": "VGA(출력)",
+    "connectivity.directional": "Mini HDMI(입력)를 VGA(출력)로 변환",
+    "power.power_mode": "HDMI 단자에서 전원 공급 (별도 전원 불필요)",
+    "form_physical.has_case": "Mini HDMI to VGA 컨버터",
+    "form_physical.length_meters": "케이블 길이: 25cm",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "1080P Full HD 고해상도 지원",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "오디오 미지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:36",
+  "feature_schema_version": "1.0.0"
+}

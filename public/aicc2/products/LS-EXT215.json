@@ -1,0 +1,100 @@
+{
+  "model_no": "LS-EXT215",
+  "product_name": "[LANstar] USB2.0 리피터 케이블 15M (20개) [30579]",
+  "category": [
+    "USB케이블",
+    "USB2.0",
+    "리피터"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-EXT215",
+      "품목코드": "USB-리피터229",
+      "품목명": "[LANstar] USB2.0 리피터 케이블 15M (20개) [30579]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-EXT215",
+      "내용": "배송빠르고 품질 좋아요."
+    },
+    {
+      "source_model": "LS-EXT215",
+      "내용": "길어도 인식이잘되고 좋아여"
+    },
+    {
+      "source_model": "LS-EXT215",
+      "내용": "디지털 카메라 연결을 위해 구입했는데 신호 잘 들어오고 아주 좋습니다^^"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": 15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB2.0 리피터 케이블",
+    "connectivity.output_signals": "USB2.0 리피터 케이블",
+    "connectivity.directional": "리피터 케이블",
+    "power.power_mode": "리피터 케이블",
+    "form_physical.length_meters": "케이블 15M",
+    "family.usb_version": "USB2.0",
+    "family.charging_only": "리피터 케이블",
+    "family.data_only": "리피터 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:04",
+  "feature_schema_version": "1.0.0"
+}

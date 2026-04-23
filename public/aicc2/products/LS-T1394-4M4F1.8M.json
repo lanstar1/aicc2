@@ -1,0 +1,127 @@
+{
+  "model_no": "LS-T1394-4M4F1.8M",
+  "product_name": "IEEE 1394 4P-4P 케이블",
+  "category": [
+    "1394케이블"
+  ],
+  "key_features": [
+    "USB보다 빠른 데이터 고속 전송",
+    "멀티미디어 데이터 실시간 전송이 가능한 빠른 전송속도",
+    "100, 200, 400Mbps의 서로 다른 속도를 혼합하여 사용 가능",
+    "디지털 신호를 그대로 사용해 데이터 손실이 적음",
+    "Plug and Play 및 Hot Swapping 지원",
+    "DV 캠코더의 영상을 바로 재생 가능",
+    "RoHS 규격 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "케이블 길이": "1800mm",
+    "커넥터 A": "1394 4pin Male",
+    "커넥터 B": "1394 4pin Female",
+    "전송속도": "100 / 200 / 400Mbps",
+    "정격전압": "30V",
+    "정격온도": "80°C",
+    "난연등급": "VW-1",
+    "케이블 직경": "5.6mm",
+    "커넥터 A 전체 길이": "14mm",
+    "커넥터 A 폭": "10.5mm",
+    "커넥터 A 높이": "6mm",
+    "커넥터 B 전체 길이": "7.9mm",
+    "커넥터 B 폭": "6.2mm",
+    "커넥터 B 높이": "5.5mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "IEEE 1394 지원 포트가 있는 PC",
+    "IEEE 1394 지원 포트가 있는 연결 장치",
+    "DV 캠코더 (IEEE 1394 4pin 포트 탑재 기기)"
+  ],
+  "package_contents": [
+    "IEEE 1394 4P-4P 케이블 (LS-T1394-4M4F1.8M) 1개"
+  ],
+  "usage_instructions": "PC와 연결 장치 각각에 IEEE 1394 지원 포트가 있어야 합니다. 케이블의 4pin Male 커넥터를 한쪽 기기에, 4pin Female 커넥터를 다른 기기에 연결하여 사용합니다. Plug and Play 및 Hot Swapping을 지원합니다.",
+  "cautions": [
+    "PC와 연결 장치 모두에 IEEE 1394 지원 포트가 있어야 합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-T1394-4M4F1.8M",
+      "품목코드": "CAB-139043",
+      "품목명": "[10929](LANstar) 1394 연장 케이블 , 4P(M)-4P(F) 1.8M",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "IEEE1394-4P"
+      ],
+      "output_signals": [
+        "IEEE1394-4P"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 1.8,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "1394 4pin Male",
+    "connectivity.output_signals": "1394 4pin Female",
+    "connectivity.directional": "멀티미디어 데이터 실시간 전송",
+    "form_physical.length_meters": "1800mm",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.optical_core": "IEEE 1394 4P-4P 케이블",
+    "family.ethernet_channel": "IEEE 1394 4P-4P 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:14",
+  "feature_schema_version": "1.0.0"
+}

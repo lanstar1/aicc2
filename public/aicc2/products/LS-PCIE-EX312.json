@@ -1,0 +1,151 @@
+{
+  "model_no": "LS-PCIE-EX312",
+  "product_name": "LANStar USB 3.1 C Type PCI Express Card",
+  "category": [
+    "랜케이블-CAT6A",
+    "USB-C",
+    "USB3.0"
+  ],
+  "key_features": [
+    "USB 3.1 Gen2 지원, 최대 전송속도 10Gbps (SuperSpeed+)",
+    "USB 3.1 C Type + USB 3.0 A Type 포트 제공",
+    "ASMedia ASM1142 칩셋 탑재로 안정성과 호환성 보장",
+    "PCI Express 4X 슬롯 인터페이스 (8X, 16X 슬롯도 장착 가능)",
+    "전원 공급 900mA(USB 3.0) 대비 1500mA(USB 3.1)로 향상",
+    "Windows 11 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 획득 (인증번호: MSIP-REI-LUS-LS-PCIE-EX312)"
+  ],
+  "specifications": {
+    "포트 타입": "USB 3.1 C Type + A Type",
+    "최대 전송속도": "10Gbps",
+    "지원 운영체제": "Windows 7 / 8 / 8.1 / 10 / 11, Linux",
+    "전압": "5V / 1.5A",
+    "칩셋": "ASMedia ASM1142",
+    "인터페이스": "PCI Express 4X",
+    "전원 공급 전류": "1500mA (USB 3.1)",
+    "인증": "KC, FCC, CE, RoHS",
+    "인증번호": "MSIP-REI-LUS-LS-PCIE-EX312",
+    "제조국 / 원산지": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "PCI Express 4X 슬롯 (기본 장착 슬롯)",
+    "PCI Express 8X 슬롯 (장착 가능)",
+    "PCI Express 16X 슬롯 (장착 가능)",
+    "PCI Express 1X 슬롯 (장착 불가)",
+    "Windows 7 / 8 / 8.1 / 10 / 11",
+    "Linux"
+  ],
+  "package_contents": [
+    "USB 3.1 C Type PCI Express 카드 본체",
+    "설치 드라이버 CD",
+    "사용설명서"
+  ],
+  "usage_instructions": "1. 메인보드의 PCI Express 4X 이상 슬롯(8X, 16X 포함)에 카드를 장착한다. 장착 전 PC의 SATA 전원 케이블을 카드의 SATA 전원 포트에 반드시 연결한다. 2. 동봉된 CD의 드라이버를 설치한다(setup 파일 실행). 3. 설치 완료 후 장치관리자 > 범용 직렬 버스 컨트롤러 항목에 'ASMedia XHCI 1.1 Controller'가 표시되면 정상 설치된 것이다.",
+  "cautions": [
+    "카드 장착 시 PC의 SATA 전원을 반드시 연결해야 한다.",
+    "메인보드 PCI Express 슬롯이 4X 이상(4X, 8X, 16X)이어야 장착 가능하며, 1X 슬롯에는 장착 불가.",
+    "제품 구입 전 PC에 PCIe 카드 슬롯 여분이 있는지 반드시 확인해야 한다.",
+    "그래픽 카드가 장착된 경우 PCIe 슬롯이 부족할 수 있다.",
+    "드라이버 설치 전에 카드를 먼저 장착하고 SATA 전원을 연결해야 한다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있다.",
+    "AS 소비자 상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-EX312",
+      "품목코드": "CAB-U31015",
+      "품목명": "[LANstar] USB 3.1 C-Type PCI Express Card, USB3.1 1Port + USB3.0 1Port [30120]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-PCIE-EX312",
+      "내용": "이상 없이 잘 되네요~ 드라이버는 사이트에서 설치했어요~"
+    },
+    {
+      "source_model": "LS-PCIE-EX312",
+      "내용": "잘받았습니다. 감사합니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-PCIE-EX312",
+      "id": 223625282,
+      "date": "2022-06-11 06:35",
+      "answerDate": "2022-06-13 11:21",
+      "user": "walk*******",
+      "productName": "랜스타 USB 3.1 C-Type PCI Express Card LS-PCIE-EX312",
+      "question": "1. 이 상품 PCIE 버전이 어떻게 될까요?\n2. USB A, C 모두 USB3.1 Gen2인가요?\n3. 둘 포트 한번에 사용해도 속도저하로인한 성능에 영향이 있을까요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n1. PCIE 3.0 지원합니다.\n\n2. C타입만 gen2이며 A타입은 gen1 입니다.\n\n3. 통상적으로는 없지만 설치 및 사용 환경에 따라 영향이 미칠 가능성은 있습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "USB-C"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 C Type + USB 3.0 A Type 포트 제공",
+    "power.power_mode": "PC의 SATA 전원 케이블을 카드의 SATA 전원 포트에 반드시 연결한다",
+    "power.charging_support": "전원 공급 900mA(USB 3.0) 대비 1500mA(USB 3.1)로 향상",
+    "certification.kc": "국립전파연구원 인증 획득",
+    "certification.rohs": "KC, FCC, CE, RoHS",
+    "certification.fcc": "KC, FCC, CE, RoHS",
+    "certification.ce": "KC, FCC, CE, RoHS"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:08",
+  "feature_schema_version": "1.0.0"
+}

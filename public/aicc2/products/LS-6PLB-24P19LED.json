@@ -1,0 +1,136 @@
+{
+  "model_no": "LS-6PLB-24P19LED",
+  "product_name": "LANStar LED 패치판넬 CAT.6 24포트",
+  "category": [
+    "랜케이블-CAT6",
+    "분배판넬"
+  ],
+  "key_features": [
+    "포트마다 LED가 탑재되어 테스터기 연결 시 해당 포트 LED 점등으로 선번 확인 가능",
+    "24포트 구성으로 근거리통신망(LAN) 내 컴퓨터 연결 및 인터넷·광역통신망 접속 지원",
+    "EIA-TIA 568A 및 568B 규격 준수",
+    "19인치 표준 랙 마운트 설치 가능",
+    "Steel 소재 및 분체도장으로 내구성·내식성 강화",
+    "1000BASE-TX 전송속도 및 250MHz 대역폭 지원",
+    "랜케이블 고정을 위한 케이블 정리 가이드 제공",
+    "국가통합인증(KC) 획득"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.6 UTP EIA-TIA 568A, 568B",
+    "유닛": "1U (19인치)",
+    "포트 수": "24포트",
+    "플러그 재삽입 횟수": "750 times MIN",
+    "IDC 수명": "200 times MIN",
+    "전선 규격": "22~26AWG 연선, 단선 수용 가능",
+    "사이즈": "482.6 × 44.45 × 33.2mm (W × H × L)",
+    "전송속도": "1000BASE-TX",
+    "대역폭": "250MHz",
+    "안전인증번호": "KCC-RTI-LUS-LS-CAT.6",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "19인치 랙 캐비넷",
+    "EIA-TIA 568A 규격",
+    "EIA-TIA 568B 규격",
+    "CAT.6 UTP 케이블",
+    "랜 테스터기 LS-LED-TESTER (별도 구매 필요)"
+  ],
+  "package_contents": [
+    "CAT.6 LED 패치판넬 본체 1개",
+    "케이블 정리 가이드 1개",
+    "케이블타이 4개",
+    "볼트 8개"
+  ],
+  "usage_instructions": "1) 패치판넬의 조립 상태 및 볼트 체결 상태를 확인하고 펀치 툴(IMPACT TOOL)을 준비한다. 2) LAN 케이블 탈피기로 케이블 피복을 약 30mm 탈피한다. 3) LAN 케이블을 Pair별 색깔 순으로 정돈하고 110 단자대에 밀착 후 T568B 기준 좌측부터 갈색, 갈색백, 녹색, 녹백, 등색, 등백, 청색, 청백 순으로 정렬한다. 4) 펀치 툴 칼날이 바깥쪽을 향하게 하여 랜케이블 끝부분이 잘려나가도록 PUNCH-DOWN한다. 5) 각 포트별로 모두 연결 후 케이블 정리 및 케이블 타이·볼트나사를 이용해 패치판넬을 RACK에 장착한다. 6) 안전을 위해 보호커버를 씌우고 각 랜선에 인식표 또는 네임타이로 마킹한다. [선번 확인 방법] 랜포트 장비에 연결된 케이블에 LS-LED-TESTER를 연결하고 테스터기를 작동시키면, 패치판넬에서 해당 케이블이 연결된 포트의 LED에 불이 들어와 포트 번호를 확인할 수 있다.",
+  "cautions": [
+    "LED 선번 확인 기능은 반드시 랜 테스터기 LS-LED-TESTER 모델로만 측정 가능하며, 해당 테스터기는 별도 구매 필요",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품 및 콘텐츠를 당사 동의 없이 무단 복제·이용 시 불이익이 발생할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-6PLB-24P19LED",
+      "품목코드": "NEO-패치판028",
+      "품목명": "[LANstar] LED 패치판넬 ,LED점등, CAT.6, UL규격 , 24PORT[50063] (20개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 24
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": "하이브리드",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "LANStar LED 패치판넬 CAT.6 24포트",
+    "connectivity.output_signals": "LANStar LED 패치판넬 CAT.6 24포트",
+    "connectivity.directional": "LANStar LED 패치판넬 CAT.6 24포트",
+    "connectivity.port_count": "24포트 구성",
+    "power.power_mode": "LANStar LED 패치판넬 CAT.6 24포트",
+    "power.charging_support": "LANStar LED 패치판넬 CAT.6 24포트",
+    "form_physical.has_case": "Steel 소재 및 분체도장",
+    "form_physical.material": "Steel 소재",
+    "certification.kc": "국가통합인증(KC) 획득",
+    "audio_video.max_resolution": "LANStar LED 패치판넬 CAT.6 24포트",
+    "audio_video.hdcp_version": "LANStar LED 패치판넬 CAT.6 24포트",
+    "family.cat_category": "CAT.6",
+    "family.shielding": "UTP",
+    "family.conductor": "연선, 단선 수용 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:37",
+  "feature_schema_version": "1.0.0"
+}

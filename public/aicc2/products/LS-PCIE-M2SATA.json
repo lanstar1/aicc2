@@ -1,0 +1,195 @@
+{
+  "model_no": "LS-PCIE-M2SATA",
+  "product_name": "SATA PCI Express Card (M.2 NGFF SSD 지원)",
+  "category": [
+    "HDD관련"
+  ],
+  "key_features": [
+    "B키 타입 SATA 기반 M.2(NGFF) SSD 지원",
+    "M키 타입 PCI Express 기반 NVMe M.2(NGFF) SSD 지원",
+    "30/42/60/80mm M.2(NGFF) SSD 장착 가능",
+    "SATA 기반 M.2 SSD와 PCI Express 기반 NVMe M.2 SSD 동시 연결 사용 가능",
+    "SATA3(6Gbps) 인터페이스 지원으로 별도 드라이버 설치 불필요",
+    "PCI Express 3.0 x4 규격 준수, 4배속/8배속/16배속 슬롯 모두 장착 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC, FCC, CE 안전규격 인증 획득",
+    "RoHS 규정 준수, ISO 9001:2008 품질경영시스템"
+  ],
+  "specifications": {
+    "인터페이스": "PCI Express 3.0 x4, Serial ATA 3",
+    "인 커넥터": "B키 SATA M.2(NGFF), M키 NVMe M.2(NGFF), SATA 7핀",
+    "지원 디스크": "30/42/60/80mm M.2(NGFF) SSD",
+    "전송속도": "최대 SATA 3 6Gbps",
+    "입력전원": "PCI Express 12V",
+    "재질": "PCB",
+    "크기(PCB)": "110 x 70mm",
+    "무게": "37g",
+    "인증번호": "MSIP-REI-LUS-LS-PCIE-MSATA",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "B키 타입 SATA 기반 M.2(NGFF) SSD",
+    "B+M키 타입 SATA 기반 M.2(NGFF) SSD",
+    "M키 타입 PCI Express 기반 NVMe M.2(NGFF) SSD",
+    "B+M키 타입 PCI Express 기반 NVMe M.2(NGFF) SSD",
+    "22x30mm M.2(NGFF) SSD",
+    "22x42mm M.2(NGFF) SSD",
+    "22x60mm M.2(NGFF) SSD",
+    "22x80mm M.2(NGFF) SSD",
+    "SATA 1/2/3 인터페이스",
+    "PCI Express 4배속/8배속/16배속 슬롯"
+  ],
+  "package_contents": [
+    "SATA 컨버터 카드 (캔터베이스 카드 포함)",
+    "SATA Cable",
+    "LP 브라켓",
+    "User Manual (사용자 메뉴얼)",
+    "제품 포장",
+    "십자드라이버",
+    "M.2(NGFF) SSD는 별도 구매"
+  ],
+  "usage_instructions": "1. PCIE 카드를 메인보드에 결합 후, 바탕화면 > 내컴퓨터 우클릭 > '관리'로 진입한다. 2. '디스크 관리' 항목을 클릭한다. 3. 할당되지 않은 디스크를 확인 후 우클릭하여 '새 단순 볼륨'을 선택한다. 4. 새 단순 볼륨 만들기 마법사가 실행되면 안내에 따라 진행한다. 5. 볼륨 크기를 지정한다. 6. 설정 완료 후 새로운 디스크가 생성되어 사용 가능 상태가 된다.",
+  "cautions": [
+    "본 제품은 보조 SSD(HDD)용으로 출시된 제품이며, OS 설치 용도로 사용 시 메인보드와의 호환성 문제로 제대로 동작하지 않을 수 있습니다.",
+    "본 이미지에 사용된 M.2(NGFF) SSD는 제품의 이해를 돕기 위한 예시 제품이며, M.2(NGFF) SSD는 별도 구매입니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-M2SATA",
+      "품목코드": "USB-PCI209",
+      "품목명": "[LANstar] M.2sata To SATA PCI-E Express 카드, 미니가이드, Sata 케이블 포함 [30161] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-PCIE-M2SATA",
+      "내용": "구형PC라 M.2 입문용으로 사봤습니다. 분해해서 칩꽂는 재미가 쏠쏠하네요😄👍"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-PCIE-M2SATA",
+      "id": 544018810,
+      "date": "2023-08-29 15:28",
+      "answerDate": "2023-08-30 11:32",
+      "user": "iron******",
+      "productName": "랜스타 M.2sata To SATA PCI-E Express 카드 LS-PCIE-M2SATA",
+      "question": "안녕하세요.\nM.2가 장착된 메인보드에 \"SK하이닉스 Gold P31 M.2 NVMe (1TB)\" 제품과 판매하시는 변환 보드를 조합하여 추가로 장착하고 싶은데 추가 장착이 가능한가요?\n추가로 장착한 경우 읽기 속도가 메인보드에 장착한 방식과 동일한 성능을 내는지 궁금합니다.(M.2 SSD 스펙상 3500MB/s로 나오네요.)",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n네 고객님, 해당 제품을 활용하여 추가 장착 가능합니다.\nPCIe 연결 방식이라 연결한 NVMe SSD의 최고 성능 지원 가능합니다.\n\n삼성 NVMe 980 자체 테스트 결과 읽기 3190MB/s, 쓰기 2197MB/s 속도 지원함을 안내 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-PCIE-M2SATA",
+      "chatUrl": "2cAqT",
+      "dateIso": "2023-07-21T02:32:43.067Z",
+      "name": "dycci",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "Ls-pcie-m2sata\n윈7 인식이 안됩니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n무엇을 도와드릴까요?"
+    },
+    {
+      "source_model": "LS-PCIE-M2SATA",
+      "chatUrl": "2cAqT",
+      "dateIso": "2023-07-21T02:32:43.067Z",
+      "name": "dycci",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "판매자 문의",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "SATA",
+        "USB-A"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "storage_interface": "SATA",
+      "drive_size": "M.2"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "B키 타입 SATA 기반 M.2(NGFF) SSD 지원",
+    "connectivity.output_signals": "null",
+    "connectivity.directional": "null",
+    "connectivity.port_count": "null",
+    "power.power_mode": "PCI Express 12V",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "null",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.ce": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "null",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.storage_interface": "SATA 기반 M.2 SSD와 PCI Express 기반 NVMe M.2 SSD 동시 연결",
+    "family.drive_size": "30/42/60/80mm M.2(NGFF) SSD 장착 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:12",
+  "feature_schema_version": "1.0.0"
+}

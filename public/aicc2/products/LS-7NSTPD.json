@@ -1,0 +1,605 @@
+{
+  "model_no": "LS-7NSTPD",
+  "product_name": "CAT.7 산업용 망사 랜케이블 (LANStar LS-7NSTPD 시리즈)",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "랜케이블"
+  ],
+  "key_features": [
+    "나일론 망사 피복으로 공장 및 산업현장에서 파손 방지",
+    "10Gbps 전송속도 지원 (10Mbps/100Mbps/1000Mbps/10Gbps 호환)",
+    "600MHz 대역폭",
+    "LSZH(Low Smoke Zero Halogen) 난연 피복 적용 - 화재 시 독성 가스 미발생",
+    "SSTP(Screened Shielded Twisted Pair) 구조로 알루미늄 차폐막 이중 노이즈 차단",
+    "연선(Stranded) 케이블로 유연성 우수 및 설치 용이",
+    "순수 구리(Bare Copper) 사용으로 높은 전송률",
+    "금도금(Gold Plated) RJ45 커넥터로 산화 방지 및 전송 손실 최소화",
+    "다이렉트(568B-568B) 핀배열",
+    "KTC(한국기계전기전자시험연구원) 성능시험 통과 (시험성적서 번호: 12015-07623)",
+    "FLUKE DTX-1800 테스터 PASS",
+    "ETL 인증 (Intertek, 인증번호: 4000478)",
+    "RoHS 준수 (유해물질 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "나일론 망사 피복으로 공장 및 산업현장에서 파손 걱정 없이 사용 가능",
+    "CAT.7 규격, 최대 10Gbps(10,000Mbps) 전송속도 지원",
+    "SSTP(Screened Shielded Twisted Pair) 구조로 노이즈 방지",
+    "알루미늄 차폐막 및 노이즈 방지 쉴드선 적용",
+    "연선(Stranded) 케이블로 유연성 우수, 설치 용이",
+    "금도금(Gold Plated) 커넥터 적용으로 산화 방지 및 손실 최소화",
+    "다이렉트 케이블 핀배열(568B-568B)",
+    "RJ45, 8P8C 커넥터",
+    "한국기계전기전자시험연구원(KTC) 성능시험 통과",
+    "FLUKE DTX-1800 테스트 통과",
+    "ETL 인증(인증번호: 4000478)",
+    "RoHS 준수",
+    "ISO 9001:2008 품질경영시스템"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.7",
+    "케이블 타입": "SSTP (Screened Shielded Twisted Pair) Stranded Direct",
+    "전송속도": "10Gbps (10,000Mbps) / 10Gbps (10,000Mbps), 10Mbps/100Mbps/1000Mbps/10Gbps 전송 가능",
+    "대역폭": "600MHz",
+    "커넥터 타입": "RJ45, 8P8C",
+    "핀배열": "다이렉트 (568B - 568B) / 다이렉트 (568B-568B)",
+    "전선 구조": "연선(Stranded)",
+    "도체 소재": "순수 구리 (Bare Copper)",
+    "커넥터 도금": "금도금 (Gold Plated)",
+    "피복 소재": "LSZH (Low Smoke Zero Halogen)",
+    "난연 등급": "LSZH",
+    "차폐 구조": "알루미늄 차폐막 + 노이즈 방지 쉴드선",
+    "전선 굵기": "26AWG",
+    "제품 길이 라인업": "2M, 3M, 5M, 10M, 15M, 20M, 30M, 50M",
+    "모델명 라인업": "LS-7NSTPD-2M, LS-7NSTPD-3M, LS-7NSTPD-5M, LS-7NSTPD-10M, LS-7NSTPD-15M, LS-7NSTPD-20M, LS-7NSTPD-30M, LS-7NSTPD-50M",
+    "케이블 직경": "11.5mm (외경), 7.4mm, 6.5mm (내부 참고치)",
+    "케이블 전체 길이 범위": "2000mm ~ 50000mm",
+    "색상": "검정",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "ETL 인증번호": "4000478",
+    "KTC 시험성적서 번호": "12015-07623",
+    "KTC 시험일자": "2015.08.14 ~ 2015.08.26",
+    "생산물배상책임보험": "현대해상화재 1억원",
+    "난연등급": "LSZH (Low Smoke Zero Halogen, 저연비 제로 할로겐)",
+    "도체": "Bare Copper (순수 구리), 연선(Stranded), 26AWG",
+    "커넥터": "RJ45, 8P8C, 금도금(Gold Plated)",
+    "피복": "PVC/LSZH",
+    "외부 보호": "나일론 망사",
+    "차폐": "알루미늄 차폐막, 노이즈 방지 쉴드선",
+    "케이블 색상": "검정",
+    "제품 크기(길이 범위)": "2000mm ~ 50000mm",
+    "커넥터 폭": "11.5mm",
+    "커넥터 높이": "6.5mm",
+    "브랜드": "LAN Star",
+    "인증": "ETL 인증 4000478, KTC 성능시험 통과, FLUKE DTX-1800 PASS, RoHS 준수, ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "CAT.5 / CAT.5E 규격 장비 (하위 호환)",
+    "CAT.6 / CAT.6A 규격 장비 (하위 호환)",
+    "CAT.7 규격 장비",
+    "10Mbps / 100Mbps / 1000Mbps / 10Gbps 네트워크 장비",
+    "RJ45(8P8C) 포트를 갖춘 스위치, 허브, NIC, 서버, 라우터 등",
+    "TIA/EIA-568 규정 규격 준수 장비",
+    "대용량 서버, 산업용 네트워크 장비, 공장 현장 네트워크 장비",
+    "CAT.5 / CAT.5E 하위 호환",
+    "CAT.6 / CAT.6A 하위 호환",
+    "RJ45(8P8C) 포트를 가진 스위치, 라우터, 서버, NAS 등",
+    "대용량 서버, 전산망, 일반 사무용 네트워크 환경"
+  ],
+  "package_contents": [
+    "CAT.7 산업용 망사 랜케이블 (LS-7NSTPD 해당 길이) 1개",
+    "CAT.7 산업용 망사 랜케이블 (선택 길이 1개)"
+  ],
+  "usage_instructions": "RJ45(8P8C) 포트에 커넥터를 삽입하여 연결. 다이렉트 케이블(568B-568B) 핀배열이므로 PC-스위치, PC-허브 등 일반적인 이더넷 연결에 사용. 연선 구조로 유연성이 높아 포설 및 설치가 용이. 공장·산업현장 등 외부 충격이 잦은 환경에서 망사 피복이 케이블을 보호.",
+  "cautions": [
+    "본 제품은 다이렉트(Direct) 케이블로, 크로스 케이블이 필요한 환경에는 적합하지 않음",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익이 발생할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-7NSTPD-2M",
+      "품목코드": "CAB-SS7067",
+      "품목명": "[LANstar] CAT.7 산업용 망사 랜케이블, LSZH, 10G, Gold-blue, 2M, Black Nylon [10913] (100개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7NSTPD-3M",
+      "품목코드": "CAB-SS7068",
+      "품목명": "[LANstar] CAT.7 산업용 망사 랜케이블, LSZH, 10G, Gold-blue, 3M, Black Nylon [10914] (68개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7NSTPD-5M",
+      "품목코드": "CAB-SS7069",
+      "품목명": "[LANstar] CAT.7 산업용 망사 랜케이블, LSZH, 10G, Gold-blue, 5M, Black Nylon [10915] (46개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7NSTPD-10M",
+      "품목코드": "CAB-SS7070",
+      "품목명": "[LANstar] CAT.7 산업용 망사 랜케이블, LSZH, 10G, Gold-blue, 10M, Black Nylon [10916] (30개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7NSTPD-15M",
+      "품목코드": "CAB-SS7071",
+      "품목명": "[LANstar] CAT.7 산업용 망사 랜케이블, LSZH, 10G, Gold-blue, 15M, Black Nylon [10917] (20개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7NSTPD-20M",
+      "품목코드": "CAB-SS7072",
+      "품목명": "[LANstar] CAT.7 산업용 망사 랜케이블, LSZH, 10G, Gold-blue, 20M, Black Nylon [10918] (18개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7NSTPD-30M",
+      "품목코드": "CAB-SS7073",
+      "품목명": "[LANstar] CAT.7 산업용 망사 랜케이블, LSZH, 10G, Gold-blue, 30M, Black Nylon [10919] (12개)",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7NSTPD-50M",
+      "품목코드": "CAB-SS7074",
+      "품목명": "[LANstar] CAT.7 산업용 망사 랜케이블, LSZH, 10G, Gold-blue, 50M, Black Nylon [10920] (8개)",
+      "variant_suffix": "-50M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "배송 빠르고 제품 상태도 좋습니다. 생각했던 것보다 품질이 괜찮아서 만족스럽습니다. 가성비 좋은 제품 같습니다"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "역시 랜스타는 좋으네요 ㅎㅎ"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "아들꺼 5m짜리 사는 김에\n제꺼 2m 꼽사리 ㅋㅋ.\n랜스타 유튜브도 구독해 보세요.\n은근히 좋은 내용 많습니다."
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "유학간 아들이 필요하다고 해서 5m짜리 하고\n주문하는 김에 2m짜리 제꺼 꼽사리ㅋㅋ.\n토론토는 4m에 4만원이라던가?ㅠ\n다른 물건 보내는 김에 보내는 거니 걱정들 마시구요 ㅎㅎ\n제가 랜스타 유튜브 구독자기도 하지만\n여기 제품들은 믿음이 갑니다."
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "잘 받아서 사용중입니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "잘 받아서 사용중입니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "잘 받았습니다. 잘 쓰고 있습니다."
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "잘 사용하고 있습니다"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "저렴하고 좋네요 잘쓸께요"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "단단한데다 저렴하고 좋네요 잘쓸께요"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "너무 잘 꺽이고 잘꼬입니다.."
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "잘 사용하고있습니다~~"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "튼튼하고 좋은 상품이네요\n다만 너무 튼튼해서 끼울 때 잘 휘어지지 않아\n미리 공간확보를 해야 합니다 ㅎㅎ\n랜선 유목민이었는데 쇼핑 성공했습니다!"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "3미터 했으면 짧을뻔했어요 ㅎㅎ 5미터 하길 잘한거 같은 컴퓨터 방까지 연결하기에 충분하고 선도 튼튼해보여서 좋았어요 방문 닫으려고 결국 다른걸 구매했지만 ㅎㅎ 엄청 좋아요!"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "일반 싸구려 보다 훨씬 좋으다 돈 투자한 만큼의 상품을 받은것 같음"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "일반 싸구려 보다 훨씬 좋으다 돈 투자한 만큼의 상품을 받은것 같음"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "일반 싸구려 보다 훨씬 좋으다 돈 투자한 만큼의 상품을 받은것 같음"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "빠르게 배송 되고 길이가 길어 사용이 좋아요"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "집에서 쓸거면 3미터 미만으로 쓰는게 좋을듯 만족 굳"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "결합부분이 정교하여서 망가질 일 없을거 같아요\n완전 좋습니다..!"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "결합부분이 정교하여서 망가질 일 없을거 같아요\n완전 좋습니다..!"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "아주 좋아요 . 잘 사용 중이예요"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "케이블이 두꺼워서 평생 사용할수 있을거 같네요\n빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "잘받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "좋은 제품 감사합니다."
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "줄이 생각보다 굵고 튼튼하네요"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "배송 빠르고 좋아요.."
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "배송이 빨리 왔고 품질도 마음에 들어요!"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "내용": "급하게 구매헸는데 빠른배송으로 잘쓰고있습니다"
+    },
+    {
+      "source_model": "LS-7NSTPD-10M",
+      "내용": "깔끔한 포장 배송 좋습니다."
+    },
+    {
+      "source_model": "LS-7NSTPD-10M",
+      "내용": "랜스타에서 몇년전에 50m 짜리 구매해서 집에서 잘 쓰다가 추가로 구매합니다. 선이 엄청 튼튼하고 탄탄해요. 기가 인터넷 쓰는대 문제일으킨적도 없고 그때 여분으로 2m 도 몇개 샀었는대 그것도  일터에서 잘 쓰고 있습니다 이번에 여분으로 추가 구매해요"
+    },
+    {
+      "source_model": "LS-7NSTPD-10M",
+      "내용": "빠르게 배송 및 잘 포장되어 왔습니다."
+    },
+    {
+      "source_model": "LS-7NSTPD-10M",
+      "내용": "케이블이 엄청 강하네요 잘사용하겠습니다!"
+    },
+    {
+      "source_model": "LS-7NSTPD-10M",
+      "내용": "좋습니다 잘 사용할게요."
+    },
+    {
+      "source_model": "LS-7NSTPD-10M",
+      "내용": "이더콘 개조용으로 구매하였습니다.\n망사 처리가 되어있다보니 꽤 튼튼해보이고 검은색이라 깔끔해서 좋네요."
+    },
+    {
+      "source_model": "LS-7NSTPD-10M",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-7NSTPD-10M",
+      "내용": "가격대비 좋습니다!!!"
+    },
+    {
+      "source_model": "LS-7NSTPD-15M",
+      "내용": "좋아요 잘 쓰겠습니다"
+    },
+    {
+      "source_model": "LS-7NSTPD-20M",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-7NSTPD-20M",
+      "내용": "선을 폈을 때 잘 안펴지는것 빼곤 좋습니다. 잘붙어요."
+    },
+    {
+      "source_model": "LS-7NSTPD-2M",
+      "내용": "랜스타에서 몇년전에 50m 짜리 구매해서 집에서 잘 쓰다가 추가로 구매합니다. 선이 엄청 튼튼하고 탄탄해요. 기가 인터넷 쓰는대 문제일으킨적도 없고 그때 여분으로 2m 도 몇개 샀었는대 그것도  일터에서 잘 쓰고 있습니다 이번에 여분으로 추가 구매해요"
+    },
+    {
+      "source_model": "LS-7NSTPD-30M",
+      "내용": "야외용으로삿는데 좋아요 튼튼하니 걱정없슴다 ㅋ"
+    },
+    {
+      "source_model": "LS-7NSTPD-30M",
+      "내용": "음향장비쪽에 사용하려고 구매했습니다\n음향 4채널을 랜케이블 하나로 전송해주는 박스가 있는데 랜케이블에 쉴드가 있어야 합니다\n디지털 전송이 아니라 채널당 3P인데 4채널이니 총 12P.\n공통선(그라운드)를 제하더라도 9P가 필요한 상황.\n그래서 쉴드가 있는 랜케이블 필요~!!\n\n랜케이블만 구매해서 모듈려 찝어서 사용할까도 해봤는데 100M짜리 한롤 사도 미터당 단가로 계산하면 이제품 보다 많이 비싸더라구요...;;\n무엇보다도 외부에 보호용 메쉬가 씌어져 있어서 험한 환경(야외무대)에서 사용하기 딱~ 입니다\n\n그리고 또하나의 장점!\n단선으로 구성된 케이블아 아닌 연선으로 구성된 켕이블이라 취급하기 부드러운편이라 좋아요~\n\n가격 및 품질 면에서 이만한 제품은 없을듯 합니다\n강추~!!"
+    },
+    {
+      "source_model": "LS-7NSTPD-30M",
+      "내용": "배송 빠르고 상품 좋아요"
+    },
+    {
+      "source_model": "LS-7NSTPD-30M",
+      "내용": "빠르게 배송되고, 잘 왔습니다."
+    },
+    {
+      "source_model": "LS-7NSTPD-3M",
+      "내용": "랜스타에서 몇년전에 50m 짜리 구매해서 집에서 잘 쓰다가 추가로 구매합니다. 선이 엄청 튼튼하고 탄탄해요. 기가 인터넷 쓰는대 문제일으킨적도 없고 그때 여분으로 2m 도 몇개 샀었는대 그것도  일터에서 잘 쓰고 있습니다 이번에 여분으로 추가 구매해요"
+    },
+    {
+      "source_model": "LS-7NSTPD-50M",
+      "내용": "잘 사용하겠습니다 튼튼해보여요"
+    },
+    {
+      "source_model": "LS-7NSTPD-5M",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-7NSTPD-5M",
+      "내용": "좋아요 배송도 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-7NSTPD-5M",
+      "내용": "좋아요 자주 쓰고 있어요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-7NSTPD",
+      "id": 150395488,
+      "date": "2021-01-28 19:29",
+      "answerDate": "2021-01-29 09:30",
+      "user": "wkfw******",
+      "productName": "랜스타 CAT7 SSTP 10Gbps 연선 산업용 망사 랜케이블 정품 LS-7NSTPD",
+      "question": "이제품이 cat7 케이블중에 제일 안정성있는 제품이죠?",
+      "answer": "안녕하세요 랜스타 입니다\n\n산업용으로 망사가 외관에 포함되어 있어 안정적으로 볼수 있습니다"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "id": 156615217,
+      "date": "2021-03-11 15:29",
+      "answerDate": "2021-03-11 15:34",
+      "user": "simc***",
+      "productName": "랜스타 CAT7 SSTP 10Gbps 연선 산업용 망사 랜케이블 정품 LS-7NSTPD",
+      "question": "5M 재고 있으신건가요?\n\n컴퓨존에는 한동안 재고가 없다고 나오던데",
+      "answer": "안녕하세요 랜스타 입니다 \n\n현재 저희측도 품절 입니다"
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "id": 203958599,
+      "date": "2022-02-01 09:27",
+      "answerDate": "2022-02-03 10:33",
+      "user": "oms1***",
+      "productName": "랜스타 CAT7 SSTP 10Gbps 연선 산업용 망사 랜케이블 정품 LS-7NSTPD",
+      "question": "50m 언제 입고되나요??",
+      "answer": "안녕하세요 랜스타 입니다.\n\n입고 되었으며 구매 가능합니다."
+    },
+    {
+      "source_model": "LS-7NSTPD",
+      "id": 217433358,
+      "date": "2022-04-28 10:00",
+      "answerDate": "2022-04-28 16:25",
+      "user": "gkak*****",
+      "productName": "랜스타 CAT7 SSTP 10Gbps 연선 산업용 망사 랜케이블 정품 LS-7NSTPD",
+      "question": "중간 선부분에 물 뭍어도 되나요?",
+      "answer": "안녕하세요 랜스타입니다.\n\n해당 케이블은 옥외용 케이블이 아니므로 습기 혹은 수분에 노출되어 있는 환경에서 사용은 권장드리지 않습니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-7NSTPD-50M",
+      "id": 530675603,
+      "date": "2023-05-23 13:40",
+      "answerDate": "2023-05-23 14:21",
+      "user": "kiss******",
+      "productName": "랜스타 LS-7NSTPD-50M CAT.7 산업용 망사 랜케이블 LSZH 10G Gold-blue 50M",
+      "question": "50미터 이상 제품은 없을까요?",
+      "answer": "안녕하세요, 고객님. 랜스타입니다.\n\nLS-7NSTPD CAT.7 산업용 망사 랜케이블의 경우, 50M가 가장 긴 모델입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해 드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-7NSTPD-50M",
+      "id": 555358119,
+      "date": "2023-11-17 14:47",
+      "answerDate": "2023-11-17 14:53",
+      "user": "ca****",
+      "productName": "랜스타 LS-7NSTPD-50M CAT.7 산업용 망사 랜케이블 LSZH 10G Gold-blue 50M",
+      "question": "50m 입고되면 구매하겠습니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n입고 되면 남겨주셨던 번호로 유선 연락 드리도록 하겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-7NSTPD",
+      "chatUrl": "v1aL",
+      "dateIso": "2025-05-23T06:09:00.087Z",
+      "name": "공이",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "3층에서 지하로 연결하려니 대략 50M 입니다. 소개해주신 케이블은 비용이...\n(추가 문의) 옥외로 해도 괜찮을만한 다른 랜선은 없을까요?\n(추가 문의) 에어컨 배관 틈새로 밀어넣을 거라서요.\n(추가 문의) 컨넥트 작업은 제가 하려고 합니다.",
+      "answer": "해당 케이블로는 없고, 옥외용+나일론 2중으로 보호되는 패치코드로는 LS-7NSTPD 시리즈가 있습니다.\n\n카테고리 7으로는 이 케이블이 최선입니다. 랜스타 제품 이용",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "에어컨 배관 틈새로 밀어넣을 거라서요."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n카테고리 7으로는 이 케이블이 최선입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용"
+        },
+        {
+          "role": "customer",
+          "text": "컨넥트 작업은 제가 하려고 합니다."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 케이블로는 없고, 옥외용+나일론 2중으로 보호되는 패치코드로는 LS-7NSTPD 시리즈가 있습니다.\n\n정직한 가격과 품질로 고객님을 더욱"
+        },
+        {
+          "role": "customer",
+          "text": "옥외로 해도 괜찮을만한 다른 랜선은 없을까요?"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "3층에서 지하로 연결하려니 대략 50M 입니다. 소개해주신 케이블은 비용이..."
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "잘라서 판매하는 랜케이블은 없나요?"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-7NSTPD-XXM": "LAN to\nNStar\n공장 및 산업현장에서 사용하는\n초고속 최고급 랜케이블\nCAT.7 산업용 망사 랜케이블\nRJ45, 8P8C, SSTP Direct\n10Gbps 속도로 데이터를 전송\n10Gbps\n전송속도\n600MHz\n대역폭\nLSZH\n난연등급\n2M LS-7NSTPD-2M\n3M LS-7NSTPD-3M\n5M LS-7NSTPD-5M\n10M LS-7NSTPD-10M 15M LS-7NSTPD-15M 20M LS-7NSTPD-20M\n30M LS-7NSTPD-30M 50M LS-7NSTPD-50M\n망사 랜 케이블\n잘 끊어지지 않는 나일론 망사가 케이블 피복을 감싸고 있어 공장 및\n산업현장에서도 파손 걱정없이 안심하고 사용할 수 있습니다.\nCAT.7 케이블은?\nCAT.7 케이블은 CAT.6보다 10배인 최대 10Gbps(10,000Mbps)의 속도를\n지원하고 CAT.6의 약 2.5배의 전송대역인 600MHz의 대역폭을 가지는 'TIA/EIA\n-568' 규정규격이며 10Mbps/100Mbps/1000Mbps/10Gbps의 전송이 가능합니다.\n케이블 규격\n케이블 타입\n대역폭\n전송속도\nCAT.5/CAT.5E\nUTP/FTP/S-FTP\n100MHz\n100~400Mbps (사무용)\nCAT.6\nUTP/FTP / S-FTP\n250MHz\n1Gbps (전산망, 일반서버)\nCAT.6A/CAT.7\nUTP/S-STP\n500MHz / 600MHz\n10Gbps이상 (대용량 서버)\nCAT.7 SSTP Direct\nScreened Shielded Twisted Pair Stranded Direct\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다.\n노이즈 방지 쉴드\n옥외용 난연 피복\n- 알루미늄\n차폐막\n노이즈방지\n쉴드선\n알루미늄 차폐막\n·쌍 (Pair)\n-PVC/LSZH 피복\nIStranded Cable\n\n\n차폐막\n•\n'노이즈방지\n쉴드선\n알루미늄 차폐막.\n- 쌍 (Pair)\n-PVC/LSZH 피복\nStranded Cable\n연선(線) 케이블\n연선 케이블은 단선에 비해 잘 휘어져\n설치가 용이하며 잡음이나 감쇄현상이\n현저히 적어 널리 쓰입니다.\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\nILSZH(Low Smoke Zero Halogen, 저연비 제로 할로겐)\n할로겐프리 케이블은 화염에 노출되었을 때 위험한 독성 및 부식성 가스를 생성하지 않습니다.\n불에 강한 난연 케이블이라 화재 시 화재확산을 늦춰줍니다.\nBare Copper\n케이블에 순수구리 성분을 사용하여 전송율이 높습니다.\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568A\n568B\n1 주황/흰색\n2 주황\n3 녹색/흰색\n4 청색\n주황/흰색 1\n주황 2\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXXI\n5 청색/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n6 녹색\n7 갈색/흰색\n갈색 8\n8 갈색\n8 갈색\nGold Plated Connector\n핀과 콘넥터를 금도금 처리하여 산화(녹)에 강하며\n데이터 전송시 손실율을 최소화 했습니다.\n12\nPRODUCT SIZE\n2000~50000mm\n11.5mm\n7.4mm\n11.5mm\n6.5mm\nPRODUCT IMAGE\n(\nPACKAGE IMAGE\n\n\nPACKAGE IMAGE\n라인업시스템(주) 0.3%\n생산물배상책임보험가입\nCAT.7 산업용 양사 랜케이블\nICTC PASS\n한국기계전기전자시험연구원\n한국기계전기전자시험연구원(KTC) 성능시험을 통과한 랜케이블\n시험성적서\n성적서 변호\n12015-07623\n회사명 :\n대표자:\n주소 :\n라인업시스템(주)\n정정섭\n경기도 김포시 양촌읍 황금로 117 이젠아파트형공장 메카존 1층 103호\n1. 시료명: 랜케이블 패치코드\n규격 및 형식: 157-55TP (Cat.7, 10G)\n2. 성적서의 용도: 품질관리용\n3. 접수일자 : 2015.08.04\n4. 시험일자: 2015.08.14-2015.08.26\n5. 시험방법:\n의자 제시규격\n6. 시험결과:\n붙임 시험결과 창조\n시험자: 오광훈\n오광훈\n승인자: 김대오\n김태오\n2015년 08월 31일\n한\n(ICTC)\n한국기계전기전자시험연구원\n화한의원\nwwww.incre.kr 435-862 경기도 군포시 흥안대로27번길 22(금정동)\nTEL: 1899-7654 FAX:031-455-7307\n510-05~2\nPage 1\n1 of 10\n분류\n항목\n시험결과\n반사손실(Return Loss)\nPASS\n삽입손실(Insertion Loss); 감쇄(Attenuation)\nPASS\nPASS\n전기적 누화손실(NEXT: Near End Crosstalk Ratio)\n특성\n전력 누화손실(PS NEXT: Power Sum Near End Crosstalk Ratio)\nPASS\nACR-F(Attenuation to Crosstalk Ratio); ELFEXT\nPASS\nPS ACR-F(Power Sum Attenuation to Crosstalk Ratio); PSELFEXT\nPASS\nFLUKE\n플루크 테스트를 통과한 제품입니다.\n(테스터기 : DTX-1800)\nW LINKWARE\nSummary: PASS\nCable ID: CATEA SSTP 70.168C\nChannel Class Ex\nWone Case WordCase Va\nPLAKE\networks\n4900\ntworks\nDTX-1800\nCALLIANALYINA\nPSACRE\nExtdan\n-Ablatos\nDEFAULT\nSte Clent Name\nFLUKE\nnetworks\nM 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nROHS\nEL\nCOMPLIANT\nC\nUS\nLISTED\nISO 9001:2008\n품질경영시스템\n\n\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nROHS EIDOTD\nCOMPLIANT\nC\nUS\nLISTED\nISO 9001:2008\n품질경영시스템\nIntertek\n북미 안전인증마크\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nINTERTEK\n본 제품은 미국 Intertek에서 실시하는\n제품 안전과 성능 시험을 통과했습니다.\nETV\nUS 인증번호 4000478\nLISTED\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.7 산업용 망사 랜케이블\nLAN Star\n모\n델\n명\nLS-7NSTPD-2M/LS-7NSTPD-3M\nLS-7NSTPD-5M/LS-7NSTPD-10M\nLS-7NSTPD-15M / LS-7NSTPD-20M\nLS-7NSTPD-30M / LS-7NSTPD-50M\n인증번호\nETL 인증 4000478\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nA/S 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLAN Star\n자매품\n0.5M\nLS-8SSTPD-0.5MB\n10M\nLS-8SSTPD-10MB\n1M\nLS-8SSTPD-1MB\n15M\nLS-8SSTPD-15MB\nCAT.8 SSTP\n다이렉트,검정\n금도금 콘넥터,\n8P8C RJ45,\n24AWG, 난연\nIM\nLS-8SSTPD-2MB\n20M\nLS-8SSTPD-20MB\n3M\nLS-8SSTPD-3MB\n25M\nLS-8SSTPD-25MB\n5M\nLS-8SSTPD-5MB\n7M\nLS-8SSTPD-7MB\n0.3M\nLS-8SLIM-0.3MB\n0.5M\nLS-8SLIM-0.5MB\n1M\nLS-8SLIM-1MB\nCAT.8 SSTP\n다이렉트 슬림\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG, 난연,\n4mm 슬림\n케이블\n2M\nLS-8SLIM-2MB\n3M\nLS-8SLIM-3MB\n5M\nLS-8SLIM-5MB\nCAT.7\n0.5M\nLS-7UTPD-0.5M\n10M\nLS-7UTPD-10M\n1M\nLS-7UTPD-1M\n15M\nLS-7UTPD-2M\n(CAT.6A) UTP\n다이렉트, 회색,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG, 난연\n20M\n2M\n3M\nLS-7UTPD-15M\nLS-7UTPD-20M\nLS-7UTPD-30M\nLS-7UTPD-50M\nLS-7UTPD-3M\n30M\n5M\nLS-7UTPD-5M\n50M\n7M\nLS-7UTPD-7M\n1M\nLS-7-SSTP-1MB\nLS-7-SSTP-2MB\nLS-7-SSTP-3MB\n15MLS-7-SSTP-15MB\n20MLS-7-SSTP-20MB\n2M\n3M\nCAT.7 SSTP\n다이렉트 슬림,\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n36AWG, 난연,\n4mm 초슬림\n5M\nLS-7-SSTP-5MB\n7M\nLS-7-SSTP-7MB\n10M LS-7-SSTP-10MB\n1M\nLS-F7-SFTP-1M\n20M LS-F7-SFTP-20M\nCAT.7 FTP\n다이렉트 평면,\n연선,흰색,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG, 난연,\n알루미늄 쉴드\n2M LS-F7-SFTP-2M\n3M LS TP-3M\n5M LS-F7-SFTP-5M\n10M | LS-F7-SFTP-10M\n15MLS-F7-SFTP-15M\n1M\nLS-F7-UTPD-1M\n20MLS-F7-UTPD-20M\n2M\nLS-F7-UTPD-2M\nCAT.7 UTP\n기가슬림 평면,\n연선, 검정,\n8P8C RJ45.\n30AWG\n3M _LS-F7-UTPD-3M\n5M LS-F7-UTPD-5M\n10M | LS-F7-UTPD-10M\n15M | LS-F7-UTPD-15M\n2M\nLS-7NSTPD-2M\n30M\nLS-7NSTPD-30M\n3M\nLS-7NSTPD-3M\n50MLS-7NSTPD-50M\n5M\nLS-7NSTPD-5M\nCAT.7 SSTP\n다이렉트\n산업용 망사,\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG, 난연\n10M\nLS-7NSTPD-10M\n15M\nLS-7NSTPD-15M\n20M\nLS-7NSTPD-20M\nCAT.7 SSTP\n연선,\n흰색, 50u.\n금도금 콘넥터,\n8P8C RJ45,\n26AWG, 난연\n0.5M LS-7SSTPD-0.5MG 10M | LS-7SSTPD-10MG\n1M LS-7SSTPD-1MG 15M LS-7SSTPD-15MG\n2M LS-7SSTPD-2MG 20MLS-7SSTPD-20MG\n3M LS-7SSTPD-3MG 30MLS-7SSTPD-30MG\n5M LS-7SSTPD-5MG 50M LS-7SSTPD-50MG\n7M LS-7SSTPD-7MG\nCAT.7 SSTP\n다이렉트, 연선,\n노랑, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG, 난연\nCAT.7 SSTP\n다이렉트, 연선,\n빨강, 50u.\n금도금 콘넥터,\n8P8C RJ45,\n26AWG, 난연\nCAT.7 SSTP\n다이렉트, 연선,\n화이트블루,\n50u, 난연,\n금도금 콘넥터,\n8P8C RJ45\n26AWG\n2M\n3M\nLS-7SSTPD-2MY\nLS-7SSTPD-3MY\nLS-7SSTPD-5MY\n5M\n2M LS-7SSTPD-2MR\n3M LS-7SSTPD-3MR\n5M LS-7SSTPD-5MR\n7M LS-7SSTPD-7MR\n10M LS-7SSTPD-10MR\n2M LS-7SSTPD-2MB\n3M LS-7SSTPD-3MB\n5M LS-7SSTPD-5MB\nIM LS-7SSTPD-7MB\n10M LS-7SSTPD-10MB\n7M\nLS-7SSTPD-7MY\n10MLS-7SSTPD-10MY\nCAT.6A UTP\n다이렉트 슬림\n연선, 흰색,\n금도금 콘넥터,\n8P8C RJ45,\n32AWG, 난연,\nCAT.7 SSTP\n단선, 주황,\n장거리 이동형\n드럼릴,\n8P8C RJ45\n23AWG.\nCAT.7 FTP\n자동감김,\n다이렉트, 오토릴,\n인터넷케이블\n8P8C RJ45,\n금도금 콘넥터,\n10Gbps\n\n\n2M\nLS-7SSTPD-2MY\n2M\nLS-7SSTPD-2MR\n2M\nLS-7SSTPD-2MB\n3M\nLS-7SSTPD-3MY\n3M\nLS-7SSTPD-3MR\n3M\nLS-7SSTPD-3MB\n5M\nLS-7SSTPD-5MY\n5M\nLS-7SSTPD-5MR\n5M\nLS-7SSTPD-5MB\n7M\nLS-7SSTPD-7MR\n7M\nLS-7SSTPD-7MB\n7M LS-7SSTPD-7MY\n10M LS-7SSTPD-10MY\n10M LS-7SSTPD-10MR\n10M LS-7SSTPD-10MB\nCAT.6A UTP\n다이렉트 슬림,\n연선,흰색,\n금도금 콘넥터,\n8P8C RJ45,\n32AWG,\n2.8mm 초슬림\nCAT.7 SSTP\n단선, 주황,\n장거리 이동형\n드럼릴,\n8P8C RJ45,\n23AWG,\nETL 인증\np\nCAT.7 FTP\n자동감김,\n다이렉트, 오토릴,\n인터넷케이블,\n8P8C RJ45,\n금도금 콘넥터,\n10Gbps\n1.5M | LS-CAT.7-RT1.5M\n50M LS-CAT7-50MR\n80M LS-CAT7-80MR\n1M LS-6A-UTP-1MW\n2M LS-6A-UTP-2MW\n3M LS-6A-UTP-3MW\n5M LS-6A-UTP-5MW\n10M LS-6A-UTP-10MW\nCAT.6A SSTP\nBox, 단선,\n연선, LSZH난연,\n27AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\nCAT.7 STP\n(CAT.6A218)\nBox, 단선,\nL, 10Gbps,\n화이트블루,\n23AWG\n미국전선규격\n300M LS-SSTP-CAT.6A-300M\n300M\nLS-7SSTP-300MB\nCAT.7 STP\n(CAT.6A)\nBox, 단선,\nL, 10Gbps,\n1,23AWG\n미국전선규격\nCAT.8 SSTP\n박스, 연선\nL, 40Gbps,\n2000MHz,\n그레이,\n22AWG\n미국전선규격\n100M\nLS-7SSTP-100MG\n200M\nLS-8SSTP-200MG\n300M\nLS-7SSTP-300MG"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC",
+        "금도금",
+        "구리"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        2,
+        3,
+        5,
+        10,
+        15,
+        20,
+        30,
+        50
+      ],
+      "color_options": [
+        "검정"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "SSTP",
+      "conductor": "연선(stranded)",
+      "awg": 26,
+      "pair_count": null,
+      "flame_rating": "LSZH",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45(8P8C) 포트에 커넥터를 삽입",
+    "connectivity.output_signals": "RJ45(8P8C) 포트에 커넥터를 삽입",
+    "connectivity.directional": "다이렉트 케이블(568B-568B) 핀배열이므로 PC-스위치, PC-허브 등 일반적인 이더넷 연결에 사용",
+    "power.power_mode": "N/A",
+    "power.charging_support": "false",
+    "form_physical.has_case": "false",
+    "form_physical.material": "나일론 망사 피복, 금도금(Gold Plated) RJ45 커넥터, 순수 구리(Bare Copper)",
+    "form_physical.length_options_meters": "2M, 3M, 5M, 10M, 15M, 20M, 30M, 50M",
+    "form_physical.color_options": "색상: 검정",
+    "certification.kc": "KTC(한국기계전기전자시험연구원) 성능시험 통과",
+    "certification.rohs": "RoHS 준수 (유해물질 사용 제한)",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.cat_category": "CAT.7 규격",
+    "family.shielding": "SSTP(Screened Shielded Twisted Pair) 구조",
+    "family.conductor": "연선(Stranded) 케이블",
+    "family.awg": "26AWG",
+    "family.flame_rating": "LSZH(Low Smoke Zero Halogen) 난연 피복 적용"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:42",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

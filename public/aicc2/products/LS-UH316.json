@@ -1,0 +1,225 @@
+{
+  "model_no": "LS-UH316",
+  "product_name": "LANStar USB3.0 16포트 유전원 허브",
+  "category": [
+    "USB허브",
+    "USB3.0",
+    "전원아답터"
+  ],
+  "key_features": [
+    "USB 16포트 확장 지원",
+    "USB3.0 지원, 최대 5Gbps 데이터 전송 속도",
+    "각 포트별 2.4A 고속 충전 지원",
+    "충전 시 과전류 방지 (5V~12V 전압 자동 조절)",
+    "GL3510 칩셋 탑재",
+    "포트 개별 스위치 및 LED 상태 확인 가능",
+    "무설치 Plug&Play 지원",
+    "알루미늄 재질 슬림 디자인",
+    "포트 간 간섭 없는 간격 설계",
+    "국립전파연구원 인증 획득 (인증번호: R-R-LUS-LS-UH316)"
+  ],
+  "specifications": {
+    "INPUT": "USB3.0 Type-B 1포트, DC 12V 8A",
+    "OUTPUT": "USB3.0 Type-A 16포트",
+    "전송 속도": "최대 5Gbps",
+    "USB A-B 케이블 길이": "약 1m",
+    "전원 아답터 케이블 길이": "약 1.3m",
+    "지원 OS": "Windows, Linux, Mac OS, Chrome",
+    "크기": "52 x 223 x 23 (mm)",
+    "무게": "약 234g",
+    "재질": "알루미늄",
+    "칩셋": "GL3510",
+    "전원": "DC 12V 8A (유전원)",
+    "각 포트 출력 전류": "2.4A",
+    "KC 인증번호": "R-R-LUS-LS-UH316",
+    "아답터 인증번호": "HU10898-23009A",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "Windows",
+    "Mac OS",
+    "Linux",
+    "Chrome OS",
+    "USB 2.0 하위 버전 호환",
+    "USB 3.0",
+    "USB 메모리, 키보드, 마우스, 외장HDD, 헤드셋, 프린터, FAN, 게임패드, 노트북/PC 등 USB 장치"
+  ],
+  "package_contents": [
+    "USB3.0 16포트 허브 본체 (LS-UH316)",
+    "12V 8A 전원 아답터",
+    "아답터 연장 케이블 (8자코드, 1M)",
+    "USB A-B (M) 케이블",
+    "MANUAL (사용 설명서)"
+  ],
+  "usage_instructions": "전원 아답터를 반드시 연결한 후, USB A-B 케이블로 허브와 PC를 연결하면 별도 드라이버 설치 없이 Plug&Play로 바로 사용 가능합니다. 원활한 사용을 위해 PC 본체 뒷면 메인보드 USB 포트에 직접 연결하는 것을 권장합니다. 개별 스위치를 눌러 사용할 포트를 선택할 수 있으며, LED로 사용 중인 포트를 확인할 수 있습니다.",
+  "cautions": [
+    "본 제품은 유전원 제품으로 반드시 전원 아답터를 연결한 뒤 사용해야 합니다.",
+    "PC 본체 앞면 USB 포트에 연결할 경우 정상 속도로 이용하지 못하는 경우가 있으므로, 본체 뒷면 메인보드에 직접 연결하는 것을 권장합니다.",
+    "충전 케이블이 고속 충전을 지원하지 않을 경우 고속 충전이 안될 수 있습니다.",
+    "LED가 들어오지 않고 포트 사용이 되지 않을 경우 제품 불량 의심 – 네이버 톡톡으로 문의 바랍니다.",
+    "허브 인식이 안 될 경우 다른 PC나 노트북에 연결해 테스트 후 네이버 톡톡으로 문의 바랍니다.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처의 제품은 A/S를 받을 수 없습니다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "실제 USB 전송 속도는 PC 환경 및 복합적 요소로 인해 이론적 속도와 차이가 발생할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UH316",
+      "품목코드": "USB-HB유141",
+      "품목명": "[LANstar] USB3.0 16포트 유전원 허브, 어댑터 포함 [30858] (20개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-UH316",
+      "내용": "이거 써보니까 usb포트 빨라진것 같습니다"
+    },
+    {
+      "source_model": "LS-UH316",
+      "내용": "잘쓰고있습니다\n감사합니다~"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-UH316",
+      "id": 607433579,
+      "date": "2024-11-29 15:39",
+      "answerDate": "2024-11-29 17:05",
+      "user": "wyj0***",
+      "productName": "USB허브 3.0 포트 확장 고속충전 과전류 방지 개별 스위치 지원 (LS-UH316)",
+      "question": "전화로여쭤봐야되는데\nusb포트\n100개정도 주문예정이라\n20포트나16포트요\n통화가능할까요\n010 50941812입니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 100개 재고가 되지 않아 정확한 수량과 필요하신 날짜 톡톡으로 말씀 주시면 정확한 안내 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-UH316",
+      "id": 637021463,
+      "date": "2025-07-28 22:23",
+      "answerDate": "2025-07-29 11:44",
+      "user": "lhss***",
+      "productName": "USB허브 3.0 포트 확장 고속충전 과전류 방지 개별 스위치 지원 (LS-UH316)",
+      "question": "16포트와 7포트 다른점은 포트 갯수만 차이나고 사양은 같은걸까요?\n상세페이지 설명을 찾아보니\n인풋이 16구는 8a 고 7구는 2a인데 단순 포트가 많아서 a가 더 높은건가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n네. 포트 갯수 차이 외 사양은 동일하십니다. 단순 포트가 많아 a가 더 높은 것입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-UH316",
+      "chatUrl": "4ctup",
+      "dateIso": "2025-03-18T00:10:06.045Z",
+      "name": "마타리",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "감사합니다\n혹시 나머지150개는\n현재 통관중인가요?\n(추가 문의) 국내에 언제 통관될지\n예상알수잇을까요?",
+      "answer": "네. 고객님. 금일 입고 되어 3시 퀵 착불로 출고 도와드렸습니다. 아래에 기사님 정보 남겨드립니다. 010-3714-5649\n\n네. 고객님. 현재 해운 선적 중입니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "국내에 언제 통관될지\n예상알수잇을까요?"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n현재 해운 선적 중입니다."
+        },
+        {
+          "role": "customer",
+          "text": "감사합니다\n혹시 나머지150개는\n현재 통관중인가요?"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중"
+        },
+        {
+          "role": "customer",
+          "text": "네 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n금일 입고 되어 3시 퀵 착불로 출고 도와드렸습니다.\n아래에 기사님 정보 남겨드립니다.\n 010-3714-5649"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-B"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 17
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "port_count": 16,
+      "usb_version": "USB3.0",
+      "ethernet_speed_mbps": null,
+      "has_sd_reader": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB3.0 Type-B 1포트",
+    "connectivity.output_signals": "USB3.0 Type-A 16포트",
+    "connectivity.directional": "USB3.0 지원, 최대 5Gbps 데이터 전송",
+    "connectivity.port_count": "USB3.0 Type-B 1포트, DC 12V 8A ... USB3.0 Type-A 16포트",
+    "power.power_mode": "DC 12V 8A (유전원)",
+    "power.charging_support": "각 포트별 2.4A 고속 충전 지원",
+    "form_physical.has_case": "알루미늄 재질 슬림 디자인",
+    "form_physical.material": "알루미늄 재질 슬림 디자인",
+    "certification.kc": "국립전파연구원 인증 획득 (인증번호: R-R-LUS-LS-UH316)",
+    "control_switching.has_physical_button": "포트 개별 스위치 및 LED 상태 확인 가능",
+    "family.port_count": "USB 16포트 확장 지원",
+    "family.usb_version": "USB3.0 지원, 최대 5Gbps 데이터 전송"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:06",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

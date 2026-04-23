@@ -1,0 +1,151 @@
+{
+  "model_no": "LS-NEW-EXT305",
+  "product_name": "LANStar USB3.0 ACTIVE 리피터 연장 케이블 (USB3.0 A/M - A/F)",
+  "category": [
+    "USB케이블",
+    "USB3.0",
+    "USB2.0",
+    "리피터"
+  ],
+  "key_features": [
+    "USB3.0 SUPERSPEED 지원, 최대 5Gbps 전송속도",
+    "USB2.0 HI-SPEED 대비 약 10배 빠른 전송속도",
+    "ACTIVE 케이블 구조로 장거리 전송 시 신호 손실 없음",
+    "VL210 칩셋 탑재로 데이터 전송 안정성 및 신호저하 방지",
+    "하위 버전(USB 2.0, USB 1.1, USB 1.0) 호환",
+    "Plug & Play 지원, 별도 드라이버 설치 불필요",
+    "Hot Swap 지원",
+    "LED 인디케이터를 통해 정상 연결 여부 확인 가능",
+    "DC 5V 2A 전원 아답터 포함, 외장하드 등 전력 소모 큰 장치 안정적 사용 가능",
+    "Windows, Mac OS 등 다양한 운영체제 지원",
+    "KC 인증 획득 제품 (인증번호: MSIP-REI-LUS-LS-EXT300)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "길이": "5m (LS-EXT305) / 10m (LS-EXT310) / 15m (LS-EXT315) / 20m (LS-EXT320)",
+    "색상": "Black",
+    "인터페이스": "USB 3.0",
+    "입력단자": "USB3.0 A/M (Male)",
+    "출력단자": "USB3.0 A/F (Female)",
+    "전송속도": "USB3.0 SUPERSPEED 5Gbps",
+    "입력전원": "USB Bus Power / DC 5V 2A",
+    "칩셋": "VL210",
+    "재질": "PVC Jacket",
+    "사용온도": "0°C ~ 80°C",
+    "KC인증번호": "MSIP-REI-LUS-LS-EXT300",
+    "아답터인증번호": "HU101026-19009B",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "커넥터_크기_참고": "16mm x 19mm x 40mm / 58mm (커넥터 부 치수)"
+  },
+  "compatibility": [
+    "USB 3.0 지원 기기",
+    "USB 2.0 지원 기기 (하위 호환)",
+    "USB 1.1 지원 기기 (하위 호환)",
+    "USB 1.0 지원 기기 (하위 호환)",
+    "Windows OS",
+    "Mac OS",
+    "키보드",
+    "마우스",
+    "바코드 스캐너",
+    "USB 메모리",
+    "프린터",
+    "스캐너",
+    "USB 카메라",
+    "USB 현미경",
+    "외장하드",
+    "PC, 노트북 등 USB 입력 기기"
+  ],
+  "package_contents": [
+    "USB3.0 ACTIVE 리피터 케이블 (1개)",
+    "DC 5V 2A 전원 아답터 (1개)",
+    "매뉴얼 (1개)"
+  ],
+  "usage_instructions": "USB3.0 A/M(Male) 단자를 PC, 노트북 등 호스트 기기의 USB 포트에 연결하고, USB3.0 A/F(Female) 단자에 키보드·마우스·USB 메모리·프린터 등 사용할 USB 장치를 연결합니다. 별도의 드라이버 설치 없이 Plug & Play로 바로 사용 가능합니다. 외장하드 등 전력 소모가 큰 장치 사용 시에는 포함된 DC 5V 2A 전원 아답터를 연결하여 사용하십시오. LED 인디케이터로 정상 연결 여부를 확인할 수 있습니다.",
+  "cautions": [
+    "USB3.0 SUPERSPEED(5Gbps) 속도를 내려면 연결 기기 및 케이블 모두 USB3.0을 지원해야 합니다.",
+    "전력 소모가 크거나 외장하드 사용 시 반드시 포함된 DC 5V 2A 전원 아답터를 사용하십시오.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처의 제품은 정품이 아닐 수 있으며, 해당 제품은 A/S를 받을 수 없습니다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있습니다.",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일은 제외됩니다.",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "PVC"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        5,
+        10,
+        15,
+        20
+      ],
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB3.0 A/M (Male)",
+    "connectivity.output_signals": "USB3.0 A/F (Female)",
+    "connectivity.directional": "연장 케이블",
+    "power.power_mode": "USB Bus Power / DC 5V 2A",
+    "form_physical.material": "PVC Jacket",
+    "form_physical.length_options_meters": "5m (LS-EXT305) / 10m (LS-EXT310) / 15m (LS-EXT315) / 20m (LS-EXT320)",
+    "form_physical.color_options": "Black",
+    "certification.kc": "KC 인증 획득 제품",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.usb_version": "USB3.0 SUPERSPEED",
+    "family.transfer_speed_gbps": "최대 5Gbps 전송속도"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:22",
+  "feature_schema_version": "1.0.0"
+}

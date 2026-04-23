@@ -1,0 +1,162 @@
+{
+  "model_no": "LS-SL6-05B",
+  "product_name": "[LANstar] Cat.6 UTP 다이렉트 초슬림 랜케이블 0.5m 블랙 [30536] (500개)",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "랜케이블"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-SL6-05B",
+      "품목코드": "CAB-U5G148",
+      "품목명": "[LANstar] Cat.6 UTP 다이렉트 초슬림 랜케이블 0.5m 블랙 [30536] (500개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-SL6-05B",
+      "내용": "배송 빠르고 제품 좋습니다"
+    },
+    {
+      "source_model": "LS-SL6-05B",
+      "내용": "좋아요 잘 사용했습니다",
+      "관련내용": "좋아요 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-SL6-05B",
+      "내용": "케이블이 얇아서 사용하기 좋을 것 같아요"
+    },
+    {
+      "source_model": "LS-SL6-05B",
+      "내용": "가격도 품질도 좋은 것 같습니다."
+    },
+    {
+      "source_model": "LS-SL6-05B",
+      "내용": "좋아요 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-SL6-05B",
+      "내용": "진짜 얇고 입구도 많이 안튀어나오네요\n구매하길 잘한거 같아요"
+    },
+    {
+      "source_model": "LS-SL6-05B",
+      "내용": "좋아요 잘 사용했습니다",
+      "관련내용": "좋아요 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-SL6-05B",
+      "내용": "좋아요 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-SL6-05B",
+      "내용": "좋습니다\n속도 정상적으로 나오고 무엇보다 강선이 아닌 얇은 강선이라 좋네요.ㅇ"
+    },
+    {
+      "source_model": "LS-SL6-05B",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-SL6-05B",
+      "내용": "케이블이 정말 얇고 좋네요."
+    },
+    {
+      "source_model": "LS-SL6-05B",
+      "내용": "총알배송에 좋습니다."
+    },
+    {
+      "source_model": "LS-SL6-05B",
+      "내용": "배송 빠르고 싸고 좋아요.^^"
+    },
+    {
+      "source_model": "LS-SL6-05B",
+      "내용": "필요해서 샀어요 좋아요!"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-SL6-05B",
+      "id": 206097142,
+      "date": "2022-02-14 12:13",
+      "answerDate": "2022-02-14 16:23",
+      "user": "kk****",
+      "productName": "랜스타 LS-SL6-05B CAT6 UTP 다이렉트 초슬림 랜케이블 0.5M 검정",
+      "question": "이 선을 구입후 한쪽을 자른다음에 새롭게 랜툴로 만들수있나요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n해당 케이블은 제작용이 아니기 때문에 임의적으로 제작하는 것을 권장하지 않습니다.\n\n제작이 불가능하지는 않지만 일반 랜 케이블 제작보다 어렵고 선 가닥이 얇기 때문에 쉽게 빠질 수 있습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC"
+      ],
+      "length_meters": 0.5,
+      "length_options_meters": null,
+      "color_options": [
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": "연선(stranded)",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "PVC",
+      "poe_support": true
+    }
+  },
+  "feature_evidence": {
+    "power.power_mode": "무전원",
+    "form_physical.material": "PVC",
+    "form_physical.length_meters": "0.5m",
+    "form_physical.color_options": "블랙",
+    "family.cat_category": "Cat.6",
+    "family.shielding": "UTP",
+    "family.conductor": "연선",
+    "family.flame_rating": "PVC",
+    "family.poe_support": "PoE"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:27",
+  "feature_schema_version": "1.0.0"
+}

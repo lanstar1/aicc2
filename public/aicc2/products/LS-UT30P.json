@@ -1,0 +1,127 @@
+{
+  "model_no": "LS-UT30P",
+  "product_name": "LANStar 갤럭시탭 전용 USB 데이터/충전 케이블 (SYNC&CHARGE GALAXY Tab USB CABLE)",
+  "category": [
+    "USB케이블",
+    "USB2.0",
+    "커넥터",
+    "전원아답터"
+  ],
+  "key_features": [
+    "갤럭시탭 전용 30핀 규격 준수 USB 데이터/충전 케이블",
+    "USB 2.0 지원으로 빠르고 안정적인 데이터 전송 가능",
+    "Small Connector 채택으로 범퍼/케이스/쉴드 착용 상태에서도 완벽 사용 가능",
+    "컴퓨터·노트북, 차량용 시가잭, USB 전원 아답터 연결 충전 지원",
+    "생산물 책임 보험 가입 제품",
+    "구매일로부터 1년 무상 A/S, 초기불량 및 무상기한 내 1:1 교체 처리",
+    "A/S 접수 시 새제품 선발송 처리",
+    "ROHS 인증 제품 (유해물질 사용 제한 규격)",
+    "Apple 공식 협력 브랜드 (LANStar)",
+    "국내 순수 브랜드, 상표등록 제품 (등록 제0514743호)"
+  ],
+  "specifications": {
+    "커넥터 규격": "갤럭시탭 전용 30핀 (정규격 30핀 준수)",
+    "USB 버전": "USB 2.0",
+    "케이블 길이": "0.15M",
+    "갤럭시탭 입력 전압/전류": "5V 2A",
+    "PC USB 포트 출력": "500mA (PC 사양에 따라 그 이하)",
+    "ROHS 인증": "준수 (Compliant)",
+    "상표등록번호": "제0514743호",
+    "상표권자": "라인업시스템(주)",
+    "무상 A/S 기간": "구매일로부터 1년"
+  },
+  "compatibility": [
+    "삼성 갤럭시탭 (30핀 단자 지원 기종)",
+    "컴퓨터/노트북 USB 포트",
+    "차량용 시가잭",
+    "USB 전원 아답터 (삼성 정품 아답터 또는 5V 2A 아답터 권장)",
+    "국내 판매 갤럭시탭용 케이스/범퍼/쉴드 착용 기기"
+  ],
+  "package_contents": [
+    "USB 데이터/충전 케이블 (LS-UT30P-015M) 1개"
+  ],
+  "usage_instructions": "갤럭시탭의 30핀 단자에 케이블을 연결하고, 반대쪽 USB 단자를 컴퓨터/노트북, 차량용 시가잭, 또는 USB 전원 아답터에 연결하여 데이터 전송 및 충전에 사용합니다. PC 연결 시 충전 표시가 X로 표시될 수 있으나 실제로는 느리게 충전이 진행됩니다. 최적 충전을 위해 삼성 정품 아답터 또는 5V 2A 아답터 사용을 권장합니다.",
+  "cautions": [
+    "본 케이블은 갤럭시탭 전용 케이블로, 아이폰 및 기타 장비와는 호환되지 않으므로 갤럭시탭 외의 장치에서는 사용을 금지합니다.",
+    "컴퓨터/노트북 USB 포트 출력은 500mA(PC 사양에 따라 그 이하)이므로 충전 표시가 X로 표시될 수 있으나 실제로는 충전이 느리게 진행됩니다.",
+    "최적의 충전 환경을 위해 삼성 정품 아답터 또는 5V 2A 아답터 사용을 권장합니다.",
+    "A/S 발생 시 고객센터 방문 또는 택배(옐로우캡택배)를 이용하여 접수 가능합니다.",
+    "무상 A/S 기간은 구매일로부터 1년이며, 기간 내 발생한 불량은 1:1 교체 처리됩니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UT30P-015M",
+      "품목코드": "CAB-APP215",
+      "품목명": "[LANstar] 고급포장, USB2.0 GALUXY케이블 , A／M-P1000 30P／M, 0.15M[10632]",
+      "variant_suffix": "-015M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": null,
+      "data_only": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 데이터/충전 케이블",
+    "connectivity.output_signals": "USB 데이터/충전 케이블",
+    "connectivity.directional": "데이터/충전 케이블",
+    "power.power_mode": "USB 전원 아답터 연결 충전 지원",
+    "power.charging_support": "충전 케이블",
+    "form_physical.length_meters": "케이블 길이: 0.15M",
+    "certification.rohs": "ROHS 인증 제품",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.usb_version": "USB 2.0 지원",
+    "family.transfer_speed_gbps": "USB 2.0 지원으로 빠르고 안정적인 데이터 전송"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:14",
+  "feature_schema_version": "1.0.0"
+}

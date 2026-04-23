@@ -1,0 +1,156 @@
+{
+  "model_no": "LS-DVI29G-FFL",
+  "product_name": "LANStar DVI 변환젠더 90도 꺾임 DVI 24+5/F-24+5/F",
+  "category": [
+    "DVI",
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "양쪽 모두 DVI 24+5 Female 타입 커넥터로 구성된 젠더",
+    "90도 꺾임 구조",
+    "DVI-I 듀얼링크 지원",
+    "디지털 + 아날로그 신호 전송 가능 (24+5핀)",
+    "신호 손실을 최소화하는 금도금 커넥터",
+    "RoHS 준수 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 타입": "DVI 24+5/F - DVI 24+5/F",
+    "커넥터 규격": "DVI-I 듀얼링크",
+    "핀 구성": "24+5핀",
+    "신호 전송": "디지털 + 아날로그",
+    "커넥터 도금": "금도금",
+    "형태": "90도 꺾임",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "환경규격": "RoHS COMPLIANT",
+    "품질경영시스템": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "DVI-I 듀얼링크 규격 기기",
+    "DVI 24+5 타입 커넥터를 사용하는 컴퓨터",
+    "DVI 24+5 타입 커넥터를 사용하는 TV/PC 모니터",
+    "DVI 케이블 연장 용도"
+  ],
+  "package_contents": [
+    "DVI 변환젠더 (LS-DVI29G-FFL) 1개"
+  ],
+  "usage_instructions": "컴퓨터와 TV/PC 모니터 등 영상기기를 DVI 케이블로 연결할 때 사용하며, DVI 케이블 연장 용도로도 활용 가능. 연결 전 기기의 단자 크기와 모양을 반드시 확인 후 사용.",
+  "cautions": [
+    "제품의 단자 크기와 모양을 반드시 확인하세요.",
+    "유통과정상 제품의 모양이 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 가능. AS 소비자상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DVI29G-FFL",
+      "품목코드": "GEN-HDI007",
+      "품목명": "[LANstar] DVI젠더Changer , DVI 24＋5 F／F, 90도 꺽임[20108]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DVI29G-FFL",
+      "내용": "조아조아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DVI-I"
+      ],
+      "output_signals": [
+        "DVI-I"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "DVI-I Dual",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DVI 24+5 Female 타입 커넥터",
+    "connectivity.output_signals": "DVI 24+5 Female 타입 커넥터",
+    "connectivity.directional": "DVI 케이블 연장 용도로도 활용 가능",
+    "connectivity.port_count": "양쪽 모두 DVI 24+5 Female 타입 커넥터",
+    "power.power_mode": "무전원",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "DVI 변환젠더",
+    "form_physical.material": "금도금 커넥터",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "인증번호: 해당없음",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "null",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.hdmi_version": "null",
+    "family.dp_version": "null",
+    "family.dvi_type": "DVI-I 듀얼링크 지원",
+    "family.optical_core": "null",
+    "family.ethernet_channel": "null"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:49",
+  "feature_schema_version": "1.0.0"
+}

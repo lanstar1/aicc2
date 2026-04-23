@@ -1,0 +1,287 @@
+{
+  "model_no": "LS-SSTP-CAT.6A",
+  "product_name": "LANStar CAT.6A SSTP 랜케이블 300M 연선",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-STP",
+    "랜케이블"
+  ],
+  "key_features": [
+    "CAT.6A S-STP 규격, 최대 10Gbps 전송 속도 지원",
+    "500MHz 대역폭 (TIA/EIA-568 규정 규격)",
+    "Bare Copper 100% 순수 구리 도체 사용으로 데이터 손실 최소화",
+    "연선(Stranded) 구조로 유연성이 높아 설치 용이",
+    "LSZH(Low Smoke Zero Halogen) 난연 케이블 — 화재 확산 억제",
+    "알루미늄 차폐막 및 쉴드 접지선 탑재로 노이즈 방지",
+    "27AWG 규격으로 데이터 전송 시 간섭 최소화",
+    "ETL 인증 및 Intertek 인증(TIA Cat 6A Channel PASS) 획득",
+    "RoHS Compliant 친환경 소재 사용",
+    "PoE 안정 지원 (CCTV, AP 전원 공급 가능)",
+    "라인업시스템(주) / 랜스타 정품 인증 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.6A S-STP",
+    "전송 속도": "10Gbps (표기 상 100Gbps 병기)",
+    "대역폭": "500MHz",
+    "도체": "Bare Copper 100% (순수 구리)",
+    "케이블 구조": "연선(Stranded)",
+    "내심 굵기": "27AWG",
+    "길이": "300M",
+    "외피 소재": "LSZH (Low Smoke Zero Halogen) 난연",
+    "쉴드": "알루미늄 차폐막, 쉴드 접지선",
+    "제조국 / 원산지": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음",
+    "ETL 인증": "해당 (Intertek, TIA Cat 6A Channel PASS)",
+    "RoHS": "Compliant",
+    "소재·부품·장비 전문기업 확인": "2022.11.29 취득 (한국산업기술평가관리원)"
+  },
+  "compatibility": [
+    "TIA/EIA-568 CAT.6A 규격 호환",
+    "ISO/IEC 11801 Class EA (CAT.6A) 호환",
+    "10Mbps / 100Mbps / 1000Mbps / 10Gbps 네트워크 환경",
+    "PoE 기기 (CCTV, 무선AP 등)",
+    "기가비트 인터넷 (1Gbps 이상)",
+    "대용량 서버 환경",
+    "전산망, 일반 서버 환경",
+    "전용 컨넥터 LSN-CAT6A-STP (별매)",
+    "랜툴 LS-68P / LS-68PN (별매)",
+    "스트리퍼 LS-STR-R10 / LS-ASTR (별매)"
+  ],
+  "package_contents": [
+    "CAT.6A SSTP 랜케이블 300M (박스 케이블)"
+  ],
+  "usage_instructions": "1) 필요한 길이만큼 케이블을 절단한다. 2) 스트리퍼로 케이블 피복을 탈피한다. 3) 부트를 케이블에 결합한다. 4) TIA-568A 또는 568B 핀 배열(Direct/Cross)에 맞게 페어를 정렬하여 가이드에 결합하고, 가이드 밖으로 튀어나온 배선을 정리한다. 5) 부트와 컨넥터를 결합한 뒤 랜툴로 컨넥터를 압착하여 완성한다. ※ 10m 이상의 장거리 연결 시 반드시 BC 100% 제품을 사용해야 속도 저하를 방지할 수 있다.",
+  "cautions": [
+    "10m 이상 장거리 연결 시 반드시 BC 100% (순동) 제품을 사용할 것 — CCA(구리 코팅 알루미늄) 제품은 장거리 전송 시 속도 저하 발생",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처의 제품은 정품이 아니며 A/S 불가",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음",
+    "당사 동의 없이 콘텐츠 무단 복제 및 이용 시 불이익이 발생할 수 있음",
+    "당일출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준 (택배사 사정에 따라 배송 기간 변동 가능)",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SSTP-CAT.6A-300M",
+      "품목코드": "CAB-SS6001",
+      "품목명": "[LANstar] CAT.6A 케이블, SSTP, 10G, 27AWG, LSZH(난연), 연선, 300M, Grey [10728]",
+      "variant_suffix": "-300M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "좋아요!!^^ㅎㅎ 라인이 튼튼하고 고급져요!"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "배송빨라요. 또 구매할게요"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "좋아요........",
+      "관련내용": "좋네요........"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "좋네요........"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "배송이 빠르고 제품이 사용하기 편리하고 좋습니다. 배송이 빠르고 제품이 사용하기 편리하고 좋습니다. 배송이 빠르고 제품이 사용하기 편리하고 좋습니다."
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "좋습니다\n잘사서 잘 쓰고있답니다",
+      "관련내용": "좋습니다 \n잘 샀습니다"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "배송 빠르고 제품도 마음에들어요\n잘쓸게요",
+      "관련내용": "배송도 빠르고 상품도 마음에 듭니다.\n감사합니다."
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "좋습니다 \n잘 샀습니다"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "배송도 빠르고 상품도 마음에 듭니다.\n감사합니다."
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "빠른 배송 감사 합니다..........................."
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "배송도 빠르고 잘 사용중이예요",
+      "관련내용": "배송 빠르고 상품도 이상 없어요"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "배송 빠르고 좋아요 재구매함",
+      "관련내용": "재구매함 배송 빨라요"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "배송도 빠르고 만족합니다 재구매함",
+      "관련내용": "배송 빠르고 만족합니다"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "배송 빠르고 만족합니다"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "배송 빠르고 상품도 이상 없어요"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "재구매함 배송 빨라요"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "좋습니다. 가격 저렴하고 좋습니다.",
+      "관련내용": "좋습니다. 가격 저렴하고 좋습니다."
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "좋습니다. 가격 저렴하고 좋습니다."
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "에러 없고 좋습니다",
+      "관련내용": "아직 사용 전이긴 한데 잘 되리라 믿습니다"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "만족합니다.\n다음에 또 구매 할께요.~~",
+      "관련내용": "만족합니다.\n다음에 또 구매 할께요.~~"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "감사합니다 잘쓸게요"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "연선 찾고 있었는데 좋은 가격에 잘 구입했습니다."
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "만족합니다.\n다음에 또 구매 할께요.~~"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "빠른배송감사합니다. CAT6급과 같은 가격에 CAT6A를 구매한다는 메리트 실공사 해보니 품질도 좋아요."
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "재구매했어요. 좋아요"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "항상 만족하며 사용합니다."
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "아직 사용 전이긴 한데 잘 되리라 믿습니다"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "상품 잘받았습니다.\n필요로 했던건데 아주 잘 사용했습니다..\n많이 파세요..!"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "가온이나 LS  재고가없어서 사봤습니다  작업하기는 훨씬 더까다롭고 굵기가 5e수준입니다 과연 10G가  나올지의심스럽습니다"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "삐른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "재구매입니다 빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "딱 좋아요\n선재도 좋구요"
+    },
+    {
+      "source_model": "LS-SSTP-CAT.6A-300M",
+      "내용": "아따 좋은 랜선이라 그런지 작업이 쪼까 힘들었어요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC"
+      ],
+      "length_meters": 300,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "SSTP",
+      "conductor": "연선(stranded)",
+      "awg": 27,
+      "pair_count": null,
+      "flame_rating": "LSZH",
+      "poe_support": true
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "LSZH(Low Smoke Zero Halogen) 난연 케이블",
+    "form_physical.length_meters": "300M",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "certification.rohs": "RoHS Compliant 친환경 소재 사용",
+    "family.cat_category": "CAT.6A S-STP 규격",
+    "family.shielding": "CAT.6A S-STP 규격",
+    "family.conductor": "연선(Stranded) 구조로 유연성이 높아",
+    "family.awg": "27AWG 규격으로 데이터 전송 시 간섭 최소화",
+    "family.flame_rating": "LSZH(Low Smoke Zero Halogen) 난연 케이블",
+    "family.poe_support": "PoE 안정 지원 (CCTV, AP 전원 공급 가능)"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:47",
+  "feature_schema_version": "1.0.0"
+}

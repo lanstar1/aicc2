@@ -1,0 +1,277 @@
+{
+  "model_no": "LS-8SSTP",
+  "product_name": "LANStar CAT.8 SSTP 제작케이블 22AWG 200M (그레이)",
+  "category": [
+    "랜케이블-CAT8",
+    "LAN공구"
+  ],
+  "key_features": [
+    "40Gbps 전송속도 지원 (40GBASE-T)",
+    "2000MHz 대역폭 지원",
+    "SSTP 2중차폐 구조: 4쌍 페어 개별 알루미늄 차폐 + 전체 편조 쉴드",
+    "22AWG 단선(Solid) 구조로 외부간섭 최소화 및 안정적 전송",
+    "LSZH(Low Smoke Zero Halogen) 피복 적용 - 저연기·무독성·무산성",
+    "FLUKE DSX-8000으로 현장 성능시험(PASS) 완료",
+    "원하는 길이로 직접 잘라 제작 가능한 박스형 케이블",
+    "RoHS 준수 (납·수은·카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.8 SSTP",
+    "전송속도": "40Gbps",
+    "대역폭": "2000MHz",
+    "네트워크 규격": "40GBASE-T",
+    "내심 굵기": "22AWG (지름 0.644mm, 표면적 0.325mm²)",
+    "케이블 구조": "단선(Solid), 4쌍(4PR)",
+    "차폐 구조": "SSTP (개별 알루미늄 차폐 + 편조 쉴드)",
+    "피복 재질": "LSZH (Low Smoke Zero Halogen)",
+    "케이블 길이": "200M (박스)",
+    "색상": "그레이",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "FLUKE 테스트 결과": "PASS (TIA Cat 8 Channel 기준, DSX-8000, 30m 테스트)",
+    "FLUKE 테스트 날짜": "03/30/2018",
+    "FLUKE Headroom": "15.7dB (NEXT 36-45)",
+    "전체 제품명(표기)": "CAT8 40GBase-T S/FTP 22AWG 4PR LSZH LAN CABLE"
+  },
+  "compatibility": [
+    "40GBASE-T",
+    "25GBASE-T",
+    "10GBASE-T",
+    "1000BASE-T",
+    "100BASE-TX",
+    "100BASE-T4",
+    "10BASE-T",
+    "ATM-25",
+    "ATM-51",
+    "ATM-155",
+    "100VG-AnyLan",
+    "TR-4",
+    "TR-16 Active",
+    "TR-16 Passive",
+    "LANStar CAT.8 전용 커넥터 LS-M850",
+    "LANStar CAT.8 전용 커플러 LS-F850"
+  ],
+  "package_contents": [
+    "CAT.8 SSTP 제작케이블 200M (박스)"
+  ],
+  "usage_instructions": "1. CAT.8 케이블을 준비한 뒤 3cm 가량 피복을 벗겨준다. 2. 피복을 벗겨낸 케이블에 커넥터 고정장치를 넣는다. 3. 노이즈 방지 쉴드를 정리해 접지 스티커로 고정한다. 4. 케이블을 색깔별로 정리한다. 5. 배선캡 표시에 따라 케이블을 끼운다(상·하단 모두 색깔에 맞춰 끼움). 6. 배선캡 바깥으로 튀어나온 선들을 정리한다. 7. 연결된 배선캡을 커넥터에 끼워 넣는다. 8. 커넥터를 압착한다(손으로 가능). 9. 커넥터에 고정장치를 연결하면 완성. 배선 순서는 다이렉트(568B-568B) 또는 크로스(568B-568A) 중 선택.",
+  "cautions": [
+    "커넥터 이미지는 연출된 사진으로 커넥터는 별도 구매 필요 (LS-M850, LS-F850)",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)의 상품 및 콘텐츠를 동의 없이 무단 복제·이용 시 불이익을 받을 수 있음",
+    "본 제품은 단선(Solid) 케이블로 연선(Stranded) 대비 설치가 까다로울 수 있음",
+    "FLUKE 테스트 결과는 30m 기준이며, 실제 설치 환경에 따라 성능이 달라질 수 있음",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-8SSTP-200MG",
+      "품목코드": "CAB-SS7117",
+      "품목명": "[LANstar] CAT.8케이블, SSTP, 40G, 22AWG, 200M, Gray/LSOH/난연[10124]",
+      "variant_suffix": "-200MG",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-8SSTP-200MG",
+      "내용": "빠른 배송으로 신축 현장에서 바로 적용했습니다. 케이블이 매우 굵고 이중 차폐라 그 자체로 만족도가 좋습니다. cat8 케이블로는 현재 최저가이기도 해서 케이블 컬러 선택의 제한은 그냥 넘어가도 될 정도로 가성비 좋습니다."
+    },
+    {
+      "source_model": "LS-8SSTP-200MG",
+      "내용": "오... 배송 완전 빨라요. 만족합니다."
+    },
+    {
+      "source_model": "LS-8SSTP-200MG",
+      "내용": "튼튼합니다. 설치하기도 쉽고~",
+      "관련내용": "배송도 빠르고 물품 포장도 잘 되어서 왔어요. 튼튼한 제품 잘 사용하겠습니다."
+    },
+    {
+      "source_model": "LS-8SSTP-200MG",
+      "내용": "배송도 빠르고 물품 포장도 잘 되어서 왔어요. 튼튼한 제품 잘 사용하겠습니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-8SSTP-200MG",
+      "id": 597001586,
+      "date": "2024-09-18 08:15",
+      "answerDate": "2024-09-19 11:36",
+      "user": "fran******",
+      "productName": "랜스타 LS-8SSTP-200MG CAT.8케이블 SSTP 40G 22AWG 200M Gray/LSZH/난연",
+      "question": "안녕하세요. 해당 케이블 poe++ 지원이 되는 케이블인가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 케이블 전력선으로는 추천드리지 않습니다. \n아래 링크의 제품 사용 추천드립니다.\nhttps://smartstore.naver.com/lineup/products/6506136950\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-8SSTP-200MG",
+      "id": 611271459,
+      "date": "2024-12-26 13:02",
+      "answerDate": "2024-12-26 13:13",
+      "user": "fran******",
+      "productName": "랜스타 LS-8SSTP-200MG CAT.8케이블 SSTP 40G 22AWG 200M Gray/LSZH/난연",
+      "question": "안녕하세요. 오전에 본제품 구매하였습니다. 200미터 드럼으로 오는게 맞는지 문의 드립니다. 타업체에서 같은 사양에 동가격인데 50미터 가격이라고 연락이 와서 취소하고 여기서 주문하는거라 문의 드립니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 구매해주신 200M 제품이 맞습니다.\n주문 주신 건의 경우 금일 정상적으로 출고 될 예정이오니 참고 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-8SSTP-200MG",
+      "chatUrl": "5NEwS",
+      "dateIso": "2025-11-28T06:39:34.515Z",
+      "name": "Bomon",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "랜스타 LS-8SSTP-200MG CAT.8케이블 SSTP 40G 22AWG 200M Gray/LSZH/난연\n(추가 문의) 플러그마스터 CAT8 STP 8P8C RJ45 커넥터 100개 P8-069-9 이거찝을\n(추가 문의) HT-568R 이제품은 랜커넥터 파손이 없는 랜툴일까요??",
+      "answer": "탈피기는 사용할수 있습니다. 그러나 페어정리 스트레이너는 카테고리8에는 적합하지 않을수 있습니다. LS-8SSTP-200MG 의 경우에는 전용 모듈러 콘넥터가 따로 나옵니다. 랜\n\n이더콘이라면 랜선의 AWG와 커넥터의 홀 사이즈를 고려하셔야 합니다. 케이블의 AWG는 22입니다. 강원전자 플러그마스터도 22AWG를 지원하기 떄문에 사이즈는 맞을겁니다.\n\n이쪽으로 문의를 부탁드립니다. 기술문의 02-702-3369 이메일 cs@kwshop.co.kr 평일 09:30 ~ 17:00(토,일, 공휴일은 휴무) 이 부분에 대한 내용은 강원",
+      "turn_count": 7,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "아고알겠습니다"
+        },
+        {
+          "role": "agent",
+          "text": "이쪽으로 문의를 부탁드립니다. 기술문의 02-702-3369\n이메일 cs@kwshop.co.kr\n평일 09:30 ~ 17:00(토,일, 공휴일은 휴무) 이 부분에 대한 내용은 강원"
+        },
+        {
+          "role": "customer",
+          "text": "HT-568R 이제품은 랜커넥터 파손이 없는 랜툴일까요??"
+        },
+        {
+          "role": "agent",
+          "text": "HT-568R 추천드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "플러그마스터 CAT8 STP 8P8C RJ45 커넥터 100개 P8-069-9 이거찝을"
+        },
+        {
+          "role": "agent",
+          "text": "툴리스 형태의 랜툴이라. 다시 알아보겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "넵 제품이없네요"
+        },
+        {
+          "role": "agent",
+          "text": "죄송합니다. 다시 추천드립니다. 강원전자의 PM-PGB01 를 추천드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "아아 감사합니다!"
+        },
+        {
+          "role": "agent",
+          "text": "이더콘이라면 랜선의 AWG와 커넥터의 홀 사이즈를 고려하셔야 합니다. \n\n케이블의 AWG는 22입니다. 강원전자 플러그마스터도 22AWG를 지원하기 떄문에 사이즈는 맞을겁니다."
+        },
+        {
+          "role": "customer",
+          "text": "아아 이더콘제작하려고합니다"
+        },
+        {
+          "role": "agent",
+          "text": "탈피기는 사용할수 있습니다. 그러나 페어정리 스트레이너는 카테고리8에는 적합하지 않을수 있습니다. LS-8SSTP-200MG 의 경우에는 전용 모듈러 콘넥터가 따로 나옵니다.\n\n랜"
+        },
+        {
+          "role": "customer",
+          "text": "랜스타 LS-8SSTP-200MG CAT.8케이블 SSTP 40G 22AWG 200M Gray/LSZH/난연"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "LSZH"
+      ],
+      "length_meters": 200,
+      "length_options_meters": null,
+      "color_options": [
+        "그레이"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT8",
+      "shielding": "SSTP",
+      "conductor": "단선(solid)",
+      "awg": 22,
+      "pair_count": 4,
+      "flame_rating": "LSZH",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "CAT.8 SSTP 제작케이블",
+    "connectivity.output_signals": "CAT.8 SSTP 제작케이블",
+    "connectivity.directional": "40Gbps 전송속도 지원",
+    "form_physical.material": "LSZH(Low Smoke Zero Halogen) 피복",
+    "form_physical.length_meters": "200M (박스)",
+    "form_physical.color_options": "색상: 그레이",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.cat_category": "CAT.8 SSTP",
+    "family.shielding": "SSTP 2중차폐 구조",
+    "family.conductor": "22AWG 단선(Solid) 구조",
+    "family.awg": "22AWG",
+    "family.pair_count": "4쌍 페어",
+    "family.flame_rating": "LSZH(Low Smoke Zero Halogen) 피복"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:48",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

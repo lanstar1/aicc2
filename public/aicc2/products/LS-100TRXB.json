@@ -1,0 +1,122 @@
+{
+  "model_no": "LS-100TRXB",
+  "product_name": "LANStar High Performance Fast Ethernet LAN Adapter",
+  "category": [
+    "젠더",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "REALTEK RTL8139D 최신 칩 사용",
+    "32Bit PCI Local Bus 지원 및 버스마스터링 구조",
+    "Auto Negotiation 기능으로 별도 설정 없이 자동 전송속도 선택",
+    "10/100Mbps 자동 속도 전환",
+    "Half/Full Duplex 지원",
+    "Plug & Play 지원",
+    "ACT, LINK LED 표시"
+  ],
+  "specifications": {
+    "칩셋": "REALTEK RTL8139D",
+    "표준규격": "IEEE802.3 10Base-T, 100BASE-TX",
+    "속도": "10/100Mbps",
+    "버스 인터페이스": "32Bit PCI",
+    "케이블": "Cat.5/6/7",
+    "포트": "RJ-45",
+    "기능": "Half/Full Duplex, Plug & Play",
+    "LED": "ACT, LINK",
+    "지원 OS": "Windows 95, 98, 2000, XP, 7, 8, Vista"
+  },
+  "compatibility": [
+    "32Bit PCI Local Bus 슬롯 지원 PC",
+    "IEEE802.3 10Base-T",
+    "IEEE802.3 100BASE-TX",
+    "Windows 95/98/2000/XP/7/8/Vista"
+  ],
+  "package_contents": [
+    "LS-100TRXB Network Interface Card",
+    "사용자 설명서",
+    "LP 브라켓",
+    "박스"
+  ],
+  "usage_instructions": "하드웨어 설치: 1) PC 전원 OFF. 2) PC 덮개를 열고 미사용 PCI 슬롯에 카드 장착. 3) 나사로 카드 고정. 4) PC 커버 닫기. 5) RJ-45 포트와 네트워크 장비(허브, 스위치, 라우터 등)를 랜케이블로 연결. 6) PC 전원 ON. 7) 랜카드 LED 점등 확인. / 소프트웨어 설치: Windows XP/Vista/7/8은 자동 설치됨. Windows 95/98/ME/NT/2000 사용자는 www.LANmart.co.kr 커뮤니티 기술자료실에서 '100TRXB' 검색 후 드라이버 다운로드 및 설치. 설치 확인: 장치 관리자 > 네트워크 어댑터 항목에 'Realtek RTL 8139 Family PCI Fast Ethernet NIC' 표시 여부 확인.",
+  "cautions": [
+    "LAN카드는 보드와의 충돌이 가끔 발생하므로 보드 충돌 시 인식이 안 될 수 있습니다.",
+    "LAN카드가 정상적으로 설정되지 않는 경우 PC의 슬롯 문제나 I/O 문제가 발생할 수 있습니다.",
+    "이 경우 사용하지 않는 다른 PCI 슬롯에 장착하여 재설정하십시오."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-100TRXB",
+      "품목코드": "NET-유랜카040",
+      "품목명": "[LANstar] PCI 10/100 랜카드 RTL8139D(100개)[30047] ★★할인제외★★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": false,
+      "iso9001": false,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "RJ-45",
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ-45",
+    "connectivity.output_signals": "RJ-45",
+    "connectivity.directional": "Half/Full Duplex 지원",
+    "connectivity.port_count": "RJ-45",
+    "power.power_mode": "32Bit PCI Local Bus 지원",
+    "power.charging_support": null,
+    "form_physical.has_case": null,
+    "family.connector_type_a": "RJ-45",
+    "family.connector_type_b": null,
+    "family.gender": null,
+    "family.pin_count": null
+  },
+  "feature_extracted_at": "2026-04-23T03:00:34",
+  "feature_schema_version": "1.0.0"
+}

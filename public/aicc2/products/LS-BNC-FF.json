@@ -1,0 +1,135 @@
+{
+  "model_no": "LS-BNC-FF",
+  "product_name": "LAN Star BNC 커플러 I형 BNC/F-BNC/F",
+  "category": [
+    "젠더",
+    "커넥터",
+    "커플러"
+  ],
+  "key_features": [
+    "양쪽 모두 BNC(Female) 타입 커넥터로 구성된 I형 젠더",
+    "RG58 케이블용",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 적용",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "유통 과정상 제품 모양이 조금씩 달라질 수 있음"
+  ],
+  "specifications": {
+    "커넥터 타입": "BNC(F) - BNC(F)",
+    "형태": "I형",
+    "적용 케이블": "RG58",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "RoHS 준수": "준수",
+    "품질인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "RG58 동축 케이블",
+    "BNC(Female) 커넥터 규격 기기"
+  ],
+  "package_contents": [
+    "BNC 커플러 I형 젠더 (LS-BNC-FF) 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "유통 과정상 제품의 모양이 조금씩 달라질 수 있음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "무단 복제 및 콘텐츠 이용 시 불이익이 발생할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-BNC-FF",
+      "품목코드": "GEN-BNC003",
+      "품목명": "[LANstar] BNC커플러Changer , I형, BNC F／F[20031]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-BNC-FF",
+      "내용": "저렴한가격에 여러개 구입했어요^^"
+    },
+    {
+      "source_model": "LS-BNC-FF",
+      "내용": "저렴한 가격에 잘 구입했습니다"
+    },
+    {
+      "source_model": "LS-BNC-FF",
+      "내용": "사이즈도 잘맞고 편리해요",
+      "관련내용": "배송빠르고 제품도 좋습니다."
+    },
+    {
+      "source_model": "LS-BNC-FF",
+      "내용": "배송빠르고 제품도 좋습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "BNC"
+      ],
+      "output_signals": [
+        "BNC"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "BNC(F)",
+      "connector_type_b": "BNC(F)",
+      "gender": "F-F",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "양쪽 모두 BNC(Female) 타입",
+    "connectivity.output_signals": "양쪽 모두 BNC(Female) 타입",
+    "connectivity.directional": "BNC 커플러 I형",
+    "connectivity.port_count": "양쪽 모두 BNC(Female) 타입",
+    "form_physical.has_case": "I형 젠더",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "family.connector_type_a": "BNC(F) - BNC(F)",
+    "family.connector_type_b": "BNC(F) - BNC(F)",
+    "family.gender": "BNC(F) - BNC(F)"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:33",
+  "feature_schema_version": "1.0.0"
+}

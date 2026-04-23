@@ -1,0 +1,142 @@
+{
+  "model_no": "LS-4UID",
+  "product_name": "LAN Star 허브랙 전용 슬라이드 서랍장 LS-4UID (4U, Ivory)",
+  "category": [
+    "허브랙",
+    "랙서랍장"
+  ],
+  "key_features": [
+    "허브랙 내부 설치용 슬라이드 서랍장으로 작업 도구 및 각종 장비 수납 가능",
+    "뒷면 가이드 길이 조절 기능으로 허브랙 깊이에 따라 결합 가능",
+    "시건장치(서랍 키) 제공으로 중요 물품 안전 보관 가능",
+    "4U 규격"
+  ],
+  "specifications": {
+    "제품 높이": "17.5cm",
+    "제품 너비(가이드 미결합)": "44cm",
+    "제품 깊이": "35cm",
+    "제품 너비(가이드 결합시)": "48cm",
+    "수납 공간(W x D x H)": "40.5 x 34.5 x 15.8 (cm)",
+    "유닛": "4U",
+    "색상": "Ivory",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음",
+    "생산물배상책임보험": "현대해상화재보험 1억원 가입"
+  },
+  "compatibility": [
+    "LS-300H",
+    "LS-500H",
+    "LS-750H",
+    "LS-1000H",
+    "LS-1200H",
+    "LS-1600H",
+    "LS-1800H",
+    "LS-2000H",
+    "LS-300HN",
+    "LS-300HB",
+    "LS-500HB",
+    "LS-750HB",
+    "LS-1000HB",
+    "LS-1200HB",
+    "LS-1600HB",
+    "LS-1800HB",
+    "LS-2000HB"
+  ],
+  "package_contents": [
+    "슬라이드 서랍장 본체 1ea",
+    "앞면 가이드 2ea",
+    "뒷면 가이드 2ea",
+    "서랍 키 2ea",
+    "케이지너트 8ea",
+    "케이지 볼트 8ea",
+    "가이드 볼트 16ea"
+  ],
+  "usage_instructions": "① 서랍장 앞면 양쪽에 가이드를 각각 설치한다. ② 뒷면 가이드를 설치한다(가이드 총 4개 결합). 뒷면 가이드는 허브랙 깊이에 따라 길이 조절이 가능하다. ③ 서랍 앞부분이 허브랙 문 방향으로 나오도록 결합한다. ④ 서랍 뒷부분도 허브랙에 결합하여 고정한다. ⑤ 서랍을 열어 필요한 물품을 수납하고, 중요한 물품은 시건장치(서랍 키)를 통해 안전하게 보관한다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됨",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-4UID",
+      "품목코드": "NEO-랙선반052",
+      "품목명": "[LANstar] 허브랙 슬라이드 서랍장 아이보리 4U [30409]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "Ivory"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "rack_unit": 4,
+      "mount_type": "N/A",
+      "depth_mm": 350,
+      "width_mm": 480,
+      "height_mm": 175,
+      "has_door": false,
+      "has_lock": true,
+      "has_fan": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.directional": "N/A",
+    "power.power_mode": "무전원",
+    "form_physical.has_case": "슬라이드 서랍장",
+    "form_physical.color_options": "색상: Ivory",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.rack_unit": "4U 규격",
+    "family.mount_type": "허브랙 내부 설치용",
+    "family.depth_mm": "제품 깊이: 35cm",
+    "family.width_mm": "제품 너비(가이드 결합시): 48cm",
+    "family.height_mm": "제품 높이: 17.5cm",
+    "family.has_lock": "시건장치(서랍 키) 제공"
+  },
+  "feature_extracted_at": "2026-04-23T03:07:35",
+  "feature_schema_version": "1.0.0"
+}

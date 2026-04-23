@@ -1,0 +1,131 @@
+{
+  "model_no": "LS-2UID",
+  "product_name": "LAN Star 허브랙 전용 슬라이드 서랍장 LS-2UID (2U, Ivory)",
+  "category": [
+    "허브랙",
+    "랙서랍장"
+  ],
+  "key_features": [
+    "허브랙 내부에 설치하여 작업 도구 및 각종 장비 수납 가능",
+    "뒷면 가이드 길이 조절 기능으로 허브랙 깊이에 따라 조절 결합 가능",
+    "시건장치(서랍 키) 포함으로 중요 물품 안전 보관 가능",
+    "2U 규격",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "제품 높이": "8.5cm",
+    "제품 폭(가이드 미결합)": "44cm",
+    "제품 깊이": "35cm",
+    "제품 폭(가이드 결합 시)": "48cm",
+    "수납공간 (W x D x H)": "40.5 x 34.5 x 6.8 (cm)",
+    "유닛": "2U",
+    "색상": "Ivory",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음",
+    "품질보증기준": "공정거래위원회 고시 소비자 분쟁해결기준에 따라 보상",
+    "AS 문의": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "LS-300H / LS-300HB (H300xD450xW600mm, 6U)",
+    "LS-300HN (H300xD450xW600mm, 6U, 바퀴장착 가능모델)",
+    "LS-500H / LS-500HB (H500xD500xW600mm, 9U)",
+    "LS-750H / LS-750HB (H750xD600xW600mm, 12U)",
+    "LS-1000H / LS-1000HB (H1000xD600xW600mm, 18U)",
+    "LS-1200H / LS-1200HB (H1200xD800xW600mm, 22U)",
+    "LS-1600H / LS-1600HB (H1600xD800xW600mm, 32U)",
+    "LS-1800H / LS-1800HB (H1800xD800xW600mm, 36U)",
+    "LS-2000H / LS-2000HB (H2000xD800xW600mm, 42U)"
+  ],
+  "package_contents": [
+    "슬라이드 서랍장 본체 1ea",
+    "앞면 가이드 2ea",
+    "뒷면 가이드 2ea",
+    "서랍 키 2ea",
+    "케이지너트 8ea",
+    "케이지 볼트 8ea",
+    "가이드 볼트 16ea"
+  ],
+  "usage_instructions": "① 서랍장 앞면 양쪽에 가이드를 각각 설치한다. ② 뒷면 가이드 2개를 설치한다(가이드 총 4개 결합). 뒷면 가이드는 허브랙 깊이에 따라 길이 조절이 가능하다. ③ 서랍 앞부분이 허브랙 문 방향으로 나오도록 결합한다. ④ 서랍 뒷부분도 허브랙에 결합하여 고정한다. ⑤ 서랍을 열어 필요한 물품을 수납하고, 중요한 물품은 시건장치를 통해 안전하게 보관한다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "허브랙 깊이(D) 스펙을 사전에 확인하여 뒷면 가이드 길이를 맞게 조절할 것",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단 참조)로 문의"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-2UID",
+      "품목코드": "NEO-랙선반050",
+      "품목명": "[LANstar] 허브랙 슬라이드 서랍장 아이보리 2U [30407]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": null,
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "Ivory"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "rack_unit": 2,
+      "mount_type": null,
+      "depth_mm": 350,
+      "width_mm": 480,
+      "height_mm": 85,
+      "has_door": false,
+      "has_lock": true,
+      "has_fan": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "허브랙 전용 슬라이드 서랍장",
+    "form_physical.color_options": "색상: Ivory",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "family.rack_unit": "2U 규격",
+    "family.depth_mm": "제품 깊이: 35cm",
+    "family.width_mm": "제품 폭(가이드 결합 시): 48cm",
+    "family.height_mm": "제품 높이: 8.5cm",
+    "family.has_lock": "시건장치(서랍 키) 포함"
+  },
+  "feature_extracted_at": "2026-04-23T03:06:49",
+  "feature_schema_version": "1.0.0"
+}

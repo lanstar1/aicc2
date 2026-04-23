@@ -1,0 +1,140 @@
+{
+  "model_no": "LS-H20AOC",
+  "product_name": "LANStar HDMI 2.0 광 AOC 배관용 분리형 케이블 (Active Optical Cable)",
+  "category": [
+    "광케이블",
+    "HDMI케이블",
+    "HDMI광케이블"
+  ],
+  "key_features": [
+    "광섬유(OM3 4Core)와 구리 동선을 결합한 하이브리드 구조",
+    "최대 4K@60Hz / YUV 4:4:4 해상도 지원, 100m까지 신호손실 없이 전송",
+    "18Gbps 고속 전송속도",
+    "4K HDR 지원 (SDR 대비 10배 명암 단계)",
+    "3D 디스플레이 지원",
+    "21:9 와이드 화면 비율(시네마스코프) 지원",
+    "HDCP 2.2 영상 저작권 보호 지원",
+    "Micro HDMI to HDMI 분리형 커넥터 구조로 좁은 배관 통과 용이",
+    "별도 외부 전원 공급 없이 장거리 전송 가능",
+    "드럼형 케이블 구조로 배관 공사에 적합",
+    "Plug & Play 지원",
+    "60fps 주사율 지원",
+    "HDMI 2.0 규격 (하위 호환 HDMI 1.4)"
+  ],
+  "specifications": {
+    "인터페이스": "HDMI 19Pin A(Male) - 19Pin A(Male)",
+    "최대 해상도": "4K@60Hz / YUV 4:4:4",
+    "전송속도": "18Gbps",
+    "커넥터": "Micro HDMI to HDMI Adapter x2",
+    "규격": "HDMI Specification 2.0 (1.4)",
+    "선 구조": "Active Optical Cable (Fiber OM3 4Core + Bare Copper)",
+    "직경": "4.5mm",
+    "길이": "10m / 15m / 20m / 30m / 50m / 80m / 100m",
+    "동작온도": "0°C ~ 50°C",
+    "습도": "0% ~ 80%",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 2.0 규격 기기",
+    "HDMI 1.4 규격 기기 (하위 호환)",
+    "Source 기기: PC, 노트북, 콘솔, DVD 플레이어 등",
+    "Display 기기: TV, 모니터, 빔 프로젝터 등",
+    "HDCP 2.2 지원 기기",
+    "4K UHD 디스플레이",
+    "3D 디스플레이",
+    "21:9 와이드 디스플레이",
+    "홈씨어터, 옥외광고, 방송국, 병원, 화상회의 환경"
+  ],
+  "package_contents": [
+    "HDMI 2.0 광 AOC 케이블 본체 (드럼형)",
+    "Micro HDMI to HDMI 변환 아답터 x2 (Source용, Display용)",
+    "커넥터 보호캡"
+  ],
+  "usage_instructions": "1. Source 측 Micro HDMI to HDMI 아답터를 분리한 상태로 케이블을 배관에 통과시킨다. 2. 통과 후 양쪽 끝에 각각 Micro HDMI to HDMI 아답터를 연결한다. 3. Source(입력) 단자는 PC·노트북·콘솔·DVD 플레이어 등에, Display(출력) 단자는 TV·모니터·빔 프로젝터 등에 연결한다. 4. 입력/출력 방향성이 있으므로 케이블의 Source/Display 표기를 반드시 확인 후 연결한다. 5. 별도 외부 전원 공급 없이 Plug & Play로 동작한다. 부족한 길이는 랜스타 HDMI 2.0 연장 케이블(LS-HDMI-HMF 시리즈)로 연장 가능.",
+  "cautions": [
+    "입력(Source)과 출력(Display) 방향성이 있는 제품이므로 연결 방향을 반드시 확인할 것.",
+    "Source 단자를 Display 기기에, Display 단자를 Source 기기에 연결하지 말 것.",
+    "동작온도 0°C ~ 50°C, 습도 0% ~ 80% 범위 내에서 사용할 것.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처 제품은 A/S 불가.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음.",
+    "무단 복제 및 콘텐츠 무단 이용 시 불이익이 발생할 수 있음.",
+    "당일 출고는 오후 4시 이전 결제 완료 건 기준이며, 토·일·공휴일 제외 평일 기준임. 택배사 사정에 따라 배송기간이 길어질 수 있음."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        10,
+        15,
+        20,
+        30,
+        50,
+        80,
+        100
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": true,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "HDMI2.0",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": true,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19Pin A(Male)",
+    "connectivity.output_signals": "19Pin A(Male)",
+    "connectivity.directional": "입력/출력 방향성이 있으므로",
+    "power.power_mode": "별도 외부 전원 공급 없이",
+    "form_physical.length_options_meters": "10m / 15m / 20m / 30m / 50m / 80m / 100m",
+    "audio_video.max_resolution": "4K@60Hz / YUV 4:4:4 해상도 지원",
+    "audio_video.hdr_support": "4K HDR 지원",
+    "audio_video.hdcp_version": "HDCP 2.2 영상 저작권 보호 지원",
+    "family.hdmi_version": "HDMI 2.0 규격",
+    "family.optical_core": "광섬유(OM3 4Core)와 구리 동선을 결합한 하이브리드"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:32",
+  "feature_schema_version": "1.0.0"
+}

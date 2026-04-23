@@ -1,0 +1,285 @@
+{
+  "model_no": "LS-6PLB-24P19N",
+  "product_name": "CAT.6 UTP 24포트 패치판넬",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "분배판넬",
+    "UTP포트"
+  ],
+  "key_features": [
+    "250MHz 대역폭 / 1Gbps 속도 완벽 지원",
+    "19인치 표준형 랙 1U 타입 패치판넬",
+    "EIA/TIA 568B & 568A Category.6 규격 준수",
+    "22~24AWG 연선/단선 작업 가능",
+    "포트 식별을 위한 라벨 제공",
+    "허브랙 & 서버랙 모두 장착 가능",
+    "RJ-45 포트 3μ 금도금 핀 적용으로 신호 전달률 극대화",
+    "케이블 묶음 관리로 통풍 및 온도 상승률 절감",
+    "국립전파연구원 인증 획득 (KCC-RTI-LUS-LS-CAT6)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "카테고리 규격": "CAT.6",
+    "포트 수": "24포트",
+    "대역폭": "250MHz",
+    "전송속도": "1Gbps",
+    "폼팩터": "19인치 표준랙 타입, 1U",
+    "준수 규격": "EIA/TIA 568B & 568A CAT.6",
+    "지원 케이블 규격": "22~24AWG 연선/단선",
+    "커넥터 타입": "RJ-45",
+    "핀 도금": "3μ 금도금",
+    "인증번호": "KCC-RTI-LUS-LS-CAT6",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "A/S 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr",
+    "제품 크기 (단위: mm)": "482.6 x 465 x 44.5"
+  },
+  "compatibility": [
+    "19인치 표준 허브랙",
+    "19인치 표준 서버랙",
+    "EIA/TIA 568A 규격",
+    "EIA/TIA 568B 규격",
+    "CAT.6 UTP 케이블 (22~24AWG)",
+    "랜스타 허브랙 시리즈 (LS-300H, LS-500H, LS-750H, LS-1000H, LS-1200H, LS-1600H, LS-1800H, LS-2000H 및 블랙 모델)",
+    "랜스타 서버랙 시리즈 (LS-750HS, LS-1200HS, LS-1800HS, LS-2000HS)"
+  ],
+  "package_contents": [
+    "LS-6PLB-24P19N 패치판넬 본체 1ea",
+    "케이블타이 4ea",
+    "판넬 고정 나사 4ea",
+    "케이블 고정 덮개 24ea",
+    "Manual 1ea"
+  ],
+  "usage_instructions": "1. 패치판넬과 연결 케이블, 탈피기, 가위 등을 준비한다. 2. 연결할 케이블의 피복을 탈피기를 이용하여 벗긴다. 3. 연결할 규격(Direct/Cross)에 맞게 케이블을 연결한다. 4. 연결이 끝난 부분을 덮개로 씌운다. 5. 덮개로 마무리한 다음 튀어나온 케이블을 가위로 잘라낸다. 6. 선 마무리 작업이 끝나면 케이블 타이를 이용하여 선들을 정리한다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-6PLB-24P19N",
+      "품목코드": "NEO-패치판044",
+      "품목명": "[LANstar] Cat.6 , UTP 24포트 패치판넬 [20285] (20개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-6PLB-24P19N",
+      "내용": "문제 없이 잘 사용하고 있습니다. 또 구매하러 올게요.",
+      "관련내용": "필요 수량만큼만 구매할 수 있는데 제품도, 배송도 깔끔하고 빠르게 와서 만족합니다."
+    },
+    {
+      "source_model": "LS-6PLB-24P19N",
+      "내용": "문제 없이 잘 사용하고 있습니다. 또 구매하러 올게요.",
+      "관련내용": "제품 포장을 깔끔하게 해주셔서 수량 확인, 관리가 수월해요."
+    },
+    {
+      "source_model": "LS-6PLB-24P19N",
+      "내용": "빠른 배송 정확한 상품 굿!",
+      "관련내용": "빠른배송 정확한 상품 굿~!"
+    },
+    {
+      "source_model": "LS-6PLB-24P19N",
+      "내용": "빠른배송 정확한 상품 굿~!"
+    },
+    {
+      "source_model": "LS-6PLB-24P19N",
+      "내용": "제품 포장을 깔끔하게 해주셔서 수량 확인, 관리가 수월해요."
+    },
+    {
+      "source_model": "LS-6PLB-24P19N",
+      "내용": "필요 수량만큼만 구매할 수 있는데 제품도, 배송도 깔끔하고 빠르게 와서 만족합니다."
+    },
+    {
+      "source_model": "LS-6PLB-24P19N",
+      "내용": "거래처 납품 설치\n무난하게 잘됩니더"
+    },
+    {
+      "source_model": "LS-6PLB-24P19N",
+      "내용": "빠른 배송 좋은 상품 감사합니다.\n항상 잘 사용하고 있습니다~"
+    },
+    {
+      "source_model": "LS-6PLB-24P19N",
+      "내용": "빠른배송 좋은상품 감사합니다."
+    },
+    {
+      "source_model": "LS-6PLB-24P19N",
+      "내용": "상용성이 참 좋네요 설치도 편하고"
+    },
+    {
+      "source_model": "LS-6PLB-24P19N",
+      "내용": "현장에서 설치하려구요"
+    },
+    {
+      "source_model": "LS-6PLB-24P19N",
+      "내용": "견고하고 사용하기에 아주좋아요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-6PLB-24P19N",
+      "id": 562498641,
+      "date": "2024-01-05 10:01",
+      "answerDate": "2024-01-05 11:09",
+      "user": "yj99****",
+      "productName": "랜스타 Cat.6 UTP 24포트 패치판넬 LS-6PLB-24P19N",
+      "question": "PoE 지원 스위칭허브에 연결하려고 하는데, '허브 -> 패치패널 -> PoE전원 사용기기' \n사용해도 전력이 제대로 공급이 되나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n구체적으로 어떤 PoE전원 사용기기를 사용하시는지 알 수 없어 정확한 상담이 어렵습니다만, 내부적으로 말씀 주신 방식으로 테스트를 진행하였을 때는 문제가 없었습니다.\n또한, 패치판넬은 단순 네트워크를 받아서 보내주는 커넥터 역할을 하기 때문에, 8가닥의 랜선, 데이터와 전력(POE)모두 문제 없이 연결했다면 문제 없이 내보낼 수 있습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-6PLB-24P19N",
+      "chatUrl": "2iPuN",
+      "dateIso": "2024-07-23T07:29:38.291Z",
+      "name": "qidhevakc",
+      "isTechnical": true,
+      "category": "shipping",
+      "modelConfidence": "high",
+      "question": "kdapd@kdakr.com와 kdamk@kdakr.com, kdaqm@kdakr.com메일로 자료 회신 부탁 드립니다.\n(추가 문의) 안녕하세요. 말씀 주신 kc인증서와 msds 환경자료를 받을수있을까요?",
+      "answer": "구매해주신 제품 중 LS-6PLB-24P19N 만 KC인증서 있습니다. 케이블의 경우는 MSDS 환경 자료만 있습니다.\n\n네 고객님, 말씀해주신 메일 주소로 자료 전달드렸습니다.",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "kdapd@kdakr.com와 kdamk@kdakr.com, kdaqm@kdakr.com메일로 자료 회신 부탁 드립니다."
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 말씀해주신 메일 주소로 자료 전달드렸습니다."
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요. 말씀 주신 kc인증서와 msds 환경자료를 받을수있을까요?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n구매해주신 제품 중 LS-6PLB-24P19N 만 KC인증서 있습니다.\n케이블의 경우는 MSDS 환경 자료만 있습니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-6PLB-24P19N",
+      "chatUrl": "2jPag",
+      "dateIso": "2024-07-23T04:06:13.523Z",
+      "name": "몽몽이",
+      "isTechnical": true,
+      "category": "other",
+      "modelConfidence": "high",
+      "question": "안녕하세요\n저희가 인터넷으로 아래 자재에 대해 lanstar 제품을 구매했는데\n이 제품들에 대해서 관련 인증서가 있는지 문의드립니다.\n\nLS-6PLB-24P19N / 1개\nLS-F...",
+      "answer": "혹시 구매해주신 아이디로 문의 가능하실까요? 성함 / 연락처 등도 확인 부탁드립니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "6월20일 구매했었습니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n혹시 구매해주신 아이디로 문의 가능하실까요?\n성함 / 연락처 등도 확인 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "귀사 사이트에서 주문했습니다"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요\n저희가 인터넷으로 아래 자재에 대해 lanstar 제품을 구매했는데\n이 제품들에 대해서 관련 인증서가 있는지 문의드립니다.\n\nLS-6PLB-24P19N / 1개\nLS-F..."
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "N/A",
+      "port_count": 24
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": "N/A",
+      "awg": 22,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ-45 포트",
+    "connectivity.output_signals": "RJ-45 포트",
+    "connectivity.port_count": "24포트",
+    "power.power_mode": "무전원",
+    "power.charging_support": "false",
+    "form_physical.has_case": "패치판넬",
+    "form_physical.material": "3μ 금도금 핀",
+    "certification.kc": "국립전파연구원 인증 획득 (KCC-RTI-LUS-LS-CAT6)",
+    "family.cat_category": "CAT.6",
+    "family.shielding": "UTP",
+    "family.awg": "22~24AWG"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:36",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 2,
+    "category_breakdown": {
+      "shipping": 1,
+      "other": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "model_no": "LS-CON-RG6-5C2C",
+  "product_name": "BNC 콘넥터 RG60 5C2V (TOOL용)",
+  "category": [
+    "커넥터",
+    "LAN공구"
+  ],
+  "key_features": [
+    "RG60(5C2V) 동축 케이블용 BNC 케이블 제작 커넥터",
+    "TOOL(LS-HT-301C)을 사용하여 압착 고정하는 방식",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "RoHS 규정 준수 (납·수은·카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "제조사: 라인업시스템(주) / 브랜드: LANstar"
+  ],
+  "specifications": {
+    "콘넥터 길이": "24mm",
+    "콘넥터 외경": "5.5mm",
+    "콘넥터 내경": "4mm",
+    "RING 길이": "12mm",
+    "RING 외경": "8mm",
+    "RING 내경(링 내경)": "7.5mm",
+    "PIN 길이": "11.5mm",
+    "적용 케이블 규격": "RG60 / 5C2V",
+    "제조국": "중국 (China)",
+    "인증번호": "해당없음",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "RG60 동축 케이블",
+    "5C2V 동축 케이블",
+    "LS-CCTP-100M (별도 구매)",
+    "LS-CCTP-200M (별도 구매)",
+    "LS-HT-301C BNC Tool (별도 구매)"
+  ],
+  "package_contents": [
+    "BNC 콘넥터 RG60 5C2V (LS-CON-RG6-5C2C) 본체"
+  ],
+  "usage_instructions": "1) 동축 케이블의 피복을 탈피한다. 2) 수축튜브를 케이블에 꽂는다. 3) 내심을 5mm 절단한다. 4) BNC 콘넥터를 케이블에 꽂는다. 5) BNC Tool(LS-HT-301C)로 조여 고정한다. 6) 내심에 잭을 끼운 후 BNC Tool로 고정한다. 7) 라이터로 수축튜브를 수축시켜 조인다. 8) 전원케이블 피복을 벗겨낸다. 9) 전원케이블에 전원 연결 후 절연테이프로 마무리한다.",
+  "cautions": [
+    "유통 과정상 제품의 모양이 조금씩 달라질 수 있음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "BNC Tool(LS-HT-301C) 및 케이블(LS-CCTP-100M, LS-CCTP-200M)은 별도 구매 필요",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-CON-RG6-5C2C",
+      "품목코드": "GEN-BNC001",
+      "품목명": "[LANstar] BNC콘넥터, TOOL형, RG60, 5C2V용 콘넥터외경 5.5mm,RING내경 7.5mm[20033]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-CON-RG6-5C2C",
+      "내용": "감사드립니다 잘쓰겠습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "BNC"
+      ],
+      "output_signals": [
+        "BNC"
+      ],
+      "directional": "N/A"
+    },
+    "power": {
+      "power_mode": "N/A"
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [],
+      "color_options": []
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "BNC",
+      "connector_type_b": "BNC",
+      "gender": "M-M",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "BNC 콘넥터",
+    "connectivity.output_signals": "BNC 콘넥터",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.connector_type_a": "BNC 콘넥터",
+    "family.connector_type_b": "BNC 콘넥터",
+    "family.gender": "BNC 콘넥터 RG60 5C2V (TOOL용)"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:12",
+  "feature_schema_version": "1.0.0"
+}

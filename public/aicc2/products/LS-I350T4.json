@@ -1,0 +1,159 @@
+{
+  "model_no": "LS-I350T4",
+  "product_name": "LAN Star Intel i350 1G 4포트 랜카드 (LS-1350T4)",
+  "category": [
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "Intel 'NHI350AM4' 칩셋 탑재로 높은 안정성과 최대 네트워크 성능 제공",
+    "PCI-Express x4 v2.1 버스 슬롯 사용 (4배속/8배속/16배속 슬롯 모두 장착 가능, x1 사용 불가)",
+    "RJ45 4포트 제공 (랜포트 4개 생성 및 추가)",
+    "최대 전송속도 1Gbps (100Mbps, 10Mbps 하위 속도 호환)",
+    "IEEE802.3 이더넷 표준 규격 지원 (1000BASE-T, 100BASE-TX, 10BASE-TE)",
+    "4개 이더넷 포트 망분리 지원 (인트라넷·내부망·외부망·기타 회선 분리 사용 가능)",
+    "방열판(Heatsink) 내장으로 발열 대비 및 제품 성능 저하 방지",
+    "슬림 PC 전용 브라켓 기본 포함",
+    "Windows 7/8/10/11, Linux, FreeBSD, VMware ESXi 운영체제 지원",
+    "국립전파연구원 KC 인증 취득 (인증번호: R-R-LUS-LS-1350T4)",
+    "소재·부품·장비 전문기업확인서 취득 (2022.11.29, 한국산업기술평가관리원)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "라인업시스템(주) / 랜스타 정식 수입·유통 정품"
+  ],
+  "specifications": {
+    "버스 슬롯": "PCI-Express x4 v2.1 (5GT/s)",
+    "인터페이스": "RJ45 4포트",
+    "전송 속도": "1000Mbps / 100Mbps / 10Mbps",
+    "칩셋": "Intel NHI350AM4",
+    "운영 체제": "Windows 7/8/10/11, Linux, FreeBSD, VMware ESXi",
+    "제품 무게": "약 85g",
+    "제품 크기": "132mm x 68.5mm",
+    "KC 인증번호": "R-R-LUS-LS-1350T4",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "PCI-Express x4 슬롯 (사용 가능)",
+    "PCI-Express x8 슬롯 (사용 가능)",
+    "PCI-Express x16 슬롯 (사용 가능)",
+    "PCI-Express x1 슬롯 (사용 불가)",
+    "일반 PC 메인보드",
+    "슬림 PC 메인보드 (전용 브라켓 포함)",
+    "LAN 케이블 CAT.6 이상 권장 (최소 CAT.5E)",
+    "Windows 7",
+    "Windows 8",
+    "Windows 10",
+    "Windows 11",
+    "Linux",
+    "FreeBSD",
+    "VMware ESXi"
+  ],
+  "package_contents": [
+    "1Gbps 4포트 랜카드 본체 (LS-1350T4)",
+    "슬림 PC 전용 브라켓",
+    "드라이버 설치 CD",
+    "매뉴얼"
+  ],
+  "usage_instructions": "1. 메인보드의 PCI-Express x4/x8/x16 슬롯에 랜카드를 장착한다. 2. 슬림 PC 사용 시 기존 일반 PC용 브라켓을 제거하고 슬림 PC 전용 브라켓으로 교체한 뒤 장착한다. 3. 드라이버 설치 CD를 이용하거나 별도로 드라이버를 설치한다. 4. 설치 후 장치 관리자 > 네트워크 어댑터에서 'Intel(R) 1350 Gigabit Network Connection' 항목 4개가 표시되는지 확인한다. 5. RJ45 포트에 CAT.6 이상 LAN 케이블을 연결하면 네트워크가 활성화된다. 6. 망분리가 필요한 경우 4개의 이더넷 포트를 각각 인트라넷·내부망·외부망·기타 회선 등으로 분리하여 사용한다.",
+  "cautions": [
+    "PCI-Express x1 슬롯에는 장착이 불가능합니다.",
+    "1Gbps 최대 속도를 이용하려면 사용 중인 인터넷 회선이 1Gbps 이상을 지원해야 합니다.",
+    "안정적인 1Gbps 연결을 위해 LAN 케이블은 CAT.6 이상을 사용하는 것을 권장합니다 (최소 CAT.5E).",
+    "드라이버가 정상 설치되지 않으면 네트워크 어댑터 항목에 장치가 표시되지 않을 수 있습니다.",
+    "당일출고는 오후 4시 이전 결제 완료 건 기준이며, 토·일·공휴일은 제외됩니다.",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있습니다 (평균 1~2일 소요).",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처의 제품은 A/S를 받을 수 없습니다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-I350T4",
+      "품목코드": "NET-유랜카119",
+      "품목명": "[LANstar] PCIe Intel i350 4포트 1G 랜카드 [30807] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-I350T4",
+      "내용": "좋아요ㅎㅎ 추천해요ㅎㅎ"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 1000,
+      "chipset": "Intel NHI350AM4"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 4포트 제공",
+    "connectivity.output_signals": "RJ45 4포트 제공",
+    "connectivity.directional": "RJ45 4포트 제공",
+    "connectivity.port_count": "RJ45 4포트 제공",
+    "power.power_mode": "PCI-Express x4 v2.1 버스 슬롯 사용",
+    "power.charging_support": "PCI-Express x4 v2.1 버스 슬롯 사용",
+    "form_physical.has_case": "방열판(Heatsink) 내장으로 발열 대비",
+    "certification.kc": "KC 인증 취득",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.bus_interface": "PCI-Express x4 v2.1 버스 슬롯 사용",
+    "family.speed_mbps": "최대 전송속도 1Gbps",
+    "family.chipset": "Intel 'NHI350AM4' 칩셋 탑재"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:50",
+  "feature_schema_version": "1.0.0"
+}

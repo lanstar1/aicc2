@@ -1,0 +1,108 @@
+{
+  "model_no": "LS-IPSET-4P-BULK",
+  "product_name": "차량용 USB 미니 충전기 (USB in-Car Charger)",
+  "category": [
+    "USB2.0"
+  ],
+  "key_features": [
+    "시거잭 연결 방식의 차량용 USB 충전기",
+    "입력 전압 DC 12V~24V 지원 (12V·24V 차량 모두 호환)",
+    "출력 5V 2.1A(2100mA) 고속 충전 지원",
+    "USB 2.0 규격",
+    "벌크(bulk) 포장으로 출고"
+  ],
+  "specifications": {
+    "모델명": "LS-IPSET-4P",
+    "제조사": "라인업시스템(주)",
+    "제조국/원산지": "중국 (China)",
+    "인증서번호": "해당없음",
+    "입력 전압": "DC 12V ~ 24V",
+    "출력 전압/전류": "5V 2.1A (2100mA)",
+    "USB 규격": "USB 2.0",
+    "포장 방식": "벌크(bulk) 포장",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "DC 12V 차량 (일반 승용차)",
+    "DC 24V 차량 (트럭 등)",
+    "USB 2.0 호환 기기"
+  ],
+  "package_contents": [
+    "차량용 USB 미니 충전기 본체 1개",
+    "USB 케이블 (별매)",
+    "전원 케이블 (별매)"
+  ],
+  "usage_instructions": "차량용 USB 미니 충전기를 시거잭에 꽂아 사용합니다. USB 케이블(별매)을 충전기의 USB 포트에 연결하여 기기를 충전하세요.",
+  "cautions": [
+    "USB 케이블 및 전원 케이블은 별매이므로 별도 구매가 필요합니다.",
+    "본 2.1A 상품은 벌크(bulk) 포장으로 출고됩니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "무관"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "일방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": null,
+      "charging_only": true,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "시거잭 연결 방식의 차량용 USB 충전기",
+    "connectivity.output_signals": "USB 케이블(별매)을 충전기의 USB 포트에 연결",
+    "connectivity.directional": "충전기",
+    "connectivity.port_count": "USB 포트에 연결",
+    "power.power_mode": "시거잭 연결 방식의 차량용 USB 충전기",
+    "power.charging_support": "충전기",
+    "family.usb_version": "USB 2.0 규격",
+    "family.charging_only": "충전기"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:51",
+  "feature_schema_version": "1.0.0"
+}

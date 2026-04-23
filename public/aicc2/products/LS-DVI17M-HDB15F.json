@@ -1,0 +1,132 @@
+{
+  "model_no": "LS-DVI17M-HDB15F",
+  "product_name": "DVI 변환젠더 DVI 12+5P/M-HDB15P/F",
+  "category": [
+    "DVI",
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "DVI 12+5M 타입과 HDB15P/F 타입 커넥터로 구성된 젠더",
+    "일반 모니터 케이블을 DVI 케이블에 사용 가능하도록 변환",
+    "신호 손실을 최소화하는 금도금 커넥터 적용",
+    "DVI-A(아날로그 신호 전용) 듀얼링크 지원",
+    "RoHS 규격 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 구성": "DVI 12+5P Male / HDB15P Female",
+    "신호 방식": "아날로그(DVI-A) 전용",
+    "링크 방식": "듀얼링크",
+    "커넥터 도금": "금도금",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "ISO 인증": "ISO 9001:2008 품질경영시스템",
+    "환경 규격": "RoHS COMPLIANT"
+  },
+  "compatibility": [
+    "DVI 12+5M (DVI-A Male) 단자를 사용하는 기기",
+    "HDB15P Female (일반 D-Sub 15핀) 단자를 사용하는 모니터 및 케이블"
+  ],
+  "package_contents": [
+    "DVI 변환젠더 (LS-DVI17M-HDB15F) 본체 1개"
+  ],
+  "usage_instructions": "DVI 12+5M 단자를 DVI 포트에 연결하고, HDB15P/F 단자에 일반 모니터 케이블을 연결하여 사용합니다.",
+  "cautions": [
+    "제품의 단자 크기와 모양을 반드시 확인 후 구매하세요.",
+    "유통 과정상 제품의 모양이나 색상은 조금씩 달라질 수 있습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "DVI-A 단자는 아날로그 신호만 전송하는 단자입니다.",
+    "본 제품 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DVI17M-HDB15F",
+      "품목코드": "GEN-HDI001",
+      "품목명": "[LANstar] DVI젠더, DVI 12＋5／M-HDB15P／F[20110](400개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DVI-I"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "DVI-I Dual",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DVI 12+5P Male",
+    "connectivity.output_signals": "HDB15P Female",
+    "connectivity.directional": "변환젠더",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "DVI 변환젠더",
+    "form_physical.material": "금도금 커넥터 적용",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템",
+    "audio_video.max_resolution": "아날로그(DVI-A) 전용",
+    "audio_video.hdr_support": "아날로그(DVI-A) 전용",
+    "audio_video.hdcp_version": "아날로그(DVI-A) 전용",
+    "audio_video.audio_pass": "아날로그(DVI-A) 전용",
+    "control_switching.has_remote": "젠더",
+    "control_switching.has_hotkey": "젠더",
+    "control_switching.has_physical_button": "젠더",
+    "control_switching.has_mouse_switching": "젠더",
+    "control_switching.has_auto_scan": "젠더",
+    "control_switching.has_app_control": "젠더",
+    "family.dvi_type": "DVI-A(아날로그 신호 전용) 듀얼링크 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:47",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,151 @@
+{
+  "model_no": "LS-WPK8DS-C5E",
+  "product_name": "CAT.5E STP 옥외용 방수 키스톤잭 (Waterproof Outdoor Keystone Jack)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-STP",
+    "키스톤잭"
+  ],
+  "key_features": [
+    "IP67 등급 획득 (완전한 방진 + 15cm~1m 침수 보호)",
+    "산업용/옥외용 환경에 적합한 방수·방진 구조",
+    "미사용 시 마개로 외부 오염 차단 가능",
+    "10/100Mbps 전송속도 지원",
+    "CAT.5E STP 규격",
+    "RJ45 8P8C 인터페이스",
+    "UL 인증",
+    "대만산 (Made in Taiwan)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS COMPLIANT (EU 특정위험물질 사용제한 준수)",
+    "ISO 9001:2008 품질경영시스템 적용"
+  ],
+  "specifications": {
+    "카테고리 규격": "CAT.5E STP",
+    "모델명": "LS-WPK8DS-C5E",
+    "IP 등급": "IP67",
+    "방진 등급": "6 (완전한 방진 구조)",
+    "방수 등급": "7 (15cm~1m 침수되어도 보호됨)",
+    "전송속도": "10/100Mbps",
+    "커넥터 타입": "RJ45 8P8C",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증": "UL인증, RoHS COMPLIANT, ISO 9001:2008",
+    "인증번호": "해당없음",
+    "보험": "현대해상화재 생산물배상책임보험 1억원",
+    "제품 크기 (길이)": "31.3mm",
+    "제품 크기 (폭)": "32.7mm",
+    "제품 크기 (높이/두께)": "8.5mm",
+    "케이블 삽입구 직경": "Ø25.1mm",
+    "기타 치수 1": "6.5mm",
+    "기타 치수 2": "22.4mm"
+  },
+  "compatibility": [
+    "옥외용 방수 벽부착형 플레이트 (1포트/2포트/4포트, 별도 구매)",
+    "CAT.5E STP 랜선",
+    "RJ45 8P8C 규격 장비"
+  ],
+  "package_contents": [
+    "키스톤잭 본체",
+    "마개",
+    "IDC 캡"
+  ],
+  "usage_instructions": "1. 제품에 장착되어 있는 고정나사를 좌측으로 돌려 분리한다. 2. 벽부착형 플레이트의 구멍에 맞춰 방수용 키스톤잭을 장착한다. 3. 벽부착형 플레이트 뒷면으로 나온 키스톤잭을 고정나사로 고정한다. 4. 키스톤잭 뒷면에 랜선 작업을 한다. 5. IDC 캡을 씌워 작업을 마친다. 6. 제품 사용 후 덮개(마개)로 막아 외부 오염으로부터 보호한다. ※ 옥외용 방수 벽부착형 플레이트는 별도 구매 제품입니다 (1/2/4포트).",
+  "cautions": [
+    "옥외용 방수 벽부착형 플레이트는 별도 구매 제품입니다 (1포트/2포트/4포트).",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-WPK8DS-C5E",
+      "품목코드": "NEO-자재용004",
+      "품목명": "[LANstar] 방수용,방수 공사 연결용, RJ45 키스톤잭 타입, CAT.5E, STP, IP67, UL [40593]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-WPK8DS-C5E",
+      "내용": "잘받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-WPK8DS-C5E",
+      "내용": "데이타쉬트는 어디에??"
+    },
+    {
+      "source_model": "LS-WPK8DS-C5E",
+      "내용": "빠른배송감사합니다.."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "STP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 8P8C 인터페이스",
+    "connectivity.output_signals": "RJ45 8P8C 인터페이스",
+    "connectivity.directional": "CAT.5E STP 옥외용 방수 키스톤잭",
+    "connectivity.port_count": "키스톤잭",
+    "form_physical.has_case": "IP67 등급 획득",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "family.cat_category": "CAT.5E STP 규격",
+    "family.shielding": "CAT.5E STP 규격"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:38",
+  "feature_schema_version": "1.0.0"
+}

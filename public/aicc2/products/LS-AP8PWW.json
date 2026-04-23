@@ -1,0 +1,124 @@
+{
+  "model_no": "LS-AP8PWW",
+  "product_name": "LAN Star 애플 8핀 호환케이블 (A/M-8P/M 1.5m)",
+  "category": [
+    "USB케이블",
+    "커넥터",
+    "아이폰케이블"
+  ],
+  "key_features": [
+    "애플 8핀(Lightning) 호환 케이블",
+    "데이터 전송 지원",
+    "전원 충전 지원",
+    "케이블 길이 1.5M",
+    "깔끔한 화이트 커넥터 및 케이스 포장",
+    "Made for iPod/iPhone/iPad 호환 인증"
+  ],
+  "specifications": {
+    "커넥터": "USB A/M - 8핀(Lightning)/M",
+    "케이블 길이": "1.5m",
+    "색상": "화이트",
+    "인증번호": "KCC-REI-LUS-LS-AP8P",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담 전화": "070-7018-3386"
+  },
+  "compatibility": [
+    "iPhone 6",
+    "iPhone 6 Plus",
+    "iPhone 5",
+    "iPad Air",
+    "iPad Mini",
+    "iPod Touch 5세대",
+    "iPod Nano 7세대"
+  ],
+  "package_contents": [
+    "애플 8핀 호환케이블 1.5M 1개"
+  ],
+  "usage_instructions": "제품 개봉 시 케이블선부터 풀면 쉽게 꺼낼 수 있습니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상해드립니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-AP8PWW-1.5M",
+      "품목코드": "CAB-모바일001",
+      "품목명": "아이폰5/6 USB TO 라이트닝 8핀 충전 데이타 화이트 케이스 케이블 1.5M [10731][LANstar]",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Lightning"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 1.5,
+      "length_options_meters": null,
+      "color_options": [
+        "화이트"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": null,
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A/M",
+    "connectivity.output_signals": "8핀(Lightning)/M",
+    "connectivity.directional": "데이터 전송 지원, 전원 충전 지원",
+    "power.power_mode": "전원 충전 지원",
+    "power.charging_support": "전원 충전 지원",
+    "form_physical.has_case": "깔끔한 화이트 커넥터 및 케이스 포장",
+    "form_physical.length_meters": "케이블 길이 1.5M",
+    "form_physical.color_options": "깔끔한 화이트 커넥터",
+    "certification.kc": "KCC-REI-LUS-LS-AP8P",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.charging_only": "데이터 전송 지원",
+    "family.data_only": "전원 충전 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:07",
+  "feature_schema_version": "1.0.0"
+}

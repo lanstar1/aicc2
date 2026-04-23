@@ -1,0 +1,145 @@
+{
+  "model_no": "LS-UTPLP",
+  "product_name": "랜스타 UTP 페어 정리기",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-CAT6",
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "랜케이블-UTP",
+    "케이블정리"
+  ],
+  "key_features": [
+    "UTP 케이블 전용 페어 꼬임선 정리 도구",
+    "페어선을 제품에 연결한 뒤 비틀어 꼬임선을 간편하게 정리 가능",
+    "CAT.5E / CAT.6 / CAT.7(6A) UTP 케이블 전 규격 호환",
+    "CAT.5E/6 전용 홈과 CAT.6A/7 전용 홈 두 가지 슬롯 제공",
+    "라인업시스템(주) / 랜스타 정품 인증 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "모델명": "LS-UTPLP",
+    "품명": "UTP 페어 정리기",
+    "제품 길이": "120mm",
+    "CAT.5E/6 슬롯 폭": "약 1mm",
+    "CAT.6A/7 슬롯 폭": "약 1.7mm",
+    "제품 폭": "17mm",
+    "제품 높이": "15mm",
+    "제품 무게": "약 13g",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음",
+    "AS 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "CAT.5E UTP 케이블",
+    "CAT.6 UTP 케이블",
+    "CAT.6A UTP 케이블",
+    "CAT.7 UTP 케이블"
+  ],
+  "package_contents": [
+    "UTP 페어 정리기 단품 1개"
+  ],
+  "usage_instructions": "1. 작업할 랜 케이블의 피복을 벗겨낸다(UTP 케이블만 작업 가능). 2. 페어 정리기에 페어 1세트를 넣고 꼬여진 반대 방향으로 돌려준다. 3. 꼬여진 페어가 정리되면 평평하게 펴서 정리한다. 4. 위 과정을 4개의 페어 모두에 반복한 뒤 페어를 평평하게 정렬하면 완료.",
+  "cautions": [
+    "본 제품은 UTP 전용이며, FTP·STP 케이블은 페어 두께가 두꺼워 사용할 수 없음",
+    "단품 제품으로 스트리퍼, 랜툴, 커넥터 등은 별도 구매 필요",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처 제품은 A/S 불가",
+    "당일출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준",
+    "택배사 사정에 따라 배송기간이 길어질 수 있음",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "콘텐츠 무단 복제 및 이용 시 불이익 발생 가능"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UTPLP",
+      "품목코드": "COM-악세0009",
+      "품목명": "[LANstar] UTP 페어 정리기 [30799]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-UTPLP",
+      "내용": "너무 인상적이었어요. 완전 굿굿"
+    },
+    {
+      "source_model": "LS-UTPLP",
+      "내용": "잘 사용하고 있습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-UTPLP",
+      "내용": "꼬인 선 푸는것은 좋은데 최대 단점은 어디에 두었는지 모르겠다는~~"
+    },
+    {
+      "source_model": "LS-UTPLP",
+      "내용": "사용전이나 기대가 높고 포장이 잘되서 왔네요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.12,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": [
+        "CAT5E",
+        "CAT6",
+        "CAT6A",
+        "CAT7"
+      ],
+      "shielding": "UTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "UTP 케이블 전용 페어 꼬임선 정리 도구",
+    "form_physical.length_meters": "제품 길이: 120mm",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "family.cat_category": "CAT.5E / CAT.6 / CAT.7(6A) UTP 케이블 전 규격 호환",
+    "family.shielding": "UTP 케이블 전용 페어 꼬임선 정리 도구"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:17",
+  "feature_schema_version": "1.0.0"
+}

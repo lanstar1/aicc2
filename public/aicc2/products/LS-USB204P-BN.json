@@ -1,0 +1,142 @@
+{
+  "model_no": "LS-USB204P-BN",
+  "product_name": "LANG Star 480Mbps 4Port USB 2.0 HUB",
+  "category": [
+    "USB허브",
+    "USB2.0"
+  ],
+  "key_features": [
+    "USB 2.0 지원, 최대 480Mbps 고속 데이터 전송",
+    "최대 127대까지 장치 확장 가능",
+    "USB 2.0 및 USB 1.1 규격 호환 (USB 1.1 최대 12Mbps, USB 2.0 최대 480Mbps)",
+    "FE1.1 칩셋 사용으로 빠르고 안정적인 동작",
+    "초소형 디자인으로 휴대 간편",
+    "고휘도 LED 탑재",
+    "Plug & Play 자동 설치 지원",
+    "DC 5V 1A 외부 전원 공급 지원 (별도 구매)"
+  ],
+  "specifications": {
+    "인터페이스": "USB 2.0",
+    "전송속도": "최대 480Mbps (USB 2.0), 최대 12Mbps (USB 1.1)",
+    "포트수": "4 Port",
+    "최대 연결 장치 수": "최대 127대",
+    "칩셋": "FE1.1",
+    "색상": "실버, 블랙",
+    "인증번호": "LUS-USB204PN",
+    "외부전원": "DC 5V 1A (별도 구매)",
+    "케이블": "Mini 5P 케이블 50cm"
+  },
+  "compatibility": [
+    "USB 2.0",
+    "USB 1.1",
+    "Windows 98SE (수동 설치)",
+    "Windows 98/2000/XP/Vista/7/8",
+    "Mac OS",
+    "Linux",
+    "USB 마우스",
+    "프린터",
+    "PC카메라 (웹캠)",
+    "스캐너",
+    "조이스틱",
+    "MP3",
+    "키보드",
+    "USB 모뎀",
+    "USB 랜카드",
+    "USB 휴대폰 충전기",
+    "USB 외장하드/CD-ROM",
+    "USB 메모리카드리더기",
+    "디지털카메라",
+    "스마트폰",
+    "게임기"
+  ],
+  "package_contents": [
+    "USB 2.0 4Port HUB 본체 (실버 또는 블랙)",
+    "Mini 5P 케이블 50cm"
+  ],
+  "usage_instructions": "Windows 98/2000/XP/Vista/7/8 및 Mac OS, Linux 환경에서 Plug & Play로 자동 설치됩니다. Windows 98SE에서는 수동 설치가 필요합니다. DC 5V 1A 충전기(별도 구매)를 연결하면 외부 전원 공급이 가능합니다.",
+  "cautions": [
+    "DC 5V 1A 충전기는 별도 구매 필요 (INPUT: AC 110~240V, 50MHz / OUTPUT: DC 5V 1A)",
+    "Windows 98SE에서는 수동 설치 후 사용"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB204P-BN",
+      "품목코드": "USB-HB무002",
+      "품목명": "[LANstar] USB2.0 HUB 4Port FE2.0 검정 [30035]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "실버",
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "port_count": 4,
+      "usb_version": "USB2.0",
+      "ethernet_speed_mbps": null,
+      "has_sd_reader": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 2.0 지원",
+    "connectivity.output_signals": "4Port USB 2.0 HUB",
+    "connectivity.directional": "USB 2.0 지원",
+    "connectivity.port_count": "4Port",
+    "power.power_mode": "DC 5V 1A 외부 전원 공급 지원 (별도 구매)",
+    "power.charging_support": "DC 5V 1A 외부 전원 공급 지원 (별도 구매)",
+    "form_physical.has_case": "초소형 디자인",
+    "form_physical.color_options": "색상: 실버, 블랙",
+    "certification.kc": "인증번호: LUS-USB204PN",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.port_count": "4 Port",
+    "family.usb_version": "USB 2.0"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:37",
+  "feature_schema_version": "1.0.0"
+}

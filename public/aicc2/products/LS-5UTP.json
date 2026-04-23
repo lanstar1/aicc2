@@ -1,0 +1,821 @@
+{
+  "model_no": "LS-5UTP",
+  "product_name": "CAT.5E UTP 랜 케이블 100M (LANStar)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP",
+    "커넥터"
+  ],
+  "key_features": [
+    "CAT.5E UTP 규격, 최대 전송속도 1Gbps, 대역폭 100MHz",
+    "단선(Solid) 케이블 구조로 외부 간섭이 적고 데이터 전송이 안정적",
+    "24AWG 미국전선규격 적용으로 간섭이 적은 우수한 품질",
+    "케이블 양쪽 끝 RJ45 커넥터 결합 완성품",
+    "꼬임(Twisted Pair) 방식으로 노이즈 방지",
+    "PVC/LSZH 피복, PE 절연 구조",
+    "다이렉트 케이블 핀배열(568B-568B) 적용",
+    "빨강, 파랑, 노랑, 회색 4가지 색상으로 용도 구분 편리",
+    "RoHS 준수 (유해물질 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품",
+    "CAT.5E UTP 규격, 최대 전송속도 400Mbps, 대역폭 100MHz",
+    "단선(Solid Cable) 구조로 외부 간섭이 적고 데이터 전송이 안정적",
+    "24AWG 미국전선규격(American Wire Gage) 적용으로 잡음이 적고 안정적인 전송",
+    "꼬임방식(Twisted Pair) 케이블로 노이즈 방지",
+    "파랑, 회색, 빨강 3가지 색상으로 용도별 구분 사용 가능",
+    "양쪽 끝 커넥터(콘넥터) 없음 (맨 케이블)",
+    "RoHS 환경규제 준수(납·수은·카드뮴 등 중금속 미사용)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "CAT.5E UTP 규격 단선(SOLID) 100M 박스케이블",
+    "전송 속도 1Gbps, 대역폭 100MHz 지원",
+    "CCA(Copper Clad Aluminum) 심선 구조 – 알루미늄 코어에 구리 피복, 가볍고 전기전도성 우수",
+    "4PAIR TWISTED 구조로 신호 간섭 방지",
+    "컨넥터 결합 완제품 출고 – 초보자도 손쉽게 사용 가능",
+    "박스 내부 정렬로 케이블 꼬임 없이 사용 가능",
+    "RoHS 인증 제품 (유해물질 제한 지침 적합)",
+    "4가지 색상(회색/파랑/빨강/노랑) 라인업으로 용도별 구분 편리",
+    "소재·부품·장비 전문기업확인서 보유 (2022.11.29 취득, 한국산업기술평가관리원)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "단선(Solid) 구조로 외부 간섭이 적고 데이터 전송이 안정적",
+    "24AWG 미국전선규격으로 잡음이 적고 안정적인 전송에 적합",
+    "파랑, 회색, 빨강, 녹색, 노랑, 검정 6가지 색상으로 용도별 구분 사용 가능",
+    "양쪽 콘넥터(커넥터) 없음 — 별도 압착 필요",
+    "RoHS 규격 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "다이렉트 케이블 핀배열(568B-568B) 및 크로스 케이블 핀배열(568B-568A) 정보 제공",
+    "PE 절연, PVC/LSZH 피복 구조",
+    "CAT.5E UTP 규격, 1Gbps 전송속도, 100MHz 대역폭",
+    "단선(Solid) 구조로 내부 배선 및 고정 설치에 적합",
+    "CCA(Copper Clad Aluminum) 소재 – 알루미늄 코어에 구리 피복, 경량·고전도성",
+    "케이블 길이 100M, 박스 내부 정렬로 꼬임 없이 사용 가능",
+    "RoHS 인증 제품 (유해물질 사용 제한 준수)",
+    "소재·부품·장비 전문기업확인서 취득 (2022.11.29, 한국산업기술평가관리원)",
+    "라인업시스템(주) / 랜스타 정품 인증 제품",
+    "CAT.5E UTP 규격의 단선(Solid) 케이블로 외부 간섭이 적고 데이터 전송이 안정적",
+    "24AWG 미국전선규격(American Wire Gage) 적용으로 간섭이 적고 우수한 전송 품질",
+    "PE 절연 및 PVC/LSZH 피복 구조",
+    "최대 전송속도 400Mbps, 대역폭 100MHz",
+    "빨강, 파랑, 노랑, 회색 4가지 색상으로 케이블별 용도 구분 편리",
+    "다이렉트 케이블(568B-568B) 및 크로스 케이블(568B-568A) 핀배열 지원",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 미사용)",
+    "CAT.5E UTP 단선(Solid) 케이블로 외부 간섭이 적고 데이터 전송이 안정적",
+    "24AWG 규격의 굵기로 잡음이 적고 안정적인 전송에 적합",
+    "RoHS 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "305M 박스 형태로 제공",
+    "24AWG 미국전선규격(American Wire Gauge) 적용으로 간섭이 적고 안정적인 데이터 전송",
+    "단선(Solid Cable) 구조: 한 가닥의 구리선으로 외부 간섭을 덜 받아 데이터 전송이 안정적",
+    "PVC/LSZH 피복, PE 절연",
+    "RoHS 준수(EU 특정위험물질 사용제한 지침): 납, 수은, 카드뮴 등 중금속 미사용",
+    "305M 박스 형태로 공급",
+    "색상: 회색(Grey)",
+    "CAT.5E UTP 규격 단선(Solid) 케이블 305M 박스형",
+    "24AWG 미국전선규격(American Wire Gage) 적용으로 잡음이 적고 안정적인 데이터 전송",
+    "High Quality Copper(고품질 구리선) 사용",
+    "단선(Solid) 구조로 외부간섭을 덜 받아 데이터 전송이 안정적",
+    "Twisted Pair(꼬임방식) 케이블로 노이즈 방지",
+    "UTP(Unshield Twisted Pair) 구조: 4Pair/Core 전선과 PVC/LSZH 피복으로 구성",
+    "최대 전송속도 1Gbps, 대역폭 100MHz",
+    "회색·파랑·녹색·빨강·노랑·검정 6가지 색상으로 케이블 용도 구분 편리",
+    "RoHS 인증(EU 특정위험물질 사용제한 지침) 준수 — 납·수은·카드뮴 등 중금속 사용 금지",
+    "라인업시스템(주) 랜스타 정품, 친환경 소재 사용",
+    "24AWG 미국전선규격 단선(Solid) 케이블로 외부 간섭이 적고 데이터 전송이 안정적",
+    "RoHS 준수 — 납·수은·카드뮴 등 중금속 미사용",
+    "305M 박스 단선 타입, 콘넥터 미포함(벌크 케이블)"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.5E / CAT.5E UTP",
+    "케이블 타입": "UTP (Unshielded Twisted Pair) / 단선(Solid Cable) / UTP (Unshield Twisted Pair)",
+    "케이블 구조": "단선 (Solid) / 단선(Solid), 4PAIR TWISTED UTP",
+    "최대 전송속도": "1Gbps / 400Mbps",
+    "대역폭": "100MHz",
+    "전선 규격": "24AWG (American Wire Gauge) / 24AWG (American Wire Gage)",
+    "커넥터 타입": "RJ45 (8P8C)",
+    "케이블 길이": "100M / 100m / 305M",
+    "피복 재질": "PVC/LSZH",
+    "절연 재질": "PE",
+    "핀배열 방식": "다이렉트 (568B-568B)",
+    "색상": "빨강, 파랑, 노랑, 회색 / 파랑 (LS-5UTP-100MBE), 회색 (LS-5UTP-100MGE), 빨강 (LS-5UTP-100MRE) / 검정 (Black) / 회색(Grey) / 회색(Grey), 파랑(Blue), 녹색(Green), 빨강(Red), 노랑(Yellow), 검정(Black)",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "RoHS": "준수 (납, 수은, 카드뮴 등 중금속 사용 금지) / 준수 (COMPLIANT)",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입 / 현대해상화재보험 생산물배상책임보험 1억원",
+    "선종": "단선 (Solid Cable)",
+    "길이": "100M / 305M",
+    "코어 수": "8core",
+    "커넥터": "없음 (양쪽 모두 콘넥터 없음)",
+    "제조국/원산지": "중국 (China) / 중국(China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008 / RoHS Compliant, ISO 9001:2008",
+    "전송 속도": "1Gbps",
+    "심선 규격": "24AWG",
+    "케이블 직경": "5.0±0.2mm",
+    "케이블 소재": "CCA (Copper Clad Aluminum)",
+    "케이블 색상": "회색(Grey), 파랑(Blue), 빨강(Red), 노랑(Yellow) / 초록 (Green)",
+    "작동 온도": "섭씨 80℃ / 최대 80℃",
+    "박스 무게": "약 2.18Kg",
+    "박스 크기": "250mm x 262mm x 104mm",
+    "KC 인증번호": "해당없음",
+    "도체 구조": "단선 (Solid)",
+    "도체 규격": "24AWG (American Wire Gage) / 24AWG (American Wire Gauge)",
+    "사용 가능 색상": "파랑, 회색, 빨강, 녹색, 노랑, 검정",
+    "콘넥터": "없음 (양쪽 모두 콘넥터 미포함)",
+    "품질인증": "ISO 9001:2008",
+    "인증번호": "해당없음 / 상세페이지 참조",
+    "KC 인증": "해당없음",
+    "RoHS 인증": "있음",
+    "전선 종류": "단선 (Solid)",
+    "모델명 (빨강)": "LS-5UTP-305MR",
+    "모델명 (파랑)": "LS-5UTP-305MB",
+    "모델명 (노랑)": "LS-5UTP-305MY",
+    "모델명 (회색)": "LS-5UTP-305MG",
+    "절연 재료": "PE",
+    "피복 재료": "PVC/LSZH",
+    "모델명": "LS-5UTP-305MG",
+    "AWG": "24AWG",
+    "환경 규격": "RoHS COMPLIANT",
+    "품질 인증": "ISO 9001:2008",
+    "전선 구조": "단선(Solid), 4Pair/Core",
+    "도체 재질": "High Quality Copper",
+    "모델별 색상": "LS-5UTP-305MGE(회색), LS-5UTP-305MB(파랑), LS-5UTP-305MGN(녹색), LS-5UTP-305MR(빨강), LS-5UTP-305MY(노랑), LS-5UTP-305MBKE(검정)",
+    "도체 종류": "단선 (Solid Copper)"
+  },
+  "compatibility": [
+    "CAT.5E 표준 호환 네트워크 장비",
+    "RJ45 (8P8C) 포트를 사용하는 스위치, 허브, 라우터, PC 등",
+    "1Gbps 이하 유선 네트워크 환경",
+    "568B 다이렉트 배열 호환 기기",
+    "CAT.5E 규격 지원 네트워크 장비 (스위치, 허브, 라우터 등)",
+    "다이렉트 케이블 배선 (568B-568B 핀배열)",
+    "크로스 케이블 배선 (568B-568A 핀배열)",
+    "8P8C RJ45 커넥터 (별도 구매 후 직접 압착 시공)",
+    "CAT.5E 규격 호환 네트워크 장비 (스위치, 라우터, 허브 등)",
+    "기가비트(1Gbps) 네트워크 환경",
+    "RJ-45 커넥터 기반 네트워크 기기",
+    "신축 건물, 사무실, PC방, 학원, 학교 등 실내 네트워크 포설 공사",
+    "CAT.5E 규격 네트워크 장비",
+    "8P8C RJ45 커넥터 (별도 구매 후 압착 필요)",
+    "스위치, 허브, 공유기 등 1Gbps 지원 네트워크 기기",
+    "568B 다이렉트 배열 지원 장비",
+    "568B-568A 크로스 배열 지원 장비",
+    "CAT.5E 규격 호환 네트워크 장비 (스위치, 허브, 공유기 등)",
+    "신축 건물, 사무실, PC방, 학원, 학교 등 네트워크 포설 공사",
+    "내부 배선 및 고정 설치 환경",
+    "CAT.5E 규격 호환 네트워크 장비",
+    "다이렉트 케이블 핀배열 (568B-568B): PC-스위치/허브 등 일반 네트워크 연결",
+    "크로스 케이블 핀배열 (568B-568A): PC-PC 등 동종 장비 간 직접 연결",
+    "8P8C RJ45 커넥터 작업 가능",
+    "EIA/TIA 568 표준 호환",
+    "다이렉트 케이블 핀배열 (568B-568B)",
+    "크로스 케이블 핀배열 (568B-568A)",
+    "CAT.5E 규격 네트워크 장비 (스위치, 허브, 공유기 등)",
+    "다이렉트 케이블 핀배열 568B-568B",
+    "크로스 케이블 핀배열 568B-568A",
+    "8P8C RJ45 커넥터",
+    "8P8C RJ45 커넥터 호환",
+    "사무실 및 가정 배선용 일반 네트워크 환경",
+    "1Gbps 이하 네트워크 환경",
+    "568B 다이렉트 배선 구성 지원",
+    "568A/568B 크로스 배선 구성 지원",
+    "8P8C RJ45 커넥터 사용 장비"
+  ],
+  "package_contents": [
+    "CAT.5E UTP 단선 랜 케이블 100M (양쪽 끝 RJ45 커넥터 결합 완성품) × 1",
+    "CAT.5E UTP 단선 랜 케이블 100M (커넥터 미포함) × 1롤",
+    "CAT.5E UTP 단선 박스케이블 100M (컨넥터 결합 완제품, 선택 색상 1종)",
+    "CAT.5E UTP 단선 랜 케이블 100M (색상별 1롤)",
+    "CAT.5E UTP 100M 박스 케이블 1롤 (Grey 또는 Blue, 선택 모델에 따라 상이)",
+    "CAT.5E UTP 단선 랜 케이블 305M (커넥터 미포함, 벌크)",
+    "CAT.5E UTP 단선 랜 케이블 305M (검정) x 1롤",
+    "CAT.5E UTP 단선 랜 케이블 305M (회색) 1롤",
+    "CAT.5E UTP 랜케이블 305M (박스)",
+    "CAT.5E UTP 단선 케이블 305M (박스 형태, 콘넥터 미포함)"
+  ],
+  "usage_instructions": "케이블 양쪽 끝의 RJ45 커넥터를 네트워크 장비(PC, 스위치, 라우터 등)의 RJ45 포트에 연결하여 사용. 다이렉트 케이블(568B-568B) 배열로 일반 네트워크 연결에 사용. 색상별 모델을 구분하여 케이블 용도를 관리하면 편리.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주) 제작 상품 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품은 판매처(쇼핑몰 하단) 참조"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-5UTP-305MB",
+      "품목코드": "CAB-U5B009",
+      "품목명": "[LANstar] CAT.5E UTP BOX 300M[305M]Blue, 24AWG [10108]",
+      "variant_suffix": "-305MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-5UTP-305MGN",
+      "품목코드": "CAB-U5B017",
+      "품목명": "[LANstar] CAT.5E UTP BOX 300M[305M]Green, 24AWG [10969]",
+      "variant_suffix": "-305MGN",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-5UTP-305MBKE",
+      "품목코드": "CAB-U5B025",
+      "품목명": "[LANstar] UTP 랜케이블 , CAT.5E, BOX, 300M , Black, 24AWG -RO [20195]",
+      "variant_suffix": "-305MBKE",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-5UTP-100MBL",
+      "품목코드": "CAB-U5B045",
+      "품목명": "[LANstar] CAT.5e UTP 100M 랜케이블 Blue [30830] (4개)",
+      "variant_suffix": "-100MBL",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-5UTP-305MR",
+      "품목코드": "CAB-U5R009",
+      "품목명": "[LANstar] CAT.5E UTP BOX 300M[305M]Red, 24AWG [10107]",
+      "variant_suffix": "-305MR",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-5UTP-305MY",
+      "품목코드": "CAB-U5Y009",
+      "품목명": "[LANstar] CAT.5E UTP BOX 300M[305M]Yellow, 24AWG [10109]",
+      "variant_suffix": "-305MY",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-5UTP-305MGE",
+      "품목코드": "CAB-U5박063",
+      "품목명": "[LANstar] UTP 랜케이블 CAT.5E UTP 박스 305MGE, 24AWG [10749] (2개)",
+      "variant_suffix": "-305MGE",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-5UTP-100MGR",
+      "품목코드": "CAB-U5박168",
+      "품목명": "[LANstar] Cat.5e UTP 100M 랜케이블 Grey [30829] (4개)",
+      "variant_suffix": "-100MGR",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-5UTP-100MRE",
+      "품목코드": "LS-5UTP001",
+      "품목명": "[LANstar] UTP 랜케이블 , CAT.5E, BOX, 100M , Red, 24AWG -RO [11085] (4개)",
+      "variant_suffix": "-100MRE",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-5UTP-100MGN",
+      "품목코드": "LS-5UTP002",
+      "품목명": "[LANstar] UTP 랜케이블 , CAT.5E, BOX, 100M , Green, 24AWG -RO [20192] (4개)",
+      "variant_suffix": "-100MGN",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-5UTP-100MYE",
+      "품목코드": "LS-5UTP003",
+      "품목명": "[LANstar] UTP 랜케이블 , CAT.5E, BOX, 100M , Yellow, 24AWG -RO [20193] (4개)",
+      "variant_suffix": "-100MYE",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-5UTP-100MBK",
+      "품목코드": "LS-5UTP004",
+      "품목명": "[LANstar] UTP 랜케이블 , CAT.5E, BOX, 100M , Black, 24AWG -RO [20194] (4개)",
+      "variant_suffix": "-100MBK",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-5UTP-100MBE",
+      "내용": "배송도 빠르고 안전하게 잘 와서 만족합니다",
+      "관련내용": "배송, 제품 모두다 만족합니다"
+    },
+    {
+      "source_model": "LS-5UTP-100MBE",
+      "내용": "배송, 제품 모두다 만족합니다"
+    },
+    {
+      "source_model": "LS-5UTP-100MBE",
+      "내용": "감사합니다 감사합니다",
+      "관련내용": "감사합니다 감사합니다~"
+    },
+    {
+      "source_model": "LS-5UTP-100MBE",
+      "내용": "감사합니다 감사합니다~"
+    },
+    {
+      "source_model": "LS-5UTP-100MBK",
+      "내용": "배송이 빠르네요. 검정색 랜케이블 깔끔합니다."
+    },
+    {
+      "source_model": "LS-5UTP-100MBK",
+      "내용": "블랙 색상이 필요해서 주문했습니다. 가성비 좋네요"
+    },
+    {
+      "source_model": "LS-5UTP-100MBK",
+      "내용": "좋아요좋아요 잘쓰고있어요"
+    },
+    {
+      "source_model": "LS-5UTP-100MBK",
+      "내용": "그냥 기준이죠 랜스타 ㅋ"
+    },
+    {
+      "source_model": "LS-5UTP-100MBK",
+      "내용": "사용전이나 제품에 기대가 높습니다. 깔끔하게 포장되서 좋구요"
+    },
+    {
+      "source_model": "LS-5UTP-100MBK",
+      "내용": "배송빠르고 랜스타 케이블 품질좋고 탄탄합니다"
+    },
+    {
+      "source_model": "LS-5UTP-100MBK",
+      "내용": "잘받아서 작업 잘끝냈습니다."
+    },
+    {
+      "source_model": "LS-5UTP-100MBK",
+      "내용": "잘받았습니다 싼 가격에 잘 구매했습니다."
+    },
+    {
+      "source_model": "LS-5UTP-100MBL",
+      "내용": "회사에서 사용중입니다 잘 사용중입니다"
+    },
+    {
+      "source_model": "LS-5UTP-100MBL",
+      "내용": "필요해서 샀어요 좋습니다!"
+    },
+    {
+      "source_model": "LS-5UTP-100MGE",
+      "내용": "저렴한 가격에 잘 사용중입니다",
+      "관련내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-5UTP-100MGE",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-5UTP-100MGE",
+      "내용": "랜선 구입해서 잘 사용했습니다.",
+      "관련내용": "배송에 문제가 있었는데 바로 해결해주시고 감사합니다."
+    },
+    {
+      "source_model": "LS-5UTP-100MGE",
+      "내용": "배송에 문제가 있었는데 바로 해결해주시고 감사합니다."
+    },
+    {
+      "source_model": "LS-5UTP-100MGE",
+      "내용": "좋아요 많이파세요 감사합니다"
+    },
+    {
+      "source_model": "LS-5UTP-100MGN",
+      "내용": "배송도 빠르고 상품도 좋습니다!"
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "내용": "빠른배송 좋은 품질 만족합니다",
+      "관련내용": "좋아요 만족합니다."
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "내용": "좋아요 만족합니다."
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "내용": "배송빠르고 만족합니다"
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "내용": "100m 구매해서 회사에서 먼거리 연결했어요. 문제없이 잘 작동됩니다.",
+      "관련내용": "중간에 주문과 다른 제품에 배송문제가 있었지만 확인하시고 신속히 처리해 주셨네요.\n빨리 받아서 설치 잘 했습니다.\n많이 파세요"
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "내용": "간단하게 들고다니면서 작업하기 좋아요",
+      "관련내용": "cctv용 잘쓸게요"
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "내용": "cctv용 잘쓸게요"
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "내용": "중간에 주문과 다른 제품에 배송문제가 있었지만 확인하시고 신속히 처리해 주셨네요.\n빨리 받아서 설치 잘 했습니다.\n많이 파세요"
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "내용": "두번째 구입 매우 만족합니다"
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "내용": "매우좋습니다 길이도 딱맞고요"
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "내용": "만족합니다~ 잘 작동해요~~",
+      "관련내용": "저렴히 잘 샀어요~좋아요~"
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "내용": "길이보고 식겁했는데 막상 설치해보니 이거 안했으면 큰일날뻔 했네요. 탈없이 잘 쓰고 있습니다.",
+      "관련내용": "100미터가 길긴 기네요. 여유있게 산다는게 100미터까지 보게 되었네요. 설치 잘했고, 잘라서 유용하게 쓰겠습니다."
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "내용": "저렴히 잘 샀어요~좋아요~"
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "내용": "100미터가 길긴 기네요. 여유있게 산다는게 100미터까지 보게 되었네요. 설치 잘했고, 잘라서 유용하게 쓰겠습니다."
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "내용": "빠른배송 감사합니다. 가격도 저렴하고 좋네요."
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "내용": "잘 사용하겠습니다."
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "내용": "가격도 저렴하고 사무실 배선 정리 잘 하였습니다\n감사합니다^^"
+    },
+    {
+      "source_model": "LS-5UTP-100MRE",
+      "내용": "감사합니다 감사합니다",
+      "관련내용": "감사합니다 감사합니다~"
+    },
+    {
+      "source_model": "LS-5UTP-100MRE",
+      "내용": "감사합니다 감사합니다~"
+    },
+    {
+      "source_model": "LS-5UTP-100MRE",
+      "내용": "저렴히 잘 샀어요~좋아요~"
+    },
+    {
+      "source_model": "LS-5UTP-100MRE",
+      "내용": "배송도 빠르고 물건 상태도 좋습니다"
+    },
+    {
+      "source_model": "LS-5UTP-100MRE",
+      "내용": "빠른 배송 만족합니다."
+    },
+    {
+      "source_model": "LS-5UTP-100MRE",
+      "내용": "사무실에 필요해서 주문했습니다.\n배송도 빠르고 합리적인 가격이라 맘에 듭니다."
+    },
+    {
+      "source_model": "LS-5UTP-100MRE",
+      "내용": "빨리 왔어요 CAT 5E.라서 다 거기서 거기이겠지만가격도 저렴하고 빨리 와서 좋습니다. 추천합니다.."
+    },
+    {
+      "source_model": "LS-5UTP-100MRE",
+      "내용": "빠른배송 좋습니다"
+    },
+    {
+      "source_model": "LS-5UTP-100MRE",
+      "내용": "제작된 100m짜리라 아깝긴해도 양쪽 커넥터는 잘라내서 활용할수는 있겠네요."
+    },
+    {
+      "source_model": "LS-5UTP-100MYE",
+      "내용": "제품 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-5UTP-100MYE",
+      "내용": "제품 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-5UTP-305MBKE",
+      "내용": "인식율좋고비싸지만조아요",
+      "관련내용": "잘쓰고잇어요감사합니다"
+    },
+    {
+      "source_model": "LS-5UTP-305MBKE",
+      "내용": "잘쓰고잇어요감사합니다"
+    },
+    {
+      "source_model": "LS-5UTP-305MBKE",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-5UTP-305MBKE",
+      "내용": "배송 빠르고 상품좋아요",
+      "관련내용": "배송 빠르고 상품 좋아요"
+    },
+    {
+      "source_model": "LS-5UTP-305MBKE",
+      "내용": "배송 빠르고 상품 좋아요"
+    },
+    {
+      "source_model": "LS-5UTP-305MBKE",
+      "내용": "맘에들어요 매번시켜요"
+    },
+    {
+      "source_model": "LS-5UTP-305MGE",
+      "내용": "좋은 품질에 좋은가격입니다. \n사업번창하세요"
+    },
+    {
+      "source_model": "LS-5UTP-305MGE",
+      "내용": "매우 만족 해요.가성비 최고입니다."
+    },
+    {
+      "source_model": "LS-5UTP-305MGE",
+      "내용": "다른 제조사 utp대비 가성비 최고입니다."
+    },
+    {
+      "source_model": "LS-5UTP-305MR",
+      "내용": "100M 스위치에는 잘 되는데... 1G 스위치 연결시 연결이 불안하고 잘 안되는것 같아요... ㅜㅜ"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-5UTP-305MBKE",
+      "id": 230924786,
+      "date": "2022-08-03 17:39",
+      "answerDate": "2022-08-08 08:50",
+      "user": "ashl******",
+      "productName": "랜스타 LS-5UTP-305MBKE CAT5E UTP 단선 300M 검정 제작용 랜케이블",
+      "question": "이거는 옥외용아닌가요?",
+      "answer": "안녕하세요 랜스타입니다.\n\n해당 제품은 옥외용 케이블이 아닌 점 참고 부탁드리겠습니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-5UTP-305MGE",
+      "id": 239588614,
+      "date": "2022-10-06 12:02",
+      "answerDate": "2022-10-06 15:53",
+      "user": "spat***",
+      "productName": "랜스타 LS-5UTP-305MGE CAT5E UTP 300M GRAY 제작용 랜케이블",
+      "question": "검은색으로 보내주실수 있나요??",
+      "answer": "안녕하세요 랜스타 입니다\n\n블랙 색상으로 출고 된 것으로 보입니다"
+    },
+    {
+      "source_model": "LS-5UTP-305MGE",
+      "id": 575839687,
+      "date": "2024-04-09 15:52",
+      "answerDate": "2024-04-09 15:56",
+      "user": "ktki***",
+      "productName": "랜스타 LS-5UTP-305MGE CAT5E UTP 300M GRAY 제작용 랜케이블",
+      "question": "이 제품은 단종된거일까요? 한번에 여러개 사서 단종풀리면 사려고 했는데 단종이 풀리지 않아서 문의드립니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품 리뉴얼되었습니다.\n상세페이지 확인하시어 이미지 클릭 혹은 모델명 'LS-C5U305BK' 검색하시어 확인 후 구매 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-5UTP-100MBL",
+      "id": 594267018,
+      "date": "2024-08-27 10:18",
+      "answerDate": "2024-08-27 11:27",
+      "user": "jeon****",
+      "productName": "랜스타 UTP 랜케이블 인터넷 선 연결 CAT5E 100M (LS-5UTP-100MBL)",
+      "question": "안녕하세요. 위 제품이 양쪽에 커넥터가 있는 제품 맞나요?? 감사합니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n네. 양쪽 커넥터 작업 되어있는 제품입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "id": 646675008,
+      "date": "2025-10-14 16:46",
+      "answerDate": "2025-10-14 17:06",
+      "user": "ium1***",
+      "productName": "랜스타 UTP 랜케이블 인터넷 선 연결 CAT5E 100M (LS-5UTP-100MGR)",
+      "question": "랜스타 UTP 랜케이블 인터넷 선 연결 CAT5E 100M (LS-5UTP-100MGR)\n\n를 구매하고 다른층에 있는 공유기에서 공유기로 연결하려는데 이제품이 맞을까요?\n모듈러콘넥터 CAT 5는 여기서 판매를 안하나요?\nCAT5 와 CAT7이 어떤 차이인지 몰라서요",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n이제품으로 이용 가능하십니다. 그러나 카테고리 5 특성상 인터넷 속도가 카테고리 7보다는 느린 점 안내 드립니다.\n현재 이용하시는 공유기의 인터넷 지원 속도를 확인해주시고 100mbps 라면 이 제품을 이용하셔도 괜찮습니다.\n헤드(rj45 콘넥터)는\nhttps://smartstore.naver.com/lineup/products/5978211771\n이곳에서 참조해주시면 되겠습니다.\n\n그러나 랜선의 길이가 100미터라면 전송이 되지 않을수 있으니 이점 참고 부탁드립니다. \n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-5UTP-100MGR",
+      "id": 646679262,
+      "date": "2025-10-14 17:09",
+      "answerDate": "2025-10-14 17:30",
+      "user": "ium1***",
+      "productName": "랜스타 UTP 랜케이블 인터넷 선 연결 CAT5E 100M (LS-5UTP-100MGR)",
+      "question": "조금전 답변 감사합니다.\n사용길이는 20미터 내외이고 \n자동컨트롤을 사용하려고 공유기를 연결하는거라서\n100mb명 될것 같습니다.\n그러면 cat7 도 일반 공유기에 다 연결되는게 맞을까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n카테고리 7도 일반 공유기에 연결 가능하십니다. 그러나 아까 말씀하신 속도에서는 카테고리 5를 이용하시는 것이 맞습니다. 케이블이 7이라고 해서 5 수준의 신호를 7수준으로 끌어올리지는 않습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-5UTP-100MRE",
+      "chatUrl": "aDdtd",
+      "dateIso": "2026-01-19T07:55:53.977Z",
+      "name": "연장팔이",
+      "isTechnical": true,
+      "category": "other",
+      "modelConfidence": "high",
+      "question": "혹시 회색이랑 파랑색은 없나요?",
+      "answer": "LS-5UTP-100MRE 이제품은 커넥터없는 케이블만 있는제품인가요?\n\n커넥터는 따로 없습니다. 회색, 파랑색은 커넥터 있습니다.",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "넵 감사합니다~"
+        },
+        {
+          "role": "agent",
+          "text": "커넥터는 따로 없습니다.\n\n회색, 파랑색은 커넥터 있습니다."
+        },
+        {
+          "role": "customer",
+          "text": "혹시 회색이랑 파랑색은 없나요?"
+        },
+        {
+          "role": "agent",
+          "text": "LS-5UTP-100MRE 이제품은 커넥터없는 케이블만 있는제품인가요?"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-5UTP-100MRE",
+      "chatUrl": "5ztIV",
+      "dateIso": "2024-03-26T08:02:55.869Z",
+      "name": "sasm****",
+      "isTechnical": true,
+      "category": "install",
+      "modelConfidence": "high",
+      "question": "입력된 송장이 아니고 다른 송장으로 제품 보내드렸는데 반품승인 언제 될지 확인해주세요\n(추가 문의) 방금 지대근으로 6000원 송금했습니다. 빠른 처리부탁드립니다~\n(추가 문의) 6000원 송금하면 차감설정한 6000원은 차감이 안되는건가요?\n(추가 문의) 기존에 반품배송비 결제했는데 송금하라고 문자 받았습니다.",
+      "answer": "네 고객님, 기다려주셔서 감사합니다. 제품 도착 확인되어 금일 반품 도와드리겠습니다. 랜스타 제품\n\n주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!\n\n담당 부서 제품 도착 확인 후 반품 도와드리겠습니다.",
+      "turn_count": 10,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "로젠 37765408052 이고 21일 입고완료입니다."
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "입력된 송장이 아니고 다른 송장으로 제품 보내드렸는데 반품승인 언제 될지 확인해주세요"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "판매자 문의"
+        },
+        {
+          "role": "agent",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        },
+        {
+          "role": "customer",
+          "text": "5개 재고 있나요?"
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        },
+        {
+          "role": "customer",
+          "text": "방금 지대근으로 6000원 송금했습니다. 빠른 처리부탁드립니다~"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 기다려주셔서 감사합니다.\n제품 도착 확인되어 금일 반품 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품"
+        },
+        {
+          "role": "customer",
+          "text": "6000원 송금하면 차감설정한 6000원은 차감이 안되는건가요?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n담당 부서 제품 도착 확인 후 반품 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "기존에 반품배송비 결제했는데 송금하라고 문자 받았습니다."
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        },
+        {
+          "role": "customer",
+          "text": "성함 : 수령인 지대근\n주소 : 경상북도 상주시 이안면 무운로 1425-25 (이안면)\n연락처 : \n010-5005-5833\n구매처(사이트) : 네이버\n구매 시기 : 12/4\n상"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-5UTP-100MBE": "LANSStar\n®\nCAT.5E UTP 단선\n랜 케이블 100M\nCAT5E LAN CABLE\n100M\nLANStar\nTUHIQL\n■ 파랑\n■ 회색\n■ 빨강\nCAT.5E UTP LAN CABLE\nUnshielded Twisted Pair Stranded Direct\n|Twisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n'PVC/LSZH 피복\n-PE절연\n쌍 (Pair)\nSolid Cable\n단선(單線) 케이블\n선이 하나이므로 외부간섭을 덜 받아\n데이터 전송이 안정적입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n8 갈색\nXXXI\n5 청색/흰색\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\n6 주황\n7 갈색/흰색\n8 갈색\n컬러 케이블\nCAT.5E 랜케이블은 다양한 색상으로\n제작되어 케이블 별로 용도를 구분하여\n사용할때 매우 편리합니다.\nPRODUCT IMAGE\n\n\nPRODUCT IMAGE\nLS-5UTP-100MBE | 파랑\nLS-5UTP-100MGE | 회색\nLS-5UTP-100MRE | 빨강\n** 랜케이블 양쪽에는 콘넥터가 없습니다 **\n24AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n24AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다.\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nwww\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.5E\n최대전송속도\n400Mbps\n대\n역\n폭\n100MHz\n1\nCR\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\nLAN Star® 재현합시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.5E UTP 랜케이블 100M\nLANSStar\n®\n모\nHU\n델\n명\nLS-5UTP-100MBE\nLS-5UTP-100MGE\nLS-5UTP-100MRE\n인증번호\n상세페이지 참조\n제조국/원산지\n중국(China)\n游\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\n\n\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANG\nStar\n자매품\n0.5M LS-5UTPD-0.5MG\n10M\nLS-5UTPD-10MG\n1M\nLS-5UTPD-1MG\n15M LS-5UTPD-15MG\n20M LS-5UTPD-20MG\n2M\nLS-5UTPD-2MG\nCAT.5E UTP\n다이렉트, 회색,\n단선/연선,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\nSolid 타입\n(0.5M/1M)\n3M\nLS-5UTPD-3MG\n30M\nLS-5UTPD-30MG\n5M\nLS-5UTPD-5MG\n50M LS-5UTPD-50MG\n7M\nLS-5UTPD-7MG\n1M\nLS-5UTPD-1MB\n15M\nLS-5UTPD-15MB\n2M\nLS-5UTPD-2MB\n20M LS-5UTPD-20MB\nCAT.5E UTP\n다이렉트, 파랑,\n연선, 50u.\n금도금 콘넥터,\n8P8C RJ45,\n3M\nLS-5UTPD-3MB\n30M\nLS-5UTPD-30MB\n5M\nLS-5UTPD-5MB\n26AWG\n7M\nLS-5UTPD-7MB\n10M\nLS-5UTPD-10MB\n2M\nLS-5UTPD-2MY\n20M\nLS-5UTPD-20MY\n3M\nLS-5UTPD-3MY\n30M LS-5UTPD-30MY\nCAT.5E UTP\n다이렉트, 노랑,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n5M\nLS-5UTPD-5MY\n7M\nLS-5UTPD-7MY\n10M\nLS-5UTPD-10MY\n15M\nLS-5UTPD-15MY\n2M\nLS-5UTPD-2MR\n20M\nLS-5UTPD-20MR\n3M\nLS-5UTPD-3MR\n30M\nLS-5UTPD-30MR\nCAT.5E UTP\n다이렉트, 빨강,\n연선, 50u.\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n5M\nLS-5UTPD-5MR\n7M\nLS-5UTPD-7MR\n10M LS-5UTPD-10MR\n15M LS-5UTPD-15MR\n1M\nLS-5STPD-1M\n20M\nLS-5STPD-20M\n2M\nLS-5STPD-2M\n30M\nLS-5STPD-30M\nCAT.5E FTP\n다이렉트, 연선,\n회색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n3M\nLS-5STPD-3M\n50M\nLS-5STPD-50M\n5M\nLS-5STPD-5M\n26AWG\n10M\nLS-5STPD-10M\n15M\nLS-5STPD-15M\nCAT.5E UTP\n다이렉트, 연선,\n검정, 50u\n금도금 콘넥터,\n8P8C RJ45,\nCAT.5E FTP\n크로스, 연선,\n녹색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\nCAT.5E UTP\n다이렉트, 연선,\n회색, 50u\nㄱ자 90도\n꺾임형 8P8C\nRJ45, 24AWG\n26AWG\n2M\nLS-5UTPD-2MBK\n2M\nLS-5STPC-2M\n2M\nLS-5UTPAD-2M\n3M\nLS-5UTPD-3MBK\n3M\nLS-5STPC-3M\n5M\nLS-5UTPAD-5M\n5M\nLS-5UTPD-5MBK\n5M\nLS-5STPC-5M\n10M LS-5UTPD-10MBK\n10M\nLS-5STPC-10M\nCAT.5E FTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n26AWG,\nUL인증, 대만산,\n알루미늄 쉴드\n19\nCAT.5E UTP\n옥외용방수\nIP67 방수등급,\n8P8C RJ45,\n24AWG,\nUL인증, 대만산,\nCCTV 웹카메라\n공사용\n5M\nLS-SPCE-WP5M\n1M\nLS-WPCCTV-RJ45\n10M LS-SPCE-WP10M\nCAT5E LAN CABLE\n100M\nCATET\nCAT UTP Cable\nCAT.5E UTP\nBox, 단선,\n24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽콘넥터 있음.\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nLANO\nLS-5UTP-100MG\nLS-5UTP-100MR\n305M LS-5UTP-305MGE\n305M 빨강 LS-5UTP-305MR\n305M 파랑 LS-5UTP-305MB\n305M 노랑 LS-5UTP-305MY\n305M LS-5UTP-305MGN\n100M 회색\n100M 빨강\n100M 파랑\n100M 노랑\nLS-5UTP-100MB\nLS-5UTP-100MY\nCAT5E LAN CABLE\n100M\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽 콘넥터 없음,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nLAN\n305M 회색\nLS-5UTP-305MG\n100M LS-5UTP-100MGE\n100M LS-5UTP-100MBE\n100MLS-5UTP-100MRE\nCAT5E LAN CABLE\n100M\n통신공사업 맨케이블\nCAT SE LAN Cable\nCAT.5E FTP\nBox, 연선,\n26AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\nCAT.5E FTP\nBox, 단선,\n24AWG\n미국전선규격,\n안정적인\n데이터 전송\nLAN\n300M LS-FTP-300MSTG\n100M 회색\nLS-5FTP-100M\nUmShor\n통신공사용 문제이블\nGATLAN Cable\nCAT.5E SFTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\nRoll 케이블,\n통신용 특화,\nRO/BOA\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n통신공사용,\n높은 구리 함량\nC\n통신공사용 현제이블\n300M (RO) LS-5SFTP-300MG\n300M (BOA) LS-5SFTP-300M\n300M (BOA) LS-5SFTP-B300M\n300M LS-UTP5H-300MBK\n300M LS-UTP5H-300MG",
+    "LS-5UTP-100MBL": "LANSStar\nCAT.5E UTP I\n(SOLID) HOCCA H/24AWG/100M\nLS-5UTP-100MBL\nLAN tar\n100M\nGray\nROHS\nBlue\nYellow\nRed\nUTP\nFTP\nCAT\nLANGSd\n케이블 제품 분류표\n모델명\n색상\n길이\n심선\n직경\nLS-5UTP-100MGR\nGrey\nLS-5UTP-100MBL\nBlue\n100M\n24AWG\n5.0±0.2mm\nLS-5UTP-100 MRD\nRed\nLS-5UTP-100MYW\nYellow\nLAN tar\n100M\nLAN tar\n100M\nCAT S\nLANG\nCAT\nLANG\nLS-5UTP-100MGR\nGrey\nLS-5UTP-100MBL\nBlue\nCAT.5E UTP\n1. CAT.5E UTP 100M 10\n15\n2. 단선(SOLID) 케이블\nFAV\n3. 1Gbps 전송속도\n3\n4\n15\n16\n18\n19\n4.100MHz C\n71\n5. CCA TH\n6. RoHS 인증 제품\nCAT.5E UTP 100M O\n커넥터 여격 제품 / 4가지 색상! 이럴때 사용하세\n\n\nCAT.5E UTP 100M 박스케이블\n컨넥터 연결 제품 / 4가지 색상! 이럴때 사용하세요!\n네트워크 공사\n신축 건물 및 사무실, PC방, 학원, 학교 등\n네트워크 포설 공사에 사용하기 적합하고,\n100M 이내 거리에서 자유롭게 사용할 수\n있습니다.\n기가비트 네트워크 구축\n네트워크 환경이 발전함에 따라\n각종 장소에서 기가비트 인터넷 환경을\n구축하고 있는 추세입니다.\n랜스타 케이블로 기가비트 네트워크 환경을\n구축하시기 바랍니다.\n초보자도 손쉽게!\n일반적인 통신공사는 컨넥터를 직접 결합하여\n사용하지만 랜스타 박스케이블은\n컨넥터가 결합되어 있어 컨넥터 결합이\n어려운 초보자도 손쉽게 사용할 수 있습니다.\nCAT.5E UTP 케이블 구조\n4PAIR TWISTED STRUCTURE\n신호 간섭 방지를 위해 4개의 페어가 꼬임 방식으로\n결합되어 있는 UTP 케이블입니다.\n꼬임 구조\n단선\n단선(Solid) 케이블\nCCA(Copper Clad Aluminum)\n알루미늄 코어 바깥 부분에 구리를 씌운 CCA 구조의 케이블로\n일반 구리 케이블에 비해 가볍고, 순수 알루미늄에 비해 전기전도성이 높으며\n강도가 뛰어나 통신공사용으로 적합한 케이블입니다.\n구리\n\n\n강도가 뛰어나 통신공사용으로 적합한 케이블입니다.\n구리\n알루미늄\n● 연선/ 단선 케이블 구조 비교\n연선\n단선\n가늘거나 굵은 여러개의 가닥이 그룹화되어\n하나의 금속으로 구성\n단일 도체를 구성\n단선보다 유연하여 쉽게 끊어지지 않지만\n연선보다 단단하고 내구성이 강하나\n내구성이 떨어짐\n구부리면 파손될 가능성이 높음\n엘리베이터 등 이동하거나 노출이 많이\n되는 곳에 주로 설치\n내부 배선, 고정된 전선 등 전력을 많이\n사용하는 곳에 주로 설치\nPRODUCT DETAIL\n컨넥터 연결 제품\n컨넥터 연결이 미숙한 분을\n위하여 컨넥터가 결합된\n완제품 상태로 출고됩니다.\n박스 내부 케이블\n케이블이 박스 내부에서\n정렬이 잘 되어 있어\n꼬임 걱정 없이 사용할 수\n있습니다.\n편리한 사용\n박스의 홈을 통해 케이블을\n쉽게 꺼내서 사용할 수 있어\n꼬임 걱정이 없습니다.\n101\n\n\n쉽게 꺼내서 사용할 수 있어\n꼬임 걱정이 없습니다.\n100\nRoHS 인증 제품\nROHS는 유럽연합에서 시행되는 해로운 물질을 사용한 전자제품을 제한하는 지침으로,\n모든 전기/전자 제품은 이 새로운 지침에 적합하여야 유럽 시장에 판매할 수 있습니다.\n中国认可\nEXA\nlac-RA CNAS TING\nCHAS L4136\nFIT 虹彩检测\nTest Report\nParafi\nDas 192029\nReport No: WTH2XC-1\nHCT\nNeghe Beast lore C. La\nApplica\nNo 20 Charging Road, Ni Natpin, Neg\nA\n23PaCd Cable\nSample Infermien\nTPPA Cal Ca\nPOMPACal Cik\n1.SPP Cod Cable\nPer to the fol\nSample pe\n1677Cp CCA-VEL\nHCT\nC's Ret luk:\n2. Gre CCAV\nAPCCCAVCIS\n4CON S1P 09), GeCCAPACES\nHCT\nWOTE\nMay 11, 2008\nSample Reaalk\nMes 11,2008-May 11,20\nT\nthe telowing pass\nPASS\nTed Reqsed\nAs specified by cler,dhe , O , PRO DOP\nthe pic with BMS 2011 and is Dus\nHC\nLOH\nHCT\npiched\nMM\nHCT\nHCT\nHOT\nPRODUCT SIZE\n<박스 무게 : 약 2.18Kg>\nLANG\ntar\nRoHS\n100M\nGray\nBlue\nYellow\nRed\n250mm\nCAT.5E\nUTP\nLAN CABLE\nFTP\nSolid\n262mm\n104mm\nSPECIFICATION\n케이블 규격\nCAT.5E UTP\n전송 속도\n1Gbps\n대역폭\n100MHz\n케이블 길이\n100m\n\n\n케이블 규격\nCAT.5E UTP\n전송 속도\n1Gbps\n대역폭\n100MHz\n케이블 길이\n100m\n케이블 색상\n회색/파랑/빨강/노랑\n케이블 소재\nCCA (Copper Clad Aluminum)\n작동 온도\n섭씨 80℃\nFAQ\n자주 물어보시는 질문\nQ. 사용하려는 환경이 100m가 넘는데 방법이 없을까요?\n랜 커플러를 이용하여 케이블 연장하여 사용할 수 있습니다.\n단, 케이블 길이가 길어질수록 신호 손실이 발생할 수 있습니다.\n이점 참고하시고 구매하여 주시기 바랍니다.\nQ. 케이블 색상별로 차이가 있나요?\n케이블은 전부 동일 규격(CAT.5E, UTP)입니다.\n피복 색깔만 다를 뿐, 전부 동일한 규격의 케이블입니다.\n케이블 색상에 따라 구분하기 편하게 4가지 색상으로 출시했습니다.\nQ. 옥외용(아웃도어) 케이블과는 다른 케이블가요?\n옥외용 케이블은 피복이 이중 피복으로 이루어진 케이블입니다.\n옥외용 케이블도 판매중이니 랜스타 스마트스토어에서 \"옥외용\", 혹은 \"아웃도어\" 검색 후\n구매하여 주시기 바랍니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n전문기업확인서\n소재·부품·장비 전문기업확인서\nNSVI\nANNO 2011.27.\n평가관리원\n제14조 제2\n신문기업인을 확신합니다\n산업통산자원부 시행 제도\nKeit\n211 2\n2022.11.29 취득\n한국산업기술평가관\n3312\n\n\n221129\n2022.11.29 취득\n한국산업기술평가관리\n현\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상품정보\n품\n명\nCAT.5E UTP 100M 박스 케이블\nLS-5UTP-100MGR\nLS-5UTP-100MBL\n모\n델\n명\nLS-5UTP-100MRD\nLS-5UTP-100MYW\nLAN Star\nKC 인 증 번 호\n해당없음\n제조국/원산지\n중국 (China)\n제조사 / 수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기 준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANSStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "LS-5UTP-100MGE": "LAN Star\nⓇ\nCAT.5E UTP 단선\n랜 케이블 100M\nLAN Star\nRO-201906\n100M\nCAT.SE LAN CABLE\nCVL НЕ ГУИ СУВГЕ\n파랑\n■ 회색\n■ 빨강\n■ 녹색\n노랑\n검정\nCAT.5E UTP LAN CABLE\nUnshielded Twisted Pair Stranded Direct\nTwisted Pair\nPa\n-PE절연\nPVC/LSZH 피복\n쌍(Pair)\nSolid Cable\n단선(線) 케이블\n선이 하나이므로 외부간섭을 덜 받아\n데이터 전송이 안정적입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n8 갈색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXXI\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n8 갈색\n컬러 케이블\nCAT.5E 랜케이블은 다양한 색상으로\n제작되어 케이블 별로 용도를 구분하여\n사용할때 매우 편리합니다.\nPRODUCT IMAGE\n\n\nPRODUCT IMAGE\nLS-5UTP-100MBE | 파랑\nLS-5UTP-100MRE | 빨강\nLS-5UTP-100MGE | 회색\nLS-5UTP-100MGN | 녹색\nLS-5UTP-100MYE | 노랑\nLS-5UTP-100MBK | 검정\n** 랜케이블 양쪽에는 콘넥터가 없습니다 **\n24AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n24AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다.\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nH 현대해상화재보험\n사무산채이 ㅂ혀 1어의 가\n\n\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.5E\n최대전송속도\n1Gbps\n대\n역\n폭\n100MHz\nCR\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANSStar®\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.5E UTP 랜케이블 100m\nLAN Star\nⓇ\nLS-5UTP-100MBE\nLS-5UTP-100MGE\nLS-5UTP-100MRE\n모\n델\n명\nLS-5UTP-100MGN\nLS-5UTP-100MYE\nLS-5UTP-100MBK\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLAN Star\nⓇ\n자매품\n0.5MLS-5UTPD-0.5MG\n10M LS-5UTPD-10MG\nIM\nLS-5UTPD-1MG\n15M LS-5UTPD-15MG\nM\nLS-5UTPD-2MG\nCAT.5E UTP\n다이렉트, 회색,\n단선/연선,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG.\nSolid 타입\n(0.5M/1M하당)\n3M LS-5UTPD-3MG\n20M LS-5UTPD-20MG\n30M LS-5UTPD-30MG\n50M LS-5UTPD-50MG\n5M\nLS-5UTPD-5MG\n7M\nLS-5UTPD-7MG\n1M\nLS-5UTPD-1MB\n15M LS-5UTPD-15MB\n20M LS-5UTPD-20MB\nCAT.5E UTP\n다이렉트, 파랑,\n연선, 50u.\n금도금 콘넥터,\n8P8C RJ45,\n2M LS-5UTPD-2MB\n3M LS-5UTPD-3MB\n30M LS-5UTPD-30MB\n5M\nLS-5UTPD-5MB\n26AWG\nIM LS-5UTPD-7MB\n10M LS-5UTPD-10MB\n20M LS-5UTPD-20MY\n30M LS-5UTPD-30MY\nCAT.5E UTP\n다이렉트, 노랑,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n2M LS-5UTPD-2MY\n3M LS-5UTPD-3MY\n5M LS-5UTPD-5MY\nIM LS-5UTPD-7MY\n10M LS-5UTPD-10MY\n15MLS-5UTPD-15MY\n26AWG\n2M LS-5UTPD-2MR\n3M LS-5UTPD-3MR\n20M LS-5UTPD-20MR\n30M LS-5UTPD-30MR\nCAT.5E UTP\n다이렉트, 빨강,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-5UTPD-5MR\n7M\nLS-5UTPD-7MR\n26AWG\n10M LS-5UTPD-10MR\n15M LS-5UTPD-15MR\nIM\nLS-5STPD-1M\n20M LS-5STPD-20M\n2M LS-5STPD-2M\nCAT.5E FTP\n다이렉트, 연선,\n회색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n30M LS-5STPD-30M\n50M LS-5STPD-50M\n3M LS-5STPD-3M\n5M LS-5STPD-5M\n페르트 (30)\n10M\nLS-5STPD-10M\n15MLS-5STPD-15M\nCAT.SE UTP\n다이렉트, 연선,\n검정, 50u\n금도금 콘넥터,\n8P8C RJ45,\nFE OF\nCAT.SE FTP\n크로스, 연선,\n녹색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\nCAT.SE UTP\n다이렉트, 연선,\n회색, 50u\nㄱ자 90도\n꺾임형, 8P8C\nRJ45,24AWG\n26AWG\nLS-5STPC-2M\nLS-5UTPAD-2M\n2M LS-5UTPD-2MBK\n3M LS-5UTPD-3MBK\n2M\n3M\n2M\n5M\nLS-5UTPAD-5M\nLS-5STPC-3M\nLS-5STPC-5M\n5M\n5M LS-5UTPD-5MBK\n10M LS-5UTPD-10MBK\n10M\nLS-5STPC-10M\nCAT.SE FTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n26AWG, 연선,\nUL인증, 대만산,\n알루미늄 쉴드\nCAT.5E UTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45\n24AWG, 연선\nUL인증, 대만산,\nCCTV 웹카메라\n공사용\n5M\nLS-SPCE-WP5M\n1M LS-WPCCTV-RJ45\n\n\n2M\nLS-5STPC-2M\nLS-5UTPAD-2M\n2M LS-5UTPD-2MBK\n3M LS-5UTPD-3MBK\n2M\n5M\nLS-5STPC-3M\nLS-5UTPAD-5M\n3M\n5M\nLS-5STPC-5M\n5M LS-5UTPD-5MBK\n10M LS-5UTPD-10MBK\n10M\nLS-5STPC-10M\nCAT.SE FTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n26AWG, 연선,\nUL인증, 대만산,\n알루미늄 쉴드\n19\nCAT.5E UTP\n옥외용 방수\nIP67 방수등급,\n8P8C RJ45,\n24AWG, 연선,\nUL인증, 대만산,\nCCTV 웹카메라\n공사용\n1M | LS-WPCCTV-RJ45\n5M LS-SPCE-WP5M\n10M | LS-SPCE-WP10M\nCATT\nCATS UTP Cable\nCAT.5E UTP\nBox, 단선,\n보급형, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\n0 100M\nCAT.5E UTP\nBox, 단선,\n양쪽콘넥터 있음.\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nNAVE\nJE\nFRM\n스\nLS-5UTP-100MG\nLS-5UTP-100MR\n305M 회색LS-5UTP-305MGE\n305M 빨강 LS-5UTP-305MR\n305M 파랑 LS-5UTP-305MB\n305M 노랑 LS-5UTP-305MY\n305M 초록LS-5UTP-305MGN\n305M 검정 LS-5UTP-305MBKE\n100M 회색\n100M 빨강\n100M 파랑\n100M 노랑\nLS-5UTP-100MB\nLS-5UTP-100MY\nCAT5E LAN CABLE\n100M\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽콘넥터 없음,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nTHCAT SE\nLANG\n305M 회색 LS-5UTP-305MG\n305M 검정 LS-5UTP-305MBK\n100M 회색 LS-5UTP-100MGE\n100M 파랑 LS-5UTP-100MBE\n100M빨강 | LS-SUTP-100MRE\n100M 노랑 LS-SUTP-100MYE\n100M 녹색 LS-5UTP-100MGN\n100M 검정 | LS-5UTP-100MBK\nx\nCAT5E LAN CABLE\n100M\nCAT.5E FTP\nBox, 단선,\n통신공사의 문제이블\nCAT SE LAN Cable\n24AWG\nCAT.5E FTP\nBox, 연선,\n고급, 26AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\n미국전선규격,\n안정적인\n데이터 전송\nLANG\n300M 회색LS-FTP-300MSTG\n100M 회색\nLS-5FTP-100M\nLanghor\n통신공사업 면제이블\nCAT LAN Cable\nCAT.5E SFTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\nRoll 케이블,\n통신용 특화,\nRO/BOA\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n통신공사용,\n높은 구리 함량\n(0\nHigh Quality\nHigh D\n통신공사용 전세\n300M\n300M 회색(RO) LS-5SFTP-300MG\n300M 회색(BOA)|LS-5SFTP-300M\n300M 검정 LS-UTP5H-300MBK\n300M | 회색 LS-UTP5H-300MG",
+    "LS-5UTP-100MGR": "LANG\nStar\nCAT.5E UTP\n(SOLID)/CCA / 24AWG / 100M\nLS-5UTP-100MGR\nLAN tar\n100M\nROMS\nCAT.5\nCAT SE LAN CABLE\nLANG\nSo\n케이블 제품 분류표\n모델명\n색상\n길이\n심선\n직경\nLS-5UTP-100MGR\nGrey\n100M\n24AWG\n5.0±0.2mm\nLS-5UTP-100MBL\nBlue\nLAN or\n100M\nLAN tar\n100M\nR\nCATS\nLANC\nCAT\nLAN\nLS-5UTP-100MBL\nLS-5UTP-100MGR\nGrey\nBlue\nCAT.5E UTP\n1. CAT.5E UTPOOM HO\n12\n15\n\"2. 단선(SOLID) 케이블\n3. 1Gbps 전송속도\n15\n16\n18\n4. 100MHz C\n777\n5. CCA TH\n6. RoHS 인증 제품\nCAT.5E UTP 100M\n이럴때 사용하세요!\n\n\n이럴때 사용하세요!\n네트워크 공사\n신축 건물 및 사무실, PC방, 학원, 학교 등\n네트워크 포설 공사에 사용하기 적합하고,\n100M 이내 거리에서 자유롭게 사용할 수\n있습니다.\n기가비트 네트워크 구축\n네트워크 환경이 발전함에 따라\n각종 장소에서 기가비트 인터넷 환경을\n구축하고 있는 추세입니다.\n랜스타 케이블로 기가비트 네트워크 환경을\n구축하시기 바랍니다.\nCAT.5E UTP 케이블 구조\n4PAIR TWISTED STRUCTURE\n신호 간섭 방지를 위해 4개의 페어가 꼬임 방식으로\n결합되어 있는 UTP 케이블입니다.\n꼬임 구조\n단선\n단선(Solid) 케이블\nCCA(Copper Clad Aluminum)\n알루미늄 코어 바깥 부분에 구리를 씌운 CCA 구조의 케이블로\n일반 구리 케이블에 비해 가볍고, 순수 알루미늄에 비해 전기 전도성이 높으며\n강도가 뛰어나 통신공사용으로 적합한 케이블입니다.\n구리\n알루미늄\n연선 / 단선 케이블 구조 비교\n\n\n연선 / 단선 케이블 구조 비교\n연선\n단선\n가늘거나 굵은 여러개의 가닥이 그룹화되어\n하나의 금속으로 구성\n단일 도체를 구성\n단선보다 유연하여 쉽게 끊어지지 않지만\n연선보다 단단하고 내구성이 강하나\n내구성이 떨어짐\n구부리면 파손될 가능성이 높음\n엘리베이터 등 이동하거나 노출이 많이\n내부 배선, 고정된 전선 등 전력을 많이\n되는 곳에 주로 설치\n사용하는 곳에 주로 설치\nPRODUCT DETAIL\n박스 내부 케이블\n케이블이 박스 내부에서\n정렬이 잘 되어 있어\n꼬임 걱정 없이 사용할 수\n있습니다.\n편리한 사용\n박스의 홈을 통해 케이블을\n쉽게 꺼내서 사용할 수 있어\n꼬임 걱정이 없습니다.\nRoHS 인증 제품\nRoHS는 유럽 연합에서 시행되는 해로운 물질을 사용한 전자제품을 제한하는 지침으로,\n모든 전기/전자 제품은 이 새로운 지침에 적합하여야 유럽 시장에 판매할 수 있습니다.\n수있다\nHo\nlac-MRA CNAS\nTESTING\nCNAS L4136\nHCT\nTest Report\nPage 1 of\nDay 19 201\nReport No.: WTH852XC-1\nNegle de Co, Lal\nApplican\nNo 20 Changing Ro Xiria Xarpan, Nege\nMiros\n2 FTP Cable\nSample Infermie\nRIPPaCal Cale\n4 SPM Cacak\nSample\n1.5MP C Cable\nPer to the l\nSample Descripc\nLUTOCA\nHCT\nC's Rel\n2.FT G CCAPVISER\nSPCCCAPVISE\nHCT\n4. CON S1P (M), GeCCAPACI\nwhowserwow\nSample No\nMay 11, 2006\nSample Reavad k\nHCT\nMes 11, 2008-May 15, 23\nForest\nthe felowing p\nCe\nTest Realt\nAs specified by cler, dm te , G H O BR, POT DEPAR\ncon the song with US De 011\nEU 204561\nHCT\nSol\nHCT\nHCT\nHCT\nHCT\n\n\nHCT\nHCT\nHCT\nPRODUCT SIZE\n<박스 무게 : 약 2.18Kg >\nLANG\nStar\n100M\nGray\n□ Blue •\nYellow\nRed\n250mm\nCAT.5E\nUTP\nLAN CABLE\nFTP\nSolid\n262mm\n104mm\nSPECIFICATION\n케이블 규격\nCAT.5E UTP\n전송 속도\n1Gbps\n대역폭\n100MHz\n케이블 길이\n100m\n케이블 색상\n회색 / 파랑\n케이블 소재\nCCA (Copper Clad Aluminum)\n작동 온도\n섭씨 80℃\nFAQ\n자주 물어보시는 질문\nQ. 사용하려는 환경이 100m가 넘는데 방법이 없을까요?\n랜 커플러를 이용하여 케이블 연장하여 사용할 수 있습니다.\n단, 케이블 길이가 길어질수록 신호 손실이 발생할 수 있습니다.\n이 점 참고하시고 구매하여 주시기 바랍니다.\nQ. 케이블 색상별로 차이가 있나요?\n케이블은 전부 동일 규격(CAT.5E, UTP)입니다.\n피복 색깔만 다를 뿐, 전부 동일한 규격의 케이블입니다.\n케이블 색상에 따라 구분하기 편하게 4가지 색상으로 출시했습니다.\nQ. 옥외용(아웃도어) 케이블과는 다른 케이블가요?\n\n\n케이블은 전부 동일 규격(CAT.5E, UTP)입니다.\n피복 색깔만 다를 뿐, 전부 동일한 규격의 케이블입니다.\n케이블 색상에 따라 구분하기 편하게 4가지 색상으로 출시했습니다.\nQ. 옥외용(아웃도어) 케이블과는 다른 케이블가요?\n옥외용 케이블은 피복이 이중 피복으로 이루어진 케이블입니다.\n옥외용 케이블도 판매중이니 랜스타 스마트스토어에서 \"옥외용\", 혹은 \"아웃도어\" 검색 후\n구매하여 주시기 바랍니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n상품 도착\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n전문기업확인서\n소재·부품 장비 전문기업확인서\n50\nA 2001.\n평가관리원\n기\n한\n신문기업인을 확인합니다\n산업통산자원부 시행 제도\nKelt\n221129\n2022.11.29 취득\n산업\n한국산업기술평가관\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nM 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상품 정보\n품\n명\nCAT.5E UTP 100M 박스 케이블\n모\n델\n명\nLS-5UTP-100MGR(Grey)\nLS-5UTP-100MBL(Blue)\nKC 인증 번호\n해당없음\nLON\n\n\n품\n명\nCAT.5E UTP 100M 박스 케이블\n모\n델\n명\nLS-5UTP-100MGR(Grey)\nLS-5UTP-100MBL(Blue)\nKC 인증 번 호\n해당없음\nLANStar\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\n回\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANG\nStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "LS-5UTP-305M": "LANStar\nCAT.5E UTP 단선\n랜 케이블 305M\n30\nLANG\nLANG\nUTP CAT.SE\nLAN Cable\n| \n305M\nGreyD\nBlue UTP CATSE\nRed \nL\nLANC\nBlack s\n■ 빨강\n■ 파랑\n■ 노랑\n■ 회색\nCAT.5E UTP LAN CABLE\nUnshielded Twisted Pair Stranded Direct\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\nPVC/LSZH 피복\n-PE절연\n쌍(Pair)\nSolid Cable\n단선(線) 케이블\n선이 하나이므로 외부간섭을 덜 받아\n데이터 전송이 안정적입니다.\n단선\n연선\n단선 Solid\n연선 Stranded |\n한가닥의 구리선 여러 가닥의 구리선\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\n1 주황/흰색\n2 주황\n13 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n8 갈색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXXI\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n8 갈색\n컬러 케이블\nCAT.5E 랜케이블은 다양한 색상으로\n제작되어 케이블 별로 용도를 구분하여\n사용할때 매우 편리합니다.\n*콘넥터 작업을 했을 시 연출 사진입니다.\nPRODUCT IMAGE\n\n\nLS-5UTP-305MR | 빨강\nLS-5UTP-305MB | 파랑\nLS-5UTP-305MY | 노랑\nLS-5UTP-305MG | 회색\n24AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n24AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다.\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nwwwww\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.5E\n최대전송속도\n400Mbps\n대\n역\n폭\n100MHz\nROHS\n00\nCOMPLIANT\nETERNAL CENT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\nCAT.5E UTP 랜 케이블 305M\nLANSStar\n®\nLS-5UTP-305MR\nLS-5UTP-305MB\n모\n델\n명\nLS-5UTP-305MY\nLS-5UTP-305MG\n인증번호\n상세페이지 참조\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANSStar\n®\nCAT.5E UTP 단선\n랜 케이블 305M\nBT\nLISA\nLA Stor\nHigh Quality Copper\nHigh Quality\nCAT.5E UTP Cable\nCAT.5E UTP\n\n\n랜 케이블 305M\n80\nS\nLA Stor\nHigh Quality Copper\nCAT.5E UTP Cable\nHigh Quality Copper\nCAT.5E UTP\nC\nJUTP\nStrand\nDFP\nOSFTP\nCAT SE UP CARE\n305M\ni 8x\n■ 빨강\n■ 파랑\n- 노랑\n■ 회색\nCAT.5E UTP LAN CABLE\nUnshielded Twisted Pair Stranded Direct\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n-PE절연\n'PVC/LSZH 피복\n·쌍 (Pair)\nSolid Cable\n단선(線) 케이블\n선이 하나이므로 외부간섭을 덜 받아\n데이터 전송이 안정적입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n3 녹색/흰색\n4 청색\n녹색/흰색 3\n청색 4\nXXXI\n청색/흰색 5\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n녹색 6\n갈색/흰색 7\n8 갈색\n갈색 8\n8 갈색\n컬러 케이블\nCAT.5E 랜케이블은 다양한 색상으로\n제작되어 케이블 별로 용도를 구분하여\n사용할때 매우 편리합니다.\n*콘넥터 작업을 했을 시 연출 사진입니다.\nPRODUCT IMAGE\nLS-5UTP-305MR | 빨강\nLS-5UTP-305MB | 파랑\n\n\nLS-5UTP-305MR | 빨강\nLS-5UTP-305MB | 파랑\nLS-5UTP-305MY | 노랑\nLS-5UTP-305MG 회색\n24AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n24AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다.\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.5E\n최대전송속도\n400Mbps\n대\n역\n폭\n100MHz\nCR\nROHS\nCOMPLIANT\nCENTRATIO\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANSStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.5E UTP 랜케이블 305M\nLANSStar®\nLS-5UTP-305MR\nLS-5UTP-305MB\nLS-5UTP-305MY\nLS-5UTP-305MG\n모\n델\n명\n口口\n인증번호\n상세페이지 참조\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANG\nStar\n자매품\n0.5MLS-5UTPD-0.5MG\n10M\nLS-5UTPD-10MG\n1M\nLS-5UTPD-1MG\nCAT.5E UTP\n다이렉트, 회색,\n단선/연선,\n금도금 콘넥터,\n8P8C RJ45,\n2M\nLS-5UTPD-2MG\n15M LS-5UTPD-15MG\n20M LS-5UTPD-20MG\n30M LS-5UTPD-30MG\n3M\nLS-5UTPD-3MG\n5M\nLS-5UTPD-5MG\n50M LS-5UTPD-50MG\n26AWG,\nSolid 타입\n(0.5M/1M 해당)\n7M\nLS-5UTPD-7MG\n1M\nLS-5UTPD-1MB\n15M\nLS-5UTPD-15MB\n2M\nLS-5UTPD-2MB\n20M\nLS-5UTPD-20MB\nCAT.SE UTP\n다이렉트, 파랑,\n연선, 50u.\n금도금 콘넥터,\n8P8C RJ45,\n3M\nLS-5UTPD-3MB\n30M\nLS-5UTPD-30MB\n5M\nLS-5UTPD-5MB\n26AWG\n7M\nLS-5UTPD-7MB\n10M\nLS-5UTPD-10MB\nLS-5UTPD-2MY\n20M\nLS-5UTPD-20MY\n2M\n3M\nLS-5UTPD-3MY\n30MLS-5UTPD-30MY\nCAT.SE UTP\n다이렉트, 노랑,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n5M\nLS-5UTPD-5MY\n7M\nLS-5UTPD-7MY\n10M\nLS-5UTPD-10MY\n\n\nIM\nLS-50TPD-IMB\n15M\nLS-50TPD-15MB\n2M\nLS-5UTPD-2MB\n20M\nLS-5UTPD-20MB\n다이렉트, 파랑,\n연선, 50u.\n금도금 콘넥터,\n3M\nLS-5UTPD-3MB\n30M\nLS-5UTPD-30MB\n5M\nLS-5UTPD-5MB\n8P8C RJ45,\n26AWG\n7M\nLS-5UTPD-7MB\n10M LS-5UTPD-10MB\nCAT.5E UTP\n2M\nLS-5UTPD-2MY\n20M\nLS-5UTPD-20MY\n3M\nLS-5UTPD-3MY\n30M LS-5UTPD-30MY\n다이렉트, 노랑,\n연선, 50u,\n금도금 콘넥터,\n5M\nLS-5UTPD-5MY\n7M\nLS-5UTPD-7MY\n8P8C RJ45,\n26AWG\n10M LS-5UTPD-10MY\n15M LS-5UTPD-15MY\n2M\nLS-5UTPD-2MR\n20M\nLS-5UTPD-20MR\n3M\nLS-5UTPD-3MR\n30M\nLS-5UTPD-30MR\nCAT.5E UTP\n다이렉트, 빨강,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-5UTPD-5MR\n7M\nLS-5UTPD-7MR\n26AWG\n10M\nLS-5UTPD-10MR\n15M\nLS-5UTPD-15MR\n1M\nLS-5STPD-1M\n20M\nLS-5STPD-20M\n2M\nLS-5STPD-2M\n30M\nLS-5STPD-30M\nCAT.5E FTP\n다이렉트, 연선,\n회색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n3M\nLS-5STPD-3M\n50M\nLS-5STPD-50M\n5M\nLS-5STPD-5M\nLS-5STPD-10M\n10M\n15M\nLS-5STPD-15M\nCAT.5E UTP\n다이렉트, 연선,\n검정, 50u\n금도금 콘넥터,\n8P8C RJ45,\nCAT.5E FTP\n크로스, 연선,\n녹색, 50u\n금도금 콘넥터,\n8P8C RJ45,\nCAT.5E UTP\n다이렉트, 연선,\n회색, 50u\nㄱ자 90도\n꺾임형, 8P8C\nRJ45, 24AWG\n26AWG\n26AWG\n2M\nLS-5UTPD-2MBK\n2M\nLS-5STPC-2M\n2M\nLS-5UTPAD-2M\n3M\nLS-5UTPD-3MBK\n3M\n5M\nLS-5UTPAD-5M\nLS-5STPC-3M\nLS-5STPC-5M\n5M\nLS-5UTPD-5MBK\n5M\n10M LS-5UTPD-10MBK\n10M\nLS-5STPC-10M\nCAT.5E FTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n26AWG,\nUL인증, 대만산,\n알루미늄 쉴드\n9\nCAT.5E UTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n24AWG,\nUL인증, 대만산,\nCCTV 웹카메라\n공사용\n5M\nLS-SPCE-WP5M\n1M\nLS-WPCCTV-RJ45\n10M LS-SPCE-WP10M\nCAT.SE LAN CABLE\n100M\nCAT\nCATS UTP Cable\nCAT.5E UTP\nBox, 단선,\n24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽콘넥터 있음,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\n195\nLS-5UTP-100MG\nLS-5UTP-100MR\n305M LS-5UTP-305MGE\n305M 빨강 LS-5UTP-305MR\n305M 파랑 LS-5UTP-305MB\n305M 노랑 LS-5UTP-305MY\n305M LS-5UTP-305MGN\n100M 회색\n100M 빨강\n100M 파랑\n100M 노랑\nLS-5UTP-100MB\nLS-5UTP-100MY\nCAT5E LAN CABLE\n100M\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽콘넥터 없음,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nSTP CAT SE\nLANG\n305M 회색\nLS-5UTP-305MG\n100M LS-5UTP-100MGE\n100M 파랑\nLS-5UTP-100MBE\nx\nCAT5E LAN CABLE\n100M\n통신공사업 현케이블\nCAT SE LAN Cable\nCAT.5E FTP\nBox, 연선,\n1,26AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\nCAT.5E FTP\n\"Box, 단선,\n24AWG\n미국전선규격,\n안정적인\n데이터 전송\ne\nLANO\n300M LS-FTP-300MSTG\n100M 회색\nLS-5FTP-100M\nSon\nO\nSE LAN Cable\nCAT.5E SFTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\nRoll 케이블,\n통신용 특화,\nRO/BOA\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n통신공사용,\n높은 구리 함량\nHigh Quality\n통신공사용 케이블\n300M LS-UTP5H-300MBK\n300M (RO) LS-5SFTP-300MG\n300M (BOA) LS-5SFTP-300M\n300M (BOA) LS-5SFTP-B300M\n300M LS-UTP5H-300MG",
+    "LS-5UTP-305MBK": "LANStar®\nCAT.5E UTP 단선\n랜 케이블 305MG\nLS-5UTP-305MBK [검정]\nLANG\nLAN tor\nO\nUTP CAT.SE\nGrey D\nLAN Cable305M\nBlue UTP CATSE\nRed D\nYellow LANC\nBlack\nCAT.5E UTP LAN CABLE\nUnshielded Twisted Pair Stranded Direct\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n-PE절연\nPVC/LSZH 피복\n쌍(Pair)\nSolid Cable\n단선(線) 케이블\n선이 하나이므로 외부간섭을 덜 받아\n데이터 전송이 안정적입니다\n단선\n연선\n단선 Solid\n연선 Stranded |\n한가닥의 구리선 여러 가닥의 구리선\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n주황/흰색 1\n주황 2\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n1 주황/흰색\n2 주황\n13 녹색/흰색\n4 청색\n5 청색/흰색\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXIII\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n8 갈색\n6 주황\n7 갈색/흰색\n갈색 8\n8 갈색\nPRODUCT IMAGE\nMar\nETA/TIA 568\nTuter-PATR 4P CLANator> <RoHS) SOLTO, 24AG CATSsary \nbosun10 24640. CATE \nTITL\nILS-5UTP-305MBK / 검정\n\n\nosta/TIA 568\nTuteT-PATR 4P CLANStar) <RoHS SOLTO2n) concio \nen To. 24AUG. CAT\nILS-5UTP-305MBK / 검정\n24AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n24AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다.\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.5E\n최대전송속도\n400Mbps\n대\n역\n폭\n100MHz\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\nLANSStar® 라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\nCAT.5E UTP 랜 케이블 305M\nLANStar\n®\nLS-5UTP-305MR LS-5UTP-305MBK\nLS-5UTP-305MB\n모\n델\n명\nLS-5UTP-305MY\nLS-5UTP-305MG\n인증번호\n상세페이지 참조\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLAN\ntar\n자매품\n0.5MLS-5UTPD-0.5MG\n10M LS-5UTPD-10MG\nIM\nLS-5UTPD-1MG\n15M LS-5UTPD-15MG\nLS-5UTPD-2MG\n20M LS-5UTPD-20MG\nCAT.5E UTP\n다이렉트, 회색,\n단선/연선,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\nSolid 타입\n(0.5M/1M 해당)\n2M\n3M\nLS-5UTPD-3MG\n30M LS-5UTPD-30MG\n50M LS-5UTPD-50MG\n5M\nLS-5UTPD-5MG\n7M\nLS-5UTPD-7MG\nIM\nLS-5UTPD-1MB\n15M\nLS-5UTPD-15MB\nCAT.5E UTP\n다이렉트, 파랑,\n연선, 50u.\n금도금 콘넥터,\nLS-5UTPD-2MB\n20M\nLS-5UTPD-20MB\n2M\n3M\n5M\nLS-5UTPD-3MB\n30M\nLS-5UTPD-30MB\n8P8C RJ45,\nLS-5UTPD-5MB\n26AWG\n7M\nLS-5UTPD-7MB\n10M\nLS-5UTPD-10MB\nLS-5UTPD-2MY\n20M\nLS-5UTPD-20MY\n2M\n3M\nLS-5UTPD-3MY\n30MLS-5UTPD-30MY\nCAT.SE UTP\n다이렉트, 노랑,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-5UTPD-5MY\n7M\nLS-5UTPD-7MY\n26AWG\n10M\nLS-5UTPD-10MY\n15M\nLS-5UTPD-15MY\nLS-5UTPD-2MR\n20M\nLS-5UTPD-20MR\n2M\n3M\nLS-5UTPD-3MR\n30M LS-5UTPD-30MR\nCAT.5E UTP\n다이렉트, 빨강,\n연선, 50u.\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-5UTPD-5MR\n26AWG\nIM LS-5UTPD-7MR\n10M LS-5UTPD-10MR\n15M LS-5UTPD-15MR\n\n\n3M\nLS-5UTPD-3MY\n30M LS-5UTPD-30MY\n나이렉트, 노랑,\n연선, 50u,\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-5UTPD-5MY\n7M\nLS-5UTPD-7MY\n26AWG\n10M LS-5UTPD-10MY\n15M LS-5UTPD-15MY\n2M\nLS-5UTPD-2MR\n20M LS-5UTPD-20MR\n30M LS-5UTPD-30MR\n3M\nLS-5UTPD-3MR\nCAT.5E UTP\n다이렉트, 빨강,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-5UTPD-5MR\n7M\nLS-5UTPD-7MR\n26AWG\n10M LS-5UTPD-10MR\n15M\nLS-5UTPD-15MR\n1M\nLS-5STPD-1M\n20M\nLS-5STPD-20M\n2M\nLS-5STPD-2M\n30M\nLS-5STPD-30M\nCAT.5E FTP\n다이렉트, 연선,\n회색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n3M\nLS-5STPD-3M\n50M\nLS-5STPD-50M\n5M\nLS-5STPD-5M\nMa\n26AWG\n10M\nLS-5STPD-10M\n15M\nLS-5STPD-15M\nCAT.5E UTP\nCAT.5E UTP\n다이렉트, 연선,\n검정, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\nCAT.5E FTP\n크로스, 연선,\n녹색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n다이렉트, 연선,\n회색, 50u\nㄱ자 90도\n꺾임형, 8P8C\nRJ45, 24AWG\n26AWG\n2M\nLS-5STPC-2M\n2M\nLS-5UTPAD-2M\n2M LS-5UTPD-2MBK\n3M LS-5UTPD-3MBK\n3M\nLS-5STPC-3M\n5M\nLS-5UTPAD-5M\n5M\nLS-5UTPD-5MBK\n5M\nLS-5STPC-5M\n10M LS-5UTPD-10MBK\n10M\nLS-5STPC-10M\nCAT.5E FTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n19\nCAT.5E UTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n24AWG,\nUL인증, 대만산,\nCCTV 웹카메라\n공사용\n26AWG.\nUL인증, 대만산,\n알루미늄 쉴드\n5M\nLS-SPCE-WP5M\n1M LS-WPCCTV-RJ45\n10M LS-SPCE-WP10M\nCAT5E LAN CABLE\n100M\nCAT SE UTP\nUTP Cable\nCAT.5E UTP\nBox, 단선,\n24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽콘넥터 있음,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nLAN\n15\nAftal\n305M LS-5UTP-305MGE\nLS-5UTP-100MG\n305M\nLS-5UTP-305MR\nLS-5UTP-100MR\n100M 회색\n100M 빨강\n100M 파랑\n100M 노랑\nLS-5UTP-100MB\n305M 파랑 LS-5UTP-305MB\n305M 노랑 LS-5UTP-305MY\n305M LS-5UTP-305MGN\nLS-5UTP-100MY\nCAT.SE LAN CABLE\n100M\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽콘넥터 없음,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nTP CATE\nLAN\n305M LS-5UTP-305MG\n100M LS-5UTP-100MGE회색\n100M LS-5UTP-100MBE파랑\nA\nCAT5E LAN CABLE\n100M\n통신공사업 맨케이블\nCAT SE LAN Cable\nE\nCAT.5E FTP\nBox, 연선,\n26AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\nCAT.5E FTP\nBox, 단선,\n24AWG\n미국전선규격,\n안정적인\n데이터 전송\nLANG\nLANGOR\n300M LS-FTP-300MSTG\n100M 회색\nLS-5FTP-100M\nLor\n통신공사용 랜케이블\nCAT SE LAN Cable\nCAT.5E SFTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\nRoll 케이블,\n통신용 특화,\nRO/BOA\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n통신공사용,\n높은 구리 함량\n188\nMigh Quality\nHigh Quality Cer\n통신공사용 케이블\n300M\n300M LS-UTP5H-300MBK\n300M (RO) LS-5SFTP-300MG\n300M (BOA) LS-5SFTP-300M\n300M (BOA) LS-5SFTP-B300M\n300M LS-UTP5H-300MG",
+    "LS-5UTP-305MG": "LANStar\nCAT.5E UTP 단선UTPE\n랜 케이블 305MG\nLANG\nLAWor\nUTP CAT.SE\nGrey D\nLAN Cable\n| \n305M\nBlue UTP CATSE\nRed D\nYellow LANC\nBlack\nCAT.5E UTP LAN CABLE\nUnshielded Twisted Pair Stranded Direct\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\nPVC/LSZH 피복\n-PE절연\n쌍(Pair)\nSolid Cable\n단선(線) 케이블\n선이 하나이므로 외부간섭을 덜 받아\n데이터 전송이 안정적입니다\n단선\n연선\n단선 Solid\n연선 Stranded |\n한가닥의 구리선 여러 가닥의 구리선\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n13 녹색/흰색\n4 청색\n5 청색/흰색\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\n4 청색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXIII\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n8 갈색\n6 주황\n7 갈색/흰색\n8 갈색\nPRODUCT IMAGE\nLS-5UTP-305MG | 회색\n\n\nLS-5UTP-305MG | 회색\n24AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n24AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다.\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.5E\n최대전송속도\n400Mbps\n대\n역\n폭\n100MHz\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\nLANSStar® 라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\nCAT.5E UTP 랜 케이블 305M\nLANStar\n®\nLS-5UTP-305MR\nLS-5UTP-305MB\n모\n델\n명\nLS-5UTP-305MY\nLS-5UTP-305MG\n인증번호\n상세페이지 참조\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLAN\ntar\n자매품\n0.5MLS-5UTPD-0.5MG\n10M LS-5UTPD-10MG\nIM\nLS-5UTPD-1MG\n15M LS-5UTPD-15MG\nLS-5UTPD-2MG\n20M LS-5UTPD-20MG\nCAT.5E UTP\n다이렉트, 회색,\n단선/연선,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\nSolid 타입\n(0.5M/1M 해당)\n2M\n3M\nLS-5UTPD-3MG\n30M LS-5UTPD-30MG\n5M\nLS-5UTPD-5MG\n50M\nLS-5UTPD-50MG\n7M\nLS-5UTPD-7MG\n1M\nLS-5UTPD-1MB\n15M\nLS-5UTPD-15MB\n2M\nLS-5UTPD-2MB\n20M\nLS-5UTPD-20MB\nCAT.5E UTP\n다이렉트, 파랑,\n연선, 50u.\n금도금 콘넥터,\n8P8C RJ45,\nLS-5UTPD-3MB\n30M\nLS-5UTPD-30MB\n3M\n5M\nLS-5UTPD-5MB\n26AWG\n7M\nLS-5UTPD-7MB\n10M\nLS-5UTPD-10MB\nLS-5UTPD-2MY\n20M\nLS-5UTPD-20MY\n2M\n3M\nLS-5UTPD-3MY\n30MLS-5UTPD-30MY\nCAT.SE UTP\n다이렉트, 노랑,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-5UTPD-5MY\n7M\nLS-5UTPD-7MY\n26AWG\n10M\nLS-5UTPD-10MY\n15M\nLS-5UTPD-15MY\n20M\nLS-5UTPD-20MR\n30M LS-5UTPD-30MR\nCAT.5E UTP\n다이렉트, 빨강,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n2M LS-5UTPD-2MR\n3M LS-5UTPD-3MR\n5M LS-5UTPD-5MR\nIM LS-5UTPD-7MR\n10M LS-5UTPD-10MR\n15M LS-5UTPD-15MR\n26AWG\n\n\n3M\nLS-5UTPD-3MY\n30M LS-5UTPD-30MY\n나이렉트, 노랑,\n연선, 50u,\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-5UTPD-5MY\n7M\nLS-5UTPD-7MY\n26AWG\n10M LS-5UTPD-10MY\n15M LS-5UTPD-15MY\n2M\nLS-5UTPD-2MR\n20M LS-5UTPD-20MR\n30M LS-5UTPD-30MR\n3M\nLS-5UTPD-3MR\nCAT.5E UTP\n다이렉트, 빨강,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-5UTPD-5MR\n7M\nLS-5UTPD-7MR\n26AWG\n10M LS-5UTPD-10MR\n15M\nLS-5UTPD-15MR\n1M\nLS-5STPD-1M\n20M\nLS-5STPD-20M\n2M\nLS-5STPD-2M\n30M\nLS-5STPD-30M\nCAT.5E FTP\n다이렉트, 연선,\n회색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n3M\nLS-5STPD-3M\n50M\nLS-5STPD-50M\na\n5M\nLS-5STPD-5M\n26AWG\n10M\nLS-5STPD-10M\n15M\nLS-5STPD-15M\nCAT.5E FTP\n크로스, 연선,\nCAT.5E UTP\n다이렉트, 연선,\n검정, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n녹색, 50u\n금도금 콘넥터,\n8P8C RJ45,\nCAT.5E UTP\n다이렉트, 연선,\n회색, 50u\nㄱ자 90도\n꺾임형, 8P8C\nRJ45, 24AWG\n26AWG\n2M\nLS-5STPC-2M\n2M\nLS-5UTPAD-2M\n2M LS-5UTPD-2MBK\n3M LS-5UTPD-3MBK\n3M\nLS-5STPC-3M\n5M\nLS-5UTPAD-5M\n5M\nLS-5UTPD-5MBK\n5M\nLS-5STPC-5M\n10M LS-5UTPD-10MBK\n10M\nLS-5STPC-10M\nCAT.5E FTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n26AWG.\nUL인증, 대만산,\n알루미늄 쉴드\n19\nCAT.5E UTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n24AWG,\nUL인증, 대만산,\nCCTV 웹카메라\n공사용\n5M\nLS-SPCE-WP5M\n1M LS-WPCCTV-RJ45\n10M LS-SPCE-WP10M\nCAT5E LAN CABLE\n100M\nCAT SE UTP\nUTP Cable\nCAT.5E UTP\nBox, 단선,\n24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽콘넥터 있음,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nLAN\n15Acto\n305M LS-5UTP-305MGE\nLS-5UTP-100MG\n305M\nLS-5UTP-305MR\nLS-5UTP-100MR\n100M 회색\n100M 빨강\n100M 파랑\n100M 노랑\nLS-5UTP-100MB\n305M 파랑 LS-5UTP-305MB\n305M 노랑 LS-5UTP-305MY\n305M LS-5UTP-305MGN\nLS-5UTP-100MY\nCAT.SE LAN CABLE\n100M\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽콘넥터 없음,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nTP CATE\nLAN\n305M LS-5UTP-305MG\n100MLS-5UTP-100MGE\n100M LS-5UTP-100MBE파랑\nA\nCAT5E LAN CABLE\n100M\n통신공사업 맨케이블\nCAT SE LAN Cable\nE\nCAT.5E FTP\nBox, 연선,\n26AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\nCAT.5E FTP\nBox, 단선,\n24AWG\n미국전선규격,\n안정적인\n데이터 전송\nLANG\n300M LS-FTP-300MSTG\n100M 회색\nLS-5FTP-100M\nLor\n통신공사업 랜케이블\nCAT SE LAN Cable\nCAT.5E SFTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\nRoll 케이블,\n통신용 특화,\nRO/BOA\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n통신공사용,\n높은 구리 함량\n188\nMigh Quality\nHigh Quality Cer\n통신공사용 케이블\n300M\n300M LS-UTP5H-300MBK\n300M (RO) LS-5SFTP-300MG\n300M (BOA) LS-5SFTP-300M\n300M (BOA) LS-5SFTP-B300M\n300M LS-UTP5H-300MG",
+    "LS-5UTP-305MGE": "LANSStar\nCAT.5E UTP 랜케이블\n305M\n80\nMAST\nStor\nHigh Quality Copper\nHigh Quality Copper\nCAT.5E UTP Cable\nCAT.5E UTP\n[JUTP [Solda\nStand\nOFTP\nSFTP\nCAT SE UTP CABLE\n305M\n■ 회색\n■ 파랑\n■ 녹색\n| 빨강\n노랑\n| 검정\n■ LS-5UTP-305MGE (Grey)\nLS-5UTP-305MB (Blue)\nLS-5UTP-305MGN (Green)\nLS-5UTP-305MR (Red)\nLS-5UTP-305MY (Yellow)\n◉\nLS-5UTP-305MBKE (Black)\nCAT.5E UTP LAN CABLE\nSolid Cable\n단선(線) 케이블\n선이 하나이므로 외부간섭을 덜 받아\n데이터 전송이 안정적입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\n|Twisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\nUTP (Unshield Twisted Pair)\nCAT.5E\nCAT.6\n절연의 구리선이 전자기유도를 줄이기 위해\n서로 꼬여져 있는 케이블로 4Pair/Core\n전선과 피복으로 구성되어 있습니다\n케이블\n구조\n절연의 구리선이 전자기유도를 줄이기 위해\n서로 꼬여져 있는 케이블로 4Pair/Core 전선\n과 피복으로 구성되어 있습니다.\n꼬여있는 선과 선사이에 차단용 십자플라스틱\n이 있어 케이블 Pair 간의 간섭을 줄여서 전송\n속도를 높여주는 역할을 합니다.\n사용처\n일반적인 랜케이블로 사무실 및 가정배선용\n으로 사용됩니다\n초고속 네트워크 망이 구축된 환경에서 사용\n됩니다.\n- 십자형 개재\n케이블\n구조도\nPVC/LSZH 피복\n-PE절연\n'PVC/LSZH 피복 |\n-PE절연\n- 쌍(Pair)\n- 쌍(Pair)\n데이터\n전송속도\n100MHz / 1Gbps\n250MHz / 1Gbps\nFTP (Foield Twisted Pair)\nCAT.5E\nCAT.6\n절연의 구리선이 전자기유도를 줄이기 위해\n서로 꼬여져 있는 케이블로 4Pair/8Core\n전선과 피복으로 구성되어 있습니다.\n알루미늄 은박이 선을 감싸고 있으며 접지용\n선이 별도로 있습니다.\n케이블\n구조\n절연의 구리선이 전자기유도를 줄이기 위해 서\n로 꼬여져 있는 케이블로 4Pair/8Core 전선과\n피복으로 구성되어 있습니다.\n꼬여있는 선과 선사이에 차단용 십자 플라스틱\n이 있어 케이블 Pair 간의 간섭을 줄여서 전송\n속도를 높여주는 역할을 합니다.\n알루미늄 은박이 선을 감싸고 있으며 접지용\n선이 별도로 있습니다.\n사용처\n공장배선용으로 많이 사용되며, 접지용 선이\n내장되어 있어 옥외로 선이 지나갈때 사용하\n시면 좋습니다.\n접지 및 특수환경에서의 초고속 네트워크 망이\n구축된 곳에서 사용됩니다.\nAl.Mylar 테이프\nPS테이프\n- 십자형 개재\nPS테이프-\n케이블\n구조도\nPVC/LSZH 피복\n4-PE절연\nPVC/LSZH 피복\nPE절연\n\n\n서로 꼬여져 있는 케이블로 4Pair/Core\n전선과 피복으로 구성되어 있습니다.\n알루미늄 은박이 선을 감싸고 있으며 접지용\n선이 별도로 있습니다.\n케이블\n구조\n로 꼬여져 있는 케이블로 4Pair/8Core 전선과\n피복으로 구성되어 있습니다.\n꼬여있는 선과 선사이에 차단용 십자 플라스틱\n이 있어 케이블 Pair간의 간섭을 줄여서 전송\n속도를 높여주는 역할을 합니다.\n알루미늄 은박이 선을 감싸고 있으며 접지용\n선이 별도로 있습니다.\n사용처\n공장배선용으로 많이 사용되며, 접지용 선이\n내장되어 있어 옥외로 선이 지나갈때 사용하\n시면 좋습니다.\n접지 및 특수환경에서의 초고속 네트워크 망이\n구축된 곳에서 사용됩니다.\nAl.Mylar 테이프\n1\nPS테이프\n- 십자형 개재\nPS테이프\n케이블\n\"구조도\nPVC/LSZH 피복\n-PE절연\nPVC/LSZH 피복\n-PE절연\n쌍(Pair)\nAL.Mylar 테이프/\n쌍(Pair)\n\"데이터\n\"전송속도\n100MHz / 1Gbps\n250MHz / 1Gbps\nCAT.5E UTP LAN CABLE\n컬러 케이블\nCAT.5E 랜케이블은 다양한 색상으로\n제작되어 케이블 별로 용도를 구분하여\n사용할때 매우 편리합니다.\n*콘넥터 작업을 했을 시 연출 사진입니다.\nPRODUCT IMAGE\nLS-5UTP-305MGE 회색\nLS-5UTP-305MB | 파랑\nLS-5UTP-305MGN | 녹색\nLS-5UTP-305MR | 빨강\nLS-5UTP-305MY | 노랑\nLS-5UTP-305MBKE걱정\nCAT.5E UTP LAN CABLE\nKLANE Car\nSOL FO\nLAN Star\n랜스타 정품으로 친환경 소재를 사용한 랜케이블입니다\n正品\n[미국전선규격 American Wire Gage]\n24AWG 규격의 굵기로 데이터 전송시 간섭이 적은\n우수한 품질의 랜케이블입니다\n이 제품은 당사가 보증하는\n순정품입니다.\nROHS\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\nompliant\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nM 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.5E\n최대전송속도\n1Gbps\n대역폭\n100MHz\n\n\nSPECIFICATION\n케이블 규격\nCAT.5E\n최대전송속도\n1Gbps\n대\n역\n폭\n100MHz\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANSStar\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.5E UTP 랜케이블 300m\nLANSStar\nⓇ\nLS-5UTP-305MGE\nLS-5UTP-305MB\nLS-5UTP-305MGN\n모\n델\n명\nLS-5UTP-305MR\nLS-5UTP-305MY\nLS-5UTP-305MBKE\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANG\ntar\n자매품\n0.5MLS-5UTPD-0.5MG\n1M\nLS-5UTPD-1MG\nCAT.5E UTP\n다이렉트, 회색,\n단선/연선,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\nSolid 타입\n(0.5M/1M 해당)\n10M LS-5UTPD-10MG\n15M LS-5UTPD-15MG\n20M LS-5UTPD-20MG\n30M LS-5UTPD-30MG\n2M LS-5UTPD-2MG\n3M LS-5UTPD-3MG\n5M LS-5UTPD-5MG\n7M LS-5UTPD-7MG\n50M LS-5UTPD-50MG\nIM\nLS-5UTPD-1MB\n15M LS-5UTPD-15MB\n2M\nLS-5UTPD-2MB\n20M LS-5UTPD-20MB\nCAT.SE UTP\n다이렉트, 파랑,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n3M\nLS-5UTPD-3MB\n30M LS-5UTPD-30MB\n5M LS-5UTPD-5MB\n7M\nLS-5UTPD-7MB\n10MLS-5UTPD-10MB\nLS-5UTPD-2MY\n2M\n3M\n20M LS-5UTPD-20MY\n30M LS-5UTPD-30MY\nLS-5UTPD-3MY\nCAT.SE UTP\n다이렉트, 노랑,\n연선, 50u.\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-5UTPD-5MY\n7M\nLS-5UTPD-7MY\n26AWG\n10M LS-5UTPD-10MY\n15M LS-5UTPD-15MY\n20M LS-5UTPD-20MR\nCAT.SE UTP\n다이렉트, 빨강,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n2M LS-5UTPD-2MR\n3M LS-5UTPD-3MR\n5M LS-5UTPD-5MR\n30M LS-5UTPD-30MR\n7M LS-5UTPD-7MR\n10M LS-5UTPD-10MR\n15MLS-5UTPD-15MR\n1M\nLS-5STPD-1M\n20M LS-5STPD-20M\n2M\nLS-5STPD-2M\n30M LS-5STPD-30M\nCAT.5E FTP\n다이렉트, 연선,\n회색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n3M LS-5STPD-3M\n50M LS-5STPD-50M\n5M\nLS-5STPD-5M\n자르트 325\n26AWG\n10M LS-5STPD-10M\n15MLS-5STPD-15M\nCAT.SE UTP\n다이렉트, 연선,\n검정, 50u\n금도금 콘넥터,\n8P8C RJ45,\nCAT.SE FTP\n크로스, 연선,\n녹색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\nCAT.SE UTP\n다이렉트, 연선,\n회색, 50u\nㄱ자 90도\n꺾임형 8P8C\nRJ45,24AWG\n26AWG\n2M\nLS-5STPC-2M\nLS-5UTPAD-2M\nM\n5M\nLS-5STPC-3M\nLS-5UTPAD-5M\nM LS-5UTPD-2MBK\n3M LS-5UTPD-3MBK\n5M LS-5UTPD-5MBK\n10M LS-5UTPD-10MBK\n3M\n5M\nLS-5STPC-5M\n10M\nLS-5STPC-10M\nCAT.SE FTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n26AWG, 연선,\nUL인증, 대만산,\n알루미늄 쉴드\n9\nCAT.SE UTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n24AWG, 연선,\nUL인증, 대만산,\nCCTV 웹카메라\n공사용\n5M\nLS-SPCE-WP5M\n1M\nLS-WPCCTV-RJ45\n10M LS-SPCE-WP10M\nCUT Cable\nCAT.5E UTP\nBox, 단선,\n보급형, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\n0 100M\nCAT.5E UTP\nBox, 단선,\n양쪽콘넥터 있음,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT SE\nM\nLS-5UTP-100MG\nLS-5UTP-100MR\n305M 회색 LS-5UTP-305MGE\n305M 빨강 LS-5UTP-305MR\n305M 파랑 LS-5UTP-305MB\n305M 노랑 LS-5UTP-305MY\n305M 초록LS-5UTP-305MGN\n305M 검정 | LS-5UTP-305MBKE\n100M 회색\n100M 빨강\n100M 파랑\n100M 노랑\nLS-5UTP-100MB\nLS-5UTP-100MY\n\n\n0 100M\n미국전선규격,\n안정적인\n데이터 전송\nCAT SE\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nLS-5UTP-100MG\nLS-5UTP-100MR\n305M 회색LS-5UTP-305MGE\n305M 빨강 LS-SUTP-305MR\n305M 파랑 LS-5UTP-305MB\n305M 노랑 LS-5UTP-305MY\n305M 초록LS-5UTP-305MGN\n305M 검정 LS-5UTP-305MBKE\n100M 회색\n100M 빨강\n100M 파랑\n100M 노랑\nLS-5UTP-100MB\nLS-5UTP-100MY\nCAT5E LAN CABLE\n100M\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽 콘넥터 없음.\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nState\nLor\n305M 회색LS-5UTP-305MG\n305M 검정 LS-5UTP-305MBK\n100M 회색 LS-5UTP-100MGE\n100M 파랑 LS-SUTP-100MBE\n100M 빨강 LS-5UTP-100MRE\n100M 노랑 LS-5UTP-100MYE\n100M 녹색 LS-5UTP-100MGN\n100M 검정 LS-5UTP-100MBKE\nCAT.SE LAN CABLE\n100M\nki\n통신공사업 문제이블\nCASE LAN Cable\nKE\nCAT.5E FTP\nBox, 연선,\n고급, 26AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\nCAT.5E FTP\nBox, 단선,\n24AWG\n미국전선규격,\n안정적인\n데이터 전송\nLor\n300M 회색LS-FTP-300MSTG\n100M 회색\nLS-5FTP-100M\nUnShor\n통신공사용 문제이블\nCAT SE LAN Cable\n(4)\nCAT.5E SFTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\nRoll 케이블,\n통신용 특화,\nRO/BOA\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n통신공사용,\n높은 구리 함량\nQuality\n공사를\n300M\n300M 회색(RO) LS-5SFTP-300MG\n300M 회색(BOA) LS-5SFTP-300M\n300M 검정 LS-UTP5H-300MBK\n300M 회색 LS-UTP5H-300MG",
+    "LS-5UTP-305MGN": "LANStar®\nCAT.5E UTP 단선\n랜 케이블 305M\nLS-5UTP-305MGN\n80\nS\nLor\nHigh Quality Copper\nCAT.5E UTP Cable\nHigh Quality Copper\nCAT.5E UTP\nConner\nLAP\nSFIP\nCAT SE UTP CABLE\n305M\ni 8x\nCAT.5E UTP LAN CABLE\nUnshielded Twisted Pair Stranded Direct\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n*PVC/LSZH 피복\n-PE절연\n쌍(Pair)\nSolid Cable\n단선(線) 케이블\n선이 하나이므로 외부간섭을 덜 받아\n데이터 전송이 안정적입니다\n단선\n연선\n단선 Solid\n연선 Stranded |\n한가닥의 구리선 여러 가닥의 구리선\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\n1 주황/흰색\n2 주황\n13 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\nXXIII\n청색/흰색 5\n4 청색\n15 청색/흰색\n6 주황\n7 갈색/흰색\n녹색 6\n갈색/흰색 7\n갈색 8\n8 갈색\n8 갈색\nPRODUCT IMAGE\nROHS\n24AWG (American Wire Gage)\n\n\n(RoHS:\nCABL\n24AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n24AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다.\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.5E\n최대전송속도\n400Mbps\n대\n역\n폭\n100MHz\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.5E UTP 랜 케이블 300M\nLANStar\n모\n델\n명\nLS-5UTP-305MGN\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n무한\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLAN\nⓇ\ntar\n자매품\n10M\nLS-5UTPD-10MG\n0.5MLS-5UTPD-0.5MG\n1M LS-5UTPD-1MG\n15M\nLS-5UTPD-15MG\n2M\nLS-5UTPD-2MG\nCAT.5E UTP\n다이렉트, 회색,\n단선/연선,\n금도금 콘넥터,\n8P8C RJ45\n26AWG,\nSolid 타입\n(0.5M/1M 해당)\n20M LS-5UTPD-20MG\n30M LS-5UTPD-30MG\nLS-5UTPD-3MG\n3M\n5M\nLS-5UTPD-5MG\n50M\nLS-5UTPD-50MG\n7M\nLS-5UTPD-7MG\n1M\nLS-5UTPD-1MB\n15M\nLS-5UTPD-15MB\n2M\nLS-5UTPD-2MB\n20M\nLS-5UTPD-20MB\nCAT.SE UTP\n다이렉트, 파랑,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n3M\nLS-5UTPD-3MB\n30M LS-5UTPD-30MB\n5M\nLS-5UTPD-5MB\n7M\nLS-5UTPD-7MB\n10M\nLS-5UTPD-10MB\nLS-5UTPD-2MY\n20M\nLS-5UTPD-20MY\n2M\n3M\nLS-5UTPD-3MY\n30M LS-5UTPD-30MY\nCAT.SE UTP\n다이렉트, 노랑,\n연선, 50u.\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n5M\nLS-5UTPD-5MY\nM\nLS-5UTPD-7MY\n10M\nLS-5UTPD-10MY\n15M\nLS-5UTPD-15MY\n2M\nLS-5UTPD-2MR\n20M\nLS-5UTPD-20MR\nLS-5UTPD-3MR\n30M\nLS-5UTPD-30MR\nCAT.5E UTP\n다이렉트, 빨강,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n3M\n5M\nLS-5UTPD-5MR\n7M\nLS-5UTPD-7MR\n10M\nLS-5UTPD-10MR\n15M\nLS-5UTPD-15MR\n1M\nLS-5STPD-1M\n20M\nLS-5STPD-20M\n2M\nLS-5STPD-2M\n30M\nLS-5STPD-30M\nCAT.5E FTP\n다이렉트, 연선,\n회색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n3M\nLS-5STPD-3M\n50M\nLS-5STPD-50M\n5M\nLS-5STPD-5M\n26AWG\n10M\nLS-5STPD-10M\n15M\nLS-5STPD-15M\n\n\n금도금 콘넥터,\n8P8C RJ45,\n5M LS-50TPD-5MR\n7M LS-5UTPD-7MR\n10M LS-5UTPD-10MR\n15M LS-5UTPD-15MR\n26AWG\nIM\nLS-5STPD-1M\n20M\nLS-5STPD-20M\n2M\nLS-5STPD-2M\n30M\nLS-5STPD-30M\nCAT.5E FTP\n다이렉트, 연선,\n회색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n3M\nLS-5STPD-3M\n50M\nLS-5STPD-50M\n5M\nLS-5STPD-5M\n26AWG\n10M\nLS-5STPD-10M\n15M\nLS-5STPD-15M\nCAT.SE UTP\n다이렉트, 연선,\n검정, 50u\n금도금 콘넥터,\n8P8C RJ45,\nCAT.SE FTP\n크로스, 연선,\n녹색, 50u\n금도금 콘넥터,\n8P8C RJ45\n26AWG\nCAT.SE UTP\n다이렉트, 연선,\n회색, 50u\nㄱ자 90도\n꺾임형 8P8C\nRJ45,24AWG\n26AWG\nLS-5STPC-2M\nLS-5UTPAD-2M\n2M LS-5UTPD-2MBK\n3M LS-5UTPD-3MBK\n2M\n3M\n2M\n5M\nLS-5STPC-3M\nLS-5UTPAD-5M\n5M\nLS-5STPC-5M\n5M LS-5UTPD-5MBK\n10M LS-5UTPD-10MBK\n10M\nLS-5STPC-10M\nCAT.SE FTP\n옥외용 방수,\nIP67 방수등급,\n8PBC RJ45,\n26AWG, 연선,\nUL인증, 대만산,\n알루미늄 쉴드\nCAT.5E UTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n24AWG 연선,\nUL인증, 대만산,\nCCTV 웹카메라\n공사용\n1M LS-WPCCTV-RJ45\n5M LS-SPCE-WP5M\n10MLS-SPCE-WP10M\n36\nCAT.SE LAN CABLE\n100M\nCAT. SE UTP\nCUP Cable\nCAT.5E UTP\nBox, 단선,\n보급형, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽콘넥터 있음,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nLor\n페리\nLS-5UTP-100MG\nLS-5UTP-100MR\n305M 회색LS-5UTP-305MGE\n305M 빨강 LS-5UTP-305MR\n305M 파랑 LS-5UTP-305MB\n305M 노랑 LS-5UTP-305MY\n305M 초록LS-5UTP-305MGN\n100M 회색\n100M 빨강\n100M 파랑\n100M 노랑\nLS-5UTP-100MB\nLS-5UTP-100MY\nCAT.SE LAN CABLE\n100M\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽 콘넥터 없음,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nSRCESS\n20\nLakor\n305M 회색 LS-5UTP-305MG\n100M 회색 LS-5UTP-100MGE\n100M 파랑 LS-5UTP-100MBE\nCAT5E LAN CABLE\n100M\n통신공사업 현제이점\nCALAN Cable\nCAT.5E FTP\nBox, 연선,\n고급, 26AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\nCAT.5E FTP\nBox, 단선,\n24AWG\n미국전선규격,\n안정적인\n데이터 전송\nLangar\n300M 회색LS-FTP-300MSTG\n100M 회색\nLS-5FTP-100M\nさ\nUnsor\n통신공사용 맨케이블\nCAT SE LAN Cable\nCAT.5E SFTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\nRoll 케이블,\n통신용 특화,\nRO/BOA\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n통신공사용,\n높은 구리 함량\n(국)\nHigh Quality\nHigh Quality Cooper\n통신공사용 엔제이블\n300M\n300M 회색(RO) LS-5SFTP-300MG\n300M 회색(BOA) LS-5SFTP-300M\n300M 파랑(BOA) LS-5SFTP-B300M\n300M 검정 LS-UTPSH-300MBK\n300M 회색LS-UTP5H-300MG"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC",
+        "PE"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        100,
+        305
+      ],
+      "color_options": [
+        "빨강",
+        "파랑",
+        "노랑",
+        "회색",
+        "검정",
+        "녹색"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": "단선(solid)",
+      "awg": 24,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 커넥터 결합 완성품",
+    "connectivity.output_signals": "RJ45 커넥터 결합 완성품",
+    "connectivity.directional": "다이렉트 케이블 핀배열(568B-568B) 적용",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "케이블 양쪽 끝 커넥터(콘넥터) 없음",
+    "form_physical.material": "PVC/LSZH 피복, PE 절연 구조",
+    "form_physical.length_options_meters": "100M / 305M",
+    "form_physical.color_options": "빨강, 파랑, 노랑, 회색 4가지 색상",
+    "certification.rohs": "RoHS 준수 (유해물질 사용 제한)",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.cat_category": "CAT.5E UTP 규격",
+    "family.shielding": "UTP (Unshielded Twisted Pair)",
+    "family.conductor": "단선(Solid) 케이블 구조",
+    "family.awg": "24AWG 미국전선규격 적용",
+    "family.pair_count": "4PAIR TWISTED UTP",
+    "family.flame_rating": "PVC/LSZH 피복",
+    "family.poe_support": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:26",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 2,
+    "category_breakdown": {
+      "other": 1,
+      "install": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "model_no": "LS-EX304",
+  "product_name": "PCI-Express USB 3.0 4포트 확장 카드",
+  "category": [
+    "USB3.0",
+    "USB2.0"
+  ],
+  "key_features": [
+    "USB 3.0 SuperSpeed 최대 5Gbps 전송 속도 지원 (USB 2.0 대비 약 10배 빠름)",
+    "USB 3.0 포트 4개 제공",
+    "NEC D720201 칩셋 사용으로 높은 호환성 및 안정성 확보",
+    "PCI-Express x1/x2/x4/x8/x16 슬롯 지원",
+    "USB 포트별 최대 5V 900mA 전원 공급 가능",
+    "IDE 4핀 보조 전원 포트 내장",
+    "하위 버전(USB 2.0, USB 1.1) 호환 가능",
+    "20GB 대용량 데이터도 약 1분 이내 전송 가능",
+    "국립전파연구원 KC 인증 획득",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "인터페이스": "USB 3.0 (하위버전 호환)",
+    "최대 전송 속도": "5Gbps (USB 3.0), 480Mbps (USB 2.0), 12Mbps (USB 1.1)",
+    "PCI-Express 슬롯": "x1 / x2 / x4 / x8 / x16",
+    "USB 포트 수": "4포트 (USB 3.0)",
+    "칩셋": "NEC D720201",
+    "전원 공급": "USB 포트별 최대 5V 900mA, IDE 4핀 보조 전원",
+    "제품 크기": "120mm x 75mm x 64mm",
+    "제조국": "중국 (China)",
+    "KC 인증번호": "KCC-REI-LUS-LS-PCIE-EX302",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANStar"
+  },
+  "compatibility": [
+    "PCI-Express x1 슬롯 장착 데스크탑 PC",
+    "PCI-Express x2 슬롯 장착 데스크탑 PC",
+    "PCI-Express x4 슬롯 장착 데스크탑 PC",
+    "PCI-Express x8 슬롯 장착 데스크탑 PC",
+    "PCI-Express x16 슬롯 장착 데스크탑 PC",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8",
+    "Windows 10 (32bit/64bit)",
+    "USB 3.0 지원 케이블 및 장비",
+    "USB 2.0 장비 (하위버전 호환)",
+    "USB 1.1 장비 (하위버전 호환)",
+    "프린터",
+    "도킹스테이션",
+    "스캐너",
+    "USB 메모리",
+    "USB 허브",
+    "USB CCTV"
+  ],
+  "package_contents": [
+    "PCI-Express USB 3.0 카드 4포트 (LS-EX304) 본체 1개",
+    "드라이버 설치 CD 1장"
+  ],
+  "usage_instructions": "1. LS-EX304를 메인보드의 PCI-E 슬롯에 맞춰 삽입한 후 PC를 부팅합니다. 2. 컴퓨터 관리 페이지 > 장치 관리자 > 저장소 컨트롤러에서 장치 인식 여부를 확인합니다. 3. 제공된 설치 CD를 삽입하고 셋업 파일을 실행합니다. 4. InstallShield Wizard 안내에 따라 NEC Electronics USB 3.0 Host Controller Driver를 순서대로 설치합니다. 5. 설치 완료 후 USB 3.0 장치를 연결하여 사용합니다. ※ USB 3.0 속도를 활용하려면 USB 3.0을 지원하는 케이블과 장비를 사용해야 합니다.",
+  "cautions": [
+    "USB 3.0 최고 속도(5Gbps)를 사용하려면 USB 3.0을 지원하는 케이블과 장비를 함께 사용해야 합니다.",
+    "본 제품은 데스크탑 PC 전용이며 PCI-Express 슬롯이 있는 메인보드에만 설치 가능합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-EX304",
+      "품목코드": "USB-PCI225",
+      "품목명": "[LANstar] PCI-Express USB 3.0카드 4포트[20143] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 포트 4개 제공",
+    "connectivity.port_count": "USB 3.0 포트 4개 제공",
+    "power.power_mode": "IDE 4핀 보조 전원 포트 내장",
+    "power.charging_support": "USB 포트별 최대 5V 900mA 전원 공급 가능",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "family.usb_version": "USB 3.0 SuperSpeed",
+    "family.transfer_speed_gbps": "최대 5Gbps 전송 속도 지원",
+    "family.charging_only": "USB 3.0 SuperSpeed 최대 5Gbps 전송 속도 지원",
+    "family.data_only": "USB 3.0 SuperSpeed 최대 5Gbps 전송 속도 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:00",
+  "feature_schema_version": "1.0.0"
+}

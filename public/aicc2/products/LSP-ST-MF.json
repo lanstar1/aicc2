@@ -1,0 +1,197 @@
+{
+  "model_no": "LSP-ST-MF",
+  "product_name": "LANstar 3.5 스테레오 연장케이블 (3.5ST/M-3.5ST/F)",
+  "category": [
+    "익스텐더",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "3.5mm 3극 스테레오 오디오 연장 케이블",
+    "한쪽 Male(수), 반대쪽 Female(암) 구성으로 기존 케이블 연장 가능",
+    "0.5M / 1M / 1.5M / 2M / 3M / 5M / 10M 총 7가지 길이 선택 가능",
+    "RoHS(유해물질 사용 제한) 준수 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "3.5mm 스테레오 단자(Male)를 3.5mm 스테레오 단자(Female)로 연장하는 케이블",
+    "0.5M / 1M / 1.5M / 2M / 3M / 5M / 10M 다양한 길이 라인업 제공",
+    "RoHS(특정 위험물질 사용제한 지침) 준수 제품 - 납, 수은, 카드뮴 등 중금속 사용 금지",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품",
+    "제조사: 라인업시스템(주)"
+  ],
+  "specifications": {
+    "커넥터 타입": "3.5mm 스테레오 3극 Male - 3.5mm 스테레오 3극 Female",
+    "채널": "스테레오 (CH 표기)",
+    "길이 옵션": "0.5M, 1M, 1.5M, 2M, 3M, 5M, 10M",
+    "모델명 (0.5M)": "LSP-ST-MF-0.5MN",
+    "모델명 (1M)": "LSP-ST-MF-1MN",
+    "모델명 (1.5M)": "LSP-ST-MF-1.5MN",
+    "모델명 (2M)": "LSP-ST-MF-2MN",
+    "모델명 (3M)": "LSP-ST-MF-3MN",
+    "모델명 (5M)": "LSP-ST-MF-5MN",
+    "모델명 (10M)": "LSP-ST-MF-10MN",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주), 한국아이티판매협동조합",
+    "RoHS 준수": "RoHS Compliant",
+    "커넥터 구성": "3.5ST Male - 3.5ST Female",
+    "오디오 타입": "스테레오 (Stereo)",
+    "커넥터 규격": "3.5mm",
+    "제공 길이": "0.5M, 1M, 1.5M, 2M, 3M, 5M, 10M",
+    "모델명 전체": "LSP-ST-MF-0.5MN, LSP-ST-MF-1MN, LSP-ST-MF-1.5MN, LSP-ST-MF-2MN, LSP-ST-MF-3MN, LSP-ST-MF-5MN, LSP-ST-MF-10MN",
+    "AS 소비자상담": "라인업시스템(주), 한국아이티판매협동조합",
+    "RoHS 적합성": "RoHS Compliant",
+    "보험": "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "3.5mm 스테레오(3극) 오디오 출력 기기",
+    "3.5mm 스테레오(3극) 오디오 입력 기기",
+    "스테레오 입력·출력 기기 간 연장 연결이 필요한 모든 기기",
+    "3.5mm 스테레오 단자를 사용하는 기기 전반",
+    "3.5mm Stereo Male 커넥터 장치"
+  ],
+  "package_contents": [
+    "3.5 스테레오 연장케이블 본체 1개",
+    "3.5 스테레오 연장케이블 (3.5ST Male - 3.5ST Female) 1개"
+  ],
+  "usage_instructions": "3.5mm 스테레오(3극) 오디오 기기 간 연결을 연장할 때 사용합니다. Male 단자를 출력 기기(또는 기존 케이블의 Male 단자)에 연결하고, Female 단자에 입력 기기(또는 기존 케이블의 Male 단자)를 연결하여 사용합니다. 거리에 맞는 길이(0.5M~10M)를 선택하여 사용하십시오.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "구매·배송·반품 문의는 판매처(쇼핑몰 하단 참조)로 문의하십시오."
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-ST-MF-0.5MN",
+      "품목코드": "PCA-STF001",
+      "품목명": "[◆Lanstar-Plus] 스테레오연장케이블 , 3.5ST M/F, 0.5M , 일반 type [70046](400개)",
+      "variant_suffix": "-0.5MN",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-ST-MF-1MN",
+      "품목코드": "PCA-STF002",
+      "품목명": "[◆Lanstar-Plus] 스테레오연장케이블 , 3.5ST M/F, 1M , 일반 type [70047](300개)",
+      "variant_suffix": "-1MN",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-ST-MF-1.5MN",
+      "품목코드": "PCA-STF003",
+      "품목명": "[◆Lanstar-Plus] 스테레오연장케이블 , 3.5ST M/F, 1.5M , 일반 type [70048](250개)",
+      "variant_suffix": "-1.5MN",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-ST-MF-2MN",
+      "품목코드": "PCA-STF004",
+      "품목명": "[◆Lanstar-Plus] 스테레오연장케이블 , 3.5ST M/F, 2M , 일반 type [70049](220개)",
+      "variant_suffix": "-2MN",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-ST-MF-3MN",
+      "품목코드": "PCA-STF005",
+      "품목명": "[◆Lanstar-Plus] 스테레오연장케이블 , 3.5ST M/F,3M , 일반 type [70050](180개)",
+      "variant_suffix": "-3MN",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-ST-MF-5MN",
+      "품목코드": "PCA-STF006",
+      "품목명": "[◆Lanstar-Plus] 스테레오연장케이블 , 3.5ST M/F, 5M , 일반 type [70051](150개)",
+      "variant_suffix": "-5MN",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-ST-MF-10MN",
+      "품목코드": "PCA-STF007",
+      "품목명": "[◆Lanstar-Plus] 스테레오연장케이블 , 3.5ST M/F, 10M , 일반 type [70070]",
+      "variant_suffix": "-10MN",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-ST-MF-2MN",
+      "내용": "빠른 배송, 꼼꼼한 포장 좋네요"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LSP-ST-MF-10M": "Ⓡ\nLANstar\n3.5 AE||E|| Hx3|0|=\n3.5ST/M-3.5ST/F\n0.5M 1M 1.5M 2M 3M 5M 10M\n3.5mm Stereo 3||0|=\n&#0| 3.5mm2| 34|E| QE|9 |0|=E XE||||2\n#9 5E 7|7|719| 919 04FEFEE #I950H 0.5~5M\n까지 다양한 길이가 있으니 거리에 맞게 사용하시면 됩니다.\nام\n3.5ST Male-3.5ST Female\n3.5ST(Male)\n3.5ST(Female)\n\n\nROHS\nRestriction of Hazardous Substances\nRoHS(Restriction of Hazardous Substances)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기전자제품의 생산공정에 납, 수은, 카드뮴 등 중금속\n사용을 금지합니다.\nROHS\nCompliant\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nLANStarlust\n•\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n• 라인업시스템(주)에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\n3.5 스테레오 연장케이블\nLANstar\nLSP-ST-MF-0.5MN/LSP-ST-MF-1MN\nplus\nLSP-ST-MF-1.5MN/LSP-ST-MF-2MN\n모\n델\n명\nLSP-ST-MF-3MN/LSP-ST-MF-5MN\nLSP-ST-MF-10MN\n인증번\n호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주), 한국아이티판매협동조합\nAS 소비자상담\n라인업시스템(주), 한국아이티판매협동조합\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질 보증 기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "3.5mm"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1,
+        1.5,
+        2,
+        3,
+        5,
+        10
+      ],
+      "color_options": []
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": false,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "max_distance_m": 10,
+      "carrier_media": [
+        "N/A"
+      ],
+      "poc_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5mm 스테레오 3극 Male",
+    "connectivity.output_signals": "3.5mm 스테레오 3극 Female",
+    "connectivity.directional": "연장 케이블",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.length_options_meters": "0.5M / 1M / 1.5M / 2M / 3M / 5M / 10M",
+    "certification.rohs": "RoHS(유해물질 사용 제한) 준수 제품",
+    "audio_video.audio_pass": "3.5mm 3극 스테레오 오디오 연장 케이블",
+    "family.max_distance_m": "10M",
+    "family.carrier_media": "3.5mm 스테레오 연장케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:51",
+  "feature_schema_version": "1.0.0"
+}

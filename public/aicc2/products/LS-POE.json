@@ -1,0 +1,120 @@
+{
+  "model_no": "LS-POE",
+  "product_name": "LAN Star POE 전원 테스터기 (케이블 일체형)",
+  "category": [
+    "커넥터",
+    "네트워크공구"
+  ],
+  "key_features": [
+    "케이블 일체형 구조로 별도 케이블 없이 즉시 사용 가능",
+    "Typ A(12V~36V) 및 Typ B(45V~78V) 두 가지 POE 전압 범위 지원",
+    "원거리 POE 장비의 전원 공급 상태 사전 점검 가능",
+    "점등/점멸 표시로 전압값 직관적 확인 가능",
+    "RJ45 Male-RJ45 Female 커넥터 타입",
+    "RoHS 인증 준수 (EU 특정위험물질 사용제한 지침)",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 타입": "RJ45 Male - RJ45 Female",
+    "작동 전압 Typ A": "12V ~ 36V",
+    "작동 전압 Typ B": "45V ~ 78V",
+    "작동 전류": "10mA 이하",
+    "절연 전압": "1500V AC 이상",
+    "크기": "50 x 25 x 20mm (H x W x D)",
+    "케이블 길이": "80mm",
+    "RoHS": "COMPLIANT",
+    "품질 인증": "ISO 9001:2008",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "POE 지원 네트워크 장비 (RJ45 포트)",
+    "Typ A POE 규격 장비 (12V~36V)",
+    "Typ B POE 규격 장비 (45V~78V)"
+  ],
+  "package_contents": [
+    "POE 전원 테스터기 (케이블 일체형) 본체 1개"
+  ],
+  "usage_instructions": "1단계: POE 장비에 랜선 및 전원을 연결한다. 2단계: POE 장비가 정상 작동하는지 확인한 후 POE 테스터기를 각 포트에 연결하여 Typ A 또는 Typ B에서 전원값을 확인한다. 3단계: POE 장비와 원거리로 연결된 케이블 끝단에 테스터기를 연결하여 전원값을 확인하고, 앞서 확인한 값과 일치하면 테스트 완료. 4단계: Typ A(12~36V) 또는 Typ B(45~78V) 표시등(점등/점멸)으로 측정값을 확인한다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됨",
+    "AS 및 소비자 상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-POE",
+      "품목코드": "NEO-테스터070",
+      "품목명": "[LANstar] POE 전원 테스터기, 케이블 일체형, LS-POE , (20개)[40518]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "PoE"
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": 0.08,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "RJ45 Male",
+      "connector_type_b": "RJ45 Female",
+      "gender": "M-F",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 Male-RJ45 Female 커넥터 타입",
+    "connectivity.output_signals": "RJ45 Male-RJ45 Female 커넥터 타입",
+    "connectivity.directional": "RJ45 Male-RJ45 Female 커넥터 타입",
+    "power.power_mode": "POE 전원 테스터기",
+    "form_physical.has_case": "케이블 일체형 구조로 별도 케이블 없이",
+    "form_physical.length_meters": "케이블 길이: 80mm",
+    "certification.rohs": "RoHS 인증 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "family.connector_type_a": "RJ45 Male - RJ45 Female",
+    "family.connector_type_b": "RJ45 Male - RJ45 Female",
+    "family.gender": "RJ45 Male - RJ45 Female"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:26",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,147 @@
+{
+  "model_no": "LS-HD204",
+  "product_name": "LANStar HDMI 2.0 1:4 분배기 (HDMI Splitter 1in 4out)",
+  "category": [
+    "HDMI분배기"
+  ],
+  "key_features": [
+    "하나의 4K UHD HDMI 소스를 최대 4개의 디스플레이에 동시 출력",
+    "HDMI 2.0 지원 – 18Gbps 대역폭, 4K@60Hz 전송",
+    "HDR(High Dynamic Range) 지원",
+    "HDCP 2.2 지원으로 블루레이 영상 완벽 재생",
+    "32채널 멀티채널 오디오 및 1536kHz 오디오 지원",
+    "DTS-HD, Dolby TrueHD, Dolby Atmos, DTS:X, LPCM 7.1 등 고음질 오디오 포맷 지원",
+    "3D 및 Full HD 1080p 지원",
+    "데이지 체인(Daisy Chain) 방식 지원으로 다양한 연결 확장 가능",
+    "HDMI Signal Retiming with Cascading 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "해상도": "4K*2K (4096x2160) 지원 – 2160i/p, 1080i/p, 720i/p, 576i/p, 480i/p",
+    "입출력 포트": "HDMI 입력 1포트, HDMI 출력 4포트",
+    "HDMI 버전": "HDMI 2.0",
+    "전송 대역폭": "18Gbps",
+    "최대 프레임레이트": "4K@60Hz",
+    "오디오 채널": "32채널",
+    "오디오 주파수": "1536kHz",
+    "오디오 포맷": "DTS-HD, Dolby TrueHD, Dolby Atmos, DTS:X, LPCM 7.1, AC3, DTS, DSD",
+    "HDCP": "V2.2",
+    "HDR": "지원",
+    "3D": "지원",
+    "크기(W x H x L)": "83 x 48 x 24.5mm",
+    "전원": "DC 5V / 2A (외경 3.5mm, 내경 1.8mm)",
+    "인증": "KC (MSIP-REI-LUS-LS-HD202), FCC, CE, RoHS",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "LCD 모니터",
+    "디지털 TV",
+    "블루레이 플레이어",
+    "게임기",
+    "프로젝터",
+    "HDMI 단자를 가진 디지털 기기 일반",
+    "DVI 단자 기기 (DVI-HDMI 케이블 또는 DVI 젠더 별도 구매 필요, 음성 미지원)"
+  ],
+  "package_contents": [
+    "HDMI 2.0 1:4 분배기 본체 (LS-HD204)",
+    "전원 어댑터 DC 5V/2A (외경 3.5mm, 내경 1.8mm)",
+    "한글 매뉴얼"
+  ],
+  "usage_instructions": "HDMI 소스 기기를 INPUT 포트에 연결하고, 최대 4대의 디스플레이 장치를 OUTPUT 1~4 포트에 각각 연결한 후 DC 5V 전원 어댑터를 연결하여 사용. DVI 단자 기기 연결 시 DVI-HDMI 케이블 또는 DVI 젠더(별도 구매) 사용, 이 경우 음성은 별도 스테레오 케이블(M/M) 연결 필요. 데이지 체인 방식으로 추가 확장 가능(케이블 길이 및 성능에 따라 연장 가능 여부 상이).",
+  "cautions": [
+    "본 기기는 셋톱박스, 인터넷 TV와 연결 시 작동하지 않음.",
+    "셋톱박스·인터넷 TV 연결 시 일시적으로 작동할 수 있으나, 방송 송출사에서 신호 차단 시 다시 작동하지 않음.",
+    "DVI 단자 기기 연결 시 음성이 지원되지 않으므로 별도의 스테레오 케이블(M/M)로 기기와 연결 필요.",
+    "DVI 연결 시 DVI-HDMI 케이블 또는 DVI 젠더는 별도 구매 필요.",
+    "데이지 체인 연장 시 케이블 길이와 성능에 따라 연장 가능 여부가 달라짐.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음.",
+    "본 제품 관련 상품 및 콘텐츠 무단 복제·이용 시 불이익이 발생할 수 있음.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HD204",
+      "품목코드": "INT-HDS055",
+      "품목명": "[LANstar] LS-HD204 HDMI 2.0 1:4 분배기 3D, 2K/4K/60MHz지원[30131](20개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 5
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": true,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "input_count": 1,
+      "output_count": 4,
+      "mode": [
+        "분배"
+      ],
+      "cascade_support": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 입력 1포트",
+    "connectivity.output_signals": "HDMI 출력 4포트",
+    "connectivity.directional": "1:4 분배기",
+    "connectivity.port_count": "HDMI 입력 1포트, HDMI 출력 4포트",
+    "power.power_mode": "DC 5V / 2A",
+    "form_physical.has_case": "83 x 48 x 24.5mm",
+    "certification.kc": "KC (MSIP-REI-LUS-LS-HD202)",
+    "certification.rohs": "RoHS",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "4K@60Hz",
+    "audio_video.hdr_support": "HDR(High Dynamic Range) 지원",
+    "audio_video.hdcp_version": "HDCP 2.2 지원",
+    "audio_video.audio_pass": "32채널 멀티채널 오디오",
+    "family.input_count": "HDMI 입력 1포트",
+    "family.output_count": "HDMI 출력 4포트",
+    "family.mode": "1:4 분배기",
+    "family.cascade_support": "데이지 체인(Daisy Chain) 방식 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:50",
+  "feature_schema_version": "1.0.0"
+}

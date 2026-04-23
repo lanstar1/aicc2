@@ -1,0 +1,122 @@
+{
+  "model_no": "LS-USB-P1000",
+  "product_name": "갤럭시탭 충전 & 데이터 케이블 (삼성 30핀 ↔ USB A형)",
+  "category": [
+    "USB케이블",
+    "커넥터",
+    "전원아답터"
+  ],
+  "key_features": [
+    "삼성 갤럭시탭 전용 30핀 커넥터 탑재",
+    "데이터 전송 및 충전 동시 지원",
+    "PC/노트북 USB 포트 연결을 통한 데이터 전송 및 충전 가능",
+    "USB 전원 아답터 연결을 통한 충전 가능",
+    "케이스·범퍼·쉴드 착용 상태에서도 완벽 사용 가능",
+    "RoHS 인증 친환경 제품",
+    "생산물배상책임보험 가입 제품"
+  ],
+  "specifications": {
+    "모델명": "LSM-USB-P1000",
+    "길이": "0.15m, 1m",
+    "커넥터 A": "삼성 30핀 (Male)",
+    "커넥터 B": "USB A형 (Male)",
+    "USB 규격": "USB 2.0",
+    "갤럭시탭 입력 전압/전류": "5V 2A",
+    "PC USB 포트 출력": "500mA (PC 사양에 따라 이하)",
+    "인증": "RoHS 인증"
+  },
+  "compatibility": [
+    "삼성 갤럭시탭 (30핀 커넥터 탑재 모델 전용)",
+    "USB A형 포트를 갖춘 컴퓨터/노트북",
+    "USB A형 포트를 갖춘 USB 전원 아답터",
+    "삼성 정품 아답터 (5V 2A)",
+    "5V 2A 규격 아답터"
+  ],
+  "package_contents": [
+    "갤럭시탭 충전 & 데이터 케이블 1개"
+  ],
+  "usage_instructions": "① 케이블의 삼성 30핀 단자를 갤럭시탭에 연결한다. ② 반대편 USB A형 단자를 컴퓨터/노트북 USB 포트에 연결하면 데이터 전송 또는 충전이 가능하다. ③ USB 전원 아답터에 연결하면 충전 전용으로 사용할 수 있다. 최적 충전을 위해 삼성 정품 아답터 또는 5V 2A 아답터 사용을 권장한다.",
+  "cautions": [
+    "갤럭시탭 전용 케이블로, 다른 제품에는 사용을 금지합니다.",
+    "아이폰 및 기타 장비와는 호환되지 않으므로 갤럭시탭 외의 장치에서는 사용을 금지합니다.",
+    "PC/노트북 USB 포트 출력은 500mA(PC 사양에 따라 이하)이므로 충전 표시가 X로 표시될 수 있으나, 실제로는 충전이 느리게 진행됩니다.",
+    "최적의 충전 환경을 위해 삼성 정품 아답터 또는 5V 2A 아답터 사용을 권장합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB-P1000-015M",
+      "품목코드": "CAB-모US001",
+      "품목명": "USB갤럭시케이블, A/M-P1000 30P/M, 0.15M[10650]",
+      "variant_suffix": "-015M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "내장케이블"
+      ],
+      "output_signals": [
+        "USB-A",
+        "내장케이블"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_options_meters": [
+        0.15,
+        1
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A형 (Male)",
+    "connectivity.output_signals": "삼성 30핀 (Male)",
+    "connectivity.directional": "데이터 전송 및 충전 동시 지원",
+    "power.power_mode": "PC/노트북 USB 포트 연결을 통한",
+    "power.charging_support": "데이터 전송 및 충전 동시 지원",
+    "form_physical.length_options_meters": "길이: 0.15m, 1m",
+    "certification.rohs": "RoHS 인증 친환경 제품",
+    "family.usb_version": "USB 2.0",
+    "family.transfer_speed_gbps": "USB 2.0",
+    "family.charging_only": "데이터 전송 및 충전 동시 지원",
+    "family.data_only": "데이터 전송 및 충전 동시 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:32",
+  "feature_schema_version": "1.0.0"
+}

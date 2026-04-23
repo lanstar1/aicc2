@@ -1,0 +1,124 @@
+{
+  "model_no": "LS-MPATCH",
+  "product_name": "LAN Star 스마트폰 무선충전 패드 (Micro 5Pin)",
+  "category": [
+    "커넥터",
+    "무선충전"
+  ],
+  "key_features": [
+    "케이블 없이 무선으로 스마트폰 충전 가능",
+    "손 안에 들어오는 가볍고 컴팩트한 사이즈 (70mm x 45mm)",
+    "휴대 시 기기에 연결된 패드를 케이스에 함께 넣어 간편하게 보관 가능",
+    "충전 케이블 및 플러그 불필요, 스마트폰에 직접 연결하여 사용",
+    "Qi 표준 규격 무선충전기와 호환 (TB884 또는 WPC 표준 규격 지원 제품 권장)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 인증 / ISO 9001:2008 품질경영시스템 적용"
+  ],
+  "specifications": {
+    "모델명": "LS-MPATCH-MICB",
+    "커넥터 타입": "Micro 5Pin",
+    "Input": "5V (self-adaptation)",
+    "Output": "1000mA",
+    "수신 전압 (Receiving voltage)": "DC5V / 1A",
+    "충전 전압 (Charging voltage)": "DC5V / 800mA",
+    "크기 (Size)": "70mm x 45mm (또는 70mm x 46mm)",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증": "RoHS, CE, FC",
+    "적용 표준": "Qi standard transmitter"
+  },
+  "compatibility": [
+    "Micro 5Pin 단자를 사용하는 스마트폰 (Universal)",
+    "Qi 표준 무선충전기",
+    "TB884 표준 규격 지원 무선충전기",
+    "WPC 표준 규격 지원 무선충전기",
+    "별도 판매 무선충전기: LS-HCS-9 (POH-LS-HCS-9V)"
+  ],
+  "package_contents": [
+    "스마트폰 무선충전 패드 본체 (Micro 5Pin, 70mm x 45mm) 1개"
+  ],
+  "usage_instructions": "Micro 5Pin 젠더를 스마트폰에 연결한 후 무선충전 패드를 Qi 호환 무선충전기 위에 올려놓으면 충전이 시작됩니다. 휴대 시에는 기기에 연결된 패드를 케이스에 함께 넣어 보관하세요. 마이크로 5핀 젠더는 사다리꼴 정방향/역방향이 있으므로 삽입하는 기기의 젠더 방향을 반드시 확인 후 사용하세요. 무선충전기(LS-HCS-9)는 별도 구매 필요.",
+  "cautions": [
+    "마이크로 5핀 젠더의 경우 사다리꼴 정방향/역방향이 있으므로 삽입 방향을 반드시 확인하세요.",
+    "무선충전기는 본 제품에 포함되지 않으며 별도 구매가 필요합니다 (권장 모델: LS-HCS-9).",
+    "TB884 또는 WPC 표준 규격 지원 무선충전기 사용을 권장합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MPATCH-MICB",
+      "품목코드": "CAB-APP616",
+      "품목명": "[LANstar] Micro B 삼성/엘지 무선 충전 패치 [60087]",
+      "variant_suffix": "-MICB",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "무선"
+      ],
+      "output_signals": [
+        "Micro-USB"
+      ],
+      "directional": "N/A"
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": true
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [],
+      "color_options": []
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "Micro 5Pin",
+      "connector_type_b": "무선",
+      "gender": "M-F",
+      "pin_count": 5
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "케이블 없이 무선으로 스마트폰 충전",
+    "connectivity.output_signals": "Micro 5Pin 젠더를 스마트폰에 연결",
+    "power.charging_support": "무선으로 스마트폰 충전 가능",
+    "certification.rohs": "RoHS 인증",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "certification.fcc": "인증: RoHS, CE, FC",
+    "certification.ce": "인증: RoHS, CE, FC",
+    "family.connector_type_a": "커넥터 타입: Micro 5Pin",
+    "family.connector_type_b": "무선으로 스마트폰 충전",
+    "family.gender": "Micro 5Pin 젠더를 스마트폰에 연결",
+    "family.pin_count": "Micro 5Pin"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:42",
+  "feature_schema_version": "1.0.0"
+}

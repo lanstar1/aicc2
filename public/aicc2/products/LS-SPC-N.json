@@ -1,0 +1,525 @@
+{
+  "model_no": "LS-SPC-N",
+  "product_name": "LANStar 데스크탑 파워 스위치 컨트롤러 (Desktop Computer Power Switch Controller)",
+  "category": [
+    "USB2.0",
+    "LED램프"
+  ],
+  "key_features": [
+    "외부 전원 스위치의 파란 LED를 통해 PC 전원 상태를 한눈에 확인 가능",
+    "USB 2.0 포트 2개 제공 (마우스, 키보드, USB 선풍기, USB 램프, USB 메모리 등 연결 가능)",
+    "오디오(Audio) 및 마이크(MIC) 단자 지원",
+    "원터치 전원 버튼으로 본체 전원버튼 없이 PC 전원 켜기/끄기 가능",
+    "리셋 스위치 지원",
+    "3M 스티커를 이용해 원하는 위치에 외부 전원 스위치 고정 가능",
+    "브라켓 연결 방식: 메인보드 연결부와 PC 연결부가 분리된 구조, 19핀 커넥터로 PC와 연결",
+    "내부 케이블은 메인보드 연결 후 PC 브라켓에 고정 가능",
+    "가정, PC방, 사무실, 숙박업소 등 다양한 환경에서 사용 가능",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-SPW)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "본체 구성": "전원 스위치, 리셋 버튼, 브라켓 연결 케이블, USB 케이블, USB 2.0 2포트, Audio 1포트, MIC 포트",
+    "메인보드 연결 단자": "USB, POWER SW, RESET SW, POWER LED+, POWER LED-",
+    "브라켓 연결 케이블 길이": "약 115cm",
+    "USB 케이블 길이": "약 115cm",
+    "메인보드 내부 연결 케이블 길이": "약 30cm",
+    "크기": "75 x 75 x 24 (mm)",
+    "무게": "약 136g",
+    "KC 인증 번호": "R-R-LUS-LS-SPW",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "메인보드 USB 헤더 단자 (F_USB1 / F_USB2)",
+    "메인보드 POWER SW 단자",
+    "메인보드 RESET SW 단자",
+    "메인보드 POWER LED+ 단자",
+    "메인보드 POWER LED- 단자",
+    "PC 뒷면 LP 브라켓 슬롯",
+    "19핀 커넥터 방식 (HDMI 단자 아님, HDMI 포트/케이블 사용 불가)"
+  ],
+  "package_contents": [
+    "데스크탑 파워 스위치 본체 (전원 버튼, 리셋 버튼, USB 2.0 2포트, Audio 포트, MIC 포트 포함)",
+    "브라켓 연결 케이블 (19핀 커넥터)",
+    "USB 케이블",
+    "메인보드 내부 연결 케이블",
+    "PC 브라켓"
+  ],
+  "usage_instructions": "1. 메인보드의 USB(F_USB1/F_USB2), POWER SW, RESET SW, POWER LED+, POWER LED- 단자에 내부 케이블을 각각 연결한다. 2. 메인보드에 연결된 브라켓을 PC 뒷면 LP 브라켓 슬롯에 고정한다. 3. 브라켓의 19핀 커넥터를 이용하여 외부 스위치 본체와 연결한다(HDMI 단자가 아님에 주의). 4. USB 케이블을 데스크탑 본체 USB 포트에 연결해야 Audio/MIC 단자가 정상 작동한다. 5. 외부 스위치를 원하는 위치에 3M 스티커로 고정한다. 6. 전원 버튼을 눌러 원터치로 PC 전원을 켜고 끈다. LED가 파란색으로 점등되면 전원 ON 상태이다.",
+  "cautions": [
+    "브라켓 연결 커넥터는 19핀 방식으로 HDMI 단자가 아님. HDMI 포트 및 HDMI 연장 케이블 사용 불가",
+    "Audio 및 MIC 단자를 정상 사용하려면 반드시 USB 케이블을 데스크탑에 연결해야 함",
+    "메인보드에 표기된 단자의 위치와 이름을 확인한 뒤 결합할 것",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 (www.LANstar.co.kr)",
+    "품질 보증: 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SPC-N",
+      "품목코드": "CAB-잡자재529",
+      "품목명": "[LANstar] 데스크탑 PC 외부전원 스위치 [30691] (46개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "빠르게 잘받았습니다. 설치도 쉬었고요. 옥에 티는 브라켓 있었네요. 저의 PC 케이스는 작은 브라켓이거든요. 도착했으니 사용하고저 브라켓을 잘라서 구부려  사용했습니다만 저와같은 환경의 구매자들을 위하여 배려 부탁드립니다. 잘쓰겠습니다."
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "제품 디자인 마감 등 생각보다 마음에 듭니다. 설치도 어렵지않고요. 이제 PC 전원 켤때 허리 안구부려도 되서 편하네요. 오디오 단자(스피커, 마이크) 에 USB포트 2개까지 만족 스럽습니다. 굿"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "설치매뉴얼이 없어 아쉽긴하지만 아주 만족합니다"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "너무 좋아요 만족ㅈ합니다",
+      "관련내용": "ㅎㅎ 처음에는 핀 어케 꼽지 했는데 잘 연결하니 너무 만족스럽습니다"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "ㅎㅎ 처음에는 핀 어케 꼽지 했는데 잘 연결하니 너무 만족스럽습니다"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "설치하는데 애먹었지만 모든 기능이 정상작동합니다. 좋아요!"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "불량없이 잘쓰고있어요"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "처음 사용하고 전원을 편히켜는게 좋았는데 지금은 USB 를 바로 꽂아 사용하니 너무 편합니다. 고장나지 않기를 바라지만  고장나도 재구매 의사있습니다.",
+      "관련내용": "주문하고 배송이 하루만에 와서 바로 설치 했습니다. \n간만에 pc를 열어 겸사겸사 청소하고 메인보드에 잭을 연결하는 작업이 얼마 걸리지 않네요. 간단합니다.\n 허리 숙여 전원을 키지 않아 너무 만족 합니다. \n많이 파세요."
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "모니터 받침 아래에 부착해서 사용합니다 깔끔하고 좋내요"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "주문하고 배송이 하루만에 와서 바로 설치 했습니다. \n간만에 pc를 열어 겸사겸사 청소하고 메인보드에 잭을 연결하는 작업이 얼마 걸리지 않네요. 간단합니다.\n 허리 숙여 전원을 키지 않아 너무 만족 합니다. \n많이 파세요."
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "아주 편하고 좋내요"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "아주 좋습니다. 최고 만족해요~",
+      "관련내용": "너무 좋습니다. 재구매 예정입니다."
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "너무 좋습니다. 재구매 예정입니다."
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "집 구조를 바꾸면서 컴퓨터를 책상 밑 구석으로 넣게 되면서 컴퓨터 켜는게 너무 불편해\n\n피씨방처럼 책상위에서 컴퓨터를 켤수 있는 도구가 없을까 찾아보다가 랜스타 제품을 찾게 되었고 바로 구매하게 되었습니다\n\n먼저 설치는 매우 쉽습니다\n여자인 저도 설치방법 찾아보고 손쉽게 연결 했습니다\n\n또한 사진과 같이 제품에 usb 꼽는 곳이 있어서 usb도 추가로 이용할 수 있어서 좋습니다\n\n이 제품을 구매하고 나서부터 너무 편해서 컴퓨터를 자꾸 이유도 없이 켜고 있는게 문제 입니다ㅋㅋㅋ\n다들 비싸지 않으니 구매하셔서 편하게 컴퓨터 사용하세요",
+      "관련내용": "설치도 쉽고 사용도 편리하고 좋네요"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "본체 전원버튼이 보통 상단에 있는데 불편하게 누르지 않아도 되고 책상에서 누르니까 편하네요 짱입니다."
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "배송 빠르고 허리 안 굽혀서 좋습니다"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "조금만 행각해보면 아주 편리하게 컴퓨터를 켜고 끌수 있어 좋습니다!"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "허리 안숙여도 되고 편리해요"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "설치도 쉽고 사용도 편리하고 좋네요"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "나사 하나 같이 넣어주면 좋았을거 같아요"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "배송도 당일에 해주시고 상품도 아주 만족스럽습니다. 전원 킬때랑 이어폰, usb 사용하기 너무너무 편해요.\nY 잭으로 이어폰 연결하니 마이크도 잘 되고요.\n간단하게 삶의 질 상승!!!!"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "전원스위치 고장나서 컴퓨터를 바꾸려고했는데 이 제품 알게되서 구매했습니다.\n허리 숙이지 않고 켜고 끌수있어서 너무 편하고 좋네요"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "파워 스위치 작동이 원활하게 되었어요"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "괜찮네요 추천합니다"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "포장도 잘 돼있고 작동도 잘 됩니다! 설치 방법이 같이 없는 게 아쉽긴 한데 유튜브 보고 간단히 설치 완료했어요!"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "PC전원버튼 이상으로 외장형 알아보다 구매했습니다.\n버튼 위치를 손위치로 옮길수 있으니 편하네요."
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "잘 동작 하고 너무 편안합니다\n설명서가 없는건 좀 아쉬웠지만\n인터넷으로 조립하는 방법 찾아서 쉽게 했습니다"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "매번 책상밑으로 머리를 숙여서 전원버튼을 찾던 불편함을 이 제품으로 한번에 해결했습니다. 이젠 책상위에서 전원버튼을 누르게 됩니다."
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "배송이 꼼꼼하고 빨라요"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "배송 빠르게.잘받았습니다"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "마이크로자로 크기확인 판매칫수와달라 10인치와 12인치 5인치 등구매.10인치 스피커.5인치 잘 구동 됩니다\n12인치 는 잘 보관해야 하나 반품요청해야 하나 암튼 10인치 스피커구동에 만족 감사합니디"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "생각보다 설치는 직관적입니다.  사용해보니 좋아서 추가 구입합니다."
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "배송빠르고 좋아요~"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "이제 컴퓨터 켤때마다\n책상 밑으로 안들어 가도 될듯요 ㅎ\n엄청 잘됩니다.... 감사드립니다...^^"
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "내용": "배송도 빠르고 잘되네요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-SPC-N",
+      "id": 512347621,
+      "date": "2023-01-16 21:27",
+      "answerDate": "2023-01-17 09:20",
+      "user": "yhca****",
+      "productName": "랜스타 LS-SPC-N 데스크탑PC 외부전원 스위치 컨트롤러",
+      "question": "안녕하세요 \n딱 찾던 상품입니다만\n내부 보드에 연결하면\n기존 케이스 전원은 사용 불가인가요?\n전원연결선이 숫연결만 보이기에\n여쭈어봅니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n외부 스위치 컨트롤러 사용 시, 기존 케이스의 스위치 전원은 연결이 되어있지 않은 상태가 되므로, 사용이 불가능한 점 참고 부탁 드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "id": 527839041,
+      "date": "2023-05-03 14:45",
+      "answerDate": "2023-05-03 15:25",
+      "user": "stw6***",
+      "productName": "랜스타 LS-SPC-N 데스크탑PC 외부전원 스위치 컨트롤러",
+      "question": "ls-spc-n 문의 드립니다\n\n메인보드에 오디오 단자에 연결 해야 하는 오디오 단자에 연결할 수 있는 선이 \n안 보입니다....\n\n전원 스위치에 있는 오디오 단자(이어폰, 마이크)를 사용하지 못하나요....",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n해당 제품에 연결되어 있는 USB 포트를 반드시 연결해 주셔야 오디오 단자를 정상적으로 사용이 가능한 점 안내드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n\n빠르고 성실한 답변으로 고객님의 문제를 해결해 드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "id": 554492447,
+      "date": "2023-11-13 01:26",
+      "answerDate": "2023-11-13 12:59",
+      "user": "mish*****",
+      "productName": "랜스타 LS-SPC-N 데스크탑PC 외부전원 스위치 컨트롤러",
+      "question": "노트북용은 없나요 ㅠㅠ",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품은 메인보드의 외부입력 버튼기능에 연결하는 제품이기 때문에 노트북 사용은 어려우며, 노트북용 제품 또한 판매하고 있지 않습니다. 도움을 드리지 못해 죄송합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "id": 626054906,
+      "date": "2025-04-25 11:09",
+      "answerDate": "2025-04-25 11:41",
+      "user": "asa1***",
+      "productName": "랜스타 LS-SPC-N 데스크탑PC 외부전원 스위치 컨트롤러",
+      "question": "1. 버튼 LED는 전원을 끄거나 키거나 동일하게 계속 있는건가요 ?\n\n2. 버튼 LED에서 빛을 영구적으로 끌수는 없나요 ?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인 후 톡톡 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "id": 626523924,
+      "date": "2025-04-29 14:27",
+      "answerDate": "2025-04-29 14:57",
+      "user": "tabl*****",
+      "productName": "랜스타 LS-SPC-N 데스크탑PC 외부전원 스위치 컨트롤러",
+      "question": "혹시 레노버 슬림형 데스크탑이랑 호환 되나요? 데스크탑 모델은 M70s 입니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n제품 호환여부는 사용중이신 pc 메인보드를 보셔야 확인이 가능합니다.\n데스크탑의 메인보드를 보시고 전원 연결 단자부분의 usb. power sw, reset sw, power led+ power led- 쪽에 각각 연결하셔야 합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "id": 637363148,
+      "date": "2025-07-31 10:21",
+      "answerDate": "2025-07-31 17:42",
+      "user": "goeu*****",
+      "productName": "랜스타 LS-SPC-N 데스크탑PC 외부전원 스위치 컨트롤러",
+      "question": "소형 PC에는 사용이 가능할까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n메인보드에 따라 다릅니다. 먼저 usb, power sw, reset sw, power led+ , power led - 단자가 있는지 확인해주셔야 합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "id": 638497330,
+      "date": "2025-08-08 19:38",
+      "answerDate": "2025-08-11 09:00",
+      "user": "badf***",
+      "productName": "랜스타 LS-SPC-N 데스크탑PC 외부전원 스위치 컨트롤러",
+      "question": "상품받아 오픈 했는데 본체만 있고 브라켓이 안들어 있습니다.\n브라켓을 별도로 구매해야 한는 말은 없었는데 별도 구매인가요??",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n브라켓의 경우 별도 구매 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "id": 665228747,
+      "date": "2026-03-03 21:28",
+      "answerDate": "2026-03-04 09:05",
+      "user": "sdw3***",
+      "productName": "랜스타 LS-SPC-N 데스크탑PC 외부전원 스위치 컨트롤러",
+      "question": "데스크탑 체결 방식이 3번이랑 같은데 옵션 선택을 어떻게 해야하나요????",
+      "answer": "안녕하세요 고객님 랜스타 입니다\n데스크탑 체결 방식이 3번과 같다는게 어떤 뜻인지 확인 부탁 드리겠습니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-SPC-N",
+      "chatUrl": "4H5k9",
+      "dateIso": "2024-12-02T08:55:11.750Z",
+      "name": "오케이세무회계사무소",
+      "isTechnical": true,
+      "category": "other",
+      "modelConfidence": "high",
+      "question": "LS-SPC-N구입후 설치하려하는데요. 설치했는데 브라켓은 설치해놨는데, 메인보드에 꼽아야하는데, 자리를 찾으려했는데, 홈페이지에서 설명해주시는\n(추가 문의) 랜스타 ls-spc-n 외부스위치 구입해서 설치하는데요 삼성컴퓨터 고 본체인데 아무리 찾아도 꼽는위치를 찾을수가 없습니다. 그림에서 나온거와 다\n(추가 문의) FUSB1 꼽는부분이 전면패널인가요? 그럼 PLED POWER SW RESET SW 이부분은 어디부분을 물어봐야 할까요\n(추가 문의) 위에사진이 브라켓외부에서 꼽아놓은거고, 밑에사진이 이제 메인보드에 선들을 꼽아야하는데 안보입니다.",
+      "answer": "고객님 원하실 경우 반품 진행 가능하십니다. 다만 반품 사유의 경우 제품 문제가 아니기 때문에 배송비 부과 됨을 안내 드립니다. 확인하신 후",
+      "turn_count": 21,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "여기사진상 어떤 부위일까요?"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "여기 사진상 어느쪽 부위일까요?"
+        },
+        {
+          "role": "agent",
+          "text": "고객님 원하실 경우 반품 진행 가능하십니다.\n다만 반품 사유의 경우 제품 문제가 아니기 때문에 배송비 부과 됨을 안내 드립니다.\n\n확인하신 후"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "고객님 원하실 경우 반품 진행 가능하십니다.\n다만 반품 사유의 경우 제품 문제가 아니기 때문에 배송비 부과 됨을 안내 드립니다.\n\n확인하신 후"
+        },
+        {
+          "role": "customer",
+          "text": "그냥 반품처리해야할꺼 같습니다."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "꼽는거 찾느라 하루종일 걸리네요."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "삼성측과 연결이 안되네요"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "FUSB1 꼽는부분이 전면패널인가요? 그럼 PLED POWER SW RESET SW 이부분은 어디부분을 물어봐야 할까요"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-SPC-N",
+      "chatUrl": "ePlYe",
+      "dateIso": "2024-01-18T02:17:21.784Z",
+      "name": "accesswe",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "저희가 구매를 위해서는 견적서가 필요해서 보내주시면 구매 바로 할 의향이 있습니다 가능한 빠른시간내에 보내주시면 저희도 서둘러 구매진행 하겠습니다\n(추가 문의) 랜스타 LS-SPC-N 데스크탑PC 외부전원 스위치 컨트롤러 / 2개 구매 예정입니다\n(추가 문의) 혹시 무통장 입금 할꺼라 통장 사본 사업자 등록증 부탁 드립니다\n(추가 문의) 메일로 보내주시면 빠른 진행 하겠습니다",
+      "answer": "견적서 받아보실 성함 / 연락처 / 메일 주소 말씀 부탁드립니다.",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "혹시 무통장 입금 할꺼라 통장 사본 사업자 등록증 부탁 드립니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n견적서 받아보실 성함 / 연락처 / 메일 주소 말씀 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "메일로 보내주시면 빠른 진행 하겠습니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n견적서 받아보실 성함 / 연락처 / 메일 주소 말씀 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n견적서 받아보실 성함 / 연락처 / 메일 주소 말씀 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "저희가 구매를 위해서는 견적서가 필요해서 보내주시면 구매 바로 할 의향이 있습니다 가능한 빠른시간내에 보내주시면 저희도 서둘러 구매진행 하겠습니다"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "랜스타 LS-SPC-N 데스크탑PC 외부전원 스위치 컨트롤러 / 2개 구매 예정입니다"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "3.5mm"
+      ],
+      "output_signals": [
+        "USB-A",
+        "3.5mm"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        1.15,
+        0.3
+      ],
+      "color_options": [
+        "파란색 LED"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 2.0 포트 2개 제공",
+    "connectivity.output_signals": "USB 2.0 포트 2개 제공",
+    "connectivity.directional": "USB 2.0 포트 2개 제공",
+    "connectivity.port_count": "USB 2.0 2포트, Audio 1포트, MIC 포트",
+    "power.power_mode": "USB 케이블을 데스크탑 본체 USB 포트에 연결해야 Audio/MIC 단자가 정상 작동한다",
+    "power.charging_support": "USB 선풍기, USB 램프, USB 메모리 등 연결 가능",
+    "form_physical.has_case": "외부 전원 스위치 본체",
+    "form_physical.length_options_meters": "브라켓 연결 케이블 길이: 약 115cm",
+    "form_physical.color_options": "파란 LED를 통해 PC 전원 상태를 한눈에 확인 가능",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "오디오(Audio) 및 마이크(MIC) 단자 지원",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "원터치 전원 버튼으로 본체 전원버튼 없이 PC 전원 켜기/끄기 가능",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.usb_version": "USB 2.0 포트 2개 제공",
+    "family.transfer_speed_gbps": "USB 2.0 포트 2개 제공",
+    "family.charging_only": "USB 선풍기, USB 램프, USB 메모리 등 연결 가능",
+    "family.data_only": "USB 선풍기, USB 램프, USB 메모리 등 연결 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:40",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 2,
+    "category_breakdown": {
+      "other": 1,
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

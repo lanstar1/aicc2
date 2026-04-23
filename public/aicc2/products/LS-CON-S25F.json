@@ -1,0 +1,120 @@
+{
+  "model_no": "LS-CON-S25F",
+  "product_name": "납땜용 콘넥터 DB25P/F (25핀 D-SUB)",
+  "category": [
+    "커넥터",
+    "LAN공구"
+  ],
+  "key_features": [
+    "25핀 D-SUB 납땜용 커넥터 (DB25 Female 타입)",
+    "2열 구조의 DB25P/F 타입",
+    "케이블 제작에 사용 가능",
+    "RoHS 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "모델명": "LS-CON-S25F",
+    "품명": "납땜용 콘넥터 DB25P/F",
+    "핀 수": "25핀",
+    "타입": "D-SUB Female (DB25F), 2열",
+    "결선 방식": "납땜용",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "RoHS": "RoHS Compliant"
+  },
+  "compatibility": [
+    "DB25 규격 후드 (크기에 맞는 후드와 함께 사용)",
+    "DB25 D-SUB 25핀 규격 케이블"
+  ],
+  "package_contents": [
+    "납땜용 콘넥터 DB25P/F (LS-CON-S25F) 1개"
+  ],
+  "usage_instructions": "케이블 제작 시 사용하며, 크기에 맞는 DB25 후드와 함께 사용합니다.",
+  "cautions": [
+    "유통 과정상 제품의 모양이 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-CON-S25F",
+      "품목코드": "GEN-제작용005",
+      "품목명": "[LANstar] 납땜용콘넥터 , Soldering, DB25P／F, 2열[20087]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": 25
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "DB25 Female",
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": 25
+    }
+  },
+  "feature_evidence": {
+    "connectivity.directional": "N/A",
+    "connectivity.port_count": "25핀 D-SUB",
+    "power.power_mode": "N/A",
+    "power.charging_support": "false",
+    "form_physical.has_case": "케이블 제작 시 사용하며, 크기에 맞는 DB25 후드와 함께 사용합니다.",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "false",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "false",
+    "control_switching.has_remote": "false",
+    "control_switching.has_hotkey": "false",
+    "control_switching.has_physical_button": "false",
+    "control_switching.has_mouse_switching": "false",
+    "control_switching.has_auto_scan": "false",
+    "control_switching.has_app_control": "false",
+    "family.connector_type_a": "DB25 Female",
+    "family.pin_count": "25핀"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:13",
+  "feature_schema_version": "1.0.0"
+}

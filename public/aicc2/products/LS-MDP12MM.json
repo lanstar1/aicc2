@@ -1,0 +1,161 @@
+{
+  "model_no": "LS-MDP12MM",
+  "product_name": "Mini Display Port 1.2 케이블 M/M",
+  "category": [
+    "DisplayPort",
+    "사운드카드"
+  ],
+  "key_features": [
+    "Mini DisplayPort 1.2 규격 지원, 최대 21.6Gbps 대역폭",
+    "4K*2K (3840x2160) @60Hz 초고해상도 출력 지원",
+    "Full HD 1080p, 2560x1600 해상도 지원",
+    "3D 입체영상 출력 지원",
+    "디지털 음성 전송 지원 (2채널 스테레오, 5.1채널, 7.1채널 입체음향)",
+    "멀티 스트리밍 기능: 모니터 2대에서 2560x1600(60Hz), 4대에서 1920x1200 해상도 출력 가능",
+    "채널당 3Gbps 데이터 전송률 지원",
+    "금도금 커넥터로 산화 방지 및 신호 손실 최소화",
+    "별도 외부 전원 불필요(무전원 동작)",
+    "커넥터 보호캡 포함",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 규정 준수, ISO 9001:2008 인증",
+    "Mini DisplayPort 1.2 규격 지원 (최대 21.6Gbps 대역폭)",
+    "디지털 음성 전송 지원 (2채널 스테레오, 5.1채널, 7.1채널)",
+    "별도 외부전원 없이 동작 (無전원)",
+    "금도금 커넥터로 산화 방지 및 신호손실 최소화",
+    "자체 테스트 완료 (핀 연속성 검사)",
+    "20번 핀은 더미핀으로 표준 DP 케이블에서 사용되지 않음",
+    "RoHS 환경규제 준수"
+  ],
+  "specifications": {
+    "커넥터 타입": "Mini DP(Male) / Mini DP(Male) / Mini DP (Male) / Mini DP (Male)",
+    "버전": "DisplayPort 1.2",
+    "대역폭": "21.6Gbps / 최대 21.6Gbps",
+    "채널당 전송률": "3Gbps",
+    "최대 해상도": "3840x2160 (4K*2K) @60Hz",
+    "전압": "30V",
+    "길이": "1M (1000mm)",
+    "작동 온도": "0~80°C",
+    "커넥터 규격(Mini DP Male 외형)": "11.4mm x 7.1mm / 11.4mm x 7.5mm / 4.5mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "RoHS": "COMPLIANT",
+    "품질경영시스템": "ISO 9001:2008",
+    "작동온도": "0~80°C",
+    "DP 버전": "1.2",
+    "케이블 규격": "AWM STYLE 20276, 80°C, 30V VW-1",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "Mini DisplayPort 단자 탑재 데스크탑 PC",
+    "Mini DisplayPort 단자 탑재 노트북",
+    "Mini DisplayPort 단자 탑재 TV 및 모니터",
+    "DisplayPort 1.2 규격 지원 그래픽카드 및 모니터",
+    "멀티 스트리밍: DisplayPort 1.2 멀티 스트리밍 기능 지원 기기",
+    "Mini DisplayPort 포트 탑재 데스크탑 PC",
+    "Mini DisplayPort 포트 탑재 노트북",
+    "Mini DisplayPort 포트 탑재 TV/모니터",
+    "DisplayPort 1.2 멀티 스트리밍 지원 그래픽카드",
+    "DisplayPort 1.2 멀티 스트리밍 지원 모니터"
+  ],
+  "package_contents": [
+    "Mini Display Port 1.2 케이블 M/M 1M (LS-MDP12MM-1M) x1",
+    "커넥터 보호캡 (양쪽)",
+    "Mini DisplayPort 1.2 케이블 (M/M) 1M",
+    "커넥터 보호캡"
+  ],
+  "usage_instructions": "Mini DisplayPort 단자가 있는 PC 또는 노트북의 Mini DP 포트에 케이블 한쪽을 연결하고, 반대쪽을 Mini DisplayPort 입력을 지원하는 모니터 또는 TV에 연결합니다. 별도 외부 전원은 필요하지 않습니다. 멀티 스트리밍 사용 시 그래픽카드, 모니터, 케이블 모두 DisplayPort 1.2 멀티 스트리밍 기능을 지원하는지 사전 확인이 필요합니다.",
+  "cautions": [
+    "멀티 스트리밍 기능 사용 전 그래픽카드, 모니터, 케이블이 DisplayPort 1.2 멀티 스트리밍 기능을 지원하는지 반드시 확인하세요.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "AS 소비자상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MDP12MM-1M",
+      "품목코드": "CAB-젠DP062",
+      "품목명": "[LANstar] Mini 디스플레이 Port 케이블, Ver1.2, 4K*2K/60MHZ, M/M, 1M[10790]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-MDP12MM-1M": "20번 핀은 더미핀입니다.\nCONTINUITY\nOFF\nRemote\nNF-633\nStandard DisplayPort cable connections do not\nuse the DP_PWR pin. Connecting the\nDP_PWR pins of two devices directly together\nthrough a cable can create a short circuit\nwhich can potentially damage devices,\nsince the DP PWR pins on two devices are\nunlikely to have exactly the same voltage\n(especially with a ±10% tolerance).\nPOWER\nBY\n20 20\n10\nDP Cable Tester\nMaster\nNF-633\n표준 DP 케이블에서는 20핀이 사용되지않습니다.\n만약 다이렉트로 연결하게된다면 케이블의 20핀이\n모니터 - 그래픽카드 양 장치에 잠재적으로 데미지를\n줍니다. 이는 양 장치가 도저히 될수없는\n같은 전압(오차 10%)이 될때까지 입니다.\n<자체 테스트 완료>\nLANSStar\nP DisplayPort Mini\n전원, 영상과 음성 지원\nMini DisplayPort 1.2 케이블\nM/M\n(LS-MDP12MM-1M\n3D\nD Display\nPort\nSTANDARD\n4K*2K\n60Hz\n1.2\nFULL HD\n표준 19핀\nMini Display Port 컨버터 케이블은?\n미니 디스플레이 포트가 장착된 PC나 노트북 같은 작은 화면의 영상\n이나 음성을 대형화면에서 볼 수 있도록 지원하는 케이블입니다\nP DisplayPort 7.2\n4K*2K @60Hz\n25\n20-\n21.6 GBPS\nDP 1.2 버전은 최대 21.6Gbps의 대역폭을\n보유하고 있어 DVI나 HDMI보다 높은\n전송률을 보이므로 1920x1080의 풀HD급,\n2560x16000|L+ 3840x2160 (4K*2K)\n같은 초고해상도의 화면, 그리고 3D 입체영상\n의 구현도 가능합니다.\n또한 디지털 음성도 하나의 케이블로 전달해\n2채널 스테레오 음성은 기본으로 5.1채널이나\n7.1채널의 입체음향의 전송도 가능합니다.\n15\n10-\n10.8 GBPS\n5-\nDP 1.1\nDP 1.2\nVersion\nD DisplayPort\n4K\nULTRA HD\n4K2K UHD(Ultra High Definition) 해상도는 기존의\nFull HD 1080p보다 4배 높은 고해상도 화질을 표현하여\n얼굴의 솜털까지 볼 수 있는 실물에 가까운\n생생한 화질을 제공하는게 특징입니다\n\n\nULTRA HD\n4K2K UHD(Ultra High Definition) 해상도는 기존의\nFull HD 1080p보다 4배 높은 고해상도 화질을 표현하여\n얼굴의 솜털까지 볼 수 있는 실물에 가까운\n생생한 화질을 제공하는게 특징입니다\n3D\nFULL HD\n4KX2K (3840x2160)\nFULL)\nHD\n1440P\nFULL HD 1080P\nHD 720P\nDODOLBY\nHD DVD\nBlu-ray Disc\nTRUEHD\n6)\ndts-HD\nMaster Audio\n無전원\n별도의 외부전원 없이\n동작됩니다\n3Gbps\n채널당 3Gbps의 데이터\n전송률을 지원합니다\n금도금\n콘넥터\n금도금 콘넥터라 산화가\n일어나지 않아 신호손실이\n적습니다\n멀티 스트리밍 기능\nmulti streaming\nDisplayPort 1.2에서는 2대의 모니터에서 2560x1600(60Hz) 해상도를,\n4대의 모니터에서는 1920x1200 해상도의 영상을 출력할 수 있습니다\nD DisplayPort 7.2\n모니터 2대 2560x1600 해상도\n10 효율\nDisplayPort 1.2\n모니터 4대 1920x1200 해상도\nⓖ 그래픽카드, 모니터, 케이블이 디스플레이포트 1.2\n멀티 스트리밍 기능을 지원하는지 확인하세요.\n제품 연결\nsystem connection\n\n\n제품 연결\nsystem connection\n152%\n데스크탑 PC\n노트북\nMini DisplayPort (Male)\nMini DisplayPort (Male)\nTV\nPRODUCT SIZE\n1000mm\n11.4mm\n11.4mm\n7.1mm\n[7.5mm\n4.5mm\n<Mini DisplayPort Male>\nSHELL\nSHELL\nGND\n1\nWhite\nBrown\nGND\n•\n13\n9\nWhite\nGreen\n11\n15\nGND\n13\n.\n15\n=\nWhite\nRed\nP1\nP2\n17\n20\n19\nBlack\nOrange\nRed\n2\n4\nWhite\nº\nGND\n8\nWhite\nYellow\n12\nGND\n14\n.\nWhite\nYellow\n0\nDisplayPort\nE324703\nRI\nAWM\nSTYLE\n20276\n80°C\n30V VW-1\nADEDOR NESE 17:25 WAY IN COLD\n콘넥터 보호캡\n콘넥터 보호캡\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n콘넥터타입\nMini DP(Male) / Mini DP (Male)\n\n\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n콘넥터타입\nMini DP(Male) / Mini DP (Male)\n전\n압\n30V\n길\n이\n1M\n작동온도\n0~80°C\nROHS I\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar®\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nMini DisplayPort 1.2 케이블\nLANStar®\n모\n델\n명\nLS-MDP12MM-1M\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Mini DisplayPort"
+      ],
+      "output_signals": [
+        "Mini DisplayPort"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "DP1.2",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Mini DisplayPort 단자가 있는 PC",
+    "connectivity.output_signals": "Mini DisplayPort 입력을 지원하는 모니터",
+    "connectivity.directional": "케이블 한쪽을 연결하고, 반대쪽을",
+    "power.power_mode": "별도 외부 전원 불필요(무전원 동작)",
+    "power.charging_support": "null",
+    "form_physical.material": "금도금 커넥터로 산화 방지",
+    "form_physical.length_meters": "길이: 1M (1000mm)",
+    "certification.kc": "인증번호: 해당없음",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 인증",
+    "audio_video.max_resolution": "4K*2K (3840x2160) @60Hz",
+    "audio_video.audio_pass": "디지털 음성 전송 지원",
+    "family.dp_version": "DisplayPort 1.2 규격 지원",
+    "family.optical_core": "null"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:30",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,362 @@
+{
+  "model_no": "LS-HD204C",
+  "product_name": "LANStar HDMI2.0 1:4 분배기 (LS-HD204C)",
+  "category": [
+    "HDMI분배기"
+  ],
+  "key_features": [
+    "하나의 HDMI 입력 소스를 최대 4개의 디스플레이 장치에 동일 화면 출력",
+    "최대 4K@60Hz (3840x2160) 해상도 지원",
+    "3D 디스플레이 기술 지원 (3D 비디오 포맷 전달)",
+    "HDCP(High-Bandwidth Digital Content Protection) 지원",
+    "Plug&Play 지원 (별도 설치 불필요)",
+    "Hot Swap 지원 (케이블 연결 시 바로 사용 가능)",
+    "블루레이 디스크 포맷 지원 (24/50/60fps, HD-DVD, xvYCC)",
+    "전원 케이블 필수 연결 (PC/노트북 USB 포트 또는 전원 어댑터 사용 가능)",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-HD204C)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "가정, 학교, 학원, 사무실, 광고, 방송국, 병원, 회의 등 다양한 환경에서 활용 가능"
+  ],
+  "specifications": {
+    "입력 포트": "HDMI 1",
+    "출력 포트": "HDMI 4",
+    "최대 해상도": "4K@60Hz (3840x2160)",
+    "블루레이 지원": "24/50/60fps, HD-DVD, xvYCC",
+    "지원 오디오 포맷": "DTS-HD, Dolby-TrueHD, DTS, Dolby-AC3, DSD",
+    "케이블 허용 길이": "Input: 8m / Output: 8m (4K 해상도, 26AWG 표준 규격)",
+    "크기": "99 x 56 x 14.5 (mm)",
+    "무게": "약 45g",
+    "재질": "ABS",
+    "KC 인증번호": "R-R-LUS-LS-HD204C",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 2.0 규격 입력 소스 (콘솔, 노트북, 데스크탑, 셋톱박스, DVD 플레이어 등)",
+    "HDMI 출력 디스플레이 (TV, 모니터, 빔 프로젝터 등)",
+    "Full HD (1920x1080) 디스플레이",
+    "4K (3840x2160) 디스플레이",
+    "HDCP 지원 기기",
+    "블루레이 플레이어 (Blu-ray Disc 포맷)",
+    "HDMI 표준 규격 2.0 버전 케이블 (국제 표준 규격 26AWG 기준)"
+  ],
+  "package_contents": [
+    "HDMI 1x4 분배기 본체 (LS-HD204C)",
+    "USB A-Micro B 전원 케이블 (길이: 약 1m)"
+  ],
+  "usage_instructions": "1. HDMI 입력 포트에 소스 기기(PC, 노트북, 셋톱박스 등)를 HDMI 케이블로 연결한다. 2. HDMI 출력 포트에 디스플레이 기기(TV, 모니터, 빔 프로젝터 등)를 HDMI 케이블로 연결한다. 3. 제공된 USB A-Micro B 전원 케이블을 전원 포트에 연결한다(PC/노트북 USB 포트 또는 전원 어댑터 사용 가능). 4. 별도의 드라이버 설치 없이 Plug&Play로 바로 사용 가능하며, Hot Swap을 지원한다. ※ HDMI 케이블은 반드시 표준 규격 HDMI 2.0 버전(26AWG) 제품을 사용할 것. ※ 4K@60Hz 지원 시 입/출력 케이블 길이는 최대 8M 이내로 사용할 것.",
+  "cautions": [
+    "본 제품은 동일 화면을 4개 디스플레이에 출력하는 분배기이며, 디스플레이 확장(멀티 모니터 확장) 기능은 지원하지 않음",
+    "멀티비전(2x2 화면 분할 출력) 기능은 지원하지 않음",
+    "전원 케이블 연결은 필수이며, 전원 미연결 시 정상 작동하지 않을 수 있음",
+    "HDMI 케이블은 반드시 표준 규격 HDMI 2.0 버전(26AWG) 제품을 사용할 것",
+    "4K@60Hz 해상도 사용 시 입/출력 HDMI 케이블 길이는 최대 8M 이내로 사용할 것",
+    "케이블 길이가 2m를 초과할 경우 최대 해상도를 지원하지 않을 수 있음",
+    "10M 이상 케이블 사용 시 4K@60Hz 해상도 이용이 어려움 (제조사 테스트 기준); 칩셋 내장 HDMI 케이블 또는 8M 이내 HDMI 2.0 케이블 사용 권장",
+    "입/출력 소스에 연결하는 HDMI 케이블 길이에 따라 해상도 변화가 생길 수 있으므로 사용 케이블 길이를 반드시 확인할 것",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아닐 수 있으며, A/S를 받을 수 없음",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음",
+    "당일 출고는 오후 4시 이전 결제 완료 주문 기준이며, 토·일·공휴일 제외 평일 기준임; 택배사 사정에 따라 배송 기간이 길어질 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HD204C",
+      "품목코드": "INT-HDS320",
+      "품목명": "[LANstar] HDMI2.0 1:4분배기 4포트 [30849]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HD204C",
+      "내용": "잘 받았습니다. 감사합니다~"
+    },
+    {
+      "source_model": "LS-HD204C",
+      "내용": "비추합니다~~~~~~~~"
+    },
+    {
+      "source_model": "LS-HD204C",
+      "내용": "배송이 겁나 빠르네요 \n사용전이지만 잘써보겠습니다!"
+    },
+    {
+      "source_model": "LS-HD204C",
+      "내용": "배송도 빠르고 분배기 잘 작동합니댜\n감사합니다"
+    },
+    {
+      "source_model": "LS-HD204C",
+      "내용": "영상 소스 선택이 직관적이라 편리합니다\n연결도 잘 구요\n가성비 괜찮은 제품이네요\n추천합니다"
+    },
+    {
+      "source_model": "LS-HD204C",
+      "내용": "제가 잘못 이해한 것임을 미리 밝히고, 저처럼 확장이 되나보다 착각할 수 있는 구매자들을 위해 남깁니다. 복제만 됩니다. 같은 화면을 다중으로 뿌려줍니다. 착오없기를..."
+    },
+    {
+      "source_model": "LS-HD204C",
+      "내용": "전에 쓰던건 인식이 잘 안됐었는데 이건 너무 잘 되네요.가성비 짱 입니다",
+      "관련내용": "작동 잘됩니다. 4포트 모두 확인했습니다. 저렴한 가격에 만족합니다."
+    },
+    {
+      "source_model": "LS-HD204C",
+      "내용": "작동 잘됩니다. 4포트 모두 확인했습니다. 저렴한 가격에 만족합니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HD204C",
+      "id": 598402190,
+      "date": "2024-09-27 13:22",
+      "answerDate": "2024-09-27 16:28",
+      "user": "ppmt*****",
+      "productName": "HDMI 분배기 4K 1:4 모니터 스플리터 블루레이 지원 (LS-HD204C)",
+      "question": "이 제품은  노브북 연결시 동일화면만 복제로 여러대 모니터로 출력하는건가요?   화면을 듀얼모니터 확장으로 사용할수는없나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품은 동일 화면 복제 기능이며, 확장 기능 사용을 원하신다면, DP ALT 지원 랩탑의 경우 LS-UC202 사용해주시면 됩니다.\nDP ALT 미지원 랩탑의 경우 LS-UH319D4K 구매하셔서 사용해주시면 됩니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HD204C",
+      "id": 602032897,
+      "date": "2024-10-24 01:19",
+      "answerDate": "2024-10-24 09:55",
+      "user": "hse9****",
+      "productName": "HDMI 분배기 4K 1:4 모니터 스플리터 블루레이 지원 (LS-HD204C)",
+      "question": "안녕하세요, hdmi포트 1개있는 pc인데 트리플 모니터 구성하려면 어떤 제품을 써야할까요 ?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n DMI포트 하나는 그대로 사용하시면서 LS-UH319D 제품으로 모니터 2대 추가 연결하시면 사용 가능할 것으로 보입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HD204C",
+      "id": 629064301,
+      "date": "2025-05-22 09:21",
+      "answerDate": "2025-05-22 14:13",
+      "user": "lksm***",
+      "productName": "HDMI 분배기 4K 1:4 모니터 스플리터 블루레이 지원 (LS-HD204C)",
+      "question": "안녕하세요.\n제품수령후 연결했는데 화면이 안나오네요.\n셋톱박스는 kt 지니3입니다.\nkt에서 송출을 막는다는말도 있던데 그런건가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\nUSB 전원 연결하고 LED 들어오는지확인이 필요합니다\n셋톱박스와의 호환문제일 수 있으니 PC또는 노트북이 있으시다면 연결하여 동일한 증상인지 확인이 필요합니다\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HD204C",
+      "chatUrl": "2wnza",
+      "dateIso": "2026-03-24T07:21:56.995Z",
+      "name": "김대일",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "오늘 택배 발송 가능하산가요??",
+      "answer": "당일 발송 및 당일 수령의 경우 오후 3시 30분 주문 건의 한하여 가능합니다. 익일 수령 및 출고 가능하십니다. 정직한 가격과 품질로 고객",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "왜 취소에요?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n당일 발송 및 당일 수령의 경우 오후 3시 30분 주문 건의 한하여 가능합니다.\n익일 수령 및 출고 가능하십니다.\n\n정직한 가격과 품질로 고객"
+        },
+        {
+          "role": "customer",
+          "text": "오늘 택배 발송 가능하산가요??"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HD204C",
+      "chatUrl": "a7exa",
+      "dateIso": "2025-04-10T02:23:55.608Z",
+      "name": "열기구 축제 벌룬모아",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "문의드립니다. HDMI 분배기 1:4 제품을 알아보고 있습니다. 질문이 있습니다.",
+      "answer": "분배기의 경우 복제만 가능하고 확장용으로는 사용이 불가합니다. 분배기 제품 중 다운스케일 지원하는 제품은 LS-HD204DS-N 입니다.\n\n네 고객님, 문의주신 제품 3가지 모두 분배만 가능하고 확장이 불가합니다. 스마트스토어 내에 '디스플레이 확장'으로 검색하셔서 나오는 제품 중 구매를 해주셔야됩니다. 다만 확장가능",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 문의주신 제품 3가지 모두 분배만 가능하고 확장이 불가합니다.\n스마트스토어 내에 '디스플레이 확장'으로 검색하셔서 나오는 제품 중 구매를 해주셔야됩니다.\n다만 확장가능"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n분배기의 경우 복제만 가능하고 확장용으로는 사용이 불가합니다.\n분배기 제품 중 다운스케일 지원하는 제품은 LS-HD204DS-N 입니다."
+        },
+        {
+          "role": "customer",
+          "text": "문의드립니다. HDMI 분배기 1:4 제품을 알아보고 있습니다. 질문이 있습니다."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HD204C",
+      "chatUrl": "GnZF",
+      "dateIso": "2024-08-07T08:13:19.640Z",
+      "name": "린파더",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "구매를 잘못했는데 교환부탁합니다. 노트북에 모니터 3~4대 확장모드로 사용하려고 합니다. 입력은 DP 출력은 HDMI 1:4 (없으면1:3)로 하려고 합니다. HDMI SPL\n(추가 문의) 노트북 1대로 3~4대의 모니터를 사용하려 하는데 단순 분배가 아닌 확장하여 사용하고 싶은데 제품 추천 바랍니다.\n(추가 문의) LS-HD204C로 하면 노트북에 모니터 4대 연결 가능한가요?\n(추가 문의) 교환접수 되었고 배송비 결제까지되었는데 어떻게 할까요?",
+      "answer": "교환 요청을 취소해주신 뒤에 반품으로 다시 재접수 진행 부탁드립니다. 취소가 안되실까요? 저희 측에서 교환 철회 처리도 가능합니다.\n\n네 고객님, 자사 제품 중에는 동일한 화면으로 4대 전송가능한 제품은 있느나 확장하여 사용 가능한 제품은 없습니다.",
+      "turn_count": 7,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "아쉽네요"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 자사 제품 중에는 동일한 화면으로 4대 전송가능한 제품은 있느나 확장하여 사용 가능한 제품은 없습니다."
+        },
+        {
+          "role": "customer",
+          "text": "모니터마다 다른 화면으로 분배가 가능한거죠?"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "노트북 1대로 3~4대의 모니터를 사용하려 하는데 단순 분배가 아닌 확장하여 사용하고 싶은데 제품 추천 바랍니다."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "교환 취소 버튼이 없어요\n교환철회로 부탁합니다"
+        },
+        {
+          "role": "agent",
+          "text": "교환 요청을 취소해주신 뒤에 반품으로 다시 재접수 진행 부탁드립니다.\n취소가 안되실까요? 저희 측에서 교환 철회 처리도 가능합니다."
+        },
+        {
+          "role": "customer",
+          "text": "교환접수 되었고 배송비 결제까지되었는데 어떻게 할까요?"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "LS-HD204C로 하면 노트북에 모니터 4대 연결 가능한가요?"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "구매를 잘못했는데 교환부탁합니다. 노트북에 모니터 3~4대 확장모드로 사용하려고 합니다. 입력은 DP 출력은 HDMI 1:4 (없으면1:3)로 하려고 합니다. HDMI SPL"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 5
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "input_count": 1,
+      "output_count": 4,
+      "mode": [
+        "분배"
+      ],
+      "cascade_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "하나의 HDMI 입력 소스를",
+    "connectivity.output_signals": "4개의 디스플레이 장치에 동일 화면 출력",
+    "connectivity.directional": "하나의 HDMI 입력 소스를 최대 4개의 디스플레이 장치에 동일 화면 출력",
+    "connectivity.port_count": "입력 포트: HDMI 1, 출력 포트: HDMI 4",
+    "power.power_mode": "전원 케이블 필수 연결 (PC/노트북 USB 포트 또는 전원 어댑터 사용 가능)",
+    "power.charging_support": "전원 케이블 필수 연결",
+    "form_physical.has_case": "재질: ABS",
+    "form_physical.material": "재질: ABS",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "audio_video.max_resolution": "최대 4K@60Hz (3840x2160) 해상도 지원",
+    "audio_video.hdcp_version": "HDCP(High-Bandwidth Digital Content Protection) 지원",
+    "audio_video.audio_pass": "지원 오디오 포맷: DTS-HD, Dolby-TrueHD, DTS, Dolby-AC3, DSD",
+    "family.input_count": "하나의 HDMI 입력 소스를",
+    "family.output_count": "최대 4개의 디스플레이 장치에",
+    "family.mode": "HDMI2.0 1:4 분배기"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:52",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 3,
+    "category_breakdown": {
+      "troubleshoot": 1,
+      "compatibility": 1,
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

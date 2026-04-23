@@ -1,0 +1,163 @@
+{
+  "model_no": "LS-BOOGIE-20N",
+  "product_name": "LANStar 전자칠판 20인치 LCD Writing Tablet",
+  "category": [
+    "배터리관련",
+    "전자칠판"
+  ],
+  "key_features": [
+    "건전지 하나로 종이 없이 필기, 계산, 그리기 가능한 전자 메모패드",
+    "원클릭 삭제 버튼으로 필기 내용을 한 번에 삭제 가능",
+    "종이와 잉크 없이 필기하는 친환경 제품 (종이 10만 장 절약 효과)",
+    "10만 회 이상 필기 가능",
+    "얇고 가벼운 디자인으로 휴대 용이",
+    "펜 없이 손가락으로도 필기 가능",
+    "지움방지 버튼으로 메모 내용 보호 가능 (정보 유출 방지)",
+    "사용 시 눈이 편안한 시력 보호 설계",
+    "저전력 제품으로 건전지 하나로 오랜 시간 사용 가능",
+    "어린이 제품 안전 인증(FITI시험연구원) 통과 제품",
+    "홍보용 실크 로고 인쇄 가능 (별도 문의)",
+    "현대해상화재보험 생산물배상책임보험 1억 원 가입",
+    "청각장애인 필담용, 도서관 등 조용한 공간에서의 대화 보조 도구로 활용 가능"
+  ],
+  "specifications": {
+    "화면 크기": "20인치",
+    "제품 크기": "445mm x 325mm",
+    "전원": "AAA 건전지 3개",
+    "최대 필기 횟수": "100,000회 이상",
+    "절약 종이 매수": "100,000장",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "MSIP-REI-LUS-LS-BOOGIE-12N",
+    "어린이 안전 인증번호": "CB065R0185-7001",
+    "안전 인증 기관": "FITI시험연구원",
+    "안전 규격 인증": "KC, FCC, CE, RoHS",
+    "품질경영시스템": "ISO 9001:2008",
+    "생산물배상책임보험": "현대해상화재보험 1억 원 가입",
+    "A/S 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "AAA 건전지 (LR03) 3개 사용"
+  ],
+  "package_contents": [
+    "LCD 스케치 판 (전자칠판 본체)",
+    "전용 펜",
+    "건전지 캡 (AAA 건전지 3개 포함 여부는 원본에 명시되지 않음)"
+  ],
+  "usage_instructions": "1. AAA 건전지 3개를 건전지 캡에 삽입한다. 2. 전용 펜 또는 손가락으로 LCD 스케치 판에 필기, 계산, 그림 그리기를 한다. 3. 내용을 삭제하려면 삭제 버튼을 눌러 한 번에 지운다. 4. 메모 내용을 보호하려면 지움방지 버튼을 오른쪽으로 이동한다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "실크 인쇄 요청 시 별도로 문의해야 합니다.",
+    "RoHS 지침에 따라 납, 수은, 카드뮴 등 중금속 사용이 제한된 제품입니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-BOOGIE-20N",
+      "품목코드": "COM-악세사195",
+      "품목명": "[LANstar] 전자칠판 20인치 LCD노트/전자 메모패드 [60105] (10개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-BOOGIE-20N",
+      "chatUrl": "1iXpJ",
+      "dateIso": "2026-01-05T08:36:44.184Z",
+      "name": "hjy1973",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "추가 배송비도 확인 부탁드립니다. 감사합니다.",
+      "answer": "재고 200개 가능하시며, 추가 배송비 없이 진행 도와드리겠습니다.",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 확인 감사드립니다!"
+        },
+        {
+          "role": "agent",
+          "text": "재고 200개 가능하시며, 추가 배송비 없이 진행 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "추가 배송비도 확인 부탁드립니다. 감사합니다."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "배터리",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "wireless_standard": "N/A",
+      "output_watts": null
+    }
+  },
+  "feature_evidence": {
+    "power.power_mode": "AAA 건전지 3개",
+    "power.charging_support": "건전지 하나로 종이 없이 필기",
+    "form_physical.has_case": "전자칠판 20인치 LCD Writing Tablet",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "control_switching.has_physical_button": "원클릭 삭제 버튼으로 필기 내용을 한 번에 삭제 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:35",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "compatibility": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

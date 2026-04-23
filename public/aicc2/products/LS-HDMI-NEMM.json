@@ -1,0 +1,282 @@
+{
+  "model_no": "LS-HDMI-NEMM",
+  "product_name": "LANStar HDMI 1.4 금도금 케이블 4K Ultra HD",
+  "category": [
+    "랜케이블",
+    "HDMI케이블",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "4K@30Hz (3840x2160) UHD 해상도 지원",
+    "최대 10.2Gbps 데이터 전송 속도",
+    "3D 입체영상(3D 비디오 포맷) 지원",
+    "ARC(오디오 리턴 채널) 지원 — 별도 오디오 케이블 불필요",
+    "HEC(HDMI Ethernet Channel) 지원 — 별도 랜케이블 없이 양방향 통신",
+    "HDCP 1.4 지원 — 불법 영상 복제 방지",
+    "YCbCr 4:4:4 크로마서브샘플링 지원",
+    "금도금 단자 적용",
+    "HDMI 19P M/M 커넥터",
+    "RoHS 준수 / ISO 9001:2008 품질경영시스템",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "HDMI 단자": "HDMI 19P M/M",
+    "HDMI 버전": "HDMI 1.4",
+    "지원 해상도": "4K@30Hz (3840x2160)",
+    "전송 속도(대역폭)": "10.2Gbps",
+    "케이블 길이": "1M, 1.5M, 2M, 3M, 5M, 10M, 15M, 20M, 30M",
+    "소비전력 최대": "DC 300V/5s",
+    "작동 온도": "섭씨 80도",
+    "케이블 외경": "6mm (커넥터부 4.4mm, 14mm)",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "HDMI 1.4 지원 기기 전반",
+    "4K UHD 디스플레이 / TV",
+    "3D 디스플레이 기기",
+    "ARC 지원 AV 기기 및 TV",
+    "HDMI Ethernet Channel(HEC) 지원 기기",
+    "HDCP 1.4 지원 영상 재생 기기 및 디스플레이",
+    "블루레이 플레이어 / HD-DVD",
+    "IPTV, DLNA, UPnP 기반 네트워크 기기",
+    "sRGB, YCbCr 4:2:2, YCbCr 4:4:4 출력 기기",
+    "Deep Color, xvYCC 지원 기기",
+    "돌비 TrueHD 오디오 비트스트림 출력 기기",
+    "8채널 LPCM 192kHz 24비트 오디오 지원 기기"
+  ],
+  "package_contents": [
+    "HDMI 1.4 금도금 케이블 1개 (선택 길이에 따라 1M~30M 중 1종)"
+  ],
+  "usage_instructions": "HDMI 19P M/M 케이블 양쪽을 각각 소스 기기(플레이어, PC 등)와 디스플레이 기기(TV, 모니터 등)의 HDMI 포트에 연결하여 사용. ARC 기능 사용 시 TV의 ARC 지원 HDMI 포트와 AV 기기를 연결. HEC 기능 사용 시 별도 랜케이블 없이 HDMI 케이블만으로 네트워크 연결 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "RoHS 규정 준수 제품(납, 수은, 카드뮴 등 중금속 사용 제한)"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMI-NEMM-1M",
+      "품목코드": "CAB-HD1001",
+      "품목명": "[LANstar] HDMI 1.4 케이블 1m [20197] (180개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-NEMM-1.5M",
+      "품목코드": "CAB-HD1002",
+      "품목명": "[LANstar] HDMI 1.4 케이블 1.5m [20198] (120개)",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-NEMM-2M",
+      "품목코드": "CAB-HD1003",
+      "품목명": "[LANstar] HDMI 1.4 케이블 2m [20199] (100개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-NEMM-3M",
+      "품목코드": "CAB-HD1004",
+      "품목명": "[LANstar] HDMI 1.4 케이블 3m [20200] (90개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-NEMM-5M",
+      "품목코드": "CAB-HD1005",
+      "품목명": "[LANstar] HDMI 1.4 케이블 5m [20201] (50개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-NEMM-10M",
+      "품목코드": "CAB-HD1006",
+      "품목명": "[LANstar] HDMI 1.4 케이블 10m [20202] (24개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-NEMM-15M",
+      "품목코드": "CAB-HD1019",
+      "품목명": "[LANstar] HDMI 1.4 케이블 15m [20342](20개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-NEMM-20M",
+      "품목코드": "CAB-HD1020",
+      "품목명": "[LANstar] HDMI 1.4 케이블 20m [20343](10개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-NEMM-30M",
+      "품목코드": "CAB-HD1021",
+      "품목명": "[LANstar] HDMI 1.4 케이블 30m [20344](4개)",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDMI-NEMM-1.5M",
+      "내용": "배송도 빠르고 좋습니다"
+    },
+    {
+      "source_model": "LS-HDMI-NEMM-1.5M",
+      "내용": "이상없이 잘사용하고있어요"
+    },
+    {
+      "source_model": "LS-HDMI-NEMM-1.5M",
+      "내용": "빠른배송 감사합니다~"
+    },
+    {
+      "source_model": "LS-HDMI-NEMM-1.5M",
+      "내용": "제품자체가 깔끔합니다.\n\n퀄리티가 남다르네요 티비주변 HDMI랑\n\n노트북 랜선정리가 싹깔끔하게 됐습니다\n\n물론 작동도 잘되구요.\n\n배송도 하루만에 왔구요 포장도깔끔합니다.감사합니다!"
+    },
+    {
+      "source_model": "LS-HDMI-NEMM-1.5M",
+      "내용": "fgnfhsrhthtaetgngn ssrrtsthrteragshnhgmkfukykyukyuuyrytjrhttrbttvfsbdfgsnddyytrhwhtwtbdsgssfgfnyjrthth"
+    },
+    {
+      "source_model": "LS-HDMI-NEMM-1.5M",
+      "내용": "adgaaenratdbdfdfthathyssysm"
+    },
+    {
+      "source_model": "LS-HDMI-NEMM-1M",
+      "내용": "유용하게 잘 쓰고 있습니다"
+    },
+    {
+      "source_model": "LS-HDMI-NEMM-1M",
+      "내용": "깔끔하고 좋아요~ 잘 작동 됩니다."
+    },
+    {
+      "source_model": "LS-HDMI-NEMM-1M",
+      "내용": "good ! good !"
+    },
+    {
+      "source_model": "LS-HDMI-NEMM-2M",
+      "내용": "빠른배송과 물건이 좋네요"
+    },
+    {
+      "source_model": "LS-HDMI-NEMM-30M",
+      "내용": "두꺼워서 좋습니다 추천해요",
+      "관련내용": "튼튼하고 두껍고 케이블 좋아요"
+    },
+    {
+      "source_model": "LS-HDMI-NEMM-30M",
+      "내용": "튼튼하고 두껍고 케이블 좋아요"
+    },
+    {
+      "source_model": "LS-HDMI-NEMM-3M",
+      "내용": "착한가격에 다량 구입했어요\n랜스타케이블은 처음 구매해보는데 잘 쓰여졌음 좋겠네요"
+    },
+    {
+      "source_model": "LS-HDMI-NEMM-5M",
+      "내용": "랜스타케이블도 좋네요"
+    },
+    {
+      "source_model": "LS-HDMI-NEMM-5M",
+      "내용": "빠른 배송 감사합니다.\n잘 되네요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HDMI-NEMM-3M",
+      "id": 87939996,
+      "date": "2019-08-28 15:45",
+      "answerDate": "2019-08-28 18:49",
+      "user": "sico****",
+      "productName": "HDMI 1.4 금도금 케이블 3m [LS-HDMI-NEMM-3M]",
+      "question": "mini HDMI도 달린건가요? 아니라면 다른 제품 추천해주세요 3m 짜리가 필요합니다.",
+      "answer": "안녕하세요 랜스타 입니다\n\n해당 케이블 MINI HDMI 타입이 아닙니다. 네이버에서 MINI HDMI 검색해보시면 됩니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        1.5,
+        2,
+        3,
+        5,
+        10,
+        15,
+        20,
+        30
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": "HDCP1.4",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19P M/M 커넥터",
+    "connectivity.output_signals": "HDMI 19P M/M 커넥터",
+    "connectivity.directional": "HEC(HDMI Ethernet Channel) 지원 — 별도 랜케이블 없이 양방향 통신",
+    "power.power_mode": "무전원",
+    "form_physical.material": "금도금 단자 적용",
+    "form_physical.length_options_meters": "1M, 1.5M, 2M, 3M, 5M, 10M, 15M, 20M, 30M",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템",
+    "audio_video.max_resolution": "4K@30Hz (3840x2160) UHD 해상도 지원",
+    "audio_video.hdcp_version": "HDCP 1.4 지원",
+    "audio_video.audio_pass": "ARC(오디오 리턴 채널) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:16",
+  "feature_schema_version": "1.0.0"
+}

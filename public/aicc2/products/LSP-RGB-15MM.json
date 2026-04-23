@@ -1,0 +1,136 @@
+{
+  "model_no": "LSP-RGB-15MM",
+  "product_name": "LANstar plus 모니터 케이블 RGB3+4, HDB 15P/M-HDB 15P/M",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "10core 케이블 구성: 3x2core RGB + 4core + Shield",
+    "2중 차폐 처리 (알루미늄 은박 + 망사 Shield)",
+    "노이즈 필터 장착으로 외부 간섭 최소화",
+    "RoHS(특정위험물질 사용제한) 규격 준수",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 타입": "HDB 15P/M - HDB 15P/M (RGB 15 Male - RGB 15 Male)",
+    "케이블 길이": "1.8M, 3M, 5M",
+    "케이블 구성": "10core (3x2core RGB + 4core + Shield)",
+    "차폐 방식": "2중 차폐 (알루미늄 은박 + 망사 Shield)",
+    "모델명 (1.8M)": "LSP-RGB-15MM-1.8M",
+    "모델명 (3M)": "LSP-RGB-15MM-3M",
+    "모델명 (5M)": "LSP-RGB-15MM-5M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "RoHS 준수": "RoHS Compliant"
+  },
+  "compatibility": [
+    "RGB (VGA) HDB 15핀 인터페이스 지원 모니터",
+    "RGB (VGA) HDB 15핀 인터페이스 지원 PC/그래픽카드"
+  ],
+  "package_contents": [
+    "모니터 케이블 (RGB 15P/M - 15P/M) 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "9번 핀은 예비핀으로 사용되지 않으며, 케이블에 따라 비어있는 경우가 있으나 제품 이상이 아니므로 반품 또는 교환 사유가 되지 않습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단 참조)로 문의하세요.",
+    "AS 및 소비자 상담은 라인업시스템(주)로 문의하세요."
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-RGB-15MM-1.8M",
+      "품목코드": "PCA-RG저001",
+      "품목명": "[◆Lanstar-Plus] RGB3+4 모니터케이블 , HDB15P M/M, 1.8M [70019](50개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-RGB-15MM-3M",
+      "품목코드": "PCA-RG저002",
+      "품목명": "[◆Lanstar-Plus] RGB3+4 모니터케이블 , HDB15P M/M, 3M [70020](32개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-RGB-15MM-5M",
+      "품목코드": "PCA-RG저003",
+      "품목명": "[◆Lanstar-Plus] RGB3+4 모니터케이블 , HDB15P M/M, 5M [70021](24개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-RGB-15MM-10M",
+      "품목코드": "PCA-RG저005",
+      "품목명": "[◆Lanstar-Plus] RGB 케이블 , 10M [70077]",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-RGB-15MM-15M",
+      "품목코드": "PCA-RG저006",
+      "품목명": "[◆Lanstar-Plus] RGB 케이블 , 15M [70078]",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-RGB-15MM-20M",
+      "품목코드": "PCA-RG저007",
+      "품목명": "[◆Lanstar-Plus] RGB 케이블 , 20M [70079]",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-RGB-15MM-30M",
+      "품목코드": "PCA-RG저008",
+      "품목명": "[◆Lanstar-Plus] RGB 케이블 , 30M [70080]",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "양방향"
+    },
+    "form_physical": {
+      "material": [
+        "알루미늄",
+        "PVC"
+      ],
+      "length_options_meters": [
+        1.8,
+        3.0,
+        5.0
+      ]
+    },
+    "certification": {
+      "rohs": true
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDB 15P/M-HDB 15P/M",
+    "connectivity.output_signals": "HDB 15P/M-HDB 15P/M",
+    "connectivity.directional": "HDB 15P/M-HDB 15P/M",
+    "form_physical.material": "2중 차폐 처리 (알루미늄 은박 + 망사 Shield)",
+    "form_physical.length_options_meters": "1.8M, 3M, 5M",
+    "certification.rohs": "RoHS(특정위험물질 사용제한) 규격 준수",
+    "audio_video.max_resolution": "모니터 케이블 RGB3+4",
+    "audio_video.audio_pass": "모니터 케이블 RGB3+4"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:50",
+  "feature_schema_version": "1.0.0"
+}

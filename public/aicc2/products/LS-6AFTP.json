@@ -1,0 +1,465 @@
+{
+  "model_no": "LS-6AFTP",
+  "product_name": "LANStar CAT.6A FTP Slim Direct Ethernet Cable (White)",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-FTP"
+  ],
+  "key_features": [
+    "CAT.6A FTP 규격, 최대 10Gbps 전송속도 지원 (10GBASE-T)",
+    "500MHz 대역폭 지원",
+    "32AWG Ultra Slim 케이블, OD 4.0±0.2mm로 매우 얇고 유연",
+    "4페어 꼬임구조(Twisted Pair) + 알루미늄 호일 + PVC 자켓 구성",
+    "순수 구리(Bare Copper) 심선 사용으로 높은 데이터 전송률",
+    "연선(Stranded Cable) 구조로 설치 용이, 잡음 및 감쇄 현상 최소화",
+    "LSZH(Low Smoke Zero Halogen) 난연 케이블 - 낮은 연기와 독성·산성 가스 미발생",
+    "FLUKE DTX-1800 테스트 통과 (PASS)",
+    "RoHS 인증 제품",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "0.5m~20m 총 8가지 길이 옵션 제공"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.6A FTP",
+    "전송속도": "최대 10Gbps",
+    "대역폭": "500MHz",
+    "심선": "32AWG (Bare Copper, 연선)",
+    "커넥터": "RJ45, 8P8C, Red Connector",
+    "직경(OD)": "4.0±0.2mm",
+    "외피 재질": "LSZH (Low Smoke Zero Halogen)",
+    "외부 자켓": "PVC",
+    "케이블 색상": "White",
+    "AWG 직경": "0.00795 inch / 0.202mm",
+    "AWG 단면적": "0.032㎟",
+    "AWG 저항": "538.3 Ω/km",
+    "AWG 허용전류": "0.093A",
+    "커넥터 핀아웃 배열": "T568B (1:White, 2:Orange, 3:White, 4:Blue, 5:White, 6:Green, 7:White, 8:Brown)",
+    "FLUKE 테스트": "PASS (DTX-1800, TIA Cat 6A Channel 기준)",
+    "RoHS": "COMPLIANT",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANStar",
+    "KC 인증 번호": "해당없음",
+    "길이 옵션": "0.5m, 1m, 2m, 3m, 5m, 10m, 15m, 20m"
+  },
+  "compatibility": [
+    "10GBASE-T",
+    "1000BASE-T",
+    "1000BASE-TX",
+    "100BASE-TX",
+    "100BASE-T",
+    "100BASE-T4",
+    "10BASE-T",
+    "ATM-25",
+    "ATM-51",
+    "ATM-155",
+    "TR-4",
+    "TR-16 Active",
+    "TR-16 Passive",
+    "100VG-AnyLan"
+  ],
+  "package_contents": [
+    "CAT.6A FTP Slim 랜 케이블 (선택 길이 1개)"
+  ],
+  "usage_instructions": "RJ45 커넥터를 네트워크 장비(스위치, 라우터, PC 등)의 이더넷 포트에 연결하여 사용. 연선(Stranded) 구조로 유연하게 휘어져 좁은 공간 배선에 적합. T568B 핀아웃 배열 적용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상, 형태 등 사양은 예고 없이 변경될 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr",
+    "구매·배송·반품은 판매처(쇼핑몰) 기준 적용",
+    "RoHS 지침 준수 제품으로 유럽 시장 판매 가능"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-6AFTP-0.5M",
+      "품목코드": "CAB-S7T021",
+      "품목명": "[LANstar] Cat.6A FTP 슬림 랜 케이블 0.5M [30613] (350개)",
+      "variant_suffix": "-0.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6AFTP-1M",
+      "품목코드": "CAB-S7T022",
+      "품목명": "[LANstar] Cat.6A FTP 슬림 랜 케이블 1M [30614] (200개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6AFTP-2M",
+      "품목코드": "CAB-S7T023",
+      "품목명": "[LANstar] Cat.6A FTP 슬림 랜 케이블 2M [30615] (120개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6AFTP-3M",
+      "품목코드": "CAB-S7T024",
+      "품목명": "[LANstar] Cat.6A FTP 슬림 랜 케이블 3M [30616] (90개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6AFTP-5M",
+      "품목코드": "CAB-S7T025",
+      "품목명": "[LANstar] Cat.6A FTP 슬림 랜 케이블 5M [30617] (60개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6AFTP-10M",
+      "품목코드": "CAB-S7T026",
+      "품목명": "[LANstar] Cat.6A FTP 슬림 랜 케이블 10M [30618] (50개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6AFTP-15M",
+      "품목코드": "CAB-S7T027",
+      "품목명": "[LANstar] Cat.6A FTP 슬림 랜 케이블 15M [30619] (30개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6AFTP-20M",
+      "품목코드": "CAB-S7T028",
+      "품목명": "[LANstar] Cat.6A FTP 슬림 랜 케이블 20M [30620] (28개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-6AFTP",
+      "내용": "배송 빠르고 제품 좋습니다"
+    },
+    {
+      "source_model": "LS-6AFTP",
+      "내용": "케이블 슬림하고 좋네요 설치전입니다"
+    },
+    {
+      "source_model": "LS-6AFTP",
+      "내용": "케이블 슬림하고 좋네요 설치전입니다"
+    },
+    {
+      "source_model": "LS-6AFTP-0.5M",
+      "내용": "좋아요~~~~~~~~~~~",
+      "관련내용": "좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요"
+    },
+    {
+      "source_model": "LS-6AFTP-0.5M",
+      "내용": "좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요"
+    },
+    {
+      "source_model": "LS-6AFTP-10M",
+      "내용": "배송 빠르고 제품 좋습니다."
+    },
+    {
+      "source_model": "LS-6AFTP-10M",
+      "내용": "좋습니다 잘 사용할게요."
+    },
+    {
+      "source_model": "LS-6AFTP-10M",
+      "내용": "빠른 배송, 좋은 품질 굳굳굳"
+    },
+    {
+      "source_model": "LS-6AFTP-10M",
+      "내용": "배 송 이 빠 릅 니다"
+    },
+    {
+      "source_model": "LS-6AFTP-10M",
+      "내용": "아주 잘 작동합니다~!"
+    },
+    {
+      "source_model": "LS-6AFTP-10M",
+      "내용": "좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요"
+    },
+    {
+      "source_model": "LS-6AFTP-15M",
+      "내용": "좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요"
+    },
+    {
+      "source_model": "LS-6AFTP-1M",
+      "내용": "자주 사용합니다..가격이 좀 비싼게 흠입니다..",
+      "관련내용": "그럭저럭 쓸만합니다.."
+    },
+    {
+      "source_model": "LS-6AFTP-1M",
+      "내용": "그럭저럭 쓸만합니다.."
+    },
+    {
+      "source_model": "LS-6AFTP-1M",
+      "내용": "좋습니다 잘 사용할게요."
+    },
+    {
+      "source_model": "LS-6AFTP-1M",
+      "내용": "집하고 사무실 ps5 에 연결해서 잘 쓰고 있습니다"
+    },
+    {
+      "source_model": "LS-6AFTP-1M",
+      "내용": "빠르게 받을수 있어 좋았습니다"
+    },
+    {
+      "source_model": "LS-6AFTP-1M",
+      "내용": "좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요"
+    },
+    {
+      "source_model": "LS-6AFTP-20M",
+      "내용": "빠른 배송, 좋은 품질 굳굳굳"
+    },
+    {
+      "source_model": "LS-6AFTP-20M",
+      "내용": "아주 잘 작동합니다~!"
+    },
+    {
+      "source_model": "LS-6AFTP-2M",
+      "내용": "자주 사용합니다..가격이 좀 비싼게 흠입니다..",
+      "관련내용": "그럭저럭 쓸만합니다.."
+    },
+    {
+      "source_model": "LS-6AFTP-2M",
+      "내용": "그럭저럭 쓸만합니다.."
+    },
+    {
+      "source_model": "LS-6AFTP-2M",
+      "내용": "좋습니다 잘 사용할게요."
+    },
+    {
+      "source_model": "LS-6AFTP-2M",
+      "내용": "감사합니다 무선으로만 쓰다가 바꿨더니 신세계네요"
+    },
+    {
+      "source_model": "LS-6AFTP-2M",
+      "내용": "케이블이 슬림하여 설치하기 쉽고 일반 케이블보다 좋아요."
+    },
+    {
+      "source_model": "LS-6AFTP-2M",
+      "내용": "좋습니다 얇고 잘 작동합니다."
+    },
+    {
+      "source_model": "LS-6AFTP-2M",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-6AFTP-2M",
+      "내용": "일반 UTP 케이블에 비해 FTP케이블이 차폐 성능이 높은 것으로 알고 있습니다. 커넥터 부분도 금속으로 되어있어 고급스럽고 케이블도 동사 UTP 슬림 케이블에 비해 조금 더 두꺼워서 안정감이 있습니다."
+    },
+    {
+      "source_model": "LS-6AFTP-3M",
+      "내용": "자주 사용합니다..가격이 좀 비싼게 흠입니다..",
+      "관련내용": "그럭저럭 쓸만합니다.."
+    },
+    {
+      "source_model": "LS-6AFTP-3M",
+      "내용": "그럭저럭 쓸만합니다.."
+    },
+    {
+      "source_model": "LS-6AFTP-3M",
+      "내용": "좋습니다 잘 사용할게요."
+    },
+    {
+      "source_model": "LS-6AFTP-3M",
+      "내용": "저렴하게 잘 샀네요."
+    },
+    {
+      "source_model": "LS-6AFTP-3M",
+      "내용": "빠른 배송, 좋은 품질 굳굳굳"
+    },
+    {
+      "source_model": "LS-6AFTP-5M",
+      "내용": "좋습니다 잘 사용할게요."
+    },
+    {
+      "source_model": "LS-6AFTP-5M",
+      "내용": "얇아서 좁은 공간에서도 잘 사용할 수 있어 좋습니다"
+    },
+    {
+      "source_model": "LS-6AFTP-5M",
+      "내용": "배송 빠르고 좋은 품질 굳굳굳!"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-6AFTP-2M",
+      "id": 509122268,
+      "date": "2022-12-26 10:13",
+      "answerDate": "2022-12-26 10:36",
+      "user": "ghtw******",
+      "productName": "랜스타 Cat.6A FTP 슬림 랜 케이블 2M LS-6AFTP-2M",
+      "question": "제품 반품 하려고 합니다.\n주소 좀 알려 주세요.",
+      "answer": "안녕하세요 랜스타 입니다\n서울시 용산구 청파로 113-12 전자타운 B동 431호 입니다"
+    },
+    {
+      "source_model": "LS-6AFTP-2M",
+      "id": 630065830,
+      "date": "2025-05-30 16:52",
+      "answerDate": "2025-06-02 10:46",
+      "user": "sela****",
+      "productName": "랜스타 Cat.6A FTP 슬림 랜 케이블 2M LS-6AFTP-2M",
+      "question": "cat.6a ftp 케이블 문의드립니다.\n현재 제품이 슬림과 플랫만 있는데 일반케이블(그레이)로 제작된 상품은 없을까요?\n원래 없었는지 단종이 된건지 문의드립니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n일반형 LS-6STPD 계열 구매해주시면 됩니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-6AFTP-10M",
+      "chatUrl": "3mVtM",
+      "dateIso": "2025-10-13T04:48:16.213Z",
+      "name": "DARK",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "왜 이리 배송실수가 많으신가요...\n(추가 문의) 이건 제가 별도로 교환신청하겠습니다",
+      "answer": "금일 수거 접수 도와드렸습니다. 금일 새제품 출고 후 송장 번호 남겨드리겠습니다. 고객님.\n\n고객님. 혹시 구매하신 계정으로 문의 가능하실까요?\n\n지금 문의 주신 계정의 경우 구매 내역이 확인되지 않아 상담이 어렵습니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "왜 이리 배송실수가 많으신가요..."
+        },
+        {
+          "role": "agent",
+          "text": "지금 문의 주신 계정의 경우 구매 내역이 확인되지 않아 상담이 어렵습니다."
+        },
+        {
+          "role": "customer",
+          "text": "이건 제가 별도로 교환신청하겠습니다"
+        },
+        {
+          "role": "agent",
+          "text": "고객님.\n\n혹시 구매하신 계정으로 문의 가능하실까요?"
+        },
+        {
+          "role": "customer",
+          "text": "잠시만요"
+        },
+        {
+          "role": "agent",
+          "text": "금일 수거 접수 도와드렸습니다.\n금일 새제품 출고 후 송장 번호 남겨드리겠습니다. 고객님."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-6AFTP-3M",
+      "chatUrl": "4RrBC",
+      "dateIso": "2023-08-22T05:11:32.976Z",
+      "name": "후아앙",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "랜선 발송 지연 대체 출고로 연락 드렸습니다 상위 제품으로 보내주세요 더운 날 고생 많으십니다",
+      "answer": "빠르게 배송해드릴게요! 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다! [LS-6AFTP-3M",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~ [배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요! [배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다! [발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다! 안녕하세요, 고객님. 랜스타입니다.\n\n[LS-6AFTP-3M"
+        },
+        {
+          "role": "customer",
+          "text": "랜선 발송 지연 대체 출고로 연락 드렸습니다 상위 제품으로 보내주세요 더운 날 고생 많으십니다"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC",
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1.0,
+        2.0,
+        3.0,
+        5.0,
+        10.0,
+        15.0,
+        20.0
+      ],
+      "color_options": [
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "FTP",
+      "conductor": "연선(stranded)",
+      "awg": 32,
+      "pair_count": 4,
+      "flame_rating": "LSZH",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 커넥터를 네트워크 장비",
+    "connectivity.output_signals": "RJ45 커넥터를 네트워크 장비",
+    "connectivity.directional": "RJ45 커넥터를 네트워크 장비",
+    "form_physical.material": "알루미늄 호일 + PVC 자켓",
+    "form_physical.length_options_meters": "0.5m, 1m, 2m, 3m, 5m, 10m, 15m, 20m",
+    "form_physical.color_options": "케이블 색상: White",
+    "certification.rohs": "RoHS 인증 제품",
+    "family.cat_category": "CAT.6A FTP 규격",
+    "family.shielding": "CAT.6A FTP 규격",
+    "family.conductor": "연선(Stranded Cable) 구조",
+    "family.awg": "32AWG Ultra Slim 케이블",
+    "family.pair_count": "4페어 꼬임구조",
+    "family.flame_rating": "LSZH(Low Smoke Zero Halogen)"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:29",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 2,
+    "category_breakdown": {
+      "troubleshoot": 2
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

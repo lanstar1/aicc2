@@ -1,0 +1,140 @@
+{
+  "model_no": "LS-USB207PN",
+  "product_name": "LAN Star 무전원 7포트 USB 2.0 허브",
+  "category": [
+    "USB허브",
+    "USB2.0",
+    "전원아답터"
+  ],
+  "key_features": [
+    "7개의 USB 포트로 다양한 기기 동시 연결 가능",
+    "USB 2.0 규격, 최대 480Mbps 고속 데이터 전송",
+    "별도 드라이버 불필요 — Plug & Play 지원",
+    "무전원(USB 버스 파워) 동작, 전원 아답터 별매로 추가 전력 공급 가능",
+    "데스크탑·노트북 모두 호환"
+  ],
+  "specifications": {
+    "모델명": "LS-USB207PN",
+    "운영체제": "Windows Vista, Windows XP, ME, 2000, 98 / Mac OS 10.2 이상 / Linux 9 이상",
+    "전원 입력": "AC 110V~240V, 50/60Hz",
+    "전원 출력": "DC 5V 2A (2000mA)",
+    "작동 온도": "섭씨 -20~75도",
+    "보관 온도": "섭씨 -40~85도",
+    "작동 습도": "10~90%",
+    "크기": "80(W) x 45(D) x 23(H) mm",
+    "무게": "54g",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "Windows Vista",
+    "Windows XP",
+    "Windows ME",
+    "Windows 2000",
+    "Windows 98",
+    "Mac OS 10.2 이상",
+    "Linux 9 이상",
+    "USB 2.0 인터페이스 지원 데스크탑",
+    "USB 2.0 인터페이스 지원 노트북"
+  ],
+  "package_contents": [
+    "USB 2.0 허브 본체",
+    "AB 스탠드",
+    "USB 전원케이블"
+  ],
+  "usage_instructions": "USB 전원케이블을 호스트 기기(PC/노트북)의 USB 포트에 연결한 후, 사용할 기기를 허브의 포트 1~7에 꽂으면 Plug & Play로 자동 인식됩니다. 고전력 기기 사용 시 전원 부족이 발생하면 별매 전원 아답터를 추가로 연결하여 사용하십시오.",
+  "cautions": [
+    "전원 아답터는 별매품이며 기본 구성품에 포함되지 않습니다.",
+    "고전력 제품 사용 시 전원 부족 현상이 발생하면 추가 아답터를 사용하십시오.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품 및 콘텐츠를 라인업시스템(주)의 동의 없이 무단 복제·이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 소비자상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB207PN",
+      "품목코드": "USB-HB무114",
+      "품목명": "[LANstar] USB허브 , USB2.0 7Port. Silver, Power option LS-USB207PN [30104] ★★할인제외★★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-USB207PN",
+      "내용": "모든게 다 좋았습니다."
+    },
+    {
+      "source_model": "LS-USB207PN",
+      "내용": "크기는 자그만한데 쓸모있어요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 7
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "port_count": 7,
+      "usb_version": "USB2.0",
+      "ethernet_speed_mbps": null,
+      "has_sd_reader": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 전원케이블을 호스트 기기(PC/노트북)의 USB 포트에 연결",
+    "connectivity.output_signals": "허브의 포트 1~7에 꽂으면",
+    "connectivity.directional": "USB 2.0 규격, 최대 480Mbps 고속 데이터 전송",
+    "connectivity.port_count": "7포트 USB 2.0 허브",
+    "power.power_mode": "무전원(USB 버스 파워) 동작, 전원 아답터 별매로 추가 전력 공급 가능",
+    "power.charging_support": "고전력 기기 사용 시 전원 부족이 발생하면 별매 전원 아답터를 추가로 연결",
+    "form_physical.has_case": "LAN Star 무전원 7포트 USB 2.0 허브",
+    "certification.kc": "인증번호: 해당없음",
+    "family.port_count": "7포트 USB 2.0 허브",
+    "family.usb_version": "USB 2.0 규격"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:35",
+  "feature_schema_version": "1.0.0"
+}

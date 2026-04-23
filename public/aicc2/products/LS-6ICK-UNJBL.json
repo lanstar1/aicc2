@@ -1,0 +1,126 @@
+{
+  "model_no": "LS-6ICK-UNJBL",
+  "product_name": "잠금형 CAT.6용 인라인 커플러",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "커플러"
+  ],
+  "key_features": [
+    "CAT.6 UTP 인라인 커플러 (F/F)",
+    "잠금장치 내장으로 한 번 꽂으면 잠금키 없이 분리 불가",
+    "UL 인증 제품",
+    "색상: Blue",
+    "대만산 (Made in Taiwan)",
+    "잠금키(LS-KEY-M8P) 별도 구매 필요",
+    "LAN 케이블 길이 연장 또는 부족 시 사용"
+  ],
+  "specifications": {
+    "모델명": "LS-6ICK-UNJBL",
+    "제품명": "잠금형 CAT.6용 인라인 커플러",
+    "인증번호": "LUS-LS-CAT6",
+    "인증규격": "UL",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "커넥터 타입": "F/F (Female/Female)",
+    "색상": "Blue",
+    "규격": "CAT.6"
+  },
+  "compatibility": [
+    "CAT.6 UTP LAN 케이블",
+    "RJ45 8P8C 커넥터"
+  ],
+  "package_contents": [
+    "잠금형 CAT.6용 인라인 커플러 (LS-6ICK-UNJBL) 본체",
+    "잠금키(LS-KEY-M8P)는 별도 구매"
+  ],
+  "usage_instructions": "1. 잠금키(LS-KEY-M8P)를 커플러에 끼워 Lock Bar를 뺀다. 2. 랜 커넥터를 Lock Bar에 걸어 랜 단자에 꽂는다. 3. 꽂힌 후 빠지지 않고 고정된 상태가 된다. 4. 분리 시: 반대편에 잠금키를 끼워 랜 커넥터와 함께 당기면 쉽게 빠진다.",
+  "cautions": [
+    "한 번 꽂으면 잠금키의 도움 없이 절대 뺄 수 없습니다.",
+    "잠금키(LS-KEY-M8P)는 별도 구매가 필요합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "AS 소비자상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-6ICK-UNJBL",
+      "품목코드": "NEO-커플러037",
+      "품목명": "[LANstar] 보안용 CAT.6커플러, I형, RJ-45, BLUE, Lock type, 대만산,잠금형 [40129]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "Blue"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "랜 커넥터를 Lock Bar에 걸어 랜 단자에 꽂는다",
+    "connectivity.output_signals": "랜 커넥터를 Lock Bar에 걸어 랜 단자에 꽂는다",
+    "connectivity.directional": "LAN 케이블 길이 연장 또는 부족 시 사용",
+    "connectivity.port_count": "인라인 커플러 (F/F)",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "잠금형 CAT.6용 인라인 커플러",
+    "form_physical.color_options": "색상: Blue",
+    "certification.kc": "인증번호: LUS-LS-CAT6",
+    "family.cat_category": "CAT.6 UTP 인라인 커플러",
+    "family.shielding": "CAT.6 UTP 인라인 커플러"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:33",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,216 @@
+{
+  "model_no": "LS-6A-UTP",
+  "product_name": "LANStar CAT.6A UTP 슬림 랜케이블 (화이트)",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-UTP",
+    "랜케이블"
+  ],
+  "key_features": [
+    "10Gbps 초고속 전송속도 지원",
+    "500MHz 대역폭 (CAT.6A 규격)",
+    "2.8mm 초슬림 설계 (볼펜심보다 얇음)",
+    "TPE 소재 최상위 난연등급 적용",
+    "연선(Stranded) 구조로 유연성 우수 및 설치 용이",
+    "32AWG 미국전선규격 적용",
+    "순수구리(Bare Copper) 사용으로 높은 전송률",
+    "랜 커넥터 보호캡 기본 장착 (이물질 및 파손 방지)",
+    "슬림 케이블로 일반 대비 60% 공간 절약",
+    "KTC(한국기계전기전자시험연구원) 성능시험 PASS",
+    "FLUKE DTX-1800 테스터 PASS",
+    "RoHS, FCC, CE, ISO 9001:2008 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "TIA/EIA-568 규정 규격 준수",
+    "다이렉트(Direct) 케이블 핀배열(568B-568B)"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.6A",
+    "커넥터 타입": "RJ45, 8P8C",
+    "케이블 타입": "UTP (Unshielded Twisted Pair)",
+    "결선 방식": "Direct (다이렉트)",
+    "전송속도": "10Gbps (10,000Mbps), 10Mbps/100Mbps/1000Mbps/10Gbps 지원",
+    "대역폭": "500MHz",
+    "케이블 외경": "2.8mm (초슬림)",
+    "도체 규격": "32AWG",
+    "도체 소재": "Bare Copper (순수구리)",
+    "도체 구조": "연선(Stranded)",
+    "피복 소재": "TPE (Thermoplastic Elastomer, 열가소성 탄성체)",
+    "난연 등급": "최상위 난연 (TPE 소재)",
+    "색상": "화이트(White)",
+    "길이 라인업": "1M, 2M, 3M, 5M, 10M",
+    "모델명 라인업": "LS-6A-UTP-1MW, LS-6A-UTP-2MW, LS-6A-UTP-3MW, LS-6A-UTP-5MW, LS-6A-UTP-10MW",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANStar",
+    "KTC 시험성적서 번호": "T2015-07624",
+    "시험규격": "TIA/EIA-568",
+    "인증": "RoHS, FCC, CE, ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "CAT.5 / CAT.5E 네트워크 장비",
+    "CAT.6 네트워크 장비",
+    "CAT.6A 네트워크 장비",
+    "10Mbps / 100Mbps / 1Gbps / 10Gbps 이더넷 환경",
+    "RJ45(8P8C) 포트 사용 기기 (스위치, 라우터, NIC, NAS 등)",
+    "데이터센터, 전산실 등 대규모 랜케이블 환경",
+    "TIA/EIA-568 규격 준수 네트워크 인프라"
+  ],
+  "package_contents": [
+    "CAT.6A UTP 슬림 랜케이블 (선택 길이)",
+    "랜 커넥터 보호캡 (양 끝 커넥터에 장착)"
+  ],
+  "usage_instructions": "1. 커넥터 덮개(보호캡) 분리: 화살표 방향으로 래치를 누르면 커넥터에서 덮개가 분리됩니다. 2. RJ45 커넥터를 네트워크 장비(스위치, 라우터, PC 등)의 RJ45 포트에 삽입하여 연결합니다. 3. 슬림 설계(2.8mm)로 좁은 공간이나 다수 케이블 배선 환경에서 설치가 용이합니다. 4. 연선(Stranded) 구조로 유연하게 휘어지므로 배선 작업이 편리합니다. 5. 다이렉트 케이블(568B-568B) 핀배열로 일반 PC-스위치 등 표준 연결에 사용합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품은 다이렉트 케이블(568B-568B) 핀배열이므로 크로스 케이블이 필요한 환경에는 적합하지 않습니다.",
+    "커넥터 보호캡은 미사용 시 커넥터에 장착하여 이물질 침입 및 접촉불량을 방지하세요.",
+    "LANStar 및 라인업시스템(주)의 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있습니다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-6A-UTP-1MW",
+      "품목코드": "CAB-U6T001",
+      "품목명": "[LANstar] [10867]CAT.6A UTP Slim 케이블, 32AWG, TPE, DIRECT 1M, WHITE (300개)",
+      "variant_suffix": "-1MW",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6A-UTP-2MW",
+      "품목코드": "CAB-U6T002",
+      "품목명": "[LANstar] [10868]CAT.6A UTP Slim 케이블, 32AWG, TPE, DIRECT 2M, WHITE (260개)",
+      "variant_suffix": "-2MW",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6A-UTP-3MW",
+      "품목코드": "CAB-U6T003",
+      "품목명": "[LANstar] [10869]CAT.6A UTP Slim 케이블, 32AWG, TPE, DIRECT 3M, WHITE (250개)",
+      "variant_suffix": "-3MW",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6A-UTP-5MW",
+      "품목코드": "CAB-U6T004",
+      "품목명": "[LANstar] [10870]CAT.6A UTP Slim 케이블, 32AWG, TPE, DIRECT 5M, WHITE (140개)",
+      "variant_suffix": "-5MW",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6A-UTP-10MW",
+      "품목코드": "CAB-U6T005",
+      "품목명": "[LANstar] [10871]CAT.6A UTP Slim 케이블, 32AWG, TPE, DIRECT 10M, WHITE (80개)",
+      "variant_suffix": "-10MW",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-6A-UTP",
+      "내용": "얇아서 집에서 쓰기 정말 좋아요."
+    },
+    {
+      "source_model": "LS-6A-UTP",
+      "내용": "인터넷 모뎀하고 iptv 셋탑박스를 다른 곳에 두게 돼서 긴 케이블이 필요해서 샀는데, 연결 잘 됩니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-6A-UTP",
+      "id": 177327289,
+      "date": "2021-08-03 17:33",
+      "answerDate": "2021-08-09 09:32",
+      "user": "buza*******",
+      "productName": "랜스타 CAT6A UTP Slim 10Gbps 케이블 LS-6A-UTP",
+      "question": "전화케이블과 같이 구매하려고하는데 묶음 배송 가능 할까요?",
+      "answer": "안녕하세요 랜스타 입니다\n\n묶음 배송 가능 합니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "TPE"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        2,
+        3,
+        5,
+        10
+      ],
+      "color_options": [
+        "화이트"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "UTP",
+      "conductor": "연선(stranded)",
+      "awg": 32,
+      "pair_count": null,
+      "flame_rating": "PVC",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 커넥터를 네트워크 장비",
+    "connectivity.output_signals": "RJ45 포트에 삽입하여 연결합니다",
+    "connectivity.directional": "10Gbps 초고속 전송속도 지원",
+    "form_physical.material": "TPE 소재 최상위 난연등급 적용",
+    "form_physical.length_options_meters": "1M, 2M, 3M, 5M, 10M",
+    "form_physical.color_options": "색상: 화이트(White)",
+    "certification.kc": "KTC(한국기계전기전자시험연구원) 성능시험 PASS",
+    "certification.rohs": "RoHS, FCC, CE, ISO 9001:2008 인증",
+    "certification.iso9001": "RoHS, FCC, CE, ISO 9001:2008 인증",
+    "certification.fcc": "RoHS, FCC, CE, ISO 9001:2008 인증",
+    "certification.ce": "RoHS, FCC, CE, ISO 9001:2008 인증",
+    "family.cat_category": "CAT.6A 규격",
+    "family.shielding": "UTP (Unshielded Twisted Pair)",
+    "family.conductor": "연선(Stranded) 구조로 유연성 우수",
+    "family.awg": "32AWG 미국전선규격 적용",
+    "family.flame_rating": "TPE 소재 최상위 난연등급 적용"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:27",
+  "feature_schema_version": "1.0.0"
+}

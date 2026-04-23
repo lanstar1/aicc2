@@ -1,0 +1,122 @@
+{
+  "model_no": "LS-AIR",
+  "product_name": "LANStar 데스크탑 공중부양 거치대",
+  "category": [
+    "공중부양거치대"
+  ],
+  "key_features": [
+    "책상 하단부에 고정 브라켓으로 단단하게 고정하는 공중부양 거치 방식",
+    "데스크탑 높이 30cm~50cm 자유 조절 가능",
+    "데스크탑 깊이(폭) 14cm~24cm 자유 조절 가능",
+    "최대 하중 10kg 지지",
+    "미끄럼 방지 고무 범폰 4개 부착으로 데스크탑 보호",
+    "블랙/화이트 2가지 색상 제공"
+  ],
+  "specifications": {
+    "모델명(Black)": "LS-AIRB",
+    "모델명(White)": "LS-AIRW",
+    "제품번호(Black)": "30601",
+    "제품번호(White)": "30602",
+    "색상": "Black, White",
+    "재질": "Metal",
+    "최대 하중": "10kg",
+    "데스크탑 높이 조절 범위": "30cm ~ 50cm",
+    "데스크탑 깊이(폭) 조절 범위": "14cm ~ 24cm",
+    "책상 고정 나사 길이": "2.3cm",
+    "최소 적용 가능 책상 두께": "2.5cm 이상",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "높이 30cm~50cm 이내의 데스크탑 본체",
+    "깊이(폭) 14cm~24cm 이내의 데스크탑 본체",
+    "무게 10kg 이하의 데스크탑 본체",
+    "두께 2.5cm 이상인 책상"
+  ],
+  "package_contents": [
+    "상단 하우징 1ea",
+    "하단 하우징 1ea",
+    "고정 브라켓 1ea",
+    "하단 받침대 1ea",
+    "육각 나사 4ea",
+    "육각 렌치 1ea",
+    "책상 고정 나사 4ea",
+    "하단 받침대 볼트 세트",
+    "고무 범폰 4ea"
+  ],
+  "usage_instructions": "① 책상 고정 브라켓과 상단 하우징을 육각나사 4개로 결합한다. ② 결합한 부분을 책상 하단면에 고정 나사로 고정한다. ③ 하부 하우징과 하단 받침대를 결합한다. ④ 조립한 하단부를 책상에 고정된 상단부에 PC 높이와 폭에 맞게 조절한 뒤 결합한다. ⑤ 4개의 보호용 고무 범폰을 부착한 후 PC를 거치하여 사용한다.",
+  "cautions": [
+    "책상 고정 나사 길이가 2.3cm이므로 책상 두께가 최소 2.5cm 이상인 경우에만 설치할 것 (두께 미달 시 책상에 구멍이 생길 수 있음)",
+    "데스크탑 무게가 최대 하중 10kg을 초과하지 않도록 주의할 것",
+    "제조사 사정에 따라 제품 색상·형태 등 사양이 예고 없이 변경될 수 있음",
+    "라인업시스템(주)의 동의 없이 상품 및 콘텐츠를 무단 복제·이용 시 불이익이 발생할 수 있음"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "Black",
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "mount_interface": "Freeform",
+      "weight_capacity_kg": 10,
+      "tilt": null,
+      "swivel": null,
+      "height_adjustable": true
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "공중부양 거치 방식",
+    "form_physical.material": "재질\": \"Metal",
+    "form_physical.color_options": "블랙/화이트 2가지 색상 제공",
+    "certification.kc": "KC 인증 번호\": \"해당없음",
+    "family.mount_interface": "책상 하단부에 고정 브라켓으로 단단하게 고정",
+    "family.weight_capacity_kg": "최대 하중 10kg 지지",
+    "family.height_adjustable": "데스크탑 높이 30cm~50cm 자유 조절 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:10",
+  "feature_schema_version": "1.0.0"
+}

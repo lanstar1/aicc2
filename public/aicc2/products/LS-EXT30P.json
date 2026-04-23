@@ -1,0 +1,161 @@
+{
+  "model_no": "LS-EXT30P",
+  "product_name": "LANStar USB 3.0 리피터 케이블 (USB 3.0 A/M-A/F Extension Cable)",
+  "category": [
+    "USB선택기",
+    "USB케이블",
+    "USB3.0",
+    "USB2.0",
+    "리피터",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 3.0 규격, 최대 5Gbps 전송속도 지원 (USB 2.0 대비 약 10배)",
+    "GL3521 칩셋 탑재로 안정적인 속도 및 끊김 없는 연결 제공",
+    "플러그 앤 플레이(Plug & Play) 지원 — 연결 시 자동 인식",
+    "10M / 15M / 20M 3가지 길이 선택 가능",
+    "케이블 다중 연결로 최대 40M까지 확장 가능",
+    "KC / FCC / CE 안전규격 인증 획득",
+    "RoHS 준수 (납·수은·카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 적용",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 타입": "USB 3.0 A/M - A/F",
+    "전송속도": "최대 5Gbps",
+    "제품 길이": "10M / 15M / 20M",
+    "칩셋": "GL3521",
+    "지원 운영체제": "Windows XP / Vista / 7 / 8 / 10, Mac OS v9.0 이상",
+    "인증번호": "MSIP-REI-LUS-LS-EXT300",
+    "제조국": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)",
+    "A/F 커넥터 크기": "53mm x 42mm x 15.8mm",
+    "A/M 커넥터 크기": "14mm x 11.3mm x 6.5mm (참고치)"
+  },
+  "compatibility": [
+    "Windows 98",
+    "Windows 2000",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8",
+    "Windows 10",
+    "Mac OS v9.0 이상",
+    "USB 3.0 호환 장치",
+    "USB 2.0 / USB 1.1 하위 호환"
+  ],
+  "package_contents": [
+    "USB 3.0 리피터 케이블 (10M 또는 15M 또는 20M, 선택한 모델에 따라 1개)",
+    "전원 어댑터 (10M / 15M / 20M 모델에만 포함)"
+  ],
+  "usage_instructions": "장치에 케이블을 연결하면 자동 인식되어 작동합니다(Plug & Play). 확장 연결 시 케이블을 직렬로 연결하여 최대 40M까지 사용 가능합니다(예: 10M+20M=30M, 20M+20M=40M). 반드시 전원 어댑터를 함께 연결하여 사용하세요.",
+  "cautions": [
+    "10M 이상 사용 시 전력 부족으로 장치 인식이 안 될 수 있으므로 반드시 전원 어댑터를 사용하세요.",
+    "확장 연결(다중 케이블 직렬 연결) 시에도 반드시 전원 어댑터를 연결하세요.",
+    "최대 확장 길이는 40M입니다(예: 20M+20M 또는 10M×4).",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "AS 소비자 상담 전화: 070-7018-3386",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-EXT30P-10M",
+      "품목코드": "USB-리피터095",
+      "품목명": "[LANstar] USB 3.0 리피터, Power type, 10M(14개)[30112]",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-EXT30P-15M",
+      "품목코드": "USB-리피터096",
+      "품목명": "[LANstar] USB 3.0 리피터, Power type, 15M(14개)[30113]",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-EXT30P-20M",
+      "품목코드": "USB-리피터097",
+      "품목명": "[LANstar] USB 3.0 리피터, Power type, 20M(14개)[30114]",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        10,
+        15,
+        20
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "selector_type": "N/A",
+      "input_count": null,
+      "output_count": null,
+      "interfaces": [
+        "USB 3.0"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 A/M",
+    "connectivity.output_signals": "A/F Extension Cable",
+    "connectivity.directional": "USB 3.0 규격, 최대 5Gbps 전송속도 지원",
+    "power.power_mode": "반드시 전원 어댑터를 함께 연결하여 사용하세요.",
+    "power.charging_support": "USB 3.0 규격, 최대 5Gbps 전송속도 지원",
+    "form_physical.has_case": "A/F 커넥터 크기\": \"53mm x 42mm x 15.8mm",
+    "form_physical.length_options_meters": "10M / 15M / 20M 3가지 길이 선택 가능",
+    "certification.kc": "KC / FCC / CE 안전규격 인증 획득",
+    "certification.rohs": "RoHS 준수 (납·수은·카드뮴 등 중금속 사용 금지)",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "certification.fcc": "KC / FCC / CE 안전규격 인증 획득",
+    "certification.ce": "KC / FCC / CE 안전규격 인증 획득",
+    "audio_video.max_resolution": "USB 3.0 규격, 최대 5Gbps 전송속도 지원",
+    "audio_video.hdcp_version": "USB 3.0 규격, 최대 5Gbps 전송속도 지원",
+    "family.interfaces": "USB 3.0 규격, 최대 5Gbps 전송속도 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:06",
+  "feature_schema_version": "1.0.0"
+}

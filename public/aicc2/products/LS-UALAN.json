@@ -1,0 +1,140 @@
+{
+  "model_no": "LS-UALAN",
+  "product_name": "LANStar USB Type-A 기가랜카드 + USB3.0 3포트 멀티 허브",
+  "category": [
+    "USB허브",
+    "USB3.0",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "USB Type-A 연결 방식의 기가비트 랜카드와 USB 3.0 3포트 허브 결합 제품",
+    "이더넷 최대 전송속도 1Gbps(10/100/1000Mbps) 지원",
+    "USB 3.0 포트 3개, 각 포트 최대 5Gbps 데이터 전송속도 지원",
+    "ASIX AX88179 칩셋 사용으로 호환성 및 안정성 우수",
+    "Plug&Play 지원 - 별도 드라이버 설치 불필요",
+    "Hot Swap 지원 - 전원 상태와 무관하게 연결/해제 가능",
+    "알루미늄 재질 - 가볍고 열전도율 및 전도성이 높아 안정성과 성능 극대화",
+    "컴팩트한 디자인으로 휴대성 우수",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-UALAN)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "입력(INPUT)": "USB 3.0 Type-A",
+    "출력(OUTPUT)": "RJ45 1포트, USB 3.0 3포트",
+    "이더넷 전송속도": "10/100/1000Mbps",
+    "USB 3.0 전송속도": "최대 5Gbps",
+    "칩셋": "ASIX AX88179",
+    "작동 온도": "-10°C ~ 70°C",
+    "크기": "88 x 25 x 17 (mm)",
+    "무게": "약 42.3g (케이블 포함)",
+    "재질": "알루미늄",
+    "케이블 길이": "약 15cm",
+    "KC 인증번호": "R-R-LUS-LS-UALAN",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "Windows XP / 7 / 8 / 8.1 / 10",
+    "Windows Vista",
+    "Mac OS",
+    "Linux",
+    "USB 1.1 하위 호환",
+    "USB 2.0 하위 호환",
+    "USB 3.0",
+    "데스크탑, 노트북",
+    "키보드, 마우스, USB 메모리, 프린터, USB 카메라 등 다양한 USB 장치"
+  ],
+  "package_contents": [
+    "LS-UALAN 본체 1개"
+  ],
+  "usage_instructions": "USB 3.0 Type-A 포트에 제품을 연결하면 Plug&Play로 별도 드라이버 설치 없이 바로 사용 가능. Hot Swap 기능을 지원하여 전원 상태와 무관하게 언제든지 연결 및 해제 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "RJ45",
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "port_count": 3,
+      "usb_version": "USB3.0",
+      "ethernet_speed_mbps": 1000,
+      "has_sd_reader": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB Type-A 연결 방식",
+    "connectivity.output_signals": "RJ45 1포트, USB 3.0 3포트",
+    "connectivity.directional": "USB Type-A 연결 방식의 기가비트 랜카드와 USB 3.0 3포트 허브 결합 제품",
+    "connectivity.port_count": "RJ45 1포트, USB 3.0 3포트",
+    "power.power_mode": "Hot Swap 지원 - 전원 상태와 무관하게 연결/해제 가능",
+    "power.charging_support": "USB 3.0 3포트 멀티 허브",
+    "form_physical.has_case": "알루미늄 재질",
+    "form_physical.material": "알루미늄 재질",
+    "form_physical.length_meters": "케이블 길이: 약 15cm",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "audio_video.max_resolution": "기가비트 랜카드",
+    "audio_video.hdr_support": "기가비트 랜카드",
+    "audio_video.hdcp_version": "기가비트 랜카드",
+    "audio_video.audio_pass": "기가비트 랜카드",
+    "control_switching.has_remote": "Plug&Play 지원 - 별도 드라이버 설치 불필요",
+    "control_switching.has_hotkey": "Plug&Play 지원 - 별도 드라이버 설치 불필요",
+    "control_switching.has_physical_button": "Plug&Play 지원 - 별도 드라이버 설치 불필요",
+    "control_switching.has_mouse_switching": "Plug&Play 지원 - 별도 드라이버 설치 불필요",
+    "control_switching.has_auto_scan": "Plug&Play 지원 - 별도 드라이버 설치 불필요",
+    "control_switching.has_app_control": "Plug&Play 지원 - 별도 드라이버 설치 불필요",
+    "family.port_count": "USB 3.0 포트 3개",
+    "family.usb_version": "USB 3.0",
+    "family.ethernet_speed_mbps": "이더넷 최대 전송속도 1Gbps(10/100/1000Mbps)",
+    "family.has_sd_reader": "USB Type-A 기가랜카드 + USB3.0 3포트 멀티 허브"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:55",
+  "feature_schema_version": "1.0.0"
+}

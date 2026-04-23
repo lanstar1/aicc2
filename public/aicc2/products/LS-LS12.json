@@ -1,0 +1,196 @@
+{
+  "model_no": "LS-LS12",
+  "product_name": "랜섬웨어 차단 스위치 2:1 (RJ45 LAN Manual Switch / 100Mbps)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "컴퓨터 미사용 시 인터넷 선을 물리적으로 차단하여 랜섬웨어 침입 방지",
+    "UP-DOWN 방식의 One-touch 고품질 스위치로 간편한 랜선 차단",
+    "수동 선택기 방식으로 별도의 회로나 DATA 처리 기능 없이 LAN 신호를 통과(By Pass)하는 역할",
+    "양방향 통신 및 역방향 연결 사용 가능",
+    "2개의 단자에서 동시 출력이 아닌 선택된 포트만 출력",
+    "최대 100Mbps 전송속도 지원",
+    "호환성 우수, 전환 및 선택 간편, 빠른 반응속도",
+    "사용 중 특성 저하나 장애 없음",
+    "관공서, 학교, 군부대, 기업체 등 개인 PC 사용 환경에 적합",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "RoHS 인증 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-LS12",
+    "제품명": "랜섬웨어 차단 스위치 2:1",
+    "전송속도": "최대 100Mbps",
+    "포트 규격": "RJ45 8P8C",
+    "포트 구성": "INPUT/OUTPUT RJ45 8P8C 1개, A단자 RJ45 8P8C 1개, B단자 RJ45 8P8C 1개",
+    "동작 방식": "수동(Manual) 선택기, One-touch",
+    "제품 크기": "115mm x 75mm x 29mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입",
+    "환경 인증": "RoHS COMPLIANT",
+    "품질 인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "RJ45 8P8C LAN 포트를 사용하는 PC 및 네트워크 장비",
+    "100Mbps 이하 LAN 환경"
+  ],
+  "package_contents": [
+    "랜섬웨어 차단 스위치 2:1 (LS-LS12) 본체 1개"
+  ],
+  "usage_instructions": "1. 하나의 랜선으로 PC를 선택하여 사용하는 방법: INPUT/OUTPUT 단자에 LAN LINE 연결, A 또는 B 버튼을 눌러 사용할 PC 본체 포트 선택. 2. 한 대의 PC로 각기 다른 IP를 선택하여 사용하는 방법: PC 본체에 INPUT/OUTPUT 단자 연결, A 또는 B 버튼을 눌러 사용할 LAN LINE 선택. 인터넷 접속 시 A버튼 클릭, 자리를 비울 때(컴퓨터 미사용 시) B버튼 클릭하여 랜선 차단.",
+  "cautions": [
+    "노이즈 및 신호 저하를 줄이기 위해 쉴드(Shield) 처리된 랜 케이블 사용을 권장합니다.",
+    "최대 전송속도는 100Mbps이므로 그 이상의 속도 환경에서는 속도 제한이 발생할 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-LS12",
+      "품목코드": "INT-랜선택001",
+      "품목명": "[LANstar] 랜수동선택기 1：2 (40개)[30077]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-LS12",
+      "내용": "검사합니다. 잘쓰겠어요"
+    },
+    {
+      "source_model": "LS-LS12",
+      "내용": "잘 받았습니다~~ 감사합니다~~"
+    },
+    {
+      "source_model": "LS-LS12",
+      "내용": "사무실에 사용하려고 구매했어요~ 포장 상태 좋고, 사용하기 편리한것같아요~~"
+    },
+    {
+      "source_model": "LS-LS12",
+      "내용": "방문수령으로 해서 빠르게 받았고 직원분도 친절하셨습니다!"
+    },
+    {
+      "source_model": "LS-LS12",
+      "내용": "배송빠르고 포장꼼꼼해요"
+    },
+    {
+      "source_model": "LS-LS12-NEW",
+      "내용": "해킹 예방을 위해 랜선을 쉽게 뽑고 퇴근 가능"
+    },
+    {
+      "source_model": "LS-LS12-NEW",
+      "내용": "저렴한 가격에 좋은상품인군요"
+    },
+    {
+      "source_model": "LS-LS12-NEW",
+      "내용": "값싸고 좋네요"
+    },
+    {
+      "source_model": "LS-LS12-NEW",
+      "내용": "사용하니 좋습니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-LS12",
+      "id": 545042395,
+      "date": "2023-09-05 20:31",
+      "answerDate": "2023-09-06 14:59",
+      "user": "exce****",
+      "productName": "랜스타 LS-LS12 랜수동선택기 랜섬웨어 차단 스위치",
+      "question": "이 제품 Cat5e나 Cat6  Cat7 등 1Gbps 호환이 안되나요? 별도 회로 없다고 해서 구매했는데 Cat7 케이블 꼽으니 100Mbps로 잡힙니다",
+      "answer": "안녕하세요, 고객님. 랜스타입니다.\n\n해당 제품은 RJ45에서 4핀만 사용하기 때문에 100Mbps까지만 지원합니다. 제품 상세페이지 내 별도 안내가 없어서 혼동을 드린 점 사과드립니다. 추후 상세페이지 내에 속도 표시에 관한 사항을 추가하겠습니다. \n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-LS12",
+      "id": 545708024,
+      "date": "2023-09-10 23:39",
+      "answerDate": "2023-09-11 13:21",
+      "user": "yago*****",
+      "productName": "랜스타 LS-LS12 랜수동선택기 랜섬웨어 차단 스위치",
+      "question": "설명을 읽어봤는데 설치방법이 이해가 가질 않는데 어떻게 설치하나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n아래 내용 확인하시어 진행 부탁드립니다.\n\n1) 공유기에서 나오는 랜선을 연결한 뒤 A/B에 각각 컴퓨터나 통신장비를 연결해주세요.\n2) 그 후, 버튼을 통해 A/B를 선택하여 원하는 곳에 인터넷 신호를 보내주는 제품입니다.\n    선택기이기 때문에 1:2로 분배해주는 역할은 안되고 1:1 통신만 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-LS12",
+      "id": 594862528,
+      "date": "2024-08-31 13:51",
+      "answerDate": "2024-09-02 09:02",
+      "user": "fldj*******",
+      "productName": "랜스타 LS-LS12 랜수동선택기 랜섬웨어 차단 스위치",
+      "question": "저 지금 주문하는데 해킹공격이 너무 심해서  월요일날 빨리 발송될까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n주말 주문 건의 경우 금일 정상적으로 출고될 예정이오니 참고 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "포트 규격: RJ45 8P8C",
+    "connectivity.output_signals": "포트 규격: RJ45 8P8C",
+    "connectivity.directional": "양방향 통신 및 역방향 연결 사용 가능",
+    "connectivity.port_count": "INPUT/OUTPUT RJ45 8P8C 1개, A단자 RJ45 8P8C 1개, B단자 RJ45 8P8C 1개",
+    "power.power_mode": "별도의 회로나 DATA 처리 기능 없이",
+    "power.charging_support": "별도의 회로나 DATA 처리 기능 없이",
+    "form_physical.has_case": "제품 크기: 115mm x 75mm x 29mm",
+    "certification.rohs": "RoHS 인증 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "최대 100Mbps 전송속도 지원",
+    "audio_video.hdr_support": "최대 100Mbps 전송속도 지원",
+    "audio_video.hdcp_version": "최대 100Mbps 전송속도 지원",
+    "audio_video.audio_pass": "최대 100Mbps 전송속도 지원",
+    "control_switching.has_physical_button": "UP-DOWN 방식의 One-touch 고품질 스위치"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:18",
+  "feature_schema_version": "1.0.0"
+}

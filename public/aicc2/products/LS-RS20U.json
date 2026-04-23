@@ -1,0 +1,135 @@
+{
+  "model_no": "LS-RS20U",
+  "product_name": "LANStar USB 2.0 to RS232 Convertor (USB to 시리얼 컨버터)",
+  "category": [
+    "USB2.0",
+    "컨버터",
+    "시리얼카드"
+  ],
+  "key_features": [
+    "USB RS232 케이블을 이용해 USB 단자에 모뎀, PDA, GPS, 내비게이션, 카드결제 단말기 등 RS232 규격의 시리얼 장치와 연결 가능",
+    "USB 2.0 지원 (480Mbps), USB 1.1(12Mbps) 대비 40배 빠른 전송 속도",
+    "FTDI社 FT232 칩셋 사용으로 RS232 장치와 높은 호환성",
+    "양방향/단방향 통신 지원, 최대 1Mbps 전송 속도",
+    "연결 후 자동 인식되는 Plug & Play 지원",
+    "연결 시 전원 라이트로 작동 표시",
+    "RoHS 규정 준수 및 KC, FCC, CE 안전규격 인증"
+  ],
+  "specifications": {
+    "USB 규격": "USB 2.0 (USB 1.1 하위 호환)",
+    "USB 전송 속도": "480Mbps",
+    "시리얼 규격": "RS232",
+    "최대 시리얼 전송 속도": "1Mbps",
+    "사용 칩셋": "FTDI FT232BL",
+    "시리얼 커넥터": "9Pin D-Sub (수, Male)",
+    "USB 커넥터": "USB Type-A (수/암, M/F)",
+    "통신 방향": "양방향/단방향",
+    "KC 인증번호": "E-F900-04-1010",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "9Pin 핀 배열": "Pin1: DCD, Pin2: RXD, Pin3: TXD, Pin4: DTR, Pin5: GND, Pin6: DSR, Pin7: RTS, Pin8: CTS, Pin9: RI"
+  },
+  "compatibility": [
+    "Windows 2000",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Mac OS (8.6 이상)",
+    "Linux",
+    "모뎀 (RS232 규격)",
+    "PDA (RS232 규격)",
+    "GPS (RS232 규격)",
+    "내비게이션 (RS232 규격)",
+    "카드결제 단말기 (RS232 규격)"
+  ],
+  "package_contents": [
+    "USB RS232 컨버터",
+    "RS232 케이블",
+    "드라이버 CD"
+  ],
+  "usage_instructions": "USB 단자에 컨버터를 연결하면 Plug & Play로 자동 인식됩니다. 장치 관리자에서 느낌표가 표시될 경우 제품에 동봉된 드라이버 CD로 드라이버를 설치하세요. 9Pin(M) 단자를 RS232 규격의 시리얼 장치에 연결하고, USB(M/F) 단자를 컴퓨터에 연결합니다. 연결 후 전원 라이트로 작동 여부를 확인할 수 있습니다.",
+  "cautions": [
+    "장치 관리자에서 느낌표가 표시되면 제품에 동봉된 CD로 드라이버를 설치하세요.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상합니다.",
+    "RoHS 규정 준수: 납, 수은, 카드뮴 등 중금속 사용 제한 지침 적용 제품입니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RS20U",
+      "품목코드": "USB-시리얼003",
+      "품목명": "[LANstar] USB 2.0 시리얼 컨버터 [30013] (60개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 단자에 모뎀",
+    "connectivity.output_signals": "RS232 규격의 시리얼 장치와 연결",
+    "connectivity.directional": "양방향/단방향 통신 지원",
+    "power.power_mode": "USB 단자에 컨버터를 연결하면",
+    "certification.kc": "KC, FCC, CE 안전규격 인증",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.fcc": "FCC, CE 안전규격 인증",
+    "certification.ce": "CE 안전규격 인증",
+    "family.usb_version": "USB 2.0 지원",
+    "family.transfer_speed_gbps": "480Mbps",
+    "family.data_only": "USB RS232 케이블을 이용해 USB 단자에 모뎀"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:50",
+  "feature_schema_version": "1.0.0"
+}

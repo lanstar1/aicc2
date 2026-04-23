@@ -1,0 +1,224 @@
+{
+  "model_no": "LS-GLAN31",
+  "product_name": "USB 3.1 Type C 기가 이더넷 랜카드 (LS-GLAN31)",
+  "category": [
+    "USB-C",
+    "컨버터",
+    "젠더",
+    "커넥터",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "USB 3.1 Type C 포트를 통해 기가비트 이더넷(Giga LAN) 포트를 생성하는 어댑터",
+    "리얼텍 칩셋 RTL-8153 사용으로 안정성과 호환성 향상",
+    "10/100/1000Mbps 전송속도 지원",
+    "Type C 커넥터는 위아래 구분 없이 연결 가능 (리버서블)",
+    "Windows, Mac OS, Linux, Android(C타입 스마트폰), Chromebook 지원",
+    "애플 제품(MacBook 등) 완벽 호환",
+    "IEEE 802.3 및 IEEE 802.3az EEE(에너지 효율 이더넷) 표준 지원",
+    "일시정지(Pause) 기능 및 원격 Wake-up 지원",
+    "Windows 11 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "국립전파연구원 인증 획득 (인증번호: MSIP-REI-LUS-LS-GLAN30)",
+    "RoHS 인증 및 ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "케이블타입": "USB 3.1 C/M-GigaLAN",
+    "전송속도": "10/100/1000Mbps",
+    "운영체제": "WIN XP/Vista/7/8/8.1(32/64bit)/10/11, Mac OS 9X/10X, Linux",
+    "운영지원": "IEEE 802.3 표준지원, IEEE 802.3az EEE(에너지 효율 이더넷) 표준지원",
+    "추가기능": "일시정지(Pause) 기능, 원격 Wake-up 지원",
+    "칩셋": "Realtek RTL-8153",
+    "작동온도": "0℃~80℃",
+    "ESD": "8KV",
+    "제품 길이": "215mm",
+    "커넥터 너비": "22.8mm",
+    "커넥터 두께": "8.2mm",
+    "본체 너비": "23.1mm",
+    "본체 두께": "11.9mm",
+    "본체 길이": "66.8mm",
+    "인증번호": "MSIP-REI-LUS-LS-GLAN30",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "Windows XP / Vista / 7 / 8 / 8.1 (32/64bit) / 10 / 11",
+    "Mac OS 9X / 10X",
+    "Linux",
+    "Android C타입 스마트폰",
+    "Apple MacBook (USB Type C 포트 탑재 제품)",
+    "Google Chromebook (USB-C 포트 탑재 제품)",
+    "USB Type C 포트를 갖춘 노트북 및 데스크탑",
+    "LG 스마트폰 호환 불가"
+  ],
+  "package_contents": [
+    "USB 3.1 Type C 기가 이더넷 어댑터 본체 (LS-GLAN31) 1개"
+  ],
+  "usage_instructions": "[Windows 드라이버 설치] 제품 연결 시 내 컴퓨터에 생성되는 CD를 열어 Setup.exe를 클릭하여 설치. 장치 관리자 > 네트워크 어댑터 항목에 'Realtek USB GBE Family Controller'가 표시되면 설치 완료. [Mac 드라이버 설치] 제품 연결 시 내 컴퓨터에 생성되는 CD롬 폴더에서 RTUNICv.1.0.5.pkg를 클릭하여 설치.",
+  "cautions": [
+    "LG 스마트폰은 호환 불가능합니다. 구매 시 주의하십시오.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GLAN31",
+      "품목코드": "CAB-U31012",
+      "품목명": "[LANstar] [USB 3.1] LAN 컨버터, USB 3.1 TO GigaLAN, Black [30115] (200개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-GLAN31",
+      "내용": "유선은 항상옳다!!!!"
+    },
+    {
+      "source_model": "LS-GLAN31",
+      "내용": "일할때 사용합니다 작동 굳"
+    },
+    {
+      "source_model": "LS-GLAN31",
+      "내용": "잘쓸게요 감사합니다"
+    },
+    {
+      "source_model": "LS-GLAN31",
+      "내용": "잘받았습니다. 잘되네요."
+    },
+    {
+      "source_model": "LS-GLAN31",
+      "내용": "디자인이 정말 깔끔합니다...!"
+    },
+    {
+      "source_model": "LS-GLAN31",
+      "내용": "너무 좋아요 추천해요오"
+    },
+    {
+      "source_model": "LS-GLAN31",
+      "내용": "배송은 보통입니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-GLAN31",
+      "chatUrl": "2sVuw",
+      "dateIso": "2023-10-24T05:05:18.151Z",
+      "name": "phju****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하세요, 문의드릴게있어서 연락드렸습니다. 현재 로지텍플로우를 사용중인데요. 플로우를 사용하려면 동일한 네트워크로 연결해야 사용가능해서 보통 동일 와이파이로 해놓고 사용중입니다.\n(추가 문의) 아, 구매한게있는게 아니라 구매하고싶은데 어떻게 구매해야될지 몰라서 문의드리는 거예요~\n(추가 문의) 아, 불가능하군요..ㅠㅠ \n답변감사드립니다!",
+      "answer": "정확한 안내를 위해 아래 내용 확인 부탁드립니다. 성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "아, 불가능하군요..ㅠㅠ \n답변감사드립니다!"
+        },
+        {
+          "role": "agent",
+          "text": "고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하"
+        },
+        {
+          "role": "customer",
+          "text": "아, 구매한게있는게 아니라 구매하고싶은데 어떻게 구매해야될지 몰라서 문의드리는 거예요~"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요, 문의드릴게있어서 연락드렸습니다. 현재 로지텍플로우를 사용중인데요. 플로우를 사용하려면 동일한 네트워크로 연결해야 사용가능해서 보통 동일 와이파이로 해놓고 사용중입니다."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": 0.215,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB3.1Gen1",
+      "transfer_speed_gbps": 1,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 Type C 포트를 통해",
+    "connectivity.output_signals": "기가비트 이더넷(Giga LAN) 포트를 생성",
+    "connectivity.directional": "10/100/1000Mbps 전송속도 지원",
+    "connectivity.port_count": "USB 3.1 Type C 포트를 통해 기가비트 이더넷(Giga LAN) 포트를 생성하는 어댑터",
+    "power.power_mode": "USB 3.1 Type C",
+    "form_physical.has_case": "본체 너비",
+    "form_physical.material": "플라스틱",
+    "form_physical.length_meters": "제품 길이: 215mm",
+    "certification.kc": "국립전파연구원 인증 획득",
+    "certification.rohs": "RoHS 인증",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.usb_version": "USB 3.1 Type C",
+    "family.transfer_speed_gbps": "10/100/1000Mbps 전송속도 지원",
+    "family.data_only": "기가비트 이더넷(Giga LAN) 포트를 생성하는 어댑터"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:19",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

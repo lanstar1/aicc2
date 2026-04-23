@@ -1,0 +1,140 @@
+{
+  "model_no": "LS-HS31",
+  "product_name": "LAN Star 3:1 HDMI 선택기 LS-HS31",
+  "category": [
+    "HDMI선택기"
+  ],
+  "key_features": [
+    "4K2K UHD 해상도 지원 (최대 4096×2160 @30Hz), Full HD 1080p 대비 4배 고해상도",
+    "3입력 1출력(3 IN 1 OUT) 구성으로 여러 HDMI 장치를 버튼 하나로 전환",
+    "무전원 방식 – 별도 전원 연결 없이 사용 가능",
+    "Plug & Play – 별도 설치 프로그램 없이 연결만으로 즉시 사용",
+    "3D 영상 출력 지원 (3D 영화·게임·영상)",
+    "HDCP 1.4 지원 – 디지털 영상 저작권 보호 기술",
+    "12bit Deep Color 지원",
+    "DTS-HD, Dolby TrueHD 등 고음질 오디오 포맷 지원"
+  ],
+  "specifications": {
+    "크기": "8.2 × 6.2 × 1.6 cm",
+    "제품 무게": "60g",
+    "전원 방식": "무전원 방식",
+    "HDMI 버전": "HDMI 1.4b",
+    "지원 해상도": "4K×2K @30Hz, 1080p, 720p/i, 576p/i, 480p/i",
+    "지원 주파수(대역폭)": "9Gbps",
+    "지원 사항": "12bit deep color, 3Gbps/30Hz per channel max.",
+    "입출력 구성": "3 IN 1 OUT",
+    "인증번호": "MSIP-REI-LUS-LS-AS31",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 출력을 지원하는 노트북 / 데스크탑",
+    "DVD 플레이어 / Blu-ray 플레이어",
+    "PS3 (HDMI 출력 지원 게임 콘솔)",
+    "HDMI 입력을 지원하는 TV",
+    "HDMI 입력을 지원하는 모니터",
+    "빔프로젝터 (HDMI 입력 지원 기기)",
+    "HDCP 1.4 지원 기기",
+    "※ 셋톱박스 및 인터넷 TV와는 호환되지 않음 (방송 송출사 신호 차단 시 작동 불가)"
+  ],
+  "package_contents": [
+    "HDMI 3:1 선택기 본체 (LS-HS31) 1개"
+  ],
+  "usage_instructions": "HDMI를 지원하는 입력 기기(최대 3개)를 IN1·IN2·IN3 포트에 연결하고, 출력 기기(TV·모니터 등)를 OUT 포트에 연결한다. 별도 전원 및 설치 프로그램 없이 연결 즉시 사용 가능(Plug & Play). 전면 Select 버튼으로 원하는 입력 채널을 선택하여 영상·음성을 출력한다.",
+  "cautions": [
+    "셋톱박스 및 인터넷 TV와 연결 시 작동하지 않으며, 일시적으로 작동하더라도 방송 송출사에서 신호 차단 시 다시 작동하지 않음.",
+    "HDCP를 지원하지 않는 기기 사용 시 영상이 출력되지 않음.",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있음.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있음."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HS31",
+      "품목코드": "INT-HDS107",
+      "품목명": "[LANstar] HDMI 선택기 3 :1 , 4K*2K 30Hz [30179] (200개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HS31",
+      "내용": "편하게 잘사용하고 있어요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": "HDCP1.4",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "selector_type": "수동",
+      "input_count": 3,
+      "output_count": 1,
+      "interfaces": [
+        "HDMI"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 장치를 버튼 하나로 전환",
+    "connectivity.output_signals": "HDMI 장치를 버튼 하나로 전환",
+    "connectivity.directional": "3입력 1출력(3 IN 1 OUT)",
+    "connectivity.port_count": "3입력 1출력(3 IN 1 OUT)",
+    "power.power_mode": "무전원 방식 – 별도 전원 연결 없이",
+    "power.charging_support": "무전원 방식",
+    "form_physical.has_case": "LAN Star 3:1 HDMI 선택기 LS-HS31",
+    "certification.kc": "MSIP-REI-LUS-LS-AS31",
+    "audio_video.max_resolution": "4K2K UHD 해상도 지원 (최대 4096×2160 @30Hz)",
+    "audio_video.hdcp_version": "HDCP 1.4 지원",
+    "audio_video.audio_pass": "고음질 오디오 포맷 지원",
+    "control_switching.has_physical_button": "전면 Select 버튼으로 원하는 입력 채널을 선택",
+    "family.selector_type": "버튼 하나로 전환",
+    "family.input_count": "3입력 1출력(3 IN 1 OUT)",
+    "family.output_count": "3입력 1출력(3 IN 1 OUT)",
+    "family.interfaces": "HDMI 장치를 버튼 하나로 전환"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:47",
+  "feature_schema_version": "1.0.0"
+}

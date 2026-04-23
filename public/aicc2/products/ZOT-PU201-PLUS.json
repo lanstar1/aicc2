@@ -1,0 +1,180 @@
+{
+  "model_no": "ZOT-PU201-PLUS",
+  "product_name": "USB 2.0 프린터 서버 1Port",
+  "category": [
+    "USB2.0"
+  ],
+  "key_features": [
+    "USB 2.0 호환 (10/100Mbps 전송속도 지원)",
+    "DHCP 클라이언트 지원",
+    "다중 네트워크 프로토콜 지원 (TCP/IP, IPX, NetBEUI, AppleTalk, LPR, RAW TCP)",
+    "Windows 11 지원",
+    "IPP(Internet Printing Protocol) 지원",
+    "SNMP 지원",
+    "전자메일 알림 기능",
+    "펌웨어 업그레이드 지원",
+    "Windows 기반 설치 프로그램(PSAdmin) 제공",
+    "웹 관리 및 텔넷 구성 지원",
+    "23번 포트(Telnet) 차단을 통한 보안 강화 가능",
+    "하나의 네트워크에서 다수 사용자가 동시에 인쇄 가능",
+    "비용 절감 효과",
+    "초고속 인쇄 지원"
+  ],
+  "specifications": {
+    "모델명": "ZOT-PU201-PLUS",
+    "네트워크 프로토콜": "TCP/IP, IPX, NetBEUI, AppleTalk, LPR, RAW TCP",
+    "운영체제 지원": "Windows 7/8/10/11, MAC OS 8.1 이상(Postscript 프린터), UNIX/Linux(LPR), NetWare 3.12 이상(NDS&Bindery)",
+    "이더넷 표준": "IEEE 802.3 및 802.3U 준수",
+    "USB 규격": "USB 2.0 호환",
+    "이더넷 포트": "10/100Mbps 이더넷 포트(RJ45) 내장",
+    "CPU": "Embedded MIPS24KEC(MT768AN)",
+    "Flash RAM": "내장 (1MBytes)",
+    "SDRAM": "내장 (16Mbytes DDR2)",
+    "PCB기판(Up)": "MediaTek MT7688 Module Rev:A1",
+    "PCB기판(Down)": "716U2-B Rev:B2",
+    "전원": "5VDC 1A",
+    "규격(HxWxD)": "73.2x64.8x28.4mm",
+    "무게": "57.5g",
+    "고급 기능": "DHCP(클라이언트) 지원, 전자메일 알림, IPP 지원, SNMP 지원, 펌웨어 업그레이드",
+    "관리": "Windows 기반 설치 프로그램(PSAdmin), 웹관리, 텔넷 구성, HP JetAdmin",
+    "인증": "KC (인증번호: LUS-PU201-USB20), FCC, CE, RoHS",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "PCL 언어를 지원하는 프린터 (PCL, PCL5, PCL5E, PCL6)",
+    "PS(PostScript) 언어를 지원하는 프린터",
+    "Windows 7/8/10/11",
+    "MAC OS 8.1 이상 (Postscript 프린터)",
+    "UNIX/Linux (LPR)",
+    "NetWare 3.12 이상 (NDS&Bindery)",
+    "IEEE 802.3 및 802.3U 준수 네트워크 장비",
+    "USB 2.0 인터페이스 지원 프린터",
+    "10/100Mbps 이더넷 네트워크 환경"
+  ],
+  "package_contents": [
+    "프린터 서버 본체 (ZOT PU201+)",
+    "프린터 서버 충전기 (5V/2A)",
+    "한글 매뉴얼",
+    "드라이버 CD"
+  ],
+  "usage_instructions": "1. 프린터 서버를 프린터의 USB 포트에 연결하고 LAN 케이블로 네트워크에 연결한다. 2. PC 1대에 드라이버 CD의 프린터 서버 드라이버 및 PSAdmin 관리 프로그램을 설치한다. 3. PSAdmin에서 TCP/IP를 자동 또는 수동으로 설정한다. 4. 각 PC에서 프린터 드라이버를 반드시 로컬 프린터로 설치하고, 프린터 속성에서 TCP/IP 포트를 추가하여 프린터 서버에 할당된 IP 주소를 입력한다. 5. 보안 강화를 위해 인터넷 주소창에 192.168.0.10을 입력하여 관리 페이지에 접속 후, '기타' > '서비스' 탭에서 Telnet을 '사용안함'으로 변경하여 23번 포트를 차단한다. 6. 펌웨어 업그레이드는 관리 페이지(192.168.0.10) 접속 후 '설치' > '펌웨어 업그레이드' 순으로 진행한다.",
+  "cautions": [
+    "SPL(삼성 프린터 전용 언어), CARPS(캐논 프린팅 시스템), CAPT, GDI 전용 언어를 사용하는 프린터기와는 호환되지 않는다.",
+    "복합기의 90% 이상은 호환되지 않는다.",
+    "프린터 서버 설치 진행 시 윈도우 방화벽을 '끔'으로 설정해야 인식이 가능하다.",
+    "프린터 드라이버는 반드시 로컬 프린터로 설치해야 하며 '프린터를 공유 안함'으로 체크하지 않아야 한다.",
+    "TCP/IP를 자동 할당으로 사용하는 경우, 프린터 서버 전원을 재시작하면 IP 주소가 변경될 수 있으므로 프린터 속성에서 포트를 재확인해야 한다.",
+    "PSAdmin에서 Status가 OffLine으로 표시될 경우, 모든 포트가 기기와 연결되어야 OnLine으로 변경된다.",
+    "패스워드 분실 시 PSAdmin의 속성 창 > 일반 탭 > 패스워드 버튼 클릭 후 대문자 'PSPASS' 입력으로 재설정 가능하다.",
+    "USB 포트는 시간이 지나면 인식 실패 현상이 발생할 수 있으며, 이 경우 어댑터 잭을 분리 후 재연결하면 해결된다.",
+    "1년 이상 사용 시 어댑터 불량 가능성이 높으므로 어댑터 상태를 확인해야 한다.",
+    "세그먼트 오류 발생 시 PSAdmin에서 사용 중인 네트워크 IP 대역폭에 맞게 IP를 재할당해야 한다.",
+    "Telnet(23번 포트)은 데이터를 암호화하지 않아 스니핑 공격에 취약하므로 사용하지 않을 경우 비활성화를 권장한다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있다.",
+    "본 제품은 현대해상화재 생산물배상책임보험(1억원) 가입 제품이다.",
+    "프린터 호환 여부 확인은 프린터 제조사에 PCL 또는 PS 언어 지원 여부를 먼저 문의해야 한다."
+  ],
+  "variants": [
+    {
+      "model_no": "ZOT-PU201-PLUS",
+      "품목코드": "NET-프서U016",
+      "품목명": "[LANstar] 프린터서버 ZOT PU201-PLUS,USB2.0 1PORT, 5V1A (24개)[30152]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "ZOT-PU201-PLUS",
+      "내용": "잘 사용중입니다.\n만족해요^^"
+    },
+    {
+      "source_model": "ZOT-PU201-PLUS",
+      "내용": "배송 굿 ~~ 서비스 굿 ~~\n배송 굿 ~~ 서비스 굿 ~~"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-B",
+        "RJ45"
+      ],
+      "output_signals": [
+        "USB-A",
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": true
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.1,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "프린터 서버를 프린터의 USB 포트에 연결하고 LAN 케이블로 네트워크에 연결한다.",
+    "connectivity.output_signals": "프린터 서버를 프린터의 USB 포트에 연결하고 LAN 케이블로 네트워크에 연결한다.",
+    "connectivity.directional": "하나의 네트워크에서 다수 사용자가 동시에 인쇄 가능",
+    "connectivity.port_count": "USB 2.0 프린터 서버 1Port",
+    "power.power_mode": "전원: 5VDC 1A",
+    "power.charging_support": "USB 2.0 프린터 서버 1Port",
+    "form_physical.has_case": "규격(HxWxD): 73.2x64.8x28.4mm",
+    "certification.kc": "KC (인증번호: LUS-PU201-USB20)",
+    "certification.rohs": "RoHS",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "USB 2.0 프린터 서버 1Port",
+    "audio_video.hdr_support": "USB 2.0 프린터 서버 1Port",
+    "audio_video.hdcp_version": "USB 2.0 프린터 서버 1Port",
+    "audio_video.audio_pass": "USB 2.0 프린터 서버 1Port",
+    "control_switching.has_remote": "USB 2.0 프린터 서버 1Port",
+    "control_switching.has_hotkey": "USB 2.0 프린터 서버 1Port",
+    "control_switching.has_physical_button": "USB 2.0 프린터 서버 1Port",
+    "control_switching.has_mouse_switching": "USB 2.0 프린터 서버 1Port",
+    "control_switching.has_auto_scan": "USB 2.0 프린터 서버 1Port",
+    "control_switching.has_app_control": "Windows 기반 설치 프로그램(PSAdmin) 제공",
+    "family.usb_version": "USB 2.0 호환",
+    "family.transfer_speed_gbps": "10/100Mbps 전송속도 지원",
+    "family.charging_only": "USB 2.0 프린터 서버 1Port",
+    "family.data_only": "USB 2.0 프린터 서버 1Port"
+  },
+  "feature_extracted_at": "2026-04-23T03:23:00",
+  "feature_schema_version": "1.0.0"
+}

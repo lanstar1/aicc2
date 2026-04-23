@@ -1,0 +1,131 @@
+{
+  "model_no": "LS-SATA40H",
+  "product_name": "LAN Star IDE TO SATA 컨버터 (Host)",
+  "category": [
+    "컨버터",
+    "HDD관련"
+  ],
+  "key_features": [
+    "별도의 인스톨 드라이버 불필요",
+    "IDE 메인보드에서 SATA 장치(HDD, ODD) 연결 지원",
+    "Serial ATA 1.0 규격 준수",
+    "초당 1.5GB 대역폭 지원",
+    "IDE ATA 100/133 규격 지원",
+    "SATA 1.0 규격 지원",
+    "40pin IDE 포트 1개 탑재",
+    "SATA 포트 1개 탑재",
+    "4pin 전원 커넥터 1개 탑재"
+  ],
+  "specifications": {
+    "크기": "55 x 50 x 8 mm (W x D x H)",
+    "포트_IDE": "40pin IDE port 1개",
+    "포트_SATA": "SATA port 1개",
+    "포트_전원": "4pin 전원 1개 (3.5인치 FDD용 전원 크기)",
+    "대역폭": "초당 1.5GB",
+    "IDE_규격": "ATA 100/133",
+    "SATA_규격": "SATA 1.0",
+    "지원_OS": "Windows 98/SE/ME/2000/XP/NT4.0",
+    "모델명": "LS-SATA40H",
+    "인증번호": "LCC-VE007",
+    "제조국": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)",
+    "AS_소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "IDE 40pin 메인보드",
+    "SATA HDD (하드디스크)",
+    "SATA ODD (광학 드라이브)",
+    "Serial ATA 1.0 규격 장치",
+    "IDE ATA 100/133 규격 장치",
+    "Windows 98/SE/ME/2000/XP/NT4.0"
+  ],
+  "package_contents": [
+    "IDE TO SATA 컨버터 본체",
+    "SATA 케이블 (길이 약 50cm)",
+    "전원 케이블 (길이 약 20cm)"
+  ],
+  "usage_instructions": "컨버터를 IDE 메인보드의 40pin IDE 포트에 직접 연결한 후, SATA 케이블과 전원 케이블을 통하여 SATA 장치(HDD 또는 ODD)와 파워 케이블을 연결하여 사용합니다.",
+  "cautions": [
+    "본 제품은 Host용(IDE 메인보드 → SATA 장치 연결)으로, 연결 방향에 주의하여 사용하십시오.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "IDE",
+        "4pin"
+      ],
+      "output_signals": [
+        "SATA"
+      ],
+      "directional": "단방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": true,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals[0]": "40pin IDE 포트 1개 탑재",
+    "connectivity.input_signals[1]": "4pin 전원 커넥터 1개 탑재",
+    "connectivity.output_signals[0]": "SATA 포트 1개 탑재",
+    "connectivity.directional": "IDE 메인보드에서 SATA 장치",
+    "connectivity.port_count": "40pin IDE 포트 1개 탑재",
+    "power.power_mode": "4pin 전원 커넥터 1개 탑재",
+    "power.charging_support": "null",
+    "form_physical.has_case": "55 x 50 x 8 mm (W x D x H)",
+    "certification.kc": "인증번호: LCC-VE007",
+    "audio_video.max_resolution": "null",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.conversion_direction": "IDE 메인보드에서 SATA 장치",
+    "family.requires_external_power": "4pin 전원 커넥터 1개 탑재",
+    "family.chipset": "null"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:59",
+  "feature_schema_version": "1.0.0"
+}

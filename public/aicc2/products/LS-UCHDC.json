@@ -1,0 +1,151 @@
+{
+  "model_no": "LS-UCHDC",
+  "product_name": "LANStar USB Type-C to HDMI 컨버터",
+  "category": [
+    "USB-C",
+    "컨버터"
+  ],
+  "key_features": [
+    "USB Type-C 입력 신호를 HDMI 신호로 변환하여 출력",
+    "최대 4K@60Hz Ultra HD 해상도 지원",
+    "화면 복제(Mirror) 및 화면 확장(Expand) 2가지 모드 지원",
+    "삼성 DeX 모드 지원으로 스마트폰을 PC 환경처럼 사용 가능",
+    "넷플릭스 송출 지원 (단, 애플 기기 제외)",
+    "HDCP(고대역폭 디지털 콘텐츠 보호) 기술 지원",
+    "별도 드라이버 설치 불필요 (Plug&Play 지원)",
+    "PC 전원이 켜진 상태에서 연결/해제 가능 (Hot Swap 지원)",
+    "Alternate Mode 지원 기기에서만 디스플레이 출력 가능",
+    "알루미늄 재질",
+    "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "인터페이스": "USB Type-C to HDMI",
+    "입력 포트": "USB Type-C",
+    "출력 포트": "HDMI",
+    "해상도": "최대 4K@60Hz UHD",
+    "영상 모드": "영상 복제(미러링), 영상 확장(Extend)",
+    "크기": "HDMI: 49x23x11(mm) / Type-C: 18x11x7(mm)",
+    "무게": "약 19g",
+    "케이블 길이": "약 12cm (Type-C 단자 포함)",
+    "재질": "알루미늄",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음"
+  },
+  "compatibility": [
+    "USB Type-C Alternate Mode 지원 스마트폰",
+    "USB Type-C Alternate Mode 지원 태블릿",
+    "USB Type-C Alternate Mode 지원 노트북",
+    "USB Type-C Alternate Mode 지원 MacBook",
+    "Samsung Galaxy S23 / S22 / S21 / S20 시리즈 (DeX 모드)",
+    "Samsung Galaxy 폴드 시리즈 (DeX 모드)",
+    "Samsung Galaxy S10e / S10 / S10+ / S9 / S9+ (DeX 모드)",
+    "HDMI 지원 모니터",
+    "HDMI 지원 TV",
+    "HDMI 지원 빔 프로젝터"
+  ],
+  "package_contents": [
+    "USB Type-C to HDMI 컨버터 본체 1개"
+  ],
+  "usage_instructions": "USB Type-C 단자를 스마트폰, 태블릿, 노트북 등의 USB Type-C 포트에 연결하고, HDMI 단자를 모니터, TV, 빔 프로젝터 등의 HDMI 포트에 연결하면 별도 드라이버 설치 없이 바로 사용 가능합니다. 화면 복제(Mirror) 또는 화면 확장(Expand) 모드를 선택하여 사용할 수 있으며, 삼성 DeX 모드는 지원 삼성 갤럭시 기기에서 자동으로 구성됩니다.",
+  "cautions": [
+    "Alternate Mode를 지원하지 않는 USB Type-C 기기는 디스플레이 출력이 불가능하므로 구매 전 반드시 확인 필요",
+    "아이폰, 아이패드 등 애플 기기에서는 넷플릭스 서비스 이용 불가 (넷플릭스-애플 간 계약 문제)",
+    "삼성 DeX 모드 시작 또는 종료 시 현재 사용 중인 앱이 종료되므로 데이터를 미리 저장 필요",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니므로 A/S 불가",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "당일출고는 오후 4시 이전 결제 완료 기준이며, 토·일·공휴일 제외 평일 기준",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있음",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UCHDC",
+      "품목코드": "COM-외장형657",
+      "품목명": "[LANstar] Type C to HDMI 2.0 컨버터, 4K 60hz [30741] (200개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-UCHDC",
+      "내용": "폰, 놋북에 여기저기 사용도 너무 좋습니다"
+    },
+    {
+      "source_model": "LS-UCHDC",
+      "내용": "빠른 배송 감사합니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": 0.12,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": true
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": null,
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB Type-C 입력 신호를",
+    "connectivity.output_signals": "HDMI 신호로 변환하여 출력",
+    "connectivity.directional": "USB Type-C to HDMI 컨버터",
+    "power.power_mode": "PC 전원이 켜진 상태에서",
+    "form_physical.has_case": "알루미늄 재질",
+    "form_physical.material": "알루미늄 재질",
+    "form_physical.length_meters": "케이블 길이: 약 12cm",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "certification.netflix": "넷플릭스 송출 지원",
+    "audio_video.max_resolution": "최대 4K@60Hz Ultra HD 해상도 지원",
+    "audio_video.hdcp_version": "HDCP(고대역폭 디지털 콘텐츠 보호) 기술 지원",
+    "audio_video.audio_pass": "USB Type-C 입력 신호를 HDMI 신호로 변환하여 출력"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:59",
+  "feature_schema_version": "1.0.0"
+}

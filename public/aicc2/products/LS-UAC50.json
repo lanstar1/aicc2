@@ -1,0 +1,159 @@
+{
+  "model_no": "LS-UAC50",
+  "product_name": "LANStar USB3.2 A/C to RJ45 Ethernet 컨버터 (USB A/C 랜카드)",
+  "category": [
+    "USB-C",
+    "컨버터",
+    "젠더",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "USB3.2 Gen2 인터페이스 지원, 최대 5Gbps 전송 속도",
+    "USB Type-A 및 Type-C 겸용 설계 (C to A 젠더 포함)",
+    "Realtek RTL8157 칩셋 탑재",
+    "자동 크로스오버 감지 (MDI/MDIX 자동 전환)",
+    "드라이버 자동 설치 지원",
+    "Windows, Mac, Linux, Android, Chrome OS 호환",
+    "점보 프레임 최대 16K 지원",
+    "IEEE 802.1Q VLAN 태깅 및 802.1P QoS 우선순위 지원",
+    "IEEE 802.3az EEE 절전 기능 지원 (트래픽 유휴 시 저전력 모드 자동 전환)",
+    "100Mbps / 1Gbps / 2.5Gbps / 5Gbps 다중 전송 속도 지원",
+    "Flow Control 지원",
+    "내부망(Local Network) 환경에서 고속 데이터 전송 최적화",
+    "알루미늄 재질, 소형·경량 디자인",
+    "Link Down / Power Down 모드 지원"
+  ],
+  "specifications": {
+    "인터페이스": "USB Type-C / USB Type-A (C to A 젠더)",
+    "USB 버전": "USB3.2 Gen2",
+    "칩셋": "Realtek RTL8157",
+    "전송 속도": "100Mbps / 1Gbps / 2.5Gbps / 5Gbps",
+    "지원 기능": "Jumbo Frame (최대 16K), VLAN Tagging, Flow Control, Auto Crossover",
+    "표준 규격": "IEEE 802.3 / 802.3u / 802.3ab / 802.3bz / 802.3az, 802.1P / 802.1Q",
+    "전력 절감": "Link Down / Power Down 모드 지원",
+    "크기": "62 x 27 x 14 (mm)",
+    "케이블 길이": "약 15cm",
+    "무게": "41g",
+    "재질": "알루미늄",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "Windows",
+    "Mac OS",
+    "Linux",
+    "Android (OTG 및 유선 LAN 기능 지원 기기에 한함)",
+    "Chrome OS",
+    "노트북",
+    "데스크탑",
+    "서버",
+    "태블릿",
+    "스마트폰",
+    "USB Type-A 포트 보유 기기",
+    "USB Type-C 포트 보유 기기",
+    "USB3.2 Gen2 포트 (최대 성능 발휘 필수 조건)",
+    "CAT.6A 이상 랜 케이블 (5Gbps 속도 구현 권장)",
+    "2.5G/5GBASE-T 표준 지원 네트워크 장비"
+  ],
+  "package_contents": [
+    "USB A/C 랜카드 (LS-UAC50) 본체 1개 (USB-C 연결 + C to A 젠더 일체형)"
+  ],
+  "usage_instructions": "1. 랜카드의 USB 포트(Type-C 또는 Type-A)를 PC·노트북 등의 USB 포트에 연결한다. (USB3.2 Gen2 포트 권장) 2. 드라이버가 자동으로 설치된다. 장치 관리자 > 네트워크 어댑터에서 'Realtek USB Ethernet Controller' 항목으로 설치 여부를 확인할 수 있다. 3. RJ45 포트에 랜 케이블을 연결하면 바로 사용 가능하다.",
+  "cautions": [
+    "5Gbps 최대 속도를 내려면 연결 기기의 USB 포트가 USB3.2 Gen2 이상이어야 하며, 케이블(CAT.6A 이상)과 상대 네트워크 장비(스위치, NAS, 서버 등)도 모두 5Gbps를 지원해야 한다.",
+    "USB3.0 포트에서는 대역폭 차이로 인해 실제 속도가 2.5Gbps 수준으로 제한될 수 있다.",
+    "USB2.0 포트에 연결하면 대역폭 한계(480Mbps)로 기가비트 속도 구현이 불가능하다. 최소 USB3.0 이상 포트 사용을 권장한다.",
+    "USB 허브를 통해 연결 시 허브 대역폭을 여러 장치가 공유하므로 성능이 저하될 수 있다. 최대 성능을 원할 경우 PC의 USB3.2 Gen2 포트에 직접 연결을 권장한다.",
+    "점보 프레임(16K) 기능 사용 시 연결된 스위치·서버도 동일한 점보 프레임 설정이 필요하다.",
+    "인터넷 회선 속도와 무관하게 내부망(LAN) 장비 간 연결 속도에 의해 내부망 속도가 결정된다.",
+    "일부 Android 기기는 OTG 및 유선 LAN 기능을 지원하지 않을 수 있다.",
+    "고속 데이터 전송 시 약간의 발열이 발생할 수 있으나 일반적인 USB 어댑터 수준이다.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처의 제품은 정품이 아닐 수 있으며 A/S를 받을 수 없다.",
+    "당일 출고는 평일 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 및 택배사 사정에 따라 배송 기간이 달라질 수 있다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UAC50",
+      "품목코드": "NET-유랜카138",
+      "품목명": "[LANstar] 5Gbps USB A/C 랜카드 [30960]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-UAC50",
+      "내용": "기능 잘 작동하고 간지나는 색상 맘에 듭니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "USB-C"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB3.2",
+      "transfer_speed_gbps": 5,
+      "transfer_speed_mbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB Type-C / USB Type-A (C to A 젠더)",
+    "connectivity.output_signals": "RJ45 포트에 랜 케이블을 연결하면",
+    "connectivity.directional": "LANStar USB3.2 A/C to RJ45 Ethernet 컨버터",
+    "power.power_mode": "USB 포트에 연결한다.",
+    "form_physical.has_case": "알루미늄 재질, 소형·경량 디자인",
+    "form_physical.material": "알루미늄 재질",
+    "form_physical.length_meters": "케이블 길이: 약 15cm",
+    "family.usb_version": "USB3.2 Gen2 인터페이스 지원",
+    "family.transfer_speed_gbps": "최대 5Gbps 전송 속도"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:53",
+  "feature_schema_version": "1.0.0"
+}

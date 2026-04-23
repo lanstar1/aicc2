@@ -1,0 +1,141 @@
+{
+  "model_no": "LS-POECS",
+  "product_name": "LANStar PoE+ 1Gbps 싱글 랜카드 (LS-POECS)",
+  "category": [
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "PCI-Express 2.0 x1 Bus Slot 지원 (x1/x4/x8/x16 슬롯 모두 장착 가능)",
+    "Intel WGI210AT 칩셋 탑재로 안정성 및 네트워크 속도 최대 출력",
+    "IEEE 802.3af/at PoE 표준 지원 (PoE+ 최대 30W, 44~57VDC)",
+    "IEEE 802.3ab/802.3u/802.3 이더넷 표준 지원",
+    "10/100/1000Mbps 전송 속도 지원",
+    "메인보드 PCIE 슬롯을 통해 PoE 랜포트 생성 (별도 PoE 허브 불필요)",
+    "랜케이블 한 가닥으로 데이터와 전원 동시 공급",
+    "방열판(Heatsink) 장착으로 발열 대비 및 성능 저하 방지",
+    "슬림 PC 전용 브라켓 기본 제공",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-POECS)"
+  ],
+  "specifications": {
+    "버스 슬롯": "PCI-Express 2.0 x1",
+    "인터페이스": "RJ45 x1",
+    "전송 속도": "10/100/1000Mbps",
+    "칩셋": "Intel WGI210AT",
+    "PoE 표준": "IEEE 802.3af/at",
+    "PoE 최대 전력": "30W",
+    "PoE 전압 범위": "44~57VDC",
+    "운영 체제": "Windows 7/8/10/11, FreeBSD, Linux, VMWare ESXi",
+    "제품 무게": "약 81g",
+    "제품 크기": "56mm x 115mm",
+    "KC 인증번호": "R-R-LUS-LS-POECS",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "PCI-Express x1 슬롯 장착 메인보드",
+    "PCI-Express x4 슬롯 장착 메인보드",
+    "PCI-Express x8 슬롯 장착 메인보드",
+    "PCI-Express x16 슬롯 장착 메인보드",
+    "슬림 PC (전용 브라켓 사용 시)",
+    "IEEE 802.3af PoE 장치 (최대 15W)",
+    "IEEE 802.3at PoE+ 장치 (최대 30W)",
+    "IP 카메라, IP 전화기, IP 공유기, PTZ 카메라, 스마트 홈 도어폰, LED 등 등 PoE 장비",
+    "Windows 7/8/10/11",
+    "FreeBSD",
+    "Linux",
+    "VMWare ESXi"
+  ],
+  "package_contents": [
+    "PCIE PoE+ 랜카드 본체 (LS-POECS)",
+    "슬림 PC 전용 브라켓",
+    "드라이버 설치 CD",
+    "매뉴얼"
+  ],
+  "usage_instructions": "1. PC 전원을 완전히 끈 상태에서 메인보드의 PCIE 슬롯(x1/x4/x8/x16 모두 사용 가능)에 카드를 장착한다. 슬림 PC의 경우 기본 브라켓을 제거하고 동봉된 슬림 PC 전용 브라켓으로 교체 후 장착한다. 2. PC를 켜면 Windows 10/11에서는 드라이버가 자동으로 설치된다. 드라이버가 자동 설치되지 않을 경우 동봉된 CD로 수동 설치한다. (Windows XP는 사용 불가.) 3. 설치 완료 후 RJ45 포트에 랜케이블을 연결하여 PoE 장비에 데이터와 전원을 동시 공급한다.",
+  "cautions": [
+    "Windows XP는 지원하지 않으므로 사용 불가.",
+    "PoE+ 최대 공급 전력은 30W이므로, 30W를 초과하는 PoE 장비는 사용 불가.",
+    "PC 전원이 OFF인 상태에서 PCIE 카드를 장착해야 한다.",
+    "일반 랜카드 용도로만 사용할 경우 PoE 전용 제품이므로 일반 랜카드 대비 고가임. 단순 랜카드 목적이라면 일반 랜카드 제품 구매를 권장.",
+    "라인업시스템(주)/랜스타 정품 인증·등록되지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없음.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음.",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일은 제외한 평일 기준임. 택배사 사정에 따라 배송 기간이 길어질 수 있음."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-POECS",
+      "품목코드": "POE-PCI001",
+      "품목명": "[LANstar] PCIe 인텔 i210 PoE+ 싱글 랜카드 [30823] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "PoE",
+      "charging_support": null,
+      "pd_watts": 30
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 1000,
+      "chipset": "Intel WGI210AT"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 x1",
+    "connectivity.output_signals": "RJ45 x1",
+    "connectivity.directional": "10/100/1000Mbps 전송 속도 지원",
+    "connectivity.port_count": "RJ45 x1",
+    "power.power_mode": "PoE 표준 지원",
+    "power.pd_watts": "PoE+ 최대 30W",
+    "form_physical.has_case": "방열판(Heatsink) 장착",
+    "certification.kc": "KC 인증 획득",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.bus_interface": "PCI-Express 2.0 x1 Bus Slot",
+    "family.speed_mbps": "10/100/1000Mbps 전송 속도 지원",
+    "family.chipset": "Intel WGI210AT 칩셋 탑재"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:29",
+  "feature_schema_version": "1.0.0"
+}

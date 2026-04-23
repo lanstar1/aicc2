@@ -1,0 +1,95 @@
+{
+  "model_no": "LS-Y84P",
+  "product_name": "GPU카드 POWER 케이블 Y형 8pin 보조전원 1개 / 4pin 전원 2개",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "그래픽카드의 8pin 보조전원 연결 케이블",
+    "파워케이블의 8pin이 부족할 때 IDE 4pin 2개를 연결하여 8pin으로 전환",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "RoHS Compliant (EU 특정위험물질 사용제한 지침 준수)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "커넥터 종류": "8pin to IDE 4pin(2개)",
+    "길이": "0.2M (200mm)",
+    "작동온도": "0°C ~ 80°C",
+    "인증": "RoHS Compliant, ISO 9001:2008",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "8pin 보조전원 커넥터를 요구하는 그래픽카드(GPU)",
+    "IDE 4pin(Male) 커넥터를 제공하는 파워서플라이"
+  ],
+  "package_contents": [
+    "GPU 보조전원 케이블 (LS-Y84P) 1개"
+  ],
+  "usage_instructions": "파워서플라이의 IDE 4pin 커넥터 2개를 케이블의 IDE 4pin(Male) 단자 2개에 각각 연결한 후, 반대편 8pin(Male) 커넥터를 그래픽카드의 8pin 보조전원 포트에 연결하여 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Parallel(DB25)"
+      ],
+      "output_signals": [
+        "SATA"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "IDE 4pin 2개를 연결하여",
+    "connectivity.output_signals": "8pin 보조전원 연결 케이블",
+    "connectivity.directional": "8pin으로 전환",
+    "form_physical.length_meters": "길이: 0.2M (200mm)",
+    "certification.rohs": "RoHS Compliant",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:57",
+  "feature_schema_version": "1.0.0"
+}

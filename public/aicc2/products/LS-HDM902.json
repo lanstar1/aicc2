@@ -1,0 +1,229 @@
+{
+  "model_no": "LS-HDM902",
+  "product_name": "LANStar HDMI 9x1 Multi-Viewer 4K@30Hz (LS-HDM902)",
+  "category": [
+    "HDMI멀티뷰어"
+  ],
+  "key_features": [
+    "9개의 HDMI 입력 신호를 하나의 디스플레이에 출력하는 9x1 Multi-Viewer",
+    "최대 4K@30Hz 해상도 지원",
+    "총 11가지 디스플레이 출력 모드 지원",
+    "Seamless 기능 지원 - 화면 전환 시 딜레이 없음",
+    "선명한 자막 출력 기능 지원 (자막 깨짐 방지)",
+    "HDCP 1.4 지원 (디지털 콘텐츠 저작권 보호)",
+    "HDMI 1.4 규격 지원",
+    "RS232 시리얼 통신 포트 지원",
+    "리모콘을 통한 손쉬운 디스플레이 모드 선택 가능",
+    "4가지 해상도 조절 가능 (리모콘): 1920x1080P@60Hz, 2560x1440P@60Hz, 2560x1600P@60Hz, 3840x2160P@30Hz",
+    "초기 세팅값: 1920x1080P@60Hz",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 KC 인증 획득"
+  ],
+  "specifications": {
+    "HDMI Input 포트 수": "9포트",
+    "HDMI Output 포트 수": "1포트",
+    "Input 케이블 최대 길이": "15m (4K@30Hz, HDMI 표준 케이블 26AWG 기준)",
+    "Output 케이블 최대 길이": "15m 미만 (4K@30Hz, HDMI 표준 케이블 기준)",
+    "최대 해상도": "4K@30Hz (3840x2160P@30Hz)",
+    "지원 해상도": "1920x1080P@60Hz, 2560x1440P@60Hz, 2560x1600P@60Hz, 3840x2160P@30Hz",
+    "전원": "DC 12V 2A",
+    "작동 온도": "-15 ~ 55°C",
+    "습도": "5 ~ 90%",
+    "사이즈": "252 x 105 x 25 (mm)",
+    "무게": "약 792g",
+    "HDMI 버전": "HDMI 1.4",
+    "HDCP 버전": "HDCP 1.4",
+    "KC 인증번호": "R-R-LUS-LS-HDM204",
+    "아답터 인증번호": "HU10999-19004B",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 입력 기기: Console, Notebook, Desktop, Set-top Box, DVD Player",
+    "HDMI 출력 기기: TV, Monitor, Beam Projector",
+    "HDMI 1.4 규격",
+    "HDCP 1.4 규격",
+    "RS232 시리얼 통신 지원 기기",
+    "HDMI 표준 케이블 26AWG 규격"
+  ],
+  "package_contents": [
+    "4K HDMI 9x1 Multi-Viewer 본체 (LS-HDM902)",
+    "Remote Control (리모콘)",
+    "DC 12V/2A 전원 아답터",
+    "매뉴얼 (USER MANUAL)"
+  ],
+  "usage_instructions": "1) HDMI 입력 포트(9개)에 소스 기기(Console, Notebook, Desktop, Set-top Box, DVD Player 등)를 HDMI 케이블로 연결한다. 2) HDMI 출력 포트(1개)에 디스플레이 기기(TV, 모니터, 빔프로젝터 등)를 연결한다. 3) DC 12V/2A 전원 아답터를 연결하여 전원을 켠다. 4) 리모콘 또는 전면부 오디오/비디오 선택 스위치를 이용해 원하는 출력 모드(11가지 중 선택) 및 해상도를 설정한다. 5) HDMI 케이블 길이는 입출력 모두 15m를 초과하지 않도록 주의한다.",
+  "cautions": [
+    "HDMI 케이블 길이가 15m를 초과할 경우 4K@30Hz 해상도 출력이 불가능합니다.",
+    "HDMI 케이블은 국제 표준 규격 26AWG 기준을 사용하십시오.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "작동 온도 범위: -15 ~ 55°C, 습도 범위: 5 ~ 90% 환경에서 사용하십시오.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDM902",
+      "품목코드": "INT-HDS191",
+      "품목명": "[LANstar] HDMI 9x1 심리스 멀티뷰어 [30491] (10개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDM902",
+      "내용": "좋아요 잘쓰고있습니다",
+      "관련내용": "좋아요 잘쓰겠습니다"
+    },
+    {
+      "source_model": "LS-HDM902",
+      "내용": "좋아요 잘쓰겠습니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HDM902",
+      "id": 503277820,
+      "date": "2022-11-18 10:11",
+      "answerDate": "2022-11-18 15:48",
+      "user": "yb****",
+      "productName": "랜스타 LS-HDM902 HDMI 9x1 4K 멀티뷰어 화면분할기 선명한 자막 지원",
+      "question": "소개 영상을 보니 4개 분할일땐 글씨가 잘 보이던데\n9개 분할이나 8개 분할일때도 글씨가 잘 보일까요? 가독성이 좀 중요합니다.",
+      "answer": "안녕하세요 랜스타 입니다\n\n글씨 문제 없이 출력 됩니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HDM902",
+      "chatUrl": "8NjlU",
+      "dateIso": "2023-12-11T02:32:09.564Z",
+      "name": "seb2028",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하세요 ~ LS-HDM902 이제품 지금 재고 있나요? 오전중에 주문하면 오늘 발송 될까요?",
+      "answer": "현재 재고 있으며, 문의 주신 랜스타 공식 스마트스토어에서 주문 주실 경우 금일 출고 도와드릴 수 있습니다. 고객님 추가로 문의하실 사항이",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "넵 확인 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 재고 있으며, 문의 주신 랜스타 공식 스마트스토어에서 주문 주실 경우 금일 출고 도와드릴 수 있습니다.\n\n고객님 추가로 문의하실 사항이"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요 ~ LS-HDM902 이제품 지금 재고 있나요? 오전중에 주문하면 오늘 발송 될까요?"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "RS232"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 10
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": "HDCP1.4",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "input_count": 9,
+      "output_count": 1,
+      "mode": [
+        "멀티뷰어"
+      ],
+      "cascade_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "9개의 HDMI 입력 신호를",
+    "connectivity.input_signals.1": "RS232 시리얼 통신 포트 지원",
+    "connectivity.output_signals": "하나의 디스플레이에 출력하는",
+    "connectivity.directional": "9개의 HDMI 입력 신호를 하나의 디스플레이에 출력하는",
+    "connectivity.port_count": "HDMI Input 포트 수\": \"9포트\", \"HDMI Output 포트 수\": \"1포트",
+    "power.power_mode": "DC 12V 2A",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "252 x 105 x 25 (mm)",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "certification.rohs": "null",
+    "certification.iso9001": "null",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "최대 4K@30Hz 해상도 지원",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "HDCP 1.4 지원",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "리모콘을 통한 손쉬운 디스플레이 모드 선택 가능",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "전면부 오디오/비디오 선택 스위치를 이용해",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.input_count": "9개의 HDMI 입력 신호를",
+    "family.output_count": "하나의 디스플레이에 출력하는",
+    "family.mode": "9x1 Multi-Viewer",
+    "family.cascade_support": "null"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:08",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

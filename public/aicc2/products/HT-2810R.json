@@ -1,0 +1,114 @@
+{
+  "model_no": "HT-2810R",
+  "product_name": "[LANstar] TOOL공구 , AMP6, 6／8P용, 기어형, 보급형(50개)[40113]",
+  "category": [
+    "네트워크공구",
+    "LAN공구"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "HT-2810R",
+      "품목코드": "NEO-LAN059",
+      "품목명": "[LANstar] TOOL공구 , AMP6, 6／8P용, 기어형, 보급형(50개)[40113]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "HT-2810R",
+      "내용": "사용하몀서 불량률 없고 좋습니다."
+    },
+    {
+      "source_model": "HT-2810R",
+      "내용": "작동 잘되고 좋네요",
+      "관련내용": "사용하는데 문제 없고 가격도 좋네요"
+    },
+    {
+      "source_model": "HT-2810R",
+      "내용": "압착되고 괜찮네요, 무게가 무거운 느낌 있네요."
+    },
+    {
+      "source_model": "HT-2810R",
+      "내용": "사용하는데 문제 없고 가격도 좋네요"
+    },
+    {
+      "source_model": "HT-2810R",
+      "내용": "너무 인상적이었어요. 완전 굿굿",
+      "관련내용": "제품 상태가 아주 좋습니다."
+    },
+    {
+      "source_model": "HT-2810R",
+      "내용": "제품 상태가 아주 좋습니다."
+    },
+    {
+      "source_model": "HT-2810R",
+      "내용": "랜스타 HT-2810R TOOL공구 , AMP6, 6 사용잘하고 있어요"
+    },
+    {
+      "source_model": "HT-2810R",
+      "내용": "제품 잘 받았습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "tool_type": [
+        "크림퍼"
+      ],
+      "target_terminal": [
+        "RJ45",
+        "RJ11"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "family.tool_type": "AMP6",
+    "family.target_terminal": "6／8P용"
+  },
+  "feature_extracted_at": "2026-04-23T03:00:15",
+  "feature_schema_version": "1.0.0"
+}

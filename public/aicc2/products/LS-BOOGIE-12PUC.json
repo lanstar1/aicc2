@@ -1,0 +1,104 @@
+{
+  "model_no": "LS-BOOGIE-12PUC",
+  "product_name": "LANStar LCD 전자칠판 파우치 12형 (LCD Writing Tablet Pouch 12형)",
+  "category": [
+    "배터리관련",
+    "전자칠판"
+  ],
+  "key_features": [
+    "건전지 하나로 종이 없이 필기, 계산, 그리기 가능",
+    "버튼 한 번으로 메모 삭제 가능 → 정보 유출 방지",
+    "종이 미사용으로 자원 절약",
+    "부드러운 필기감으로 아이들 장난감으로도 활용 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 유해물질 사용제한 규정 준수 (납·수은·카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "화면 크기": "12형 (12인치)",
+    "가로": "32cm",
+    "세로": "21cm",
+    "두께": "10mm",
+    "무게": "68g",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "LCD 전자칠판 12인치 (LS-BOOGIE-12 계열)"
+  ],
+  "package_contents": [
+    "LCD 전자칠판 12인치 파우치 본체"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-BOOGIE-12PUC",
+      "품목코드": "COM-악세사177",
+      "품목명": "[LANstar] 전자칠판 파우치 검정 12인치[60080]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "배터리",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "wireless_standard": "N/A",
+      "output_watts": null
+    }
+  },
+  "feature_evidence": {
+    "power.power_mode": "건전지 하나로",
+    "power.charging_support": "건전지 하나로",
+    "certification.rohs": "RoHS 유해물질 사용제한 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "control_switching.has_physical_button": "버튼 한 번으로 메모 삭제 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:35",
+  "feature_schema_version": "1.0.0"
+}

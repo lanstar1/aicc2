@@ -1,0 +1,122 @@
+{
+  "model_no": "LS-FMP-SC",
+  "product_name": "광케이블 피그테일 SC Type Multi-mode 1.5M",
+  "category": [
+    "광케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "멀티모드(MM) 광섬유 사용 – 코어 직경 50~100㎛, 단거리 전송에 적합",
+    "SC 타입 커넥터 채용",
+    "케이블 외경(OD) 0.9mm, 길이 1.5M",
+    "주황색(Orange) 케이블",
+    "광송수신장비·광분배함·광장비·광 단말 간 연결에 사용"
+  ],
+  "specifications": {
+    "커넥터 타입": "SC Type",
+    "광섬유 모드": "멀티모드(Multi-mode, MM)",
+    "코어 직경": "50~100㎛",
+    "케이블 외경(OD)": "0.9mm",
+    "케이블 길이": "1.5M (1500mm)",
+    "케이블 색상": "주황색(Orange)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "광송수신장비 – 광전송로 간 연결",
+    "광분배함 – 광케이블 간 연결",
+    "광분배함 – 광장비 간 연결",
+    "광장비 – 광 단말 간 연결",
+    "SC 타입 커넥터 호환 장비"
+  ],
+  "package_contents": [
+    "광케이블 피그테일 SC Type Multi-mode 1.5M × 1"
+  ],
+  "usage_instructions": "SC 타입 커넥터를 광송수신장비, 광분배함, 광장비 또는 광 단말의 SC 포트에 연결하여 광신호 전송 경로를 구성합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 소비자상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-FMP-SC-1.5M",
+      "품목코드": "NET-광멀케142",
+      "품목명": "[LANstar] 광케이블, SC Pig-Tail 멀티모드 (M／M), SC 피그테일 1.5M 주황색 [10815]",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-FMP-SC-1.5M",
+      "내용": "빠른배송 좋은 상품 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Optical"
+      ],
+      "output_signals": [
+        "Optical"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 1.5,
+      "length_options_meters": null,
+      "color_options": [
+        "주황색"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": true,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "SC 타입 커넥터를 광송수신장비",
+    "connectivity.output_signals": "광신호 전송 경로를 구성합니다.",
+    "connectivity.directional": "광신호 전송 경로를 구성합니다.",
+    "form_physical.length_meters": "길이 1.5M",
+    "form_physical.color_options": "주황색(Orange) 케이블",
+    "family.optical_core": "멀티모드(MM) 광섬유 사용"
+  },
+  "feature_extracted_at": "2026-04-23T03:12:59",
+  "feature_schema_version": "1.0.0"
+}

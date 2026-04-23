@@ -1,0 +1,132 @@
+{
+  "model_no": "LS-GLAN30",
+  "product_name": "LAN Star USB3.0 기가랜카드 (USB3.0 to GigaLAN Converter)",
+  "category": [
+    "USB케이블",
+    "USB3.0",
+    "USB2.0",
+    "컨버터",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "USB 3.0 인터페이스 지원 (최대 5Gbps 전송 속도)",
+    "10/100/1000Mbps 기가비트 이더넷 지원",
+    "USB 2.0 대비 10배 빠른 슈퍼스피드 지원",
+    "별도 전원 케이블 불필요 – USB 포트 연결만으로 동작",
+    "4개의 LED 상태 표시등으로 작동 여부 확인 가능",
+    "IEEE 802.3az EEE(에너지 효율 이더넷) 표준 지원",
+    "IPv4/IPv6 체크섬 오프로드(COE) 지원",
+    "데스크탑, 노트북, 울트라북, 넷북, 맥북 등 랜포트 없는 기기에 랜포트 추가 가능"
+  ],
+  "specifications": {
+    "모델명": "LS-GLAN30",
+    "인터페이스": "USB 3.0 (5Gbps)",
+    "이더넷 속도": "10/100/1000Mbps",
+    "운영체제": "Windows XP/Vista/7/8(32/64-bit)/10, Mac OS X 10.6/10.7 이상, Linux",
+    "지원 표준": "IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3x Full Duplex, IEEE 802.3az EEE",
+    "네트워크 기능": "IPv4/IPv6 COE(체크섬 오프로드) 지원",
+    "드라이버 칩셋": "ASIX AX88179",
+    "크기": "6.5 x 2.5 x 3.5cm (USB 선 길이: 8cm)",
+    "무게": "50g",
+    "작동 온도": "0~55°C",
+    "보관 온도": "-10~80°C",
+    "전원 방식": "USB 버스 파워 (별도 전원 불필요)",
+    "제조국": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증서번호": "MSIP-REI-LUS-LS-GLAN30",
+    "전자파적합(EMC) 시험성적서 번호": "GSTL-EK14-524호",
+    "제품구분": "업무용 (A급)",
+    "AS 소비자상담 전화": "070-7018-3386"
+  },
+  "compatibility": [
+    "Windows XP / Vista / 7 / 8 (32/64-bit) / 10",
+    "Mac OS X 10.6 / 10.7 이상",
+    "Linux",
+    "데스크탑 PC",
+    "노트북",
+    "울트라북",
+    "넷북",
+    "맥북",
+    "USB 3.0 포트 탑재 기기"
+  ],
+  "package_contents": [
+    "USB 3.0 기가랜카드 본체 (USB 케이블 일체형, 선 길이 8cm)",
+    "드라이버 CD"
+  ],
+  "usage_instructions": "1. USB 3.0 기가랜카드를 PC 또는 노트북의 USB 포트에 연결합니다. 2. 동봉된 드라이버 CD를 이용해 드라이버를 설치합니다(자동 설치 안 됨). 3. 설치 완료 후 장치관리자 > 네트워크 어댑터에 'ASIX AX88179 USB 3.0 to Gigabit Ethernet Adapter'가 표시되면 정상 작동 상태입니다. 4. 액티브/전원 LED에 불이 들어오면 작동이 확인된 것입니다.",
+  "cautions": [
+    "드라이버가 자동 설치되지 않으므로 반드시 제품에 동봉된 CD로 드라이버를 설치해야 합니다.",
+    "드라이버 미설치 시 액티브/전원 LED가 켜지지 않으며 정상 작동하지 않습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)의 동의 없이 상품 및 콘텐츠를 무단 복제·이용할 경우 불이익을 받을 수 있습니다.",
+    "품질 이상 시 공정거래위원회 고시 소비자 분쟁해결기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45",
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.08,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 인터페이스 지원",
+    "connectivity.output_signals": "기가비트 이더넷 지원",
+    "connectivity.directional": "USB3.0 to GigaLAN Converter",
+    "power.power_mode": "USB 버스 파워 (별도 전원 불필요)",
+    "form_physical.has_case": "6.5 x 2.5 x 3.5cm",
+    "form_physical.length_meters": "USB 선 길이: 8cm",
+    "certification.kc": "MSIP-REI-LUS-LS-GLAN30",
+    "family.usb_version": "USB 3.0 인터페이스 지원",
+    "family.transfer_speed_gbps": "최대 5Gbps 전송 속도"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:18",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,112 @@
+{
+  "model_no": "LS-MINIST",
+  "product_name": "LAN Star Mac mini M4, M4 Pro 전용 원목 거치대",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "블랙월넛 목재와 알루미늄 조합의 프리미엄 소재",
+    "거치대 중앙 및 측면 3곳 개방 구조로 하단 공기 흐름 최적화 및 발열 해소 효과",
+    "상단 고무 패드 4개 및 하단 미끄럼 방지 패드 4개로 안정적인 거치",
+    "거치대 전원 스위치로 Mac mini 전원 버튼 연동 조작 가능",
+    "측면 손잡이형 디자인으로 거치 상태에서 편리한 이동 가능",
+    "추가 조립 없이 완제품 상태로 바로 사용 가능",
+    "Mac mini M4의 전면·후면 모든 포트 접근 가능하도록 설계",
+    "미니멀 공간 활용 및 데스크테리어 효과"
+  ],
+  "specifications": {
+    "크기": "125.5 x 123.5 x 19.5 (mm)",
+    "지름": "112 mm",
+    "무게": "약 67 g",
+    "재질": "블랙월넛 목재",
+    "호환 제품": "Mac mini M4, Mac mini M4 Pro",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "A/S 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "Mac mini M4",
+    "Mac mini M4 Pro"
+  ],
+  "package_contents": [
+    "Mac mini M4, M4 Pro 전용 원목 거치대 본체 (완제품)",
+    "거치대 상단 고무 패드 4개 (부착 상태)",
+    "거치대 하단 미끄럼 방지 패드 4개 (부착 상태)"
+  ],
+  "usage_instructions": "거치대는 완제품 상태로 출고되며 추가 조립 없이 바로 사용 가능합니다. Mac mini M4 또는 M4 Pro를 거치대 상단에 올려놓으면 됩니다. 전원 조작 시 거치대의 전원 스위치를 위로 올려 Mac mini 전원을 켠 뒤 다시 아래로 내려주세요.",
+  "cautions": [
+    "Mac mini M1, M2, 인텔 모델과는 호환되지 않습니다.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "당일출고는 오후 4시 이전 결제완료 주문 기준이며, 토·일·공휴일을 제외한 평일에 한합니다. 택배사 사정에 따라 배송기간이 길어질 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MINIST",
+      "품목코드": "CAB-잡자재586",
+      "품목명": "[LANstar] 맥미니m4 거치대 [30887]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-MINIST",
+      "내용": "잘왔어요. 전원은 잘 안들어오네요."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄",
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "LAN Star Mac mini M4, M4 Pro 전용 원목 거치대",
+    "form_physical.material": "블랙월넛 목재와 알루미늄 조합의 프리미엄 소재",
+    "control_switching.has_physical_button": "거치대 전원 스위치로 Mac mini 전원 버튼 연동 조작 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:54",
+  "feature_schema_version": "1.0.0"
+}

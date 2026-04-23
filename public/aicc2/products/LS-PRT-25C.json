@@ -1,0 +1,182 @@
+{
+  "model_no": "LS-PRT-25C",
+  "product_name": "LANStar 프린터 케이블 25Core (DB25/M-CENT36/M)",
+  "category": [
+    "커넥터"
+  ],
+  "key_features": [
+    "DB25(Male) - CENT36(Male) 커넥터 구성",
+    "25Core 프린터 연결 케이블",
+    "정격전압 300V, 작동온도 0~80°C",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "1.8M / 3M / 5M / 10M 4가지 길이 옵션 제공"
+  ],
+  "specifications": {
+    "커넥터 타입": "DB25/M-CENT36/M",
+    "길이": "1.8M, 3M, 5M, 10M",
+    "정격전압": "300V",
+    "작동온도": "0~80°C",
+    "RoHS": "COMPLIANT",
+    "품질인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "DB25(Male) 포트 지원 기기",
+    "CENT36(Male) 포트 지원 프린터"
+  ],
+  "package_contents": [
+    "프린터 케이블 25Core (DB25/M-CENT36/M) 본체 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PRT-25C-1.8M",
+      "품목코드": "CAB-프린터002",
+      "품목명": "[LANstar] 프린터케이블, DB25／M-CN36／M,25C,1.8M[10503] (70개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-PRT-25C-5M",
+      "품목코드": "CAB-프린터003",
+      "품목명": "[LANstar] 프린터케이블, DB25／M-CN36／M,25C, 5M[10504] (40개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-PRT-25C-10M",
+      "품목코드": "CAB-프린터004",
+      "품목명": "[LANstar] 프린터케이블, DB25／M-CN36／M,25C,10M[10505] (24개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-PRT-25C-3M",
+      "품목코드": "CAB-프린터008",
+      "품목명": "[LANstar] 프린터케이블, DB25／M-CN36／M,25C,3M[10831] (40개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-PRT-25C-1.8M",
+      "내용": "배송빠르고 좋네요~"
+    },
+    {
+      "source_model": "LS-PRT-25C-5M",
+      "내용": "배송도 비교적 빠르고\n가격도 마음에 듭니다\n연결하니 잘 작동하네요"
+    },
+    {
+      "source_model": "LS-PRT-25C-5M",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-PRT-25C-5M",
+      "내용": "언제나 믿고 사용 합니다."
+    },
+    {
+      "source_model": "LS-PRT-25C-5M",
+      "내용": "바른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-PRT-25C-5M",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-PRT-25C-5M",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-PRT-25C-5M",
+      "내용": "좋은 재품 입니다.",
+      "관련내용": "아주 좋은 재품입니다."
+    },
+    {
+      "source_model": "LS-PRT-25C-5M",
+      "내용": "아주 좋은 재품입니다."
+    },
+    {
+      "source_model": "LS-PRT-25C-5M",
+      "내용": "연결후 작동이 잘 되네요."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Parallel(DB25)"
+      ],
+      "output_signals": [
+        "Parallel(DB25)"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        1.8,
+        3.0,
+        5.0,
+        10.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "DB25 Male",
+      "connector_type_b": "CENT36 Male",
+      "gender": "M-M",
+      "pin_count": 25
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DB25(Male) - CENT36(Male) 커넥터",
+    "connectivity.output_signals": "DB25(Male) - CENT36(Male) 커넥터",
+    "connectivity.directional": "25Core 프린터 연결 케이블",
+    "form_physical.length_options_meters": "1.8M / 3M / 5M / 10M 4가지 길이 옵션",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.connector_type_a": "DB25(Male) - CENT36(Male)",
+    "family.connector_type_b": "DB25(Male) - CENT36(Male)",
+    "family.gender": "DB25(Male) - CENT36(Male)",
+    "family.pin_count": "25Core"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:30",
+  "feature_schema_version": "1.0.0"
+}

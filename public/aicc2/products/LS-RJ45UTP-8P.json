@@ -1,0 +1,142 @@
+{
+  "model_no": "LS-RJ45UTP-8P",
+  "product_name": "RJ45 UTP 터미널 변환 젠더",
+  "category": [
+    "랜케이블-UTP",
+    "랜케이블",
+    "컨버터",
+    "젠더"
+  ],
+  "key_features": [
+    "테스터기 없이 랜케이블 테스트 가능",
+    "RJ45 1~8번 핀과 터미널 1~8번 1:1 연결",
+    "EIA/TIA 568B(다이렉트) 배선표준 준수",
+    "RoHS 환경규제 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 타입": "RJ45/M UTP 8핀",
+    "핀 수": "8핀",
+    "배선표준": "EIA/TIA 568B (다이렉트)",
+    "핀 배열": "1:주황/흰색, 2:주황, 3:녹색/흰색, 4:청색, 5:청색/흰색, 6:녹색, 7:갈색/흰색, 8:갈색",
+    "제품 크기": "56mm x 31mm x 13.4mm x 11.6mm (최대폭 11.2mm, 11.6mm 포함)",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "품질인증": "ISO 9001:2008",
+    "환경규제": "RoHS COMPLIANT"
+  },
+  "compatibility": [
+    "RJ45 케이블 (Male)",
+    "UTP 8핀 랜케이블",
+    "EIA/TIA 568B 다이렉트 배선 규격"
+  ],
+  "package_contents": [
+    "RJ45 UTP 터미널 변환 젠더 본체 1개"
+  ],
+  "usage_instructions": "RJ45 케이블(Male)을 젠더에 연결하면 1~8번 핀이 터미널 1~8번과 1:1로 연결되어 테스터기 없이 랜케이블 도통 테스트가 가능합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RJ45UTP-8P",
+      "품목코드": "INT-패시브006",
+      "품목명": "[LANstar] RJ45 UTP Screw 터미널 변환 젠더 RJ45 M To 8핀 [40561]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-RJ45UTP-8P",
+      "내용": "빠른배송감사합니다."
+    },
+    {
+      "source_model": "LS-RJ45UTP-8P",
+      "내용": "사용하기에 편리합니다"
+    },
+    {
+      "source_model": "LS-RJ45UTP-8P",
+      "내용": "상품 대비 저렴한 가격",
+      "관련내용": "상품 대비 저렴한 가격"
+    },
+    {
+      "source_model": "LS-RJ45UTP-8P",
+      "내용": "상품 대비 저렴한 가격"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "무관"
+      ],
+      "directional": "N/A",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "UTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": 4,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45/M UTP 8핀",
+    "connectivity.port_count": "RJ45/M UTP 8핀",
+    "power.power_mode": "테스터기 없이 랜케이블 테스트 가능",
+    "form_physical.has_case": "제품 크기",
+    "form_physical.material": "플라스틱",
+    "certification.rohs": "RoHS 환경규제 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "family.shielding": "UTP",
+    "family.pair_count": "8핀"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:44",
+  "feature_schema_version": "1.0.0"
+}

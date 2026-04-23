@@ -1,0 +1,104 @@
+{
+  "model_no": "LS-LS13",
+  "product_name": "고급형 RJ45 랜 수동 선택기 (1:3)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "수동(Manual) 선택기 방식으로 별도의 회로나 DATA 처리 기능 없이 신호를 그대로 통과(By Pass)함",
+    "One-touch 방식으로 동작",
+    "UP-DOWN 방식의 고품질 스위치 사용",
+    "양방향 통신 및 역방향 연결 사용 가능",
+    "사용 중 특성 열화나 장애 없음",
+    "호환성이 뛰어나며 전환 및 선택이 간편하고 반응속도가 빠름",
+    "1:3 구성으로 하나의 인터넷 선으로 3대의 PC를 선택적으로 사용하거나, 한 대의 PC로 각기 다른 IP를 선택하여 사용 가능",
+    "전시장, 컴퓨터 및 모니터 판매점, 상황실, 회의실 등 다양한 용도로 사용 가능"
+  ],
+  "specifications": {
+    "포트 구성": "1:3 (INPUT/OUTPUT 1포트, A/B/C 단자 3포트)",
+    "커넥터 규격": "RJ45 / 8p8c",
+    "크기": "약 11.5 × 7.5 × 2.9 cm (최대변 기준)"
+  },
+  "compatibility": [
+    "RJ45 / 8p8c 규격 LAN 케이블",
+    "표준 RJ45 네트워크 장비"
+  ],
+  "package_contents": [],
+  "usage_instructions": "1. 하나의 인터넷 선으로 여러 PC 중 하나를 선택하여 사용하는 방법: INPUT 포트에 인터넷 선을 연결하고, A/B/C 단자에 각 PC를 연결한 후 스위치로 원하는 PC를 선택. 2. 한 대의 PC로 각기 다른 IP를 선택하여 사용하는 방법: A/B/C 단자에 각각 다른 LAN 선을 연결하고, INPUT/OUTPUT 포트에 PC를 연결한 후 스위치로 원하는 네트워크를 선택. 선택된 포트만 출력되며 3개 단자 동시 출력은 되지 않음.",
+  "cautions": [
+    "3개 단자에서 동시에 출력되는 것이 아닌 선택된 포트만 출력됨",
+    "노이즈 및 신호 저하를 줄이기 위해 쉴드(Shield) 처리된 랜케이블 사용을 권장"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-LS13",
+      "품목코드": "INT-랜선택002",
+      "품목명": "[LANstar] 랜수동선택기 1：3 (40개)[30078]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "커넥터 규격: RJ45 / 8p8c",
+    "connectivity.output_signals": "커넥터 규격: RJ45 / 8p8c",
+    "connectivity.directional": "양방향 통신 및 역방향 연결 사용 가능",
+    "connectivity.port_count": "1:3 (INPUT/OUTPUT 1포트, A/B/C 단자 3포트)",
+    "power.power_mode": "별도의 회로나 DATA 처리 기능 없이 신호를 그대로 통과(By Pass)함",
+    "power.charging_support": "별도의 회로나 DATA 처리 기능 없이",
+    "form_physical.has_case": "크기: 약 11.5 × 7.5 × 2.9 cm",
+    "audio_video.max_resolution": "RJ45 랜 수동 선택기",
+    "audio_video.hdr_support": "RJ45 랜 수동 선택기",
+    "audio_video.hdcp_version": "RJ45 랜 수동 선택기",
+    "audio_video.audio_pass": "RJ45 랜 수동 선택기",
+    "control_switching.has_physical_button": "UP-DOWN 방식의 고품질 스위치 사용"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:18",
+  "feature_schema_version": "1.0.0"
+}

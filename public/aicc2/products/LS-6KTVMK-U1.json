@@ -1,0 +1,181 @@
+{
+  "model_no": "LS-6KTVMK-U1",
+  "product_name": "LANStar CAT.6 잠금형 키스톤잭 (Lock Keystone Jack) 8P8C",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블",
+    "키스톤잭",
+    "멀티탭",
+    "아웃렛박스",
+    "LAN공구"
+  ],
+  "key_features": [
+    "CAT.6 규격, 1000Mbps 전송속도 지원",
+    "일반 OUTLET 및 벽면 Plate에 장착 가능한 키스톤잭",
+    "소규모·대규모 네트워크 망 단말 연결 커넥션 장치",
+    "별도 툴 없이 케이블 연결 가능 (Toolless)",
+    "Lock Bar 및 키스톤 잠금키 Tool을 이용한 잠금 기능 탑재 - 랜케이블 빠짐 방지",
+    "8P8C 커넥터, 50마이크로인치 금도금 잭",
+    "난연 ABS UL-94V0 소재 사용",
+    "MADE IN TAIWAN (100% 대만산)",
+    "ROHS 인증",
+    "Lock Bar 인장 강도 15kgs(min.) 이상"
+  ],
+  "specifications": {
+    "카테고리 등급": "CAT.6",
+    "커넥터 타입": "8P8C (RJ45)",
+    "전송속도": "10/100/1000Mbps",
+    "사용 가능 전선 규격": "22-26 AWG Solid Wire",
+    "준수 표준": "ANSI EIA/TIA 568B, ISO/IEC 11801, EN50173 (C3/C5e/C6)",
+    "인증": "LUS-LS-CAT6, UL-94V0, ROHS",
+    "Jack 도금": "50 micro inches gold plated",
+    "Body 재질": "Fireproof ABS UL-94V0",
+    "PCB 재질": "FR-4 / UL-94V0",
+    "IDC Cap 재질": "Fireproof ABS UL-94V0",
+    "IDC Body 재질": "Fireproof ABS UL-94V0",
+    "IDC Pin 재질": "Bronze & Tinned",
+    "Lock Bar 재질": "Metal (SPCC)",
+    "Key 재질": "Metal (SPCC) & PVC Molding",
+    "절연 저항": "500M ohms (min.)",
+    "접촉 저항": "20m ohms (max.)",
+    "정격 전류": "1.5 Amps",
+    "DC 저항": "0.1 ohms (max.)",
+    "내전압": "1000 VAC RMS @ 60Hz / 1분",
+    "IDC 펀치 다운 사이클": "500 Cycles 이상 (min.)",
+    "IDC Wire 인장 강도": "1.5-2 kgs",
+    "잭 삽입 사이클": "30,000 Cycles 이상 (min.)",
+    "Lock Bar 인장 강도": "15 kgs (min.)",
+    "동작 온도": "-40°C ~ +70°C",
+    "IDC 타입": "M Type IDC (110 Standard Punch Down Tool 전용), Dual Type IDC (Krone & 110 Standard), Tooless Type IDC (툴 불필요, Krone & 110 호환)",
+    "색상": "Red(빨강), Green(초록), Blue(파랑), Yellow(노랑), White(흰색)",
+    "제조국": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "Spec Size (Lock Bar 단위 mm)": "80.5 (길이 참고, 도면 기준)",
+    "Spec Size (본체 단위 mm)": "16.6 x 31.5 (도면 기준)",
+    "특허": "Patented in Many Countries"
+  },
+  "compatibility": [
+    "일반 OUTLET 및 벽면 Faceplate/Snap 장착 호환",
+    "Patch Panel 장착 호환",
+    "ANSI EIA/TIA 568B 규격 호환",
+    "ISO/IEC 11801 규격 호환",
+    "EN50173 규격 호환",
+    "110 Standard Punch Down Tool 호환 (M Type / Dual Type)",
+    "Krone Standard Punch Down Tool 호환 (Dual Type / Tooless Type)",
+    "TOL-KTVNZ-78 펀치 툴 호환 (자매품 기준 참고)",
+    "22-26 AWG Solid Wire 호환"
+  ],
+  "package_contents": [
+    "CAT.6 잠금형 키스톤잭 본체 (Lock Bar 포함)",
+    "키스톤잭 잠금키 Tool (Keystone Jack Lock Key Tool)"
+  ],
+  "usage_instructions": "1. 랜 케이블을 키스톤잭 IDC에 결선한다 (별도 툴 불필요, Toolless 방식). 2. 랜 커넥터(플러그)를 Lock Bar에 걸어 랜 단자에 꽂아 넣는다. 3. '키스톤 잠금키 Tool'을 잠금 슬롯에 넣었다 빼면 Lock Bar가 고정되어 랜 케이블이 키스톤잭에 완전히 잠긴다 (아무리 당겨도 풀리지 않음). 4. 잠금 해제 시에는 동일한 '키스톤 잠금키 Tool'을 사용하여 잠금을 해제한다. 5. 완성된 키스톤잭을 Faceplate, Snap, Patch Panel 등에 장착한다.",
+  "cautions": [
+    "잠금 해제 시 반드시 전용 '키스톤 잠금키 Tool(LS-KEY-M8P)'을 사용할 것",
+    "잠금키 Tool 없이 강제로 랜 커넥터를 뽑을 경우 제품 파손 우려 있음",
+    "22-26 AWG Solid Wire 규격에 맞는 케이블만 사용할 것",
+    "Dual Type 및 Tooless Type IDC 이외의 M Type IDC는 110 Standard Punch Down Tool 전용임",
+    "동작 온도 범위(-40°C ~ +70°C) 이외의 환경에서 사용 금지",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 처리 (A/S: www.LANstar.co.kr)"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱",
+        "금도금",
+        "스틸",
+        "PVC"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": false,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "N/A",
+      "conductor": "단선(solid)",
+      "awg": 22,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "8P8C 커넥터",
+    "connectivity.output_signals": "8P8C 커넥터",
+    "connectivity.directional": "N/A",
+    "connectivity.port_count": "키스톤잭",
+    "power.power_mode": "N/A",
+    "power.charging_support": "N/A",
+    "power.pd_watts": "N/A",
+    "form_physical.has_case": "키스톤잭",
+    "form_physical.material": "50마이크로인치 금도금 잭",
+    "form_physical.length_meters": "N/A",
+    "form_physical.length_options_meters": "N/A",
+    "form_physical.color_options": "N/A",
+    "certification.kc": "N/A",
+    "certification.rohs": "ROHS 인증",
+    "certification.iso9001": "N/A",
+    "certification.fcc": "N/A",
+    "certification.ce": "N/A",
+    "certification.netflix": "N/A",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.cat_category": "CAT.6 규격",
+    "family.shielding": "N/A",
+    "family.conductor": "22-26 AWG Solid Wire",
+    "family.awg": "22-26 AWG Solid Wire",
+    "family.pair_count": "8P8C",
+    "family.flame_rating": "난연 ABS UL-94V0 소재",
+    "family.poe_support": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:36",
+  "feature_schema_version": "1.0.0"
+}

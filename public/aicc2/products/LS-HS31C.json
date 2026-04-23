@@ -1,0 +1,282 @@
+{
+  "model_no": "LS-HS31C",
+  "product_name": "HDMI 2.1 3:1 선택기 (3-Port HDMI 2.1 Switch)",
+  "category": [
+    "HDMI케이블",
+    "HDMI선택기"
+  ],
+  "key_features": [
+    "3개의 HDMI 입력 소스를 하나의 디스플레이 장치로 선택 출력 가능",
+    "최대 8K@60Hz / 4K@120Hz / 1080P@240Hz 해상도 및 주사율 지원",
+    "48Gbps 데이터 전송 속도 지원 (채널 대역폭당 1200MHz/12Gbps)",
+    "HDCP 2.3 지원 및 HDCP 2.2, HDCP 1.4 하위버전 호환",
+    "VRR(변동 재생 비율), ALLM(짧은 자동 대기 시간), QFT(고속 프레임 전송), QMS(고속 미디어 스위칭) 기능 지원",
+    "HDR / HDR10+ (Dynamic HDR) 지원",
+    "YUV 4:4:4 크로마 서브샘플링 지원",
+    "3D 디스플레이 기술 및 3D 비디오 포맷 전달 지원",
+    "21:9 와이드 화면 비율 지원",
+    "무전원 동작",
+    "HDMI Output 케이블 일체형 (약 45cm)",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-HS31C)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "소재·부품·장비 전문기업확인서 취득 (2022.11.29)"
+  ],
+  "specifications": {
+    "입력 포트": "HDMI 3포트",
+    "출력 포트": "HDMI 1포트 (케이블 일체형)",
+    "지원 해상도": "8K@60Hz / 4K@120Hz / 1080P@240Hz / YUV 4:4:4",
+    "최대 해상도": "7680x4320 (8K@60Hz)",
+    "데이터 전송 속도": "48Gbps (채널 대역폭당 1200MHz/12Gbps)",
+    "8K 지원 입력 케이블 최대 길이": "1.5m (HDMI 2.1 케이블 기준)",
+    "출력 케이블 길이": "약 45cm",
+    "전원": "무전원",
+    "크기": "80(24) x 90 x 16.5 mm",
+    "무게": "약 87g",
+    "재질": "Plastic Shell",
+    "HDCP 지원": "HDCP 2.3 (HDCP 2.2, HDCP 1.4 하위버전 호환)",
+    "HDR 지원": "HDR / HDR10+ (Dynamic HDR)",
+    "추가 기능": "VRR, ALLM, QFT, QMS",
+    "크로마 서브샘플링": "YUV 4:4:4",
+    "화면 비율": "16:9, 21:9",
+    "KC 인증번호": "R-R-LUS-LS-HS31C",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 2.1 버전 기기 (콘솔, 노트북, 데스크탑, 셋톱박스, DVD 플레이어 등 입력 소스)",
+    "TV, 모니터, 빔 프로젝터 등 HDMI 디스플레이 출력 기기",
+    "HDCP 2.3 / HDCP 2.2 / HDCP 1.4",
+    "Full HD (1920x1080) / 4K (3840x2160) / 8K (7680x4320) 디스플레이",
+    "3D 디스플레이 기기",
+    "21:9 와이드 화면 비율 디스플레이"
+  ],
+  "package_contents": [
+    "3-Port HDMI 2.1 Switch 본체 (HDMI Output 케이블 일체형)",
+    "User Manual (사용 설명서)"
+  ],
+  "usage_instructions": "3개의 HDMI 입력 포트에 입력 소스 기기(콘솔, 노트북, 데스크탑 등)를 연결하고, 일체형 HDMI Output 케이블을 디스플레이 장치(TV, 모니터, 빔 프로젝터 등)에 연결한다. 본체의 입력 기기 변환 버튼(Select)을 눌러 원하는 입력 소스를 선택하여 출력한다. 8K@60Hz 해상도를 사용하려면 입력 소스 연결 케이블은 반드시 HDMI 2.1 버전 케이블을 사용하고 길이는 최대 1.5m 이내로 한다.",
+  "cautions": [
+    "8K@60Hz 해상도 사용 시 입력 소스 연결 HDMI 케이블은 반드시 HDMI 2.1 버전 케이블을 사용할 것",
+    "입력 소스 케이블 길이가 1.5m를 초과할 경우 최대 해상도(8K@60Hz)를 지원하지 않음",
+    "HDMI 케이블은 국제 표준 규격 26AWG 기준 적용",
+    "케이블 길이에 따라 지원 해상도가 변경될 수 있으므로 사용 케이블 길이를 반드시 확인할 것",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없음",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준임 (택배사 사정에 따라 배송 기간이 길어질 수 있음)"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HS31C",
+      "품목코드": "CAB-APP928",
+      "품목명": "[LANstar] HDMI 3:1 선택기, HDMI2.1버전 케이블 타입 [30747] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HS31C",
+      "내용": "버튼 한번 딸깍 누르면 끝이라 편리합니다",
+      "관련내용": "모니터 하나에 크롬캐스트랑 노트북 물려서 잘 쓰고 있어요"
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "모니터 하나에 크롬캐스트랑 노트북 물려서 잘 쓰고 있어요"
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "너무 편리해서 좋습니다."
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "윈도우 플스2개연결 너무좋아요!"
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "설치도 쉽고 작동도 잘되네요."
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "4K 모니터에 사용 가능합니다~!! 대만족입니다~!"
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "감사합니다 감사합니다"
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "잘사용하고 잇음 고장 이상없음",
+      "관련내용": "군더더기 없이 잘됩니다"
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "군더더기 없이 잘됩니다"
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "문제없이 잘 쓰고 있습니다.",
+      "관련내용": "체인지 잘되고 편하네요.\n그동안 일일이 바꿔끼느라 고생했는데 감사합니다."
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "아주 잘 작동합니다"
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "HDMI 1개만 연결되어 있을경우는 잘 나오는데\n2개 이상 연결되면 전력이 부족한지 둘중 하나는 화면이 제대로 나오지 않고 깜빡깜빡하는 증상이 나타납니다.\n3개는 커녕 2개도 물려서 사용할수가 없네요"
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "체인지 잘되고 편하네요.\n그동안 일일이 바꿔끼느라 고생했는데 감사합니다."
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "한달동안 사용해봤는데 이거 없던 시절엔 어떻게 살았는지 모르겠음. 일일이 HDMI선 꼈다 뺐다 진심 개귀찮고 번거로웠는데 지금은 그냥 버튼 하나 똑딱 누르면 끝...진심 삶의 질이 향상됨.",
+      "관련내용": "플스랑 닌텐도랑 컴까지 모니터에 3개 연결해야돼서 샀어요! 일단은 작동 문제 없고 좋네요"
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "문의드렸는데 친절하고 빠른 답변에 너무 감사합니다 답변 듣자마자 바로 구매했습니다 너무 좋아요"
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "플스랑 닌텐도랑 컴까지 모니터에 3개 연결해야돼서 샀어요! 일단은 작동 문제 없고 좋네요"
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "컴퓨터와 닌텐도, 플스 다 잘 나오네요.\n설치 및 사용이 간편해요!!"
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "다른제품도 써보았지만\n그것의 단점 4K 지원이라고 써있지만\n4K지원을 하지 못한다는 부분이었는데\n이제품은,\n실재, 4K를 제대로 지원합니다.\n그래서, 만족하고\n한가지 문제점이라면\n산것중에 하나가 , 간헐적으로 모니터가 꺼졌다 켜지는 \n증상이 생기는데 ...\n그것 빼고는 다 만족합니다.",
+      "관련내용": "믿고 쓰는 제품입니다.\n먼저번에 하나 구입하고\n하나가 더 필요해 구입하였습니다.\n감사합니다."
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "믿고 쓰는 제품입니다.\n먼저번에 하나 구입하고\n하나가 더 필요해 구입하였습니다.\n감사합니다."
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "현재, 연결해서 사용해야 하는 기기의 수가 많아서\n화면에 보는것처럼 3개를 스위칭 하는 부분과\n두개를 스위칭해서 쓰는 부분으로 나누었습니다.\n3개를 스위칭하는 것이 , 이번에 구매해서 사용하는것으로\n이것을 메인으로 사용하고 있어요 ...\n\n지원해상도가 8K 까지 지원한다고 스펙에 있어서\n아직 4K모니터를 사용하고 있지 않지만\n4K 모니터의 스위칭도 가능할듯해요 ...\n\n3개의 컴퓨터의 모니터 출력을 선택하는 용도로\n해상도는 QHD 로 물려서 사용하고 있는데\n더할나위 없이 만족합니다.\n\n이전에 HDMI 선택기 4구를 써보았는데 외부전원이 필요한 녀석이었는데\n그것을 쓸때의 제대로 기능하지 못하는것에 데여서\n이번에는 제대로 될까 하는 생각\n그리고 3개를 스위칭할수있는것에, 구매를 했는데\n\n이젠 이것으로 통일 되었습니다.\n감사합니다.\n\n정말 만족해요 ...",
+      "관련내용": "먼저번에도, 이와 비슷한 다른것을 구매했는데\n그것의 아쉬움은, 선택지가 2구 인것입니다.\n그런데, 이번에 것은 3구의 입력을 스위칭할수 있게 되어\n이것으로 , 구매했는데\n이것으로, 모든것이 해결이 되었네요\n감사합니다."
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "먼저번에도, 이와 비슷한 다른것을 구매했는데\n그것의 아쉬움은, 선택지가 2구 인것입니다.\n그런데, 이번에 것은 3구의 입력을 스위칭할수 있게 되어\n이것으로 , 구매했는데\n이것으로, 모든것이 해결이 되었네요\n감사합니다."
+    },
+    {
+      "source_model": "LS-HS31C",
+      "내용": "랜스타 유튜브 구독자로 영상보다가 필요해서 구매했네요^^\n소개 영상처럼 사용법이랑 설치도 간단하고 조작도 직관적이라 너무 좋았습니다^^\n그리고 새 제품에 빠른 배송 감사~~&hearts;♡"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HS31C",
+      "id": 544253418,
+      "date": "2023-08-31 07:02",
+      "answerDate": "2023-08-31 10:38",
+      "user": "oh****",
+      "productName": "3:1 HDMI선택기 셀렉터 8K 4K 케이블 일체형 (LS-HS31C)",
+      "question": "입력신호 자동전환이 되나요? 아니면 수동으로 눌러줘야 하는지요?\n\n그리고 hdmi 2.1 아래 버전 케이블은 하위호환이 되나요",
+      "answer": "안녕하세요, 고객님. 랜스타입니다.\n\n해당 제품은 자동 전환 기능을 지원하지 않습니다. 신호 입력 시 자동으로 연결되는 기능이 필요하신 경우, [LS-AS302N] 제품을 추천드립니다. 해당 제품은 HDMI2.1 하위 호환이 가능한 제품으로, 자세한 내용은 아래 링크를 통해 확인해 주시면 감사하겠습니다.\nhttps://smartstore.naver.com/lineup/products/8835164072\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HS31C",
+      "id": 556585419,
+      "date": "2023-11-26 10:37",
+      "answerDate": "2023-11-27 10:38",
+      "user": "good*******",
+      "productName": "3:1 HDMI선택기 셀렉터 8K 4K 케이블 일체형 (LS-HS31C)",
+      "question": "수고하십니다! 이거랑 랜스타 LS-AS202N HDMI2.1 선택기 2:1 8K UHD 60Hz HDR 지원 이거랑 뭐가 다른건가요? Ps5를 모니터에서 연결해서 쓰고싶은데 ps5구동 영상지원면에서 성능이 어떤게 더 좋은건지 알고 싶습니다",
+      "answer": "안녕하세요, 고객님. 랜스타입니다.\n\n두 제품 모두 같은 기능과 성능의 제품입니다. 다만, 문의하신 [LS-HS31C] 제품은 HDMI 입력 포트 케이블이 제품에 내장되어 있어 제한된 길이로 연결하여 사용이 가능한 제품입니다. 반면에, [LS-AS202N]은 입력 케이블을 원하는 케이블로 연결하여 사용하실 수 있는 제품입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HS31C",
+      "id": 597066469,
+      "date": "2024-09-18 23:03",
+      "answerDate": "2024-09-19 11:37",
+      "user": "yk****",
+      "productName": "3:1 HDMI선택기 셀렉터 8K 4K 케이블 일체형 (LS-HS31C)",
+      "question": "이제품 돌비 애트모스 지원 가능한가요???",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품의 경우 돌비 미지원 제품입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "8K@60",
+      "hdr_support": true,
+      "hdcp_version": "HDCP2.3",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "HDMI2.1",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3개의 HDMI 입력 소스를",
+    "connectivity.output_signals": "하나의 디스플레이 장치로 선택 출력",
+    "connectivity.directional": "3개의 HDMI 입력 소스를 하나의 디스플레이 장치로 선택 출력",
+    "connectivity.port_count": "3개의 HDMI 입력 소스를",
+    "power.power_mode": "무전원 동작",
+    "power.charging_support": "무전원 동작",
+    "form_physical.has_case": "Plastic Shell",
+    "form_physical.material": "Plastic Shell",
+    "certification.kc": "KC 인증 획득",
+    "audio_video.max_resolution": "8K@60Hz / 4K@120Hz / 1080P@240Hz",
+    "audio_video.hdr_support": "HDR / HDR10+ (Dynamic HDR) 지원",
+    "audio_video.hdcp_version": "HDCP 2.3 지원",
+    "audio_video.audio_pass": "VRR(변동 재생 비율), ALLM(짧은 자동 대기 시간), QFT(고속 프레임 전송), QMS(고속 미디어 스위칭) 기능 지원",
+    "control_switching.has_physical_button": "본체의 입력 기기 변환 버튼(Select)을 눌러",
+    "family.hdmi_version": "HDMI 2.1",
+    "family.dp_version": "N/A",
+    "family.dvi_type": "N/A",
+    "family.optical_core": "48Gbps 데이터 전송 속도 지원",
+    "family.ethernet_channel": "48Gbps 데이터 전송 속도 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:48",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,161 @@
+{
+  "model_no": "LS-HD120POC",
+  "product_name": "LANStar HDMI 120M 거리연장기 (HDMI POC 4K 120M HDMI Extender)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블",
+    "HDMI케이블",
+    "익스텐더",
+    "UTP포트"
+  ],
+  "key_features": [
+    "CAT.5E/6 랜케이블을 통해 HDMI 신호를 최대 120M까지 전송",
+    "송신기 입력/출력 최대 해상도 4K@30Hz 지원",
+    "수신기 출력 최대 해상도 1080P@60Hz 지원",
+    "POC(Power Over Cable) 기능: 송·수신기 중 한 곳에만 전원 입력으로 동작",
+    "HDMI 입력 신호 실시간 모니터링 출력 지원 (송신기 HDMI OUTPUT 포트)",
+    "YUV 4:4:4 크로마 서브샘플링 지원",
+    "3D 비디오 포맷 및 해상도 지원",
+    "IR 센서 지원: 최대 120M 원격에서 소스 기기 리모콘 컨트롤 가능",
+    "HDCP 2.0 지원",
+    "UTP/STP 랜케이블 모두 호환",
+    "메탈 재질 하우징",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-HD120POC)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "전송거리": "최대 120m",
+    "송신기 입력 해상도": "4K, 1080p, 1080i, 720p, 576p, 576i, 480p, 480i",
+    "송신기 출력 해상도": "4K, 1080p, 1080i, 720p, 576p, 576i, 480p, 480i",
+    "수신기 출력 해상도": "1080p, 1080i, 720p, 576p, 576i, 480p, 480i",
+    "주파수": "340MHz",
+    "입력 케이블 길이": "최대 10m (26AWG, HDMI 케이블 표준 규격)",
+    "출력 케이블 길이": "최대 10m (26AWG, HDMI 케이블 표준 규격)",
+    "전원": "DC 12V 2A",
+    "작동 온도": "0°C - 45°C",
+    "습도": "5% - 90%",
+    "무게": "송신기: 250g, 수신기: 248g",
+    "재질": "메탈",
+    "크기": "107mm x 105mm x 27.3mm (송·수신기 동일)",
+    "전송 케이블 규격": "CAT.5E/6 UTP, STP 랜케이블",
+    "KC 인증번호": "R-R-LUS-LS-HD120POC",
+    "아답터 인증번호": "HU101081-19001A",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "CAT.5E 랜케이블 (UTP/STP)",
+    "CAT.6 랜케이블 (UTP/STP)",
+    "HDMI 입력 소스: 콘솔, 노트북, 데스크탑, 셋톱박스, DVD 플레이어",
+    "HDMI 출력 디스플레이: TV, 모니터, 빔프로젝터",
+    "HDMI 케이블 표준 규격 26AWG",
+    "HDCP 2.0",
+    "3D 비디오 포맷",
+    "YUV 4:4:4 크로마 서브샘플링"
+  ],
+  "package_contents": [
+    "송신기(Transmitter) 1개",
+    "수신기(Receiver) 1개",
+    "DC 12V 2A 전원 아답터",
+    "IR-TX (IR 송신기)",
+    "IR-RX (IR 수신기)",
+    "User Manual (사용설명서)"
+  ],
+  "usage_instructions": "1. 송신기(Transmitter)의 HDMI INPUT 포트에 소스 기기(노트북, 데스크탑, 셋톱박스 등)를 HDMI 케이블(최대 10M, 26AWG)로 연결한다. 2. 송신기와 수신기(Receiver)를 CAT.5E/6 랜케이블(최대 120M)로 RJ45 포트에 연결한다. 3. 수신기의 HDMI OUTPUT 포트에 디스플레이 기기(TV, 모니터, 빔프로젝터 등)를 HDMI 케이블(최대 10M, 26AWG)로 연결한다. 4. POC 기능 이용 시 송신기 또는 수신기 중 한 곳에만 DC 12V 2A 전원 아답터를 연결한다. 5. IR 기능 사용 시: 수신기 측에서 리모콘을 IR-RX 방향으로 조작하면, IR 신호가 랜케이블을 통해 송신기로 전달되고, 송신기에 연결된 IR-TX를 통해 소스 기기로 신호가 전달되어 원격 제어가 가능하다. 6. 송신기의 HDMI OUTPUT(모니터링) 포트를 통해 입력 신호를 실시간으로 모니터링할 수 있다.",
+  "cautions": [
+    "최대 연장 거리(120M)는 이론상 수치이며, 사용 환경에 따라 실제 최대 거리가 짧아질 수 있습니다.",
+    "최대 연장 거리는 국산 UTP, STP 랜케이블 기준이며, 일부 중국산 랜케이블의 품질에 따라 지원 거리가 짧아지거나 화면 출력이 지원되지 않을 수 있습니다.",
+    "1080P@60Hz 출력 품질 유지를 위해 HDMI 입력 케이블은 최대 10M(26AWG 표준 규격), 출력 케이블도 최대 10M(26AWG 표준 규격) 이내로 사용하십시오.",
+    "수신기를 통해 출력되는 최대 해상도는 1080P@60Hz입니다. (4K 출력은 수신기에서 지원되지 않음)",
+    "POC 기능 사용 시 송신기와 수신기 중 반드시 한 곳에만 전원을 입력하십시오.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HD120POC",
+      "품목코드": "INT-HDS179",
+      "품목명": "[LANstar] HDMI 거리연장기 120m POC기능지원 [30418]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "RJ45"
+      ],
+      "output_signals": [
+        "HDMI",
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "PoC",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI INPUT 포트에 소스 기기",
+    "connectivity.output_signals": "HDMI OUTPUT 포트에 디스플레이",
+    "connectivity.directional": "송신기 입력/출력 최대 해상도",
+    "power.power_mode": "POC(Power Over Cable) 기능",
+    "power.charging_support": "POC(Power Over Cable) 기능",
+    "audio_video.max_resolution": "4K@30Hz 지원",
+    "audio_video.hdcp_version": "HDCP 2.0 지원",
+    "audio_video.audio_pass": "HDMI 신호를 최대 120M까지 전송",
+    "form_physical.has_case": "메탈 재질 하우징",
+    "form_physical.material": "메탈 재질 하우징",
+    "certification.kc": "KC 인증 획득",
+    "control_switching.has_remote": "IR 센서 지원: 최대 120M 원격에서 소스 기기 리모콘 컨트롤 가능",
+    "family.cat_category": "CAT.5E/6 랜케이블",
+    "family.shielding": "UTP/STP 랜케이블 모두 호환",
+    "family.poe_support": "POC(Power Over Cable) 기능"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:46",
+  "feature_schema_version": "1.0.0"
+}

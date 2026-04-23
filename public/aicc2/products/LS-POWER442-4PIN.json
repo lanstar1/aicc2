@@ -1,0 +1,110 @@
+{
+  "model_no": "LS-POWER442-4PIN",
+  "product_name": "파워동기식 24핀+4핀 컨트롤러 (ATX 24Pin Dual PSU Power Supply Sync Starter)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "솔리드 스테이트 PC 보드 설계",
+    "비발열 구조",
+    "다중 장착 옵션 지원",
+    "사실상 무제한의 PSU 연결 지원",
+    "1분 안에 설치 가능",
+    "케이스의 거의 모든 곳에 장착 가능",
+    "5초에서 최대 10분까지 지연 조정 기능",
+    "컴팩트한 디자인 (67mm x 30mm)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 준수 및 ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-POWER442-4PIN",
+    "브랜드": "LANStar",
+    "제조사/수입사": "라인업시스템(주)",
+    "제조국/원산지": "중국 (China)",
+    "입력 전압": "DC 12V",
+    "지원 핀": "24핀 + 4핀",
+    "크기": "67mm x 30mm",
+    "인증번호": "해당없음",
+    "RoHS": "준수 (COMPLIANT)",
+    "품질인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "ATX 24핀 파워서플라이",
+    "ATX 4핀 파워서플라이",
+    "Dual PSU (이중 전원공급장치) 구성 시스템"
+  ],
+  "package_contents": [],
+  "usage_instructions": "전원 시트가 플라스틱으로 만들어져 있으므로 플러그 라인은 트랜스포존을 손으로 잡은 다음 전원 플러그를 막기 위해 라인을 연결한다. 주전원 공급 장치 감지 인터페이스 플러그 연결 후 수동 스위치가 유효하지 않은 경우, 감지는 일반적인 수동 스위치 기계로 끌 수 있다.",
+  "cautions": [
+    "인서트 라인 삽입 시 소켓의 방향과 내부를 명확히 확인하고 반대 방향으로 삽입하지 않도록 주의 (반대 삽입 시 장비 손상 위험)",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "본 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-POWER442-4PIN",
+      "품목코드": "CAB-내부파029",
+      "품목명": "[LANstar] 파워동기식 24핀+4핀 컨트롤러 [20124] ★★할인제외★★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "24핀",
+        "4핀"
+      ],
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "24핀+4핀 컨트롤러",
+    "form_physical.material": "전원 시트가 플라스틱으로 만들어져",
+    "certification.kc": "인증번호: 해당없음",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:29",
+  "feature_schema_version": "1.0.0"
+}

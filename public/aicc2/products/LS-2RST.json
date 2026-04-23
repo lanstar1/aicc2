@@ -1,0 +1,266 @@
+{
+  "model_no": "LS-2RST",
+  "product_name": "LANStar 3.5 스테레오 케이블 2RCA M/M (3.5ST/M-2RCA/M)",
+  "category": [
+    "컨버터",
+    "커넥터",
+    "RCA케이블",
+    "오디오케이블",
+    "AV케이블"
+  ],
+  "key_features": [
+    "3.5파이 스테레오(3극) 입력을 2RCA(음성 좌/우) 출력으로 변환",
+    "아날로그 음성 지원",
+    "신호 손실을 최소화하는 금도금 커넥터",
+    "케이블 두께 4pi",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 미사용)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 구성": "3.5ST(Male) - 2RCA(Male)",
+    "신호 방식": "아날로그 음성",
+    "케이블 두께": "4pi",
+    "커넥터 도금": "금도금",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "모델명 (1.5M)": "LS-2RST-1.5M",
+    "모델명 (3M)": "LS-2RST-3M",
+    "모델명 (5M)": "LS-2RST-5M",
+    "모델명 (10M)": "LS-2RST-10M",
+    "모델명 (15M)": "LS-2RST-15M",
+    "모델명 (20M)": "LS-2RST-20M",
+    "모델명 (30M)": "LS-2RST-30M"
+  },
+  "compatibility": [
+    "PC (컴퓨터)",
+    "노트북",
+    "MP3 플레이어",
+    "오디오 (앰프)",
+    "스피커 등 음향기기",
+    "TV (TV-OUT 용도)"
+  ],
+  "package_contents": [
+    "3.5ST(M)-2RCA(M) 케이블 1개"
+  ],
+  "usage_instructions": "3.5ST 단자를 컴퓨터, 노트북, MP3 등 음원 기기에 연결하고, 2RCA 단자(음성 좌/우)를 오디오, 스피커, TV 등 출력 기기의 해당 색상 단자에 맞게 연결합니다. PC와 오디오(앰프) 연결, TV와 PC 연결(TV-OUT), MP3와 스피커 연결 등에 활용합니다.",
+  "cautions": [
+    "연결되는 기기마다 사용하는 단자가 다르므로 반드시 확인하고 구매하시기 바랍니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-2RST-1.5M",
+      "품목코드": "CAB-S2R001",
+      "품목명": "[LANstar] AV케이블 , 2RCA／M-3.5ST／M, 3pi, 1.5M[10472] (250개)",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-2RST-3M",
+      "품목코드": "CAB-S2R002",
+      "품목명": "[LANstar] AV케이블 ,2RCA／M-3.5ST／M, 3pi, 3M[10473] (100개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-2RST-5M",
+      "품목코드": "CAB-S2R003",
+      "품목명": "[LANstar] AV케이블 ,2RCA／M-3.5ST／M, 3pi, 5M[10474] (100개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-2RST-10M",
+      "품목코드": "CAB-S2R004",
+      "품목명": "[LANstar] AV케이블 , 2RCA／M-3.5ST／M, 3pi, 10M[10475] (60개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-2RST-15M",
+      "품목코드": "CAB-S2R005",
+      "품목명": "[LANstar] AV케이블 , 2RCA／M-3.5ST／M, 3pi, 15M[10476] (50개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-2RST-20M",
+      "품목코드": "CAB-S2R006",
+      "품목명": "[LANstar] AV케이블 ,2RCA／M-3.5ST／M, 3pi, 20M[10477] (30개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-2RST-30M",
+      "품목코드": "CAB-S2R007",
+      "품목명": "[LANstar] AV케이블 ,2RCA／M-3.5ST／M, 3pi, 30M[10478] (25개)",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-2RST-2M",
+      "품목코드": "CAB-S2R067",
+      "품목명": "[LANstar] AV케이블 , 2RCA／M-3.5ST／M, 3pi, 2M[30398](200개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-2RST",
+      "내용": "배송 빠르고 만족합니다"
+    },
+    {
+      "source_model": "LS-2RST",
+      "내용": "배송 빠르고 만족합니다"
+    },
+    {
+      "source_model": "LS-2RST-1.5M",
+      "내용": "선정리 대충 끝냈습니다"
+    },
+    {
+      "source_model": "LS-2RST-10M",
+      "내용": "저렴하게 잘 구매한 좋은 제품입니다"
+    },
+    {
+      "source_model": "LS-2RST-10M",
+      "내용": "좋으네요 \n잘받았습니다"
+    },
+    {
+      "source_model": "LS-2RST-15M",
+      "내용": "연결해서 잘 사용중입니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-2RST-5M",
+      "chatUrl": "9tNGS",
+      "dateIso": "2024-07-10T08:40:22.992Z",
+      "name": "윤도현",
+      "isTechnical": true,
+      "category": "shipping",
+      "modelConfidence": "high",
+      "question": "케이블을 만지면 소리가 났다 안났다 합니다\n(추가 문의) 위치를 바꿔도 연전히 한쪽은 안들립니다",
+      "answer": "네 고객님, 케이블 위치를 바꿨을때도 여전히 같은 위치에서 스피커가 나오지 않는건 케이블에 문제가 없어 보입니다. 스피커끼리 연결한 선에 불량 또는 접촉문제일 가능성이 있습니다.",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "케이블을 만지면 소리가 났다 안났다 합니다"
+        },
+        {
+          "role": "agent",
+          "text": "고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+        },
+        {
+          "role": "customer",
+          "text": "위치를 바꿔도 연전히 한쪽은 안들립니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 케이블 위치를 바꿨을때도 여전히 같은 위치에서 스피커가 나오지 않는건 케이블에 문제가 없어 보입니다.\n스피커끼리 연결한 선에 불량 또는 접촉문제일 가능성이 있습니다."
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "RCA"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1.5,
+        3.0,
+        5.0,
+        10.0,
+        15.0,
+        20.0,
+        30.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5파이 스테레오(3극) 입력을",
+    "connectivity.output_signals": "2RCA(음성 좌/우) 출력으로 변환",
+    "connectivity.directional": "3.5파이 스테레오(3극) 입력을 2RCA(음성 좌/우) 출력으로 변환",
+    "power.power_mode": "무전원",
+    "power.charging_support": "No mention of charging",
+    "form_physical.has_case": "No mention of case",
+    "form_physical.material": "금도금 커넥터",
+    "form_physical.length_options_meters": "모델명 (1.5M)",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "아날로그 음성 지원",
+    "audio_video.hdr_support": "아날로그 음성 지원",
+    "audio_video.hdcp_version": "아날로그 음성 지원",
+    "audio_video.audio_pass": "아날로그 음성 지원",
+    "control_switching.has_remote": "No mention of remote",
+    "control_switching.has_hotkey": "No mention of hotkey",
+    "control_switching.has_physical_button": "No mention of physical button",
+    "control_switching.has_mouse_switching": "No mention of mouse switching",
+    "control_switching.has_auto_scan": "No mention of auto scan",
+    "control_switching.has_app_control": "No mention of app control",
+    "family.conversion_direction": "3.5파이 스테레오(3극) 입력을 2RCA(음성 좌/우) 출력으로 변환",
+    "family.requires_external_power": "무전원"
+  },
+  "feature_extracted_at": "2026-04-23T03:06:42",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "shipping": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

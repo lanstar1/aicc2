@@ -1,0 +1,188 @@
+{
+  "model_no": "LS-GIC-KCUP",
+  "product_name": "LAN Star CAT.6A 메탈 Tooless 커플러 (LS-GIC-KCUP)",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-FTP",
+    "커넥터",
+    "키스톤잭",
+    "커플러",
+    "네트워크공구",
+    "LAN공구"
+  ],
+  "key_features": [
+    "CAT.6A 규격 지원, 최대 10Gbps(10,000Mbps) 전송속도 지원",
+    "Tooless 방식으로 별도 공구 없이 랜 커넥터 제작 가능",
+    "FTP(은박처리) 구조로 노이즈 차단 및 신호간섭 방지",
+    "부트 및 케이블 타이 조립 시 높은 결합력으로 랜선 이탈 방지",
+    "단선 및 연선 공용 사용 가능",
+    "배선 캡에서 케이블 꼬임 유지로 성능과 지속성 향상",
+    "최대 직경 9mm 두께의 랜 케이블까지 제작 가능",
+    "RJ45 8P8C FTP 커플러, T568B 배선 방식",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 준수(납·수은·카드뮴 등 중금속 사용 금지), ISO 9001:2008 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-GIC-KCUP",
+    "제품명": "TOOLESS 커플러 CAT.6A",
+    "커넥터 타입": "RJ45 8P8C, F/F, 1:1",
+    "케이블 규격": "CAT.6A",
+    "쉴드 타입": "FTP (은박처리 메탈)",
+    "배선 방식": "T568B",
+    "전송속도": "10/100/1000Mbps / 10Gbps",
+    "대역폭": "500MHz",
+    "지원 케이블 직경": "6~9mm",
+    "본체 길이": "54mm",
+    "본체 너비": "15.5mm",
+    "본체 높이": "12.5mm",
+    "커플러 개구부": "9mm / 10mm",
+    "배선캡 높이": "5.5mm",
+    "부트 길이": "14mm",
+    "케이블 타이 길이": "77mm",
+    "제조국": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "A/S 문의": "www.LANstar.co.kr",
+    "환경 규격": "RoHS COMPLIANT",
+    "품질 규격": "ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "CAT.6A UTP / S-STP 랜케이블",
+    "CAT.7 랜케이블 (10Gbps 동일 지원)",
+    "RJ45 8P8C 표준 커넥터",
+    "T568B 배선 방식",
+    "단선 및 연선 케이블 공용",
+    "직경 6~9mm 랜 케이블",
+    "10/100/1000Mbps / 10Gbps 네트워크 장비"
+  ],
+  "package_contents": [
+    "Tooless 커플러 본체 x1",
+    "부트 x2",
+    "배선 캡 x2",
+    "케이블 타이 x2"
+  ],
+  "usage_instructions": "1) Tooless 커플러와 작업할 랜선을 준비한다. 2) 피복을 벗겨낸 랜케이블에 부트를 끼워 넣는다. 3) 배선 캡에 랜선들을 T568B 색상 순서(6312 배열)대로 끼워 넣는다. 4) 배선 캡 밖으로 나온 랜선들을 잘라 정리한다. 5) 커플러 덮개를 열어 배선 캡을 끼워 넣는다. 6) 커플러 덮개를 닫은 후 케이블 타이로 고정한다. 7) 커플러에 부트를 밀어 고정시킨다. 8) 반대쪽도 동일한 순서로 마무리한다. ※ 랜선 두께를 모를 경우 넓은 쪽에서 거꾸로 선을 넣어 걸리는 부분을 잘라 사용한다.",
+  "cautions": [
+    "케이블 직경이 6mm 미만이거나 9mm 초과인 경우 사용 불가",
+    "랜선 두께를 모를 경우 넓은 쪽에서 거꾸로 삽입 후 걸리는 부분을 절단하여 사용할 것",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 무단 복제 및 이용 시 불이익이 발생할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됨",
+    "A/S 문의는 www.LANstar.co.kr 을 통해 접수할 것"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GIC-KCUP",
+      "품목코드": "NEO-키스톤089",
+      "품목명": "[LANstar] Tooless 키스톤 타입 I 커플러,CAT.6A, 메탈 [40678]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-GIC-KCUP",
+      "내용": "선 사용하기 어렵습니다"
+    },
+    {
+      "source_model": "LS-GIC-KCUP",
+      "내용": "굿굿굿 너무 좋습니다"
+    },
+    {
+      "source_model": "LS-GIC-KCUP",
+      "내용": "이게 설치를 완료한 상태는 깔끔하긴 합니다만 \n설치하는 게 초보자 기준 어렵습니다\n설명도 살짝 부족하구요\n랜스타 유튜브 영상을 보면 배선 캡 밖으로 나온 랜선들을 자를 때 한 번만 툭 자르는데 그러면 간섭이 생깁니다\n밑 부분도 한 번 더 잘라줘야 합니다\n자른 후 배선 캡을 커플러에 끼워 넣는데 이게 랜선을 바짝 자르면 랜선이 배선 캡에 고정된 상태가 아니기 때문에 \n끼워 넣는 과정에서 분리가 되는 경우가 많습니다\n커플러 덮개를 덮으면서 단단히 고정되는 구조인데 \n덮을 때 자꾸 조금씩 랜선이 빠져서 힘들더군요..\n여러 번 실패했었는데\n랜 테스터기가 없었다면 포기했을 것 같습니다\n개인적으로 이 제품보다는 Inline 커플러를 추천합니다\n랜선을 하나하나 보면서 정확하게 연결할 수 있으니까요"
+    },
+    {
+      "source_model": "LS-GIC-KCUP",
+      "내용": "랜선 연장하느라 샀는데 간단해서 좋네요."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-GIC-KCUP",
+      "id": 229572681,
+      "date": "2022-07-25 00:40",
+      "answerDate": "2022-07-25 09:00",
+      "user": "kore*****",
+      "productName": "랜스타 Tooless 키스톤잭 타입 I 커플러 CAT.6A 메탈 LS-GIC-KCUP",
+      "question": "cat5e 나 cat6에서도 사용할 수 있나요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n하위 호환 가능합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "메탈"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "FTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 8P8C FTP 커플러",
+    "connectivity.output_signals": "RJ45 8P8C, F/F, 1:1",
+    "connectivity.directional": "RJ45 8P8C, F/F, 1:1",
+    "connectivity.port_count": "RJ45 8P8C, F/F, 1:1",
+    "power.power_mode": "Tooless 방식으로 별도 공구 없이",
+    "power.charging_support": "Tooless 방식으로 별도 공구 없이",
+    "form_physical.has_case": "커플러 덮개를 열어",
+    "form_physical.material": "메탈 Tooless 커플러",
+    "certification.rohs": "RoHS 준수(납·수은·카드뮴 등 중금속 사용 금지)",
+    "certification.iso9001": "ISO 9001:2008 인증",
+    "family.cat_category": "CAT.6A 규격 지원",
+    "family.shielding": "FTP(은박처리) 구조로 노이즈 차단",
+    "family.conductor": "단선 및 연선 공용 사용 가능",
+    "family.poe_support": "10Gbps"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:15",
+  "feature_schema_version": "1.0.0"
+}

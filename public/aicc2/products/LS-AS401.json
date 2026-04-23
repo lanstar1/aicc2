@@ -1,0 +1,337 @@
+{
+  "model_no": "LS-AS401",
+  "product_name": "LANStar HDMI 4:1 선택기 (HDMI 2.0 / 4K@60Hz UHD)",
+  "category": [
+    "HDMI선택기"
+  ],
+  "key_features": [
+    "4개의 HDMI 입력 소스를 하나의 디스플레이 장치로 선택하여 출력 가능한 4:1 스위처",
+    "최대 4K@60Hz UHD 해상도 출력 지원",
+    "1080P@120Hz Full HD 해상도 및 주사율 지원",
+    "HDMI 2.0 버전 지원 (HDMI 1.3/1.4 하위 버전 호환)",
+    "HDR(High Dynamic Range) 지원 - 밝기 1000단계(nit)까지 명암대비 표현",
+    "HDCP 2.2 영상 저작권 보호 기술 지원",
+    "YUV 4:4:4 크로마 서브샘플링 지원",
+    "3D 디스플레이 기술 및 3D 비디오 포맷 전달 지원",
+    "21:9 와이드 화면 비율(시네마스코프) 지원",
+    "IR 리시버 모드 지원 - 원거리 리모콘 조작 가능",
+    "AUTO 모드 및 수동 모드 전환 가능",
+    "USB Type-C 전원 입력 방식",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-AS401)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득)"
+  ],
+  "specifications": {
+    "입력 포트": "HDMI 4포트",
+    "출력 포트": "HDMI 1포트",
+    "지원 해상도": "4K@60Hz / 1080P@120Hz",
+    "전원": "DC 5V USB 전원 케이블 (USB Type-C 입력)",
+    "작동 온도": "0°C ~ 70°C",
+    "습도": "5% ~ 90%",
+    "크기": "136.3 x 61.5 x 14.5 (mm)",
+    "무게": "약 173g",
+    "재질": "Metal",
+    "HDMI 버전": "HDMI 2.0 (1.3/1.4 하위 버전 호환)",
+    "HDCP": "HDCP 2.2",
+    "HDR": "지원",
+    "3D": "지원",
+    "크로마 서브샘플링": "YUV 4:4:4",
+    "화면 비율": "16:9, 21:9",
+    "KC 인증번호": "R-R-LUS-LS-AS401",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 2.0 지원 기기",
+    "HDMI 1.3 / 1.4 하위 버전 기기",
+    "콘솔 게임기 (Console)",
+    "노트북 (Notebook)",
+    "데스크탑 (Desktop)",
+    "셋톱박스 (Set top Box)",
+    "DVD 플레이어 (DVD Player)",
+    "TV (출력 기기)",
+    "모니터 (출력 기기)",
+    "빔 프로젝터 (출력 기기)",
+    "HDCP 2.2 지원 디스플레이 기기",
+    "블루레이 디스크 재생 기기",
+    "넷플릭스 등 온라인 스트리밍 서비스 지원 기기"
+  ],
+  "package_contents": [
+    "HDMI 4x1 Switcher 본체 (LS-AS401)",
+    "USB 전원 케이블",
+    "리모컨 (Remote Control)",
+    "사용자 설명서 (User Manual)"
+  ],
+  "usage_instructions": "1. HDMI 입력 포트(INPUT 1~4)에 소스 기기(콘솔, 노트북, 데스크탑, 셋톱박스 등)를 연결한다. 2. HDMI 출력 포트(OUTPUT)에 디스플레이 기기(TV, 모니터, 빔 프로젝터 등)를 연결한다. 3. DC 5V USB Type-C 전원 케이블을 연결하여 전원을 공급한다. 4. 전원 LED(RED: 전원 연결/사용 가능, BLUE: 작동 중)로 상태를 확인한다. 5. SELECT 버튼을 짧게 누르면 입력 소스 기기를 변경할 수 있다. 6. SELECT 버튼을 3초간 누르면 수동/자동(AUTO) 모드를 전환할 수 있으며, AUTO 모드 LED로 확인 가능하다. 7. SELECT 버튼을 6초간 누르면 IR 리시버 모드를 ON/OFF할 수 있으며, IR 모드 LED로 작동 상태를 확인할 수 있다. 8. IR 리시버 모드 사용 시 리모콘으로 전원 ON/OFF 및 입력 소스 1~4 선택, IR 모드 ON/OFF 조작이 가능하다.",
+  "cautions": [
+    "정품 인증 배너가 등록되어 있지 않은 판매처의 제품은 정품이 아닐 수 있으며 A/S를 받을 수 없음",
+    "라인업시스템(주) / 랜스타 정품 제품에 한해 제조사 기준의 A/S 서비스 제공",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "당사의 동의 없이 제품 및 콘텐츠 무단 복제 및 이용 시 불이익이 발생할 수 있음",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준임",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있음",
+    "작동 온도 범위(0°C~70°C) 및 습도 범위(5%~90%) 내에서 사용할 것",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-AS401",
+      "품목코드": "INT-HDS291",
+      "품목명": "[LANstar] 4:1 HDMI 2.0 선택기 [30739] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-AS401",
+      "내용": "하나의 소스를 여러개로 분배해서 모니터하고 \n여러소스중 원하는 소스를 선택 하는데는\n최고의 제품 입니다\n적극 추천 합니다"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "배송오류로 리모컨이 늦게 오긴했는데 작동은 잘되는것 같아요."
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "닌텐도, 컴퓨터 모니터를 같이쓰는데 \n리모콘으로 설정을 할수있어서 편합니다."
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "상품 잘 받았습니다 감사합니다."
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "잘받았습니다 감사합니다",
+      "관련내용": "잘받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "아주 잘쓰고 있습니다 !!"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "잘받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "콘솔게임기 모두 연결하여 잘 사용 중입니다."
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "잘 받았습니다 잘쓰겠습니다"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "디자인도 컴팩트 하고 무게감도 있고\n깔끔하니 너무 예뻐요^^\n\n정말 좋은데... 제가 똥손인건지....\n플스4만 실행하면 작동이 안되네요 ㅠㅠ\n\nTV에 HDMI단자가 3개 있는데\n1번은 지니 셋톱박스\n2번은 컴퓨터\n3번에 랜스타 HDMI선택기 연결해서\n\n랜스타 선택기\n1번이 플스4\n2번이 닌텐도 스위치\n3번이 닌텐도 위 연결했어요.\n\n리모컨 조작업이\n닌텐도 게임은 바로바로 연결이 되는데\n\n플스4만 실행하면\nTV HDMI 3번 단자를\n단독 플스4로 자동인식해버리고\n외부입력 다시설정하라고 맨트가 자꾸뜨네요.\n\n제가 말을 너무 어렵게 쓴걸까요?\n\n\n티비 자체에\n단독으로 플스4를 연결해주면\n문제없이 잘 돌아가는데\n\n랜스타 선택기로 잡으면\n플스4만 인식이 안됩니다.\n\n우리집 TV가 썩은걸까요?^^\n도와주세요~\n\n제품은 정말 너무 이쁘고 좋아요.\n\n구매평 보니까\n\n저처럼 여러 게임기를 분배해서\n쓰시려고 구매후기 올려주신분 보고\n구매한건데... 플스4만 안되요 ㅠㅠ"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "잘 쓰고 있어요 리모컨 잘 되고 화면 잘 나와요\n전력 부족이 가끔 있는지 화면이 깜빡 하는 경우가 며칠에 한번 있어요",
+      "관련내용": "리모컨은 앞쪽에 수신부에 잘 대고 누르면 구동합니다 \n그 외에는 전환도 빠르고 화질도 완벽하고 훌륭한 제품이에요"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "리모컨은 앞쪽에 수신부에 잘 대고 누르면 구동합니다 \n그 외에는 전환도 빠르고 화질도 완벽하고 훌륭한 제품이에요"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "사이즈가 컴팩트하네요~"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "4:1 hdmi 스위치 2.0 4k 리모컨 포함\nusb어댑터 추가해서 주문했는데\n택배배송중 제품이 없어져서 찾다가 못찾고 \n기사님이 재주문해서 이제야 재배송받아서 \n20일정도 걸렸나봐요..."
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "hdmi 포트가 부족하여 구매하였습니다 작동 잘 됩니다"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "모니터 단자 수가 적어 구매하게되었다.\n모니터 자체의 USB단자로도 전원공급이 되어 사용가능하다."
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "잘쓰고있습니다 아들이 좋아하네요~",
+      "관련내용": "배송빠르고ㅡ 너무좋습니다 만족해요"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "품질 배송서비스 모두 만족합니다."
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "좋아요 잘사용중입니다"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "배송빠르고ㅡ 너무좋습니다 만족해요"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "hdmi 2개밖에 없는 tv였는데 이거 설치하고 신세계입니다ㅠㅠ 게임기 많은 사람에겐 필수인거같아여. 저는 엑박, 스위치, 노트북 이렇게 쓰고 혹시모를 플스도 구입하면 추가하려고 여분자리 남겨놨는데 저같은 상황이신 분이라면 무조건 추천입니다!! 적은가격으로 편리해져서 너무 좋네요!!"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "좋은상품 빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "배송이 빨라서 좋았어요"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "빠릿빠릿하게 전환이 잘 됩니다 :)\n크기도 작고 4개의 기기까지 연결되니 플스, 스위치, 노트북, 메인피씨를 모니터 하나로 해결 할 수 있네요"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "빠르고 정확한 배송이었습니다."
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "영상 잘 나오고 깨끗해요",
+      "관련내용": "사용하기 편해요!!"
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "상품 넘 만족하고 잘 사용하고 있어요."
+    },
+    {
+      "source_model": "LS-AS401",
+      "내용": "사용하기 편해요!!"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-AS401",
+      "id": 545634193,
+      "date": "2023-09-10 06:57",
+      "answerDate": "2023-09-11 10:46",
+      "user": "jean****",
+      "productName": "4:1 HDMI 선택기 스위치 2.0 4K 리모컨 포함  (LS-AS401)",
+      "question": "안녕하세요\n티비에  ps5 , led 스트립조명 , 크롬캐스트 , kt셋톱박스 , 사운드바 이렇게 사용하고 싶은데 패스스루 가능할까요 ㅠㅠㅠ\n그리고 이정도로 많이 쓰게되면 지연이나 멈춤현상같은게 심하려나요...?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품의 경우 하나의 장비를 선택하여 TV에 전송하는 역할을 합니다.\n최대 3개의 장비에 연결하여, 하나의 제품만 선택해서 출력하기 때문에 단독으로 사용하는 개념이라 지연이나 별도 멈춤 현상은 발생하지 않습니다.\n\n다만 사운드바를 연결하실 패스스루를 찾으신다면, 해당 제품이 아닌 'LS-HD2AE' 제품을 사용하셔야 합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-AS401",
+      "id": 579403613,
+      "date": "2024-05-05 23:11",
+      "answerDate": "2024-05-07 09:35",
+      "user": "inma***",
+      "productName": "4:1 HDMI 선택기 스위치 2.0 4K 리모컨 포함  (LS-AS401)",
+      "question": "안녕하세요 ~\n귀사에 많은 발전이 있기를 기원합니다.\n\n노래반주기 , 노트북 화면을 번갈아 가며 빔프로젝트와 TV에 출력 하고자 합니다.\n\n혹시..\n선택한 상품 사용시..\n화면 전환 할때 시간이 몇초 정도 될까요?\n\n선택기는 심리스기능이 있는것을  사라고 하던데..\n\n화면 넘길때 블랙다운 시간이 길면 안되거든요\n\n답변 부탁 드립니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품은 심리스 기능이 없기 때문에 사용하시는 모니터에 따라 전환시간이 다르지만, 대략 3~6초 소요됩니다.\n\n심리스 기능이 있는 제품은 아래와 같습니다.\nLS-HDM204N (4K), LS-HDM204 (FHD)\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-AS401",
+      "id": 626813507,
+      "date": "2025-05-02 03:43",
+      "answerDate": "2025-05-02 09:43",
+      "user": "1984***",
+      "productName": "4:1 HDMI 선택기 스위치 2.0 4K 리모컨 포함  (LS-AS401)",
+      "question": "안녕하세요. 문의 좀 드릴께요. 제가 듀얼모니터를 사용하려고, 노트북에 HDMI분배기를 사용해서 업무를 보고 있는데요. 2번 HDMI 출력포트에 각 모니터에서 연결되있는 HDMI분배기를 그대로 꽂아서 듀얼모니터를 사용할수 있는건가요? 3~6 HDMI입력포트에 노트북과 데탑을 2~3대를 번갈아 가면서, 사무실에 있는 듀얼모니터를 사용하려고 합니다. 가능할까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n우선 분배기의 경우 1개의 신호를 여러화면에 복제하는 장비입니다.\n해당 제품으로는 여러 컴퓨터를 하나의 모니터로 번갈아서 사용할 때 문의주신 선택기 제품 사용하면 됩니다.\n하지만 듀얼모니터 기능이 없는 제품이라, PC 두대까지 듀얼모니터로 사용가능한 LS-HD2KVM-D 제품을 추천드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-AS401",
+      "id": 635378434,
+      "date": "2025-07-15 10:44",
+      "answerDate": "2025-07-15 14:12",
+      "user": "hp****",
+      "productName": "4:1 HDMI 선택기 스위치 2.0 4K 리모컨 포함  (LS-AS401)",
+      "question": "1.전원 어답터 미포함인가요?\n2.무전원으로 사용가능한가요?\n3.전원어답터 따로 구매해서 사용해야 되나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n1. 미포함으로 필요하시면 추가상품 구매 부탁드립니다.\n2. 무전원 사용 불가합니다.\n3. 필요에 따라 구매하여 사용 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 5
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": true,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": true,
+      "has_app_control": null
+    },
+    "family": {
+      "selector_type": "양방향",
+      "input_count": 4,
+      "output_count": 1,
+      "interfaces": [
+        "HDMI"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "4개의 HDMI 입력 소스를",
+    "connectivity.output_signals": "하나의 디스플레이 장치로 선택하여 출력",
+    "connectivity.directional": "4:1 스위처",
+    "connectivity.port_count": "입력 포트\": \"HDMI 4포트\", \"출력 포트\": \"HDMI 1포트",
+    "power.power_mode": "USB Type-C 전원 입력 방식",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "크기\": \"136.3 x 61.5 x 14.5 (mm)",
+    "form_physical.material": "재질\": \"Metal",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "null",
+    "certification.iso9001": "null",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "4K@60Hz UHD 해상도 출력 지원",
+    "audio_video.hdr_support": "HDR(High Dynamic Range) 지원",
+    "audio_video.hdcp_version": "HDCP 2.2 영상 저작권 보호 기술 지원",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "IR 리시버 모드 지원 - 원거리 리모콘 조작 가능",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "SELECT 버튼을 짧게 누르면 입력 소스 기기를 변경",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "AUTO 모드 및 수동 모드 전환 가능",
+    "control_switching.has_app_control": "null",
+    "family.selector_type": "4:1 스위처",
+    "family.input_count": "입력 포트\": \"HDMI 4포트",
+    "family.output_count": "출력 포트\": \"HDMI 1포트",
+    "family.interfaces": "HDMI 4:1 선택기"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:19",
+  "feature_schema_version": "1.0.0"
+}

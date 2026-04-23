@@ -1,0 +1,160 @@
+{
+  "model_no": "LSP-USB-AM5P",
+  "product_name": "LANstar plus USB 2.0 미니5핀 케이블 (A/M-Mini 5P/M)",
+  "category": [
+    "USB케이블",
+    "USB2.0"
+  ],
+  "key_features": [
+    "USB 2.0 규격 지원, 최대 480Mbps 전송속도 (USB 1.1 대비 40배 빠름)",
+    "USB A(Male) ↔ Mini 5Pin(Male) 연결 케이블 (MP3 등 미니5핀 기기 연결)",
+    "USB 하위 버전(1.0, 1.1) 호환 지원",
+    "RoHS 준수 — 납·수은·카드뮴 등 유해 중금속 미사용",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품",
+    "0.5M / 1M / 1.5M / 2M / 3M 길이 라인업 구성"
+  ],
+  "specifications": {
+    "USB 규격": "USB 2.0 (Hi-Speed)",
+    "최대 전송속도": "480Mb/s",
+    "커넥터 A단": "USB A Male",
+    "커넥터 B단": "USB Mini 5Pin Male",
+    "케이블 길이 라인업": "0.5M, 1M, 1.5M, 2M, 3M",
+    "모델명(길이별)": "LSP-USB-AM5P-0.5M / LSP-USB-AM5P-1M / LSP-USB-AM5P-1.5M / LSP-USB-AM5P-2M / LSP-USB-AM5P-3M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "RoHS 준수": "해당",
+    "인증번호": "상세페이지 참조",
+    "충전 전압(USB 2.0)": "100mA",
+    "출시년도(USB 2.0 규격)": "2001"
+  },
+  "compatibility": [
+    "USB 2.0 Hi-Speed 기기",
+    "USB 1.1 Full-Speed 기기 (하위 호환)",
+    "USB 1.0 Low-Speed 기기 (하위 호환)",
+    "Mini 5Pin 단자를 사용하는 기기 (MP3 플레이어 등)"
+  ],
+  "package_contents": [
+    "USB 2.0 미니5핀 케이블 (A/M-Mini 5P/M) × 1"
+  ],
+  "usage_instructions": "USB A(Male) 단자를 PC 또는 충전기의 USB 포트에 연결하고, Mini 5Pin(Male) 단자를 MP3 플레이어 등 미니5핀 단자를 가진 기기에 연결하여 사용합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "구매·배송·반품 관련 문의는 판매처(쇼핑몰 하단 참조)로 문의하세요.",
+    "AS 및 소비자 상담: 라인업시스템(주)"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-USB-AM5P-0.5M",
+      "품목코드": "PCA-US5001",
+      "품목명": "[◆Lanstar-Plus] USB 2.0미니케이블 , USB A/M-5PIN Mini, 0.5M [70041](400개)",
+      "variant_suffix": "-0.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-USB-AM5P-1M",
+      "품목코드": "PCA-US5002",
+      "품목명": "[◆Lanstar-Plus] USB 2.0미니케이블 , USB A/M-5PIN Mini, 1M [70042](300개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-USB-AM5P-1.5M",
+      "품목코드": "PCA-US5003",
+      "품목명": "[◆Lanstar-Plus] USB 2.0미니케이블 , USB A/M-5PIN Mini, 1.5M [70043](250개)",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-USB-AM5P-2M",
+      "품목코드": "PCA-US5004",
+      "품목명": "[◆Lanstar-Plus] USB 2.0미니케이블 , USB A/M-5PIN Mini, 2M [70044](200개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-USB-AM5P-3M",
+      "품목코드": "PCA-US5005",
+      "품목명": "[◆Lanstar-Plus] USB 2.0미니케이블 , USB A/M-5PIN Mini, 3M [70045](100개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "USB-Mini"
+      ],
+      "output_signals": [
+        "USB-A",
+        "USB-Mini"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1,
+        1.5,
+        2,
+        3
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A(Male) ↔ Mini 5Pin(Male)",
+    "connectivity.output_signals": "USB A(Male) ↔ Mini 5Pin(Male)",
+    "connectivity.directional": "USB A(Male) ↔ Mini 5Pin(Male)",
+    "power.power_mode": "USB A(Male) 단자를 PC 또는 충전기의 USB 포트에 연결",
+    "power.charging_support": "충전 전압(USB 2.0): 100mA",
+    "form_physical.length_options_meters": "0.5M / 1M / 1.5M / 2M / 3M 길이 라인업",
+    "certification.rohs": "RoHS 준수",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.usb_version": "USB 2.0 규격 지원",
+    "family.transfer_speed_gbps": "최대 480Mbps 전송속도",
+    "family.charging_only": "MP3 등 미니5핀 기기 연결",
+    "family.data_only": "MP3 등 미니5핀 기기 연결"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:52",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,106 @@
+{
+  "model_no": "LS-HDFF-S0.2M_600",
+  "product_name": "HDMI 케이블 판넬용 (HDM/F to HDM/F with Screw) 0.2M",
+  "category": [
+    "HDMI케이블",
+    "분배판넬"
+  ],
+  "key_features": [
+    "HDMI Female to HDMI Female 판넬 마운트 타입",
+    "나사(Screw) 고정 방식",
+    "블랙 색상",
+    "케이블 길이 0.2m",
+    "RoHS 인증 제품"
+  ],
+  "specifications": {
+    "모델명": "LS-HDFF-S0.2M",
+    "커넥터 타입": "HDMI Female to HDMI Female",
+    "케이블 길이": "0.2M",
+    "색상": "Black",
+    "마운트 방식": "Panel Type, Screw 고정",
+    "환경 인증": "RoHS",
+    "생산지": "Made in China"
+  },
+  "compatibility": [
+    "HDMI Female 커넥터 규격 기기",
+    "판넬 마운트(Panel Mount) 설치 환경"
+  ],
+  "package_contents": [
+    "HDMI 판넬용 케이블 (F to F, Screw 타입) 0.2M x 1"
+  ],
+  "usage_instructions": "판넬에 나사(Screw)로 고정하여 설치하는 HDMI Female-Female 연장/패치 케이블로, 판넬 내부 배선 연결에 사용.",
+  "cautions": [
+    "A/S 문의: www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": [
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI Female to HDMI Female",
+    "connectivity.output_signals": "HDMI Female to HDMI Female",
+    "connectivity.directional": "HDMI Female to HDMI Female",
+    "power.power_mode": "HDMI 케이블",
+    "power.charging_support": "HDMI 케이블",
+    "form_physical.length_meters": "케이블 길이 0.2m",
+    "form_physical.color_options": "블랙 색상",
+    "certification.rohs": "RoHS 인증 제품",
+    "audio_video.max_resolution": "HDMI 케이블",
+    "audio_video.audio_pass": "HDMI 케이블",
+    "family.optical_core": "HDMI 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:03",
+  "feature_schema_version": "1.0.0"
+}

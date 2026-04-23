@@ -1,0 +1,126 @@
+{
+  "model_no": "LS-PLUG-SOS45-BL",
+  "product_name": "LANstar LAN PLUG SOS (RJ45 콘넥터 접촉불량 Repair Cover)",
+  "category": [
+    "랜케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "부러진 RJ45 콘넥터 고리(latch)를 대체하여 콘넥터 교체 없이 재사용 가능",
+    "빠르고 쉽게 부러진 콘넥터 플러그를 대체",
+    "8가지 색상으로 랜케이블 색상별 식별코드 활용 가능",
+    "LANstar 특허출원 제품 (특허출원번호 10-2015-0027248)",
+    "5개입 및 100개입 구성 판매"
+  ],
+  "specifications": {
+    "품명": "LAN PLUG-SOS",
+    "브랜드": "LANstar",
+    "특허출원번호": "10-2015-0027248",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "적용 규격": "RJ45",
+    "색상": "투명(WT), 빨강(RD), 주황(OR), 보라(PU), 검정(BK), 노랑(YL), 초록(GN), 파랑(BL)",
+    "모델명 전체": "LS-PLUG-SOS45-WT, LS-PLUG-SOS45-RD, LS-PLUG-SOS45-OR, LS-PLUG-SOS45-PU, LS-PLUG-SOS45-BK, LS-PLUG-SOS45-YL, LS-PLUG-SOS45-GN, LS-PLUG-SOS45-BL"
+  },
+  "compatibility": [
+    "RJ45 규격 LAN 플러그 콘넥터",
+    "고리(latch)가 일부 남아있는 RJ45 콘넥터 (완전히 제거된 경우 장착 불가)"
+  ],
+  "package_contents": [
+    "LAN PLUG SOS 5개입 (소용량 구성)",
+    "LAN PLUG SOS 100개입 (대용량 구성)"
+  ],
+  "usage_instructions": "1. 콘넥터 고리(latch)가 부러지기 직전이면 손으로 분질러 남아있는 부분을 펜치로 잘라냅니다 (남아있는 부분이 너무 짧거나 길면 안 됩니다). 2. 플러그 SOS를 콘넥터 위에서 결합합니다. 3. 결합 시 부러진 고리 위가 아닌 아래로 살짝 밀어 넣습니다.",
+  "cautions": [
+    "콘넥터 고리(latch)가 완전히 제거된 경우 장착이 불가능합니다. 고리가 일부 남아있어야 장착 가능합니다.",
+    "남아있는 고리 부분이 너무 짧거나 길면 장착이 되지 않습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PLUG-SOS45-BL",
+      "품목코드": "NEO-부트류045",
+      "품목명": "[LANstar] LAN PLUG-SOS, RJ45 플러그 잭 복구 유닛, 1pcs, Blue[40142]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "N/A"
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "투명",
+        "빨강",
+        "주황",
+        "보라",
+        "검정",
+        "노랑",
+        "초록",
+        "파랑"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 콘넥터",
+    "connectivity.output_signals": "RJ45 콘넥터",
+    "power.power_mode": "무전원",
+    "form_physical.has_case": "플러그 SOS를 콘넥터 위에서 결합합니다",
+    "form_physical.material": "플러그 SOS를 콘넥터 위에서 결합합니다",
+    "form_physical.color_options": "8가지 색상으로 랜케이블 색상별 식별코드 활용 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:27",
+  "feature_schema_version": "1.0.0"
+}

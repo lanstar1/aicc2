@@ -1,0 +1,210 @@
+{
+  "model_no": "LS-PCIE-2SATA",
+  "product_name": "LANStar SATA III (2Port) / eSATA (2Port) PCI-Express Card",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "asmedia 'ASM1061' 칩셋 사용으로 안정적이고 뛰어난 호환성 제공",
+    "내부 SATA III 2포트 + 외부 eSATA 2포트 제공, 점퍼 설정으로 2포트 선택 사용",
+    "SATA III 최대 6Gbps 전송속도 지원",
+    "PCI-Express V1.0 1x 규격, 1x/4x/8x/16x 슬롯 모두 장착 가능",
+    "Plug & Play / Hot Swap 지원",
+    "SATA I / SATA II 하위 디바이스 하위 호환 지원",
+    "외장하드, 도킹스테이션, 외장형 CD/DVD 롬 등 연결 가능",
+    "카드 자체 외부 전원 불필요",
+    "Windows 11 지원 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "슬롯": "PCI-Express Specification V1.0, Serial ATA Specification 3.0",
+    "인터페이스": "eSATA Connector 2Port + SATA 3.0 Connector 2Port",
+    "최대전송속도": "6.0 Gbps",
+    "기능": "Plug & Play / Hot Swap, SATA 6G / 3G / 1.5G 속도 지원",
+    "칩셋": "asmedia ASM1061",
+    "지원_OS": "Win XP / Server 2003 / Vista / 7 / 8 / 10 / 11, Mac 10.8, 10.9 (Free Driver), Linux",
+    "제품크기": "120mm x 68mm x 66mm (돌출부 20mm 포함)",
+    "제조국": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)",
+    "인증번호": "MSIP-REI-LUS-LS-PCIE-MSATA",
+    "안전규격": "KC, FCC, CE, RoHS",
+    "품질인증": "ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "PCI-Express 1x 슬롯",
+    "PCI-Express 4x 슬롯",
+    "PCI-Express 8x 슬롯",
+    "PCI-Express 16x 슬롯",
+    "SATA I HDD/SSD",
+    "SATA II HDD/SSD",
+    "SATA III HDD/SSD",
+    "외장하드",
+    "도킹스테이션",
+    "외장형 CD/DVD 롬",
+    "Windows XP / Server 2003 / Vista / 7 / 8 / 10 / 11",
+    "Mac OS 10.8, 10.9 (Free Driver)",
+    "Linux"
+  ],
+  "package_contents": [
+    "LS-PCIE-2SATA 본체 (PCI-E SATA3/eSATA 2Port 카드)",
+    "슬림 PC 브라켓",
+    "설치 CD Driver"
+  ],
+  "usage_instructions": "1) 데스크탑 PC의 PCI-Express 슬롯(1x/4x/8x/16x 모두 가능)에 카드를 장착한다. 2) 점퍼 설정으로 사용할 포트를 선택한다: 기본값은 내부 SATA III 2포트 사용(J1~J4 및 J5~J8 모두 1-2 단락). 외부 eSATA 2포트 사용 시 해당 점퍼를 2-3으로 변경한다. CON3(SATA III)+CON2(eSATA) 혼용 또는 CON4(SATA III)+CON1(eSATA) 혼용도 점퍼 설정으로 가능하다. 3) 드라이버 CD로 드라이버를 설치하거나 OS 자동 인식을 이용한다. 4) 외장하드, 도킹스테이션, 외장형 CD/DVD 롬 등을 해당 포트에 연결하여 사용한다.",
+  "cautions": [
+    "점퍼는 기본적으로 내부 SATA III 2포트로 설정되어 있으므로, 외부 eSATA 포트 사용 시 반드시 점퍼 설정을 변경해야 한다.",
+    "4포트(SATA III 2 + eSATA 2) 중 동시에 2포트만 선택하여 사용 가능하다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있다.",
+    "RoHS 규격 준수 제품으로 납, 수은, 카드뮴 등 중금속 사용이 제한된 친환경 제품이다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-2SATA",
+      "품목코드": "USB-PCI248",
+      "품목명": "[LANstar] SATA3*2 + ESATA*2 PCI-e 카드 [30369] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-PCIE-2SATA",
+      "내용": "약 1시간의 선과 싸움에서 승리하여 잃어버린 저장공간을 찾았습니다"
+    },
+    {
+      "source_model": "LS-PCIE-2SATA",
+      "내용": "별로 어렵지 않게 설명대로 했더니 HDD 연결이 아주 잘 됐습니다. 한달 넘게 사용하면서 문제도 별로 없네요..",
+      "관련내용": "잘 받았습니다...HDD 연결해서 써봐야겠네요"
+    },
+    {
+      "source_model": "LS-PCIE-2SATA",
+      "내용": "잘 받았습니다...HDD 연결해서 써봐야겠네요"
+    },
+    {
+      "source_model": "LS-PCIE-2SATA",
+      "내용": "잘 인식됩니다.\n부팅시 넘어가면서 보이고 탐색기에 잡힌게 같은게 2개가 보이는것 빼고 좋아요."
+    },
+    {
+      "source_model": "LS-PCIE-2SATA",
+      "내용": "빠른 배송 감사합니다 남은 하드디스크 2개 더 연결해서 잘 쓰고 있습니다."
+    },
+    {
+      "source_model": "LS-PCIE-2SATA",
+      "내용": "인식잘됩니다 좋아요"
+    },
+    {
+      "source_model": "LS-PCIE-2SATA",
+      "내용": "잘 사용 하겠습니다"
+    },
+    {
+      "source_model": "LS-PCIE-2SATA",
+      "내용": "빠른 배송. 물건 안전히 왔고 정상적으로 잘 동작합니다. 여분 SSD 달아쓰려고 구매했어요. 좋네요"
+    },
+    {
+      "source_model": "LS-PCIE-2SATA",
+      "내용": "생각했던것과 같은 제품입니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-PCIE-2SATA",
+      "id": 579194639,
+      "date": "2024-05-03 12:40",
+      "answerDate": "2024-05-03 13:12",
+      "user": "buln****",
+      "productName": "랜스타 LS-PCIE-2SATA SATA3 2포트+ESATA 2포트 PCI-E 카드",
+      "question": "주말에 조립 해줘야 하니 오늘 꼭 발송 부탁드립니다.\n수고하세요.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n주문 건 확인 되어 금일 출고 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-2SATA",
+      "id": 594984617,
+      "date": "2024-09-02 06:06",
+      "answerDate": "2024-09-02 10:17",
+      "user": "myde***",
+      "productName": "랜스타 LS-PCIE-2SATA SATA3 2포트+ESATA 2포트 PCI-E 카드",
+      "question": "본품 사용시 부팅할 때 반드시 바이어스 화면을 거치는지 궁금합니다. 바이어스 화면표시를 거치지 않고 부팅하게끔 할 수 있는지요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n구매해주신 제품과 바이오스 화면과는 관계가 없어 메인보드 바이오스에서 설정해주셔야 됩니다.\n\n1. BIOS 진입 : 컴퓨터를 켜고 바이오스 화면이 뜨기 전에 Del, F2, F10 등의 키를 눌러 바이오스 설정 화면에 진입합니다. \n2. Boot 메뉴로 이동 : 바이오스 설정 화면에서 Boot(부팅) 탭으로 이동합니다. 여기에서 부팅 순서와 관련된 설정을 할 수 있습니다.\n3. Fast Boot 활성화 : Boot 탭에서 Fast Boot(빠른 부팅) 옵션을 찾습니다. 이 옵션을 'Enabled(활성화)'로 설정하면 바이오스 화면을 생략할 수 있습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-2SATA",
+      "id": 611451734,
+      "date": "2024-12-27 15:39",
+      "answerDate": "2024-12-30 10:26",
+      "user": "gu****",
+      "productName": "랜스타 LS-PCIE-2SATA SATA3 2포트+ESATA 2포트 PCI-E 카드",
+      "question": "윈도우11, 인텔 15세대 시스템 (Z890칩셋보드), 20TB이상의 HDD 장착 환경에서 정상 작동 하나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n문의주신 제품의 경우 윈도우11에서도 사용 가능한 제품입니다.\n다만 해당 제품의 경우 1포트당 최대 2TB까지 지원이 가능한 제품입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "SATA",
+        "eSATA"
+      ],
+      "output_signals": [
+        "SATA",
+        "eSATA"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "내부 SATA III 2포트 + 외부 eSATA 2포트",
+    "connectivity.output_signals": "내부 SATA III 2포트 + 외부 eSATA 2포트",
+    "connectivity.directional": "SATA III 최대 6Gbps 전송속도 지원",
+    "connectivity.port_count": "내부 SATA III 2포트 + 외부 eSATA 2포트",
+    "power.power_mode": "카드 자체 외부 전원 불필요",
+    "power.charging_support": "SATA III 최대 6Gbps 전송속도 지원",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "SATA III 최대 6Gbps 전송속도 지원",
+    "audio_video.hdcp_version": "SATA III 최대 6Gbps 전송속도 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:00",
+  "feature_schema_version": "1.0.0"
+}

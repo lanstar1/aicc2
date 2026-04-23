@@ -1,0 +1,123 @@
+{
+  "model_no": "LS-AHAND",
+  "product_name": "LANstar 자동 거품 손세정기 (AUTO DISPENSER HAND WASH COUTURE)",
+  "category": [
+    "위생용품"
+  ],
+  "key_features": [
+    "적외선 센서를 통해 손을 감지하면 자동으로 거품 분사 (터치리스)",
+    "분사량 2단계 선택 가능: Mode 1 (0.5g) / Mode 2 (1g)",
+    "IPX 3등급 방수 지원 (배터리 삽입구와 세정제 통 분리 구조)",
+    "세정제 통 용량 250ml",
+    "센서 감지 거리 최대 6cm",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-AHAND)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "남녀노소 누구나 사용 가능"
+  ],
+  "specifications": {
+    "제품명": "자동 거품 손 세정기",
+    "모델명": "LS-AHAND",
+    "세정액 용량": "250ml",
+    "정격전압": "6V (1.5V AA 건전지 4개)",
+    "센서 자동감지 거리": "최대 6cm",
+    "방수등급": "IPX 3등급",
+    "제품 사이즈": "110 x 215 x 85 (mm)",
+    "KC 인증번호": "R-R-LUS-LS-AHAND",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "거품형(포밍/버블) 손 세정제 전용",
+    "아이깨끗해 모이스터라이징 핸드워시",
+    "엔바이스 핸드워시",
+    "크리넥스 폼 솝 핸드워시",
+    "에코소다 베이비 핸드워시",
+    "밀크바오밥 패밀리 핸드워시",
+    "말랑카우 핸드워시",
+    "네이쳐러브메레 거품형 핸드워시",
+    "Deep Steep 포밍 핸드워시",
+    "더프트앤도프트 소피소피 핸드솝",
+    "간소x슈가버블 거품형 핸드워시",
+    "AA 건전지 4개 (1.5V)"
+  ],
+  "package_contents": [
+    "자동 거품 손세정기 본체 1개",
+    "AA 건전지 4개"
+  ],
+  "usage_instructions": "1. 제품을 시계 반대 방향으로 돌려 본체 상단과 세정제 통을 분리한다. 2. 건전지 덮개를 열고 +/- 단자에 맞게 AA 건전지 4개를 삽입한다. 3. 세정제 통에 거품형 손 세정제(점성이 강한 제품은 물에 희석)를 넣는다. 4. 세정제 통과 본체 상단을 결합한 후 전원 버튼을 눌러 사용한다. 5. 분사량 조절 버튼으로 Mode 1(0.5g) 또는 Mode 2(1g)를 선택한다. 6. 손을 센서 아래에 가져다 대면 자동으로 거품이 분사된다.",
+  "cautions": [
+    "본 제품에는 세정액이 포함되어 있지 않음 (별도 구매 필요)",
+    "거품형(포밍/버블) 손 세정제 전용 제품이며, 샴푸·주방세제 등 점성이 있는 제품을 그대로 넣으면 고장의 원인이 될 수 있음",
+    "점성이 있는 제품 사용 시 물에 희석하여 농도를 조절하면 사용 가능하나, 거품형 제품 사용을 권장함",
+    "배터리는 AA 건전지 4개(1.5V) 사용, +/- 단자 방향을 확인하여 삽입할 것",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-AHAND",
+      "품목코드": "ELT-생활가403",
+      "품목명": "[LANstar] 자동 거품 손세정기, 오토 디스펜서 핸드워시 [30461] (40개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-AHAND",
+      "내용": "잘되는거같네요 좋습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "배터리",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    }
+  },
+  "feature_evidence": {
+    "power.power_mode": "1.5V AA 건전지 4개",
+    "power.charging_support": "1.5V AA 건전지 4개",
+    "form_physical.has_case": "LANstar 자동 거품 손세정기",
+    "certification.kc": "KC 인증 획득",
+    "control_switching.has_physical_button": "전원 버튼을 눌러 사용한다. 5. 분사량 조절 버튼"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:50",
+  "feature_schema_version": "1.0.0"
+}

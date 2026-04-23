@@ -1,0 +1,731 @@
+{
+  "model_no": "LS-USB-AMBM",
+  "product_name": "LANStar USB 2.0 A/M-B/M 케이블",
+  "category": [
+    "USB케이블",
+    "USB2.0"
+  ],
+  "key_features": [
+    "USB 2.0 HI-SPEED 규격, 최대 480Mbps 데이터 전송속도 지원",
+    "USB A Male(PC 측) - USB B Male(주변기기 측) 구성",
+    "이중 차폐 구조(알루미늄 차폐 + 편조차폐)로 EMI 간섭 최소화",
+    "28AWG 데이터선 + 24AWG 전원선 구성",
+    "외경 OD 4.5±0.1mm, PVC(Black) 외피",
+    "0.15M / 0.5M / 1M / 1.8M / 3M / 5M / 10M 총 7가지 길이 라인업",
+    "USB 1.0 / 1.1 하위 버전 호환",
+    "오후 4시 이전 결제 완료 시 당일 출고(평일 기준)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "소재·부품·장비 전문기업 확인서 취득(2022.11.29)",
+    "USB A(Male) - USB B(Male) 타입 케이블로 PC와 프린터(복합기, USB 허브 등) 연결에 사용",
+    "USB 2.0 Hi-Speed 규격 지원, 최대 480Mbps 전송속도 (USB 1.1 대비 40배 빠름)",
+    "2중 차폐 구조 (알루미늄 차폐 + 편조차폐) 및 노이즈 필터 적용으로 안정적 신호 전달",
+    "Plug & Play 지원 - 별도 드라이버 설치 불필요",
+    "RoHS 인증 제품 (유해물질 사용 제한 지침 준수)",
+    "KC, FCC, CE 안전규격 인증",
+    "TPE 소재(연질) 사용",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "USB 2.0 Hi-Speed 규격 지원, 최대 480Mbps 데이터 전송속도",
+    "USB A Male(PC측) - USB B Male(주변기기측) 구성",
+    "이중 차폐 구조(알루미늄 포일 차폐 + 편조 차폐)로 외부 전자기파 간섭(EMI) 최소화",
+    "케이블 외경(OD) 4.5±0.1mm, PVC(Black) 외피",
+    "0.15M / 0.5M / 1M / 1.8M / 3M / 5M / 10M 총 7가지 길이 선택 가능",
+    "라인업시스템(주) 정품 인증 제품, 현대해상화재 생산물배상책임보험(1억원) 가입"
+  ],
+  "specifications": {
+    "USB 규격": "USB 2.0 (Hi-Speed) / USB 2.0 Hi-Speed",
+    "단자 형태": "USB A Male - USB B Male",
+    "최대 전송속도": "480Mbps / 480Mb/s",
+    "AWG": "28AWG X 1P (데이터), 24AWG 2C (전원) / 28AWG x 1P (데이터), 24AWG 2C (전원)",
+    "차폐 방식": "알루미늄 차폐 + 편조차폐 (이중 차폐)",
+    "외피 재질": "PVC (Black)",
+    "외경": "OD 4.5±0.1mm",
+    "길이": "0.15M, 0.5M, 1M, 1.8M, 3M, 5M, 10M / 0.15M / 0.5M / 1M / 1.8M / 3M / 5M / 10M",
+    "모델명(0.15M)": "LS-USB-AMBM-0.15M",
+    "모델명(0.5M)": "LS-USB-AMBM-0.5M",
+    "모델명(1M)": "LS-USB-AMBM-1M",
+    "모델명(1.8M)": "LS-USB-AMBM-1.8M",
+    "모델명(3M)": "LS-USB-AMBM-3M",
+    "모델명(5M)": "LS-USB-AMBM-5M",
+    "모델명(10M)": "LS-USB-AMBM-10M",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "품질보증기준": "공정거래위원회 고시 소비자 분쟁해결 기준",
+    "품명": "USB2.0 케이블, A/M-B/M, 1Core",
+    "모델명": "LS-USB-AMBM-1MC",
+    "커넥터 타입": "USB A(Male) - USB B(Male)",
+    "차폐 구조": "2중 차폐 (알루미늄 차폐 + 편조차폐) + 노이즈 필터",
+    "케이블 소재": "TPE (연질)",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "AS 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr",
+    "인증": "KC, FCC, CE, RoHS, ISO 9001:2008",
+    "전송 속도": "최대 480Mbps",
+    "차폐": "알루미늄 차폐 + 편조차폐 (이중 차폐)",
+    "케이블 외경": "OD 4.5±0.1mm",
+    "핀 배열": "1-RED, 2-WHITE, 3-GREEN, 4-BLACK (A/M 및 B/M 동일)"
+  },
+  "compatibility": [
+    "USB 2.0 (HI-SPEED) 규격 기기",
+    "USB 1.1 (FULL SPEED) 규격 기기",
+    "USB 1.0 (LOW SPEED) 규격 기기",
+    "PC / 컴퓨터 (USB A 포트)",
+    "프린터 (USB B 포트)",
+    "복합기 (USB B 포트)",
+    "스캐너 (USB B 포트)",
+    "외장 하드 (USB B 포트)",
+    "USB 허브 (USB B 포트)",
+    "잉크젯 프린터",
+    "레이저 프린터",
+    "복합기",
+    "바코드 스캐너",
+    "USB 허브",
+    "산업용 장비",
+    "외장 USB 장치",
+    "HP, Canon, Samsung 등 주요 제조사 프린터",
+    "USB 1.0 / 1.1 하위 버전 호환",
+    "USB 1.1 (Full Speed) 규격 기기 (하위 호환)",
+    "USB 1.0 (Low Speed) 규격 기기 (하위 호환)",
+    "PC(컴퓨터) USB A 포트",
+    "프린터 (USB B 포트 탑재 기종)",
+    "복합기 (USB B 포트 탑재 기종)",
+    "스캐너 (USB B 포트 탑재 기종)",
+    "외장 하드드라이브 (USB B 포트 탑재 기종)",
+    "USB 허브 (USB B 포트 탑재 기종)"
+  ],
+  "package_contents": [
+    "USB 2.0 A/M-B/M 케이블 1개",
+    "USB A(Male) - USB B(Male) 케이블 1개",
+    "USB 2.0 A/M-B/M 케이블 본체 x 1"
+  ],
+  "usage_instructions": "USB A Male 커넥터를 PC(컴퓨터)의 USB A 포트에, USB B Male 커넥터를 프린터·복합기·스캐너·USB 허브 등 주변기기의 USB B 포트에 연결하여 사용합니다. 자동 인식이 되지 않을 경우 다른 USB 포트에 재연결하거나 장치 관리자에서 장치 인식 여부를 확인하세요.",
+  "cautions": [
+    "케이블 손상 또는 접촉 불량 시 장치 인식 실패가 발생할 수 있으므로 케이블 상태를 확인하세요.",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일은 제외한 평일 기준입니다.",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있습니다(평균 1~2일 소요).",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니며 A/S를 받을 수 없습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "본 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB-AMBM-1.8M",
+      "품목코드": "CAB-UAB001",
+      "품목명": "[LANstar] USB 2.0 케이블 AM-BM 1.8M [10326] (220개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMBM-3M",
+      "품목코드": "CAB-UAB002",
+      "품목명": "[LANstar] USB 2.0 케이블 AM-BM 3M [10327] (140개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMBM-5M",
+      "품목코드": "CAB-UAB003",
+      "품목명": "[LANstar] USB 2.0 케이블 AM-BM 5M [10328] (90개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMBM-10M",
+      "품목코드": "CAB-UAB004",
+      "품목명": "[LANstar] USB 2.0 케이블 AM-BM 10M [10329] (60개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMBM-0.15M",
+      "품목코드": "CAB-UAB015",
+      "품목명": "[LANstar] USB 2.0 케이블 AM-BM 휴대용 0.15M [10323] (1000개)",
+      "variant_suffix": "-0.15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMBM-1M",
+      "품목코드": "CAB-UAB016",
+      "품목명": "[LANstar] USB 2.0 케이블 AM-BM 1M [10325] (300개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMBM-0.5M",
+      "품목코드": "CAB-UAB018",
+      "품목명": "[LANstar] USB 2.0 케이블 AM-BM 0.5M [10324] (500개)",
+      "variant_suffix": "-0.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMBM-1MC",
+      "품목코드": "CAB-UAB041",
+      "품목명": "[LANstar] USB 2.0 케이블 AM-BM 1M 노이즈필터 블랙 [30685]",
+      "variant_suffix": "-1MC",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-USB-AMBM-0.15M",
+      "내용": "배송 빠르네요 잘쓰겠습니다"
+    },
+    {
+      "source_model": "LS-USB-AMBM-0.5M",
+      "내용": "잘쓰겠슴이다 배송 빨라여"
+    },
+    {
+      "source_model": "LS-USB-AMBM-1.8M",
+      "내용": "1.8m 3개 주문 했는데 2개는 1m 로 보내 주셨네요"
+    },
+    {
+      "source_model": "LS-USB-AMBM-10M",
+      "내용": "배송빠르고 좋습니다~~",
+      "관련내용": "배송빠르고좋습니다~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-10M",
+      "내용": "배송빠르고좋습니다~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-10M",
+      "내용": "배송빠르고  좋습니다~",
+      "관련내용": "배송빠르고좋습니다~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-10M",
+      "내용": "배송빠르고  좋습니다~",
+      "관련내용": "배송빠르고좋습니다~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-10M",
+      "내용": "배송빠르고좋습니다~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-10M",
+      "내용": "배송빠르고좋습니다~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-10M",
+      "내용": "좋아요좋아요좋아요좋아요"
+    },
+    {
+      "source_model": "LS-USB-AMBM-10M",
+      "내용": "배송빠르고 물건도 맘에듭니다 잘쓸게요"
+    },
+    {
+      "source_model": "LS-USB-AMBM-10M",
+      "내용": "너무 좋아요 감사합니다 잘 샀어요"
+    },
+    {
+      "source_model": "LS-USB-AMBM-10M",
+      "내용": "배송도 빠르고 상품도 만족합니다"
+    },
+    {
+      "source_model": "LS-USB-AMBM-10M",
+      "내용": "상품이 빨라서 좋아요."
+    },
+    {
+      "source_model": "LS-USB-AMBM-1M",
+      "내용": "잘 받았습니다..."
+    },
+    {
+      "source_model": "LS-USB-AMBM-1M",
+      "내용": "연결  끊김 없고  인식도  잘됩니다\n기존에  있던  케이블  이걸로  전부교체!"
+    },
+    {
+      "source_model": "LS-USB-AMBM-1M",
+      "내용": "나쁘지 않습니다 수고하세요"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~~",
+      "관련내용": "배송빠르노좋습니다~~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "잘 받았어요 잘쓸게요"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르노좋습니다~~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~~",
+      "관련내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "급하게 필요했는데 빨리 도착했어요."
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~~",
+      "관련내용": "배송빠르고 좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~",
+      "관련내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~",
+      "관련내용": "배송빠르고 좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~~",
+      "관련내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~",
+      "관련내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~~",
+      "관련내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~",
+      "관련내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "허브에 인식 됩니다.",
+      "관련내용": "선택기 연결선용 구입 했습니다."
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다!",
+      "관련내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~",
+      "관련내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~~",
+      "관련내용": "배송빠르고 좋습니다~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~~",
+      "관련내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "선택기 연결선용 구입 했습니다."
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송도 빠르고 품질도 괜찮내요ㅎㅎ잘쓸게요"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고  좋습니다~",
+      "관련내용": "배송빠르고 좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고  좋습니다~",
+      "관련내용": "배송빠르고좋습니다~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~",
+      "관련내용": "배송빠르고 좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "본체는 아래 있고 모니터에 연결한 포트에 씨디 롬 연결용으로 샀어요 많이 파세요! 마감 좋아요"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~",
+      "관련내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~",
+      "관련내용": "배송빠르고 좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~",
+      "관련내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~",
+      "관련내용": "배송빠르고 좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~~",
+      "관련내용": "배송빠르게 잘받았습니다~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르게 잘받았습니다~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 좋습니다~~",
+      "관련내용": "배송빠르고 품질좋고 저렴합니다!!"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 품질좋고 저렴합니다!!"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "프린터 케이블로 딱입니다. 추천추천!"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 잘 사용하고있습니다!",
+      "관련내용": "가격저렴하고 품질 좋아요 배송도 빠릅니다"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "가격저렴하고 품질 좋아요 배송도 빠릅니다"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "good good !!!"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 품질 좋은 제품입니다~",
+      "관련내용": "배송빠르고 저렴하구 품질좋아요~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 저렴하구 품질좋아요~"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송이 빠르고 포장이 훌룡합니다"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "불량도 없고 묶음배송이 아니고 따로따로 배송이되어 아주 편합니다"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "감사합니다 잘받았습니다",
+      "관련내용": "배송빠르고 넘좋아요!!!"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송뻐르고 품질좋아요~ 항상이용합니다",
+      "관련내용": "배송빠르고 넘좋아요!!!"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 넘좋아요!!!"
+    },
+    {
+      "source_model": "LS-USB-AMBM-3M",
+      "내용": "배송빠르고 넘좋아요!!!"
+    },
+    {
+      "source_model": "LS-USB-AMBM-5M",
+      "내용": "구매하실때 USB2.0인지 USB3.0인지 꼭 확인하세요!\nUSB3.0은 좀더 높습니다"
+    },
+    {
+      "source_model": "LS-USB-AMBM-5M",
+      "내용": "건반에 연결해서 사용하는 데 선이 기니까 건반 배치를 자유자재로 할 수 있어서 너무 좋네요ㅎㅎ 인식도 잘되고 선도 튼튼해서 너무 좋습니다",
+      "관련내용": "빠른 배송에 깔끔한 케이블 감사합니다. 배치바꾸면서 긴 케이블이 필요했는 데 잘되네요."
+    },
+    {
+      "source_model": "LS-USB-AMBM-5M",
+      "내용": "빠른 배송에 깔끔한 케이블 감사합니다. 배치바꾸면서 긴 케이블이 필요했는 데 잘되네요."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-USB-AMBM-1",
+      "id": 196548876,
+      "date": "2021-12-13 12:27",
+      "answerDate": "2021-12-13 12:39",
+      "user": "hun9***",
+      "productName": "랜스타 LS-USB-AMBM-1.8M USB2.0 케이블 A/M - B/M 1.8M",
+      "question": "USB 셀렉터와 같이 구매 하려고 하는데 셀렉터 와 USB 케이블 배송비가 각가 3,000원씩 발생 합니다. 합배송은 안되는지요.?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n둘 중 하나는 착불로 해주시고 메모사항에 합 배송 적어주시면 같이 발송해드리겠습니다."
+    },
+    {
+      "source_model": "LS-USB-AMBM-10M",
+      "id": 607837008,
+      "date": "2024-12-02 15:14",
+      "answerDate": "2024-12-02 16:28",
+      "user": "4338***",
+      "productName": "랜스타 LS-USB-AMBM-10M USB2.0 케이블 A/M - B/M 10M",
+      "question": "터치모니터에 사용하려고\n10미터인 이제품과 5미터 연장케이블을 구매했었습니다\n10미터만 사용하면 터치작동이 되는데\n5미터짜리를 연장하면 터치가 안되네요.\n전원타입 15미터짜리로 해야될까요?\n아니면\n무전원 10미터짜리와 기존5미터 연장으로\n가능할까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n모니터 연결은 전원 공급이 중요해보입니다. 전원타입 15m인 LS-EXT215 + 아답터 추천드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-USB-AMBM",
+      "chatUrl": "2oG8w",
+      "dateIso": "2023-12-11T08:24:12.471Z",
+      "name": "milc****",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "HDMI 케이블이 듀얼로 쓰려고하다보니 짧네요\n2m 짜리로 2개 주문하고자하는데 스마트스토어에서는 케이블종류가 너무 많아서 뭘 골라야할지 모르겠어요\n해당 상품페이지에서 고르니 kv\n(추가 문의) 빠른답변 감사드립니다\n다른 문제가 발생했네요\nUSB 케이블이 한개가 짧네요\n제품 문제가 아닌 설치위치에 따른 케이블 한개를 재주문해야할듯 한데 어떻게 주문해야할까요? 010 713\n(추가 문의) 저번에 제가 주문을 잘못해서 \n본 제품을 두매하게되었는데.....기억하실지요?\n당시 컴퓨터 2대를 한개의 모니터로 사용한다는 가정하에 주문을 하며 오류로 본 제품을 추가구매하였습니\n(추가 문의) 두개중 한개는 이미 연결완료했고 다른 컴 연결하려 하나보니 짧네요 ㅠㅡ\n다 분해해서 길이 확인하고 참고해서 재주문해야하나요?",
+      "answer": "LS-HD2KVM-D 제품에는 아답터가 아닌, 전원 케이블만 들어있습니다. 혹 USB 아답터 구매를 원하신다는 말씀 이실까요?\n\n네, 맞습니다. 고객님. 해당 제품의 경우 USB 전원 케이블만 들어있습니다. 220V에 연결하여 사용하셔도 되시나, 5V 아답터를 연결하여 사용 부탁드립니다. 정직한 가격과\n\n네 고객님, 원하시는 길이의 모델명 스마트스토어에서 검색 진행해주시면 단일로 구매 가능하십니다. 구매해주시면 확인 후 출고 도와드리겠습니다.",
+      "turn_count": 10,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "LS-HDMU-HMM-2M 검색 안되는데요"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "따로 제품 등록이 되어있습니다."
+        },
+        {
+          "role": "customer",
+          "text": "도움이 절실합니다"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "HDMI 케이블이 듀얼로 쓰려고하다보니 짧네요\n2m 짜리로 2개 주문하고자하는데 스마트스토어에서는 케이블종류가 너무 많아서 뭘 골라야할지 모르겠어요\n해당 상품페이지에서 고르니 kv"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "판매자님 정말 죄송한데 통화가능하신가요?"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 기본 구성품에 포함된 USB 케이블은 1.5M입니다.\n참고하시어 구매 진행 부탁드립니다.\n\n고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한"
+        },
+        {
+          "role": "customer",
+          "text": "두개중 한개는 이미 연결완료했고 다른 컴 연결하려 하나보니 짧네요 ㅠㅡ\n다 분해해서 길이 확인하고 참고해서 재주문해야하나요?"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "Ls HD2KVM-D 부품인 \nUSB 케이블입니다 이게 길이가 몇짜리로 포장되어 판매되는지요?"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 원하시는 길이의 모델명 스마트스토어에서 검색 진행해주시면 단일로 구매 가능하십니다.\n구매해주시면 확인 후 출고 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "빠른답변 감사드립니다\n다른 문제가 발생했네요\nUSB 케이블이 한개가 짧네요\n제품 문제가 아닌 설치위치에 따른 케이블 한개를 재주문해야할듯 한데 어떻게 주문해야할까요? 010 713"
+        },
+        {
+          "role": "agent",
+          "text": "네, 맞습니다. 고객님.\n\n해당 제품의 경우 USB 전원 케이블만 들어있습니다.\n220V에 연결하여 사용하셔도 되시나, 5V 아답터를 연결하여 사용 부탁드립니다.\n\n정직한 가격과"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-USB-AMBM-1MC": "LANStar®\nⓇ\nLS-USB-AMBM-1MC\nUSB2.0 케이블\nA/M to B/M\nG\nIM\nUSB2.0 A/M-B/M\n케이블 특징\nUSB AM-BM 케이블은 USB A(PC)와 B(프린터, 복합기, USB 허브 등)을\n연결하는 케이블입니다. USB A(Male) - USB B(Male) 타입의 케이블로\nPC와 프린터를 연결할 때 많이 사용되어 보통 프린터 케이블이라고 합니다.\nUSB 2.0 케이블\nHI-SPEED\nUSB 2.0 규격으로 1.1보다 40배 빠른\nCERTIFIED\nUSB 480Mbps의 전송속도로 데이터를 전송합니다.\n\n\nUSB 2.0 케이블\nHI-SPEED\nUSB 2.0 규격으로 1.1보다 40배 빠른\nCERTIFIED\nUSB 480Mbps의 전송속도로 데이터를 전송합니다.\n500\nMbps\n480\nMbps\n50\nMbps\n10\nMbps\n1.5\nMbps\n12\nMbps\nUSB 1.0\nUSB 1.1\nUSB 2.0\nHI-SPEED\nUSB 로고\nCERTIFIED\nUSB\nCERTIFIED\nUSB\nCERTIFIED\nUSB\nUSB 버전\nUSB 1.0\n(LOW SPEED)\nUSB 1.1\n(FULL SPEED)\nUSB 1.0\nUSB 2.0\n(HI-SPEED)\n하위버전 호환\nUSB 1.1\n최대전송속도\n1.5Mb/s\n12Mb/s\n480Mb/s\n충전 전압\n100m/A\n100m/A\n100m/A\n출시년도\n1995\n1998\n2001\nSTRUCTURE\n2 중차폐구조 + 노이즈필터\n외부 피복 안에 케이블을 알루미늄 차폐와 편조차폐로 둘러싼 2중차폐 구조와\n노이즈 필터가 결합되어 안전하게 신호를 전달할 수 있습니다.\n2중 차폐 구조\n<편조차폐 구조>\n외부 피복\n(절연체)\n편조차폐\nGND\n알루미늄 차폐\n(모든 회로에 대해 전기적인\n기준이 되는 전도체)\n구리선\n노이즈필터\n108\n5.08\nMA\nasn\n0.2\nVA\n\n\ng\n0.2\nIVO\n다양한 호환\nHP, Canon, Samsung 등...\n잉크젯 프린터, 바코드 스캐너, 프린터, 복합기, 레이저 프린터,\n산업용 장비, 외장 USB 장치 등 다양한 곳에서 호환이 가능합니다.\n잉크젯 프린터\n바코드 스캐너\nUSB 허브\n레이저 프린터\n복합기\n제품 구성\nUSB AE! Male\nUSB BEL Male\n5 s\nPlug & Play\n별도의 드라이버 설치가 필요 없이\n연결한 후 바로 사용하면 됩니다.\n\n\nPlug & Play\n별도의 드라이버 설치가 필요 없이\n연결한 후 바로 사용하면 됩니다.\nRoHS\nCOMPLIANT\nRoHS 인증제품\nDirective on the use of certain Hazardous Substances in EEE\nRoHS는 유럽 연합에서 시행되는 해로운 물질을 사용한 전자제품을\n제한하는 지침으로, 모든 전기/전자 제품은 이 새로운 지침에 적합하여야\n유럽 시장에 제품을 판매할 수 있습니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nC\nR\nK\nTPE\nCERTIFICATION\nTPE소재(연)\nISO 9001:2008\n품질경영시스템\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를\n인증마크로 사용합니다.\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\nLAN Star ®\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nUSB2.0 케이블, A/M-B/M, 1Core\n모\n델\n명\nLS-USB-AMBM-1MC\nLANStar\nⓇ\n인증번\n호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n\n\n모\n델명\nLS-USB-AMBM-1MC\nLANSStar\n인증번 호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-USB-AMBM-XXM": "LAN Star\nUSB 2.0 A/M-B/M 케이블\n0.15M / 0.5M / 1M / 1.8M / 3M / 5M / 10M\nUSB2.0\n480Mbps\nA/M-B/M\nUSB2.0 HI-SPEED\n최대속도 480Mbps\nUSB 2.0 케이블\n지원\nUSB 2.0\nUSB 2.0 규격은 USB 1.1보다 약 40배 빠른 480Mbps의 전송속도로\n데이터를 전송할 수 있습니다.\nUSB A/M-B/M 케이블\nUSB A/M - B/M 케이블은 PC와 프린터&복합기&USB 허브 등을\n연결하는 케이블입니다.\n일반적으로 PC와 프린터 연결간 가장 많이 사용되는 케이블로,\n프린터 케이블로 불립니다.\n480Mbps 전송속도\nUSB 2.0 HI-SPEED 규격으로 480Mbps의 데이터 전송속도를 지원합니다.\n\n\n480Mbps 전송속도\nUSB 2.0 HI-SPEED 480Mbpsºl GIOIE ✯LICH.\n500Mbps\n480\nMbps\n12\nMbps\n10Mbps\n1.5\nMbps\nUSB 1.0\nUSB 1.1\nUSB 2.0\nHI-SPEED\nUSB 로고\nCERTIFIED\nUSB\nCERTIFIED\nUSB\nCERTIFIED\nUSB\nUSB 2.0\nUSB 버전\nUSB 1.0\n(LOW SPEED)\nUSB 1.1\n(FULL SPEED)\n(HI-SPEED)\n하위버전 호환\nUSB 1.0\nUSB 1.1\n최대전송속도\n1.5Mbps\n12Mbps\n480Mbps\n충전 전압\n100m/A\n100m/A\n500m/A\n출시년도\n1995\n1998\n2001\nUSB 2.0 A/M - B/M\nUSB A/M - B/M 형태로 구성된 케이블입니다.\nUSB 2.0 A/M\nUSB 2.0 B/M\n28AWG\nAmerican Wire Gauge\n케이블 내심의 굵기를 표시하는 단위로 AWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 전송에 적합합니다.\nO\n\n\n40\n16\n설치가 용이하며\n저화질 전송에 적합\n설치가 까다로우나\n잡음이 적고\n안정적인 전송이 가능\nAWG\n직경(Inch)\n(mm)\n단면적(㎡)\n저항(2/m) 허용전류(A)\n20\n0.032\n0.812\n0.518\n0.0333\n4.5\n221\n21\n0.0285\n0.723\n0.41\n0.042\n3.8\n22\n22\n0.0253\n0.644\n0.326\n0.053\n3.0\n23\n23\n0.0226\n0.573\n0.258\n0.0668\n2.2\n224\n0.0201\n0.511\n0.205\n0.0842\n0.588\n25\n0.0179\n0.455\n0.162\n0.106\n0.477\n26\n26\n0.0159\n0.405\n0.129\n0.134\n0.378\n27\n27\n0.0142\n0.361\n0.102\n0.169\n0.288\n28\n0.0126\n0.321\n0.081\n0.213\n0.250\n29\n20\n0.0113\n0.286\n0.0642\n0.268\n0.212\n30\n0.01\n0.255\n0.0509\n0.339\n0.147\n케이블 구조\nOD 4.5±0.1mm\n● 도체(CONDUCTOR) : 전기 신호가 흐르는 구리선\n● 절연체(INSULATION) : 내부 전도체를 서로 절연시키는 절연 피복\n● 알루미늄 차폐 : 추가적인 차폐층으로, 데이터 전송선의 신호 간섭 방지\n● 편조차폐 : 금속선 편조 실드로, 데이터 전송선의 신호 간섭 방지\n● PVC 외피 : 외부 물리적 손상 방지 및 절연 역할\nPVC JACKET\n편조차폐\n알루미늄 차폐\n절연체\n도체\nPRODUCT SIZE\n0.15M/0.5M/1M/1.8M/3M/5M/10M\n12\n2\n36\nHI:\n18\n日\nPIN OUT\nP1\nF\nP2\n1\n1 RED\n2 WHITE\n-23 +\nXX\n3 GREEN\n4\n4 BLACK\n\n\n1\n1 RED\n2\n2 WHITE\nxox\n3\n3 GREEN\n4\n4 BLACK\nSPECIFICATION\nUSB 규격\nUSB 2.0 (Hi-Speed)\n단자 형태\nUSB A Male USB B Male\n전송 속도\n최대 480Mbps\nAWG\n28AWG X 1P (데이터), 24AWG2C (전원)\n차폐\n알루미늄 차폐 +편조차폐 (이중 차폐)\n외피\nPVC(Black)\n길이\n0.15M / 0.5M / IM / 1.8M / 3M / 5M / 10M\nFAQ\n자주 물어보시는 질문\nQ. 이 케이블의 주된 용도가 무엇인가요?\n주로 프린터, 스캐너, 외장 하드, USB 허브 등과 PC(컴퓨터) 를 연결할 때 사용됩니다.\nA 타입은 컴퓨터, B 타입은 주변기기에 연결합니다.\nQ. 외부 노이즈 차단이 잘 되나요?\n네, 이중 차폐 구조(편조+알루미늄 포일)를 통해 외부 전자기파 간섭(EMI)을 최소화하여\n안정적인 데이터 전송이 가능합니다.\nQ. 케이블이 너무 뻣뻣하지는 않나요?\n내구성과 유연성을 모두 고려한 PVC 외피 재질로, 설치와 배선이 용이합니다.\nQ. 프린터 연결 시 자동 인식이 되지 않아요. 케이블 문제일 수 있나요?\n가능성 있습니다. 케이블이 손상됐거나 접촉 불량인 경우 인식 실패가 발생할 수 있습니다.\n다른 포트에 연결해보시고, 장치 관리자에서 장치 인식 여부도 함께 확인해주세요.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\nㅎㅎ\ne\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n\n\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\nGime\n소재·부품·장비\n전문기업확인서\n소재 부품·장비 전문기업인\nSTATI\nSWI\n44132\nWA127.OR\n평가관리원\n한\n신문기업인을 확신합니다\n산업통산자원부 시행 제도\n1022 11 29\n2022.11.29 취득\n한국산업기술평가관으로\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nM 현대해상화재보험H\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상품 정보\n품\n명\nUSB2.0 A/M - B/M 케이블\nLS-USB-AMBM-0.15M\nLS-USB-AMBM-0.5M\nLS-USB-AMBM-IM\n모\n델\n명\nLS-USB-AMBM-1.8M\nLANStar\nLS-USB-AMBM-3M\nLS-USB-AMBM-5M\nLS-USB-AMBM-10M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질보증기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\nLANSStar\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-B"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC",
+        "알루미늄",
+        "TPE"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.15,
+        0.5,
+        1,
+        1.8,
+        3,
+        5,
+        10
+      ],
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A Male(PC 측)",
+    "connectivity.output_signals": "USB B Male(주변기기 측)",
+    "connectivity.directional": "데이터 전송속도 지원",
+    "power.power_mode": "24AWG 전원선 구성",
+    "form_physical.has_case": "케이블",
+    "form_physical.material": "PVC(Black) 외피",
+    "form_physical.length_options_meters": "0.15M / 0.5M / 1M / 1.8M / 3M / 5M / 10M",
+    "form_physical.color_options": "PVC(Black) 외피",
+    "certification.kc": "KC, FCC, CE 안전규격 인증",
+    "certification.rohs": "RoHS 인증 제품",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증",
+    "certification.ce": "KC, FCC, CE 안전규격 인증",
+    "family.usb_version": "USB 2.0 HI-SPEED 규격",
+    "family.transfer_speed_gbps": "최대 480Mbps 데이터 전송속도",
+    "family.charging_only": "데이터 전송속도 지원",
+    "family.data_only": "데이터 전송속도 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:19",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

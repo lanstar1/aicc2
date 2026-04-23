@@ -1,0 +1,118 @@
+{
+  "model_no": "LS-4PG-STMM",
+  "product_name": "LANStar 애플용 스테레오 연장 케이블 (4극) 3.5st(M)-3.5st(M)",
+  "category": [
+    "컨버터",
+    "젠더",
+    "커넥터",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "3.5mm 4극 스테레오 Male-Male 연결 케이블",
+    "스마트폰 범퍼/케이스 장착 시에도 문제없이 장착 가능한 짧은 젠더 케이블",
+    "이어폰 커넥터 단자 보호 목적으로 활용 가능",
+    "RoHS 인증 친환경 제품",
+    "컴퓨터·MP3·오디오·스마트폰·스마트패드 등을 스피커 등 음향기기에 연결하여 음성 전달"
+  ],
+  "specifications": {
+    "규격": "3.5mm stereo 4극",
+    "커넥터 타입": "3.5st Male - 3.5st Male",
+    "길이": "19cm",
+    "인증": "RoHS Compliant",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "컴퓨터",
+    "MP3 플레이어",
+    "오디오",
+    "스마트폰 (애플 제품 포함)",
+    "스마트패드",
+    "스피커 등 3.5mm 4극 입력 음향기기",
+    "이어폰 (애플 정품 이어폰 기준)"
+  ],
+  "package_contents": [
+    "스테레오 연장 케이블 3.5st(M)-3.5st(M) 1개"
+  ],
+  "usage_instructions": "컴퓨터, MP3, 오디오, 스마트폰, 스마트패드 등의 3.5mm 단자에 케이블 한쪽을 연결하고, 반대쪽을 스피커 또는 이어폰 등 음향기기에 연결하여 사용. 스마트폰에 범퍼/케이스 장착 시 본 케이블을 사용하면 문제없이 연결 가능.",
+  "cautions": [
+    "이어폰 사용 시 커넥터 단자 부분이 접히거나 당김에 의해 손상되어 이어폰을 버려야 하는 경우가 있으므로 주의 필요.",
+    "이어폰 연결 사용 시 통화 마이크는 지원하나 그 외 기능(예: 리모컨 버튼 등)은 지원하지 않음.",
+    "애플 기능 호환 기준은 애플 제품 구매 시 포함된 정품 이어폰 기준으로 적용됨.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-4PG-STMM-015M",
+      "품목코드": "CAB-모젠케001",
+      "품목명": "모바일 스테레오변환케이블, 3.5ST M/M, 4극 0.15M [10645](LANstar)",
+      "variant_suffix": "-015M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "3.5mm"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": 0.19,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": false,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5mm 4극 스테레오 Male-Male",
+    "connectivity.output_signals": "3.5mm 4극 스테레오 Male-Male",
+    "connectivity.directional": "3.5st Male - 3.5st Male",
+    "power.power_mode": "무전원",
+    "form_physical.length_meters": "길이: 19cm",
+    "certification.rohs": "RoHS 인증 친환경 제품",
+    "audio_video.audio_pass": "음성 전달",
+    "family.conversion_direction": "3.5st Male - 3.5st Male",
+    "family.requires_external_power": "무전원"
+  },
+  "feature_extracted_at": "2026-04-23T03:07:33",
+  "feature_schema_version": "1.0.0"
+}

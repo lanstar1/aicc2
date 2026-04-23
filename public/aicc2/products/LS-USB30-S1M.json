@@ -1,0 +1,99 @@
+{
+  "model_no": "LS-USB30-S1M",
+  "product_name": "[LANstar] [[USB3.0]] 판넬형케이블, A형M/F, SCREW, BLUE, 1M[10565] (250개)",
+  "category": [
+    "USB케이블",
+    "USB3.0",
+    "분배판넬"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-USB30-S1M",
+      "품목코드": "CAB-US3025",
+      "품목명": "[LANstar] [[USB3.0]] 판넬형케이블, A형M/F, SCREW, BLUE, 1M[10565] (250개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-USB30-S1M",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-USB30-S1M",
+      "내용": "빠른 발송 감사합니다."
+    },
+    {
+      "source_model": "LS-USB30-S1M",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-USB30-S1M",
+      "내용": "빠른 배송 및 처리 감사합니다."
+    },
+    {
+      "source_model": "LS-USB30-S1M",
+      "내용": "항상 빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-USB30-S1M",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-USB30-S1M",
+      "내용": "빠른발송 감사합니다."
+    },
+    {
+      "source_model": "LS-USB30-S1M",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-USB30-S1M",
+      "내용": "늘 구매합니다. 감사합니다.",
+      "관련내용": "빠르게 잘 받았습니다^^"
+    },
+    {
+      "source_model": "LS-USB30-S1M",
+      "내용": "신경써주셔서 감사합니다"
+    },
+    {
+      "source_model": "LS-USB30-S1M",
+      "내용": "빠르게 잘 받았습니다^^"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향"
+    },
+    "form_physical": {
+      "length_meters": 1,
+      "color_options": [
+        "BLUE"
+      ]
+    },
+    "family": {
+      "usb_version": "USB3.0"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "A형M/F",
+    "connectivity.output_signals": "A형M/F",
+    "connectivity.directional": "A형M/F",
+    "form_physical.length_meters": "1M",
+    "form_physical.color_options": "BLUE",
+    "family.usb_version": "USB3.0"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:39",
+  "feature_schema_version": "1.0.0"
+}

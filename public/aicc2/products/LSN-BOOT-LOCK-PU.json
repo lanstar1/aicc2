@@ -1,0 +1,121 @@
+{
+  "model_no": "LSN-BOOT-LOCK-PU",
+  "product_name": "LANStar 락부트 LOCK Slim Type / Purple (RJ45 라부트)",
+  "category": [
+    "커넥터"
+  ],
+  "key_features": [
+    "랜 케이블과 커넥터 연결 부분 보호",
+    "케이블 꺾임 및 커넥터 Lock 파손 방지",
+    "톱니 형태 연결 방식 (락부트 전용)",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "RoHS 규정 준수 (납·수은·카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "색상": "보라 (Purple)",
+    "크기": "6mm",
+    "모델명": "LSN-BOOT-LOCK-PU",
+    "제품 유형": "Slim Type",
+    "커넥터 규격": "RJ45",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "케이블 통과형 커넥터 CAT.5E UTP 제품",
+    "케이블 통과형 커넥터 CAT.5E STP 제품"
+  ],
+  "package_contents": [
+    "락부트 LOCK (Purple, 6mm) 100개"
+  ],
+  "usage_instructions": "랜스타 부트는 5~8.5mm 크기가 있어 랜케이블 두께에 따라 다양하게 선택하여 사용할 수 있습니다.",
+  "cautions": [
+    "케이블 통과형 커넥터 제품 중 CAT.5E UTP, STP 제품만 호환되며, CAT.6 UTP, STP는 호환되지 않습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "LANStar 라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LSN-BOOT-LOCK-PU",
+      "품목코드": "NNO-부트류058",
+      "품목명": "[LANstar] RJ45 LOCK BOOT, Slim type, 색상별 락부트, Purple(100개)[40653]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSN-BOOT-LOCK-PU",
+      "내용": "묶음으로 이것 저것 주문했는데 포장도 안전하게 잘되어왔고 배송도 빠르네요 만족합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "보라"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "RJ45",
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.directional": "N/A",
+    "power.power_mode": "N/A",
+    "form_physical.material": "랜 케이블과 커넥터 연결 부분 보호",
+    "form_physical.color_options": "색상: 보라 (Purple)",
+    "certification.kc": "인증번호: 해당없음",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.connector_type_a": "커넥터 규격: RJ45",
+    "family.gender": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:02",
+  "feature_schema_version": "1.0.0"
+}

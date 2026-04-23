@@ -1,0 +1,218 @@
+{
+  "model_no": "LS-UCHD30",
+  "product_name": "LANStar USB C to HDMI 거리 연장기 (USB-C to HDMI 2.1 Extender)",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "랜케이블",
+    "HDMI케이블",
+    "USB케이블",
+    "USB-C",
+    "익스텐더"
+  ],
+  "key_features": [
+    "최대 30M 거리 신호 전송 (CAT.6 UTP 이상 랜케이블 이용)",
+    "최대 4K@120Hz 해상도 출력 지원",
+    "HDMI 2.1 규격 지원 (최대 48Gbps 대역폭)",
+    "4K HDR 지원 (10비트 이상 색 깊이)",
+    "화면 복제(Mirror) 및 확장(Extend) 2가지 모드 지원 (각 4K@60Hz)",
+    "Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS Digital Surround, DTS-HD High Resolution Audio, DTS-HD Master Audio, DTS, LPCM 등 다양한 오디오 포맷 지원",
+    "삼성 DeX 모드 지원",
+    "HDCP 지원 (콘텐츠 저작권 보호)",
+    "21:9 와이드 화면비 지원",
+    "Plug & Play (별도 드라이버 설치 불필요)",
+    "Windows, Mac OS, Android, Chrome OS 등 다양한 운영체제 지원",
+    "알루미늄 + ABS 소재",
+    "KC 인증 획득 (인증번호: R-R-LUS-LS-UCHD30)",
+    "CAT.5E/6 LAN 케이블을 이용한 최대 30m 장거리 영상 전송",
+    "4K@120Hz 및 32Gbps 대역폭 지원 (HDMI 2.1급)",
+    "DSC 1.2 디지털 변환 기술로 무손실에 가까운 데이터 압축",
+    "USB-C 입력 신호를 디지털 스트림으로 변환하여 송수신",
+    "PLUG & PLAY 방식 – 별도 드라이버 및 소프트웨어 불필요",
+    "별도 변환 젠더 없이 USB-C 포트 연결만으로 즉각 화면 공유 가능",
+    "두께 15mm 초슬림 컴팩트 디자인",
+    "ABS + 알루미늄 소재로 방열 성능 및 내구성 확보",
+    "국립전파연구원 인증 획득 (인증번호: R-R-LUS-LS-UCHD30)",
+    "Windows, Mac OS, Android, Chrome OS 등 다양한 OS 지원",
+    "미러링 및 확장 모드 지원"
+  ],
+  "specifications": {
+    "INPUT": "USB Type-C 1포트, RJ45 포트",
+    "OUTPUT": "HDMI 포트, RJ45 포트",
+    "최대 해상도 전송 거리": "30M (4K@120Hz 해상도 최대 출력 거리)",
+    "지원 해상도": "4K@120Hz, 4K@60Hz / YUV 4:4:4",
+    "이더넷 케이블 규격": "CAT.6 이상",
+    "전원": "DC 5V (USB A to C 전원 케이블, RECEIVER에 연결 필수) / DC 5V (USB A to C 전원 케이블)",
+    "소비전력": "TX: 4W / RX: 3.5W / TX: 4W, RX: 3.5W",
+    "작동 온도": "0°C ~ 50°C",
+    "습도": "5% ~ 90%",
+    "크기": "TX: 93.4 x 34 x 15 mm / RX: 72.5 x 34 x 15 mm",
+    "무게": "TX: 52g / RX: 36g",
+    "재질": "알루미늄 + ABS 소재",
+    "KC 인증번호": "R-R-LUS-LS-UCHD30",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "HDMI 버전": "HDMI 2.1",
+    "케이블 길이 (본체 연결)": "약 23cm",
+    "입력 포트": "USB Type-C 1포트, RJ45 1포트",
+    "출력 포트": "HDMI 1포트, RJ45 1포트",
+    "최대 전송 거리": "30m (4K@120Hz 기준)",
+    "권장 이더넷 케이블": "CAT.6 이상 UTP 규격 케이블",
+    "최대 대역폭": "32Gbps",
+    "HDR 지원": "4K HDR, 10비트 이상 색 깊이",
+    "DSC 버전": "DSC 1.2",
+    "크기 TX(Sender)": "93.4 x 34 x 15 mm",
+    "크기 RX(Receiver)": "72.5 x 34 x 15 mm",
+    "무게 TX(Sender)": "52g",
+    "무게 RX(Receiver)": "36g",
+    "인증": "국립전파연구원 인증, 인증번호: R-R-LUS-LS-UCHD30"
+  },
+  "compatibility": [
+    "DP Alt Mode (Displayport Alternate Mode) 지원 USB-C 기기",
+    "썬더볼트3 지원 맥북",
+    "데스크탑 (USB-C DP Alt Mode 지원 모델)",
+    "노트북 (USB-C DP Alt Mode 지원 모델)",
+    "태블릿 (USB-C DP Alt Mode 지원 모델)",
+    "스마트폰 (USB-C DP Alt Mode 지원 모델)",
+    "Samsung Galaxy S24/S23/S22/S21/S20 시리즈 (DeX 지원)",
+    "Samsung Galaxy 폴드, Z플립 시리즈 (DeX 지원)",
+    "Samsung Galaxy S10e / S10 / S10+ / S9 / S9+ (DeX 지원)",
+    "출력 기기: TV, 모니터, 빔 프로젝터 (HDMI 2.1 입력 지원 기기)",
+    "HDMI 케이블: HDMI 2.1 버전 케이블 필수",
+    "랜케이블: CAT.6 UTP 이상 (CAT.6 또는 CAT.6A 이상 권장)",
+    "Windows 7 / 8 / 10 / 11",
+    "Mac OS 10.10 이상",
+    "Android (스마트폰, 태블릿)",
+    "Chrome OS",
+    "USB-C 포트 탑재 노트북 (MacBook 포함)",
+    "CAT.5E/6 LAN 케이블",
+    "CAT.6 UTP 이상 규격 이더넷 케이블 (4K@120Hz 최대 해상도 출력 시 필수)"
+  ],
+  "package_contents": [
+    "USB C to HDMI SENDER (송신기) 1개",
+    "USB C to HDMI RECEIVER (수신기) 1개",
+    "DC 5V 전원 케이블 (USB A to C, 길이 약 1M) 1개",
+    "사용자 설명서 (User Manual) 1부",
+    "Sender (TX) 본체 1개",
+    "Receiver (RX) 본체 1개",
+    "USB A to C 전원 케이블 (RX용)"
+  ],
+  "usage_instructions": "1. SENDER의 USB Type-C 포트를 소스 기기(노트북, 스마트폰 등 DP Alt Mode 지원 기기)에 연결한다. 2. SENDER와 RECEIVER의 RJ45 포트를 CAT.6 이상 규격의 랜케이블(최대 30M)로 직선 연결한다(네트워크 스위치 허브 경유 불가). 3. RECEIVER의 HDMI 출력 포트를 HDMI 2.1 케이블로 디스플레이(TV, 모니터, 빔프로젝터 등)에 연결한다. 4. RECEIVER의 DC 5V 전원 입력 포트에 동봉된 USB A to C 전원 케이블을 연결한다(전원 연결 필수, PC/노트북 USB 포트 연결 가능). 5. 별도 드라이버 설치 없이 Plug & Play로 바로 사용 가능하다. 화면 복제/확장 모드는 소스 기기의 디스플레이 설정에서 변경한다.",
+  "cautions": [
+    "반드시 사용 기기의 DP Alt Mode (Displayport Alternate Mode) 지원 여부를 확인해야 한다. 미지원 시 HDMI 출력 불가.",
+    "맥북의 경우 썬더볼트3를 지원하지 않는 모델은 사용이 어려울 수 있다.",
+    "HDMI 케이블은 반드시 HDMI 2.1 버전 케이블을 사용해야 4K@120Hz 최대 해상도 출력이 가능하다.",
+    "랜케이블은 CAT.6 UTP 이상 규격을 사용해야 한다. CAT.5E 케이블은 대역폭 한계 및 신호 간섭 문제로 사용을 권장하지 않는다.",
+    "SENDER와 RECEIVER는 반드시 직선(1:1) 연결해야 하며, 네트워크 스위치 허브를 경유하면 신호가 제대로 작동하지 않을 수 있다.",
+    "SENDER와 RECEIVER의 역할은 고정되어 있으므로 반대로 연결하면 작동하지 않는다.",
+    "최대 전송 거리는 30M이며, 30M 초과 연결 시 해상도 저하 및 출력 불가 현상이 발생할 수 있다.",
+    "RECEIVER에 DC 5V 전원 케이블을 반드시 연결해야 한다.",
+    "화면 복제(Mirror) 및 확장(Extend) 모드의 최대 해상도는 4K@60Hz이다.",
+    "연결된 케이블 및 장비 모두 HDCP를 지원해야 저작권 보호 콘텐츠가 정상 출력된다.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 A/S를 받을 수 없다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UCHD30",
+      "품목코드": "INT-HDS331",
+      "품목명": "[LANstar] USB-C HDMI2.1 거리연장기 [30834]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-UCHD30",
+      "id": 630395974,
+      "date": "2025-06-03 12:53",
+      "answerDate": "2025-06-04 10:54",
+      "user": "dydt***",
+      "productName": "HDMI 거리연장기 USB 리피터 송수신기 세트 4K 최대 30M 지원 LS-UCHD30",
+      "question": "20m 거리의 웹캠(오즈모액션5)에 전원공급 및 영상출력을 받아 캡쳐보드를 통해 노트북에서 녹화하고자 합니다.\n해당 제품을 이용하는게 맞을까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n웹캠에서 캡처보드 까지 연결에 필요한 상황으로 보이고 해당제품 연결은 사용 불가합니다.\n대부분의 웸캠에는 DP ALT 기능이 있지 않아 HDMI 광케이블로 웹캠 에서 캡처보드에 연결해야 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-UCHD30-NEW": "LAN Star\n®\n압도적 거리, 완벽한 화질\nUSB-C 고해상도 영상 전송의\n새로운 기준, LS-UCHD30\n이제 거리의 제약 없이 당신의 디바이스를 가장 멀리,\n그리고 가장 선명하게 연결하세요.\nLGS CExtenver Ciccreve 312\nLikar\nSender\nUSG-C Etherider Sunpce Sun@\nHDMI\nReceiver\n20m 이상 HDMI,\n왜 항상 불안할까?\n길어질수록 비싸지고 불안해지는 장거리 HDMI\n신호감쇄로 인한 화면 깜빡임과 굵고 딱딱한 케이블 배선의 한계,\n이제는 근본적인 방식의 변화가 필요합니다.\n15m를 넘는 순간,\nHDMI는 한계에 부딪힙니다\n거리와 품질 사이의 타협은 그만\nN\ntor\nㅂ\n신호 감쇄\n대역폭 부족\n시공의 불편함\n해답은 LAN 전송 방식\n익숙한 LAN 케이블로 만드는 가장 강력한 신호\n\n\n해답은 LAN 전송 방식\n익숙한 LAN 케이블로 만드는 가장 강력한 신호\n범용적인 CAT.5E/6LAN 케이블을 매개체로 사용하여\n장거리 전송의 안정성과 경제성을 동시에 잡았습니다.\nCAT.5e/6 LAN CABLE-DATA TRANSMISSION\nHDMI\nUSB C to HDMI2.1 거리연장기\n리얼한 사용 후기\n| IT테크 인플루언서 ‘야콤’\n장거리 연결 시 압도적인 안정성\n회의실, 강의실, 거실 등 긴 거리를 HDMI 케이블로 연결하기\n불가능할 때, LS-UCHD30을 통해 장거리 연결시에도\n화질 손실이나 연결 끊김 걱정 없이 사용자들이 안심하고\n장비를 운용할 수 있다는 편의성과 안정성이 뛰어납니다!\n파워블로거 '경아신랑'\n교육, 강연, 전시 현장 등에서 추천!!\nPLUG&PLAY 방식으로 사용이 간편하고, 4K@120Hz HDR까지\n지원하기 때문에 4K 영상을 긴 거리에서 안정적으로 송출이 필요한\n회의실 프리젠테이션, 교육, 강연 환경, 전시장 설치와 같은 장소에서\n유용하게 사용할 수 있을 거 같아요\n블로거 '송자매맘 술리아\nHDMI 포트 없는 노트북 필수품!\n요즘 출시되는 노트북은 얇고 간편하게 제작되다 보니\nHDMI 포트는 없고 C타입만 있는 경우가 많은데\nLS-UCHD30 제품을 통해 화면 확장, 복제를 간편하게\n이용할 수 있어서 편리하고 좋아요!\n| 블로거 '주리오'\n맥북에서도 안정적으로!!\n실제로 맥북에 송신기를 연결해서 사용해봤는데, 꽂자마자 몇 초만에\nMONESS\n수신기가 연결된 모니터에 화면이 그대로 출력됩니다!!\n미러링 모드로 자동 설정되었는데, 시스템 설정을 통해 확장 모드로\n변경하여 사용할 수 있어요!\n★블로거 'itnamu'\n홈 시네마, 회의실 구성에 딱!\nFLAT 랜케이블을 이용하면 선 정리에 수월하고, 보기에도\n깔끔하게 연결이 가능한데, 가정이나 회의실처럼 깔끔한 공간에서도\n사용할 수 있어, 홈 시네마나 회의실 구성하는데 딱 맞는\n제품인거 같습니다!!\nUSB-C 신호를 디지털 스트림으로\n송신(TX)과 수신(RX)의 완벽한 조화\n\n\nUSB-C 신호를 디지털 스트림으로\n송신(TX)과 수신(RX)의 완벽한 조화\n입력받은 USB-C 신호를 디지털 스트림으로 변환하여,\n거리와 상관없이 데이터의 순수성을 보존합니다.\n100\nCAT.5E/6 기준 최대 30m\n공간의 제약을 허무는 여유로운 전송 거리\n복잡한 공사 없이 최대 30m의 장거리 연결을 완성합니다.\n30m\n4K120\n4K@120Hz & 32Gbps\nHDMI 2.1급의 고주사율 지원\n단순한 화면 출력을 넘어 120Hz의 부드러운 움직임과\n32Gbps의 넓은 대역폭으로 고사양 환경에 최적화되었습니다.\n4K HDR 지원\n10비트 이상 색 깊이와 HDR 지원으로 더욱 풍부한 색상 표현이 가능하며,\n색상이 더 자연스럽게 표현됩니다.\n\n\n4K HDR 지원\n10비트 이상 색 깊이와 HDR 지원으로 더욱 풍부한 색상 표현이 가능하며,\n색상이 더 자연스럽게 표현됩니다.\n4K HDR\n2K SDR\nSDR\nHDR\n우리 눈은 약 4만 단계(nit)의 명암대비를\n인식할 수 있는데, SDR에서 일반 TV 영상은\n최대 100단계의 명암단계를\n구분할 수 있습니다. SDR은 명암대비의\n한계 때문에 선명한 영상을 감상하기 어렵습니다.\n기존 SDR의 100단계(nit)보다 10배인\n1000단계(nit)의 명암까지 나타낼 수 있는\nHDR 기술은 아주 어두운 부분에서\n아주 밝은 부분까지 명암대비 영상을\n나타낼 수 있어 선명하고 현실감 있는\n영상을 감상할 수 있습니다.\nDSC 1.2 디지털 변환 기술\n무손실에 가까운 정교한 데이터 압축\n최신 DSC(Display Stream Conversion) 1.2를 지원하여\n초고해상도 데이터 전송 시 발생하는 신호 손실을 최소화합니다.\nLANStar\nDSC\n1.2\nB\nuiress\nReceiver\nUNE\nVEB-5 Samp\nIWCH\n\n\n간편한 LAN 케이블 사용\n어떠한 설치 과정 없이 연결하여 바로 사용\n특별한 설치 기술 및 소프트웨어가 필요 없어\nLAN 케이블을 연결하여 바로 사용할 수 있습니다.\n강의는 끊기면 안 됩니다.\n대형 강의실을 위한 최적의 배선 솔루션\n교탁의 노트북에서 천장 프로젝터까지, 노출 없는 깔끔한 배선으로\n몰입도 높은 교육 환경을 제공합니다.\nMawe antation\n연결 스트레스 없는 스마트오피스\nUSB-C 하나로 바로 시작되는 프레젠테이션\n별도의 변환 젠더 없이 USB-C 포트 연결만으로\n즉각적인 화면 공유가 가능하여 회의 효율을 극대화합니다.\nMexer potetion\nhapya\n예배와 행사를 위한 최고의 안정성\n장시간 송출에도 흔들림 없는 전송 품질\n방송실과 메인 스크린 사이의 먼 거리도\n4K 고화질로 지연 없이 안정적으로 송출합니다.\npa\nSOEBER\nGOO\n\n\n영상은 선명하게 전송해야 합니다\n빠른 설치와 철거가 필요한 현장에 최적화\n내구성이 뛰어난 ABS 소재와 유연한 LAN 방식을 채택하여\n거친 현장 환경에서도 최상의 성능을 발휘합니다.\nUGLFO Exten fer Support 300m@O BEN\nMhill\n다양한 O.S 지원\nWindows, Mac, Android, Chrome 등 다양한 O.S에서 사용할 수 있습니다.\nWindows\nMac OS\nAndroid\nChrome\nWin 7/8/10/11\nMac 10.10.\n상위버전\n스마트폰, 태블릿\n필요한 것만 담은 컴팩트 설계\n고성능을 품은 슬림한 바디\n두께 15mm의 초슬림 디자인으로\nLANStar\n좁은 공간에도 설치가 용이하며,\nABS 소재로 방열 성능까지\nUSB-CI\n챙겼습니다.\nender Supports\n@4K120Hz\nSender\nPRODUCT DETAIL\n< RECEIVER(RX) >\n\n\nPRODUCT DETAIL\n< RECEIVER(RX) >\nUSB-C Extender Supports 30m @4K120Hz\n72.5mm\nHDMI\nLANStar\nReceiver\n15mm\nUSB-C Extender Supports 30m 4K120Hz\nLAN tar\n34mm\n< SENDER(TX) >\nSender\n15mm\n93.4mm\n34mm\nSPECIFICATION\nINPUT\nUSB Type-C 1포트 / RJ45포트\nOUTPUT\nHDMI 포트 / RJ45 1포트\n최대 해상도 전송\n30M(4K@120Hz 해상도 최대 출력 거리)\n이더넷 케이블\nCAT.6 이상 규격 케이블\n지원 해상도\n4K@120, 60Hz / YUV 4:4:4\n전원\nDC 5V(USB A to C 전원 케이블)\n소비전력\nTX:4W / RX:3.5W\n작동 온도\n0°C~50°C\n습도\n5%-90%\n크기\nTX:93.4x34x15(mm) / RX : 72.5 x 34 x 15(mm)\n무게\nTX:52g/RX:36g\n재질\n알루미늄 + ABS 소재\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\nLC\n인증번호:R-R-LUS-LS-UCHD30\nFAQ\n자주 물어보시는 질문\nQ. 랜케이블은 종류에 상관없이 사용해도 되나요?\nCAT.6 UTP 이상의 케이블 사용을 권장드립니다.\n4K@120Hz 최대 해상도로 출력하려면 최소 CAT.6 UTP 이상의 케이블을 사용해야\n안정적으로 출력 가능합니다.\nQ. 전원 케이블은 반드시 연결해야하나요?\nI RECEIVER에 전원 입력 포트에 반드시 전원 케이블을 연결하시기 바랍니다.\n\n\nCAT.OUTP IS의 케이를 사용을 권싱느립니다.\n4K@120Hz 최대 해상도로 출력하려면 최소 CAT.6 UTP 이상의 케이블을 사용해야\n안정적으로 출력 가능합니다.\nQ. 전원 케이블은 반드시 연결해야하나요?\n네. RECEIVER에 전원 입력 포트에 반드시 전원 케이블을 연결하시기 바랍니다.\nPC, 노트북 USB 포트에 연결해도 충분히 출력 가능합니다.\nQ. 30M 이상 연결하여 사용할 수는 없나요?\n4K@120Hz의 해상도로 최대 30M까지 출력할 수 있도록 제작된 제품입니다.\n30M 이상 연결할 경우, 해상도 저하 및 출력이 되지 않을 수도 있습니다.\n자체 테스트 결과 안내 드립니다.\nCAT.6 UTP 50M 케이블로 연결하여 테스트 진행\n1920x1080P @ 60Hz 해상도 출력 (디스플레이 확장)\n4K@60Hz 해상도 출력 (디스플레이 복제)\n디스플레이 복제, 확장시 해상도의 차이가 발생하며, 최대 해상도로 출력을 원할 경우\n30M 이내 거리에서만 사용하도록 주의하여 주시기 바랍니다.\nQ. 랜 케이블 연결 시 반드시 직선 연결이어야 하나요?\n네, 이 제품은 SENDER와 RECEIVER를 직선으로 연결했을 때 최상의 성능을\n제공합니다. 네트워크 스위치나 허브를 경유하면 신호가 제대로 작동하지 않을 수 있습니다.\nQ. SENDERLI RECEIVER를 교체 사용해도 되나요?\nSENDER와 RECEIVER는 각각의 역할이 고정되어 있으므로 반대로 연결하면\n작동하지 않습니다. 반드시 올바른 장치에 맞게 사용해 주세요.\n거리는 멀어져도,\n신호는 흔들리지 않습니다\nACHT\nSander\nReceiver"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C",
+        "RJ45"
+      ],
+      "output_signals": [
+        "HDMI",
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄",
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@120",
+      "hdr_support": true,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB Type-C 1포트, RJ45 포트",
+    "connectivity.output_signals": "HDMI 포트, RJ45 포트",
+    "connectivity.directional": "최대 30M 거리 신호 전송",
+    "power.power_mode": "DC 5V (USB A to C 전원 케이블, RECEIVER에 연결 필수)",
+    "power.charging_support": "전원 연결 필수",
+    "form_physical.has_case": "알루미늄 + ABS 소재",
+    "form_physical.material": "알루미늄 + ABS 소재",
+    "certification.kc": "KC 인증 획득",
+    "audio_video.max_resolution": "최대 4K@120Hz 해상도 출력 지원",
+    "audio_video.hdr_support": "4K HDR 지원",
+    "audio_video.hdcp_version": "HDCP 지원",
+    "audio_video.audio_pass": "다양한 오디오 포맷 지원",
+    "family.cat_category": "CAT.6 UTP 이상 랜케이블 이용",
+    "family.shielding": "UTP 규격 케이블",
+    "family.poe_support": "네트워크 스위치 허브 경유 불가"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:07",
+  "feature_schema_version": "1.0.0"
+}

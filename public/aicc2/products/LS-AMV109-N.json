@@ -1,0 +1,157 @@
+{
+  "model_no": "LS-AMV109-N",
+  "product_name": "HDMI 3x3 ART MULTIVISION (4K 3x3 Art Video Wall Controller)",
+  "category": [
+    "HDMI케이블",
+    "USB케이블",
+    "USB3.0",
+    "멀티비전"
+  ],
+  "key_features": [
+    "HDMI 입력 신호를 최대 9개의 디스플레이로 출력 가능한 3x3 멀티비전 제품",
+    "Common Splicing Mode: 1x1, 1x2, 1x3, 1x4, 2x1, 2x2, 2x3, 2x4, 3x1, 3x2, 3x3, 4x1, 4x2 총 13가지 기본 출력 모드 지원",
+    "Cascading Mode: 여러 대의 제품을 연결하여 3x4(2Unit), 4x4(2Unit) 등 확장 출력 지원",
+    "Display ART Mode: USB3.0 케이블 연결 및 전용 소프트웨어(SMI Display Server, Art Video Wall)를 통해 다양한 아트 디스플레이 출력 지원",
+    "리모콘을 통한 손쉬운 영상 출력 방식 변경 지원",
+    "각 출력 디스플레이 최대 1080P@60Hz FHD 해상도 지원",
+    "HDMI 입력 최대 4K@30Hz 지원",
+    "베젤 조절 기능 지원",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-AMV109)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득, 한국산업기술평가관리원)",
+    "CASCADING MODE 지원",
+    "소프트웨어 / 프로그램 다운로드 제공"
+  ],
+  "specifications": {
+    "HDMI 버전": "HDMI 1.4",
+    "HDMI 입력 해상도": "4K@30Hz",
+    "HDMI 출력 해상도": "각각의 디스플레이 1920x1080 해상도로 출력 (최대 1080P@60Hz)",
+    "오디오 포맷": "스테레오",
+    "입력 케이블 길이": "최대 8M (HDMI 표준 규격 26AWG 기준)",
+    "출력 케이블 길이": "최대 10M (HDMI 표준 규격 26AWG 기준)",
+    "전원": "DC 12V 3A 전원 아답터",
+    "아답터 인증번호": "HU10999-19006A",
+    "작동 온도": "-10°C ~ 45°C",
+    "크기": "305 x 185 x 35 (mm)",
+    "무게": "약 1.77kg",
+    "재질": "Metal",
+    "KC 인증번호": "R-R-LUS-LS-AMV109",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 입력 기기: 콘솔, 노트북, 데스크탑, DVD Player, USB Memory, Set-top Box",
+    "HDMI 출력 기기: TV, 모니터, 빔 프로젝터",
+    "USB3.0 연결을 통한 ART Mode 지원 (PC 네트워크 접속 필수)",
+    "RS232 인터페이스 지원",
+    "2x2 모드: 입력기기 3840x2160 해상도 지원 필요",
+    "3x3 모드: 입력기기 5760x3540 해상도 지원 필요",
+    "1x2 모드: 입력기기 3840x1080 해상도 지원 필요",
+    "2x1 모드: 입력기기 1920x2160 해상도 지원 필요",
+    "가로 모드(1xN): 입력기기 (1920xN)x1080 해상도 지원 필요",
+    "세로 모드(Nx1): 입력기기 1920x(1080xN) 해상도 지원 필요"
+  ],
+  "package_contents": [
+    "LS-AMV109-N 본체 (4K 3x3 Art Video Wall Controller) x1",
+    "리모콘 (Remote Control) x1",
+    "DC 12V 3A 전원 아답터 x1",
+    "사용자 설명서 (User Manual) x1"
+  ],
+  "usage_instructions": "1. [일반 멀티비전 모드] HDMI 입력 기기를 HDMI IN 포트에 연결하고, 출력 디스플레이를 Output1~Output9 포트에 HDMI 케이블로 연결한다. 리모콘 또는 전면 스위치를 이용해 원하는 출력 모드(1x1~4x2 등 13가지)를 선택한다.\n2. [Cascading Mode] 2대 이상의 제품을 연결하여 3x4, 4x4 등 확장 배열을 구성한다. 각 유닛(A, B)의 HDMI IN 및 Output 포트를 도면에 따라 연결한 뒤 해당 Cascading 모드 버튼을 선택한다.\n3. [ART Mode] USB3.0 케이블로 PC와 제품을 연결한 뒤 반드시 3x3 모드로 사전 설정한다. 랜스타 홈페이지 기술자료실에서 ① SMI Display Server → ② Art Video Wall 순서로 소프트웨어를 설치한다. Art Video Wall 프로그램 실행 후 템플릿 선택 → Deploy 버튼으로 저장 → 출력 PC 선택(네트워크 접속 필수) → 해상도(4K 3_3 등) 선택 → 디스플레이 OUTPUT 번호 설정 → 설정 완료 아이콘 클릭으로 마무리한다.\n4. 입력 케이블은 최대 8m, 출력 케이블은 최대 10m(HDMI 표준 규격 26AWG 기준)를 준수한다.",
+  "cautions": [
+    "1x2, 1x3, 1x4 모드는 세로 모드 출력을 지원하지 않으며 가로 모드 출력만 가능합니다.",
+    "ART Mode 사용 시 USB3.0 케이블 연결 후 반드시 3x3 모드로 사전 설정이 필요합니다.",
+    "ART Mode는 HDMI Input이 아닌 USB3.0 케이블 연결을 통해 사용합니다.",
+    "ART Mode 소프트웨어(SMI Display Server → Art Video Wall) 설치 순서를 반드시 지켜야 합니다.",
+    "ART Mode 사용 시 출력 PC의 네트워크 접속이 필수입니다.",
+    "각 출력 모드별로 입력 기기(PC, 노트북 등)가 해당 해상도를 지원해야 정상 출력이 가능합니다.",
+    "HDMI 케이블 길이에 따라 해상도 변화가 생길 수 있으므로 입력 최대 8m, 출력 최대 10m를 준수하십시오.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 A/S를 받을 수 없습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "당일출고는 오후 4시 이전 결제 완료 건 기준이며, 토·일·공휴일 제외 평일에 한합니다. 택배사 사정에 따라 배송 기간이 길어질 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-AMV109-N",
+      "품목코드": "INT-HDS252",
+      "품목명": "[LANstar] HDMI 3x3 Art 멀티비전 월컨트롤러, 디스플레이 자유 변형 [30708] (5개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "USB-B"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 10
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": true
+    },
+    "family": {
+      "hdmi_version": "HDMI1.4",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 입력 신호를",
+    "connectivity.input_signals[1]": "USB3.0 케이블 연결",
+    "connectivity.output_signals": "9개의 디스플레이로 출력",
+    "connectivity.directional": "HDMI 입력 신호를 최대 9개의 디스플레이로 출력",
+    "connectivity.port_count": "HDMI 3x3 ART MULTIVISION",
+    "power.power_mode": "DC 12V 3A 전원 아답터",
+    "form_physical.has_case": "305 x 185 x 35 (mm)",
+    "form_physical.material": "재질: Metal",
+    "certification.kc": "KC 인증 획득",
+    "audio_video.max_resolution": "HDMI 입력 최대 4K@30Hz 지원",
+    "audio_video.audio_pass": "오디오 포맷: 스테레오",
+    "control_switching.has_remote": "리모콘을 통한 손쉬운 영상 출력 방식 변경 지원",
+    "control_switching.has_physical_button": "전면 스위치를 이용해",
+    "control_switching.has_app_control": "전용 소프트웨어(SMI Display Server, Art Video Wall)를 통해",
+    "family.hdmi_version": "HDMI 버전: HDMI 1.4"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:06",
+  "feature_schema_version": "1.0.0"
+}

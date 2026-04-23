@@ -1,0 +1,129 @@
+{
+  "model_no": "LS-DP12N",
+  "product_name": "Display Port 양방향 수동선택기",
+  "category": [
+    "USB케이블"
+  ],
+  "key_features": [
+    "양방향 연결 지원: 2대의 PC와 모니터 1대 연결 또는 1대의 PC와 모니터 2대 연결",
+    "4K@60Hz UHD(4096x2160) 해상도 지원",
+    "ULTRA HD 3D 입체 영상 지원",
+    "One-Touch 버튼으로 간편하게 포트 선택",
+    "DC 5V USB 전원 케이블을 통한 안정적인 전원 공급",
+    "최대 3m 거리에서 안정적인 화질 유지",
+    "DP 단자를 가진 다양한 기기와 완벽 호환",
+    "RoHS 준수 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "최대 해상도": "4096 x 2160 (4K@60Hz)",
+    "연결 방식": "양방향 수동 선택",
+    "포트 구성": "DP 1, DP 2",
+    "전원": "DC 5V (USB 전원 케이블)",
+    "최대 안정 전송 거리": "3m",
+    "제품 크기": "가로 81mm x 세로 61mm x 높이 17mm",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "품질 인증": "ISO 9001:2008, RoHS COMPLIANT"
+  },
+  "compatibility": [
+    "디지털 TV",
+    "셋톱박스",
+    "노트북",
+    "빔 프로젝터",
+    "PC",
+    "맥북",
+    "DP 단자를 가진 모든 DisplayPort 기기"
+  ],
+  "package_contents": [
+    "LS-DP12N 수동선택기 본체",
+    "USB 전원 케이블"
+  ],
+  "usage_instructions": "버튼 한 번 누르면 DP 1 또는 DP 2 포트 중 원하는 쪽으로 신호 전환. 모드 1: 2대의 PC와 모니터 1대 연결 / 모드 2: 1대의 PC와 모니터 2대 연결. 선택한 모니터에서만 출력이 가능하며 동시 출력은 불가능.",
+  "cautions": [
+    "선택한 포트(모니터)에서만 출력이 가능하며, 동시 출력은 불가능합니다.",
+    "기본 안정 전송 거리는 최대 3m이며, 거리가 멀어질수록 영상 손실이 발생할 수 있습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DP12N",
+      "품목코드": "INT-HD선137",
+      "품목명": "[LANstar] Display Port 수동선택기, 유전원, 버튼형1:2, 양방향지원 [20148]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DisplayPort",
+        "USB-A"
+      ],
+      "output_signals": [
+        "DisplayPort"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": null,
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DP 단자를 가진 다양한 기기",
+    "connectivity.input_signals[1]": "DC 5V USB 전원 케이블",
+    "connectivity.output_signals": "DP 단자를 가진 다양한 기기",
+    "connectivity.directional": "양방향 연결 지원",
+    "connectivity.port_count": "DP 1, DP 2",
+    "power.power_mode": "DC 5V USB 전원 케이블을 통한",
+    "power.charging_support": "전원 공급",
+    "form_physical.has_case": "제품 크기",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008",
+    "audio_video.max_resolution": "4K@60Hz UHD(4096x2160) 해상도 지원",
+    "control_switching.has_physical_button": "One-Touch 버튼으로 간편하게 포트 선택",
+    "family.charging_only": "전원 공급"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:38",
+  "feature_schema_version": "1.0.0"
+}

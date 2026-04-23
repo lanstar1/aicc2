@@ -1,0 +1,107 @@
+{
+  "model_no": "LS-HDMIG-AFFR",
+  "product_name": "HDMI 젠더 360도",
+  "category": [
+    "젠더"
+  ],
+  "key_features": [
+    "360도 회전으로 자유롭게 연결 가능",
+    "HDMI 연장 젠더 (F/F 연결 외전용)"
+  ],
+  "specifications": {
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "HDMI 케이블 (F/F 연결)"
+  ],
+  "package_contents": [
+    "HDMI 젠더 360도 본체"
+  ],
+  "usage_instructions": "HDMI 케이블과 연결하여 사용. 360도 회전 기능을 활용해 원하는 방향으로 자유롭게 연결 가능.",
+  "cautions": [
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMIG-AFFR",
+      "품목코드": "GEN-HDI043",
+      "품목명": "[LANstar] HDMI젠더Changer , HDMI 19P A／F-A／F, 360도[20046]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDMIG-AFFR",
+      "내용": "아직사용전입니다.아직사용전입니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "HDMI-A Female",
+      "connector_type_b": "HDMI-A Female",
+      "gender": "F-F",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 연장 젠더",
+    "connectivity.output_signals": "HDMI 연장 젠더",
+    "connectivity.directional": "HDMI 연장 젠더 (F/F 연결 외전용)",
+    "power.power_mode": "HDMI 젠더",
+    "form_physical.has_case": "HDMI 젠더 360도",
+    "certification.kc": "인증번호: 해당없음",
+    "family.connector_type_a": "HDMI 연장 젠더 (F/F 연결 외전용)",
+    "family.connector_type_b": "HDMI 연장 젠더 (F/F 연결 외전용)",
+    "family.gender": "F/F 연결"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:30",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,231 @@
+{
+  "model_no": "LS-DP19G",
+  "product_name": "LAN Star DisplayPort to HDMI 변환 젠더",
+  "category": [
+    "DisplayPort",
+    "컨버터",
+    "젠더"
+  ],
+  "key_features": [
+    "DisplayPort 입력신호를 HDMI 출력소스로 변환 (단방향, HDMI→DP 미지원)",
+    "4K@30Hz (3856x2160) 고화질 영상 출력 지원",
+    "3D 비디오 포맷 및 해상도 규격 지원",
+    "영상 복제 및 확장 디스플레이 모드 지원",
+    "최대 21.6Gbps 데이터 전송 속도",
+    "DisplayPort 1.2 / HDMI 1.4 버전 지원",
+    "DPCP 및 HDCP 영상 저작권 보호 기술 지원",
+    "컴팩트 사이즈 (49 x 22.5 x 9 mm, 약 10g)"
+  ],
+  "specifications": {
+    "인터페이스": "DisplayPort to HDMI 변환 젠더",
+    "INPUT": "DisplayPort 1.2",
+    "OUTPUT": "HDMI 1.4",
+    "해상도": "4K@30Hz (3856x2160)",
+    "데이터 전송 속도": "최대 21.6Gbps",
+    "크기": "49 x 22.5 x 9 (mm)",
+    "무게": "약 10g",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "해당없음",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "DisplayPort 1.2 출력 포트를 가진 데스크탑, 그래픽카드",
+    "HDMI 1.4 입력 포트를 가진 TV, 모니터, 빔 프로젝터 등 디스플레이 장치"
+  ],
+  "package_contents": [
+    "DisplayPort to HDMI 변환 젠더 본체 (LS-DP19G) 1개"
+  ],
+  "usage_instructions": "데스크탑 또는 그래픽카드의 DisplayPort 출력 포트에 젠더의 DisplayPort 단자를 연결하고, HDMI 디스플레이(TV, 모니터, 빔 프로젝터 등)에 젠더의 HDMI 단자를 연결하여 사용. 반대 방향(HDMI → DisplayPort) 연결은 지원하지 않음.",
+  "cautions": [
+    "DisplayPort → HDMI 단방향만 지원하며, 반대 방향(HDMI to DisplayPort)은 지원하지 않습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품의 이미지 및 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DP19G",
+      "품목코드": "INT-HDS185",
+      "품목명": "[LANstar] DP to HDMI 젠더, 4K 30hz [30465] (500개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DP19G",
+      "내용": "DP포트 연결 잘 됩니다"
+    },
+    {
+      "source_model": "LS-DP19G",
+      "내용": "빠르게 배송 잘 받았네요"
+    },
+    {
+      "source_model": "LS-DP19G",
+      "내용": "Dp포트에 잘 꽃혀서 모니터 잘 나와요"
+    },
+    {
+      "source_model": "LS-DP19G",
+      "내용": "빠르게 잘 받았습니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-DP19G",
+      "chatUrl": "1xlnY",
+      "dateIso": "2025-12-08T08:28:54.584Z",
+      "name": "신짱",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "안녕하세요 이번에 상품 구매했는데요 집에 빔프로젝터가 hdml이어서요 혹시 이거와 연결 해서 쓸수 있는 젠더가 있나요?\n(추가 문의) 아 그렇군요 지금 구매한상품이 8k인데 이걸로하면 4k로 송출 되는 건가요?",
+      "answer": "https://smartstore.naver.com/lineup/products/5448011232\n\n고객님. 기술지원팀 확인 후 안내 도와드리겠습니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 감사합니다~"
+        },
+        {
+          "role": "agent",
+          "text": "고객님.\n\n기술지원팀 확인 후 안내 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "아 그렇군요 지금 구매한상품이 8k인데 이걸로하면 4k로 송출 되는 건가요?"
+        },
+        {
+          "role": "agent",
+          "text": "https://smartstore.naver.com/lineup/products/5448011232"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요 이번에 상품 구매했는데요 집에 빔프로젝터가 hdml이어서요 혹시 이거와 연결 해서 쓸수 있는 젠더가 있나요?"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-DP19G",
+      "chatUrl": "Tr9c",
+      "dateIso": "2024-12-16T01:45:48.024Z",
+      "name": "유태균",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "이번에 다른 컨버터는돠는데 이재품은 영상연결이안되어서요\n(추가 문의) 제품 스펙이 모든 케이블과 tv모니터랑 호환이 되나요",
+      "answer": "정확한 안내를 위해 아래 내용 확인 부탁드립니다. 성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)\n\n네 고객님 위 요청 드린 내용 확인 부탁드립니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "LS-DP19G"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님 위 요청 드린 내용 확인 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "이번에 다른 컨버터는돠는데 이재품은 영상연결이안되어서요"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)"
+        },
+        {
+          "role": "customer",
+          "text": "제품 스펙이 모든 케이블과 tv모니터랑 호환이 되나요"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DisplayPort"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "HDMI1.4",
+      "dp_version": "DP1.2",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DisplayPort 입력신호를",
+    "connectivity.output_signals": "HDMI 출력소스로 변환",
+    "connectivity.directional": "단방향, HDMI→DP 미지원",
+    "power.power_mode": "무전원",
+    "power.charging_support": "false",
+    "form_physical.has_case": "컴팩트 사이즈 (49 x 22.5 x 9 mm",
+    "audio_video.max_resolution": "4K@30Hz (3856x2160) 고화질",
+    "audio_video.hdcp_version": "HDCP 영상 저작권 보호 기술 지원",
+    "audio_video.audio_pass": "오디오 전송/패스스루 지원",
+    "certification.kc": "KC 인증번호: 해당없음",
+    "family.hdmi_version": "HDMI 1.4 버전 지원",
+    "family.dp_version": "DisplayPort 1.2",
+    "family.optical_core": "false"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:42",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 2,
+    "category_breakdown": {
+      "usage": 1,
+      "compatibility": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

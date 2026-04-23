@@ -1,0 +1,120 @@
+{
+  "model_no": "LS-AVG-2RCA-FF",
+  "product_name": "LANStar AV 연장 젠더 2RCA F/F",
+  "category": [
+    "젠더",
+    "커넥터",
+    "RCA케이블"
+  ],
+  "key_features": [
+    "양쪽 모두 RCA (F) 타입 2개의 커넥터로 구성된 젠더",
+    "RCA 2선을 동시에 연장할 때 사용 가능",
+    "RoHS 준수 제품 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 적용",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 타입": "2RCA Female / 2RCA Female",
+    "커넥터 수": "양쪽 각 2개 (총 4개)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "RoHS 준수": "준수",
+    "품질인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "RCA 2선 연장이 필요한 AV 기기"
+  ],
+  "package_contents": [
+    "AV 연장 젠더 2RCA F/F (LS-AVG-2RCA-FF) 1개"
+  ],
+  "usage_instructions": "RCA 2선을 동시에 연장할 때 본 젠더의 양쪽 RCA Female 커넥터에 각각 케이블을 연결하여 사용",
+  "cautions": [
+    "유통 과정상 제품의 모양이 조금씩 달라질 수 있음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리",
+    "AS 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-AVG-2RCA-FF",
+      "품목코드": "GEN-오디음002",
+      "품목명": "[LANstar] AV젠더Changer , 2RCA F／F[20016]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RCA"
+      ],
+      "output_signals": [
+        "RCA"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "2RCA Female",
+      "connector_type_b": "2RCA Female",
+      "gender": "F-F",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RCA (F) 타입 2개의 커넥터",
+    "connectivity.output_signals": "RCA (F) 타입 2개의 커넥터",
+    "connectivity.directional": "RCA 2선을 동시에 연장할 때",
+    "connectivity.port_count": "양쪽 각 2개 (총 4개)",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "젠더",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "RCA 2선을 동시에 연장",
+    "family.connector_type_a": "2RCA Female",
+    "family.connector_type_b": "2RCA Female",
+    "family.gender": "2RCA F/F"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:23",
+  "feature_schema_version": "1.0.0"
+}

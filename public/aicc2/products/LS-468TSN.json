@@ -1,0 +1,395 @@
+{
+  "model_no": "LS-468TSN",
+  "product_name": "LAN Star 랜 테스터기 (분리형) LS-468TSN",
+  "category": [
+    "랜케이블-UTP",
+    "랜케이블-STP",
+    "네트워크공구"
+  ],
+  "key_features": [
+    "RJ45 LAN 케이블 / RJ11 / RJ12 전화선 케이블 테스트 지원",
+    "케이블의 단선, 엉킴, 접지, 배선오류 등 불량 상태 점검 가능",
+    "UTP / STP, Direct / Cross 전부 테스트 가능",
+    "MASTER / REMOTE 분리형 구조",
+    "휴대용 네트워크 케이블 테스터기",
+    "가정 랜선공사, 학교 전산망 구축, 기업 네트워크 보수, 키폰 공사 등 다양한 환경에서 활용 가능",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 획득 (인증번호: R-R-LUS-LS-68WT)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "RJ45 및 RJ11 포트 지원 케이블 테스트 가능",
+    "1~8번 LED 램프를 통해 케이블 정상 유무 확인",
+    "다이렉트(Direct) 케이블 및 크로스(Cross) 케이블 판별 지원",
+    "MASTER / REMOTE 분리형 구조로 양단 동시 테스트",
+    "접지(G) 연결 시 동작 확인 가능",
+    "CE 인증 제품",
+    "MASTER와 REMOTE 두 유닛으로 구성된 RJ11 케이블 테스터",
+    "1~8번 LED 램프를 통해 케이블 정상 유무 확인 가능",
+    "6P2C 전화선 케이블 테스트 지원",
+    "6P4C 키폰 케이블 테스트 지원",
+    "접지 시 G LED 동작 기능 포함",
+    "RJ45+RJ11, RJ11+RJ45 포트 지원"
+  ],
+  "specifications": {
+    "모델명": "LS-468TSN / JS-468",
+    "품명": "랜 테스터기 (분리형)",
+    "브랜드": "LANStar / LAN Star",
+    "인증번호": "R-R-LUS-LS-68WT / ZL 02 3 13103.9",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "전원": "9V 배터리",
+    "배터리 포함 여부": "배터리 제품 패키지에 포함",
+    "구조": "MASTER / REMOTE 분리형",
+    "지원 포트": "RJ45, RJ11",
+    "LED 수": "8개 (1~8번) + G(접지) / 1~8번 + G(접지)",
+    "케이블 유형": "Direct(다이렉트), Cross(크로스)",
+    "핀배열 기준": "568B, 568A",
+    "전원 스위치": "OFF / ON / S",
+    "인증": "CE",
+    "스위치": "OFF / ON / S",
+    "지원 커넥터": "RJ11, RJ45"
+  },
+  "compatibility": [
+    "RJ45 LAN 케이블",
+    "RJ11 전화선 케이블",
+    "RJ12 전화선 케이블",
+    "UTP 케이블",
+    "STP 케이블",
+    "Direct 배선 케이블",
+    "Cross 배선 케이블",
+    "RJ45 케이블",
+    "RJ11 케이블",
+    "EIA/TIA 568B 배열 케이블",
+    "EIA/TIA 568A 배열 케이블",
+    "다이렉트(Direct) 케이블",
+    "크로스(Cross) 케이블",
+    "6P2C 전화선 케이블",
+    "6P4C 키폰 케이블"
+  ],
+  "package_contents": [
+    "MASTER 본체 (JS-468)",
+    "REMOTE 본체 (JS-468)",
+    "9V 배터리",
+    "파우치",
+    "MASTER 유닛 (JS-468)",
+    "REMOTE 유닛 (JS-468)"
+  ],
+  "usage_instructions": "MASTER와 REMOTE를 분리하여 테스트할 케이블의 양 끝단에 각각 RJ45 또는 RJ11 포트에 연결한 후, MASTER의 ON/OFF 스위치를 ON 또는 S(슬로우) 모드로 설정하면 LED 표시등을 통해 케이블의 단선, 엉킴, 접지, 배선오류 등을 확인할 수 있습니다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-468TSN",
+      "품목코드": "NEO-테스터115",
+      "품목명": "[LANstar] 랜 테스터기, UTP／STP겸용,분리형 [30364] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-468TSN",
+      "내용": "빠른배송고맙습니다."
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "빠른배송 굿임니다요 ~~~"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "회사용♡ 야미야미용"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "다른 구매자분들이 말씀하신대로 제일 처음에 끼운 랜선이 뺄때 엄청 힘들게 빼야됩니다. 단, 이때만 그렇고 그 이후에는 그렇게 힘들지 않게 되게 됩니다. 랜선이나 테스터기 부셔지는줄 알았습니다. 구매시 참고 되시길... \n그리고 지금 현재는 잘 작동합니다. 여러번 테스트 해 본 결과...."
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "좋아요~~~~~~~"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "빠른 배송 감사 합니다........................"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "저렴하게 잘샀어요 잘쓰고 있어요"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "사용하기 편하고 좋습니다."
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "빠른배송 좋은제품 만족합니다."
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "집 단자함에서 각 방의 아웃렛 단자로 연결된 랜선을 찾고 테스트하기 위해 구매했어요. 맘에 들어요."
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "잘~ 받았습니다.  감사합니다."
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "홈네트워크 구축용으로 방이 어디방인지 확인용도로 샀습니다. 건전지도 기본포함이라 좋고요. 작동도 잘됩니다. 근데 커넥터 걸리면 빼기가 힘드네요."
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "잘 작동합니다. 저렴하게 구입하였네요. 가정에 하나 정도는 꼭 필요하다 봅니다."
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "좋은 제품 싸게 구매했습니다",
+      "관련내용": "좋은 제품 싸게 구매했습니다"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "좋습니다 가성비가 좋은 제품이에요"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "좋은 제품 싸게 구매했습니다"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "배터리가 약간 고정이 안되지만 작동에는 전혀 문제없네요."
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "만족합니다.\n다음에 또 구매할께요.~~"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "랜터스터기 필요했는데 잘구매해서 사용하고 있어요. 필요하신분 추천합니다."
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "기본적인  기능에 만족합니다"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "배송 빨라서 좋았습니다"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "친절한 피드백, 고객대응 좋습니다. 다음에도 필요한게 있으면 구매하겠습니다."
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "잘 동작합니다. 다만 동봉된 건전지로는 동작하지 않아 새로 사서 장착하니 그때서야 동작했습니다."
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "잘 쓰고 있습니다 ^^",
+      "관련내용": "잘사용하고 있습니다"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "배송도 빠르고, 만족합니다"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "가성비 좋아요~~^^\n한개쯤 집에 있어도 좋을듯하네요.\n신호가 들어있는 회선에도 불이 들어옵니다.참고하셔요. 신호가 들어오니 그회선이 내가 잡는회선으로 착각했거든요."
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "배송도 빠르고 물건도 좋아요"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "빠른배송 좋은제품 감사합니다"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "집에 랜선작업할일이 은근 많아서 필요했는데 베터리도 같이있어서 바로 사용가능하네요"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "잘받았습니다.\n테스터기 받은 김에 커플러와 랜선 두개\n배송받은 제품 모두를 한 번에 테스트해봤습니다.\n\n이 제품덕에 남는 전화랜포트를 이용해서\n어렵지 않게 메쉬구성을 했습니다.\n\n건전지형이라 길래 아차 싶었는데\n다행히 포함되어 있어서 무리없이 사용했고,\n케이스도 있어서 좋았습니다. \n\n감사합니다."
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "배송이 빨라서 좋네요"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "잘사용하고 있습니다"
+    },
+    {
+      "source_model": "LS-468TSN",
+      "내용": "배송빠르고 좋습니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-468TSN",
+      "id": 621121698,
+      "date": "2025-03-14 13:06",
+      "answerDate": "2025-03-14 17:28",
+      "user": "harr*******",
+      "productName": "랜스타 LS-468TSN 랜 테스터기, UTP / STP겸용",
+      "question": "cat6에서 작동하나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\ncat상관없이 RJ45규격의 랜케이블 모두 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-468TSN",
+      "id": 668940315,
+      "date": "2026-03-31 23:28",
+      "answerDate": "2026-04-03 08:59",
+      "user": "wozl*****",
+      "productName": "랜스타 LS-468TSN 랜 테스터기, UTP / STP겸용",
+      "question": "건전지 사용이 메인이랑 리모트 둘다 필요한걸까요?",
+      "answer": "안녕하세요 고객님 랜스타 입니다\n건전지는 메인 테스터기에만 사용 합니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-468TSN",
+      "chatUrl": "1T45v",
+      "dateIso": "2025-03-24T04:13:15.952Z",
+      "name": "harr****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "주말이라 오늘 교환신청 해두려 했더니 기간이 지나서 자동구매확정이 되어버렸네요.... 이러면 교환처리가 불가능한가요...?\n(추가 문의) 감사합니다! 해당 제품만 잘 포장해서 원래 배송받은 주소 위치에 두면 될까요?\n(추가 문의) 넵 꼼꼼히 포장해서 해당 위치에 뒀습니다\n감사합니다",
+      "answer": "고객님. 저희 측에서 별도로 a/s test 접수 도와드리겠습니다. 원활하게 수거될 수 있도록 준비 부탁드립니다.\n\n네. 고객님. 해당 제품만 포장하셔서 \"서울특별시 마포구 희우정로 77 (망원동, 마포한강아이파크) 102동 901호\" 에 회수 될 수 있도록 준비 부탁드립니다.\n\n제품 불량으로 의심되어 주문내역에서 교환 요청 가능하실까요?",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "넵 꼼꼼히 포장해서 해당 위치에 뒀습니다\n감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n해당 제품만 포장하셔서 \"서울특별시 마포구 희우정로 77 (망원동, 마포한강아이파크) 102동 901호\" 에 회수 될 수 있도록 준비 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "감사합니다! 해당 제품만 잘 포장해서 원래 배송받은 주소 위치에 두면 될까요?"
+        },
+        {
+          "role": "agent",
+          "text": "고객님. \n\n저희 측에서 별도로 a/s test 접수 도와드리겠습니다.\n원활하게 수거될 수 있도록 준비 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "주말이라 오늘 교환신청 해두려 했더니 기간이 지나서 자동구매확정이 되어버렸네요.... 이러면 교환처리가 불가능한가요...?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n제품 불량으로 의심되어 주문내역에서 교환 요청 가능하실까요?"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-468TSN-LED1": "케이블 테스터 LED\nRJ45 LED 동작순서\n테스터기의 MASTER와 REMOTE의 RJ45 포트를 연결하여\n스위치를 “ON” 으로 변경하면 1~8번까지의 LED 램프를 통해\n케이블의 정상 유무(Direct / Cross)를 테스트할 수 있습니다.\nCABLE\nRJ45+RJ11\nRJ11+ RJ45\nTESTER\n1\n2\n2\n3\n3\n4\n4\n5\n5\n6\n6\nOFF ON S\n7\n7\n8\n8\nG\nREMOTE\nMASTER\nJS - 468\nJS - 468\nZL 02 3 13103.9\nLAN Star\nCE\n다이렉트(Direct) 케이블 핀배열 LED\n568B\n568B\nMASTER\nREMOTE\n주황/흰색 1\n1\n1\n1 주황/흰색\n2 주황\n주황 2\n2\n2\n3\n3\n녹색/흰색 3\n13 녹색/흰색\nLED\n4\n4\n청색 4\n4 청색\n동작순서\n5\n5\n청색/흰색 5\n5 청색/흰색\n6\n6\n녹색 6\n6 녹색\n7\n7\n갈색/흰색 7\n7 갈색/흰색\n8\n8\n갈색 8\n8 갈색\n접지시 동작\nG\nG\nCABLE\nRJ45+RJ11\nRJ11+ RJ45\nTESTER\n1\n2\n2\n3\n3\n4\n4\n5\n5\n6\n6\nOFF ON S\n7\n7\n8\n8\nG\nG\nREMOTE\nMASTER\nJS - 468\nJS - 468\nZL 02 3 13103.9\nLAN Star\n()\n크로스(Cross) 케이블 핀배열 LED\n568B\n568A\nMASTER\nREMOTE\n주황/흰색 1\n1 녹색/흰색\n1\n3\n주황 2\n2 녹색\n2\n6\n3\n1\n녹색/흰색 3\n3 주황/흰색\nLED\n4\n4\n청색 4\n4 청색\nXXXI\n동작순서\n5\n5\n청색/흰색 5\n5 청색/흰색\n6\n2\n녹색 6\n7\n7\n6 주황\n7 갈색/흰색\n갈색/흰색 7\n8\n8\n접지시 동작\nG\nG\n갈색 8\n8 갈색",
+    "LS-468TSN-LED2": "RJ11 LED 동작순서\n테스터기의 MASTER와 REMOTE의 RJ11 포트를 연결하여\n스위치를 “ON” 으로 변경하면 1~8번까지의 LED 램프를 통해\n케이블의 정상 유무를 테스트할 수 있습니다.\n6P2C 전화선\nCABLE\nRJ45+ RJ11\nRJ11+ RJ45\nMASTER\nREMOTE\nTESTER\n1\n-\n2\n3\n-\n4\n5\n3\n6\n6\n34\nOFF ON S\n7\nLED\n4\n8\nG\n동작순서\n-\nMASTER\nREMOTE\n-\nJS-468\nJS-468\n-\nZL 02 3 13103.9\nLAN tar\nCE\n접지시 동작\nG\nG\n6P4C 키폰\nCABLE\nRJ45 RJ11\nRJ11+ RJ45\nMASTER\nREMOTE\nTESTER\n1\n2\n3\n3\n2\n2\n4\n5\n3\n3\n6\nOFF ON S\n7\nLED\n4\n4\nB\nG\n동작순서\n5\n5\nREMOTE\nMASTER\nJS-468\nJS-468\n-\nZL 02 3 13103.9\nLANStar\n접지시 동작\nG\nG"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45",
+        "RJ11"
+      ],
+      "output_signals": "N/A",
+      "directional": "N/A",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "배터리",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": true,
+      "fcc": null,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": true,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 LAN 케이블 / RJ11 / RJ12 전화선 케이블 테스트 지원",
+    "connectivity.output_signals": "N/A",
+    "connectivity.directional": "N/A",
+    "connectivity.port_count": "지원 포트\": \"RJ45, RJ11",
+    "power.power_mode": "전원\": \"9V 배터리",
+    "power.charging_support": "false",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "MASTER / REMOTE 분리형 구조",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "국립전파연구원 인증 획득",
+    "certification.rohs": "null",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "null",
+    "certification.ce": "CE 인증 제품",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "false",
+    "control_switching.has_hotkey": "false",
+    "control_switching.has_physical_button": "전원 스위치\": \"OFF / ON / S",
+    "control_switching.has_mouse_switching": "false",
+    "control_switching.has_auto_scan": "S(슬로우) 모드로 설정하면 LED 표시등을 통해",
+    "control_switching.has_app_control": "false",
+    "family.cat_category": "N/A",
+    "family.shielding": "N/A",
+    "family.conductor": "N/A",
+    "family.awg": "null",
+    "family.pair_count": "null",
+    "family.flame_rating": "N/A",
+    "family.poe_support": "false"
+  },
+  "feature_extracted_at": "2026-04-23T03:07:23",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

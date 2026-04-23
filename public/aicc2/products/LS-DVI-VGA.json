@@ -1,0 +1,405 @@
+{
+  "model_no": "LS-DVI-VGA",
+  "product_name": "LAN Star DVI-RGB 변환 케이블",
+  "category": [
+    "DVI",
+    "컨버터",
+    "커넥터"
+  ],
+  "key_features": [
+    "아날로그 방식의 DVI-A(M) 커넥터와 RGB(M) 커넥터를 연결하는 변환 케이블",
+    "PC 및 노트북의 15핀 RGB 단자와 모니터, TV, 프로젝터 연결 지원",
+    "1M / 1.8M / 3M / 5M / 10M 총 5가지 길이 선택 가능",
+    "페라이트 코어(FERRITE) 적용으로 노이즈 차폐",
+    "DVI-A(M) 커넥터(12+5P)와 RGB HDB15P(M) 커넥터를 연결하는 변환 케이블",
+    "아날로그 방식의 DVI-A(M) 및 RGB(M) 커넥터 사용",
+    "1M, 1.8M, 3M, 5M, 10M 총 5가지 길이 옵션 제공",
+    "페라이트 코어(FERRITE) 적용"
+  ],
+  "specifications": {
+    "입력 커넥터": "DVI-A (M) 12+5P",
+    "출력 커넥터": "RGB HDB15P (M)",
+    "전송 방식": "아날로그",
+    "길이 옵션": "1M, 1.8M, 3M, 5M, 10M",
+    "모델명_1M": "LS-DVI-VGA-1M",
+    "모델명_1.8M": "LS-DVI-VGA-1.8M",
+    "모델명_3M": "LS-DVI-VGA-3M",
+    "모델명_5M": "LS-DVI-VGA-5M",
+    "모델명_10M": "LS-DVI-VGA-10M",
+    "인증번호": "해당없음",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "브랜드": "LANStar",
+    "DVI 커넥터": "DVI-A (M), 12+5P, 아날로그 방식",
+    "RGB 커넥터": "HDB15P (M), 아날로그 방식",
+    "케이블 길이": "1M, 1.8M, 3M, 5M, 10M",
+    "제조국/원산지": "중국 (China)"
+  },
+  "compatibility": [
+    "DVI-A 출력 단자를 가진 PC 및 노트북",
+    "15핀 RGB(VGA) 입력 단자를 가진 모니터",
+    "15핀 RGB(VGA) 입력 단자를 가진 TV",
+    "15핀 RGB(VGA) 입력 단자를 가진 프로젝터",
+    "DVI-A 출력 단자를 갖춘 PC 및 노트북",
+    "15핀 RGB(VGA) 입력 단자를 갖춘 모니터",
+    "15핀 RGB(VGA) 입력 단자를 갖춘 TV",
+    "15핀 RGB(VGA) 입력 단자를 갖춘 프로젝터"
+  ],
+  "package_contents": [
+    "DVI-RGB 변환 케이블 본체 1개",
+    "DVI-RGB 변환 케이블 1개"
+  ],
+  "usage_instructions": "DVI-A(M) 커넥터를 PC 또는 노트북의 DVI 출력 단자에 연결하고, RGB(M) 커넥터를 모니터·TV·프로젝터 등의 RGB 입력 단자에 연결하여 사용.",
+  "cautions": [
+    "본 제품은 DVI(입력) → RGB(출력) 방향 연결만 지원합니다.",
+    "RGB(입력) → DVI(출력) 방향으로 연결 시 화면이 출력되지 않습니다.",
+    "디지털 DVI-D 또는 DVI-I(디지털 전용) 포트에는 사용할 수 없으며, 반드시 아날로그 신호를 지원하는 DVI-A 또는 DVI-I(아날로그 포함) 포트에 연결해야 합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DVI-VGA-1.8M",
+      "품목코드": "CAB-DVI058",
+      "품목명": "[LANstar] DVI-RGB케이블 , DVI 12＋5P／M-RGB15／M, 1.8M[10314] (70개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DVI-VGA-3M",
+      "품목코드": "CAB-DVI059",
+      "품목명": "[LANstar] DVI-RGB케이블 , DVI 12＋5P／M-RGB15／M, 3M[10315] (56개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DVI-VGA-5M",
+      "품목코드": "CAB-DVI060",
+      "품목명": "[LANstar] DVI-RGB케이블 , DVI 12＋5P／M-RGB15／M, 5M[10316] (34개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DVI-VGA-10M",
+      "품목코드": "CAB-DVI061",
+      "품목명": "[LANstar] DVI-RGB케이블 , DVI 12＋5P／M-RGB15／M, 10M[10317] (22개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "모니터변환젠더 구입 설치 했으나,미작동..\n2번째 구매한,이제품은 정상작동 좋네요..."
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "빠르고 안전한 배송 좋아요~~ 잘쓸게요~~"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "좋습니다.\n빠른배송 좋은품질"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "이 케이블은 신형이네요 회사 컴터 구형 DVI 포트에는 맞지 않아서 꼭 컴에 달린 포트가 구형인지 신형인지 알아보고 구매하세요"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "만족합니다 만족합니다"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "필요해서 주문했습니다."
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "필요해서 주문했어요."
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "엄청 빠르게 잘 받았습니다.. 튼튼하고 좋아요.."
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "아주 잘 사용중이랍니다"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "좋아요 아주 잘 쓰고 있어요"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "잘 쓰고있어요~~~"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "잘 사용중입니다!저렴하고 빠르게 도착했어요"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "빠른배송과 제품이 정확해요!!"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "포장도 깔끔하고 제품 좋아요"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "배송도 빠르고 잘 됩니다.\n필요한 거였는데 문제 없이 잘 됩니다."
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "1미터 생각보다 짧아요\n1.5 이상 주문하세요"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "최고의 선택 만세,."
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "핀 꽂는 부위가 약해서 흔들 거립니다.",
+      "관련내용": "배송은 빠릅니다.\n제건 머가 안 맞는지 핀이 잘 안끼워지네요"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "노이즈 잔상이 안생기네요",
+      "관련내용": "가격도 착하고 넘좋아요"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "굳굳 좋아요\n배송 빠르고 물건좋고"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "배송은 빠릅니다.\n제건 머가 안 맞는지 핀이 잘 안끼워지네요"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "가격도 착하고 넘좋아요"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "빠른배송으로 잘 연결해서 사용중입니다"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "듀얼모니터용으로 구매했습니다. 시간이 없어 아직 설치 전이지만 잘 되겠죠^^"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "잘쓰겠습니다~ 감사합니다"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "배송도 무난하게 잘왔구요 이상없이 잘 되고 있습니다"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "배송 빠르고 좋아요."
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "배송 빠르고 좋아요."
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "매우 만족스럽습니다"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "Dvi 구형이랑, 신형있는데 \n이제품은 신형 입니다  \n구형에는 호환안돼요ㅠ \n이번에 처음으로 알게 됬네요ㅠ\n참고 하세요"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "아주 잘 됩니다. 좋아요."
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "필요해서 샀는데 괜찮아요~"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "잘나옵니다 good"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "포장도 잘 되있고 잘 되요"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "저렴하게 구매 잘했어요"
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "내용": "좋아요 굳굳 좋아요 굳굳"
+    },
+    {
+      "source_model": "LS-DVI-VGA-1.8M",
+      "내용": "배송도 빠르고 가격도 괜찮네요... 써멀구리스에 작은 헤라가 하나 들어있었으면 더 좋았을텐데.. 그리고 dvi to rgb cable은 dvi port 쪽이 더블이 아니라 I(5핀) 타입인걸 꼭 확인하세요"
+    },
+    {
+      "source_model": "LS-DVI-VGA-1.8M",
+      "내용": "모니터 주오로 사며 케이블을 구입했는데 중고 모니터 문제가 있네요.."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-DVI-VGA",
+      "id": 515144812,
+      "date": "2023-02-06 19:32",
+      "answerDate": "2023-02-07 09:54",
+      "user": "glim****",
+      "productName": "랜스타 DVI to RGB 모니터 변환케이블 정품 LS-DVI-VGA",
+      "question": "방문수령 주소와\n퀵서비스 비용이 어떻게되나요?\n경기도 남양주시 별내면입니다.",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n랜스타 방문수령처 : 서울특별시 용산구 청파로 113-12, 한신전자타운 B동 405호\n\n위 주소로 방문 부탁드리며, 퀵 비용은 남양주시 별내면 기준 비용 44,000원이며, 변동될 수 있는 점 안내 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-DVI-VGA",
+      "id": 530907239,
+      "date": "2023-05-24 19:11",
+      "answerDate": "2023-05-25 11:27",
+      "user": "quwe****",
+      "productName": "랜스타 DVI to RGB 모니터 변환케이블 정품 LS-DVI-VGA",
+      "question": "안녕하세요 ~\n본체가 vga이고 모니터쪽이 dvi입니다\n사용 가능할까요?",
+      "answer": "안녕하세요, 고객님. 랜스타입니다.\n\n해당 제품  양방향이 불가한 제품으로 사용이 어렵습니다. 문의 주신 VGA TO DVI 케이블 제품 또한 현재 랜스타에서 판매하지 않아 안내가 어렵습니다. 도움을 드리지 못해 죄송합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해 드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-DVI-VGA-1",
+      "id": 579371926,
+      "date": "2024-05-05 15:00",
+      "answerDate": "2024-05-07 09:33",
+      "user": "gktj****",
+      "productName": "랜스타 LS-DVI-VGA-1.8M DVI to RGB케이블 1.8M",
+      "question": "본체 DVI-I, 모니터 RGB 입니다\n사용 가능한거죠? \n케이블에 동그란게 달려 있는게 EMI 필터 맞지요?\n빠른 답변 부탁드립니다 ^^",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 케이블은 12 + 5 핀으로 DVI-I 본체에 연결이 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-DVI-VGA-3M",
+      "chatUrl": "63sik",
+      "dateIso": "2024-01-15T05:21:08.082Z",
+      "name": "둔땅띠",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "수거 불가라고 하는데 제가 그러면 별도로 배송을 보내야 하나용??",
+      "answer": "네 고객님. 반품 처리 완료되었습니다.",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "입금 했습니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님. 반품 처리 완료되었습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으"
+        },
+        {
+          "role": "customer",
+          "text": "수거 불가라고 하는데 제가 그러면 별도로 배송을 보내야 하나용??"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님. 반품 처리 완료되었습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-DVI-VGA-XXM": "LANStar\nDVI-RGB 변환 케이블\n길이 : 1M / 1.8M / 3M / 5M /10M\n아날로그 방식의\nDVI-A (M) 컨넥터\n아날로그 방식의\nRGB (M) 컨넥터\nPC, 노트북의 15핀 RGB단자와 모니터, TV, 프로젝터등을 연결해주는 변환 케이블 입니다.\n아날로그 방식의\nDVI-A (M) 컨넥터\n12+5P\n아날로그 방식의\nRGB (M) 컨넥터\nHDB15P(M)\n본 제품은 DVI(입력) - RGB(출력) 연결만 지원합니다.\nRGB(입력) - DVI(출력) 연결시 화면 출력이 되지 않으니\n제품 구매시 참고하여 주시기 바랍니다.\n■ 제/품/이/미/지\nFERRARD\n길이: 1M / 1.8M / 3M / 5M /10M\n상품정보\n품\n명\nDVI-RGB 케이블\nLAN Star\nLS-DVI-VGA-1M\nLS-DVI-VGA-1.8M\n모\n델\n명\nLS-DVI-VGA-3M\nLS-DVI-VGA-5M\nLS-DVI-VGA-10M\n인증번\n호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n· 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DVI-A"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        1.8,
+        3,
+        5,
+        10
+      ],
+      "color_options": []
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "없음",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "DVI-A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DVI-A(M) 커넥터",
+    "connectivity.output_signals": "RGB(M) 커넥터",
+    "connectivity.directional": "변환 케이블",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.length_options_meters": "1M / 1.8M / 3M / 5M / 10M",
+    "audio_video.max_resolution": "아날로그 방식",
+    "audio_video.hdr_support": "아날로그 방식",
+    "audio_video.hdcp_version": "아날로그 방식",
+    "audio_video.audio_pass": "아날로그 방식",
+    "family.dvi_type": "DVI-A(M) 커넥터(12+5P)"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:46",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

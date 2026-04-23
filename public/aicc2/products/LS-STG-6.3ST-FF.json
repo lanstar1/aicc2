@@ -1,0 +1,117 @@
+{
+  "model_no": "LS-STG-6.3ST-FF",
+  "product_name": "AV 변환젠더 6.3ST/F-6.3ST/F",
+  "category": [
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "양쪽 모두 6.3ST(Female) 타입 커넥터로 구성된 스테레오 변환젠더",
+    "RoHS 준수 제품 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 타입": "6.3ST(Female) - 6.3ST(Female)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "6.3ST(Female) 규격 기기 간 연결"
+  ],
+  "package_contents": [
+    "AV 변환젠더 6.3ST/F-6.3ST/F 본체"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "유통과정상 제품의 모양이 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 소비자상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-STG-6.3ST-FF",
+      "품목코드": "GEN-오디음009",
+      "품목명": "[LANstar] AV젠더Changer , 6.3(5.5)ST F／F[20023]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "6.35mm"
+      ],
+      "output_signals": [
+        "6.35mm"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "6.3ST(Female) 타입 커넥터",
+    "connectivity.output_signals": "6.3ST(Female) 타입 커넥터",
+    "connectivity.directional": "양쪽 모두 6.3ST(Female) 타입",
+    "power.power_mode": "AV 변환젠더",
+    "power.charging_support": "AV 변환젠더",
+    "form_physical.has_case": "변환젠더",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "AV 변환젠더",
+    "audio_video.hdr_support": "AV 변환젠더",
+    "audio_video.hdcp_version": "AV 변환젠더",
+    "audio_video.audio_pass": "스테레오 변환젠더",
+    "control_switching.has_remote": "AV 변환젠더",
+    "control_switching.has_hotkey": "AV 변환젠더",
+    "control_switching.has_physical_button": "AV 변환젠더",
+    "control_switching.has_mouse_switching": "AV 변환젠더",
+    "control_switching.has_auto_scan": "AV 변환젠더",
+    "control_switching.has_app_control": "AV 변환젠더",
+    "family.conversion_direction": "양쪽 모두 6.3ST(Female) 타입",
+    "family.requires_external_power": "AV 변환젠더"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:03",
+  "feature_schema_version": "1.0.0"
+}

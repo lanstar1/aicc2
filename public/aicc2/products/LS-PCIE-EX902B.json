@@ -1,0 +1,133 @@
+{
+  "model_no": "LS-PCIE-EX902B",
+  "product_name": "LANStar PCI Express 2Port Serial Card",
+  "category": [
+    "시리얼카드"
+  ],
+  "key_features": [
+    "PCI Express 1.1 규격 지원",
+    "PCI Power Management 1.2 지원",
+    "2x UART 시리얼 포트 지원",
+    "128byte FIFO 기능 지원",
+    "데이터 최대 230,400bps 전송속도",
+    "Oxford Host Controller ChipSet 탑재로 안정성과 호환성 보장",
+    "POS 시장에서 검증된 탁월한 호환성과 안정성",
+    "Windows 11 지원",
+    "KCC 인증 획득 제품 (인증번호: KCC-REM-LUS-LS-PCIE-EX902B)"
+  ],
+  "specifications": {
+    "Bus Type": "PCI Express",
+    "Chipset": "Oxford (OXPCIe952)",
+    "Number of Ports": "RS232 x 2포트",
+    "Transfer Rate": "230,400bps",
+    "OS Compatibility": "Windows 2000 / XP / 2003 / Vista / 7 / 8 / 10 / 11",
+    "제조국": "MADE IN CHINA",
+    "KCC 인증번호": "KCC-REM-LUS-LS-PCIE-EX902B"
+  },
+  "compatibility": [
+    "PCI Express 슬롯 장착 데스크탑",
+    "Windows 2000",
+    "Windows XP",
+    "Windows 2003",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8",
+    "Windows 10",
+    "Windows 11"
+  ],
+  "package_contents": [
+    "PCI Express 2포트 시리얼 카드 본체 1개",
+    "미니가이드 2개",
+    "설치 드라이버 CD 1개",
+    "사용설명서 1개"
+  ],
+  "usage_instructions": "데스크탑 PC의 PCI Express 슬롯에 카드를 삽입 후, 동봉된 드라이버 CD를 이용하여 드라이버를 설치하여 사용.",
+  "cautions": [
+    "구매 시 KCC 인증 여부를 반드시 확인하시기 바랍니다.",
+    "KCC(정보통신부) 인증을 받지 않고 판매 중인 유사품에 주의하시기 바랍니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-EX902B",
+      "품목코드": "USB-PCI101",
+      "품목명": "[LANstar] PCI EXPRESS 시리얼카드 Serial 2Port, MOS칩[30065] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Serial(DB9)"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 0.2304,
+      "chipset": "Oxford (OXPCIe952)"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "2x UART 시리얼 포트 지원",
+    "connectivity.output_signals": "2x UART 시리얼 포트 지원",
+    "connectivity.directional": "데이터 최대 230,400bps 전송속도",
+    "connectivity.port_count": "2x UART 시리얼 포트 지원",
+    "power.power_mode": "PCI Power Management 1.2 지원",
+    "power.charging_support": "null",
+    "certification.kc": "KCC 인증 획득 제품",
+    "audio_video.max_resolution": "null",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.bus_interface": "PCI Express 1.1 규격 지원",
+    "family.speed_mbps": "데이터 최대 230,400bps 전송속도",
+    "family.chipset": "Oxford Host Controller ChipSet 탑재"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:10",
+  "feature_schema_version": "1.0.0"
+}

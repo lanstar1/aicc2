@@ -1,0 +1,231 @@
+{
+  "model_no": "LS-RS20UY",
+  "product_name": "LAN Star USB 시리얼 컨버터 USB2.0 to RS232 Converter",
+  "category": [
+    "USB2.0",
+    "컨버터"
+  ],
+  "key_features": [
+    "USB 포트만 있는 최신 장비와 RS232 포트를 사용하는 구형 장비 간 호환성 유지",
+    "Windows 11 및 Mac OS 지원",
+    "PL2303 칩셋 사용으로 호환성 및 안정성 우수",
+    "Windows 10/11에서 별도 설치 없이 자동 장치 인식",
+    "RS232 최대 전송 거리 약 15미터(50피트)",
+    "국립전파연구원 KC 인증 획득 (인증번호: E-F900-04-1010)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "산업통상자원부 소재·부품·장비 전문기업 확인서 취득 (2022.11.29)"
+  ],
+  "specifications": {
+    "인터페이스": "USB2.0 A(Male) - DB 9PIN (Male)",
+    "USB 지원": "USB2.0 및 하위버전 호환",
+    "케이블 길이": "USB2.0 A/M-A/F 연장 케이블 약 55cm",
+    "크기": "35 x 66 x 16.5 (mm)",
+    "무게": "약 25g",
+    "지원 OS": "Windows XP / 7 / 8 / 10 / 11, Mac OS",
+    "칩셋": "PL2303",
+    "KC 인증번호": "E-F900-04-1010",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "RS232 전송 거리": "최대 약 15미터(50피트)"
+  },
+  "compatibility": [
+    "USB2.0 및 하위버전 USB 포트",
+    "USB3.0 포트",
+    "DB 9핀 RS232 장비",
+    "25핀 RS232 장비 (별도 변환 젠더 LS-GEN-9F25M 사용 시)",
+    "산업용 장비 (공장자동화 장비, CNC 기계 등)",
+    "네트워크 장비 (라우터, 스위치, 모뎀 등)",
+    "POS 시스템 장비 (바코드 스캐너, 영수증 프린터, 결제 단말기 등)",
+    "의료기기 (진단 기기, 모니터링 장비 등)",
+    "과학 및 실험실 분석·측정 장비",
+    "GPS 수신기",
+    "Windows XP / 7 / 8 / 10 / 11",
+    "Mac OS"
+  ],
+  "package_contents": [
+    "USB to RS232 컨버터 (LS-RS20UY) 1개",
+    "USB2.0 A/M - A/F 연장 케이블 (약 55cm) 1개"
+  ],
+  "usage_instructions": "1. USB 단자를 PC에 연결하면 Windows 10/11에서는 별도 드라이버 설치 없이 자동으로 'Prolific USB-to-Serial Comm Port'로 장치가 인식된다. 2. 장치 관리자 > 포트(COM & LPT) 항목에서 생성된 장치를 우클릭 후 '속성'으로 진입한다. 3. '포트 설정' 탭에서 비트/초(기본 9600), 데이터 비트(기본 8), 패리티(기본 없음), 정지 비트(기본 1), 흐름 제어(기본 없음) 등을 작업 데이터값에 맞게 세팅한다. 4. '고급' 설정에서 COM 포트 번호 및 기타 수치를 변경할 수 있다. 5. 드라이버가 자동 설치되지 않을 경우 랜스타 기술자료실에서 장치 드라이버를 다운로드하여 수동 설치한다. 추가 문의는 톡톡으로 문의 가능.",
+  "cautions": [
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처의 제품은 정품이 아니며 A/S를 받을 수 없다.",
+    "정품 제품은 제조사 기준에 따른 A/S 서비스를 제공한다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있다.",
+    "기존 제품과 색상이 다를 수 있으나 색상만 변경된 동일한 제품이다.",
+    "무단 복제 및 콘텐츠 무단 이용 시 불이익을 당할 수 있다.",
+    "당일출고는 오후 4시 이전 결제완료 건에 한하며, 토·일·공휴일 제외 평일 기준이다.",
+    "택배사 사정에 따라 배송기간이 길어질 수 있다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RS20UY",
+      "품목코드": "USB-시리얼060",
+      "품목명": "[LANstar] USB변환컨버터 , USB2.0 to RS232, PL2303RA Blue with Yellow[30138](120개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-RS20UY",
+      "chatUrl": "67OW8",
+      "dateIso": "2024-04-09T09:00:33.147Z",
+      "name": "lllllllhs",
+      "isTechnical": true,
+      "category": "shipping",
+      "modelConfidence": "high",
+      "question": "안녕하세요.\n랜스타 USB2.0 to RS232 컨버터 LS-RS20UY\n이 제품이 윈도우 11이 호환 되는게 맞는지 확인 한번 부탁드리겠습니다. 호환이 안되도 괜찮은데 제품 패키지에는 윈도우 10까지만 호환된다고 써있어서요",
+      "answer": "현재 문의 주신 제품 윈도우 11 호환하시어 사용 가능하십니다.",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 감사합니다~"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 문의 주신 제품 윈도우 11 호환하시어 사용 가능하십니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡..."
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요.\n랜스타 USB2.0 to RS232 컨버터 LS-RS20UY\n이 제품이 윈도우 11이 호환 되는게 맞는지 확인 한번 부탁드리겠습니다. 호환이 안되도 괜찮은데 제품 패키지에는 윈도우 10까지만 호환된다고 써있어서요"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-RS20UY",
+      "chatUrl": "U47w",
+      "dateIso": "2023-08-21T07:00:01.553Z",
+      "name": "레퀴엠",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "ls-rs20uy 윈도우 11에서 기술자료실에 있는 드라이버를 깔아도\n(추가 문의) 해당 드라이버로 설치해도 동일증상 뜹니다...",
+      "answer": "고객님의 문제를 정확히 확인하기 위해, 기술 담당자가 원격 프로그램을 통해 상황을 확인하고자 합니다. 이를 위해서 [TeamViewer – 원격 연결 소프트웨어] 원격 프로그램을 설치해 주시면, 해당 담당자에게 전달하도록 하겠습니다.\n\n우선, USB 포트를 변경하여 연결해보시는 것이 좋을 것 같습니다. 혹시 발생하는 오류 메시지가 어떤 내용인지 자세히 알려주시면, 더 정확한 상담에 도움이 될 것 같습니다.\n\n네, 고객님. 담당자에게 남겨주신 전화번호 전달드렸습니다. 잠시만 기다려 주시면 감사하겠습니다.",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "01022357788로 연락쥬시면 감사하겟습니더"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님. 담당자에게 남겨주신 전화번호 전달드렸습니다. 잠시만 기다려 주시면 감사하겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "팀뷰어 최신버전 있습니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\n고객님의 문제를 정확히 확인하기 위해, 기술 담당자가 원격 프로그램을 통해 상황을 확인하고자 합니다. 이를 위해서 [TeamViewer – 원격 연결 소프트웨어] 원격 프로그램을 설치해 주시면, 해당 담당자에게 전달하도록 하겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "해당 드라이버로 설치해도 동일증상 뜹니다..."
+        },
+        {
+          "role": "agent",
+          "text": "고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다. 고객님, 문의에 대한 답변드"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\n우선, USB 포트를 변경하여 연결해보시는 것이 좋을 것 같습니다. 혹시 발생하는 오류 메시지가 어떤 내용인지 자세히 알려주시면, 더 정확한 상담에 도움이 될 것 같습니다."
+        },
+        {
+          "role": "customer",
+          "text": "ls-rs20uy 윈도우 11에서 기술자료실에 있는 드라이버를 깔아도"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        0.55
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB2.0 A(Male)",
+    "connectivity.output_signals": "DB 9PIN (Male)",
+    "connectivity.directional": "USB 포트만 있는 최신 장비와 RS232 포트를 사용하는 구형 장비 간 호환성 유지",
+    "connectivity.port_count": "USB2.0 A(Male) - DB 9PIN (Male)",
+    "power.power_mode": "USB 단자를 PC에 연결하면",
+    "form_physical.has_case": "35 x 66 x 16.5 (mm)",
+    "form_physical.length_options_meters": "연장 케이블 약 55cm",
+    "certification.kc": "KC 인증 획득",
+    "family.usb_version": "USB2.0 및 하위버전 호환",
+    "family.data_only": "USB 시리얼 컨버터"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:50",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 2,
+    "category_breakdown": {
+      "shipping": 1,
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

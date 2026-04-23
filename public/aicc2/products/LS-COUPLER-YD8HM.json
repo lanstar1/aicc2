@@ -1,0 +1,130 @@
+{
+  "model_no": "LS-COUPLER-YD8HM",
+  "product_name": "고급형 커플러 (Y형) RJ45 8P8C",
+  "category": [
+    "커플러"
+  ],
+  "key_features": [
+    "RJ45 8P8C 규격 Y형(1:2) 커플러",
+    "인터넷(랜) 연결 전용",
+    "Male Port 및 Female Port 구성",
+    "고급형(HM) 등급 제품",
+    "한 번에 한 대씩 번갈아 연결하는 방식으로 사용"
+  ],
+  "specifications": {
+    "커넥터 규격": "RJ45, 8P8C",
+    "포트 구성": "1:2 (Y형)",
+    "포트 타입": "Male Port, Female Port",
+    "치수_가로": "22mm",
+    "치수_세로": "30mm",
+    "치수_높이": "21.6mm",
+    "치수_포트직경": "6.1mm",
+    "치수_본체폭": "11.9mm",
+    "치수_본체길이": "14.8mm",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "CAT.5E UTP 랜케이블",
+    "RJ45 8P8C 규격 장비",
+    "인터넷(랜) 연결 환경"
+  ],
+  "package_contents": [
+    "고급형 커플러 (Y형) 본체 1개"
+  ],
+  "usage_instructions": "인터넷 사용 시 랜케이블로 연결하여 사용. Y형(1:2) 구조로, 한 번에 한 대씩 번갈아가며 PC에 연결하여 사용.",
+  "cautions": [
+    "두 대의 PC에 동시에 연결하여 함께 사용할 수 없음",
+    "한 번에 한 대씩 번갈아가며 연결하여 사용해야 함",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-COUPLER-YD8HM",
+      "품목코드": "NEO-커플러054",
+      "품목명": "[LANstar] 고급형 커플러 , Y형, Cable Type, RJ-45, 8P8C/M TO 8P8C/F*2, 1：2 [40530]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "N/A",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "RJ45 8P8C Male",
+      "connector_type_b": "RJ45 8P8C Female",
+      "gender": "M-F",
+      "pin_count": 8
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 8P8C 규격 Y형(1:2) 커플러",
+    "connectivity.output_signals": "RJ45 8P8C 규격 Y형(1:2) 커플러",
+    "connectivity.port_count": "포트 구성: 1:2 (Y형)",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "고급형 커플러 (Y형) RJ45 8P8C",
+    "audio_video.max_resolution": "인터넷(랜) 연결 전용",
+    "audio_video.hdr_support": "인터넷(랜) 연결 전용",
+    "audio_video.hdcp_version": "인터넷(랜) 연결 전용",
+    "audio_video.audio_pass": "인터넷(랜) 연결 전용",
+    "control_switching.has_remote": "한 번에 한 대씩 번갈아 연결하는 방식",
+    "control_switching.has_hotkey": "한 번에 한 대씩 번갈아 연결하는 방식",
+    "control_switching.has_physical_button": "한 번에 한 대씩 번갈아 연결하는 방식",
+    "control_switching.has_mouse_switching": "한 번에 한 대씩 번갈아 연결하는 방식",
+    "control_switching.has_auto_scan": "한 번에 한 대씩 번갈아 연결하는 방식",
+    "control_switching.has_app_control": "한 번에 한 대씩 번갈아 연결하는 방식",
+    "family.connector_type_a": "Male Port 및 Female Port 구성",
+    "family.connector_type_b": "Male Port 및 Female Port 구성",
+    "family.gender": "Male Port 및 Female Port 구성",
+    "family.pin_count": "RJ45, 8P8C"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:16",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,215 @@
+{
+  "model_no": "LS-EXT20",
+  "product_name": "LANStar USB 2.0 리피터 연장 케이블 (A/M - A/F)",
+  "category": [
+    "USB케이블",
+    "USB2.0",
+    "리피터"
+  ],
+  "key_features": [
+    "USB 신호를 장거리로 전송하는 액티브 리피터 방식 연장 케이블",
+    "USB 2.0 규격 지원, 최대 480Mbps 전송속도",
+    "드라이버 설치 없이 자동 인식",
+    "무전원 방식 (소비 전력이 큰 기기 사용 시 별도 전원 어댑터 필요)",
+    "국립전파연구원 인증 획득 (인증번호: E-F900-005-3334)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 준수, ISO 9001:2008 품질경영시스템 인증",
+    "USB 신호를 장거리로 전송하는 리피터 케이블 (최대 20M까지 연결 가능)",
+    "무전원 방식 (소비 전력이 큰 장치 연결 시 별도 외부 전원 필요)",
+    "RoHS 준수 및 KC 인증 획득 제품",
+    "USB 신호를 장거리로 전송하는 리피터 방식 연장 케이블",
+    "무전원 방식 (소비 전력이 큰 기기 연결 시 외부 전원 어댑터 별도 필요)",
+    "USB 1.0 / 1.1 하위 버전 호환",
+    "MIC(국립전파연구원) 인증 획득 제품 (인증번호 E-F900-005-3334)",
+    "RoHS 규정 준수 (납·수은·카드뮴 등 중금속 미사용)",
+    "ISO 9001:2008 품질경영시스템 적용",
+    "라인업시스템(주) 제조",
+    "USB 2.0 규격 지원, 최대 480Mbps 전송 속도",
+    "드라이버 설치 없이 자동 인식 (Plug & Play)",
+    "5M / 10M / 15M 길이 선택 가능",
+    "무전원 방식 (소비 전력이 큰 기기 연결 시 별도 외부 전원 필요)",
+    "MIC 인증 획득 (인증번호: E-F900-05-3334)",
+    "RoHS 준수, ISO 9001:2008 인증"
+  ],
+  "specifications": {
+    "USB 규격": "USB 2.0 (Hi-Speed)",
+    "최대 전송속도": "480Mbps",
+    "커넥터 타입": "USB 2.0 A/M (Male) - A/F (Female) / USB 2.0 A/M - B/M / USB 2.0 A Male - A Female (A/M - A/F)",
+    "케이블 길이": "5M, 10M, 15M, 20M, 25M, 30M",
+    "인증번호": "E-F900-005-3334",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "하위 버전 호환": "USB 1.1, USB 1.0 / USB 1.0, USB 1.1",
+    "외부 전원 어댑터 사양 (별도 구매)": "5V 1A",
+    "안전 인증": "KC, RoHS COMPLIANT / KC, FCC, CE",
+    "전송 속도": "최대 480Mbps (USB 2.0 HI-SPEED)",
+    "전원 방식": "무전원 (버스 파워)",
+    "KC 인증번호": "KCC-REI-LUS-LS-EXT200",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "품질인증": "ISO 9001:2008",
+    "별도 구매 전원 어댑터 모델명": "LS-AD5V1A-HUB",
+    "전원 어댑터 정격 입력 전압": "100V~240V, 50/60Hz",
+    "전원 어댑터 정격 출력 전압": "5V DC, 1000mA",
+    "전원 어댑터 케이블 길이": "1.4M",
+    "전원 어댑터 규격 외경": "3.5mm",
+    "전원 어댑터 규격 내경": "1.8mm",
+    "전원 어댑터 안전인증번호": "HU10584-15006A",
+    "사용 가능 길이": "5M, 10M, 15M, 20M, 25M, 30M",
+    "외부 전원 어댑터 규격": "5V 1A (별도 구매)",
+    "안전 규격": "KC 인증 (국립전파연구원)",
+    "환경 규격": "RoHS Compliant / RoHS COMPLIANT",
+    "품질 규격": "ISO 9001:2008",
+    "모델 라인업": "LS-EXT200, LS-EXT20-10MAA, LS-EXT20-15MAA, LS-EXT20-20MAA, LS-EXT20-25MAA, LS-EXT20-30MAA",
+    "최대 전송 속도": "480Mbps",
+    "MIC 인증번호": "E-F900-05-3334",
+    "모델명(5M)": "LS-EXT200",
+    "모델명(10M)": "LS-EXT20-10MAA",
+    "모델명(15M)": "LS-EXT20-15MAA",
+    "품질 인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "USB 2.0 규격 기기",
+    "USB 1.1 규격 기기 (하위 호환)",
+    "USB 1.0 규격 기기 (하위 호환)",
+    "디지털 카메라",
+    "프린터",
+    "웹캠",
+    "USB 메모리",
+    "컴퓨터/노트북",
+    "Windows 98",
+    "Windows 2000",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8",
+    "Windows 10",
+    "Mac OS v9.0 이상",
+    "USB 1.0 하위 버전 호환",
+    "USB 1.1 하위 버전 호환",
+    "디지털 카메라, 프린터, 웹캠, USB 메모리 등 USB 장치",
+    "컴퓨터 / 노트북",
+    "USB 1.0 하위 호환",
+    "USB 1.1 하위 호환"
+  ],
+  "package_contents": [
+    "USB 2.0 리피터 연장 케이블 (A/M - A/F) 본체",
+    "전원 어댑터 5V 1A (별도 구매)",
+    "USB 2.0 리피터 케이블 A/M-B/M 10M 본체",
+    "USB 2.0 리피터 연장 케이블 본체 (A/M - A/F)",
+    "전원 어댑터 5V 1A (별도 구매 품목)"
+  ],
+  "usage_instructions": "컴퓨터/노트북의 USB 포트에 케이블의 A/M(Male) 단자를 연결하고, 반대쪽 A/F(Female) 단자에 USB 장치를 연결합니다. 드라이버 설치 없이 자동으로 인식됩니다. 소비 전력이 큰 기기 사용 시에는 별도 전원 어댑터(5V 1A)를 연결하여 외부 전원을 공급하십시오.",
+  "cautions": [
+    "일반 USB 케이블 연결 시 3M 이내 사용을 권장합니다.",
+    "USB 케이블의 최대 전송 거리는 5M 내외이며, 5M 이상 사용 시 리피터를 사용해야 신호 손실 없이 안정적으로 사용 가능합니다.",
+    "데이터 전송이나 전원 사용이 많은 제품은 5M 이상 사용 시 거의 작동하지 않을 수 있습니다.",
+    "본 제품은 무전원 방식으로, 소비 전력이 큰 제품과 연결 시 유전원 허브 또는 외부 전원 어댑터(별도 구매)를 사용하여 전원을 공급해야 합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-EXT20-10MAB",
+      "품목코드": "USB-리피터016",
+      "품목명": "[LANstar] USB리피터 USB2.0 A／M-B／M10M (25개) [30022]",
+      "variant_suffix": "-10MAB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-EXT20-10MAA",
+      "품목코드": "USB-리피터017",
+      "품목명": "[LANstar] USB리피터 USB2.0 A／M-A／F 10M(25개)[30020]",
+      "variant_suffix": "-10MAA",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-EXT20-15MAA",
+      "품목코드": "USB-리피터027",
+      "품목명": "[LANstar] USB리피터 USB2.0 A／M-A／F 15M(25개)[30021]",
+      "variant_suffix": "-15MAA",
+      "source": "excel"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-EXT20-10MAB": "LAN Star\n®\nUSB 신호를 장거리로 전송시켜 주는\nUSB 2.0\n리피터 케이블(AB)\nUSB 2.0 A/M-B/M, 10M\nMac\nWIN\n98\nWIN\n2000\nWIN\nXP\nWIN\nVista\nWIN\n7\nWIN\n8\nWIN\n10\nv9.0~\nUSB 2.0 케이블\nUSB EXTENSION CABLE\nA/M\nB/M\nUSB 리피터 케이블\n(5~20M)\nUSB 케이블\n(3M 이내)\nUSB 장치\n(디카 / 프린터 / 웹캠\n/ USB 메모리등)\n컴퓨터/노트북\n- 기기 연결시 드라이버 설치 없이 자동인식 됩니다.\n- USB 케이블의 경우 최대 전송 거리가 5M 내외 입니다.\n- 데이터 전송이나 전원 사용이 많은 제품은 5M 이상 사용하면 거의 작동하지 않습니다.\n- 10M 이상 사용시 리피터를 사용해야 신호 손실없이 안정적으로 사용이 가능합니다.\n※ 일반 USB 케이블 연결시 3M 이내 사용을 권장합니다.\n※ 본 제품은 무전원 방식으로 소비 전력이 큰 제품과 연결시 유전원 허브들을 사용하여\n외부 전원을 공급해야 합니다. (전원어댑터 별도구매)\nUSB\nUSB 2.0 규격으로 1.1보다 40배 빠른\n480Mbps의 전송속도로 데이터를 전송합니다.\n2.0\n500\nMbps\n480\nMbps\n50\nMbps\n10\nMbps\n1.5\nMbps\n12\nMbps\nUSB 1.0\nUSB 1.1\nUSB 2.0\nHI-SPEED\nUSB 로고\nCERTIFIED\nUSB\nCERTIFIED\nUSB\nCERTIFIED\nUSB\nUSB 버전\nUSB 1.0\n(LOW SPEED)\nUSB 1.1\n(FULL SPEED)\nUSB 1.0\nUSB 2.0\n(HI-SPEED)\n하위버전 호환\nUSB 1.1\n최대전송속도\n1.5Mb/s\n12Mb/s\n480Mb/s\n충전 전압\n100m/A\n100m/A\n100m/A\n출시년도\n1995\n1998\n2001\n외부전원이 필요한 경우!\n소비 전력이 큰 제품과 연결 시 별도의 전원 어댑터로 전원을 공급하시기 바랍니다.\n01903 나의 이해하는 것을\n0-3950\n-USB AE Male\n(PC연결)\n\n\n이디S 1\nO\n-USB AE Male\n(PC연결)\nUSB B타입 Male\n(USB 장치 연결)\n※별도 구매\nLS-AD5V1A-HUB\n전원어댑터 (5V 1A)\nLS-AD5V1A-HUB\n▶ 정격입력전압 : 100V~240V, 50/60Hz\n▶ 정격출력전압 : 5V DC, 1000mA\n▶ 케이블 길이:1.4M\n▶ 아답터 규격 : 외경 : 3.5mm 내경 : 1.8mm\n▶ 안전인증번호: HU10584-15006A\nPRODUCT PACKAGE\nLAN tar\nUSB 2.0\nUSB 2.0 Active\n연장케이블\nUSB 2.0 리피터 케이블 [A/M-8/M]\nA\n20\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nROHS\nK\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를\n인증마크로 사용합니다.\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\nKC\n인증번호 KCC-REI-LUS-LS-EXT200\nLAN Star\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nUSB 2.0 리피터 케이블 (AB)\nLANStar\nⓇ\n모\n델\n명\nLS-EXT20-10MAB\n인증번호\nKCC-REI-LUS-LS-EXT200\n口口\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주)\n구매/배송/반품\n판매처\n하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-EXT20-MAA": "LANStar®\nUSB 신호를 장거리로 전송시켜 주는\nUSB 2.0\n리피터 연장 케이블\nUSB 2.0 A/M-A/F\nUSB2.0\nExtension Cable\n5M 10M 15M\nMIC 인증번호 : E-F900-05-3334\nWIN\n98\nWIN\n2000\nWIN\nXP\nWIN\nVista\nWIN\n7\nWIN\n8\nWIN\n10\nMac\nv9.0~\nUSB 2.0 연장 케이블\nUSB EXTENSION CABLE\nA/M\nA/F\nUSB 케이블\nUSB 리피터 케이블\n(5/10/15M)\nUSB 장치\n(디카/프린터 / 웹캠\n/ USB 메모리등)\n컴퓨터/노트북\n- 기기 연결시 드라이버 설치 없이 자동인식 됩니다.\n- USB 케이블의 경우 최대 전송 거리가 5M 내외 입니다.\n- 데이터 전송이나 전원 사용이 많은 제품은 5M 이상 사용하면 거의 작동하지 않습니다.\n- 5M 이상 사용시 리피터를 사용해야 신호 손실없이 안정적으로 사용이 가능합니다.\n※ 일반 USB 케이블 연결시 3M 이내 사용을 권장합니다.\n※ 본 제품은 무전원 방식으로 소비 전력이 큰 제품과 연결시 유전원 허브들을 사용하여\n외부 전원을 공급해야 합니다. (전원어댑터 별도구매)\nUSB USB 2.0 규격으로 1.1보다 40배 빠른\n480Mbps의 전송속도로 데이터를 전송합니다.\n2.0\n500\nMbps\n480\nMbps\n50\nMbps\n10\nMbps\n1.5\nMbps\n12\nMbps\nUSB 1.0\nUSB 1.1\nUSB 2.0\nHI-SPEED\nUSB 로고\nCERTIFIED\nUSB\nCERTIFIED\nUSB\nCERTIFIED\nUSB\nUSB 버전\nUSB 1.0\n(LOW SPEED)\nUSB 1.1\n(FULL SPEED)\nUSB 2.0\n(HI-SPEED)\n하위버전 호환\nUSB 1.0\nUSB 1.1\n최대전송속도\n1.5Mb/s\n12Mb/s\n480Mb/s\n충전 전압\n100m/A\n100m/A\n100m/A\n출시년도\n1995\n1998\n2001\n외부전원이 필요한 경우!\n소비 전력이 큰 제품과 연결 시 별도의 전원 어댑터로\n전원을 공급하시기 바랍니다.\nUSB2.0\nExtension Cable\n08850\n아니라\nUSB AE Female\n\n\n아이크\nUSB2.0\nExtension Cable\nDesig\nUSB AE Female\nUSB AE Male\n전원어댑터 (5V 1A)\n※별도구매\nPRODUCT PACKAGE\nLANGor\n208\nLAN tar\nUSB 2.0 A\nUSB 2.0 Active\n연장케이블\nUSB2.0\nH\nUSB 2.0 ACTIVE\n연장케이블\nCate 20\n10M/15M\n듦\n5M\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nR\nROHS\nAL CERTIFICATION\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를\n인증마크로 사용합니다.\nLANStar\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nUSB 2.0 리피터 연장 케이블 (M/F)\nLANSt\nStar\nLS-EXT200\n모\n델\n명\nLS-EXT20-10MAA\nLS-EXT20-15MAA\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        5,
+        10,
+        15,
+        20,
+        25,
+        30
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 2.0 A/M (Male) - A/F (Female)",
+    "connectivity.output_signals": "USB 2.0 A/M (Male) - A/F (Female)",
+    "connectivity.directional": "USB 신호를 장거리로 전송하는",
+    "power.power_mode": "무전원 방식 (버스 파워)",
+    "form_physical.length_options_meters": "5M, 10M, 15M, 20M, 25M, 30M",
+    "certification.kc": "KC 인증 획득 제품",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "family.usb_version": "USB 2.0 규격 지원",
+    "family.transfer_speed_gbps": "최대 480Mbps 전송속도",
+    "family.charging_only": "소비 전력이 큰 기기 사용 시 별도 전원 어댑터 필요",
+    "family.data_only": "USB 신호를 장거리로 전송하는"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:10",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,152 @@
+{
+  "model_no": "LS-SATA-MM",
+  "product_name": "LANStar SATA 케이블 (ㄱ자형) SATA(M)/SATA(M)",
+  "category": [
+    "커넥터",
+    "HDD관련"
+  ],
+  "key_features": [
+    "메인보드와 하드디스크를 연결하는 SATA(Serial ATA) 케이블",
+    "ㄱ자형(직각) 커넥터 형태",
+    "기존 PATA(병렬) 40pin 커넥터를 7pin으로 축소한 직렬 연결 인터페이스",
+    "최대 전송속도 1.5Gbps",
+    "PATA(병렬) 방식과 호환되어 SATA와 PATA 함께 사용 가능",
+    "알루미늄 쉴드 적용으로 노이즈 차폐",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 미사용)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "ㄱ자형(꺾임형) 커넥터 적용",
+    "기존 PATA(병렬) 40핀 커넥터를 7핀으로 축소한 직렬 연결 인터페이스",
+    "PATA(병렬) 방식과 호환되어 SATA와 PATA 혼용 사용 가능",
+    "하드디스크, CD-ROM, DVD 등 다양한 저장장치에 사용 가능",
+    "RoHS 유해물질 사용 제한 지침 준수"
+  ],
+  "specifications": {
+    "커넥터 종류": "SATA(M)-SATA(M)",
+    "전송속도": "1.5Gbps",
+    "미국전선규격(AWG)": "26AWG",
+    "전압": "30V",
+    "길이": "0.5M (500mm) / 1M (1000mm)",
+    "작동온도": "0°C ~ 80°C",
+    "커넥터 형태": "ㄱ자형(직각) / ㄱ자형(꺾임형)",
+    "쉴드": "알루미늄",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "내부 구조": "신호선 A(+), 신호선 A(-), 신호선 B(+), 신호선 B(-), 접지극, 쉴드(알루미늄), 외피복"
+  },
+  "compatibility": [
+    "SATA 인터페이스를 지원하는 메인보드",
+    "SATA 하드디스크(HDD)",
+    "SATA CD-ROM",
+    "SATA DVD 드라이브",
+    "PATA(병렬) 방식과 호환 사용 가능",
+    "SATA 규격 메인보드",
+    "SATA 규격 하드디스크(HDD)",
+    "SATA 규격 CD-ROM",
+    "SATA 규격 DVD 드라이브",
+    "PATA(병렬) 방식과 혼용 사용 가능"
+  ],
+  "package_contents": [
+    "SATA 케이블 (ㄱ자형) 1개",
+    "SATA 케이블 (ㄱ자형) 1M 1개"
+  ],
+  "usage_instructions": "메인보드의 SATA 포트와 하드디스크(또는 CD-ROM, DVD 등 SATA 장치)의 SATA 포트에 각각 커넥터를 연결하여 사용. ㄱ자형 커넥터이므로 공간이 협소한 환경에서 케이블 정리에 유리.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "본 제품 및 콘텐츠를 당사(라인업시스템(주)) 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "작동온도 범위(0°C ~ 80°C) 외 환경에서 사용 금지"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SATA-MM-0.5M",
+      "품목코드": "CAB-SAT001",
+      "품목명": "[LANstar] [10827] SATA 케이블 (ㄱ자형), 0.5M",
+      "variant_suffix": "-0.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SATA-MM-1M",
+      "품목코드": "CAB-SAT002",
+      "품목명": "[LANstar] SATA케이블 , M／M, R／A RED, 1M[10550]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-SATA-MM-1M": "LANG\nⓇ\nStar\nSATA 케이블 (ㄱ자형)\nSATA(M)/SATA(M)\nLS-SATA-MM-1M\n397\nSERIAL\n전송속도\n길이\n미국전선규격\nATA\n1.5Gbps\n1M\n26AWG\nSATA 케이블은?\n(Serial ATA)\n● 메인보드와 하드디스크를 연결하는 케이블\n● 기존의 IDE 연결방식이었던 병렬 인터페이스(PATA)와 호환성을 가진 직렬 연결\n인터페이스\nPATA(병렬) 40pin 콘넥터를 7pin으로 줄이고, 전송 속도는 최대 1.5Gbps로 향상\nPATA(병렬)방식과 호환되어 SATA(직렬)와 PATA를 함께 사용 가능\n● 하드디스크, CD-ROM, DVD 등에 사용\n외피복\n쉴드(알루미늄)\n접지극\n신호선 A(+)\nㆍ신호선 B(+)\n신호선 A(-)\n신호선 B(-)\nPRODUCT SIZE\n1000mm\n14mm\n14mm\n7.8mm\n14mm.\n11.4mm 1\n3.4mm\n2.2mm\n6.1mm\n14mm\n5.6mm\n3.4mm\nPRODUCT IMAGE\ng\nVIV\nSATA(M)\nSATA(M)\nATA\nSTYLE\n26AWG E32047\nSerial\n2725\n80˚C\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n\n\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n콘넥터 종류\nSATA(M)-SATA(M)\n전송속도\n1.5Gbps\n미국전선규격\n26AWG\n전\n압\n30V\n길\n이\n1M\n작동온도\n0°C~80°C\n⑪\nC\nROHS\nㅁ\nCompliant\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\nLAN Stor® 라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nSATA 케이블 (ㄱ자형)\nLANStar\nⓇ\n모\n델\n명\nLS-SATA-MM-1M\n제품길이\n1 M\n제조국/원산지\n중국 (China)\nM\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "SATA"
+      ],
+      "output_signals": [
+        "SATA"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "SATA(M)",
+      "connector_type_b": "SATA(M)",
+      "gender": "M-M",
+      "pin_count": 7
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "SATA(M)/SATA(M)",
+    "connectivity.output_signals": "SATA(M)/SATA(M)",
+    "connectivity.directional": "메인보드와 하드디스크를 연결하는 SATA",
+    "form_physical.material": "알루미늄 쉴드 적용",
+    "form_physical.length_options_meters": "길이: 0.5M (500mm) / 1M (1000mm)",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.connector_type_a": "SATA(M)-SATA(M)",
+    "family.connector_type_b": "SATA(M)-SATA(M)",
+    "family.gender": "SATA(M)/SATA(M)",
+    "family.pin_count": "7pin으로 축소한 직렬 연결 인터페이스"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:01",
+  "feature_schema_version": "1.0.0"
+}

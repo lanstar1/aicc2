@@ -1,0 +1,123 @@
+{
+  "model_no": "LS-1600HO",
+  "product_name": "LS-1600HO(33U) 서버랙",
+  "category": [
+    "서버랙",
+    "허브랙"
+  ],
+  "key_features": [
+    "33U 규격 서버랙",
+    "높이 1600mm, 깊이 600mm, 너비 600mm",
+    "무게 15.2Kg",
+    "바퀴 장착 가능 구조 (랙 바퀴 4ea 포함)",
+    "케이지너트 방식 장비 마운트 지원"
+  ],
+  "specifications": {
+    "모델명": "LS-1600HO(33U)",
+    "높이(H)": "1600mm",
+    "깊이(D)": "600mm",
+    "너비(W)": "600mm",
+    "무게": "15.2Kg",
+    "U수": "33U",
+    "상단 여백": "75mm",
+    "하단 여백": "75mm",
+    "내부 유효 높이": "451mm (도면 참고)",
+    "측면 깊이 참고치": "465mm",
+    "하단 프레임 폭": "506mm"
+  },
+  "compatibility": [],
+  "package_contents": [
+    "기둥 프레임 2ea",
+    "하단 프레임 2ea",
+    "프레임 고정 연결부 2ea (상·하단 구분 없음)",
+    "랙 바퀴 4ea",
+    "볼트 60ea",
+    "보호 고무 20ea",
+    "너트 20ea",
+    "케이지너트 20ea"
+  ],
+  "usage_instructions": null,
+  "cautions": [],
+  "variants": [
+    {
+      "model_no": "LS-1600HO",
+      "품목코드": "NEO-허브랙192",
+      "품목명": "[LANstar] 오픈허브랙 2POST , 33unit, 아이보리색상 [30851]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-1600HO",
+      "내용": "만족한 상품입니다.",
+      "관련내용": "만족한 상품입니다."
+    },
+    {
+      "source_model": "LS-1600HO",
+      "내용": "만족한 상품입니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "rack_unit": 33,
+      "mount_type": "standing",
+      "depth_mm": 600,
+      "width_mm": 600,
+      "height_mm": 1600,
+      "has_door": null,
+      "has_lock": null,
+      "has_fan": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "서버랙",
+    "family.rack_unit": "33U 규격 서버랙",
+    "family.mount_type": "바퀴 장착 가능 구조",
+    "family.depth_mm": "깊이 600mm",
+    "family.width_mm": "너비 600mm",
+    "family.height_mm": "높이 1600mm"
+  },
+  "feature_extracted_at": "2026-04-23T03:03:54",
+  "feature_schema_version": "1.0.0"
+}

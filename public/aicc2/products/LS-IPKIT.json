@@ -1,0 +1,158 @@
+{
+  "model_no": "LS-IPKIT",
+  "product_name": "DOCK+USB+COMPOSITE iPod&iPhone&iPad CABLE SET (IP젠더 + USB + 3RCA/컴포지트 케이블 세트 for iPod & iPhone & iPad)",
+  "category": [
+    "USB케이블",
+    "USB2.0",
+    "젠더",
+    "RCA케이블",
+    "AV케이블"
+  ],
+  "key_features": [
+    "Apple 공식 MFi 인증 제품 (Made for iPod/iPhone/iPad)",
+    "무손실 음원 감상 지원",
+    "Full HD 화질 출력 지원",
+    "USB 2.0 고속 데이터 전송 지원",
+    "30핀 젠더를 통한 TV/홈씨어터 컴포지트 영상·음성 출력",
+    "USB 전원 아답터 및 차량용 시가잭을 통한 충전 지원",
+    "PC 연결 시 데이터 전송 가능",
+    "RoHS 인증 제품 (유해물질 사용 제한 규격 준수)",
+    "생산물 책임 보험 가입",
+    "랜스타 애플 인증 제품 무상 A/S 1년"
+  ],
+  "specifications": {
+    "제품 ID": "102355-0069",
+    "케이블 길이": "1.5M",
+    "커넥터 구성": "30핀 젠더, USB, 컴포지트(3RCA)",
+    "컴포지트 단자 색상": "빨강, 흰색, 노랑",
+    "3.5 스테레오": "4극",
+    "USB 규격": "USB 2.0, USB 미니 5핀",
+    "인증": "Apple MFi (Works with iPhone/iPod), RoHS Compliant",
+    "브랜드": "LAN Star (랜스타)",
+    "제조사": "라인업시스템㈜",
+    "설립연도": "1993년",
+    "원산지": "국산 브랜드"
+  },
+  "compatibility": [
+    "iPod 5세대 (Video)",
+    "iPod Mini",
+    "iPod nano 1세대",
+    "iPod nano 2세대 (aluminum)",
+    "iPod nano 3세대 (Video)",
+    "iPod nano 4세대 (Video)",
+    "iPod nano 5세대 (Video camera)",
+    "iPod nano 6세대",
+    "iPod Touch 1세대",
+    "iPod Touch 2세대",
+    "iPod Touch 3세대",
+    "iPod Touch 4세대",
+    "iPod Classic 80GB",
+    "iPod Classic 120GB",
+    "iPod Classic 160GB (2007)",
+    "iPod Classic 160GB (2009)",
+    "iPhone 3G",
+    "iPhone 3GS",
+    "iPhone 4",
+    "iPad",
+    "iPad 2"
+  ],
+  "package_contents": [
+    "30핀 젠더 (IP젠더)",
+    "USB 케이블",
+    "컴포지트(3RCA) 케이블 (빨강, 흰색, 노랑)"
+  ],
+  "usage_instructions": "30핀 젠더를 iPod/iPhone/iPad에 연결한 후, 컴포지트 케이블(노랑: 영상, 빨강·흰색: 음성)을 TV 또는 홈씨어터의 해당 단자에 연결하면 Full HD 화질과 무손실 음원을 감상할 수 있습니다. USB 케이블을 PC에 연결하면 데이터 전송이 가능하며, USB 전원 아답터 또는 차량용 시가잭과 연결하면 충전도 가능합니다.",
+  "cautions": [
+    "구매 전 호환 리스트를 확인하여 호환 가능한 모델인지 반드시 확인 후 구매하세요.",
+    "본 제품은 iPod 및 iPhone 전용 데이터/충전 케이블입니다.",
+    "본 컨텐츠를 저작권 허락 없이 무단 복사, 도용, 변형, 배포, 기타 타용도로 전환 시 형사상의 책임을 부담할 수 있습니다.",
+    "Apple은 본 기기의 작동 또는 안전 및 규제 기준 준수에 대한 책임을 지지 않습니다."
+  ],
+  "warranty_and_as": {
+    "무상 A/S 기간": "구매일로부터 1년",
+    "초기 불량": "고객센터 또는 판매점에서 1:1 교체 가능",
+    "A/S 방법": "고객센터 방문 또는 택배(옐로우캡택배) 이용 가능",
+    "A/S 처리": "고객센터 접수 시 새 제품으로 선발송 처리 후 이상 제품 회수",
+    "생산물 책임 보험": "가입 완료"
+  },
+  "variants": [
+    {
+      "model_no": "LS-IPKIT-1.5M",
+      "품목코드": "CAB-APP014",
+      "품목명": "[LANstar]애플통합케이블 USB AV Composite cable 1.5M",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "USB-Mini",
+        "RCA"
+      ],
+      "output_signals": [
+        "RCA"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 1.5,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 전원 아답터 및 차량용 시가잭을 통한 충전 지원",
+    "connectivity.output_signals": "TV/홈씨어터 컴포지트 영상·음성 출력",
+    "connectivity.directional": "PC 연결 시 데이터 전송 가능",
+    "power.power_mode": "USB 전원 아답터 및 차량용 시가잭을 통한 충전 지원",
+    "power.charging_support": "충전 지원",
+    "form_physical.length_meters": "케이블 길이: 1.5M",
+    "certification.rohs": "RoHS 인증 제품",
+    "audio_video.max_resolution": "Full HD 화질 출력 지원",
+    "audio_video.audio_pass": "무손실 음원 감상 지원",
+    "family.usb_version": "USB 2.0 고속 데이터 전송 지원",
+    "family.transfer_speed_gbps": "USB 2.0 고속 데이터 전송 지원",
+    "family.charging_only": "PC 연결 시 데이터 전송 가능",
+    "family.data_only": "USB 전원 아답터 및 차량용 시가잭을 통한 충전 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:51",
+  "feature_schema_version": "1.0.0"
+}

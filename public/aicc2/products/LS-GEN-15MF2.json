@@ -1,0 +1,121 @@
+{
+  "model_no": "LS-GEN-15MF2",
+  "product_name": "D-SUB 15PIN M/F 2열 연장 젠더",
+  "category": [
+    "젠더"
+  ],
+  "key_features": [
+    "D-SUB 15PIN 수(Male) - 암(Female) 구성의 2열 연장 젠더",
+    "MINI GENDER CHANGER 형태",
+    "낱개 판매 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 구성": "D-SUB 15PIN Male / D-SUB 15PIN Female",
+    "핀 배열": "2열",
+    "가로(길이)": "38.5mm",
+    "세로(폭)": "25.5mm",
+    "높이(두께)": "5.5mm",
+    "커넥터 폭": "12.5mm",
+    "커넥터 길이": "34mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음",
+    "모델명": "LS-GEN-15MF2"
+  },
+  "compatibility": [
+    "D-SUB 15PIN 2열 포트를 사용하는 기기",
+    "RGB(VGA) 3열 15핀 포트와는 호환 불가"
+  ],
+  "package_contents": [
+    "D-SUB 15PIN M/F 2열 연장 젠더 본체 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "본 제품은 15PIN 2열 형태의 젠더로, 일반적인 15PIN 3열(모니터 케이블, RGB/VGA 포트)과는 다른 형태이므로 구매 전 확인 필요",
+    "일반적인 15핀 배열인 RGB(VGA) 배열과는 사용 불가",
+    "낱개 판매 제품이므로 구매 시 원하는 수량을 직접 선택하여 구매",
+    "제조사 사정에 따라 제품의 색상, 형태 등 사양은 예고 없이 변경될 수 있음",
+    "위 이미지는 수입 시 입고되는 제품의 상태이므로 구매 시 참고"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GEN-15MF2",
+      "품목코드": "GEN-모니터021",
+      "품목명": "[LANstar] D-SUB 15핀 M/F 2열 젠더 [30661]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-GEN-15MF2",
+      "내용": "잘도착했어요. 배송빠릅니다. 제품이상무"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Serial(DB9)"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "D-SUB 15PIN Male",
+      "connector_type_b": "D-SUB 15PIN Female",
+      "gender": "M-F",
+      "pin_count": 15
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "D-SUB 15PIN",
+    "connectivity.output_signals": "D-SUB 15PIN",
+    "connectivity.directional": "연장 젠더",
+    "form_physical.has_case": "MINI GENDER CHANGER 형태",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "family.connector_type_a": "D-SUB 15PIN Male",
+    "family.connector_type_b": "D-SUB 15PIN Female",
+    "family.gender": "수(Male) - 암(Female) 구성",
+    "family.pin_count": "D-SUB 15PIN"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:06",
+  "feature_schema_version": "1.0.0"
+}

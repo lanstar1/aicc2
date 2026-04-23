@@ -1,0 +1,294 @@
+{
+  "model_no": "LS-USB12",
+  "product_name": "USB 2.0 1:2 수동선택기 (USB 2.0 Auto Sharing Switch)",
+  "category": [
+    "USB선택기",
+    "USB2.0"
+  ],
+  "key_features": [
+    "별도의 드라이버 설치 및 외부 전원 없이 USB 연결만으로 즉시 사용 가능 (BUS Power)",
+    "2대의 PC에서 1개의 USB 장치를 공유 가능",
+    "직접 선택(버튼), 핫키(CTRL+F11), 유틸리티 프로그램 3가지 전환 방법 지원",
+    "프린터, 스캐너, 디지털 카메라, 외장하드 등 다양한 USB 장치 연결 가능",
+    "Windows 11 지원",
+    "KC, FCC, CE 안전규격 인증 획득",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "RoHS 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)"
+  ],
+  "specifications": {
+    "모델명": "LS-USB12",
+    "PC 포트": "2 (USB Type B)",
+    "USB 기기 포트": "1 (USB Type A)",
+    "USB 기기 선택 방법": "유틸 프로그램 (마우스), 선택 버튼, 핫키 (CTRL+F11)",
+    "USB 전원 모드": "BUS Power",
+    "지원 OS": "Windows XP / Vista / 7 / 8 / 10 / 11",
+    "제품 크기": "6.2cm x 4.3cm x 1.9cm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "LUS-LS-USB23",
+    "품명": "USB 2.0 1:2 수동선택기"
+  },
+  "compatibility": [
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8",
+    "Windows 10",
+    "Windows 11",
+    "프린터",
+    "스캐너",
+    "디지털 카메라",
+    "외장하드",
+    "USB 2.0 지원 기기"
+  ],
+  "package_contents": [
+    "LS-USB12 본체 (1:2 선택기)",
+    "프로그램 설치 CD"
+  ],
+  "usage_instructions": "1. PC 2대와 USB 장치를 USB 케이블(A/M-B/M, 별도 구매)로 본체에 연결한다. 2. 전원 및 드라이버 설치 불필요, 연결 즉시 사용 가능. 3. PC 전환 방법: ① 본체의 선택 버튼(①/②)을 직접 누르거나, ② 키보드 핫키 CTRL+F11을 눌러 전환(아이콘이 노란색→초록색으로 변경), ③ 동봉된 CD로 유틸리티 프로그램 설치 후 트레이 아이콘의 Switch 버튼으로 전환. 4. USB 케이블은 일반 케이블 최대 5m까지 안정 사용 가능, 5m 초과 시 리피터 케이블(상품번호 30022) 사용 권장.",
+  "cautions": [
+    "USB 케이블(A/M-B/M)은 제품에 포함되지 않으며 별도 구매 필요",
+    "일반 USB 케이블 사용 시 최대 5m까지만 안정적 사용 가능",
+    "5m 초과 시 리피터 케이블 사용 필요 (랜마트 홈페이지 상품번호 30022 검색 권장)",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)의 상품 및 콘텐츠를 무단 복제·이용 시 불이익이 발생할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB12",
+      "품목코드": "USB-선택기029",
+      "품목명": "[LANstar] USB2.0 수동선택기 USB A/1：USB B/2 [20139] (140개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-USB12",
+      "내용": "사무실에서 사용하려고 구매했습니다"
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "잘 받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "가성비 최고의 상품입니다."
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "사용설명서가 중국어인것 제외하면 만족합니다ㅎ"
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "공유프린터설정보단 단순히 사용하기에는 좋습니다"
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "사무실에서 노트북과 데스크탑 에 쓰는데 작동잘되고 좋네요."
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "좋은제품입니다.좋은제품입니다."
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "배송이 빨라요 잘 쓸께요"
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "작동 잘됩니다. 많이 파세요"
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "작동 잘 됩니다 설치 간편하고 ㅡ테인리스 외관이라 튼튼해 보입니다. 디지인도 괜찮네요"
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "배송도 빠르고 작동도 잘되요"
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "캄터 두대에 키보드 하나로 스위칭하며 사용하는데 넘 편리합니다"
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "매번사용하지만  강추합니다"
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "잘 됩니다~~~ wifi 모호하면 컴퓨터 2대에 프린터 1대 쓰기에 최선이네요."
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "2개째 구입합니다.\n아주 간단 합니다. 사용편리성 좋습니다."
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "2ㅐ 구입입니다\n사용하기 편해요"
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "강력 추천합니다!!\n설계 프로그램이 네트워크 라이센스가 아니라 하드락 USB 타입이라 USB를 꼽아야지만 동작을 합니다.\n2개 자리에서 번갈아 사용이 필요하여 구매를 하였는데 잘 동작합니다.. USB를 뺏다 꼽아다 번거롭게 작업을 했었는데.. 이 장비 덕분에 아주 편하게 사용할 수 있게 되었습니다.\n참고로 사진상에 보이는 버튼으로 전환이 가능하고 또한 전용 프로그램이 있어 프로그램으로도 스위칭 전환이 가능하도록 되어있습니다.\n저렴한 가격에 성능은 최고입니다. 추천!"
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "잘사용하고있습니다\n가성비도 좋았어요"
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "물건 잘 받았습니다."
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "노트북 두대 키보드 한대 사용하려고 샀습니다. 잘됩니다 . 좋네요."
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "2대 컴퓨터 1대 프린터 연결 \n잘 되네요\n잘 사용하겠습니다"
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "배송이 빠르고 포장이 훌룡합니다"
+    },
+    {
+      "source_model": "LS-USB12",
+      "내용": "셀렉터 잘 동작 합니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-USB12",
+      "id": 514590914,
+      "date": "2023-02-02 17:10",
+      "answerDate": "2023-02-02 17:59",
+      "user": "tyu1***",
+      "productName": "랜스타 LS-USB12 USB2.0 자동선택기 A /1 B /2 프린터 스캐너 연결 지원",
+      "question": "제품 구매했는데 프로그램 설치하는 CD를 이용할",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\nhttps://www.lanmart.co.kr/shop/board/view.php?id=lanstardownload&search[subject]=on&search[word]=usb12&subSpeech=%B5%E5%B6%F3%C0%CC%B9%F6&no=147\n\n해당 링크 참고하여 다운로드 및 설치 부탁드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-USB12",
+      "id": 555043637,
+      "date": "2023-11-15 17:19",
+      "answerDate": "2023-11-16 10:42",
+      "user": "vn****",
+      "productName": "랜스타 LS-USB12 USB2.0 자동선택기 A /1 B /2 프린터 스캐너 연결 지원",
+      "question": "랜스타 LS-USB2.0 자동선택기 A/1 B/2 프린터\n\n설치프로그램이 CD로 되어있는데 컴퓨터에 CD-ROM이 없습니다.\n혹시 소프트웨어를 다운 받거나 할 수는 없는지 문의드립니다.",
+      "answer": "안녕하세요, 고객님. 랜스타입니다.\n\n아래 링크에서 첨부 파일을 클릭하여 드라이버를 다운 받으시면 됩니다.\nhttps://www.lanmart.co.kr/shop/board/view.php?id=lanstardownload&search[subject]=on&search[word]=usb12&subSpeech=%B5%E5%B6%F3%C0%CC%B9%F6&no=147\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-USB12",
+      "id": 650251303,
+      "date": "2025-11-09 14:20",
+      "answerDate": "2025-11-10 10:33",
+      "user": "milk*****",
+      "productName": "랜스타 LS-USB12 USB2.0 수동선택기 A /1 B /2 프린터 스캐너 연결 지원",
+      "question": "안녕하세요 인풋이\n4포트짜리는\n없나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n4포트를 지원하는 제품은 현재 단종 모델입니다. 판매하지 않는 상품입니다. 죄송합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다"
+    },
+    {
+      "source_model": "LS-USB12",
+      "id": 650615165,
+      "date": "2025-11-11 14:11",
+      "answerDate": "2025-11-11 17:41",
+      "user": "biom*****",
+      "productName": "랜스타 LS-USB12 USB2.0 수동선택기 A /1 B /2 프린터 스캐너 연결 지원",
+      "question": "11/10 주문건  주문자오영균\n\n10M 프린터 연결선 불량입니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n네이버 톡톡으로 문의 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-USB12",
+      "chatUrl": "2bx9vn",
+      "dateIso": "2023-10-16T02:30:30.567Z",
+      "name": "Nsourcing",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "맥북도 지원가능한가요 ? 단축키 설정기능이 있을까요?",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-B"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": true,
+      "has_physical_button": true,
+      "has_mouse_switching": true,
+      "has_auto_scan": false,
+      "has_app_control": true
+    },
+    "family": {
+      "selector_type": "수동",
+      "input_count": 2,
+      "output_count": 1,
+      "interfaces": [
+        "USB 2.0"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "PC 포트: 2 (USB Type B)",
+    "connectivity.output_signals": "USB 기기 포트: 1 (USB Type A)",
+    "connectivity.directional": "2대의 PC에서 1개의 USB 장치를 공유 가능",
+    "connectivity.port_count": "PC 포트: 2 (USB Type B), USB 기기 포트: 1 (USB Type A)",
+    "power.power_mode": "USB 연결만으로 즉시 사용 가능 (BUS Power)",
+    "power.charging_support": "USB 전원 모드: BUS Power",
+    "form_physical.has_case": "제품 크기: 6.2cm x 4.3cm x 1.9cm",
+    "certification.kc": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.rohs": "RoHS 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.ce": "KC, FCC, CE 안전규격 인증 획득",
+    "control_switching.has_hotkey": "핫키(CTRL+F11)",
+    "control_switching.has_physical_button": "직접 선택(버튼)",
+    "control_switching.has_mouse_switching": "유틸 프로그램 (마우스)",
+    "control_switching.has_app_control": "유틸리티 프로그램 3가지 전환 방법 지원",
+    "family.selector_type": "USB 2.0 1:2 수동선택기",
+    "family.input_count": "2대의 PC에서 1개의 USB 장치를 공유 가능",
+    "family.output_count": "2대의 PC에서 1개의 USB 장치를 공유 가능",
+    "family.interfaces": "USB 2.0 1:2 수동선택기 (USB 2.0 Auto Sharing Switch)"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:29",
+  "feature_schema_version": "1.0.0"
+}

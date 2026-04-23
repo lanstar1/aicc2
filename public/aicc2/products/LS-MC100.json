@@ -1,0 +1,117 @@
+{
+  "model_no": "LS-MC100",
+  "product_name": "선 정리 매직 케이블 100M (LS-MC100B / LS-MC100W)",
+  "category": [
+    "케이블정리"
+  ],
+  "key_features": [
+    "100M 연속 롤 타입으로 현장·시공용에 최적",
+    "스파이럴 구조로 방향에 관계없이 자유롭게 감아 사용 가능",
+    "가위나 칼로 원하는 길이만큼 손쉽게 절단 가능",
+    "25mm 내경으로 굵은 케이블 다발(약 20~22mm 직경)도 여유롭게 정리",
+    "폴리에틸렌(PE) 소재: 내열(-30℃~+85~90℃), 내마모성, 절연성, 방습성 우수",
+    "유연한 구조로 곡면·구부러진 배선도 손쉽게 감쌀 수 있음",
+    "해체 후 재사용 가능, 물 세척 후 자연 건조하여 재사용",
+    "산업용·시공용·대규모 배선 작업에 최적화된 전문가용 제품"
+  ],
+  "specifications": {
+    "직경(내경)": "25mm",
+    "길이": "100M",
+    "포장 크기": "47 x 47 x 38 cm",
+    "무게": "약 7.1kg",
+    "색상": "BLACK, WHITE",
+    "재질": "폴리에틸렌(PE)",
+    "내열 범위": "약 -30℃ ~ +85~90℃",
+    "모델명(Black)": "LS-MC100B",
+    "모델명(White)": "LS-MC100W",
+    "제조국/원산지": "중국(China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "전원선",
+    "HDMI 케이블",
+    "USB 케이블",
+    "랜선(LAN)",
+    "멀티탭 배선",
+    "통신 케이블",
+    "차량 내부 전장 배선(고온 부위 제외)",
+    "제어반·분전반 내부 하네스",
+    "산업용 설비 및 생산라인 배선",
+    "서버랙·네트워크 장비 주변 배선",
+    "약 20~22mm 직경의 케이블 다발"
+  ],
+  "package_contents": [
+    "매직 케이블 100M - Black (LS-MC100B)",
+    "매직 케이블 100M - White (LS-MC100W)",
+    "집게형 가이드 5개 - Black",
+    "집게형 가이드 5개 - White"
+  ],
+  "usage_instructions": "1. 집게형 가이드를 화살표 방향으로 삽입한다. 2. 정리할 케이블을 모아 집게형 가이드에 삽입한다. 3. 매직 케이블에 삽입한 집게형 가이드를 원하는 길이만큼 화살표 방향대로 진행한다. 4. 원하는 길이에서 가위나 칼로 절단하여 작업을 완료한다.",
+  "cautions": [
+    "자동차 엔진룸 등 100℃ 이상 고온 환경에서는 변형·연화될 수 있으므로 사용 비권장",
+    "지속적인 반복 마찰, 고속 기계 접촉부 등 극한 환경에는 PET(폴리에스터) 또는 PA(나일론) 소재가 더 적합함",
+    "정품 인증 배너가 등록되어 있지 않은 판매처의 제품은 A/S를 받을 수 없음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "당일출고는 오후 4시 이전 결제완료 건 기준이며, 토·일·공휴일 제외 평일에 한함",
+    "재사용 시 세척이 필요한 경우 물로 가볍게 세척 후 자연 건조하여 사용",
+    "무단 복제 및 콘텐츠 이용 시 불이익이 발생할 수 있음"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PE"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        100
+      ],
+      "color_options": [
+        "BLACK",
+        "WHITE"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.material": "폴리에틸렌(PE) 소재",
+    "form_physical.length_options_meters": "100M 연속 롤 타입",
+    "form_physical.color_options": "색상: BLACK, WHITE"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:25",
+  "feature_schema_version": "1.0.0"
+}

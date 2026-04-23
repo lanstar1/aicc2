@@ -1,0 +1,259 @@
+{
+  "model_no": "LS-TBNVME",
+  "product_name": "랜스타 썬더볼트 M.2 NVMe SSD 외장 케이스",
+  "category": [
+    "USB-C",
+    "네트워크공구",
+    "HDD관련",
+    "방열판",
+    "LAN공구"
+  ],
+  "key_features": [
+    "USB 4 및 썬더볼트 4 지원 (하위 버전 호환: USB 3.2 / 3.1 / 3.0 / 2.0, 썬더볼트 3)",
+    "최대 전송 속도 40Gbps",
+    "알루미늄 소재 방열판 구조로 효과적인 열 배출",
+    "Tool-Free(별도 공구 없이) 간편 결합 방식",
+    "자석 방식 뚜껑 결합",
+    "실리콘 써멀패드 포함으로 열전도 효율 향상",
+    "LED 연결 상태 표시등 내장",
+    "Intel JHL7440 칩셋 탑재",
+    "UASP 지원",
+    "TRIM 지원",
+    "KC 인증 획득 (인증번호: R-R-LUS-LS-TBNVME)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득)"
+  ],
+  "specifications": {
+    "입력 인터페이스": "USB 4, Thunderbolt 4",
+    "전송 속도": "최대 40Gbps (USB 및 썬더볼트 하위버전 호환)",
+    "지원 SSD 규격": "M.2 NVMe M Key / B+M Key, 2280 크기 전용",
+    "UASP": "지원",
+    "TRIM": "지원",
+    "지원 OS": "Windows, Mac OS, Linux, Android, iPad OS",
+    "크기": "100 x 60 x 14 (mm)",
+    "무게": "약 124g",
+    "재질": "알루미늄",
+    "칩셋": "Intel JHL7440",
+    "포함 케이블": "썬더볼트 4 케이블 (길이 약 50cm)",
+    "KC 인증번호": "R-R-LUS-LS-TBNVME",
+    "제조국": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "USB 4 (40Gbps)",
+    "Thunderbolt 4 (40Gbps)",
+    "Thunderbolt 3",
+    "USB 3.2",
+    "USB 3.1",
+    "USB 3.0 (5Gbps)",
+    "USB 2.0",
+    "M.2 NVMe M Key SSD (2280)",
+    "M.2 NVMe B+M Key SSD (2280)",
+    "Windows",
+    "Mac OS",
+    "Linux",
+    "Android",
+    "iPad OS",
+    "호환 SSD - Kingston 500G (USB4: 읽기 2735MB/s, 쓰기 2497MB/s)",
+    "호환 SSD - Crucial P5 M.2 2280 1000GB (읽기 2497MB/s, 쓰기 2103MB/s)",
+    "호환 SSD - WD BLACK SN850 2TB (USB3.1)",
+    "호환 SSD - Samsung 980 PRO 250GB (USB3.1: 읽기 925MB/s, 쓰기 931MB/s)",
+    "호환 SSD - SABRENT 8TB (읽기 927MB/s, 쓰기 935MB/s)",
+    "호환 SSD - KIOXIA EXCERIA PLUS G2 500GB (USB3.0: 읽기 417MB/s, 쓰기 429MB/s)",
+    "호환 SSD - WD BLACK SN750 250GB (USB3.0: 읽기 425MB/s, 쓰기 433MB/s)",
+    "호환 SSD - Samsung 970 EVO Plus 1TB (USB2.0)",
+    "호환 SSD - WD BLACK SN750 500GB (USB2.0: 읽기 38MB/s, 쓰기 39MB/s)",
+    "호환 SSD - WD Green SN350 240GB (USB2.0: 읽기 35MB/s, 쓰기 36MB/s)"
+  ],
+  "package_contents": [
+    "M.2 NVMe SSD 외장 케이스 본체 1개",
+    "썬더볼트 4 케이블 (길이 약 50cm) 1개",
+    "써멀패드 2개",
+    "SSD 고정 지지대 2개"
+  ],
+  "usage_instructions": "1) 제품 뚜껑을 자석 방식으로 분리(화살표 방향으로 힘을 주어 분리)한다. 2) M.2 NVMe SSD를 슬롯에 결합한다. 3) SSD 고정 지지대를 결합한다. 4) 써멀패드를 부착한다. 5) 뚜껑을 닫아 결합을 완료한다(별도 공구 불필요). 6) 최초 연결 시 디스크 초기화 및 포맷 필요: Windows의 경우 '컴퓨터 관리 → 디스크 관리'에서 할당되지 않은 디스크를 우클릭 후 '새 단순 볼륨' 마법사를 순차적으로 진행하여 볼륨을 생성한다.",
+  "cautions": [
+    "M.2 NVMe B Key 타입 SSD는 사용할 수 없습니다.",
+    "2280 규격 전용 제품으로, 다른 크기의 M.2 SSD는 사용할 수 없습니다.",
+    "SSD 방열판 두께가 5mm 이상인 경우 뚜껑이 결합되지 않습니다. 방열판을 꼭 사용하려면 뚜껑을 열고 사용하거나 제공된 써멀패드만 사용하세요.",
+    "M1 맥의 경우 외부 저장장치 쓰기 속도 제한 이슈가 있어 정상 속도가 지원되지 않을 수 있습니다. M2 또는 Windows 환경 사용을 권장합니다.",
+    "특정 SSD는 특정 OS에서 호환 불가 또는 속도 감소(1000MB/s 이하) 현상이 발생할 수 있습니다. 구매 전 호환 SSD 리스트를 확인하세요.",
+    "SSD 최초 연결 시 반드시 디스크 초기화 및 포맷을 진행해야 사용 가능합니다.",
+    "맥과 윈도우의 포맷 형식이 다르므로, 사용하는 OS에 맞는 형식으로 포맷 후 연결하세요.",
+    "읽기/쓰기 속도는 호스트 구성 및 SSD 성능에 따라 다를 수 있습니다.",
+    "발열이 심해도 읽기/쓰기 속도가 정상이라면 SSD 열이 외부로 방출되는 정상 현상입니다.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니며 A/S를 받을 수 없습니다.",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준입니다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-TBNVME",
+      "품목코드": "COM-외장형681",
+      "품목명": "[LANstar] 썬더볼트 M.2 NVME SSD 40Gbps 외장 케이스 [30782](30개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-TBNVME",
+      "내용": "먼저 타사 제품을 약 6만원에 구매했었음. 쿨링 팬이 달린 제품으로 동일한 스펙의 제품이었음. 문제는 해당 제품은 소음과 발열로 유명한 제품이었음. 이 제품을 보고, 해당 제품은 취소하고 사용하고 있는데, 약간의 발열이 느껴지기는 하지만, 확실히 온도가 제어되고 있다는 느낌을 받음. 특히 전송 속도는 소개한 그대로 매우 양호한 수준으로 나옴. 매우 만족함"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-TBNVME",
+      "id": 607539413,
+      "date": "2024-11-30 15:54",
+      "answerDate": "2024-12-02 09:33",
+      "user": "bs****",
+      "productName": "썬더볼트 4 nvme m.2 ssd 외장하드 케이스 usb4 40Gbps 지원 (LS-TBNVME)",
+      "question": "아카시스 제품이랑 똑같은데 같은제품인가여?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n문의주신 제품은 자사 제품이 아니기에 정확한 답변은 어렵지만 규격은 같아 보입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-TBNVME",
+      "id": 627150715,
+      "date": "2025-05-06 17:25",
+      "answerDate": "2025-05-07 09:07",
+      "user": "sh****",
+      "productName": "썬더볼트 4 nvme m.2 ssd 외장하드 케이스 usb4 40Gbps 지원 (LS-TBNVME)",
+      "question": "혹시 고정 지지대만 따로 팔지 않는지 궁금합니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 지지대만 판매하고 있지 않은 점 참고 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-TBNVME",
+      "id": 627304339,
+      "date": "2025-05-07 14:16",
+      "answerDate": "2025-05-07 14:47",
+      "user": "sh****",
+      "productName": "썬더볼트 4 nvme m.2 ssd 외장하드 케이스 usb4 40Gbps 지원 (LS-TBNVME)",
+      "question": "답변 감사합니다. 실례지만 고정 지지대(고무 나사)를 어디서 구할 수 있는 방법은 없을까요? 다른 나사들을 다 써봤는데, 랜스타 외장케이스에는 저 고무나사만 호환이 되는 것 같더라고요.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n방법이 없어 안내가 어렵습니다.\n도움을 드리지 못해 죄송합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-TBNVME",
+      "chatUrl": "5h9yA",
+      "dateIso": "2025-02-04T04:59:53.687Z",
+      "name": "댑강",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "네 감사합니다!",
+      "answer": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+    },
+    {
+      "source_model": "LS-TBNVME",
+      "chatUrl": "5h9yA",
+      "dateIso": "2025-02-04T04:59:53.687Z",
+      "name": "댑강",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "그렇다면 제품의 용도를 외장 ssd교체시 마이그레이션용으로만 쓰려고 하는건데 그러면 그 용도로 쓰는데는 문제가 없다는 말씀이신거죠?",
+      "answer": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+    },
+    {
+      "source_model": "LS-TBNVME",
+      "chatUrl": "5h9yA",
+      "dateIso": "2025-02-04T04:59:53.687Z",
+      "name": "댑강",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "혹시 pcle 5.0 도 지원가능한가요?",
+      "answer": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C",
+        "Thunderbolt"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB4",
+      "transfer_speed_gbps": 40,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 4 및 썬더볼트 4 지원",
+    "connectivity.output_signals": "N/A",
+    "connectivity.directional": "N/A",
+    "power.power_mode": "N/A",
+    "power.charging_support": "N/A",
+    "power.pd_watts": "N/A",
+    "form_physical.has_case": "M.2 NVMe SSD 외장 케이스",
+    "form_physical.material": "알루미늄 소재 방열판 구조",
+    "form_physical.length_meters": "N/A",
+    "form_physical.length_options_meters": "N/A",
+    "form_physical.color_options": "N/A",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "N/A",
+    "certification.iso9001": "N/A",
+    "certification.fcc": "N/A",
+    "certification.ce": "N/A",
+    "certification.netflix": "N/A",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.usb_version": "USB 4 및 썬더볼트 4 지원",
+    "family.transfer_speed_gbps": "최대 전송 속도 40Gbps",
+    "family.charging_only": "N/A",
+    "family.data_only": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:19",
+  "feature_schema_version": "1.0.0"
+}

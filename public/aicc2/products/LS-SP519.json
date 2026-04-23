@@ -1,0 +1,153 @@
+{
+  "model_no": "LS-SP519",
+  "product_name": "LANStar S-Port 스마트폰용 고화질 HDMI 변환 케이블 컨버터 (LS-SP519)",
+  "category": [
+    "DisplayPort",
+    "컨버터"
+  ],
+  "key_features": [
+    "Micro USB B(M) - HDMI(F) 변환 지원",
+    "Plug and Play, Hot Swap 지원 (스마트폰 연결 즉시 인식)",
+    "DisplayPort Ver 1.0 기반",
+    "HDMI 1.4a/1.3/1.2 transmitter 호환",
+    "3D 영상 및 1080P Full HD 해상도 지원",
+    "최대 4K x 2K 해상도 지원",
+    "디스플레이 복제(미러링) 기능 지원",
+    "외부 전원 공급 지원 (충전 아답터 사용 시 충전과 동시 사용 가능)",
+    "충전 전원 없이도 사용 가능",
+    "Dolby Laboratories 허가 제조 제품"
+  ],
+  "specifications": {
+    "커넥터 구성": "Micro USB B(M) - HDMI(F)",
+    "DisplayPort 버전": "Ver 1.0",
+    "HDMI 호환 버전": "1.4a / 1.3 / 1.2",
+    "최대 해상도": "4K x 2K (1080P Full HD 3D 포함)",
+    "전체 길이": "184mm",
+    "세부 치수": "26mm / 48mm / 130mm / 22mm",
+    "전원 공급": "외부 전원 공급 지원 (5핀 휴대폰 충전기 사용 가능)",
+    "인증서 번호": "LUS-REI-LUS-LS-MDP19",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "LG 옵티머스 V10",
+    "LG G4",
+    "LG G3",
+    "LG G프로2",
+    "LG G2",
+    "LG G프로",
+    "Google Nexus 4",
+    "Google Nexus 5",
+    "Asus Nexus 7 (2세대)",
+    "Asus PadFone Infinity",
+    "후지쯔 Arrows Tab",
+    "HDMI 1.4a",
+    "HDMI 1.3",
+    "HDMI 1.2",
+    "DisplayPort Ver 1.0"
+  ],
+  "package_contents": [
+    "S-Port 컨버터 본체 (LS-SP519)",
+    "HDMI 케이블 [M/M] (별도 구매 상품 - 미포함)"
+  ],
+  "usage_instructions": "1. HDMI 케이블(별도 구매)을 TV 또는 모니터의 HDMI 단자에 연결한다. 2. HDMI 케이블의 반대쪽을 S-Port의 HDMI(F) 단자에 연결한다. 3. S-Port의 Micro USB 단자를 스마트폰에 연결한다. 필요 시 5핀 휴대폰 충전기를 POWER 단자에 연결하면 사용 중 충전도 가능하다. 폰을 가로로 눕히면 모니터 화면도 함께 미러링된다.",
+  "cautions": [
+    "LTE(4G)를 켜고 사용하면 화면이 끊길 수 있으므로, LTE(4G)를 끄고 사용하시기 바랍니다.",
+    "HDMI 케이블은 별도 구매 상품입니다.",
+    "충전 전원 없이 사용 가능하나, 전원 충전 아답터를 사용하면 보다 안정적으로 사용할 수 있습니다.",
+    "가정에서 사용하는 5핀 휴대폰 충전기를 전원으로 사용할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SP519",
+      "품목코드": "CAB-APP453",
+      "품목명": "[LANstar] 슬림포트 옵티머스G2/PRO,넥서스 HDMI 컨버터 S-PORT[10620](100)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-SP519",
+      "id": 5821612,
+      "date": "2016-04-06 23:20",
+      "answerDate": "2016-04-07 18:03",
+      "user": "huk1***",
+      "productName": "[LANstar]G5/G4/G3/G2/GPro/Gpro2/넥서스 HDMI 컨버터 S-Port/mhl케이블,슬림포트 [LS-SP519]",
+      "question": "g5 지원 문의\nG5는 USB가 TYPE-C인데 상품정보에서는 아무리 찾아봐도 TYPE-C에 대한 내용은 없네요. 제대로 지원되는거 맞나요?",
+      "answer": "죄송합니다. 업데이트가 잘못 되었습니다. g5는 지원하지 않는 모델입니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Micro-USB",
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.184,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "HDMI1.4",
+      "dp_version": "DP1.0",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Micro USB B(M) - HDMI(F) 변환 지원",
+    "connectivity.output_signals": "Micro USB B(M) - HDMI(F) 변환 지원",
+    "connectivity.directional": "변환 케이블 컨버터",
+    "form_physical.length_meters": "전체 길이: 184mm",
+    "power.power_mode": "외부 전원 공급 지원 (충전 아답터 사용 시 충전과 동시 사용 가능)",
+    "power.charging_support": "충전 아답터 사용 시 충전과 동시 사용 가능",
+    "certification.kc": "인증서 번호: LUS-REI-LUS-LS-MDP19",
+    "audio_video.max_resolution": "최대 4K x 2K 해상도 지원",
+    "audio_video.audio_pass": "Dolby Laboratories 허가 제조 제품",
+    "family.hdmi_version": "HDMI 1.4a/1.3/1.2 transmitter 호환",
+    "family.dp_version": "DisplayPort Ver 1.0 기반",
+    "family.optical_core": "변환 케이블 컨버터"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:38",
+  "feature_schema_version": "1.0.0"
+}

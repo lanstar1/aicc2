@@ -1,0 +1,143 @@
+{
+  "model_no": "LS-USB20G",
+  "product_name": "USB 2.0 가이드 A/F 2PORT 4PIN, 0.3M",
+  "category": [
+    "USB2.0"
+  ],
+  "key_features": [
+    "USB 2.0 규격 지원, 최대 480Mbps 전송속도",
+    "PC 메인보드 USB 확장슬롯에 연결하여 외부 USB 2포트 확장",
+    "USB 1.0 / 1.1 하위 버전 호환 지원",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "USB 규격": "USB 2.0 (HI-SPEED)",
+    "최대 전송속도": "480Mb/s",
+    "포트 수": "2포트 (A타입 Female)",
+    "커넥터 (메인보드 측)": "4PIN (5PIN 하우징)",
+    "케이블 길이": "0.2M (케이블) / 전체 약 0.3M",
+    "케이블 규격": "26AWG BC*2C + 28AWG BC 1P + D + B + PVC, OD: 4.5mm, COLOR: GREY",
+    "커넥터 재질": "USB A Female, 니켈 도금",
+    "브라켓 재질": "철판 (IRON SHEET), 니켈 도금",
+    "나사": "M2.5 X7, 니켈 도금",
+    "열수축 튜브 색상": "블랙",
+    "몰드 색상": "GREY",
+    "하우징 핀 수": "5PIN, COLOR: BLACK",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증": "상세페이지 참조",
+    "품질 시스템": "ISO 9001:2008",
+    "충전 전압": "100mA"
+  },
+  "compatibility": [
+    "USB 2.0 (HI-SPEED)",
+    "USB 1.1 (FULL SPEED)",
+    "USB 1.0 (LOW SPEED)",
+    "메인보드 USB 2.0 5핀 내부 커넥터 보유 시스템"
+  ],
+  "package_contents": [
+    "USB 2.0 가이드 브라켓 본체 (철판, 니켈 도금) x1",
+    "USB A Female 커넥터 (니켈 도금) x2",
+    "5PIN 커넥터 하우징 (블랙) x2",
+    "열수축 튜브 (블랙) x2",
+    "나사 M2.5 X7 (니켈 도금) x4",
+    "케이블 (26AWG BC*2C+28AWG BC 1P, GREY, 0.2M)"
+  ],
+  "usage_instructions": "PC 메인보드의 USB 확장슬롯(내부 USB 2.0 5핀 커넥터)에 본 제품의 커넥터를 연결한 후, 브라켓을 PC 케이스 슬롯에 고정하면 외부에서 USB 2포트를 사용할 수 있습니다.",
+  "cautions": [
+    "본 제품은 반드시 메인보드에 USB 2.0 5핀 커넥터가 있어야 사용 가능합니다.",
+    "제품 연결 시 메인보드의 핀 배열을 확인한 후 연결해야 합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB20G",
+      "품목코드": "GEN-USB012",
+      "품목명": "[LANstar] USB2.0가이드 A／F* 2Port, 4PIN[10341](300개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "PVC",
+        "니켈도금",
+        "스틸"
+      ],
+      "length_meters": 0.3,
+      "length_options_meters": null,
+      "color_options": [
+        "GREY",
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 2포트 확장",
+    "connectivity.output_signals": "USB 2포트 확장",
+    "connectivity.directional": "USB 2.0 규격 지원, 최대 480Mbps 전송속도",
+    "connectivity.port_count": "2포트 (A타입 Female)",
+    "power.power_mode": "PC 메인보드의 USB 확장슬롯",
+    "power.charging_support": "충전 전압: 100mA",
+    "form_physical.has_case": "브라켓을 PC 케이스 슬롯에 고정",
+    "form_physical.material": "PVC, OD: 4.5mm, COLOR: GREY",
+    "form_physical.length_meters": "전체 약 0.3M",
+    "form_physical.color_options": "COLOR: GREY",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "family.usb_version": "USB 2.0 규격 지원",
+    "family.transfer_speed_gbps": "최대 480Mbps 전송속도",
+    "family.charging_only": "USB 2.0 규격 지원, 최대 480Mbps 전송속도",
+    "family.data_only": "USB 2.0 규격 지원, 최대 480Mbps 전송속도"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:36",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,139 @@
+{
+  "model_no": "LS-BOOT-CO8",
+  "product_name": "LANStar CAT.8/7 부트 8.5mm 주황(Orange)",
+  "category": [
+    "랜케이블-CAT8",
+    "커넥터"
+  ],
+  "key_features": [
+    "랜 케이블과 커넥터 연결 부분 보호",
+    "케이블 꺾임 및 커넥터 lock 파손 방지",
+    "톱니 형태 연결 방식 (락부트 해당)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "RoHS COMPLIANT 인증 (특정 위험물질 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "품명": "CAT.8/7 부트, 8.5mm, Orange",
+    "모델명": "LS-BOOT-CO8",
+    "색상": "주황(Orange)",
+    "크기": "8.5mm",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국(China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "수량": "100개입"
+  },
+  "compatibility": [
+    "CAT.8 랜케이블",
+    "CAT.7 랜케이블",
+    "케이블 직경 5~8.5mm 범위의 랜케이블"
+  ],
+  "package_contents": [
+    "CAT.8/7 부트 8.5mm 주황(Orange) 100개"
+  ],
+  "usage_instructions": "랜스타 부트는 5~8.5mm 크기가 있어 랜케이블 두께에 따라 선택하여 사용한다. 랜 케이블과 커넥터 연결 부분에 씌워 보호하며, 케이블 꺾임 및 커넥터 lock 파손을 방지한다. 락부트의 경우 톱니 형태 연결 방식을 사용한다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-BOOT-CO8",
+      "품목코드": "NEO-부트류143",
+      "품목명": "[LANstar] RJ-45 CAT.8/7 통부트(8.5Ø/주황색/100개) [20156] ★100개입★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-BOOT-CO8",
+      "내용": "빠른 배송에 감사합니다."
+    },
+    {
+      "source_model": "LS-BOOT-CO8",
+      "내용": "굿굿 배송잘 받아서 잘 썼어요"
+    },
+    {
+      "source_model": "LS-BOOT-CO8",
+      "내용": "제품 수량에 잘 맞게 왔습니다."
+    },
+    {
+      "source_model": "LS-BOOT-CO8",
+      "내용": "좋아요~~~~~~~~"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "주황(Orange)"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT8",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.directional": "해당없음",
+    "power.power_mode": "해당없음",
+    "form_physical.material": "랜 케이블과 커넥터 연결 부분 보호",
+    "form_physical.color_options": "주황(Orange)",
+    "certification.kc": "인증번호: 해당없음",
+    "certification.rohs": "RoHS COMPLIANT 인증",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "해당없음",
+    "audio_video.hdcp_version": "해당없음",
+    "family.cat_category": "CAT.8/7 부트",
+    "family.shielding": "해당없음",
+    "family.conductor": "해당없음",
+    "family.flame_rating": "해당없음"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:38",
+  "feature_schema_version": "1.0.0"
+}

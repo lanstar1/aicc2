@@ -1,0 +1,127 @@
+{
+  "model_no": "LS-SMCM",
+  "product_name": "차량용 스마트폰 충전케이블 (Coiled Car to Micro B/M Cable)",
+  "category": [
+    "케이블정리"
+  ],
+  "key_features": [
+    "Apple 공식 인증 브랜드(LANstare)",
+    "스마트폰 쾌속 충전 및 전원공급 지원",
+    "차량 시거잭(12V/24V) 연결 방식",
+    "코일선 사용으로 선꼬임 방지 및 정리 용이",
+    "스마트폰 외 마이크로 B 단자 사용 휴대용기기(MP3, 디지털카메라, 게임기 등) 충전 가능",
+    "충전 연결 시 빨간불 점등으로 연결 상태 확인 가능"
+  ],
+  "specifications": {
+    "입력(IN)": "12V/24V",
+    "출력(OUT)": "USB 5V 1000mA",
+    "케이블 길이": "1M",
+    "케이블 형태": "코일선",
+    "커넥터 타입": "시거잭 → Micro B 5핀",
+    "인증": "ROHS, CE, FC"
+  },
+  "compatibility": [
+    "마이크로 B 5핀 단자 적용 스마트폰 전반",
+    "Samsung Galaxy A (SHW-M100S)",
+    "Samsung Galaxy S (SHW-M110S)",
+    "Samsung Galaxy U (SHW-M130L)",
+    "Samsung Galaxy K (SHW-M130K)",
+    "LG 인사이트 (LG-KU2000)",
+    "LG 안드로원 (LG-KH5200)",
+    "LG 옵티머스원 (LG-KU3700)",
+    "HTC HD2",
+    "HTC Desire (디자이어)",
+    "HTC Desire Pop (디자이어팝)",
+    "HTC Legend (레전드)",
+    "HTC Nexus One (넥서스원)",
+    "BlackBerry BOLD 9700",
+    "Motorola 모토로이 XT720",
+    "Motorola 모토쿼티 A853",
+    "Motorola 모토글램 XT800W",
+    "Nokia X6",
+    "Anycall 계열 마이크로 B 5핀 단자 적용 기기",
+    "CYON 계열 마이크로 B 5핀 단자 적용 기기",
+    "MP3 플레이어 (마이크로 B 단자)",
+    "디지털카메라 (마이크로 B 단자)",
+    "게임기 (마이크로 B 단자)"
+  ],
+  "package_contents": [
+    "차량용 스마트폰 충전케이블 (시거잭 + 마이크로 B 코일 케이블 일체형) 1개"
+  ],
+  "usage_instructions": "1. 차량 시동을 건 후 시거잭 위치를 확인한다. 2. 차량용 스마트폰 충전케이블을 시거잭에 끝까지 밀어 넣는다. 3. 연결되면 충전케이블에 빨간불이 점등된다. 4. 케이블의 마이크로 B 단자를 충전할 스마트폰에 연결하면 충전이 시작된다. 5. 배터리 충전이 완료되면 케이블을 분리한다.",
+  "cautions": [
+    "스마트폰 모두가 마이크로 B 단자를 사용하지 않으므로 구매 전 단자 모양을 반드시 확인해야 한다.",
+    "제품을 임의로 분해할 경우 교환 및 환급이 불가하다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SMCM-1M",
+      "품목코드": "GEN-KIT004",
+      "품목명": "[LANstar] 차량용스마트폰충전케이블, Cigar to Micro B, Coiled[10621]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 1.0,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "시거잭 → Micro B 5핀",
+    "connectivity.output_signals": "시거잭 → Micro B 5핀",
+    "connectivity.directional": "충전케이블",
+    "power.power_mode": "차량 시거잭(12V/24V) 연결 방식",
+    "power.charging_support": "스마트폰 쾌속 충전 및 전원공급 지원",
+    "form_physical.length_meters": "케이블 길이: 1M",
+    "certification.rohs": "ROHS",
+    "certification.fcc": "FC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:35",
+  "feature_schema_version": "1.0.0"
+}

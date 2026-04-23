@@ -1,0 +1,153 @@
+{
+  "model_no": "LS-HD2AV",
+  "product_name": "LANStar HDMI to AV 컨버터 (LS-HD2AV)",
+  "category": [
+    "HDMI선택기",
+    "컨버터",
+    "RCA케이블"
+  ],
+  "key_features": [
+    "HDMI 디지털 영상/음성 신호를 아날로그 컴포지트 비디오/오디오(좌/우)로 변환",
+    "입력 HDMI 해상도 최대 1920x1080(1080p) 지원",
+    "출력 NTSC(480i) / PAL(576i) 지원",
+    "제품 옆면 아날로그 방식 선택 스위치(NTSC/PAL) 내장으로 국내외 사용 가능",
+    "영상 신호와 오디오 신호 동시 변환 지원",
+    "Plug and Play 지원 (드라이버 설치 후 자동 실행)",
+    "무게 약 40g의 미니 사이즈로 휴대 간편",
+    "양방향 변환 불가 (HDMI → AV 단방향)"
+  ],
+  "specifications": {
+    "입출력 단자": "HDMI Female To 3RCA Female (HDMI To AV 컨버터)",
+    "HDMI 입력 지원 해상도": "640x480@60Hz, 800x600@60Hz, 1024x768@60Hz, 1280x720@60Hz, 1280x1024@60Hz, 1360x768@60Hz, 1600x1200@60Hz, 1920x1080@60Hz, 480i/60Hz, 480p/60Hz, 576i/60Hz, 576p/60Hz, 720p 50/60Hz, 1080i 50/60Hz, 1080p 50/60Hz",
+    "AV 출력 지원 해상도 및 포맷": "480i(NTSC), 576i(PAL), NTSC_M(NTSC_J), PAL",
+    "무게": "약 40g",
+    "크기": "55mm x 61mm x 20mm",
+    "전원": "USB 전원",
+    "인증번호": "R-REI-LUS-LS-HD2AV",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "보험": "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "안전규격인증": "KC, FCC, CE, RoHS, ISO 9001:2008"
+  },
+  "compatibility": [
+    "게임기 (PS2 등)",
+    "카메라",
+    "캠코더",
+    "블루레이 플레이어",
+    "HDMI 출력 지원 기기 전반",
+    "CRT TV (아날로그 AV 입력 지원)",
+    "프로젝션 TV",
+    "프로젝터 (AV 입력 지원)",
+    "NTSC 방식 디스플레이 (국내)",
+    "PAL 방식 디스플레이 (유럽 등 해외)"
+  ],
+  "package_contents": [
+    "상품 본체 (HDMI to AV 컨버터)",
+    "USB 케이블",
+    "메뉴얼(사용설명서)"
+  ],
+  "usage_instructions": "1) 제품 옆면의 NTSC/PAL 선택 스위치를 사용 지역에 맞게 설정(국내: NTSC, 유럽 등: PAL). 2) HDMI 케이블(별도 구매)로 소스 기기(게임기·카메라·캠코더·블루레이 등)와 컨버터의 HDMI 입력(Female) 단자를 연결. 3) 3RCA 케이블(별도 구매)로 컨버터의 출력 단자와 TV·프로젝터 등 디스플레이 기기를 연결. 4) USB 케이블로 전원 공급. 5) 최초 실행 시 드라이버 설치 후 이후 Plug and Play로 자동 실행. ※ HDMI → AV 단방향 변환만 지원하며 양방향 변환은 불가.",
+  "cautions": [
+    "양방향 변환 불가 — HDMI 입력을 AV 출력으로 변환하는 단방향 제품",
+    "HDMI 케이블 및 3RCA 케이블은 별도 구매 필요",
+    "최초 실행 시 드라이버 설치 필요",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HD2AV",
+      "품목코드": "USB-PCI216",
+      "품목명": "[LANstar] HDMI컨버터(HDMI to AV), HDMI/F To 3RCA/F, 720/1080P 양방향 불가 [30169] (200개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HD2AV",
+      "내용": "잘받았습니다 \n아직 사용전입니다\n\n다른부속이 오고 있어요"
+    },
+    {
+      "source_model": "LS-HD2AV",
+      "내용": "잘쓸게요~~~~~~~~~"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "RCA"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "selector_type": "N/A",
+      "input_count": 1,
+      "output_count": 1,
+      "interfaces": [
+        "HDMI",
+        "RCA"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 디지털 영상/음성 신호를",
+    "connectivity.output_signals": "아날로그 컴포지트 비디오/오디오(좌/우)로 변환",
+    "connectivity.directional": "양방향 변환 불가 (HDMI → AV 단방향)",
+    "power.power_mode": "USB 전원",
+    "form_physical.has_case": "무게 약 40g의 미니 사이즈로 휴대 간편",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "입력 HDMI 해상도 최대 1920x1080(1080p) 지원",
+    "audio_video.audio_pass": "영상 신호와 오디오 신호 동시 변환 지원",
+    "control_switching.has_physical_button": "제품 옆면 아날로그 방식 선택 스위치(NTSC/PAL) 내장",
+    "family.selector_type": "HDMI → AV 단방향 변환만 지원",
+    "family.input_count": "HDMI 입력(Female) 단자를 연결",
+    "family.output_count": "컨버터의 출력 단자와 TV·프로젝터 등 디스플레이 기기를 연결",
+    "family.interfaces": "HDMI Female To 3RCA Female (HDMI To AV 컨버터)"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:54",
+  "feature_schema_version": "1.0.0"
+}

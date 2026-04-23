@@ -1,0 +1,136 @@
+{
+  "model_no": "LS-HDMI-EMM2",
+  "product_name": "LANStar HDMI 1.4 케이블 19P M/M",
+  "category": [
+    "HDMI케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "HDMI 1.4 규격 지원",
+    "Full HD 1920x1200 해상도 지원 (기존 HD 대비 약 2배 이상 고화질)",
+    "3D 입체 영상 지원",
+    "24K 금도금 커넥터 적용",
+    "3개의 확장 색 영역 지원 (sYCC601 / Adobe RGB / Adobe YCC601)",
+    "ARC(Audio Return Channel) 지원 – TV와 AV기기 간 별도 케이블 없이 음성 전송",
+    "HEC(HDMI Ethernet Channel) 지원 – 별도 랜케이블 없이 네트워크 접속 및 IPTV·DLNA·UPnP 구현",
+    "Deep Color 지원",
+    "자동 립싱크 지원",
+    "돌비 TrueHD / DTS-HD Master Audio 오디오 비트스트림 지원",
+    "4K 해상도 지원 (30fps / 60fps)",
+    "전송속도 10.2Gbps",
+    "RoHS 규정 준수 (납·수은·카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억 원 가입"
+  ],
+  "specifications": {
+    "HDMI 단자": "HDMI 19P M/M",
+    "HDMI 해상도": "1920x1200 @ 30Hz 지원",
+    "전송속도(대역폭)": "10.2Gbps",
+    "케이블 길이": "15M / 20M",
+    "소비전력 최대": "DC 300V / 5s",
+    "작동온도": "섭씨 80도",
+    "커넥터 도금": "24K 금도금",
+    "제품 외경(케이블)": "5.7mm",
+    "커넥터 폭": "19.6mm",
+    "커넥터 높이": "4.4mm",
+    "커넥터 길이": "14mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "TV",
+    "PC 모니터",
+    "노트북",
+    "블루레이 플레이어",
+    "게임기",
+    "프로젝터",
+    "셋톱박스",
+    "Blu-ray Disc / HD DVD",
+    "IPTV, DLNA, UPnP 기반 네트워크 기기",
+    "HDMI 1.4 지원 기기 전반"
+  ],
+  "package_contents": [
+    "HDMI 1.4 케이블 19P M/M (15M 또는 20M 중 선택)"
+  ],
+  "usage_instructions": "HDMI 19P M/M 단자를 TV·PC 모니터 등 디스플레이 기기와 노트북·블루레이 플레이어·게임기·프로젝터·셋톱박스 등 소스 기기에 각각 연결하여 사용. HEC 기능 사용 시 별도 랜케이블 없이 네트워크 연결 가능. ARC 기능 사용 시 별도 케이블 없이 TV 사운드를 AV기기로 전송 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 소비자상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무관",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        15,
+        20
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "HDMI1.4",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": null,
+      "ethernet_channel": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19P M/M",
+    "connectivity.output_signals": "HDMI 19P M/M",
+    "connectivity.directional": "TV와 AV기기 간 별도 케이블 없이 음성 전송",
+    "form_physical.material": "24K 금도금 커넥터 적용",
+    "form_physical.length_options_meters": "15M / 20M",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "4K 해상도 지원 (30fps / 60fps)",
+    "audio_video.audio_pass": "ARC(Audio Return Channel) 지원",
+    "family.hdmi_version": "HDMI 1.4 규격 지원",
+    "family.ethernet_channel": "HEC(HDMI Ethernet Channel) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:11",
+  "feature_schema_version": "1.0.0"
+}

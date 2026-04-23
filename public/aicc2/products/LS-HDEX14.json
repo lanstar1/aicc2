@@ -1,0 +1,214 @@
+{
+  "model_no": "LS-HDEX14",
+  "product_name": "LANStar HDMI 1.4 4K 60M HDMI Extender (송신기/수신기 세트)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "랜케이블-STP",
+    "랜케이블",
+    "HDMI케이블",
+    "익스텐더"
+  ],
+  "key_features": [
+    "최대 60M까지 HDMI 신호 거리 연장",
+    "4K@30Hz 해상도 지원 (HDMI 케이블 길이 10m 미만 조건)",
+    "1080P@60Hz 해상도 지원",
+    "CAT.5E / CAT.6 UTP·STP 랜케이블을 통한 신호 전달",
+    "EDID 버튼으로 4K/1080P 해상도 전환 가능",
+    "DC 5V 1A 전원 아답터로 안정적인 신호 전송",
+    "Plug & Play 지원 (별도 설치 과정 불필요)",
+    "Hot Swap 지원",
+    "3D 디스플레이 포맷 전달 지원",
+    "KC 인증 획득 (인증번호: R-R-LUS-LS-HDEX14)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "최대 연장 거리": "60m",
+    "해상도": "4K@30Hz / 1080P@60Hz",
+    "4K 지원 HDMI 케이블 최대 길이": "10m (HDMI 26AWG 표준 규격 케이블 기준)",
+    "사용 랜케이블": "CAT.5E / CAT.6 UTP, STP",
+    "전원": "DC 5V 1A",
+    "작동 온도": "-15°C ~ 55°C",
+    "습도": "5% ~ 90%",
+    "크기": "TX: 81 x 47 x 22 (mm) / RX: 81 x 47 x 22 (mm)",
+    "무게": "TX: 102g / RX: 103g",
+    "재질": "Metal",
+    "HDMI 버전": "HDMI 1.4",
+    "KC 인증번호": "R-R-LUS-LS-HDEX14",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 1.4 입출력 기기",
+    "CAT.5E UTP/STP 랜케이블",
+    "CAT.6 UTP/STP 랜케이블",
+    "HDMI 26AWG 국제 표준 규격 케이블",
+    "데스크탑(Desktop)",
+    "노트북(Notebook)",
+    "셋톱박스(Settop Box)",
+    "TV",
+    "모니터(Monitor)",
+    "빔 프로젝터(Beam Projector)"
+  ],
+  "package_contents": [
+    "HDMI 거리확장 송신기(Transmitter) 1ea",
+    "HDMI 거리확장 수신기(Receiver) 1ea",
+    "DC 5V 1A 전원 아답터 2ea",
+    "User Manual (LS-HDEX14 사용자 매뉴얼) 1부"
+  ],
+  "usage_instructions": "1) 송신기(Transmitter)의 HDMI Input 포트에 HDMI 입력 기기(PC, 노트북, 셋톱박스 등)를 연결한다. 2) 수신기(Receiver)의 HDMI Output 포트에 HDMI 출력 기기(TV, 모니터, 빔프로젝터 등)를 연결한다. 3) 송신기와 수신기를 CAT.5E 또는 CAT.6 랜케이블(최대 60M)로 연결한다. 4) 송신기와 수신기 각각에 DC 5V 1A 전원 아답터를 연결한다. 5) Plug & Play로 별도 설치 없이 바로 사용 가능하다. 6) 해상도 변경이 필요한 경우 송신기의 EDID 버튼을 눌러 4K 또는 1080P로 전환한다.",
+  "cautions": [
+    "최대 연장 거리 60m는 이론상 수치이며, 사용 환경에 따라 실제 연장 거리가 짧아질 수 있다.",
+    "최대 연장 거리는 국산 UTP/STP 랜케이블 기준이며, 일부 중국산 랜케이블의 품질에 따라 지원 거리가 짧아지거나 화면 출력이 지원되지 않을 수 있다.",
+    "4K@30Hz 해상도는 입력 및 출력 HDMI 케이블 길이가 각각 10m 미만일 때만 지원되며, 10m 초과 시 최대 해상도를 지원하지 않는다.",
+    "HDMI 케이블은 국제 표준 규격 26AWG 기준을 사용해야 한다.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되어 있지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDEX14",
+      "품목코드": "INT-HDS296",
+      "품목명": "[LANstar] HDMI 익스텐더 4K 해상도 60M 거리연장기 [30744] [30개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDEX14",
+      "내용": "익스텐더가 안정적이죠"
+    },
+    {
+      "source_model": "LS-HDEX14",
+      "내용": "영상 끊김없이 잘 송출 됩니다^^"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HDEX14",
+      "id": 542335781,
+      "date": "2023-08-17 01:10",
+      "answerDate": "2023-08-17 09:46",
+      "user": "junh***",
+      "productName": "HDMI 1.4 익스텐더 4K 해상도 60M 거리연장기 (LS-HDEX14)",
+      "question": "cctv 녹화기와 모니터 연결에 사용하려고 하는데 랜케이블은 어떤걸로 해야할까요? \ncat.6 flat utp 케이블이면 될까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n원하시는 용도로서 랜케이블을 구매하실 때 플랫케이블은 추천드리고 있지 않습니다.\n해당 제품과 같이 사용하실 수 있을만한 케이블을 추가구성품으로 구성해두었으니, 원하시는 길이에 맞춰 구매해주시면 되겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDEX14",
+      "id": 542383698,
+      "date": "2023-08-17 11:12",
+      "answerDate": "2023-08-17 11:22",
+      "user": "junh***",
+      "productName": "HDMI 1.4 익스텐더 4K 해상도 60M 거리연장기 (LS-HDEX14)",
+      "question": "답변 감사합니다 추가상품에는 랜케이블만 있던데 hdmi 케이블은 1000원짜리 hdmi 1.4 금도금 케이블로 구입하면 될까요",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 말씀 주신 HDMI 케이블 역시 추가 구성으로 추가해두었으니 구매에 참고 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HDEX14",
+      "chatUrl": "1G8KR",
+      "dateIso": "2024-10-18T05:50:46.296Z",
+      "name": "keum****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "ls-hdex14제품\n\n1.송신,수신기 한세트인거죠?\n\n2.lan구간에 영내케이블 단자에 태우면 사용시 문제가 있을까요? 허용거리 안이라고 했을때요",
+      "answer": "1. 네. 한세트 입니다. 2. 방과 방 사이를 연결하신다고 하셔도 건물 안에있으면 실거리를 측정 불가능하기에 확실치 않을 수 있습니다. 이전",
+      "turn_count": 1,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "ls-hdex14제품\n\n1.송신,수신기 한세트인거죠?\n\n2.lan구간에 영내케이블 단자에 태우면 사용시 문제가 있을까요? 허용거리 안이라고 했을때요"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n1. 네. 한세트 입니다.\n2. 방과 방 사이를 연결하신다고 하셔도 건물 안에있으면 실거리를 측정 불가능하기에 확실치 않을 수 있습니다.\n이전"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "STP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI Input 포트에 HDMI 입력 기기",
+    "connectivity.output_signals": "HDMI Output 포트에 HDMI 출력 기기",
+    "connectivity.directional": "HDMI Extender (송신기/수신기 세트)",
+    "power.power_mode": "DC 5V 1A 전원 아답터",
+    "form_physical.has_case": "재질: Metal",
+    "form_physical.material": "재질: Metal",
+    "certification.kc": "KC 인증 획득",
+    "audio_video.max_resolution": "4K@30Hz 해상도 지원",
+    "control_switching.has_physical_button": "EDID 버튼으로 4K/1080P 해상도 전환",
+    "family.cat_category": "CAT.5E / CAT.6 랜케이블",
+    "family.shielding": "UTP·STP 랜케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:00",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

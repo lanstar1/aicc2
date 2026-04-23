@@ -1,0 +1,147 @@
+{
+  "model_no": "LS-USB304",
+  "product_name": "LANStar 무전원 / 스위치버튼형 USB 3.0 허브 4포트",
+  "category": [
+    "USB허브",
+    "USB3.0",
+    "USB2.0",
+    "스위치허브"
+  ],
+  "key_features": [
+    "USB 3.0 5Gbps 전송속도 지원 (USB 2.0 대비 10배, USB 1.1 대비 40배)",
+    "USB 포트별 개별 전원 스위치 버튼 탑재",
+    "포트별 파랑 LED 표시등으로 작동 상태 확인 가능",
+    "별도 소프트웨어 없이 Plug & Play 사용 가능 (무전원 방식)",
+    "DC 5V/1A 보조전원 어댑터 연결 지원 (별도 구매)",
+    "거치대 형태 디자인으로 높은 공간 활용도 및 휴대성",
+    "VL812-Q7 칩셋 사용으로 Windows, Mac OS X 등 다양한 OS 지원",
+    "USB 2.0, 1.1 하위 버전 기기와 하위 호환"
+  ],
+  "specifications": {
+    "모델명": "LS-USB304B (블랙), LS-USB304S (실버)",
+    "전송속도": "5Gbps (USB 3.0)",
+    "포트 수": "4포트",
+    "운영체제": "Windows 10, Mac OS, Linux",
+    "외부전원": "DC 5V/1A 어댑터 (별도 구매, 모델명: LS-AD5V1A-HUB)",
+    "어댑터 정격입력전압": "100V~240V 50/60Hz",
+    "어댑터 정격출력전압": "5V DC 1000mA",
+    "어댑터 커넥터 규격": "외경 3.5mm, 내경 1.8mm",
+    "제품 크기": "90 x 65 x 25mm (L x W x H)",
+    "칩셋": "VL812-Q7",
+    "인증번호": "MSIP-REI-LUS-LS-USB314",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "안전인증": "KC, FCC, CE, RoHS COMPLIANT",
+    "품질경영시스템": "ISO 9001:2008",
+    "보험": "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "USB 3.0 지원 PC 또는 Mac",
+    "USB 2.0 기기 (하위 호환)",
+    "USB 1.1 기기 (하위 호환)",
+    "Windows 10",
+    "Mac OS X",
+    "Linux",
+    "데스크탑",
+    "노트북",
+    "게임기",
+    "프린터기",
+    "외장하드",
+    "카메라",
+    "웹캠",
+    "스마트폰"
+  ],
+  "package_contents": [
+    "USB 3.0 허브 본체 (LS-USB304B 또는 LS-USB304S)",
+    "USB 3.0 케이블 (A/M - Micro B/M) 0.8m",
+    "한글 매뉴얼"
+  ],
+  "usage_instructions": "별도의 소프트웨어 설치 없이 USB 케이블로 PC 또는 Mac에 연결하면 바로 사용 가능(Plug & Play). 포트별 전원 스위치 버튼으로 각 포트의 전원을 개별 공급/차단 가능. 더 안정적인 전원이 필요한 경우 별도 판매하는 DC 5V/1A 어댑터(LS-AD5V1A-HUB)를 보조전원 단자에 연결하여 사용.",
+  "cautions": [
+    "전원 어댑터(LS-AD5V1A-HUB)는 별도 구매 필요",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "블랙",
+        "실버"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "port_count": 4,
+      "usb_version": "USB3.0",
+      "ethernet_speed_mbps": null,
+      "has_sd_reader": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 허브 4포트",
+    "connectivity.output_signals": "USB 3.0 허브 4포트",
+    "connectivity.directional": "USB 3.0 허브 4포트",
+    "connectivity.port_count": "4포트",
+    "power.power_mode": "무전원 / 스위치버튼형 USB 3.0 허브",
+    "power.charging_support": "DC 5V/1A 보조전원 어댑터 연결 지원",
+    "form_physical.has_case": "거치대 형태 디자인",
+    "form_physical.color_options": "LS-USB304B (블랙), LS-USB304S (실버)",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "USB 3.0 허브",
+    "audio_video.hdr_support": "USB 3.0 허브",
+    "audio_video.hdcp_version": "USB 3.0 허브",
+    "audio_video.audio_pass": "USB 3.0 허브",
+    "control_switching.has_physical_button": "USB 포트별 개별 전원 스위치 버튼 탑재",
+    "family.port_count": "4포트",
+    "family.usb_version": "USB 3.0 5Gbps 전송속도 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:47",
+  "feature_schema_version": "1.0.0"
+}

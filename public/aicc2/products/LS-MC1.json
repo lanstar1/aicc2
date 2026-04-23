@@ -1,0 +1,133 @@
+{
+  "model_no": "LS-MC1",
+  "product_name": "LANStar 외장 3.5mm Single Type 마이크 케이블 (클립형)",
+  "category": [
+    "젠더",
+    "커넥터",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "옷에 고정할 수 있는 클립형 마이크 구조로 휴대 및 간편 사용 가능",
+    "음성통화, 인터넷 방송, 디스코드, 스카이프 등 네트워크 음성 채팅에 적합",
+    "스마트폰 연결 시 인터뷰 등 세밀한 음성 녹음 가능",
+    "금도금 처리된 4극 스테레오 커넥터로 녹슬 위험 방지 및 원활한 신호 전달",
+    "마이크와 분리 가능한 탈부착 클립형 구조",
+    "3극 스테레오 젠더 포함으로 SLR 카메라, PC(데스크탑) 등 3극 단자 기기에도 사용 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC, FCC, CE, RoHS 인증"
+  ],
+  "specifications": {
+    "커넥터 타입": "4극 스테레오 커넥터 (금도금)",
+    "케이블 길이": "약 145cm",
+    "포함 젠더": "3극 스테레오 변환젠더",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "인증 규격": "KC, FCC, CE, RoHS",
+    "품질경영시스템": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "iPhone, iPad, iPod Touch (4극 3.5mm 단자 지원 기기)",
+    "Android 스마트폰",
+    "Windows 스마트폰",
+    "SLR 카메라 (3극 변환젠더 사용 시)",
+    "PC 데스크탑 (3극 변환젠더 사용 시)"
+  ],
+  "package_contents": [
+    "마이크 (클립형)",
+    "4극 스테레오 커넥터 케이블",
+    "3극 변환젠더",
+    "탈부착용 클립"
+  ],
+  "usage_instructions": "스마트폰 또는 호환 기기의 3.5mm 4극 단자에 커넥터를 연결하고, 클립을 옷에 고정하여 사용. SLR 카메라나 PC 등 3극 단자 기기 사용 시 동봉된 3극 변환젠더를 연결하여 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "라인업시스템(주)의 동의 없이 상품 및 콘텐츠 무단 복제·이용 시 불이익을 받을 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MC1",
+      "품목코드": "AV0-스피커007",
+      "품목명": "[LANstar] 외장 3.5mm 마이크 케이블 (클립형) Single (3극 젠더 포함) [20170]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "3.5mm"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": 1.45,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "3.5mm 4극 스테레오 Male",
+      "connector_type_b": "3.5mm 3극 스테레오 Male",
+      "gender": "M-M",
+      "pin_count": 4
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "4극 스테레오 커넥터",
+    "connectivity.output_signals": "3극 스테레오 변환젠더",
+    "connectivity.directional": "음성통화, 인터넷 방송",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.material": "금도금 처리된 4극 스테레오 커넥터",
+    "form_physical.length_meters": "약 145cm",
+    "certification.kc": "KC, FCC, CE, RoHS 인증",
+    "certification.rohs": "KC, FCC, CE, RoHS 인증",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "KC, FCC, CE, RoHS 인증",
+    "certification.ce": "KC, FCC, CE, RoHS 인증",
+    "audio_video.audio_pass": "음성통화, 인터넷 방송",
+    "family.connector_type_a": "4극 스테레오 커넥터 (금도금)",
+    "family.connector_type_b": "3극 스테레오 변환젠더",
+    "family.gender": "4극 스테레오 커넥터",
+    "family.pin_count": "4극 스테레오 커넥터"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:30",
+  "feature_schema_version": "1.0.0"
+}

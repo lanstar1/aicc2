@@ -1,0 +1,183 @@
+{
+  "model_no": "LS-CF",
+  "product_name": "LAN Star 휴대용 LED 캠핑 선풍기",
+  "category": [
+    "캠핑용품",
+    "휴대용선풍기"
+  ],
+  "key_features": [
+    "바람세기 3단 조절",
+    "높이 3단 조절 (300mm ~ 700mm)",
+    "LED 밝기 3단 조절",
+    "5엽 날개로 강력한 바람",
+    "저소음 설계",
+    "USB Type-C 충전 지원",
+    "4000mAh 대용량 배터리 탑재 (배터리 안전 인증 완료)",
+    "바닥 거치 / 테이블 거치 / 천장 거치 등 다양한 거치 방식 지원",
+    "선풍기 앞부분 회전으로 손쉬운 분리·조립 가능",
+    "회전 모드 지원 (바람 세기 조절 버튼 2초 장누름)",
+    "삼각대 표준 규격 나사 호환",
+    "KC 인증 및 국립전파연구원 인증 획득",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "Green / Ivory 2가지 색상",
+    "색상 조합 선택 가능 (GREEN+GREEN, GREEN+IVORY, IVORY+IVORY)",
+    "1+1 구성 제품",
+    "3단계 LED 밝기 조절 기능"
+  ],
+  "specifications": {
+    "모델명_Green": "LS-CFG",
+    "모델명_Ivory": "LS-CFI",
+    "색상": "Green, Ivory",
+    "동작 전압": "DC 5V",
+    "충전 전류": "1.8A",
+    "배터리 전압": "3.7V",
+    "동작 파워": "2.7W ~ 5.4W",
+    "배터리 용량": "4000mAh",
+    "충전 시간": "약 4시간 (완충)",
+    "작동 시간": "3.6 ~ 7.3시간 (완충 시) / 미풍(1단계) 약 7.3시간, 강풍(3단계) 약 3.6시간",
+    "크기": "164.5 x 83 x 300 mm (최저 높이 기준)",
+    "선풍기 넓이": "164.5mm",
+    "높이": "300mm (최저) ~ 700mm (3단)",
+    "무게": "약 520g",
+    "케이블": "USB A to C 평면 케이블 (약 1m)",
+    "KC인증번호": "R-R-LUS-LS-CFG",
+    "배터리 안전인증번호": "XU101423-18002A",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "색상 옵션": "GREEN, IVORY",
+    "LED 밝기 단계": "3단계"
+  },
+  "compatibility": [
+    "삼각대 표준 규격 나사 호환 (일반 카메라용 삼각대 사용 가능)",
+    "USB A-C 충전 케이블 (고속 충전 지원 핸드폰 충전 어댑터 사용 가능)",
+    "스마트폰 보조 배터리(보조배터리)를 통한 충전 가능"
+  ],
+  "package_contents": [
+    "선풍기 본체",
+    "삼각대 거치봉",
+    "USB A-C 충전 케이블 (케이블 길이 약 1m)",
+    "캠핑 선풍기 2개 (선택한 색상 조합에 따라 구성)"
+  ],
+  "usage_instructions": "1) 거치 방식: ① 바닥 거치 - 삼각대 거치봉을 연결하여 높이를 높여 바닥에 거치 ② 테이블 거치 - 높이를 낮춰 테이블(책상)에 스탠드 방식으로 사용 ③ 천장 거치 - 텐트 천장 등 고리를 통해 선풍기를 매달아 거치. 2) 회전 모드: 제품 작동 후 바람 세기 조절 버튼을 약 2초간 길게 누름. 3) 분리/조립: 청소 시 선풍기 앞부분을 오른쪽으로 돌려 분리, 조립 시 왼쪽으로 돌려 결합. 4) 충전 상태 확인: 충전 중 빨간색 LED, 완충 시 파란색 LED로 표시.",
+  "cautions": [
+    "제품 구매 후 최소 2시간 이상 충전 후 사용 권장",
+    "장기간 사용하지 않을 경우 최소 2개월에 한 번 충전 필요 (장기 미사용 시 배터리 효율 감소 및 손상 가능성 있음)",
+    "본체와 삼각대 거치봉 연결 시 끝까지 강하게 결합하지 말 것 (너무 세게 결합 시 회전 부분과 맞물려 분리가 어려울 수 있음)",
+    "정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니며 A/S를 받을 수 없음",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "당일출고는 오후 4시 이전 결제 완료 건 기준, 토·일·공휴일 제외 평일 기준이며 택배사 사정에 따라 배송 기간이 길어질 수 있음"
+  ],
+  "variants": [],
+  "_absorbed_fragments": {
+    "LS-CF-LENGTH": {
+      "product_name": "높이 조절 선풍기",
+      "category": "선풍기 액세서리 / 선풍기",
+      "key_features": [
+        "삼각대 겸 거치봉 연결을 통한 자유로운 높이 조절 가능",
+        "환경에 맞게 높이를 조절하여 사용 가능"
+      ],
+      "compatibility": [
+        "삼각대 겸 거치봉 연결 가능한 선풍기"
+      ],
+      "source_files": [
+        "LS-CF-LENGTH.json"
+      ]
+    },
+    "LS-CF-ROTATE": {
+      "product_name": "회전 모드 지원 선풍기",
+      "category": "선풍기",
+      "key_features": [
+        "좌우 자동 회전 모드 지원",
+        "상하 수동 각도 조절 지원"
+      ],
+      "specifications": {
+        "좌우 회전": "자동",
+        "상하 회전": "수동"
+      },
+      "source_files": [
+        "LS-CF-ROTATE.json"
+      ]
+    },
+    "LS-CF-WIND": {
+      "product_name": "선풍기",
+      "category": "선풍기",
+      "key_features": [
+        "3단계 바람세기 조절 기능",
+        "자연풍 모드 지원",
+        "본체 전원 버튼으로 바람세기 및 전원 통합 조절"
+      ],
+      "specifications": {
+        "바람세기 단계": "1단계(미풍), 2단계(약풍), 3단계(강풍), 자연풍",
+        "조절 순서": "1단계 > 2단계 > 3단계 > 자연풍 > 종료"
+      },
+      "source_files": [
+        "LS-CF-WIND.json"
+      ]
+    }
+  },
+  "_variant_raw_texts": {
+    "LS-CF-11ST": "캠핑 선풍기 더블업\n내 마음대로 색상 조합!\nGREEN + GREEN\n1+1\nGREEN + IVORY\n1+1\nIVORY + IVORY\n1+1",
+    "LS-CF-LENGTH": "3단계\n높이 조절\n선풍기에 삼각대 겸 거치봉을\n연결하면 자유롭게 높이 조절이\n가능하여 환경에 맞게\n사용할 수 있습니다.",
+    "LS-CF-ROTATE": "회전 모드 지원\n(좌우 : 자동 / 상하 : 수동)\n1. 선풍기 작동 중 전원 버튼을\n2초간 눌러주면 좌우 회전 모드를\n사용할 수 있습니다.\n2. 상하 방향의 경우 수동으로\n조절하여 해당 위치에 맞출\n수 있습니다.",
+    "LS-CF-WIND": "3단계 바람세기 조절\n선풍기 본체 전원 버튼을 통해\n“1단계> 2단계 > 3단계 > 자연풍 > 종료”\n순으로 바람 세기및 선풍기 전원을 조절할 수 있습니다.\n1단계(미풍)\n2단계(약품)\n3단계(강풍)\n자연풍"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "배터리",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [],
+      "color_options": [
+        "Green",
+        "Ivory"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB Type-C 충전 지원",
+    "power.power_mode": "4000mAh 대용량 배터리 탑재",
+    "power.charging_support": "USB Type-C 충전 지원",
+    "form_physical.has_case": "선풍기 앞부분 회전으로 손쉬운 분리·조립 가능",
+    "form_physical.color_options": "Green / Ivory 2가지 색상",
+    "certification.kc": "KC 인증 및 국립전파연구원 인증 획득",
+    "control_switching.has_physical_button": "바람 세기 조절 버튼 2초 장누름"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:07",
+  "feature_schema_version": "1.0.0"
+}

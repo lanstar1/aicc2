@@ -1,0 +1,402 @@
+{
+  "model_no": "LS-F7FTP",
+  "product_name": "LANStar CAT 6A FTP FLAT Direct Ethernet Cable (White)",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-FTP",
+    "케이블정리"
+  ],
+  "key_features": [
+    "CAT.6A FTP 규격, 500MHz 대역폭 지원",
+    "최대 10Gbps 전송속도 (10GBASE-T 지원)",
+    "32AWG 연선(Stranded Cable) 구조로 유연성 및 장력 우수",
+    "평면(FLAT) 케이블 설계로 공간활용 및 선정리 용이",
+    "순수 구리(Bare Copper) 심선 사용으로 높은 데이터 전송률",
+    "4페어 꼬임구조, 알루미늄 호일 차폐, PVC 자켓",
+    "케이블 외경 OD 1.75 x 6.6mm (슬림/플렉시블)",
+    "최대 30kg 장력 지원",
+    "RoHS 인증 제품",
+    "FLUKE 네트웍스 DTX-CHA002 테스터기 통과 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.6A FTP",
+    "전송속도": "최대 10Gbps",
+    "대역폭": "500MHz",
+    "심선": "32AWG 연선(Stranded Cable)",
+    "커넥터": "RJ45, 8P8C, Blue Connector",
+    "직경": "OD 1.75 x 6.6mm",
+    "재질": "PVC",
+    "차폐 구조": "알루미늄 호일, Drain Wire",
+    "최대 장력": "30kg",
+    "색상": "White",
+    "길이 옵션": "1m, 2m, 3m, 5m, 10m, 15m, 20m",
+    "모델별 길이": "LS-F7FTP-1M(1M), LS-F7FTP-2M(2M), LS-F7FTP-3M(3M), LS-F7FTP-5M(5M), LS-F7FTP-10M(10M), LS-F7FTP-15M(15M), LS-F7FTP-20M(20M)",
+    "인증": "RoHS, FLUKE DTX-CHA002 PASS",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "브랜드": "LANStar",
+    "KC 인증 번호": "해당없음"
+  },
+  "compatibility": [
+    "10GBASE-T 지원 네트워크 장비",
+    "프린터(Printer)",
+    "노트북(Notebook)",
+    "데스크탑/Mac OS",
+    "서버(Server)",
+    "스마트 TV(Smart TV)",
+    "PoE(Power over Ethernet) 지원 장비",
+    "일반적으로 RJ45 랜케이블을 사용하는 제품군 전반"
+  ],
+  "package_contents": [
+    "CAT.6A FTP FLAT 랜케이블 1개 (선택한 길이에 해당하는 모델)"
+  ],
+  "usage_instructions": "RJ45 커넥터를 네트워크 장비(공유기, 스위치, PC, 서버, 스마트TV, 프린터 등)의 LAN 포트에 연결하여 사용. 평면 케이블 특성상 공간 활용 및 선정리에 유리하며, 문 틈·바닥 등 좁은 공간 배선에 효과적으로 사용 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상·형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-F7FTP-1M",
+      "품목코드": "CAB-U7F048",
+      "품목명": "[LANstar] CAT.6A FTP 평면케이블 1m 화이트색상 [30638] (280개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F7FTP-2M",
+      "품목코드": "CAB-U7F049",
+      "품목명": "[LANstar] CAT.6A FTP 평면케이블 2m 화이트색상 [30639] (260개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F7FTP-3M",
+      "품목코드": "CAB-U7F050",
+      "품목명": "[LANstar] CAT.6A FTP 평면케이블 3m 화이트색상 [30640] (200개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F7FTP-5M",
+      "품목코드": "CAB-U7F051",
+      "품목명": "[LANstar] CAT.6A FTP 평면케이블 5m 화이트색상 [30641] (160개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F7FTP-10M",
+      "품목코드": "CAB-U7F052",
+      "품목명": "[LANstar] CAT.6A FTP 평면케이블 10m 화이트색상 [30642] (80개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F7FTP-15M",
+      "품목코드": "CAB-U7F053",
+      "품목명": "[LANstar] CAT.6A FTP 평면케이블 15m 화이트색상 [30643] (50개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F7FTP-20M",
+      "품목코드": "CAB-U7F054",
+      "품목명": "[LANstar] CAT.6A FTP 평면케이블 20m 화이트색상 [30644] (40개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-F7FTP",
+      "내용": "포장 깔끔하고 제품도 이상없이 잘 받았습니다. 무엇보다 빠른배송에 만족해요~~"
+    },
+    {
+      "source_model": "LS-F7FTP-10M",
+      "내용": "방문 틈으로 잘들어가서 무선에서 안정된 유선으로"
+    },
+    {
+      "source_model": "LS-F7FTP-10M",
+      "내용": "일단 랜선 잘 모르는부분 있어서 상담후에 결정했는데요. 일단 너무 만족스럽구요. 다행히 잘 되서 좋아요 ㅎㅎ\n컴퓨터방 구조 변경 한다고 여러 쇼를 했지만 10m도 있고 짧은거도 있고 여러 종류가 한번에 다 있으니 보기 편했어요.\n그리고 칼국수 같이 얇은 케이블이라 선 정리하기도 너무 편하네요. 추천합니다!"
+    },
+    {
+      "source_model": "LS-F7FTP-10M",
+      "내용": "다양한 길이와 종류의 랜선을 구비하고 있다는 점에서 쇼핑을 한 번에 끝낼 수 있어 좋았습니다. 또한, 광고에 적혀있듯 전문가와 전화로 상품 구매 전 상담을 할 수 있다는 점이 무척 좋습니다. 직접 상담을 이용했었는데 해당 상점 물건만을 판매하려는 상담이 아니라 여쭤본 내용에 대한 필요한 정보를 전달해주셔서 더 신뢰가 갔습니다. 배송도 만 하루 밖에 안 걸려서 굉장히 빠르고 좋았습니다. 급하게 필요한 경우에 다음에 또 이용할 수 있을 것 같아요."
+    },
+    {
+      "source_model": "LS-F7FTP-10M",
+      "내용": "잘 쓰고 있습니다~"
+    },
+    {
+      "source_model": "LS-F7FTP-15M",
+      "내용": "신호 잘 받습니다."
+    },
+    {
+      "source_model": "LS-F7FTP-15M",
+      "내용": "생각한것 이상입니다 굿"
+    },
+    {
+      "source_model": "LS-F7FTP-15M",
+      "내용": "포장이 아주 굿굿 입니당"
+    },
+    {
+      "source_model": "LS-F7FTP-15M",
+      "내용": "상품 잘 받았습니다."
+    },
+    {
+      "source_model": "LS-F7FTP-15M",
+      "내용": "배송 짱짱 빨라요!!"
+    },
+    {
+      "source_model": "LS-F7FTP-1M",
+      "내용": "배송도 빠르고 좋았ㅅ습니다"
+    },
+    {
+      "source_model": "LS-F7FTP-1M",
+      "내용": "얇은 선이 예상대로 좋습니다.",
+      "관련내용": "길이, 넓이, 품질 모두 딱 좋습니다."
+    },
+    {
+      "source_model": "LS-F7FTP-1M",
+      "내용": "길이, 넓이, 품질 모두 딱 좋습니다."
+    },
+    {
+      "source_model": "LS-F7FTP-1M",
+      "내용": "배송이 빨라거 좋았어요"
+    },
+    {
+      "source_model": "LS-F7FTP-1M",
+      "내용": "잘쓰고있습니다~~~"
+    },
+    {
+      "source_model": "LS-F7FTP-20M",
+      "내용": "포장이 좀 어이가없네 ㅋㅋ 단자 부서지면 어쩔려고 아무것도없이 달랑 비닐포장에다 보내네"
+    },
+    {
+      "source_model": "LS-F7FTP-20M",
+      "내용": "렌신을 깔려고 했는데 그러지 않아도 되는 상황이어서 설치를 못하고 방치 중입니다.. 나중에 언젠가 쓸 날이 있겠죠..ㅎㅎ 커넥터 부분이 일반적인 것과 달라요~~"
+    },
+    {
+      "source_model": "LS-F7FTP-20M",
+      "내용": "배송이 빠르고 좋습니다.",
+      "관련내용": "케이블도 튼튼하고 길이도 적당해서 좋습니다."
+    },
+    {
+      "source_model": "LS-F7FTP-20M",
+      "내용": "케이블도 튼튼하고 길이도 적당해서 좋습니다."
+    },
+    {
+      "source_model": "LS-F7FTP-20M",
+      "내용": "아직 안써봐서 몰라요."
+    },
+    {
+      "source_model": "LS-F7FTP-20M",
+      "내용": "거실에서 방으로 선을 연결했어요. \n흰색 벽지에 가려져서 좋았어요. \n잘 사용하고 있어요."
+    },
+    {
+      "source_model": "LS-F7FTP-20M",
+      "내용": "선도 길고 납작하고 얇아서 옆방 인터넷 끌어쓰려고 산건데 연결 잘 되고 좋아요 ㅎㅎ 다만 혹시나 불안한 마음에 너무 긴걸 사서 남는 길이는 묶어놓고 쓰고 있는데 나중에 혹시 고장나거나 하면 좀 더 짧은 길이로 다시 구매하려고 합니다 잘 쓸게용!"
+    },
+    {
+      "source_model": "LS-F7FTP-2M",
+      "내용": "배송도 빠르고 좋았ㅅ습니다"
+    },
+    {
+      "source_model": "LS-F7FTP-2M",
+      "내용": "얇고 납작한 선모양이 독특해 보이고 깔끔해서 좋아요"
+    },
+    {
+      "source_model": "LS-F7FTP-2M",
+      "내용": "원하던 수준의 품질입니다.",
+      "관련내용": "원했던 형태의 랜선입니다. 품질도 좋습니다."
+    },
+    {
+      "source_model": "LS-F7FTP-2M",
+      "내용": "원했던 형태의 랜선입니다. 품질도 좋습니다."
+    },
+    {
+      "source_model": "LS-F7FTP-2M",
+      "내용": "케이블이 슬림하고 성능이 좋습니다. 미관상 보기도 일반 케이블 보다 좋습니다."
+    },
+    {
+      "source_model": "LS-F7FTP-2M",
+      "내용": "일단 랜선 잘 모르는부분 있어서 상담후에 결정했는데요. 일단 너무 만족스럽구요. 다행히 잘 되서 좋아요 ㅎㅎ 컴퓨터방 구조 변경 한다고 여러 쇼를 했지만 10m도 있고 짧은거도 있고 여러 종류가 한번에 다 있으니 보기 편했어요. 그리고 칼국수 같이 얇은 케이블이라 선 정리하기도 너무 편하네요. 추천합니다!"
+    },
+    {
+      "source_model": "LS-F7FTP-2M",
+      "내용": "잘쓰고 있습니다~~"
+    },
+    {
+      "source_model": "LS-F7FTP-3M",
+      "내용": "성능 무지 좋습니다"
+    },
+    {
+      "source_model": "LS-F7FTP-3M",
+      "내용": "배송빠르고 제품 좋아요"
+    },
+    {
+      "source_model": "LS-F7FTP-3M",
+      "내용": "얇고 납작한 선모양이 독특해 보이고 깔끔해서 좋아요"
+    },
+    {
+      "source_model": "LS-F7FTP-3M",
+      "내용": "배송1등. 다양한 케이블 판매해주셔서 고맙습니다."
+    },
+    {
+      "source_model": "LS-F7FTP-3M",
+      "내용": "붸리 굿입니다. 잘 휘어지고 이쁩니다.",
+      "관련내용": "기대했던대로 얇고 가벼운 랜선입니다. 마감품질 좋습니다."
+    },
+    {
+      "source_model": "LS-F7FTP-3M",
+      "내용": "기대했던대로 얇고 가벼운 랜선입니다. 마감품질 좋습니다."
+    },
+    {
+      "source_model": "LS-F7FTP-3M",
+      "내용": "일단 랜선 잘 모르는부분 있어서 상담후에 결정했는데요. 일단 너무 만족스럽구요. 다행히 잘 되서 좋아요 ㅎㅎ 컴퓨터방 구조 변경 한다고 여러 쇼를 했지만 10m도 있고 짧은거도 있고 여러 종류가 한번에 다 있으니 보기 편했어요. 그리고 칼국수 같이 얇은 케이블이라 선 정리하기도 너무 편하네요. 추천합니다!"
+    },
+    {
+      "source_model": "LS-F7FTP-3M",
+      "내용": "선이 간단해서 좋아요"
+    },
+    {
+      "source_model": "LS-F7FTP-3M",
+      "내용": "빠른 배송 정확한 상품 감사합니다"
+    },
+    {
+      "source_model": "LS-F7FTP-5M",
+      "내용": "성능 무지 좋습니다"
+    },
+    {
+      "source_model": "LS-F7FTP-5M",
+      "내용": "원래 사용하던 랜선보다 좋네요~"
+    },
+    {
+      "source_model": "LS-F7FTP-5M",
+      "내용": "배송도 빠르고 잘 돼요"
+    },
+    {
+      "source_model": "LS-F7FTP-5M",
+      "내용": "얇고 납작한 선모양이 독특해 보이고 깔끔해서 좋아요"
+    },
+    {
+      "source_model": "LS-F7FTP-5M",
+      "내용": "얇아사 좁은 공간에서도 잘 사용할 수 있어 좋습니다"
+    },
+    {
+      "source_model": "LS-F7FTP-5M",
+      "내용": "다양한 길이의 랜선을 한 상점에서 구매할 수 있다는 장점, 전문가와 전화로 상품 구매 전 상담을 할 수 있다는 점이 무척 좋습니다. 상담도 했는데 꼭 해당 상점 물건만을 판매하려는 상담이 아니라 여쭤본 내용에 대한 필요한 정보를 전달해주셔서 더 신뢰가 갔습니다. 배송도 만 하루 밖에 안 걸려서 굉장히 빠르고 좋았습니다. 급하게 필요한 경우에 다음에 또 이용할 수 있을 것 같아요.\n\n약간 아쉬웠던 점은 배송포장 박스가 좀 너덜거렸고 테이프가 너무 많이 붙어있어 제거하고 재활용쓰레기로 버리기 번거로운 점이 있었습니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-F7FTP-10M",
+      "id": 539654749,
+      "date": "2023-07-27 00:19",
+      "answerDate": "2023-07-27 10:59",
+      "user": "leek*****",
+      "productName": "랜스타 LS-F7FTP-10M CAT.6A FTP 평면케이블 화이트 10M",
+      "question": "안녕하세요. 잘몰라서 그러는데 질문 좀 할게용\n저희집에 컴퓨터 2대를 쓰는데요. \n유플러스 기가와이파이를 쓰고 있고 인터넷은 기가슬림 500메가 이용중입니다. 랜선은 보니까 기본 cat5e를 쓰고 있구요. \n방 구조 변경 때문에 랜선 10m는 써야 할 것 같은데 혹시 랜선 종류가 많던데 뭘 쓰는게 좋을까요?\ncat6a로 올리면 제 상황에서 유의미할까요?\n만약에 유의미하다면 벽에서 와이파이로 1개. 컴퓨터1번 1개. 컴퓨터2번 1개. 3개다 같은 랜선을 써야하죠?\n혹시..cat8은 1기가인터넷 이상에서만 가능한거죠?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n문의 주신 부분 확인하여 답변 드립니다.\n아래 내용 참고하시어 구매 진행 부탁드립니다.\n\nCAT.5e 이상인 케이블은 1Gbps를 지원하기 때문에 현재 사용하시는 CAT.5e 케이블은 정상적으로 지원하는 제품입니다.\n모든 랜선에 같은 케이블을 사용하실 필요는 없습니다. 문의주신 케이블처럼 평면 케이블이 필요하실 경우 그에 맞춰 구매해주시면 되고, 그렇지 않을 경우 일반 케이블을 혼합하여 사용하셔도 됩니다.\n\nCAT.8은 40Gbps를 지원하는 제품이고, 1기가 인터넷은 앞서 말씀 드린 것처럼 cat.5e를 사용하셔도 괜찮습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-F7FTP-1M",
+      "id": 656192242,
+      "date": "2025-12-22 15:25",
+      "answerDate": "2025-12-22 16:56",
+      "user": "skyk*******",
+      "productName": "랜스타 LS-F7FTP-1M CAT.6A FTP 평면케이블 화이트 1M",
+      "question": "집에서 일반적인 용도로 100Mbps 인터넷에 연결하려고 합니다. 바닥 걸레받이? 몰딩을 따라 깔끔하게 지나가도록 연결하려 하는데 이 제품이면 될까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n이 제품으로 이용하셔도 무방합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC",
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        2,
+        3,
+        5,
+        10,
+        15,
+        20
+      ],
+      "color_options": [
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "FTP",
+      "conductor": "연선(stranded)",
+      "awg": 32,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 커넥터를 네트워크 장비",
+    "connectivity.output_signals": "LAN 포트에 연결하여 사용",
+    "connectivity.directional": "RJ45 커넥터를 네트워크 장비",
+    "form_physical.material": "알루미늄 호일 차폐, PVC 자켓",
+    "form_physical.length_options_meters": "1m, 2m, 3m, 5m, 10m, 15m, 20m",
+    "form_physical.color_options": "색상: White",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "certification.rohs": "RoHS 인증 제품",
+    "family.cat_category": "CAT.6A FTP 규격",
+    "family.shielding": "CAT.6A FTP",
+    "family.conductor": "32AWG 연선(Stranded Cable) 구조",
+    "family.awg": "32AWG 연선",
+    "family.pair_count": "4페어 꼬임구조",
+    "family.flame_rating": "PVC 자켓"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:11",
+  "feature_schema_version": "1.0.0"
+}

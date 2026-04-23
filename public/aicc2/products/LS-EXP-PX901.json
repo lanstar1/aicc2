@@ -1,0 +1,120 @@
+{
+  "model_no": "LS-EXP-PX901",
+  "product_name": "LANStar PCM Express 1Port Serial Card",
+  "category": [
+    "시리얼카드"
+  ],
+  "key_features": [
+    "다양한 OS 지원과 안정성",
+    "PCM Express 1.1 규격 지원",
+    "PCM Power Management 1.2 지원",
+    "1x UART 시리얼 포트 지원",
+    "128byte FIFO 기능 지원",
+    "데이터 최대 230,400bps 전송속도",
+    "Oxford Host Controller ChipSet 탑재로 안정성과 호환성 보장",
+    "POS 시장에서 검증된 탁월한 호환성과 안정성",
+    "IEEE1284 호환",
+    "표준병렬포트(SPP) / 고급병렬포트(EPP) / 향상된 기능포트(ECP) 모드 지원",
+    "KCC 인증 획득 제품 (인증번호: KCC-REM-LUS-LS-EXP-PX901)"
+  ],
+  "specifications": {
+    "Bus Type": "PCM Express",
+    "Chipset": "Oxford",
+    "Number of Ports": "RS232 x 1ea",
+    "Transfer Rate": "230,400bps",
+    "OS Compatibility": "Windows 2000/XP/2003/Vista/7",
+    "인증번호": "KCC-REM-LUS-LS-EXP-PX901"
+  },
+  "compatibility": [
+    "Windows 2000",
+    "Windows XP",
+    "Windows 2003",
+    "Windows Vista",
+    "Windows 7",
+    "노트북 Express Card 슬롯"
+  ],
+  "package_contents": [
+    "카드 본체 1개",
+    "설치 드라이버 CD 1개"
+  ],
+  "usage_instructions": "노트북의 Express Card 슬롯에 카드를 장착하고, 동봉된 드라이버 CD로 드라이버를 설치하여 시리얼 포트를 확장하여 사용합니다.",
+  "cautions": [
+    "시중에 판매 중인 일부 유사품 중 KCC 인증을 받지 않은 제품이 있으므로 구매 시 인증 여부를 반드시 확인하시기 바랍니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자분쟁해결 기준에 의거하여 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 라인업시스템(주) / 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-EXP-PX901",
+      "품목코드": "USB-PCM027",
+      "품목명": "[LANstar] 노트북용 EXPRESS 시리얼카드,Serial 2Port, Oxford[30070] ★★할인제외★★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Serial(DB9)"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 0.2304,
+      "chipset": "Oxford"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "1x UART 시리얼 포트 지원",
+    "connectivity.output_signals": "1x UART 시리얼 포트 지원",
+    "connectivity.directional": "데이터 최대 230,400bps 전송속도",
+    "connectivity.port_count": "RS232 x 1ea",
+    "power.power_mode": "노트북의 Express Card 슬롯에 카드를 장착",
+    "power.charging_support": "PCM Power Management 1.2 지원",
+    "certification.kc": "KCC 인증 획득 제품",
+    "family.bus_interface": "PCM Express 1.1 규격 지원",
+    "family.speed_mbps": "230,400bps",
+    "family.chipset": "Oxford Host Controller ChipSet 탑재"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:03",
+  "feature_schema_version": "1.0.0"
+}

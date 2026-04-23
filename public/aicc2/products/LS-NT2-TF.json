@@ -1,0 +1,120 @@
+{
+  "model_no": "LS-NT2-TF",
+  "product_name": "닌텐도 스위치2 전용 강화 필름",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "닌텐도 스위치2 전용 정밀 가공 설계로 가장자리까지 깔끔하게 밀착",
+    "9H 고경도 강화 필름으로 칼, 동전, 열쇠 등 날카로운 물체로부터 스크래치 및 충격 보호",
+    "HD 고투명 광학 유리로 원본 화면의 색감과 해상도 그대로 유지",
+    "올레포빅 코팅(지문 방지 & 발수 코팅)으로 지문·유분·땀이 잘 묻지 않고 닦기 쉬움",
+    "전용 부착 가이드 트레이 포함으로 누구나 쉽고 정확하게 부착 가능",
+    "두께 약 0.33mm의 슬림한 디자인으로 케이스와 호환 용이",
+    "강화 필름 2매 구성으로 여분 보관 또는 가족과 함께 사용 가능"
+  ],
+  "specifications": {
+    "호환 기기": "닌텐도 스위치2 전용",
+    "소재": "9H 강화 필름",
+    "색상": "클리어(투명)",
+    "크기": "19.5 x 10.2 cm",
+    "두께": "약 0.33mm"
+  },
+  "compatibility": [
+    "닌텐도 스위치2 전용",
+    "OLED 모델 호환 불가",
+    "닌텐도 스위치 1세대 호환 불가",
+    "닌텐도 스위치 라이트 호환 불가"
+  ],
+  "package_contents": [
+    "강화 필름 2개",
+    "필름 트레이 1개",
+    "부착용 가이드 스티커 3개 (2세트)",
+    "먼지제거 스티커 1개 (2세트)",
+    "액정 클리너 1개 (2세트)",
+    "알코올 솜 1개 (2세트)"
+  ],
+  "usage_instructions": "① 강화 필름을 트레이에 딱 맞게 배치한다. ② 표시된 부분의 스티커를 벗긴 뒤 필름에 고정한다. ③ 필름 스티커를 제거한다. ④ 닌텐도 스위치2에 맞게 트레이를 결합한 뒤 트레이를 제거하면 부착 완료. (트레이 없이도 부착 가능하나 정확한 부착을 위해 트레이 사용 권장)",
+  "cautions": [
+    "본 제품은 닌텐도 스위치2 전용으로, OLED 모델·1세대 스위치·스위치 라이트 등 기존 모델에는 호환되지 않음",
+    "제품 봉인씰이 일부 개봉된 상태로 보일 수 있으나, 알코올 솜을 수입 후 별도 동봉하는 과정에서 발생한 것으로 리퍼·반품 제품이 아닌 100% 새 제품임",
+    "필름 트레이 분실 시 정확한 부착이 어려우므로 트레이를 분실하지 않도록 주의",
+    "당일 출고는 오후 4시 이전 결제 완료 건 기준이며, 토·일·공휴일 제외 평일에 한함",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있음",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처의 제품은 정품이 아니며 A/S 불가",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양이 예고 없이 변경될 수 있음",
+    "무단 복제 및 콘텐츠 이용 시 불이익이 발생할 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-NT2-TF",
+      "품목코드": "USB-응용제203",
+      "품목명": "닌텐도 스위치2 강화유리 액정 보호 필름 2매 DOBE [100개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-NT2-TF",
+      "내용": "딱딱한 보호필름입니다. 2장 들어있어서 오염되면 교체할 수있을것같아요"
+    },
+    {
+      "source_model": "LS-NT2-TF",
+      "내용": "배송은 빠르고요 아직 설치 전이라 설치하고 다시 리뷰남기겠습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "강화유리"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "클리어(투명)"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": null,
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.material": "9H 고경도 강화 필름",
+    "form_physical.color_options": "클리어(투명)"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:19",
+  "feature_schema_version": "1.0.0"
+}

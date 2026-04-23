@@ -1,0 +1,145 @@
+{
+  "model_no": "LS-HT-314B",
+  "product_name": "LANstar 임팩트 툴 LS-314B",
+  "category": [
+    "LAN공구"
+  ],
+  "key_features": [
+    "임팩트 장치가 있는 본체와 조정 가능한 부분으로 구성",
+    "조정부를 시계방향으로 H에 맞추면 H=15±2Kgs 압력으로 표준 Wire 삽입 가능",
+    "Tool 상단 반대편 공간에 예비 칼날 1개 보관 가능",
+    "칼날 양면 사용 가능 및 다른 모양의 칼날과 교체 가능",
+    "모든 칼날 상호 호환 가능",
+    "CAT.7 케이블을 키스톤잭 및 아울렛 박스에 장착하는 용도로 사용 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "RoHS 및 ISO 9001:2008 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-HT-314B",
+    "품명": "임팩트 툴",
+    "브랜드": "LANstar",
+    "압력(H 설정 시)": "H=15±2Kgs",
+    "제조국/원산지": "중국(China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "보험": "현대해상화재 생산물배상책임보험 1억원",
+    "환경인증": "RoHS COMPLIANT",
+    "품질인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "CAT.7 케이블",
+    "CAT.6A 10G 지원 키스톤잭",
+    "CAT.6A 10G 지원 아울렛 박스",
+    "표준 Wire"
+  ],
+  "package_contents": [
+    "임팩트 툴 본체 1개",
+    "예비 칼날 1개 (본체 상단 보관 공간에 수납)"
+  ],
+  "usage_instructions": "1. 조정부를 시계방향으로 돌려 H로 맞춘다(H=15±2Kgs). 2. CAT.7 케이블을 키스톤잭의 컬러에 맞게 배열하여 삽입한다. 3. 임팩트 툴을 키스톤잭 위에 살짝 올린 뒤 아래로 꾹 눌러 와이어를 삽입·고정한다. 4. 컬러별로 연결된 키스톤잭을 아울렛 블링크 박스 앞부분에 걸어준다. 5. 케이블타이로 아울렛 박스와 CAT.7 케이블을 묶어 고정한 후 키스톤잭 덮개를 닫는다. 6. 블링크 아울렛 박스 덮개를 덮으면 완료. [칼날 교체 방법] 실버색 구슬이 나오도록 쇠를 돌린 뒤 구슬을 누르고 살살 흔들어 칼날을 빼낸 후 방향 전환 또는 교체한다.",
+  "cautions": [
+    "조정부를 시계 반대 방향으로 돌리지 말 것 (역방향 사용 불가)",
+    "칼날 교체 시 실버색 구슬을 누른 후 살살 흔들어 분리할 것",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음",
+    "라인업시스템(주) 상품 및 콘텐츠 무단 복제·이용 금지",
+    "컷팅 가능/불가 방향 확인 후 사용할 것"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HT-314B",
+      "품목코드": "NEO-LAN002",
+      "품목명": "[LANstar] 임팩트 틀, 110용,Punch툴, 패치용, 고급형[40123] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HT-314B",
+      "내용": "패치판넬 작업 위해 구입\n컷팅 동시에 되어 편해요!"
+    },
+    {
+      "source_model": "LS-HT-314B",
+      "내용": "배송도 빠르고 잘 쓰고 있어요"
+    },
+    {
+      "source_model": "LS-HT-314B",
+      "내용": "사용하기 편안하고 작업효율이 빨라요",
+      "관련내용": "편안하고 좋내요.."
+    },
+    {
+      "source_model": "LS-HT-314B",
+      "내용": "편안하고 좋내요.."
+    },
+    {
+      "source_model": "LS-HT-314B",
+      "내용": "배송도 빠르고 좋아요."
+    },
+    {
+      "source_model": "LS-HT-314B",
+      "내용": "제품 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-HT-314B",
+      "내용": "일단 랜모듈에 꽂을 때 딸각하는 소리가 쾌감이 좋았고 편해서 좋았으나 제가 용도를 이것 외에 사용하는 법을 몰라서 그런 것일 수도 있지만 랜모듈 이외에 어디에 사용해야 이 제품을 잘 사용했다할지 영 갈피를 못잡아서 좀 아쉬웠습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "tool_type": [
+        "펀치다운"
+      ],
+      "target_terminal": [
+        "키스톤잭"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "certification.rohs": "RoHS 및 ISO 9001:2008 인증",
+    "certification.iso9001": "RoHS 및 ISO 9001:2008 인증",
+    "family.tool_type": "임팩트 툴을 키스톤잭 위에 살짝 올린 뒤 아래로 꾹 눌러 와이어를 삽입·고정한다",
+    "family.target_terminal": "CAT.7 케이블을 키스톤잭 및 아울렛 박스에 장착하는 용도로 사용 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:48",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,273 @@
+{
+  "model_no": "LS-CAT7-750G",
+  "product_name": "CAT.7 STP 모듈러콘넥터 Gold (8P8C / Insert 포함 / 50μ / Gold / 단선)",
+  "category": [
+    "랜케이블-CAT7",
+    "랜케이블-STP",
+    "랜케이블"
+  ],
+  "key_features": [
+    "CAT.7(6A) SSTP 전용 콘넥터로 Insert에 랜케이블 연결 후 콘넥터에 삽입하는 방식",
+    "얼터네이트 구조 채택으로 꼬임을 최대한 살려 수평구조 대비 전자파 간섭 최소화",
+    "케이블 두께 최대 23AWG 전용 (도체경 23AWG / 절연외경 1.5mm)",
+    "50μ 3Prongs 금도금 핀 장착으로 전도율 높고 신호 손실 적어 통신공사용 적합",
+    "Insert 포함 제품",
+    "낱개 구매 가능",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-EZ-750)",
+    "UL 인증 통과 제품",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "지원규격": "CAT.7 / CAT.6A",
+    "전송속도": "10Gbps",
+    "대역폭": "600MHz",
+    "케이블 두께": "23AWG",
+    "도체경": "23AWG",
+    "절연외경": "1.5mm",
+    "핀 구성": "8P8C",
+    "금도금": "50μ 3Prongs",
+    "KC 인증번호": "R-R-LUS-LS-EZ-750",
+    "UL 인증번호": "UL-US-L508505-70909102-3",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "CAT.7 / CAT.6A SSTP 케이블",
+    "23AWG 단선 케이블",
+    "LS-7SSTP-100MG (CAT.7 SSTP 100M 랜케이블, 23AWG, 단선 Grey)",
+    "LS-7SSTP-300MG (CAT.7 SSTP 300M 랜케이블, 23AWG, 단선 Grey)",
+    "LS-7SSTP-300MB (CAT.7 SSTP 300M 랜케이블, 23AWG, 단선 Blue)"
+  ],
+  "package_contents": [
+    "CAT.7 STP 모듈러콘넥터 (LS-CAT7-750G) 본체",
+    "Insert (콘넥터 내 포함)"
+  ],
+  "usage_instructions": "1. 콘넥터를 연결할 케이블과 기타 부수장비(가위, 탈피기, 부트 등)를 준비한다. 2. 작업할 케이블에 부트를 삽입한다. 3. 탈피기를 이용하여 3~4cm 정도 피복을 벗겨낸다. 4. 8가닥의 선을 랜케이블 핀배열도(568B 또는 568A)에 맞게 Insert에 결합한다. 5. Insert에 연결한 뒤 모듈러 콘넥터에 결합한다. 6. 랜 툴(LS-N3-750C)을 이용하여 콘넥터를 압착한다. 7. 콘넥터의 고정클립을 BNC 툴을 이용하여 케이블과 고정한다. 8. 처음 삽입한 부트를 콘넥터에 밀어넣어 결합시키면 완성된다. ※ 랜케이블 핀배열: 다이렉트(568B-568B), 크로스(568B-568A).",
+  "cautions": [
+    "본 제품은 23AWG 단선 케이블 전용이며, 다른 규격의 케이블에는 사용 불가",
+    "절연외경 1.5mm 이하의 케이블에만 사용 가능",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-CAT7-750G",
+      "품목코드": "NEO-콘넥터105",
+      "품목명": "[LANstar] 모듈러콘넥터, CAT.7, STP, 50u, 8P8C, Insert, 골드콘넥터 (24개)[40623]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "만족합니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "빠른배송고맙습니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "만족합니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "연결 쉽고. 한번에 결착했음"
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "만족합니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "빠른 배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "빠른 배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "빠른 배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "빠른배송 좋은상품 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "감사드립니다. 잘쓰겠습니다"
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "처음 주문했는데 만족합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "감사드립니다 잘쓰겠습니다"
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "빠른 배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "물건 너무 만족합니다!\n감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "동작 잘됩니다. CAT 전용인거같아요 CAT6에는 연결하기 힘들어요"
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "빠른 배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "빠른배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "빠른 배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "빠른배송 좋은상품 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "빠른 배송에 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "빠른 배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "빠른 배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "생각한거보다 잘되내요!"
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "빠른 배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "배송 빠르고 좋아요~"
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "빠른 배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "깔끔 심플 만듬새 좋고 조립시 더 쉽네요"
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "배송빠르고 좋습니다"
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "회사용으로 주문했는데 그 다음날 배송 ... 빠르네요"
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "좋아요~~~~~~~~~",
+      "관련내용": "좋아요~~~~~~~~"
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "내용": "좋아요~~~~~~~~"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-CAT7-750G",
+      "id": 566624728,
+      "date": "2024-02-03 11:28",
+      "answerDate": "2024-02-05 12:13",
+      "user": "iamx***",
+      "productName": "랜스타 모듈러콘넥터 CAT.7 STP 50u 8P8C Insert 골드 LS-CAT7-750G",
+      "question": "LS-CAT7-750    /    LS-CAT7-750G    /    LS-EZ-750 \n세 모델의 큰 차이점은 뭔지 궁금합니다. 커넥터 선택을 하지못해 문의드립니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\nCAT7-750, CAT7-750G 제품의 경우 색상의 차이가 있습니다. (실버, 골드)\n두 제품 모두 비통과형 제품입니다.\n\nLS-EZ-750 제품의 경우 실버 색상이며, 통과형 컨넥터라는 차이가 있습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-750G",
+      "id": 611267298,
+      "date": "2024-12-26 12:40",
+      "answerDate": "2024-12-26 14:24",
+      "user": "sh****",
+      "productName": "랜스타 모듈러콘넥터 CAT.7 STP 50u 8P8C Insert 골드 LS-CAT7-750G",
+      "question": "안녕하세요.\n위 상품을 쿠팡에서 구매해서 작업을 했는데요, 연선 케이블에서는 아예 인식이 안 되는것 같습니다. 케이블 순서도 잘 맞췄는데 연결이 되지 않습니다. \n혹시 cat7 연선 케이블에 사용할만한 rj45 커넥터를 알려주실수 있을까요. \n\nhttps://smartstore.naver.com/lineup/products/8772184146\n케이블을 이 제품을 마찬가지로 쿠팡에서 구입했습니다. \n\n랜스타 공식몰이 있는줄 알았으면 여기서 물어보고 구입할걸 그랬네요.ㅠㅠ \n\n옥내 배관에 추가로 랜선을 넣는데 관로에 기존 케이블이 있어 단선 케이블을 넣기에 어려움이 있다보니 연선을 넣었는데 각종 커넥터 연결이 잘 되지 않아 눈물을 흘리는 중입니다. \n특히나 키스톤잭 같은 툴리스 제품들은 피복이 잘 벗겨지지 않는지 대부분 작동하지 않아서 고민입니다. \n\n\n해당 케이블에 사용할 수 있는 RJ45 커넥터와 키스톤잭 커넥터 추천해주시면 구입하도록 하겠습니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n단선 연선 구분은 없으며 문의주신 케이블은 27AWG로 매우 얇은 심선으로 보여집니다. \n구매해주신 자사 골드 커넥터는 23AWG처럼 굵은 단선 케이블에 적합하며 현재 연선으로 작업하시면서 압착이 제대로 되지 않아 결선되는것으로 추측합니다.\n\n자사 커넥터 중 27AWG를 대응하는 커넥터는 아래 제품입니다. \n다만 연선 (얇은 심선) 전용 키스톤잭은 없습니다. 키스톤잭이나 커넥터 같은 경우에는 심선을 연결해서 압착만 해주면되고, RJ45 공통 규격이라 문제될 소지가 없습니다.\nLSN-CAT6A-STP - https://smartstore.naver.com/lineup/products/10446966997\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "STP",
+      "conductor": "단선(solid)",
+      "awg": 23,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "50μ 3Prongs 금도금 핀 장착",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "family.cat_category": "CAT.7(6A) SSTP 전용 콘넥터",
+    "family.shielding": "CAT.7(6A) SSTP 전용 콘넥터",
+    "family.conductor": "케이블 두께 최대 23AWG 전용 (도체경 23AWG / 절연외경 1.5mm)",
+    "family.awg": "케이블 두께 최대 23AWG 전용 (도체경 23AWG / 절연외경 1.5mm)"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:03",
+  "feature_schema_version": "1.0.0"
+}

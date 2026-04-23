@@ -1,0 +1,217 @@
+{
+  "model_no": "LS-RGB-15MF",
+  "product_name": "LANStar 보급형 RGB 모니터 케이블 (연장) GENERAL RGB MONITOR EXTENSION CABLE",
+  "category": [
+    "익스텐더"
+  ],
+  "key_features": [
+    "10 Core 케이블 구성 (3×2 Core RGB + 4 Core + Shield)",
+    "2중 차폐 처리 (알루미늄 은박 + 망사 Shield)",
+    "노이즈 방지 필터 장착으로 외부 간섭 최소화",
+    "금도금 핀 사용으로 산화(녹) 방지 및 신호 전송 능력 우수",
+    "일반적으로 케이블 길이 연장 시 사용",
+    "LANstar 정품 케이블 (케이블 전문 생산업체 라인업시스템 브랜드)",
+    "VGA 3+4C 구조: RGB 색상 신호 3선 + 동기 신호 4개 보조선",
+    "최대 해상도 1080P@60Hz(Full HD) 지원",
+    "HDB 15P M-F (수-암) 커넥터 구성",
+    "페라이트 코어 2개 장착으로 고주파 노이즈(EMI) 감소",
+    "알루미늄 차폐 + 편조차폐 이중 차폐 구조로 안정적인 신호 전송",
+    "아날로그 비디오 신호 전송 (오디오 신호 전송 불가)",
+    "2개의 고정 나사로 커넥터 단단히 고정 가능",
+    "케이블 직경 8.0±0.15mm",
+    "구형 장비 및 레트로 장비 활용에 적합",
+    "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "라인업시스템(주) / 랜스타 정품 인증 제품"
+  ],
+  "specifications": {
+    "케이블 구조": "10 Core (3×2 Core RGB + 4 Core + Shield)",
+    "차폐 방식": "2중 차폐 (알루미늄 은박 + 망사 Shield)",
+    "커넥터 형태": "HDB 15P/M - HDB 15P/M (RGB 15 Female - RGB 15 Male)",
+    "핀 처리": "금도금 핀",
+    "사용 환경": "50m 이내 원거리용",
+    "노이즈 필터": "장착",
+    "규격": "VGA 3+4C / 페라이트 코어",
+    "해상도": "1080P@60Hz",
+    "커넥터": "HDB 15P/M - 15P/F",
+    "직경": "8.0±0.15mm",
+    "케이블 길이": "1.8m, 3m, 5m, 10m, 15m, 20m",
+    "색상": "White, Grey",
+    "페라이트 코어 외경": "20mm",
+    "페라이트 코어 내경": "7mm",
+    "페라이트 코어 수량": "2개",
+    "신호 방식": "아날로그 비디오 신호",
+    "오디오 전송": "불가",
+    "제조국": "중국(China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "모델별 모델No.(10282)": "LS-RGB-15MF-1.8M / 1.8M",
+    "모델별 모델No.(10283)": "LS-RGB-15MF-3M / 3M",
+    "모델별 모델No.(10284)": "LS-RGB-15MF-5M / 5M",
+    "모델별 모델No.(10285)": "LS-RGB-15MF-10M / 10M",
+    "모델별 모델No.(10286)": "LS-RGB-15MF-15M / 15M",
+    "모델별 모델No.(10287)": "LS-RGB-15MF-20M / 20M"
+  },
+  "compatibility": [
+    "PC",
+    "흑백 모니터",
+    "CRT 모니터",
+    "LCD 모니터",
+    "HDB 15P(D-Sub 15핀) VGA 포트를 갖춘 모니터",
+    "HDB 15P(D-Sub 15핀) VGA 포트를 갖춘 PC / 그래픽카드",
+    "VGA 기반 빔 프로젝터",
+    "VGA 기반 CCTV 모니터링 장비",
+    "VGA 기반 산업용 모니터 / PLC",
+    "VGA 기반 POS 시스템",
+    "구형 CRT 모니터",
+    "고전 게임 콘솔 (RGB/VGA 출력 지원 모델)",
+    "HDMI·DisplayPort 변환 아답터/컨버터 경유 시 현대 장비 연결 가능"
+  ],
+  "package_contents": [
+    "RGB 모니터 연장 케이블 본체 (RGB 15 Female - RGB 15 Male)",
+    "VGA 3+4C 모니터 연장 케이블 (HDB 15P M-F, 페라이트 코어 2개 포함) 1개"
+  ],
+  "usage_instructions": "PC와 모니터 사이의 RGB 케이블 길이 연장 시 사용. Female 단자를 기존 케이블에 연결하고 Male 단자를 모니터 또는 PC에 연결하여 사용.",
+  "cautions": [
+    "9번 핀은 예비핀으로 사용되지 않으며, 케이블에 따라 핀이 비어있는 경우가 있으나 제품 이상이 아니므로 반품 또는 교환 사유가 될 수 없습니다.",
+    "케이블에 LANstar 마크가 있는지 확인하여 정품 여부를 확인하세요."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RGB-15MF-1.8M",
+      "품목코드": "CAB-RG저009",
+      "품목명": "[LANstar] RGB 모니터 연장케이블 3＋4C M/F 1.8M [10282] (60개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB-15MF-3M",
+      "품목코드": "CAB-RG저010",
+      "품목명": "[LANstar] RGB 모니터 연장케이블 3＋4C M/F 3M [10283] (50개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB-15MF-5M",
+      "품목코드": "CAB-RG저011",
+      "품목명": "[LANstar] RGB 모니터 연장케이블 3＋4C M/F 5M [10284] (30개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB-15MF-10M",
+      "품목코드": "CAB-RG저012",
+      "품목명": "[LANstar] RGB 모니터 연장케이블 3＋4C M/F 10M [10285] (20개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB-15MF-15M",
+      "품목코드": "CAB-RG저013",
+      "품목명": "[LANstar] RGB 모니터 연장케이블 3＋4C M/F 15M [10286] (12개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB-15MF-20M",
+      "품목코드": "CAB-RG저014",
+      "품목명": "[LANstar] RGB 모니터 연장케이블 3＋4C M/F 20M [10287] (8개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-RGB-15MF-10M",
+      "내용": "유용하게 잘 쓰고있습니다.."
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-RGB-15MF-NEW": "LAN Star\nVGA 3+4C 모니터 연장 케이블\nRGB 신호 포함 / HDB 15P M-F / 페라이트 코어\n케이블 제품 분류표\n모델No.\n모델명\n길이\n규격\n직경\n색상\n10282\nLS-RGB-15MF-1.8M\n1.8M\n10283\nLS-RGB-15MF-3M\n3M\n10284\nLS-RGB-15MF-5M\n5M\nWhite\nVGA 3+4C\n8.0±0.15(mm)\nGrey\n10285\nLS-RGB-15MF-10M\nHOM\n10286\nLS-RGB-15MF-15M\n15M\n10287\nLS-RGB-15MF-20M\n20M\nHDMI, DP 케이블도 있는데\nVGA 케이블은 왜 여전히 사용될까요?\n구형 장비와의 호환성\nWindows\n교육 기관, 기업 환경에서는 여전히 구형 장비가\n사용되고 있습니다. 구형 장비는 디지털 포트를\n지원하지 않기 때문에 RGB 케이블을 사용합니다.\n경제적인 이유\nHDMI나 DisplayPort에 비해 제작 비용이\n낮아 가격이 저렴하며, 저렴한 연결 솔류션이\n필요한 경우 여전히 RGB 케이블이 선택됩니다.\n특정 용도의 적합성\n고전게임 콘솔이나 CRT 모니터에서는\nRGB 케이블이 필수이며, 일부 산업용\n디스플레이나 프로젝터는 RGB 연결을\n기본적으로 사용합니다.\noiphy\nINOT\n아답터 및 컨버터 호환성\nRGB 케이블은 HDMI, DisplayPort로\n\n\nopny\nINOH\n아답터 및 컨버터 호환성\nRGB 케이블은 HDMI, DisplayPort로\n변환할 수 있는 아답터나 컨버터를 통해\norderA\n현대 장비와도 연결 가능합니다.\nO\nRGB, VGA 용어 정리\nRGB\nVGA\n개념\n색상 모델\n영상 신호 전송 표준\n신호 방식\n색상 표현(Red, Green, Blue)\n아날로그 비디오 신호\n사용처\n디지털 디스플레이, LED, 그래픽\n모니터, 프로젝터, 디스플레이 연결\n신호 전달\nRGB 신호선 포함\nRGB 신호 + 동기 신호\n▶ RGB는 색상을 표현하는 방식입니다.\n▶ VGA는 RGB 기반의 아날로그 신호 전송 방식입니다.\n▶ 랜스타 모니터 케이블은 RGB 3+4C VGA 케이블로 RGB 신호와 동기 신호를\n함께 전송하는 “VGA 케이블입니다.\n▶ 3+4C는 3개의 RGB 신호선(Red, Green, Blue) + 4개의 추가 신호선을\n의미하며, 안정적인 신호 전송이 가능하도록 설계되었습니다.\nRGB 신호 포함\nVGA 3+4C 연장 케이블\n1. HDB 15P/M - 15P/F\n2. 1080P@60Hz 최대 해상도 지원\n3. 아날로그 신호 전송-비디오 신호만 전송\n4. 오디오 신호 전송 X\n5. 페라이트 코어 장착 케이블\n6. 구형 장비 및 레트로 장비 활용\nFull HD 해상도 지원\n1080P@60Hz\n최대 1080P@60Hz 해상도를 지원합니다.\nFull HD\n1080p\n\n\nFull HD\n1080p\nRGB 3선 + 4개의 추가 신호선\nVGA 3+4C 케이블\n색상 신호를 전달하는 RGB 3선과, 동기 신호를 전달하는 4개의 보조선을\n알루미늄 차폐와 편조차폐가 감싸는 구조로 안정적인 신호 전송이 가능합니다.\n알루미늄 차폐\nRGB(Red, Green, Blue)\n- 색상 신호 전달\n4개의 보조선 - 동기신호 전달\n접지선 편조차폐\n페라이트 코어\n페라이트 소재(산화철 기반 세라믹)로\n만든 원통형의 코어로\n케이블의 외부에 장착되어\n고주파 노이즈(EMI)를 감소시킵니다.\n2919\n페라이트 코어는 2개가 장착되어\n08\n있습니다.\n-UTL-MA A05 20\nGLOT COHO는\nCATION\nMOTI-MA ADE\n60-0\nLOW VOLTA\n30V\nHDB 15P M/F\nVOLTAGE\nHDB(High Density D-Sub),\nVGA케이블에 사용되는 D-Sub\n15핀 커넥터이며,\n암-수로 구성된 케이블입니다.\n고정 나사\n2개의 고정 나사를 통해\nVGA 컨넥터가 빠지지 않고\n단단하게 고정할 수 있습니다.\n손으로 돌려 고정이 가능하여\n손쉽게 체결이 가능합니다.\n랜스타 모니터 연장 케이블 어디서 사용할까요?\nVGA 케이블은 더 이상 주류가 아니지만, 특정 환경과 목적에서는 필수적입니다.\n특히, 구형 장비를 계속 사용하는 환경에서 VGA 케이블은 필수품입니다.\n\n\n랜스타 모니터 연장 케이블 어디서 사용할까요?\nVGA 케이블은 더 이상 주류가 아니지만, 특정 환경과 목적에서는 필수적입니다.\n특히, 구형 장비를 계속 사용하는 환경에서 VGA 케이블은 필수품입니다.\nCCTV 모니터링실\n사무실,회의실\n교실, 강의실\n저해상도 환경의 모니터링시\nVGA 기반의 CCTV 활용\n일부 공공기관, 사무실에서는\n아직 VGA 기반 장비를 사용\n교실, 강의실 등 여전히\nVGA 빔 프로젝터를 사용\n컴퓨터 실습실\n공장 모니터링\nPOS 시스템\n일부 대학 및 학교에서는\nVGA 기반 장비를 사용\n공장에서 사용하는 PLC 또는\n산업용 모니터가 VGA 기반\nVGA 기반 POS 시스템을\n사용하는 매장, 편의점 등에서\n사용\nVGA 연장 케이블 사용시 주의사항!!\n◆ 페라이트 코어는 노이즈 방지 역할을 하지만, 신호 감쇠를 완벽히 막아주지는 않습니다.\n◆ VGA는 아날로그 신호이기 때문에 케이블의 길이가 길어질수록 신호가 약해집니다.\n◆ 연장 케이블 사용시, 길이의 총합이 30M가 넘지 않도록 주의하시기 바랍니다.\n♦ 30M가 넘어가는 환경이면 신호 증폭기 또는 칩셋이 내장된 케이블을 사용하시기 바랍니다.\nPRODUCT SIZE\n32mm\nHDB 15P/F\nn\nn\n35mm\n44mm\n0\nㅇ\nPIN OUT\n95\nP1\nP2\n22\n日」\nP\n페라이트 코어\n1\n1\n외경 : 20mm\n내경 : 7mm\nA\n日\n1.8M\n2367\n3M\n5M\n2367840\n10M\n8\n15M\n4\n20M\nP\nD\nD\n10\n10\nON\n13\n13\nD\nD\n14\n14\nSHELL\n34mm\n43mm\nU\nAAA\nHDB 15P/M\n33mm\nSPECIFICATION\n\n\nAAA\nHDB 15P/M\n33mm\nSPECIFICATION\n규격\nVGA 3+4C / 페라이트 코어\n해상도\n1080P@60HZ\n컨넥터\nHDB 15P/M - 15P/F\n직경\n8.0±0.15(mm)\n케이블 길이\n1.8m/3m/5m/10m/15m/20m\nFAQ\n자주 물어보시는 질문\nQ. 60Hz 이상 고주사율은 지원하지 않나요?\n이론적으로 800x600 해상도에서 최대 85Hz까지 지원은 가능하나, 아날로그 신호 특성상\n60Hz 이상 고주사율은 권장하지 않습니다. 고주사율 해상도 출력을 원하실 경우\nHDMI 케이블이나, DP 케이블을 구매하여 사용하시기 바랍니다.\nQ. 오디오 신호도 전달되나요?\n아니요! VGA 케이블은 비디오 신호만 전달합니다. 오디오 신호는 별도의 오디오 케이블\n(3.5mm AUX 또는 RCA 케이블)을 연결해야 합니다.\nQ. 페라이트 코어가 달려있는데도 길게 연결하지 못하나요?\n네. 페라이트 코어는 노이즈를 줄이는 역할을 하지만, 신호 감쇠 자체를 완전히 없애지는\n않습니다. 또한, 아날로그 신호는 길이가 길어질수록 신호가 약해지기 때문에\n적당한 길이에서 연장 케이블을 사용하시길 권장드립니다.\nQ. 연결했는데 화면이 나오지 않아요. 해결 방법이 있을까요?\n아래 순서대로 진행하시고, 문제가 해결되지 않을 경우 톡톡으로 문의주시기 바랍니다.\n1. 케이블 연결(입력 포트, 출력 포트, 연장 케이블 연결 포트) 확인\n2. 출력 해상도를 낮춰서 테스트(신호 감쇠로 인해 해상도가 자동 조절될 수 있습니다.)\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n상품 도착\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n\n\nQue\n소재·부품·장비\n전문기업확인서\n소재·부품 장비 전문기업인\n4\n* 5 01 2012-201\n가관리원\n147\n신문기업인을 확신합니다.\n산업통산자원부 시행 제도\nKeit\n22 11 29\n2022.11.29 취득\n한국산업기술평가관\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nM 현대해상화재보험H\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상 품 정보\n품\n명\nVGA 3+4C 모니터 연장 케이블\nLS-RGB-15MF-1.8M\nLANSStar\nLS-RGB-15MF-3M\nLS-RGB-15MF-5M\n모\n델\n명\nLS-RGB-15MF-10M\nLS-RGB-15MF-15M\nLS-RGB-15MF-20M\n제조국/원산지\n중국(China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질 보증 기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\nLAN Star\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1.8,
+        3.0,
+        5.0,
+        10.0,
+        15.0,
+        20.0
+      ],
+      "color_options": [
+        "White",
+        "Grey"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "max_distance_m": 50,
+      "carrier_media": [
+        "N/A"
+      ],
+      "poc_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDB 15P M-F (수-암) 커넥터",
+    "connectivity.output_signals": "HDB 15P M-F (수-암) 커넥터",
+    "connectivity.directional": "케이블 길이 연장 시 사용",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "페라이트 코어 2개 장착",
+    "form_physical.material": "알루미늄 은박 + 망사 Shield",
+    "form_physical.length_options_meters": "1.8m, 3m, 5m, 10m, 15m, 20m",
+    "form_physical.color_options": "색상: White, Grey",
+    "audio_video.max_resolution": "최대 해상도 1080P@60Hz(Full HD) 지원",
+    "audio_video.hdr_support": "아날로그 비디오 신호 전송",
+    "audio_video.hdcp_version": "아날로그 비디오 신호 전송",
+    "audio_video.audio_pass": "오디오 신호 전송 불가",
+    "family.max_distance_m": "50m 이내 원거리용",
+    "family.carrier_media": "VGA 3+4C 구조",
+    "family.poc_support": "무전원"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:45",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,124 @@
+{
+  "model_no": "LS-LKPC",
+  "product_name": "랜포트 LOCK 콘넥터 (CAT.5E, 6용 / 10개입)",
+  "category": [
+    "랜케이블-CAT5E",
+    "커넥터"
+  ],
+  "key_features": [
+    "넣기만 하면 되는 간편한 장착",
+    "전용 키로 완벽한 보안 (자동 잠금, 외부 힘으로 제거 불가)",
+    "50μ 금도금 핀 사용으로 산화 및 녹에 강하고 신호전달력 우수",
+    "KC 인증을 받은 최고급 모듈라 플러그",
+    "특허출원 제품",
+    "생산물배상책임보험 가입 (현대해상화재, 1억원)",
+    "RoHS, FCC, CE, KC 인증",
+    "ISO 9001:2008 품질경영시스템"
+  ],
+  "specifications": {
+    "색상": "흰색 (LS-LKPC-WT), 검정 (LS-LKPC-BK)",
+    "입수량": "10개입",
+    "핀 도금": "50μ 금도금",
+    "제조국/원산지": "대만 (TAIWAN)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증": "KC, FCC, CE, RoHS",
+    "품질규격": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "CAT.5E",
+    "CAT.6",
+    "RJ45 포트"
+  ],
+  "package_contents": [
+    "랜포트 LOCK 콘넥터 10개",
+    "전용 제거키 (Lock Key)"
+  ],
+  "usage_instructions": "① 랜선의 피복을 벗겨낸 후 꼬여있는 선(갈-갈백-녹-파백-파-녹백-주-주백)을 직선으로 펴준다. ② 선을 순서대로 나열한 후 일자로 자른다. ③ 랜포트 LOCK 콘넥터를 구멍에 맞춰 밀어 넣는다. ④ 랜툴을 이용하여 랜포트 LOCK 콘넥터를 압착시킨다. ⑤ LOCK 플러그를 제작된 콘넥터에 장착하면 완성된다. ⑥ 자동 잠금이 되어 외부 힘으로 제거 불가. ⑦ 제거 시 동봉된 전용 제거키를 홈으로 깊숙이 넣는다. ⑧ 전용 제거키를 콘넥터와 함께 손으로 당기면 쉽게 제거된다.",
+  "cautions": [
+    "본 제품은 랜선 제작용 콘넥터이며, 포트 마개로만 사용하려면 랜포트 LOCK 먼지마개(LS-LKSR-WT/LS-LKSR-BK)를 별도 구매해야 한다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "흰색",
+        "검정"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "랜포트 LOCK 콘넥터",
+    "connectivity.output_signals": "랜포트 LOCK 콘넥터",
+    "connectivity.directional": "랜포트 LOCK 콘넥터",
+    "power.power_mode": "랜포트 LOCK 콘넥터",
+    "power.charging_support": "랜포트 LOCK 콘넥터",
+    "form_physical.has_case": "랜포트 LOCK 콘넥터",
+    "form_physical.material": "50μ 금도금 핀 사용",
+    "form_physical.color_options": "색상: 흰색 (LS-LKPC-WT), 검정 (LS-LKPC-BK)",
+    "certification.kc": "KC 인증을 받은",
+    "certification.rohs": "RoHS, FCC, CE, KC 인증",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템",
+    "certification.fcc": "RoHS, FCC, CE, KC 인증",
+    "certification.ce": "RoHS, FCC, CE, KC 인증",
+    "audio_video.max_resolution": "랜포트 LOCK 콘넥터",
+    "audio_video.hdcp_version": "랜포트 LOCK 콘넥터",
+    "family.cat_category": "CAT.5E, 6용"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:17",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,162 @@
+{
+  "model_no": "LS-MV109",
+  "product_name": "LANStar HDMI 멀티비젼 (3x3) LS-MV109",
+  "category": [
+    "DVI"
+  ],
+  "key_features": [
+    "하나의 입력신호(HDMI 또는 DVI)를 통해 9개의 HDMI 출력을 지원하는 3x3 비디오 월 컨트롤러",
+    "1080P Full HD 입력 신호를 9개 블록으로 분할하여 최대 9개의 디스플레이 장치에 1080P@60Hz로 출력 가능",
+    "리모콘으로 13가지 디스플레이 모드 변경 가능 (1x1, 1x2, 1x3, 1x4, 2x1, 2x2, 2x3, 2x4, 3x1, 3x2, 3x3, 4x1, 4x2)",
+    "RS232 제어 포트 지원",
+    "IR 센서 탑재로 리모콘 원격 제어 가능",
+    "전원 OFF 후 재기동 시 이전 사용 모드 유지",
+    "RESET 버튼을 통한 모드 초기화 가능",
+    "전시회장, 관공서, 영화관, 백화점, 공항, 대학교, 점포 등 다양한 환경에 설치 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "KC, FCC, CE, RoHS 인증 획득 / 국립전파연구원 인증 제품"
+  ],
+  "specifications": {
+    "입력 포트": "HDMI, DC, RS232",
+    "출력 포트": "HDMI x9",
+    "입력 해상도": "1080P Full HD",
+    "출력 해상도": "1080P@60Hz",
+    "제품 크기": "25.2 x 10.5 x 2.5 (cm)",
+    "전원 입력": "DC 12V 2A 아답터 (인증번호: JH10092-15001A)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "R-R-LUS-MV104",
+    "안전규격 인증": "KC, FCC, CE",
+    "환경규격 인증": "RoHS COMPLIANT",
+    "품질경영 인증": "ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "HDMI 입력 신호",
+    "DVI 입력 신호",
+    "HDMI 출력 디스플레이 장치 (최대 9대)"
+  ],
+  "package_contents": [
+    "HDMI 멀티비젼 본체 (3x3) LS-MV109",
+    "리모콘",
+    "AAA 건전지 (리모콘 전용)",
+    "DC 12V 2A 아답터 (인증번호: JH10092-15001A)",
+    "사용자 매뉴얼 (User Manual)"
+  ],
+  "usage_instructions": "1. HDMI 또는 DVI 입력 신호를 본체 HDMI IN 포트에 연결한다. 2. HDMI 출력포트 ①~⑨에 디스플레이 장치를 각각 연결한다. 3. DC 12V 2A 아답터를 전원 입력 포트에 연결하고 전원 스위치를 ON으로 켠다. 4. 리모콘 또는 본체의 Mode 변경 스위치를 사용하여 13가지 디스플레이 모드(1x1, 1x2, 1x3, 1x4, 2x1, 2x2, 2x3, 2x4, 3x1, 3x2, 3x3, 4x1, 4x2) 중 원하는 모드를 선택한다. 5. RS232 포트를 통한 외부 제어도 가능하다. 연결 모드별 출력 구성: Mode 01(1x1~1x4)은 가로 나열, Mode 02(2x1~2x4)는 세로 2행·가로 1~4열, Mode 03(3x1~3x3)은 세로 3행·가로 1~3열, Mode 04(4x1~4x2)는 세로 4행·가로 1~2열 방식이다.",
+  "cautions": [
+    "전원을 껐다 켤 경우 종료 전에 사용하던 모드로 자동 복원된다.",
+    "모드 초기화가 필요한 경우 제품 본체의 RESET 버튼을 사용한다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있다.",
+    "LANStar(라인업시스템(주)) 제작 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단 참조)에 문의한다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MV109",
+      "품목코드": "INT-HDS139",
+      "품목명": "[LANstar] HDMI 멀티비젼(3 x 3) / DID 비디오월 컨트롤러 / 4K / TV WALL Controller [20196]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-MV109",
+      "id": 99788377,
+      "date": "2020-01-08 11:19",
+      "answerDate": "2020-01-08 15:19",
+      "user": "duke***",
+      "productName": "HDMI 멀티비젼(3 x 3) LS-MV109 V WALL Controller",
+      "question": "안녕하세요, \n\n제가 모니터를 2*4로 대형 멀티화면을 구성하였습니다.\n해당 제품 구매시 PC 또는 셋탑박스에서 송출되는 화면을 총 8개의 화면에 확장해서 출력이 가능한게 맞는지 확인차 문의드립니다.\n(제가 이쪽 지식이 짧아서 복제만 되는 제품들이 많아보이는데, 이 제품은 복제가 아닌 확장으로 송출이 되는건지?)\n\n그리고 이 제품 앞단에 hdmi 셀렉터 제품을 달게되면 제가 원하는 소스의 영상을 뿌리는것도 가능한것인지요?(PC화면을 송출하던지 TV화면을 송출하던지..)",
+      "answer": "안녕하세요 랜스타 입니다.\n\n해당 제품은 하나의 화면을 최대 9개 디스플레이 장비에 하나의 화면으로 출력이 가능합니다.\n\n분배기와는 개념이 다르며 확장해서 출력은 가능하지만 여러 화면으로 확장 출력은 불가능 합니다.\n\n셀렉터 장비와 결합해서 사용 가능합니다."
+    },
+    {
+      "source_model": "LS-MV109",
+      "id": 227892846,
+      "date": "2022-07-12 03:46",
+      "answerDate": "2022-07-12 12:55",
+      "user": "gran*******",
+      "productName": "랜스타 LS-MV109 HDMI 멀티비젼 3x3 DID 비디오월 컨트롤러 TV WALL",
+      "question": "세로 90도 회전 후 출력 7개인데 이제품으로 구성가능한가요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n해당 제품은 단종되었으며 세로 모드 지원하는 제품은 LS-MV104N / LS-MV104F 모델이 지원합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "DVI-D"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 9
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "하나의 입력신호(HDMI 또는 DVI)",
+    "connectivity.output_signals": "9개의 HDMI 출력을 지원하는",
+    "connectivity.directional": "하나의 입력신호(HDMI 또는 DVI)를 통해 9개의 HDMI 출력을 지원하는",
+    "connectivity.port_count": "9개의 HDMI 출력을 지원하는",
+    "power.power_mode": "DC 12V 2A 아답터",
+    "power.charging_support": "전원 입력 포트에 연결하고 전원 스위치를 ON으로 켠다",
+    "form_physical.has_case": "본체 HDMI IN 포트에 연결한다",
+    "certification.kc": "KC, FCC, CE, RoHS 인증 획득",
+    "certification.rohs": "KC, FCC, CE, RoHS 인증 획득",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "KC, FCC, CE, RoHS 인증 획득",
+    "certification.ce": "KC, FCC, CE, RoHS 인증 획득",
+    "audio_video.max_resolution": "1080P Full HD 입력 신호를 9개 블록으로 분할하여 최대 9개의 디스플레이 장치에 1080P@60Hz로 출력 가능",
+    "control_switching.has_remote": "리모콘으로 13가지 디스플레이 모드 변경 가능",
+    "control_switching.has_physical_button": "본체의 Mode 변경 스위치를 사용하여",
+    "family.optical_core": "하나의 입력신호(HDMI 또는 DVI)를 통해 9개의 HDMI 출력을 지원하는",
+    "family.ethernet_channel": "하나의 입력신호(HDMI 또는 DVI)를 통해 9개의 HDMI 출력을 지원하는"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:57",
+  "feature_schema_version": "1.0.0"
+}

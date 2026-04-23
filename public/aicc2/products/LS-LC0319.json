@@ -1,0 +1,162 @@
+{
+  "model_no": "LS-LC0319",
+  "product_name": "[LANstar] 케이블 랩핑 튜브 3m (19Ø)[20264] (60개)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-LC0319",
+      "품목코드": "COM-악세사216",
+      "품목명": "[LANstar] 케이블 랩핑 튜브 3m (19Ø)[20264] (60개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-LC0319",
+      "내용": "선정리 꿀템 ㅋㅋ\n아마존 이런데서 파는것도 좋아보이는데\n가격이나 퀄 차이는 크게 안 나는 것 같네요\n나중에 재구매 꼭 할겁니다\n충전기같이 얇은 선은 5개까진 가능한 것 같고\n파워선같은 굵은 선은 3개까진 무난히 커버되는 것 같습니다\n다만 길이 맞춰 자를 때 주의해서 잘라야 할 것 같고 이곤 타사제품도 마찬가지 같습니다\n펼쳐서 잘 드는 가위로 한번에 잘 자르면 괜찮은데, 말린 상태에서도 잘 자르면 되는데 잘못 자르면 삐죽삐죽 튀어나와서 손 다칠 수도 있으니 주의하세요 ㅋㅋ 이건 제품탓이 아닙니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-LC0319",
+      "chatUrl": "5St2G",
+      "dateIso": "2024-10-29T01:29:37.202Z",
+      "name": "llI",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "저 혹시 반품 접수 취소되나요?\n배송비 빼니까 남은 금액도 얼마없어서 의미없을거같아서여!\n(추가 문의) 안녕하세요 \n반품하고 싶어서 구매확정 후 반품버튼을 찾고 있는데 안보여서 문의합니다\n(추가 문의) 경기도 군포시 당산로 66-3 군포제일아파트 101동 905호\n(추가 문의) 케이블랩핑튜브19파이 3M 1개\n매직케이블 3M 1개입니다",
+      "answer": "네 고객님, 해당 건 저희 측에서 제품 수거 후 확인 후 안내 도와드리겠습니다. 변심 반품의 경우 반품 비용 6,000원 아래...\n\n네 고객님, 접수 취소가능하여 취소로 도와드리겠습니다. 입금해주셨던 배송비 받아보실 계좌번호 알려주시면 입금 도와드리겠습니다.\n\n네 고객님, 입금해주신 내용 확인되었습니다. 저희측에서 제품 수거 도와드리려고 하는데 처음 주문해주셨던 주소지와 동일할까요?",
+      "turn_count": 13,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "국민 58120201454820 박영민"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 말씀 주신 계좌번호가 정확하지 않은 것으로 보입니다.\n다시 확인 후 말씀 가능하실까요?"
+        },
+        {
+          "role": "customer",
+          "text": "맞는데.. 다른계좌 드릴게여!"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 말씀 주신 계좌번호가 정확하지 않은 것으로 보입니다.\n다시 확인 후 말씀 가능하실까요?"
+        },
+        {
+          "role": "customer",
+          "text": "불편드렸습니다! 감사합니다!"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 접수 취소가능하여 취소로 도와드리겠습니다.\n입금해주셨던 배송비 받아보실 계좌번호 알려주시면 입금 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "산업은행 020-4913-2990-861 박영민"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 접수 취소가능하여 취소로 도와드리겠습니다.\n입금해주셨던 배송비 받아보실 계좌번호 알려주시면 입금 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "저 혹시 반품 접수 취소되나요?\n배송비 빼니까 남은 금액도 얼마없어서 의미없을거같아서여!"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        },
+        {
+          "role": "customer",
+          "text": "경기도 군포시 당산로 66-3 군포제일아파트 101동 905호"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 입금해주신 내용 확인되었습니다.\n저희측에서 제품 수거 도와드리려고 하는데 처음 주문해주셨던 주소지와 동일할까요?"
+        },
+        {
+          "role": "customer",
+          "text": "아 주소지 변경되었습니다!"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 입금해주신 내용 확인되었습니다.\n저희측에서 제품 수거 도와드리려고 하는데 처음 주문해주셨던 주소지와 동일할까요?"
+        },
+        {
+          "role": "customer",
+          "text": "박영민 이름으로 6000원 이체했습니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 해당 건 저희 측에서 제품 수거 후 확인 후 안내 도와드리겠습니다. 변심 반품의 경우 반품 비용 6,000원 아래..."
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": 3,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.length_meters": "케이블 랩핑 튜브 3m"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:10",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

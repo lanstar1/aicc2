@@ -1,0 +1,140 @@
+{
+  "model_no": "LS-X550-T1",
+  "product_name": "LANStar Intel X550-T1 Chipset PCI-EXPRESS RJ45 1PORT 10G LANCARD",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "Intel X550-T1 칩셋 사용",
+    "PCI-Express x8 v3.0 버스 슬롯",
+    "최대 10Gbps 전송속도 지원",
+    "RJ45 싱글 포트",
+    "CAT.7 이상 케이블 사용 권장",
+    "IEEE 802.3an 표준 지원",
+    "열발산을 위한 대형 방열판 장착",
+    "슬림PC 전용 LP 브라켓 기본 포함",
+    "x8 / x16 PCI-Express 슬롯 장착 가능",
+    "Windows 11 지원",
+    "국립전파연구원 인증 제품 (인증번호: R-R-LUS-LS-X550-T2)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "슬롯": "PCI-Express x8 v3.0",
+    "인터페이스": "RJ45 x1",
+    "칩셋": "Intel X550-T1",
+    "Topology": "10GBASE-T / IEEE802.3an Standard",
+    "전송속도": "10Gb/s, 5Gb/s, 2.5Gb/s, 1Gb/s, 100Mb/s",
+    "지원 OS": "WIN 7, Win-server 2008, Win-server 2012, Win 8, Win 8.1, Win-server 2016, Win 10, Win 11",
+    "제품 크기": "55mm x 168mm x 120mm",
+    "제조국": "중국 (China)",
+    "KC 인증번호": "R-R-LUS-LS-X550-T2",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "PCI-Express x8 슬롯",
+    "PCI-Express x16 슬롯",
+    "CAT.7 이상 케이블",
+    "Windows 7",
+    "Windows 8 / 8.1",
+    "Windows 10",
+    "Windows 11",
+    "Windows Server 2008",
+    "Windows Server 2012",
+    "Windows Server 2016"
+  ],
+  "package_contents": [
+    "PCIe 싱글 RJ45 랜카드",
+    "슬림PC LP 브라켓",
+    "Manual",
+    "CD Driver"
+  ],
+  "usage_instructions": "PCI-Express x8 또는 x16 슬롯에 장착하여 사용. 슬림PC 사용 시 동봉된 LP 브라켓으로 교체 후 장착. CAT.7 이상 케이블을 RJ45 포트에 연결하여 최대 10Gbps 데이터 전송 가능.",
+  "cautions": [
+    "정품 구매 시 라인업시스템(주) / 랜스타 공식 인증 배너를 확인할 것",
+    "정품 인증 배너가 없는 판매처의 제품은 A/S를 받을 수 없음",
+    "당일출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준",
+    "택배사 사정에 따라 배송기간이 길어질 수 있음 (평균 1~2일 소요)",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)의 동의 없이 상품 및 콘텐츠 무단 복제·이용 금지"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-X550-T1",
+      "품목코드": "NET-유랜카109",
+      "품목명": "[LANstar] X550-T1 PCI-Express 랜카드 [30730] (40개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-X550-T1",
+      "내용": "이번에 NAS와 10G연결위해서 구입했는데 속도 안정적으로 잘 뽑아주네요. 좋습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 싱글 포트",
+    "connectivity.directional": "최대 10Gbps 전송속도 지원",
+    "connectivity.port_count": "RJ45 싱글 포트",
+    "form_physical.has_case": "대형 방열판 장착",
+    "certification.kc": "국립전파연구원 인증 제품",
+    "family.cat_category": "CAT.7 이상 케이블 사용 권장"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:42",
+  "feature_schema_version": "1.0.0"
+}

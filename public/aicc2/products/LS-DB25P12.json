@@ -1,0 +1,108 @@
+{
+  "model_no": "LS-DB25P12",
+  "product_name": "프린터 2:1 수동선택기 DATA MANUAL SWITCH",
+  "category": [
+    "프린터선택기"
+  ],
+  "key_features": [
+    "양방향성 프린터 지원 (IEEE 1284, EPP, ECP mode)",
+    "단방향성 프린터 지원 (SPP)",
+    "무전원 방식으로 동작 - 프린터에서 공급되는 케이블 전원만으로 동작",
+    "버튼 방식으로 사용 시 전환 및 선택이 편리",
+    "여러 대의 컴퓨터가 1대의 프린터를 수동으로 선택하여 사용 가능",
+    "프린터 절약으로 예산 절감 및 협소한 설치 장소에서 사무실 환경 개선"
+  ],
+  "specifications": {
+    "전환 방식": "버튼 방식 수동 선택",
+    "전원 방식": "무전원 (프린터 케이블 공급 전원)",
+    "포트 구성": "IN/OUT, A, B",
+    "지원 모드": "IEEE 1284, EPP, ECP, SPP"
+  },
+  "compatibility": [
+    "양방향성 프린터 (IEEE 1284, EPP, ECP mode 지원)",
+    "단방향성 프린터 (SPP 지원)"
+  ],
+  "package_contents": [],
+  "usage_instructions": "여러 대의 컴퓨터를 A, B 포트에 연결하고 버튼으로 선택하여 1대의 프린터를 공유 사용. To 2 / To 1 양방향 전환 지원.",
+  "cautions": [],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Parallel(DB25)"
+      ],
+      "output_signals": [
+        "Parallel(DB25)"
+      ],
+      "directional": "양방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "selector_type": "수동",
+      "input_count": 2,
+      "output_count": 1,
+      "interfaces": [
+        "Parallel(DB25)"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "프린터 2:1 수동선택기",
+    "connectivity.output_signals": "프린터 2:1 수동선택기",
+    "connectivity.directional": "양방향성 프린터 지원",
+    "connectivity.port_count": "포트 구성: IN/OUT, A, B",
+    "power.power_mode": "무전원 방식으로 동작",
+    "power.charging_support": "무전원 방식으로 동작",
+    "form_physical.has_case": "프린터 2:1 수동선택기",
+    "audio_video.max_resolution": "프린터 2:1 수동선택기",
+    "audio_video.hdr_support": "프린터 2:1 수동선택기",
+    "audio_video.hdcp_version": "프린터 2:1 수동선택기",
+    "audio_video.audio_pass": "프린터 2:1 수동선택기",
+    "control_switching.has_remote": "버튼 방식으로 사용 시 전환",
+    "control_switching.has_hotkey": "버튼 방식으로 사용 시 전환",
+    "control_switching.has_physical_button": "버튼 방식으로 사용 시 전환",
+    "control_switching.has_mouse_switching": "버튼 방식으로 사용 시 전환",
+    "control_switching.has_auto_scan": "버튼 방식으로 사용 시 전환",
+    "control_switching.has_app_control": "버튼 방식으로 사용 시 전환",
+    "family.selector_type": "수동선택기",
+    "family.input_count": "2:1",
+    "family.output_count": "2:1",
+    "family.interfaces": "프린터 2:1 수동선택기"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:22",
+  "feature_schema_version": "1.0.0"
+}

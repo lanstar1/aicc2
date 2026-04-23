@@ -1,0 +1,132 @@
+{
+  "model_no": "LS-AS85WG",
+  "product_name": "애플 8핀 호환케이블 (삼성겸용) 평면슬림케이블 A/M-8P/M+5P/M 1m",
+  "category": [
+    "USB케이블",
+    "커넥터",
+    "아이폰케이블"
+  ],
+  "key_features": [
+    "애플 8핀 및 삼성 마이크로 5핀 겸용 호환 케이블",
+    "1M 평면(FLAT) 케이블로 엉킴과 단선 방지",
+    "세련된 컬러의 메탈 커넥터 (메탈골드, 메탈실버, 메탈레드, 메탈블루)",
+    "데이터 전송 및 전원 충전 지원",
+    "Made for iPod/iPhone 인증 호환 제품"
+  ],
+  "specifications": {
+    "케이블 길이": "1m",
+    "케이블 타입": "평면(FLAT) 슬림 케이블",
+    "커넥터 구성": "A/M - 8P/M + 5P/M",
+    "커넥터 소재": "메탈",
+    "색상": "메탈골드, 메탈실버, 메탈레드, 메탈블루",
+    "모델명(색상별)": "LS-AS85WG-1M(메탈골드), LS-AS85WS-1M(메탈실버), LS-AS85WR-1M(메탈레드), LS-AS85WB-1M(메탈블루)",
+    "인증번호": "KCC-REI-LUS-LS-AP8P",
+    "자율안전확인신고필증번호": "KCC-REI-LUS-LS-APP",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "iPhone 6",
+    "iPhone 6 Plus",
+    "iPhone 5",
+    "iPod Touch 5세대",
+    "iPod Nano 7세대",
+    "삼성(Samsung) 마이크로 5핀 지원 기기"
+  ],
+  "package_contents": [
+    "애플 8핀 호환케이블(삼성겸용) 1M 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결기준에 따라 보상해드립니다.",
+    "LAN Star® 라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-AS85WG-1M",
+      "품목코드": "CAB-모바일010",
+      "품목명": "[LANstar] 삼성/LG+애플 겸용 평면케이블 골드메탈 USB TO 마이크로 B+라이트닝8핀 젠더 1M[10740] ★★할인제외★★",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Lightning",
+        "USB-Micro"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "메탈"
+      ],
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": [
+        "메탈골드",
+        "메탈실버",
+        "메탈레드",
+        "메탈블루"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "A/M",
+    "connectivity.output_signals": "8P/M+5P/M",
+    "connectivity.directional": "데이터 전송 및 전원 충전 지원",
+    "power.power_mode": "전원 충전 지원",
+    "power.charging_support": "전원 충전 지원",
+    "form_physical.material": "메탈 커넥터",
+    "form_physical.length_meters": "1M 평면(FLAT) 케이블",
+    "form_physical.color_options": "메탈골드, 메탈실버, 메탈레드, 메탈블루",
+    "certification.kc": "KCC-REI-LUS-LS-AP8P",
+    "family.usb_version": "데이터 전송",
+    "family.transfer_speed_gbps": "데이터 전송",
+    "family.charging_only": "데이터 전송 및 전원 충전 지원",
+    "family.data_only": "데이터 전송 및 전원 충전 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:20",
+  "feature_schema_version": "1.0.0"
+}

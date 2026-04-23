@@ -1,0 +1,136 @@
+{
+  "model_no": "LS-HCS-9V",
+  "product_name": "LANStar 고속 무선충전기 LS-HCS-9V",
+  "category": [
+    "무선충전"
+  ],
+  "key_features": [
+    "듀얼 코일 적용으로 가로·세로 어느 방향이든 충전 가능",
+    "9V 고속 무선충전 지원 (일반 무선충전 대비 1.5배 빠름)",
+    "Qi 표준 출력 충전 방식 지원",
+    "상태표시 LED (충전 중: 파란색 점등 / 케이블 연결 시: 3회 깜빡 후 소등 / 미충전·미연결: 소등)",
+    "다중 보호 회로 IC 내장 (과충전·과전류·과출력·과열 감지 및 보호)",
+    "듀얼 코일과 PCB 회로 분리 설계로 발열 억제",
+    "인체공학적 60도 각도 설계로 충전 중 화면 시청 가능",
+    "KC·FCC·CE 인증 획득, 국립전파연구원 인증 (인증번호: R-REI-LUS-LS-HCS-9V)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "입력": "DC 5V-2A / 9V-1.67A",
+    "출력": "DC 5V-1A / 9V-1.3A Max",
+    "충전효율": "75% 이상",
+    "충전거리": "3~10mm",
+    "진동수": "110~205KHz",
+    "전력": "10W",
+    "표준출력": "Qi",
+    "크기": "75 x 70 x 128mm",
+    "무게": "95g",
+    "인증번호": "R-REI-LUS-LS-HCS-9V",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "Qi 규격을 지원하는 모든 무선충전 기기",
+    "[5W 일반 무선충전] 애플 아이폰 X / 8 / 8 플러스",
+    "[5W 일반 무선충전] 삼성 갤럭시 노트8 / FE / 7 / 5, S9 / S9 플러스 / S8 / S8 플러스 / S7 / S7 엣지 / S6 엣지 / S6 엣지 플러스",
+    "[5W 일반 무선충전] LG V30 / G6 플러스",
+    "[5W 일반 무선충전] 넥서스 5 / 6, 베가 IM-100",
+    "[9W 고속 무선충전] 삼성 갤럭시 노트8 / FE / 7 / 5, S8 / S8 플러스 / S7 / S7 엣지 / S6 엣지 플러스",
+    "[9W 고속 무선충전] LG V30"
+  ],
+  "package_contents": [
+    "무선충전기 본체 (9V, 2 Coil)",
+    "Micro USB 케이블 (길이 1M)",
+    "케이스",
+    "사용 설명서 (메뉴얼)",
+    "※ USB 어댑터는 포함되어 있지 않음"
+  ],
+  "usage_instructions": "① Micro USB 케이블을 어댑터에 연결합니다. ② 무선충전기에 Micro USB 케이블을 연결합니다. ③ 무선충전이 가능한 스마트폰을 무선충전기에 거치하여 충전합니다.",
+  "cautions": [
+    "충전기는 안전을 위해 반드시 KC 인증을 받은 제품만 사용하십시오.",
+    "고속 무선충전을 사용하려면 고속충전이 가능한 충전기 어댑터를 사용하십시오.",
+    "스마트폰이 고속 무선충전(9V)을 지원하지 않는 경우 일반 무선충전(5V)으로 충전됩니다.",
+    "LG V30은 15W 고속충전 시 '고속무선충전중'으로 표시되며, 9W 고속충전 시에는 '무선충전중'으로 표시됩니다.",
+    "스마트폰 케이스가 너무 두꺼운 재질일 경우 충전이 제대로 되지 않을 수 있으니 케이스를 분리 후 사용하십시오.",
+    "신용카드·통장·승차권 등 자성을 이용한 제품은 기기의 자기에 의해 정보가 훼손될 수 있으니 주의하십시오.",
+    "WPC 글로벌 자기유도 방식 무선충전 표준으로 제작되어 Qi 인증 제품과 호환 가능합니다.",
+    "무선충전을 지원하지 않는 디바이스는 Qi 규격 무선충전 케이스 또는 무선충전 패드(별도 구매)를 함께 사용하십시오.",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HCS-9V",
+      "품목코드": "CAB-APP611",
+      "품목명": "[LANstar] 고속 무선충전기,스텐드형, 2Coil, 블랙, 5V/2A,9V/1.8A [60085] (70개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-Micro"
+      ],
+      "output_signals": [
+        "무선"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "wireless_standard": "Qi",
+      "output_watts": 10
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Micro USB 케이블을 어댑터에 연결합니다",
+    "connectivity.output_signals": "고속 무선충전 지원",
+    "connectivity.directional": "듀얼 코일 적용으로 가로·세로 어느 방향이든 충전 가능",
+    "power.power_mode": "Micro USB 케이블을 어댑터에 연결합니다",
+    "power.charging_support": "9V 고속 무선충전 지원",
+    "form_physical.has_case": "무선충전기에 거치하여",
+    "certification.kc": "KC·FCC·CE 인증 획득",
+    "certification.fcc": "KC·FCC·CE 인증 획득",
+    "certification.ce": "KC·FCC·CE 인증 획득",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.wireless_standard": "Qi 표준 출력 충전 방식 지원",
+    "family.output_watts": "전력: 10W"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:30",
+  "feature_schema_version": "1.0.0"
+}

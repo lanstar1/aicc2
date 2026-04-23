@@ -1,0 +1,114 @@
+{
+  "model_no": "LS-VTM-1215BK",
+  "product_name": "매직테이프 후크벨트 (MAGIC TAPE Hook Belt)",
+  "category": [
+    "케이블정리"
+  ],
+  "key_features": [
+    "후크벨트(1 Hook Belt) 방식의 매직테이프",
+    "복잡한 케이블을 간단하게 정리 가능",
+    "각종 케이블을 꼬임 없이 보관 가능",
+    "탈부착 재질이라 여러 번 반복 사용 가능"
+  ],
+  "specifications": {
+    "너비": "12mm",
+    "길이": "15cm",
+    "색상": "BLACK",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [],
+  "package_contents": [
+    "매직테이프 후크벨트 5pcs"
+  ],
+  "usage_instructions": "케이블 정리나 각종 선을 묶을 때 후크벨트 방식의 매직테이프로 감아 고정하여 사용. 탈부착이 가능하여 반복 사용 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-VTM-1215BK",
+      "품목코드": "COM-악세사148",
+      "품목명": "[LANstar] 매직테이프 후크벨트 12mm x 15Cm 검정 5pcs(대만산) [60062]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-VTM-1215BK",
+      "내용": "맘에 들어요 잘 쓸게요"
+    },
+    {
+      "source_model": "LS-VTM-1215BK",
+      "내용": "기능에 이상없이 잘 사용하고 있습니다!!!",
+      "관련내용": "배송이 굉장히 빠릅니다!!! 양품받아 아주 잘 쓰겠습니다"
+    },
+    {
+      "source_model": "LS-VTM-1215BK",
+      "내용": "배송이 굉장히 빠릅니다!!! 양품받아 아주 잘 쓰겠습니다"
+    },
+    {
+      "source_model": "LS-VTM-1215BK",
+      "내용": "간단하고 좋습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": [
+        "BLACK"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "매직테이프 후크벨트",
+    "form_physical.length_meters": "길이: 15cm",
+    "form_physical.color_options": "색상: BLACK",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:20",
+  "feature_schema_version": "1.0.0"
+}

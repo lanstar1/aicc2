@@ -1,0 +1,130 @@
+{
+  "model_no": "LS-EXT300",
+  "product_name": "USB 3.0 리피터 케이블 5M (USB 3.0 A/M-A/F)",
+  "category": [
+    "USB케이블",
+    "USB3.0",
+    "USB2.0",
+    "리피터"
+  ],
+  "key_features": [
+    "USB 3.0 규격 지원, 최대 5Gbps 전송속도 (USB 2.0 대비 약 10배 빠름)",
+    "Plug & Play 지원 - 장치 연결 시 자동 인식",
+    "케이블 길이 5M",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC, FCC, CE 안전규격 인증 획득",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "커넥터 타입": "USB 3.0 A/M-A/F",
+    "전송속도": "최대 5Gbps",
+    "케이블 길이": "5M",
+    "지원 운영체제": "Windows XP / Vista / 7 / 8 / 10, Mac v9.0 이상",
+    "인증번호": "MSIP-REI-LUS-LS-EXT300",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "Windows 98",
+    "Windows 2000",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8",
+    "Windows 10",
+    "Mac v9.0 이상"
+  ],
+  "package_contents": [
+    "USB 3.0 리피터 케이블 5M (LS-EXT300) 1개"
+  ],
+  "usage_instructions": "장치에 케이블을 연결하면 자동으로 인식되어 작동합니다(Plug & Play). 별도의 드라이버 설치가 필요하지 않습니다.",
+  "cautions": [
+    "전력 부족으로 장치 인식이 안 되는 경우 전원 어댑터를 추가로 구매해야 합니다. (랜마트 홈페이지에서 상품번호 '10702' 검색)",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 소비자 상담 전화: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-EXT300",
+      "품목코드": "USB-리피터094",
+      "품목명": "[LANstar] USB 3.0 리피터 5M(30개)[30111]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 5,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 A/M-A/F",
+    "connectivity.output_signals": "USB 3.0 A/M-A/F",
+    "connectivity.directional": "USB 3.0 규격 지원, 최대 5Gbps 전송속도",
+    "power.power_mode": "USB 3.0 리피터 케이블",
+    "form_physical.length_meters": "케이블 길이 5M",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "USB 3.0 리피터 케이블",
+    "audio_video.hdcp_version": "USB 3.0 리피터 케이블",
+    "family.usb_version": "USB 3.0 규격 지원",
+    "family.transfer_speed_gbps": "최대 5Gbps 전송속도",
+    "family.charging_only": "USB 3.0 리피터 케이블",
+    "family.data_only": "USB 3.0 리피터 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:06",
+  "feature_schema_version": "1.0.0"
+}

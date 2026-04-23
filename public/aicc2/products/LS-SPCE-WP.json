@@ -1,0 +1,139 @@
+{
+  "model_no": "LS-SPCE-WP",
+  "product_name": "LAN Star CAT.5E FTP 옥외용 방수 랜케이블 (Waterproof Outdoor Industrial LAN Cable)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-FTP",
+    "랜케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "IP67 등급 취득 (완전한 방진 + 15cm~1m 침수 보호)",
+    "산업용·옥외용 설계로 방수·방진에 탁월",
+    "미사용 시 마개로 커넥터 보호 가능",
+    "50μ 금도금 핀 사용으로 산화·녹에 강한 모듈러 플러그",
+    "CAT.5E FTP 구조 (알루미늄 쉴드 적용, 공장 배선용 적합)",
+    "10/100Mbps 전송속도 지원",
+    "UL 인증, MADE IN TAIWAN",
+    "RoHS 규격 준수",
+    "현대해상화재보험 생산물배상책임보험 1억 원 가입"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.5E FTP (Foil Screened Twisted Pair)",
+    "AWG": "26AWG",
+    "전송속도": "10/100Mbps",
+    "대역폭": "100MHz",
+    "방수·방진 등급": "IP67",
+    "커넥터 도금": "50μ 금도금",
+    "커넥터 타입": "8P8C RJ45",
+    "쉴드": "알루미늄 쉴드",
+    "페어 구성": "4 pair (Twisted Pair)",
+    "절연 피복": "PE절연 피복",
+    "원산지": "대만 (Taiwan)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANStar",
+    "인증": "UL인증, RoHS COMPLIANT, ISO 9001:2008",
+    "보험": "현대해상화재보험 생산물배상책임보험 1억 원",
+    "모델별 길이": "5M (LS-SPCE-WP5M), 10M (LS-SPCE-WP10M)",
+    "케이블 길이 범위(치수)": "5000~10000mm",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "옥외용 방수 벽부착형 플레이트 (별도 구매)",
+    "옥외용 방수 커플러 (별도 구매)",
+    "10/100Mbps 네트워크 장비",
+    "CAT.5E 규격 지원 스위치·공유기 등 네트워크 장비",
+    "CCTV, 웹카메라 등 옥외 설치 장비"
+  ],
+  "package_contents": [
+    "옥외용 방수 랜케이블 본체 (마개 포함)"
+  ],
+  "usage_instructions": "1) 벽에 부착된 커플러에 옥외용 방수 케이블을 꽂는다. 2) 케이블에 달려 있는 커버를 돌려 장착하여 방수·방진 결합을 완성한다. 3) 미사용 시에는 케이블에 달려 있는 마개로 커넥터를 닫아 외부 오염으로부터 보호한다. ※ 옥외용 방수 벽부착형 플레이트·커플러는 별도 구매 필요.",
+  "cautions": [
+    "옥외용 방수 벽부착형 플레이트 및 커플러는 별도 구매 필요",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "PE",
+        "금도금",
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        5,
+        10
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "FTP",
+      "conductor": null,
+      "awg": 26,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "8P8C RJ45",
+    "connectivity.output_signals": "8P8C RJ45",
+    "connectivity.directional": "10/100Mbps 전송속도 지원",
+    "form_physical.has_case": "미사용 시 마개로 커넥터 보호 가능",
+    "form_physical.material": "PE절연 피복",
+    "form_physical.length_options_meters": "5M (LS-SPCE-WP5M), 10M (LS-SPCE-WP10M)",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "family.cat_category": "CAT.5E FTP",
+    "family.shielding": "CAT.5E FTP 구조 (알루미늄 쉴드 적용",
+    "family.awg": "26AWG",
+    "family.pair_count": "4 pair (Twisted Pair)",
+    "family.flame_rating": "PE절연 피복"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:40",
+  "feature_schema_version": "1.0.0"
+}

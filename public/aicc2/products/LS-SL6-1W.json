@@ -1,0 +1,62 @@
+{
+  "model_no": "LS-SL6-1W",
+  "product_name": "[LANstar] Cat.6 UTP 다이렉트 초슬림 랜케이블 1m 화이트 [30545] (300개)",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "랜케이블"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-SL6-1W",
+      "품목코드": "CAB-U5G157",
+      "품목명": "[LANstar] Cat.6 UTP 다이렉트 초슬림 랜케이블 1m 화이트 [30545] (300개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-SL6-1W",
+      "내용": "슬림슬림 합니다. 다양한 랜선 많이 팔아주세요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향"
+    },
+    "form_physical": {
+      "length_meters": 1,
+      "color_options": [
+        "화이트"
+      ]
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": "연선(stranded)"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "랜케이블",
+    "connectivity.output_signals": "랜케이블",
+    "connectivity.directional": "다이렉트",
+    "form_physical.length_meters": "1m",
+    "form_physical.color_options": "화이트",
+    "family.cat_category": "Cat.6",
+    "family.shielding": "UTP",
+    "family.conductor": "초슬림"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:29",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,132 @@
+{
+  "model_no": "LS-PCI-102SA",
+  "product_name": "LANStar PCI to S-ATA 1+1 Port IDE 1 Port Card",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "VIA VT6421A 칩셋 사용",
+    "S-ATA 1+1 Port (외부 1포트 + 내부 1포트) 및 IDE 1포트 지원",
+    "외부 S-ATA 포트와 내부 S-ATA 포트(포트1·포트3)는 동시 사용 불가",
+    "Serial ATA 데이터 전송 속도 최대 1.5Gbps 지원",
+    "채널당 독립 256바이트 FIFO 지원 (호스트 읽기/쓰기)",
+    "RoHS 인증으로 안정성 강화",
+    "32-bit PCI 슬롯 장착 방식"
+  ],
+  "specifications": {
+    "칩셋": "VIA VT6421A",
+    "인터페이스": "32-bit PCI",
+    "S-ATA 포트 수": "1+1 Port (외부 1, 내부 1)",
+    "IDE 포트 수": "1 Port",
+    "최대 전송 속도": "1.5Gbps (Serial ATA)",
+    "FIFO": "채널당 독립 256-byte FIFO",
+    "준수 규격": "Serial ATA Specification Rev. 1.0, PCI Specification Rev. 2.2, PCI Bus Power Management Specification Rev. 1.1",
+    "환경 인증": "RoHS",
+    "원산지": "중국",
+    "제조자/수입사": "라인업시스템(주)",
+    "인증서 번호": "LUS-PCI-102SA"
+  },
+  "compatibility": [
+    "Windows 98SE",
+    "Windows ME",
+    "Windows 2000",
+    "Windows XP",
+    "Windows XP x64",
+    "Serial ATA Specification Rev. 1.0 호환 장치",
+    "PCI Specification Rev. 2.2 호환 메인보드"
+  ],
+  "package_contents": [
+    "PCI S-ATA 1+1 Port IDE 1 Port 카드 (LS-PCI-102SA)",
+    "S-ATA 케이블",
+    "드라이버 CD",
+    "사용설명서"
+  ],
+  "usage_instructions": "1. PC 전원을 끄고 메인보드의 PCI 슬롯에 카드를 장착한다.\n2. [Windows 98SE/ME] PC 부팅 후 '새 하드웨어 추가 마법사'가 실행되면 드라이버 CD를 삽입하고 경로(CD > VIAStor > driver > Raid > win9x)에서 해당 OS 드라이버를 선택하여 설치한다. 마법사가 실행되지 않을 경우 장치 관리자에서 수동 설치(새 하드웨어 검색 또는 드라이버 업데이트)한다.\n3. [Windows 2000/XP/XP x64] PC 부팅 후 '새 하드웨어 추가 마법사'가 자동 실행되면 드라이버 CD 삽입 후 자동 검색으로 설치한다(경로: CD > VIAStor > driver > Raid > winxp 또는 x64). 자동 검색이 안 될 경우 내 컴퓨터 > 하드웨어 > 장치 관리자에서 수동 설치한다.\n4. 설치 완료 후 장치 관리자에 'VIA VT6421 RAID Controller' 항목이 표시되면 정상 설치된 것이다.\n※ 외부 S-ATA 포트(1번)와 내부 S-ATA 포트(3번)는 동시에 사용할 수 없다.",
+  "cautions": [
+    "외부 S-ATA 포트(1번)와 내부 S-ATA 포트(3번)는 동시에 사용할 수 없다.",
+    "설치 전 반드시 PC 전원을 차단한 후 카드를 슬롯에 장착해야 한다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자분쟁해결 기준에 의거하여 보상받을 수 있다.",
+    "A/S 및 소비자 상담: 라인업시스템(주) / 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCI-102SA",
+      "품목코드": "USB-PCI005",
+      "품목명": "[LANstar] PCI SATA카드 SATA 2＋1Port VT6421 미니가이드[30051]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "PCI",
+        "SATA",
+        "IDE"
+      ],
+      "output_signals": [
+        "SATA",
+        "IDE"
+      ],
+      "directional": "양방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "32-bit PCI 슬롯 장착 방식",
+    "connectivity.output_signals": "S-ATA 1+1 Port (외부 1포트 + 내부 1포트) 및 IDE 1포트 지원",
+    "connectivity.directional": "Serial ATA 데이터 전송 속도 최대 1.5Gbps 지원",
+    "connectivity.port_count": "S-ATA 1+1 Port (외부 1포트 + 내부 1포트) 및 IDE 1포트 지원",
+    "power.power_mode": "32-bit PCI 슬롯 장착 방식",
+    "power.charging_support": "Serial ATA 데이터 전송 속도 최대 1.5Gbps 지원",
+    "form_physical.has_case": "LANStar PCI to S-ATA 1+1 Port IDE 1 Port Card",
+    "certification.rohs": "RoHS 인증으로 안정성 강화",
+    "audio_video.max_resolution": "Serial ATA 데이터 전송 속도 최대 1.5Gbps 지원",
+    "audio_video.hdr_support": "Serial ATA 데이터 전송 속도 최대 1.5Gbps 지원",
+    "audio_video.hdcp_version": "Serial ATA 데이터 전송 속도 최대 1.5Gbps 지원",
+    "audio_video.audio_pass": "Serial ATA 데이터 전송 속도 최대 1.5Gbps 지원",
+    "control_switching.has_remote": "Serial ATA 데이터 전송 속도 최대 1.5Gbps 지원",
+    "control_switching.has_hotkey": "Serial ATA 데이터 전송 속도 최대 1.5Gbps 지원",
+    "control_switching.has_physical_button": "Serial ATA 데이터 전송 속도 최대 1.5Gbps 지원",
+    "control_switching.has_mouse_switching": "Serial ATA 데이터 전송 속도 최대 1.5Gbps 지원",
+    "control_switching.has_auto_scan": "Serial ATA 데이터 전송 속도 최대 1.5Gbps 지원",
+    "control_switching.has_app_control": "Serial ATA 데이터 전송 속도 최대 1.5Gbps 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:57",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,156 @@
+{
+  "model_no": "LS-HISL5PS",
+  "product_name": "고속충전 데이터 삼성/LG 케이블 (USB A/M - Micro B/M) 1M",
+  "category": [
+    "USB케이블"
+  ],
+  "key_features": [
+    "패브릭 소재를 땋아서 만든 케이블로 줄꼬임이 없고 유연하여 단선 위험 감소",
+    "콘넥터와 케이블 이음 부분에 완충장치를 추가한 단선방지 설계",
+    "퀵차지 2.0 지원으로 일반 케이블 대비 2배 빠른 충전 속도",
+    "2mm 단차 콘넥터 설계로 두꺼운 폰 케이스와도 결합 가능",
+    "고급 알루미늄 콘넥터로 내구성 강화",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS, FCC, CE, ISO 9001:2008 인증"
+  ],
+  "specifications": {
+    "커넥터 타입": "USB A Male - Micro B Male (마이크로 5핀, 안드로이드)",
+    "케이블 길이": "1000mm (1M)",
+    "최대 전류": "2.1A",
+    "기능": "충전 및 데이터 전송",
+    "색상": "골드메탈, 실버메탈",
+    "USB A Male 커넥터 크기": "11.1mm x 5.8mm",
+    "Micro B Male 커넥터 크기": "11mm x 3.5mm x 5.8mm",
+    "케이블 소재": "패브릭(브레이드)",
+    "커넥터 소재": "알루미늄",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANStar"
+  },
+  "compatibility": [
+    "삼성(Samsung) 안드로이드 기기 (Micro USB)",
+    "LG 안드로이드 기기 (Micro USB)",
+    "Micro USB (5핀) 단자를 사용하는 안드로이드 기기",
+    "퀵차지 2.0 지원 충전기"
+  ],
+  "package_contents": [
+    "USB A/M - Micro B/M 케이블 1개"
+  ],
+  "usage_instructions": "USB A Male 단자를 충전기(어댑터)에 연결하고, Micro B Male 단자를 기기의 Micro USB 포트에 연결하여 충전 및 데이터 전송에 사용. 5V 2A 전원 어댑터 사용 시 측정 전류값 약 1.16A (오차범위 ±0.05). 충전 속도는 충전기 성능에 따라 달라질 수 있음.",
+  "cautions": [
+    "충전기의 성능에 따라 충전 속도는 달라질 수 있습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 소비자상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HISL5PS-1M",
+      "품목코드": "CAB-모바일023",
+      "품목명": "[LANstar] 고속충전 데이터 삼성/LG , Silver cable-실버메탈 A/M-Micro B/M, 1M[10852]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HISL5PS-1M",
+      "내용": "최악의 제품입니다. 3개 주문했는데 한개는 초기불량. 충전 전혀 안됨또 다른 한개는 LED 표시등 불량그나마 한개만 정상작동.커넥터의 자력이 약해서 차량이 조금만 흔들려도 충전 되마말다 함. 그때마다 휴대폰 액정이 불이 들어왔다 나갔다를 반복.고속충전은 전혀안됨. 갤노트5나 탭에 고속충전기 이용하여 충전하면 배터리 표시부에 X자가 뜹니다.얼마나 싸구려 재질을 사용했으면 전압을 받쳐주지도 못하네요.그러면서 고속충전 지원이라고 딱 표기해서 파네요. 아주아주 비추합니다.반품도 귀찮아서 그냥 버립니다."
+    },
+    {
+      "source_model": "LS-HISL5PS-1M",
+      "내용": "최악의 제품입니다."
+    },
+    {
+      "source_model": "LS-HISL5PS-1M",
+      "내용": "품질 만족함"
+    },
+    {
+      "source_model": "LS-HISL5PS-1M",
+      "내용": "만족합니다."
+    },
+    {
+      "source_model": "LS-HISL5PS-1M",
+      "내용": "아주 좋아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "PVC",
+        "알루미늄"
+      ],
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": [
+        "골드메탈",
+        "실버메탈"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A Male",
+    "connectivity.output_signals": "Micro B Male",
+    "connectivity.directional": "충전 및 데이터 전송",
+    "power.power_mode": "USB A Male 단자를 충전기(어댑터)에 연결",
+    "power.charging_support": "퀵차지 2.0 지원으로 일반 케이블 대비 2배 빠른 충전 속도",
+    "form_physical.material": "패브릭 소재를 땋아서 만든 케이블",
+    "form_physical.length_meters": "1000mm (1M)",
+    "form_physical.color_options": "색상: 골드메탈, 실버메탈",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "family.usb_version": "USB A Male - Micro B Male",
+    "family.transfer_speed_gbps": "충전 및 데이터 전송",
+    "family.charging_only": "충전 및 데이터 전송",
+    "family.data_only": "충전 및 데이터 전송"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:39",
+  "feature_schema_version": "1.0.0"
+}

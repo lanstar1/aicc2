@@ -1,0 +1,127 @@
+{
+  "model_no": "LS-LAN20",
+  "product_name": "LANStar USB2.0 랜카드 컨버터 (USB2.0 to Ethernet)",
+  "category": [
+    "USB2.0",
+    "컨버터",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "USB 2.0 포트를 이더넷(유선 LAN) 포트로 변환",
+    "10/100Mbps 이더넷 지원",
+    "최대 400Mbps 지원 USB2.0 이더넷 컨버터",
+    "Plug & Play 지원 (연결 즉시 실행)",
+    "별도 전원 케이블 불필요",
+    "Slim & Small 디자인으로 휴대 편리",
+    "LED 작동 표시등 내장",
+    "MOSCHIP MCS7830CV-DA 칩셋 사용"
+  ],
+  "specifications": {
+    "인터페이스": "USB 2.0",
+    "지원 속도": "10/100Mbps",
+    "최대 대역폭": "400Mbps",
+    "칩셋": "MOSCHIP MCS7830CV-DA",
+    "인증서번호": "E-E013-02-3276",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "Windows 7",
+    "Windows Vista",
+    "Windows XP",
+    "Windows 2000",
+    "Windows ME",
+    "Windows 8",
+    "Mac OS X 10.x",
+    "Linux 2.6.x"
+  ],
+  "package_contents": [
+    "USB 2.0 이더넷 어댑터 본체",
+    "드라이버 CD (Driver and User's Guide 포함)"
+  ],
+  "usage_instructions": "1. 제품을 PC의 USB 포트에 연결한다. 2. 드라이버가 자동 설치되지 않으므로 동봉된 드라이버 CD로 직접 설치한다. 3. 설치 후 장치관리자 > 네트워크 어댑터 > 'HighSpeed USB-Ethernet Adapter' 항목이 정상적으로 표시되면 사용 가능하다. 4. 이더넷 케이블(랜선)을 연결하여 인터넷을 사용한다.",
+  "cautions": [
+    "드라이버가 자동 설치되지 않으므로 반드시 동봉된 CD로 드라이버를 설치해야 정상 작동함",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.4,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 2.0 포트를",
+    "connectivity.output_signals": "이더넷(유선 LAN) 포트로 변환",
+    "connectivity.directional": "USB 2.0 포트를 이더넷(유선 LAN) 포트로 변환",
+    "power.power_mode": "별도 전원 케이블 불필요",
+    "form_physical.has_case": "Slim & Small 디자인",
+    "certification.kc": "인증서번호: E-E013-02-3276",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.usb_version": "USB 2.0",
+    "family.transfer_speed_gbps": "최대 400Mbps 지원 USB2.0",
+    "family.charging_only": "N/A",
+    "family.data_only": "USB 2.0 포트를 이더넷(유선 LAN) 포트로 변환"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:01",
+  "feature_schema_version": "1.0.0"
+}

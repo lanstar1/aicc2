@@ -1,0 +1,135 @@
+{
+  "model_no": "LS-USBCAM2",
+  "product_name": "LANStar USB WEB CAMERA (LS-USBCAM2)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "200만화소 / 1080P FHD 해상도 (1920x1080 24F/S)",
+    "30fps 지원 (1080P@30Hz)",
+    "수동 포커스 조절",
+    "자동 밝기/색 보정",
+    "마이크 내장 (별도 마이크 불필요)",
+    "UVC 지원 (드라이버 설치 없이 USB 연결 즉시 사용)",
+    "폴딩 방식 거치대 (위/아래 약 90° 각도 조절)",
+    "삼각대 거치홀 지원",
+    "모니터, 노트북, 바닥 등 다양한 거치 방식 지원",
+    "온라인 수업, 화상회의, 개인방송 등 다용도 활용 가능",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "KC, FCC, CE 안전규격 인증 획득",
+    "RoHS 준수",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-USBCAM2",
+    "화소수": "200만화소",
+    "해상도": "1080P FHD (1920x1080)",
+    "프레임레이트": "30fps (1080P@30Hz)",
+    "지원 해상도 목록": "320x240 25F/S, 640x480 24F/S, 1280x720 25F/S, 1920x1080 24F/S",
+    "Windows Capture Size": "640x480 / 800x600",
+    "비디오 모드": "24비트 트루 컬러",
+    "인터페이스": "USB 2.0",
+    "포커스": "수동 포커스",
+    "색보정": "자동 밝기/색 조절",
+    "마이크": "내장 마이크",
+    "이미지 압축": "내장 이미지 압축",
+    "각도 조절": "위/아래 약 90°",
+    "거치 방식": "폴딩 방식 (모니터/노트북 클립, 삼각대 거치홀, 평평한 바닥면 거치)",
+    "제품 크기": "11.5cm x 4.2cm x 3.9cm (세부: 3.3cm, 2.3cm, 1.8cm 포함)",
+    "인증번호": "R-R-LUS-LS-USBCAM",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "보험": "현대해상화재보험 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "Windows 7",
+    "Windows 8",
+    "Windows 10",
+    "USB 2.0 포트 지원 기기",
+    "노트북",
+    "데스크탑 모니터",
+    "삼각대 (삼각대 거치홀 지원)",
+    "Skype, Zoom, NATEON (화상회의 플랫폼)",
+    "afreecaTV, YouTube, Twitch (개인방송 플랫폼)",
+    "EBS 온라인 수업 환경"
+  ],
+  "package_contents": [
+    "USB WEB CAMERA (LS-USBCAM2) 본체"
+  ],
+  "usage_instructions": "1. USB 포트에 카메라를 연결합니다 (별도 드라이버/프로그램 설치 불필요, UVC 지원). 2. Windows 장치 관리자에서 '사운드, 비디오 및 게임 컨트롤러' 항목의 'USB Microphone'과 '카메라' 항목의 'USB CAMERA' 장치가 정상 인식되는지 확인합니다. 3. 두 항목 모두 확인되면 카메라 및 마이크 기능을 정상 사용할 수 있습니다. 4. 폴딩형 거치대를 이용해 모니터/노트북에 클립 방식으로 장착하거나, 삼각대 홀을 이용해 삼각대에 결합하거나, 평평한 바닥면에 세워서 사용할 수 있습니다. 5. 위/아래 약 90° 각도 조절이 가능합니다. ※ Windows 7 / 8 / 10에서만 사용 가능.",
+  "cautions": [
+    "렌즈를 날카롭거나 거친 물체와 접촉하지 않게 주의하시기 바랍니다.",
+    "렌즈 청소 시 깨끗하고 부드러운 천으로 가볍게 닦아주시기 바랍니다.",
+    "먼지가 많은 환경, 고온 다습한 환경에서는 사용하지 않도록 주의하시기 바랍니다.",
+    "심한 충격을 받을 경우 렌즈가 손상될 수 있습니다.",
+    "제품이 심하게 훼손된 경우 환불/교환은 되지 않습니다.",
+    "UVC 기능은 Windows 7 / 8 / 10에서만 사용 가능합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USBCAM2",
+      "품목코드": "COM-외장형547",
+      "품목명": "[LANstar] USB 웹캠 , 200만화소 FHD 해상도 [30401]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 2.0",
+    "power.power_mode": "USB 포트에 카메라를 연결합니다",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "1080P FHD 해상도 (1920x1080",
+    "audio_video.audio_pass": "마이크 내장 (별도 마이크 불필요)"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:56",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,151 @@
+{
+  "model_no": "LS-GEN-DBPFF-C",
+  "product_name": "LANStar 시리얼 젠더 DB9P F/F Cross",
+  "category": [
+    "젠더",
+    "시리얼브라켓",
+    "시리얼카드"
+  ],
+  "key_features": [
+    "DB9 Female to Female 크로스(Null Modem) 타입 시리얼 젠더",
+    "9핀 F/F 크로스 핀 배열 (Null Modem 방식)",
+    "RoHS 준수 제품 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 타입": "DB9 Female / DB9 Female",
+    "연결 방식": "크로스(Cross) / Null Modem",
+    "핀 수": "9핀",
+    "제품 크기 (가로)": "31mm",
+    "제품 크기 (세로)": "24.5mm",
+    "제품 크기 (높이)": "16.4mm",
+    "제품 크기 (기타)": "12.5mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "RoHS": "COMPLIANT",
+    "품질경영시스템": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "DB9 Female 커넥터를 사용하는 시리얼 장치",
+    "Null Modem 통신 규격 장치",
+    "RS-232 시리얼 통신 기기"
+  ],
+  "package_contents": [
+    "시리얼 젠더 DB9P F/F Cross (LS-GEN-DBPFF-C) 본체 1개"
+  ],
+  "usage_instructions": "DB9 Female 커넥터를 가진 두 장치 사이에 크로스(Null Modem) 방식으로 연결하여 사용. 9핀 F/F 크로스 핀 배열도에 따라 결선됨.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 소비자상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GEN-DBPFF-C",
+      "품목코드": "GEN-시리얼021",
+      "품목명": "[LANstar] 젠더Changer , DB9P F/F, 2열, CROSS [20119]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-GEN-DBPFF-C",
+      "내용": "잘 구매했고 잘 사용하고 있습니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-GEN-DBPFF-C",
+      "id": 654925780,
+      "date": "2025-12-12 19:08",
+      "answerDate": "2025-12-15 10:29",
+      "user": "cho9*****",
+      "productName": "랜스타 젠더Changer DB9P F/F 2열 CROSS  LS-GEN-DBPFF-C",
+      "question": "안녕하세요.\n해당 제품을 다른 커넥터와 체결 한 뒤 푸는 작업을 반복하였을 때, 젠더 자체가 분해가 되는 등 상황은 없을까요? \n다른 제품(F/F. 한 쪽이 너트볼트로 되어있고, 다른 한 쪽은 너트로 체결 된 형태)은 젠더에 있는 너트를 풀고 체결 후 볼팅을 하고 사용 한 뒤 케이블 해제를 할 때 젠더 자체가 완전분해가 되었던 적이 있어 문의 드립니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n말씀해주신 증상은 플라스틱 젠더에서 자주 일어나는 현상으로 알고 있습니다. 그러나 해당 제품은 금속 제품이기때문에 완전분해 될 염려는 적다고 보시면 됩니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Serial(DB9)"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "DB9 Female",
+      "connector_type_b": "DB9 Female",
+      "gender": "F-F",
+      "pin_count": 9
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DB9 Female to Female",
+    "connectivity.output_signals": "DB9 Female to Female",
+    "connectivity.directional": "크로스(Null Modem) 타입",
+    "connectivity.port_count": "DB9 Female / DB9 Female",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "시리얼 젠더",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "시리얼 젠더",
+    "audio_video.hdr_support": "시리얼 젠더",
+    "audio_video.hdcp_version": "시리얼 젠더",
+    "audio_video.audio_pass": "시리얼 젠더",
+    "control_switching.has_remote": "시리얼 젠더",
+    "control_switching.has_hotkey": "시리얼 젠더",
+    "control_switching.has_physical_button": "시리얼 젠더",
+    "control_switching.has_mouse_switching": "시리얼 젠더",
+    "control_switching.has_auto_scan": "시리얼 젠더",
+    "control_switching.has_app_control": "시리얼 젠더",
+    "family.connector_type_a": "DB9 Female",
+    "family.connector_type_b": "DB9 Female",
+    "family.gender": "DB9 Female / DB9 Female",
+    "family.pin_count": "9핀"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:12",
+  "feature_schema_version": "1.0.0"
+}

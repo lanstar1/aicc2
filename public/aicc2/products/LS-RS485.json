@@ -1,0 +1,146 @@
+{
+  "model_no": "LS-RS485",
+  "product_name": "LAN Star USB2.0 to RS485 Serial Converter",
+  "category": [
+    "USB2.0",
+    "컨버터"
+  ],
+  "key_features": [
+    "RS485 포트가 없는 PC, 노트북 등에서 USB 인터페이스로 RS485 장비와 통신 가능",
+    "FT232RL 칩셋 사용으로 호환성과 안정성 우수",
+    "반이중(Half-Duplex) 통신 방식 지원",
+    "최대 1.2km 네트워크 구축 가능",
+    "통신속도 300bps ~ 3Mbps 지원",
+    "4핀 터미널 블록(485+, 485-, +5V, GND) 제공으로 필요한 신호선만 연결 가능",
+    "외부 서지로부터 장비 보호 가능",
+    "USB 연장 케이블 기본 제공으로 좁은 공간·원거리 사용 가능",
+    "국립전파연구원 KC 인증 획득 (인증번호: LUS-LS-RS485)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RS485 장비와 PC 간 1:1 및 1:N 통신 지원"
+  ],
+  "specifications": {
+    "인터페이스": "USB 2.0",
+    "통신규격": "RS485",
+    "입/출력": "USB 2.0 / DB9P Male / 4핀 터미널 블록",
+    "칩셋": "FT232RL",
+    "통신속도": "300bps ~ 3Mbps",
+    "전원": "USB Bus Power",
+    "지원 OS": "Windows XP / 7 / 8 / 10, Linux, Mac OS",
+    "USB 연장 케이블 길이": "약 85cm",
+    "무게": "약 26g",
+    "KC 인증번호": "LUS-LS-RS485",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "Windows XP",
+    "Windows 7",
+    "Windows 8",
+    "Windows 10",
+    "Linux",
+    "Mac OS",
+    "RS485 타입 장비 (카드 단말기, POS 기기, GPS 기기, 산업용 장비, 바코드 스캐너, PLC, 인버터, CCTV 등)",
+    "USB 2.0 지원 PC, 노트북, Mac"
+  ],
+  "package_contents": [
+    "USB to RS485 컨버터 1ea",
+    "4핀 터미널 블록 1ea",
+    "USB A/M-A/F 연장 케이블 1ea (약 85cm)",
+    "설치 드라이버 CD 1ea"
+  ],
+  "usage_instructions": "1. 제품과 PC를 USB로 연결하면 장치 관리자에 'USB Serial Port(COMx)'가 생성됩니다. 2. 해당 포트를 우클릭 > 속성을 통해 비트/초, 데이터 비트, 패리티, 정지 비트, 흐름 제어 등 시리얼 장치 세팅을 진행합니다. 3. 고급 설정에서 COM 포트 번호, 수신/송신 USB 전송 크기(기본 4096바이트), 응답 시간(기본 16msec) 등 세부 설정이 가능합니다. 4. RS485 장비의 485+, 485- 단자를 컨버터의 4핀 터미널 블록 또는 DB9P 커넥터에 연결하여 사용합니다. 1:N 통신 시 여러 RS485 장비의 485+, 485-를 병렬로 연결합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "제품 사용 전 안전 사용 주의사항을 숙지하십시오(동봉 드라이버 CD 내 User's Guide 참조).",
+    "본 제품의 이미지 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "저속 통신에서 성능 문제 발생 시 USB 전송 크기를 낮은 값으로 설정하십시오.",
+    "응답 지연 문제 발생 시 응답 시간(msec) 값을 낮게 설정하십시오."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RS485",
+      "품목코드": "USB-시리얼019",
+      "품목명": "[LANstar] USB 2.0 TO RS485 컨버터 [30017] (60개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-RS485",
+      "내용": "그럭저럭 사용할 만 합니다. 가격이 그나마 저렴하고 품질에도 크게 문제는 없습니다.  추천합니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        0.85
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.003,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 인터페이스로 RS485 장비와 통신",
+    "connectivity.output_signals": "RS485 장비와 통신",
+    "connectivity.directional": "반이중(Half-Duplex) 통신 방식 지원",
+    "power.power_mode": "USB Bus Power",
+    "form_physical.has_case": "LAN Star USB2.0 to RS485 Serial Converter",
+    "form_physical.length_options_meters": "USB 연장 케이블 길이: 약 85cm",
+    "certification.kc": "KC 인증 획득 (인증번호: LUS-LS-RS485)",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "family.usb_version": "USB 2.0",
+    "family.transfer_speed_gbps": "통신속도 300bps ~ 3Mbps 지원",
+    "family.data_only": "RS485 장비와 통신 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:49",
+  "feature_schema_version": "1.0.0"
+}

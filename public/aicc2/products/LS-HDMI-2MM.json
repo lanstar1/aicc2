@@ -1,0 +1,518 @@
+{
+  "model_no": "LS-HDMI-2MM",
+  "product_name": "LANStar HDMI 2.0 케이블 (LS-HDMI-2MM-2M / LS-HDMI-2MM-3M / LS-HDMI-2MM-5M)",
+  "category": [
+    "HDMI케이블",
+    "리피터"
+  ],
+  "key_features": [
+    "HDMI 2.0 규격 지원, 최대 18Gbps 대역폭 (HDMI 1.4 대비 76% 향상)",
+    "4K2K UHD (4096x2160) 해상도 @60Hz 전송 지원",
+    "3D 영상 지원",
+    "21:9 시네마스코프 화면비 지원",
+    "32채널 멀티채널 오디오 및 1536kHz 오디오 샘플링 지원",
+    "24K 금도금 커넥터 적용",
+    "ARC(Audio Return Channel) 지원",
+    "HEC(HDMI Ethernet Channel) 지원 - 별도 랜케이블 없이 네트워크 접속 가능",
+    "28AWG 규격 케이블로 간섭이 적고 안정적인 전송",
+    "RoHS(특정유해물질 사용제한) 인증 준수",
+    "프라임패스(PrimePass) 인증 제품 - Simplay Labs LLC 4K UHD 성능 인증",
+    "HDCP 2.2 연결 보호 지원",
+    "HDMI 2.0 규격 지원, 최대 18Gbps 전송속도(대역폭)",
+    "4K×2K(4096×2160) @60Hz 초고해상도 지원",
+    "24K 금도금 커넥터로 우수한 전송률 제공",
+    "CLX1602 장거리 전송용 리피터 칩셋 탑재",
+    "HDCP 승인 HDMI 호환 보장",
+    "ARC(오디오 리턴 채널) 지원 - TV와 AV기기 간 별도 케이블 불필요",
+    "HEC(HDMI Ethernet Channel) 지원 - 별도 LAN 케이블 없이 네트워크 접속 가능",
+    "28AWG 규격 케이블로 간섭이 적고 안정적인 데이터 전송",
+    "RoHS 준수(유해물질 사용 제한), KC·FCC·CE 인증 획득",
+    "3개의 확장 컬러 영역(sYCC601, Adobe RGB, Adobe YCC601) 지원으로 풍부한 색감",
+    "Deep Color 30비트/36비트 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 획득 (인증번호: MSIP-REI-LUS-LS-HDMI-EXT)",
+    "4K@60Hz UHD 해상도 지원 (최대 30m 거리까지 신호 손실 없이 출력)",
+    "무전원 장거리 전송 (별도 전원 불필요, 케이블 매립 설치에 용이)",
+    "REDMERE8181 칩셋 내장 (안정적 신호 전송 및 HDCP 승인)",
+    "케이블 길이 선택 가능: 10m / 15m / 20m / 25m / 30m",
+    "INPUT / OUTPUT 방향성 케이블 (스티커로 구분)",
+    "3중 쉴드 구조: 각 페어선 알루미늄+Mylar 1차 쉴드, 전체 Aluminum Foil 2차 쉴드, 알루미늄 편조 3차 쉴드",
+    "유연성 높은 PVC 자켓 외부 피복 사용",
+    "HDMI 2.0 규격 지원 (21:9 와이드 화면 비율, 3D Display, Deep Color 등)",
+    "전송 속도 18Gbps 지원",
+    "국립전파연구원 KC 인증 획득 (인증번호: MSIP-REI-LUS-LS-HDMI-EXT)",
+    "소재·부품·장비 전문기업확인서 취득 (2022.11.29)",
+    "가정, 옥외광고, 방송국, 병원, 은행, 경기장 전광판, 스크린 스포츠 시설 등 다양한 환경에서 사용 가능",
+    "4K@60Hz UHD 해상도 지원 (최대 30m 거리까지 신호 손실 없이 전송)",
+    "무전원 장거리 전송 (별도 전원 불필요, 케이블 매립 후 사용에 용이)",
+    "REDMERE8181 칩셋 내장 (안정적 신호 전송 및 HDCP 승인 HDMI 호환 보장)",
+    "InPut/Output 방향성 케이블 (스티커로 INPUT/OUTPUT 구분)",
+    "케이블 길이 5종 선택 가능: 10m / 15m / 20m / 25m / 30m",
+    "3단 쉴드 구조 (알루미늄+Mylar 1차, Aluminum Foil 2차, 알루미늄 편조 3차)",
+    "HDMI 2.0 규격 지원 (21:9 와이드 화면비, 3D Display, Deep Color, 18Gbps)",
+    "DTS-HD / Dolby TrueHD / LPCM 7.1 / AC3 / DSD 오디오 포맷 지원",
+    "오후 4시 이전 결제 완료 주문 건 당일 출고 (평일 기준)",
+    "4K2K UHD(4096x2160) @ 60Hz 전송 지원",
+    "3D Full HD 지원",
+    "최대 4명 동시 멀티스트림 오디오 전송",
+    "HEC(HDMI Ethernet Channel) 지원 — 별도 랜케이블 없이 네트워크 접속, IPTV/DLNA/UPnP 구현 가능",
+    "PrimePass™(Simplay™ Labs) 인증 제품",
+    "RoHS 준수 (납·수은·카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "HDMI 단자": "HDMI 19P M/M",
+    "케이블 길이": "2M / 3M / 5M / 10M / 15M / 20M / 25M / 30M / 10m / 15m / 20m / 25m / 30m",
+    "전송속도(대역폭)": "18Gbps",
+    "HDMI 출력": "4K2K (4096x2160) @60Hz 지원",
+    "소비전력 최대": "DC 300V/5s / DC 30V / DC 300V / 5s",
+    "작동온도": "섭씨 80도",
+    "케이블 규격": "28AWG",
+    "오디오 채널": "32채널 멀티채널",
+    "오디오 샘플링": "1536kHz",
+    "화면비": "21:9 시네마스코프 지원",
+    "커넥터 도금": "24K 금도금",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "RoHS": "Compliant",
+    "HDMI 해상도": "4K×2K(4096×2160) @60Hz 지원",
+    "지원 영상 비트": "Deep Color 30비트/36비트 / Deep Color 30비트 / 36비트",
+    "지원 오디오 포맷": "DTS-HD, Dolby True HD, LPCM 7.1, AC3, DTS, DSD / DTS-HD / Dolby TrueHD / LPCM 7.1 / AC3 / DSD",
+    "AWG 규격": "26AWG×4C / 28AWG×1P / 26AWG x 4C / 28AWG x 1P",
+    "기타 지원": "CEC, DDC, EDID",
+    "UL 인증번호": "E324703",
+    "KC 인증번호": "MSIP-REI-LUS-LS-HDMI-EXT",
+    "리피터 칩셋": "CLX1602",
+    "제품 크기(단면)": "20.3mm × 8.6mm / 4.4mm × 14mm",
+    "INPUT": "HDMI Input (스티커 표기)",
+    "OUTPUT": "HDMI Output (스티커 표기)",
+    "해상도": "4K@60Hz",
+    "전송 속도(대역폭)": "18Gbps",
+    "칩셋": "REDMERE 8181",
+    "소비 전력": "1CH DC 30V / 5V DC 300mA (원문 OCR 불명확, 참고 요망)",
+    "작동 온도": "-80°C (OCR 판독 불명확, 원문 그대로 기재) / -80°C (원문 OCR 불명확, 참고 요망)",
+    "커넥터 형태": "HDMI (수-수, Male to Male)",
+    "포장 크기 (10m·15m)": "280 x 280 x 80 mm",
+    "포장 크기 (20m·25m·30m)": "320 x 320 x 75 mm",
+    "제조사/수입사": "라인업시스템(주)",
+    "신호 증폭 칩셋 내장 길이": "20m, 25m, 30m",
+    "제조국/원산지": "중국 (China)",
+    "모델명_10m": "LS-HDMI-2MM-10MC",
+    "모델명_15m": "LS-HDMI-2MM-15MC",
+    "모델명_20m": "LS-HDMI-2MM-20MC",
+    "모델명_25m": "LS-HDMI-2MM-25MC",
+    "모델명_30m": "LS-HDMI-2MM-30MC",
+    "포장 박스 크기 (10m, 15m)": "280 x 280 x 80 (mm)",
+    "포장 박스 크기 (20m, 25m, 30m)": "320 x 320 x 75 (mm)",
+    "커넥터 규격 (외경)": "20mm (커넥터 부), 34.5mm (후드 부), 14mm (케이블 직경 참고)",
+    "쉴드 구조": "1차: 각 페어선 알루미늄+Mylar 쉴드, 2차: Aluminum Foil 전체 쉴드, 3차: 알루미늄 편조 전체 쉴드",
+    "외부 피복": "PVC 자켓",
+    "도체": "Pure Copper Conductor",
+    "모델명": "LS-HDMI-2MM-2MH / LS-HDMI-2MM-3MH / LS-HDMI-2MM-5MH / LS-HDMI-2MM-10MH",
+    "HDMI 출력 해상도": "4K2K(4096x2160) @ 60Hz",
+    "커넥터 타입": "HDMI 19핀 Male",
+    "케이블 외경": "7.3mm",
+    "커넥터 길이": "48mm",
+    "커넥터 폭": "20mm",
+    "커넥터 높이": "10mm"
+  },
+  "compatibility": [
+    "TV",
+    "PC 모니터",
+    "노트북",
+    "블루레이(Blu-ray) 플레이어",
+    "게임기",
+    "프로젝터",
+    "셋톱박스",
+    "HDMI 1.2 (Full HD 1080p) 기기",
+    "HDMI 1.3 (1440p) 기기",
+    "HDMI 1.4 기기",
+    "HDMI 2.0 기기",
+    "HDCP 2.2 지원 기기",
+    "MHL 인터페이스 지원 기기",
+    "IPTV, DLNA, UPnP 기반 기기",
+    "HDMI 2.0 지원 기기 전반",
+    "TV, PC 모니터 (OUTPUT 출력 측 연결)",
+    "노트북 (INPUT 입력 측 연결)",
+    "블루레이 플레이어 (INPUT 입력 측 연결)",
+    "게임기 (INPUT 입력 측 연결)",
+    "셋톱박스 (INPUT 입력 측 연결)",
+    "HDMI 1.2 / 1.3 / 1.4 규격 기기 (하위 호환)",
+    "IPTV, DLNA, UPnP 기반 네트워크 기기 (HEC 활용 시)",
+    "Blu-ray Disc / HD DVD 플레이어",
+    "DTS-HD, Dolby TrueHD 지원 AV 기기",
+    "HDMI 2.0 규격 기기",
+    "HDMI 1.4 규격 기기 (하위 호환)",
+    "4K@60Hz UHD 출력 지원 기기",
+    "3D Display 지원 기기",
+    "21:9 와이드 화면 비율 지원 기기",
+    "Deep Color (30비트/36비트) 지원 기기",
+    "DTS-HD / Dolby TrueHD / LPCM 7.1 / AC3 / DSD 오디오 지원 기기",
+    "HDCP 지원 기기",
+    "4K@60Hz 지원 디스플레이/소스 기기",
+    "21:9 와이드 화면비 지원 기기",
+    "Deep Color (30bit/36bit) 지원 기기",
+    "HDCP(High Bandwidth Digital Content Protection) 지원 기기",
+    "홈시어터, 옥외광고 디스플레이, 방송국 장비, 병원 디스플레이, 은행 전광판, 경기장 전광판, 스크린 스포츠 시설",
+    "HDMI 1.4 이상 지원 기기",
+    "MHL 지원 기기",
+    "IPTV / DLNA / UPnP 지원 기기"
+  ],
+  "package_contents": [
+    "HDMI 2.0 케이블 (선택 길이: 2M / 3M / 5M 중 1개)",
+    "HDMI 2.0 리피터 케이블 본체 (선택 길이: 10M / 15M / 20M / 25M / 30M)",
+    "HDMI 19P Male 커넥터 보호캡",
+    "HDMI 2.0 ACTIVE 리피터 케이블 (선택 길이: 10m / 15m / 20m / 25m / 30m 중 1개)",
+    "HDMI 2.0 ACTIVE 리피터 케이블 1개 (선택 길이: 10m / 15m / 20m / 25m / 30m)",
+    "INPUT/OUTPUT 구분 스티커 (케이블에 부착)",
+    "HDMI 2.0 케이블 본체 (선택 길이: 2M / 3M / 5M / 10M)",
+    "커넥터 보호캡 (양쪽)"
+  ],
+  "usage_instructions": "HDMI 단자가 있는 소스 기기(노트북, 블루레이 플레이어, 게임기, 셋톱박스 등)와 출력 기기(TV, PC 모니터, 프로젝터 등)를 케이블로 연결하여 사용. HEC 기능 이용 시 별도 랜케이블 없이 네트워크 접속 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리.",
+    "AS 및 소비자 상담 연락처: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMI-2MM-10MC",
+      "품목코드": "CAB-HDM901",
+      "품목명": "[LANstar] HDMI 2.0 리피터 케이블 4K*2K 60Hz, black, 10M (8개) [10949]",
+      "variant_suffix": "-10MC",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-2MM-15MC",
+      "품목코드": "CAB-HDM902",
+      "품목명": "[LANstar] HDMI 2.0 리피터 케이블 4K*2K 60Hz, black, 15M (8개) [10950]",
+      "variant_suffix": "-15MC",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-2MM-20MC",
+      "품목코드": "CAB-HDM903",
+      "품목명": "[LANstar] HDMI 2.0 리피터 케이블 4K*2K 60Hz, black, 20M (8개) [10951]",
+      "variant_suffix": "-20MC",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-2MM-25MC",
+      "품목코드": "CAB-HDM927",
+      "품목명": "[LANstar] HDMI 2.0 리피터 케이블 4K*2K 60Hz, black, 25M (8개) [11018]",
+      "variant_suffix": "-25MC",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-2MM-30MC",
+      "품목코드": "CAB-HDM928",
+      "품목명": "[LANstar] HDMI 2.0 리피터 케이블 4K*2K 60Hz, black, 30M (8개) [11019]",
+      "variant_suffix": "-30MC",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-2MM-5M",
+      "품목코드": "CAB-HDT003",
+      "품목명": "[LANstar] HDMI 2.0 케이블, M/M, 4K*2K 30Hz, 5M[10727] (50개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDMI-2MM-10MC",
+      "내용": "안정성 있고 너무 좋습니다~"
+    },
+    {
+      "source_model": "LS-HDMI-2MM-10MC",
+      "내용": "정확한 제품 빠른 배송"
+    },
+    {
+      "source_model": "LS-HDMI-2MM-15MC",
+      "내용": "잘쓰고있습니다!!!"
+    },
+    {
+      "source_model": "LS-HDMI-2MM-15MC",
+      "내용": "잘쓰고있습니다!!!"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HDMI-2MM-10MC",
+      "chatUrl": "3SfGs",
+      "dateIso": "2024-05-22T06:23:24.231Z",
+      "name": "용빈",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "어댑터랑 전원케이블 추가해서 재주문 했고 기존주문건 취소요청드렸습니다 ㅠ 확인 부탁드리며 오늘 출고 부탁드립니다\n(추가 문의) 택배배송으로 방금 주문했습니다 ^^ 친절한 안내해주셔서 감사합니다",
+      "answer": "네, 점심시간이어서 답변이 늦어져 죄송합니다. 주문 주신 것처럼 금일 택배 배송으로 출고 도와드리겠습니다. 빠르고 성실한 답변으로",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "어댑터랑 전원케이블 추가해서 재주문 했고 기존주문건 취소요청드렸습니다 ㅠ 확인 부탁드리며 오늘 출고 부탁드립니다"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "판매자 문의"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n네, 점심시간이어서 답변이 늦어져 죄송합니다.\n주문 주신 것처럼 금일 택배 배송으로 출고 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로"
+        },
+        {
+          "role": "customer",
+          "text": "택배배송으로 방금 주문했습니다 ^^ 친절한 안내해주셔서 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    }
+  ],
+  "_absorbed_fragments": {
+    "LS-HDMI-2MM-HM": {
+      "product_name": "LANStar HDMI 2.0 Real 케이블 (19P M/M)",
+      "category": "HDMI 케이블",
+      "key_features": [
+        "4K2K (4096x2160) @60Hz 울트라 HD 고해상도 지원",
+        "최대 18Gbps 전송 속도(대역폭) 지원",
+        "21:9 시네마스코프 화면비 지원",
+        "32채널 멀티채널 오디오 및 1536kHz 오디오 샘플링 지원 (최대 4명 동시 멀티스트림)",
+        "24K 금도금 커넥터로 우수한 신호 전송",
+        "ARC(Audio Return Channel) 지원 – 별도 케이블 없이 TV 사운드 전송",
+        "HEC(HDMI Ethernet Channel) 지원 – 별도 랜케이블 없이 네트워크 접속 및 양방향 통신",
+        "3D 영상 지원",
+        "28AWG 규격 케이블로 간섭 최소화 및 안정적 전송",
+        "RoHS 준수 – 납, 수은, 카드뮴 등 중금속 미사용",
+        "UL 인증(E324703), AWM STYLE 20276, 30V/80°C 규격",
+        "현대해상화재 생산물배상책임보험 1억원 가입",
+        "ISO 9001:2008 품질경영시스템 인증",
+        "3가지 추가 색역(sYCC601, Adobe RGB, Adobe YCC601) 지원으로 풍부한 색감"
+      ],
+      "specifications": {
+        "HDMI 단자": "HDMI 19P M/M",
+        "HDMI 해상도": "4K2K (4096x2160) @60Hz",
+        "전송 속도(대역폭)": "18Gbps",
+        "케이블 길이": "2M / 3M / 5M",
+        "소비전력(최대)": "DC 30V",
+        "작동 온도": "섭씨 80도",
+        "케이블 규격": "28AWG / 30AWG",
+        "AWM 규격": "STYLE 20276",
+        "UL 인증번호": "E324703",
+        "색상": "Black",
+        "커넥터 도금": "24K 금도금",
+        "오디오 샘플링": "1536kHz",
+        "오디오 채널": "32채널",
+        "제품 외형 치수(케이블 길이 범위)": "2000 ~ 5000mm",
+        "커넥터 부 치수": "20.3mm x 14mm x 7.4mm x 4.4mm (대략)",
+        "제조국": "중국 (China)",
+        "제조사": "라인업시스템(주)",
+        "인증": "RoHS Compliant, UL, FCC, ISO 9001:2008"
+      },
+      "compatibility": [
+        "HDMI 2.0 지원 TV, 4K UHD TV",
+        "PC 모니터 (HDMI 포트 탑재)",
+        "노트북 (HDMI 포트 탑재)",
+        "블루레이 플레이어",
+        "게임기 (HDMI 포트 탑재)",
+        "셋톱박스",
+        "HDMI 1.0 ~ 2.0 이전 버전 기기 (하위 호환)",
+        "IPTV, DLNA, UPnP 기반 네트워크 기기 (HEC 활용 시)",
+        "Blu-ray Disc, HD-DVD, DTS-HD, Dolby TrueHD Master Audio 지원 기기"
+      ],
+      "package_contents": [
+        "HDMI 2.0 Real 케이블 본체 (선택 길이: 2M / 3M / 5M)",
+        "커넥터 보호캡"
+      ],
+      "source_files": [
+        "LS-HDMI-2MM-HM.json"
+      ]
+    },
+    "LS-HDMI-2MM-MC-CLX": {
+      "product_name": "LANStar HDMI 2.0 ACTIVE 리피터 케이블",
+      "category": "HDMI 액티브 케이블 / 장거리 전송 케이블",
+      "key_features": [
+        "4K@60Hz UHD 해상도 지원",
+        "HDMI 2.0 규격 / 18Gbps 전송 속도",
+        "CLX1602 리피터 칩셋 내장 (신호 복원·증폭·리드라이브·노이즈 필터링)",
+        "무전원 방식 – 별도 전원 공급 불필요, 실내외 포설 및 홈시어터 구축에 용이",
+        "10m / 15m / 20m / 25m / 30m 길이 라인업 (20m·25m·30m: 신호 증폭 칩셋 내장)",
+        "INPUT / OUTPUT 방향성 케이블 (스티커로 구분)",
+        "21:9 와이드 화면 비율 지원",
+        "3D Display 지원",
+        "Deep Color 30비트/36비트 지원",
+        "DTS-HD / Dolby True HD / LPCM 7.1 / AC3 / DSD 오디오 포맷 지원",
+        "HDCP 승인 HDMI 호환 보장",
+        "3중 쉴드 구조 (알루미늄+Mylar 1차 / Aluminum Foil 2차 / 알루미늄 편조 3차) + PVC 자켓",
+        "KC 인증 획득 (인증번호: MSIP-REI-LUS-LS-HDMI-EXT)",
+        "Plug & Play 지원",
+        "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+        "소재·부품·장비 전문기업 확인서 취득 (2022.11.29)",
+        "HDMI 2.0 규격 / 18Gbps 전송 대역폭",
+        "무전원 장거리 전송 (별도 전원 어댑터 불필요)",
+        "케이블 길이 10m / 15m / 20m / 25m / 30m 라인업",
+        "Deep Color 30비트 / 36비트 지원",
+        "HDCP 지원 (CLX1602 칩셋 HDCP 승인)",
+        "3중 쉴드 구조 (알루미늄+Mylar 1차 / Aluminum Foil 2차 / 알루미늄 편조 3차)",
+        "Plug&Play 지원",
+        "KC 인증 획득 (MSIP-REI-LUS-LS-HDMI-EXT)",
+        "국립전파연구원 인증 제품",
+        "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득)",
+        "현대해상화재 생산물배상책임보험 1억원 가입",
+        "라인업시스템(주) / 랜스타 정품 수입·유통 제품"
+      ],
+      "specifications": {
+        "INPUT": "HDMI Input (스티커 표기)",
+        "OUTPUT": "HDMI Output (스티커 표기)",
+        "해상도": "4K@60Hz",
+        "전송 속도(대역폭)": "18Gbps",
+        "지원 영상 비트": "Deep Color 30비트 / 36비트",
+        "지원 오디오 포맷": "DTS-HD / Dolby True HD / LPCM 7.1 / AC3 / DSD",
+        "AWG 규격": "26AWG x 4C / 28AWG x 1P",
+        "케이블 길이": "10m / 15m / 20m / 25m / 30m",
+        "칩셋": "CLX1602",
+        "소비 전력": "DC 30V (무전원 방식) / DC 30V (ICH 기준)",
+        "작동 온도": "-80°C (원본 기재 그대로) / -80°C (OCR 판독 불완전, 하한값 누락 가능성 있음)",
+        "케이블 외경": "20mm",
+        "커넥터 규격": "HDMI (타입 A, 수-수)",
+        "KC 인증번호": "MSIP-REI-LUS-LS-HDMI-EXT",
+        "제조국/원산지": "중국 (China)",
+        "제조사/수입사": "라인업시스템(주)",
+        "모델명(10m)": "LS-HDMI-2MM-10MC",
+        "모델명(15m)": "LS-HDMI-2MM-15MC",
+        "모델명(20m)": "LS-HDMI-2MM-20MC",
+        "모델명(25m)": "LS-HDMI-2MM-25MC",
+        "모델명(30m)": "LS-HDMI-2MM-30MC",
+        "포장 박스 크기(10m·15m)": "280 x 280 x 80 (mm)",
+        "포장 박스 크기(20m·25m·30m)": "320 x 320 x 75 (mm)",
+        "화면 비율 지원": "4:3, 16:9, 21:9"
+      },
+      "compatibility": [
+        "HDMI 2.0 규격 지원 기기",
+        "4K@60Hz 출력 지원 소스 기기 (PC, 노트북, 블루레이 플레이어 등)",
+        "4K@60Hz 입력 지원 디스플레이 (TV, 모니터, 프로젝터 등)",
+        "HDCP 지원 기기",
+        "홈시어터, 옥외광고 디스플레이, 방송국 장비, 병원·은행 디스플레이, 경기장 전광판, 스크린 스포츠 시설",
+        "4K@60Hz 출력 지원 소스 기기 (PC, 셋톱박스 등)",
+        "3D Display 지원 기기",
+        "21:9 와이드 해상도 출력 지원 기기"
+      ],
+      "package_contents": [
+        "HDMI 2.0 ACTIVE 리피터 케이블 본체 1개 (선택 길이: 10m / 15m / 20m / 25m / 30m)",
+        "HDMI 2.0 ACTIVE 리피터 케이블 1개 (선택 길이: 10m / 15m / 20m / 25m / 30m)"
+      ],
+      "source_files": [
+        "LS-HDMI-2MM-MC-CLX.json",
+        "LS-HDMI-2MM-MC-CLX(20, 25, 30).json"
+      ]
+    }
+  },
+  "_variant_raw_texts": {
+    "LS-HDMI-2MM-HM": "LAN Star®\n4K\nULTRA HD\nTM\nHIGH-DEFINITION MULTIMEDIA INTERFACE\nHDMI 2.0 Real CABLE\n19P M/M\nن رایت سی\n109 Z.MP\nCops man\nH\nTHOD NEXT\nNUT\n2M 3M 5M\n4K2K\n3D\nHDMI 2.0\n21:9\n32채널\n24K\n60Hz\nFull HD\n18Gbps\n시네마스코프\n화면비\n멀티채널\n오디오\n금도금\n콘넥터\n2M LS-HDMI-2MM-H2M\n3M LS-HDMI-2MM-H3M\n5M LS-HDMI-2MM-H5M\n™M\nHDMI®\nHIGH-DEFINITION MULTIMEDIA INTERFACE\n4K@60Hz\nULTRA HD\n4K2K 고화질 해상도는 기존의 Full HD 1080p보다\n4배 높은 고해상도 화질을 표현하여\n얼굴의 솜털까지 볼 수 있는 실물에 가까운\n생생한 화질을 제공하는게 특징입니다.\n3D\nFULL HD\nFULL)\nHD\n4KX2K (4096x2160)\nHDMI 2.0\nHIGH DEFINITION MULTIMEDIA INTERFACE\nHDMI 1.3 1440P\nHDMI 1.2 FULL HD 1080P\nHD 720P\n6) HDDVD\ndts-HD\nDO DOLBY\nBlu-ray Disc G\nTRUEHD\nMaster Audio\n21:9 화면비율\n극장용 시네마스코프 영상 지원\nHDMI 2.0 케이블은 21:9 화면비를 지원하여 극장에서 영화를 감상하듯\n잘리지 않은 화면을 선명하고 생생하게 볼 수 있습니다.\n21:9 UltraWide\n16:9\n\n\n21:9 UltraWide\n16:9.\n4K UHD 방송시청에 필수인\nHDMI 2.0 지원\nHDMI 2.0 리얼 케이블은 최대 18Gbps의 전송속도를 지원합니다.\n우수한 전송률의\n24K 금도금 콘넥터\n풍부한 색감으로 더욱 현실감 있는 색채\n3개의 칼라 영역(sYCC601 color/Adobe RGB color/Adobe YCC601 color)이\n추가되면서 더욱 풍부하고 자연스러운 컬러감을 자랑합니다.\n기존 버전보다 선명하고 뛰어난 화질감을 느낄 수 있습니다.\nHDMI 1.3버전\nHDMI 2.0 버전\nHDMI 버전표\nHDMI version\n1.Over 1.1ver 1.2ver 1.3ver 1.4ver 2.Over\nsRGB\nO\nㅇ\nO\nㅇ\nㅇ\n응\nYCbCr 4:2:2/4:4:4\n○\nO\nO\nO\nO\n8채널 LPCM, 192kHz, 24비트 오디오 지원\n0\nO\nO\nO\nO\nO\n블루레이/HD-DVD 오디오의 최대 해상도 지원\nO\nO\nO\nO\nO\n10000000\n기기간 컨트롤 링크 (CEC)\nO\nO\nO\nO\nO\nDVD 오디오 지원\nX\nO\nO\n○\nSACD (DSD) 지원\nO\nX\nx\nX\n0\n100000이\nDeep color\n×\nX\n×\n0\nO\nxvYCC\n×\nX\n×\nO\n자동 립싱크\nX\nX\nX\nO\n돌비 TrueHD 오디오 비트스트림 지원\nx\nx\nO\nⒸ\nUpdated list of CEC commands\n×\nx\nO\n이이이이이이이\n×\nO\n|0||0\nHDMI 3D 지원\nX\nx\n×\n이더넷채널\nX\nX\nx\n×\nO\n오디오 리턴 채널\nX\nX\nx\nX\nO\n4K 해상도 지원 (30Hz)\nX\nX\n×\nx\nO\nO\n4K 해상도 지원 (60Hz)\nX\nx\nX\nX\nX\nO\n32채널 오디오\nX\nX\nx\nx\n0\n32채널 멀티채널오디오\n1536kHz 오디오 샘플링으로 최대 4명의 사용자에게 동시에 멀티\n스트림 오디오를 전송하여 고음질의 풍성하고 섬세한 소리로\n영화나 음악을 감상할 수 있습니다.\n수\n\n\n1536kHz 오디오 샘플링으로 최대 4명의 사용자에게 동시에 멀티\n스트림 오디오를 전송하여 고음질의 풍성하고 섬세한 소리로\n영화나 음악을 감상할 수 있습니다.\nおかん\n9\n| 1°\n오디오 리턴 채널\n(Audio Return Channel)\nTV와 기기 간에 별도의 케이블이 없이도\n선명하고 쾌적한 음성신호를 전송합니다.\n935\nHD\nHDMI 케이블을 통해 TV 사운드를 재생하는 ARC(Audio Return Channel) 지원\nHEC 지원\n(HDMI Ethernet Channal)\nHDMI 2.0 케이블은 별도의 랜케이블 없이 네트워크에 접속해\n초고속 양방향 통신 및 IP 기반 응용기술(IPTV, DLNA, UPnp)을\n구현할 수 있습니다.\nHDMI®\nHIGH SPEED\nwith ETHERNET\nINTERNET\nTV, PC 모니터 등에 연결\ne\n노트북, 블루레이 플레이어, 게임기\n셋톱박스 등에 연결\nH\n12-25\n000200\nBlu-ray 플레이어\n노트북\nv\nvud\n게임기\n셋톱박스\n\n\n노트북\nvs\nvud\n게임기\n셋톱박스\n28AWG\nAWG는 미국전선규격(American Wire Gage)으로 케이블의 굵기를 말합니다.\nHDMI 2.0 케이블은 28AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한\n품질의 제품입니다.\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nROHS\nRestriction of Hazardous Substances\nRoHS(Restriction of Hazardous Substances)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등 중금속\n사용을 금지합니다.\nROHS\nCompliant\nPRODUCT SIZE\n2000~5000mm\n1\n20.3mm\n↑\n7.4mm\n4.4mm\n14mm\nPRODUCT IMAGE\nPRODUCT IMAGE\nHE\nHDMI 19 Malel\n콘넥터 보호캡\nAWM\nSTYLE\n20276\n80°C\nHIGH SPEED HDMI CABLE WITH ETHERNET\nE324703\n30V\nPRODUCT PACKAGE\nLAN tar\nUltra Speed\nHDMI CABLE\nCarted License prikl\n2 HOM/1900-HO/100\n용도: 생기기 디스플레쉬 출연 영상\n720/1080 LGA/1440\n40062100 Ful HO\n\n\nLANG\ntor\nUltra Speed\nHDMI CABLE\nCarted License prime\nAKE\n1800pe\n2 HOW/1900-HOM/1\n1906-\n음성 및 디지털신호\nUTVA\n720/1080 LGA/14 GA\n4000x2100 Fu\nM\nA/SLANA/S: \nwww.LAN.co.kr\nR\nMan Crea For\n2015EUP SYSTEM\nLength\n모델명: LS-HDMI-2MM\nHDMI 2.0 Real 케이블\nHDMI 2.0 A/M-A/M, Standard\n4K-2K 060Hz. Black Color. M\n28AWG/30AWG 인증\n최대 전송 속도 180005\nA/S: www.LANstar.co.kr\nm\n8 607649 630348\nSPECFICATIONS\nHDMI단자 HDMI 19P M/M\nHDMI 해상도 4K2K (4096x2160) @60Hz 지원\n전송속도(대역폭) 18Gbps\n케이블 길이 2M/3M/5M\n소비전력 최대 DC 30V\n작동온도\n섭씨 80도\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nCR\nROHS UL FICI\nC\nCOMPLIANT\n상대의 주 있다.\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar\nⓇ®Ⓡ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nHDMI 2.0 Real 케이블\nLANStar\nⓇ\n모델\n명\nLS-HDMI-2MM-H2M\nLS-HDMI-2MM-H3M\nLS-HDMI-2MM-H5M\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-HDMI-2MM-MC": "LAN Star\nⓇ\n4K\nULTRA HD\nTM\nHIGH-DEFINITION MULTIMEDIA INTERFACE\nHDMI 2.0 리피터 CABLE\n19P M/M\nLANStar\nHONE 2.0\nHOO SP\n10M\n15M\n20M\n25M\n30M\n4KX2K\n3D\nHDMI 2.0\n21:9\n32채널\n24K\n60Hz\nFull HD\n18Gbps\n시네마스코프\n화면비\n멀티채널\n오디오\n금도금\n콘넥터\n10M LS-HDMI-2MM-10MC\n15M LS-HDMI-2MM-15MC\n20M LS-HDMI-2MM-20MC\n25M LS-HDMI-2MM-25MC\n30M LS-HDMI-2MM-30MC\nHDMI®\nHIGH-DEFINITION MULTIMEDIA INTERFACE\n4KⓇ\n@60Hz\nULTRA HD\n4K2K 고화질 해상도는 기존의 Full HD 1080p보다\n4배 높은 고해상도 화질을 표현하여\n얼굴의 솜털까지 볼 수 있는 실물에 가까운\n생생한 화질을 제공하는게 특징입니다.\n3D\nFULL HD\nFULL)\n4KX2K (4096x2160)\nHDMI 2.0\nHD\nHIGH DEFINITION MULTIMEDIA INTERFACE\nHDMI 1.3 1440P\nHDMI 1.2 FULL HD 1080P\nHD 720P\ndts-HD\nDODOLBY\nHD DVD\nTRUEHD\nBlu-ray Disc\nMaster Audio\n21:9 화면비율\n극장용 시네마스코프 영상 지원\nHDMI 2.0 케이블은 21:9 화면비를 지원하여 극장에서 영화를 감상하듯\n잘리지 않은 화면을 선명하고 생생하게 볼 수 있습니다.\n21:9 UltraWide\n\n\n극상용 시네마스코프 영상 시원\nHDMI 2.0 케이블은 21:9 화면비를 지원하여 극장에서 영화를 감상하듯\n잘리지 않은 화면을 선명하고 생생하게 볼 수 있습니다.\n21:9 UltraWide\n16:9\n4K UHD 방송시청에 필수인\nHDMI 2.02.0 \n지원\nHDMI 2.0 리피터 케이블은 최대 18Gbps의 전송속도를 지원합니다.\n우수한 전송률의\n24K 금도금 콘넥터\n풍부한 색감으로 더욱 현실감 있는 색채\n3개의 칼라 영역(sYCC601 color/Adobe RGB color/Adobe YCC601 color)이\n추가되면서 더욱 풍부하고 자연스러운 컬러감을 자랑합니다.\n기존 버전보다 선명하고 뛰어난 화질감을 느낄 수 있습니다.\nHDMI 1.3버전\nHDMI 2.0 버전\nHDMI 버전표\nHDMI version\n1.Over 1.1ver 1.2ver 1.3ver 1.4ver 2.Over\nsRGB\n○\nㅇ\nㅇ\nㅇ\nㅇ\nO\nYCbCr 4:2:2/4:4:4\nㅇ\nO\nO\nO\nO\n0\n8채널 LPCM, 192kHz, 24비트 오디오 지원\n0\nO\nO\nO\nO\nㅇㅇㅇㅇ\n블루레이/HD-DVD 오디오의 최대 해상도 지원\nO\nO\nO\nO\nO\n기기간 컨트롤 링크 (CEC)\nO\nO\nO\nO\nO\nDVD 오디오 지원\nO\n0\nO\nX\n000000이\nO\nSACD (DSD) 지원\n0\nX\nx\nX\n0\nDeep color\nX\nx\nx\nO\nXVYCC\n×\nX\nx\nO\n자동 립싱크\nX\nx\nx\n00000\nO\n0 0 0 0 0 0 0 0 0 0\nTrueHD 오디오 비트스트림 지원\nO\nO\nUpdated list of CEC commands\nX\nX\nX\nO\nHDMI 3D 지원\nX\nX\n×\n×\n이더넷채널\nXx\nX\n×\nX\nO\n10000\n오디오 리턴 채널\nx\nX\nX\n4K 해상도 지원 (30Hz)\n×\nX\nX\nX\nO\n4K 해상도 지원 (60Hz)\n×\nx\nX\nX\nO\n32채널 오디오\nX\nX\nx\nx\nx\n0\n32채널 멀티채널오디오\n1536kHz 오디오 샘플링으로 최대 4명의 사용자에게 동시에 멀티\n스트림 오디오를 전송하여 고음질의 풍성하고 섬세한 소리로\n영화나 음악을 감상할 수 있습니다\n\n\n32채널 멀티채널오디오\n1536kHz 오디오 샘플링으로 최대 4명의 사용자에게 동시에 멀티\n스트림 오디오를 전송하여 고음질의 풍성하고 섬세한 소리로\n영화나 음악을 감상할 수 있습니다\n영구\n18\nIn\n오디오 리턴 채널\n(Audio Return Channel)\nTV와 AV기기 간에 별도의 케이블이 없이도\n선명하고 쾌적한 음성신호를 전송합니다.\n9:35\nCh.23\nHD\nHDMI 케이블을 통해 TV 사운드를 재생하는 ARC(Audio Return Channel) 지원\nHEC 지원\n(HDMI Ethernet Channal)\nHDMI 2.0 케이블은 별도의 랜케이블 없이 네트워크에 접속해\n초고속 양방향 통신 및 IP 기반 응용기술(IPTV, DLNA, UPnp)을\n구현할 수 있습니다.\nHDMI®\nHIGH SPEED\nwith ETHERNET\nINTERNET\nTV, PC 모니터 등에 연결\nOUTPUT(출력)\ne\nINPUT (입력)\n노트북, 블루레이 플레이어, 게임기\n셋톱박스 등에 연결\n00:02:00\n30\nBlu-ray 플레이어\n노트북\nv\n\n\n000200\n3D\nBlu-ray 플레이어\n노트북\nv\n게임기\n셋톱박스\n!\nOUTPUT(출력)과 INPUT(입력) 연결방향이 바뀌면\n작동하지 않습니다. 연결시 반드시 확인하세요.\nCLX1602\n장거리 전송용 리피터 칩셋 탑재\nCLX1602 칩셋은 안정적인 전원공급과\nHDCP(High bandwidth Digital Content\nProtection, 고대역폭 디지털 콘텐츠 전송\n보호)가 승인된 HDMI 호환을 보장합니다.\nCLX1602\n칩셋\nLANStar\n07 H\n800 \n305-30\n28AWG\nAWG는 미국전선규격(American Wire Gage)으로 케이블의 굵기를 말합니다.\nHDMI 2.0 케이블은 28AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한\n품질의 제품입니다.\n28AWGX1P\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n26AWGX4CGX4C\n40\n16\n저화질 전송\n잡음이 적음\n설치가 용이\n안정적인 전송\n설치가 까다로움\nROHS\nRestriction of Hazardous Substances\nRoHS(Restriction of Hazardous Substances)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등 중금속\n사용을 금지합니다.\nPROHS\nCompliant\nPRODUCT SIZE\n10~30m\n20.3mm\nT\n8.6mm\n4.4mm\n↑\n14mm\nPRODUCT IMAGE\n10M, 15M\nㅇ\nInd\ninding\n\n\nJAN\ninding\nPRODUCT IMAGE\n20M, 25M, 30M\nPRODUCT IMAGE\nIN\nLODNI\nCHDMI 2.0 SN\nHDMI 19 Male\n콘넥터 보호캡\nPRODUCT PACKAGE\nLAN\n4K\nHDMI 2.0 리피터 케이블\nUHD+60Hz\nLAMStor HDMI 2.0 리피터 케이블\nUH SPEED\nCH\nSPECFICATIONS\nHDMI단자\nHDMI 19P M/M\nHDMI 해상도\n4Kx2K(4096x2160) @60Hz 지원\n전송속도(대역폭)\n18Gbps\n지원영상비트\nDeep color 30 비트/36 비트\n지원오디오포맷 DTS-HD/Dolby True HD/LPCM7.1/AC3/DTS/DSD\nAWG 규격\n26AWGX4C/28AWGx1P\n기타지원\nCEC, DDC, EDID\nU\nL\n규\n격\n인증번호 E324703\n케이블 길이\n10M/15M/20M/25M/30M\n소비전력 최대\nDC 30V\n작동온도\n섭씨 80도\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nROHS FC CE\nS\nCOMPLIANT\nR\n®\nROM NOS\nCI\nISO 9001:2008\n품질경영시스템\nRoHS (Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n\n\nR\nK³\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를\n인증마크로 사용합니다.\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\nK\n인증번호 MSIP-REI-LUS-LS-HDMI-EXT\nLANSStar\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nHDMI 2.0 리피터 케이블\nLANG\nStar\n모\n델\n명\nLS-HDMI-2MM-10MC\nLS-HDMI-2MM-15MC\nLS-HDMI-2MM-20MC\nLS-HDMI-2MM-25MC\nLS-HDMI-2MM-30MC\n인증번호\nMSIP-REI-LUS-LS-HDMI-EXT\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-HDMI-2MM-MC(10, 15)": "HDMI2.0 ACTIVE CABLE\n다양한 장소, 환경에서 사용!\n가정, 야외 옥외 광고, 방송국, 병원, 은행, 경기장 전광판, 스크린 스포츠 시설 등\n다양한 장소, 환경에서 해상도 손실 없이 사용이 가능합니다!!\nSerien Kinder Video bok\nwicht Thstungen\nSTAFFEL 2\nHIGH CASTLE\nAND\nKEVIN\nofe-\nSCH PATRIOT\nTee oma mainoksesiPOHJOISMAIDEN\nSUURIMMALLE\nLONG\nTRIP\nKEVIN\nSCREENI 옥외광고\n홈씨어터\ndna.fi/oma\n방송국\n병원\nWyverns\nSK\nFIR\nPhire EXTPACOLD ARC\n후 강대학\n아이비사 부인 가천대학교\n전광판\n스크린 스포츠\nLAN tar\nHDMI2.0 ACTIVE 리피터 케이블\n4K@60Hz / REDMERE8181 칩셋 /\n무전원 장거리 전송 / In, Out 방향성\n10m/15m\nLANStar\nLAN Star\nD\nK660Hz\n21:0 아이디\n3D Display\n\n\nD\n4K@60Hz\nUHD 해상도\nHDMI 2.0\n21:9 와이드\n비율 지원\n3D Display\n지원\nwww\nTITT\nㅇ\nwww\nREDMERE8181\n칩셋\n장거리 전송\nHDCP\nPlug&Play\n4K@60Hz Ultra HD\nHDMI2.0 ACTIVE\n1. 4K@60Hz 해상도 지원\n2. 무전원 장거리 전송(케이블 매립 후 사용에 용이)\n3. 안정성 높은 “REDMERE8181\" 칩셋\n4. 10m / 15m /20m/25m/30m 케이블 길이\n5. InPut, Output 방향성 있는 케이블(스티커로 구분)\nLAN Star\nLAN Star\nHDMI INPUT\nHDMI OUTPUT\nINPUT\nOUTPUT\nACTIVE CABLE\n안정적인 장거리 신호전송\n1. 각 페어선을 각각 알루미늄 + Mylar로 쉴드 처리(1차 쉴드)\n2. 케이블 전체를 Aluminum Foil로 쉴드 처리(2차 쉴드)\n3. 케이블 전체를 유연성높은 알루미늄 편조로 쉴드(3차 쉴드)\n4. 유연성 높고 보호성이 강한 PVC 자켓 외부 피복 사용\nPure Copper\nConductor\nGround Wire\nAluminum Foil\n•\nMetal Mesh\nPVC Jacket\n\n\nMetal Mesh\nPVC Jacket\nHDMI®\nHIGH DEFINITION MULTIMEDIA INTERFACE\n4K@60Hz UHD\n최대 4K@60Hz의 해상도를 30m 거리까지 신호 손실 없이 출력할 수 있습니다.\nHDMI 2.0\n지원기능\nHDMI 1.4\nHDMI 2.0\nsRGB\n☑\nYCbCr 4:2:2/4:4:4\n☑\n8채널 LPCM, 192kHz, 24비트 오디오 지원\n블루레이/HD-DVD 오디오의 최대 해상도 지원\n기기간 컨트롤 링크(CEC)\n☑\nDVD 오디오 지원\nSACD (DSD) 지원\nDeep Color\n☑\nxvYCC\n☑\n자동 립싱크\n☑\n돌비 TruelHD 오디오 비트스트림 지원\nUpdated list of CEC commands\n☑\nHDMI 3D 지원\n☑\n이더넷 채널\n오디오 리턴 채널\n4K 해상도 지원 (30fps / 60fps)\n☑\nDual-View\n다중 스트림 오디오\n21:9 와이드 화면 비율\nDisplay Stream Compression (DSC) 지원\n극장용 시네마스코프\n21:9 와이드 화면 비율 지원\n일반적인 4:3(16:9) 화면비 뿐 아니라 21:9의 와이드 화면비로 고해상도 영상 출력이 가능하며\n극장에서 영화를 보는 것과 같이 어느곳에서든 와이드 화면으로 영상 시청이 가능합니다.\n21:9\n14:0\n\n\n일반적인 4:3(16:9) 화면비 뿐 아니라 21:9의 와이드 화면비로 고해상도 영상 출력이 가능하며\n극장에서 영화를 보는 것과 같이 어느곳에서든 와이드 화면으로 영상 시청이 가능합니다.\n21:9\n16:9\n무전원 케이블\n포설하여 사용하기 용이!\n전원이 따로 필요하지 않은 케이블이기 때문에 실내 및 실외 포설 및 홈시어터 구축시\n매우 유용하게 사용할 수 있는 케이블입니다.\n10\nHDMI 2.0\nCHDMI 2.0\nRed Mere\n_CTI406\nCT1400 10X-93\nREDMERE8181 칩셋\n장거리 전송용 리피터 칩셋\nREDMERE8181 칩셋은 안정적인 전원 공급 및 신호 전송뿐 아니라\nHDCP(High Bandwidth Digital content Protection)가 승인된\nHDMI 호환을 보장합니다.\n\n\nHDCP(High Bandwidth Digital content Protection)\nHDMI 호환을 보장합니다.\nPRODUCT DETAIL\n10m/15m/20m/25m/30m\n20mm\nLANStar\nOSNUT\n34.5mm\n14mm\nPIN OUT\nP1\nP2\n#6579802-3+\n10\n10\n12\nCLX1602\n12\n11\n11\n1.3\n13\n14\n14\n15\n15\n15\n15\n16\n16\n17\n17\n18\n18\n19\n19\nSHELL\nSHELL\n신호 증폭 칩셋 내장 케이블 : 20M, 25M, 30M\nPRODUCT PACKAGE\nW\nLANStar\nHDM\nLAN tar\nLANStar\n4K\n60Hz\nHDMI2.0 리피터 케이블\nLANStar HDMI 2.0 2\nH\nHDMI 2.0 리피터 케이블\nH\n10M\n20\n22m\n15M\n25\nHOMP\nHIGH SPEED\n20M\n30\n25M\n30M\nW\n10m, 15m: 280 x 280 x 80(mm) 20m, 25m, 30m: 320 x 320 x 75(mm)\nW\nH\nD\nW\nH D\nSPECIFICATION\nINPUT\nHDMI Input (스티커 표기)\nOUTPUT\nHDMI Output (스티커 표기)\n해상도\n4K@60Hz\n전송 속도(대역폭)\n18Gbps\n지원 영상 비트\nDeep Color 30비트/36비트\n지원 오디오 포맷\nDTS-HD/ Dolby True HD / LPCM 7.1/AC3/DSD\nAWG 24\n26AWG x 40/28AWG x 1P\n\n\n전송 속도(대역폭)\n18Gbps\n지원 영상 비트\nDeep Color 30비트/36비트\n지원 오디오 포맷\nDTS-HD / Dolby TrueHD/LPCM 7.1 / AC3/DSD\nAWG 규격\n26AWG X4C / 28AWG X 1P\n케이블 길이\n10m/15m/20m/25m/30m\n칩셋\nREDMERE 8181\n소비 전력\n*ICH DC 30V\n작동 온도\n- 80°C\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\nK\n인증번호 : MSIP-REI-LUS-LS-HDMI-EXT\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n전문기업확인서\n소재·부품 장비 전문기업확인서\nLATI\nNAW\nA\n2022\n평가관리원\n박\n신호기업인을 확인합니다.\n산업통산자원부 시행 제도\nKeit\n231 29\n2022.11.29 취득\n한국산업기술평가관광국\n라인업시스템(주) 정품 인증\n*****\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n\n\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상품 정보\n품\n명\nHDMI2.0 ACTIVE 리피터 케이블\nLS-HDMI-2MM-10MC\nLANSStar\nLS-HDMI-2MM-15MC\n모\n뎀\n명\nLS-HDMI-2MM-20MC\nLS-HDMI-2MM-25MC\nLS-HDMI-2MM-30MC\nKC 인 증 번 호\nMSIP-REI-LUS-LS-HDMI-EXT\n제조국/원산 지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질 보증 기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "LS-HDMI-2MM-MC-CLX": "HDMI2.0 ACTIVE CABLE\n다양한 장소, 환경에서 사용!\n가정, 야외 옥외 광고, 방송국, 병원, 은행, 경기장 전광판, 스크린 스포츠 시설 등\n다양한 장소, 환경에서 해상도 손실 없이 사용이 가능합니다!!\nSude Hone\nSerien Kinder\nWidt thung\nSTAFFEL 2\nJetzt anchen be Prime Video\nHIGH CASTLE\nCana\nKEVIN\nNWICS\nofe\nSCH PATRIOT\nTee oma mainoksesiPOHJOISMAIDEN\nSUURIMMALLE\nLONG\nTRIP\nJning\nKEVIN\nSCREEN 옥외광고\n홈씨어터\ndna.fi/oma\n방송국\n병원\nWyverns\nSK\nFIR\nhire EXTPACOLD CLASICK\n공부\n회원 가천대학교\n전광판\n스크린 스포츠\nLANG\ntar\nHDMI2.0 ACTIVE 리피터 케이블\n4K@60Hz / CLX1602 칩셋 / 무전원 장거리 전송 / In&Out\n20m/25m/30m\nLAN Star\nLAN Star\nD\n44660Hz\n21:0 아이드\n3D Display\n\n\nD\n4K@60Hz\nUHD 해상도\nHDMI 2.0\n21:9 와이드\n비율 지원\n3D Display\n지원\nwww\nㅇ\n1111\nCLX1602\n칩셋\n장거리 전송\nHDCP\nPlug&Play\n4K@60Hz Ultra HD\nHDMI2.0 ACTIVE\n1. 4K@60Hz 해상도 지원\n2. 무전원 장거리 전송(케이블 매립 후 사용에 용이)\n3. 안정성 높은 “REDMERE8181\" 칩셋\n4. 10m/15m/20m/25m/30m 케이블 길이\n5. InPut, Output 방향성 있는 케이블(스티커로 구분)\nLANStar\nLANStar\nHDMI INPUT\nHDMI OUTPUT\nINPUT\nOUTPUT\nACTIVE CABLE\n안정적인 장거리 신호전송\n1. 각 페어선을 각각 알루미늄 + Mylar로 쉴드 처리(1차 쉴드)\n2. 케이블 전체를 Aluminum Foil로 쉴드 처리(2차 쉴드)\n3. 케이블 전체를 유연성높은 알루미늄 편조로 쉴드(3차 쉴드)\n4. 유연성 높고 보호성이 강한 PVC 자켓 외부 피복 사용\nPure Copper\nConductor\nGround Wire\nAluminum Foil\nMetal Mesh\nPVC Jacket\n\n\nMetal Mesh\n•\nPVC Jacket\n신호 증폭 칩셋\n안정적인 장거리 신호 전송\n'신호 증폭 칩셋'은 장거리 전송 시 신호의 열화(손실)을 방지하고,\n영상 및 음성 신호를 안정적으로 전송하기 위해\nHDMI 신호를 재생성(복원)해주는 역할을 합니다.\nOSEN\nHOTH\n3. CO\nHDMI는 디지털 신호 기반이기 때문에 전송하는 거리가 멀어질수록 (약 15M 이상)\n◆ 신호 감쇠 현상 ♦ EMI(전자기 간섭) 노이즈 증가 와 같은 현상이 발생할 수 있습니다.\n리피터 칩셋을 이용하면 해결 완료!\n신호 증폭 칩셋의 역할??\n신호 복원(Equalizing)\n장거리 전송 시 손상된 HDMI 신호를 분석해 원래의 신호로 복구합니다.\n증폭(Boosting)\n장거리 전송 시 약해진 HDMI 전기 신호의 세기를 다시 강하게 만들어줍니다.\n리드라이브(Re-driving)\n전송중인 신호를 재정렬하여 다음 장치까지 안정적으로 전달합니다.\n노이즈 필터링\n외부 간섭으로 인한 잡음(EMI)을 일부 제거하거나 완화시키는 역할을 합니다.\n고속 전송 대응\nHDMI 2.0 기준인 18Gbps 속도로 전송을 위해 신호 타이밍을 최적화합니다.\n극장용 시네마스코프\n21:9 와이드 화면 비율 지원\n일반적인 4:3(16:9) 화면비 뿐 아니라 21:9의 와이드 화면비로 고해상도 영상 출력이 가능하며\n극장에서 영화를 보는 것과 같이 어느곳에서든 와이드\n으로\n가능합니다.\n21:9\n16:9\n\n\n무전원 케이블\n포설하여 사용하기 용이!\n전원이 따로 필요하지 않은 케이블이기 때문에 실내 및 실외 포설 및 홈시어터 구축시\n매우 유용하게 사용할 수 있는 케이블입니다.\nㅁ\nHDMI 2.0\nCHDMI 2.0\nRedMere\nCLX1602 칩셋\n장거리 전송용 리피터 칩셋\nCLX1602 칩셋은 안정적인 전원 공급 및 신호 전송뿐 아니라\nHDCP(High Bandwidth Digital content Protection)가 승인된\nHDMI 호환을 보장합니다.\nPRODUCT DETAIL\n10m/15m/20m/25m/30m\n20mm\nLANGtar\nOSNUT\n\n\n10m/15m/20m/25m / 30m\n20mm\nLANStar\nOUT\n34.5mm\n14mm\nPIN OUT\nP2\n1\n3\nPT327667802-3156\n10\nCLX1602\n12\n11\n1315\n14\n14\n15\n15\n16\n17\n17\n18\n18\n19\n19\nSHELL\nSHELL\n신호 증폭 칩셋 내장 케이블 : 20M, 25M, 30M\nPRODUCT PACKAGE\nW\nLANG\ntar\nHDM\nLAN tar\nLAN Tor\n4K\n060Hz\nHDMI 2.0 리피터 케이블\nHDMI 2.0\nLANStar HDMI 2.0 2\nH\nH\n10\n000\n15\nGOTO\n10M\n20\n15M\n25\nHOMI\nHIGH SPEED\n20M\n30\n25M\n30M\nIN ILL\nD\nW\n10m, 15m: 280 x 280 x 80(mm) 20m, 25m, 30m: 320 x 320 x 75(mm)\nW\nH D\nW\nHD\nSPECIFICATION\nINPUT\nHDMI Input (스티커 표기)\nOUTPUT\nHDMI Output (스티커 표기)\n해상도\n4K@60Hz\n전송 속도(대역폭)\n18Gbps\n지원 영상 비트\nDeep Color 30비트/36비트\n지원 오디오 포맷\nDTS-HD/ Dolby True HD / LPCM 7.1/AC3/DSD\nAWG 규격\n26AWG x 4C/28AWG x 1P\n케이블 길이\n10m/15m/20m/25m / 30m\n칩셋\nCLX1602\n소비 전력\n*ICH DC 30V\n작동 온도\n- 80°C\n\n\n케이블 길이\n10m/15m/20m/25m/30m\n칩셋\nCLX1602\n소비 전력\n*ICH DC 30V\n작동 온도\n-80°C\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\nKC\n인증번호 : MSIP-REI-LUS-LS-HDMI-EXT\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\nGale\n소재·부품·장비\n전문기업확인서\n소재 부품 장비 전문기업학인서\nAu\n***8221\n평가관리원\n47\n신문기업인을 확신합니다.\n산업통산자원부 시행 제도\nKelt\n802231 29\n2022.11.29 취득\n한국산업기술평가관한\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상품정보\n품\nBHO\n명\nHDMI2.0 ACTIVE 리피터 케이블\nLS-HDMI-2MM-10MC\nLANStar\nLS-HDMI-2MM-15MC\n모\n데\n명\nLS-HDMI-2MM-20MC\n\n\n상 품 정 보\n품\n명\nHDMI2.0 ACTIVE 리피터 케이블\nLS-HDMI-2MM-10MC\nLAN Sta\nLS-HDMI-2MM-15MC\nStar\n모\n덱\n명\nLS-HDMI-2MM-20MC\nLS-HDMI-2MM-25MC\nLS-HDMI-2MM-30MC\nKC 인 증 번 호\nMSIP-REI-LUS-LS-HDMI-EXT\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질 보증 기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANSStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "LS-HDMI-2MM-MC-NEW": "HDMI2.0 ACTIVE CABLE\n다양한 장소, 환경에서 사용!\n가정, 야외 옥외 광고, 방송국, 병원, 은행, 경기장 전광판, 스크린 스포츠 시설 등\n다양한 장소, 환경에서 해상도 손실 없이 사용이 가능합니다!!\nSerien Kinder Video bok\nWichtungen\nSTAFFEL 2\nHIGH CASTLE\nAND\nofe-\nKEVIN\nCenghite\nSCH PATRIOT\nTee oma mainoksesiPOHJOISMAIDEN\nSUURIMMALLE\nLONG\nTRIP\nKEVIN\nSCREENI 옥외광고\n홈씨어터\ndna.fi/oma\n방송국\n병원\nWyverns\nSKA\nFIR\nPhire EXTPA COLD C\n강대학\n아이비사 27 원 가천대학교\n전광판\n스크린 스포츠\nLANG\ntar\nHDMI2.0 ACTIVE 리피터 케이블\n4K@60Hz / REDMERE8181 칩셋 /\n무전원 장거리 전송 / In, Out 방향성\n10m/15m\nLAN Star\nLAN Star\nD\n44660Hz\n21:0 아이드\n3D Display\n\n\nD\n4K@60Hz\nUHD 해상도\nHDMI 2.0\n21:9 와이드\n비율 지원\n3D Display\n지원\nwww\nTITT\nㅇ\nwww\nREDMERE8181\n칩셋\n장거리 전송\nHDCP\nPlug&Play\n4K@60Hz Ultra HD\nHDMI2.0 ACTIVE\n1. 4K@60Hz 해상도 지원\n2. 무전원 장거리 전송(케이블 매립 후 사용에 용이)\n3. 안정성 높은 “REDMERE8181\" 칩셋\n4. 10m / 15m /20m/25m/30m 케이블 길이\n5. InPut, Output 방향성 있는 케이블(스티커로 구분)\nLAN Star\nLAN Star\nHDMI INPUT\nHDMI OUTPUT\nINPUT\nOUTPUT\nACTIVE CABLE\n안정적인 장거리 신호전송\n1. 각 페어선을 각각 알루미늄 + Mylar로 쉴드 처리(1차 쉴드)\n2. 케이블 전체를 Aluminum Foil로 쉴드 처리(2차 쉴드)\n3. 케이블 전체를 유연성높은 알루미늄 편조로 쉴드(3차 쉴드)\n4. 유연성 높고 보호성이 강한 PVC 자켓 외부 피복 사용\nPure Copper\nConductor\nGround Wire\nAluminum Foil\n•\nMetal Mesh\nPVC Jacket\n\n\nMetal Mesh\nPVC Jacket\nHDMI®\nHIGH DEFINITION MULTIMEDIA INTERFACE\n4K@60Hz UHD\n최대 4K@60Hz의 해상도를 30m 거리까지 신호 손실 없이 출력할 수 있습니다.\nHDMI 2.0\n지원기능\nHDMI 1.4\nHDMI 2.0\nsRGB\n☑\nYCbCr 4:2:2/4:4:4\n☑\n8채널 LPCM, 192kHz, 24비트 오디오 지원\n블루레이/HD-DVD 오디오의 최대 해상도 지원\n기기간 컨트롤 링크(CEC)\n☑\nDVD 오디오 지원\nSACD (DSD) 지원\nDeep Color\n☑\nxvYCC\n자동 립싱크\n돌비 TruelHD 오디오 비트스트림 지원\nUpdated list of CEC commands\n☑\nHDMI 3D 지원\n☑\n이더넷 채널\n오디오 리턴 채널\n4K 해상도 지원 (30fps / 60fps)\n☑\nDual-View\n다중 스트림 오디오\n21:9 와이드 화면 비율\nDisplay Stream Compression (DSC) 지원\n극장용 시네마스코프\n21:9 와이드 화면 비율 지원\n일반적인 4:3(16:9) 화면비 뿐 아니라 21:9의 와이드 화면비로 고해상도 영상 출력이 가능하며\n극장에서 영화를 보는 것과 같이 어느곳에서든 와이드 화면으로 영상 시청이 가능합니다.\n21:9\n14:0\n\n\n일반적인 4:3(16:9) 화면비 뿐 아니라 21:9의 와이드 화면비로 고해상도 영상 출력이 가능하며\n극장에서 영화를 보는 것과 같이 어느곳에서든 와이드 화면으로 영상 시청이 가능합니다.\n21:9\n16:9\n무전원 케이블\n포설하여 사용하기 용이!\n전원이 따로 필요하지 않은 케이블이기 때문에 실내 및 실외 포설 및 홈시어터 구축시\n매우 유용하게 사용할 수 있는 케이블입니다.\n10\nHDMI 2.0\nCHDMI 2.0\nRed Mere\nCT1400 % 0X-83\nREDMERE8181 칩셋\n장거리 전송용 리피터 칩셋\nREDMERE8181 칩셋은 안정적인 전원 공급 및 신호 전송뿐 아니라\nHDCP(High Bandwidth Digital content Protection)가 승인된\nHDMI 호환을 보장합니다.\n\n\nHDCP(High Bandwidth Digital content Protection)\nHDMI 호환을 보장합니다.\nPRODUCT DETAIL\n10m/15m/20m/25m/30m\n20mm\nLANStar\nOSNUT\n34.5mm\n14mm\nPIN OUT\nP1\nP2\n+6579802-3+\n10\n10\n12\nCLX1602\n12\n11\n11\n13\n1.3\n14\n14\n15\n15\n15\n15\n16\n16\n17\n17\n18\n18\n19\n19\nSHELL\nSHELL\n신호 증폭 칩셋 내장 케이블 : 20M, 25M, 30M\nPRODUCT PACKAGE\nW\nLAN Star\nHDM\nLAN tar\nLAN Tar\n4K\n¥60Hz\nHDMI2.0 리피터 케이블\nLANStar HDMI 2.0 2\nH\nHDMI 2.0 리피터 케이블\nH\n10M\n20\n15M\n25\nHOMP\nHIGH SPEED\nm\n20M\n30\n25M\n30M\nW\n10m, 15m: 280 x 280 x 80(mm) 20m, 25m, 30m: 320 x 320 x 75(mm)\nW\nH\nD\nW\nH D\nSPECIFICATION\nINPUT\nHDMI Input (스티커 표기)\nOUTPUT\nHDMI Output (스티커 표기)\n해상도\n4K@60Hz\n전송 속도(대역폭)\n18Gbps\n지원 영상 비트\nDeep Color 30비트/36비트\n지원 오디오 포맷\nDTS-HD/ Dolby True HD / LPCM 7.1/AC3/DSD\nAWG 24\n26AWG x 40/28AWG x 1P\n\n\n전송 속도(대역폭)\n18Gbps\n지원 영상 비트\nDeep Color 30비트/36비트\n지원 오디오 포맷\nDTS-HD / Dolby TrueHD/LPCM 7.1 / AC3/DSD\nAWG 규격\n26AWG X4C / 28AWG X 1P\n케이블 길이\n10m/15m/20m/25m/30m\n칩셋\nREDMERE 8181\n소비 전력\n*ICH DC 30V\n작동 온도\n- 80°C\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\nK\n인증번호 : MSIP-REI-LUS-LS-HDMI-EXT\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n전문기업확인서\n소재·부품갈비 전문기업확인서\nCAPTION-\nww\nAAAIU\nAWAD 203127-1\n평가관리원\n박\n신기술 확습니다.\n산업통산자원부 시행 제도\nKeit\n12\n2022.11.29 취득\n한국산업기술평가관학원\n라인업시스템(주) 정품 인증\n*****\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n\n\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상 품 정보\n품\n명\nHDMI2.0 ACTIVE 리피터 케이블\nLS-HDMI-2MM-10MC\nLANStar\nLS-HDMI-2MM-15MC\n모\n덱\n명\nLS-HDMI-2MM-20MC\nLS-HDMI-2MM-25MC\nLS-HDMI-2MM-30MC\nKC 인 증 번 호\nMSIP-REI-LUS-LS-HDMI-EXT\n제조국/원산 지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질 보증 기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANG\n®\nStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "LS-HDMI-2MM-MH": "LANSStar®\nprime\nPASS\nTM\nHDMI 2.0\nHIGH-DEFINITION MULTIMEDIA INTERFACE\nHDMI 2.0 CABLE\n1\nLANStar\n4KX2K\n3D\nHDMI 2.0\n24K\n21:9\n시네마스코프\n화면비\n32채널\n멀티채널\n오디오\n18Gbps\n60Hz\n금도금\nFull HD\n콘넥터\n2M LS-HDMI-2MM-2MH\n3M LS-HDMI-2MM-3MH\n5M LS-HDMI-2MM-5MH\nTOM LS-HDMI-2MM-10MH\nHDMI™\nHIGH-DEFINITION MULTIMEDIA INTERFACE\n4K\nULTRA HD\n4K2K UHD(Ultra High Definition)\nFull HD 1080p보다 4배 높은 고해상도 화질을 표현하여\n얼굴의 솜털까지 볼 수 있는 실물에 가까운\n생생한 화질을 제공하는게 특징입니다\n3D\nFULL HD\nFULL)\n4KX2K (4096x2160)\nHDMI 2.0\nHD\nHIGH DEFINITION MULTIMEDIA INTERFACE\nHDMI 1.3 1440P\nHDMI 1.2 FULL HD 1080P\nHD 720P\ndts-HD\nDODOLBY\nHD DVD\nTRUEHD\nBlu-ray Disc C\nMaster Audio\nULTRAHD\n4\n4K UHD 방송시청에 필수인\nHDMI 2.0 지원\n18Gbps 대역폭, 초당 60프레임 전송\n32개의 멀티채널 오디오\nHDMI\n\n\nHDMI\nLANSStar\n우수한 전송률의\n24K 금도금 콘넥터\nHDMI 2.0 CABLE은\n기존 HDMI 1.4 대비 전송 대역폭을 76% 향상시켜 최대 18Gbps를 지원합니다.\nUHD 영상을 30프레임까지만 전송할 수 있는 HDMI 1.4와 달리 초당 60프레임으로\n제작된 고품질 4K UHD 영상을 원본 그대로 전송할 수 있습니다.\n늘어난 대역폭을 이용, 32개의 멀티채널 오디오와 1536kHz 오디오를 지원해 영상\n뿐만 아니라 오디오 품질까지 향상시켰습니다.\n30\n20\n18Gbps\n15\n10.2Gbps\n10\n5\nHDMI 1.4\nHDMI 2.0\n프라임패스 prime 인증 제품\nPASS\n프라임패스(PrimePass™)는 심플레이 랩스社(Simplay™ Labs,\nLLC)가 제공하는 프리미엄 4K UHD 컨텐츠를 전송 또는 수신하는\n기기 성능을 인증하는 프로그램으로 프라임패스 로고가 부착된\n제품은 풀HD보다 화질이 4배나 선명한 4K UHD는 최고의 홈 시어\n터 경험을 제공합니다.\n프라임패스 인증 프로그램을 통과한 제품은 HDMI 및 MHL 등의\n유선 인터페이스는 물론 HDCP 같은 연결 보호장치를 통해 인정된\n업계 표준을 사용하여 프리미엄 컨텐츠를 전송할 수 있습니다.\n대상 기기들은 4K 비디오, 다채널 오디오, HDCP 2.2 연결 보호에\n대한 광범위한 테스트뿐 아니라 상호 호환성에 대한 향상된\n테스트를 받아 믿을 수 있습니다.\nLAN Star\n21:9 화면비율\n극장용 시네마스코프 영상 지원\nHDMI 2.0 케이블은 21:9 화면비를 지원하여 극장에서 영화를 감상하듯\n잘리지 않은 화면을 선명하고 생생하게 볼 수 있습니다\n16:9\n21:9\n32채널 멀티채널오디오\n1536kHz 오디오 샘플링으로 최대 4명의 사용자에게 동시에 멀티\n스트림 오디오를 전송하여 고음질의 풍성하고 섬세한 소리로\n영화나 음악을 감상할 수 있습니다\n미국구\n1800\n\n\n1536kHz 오디오 샘플링으로 최대 4명의 사용자에게 동시에 멀티\n스트림 오디오를 전송하여 고음질의 풍성하고 섬세한 소리로\n영화나 음악을 감상할 수 있습니다\n미국\nage\nHDMI 케이블을 통해 TV 사운드를 재생하는 ARC(Audio Return Channel) 지원\nHEC 지원\n(HDMI Ethernet Channal)\nHDMI 2.0 케이블은 별도의 랜케이블 없이 네트워크에 접속해\n초고속 양방향 통신 및 IP 기반 응용기술(IPTV, DLNA, UPnp)을\n구현할 수 있습니다.\nHDMI®\nHIGH SPEED\nwith ETHERNET\nINTERNET\nTV, PC 모니터 등에 연결\nLAN Star\nHDMI\ne\nHDMI\n노트북, 블루레이 플레이어, 게임기\n프로젝터, 셋톱박스 등에 연결\n000200\n30\nBlu-ray 플레이어\n프로젝터\n게임기\nv3\nvuda\n셋톱박스\n노트북\nPRODUCT SIZE\n2000~10000mm\nT\n20mm\nLANGor\nIWCH\n7.3mm\n48mm\n10mm\n1.4mm\n14mm\naa\n|LS-HDMI-2MM-2MH2M LS-HDMI-2MM-3MH 3M\n\n\n|LS-HDMI-2MM-2MH2M LS-HDMI-2MM-3MH 3M\n00\n| LS-HDMI-2MM-5MH 5M LS-HDMI-2MM-10MH10M|\nPRODUCT IMAGE\n콘넥터 보호캡\nHDMI 19 Male\n콘넥터 보호캡\nM 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nCR\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nSPECFICATIONS\n모델명\nLS-HDMI-2MM-2MH~10MH\n케이블 길이\n2M/3M/5M/10M\n전송속도(대역)\n18Gbps\nHDMI 출력\n4K2K(4096x2160) @ 60Hz 지원\n소비전력 최대\nDC 300V/5s\n작동온도\n섭씨 80도\n® 제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\nLAN Star® 제한합시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명 HDMI 2.0 케이블\n모\n델\n명\nLANStar\nLS-HDMI-2MM-2MH/LS-HDMI-2MM-3MH\nLS-HDMI-2MM-5MH/LS-HDMI-2MM-10MH\nⓇ\n인증번호 해당없음\n제조국/원산지 중국 (China)\n제조사/수입사 라인업시스템(주)\nAS 소비자상담 070-7018-3386\n본 제품에 이상이 있으면\n품질보증기준 공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        2,
+        3,
+        5,
+        10,
+        15,
+        20,
+        25,
+        30
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "HDMI2.0",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": null,
+      "ethernet_channel": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19P M/M",
+    "connectivity.output_signals": "HDMI 19P M/M",
+    "connectivity.directional": "ARC(Audio Return Channel) 지원",
+    "power.power_mode": "무전원",
+    "form_physical.material": "24K 금도금 커넥터",
+    "form_physical.length_options_meters": "2M / 3M / 5M / 10M / 15M / 20M / 25M / 30M",
+    "certification.kc": "KC 인증번호: MSIP-REI-LUS-LS-HDMI-EXT",
+    "certification.rohs": "RoHS(특정유해물질 사용제한) 인증 준수",
+    "audio_video.max_resolution": "4K2K UHD (4096x2160) 해상도 @60Hz",
+    "audio_video.hdcp_version": "HDCP 2.2 연결 보호 지원",
+    "audio_video.audio_pass": "ARC(Audio Return Channel) 지원",
+    "family.hdmi_version": "HDMI 2.0 규격 지원",
+    "family.dp_version": "N/A",
+    "family.dvi_type": "N/A",
+    "family.ethernet_channel": "HEC(HDMI Ethernet Channel) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:07",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

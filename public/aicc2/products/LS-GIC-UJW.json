@@ -1,0 +1,148 @@
+{
+  "model_no": "LS-GIC-UJW",
+  "product_name": "CAT.6A UTP I형 고급 커플러 (RJ45 / 8P8C / I형 F-F / 대만산)",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-UTP",
+    "커넥터",
+    "커플러"
+  ],
+  "key_features": [
+    "CAT.6A UTP 전용 커플러",
+    "RJ45 Female - RJ45 Female 1:1 I형 연결",
+    "최대 10Gbps 전송 속도 지원 (10G BASE / 500MHz)",
+    "50 금도금 커넥터로 신호 손실 최소화",
+    "568A(Cross) / 568B(Direct) 두 가지 배열 모두 연결 가능",
+    "랜 케이블 길이가 짧거나 추가 연장 시 사용",
+    "국립전파연구원 KC 인증 획득 (MSIP-RTI-LUS-LS-CAT7)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "소재·부품·장비 전문기업확인서 보유 (2022.11.29 취득)",
+    "라인업시스템(주) / 랜스타 정품 수입·유통 제품"
+  ],
+  "specifications": {
+    "규격": "CAT.6A UTP",
+    "형태": "RJ45 Female-Female (F/F), I형",
+    "커넥터 핀": "8P8C",
+    "전송속도": "10Gbps",
+    "대역폭": "500MHz",
+    "네트워크 규격": "10G BASE",
+    "커넥터 도금": "50 금도금 커넥터",
+    "재질": "플라스틱",
+    "색상": "흰색",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "MSIP-RTI-LUS-LS-CAT7",
+    "제품 크기": "16.2mm x 29.6mm x 14.6mm (가로 x 세로 x 높이)"
+  },
+  "compatibility": [
+    "CAT.6A UTP 랜 케이블",
+    "RJ45 (8P8C) 커넥터 호환",
+    "568B Direct 배열 케이블",
+    "568A Cross 배열 케이블",
+    "10G BASE 네트워크 장비",
+    "CAT.6A 및 하위 규격(CAT.6, CAT.5E) 환경에서 사용 가능 (단, 성능은 연결된 케이블 규격에 따름)"
+  ],
+  "package_contents": [
+    "CAT.6A UTP I형 고급 커플러 (LS-GIC-UJW) 1개"
+  ],
+  "usage_instructions": "랜 케이블의 길이가 짧거나 추가로 연장해야 할 때, 두 랜 케이블의 RJ45 커넥터를 본 커플러 양쪽 포트에 각각 삽입하여 1:1로 연결합니다. 568A(Cross) 및 568B(Direct) 배열을 모두 지원하므로 다이렉트 및 크로스 케이블 모두 사용 가능합니다.",
+  "cautions": [
+    "당일출고는 오후 4시 이전 결제완료 건에 한하며, 토·일·공휴일을 제외한 평일 기준입니다.",
+    "택배사 사정에 따라 배송기간이 길어질 수 있습니다 (평균 1~2일 소요).",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처의 제품은 정품이 아닐 수 있으며 A/S를 받을 수 없습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품의 이미지·콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr",
+    "품질 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상합니다."
+  ],
+  "variants": [],
+  "reviews": [
+    {
+      "source_model": "LS-GIC-UJW",
+      "내용": "아무문제없이 잘됨니다~",
+      "관련내용": "너무나 잘쓰고있습니다."
+    },
+    {
+      "source_model": "LS-GIC-UJW",
+      "내용": "너무나 잘쓰고있습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "흰색"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "UTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 Female - RJ45 Female",
+    "connectivity.output_signals": "RJ45 Female - RJ45 Female",
+    "connectivity.directional": "1:1 I형 연결",
+    "connectivity.port_count": "두 랜 케이블의 RJ45 커넥터를 본 커플러 양쪽 포트에",
+    "power.power_mode": "무전원",
+    "power.charging_support": "false",
+    "form_physical.has_case": "CAT.6A UTP I형 고급 커플러",
+    "form_physical.material": "플라스틱",
+    "form_physical.color_options": "흰색",
+    "certification.kc": "KC 인증 획득",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.cat_category": "CAT.6A UTP 전용 커플러",
+    "family.shielding": "CAT.6A UTP 전용 커플러"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:16",
+  "feature_schema_version": "1.0.0"
+}

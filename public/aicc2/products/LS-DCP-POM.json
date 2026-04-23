@@ -1,0 +1,120 @@
+{
+  "model_no": "LS-DCP-POM",
+  "product_name": "LANStar DC 전원 젠더 2P(수)",
+  "category": [
+    "컨버터",
+    "커넥터",
+    "LAN공구"
+  ],
+  "key_features": [
+    "전원 케이블의 전선을 연결해 전원잭으로 변환 가능",
+    "납땜 없이 쉽게 전원 플러그 제작 가능",
+    "CCTV 케이블 또는 랜 케이블 연장 시 별도의 긴 케이블 구매 없이 활용 가능",
+    "케이블 속 2개의 전선을 연결하여 손쉽게 연장 케이블 문제 해결",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 규격 준수(납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "외경": "5.5mm",
+    "내경": "2.1mm",
+    "핀 수": "2핀",
+    "타입": "Male(수)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "CCTV 카메라 전원 공급 장치",
+    "CCTV 케이블",
+    "랜 케이블(2개의 동일 색상 전선 사용)",
+    "외경 5.5mm / 내경 2.1mm 규격 DC 전원 잭"
+  ],
+  "package_contents": [
+    "DC 전원 젠더 2P(수) (Male) 1개"
+  ],
+  "usage_instructions": "전원 케이블 또는 랜 케이블 속 2개의 전선을 DC 전원 젠더의 2핀 단자에 연결하여 전원잭으로 변환하거나 케이블 연장에 활용합니다. 납땜 없이 연결 가능하며, 랜 케이블 사용 시 같은 색상의 전선 2개를 양쪽에 동일하게 연결합니다. Male(수)과 Female(암) 젠더를 쌍으로 사용하여 연장 연결이 가능합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "랜 케이블 사용 시 반드시 같은 색상의 전선 2개를 연결해야 합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DCP-POM",
+      "품목코드": "NEO-잡자재508",
+      "품목명": "[LANstar] DC 전원 젠더 케이블연결용 숫놈 POWER((M) [40528]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "내장케이블"
+      ],
+      "output_signals": [
+        "내장케이블"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "전원 케이블의 전선을 연결해 전원잭으로 변환",
+    "connectivity.output_signals": "전원 케이블의 전선을 연결해 전원잭으로 변환",
+    "connectivity.directional": "Male(수)과 Female(암) 젠더를 쌍으로 사용하여 연장 연결이 가능합니다.",
+    "connectivity.port_count": "DC 전원 젠더 2P(수)",
+    "form_physical.has_case": "DC 전원 젠더 2P(수)",
+    "form_physical.material": "플라스틱",
+    "certification.rohs": "RoHS 규격 준수(납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.conversion_direction": "Male(수)과 Female(암) 젠더를 쌍으로 사용하여 연장 연결이 가능합니다.",
+    "family.requires_external_power": "납땜 없이 쉽게 전원 플러그 제작 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:26",
+  "feature_schema_version": "1.0.0"
+}

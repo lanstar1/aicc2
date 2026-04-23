@@ -1,0 +1,385 @@
+{
+  "model_no": "LS-2000H",
+  "product_name": "LS-2000H 허브랙 (42U)",
+  "category": [
+    "허브랙"
+  ],
+  "key_features": [
+    "42U 규격 허브랙",
+    "높이 2056mm, 깊이 800mm, 너비 600mm"
+  ],
+  "specifications": {
+    "규격": "42U",
+    "높이(H)": "2056mm",
+    "깊이(D)": "800mm",
+    "너비(W)": "600mm",
+    "내부 유효 높이": "1833.59mm",
+    "내부 유효 너비": "510mm",
+    "내부 유효 깊이(정면 기준)": "597mm",
+    "상단 개구부 깊이": "465mm",
+    "상단 개구부 너비": "450mm (선반)",
+    "단위": "mm"
+  },
+  "compatibility": [],
+  "package_contents": [
+    "LS-2000H 허브랙 본체 1EA",
+    "고정 기둥 4EA",
+    "앞문, 뒷문 각 2EA",
+    "케이지너트, 볼트, 와셔 각 80개 1SET"
+  ],
+  "usage_instructions": null,
+  "cautions": [],
+  "variants": [
+    {
+      "model_no": "LS-2000H",
+      "품목코드": "NEO-허브랙043",
+      "품목명": "[LANstar] 허브랙 2000*800*600 (H*D*W)[50008][42U]- 아이보리",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-2000H",
+      "내용": "잘받았어요.\n늘 사용하던 제품입니다"
+    },
+    {
+      "source_model": "LS-2000H",
+      "내용": "상품이 찌그러져서왔습니다."
+    },
+    {
+      "source_model": "LS-2000H",
+      "내용": "아구가 딱 맞고 조절이 잘되네요.\n감사합니다.",
+      "관련내용": "빠른대응 빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-2000H",
+      "내용": "빠른대응 빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-2000H",
+      "내용": "잘받았어요.\n늘 사용한던 제품입니다~~"
+    },
+    {
+      "source_model": "LS-2000H",
+      "내용": "저렴하게 구입해서 잘 사용중이네요!",
+      "관련내용": "제품 경동택배로 받았는데 이상없이 잘받았고 \n\n잘사용중입니다~"
+    },
+    {
+      "source_model": "LS-2000H",
+      "내용": "오른쪽 옆면이 휘어져서 왔습니다. 배송중 충격같은데 대충 펴서 쓰고 있습니다."
+    },
+    {
+      "source_model": "LS-2000H",
+      "내용": "제품 경동택배로 받았는데 이상없이 잘받았고 \n\n잘사용중입니다~"
+    },
+    {
+      "source_model": "LS-2000H",
+      "내용": "잘 쓰고 있습니다. 감사합니다.",
+      "관련내용": "아직 잘 쓰고 있습니다."
+    },
+    {
+      "source_model": "LS-2000H",
+      "내용": "가성비가 좋아요  택배비만 조정해주시면 더좋을거같아요"
+    },
+    {
+      "source_model": "LS-2000H",
+      "내용": "아직 잘 쓰고 있습니다."
+    },
+    {
+      "source_model": "LS-2000H",
+      "내용": "적당한 가격에 좋은 품질, 빠른 배송 맘에 들어요~~"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-2000H",
+      "chatUrl": "2cXz5F",
+      "dateIso": "2025-11-06T08:28:59.665Z",
+      "name": "win",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하세요 조금 전 상품 받았습니다\n박스 까보니까 다른덴 이상 없는데 옆면 판 하나가 휘어서 도착했어요\n혹시 판 하나만 교체가 가능할까요?\n(추가 문의) 아 네. 랙 측면부 덮개 한 개가 불량인 것 같아요\n(추가 문의) 아니면 측면부 1개만 교체는 어려울까요??\n(추가 문의) 아 그러면 그냥 감수하고 사용하겠습니다",
+      "answer": "LS-2000H 배송중 파손으로 파손 접수 및 금일 재배송 도와드리겠습니다. 기존 허브랙의 경우 원활하게 수거될 수 있도록 준비 부탁드립니다.\n\n고객님. 같이 배송된 전면&후면 거치선반: 아이보리 (LS-SHE-1220HG) 3개는 문제 없으시고, LS-2000H만 파손되신 걸까요?\n\n원활한 수령에 불편을 드려 죄송합니다. 전면&후면 거치선반: 아이보리 (LS-SHE-1220HG) 해당 제품의 옆면 판이 휘신 걸까요?",
+      "turn_count": 7,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "아 그러면 그냥 감수하고 사용하겠습니다"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n배송중 파손의 경우 본품 교환이 원칙이라 이 점 양해 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "아니면 측면부 1개만 교체는 어려울까요??"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n맞습니다."
+        },
+        {
+          "role": "customer",
+          "text": "허브랙 통짜로 수거해가시는 건가요??"
+        },
+        {
+          "role": "agent",
+          "text": "LS-2000H 배송중 파손으로 파손 접수 및 금일 재배송 도와드리겠습니다.\n기존 허브랙의 경우 원활하게 수거될 수 있도록 준비 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "네"
+        },
+        {
+          "role": "agent",
+          "text": "고객님.\n\n같이 배송된 전면&후면 거치선반: 아이보리 (LS-SHE-1220HG) 3개는 문제 없으시고, LS-2000H만 파손되신 걸까요?"
+        },
+        {
+          "role": "customer",
+          "text": "네 잠시만요"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다. 고객님.\n\n정확한 확인을 위해 파손사진 5장 전달 가능하실까요?"
+        },
+        {
+          "role": "customer",
+          "text": "아 네. 랙 측면부 덮개 한 개가 불량인 것 같아요"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n원활한 수령에 불편을 드려 죄송합니다.\n전면&후면 거치선반: 아이보리 (LS-SHE-1220HG) 해당 제품의 옆면 판이 휘신 걸까요?"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요 조금 전 상품 받았습니다\n박스 까보니까 다른덴 이상 없는데 옆면 판 하나가 휘어서 도착했어요\n혹시 판 하나만 교체가 가능할까요?"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다. [배송중] 고객님께 배송을 시작합니다! 빠르게 배송해드릴게요! [배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-2000H",
+      "chatUrl": "4VtVJ",
+      "dateIso": "2025-05-19T08:15:44.110Z",
+      "name": "토아토아아아아",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "일정이 안되면 용달로 받아야할듯합니다\n(추가 문의) 29일 설치인데 그전에받을수있나요?\n(추가 문의) 내부에들어가는선반별도구매가능한지",
+      "answer": "LS-SHE-750HB 해당 제품 추천드립니다. 랜스타 제품\n\n네. 고객님. 금일 출고 되어 보통 1~3영업일 내 도착 예정이십니다. 랜스타 제품 이용 중 불\n\n주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!",
+      "turn_count": 10,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "ls-2000h"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\nLS-SHE-750HB 해당 제품 추천드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품"
+        },
+        {
+          "role": "customer",
+          "text": "확인부탁드립니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n무엇을 도와드릴까요?"
+        },
+        {
+          "role": "customer",
+          "text": "확인부탁드립니다"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "내부에들어가는선반별도구매가능한지"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요"
+        },
+        {
+          "role": "agent",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        },
+        {
+          "role": "customer",
+          "text": "확인부탁드립니다"
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        },
+        {
+          "role": "customer",
+          "text": "일정이 안되면 용달로 받아야할듯합니다"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n금일 출고 되어 보통 1~3영업일 내 도착 예정이십니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불"
+        },
+        {
+          "role": "customer",
+          "text": "29일 설치인데 그전에받을수있나요?"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-2000H",
+      "chatUrl": "2e0EY",
+      "dateIso": "2023-09-12T07:45:56.342Z",
+      "name": "qkrw****",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "빠를수록 좋습니다. 회사 위치가 부산이라 택배로 수령해야 할듯 하네요\n(추가 문의) 네 감사합니다. 혹시 금일 구매하면 언제쯤 받을 수 있을까요?\n(추가 문의) 동일한 선반을 구매하려면 어떤 옵션을 추가해야 할까요?\n(추가 문의) 네 구매는 스마트 스토어로 구매하면 되나요?",
+      "answer": "네 고객님, LS-2000H와 동일하게 사용 가능한 선반으로는 'LS-SHE-1220HG' 선반을 구매해주셔야 합니다. 해당 선반은 추가 옵션에는 없는 제품으로서, 별도 검색 후 구매해주시면 감사하겠습니다. 그리고 선반 하나당 허용 하중의 경우 약 40~50kg으로\n\n네 고객님, 확인하였습니다. 배송지의 경우 현재 문의 주신 스마트스토어에서 주문해주실 때 입력해주시면 그곳으로 배송 도와드리겠습니다. 경동택배 금액으로 견적서 맞추어 위 말씀 주신 메일로 보내드리겠습니다.\n\n문의 주신 LS-2000H 랙 제품의 경우 기본 선반 2개가 포함되어 있습니다.",
+      "turn_count": 7,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 구매는 스마트 스토어로 구매하면 되나요?"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 현재 견적서 말씀 주신 메일로 발송 도와드렸습니다.\n구매 완료해주시면, 내일 오전 빠르게 출고 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시"
+        },
+        {
+          "role": "customer",
+          "text": "네 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 확인하였습니다.\n\n배송지의 경우 현재 문의 주신 스마트스토어에서 주문해주실 때 입력해주시면 그곳으로 배송 도와드리겠습니다.\n경동택배 금액으로 견적서 맞추어 위 말씀 주신 메일로 보내드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "네 감사합니다."
+        },
+        {
+          "role": "agent",
+          "text": "견적서 받아보시기 위해 아래 정보 부탁드립니다.\n\n거래처명 / 성함 / 연락처 / 견적서 받아보실 메일 주소 네 고객님, 내일 오전에 출고 도와드릴 수 있도록 하겠습니다.\n일반적으로 배송까지 1~2일 걸려서 빠르면 14일 목요일에 제품 받아보실 수 있을 것으로 보입니다"
+        },
+        {
+          "role": "customer",
+          "text": "빠를수록 좋습니다. 회사 위치가 부산이라 택배로 수령해야 할듯 하네요"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 확인하였습니다.\n\n언제쯤 받아보길 희망하실까요? 현재 재고가 있어 맞춰 드릴 수 있을 것 같아 여쭤봅니다."
+        },
+        {
+          "role": "customer",
+          "text": "네 감사합니다. 혹시 금일 구매하면 언제쯤 받을 수 있을까요?"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, LS-2000H와 동일하게 사용 가능한 선반으로는 'LS-SHE-1220HG' 선반을 구매해주셔야 합니다.\n해당 선반은 추가 옵션에는 없는 제품으로서, 별도 검색 후 구매해주시면 감사하겠습니다.\n\n그리고 선반 하나당 허용 하중의 경우 약 40~50kg으로"
+        },
+        {
+          "role": "customer",
+          "text": "동일한 선반을 구매하려면 어떤 옵션을 추가해야 할까요?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n문의 주신 LS-2000H 랙 제품의 경우 기본 선반 2개가 포함되어 있습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제"
+        },
+        {
+          "role": "customer",
+          "text": "LS-2000H 랙 관련 사양 문의드립니다"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": null,
+      "port_count": null
+    },
+    "power": {
+      "power_mode": null,
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": null,
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "rack_unit": 42,
+      "mount_type": "standing",
+      "depth_mm": 800,
+      "width_mm": 600,
+      "height_mm": 2056,
+      "has_door": null,
+      "has_lock": null,
+      "has_fan": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "허브랙",
+    "family.rack_unit": "42U 규격 허브랙",
+    "family.mount_type": "허브랙",
+    "family.depth_mm": "깊이 800mm",
+    "family.width_mm": "너비 600mm",
+    "family.height_mm": "높이 2056mm"
+  },
+  "feature_extracted_at": "2026-04-23T03:06:24",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 3,
+    "category_breakdown": {
+      "troubleshoot": 2,
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

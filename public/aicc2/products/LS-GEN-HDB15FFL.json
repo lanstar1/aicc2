@@ -1,0 +1,97 @@
+{
+  "model_no": "LS-GEN-HDB15FFL",
+  "product_name": "젠더 모니터 90도 꺾임 HDB 15핀",
+  "category": [
+    "젠더"
+  ],
+  "key_features": [
+    "HDB 15핀 F/F 90도 꺾임 구조",
+    "비좁은 공간에서 케이블 연결 가능",
+    "연장 젠더로 활용 가능"
+  ],
+  "specifications": {
+    "품명": "젠더 모니터 90도 꺾임 HDB 15핀",
+    "모델명": "LS-GEN-HDB15FFL",
+    "커넥터 타입": "HDB 15핀 F/F",
+    "꺾임 각도": "90도",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증서번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "HDB 15핀 규격 모니터 케이블",
+    "HDB 15핀 규격 연결 장치"
+  ],
+  "package_contents": [
+    "젠더 모니터 90도 꺾임 HDB 15핀 본체 1개"
+  ],
+  "usage_instructions": "좁은 공간에서 HDB 15핀 케이블이 꽂히지 않을 때, 본 젠더를 포트에 연결한 후 케이블을 꺾임 방향으로 연결하여 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "본 제품 및 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GEN-HDB15FFL",
+      "품목코드": "GEN-모니터007",
+      "품목명": "[LANstar] 젠더Changer , HDB15P F/F, 3열, 90도 꺽임[20044]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "양방향"
+    },
+    "form_physical": {
+      "has_case": true,
+      "color_options": [
+        "null"
+      ]
+    },
+    "certification": {
+      "kc": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "HDB 15핀 Female",
+      "connector_type_b": "HDB 15핀 Female",
+      "gender": "F-F",
+      "pin_count": 15
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDB 15핀 F/F",
+    "connectivity.output_signals": "HDB 15핀 F/F",
+    "connectivity.directional": "연장 젠더로 활용 가능",
+    "form_physical.has_case": "젠더 모니터 90도 꺾임 HDB 15핀",
+    "certification.kc": "인증서번호: 해당없음",
+    "family.connector_type_a": "HDB 15핀 F/F",
+    "family.connector_type_b": "HDB 15핀 F/F",
+    "family.gender": "HDB 15핀 F/F",
+    "family.pin_count": "HDB 15핀"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:10",
+  "feature_schema_version": "1.0.0"
+}

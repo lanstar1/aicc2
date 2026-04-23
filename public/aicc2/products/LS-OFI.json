@@ -1,0 +1,137 @@
+{
+  "model_no": "LS-OFI",
+  "product_name": "광케이블 멀티 테스터기 (Optic Fiber Identifier)",
+  "category": [
+    "광케이블",
+    "네트워크공구"
+  ],
+  "key_features": [
+    "광케이블 단선 체크 기능",
+    "싱글모드 신호 방향 체크 기능",
+    "VFL(Visual Fault Locator) 기능 - 빨간색 LD 레이저로 단선 위치 확인",
+    "LED 디스플레이를 통한 dBm 전력 단위 표시",
+    "270Hz, 1KHz, 2KHz 3가지 주파수 인식 및 신호음 출력",
+    "광케이블 방향성 확인 (싱글모드 전용)",
+    "후레쉬(플래시) 기능 지원",
+    "VFL 버튼: 1번 레이저 점등, 2번 레이저 점멸, 3번 VFL 종료"
+  ],
+  "specifications": {
+    "광케이블 측정 두께": "0.25mm ~ 3.00mm",
+    "파장 범위": "800nm ~ 1700nm",
+    "광케이블 전력 측정 범위": "-40dBm ~ 10dBm",
+    "인식 가능 주파수": "270Hz, 1KHz, 2KHz",
+    "VFL 전력 범위": "10mW",
+    "VFL 테스트 가능 거리": "8 ~ 10km",
+    "VFL 파장": "650nm",
+    "VFL 레이저 타입": "빨간색 LD 타입 레이저",
+    "배터리": "AA 배터리 2개 (별도 구매)",
+    "작동 온도": "-10°C ~ 60°C",
+    "보관 온도": "-25°C ~ 70°C",
+    "무게": "약 145g (배터리 포함)",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음",
+    "생산물배상책임보험": "현대해상화재보험 1억원 가입"
+  },
+  "compatibility": [
+    "SC 타입 광케이블 (VFL 기능 사용 시)",
+    "최대 두께 3mm 이하 광케이블",
+    "싱글모드 광케이블 (방향성 확인 기능 사용 시)"
+  ],
+  "package_contents": [
+    "광케이블 테스터기 (LS-OFI) 1개",
+    "파우치 1개",
+    "패키징 박스 1개"
+  ],
+  "usage_instructions": "광케이블을 제품 상단의 홈에 넣은 다음 제품 뒷면의 버튼을 누르면 광케이블의 방향성과 전력을 확인할 수 있습니다. VFL 기능 사용 시 SC 타입 광케이블을 연결한 뒤 VFL 버튼을 누르면 빨간색 LD 레이저가 점등되며, 반대쪽 커넥터에서 레이저를 확인할 수 있습니다. 케이블이 단선된 경우 단선 부위에서 빨간 LD 레이저가 확인됩니다. VFL 버튼 1번: 레이저 점등, 2번: 레이저 점멸, 3번: VFL 종료.",
+  "cautions": [
+    "VFL 기능(LD 레이저)은 SC 타입 광케이블에서만 사용 가능합니다.",
+    "광케이블 테스터기에 사용 가능한 광케이블 두께는 최대 3mm입니다.",
+    "방향성 확인 기능은 싱글모드 광케이블에서만 사용 가능합니다.",
+    "배터리(AA 2개)는 제품에 포함되지 않으며 별도 구매가 필요합니다.",
+    "제조사 사정에 따라 제품 색상, 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품의 콘텐츠 및 상품을 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-OFI",
+      "품목코드": "NEO-테스터124",
+      "품목명": "[LANstar] 광케이블 멀티 테스터기, 단선체크, 신호방향체크 [30570] (20개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-OFI",
+      "내용": "저렴하고  배송빠르고 포장도 꼼꼼하니  좋습니다"
+    },
+    {
+      "source_model": "LS-OFI",
+      "내용": "광파워 정밀도는 떨어지나 요도가 파워측청용이 아니라 가격대비 성능면에서 만족합니다!"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "무관"
+      ],
+      "output_signals": [
+        "무관"
+      ],
+      "directional": "N/A"
+    },
+    "power": {
+      "power_mode": "배터리",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": null,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "광케이블을 제품 상단의 홈에 넣은",
+    "connectivity.output_signals": "광케이블을 제품 상단의 홈에 넣은",
+    "power.power_mode": "AA 배터리 2개 (별도 구매)",
+    "control_switching.has_physical_button": "제품 뒷면의 버튼을 누르면",
+    "certification.kc": "KC 인증 번호: 해당없음"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:24",
+  "feature_schema_version": "1.0.0"
+}

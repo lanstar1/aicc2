@@ -1,0 +1,118 @@
+{
+  "model_no": "LS-FSP-SC",
+  "product_name": "광케이블 피그테일 SC Type Single-mode 1.5M",
+  "category": [
+    "광케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "싱글모드(SM) 광섬유 사용, 코어 직경 9㎛",
+    "SC Type 커넥터",
+    "장거리 전송 지원 (최대 약 50km 무중계 전송)",
+    "케이블 외경(OD) 0.9mm",
+    "케이블 길이 1.5M",
+    "케이블 색상: 노란색"
+  ],
+  "specifications": {
+    "모델명": "LS-FSP-SC-1.5M",
+    "품명": "광케이블 피그테일",
+    "커넥터 타입": "SC Type",
+    "광섬유 모드": "싱글모드 (Single-mode)",
+    "코어 직경": "9㎛",
+    "케이블 외경(OD)": "0.9mm",
+    "케이블 길이": "1.5M (1500mm)",
+    "케이블 색상": "노란색",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "광송수신장비 ↔ 광전송로 연결",
+    "광분배함 ↔ 광케이블 연결",
+    "광분배함 ↔ 광장비 연결",
+    "광장비 ↔ 광 단말 연결"
+  ],
+  "package_contents": [
+    "광케이블 피그테일 SC Type Single-mode 1.5M × 1"
+  ],
+  "usage_instructions": "SC Type 커넥터를 광송수신장비, 광분배함, 광장비 또는 광 단말의 해당 포트에 연결하여 광전송로 구성에 사용합니다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-FSP-SC-1.5M",
+      "품목코드": "NET-광싱케061",
+      "품목명": "[LANstar] 광케이블, SC Pig-Tail 싱글모드 (SM), SC 피그테일 1.5M 노랑색 [10817]",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Optical"
+      ],
+      "output_signals": [
+        "Optical"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 1.5,
+      "length_options_meters": null,
+      "color_options": [
+        "노란색"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": true,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "SC Type 커넥터를 광송수신장비",
+    "connectivity.output_signals": "SC Type 커넥터를 광송수신장비",
+    "connectivity.directional": "광전송로 구성에 사용합니다",
+    "form_physical.length_meters": "케이블 길이 1.5M",
+    "form_physical.color_options": "케이블 색상: 노란색",
+    "family.optical_core": "싱글모드(SM) 광섬유 사용"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:03",
+  "feature_schema_version": "1.0.0"
+}

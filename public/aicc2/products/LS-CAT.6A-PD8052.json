@@ -1,0 +1,120 @@
+{
+  "model_no": "LS-CAT.6A-PD8052",
+  "product_name": "CAT.6A UTP RJ45 8P8C 모듈러 콘넥터 (팬듀잇형) 100개입",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-UTP",
+    "커넥터",
+    "UTP포트"
+  ],
+  "key_features": [
+    "팬듀잇형 아치형 래치 구조로 플러그 착탈 시 래치 부러짐 예방",
+    "락(Lock) 부트와 조립 시 랜선이 빠지지 않는 높은 결합력 (랜툴 압착 필수)",
+    "단선·연선 공용 사용 가능",
+    "플러그 내 케이블 꼬임 유지 구조로 성능과 지속성 향상",
+    "50k 금도금 핀 장착으로 높은 전도율 및 낮은 신호손실",
+    "10G(10Gbps) 지원, 대역폭 500MHz",
+    "RoHS 준수, KC·FCC·CE 인증, ISO 9001:2008 품질경영시스템",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.6A",
+    "케이블 타입": "UTP",
+    "커넥터 타입": "RJ45 8P8C",
+    "지원 전송속도": "10Mbps / 100Mbps / 1000Mbps / 10Gbps",
+    "대역폭": "500MHz",
+    "핀 도금": "50k 금도금",
+    "규정 규격": "TIA/EIA-568",
+    "인증번호": "MSIP-RTI-LUS-LS-CAT7",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "수량": "100개입"
+  },
+  "compatibility": [
+    "LS-SSTP-CAT.6A-300M 케이블과 최적 호환 (별도구매)",
+    "CAT.6A UTP 규격 케이블",
+    "단선 및 연선 공용 사용 가능"
+  ],
+  "package_contents": [
+    "콘넥터 (RJ45 8P8C) 100개",
+    "락(Lock) 부트 100개",
+    "고정클립① 100개",
+    "고정클립② 100개"
+  ],
+  "usage_instructions": "1) 피복을 벗긴 케이블에 락 부트를 끼워넣는다. 2) 고정클립① 홈에 랜선을 끼워넣는다. 3) 고정클립②(투명)에 랜선들을 가지런히 끼워넣는다. 4) 고정클립② 밖으로 나온 랜선들을 잘라 정리한다. 5) 콘넥터를 결합하여 랜케이블을 만든다. 6) 랜툴로 콘넥터 쪽을 압착하여 최종 완성한다.",
+  "cautions": [
+    "랜툴로 반드시 압착해야 높은 결합력이 유지됩니다.",
+    "본 콘넥터는 'LS-SSTP-CAT.6A-300M' 케이블과 최적 호환되며, 그 외 케이블에서는 호환 문제가 발생할 수 있습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "UTP",
+      "conductor": "단선(solid)",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "50k 금도금 핀 장착",
+    "certification.kc": "KC·FCC·CE 인증",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템",
+    "certification.fcc": "KC·FCC·CE 인증",
+    "certification.ce": "KC·FCC·CE 인증",
+    "family.cat_category": "CAT.6A UTP RJ45",
+    "family.shielding": "UTP",
+    "family.conductor": "단선·연선 공용 사용 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:01",
+  "feature_schema_version": "1.0.0"
+}

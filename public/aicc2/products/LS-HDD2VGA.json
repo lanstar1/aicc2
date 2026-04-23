@@ -1,0 +1,147 @@
+{
+  "model_no": "LS-HDD2VGA",
+  "product_name": "Micro HDMI TO VGA 컨버터",
+  "category": [
+    "VGA",
+    "컨버터"
+  ],
+  "key_features": [
+    "Micro HDMI(Micro D Type) 입력을 VGA 출력으로 변환",
+    "최대 1080P Full HD 해상도 지원",
+    "Plug and Play 지원 (별도 드라이버 불필요)",
+    "HDCP 1.2 지원 (영상 저작권 보호 기술)",
+    "480P / 720P / 1080i / 1080P 해상도 자동 감지",
+    "3.5mm 스테레오 오디오 출력 단자 내장",
+    "Micro USB 전원 공급 방식 (스마트폰 충전기 사용 가능)",
+    "채널 당 165MHz / 1.65Gbps 지원",
+    "아날로그 비디오 UXGA 출력 지원",
+    "10bit DAC 탑재",
+    "케이블 총 길이 17.5cm (커넥터 포함)"
+  ],
+  "specifications": {
+    "입력 단자": "HDMI Micro D Type",
+    "출력 단자": "VGA 커넥터",
+    "오디오 출력 단자": "3.5mm 스테레오",
+    "전원 공급": "Micro USB",
+    "제품 길이": "0.15M",
+    "케이블 총 길이(커넥터 포함)": "17.5CM",
+    "지원 해상도": "480P, 720P, 1080i, 1080P (자동 감지)",
+    "대역폭": "1080P 지원",
+    "채널 당 지원": "165MHz / 1.65Gbps",
+    "아날로그 비디오 출력": "UXGA",
+    "DAC": "10bit",
+    "HDCP": "1.2 지원",
+    "Plug and Play": "지원",
+    "지원 OS": "Windows XP / Vista / 7 / 8",
+    "작동 온도": "10~40°C",
+    "보관 온도": "-15~85°C",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "KCC-REI-LUS-LS-PAD2VGA",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "Micro HDMI(Micro D Type) 출력을 지원하는 핸드폰",
+    "Micro HDMI를 지원하는 스마트폰",
+    "Micro HDMI를 지원하는 PMP",
+    "Micro HDMI를 지원하는 디지털카메라",
+    "Micro HDMI를 지원하는 캠코더",
+    "VGA 포트가 있는 모니터",
+    "VGA 포트가 있는 TV",
+    "VGA 포트가 있는 프로젝터",
+    "Windows XP / Vista / 7 / 8"
+  ],
+  "package_contents": [
+    "Micro HDMI TO VGA 컨버터 본체 1개"
+  ],
+  "usage_instructions": "1) Micro HDMI Micro D 입력 단자를 Micro D HDMI 출력을 지원하는 기기(핸드폰, 스마트폰, PMP, 디지털카메라, 캠코더 등)에 연결합니다. 2) VGA 출력 단자를 VGA 포트가 있는 모니터, TV 또는 프로젝터에 연결합니다. 3) Micro USB 단자에 스마트폰 충전기를 이용하여 전원을 공급합니다. 4) 음성 출력이 필요한 경우 3.5mm 스테레오 케이블(별도 구매)을 오디오 출력 단자에 연결합니다. Plug and Play를 지원하므로 별도 드라이버 설치 없이 사용 가능합니다.",
+  "cautions": [
+    "3.5mm 스테레오 케이블은 별도 구매 필요",
+    "Micro USB 전원 케이블은 별도 구매 필요 (스마트폰 충전기 활용 가능)",
+    "지원 OS는 Windows XP / Vista / 7 / 8이며, 그 외 OS는 미보장",
+    "작동 온도 범위(10~40°C) 내에서 사용할 것",
+    "보관 온도 범위(-15~85°C)를 준수할 것",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDD2VGA",
+      "품목코드": "INT-HD선041",
+      "품목명": "[LANstar] Micro HDMI (D타입) TO VGA컨버터/영상/오디오지원 0.15M[30093]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-Micro",
+        "HDMI"
+      ],
+      "output_signals": [
+        "VGA",
+        "3.5mm"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.175,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": "HDCP1.4",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": true,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals[0]": "Micro USB 전원 공급 방식",
+    "connectivity.input_signals[1]": "Micro HDMI(Micro D Type) 입력을",
+    "connectivity.output_signals[0]": "VGA 출력으로 변환",
+    "connectivity.output_signals[1]": "3.5mm 스테레오 오디오 출력 단자",
+    "connectivity.directional": "Micro HDMI(Micro D Type) 입력을 VGA 출력으로 변환",
+    "power.power_mode": "Micro USB 전원 공급 방식 (스마트폰 충전기 사용 가능)",
+    "form_physical.has_case": "Micro HDMI TO VGA 컨버터",
+    "form_physical.length_meters": "케이블 총 길이 17.5cm (커넥터 포함)",
+    "certification.kc": "인증번호: KCC-REI-LUS-LS-PAD2VGA",
+    "audio_video.max_resolution": "최대 1080P Full HD 해상도 지원",
+    "audio_video.hdcp_version": "HDCP 1.2 지원",
+    "audio_video.audio_pass": "3.5mm 스테레오 오디오 출력 단자 내장",
+    "control_switching.has_auto_scan": "480P / 720P / 1080i / 1080P 해상도 자동 감지"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:00",
+  "feature_schema_version": "1.0.0"
+}

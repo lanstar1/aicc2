@@ -1,0 +1,345 @@
+{
+  "model_no": "LS-MV104",
+  "product_name": "LANStar 4K Video Wall Controller 2x2 멀티비전 (LS-MV104)",
+  "category": [
+    "HDMI분배기",
+    "DVI",
+    "멀티비전"
+  ],
+  "key_features": [
+    "하나의 HDMI 또는 DVI 입력신호를 4개의 HDMI 출력으로 분배하는 2x2 비디오 월 컨트롤러",
+    "각 출력 디스플레이는 1920x1080(FHD) 해상도로 출력",
+    "2x2 모드 사용 시 입력기기에서 3840x2160 해상도 지원 필요",
+    "1x2 가로 모드 사용 시 입력기기에서 3840x1080 해상도 지원 필요",
+    "2x1 세로 모드 사용 시 입력기기에서 1920x2160 해상도 지원 필요",
+    "MODE 01(2x2), MODE 02(1x2), MODE 03(1x4) 연결 방식 지원",
+    "캐스케이딩 연결로 2x4, 2x6, 2x8, 4x2, 4x4, 6x2, 8x2 등 확장 구성 가능",
+    "리모콘으로 입력소스 변경, 출력화면 변경, 밝기/명도/선명도/대비/색상/색조 조절 가능",
+    "출력화면 180도 반전 기능 지원",
+    "베젤 조절 기능 지원 (2x2 모드에서만 지원)",
+    "RS232 제어 포트 탑재",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-MV104)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득)"
+  ],
+  "specifications": {
+    "입력 포트": "HDMI, DVI, DC 전원, RS232",
+    "출력 포트": "HDMI 4포트",
+    "입력 해상도": "1080P@60Hz",
+    "출력 해상도": "각 디스플레이 1920x1080",
+    "크기": "252 x 105 x 25 (mm)",
+    "전원 입력": "DC 12V 2A 전원 아답터",
+    "KC 인증번호": "R-R-LUS-LS-MV104",
+    "아답터 인증번호": "HU10999-19004B",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 입력 기기 (PC, 노트북 등)",
+    "DVI 입력 기기 (PC, 노트북 등)",
+    "HDMI 출력 디스플레이 4대",
+    "2x2 모드: 입력기기 3840x2160 해상도 지원 필요",
+    "1x2 모드: 입력기기 3840x1080 해상도 지원 필요",
+    "1x4 모드: 입력기기 (1920x4)x1080 해상도 지원 필요",
+    "2x1 모드: 입력기기 1920x2160 해상도 지원 필요",
+    "3x3 모드(캐스케이딩): 입력기기 5760x3540 해상도 지원 필요"
+  ],
+  "package_contents": [
+    "LS-MV104 본체 (2x2 멀티비전)",
+    "AAA 건전지 2개",
+    "HDMI 케이블 x4",
+    "리모콘 (REMOTE CONTROL)",
+    "DC 12V 2A 아답터",
+    "사용자 매뉴얼"
+  ],
+  "usage_instructions": "1. HDMI 또는 DVI 입력 포트에 소스 기기(PC, 노트북 등)를 연결한다. 2. 사용할 모드(MODE 01: 2x2 / MODE 02: 1x2 / MODE 03: 1x4)에 따라 지정된 HDMI 출력 포트에 디스플레이를 연결한다. [MODE 01-2x2] OUTPUT1=Top-Left, OUTPUT2=Top-Right, OUTPUT3=Bottom-Left, OUTPUT4=Bottom-Right. [MODE 02-1x2] OUTPUT1·3=Left, OUTPUT2·4=Right. [MODE 03-1x4] OUTPUT1=First, OUTPUT2=Second, OUTPUT3=Third, OUTPUT4=Fourth. 3. 입력 기기에서 해당 모드에 맞는 해상도를 설정한다. 4. 리모콘으로 입력소스(HDMI/DVI) 변경, 밝기·선명도·대비·색상·색조 조절, 출력화면 180도 반전, 베젤 조절(2x2 모드 전용) 등을 수행한다. 5. 더 많은 디스플레이 구성이 필요한 경우 캐스케이딩 모드로 여러 대의 LS-MV104를 연결하여 확장 가능하다. 6. 전원을 껐다 켜면 종료 전 사용하던 모드로 복원되며, 모드 초기화는 제품의 RESET 버튼으로 수행한다.",
+  "cautions": [
+    "각 디스플레이의 출력 해상도는 1920x1080이며, 입력 기기가 사용 모드에 맞는 해상도를 반드시 지원해야 정상 출력 가능",
+    "2x2 모드 사용 시 입력기기가 3840x2160 해상도를 지원해야 함",
+    "3x3 모드(캐스케이딩) 사용 시 입력기기가 5760x3540 해상도를 지원해야 함",
+    "베젤 조절 기능은 2x2 모드에서만 지원됨",
+    "1x2 모드에서 Left/Right에 맞는 OUTPUT을 선택하면 어떻게 연결해도 무방함",
+    "전원을 껐다 켜면 종료 전 모드로 복원되며, 초기화는 RESET 버튼 사용",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처의 제품은 정품이 아니며 A/S 불가",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "당사 동의 없이 제품 및 콘텐츠 무단 복제·이용 시 불이익 발생 가능",
+    "당일출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준 (택배사 사정에 따라 배송 기간 변동 가능)",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MV104",
+      "품목코드": "INT-HDS134",
+      "품목명": "[LANstar] HDMI 멀티비젼(2 x 2) / DID 비디오월 / 4K / TV WALL Controller [20180]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-MV104",
+      "내용": "어답터가 같이 배송이 안와서 아쉽긴햇는데 다행히 바로 조취해 주셔서 잘쓰고 있습니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-MV104",
+      "id": 205069396,
+      "date": "2022-02-08 10:27",
+      "answerDate": "2022-02-08 12:40",
+      "user": "clcl******",
+      "productName": "랜스타 LS-MV104 HDMI 멀티비젼 2x2 DID 비디오월 컨트롤러 TV WALL",
+      "question": "모니터 12개를 1줄로 가로로 쭉 나열하여 영상을 길게 나열하고 싶습니다. (피벗 세로로 말고 가로형태)몇 개를 구매하여 연결하면 12개 가로로 한 영산 재생될 수 있을까요? 예시 사진에는 가로 나열은 없어서 가능여부 확인 부탁드립니다. 답변 기다리겠습니다. 감사합니다.",
+      "answer": "안녕하세요 랜스타입니다.\n해당 제품은 1x12 사용이 불가능합니다.\n제품 상세 설명 내용에 설명되어있는 캐스케이딩 기능만 사용 가능한 점 참고 부탁드리겠습니다.\n감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-MV104",
+      "chatUrl": "5mwsn",
+      "dateIso": "2025-03-07T08:22:07.784Z",
+      "name": "UB11",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하세요. 구매한 제품 교환받았는데 제품이 2개가 와서 1개 회수요청드립니다\n(추가 문의) 안녕하세요 불량제품 어제 회수 해가셨는데 빠른 처리 부탁드립니다\n(추가 문의) 네 긴급한 건이라 빠르게 처리 부탁드립니다",
+      "answer": "궁금한 내용이 있으시면 언제든 문의주세요. 자사에서 고객님께서 말씀 주신 제품 이상에 대해서 테스트를 진행한 결과, 정상적으로 출력되는 것을 확인하였습니다. 다만, 리모콘 불량으로 확인되어 금일 새제품으로 출고 도와드렸습니다. [로젠 40703428102\n\n해당 건 네이버 측에서 자동 수거가 진행됩니다. 수거 잘 될 수 있도록 수령하신 곳에 잘 놔둬주시면 감사드리겠습니다.\n\n자사 수거 완료 되면 빠르게 처리 도와드리겠습니다. 회수 이후 일정 시간 소요가 필요한 점 양해 부탁드립니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "안녕하세요. 구매한 제품 교환받았는데 제품이 2개가 와서 1개 회수요청드립니다"
+        },
+        {
+          "role": "agent",
+          "text": "[배송안내] 고객님, 교환요청하신 상품의 배송이 시작되었습니다. 궁금한 내용이 있으시면 언제든 문의주세요. 안녕하세요. 고객님. 랜스타입니다.\n\n자사에서 고객님께서 말씀 주신 제품 이상에 대해서 테스트를 진행한 결과, 정상적으로 출력되는 것을 확인하였습니다.\n다만, 리모콘 불량으로 확인되어 금일 새제품으로 출고 도와드렸습니다.\n[로젠 40703428102"
+        },
+        {
+          "role": "customer",
+          "text": "네 긴급한 건이라 빠르게 처리 부탁드립니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n자사 수거 완료 되면 빠르게 처리 도와드리겠습니다.\n회수 이후 일정 시간 소요가 필요한 점 양해 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요 불량제품 어제 회수 해가셨는데 빠른 처리 부탁드립니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 건 네이버 측에서 자동 수거가 진행됩니다.\n수거 잘 될 수 있도록 수령하신 곳에 잘 놔둬주시면 감사드리겠습니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-MV104",
+      "chatUrl": "4D2gR",
+      "dateIso": "2023-11-13T06:37:48.787Z",
+      "name": "로그인",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "입력시 4k로 입력이 되야만 tv4대에 각각1980x1080화질이 되는지\n아니면 1980x1080입력시 tv4대에는 화질이 저하되는지 알려주시면 감사하겠습니다\n(추가 문의) 총 4대에는 1980x1080으로 출력되나요?",
+      "answer": "아래 [LS-MV104] 제품은 HDMI 입력뿐 아니라 DVI 입력도 가능한 제품입니다. 또한 1, 2번 출력기기를 180도 회전시킬 수 있는기능과 그 외에도 리모컨으로 다양한 세부 조절이 가능하기에 더 비쌉니다. 두 제품 모두 4K 입력을 연결하여 출력기기(TV, 모니터)마다 최대 1080P로 출력 가능한 제품입니",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "입력시 4k로 입력이 되야만 tv4대에 각각1980x1080화질이 되는지\n아니면 1980x1080입력시 tv4대에는 화질이 저하되는지 알려주시면 감사하겠습니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\n아래 [LS-MV104] 제품은 HDMI 입력뿐 아니라 DVI 입력도 가능한 제품입니다. \n또한 1, 2번 출력기기를 180도 회전시킬 수 있는기능과 그 외에도 리모컨으로 다양한 세부 조절이 가능하기에 더 비쌉니다.\n\n두 제품 모두 4K 입력을 연결하여 출력기기(TV, 모니터)마다 최대 1080P로 출력 가능한 제품입니"
+        },
+        {
+          "role": "customer",
+          "text": "총 4대에는 1980x1080으로 출력되나요?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\n아래 [LS-MV104] 제품은 HDMI 입력뿐 아니라 DVI 입력도 가능한 제품입니다. \n또한 1, 2번 출력기기를 180도 회전시킬 수 있는기능과 그 외에도 리모컨으로 다양한 세부 조절이 가능하기에 더 비쌉니다.\n\n두 제품 모두 4K 입력을 연결하여 출력기기(TV, 모니터)마다 최대 1080P로 출력 가능한 제품입니"
+        },
+        {
+          "role": "customer",
+          "text": "1980으로 입력되어도"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\n아래 [LS-MV104] 제품은 HDMI 입력뿐 아니라 DVI 입력도 가능한 제품입니다. \n또한 1, 2번 출력기기를 180도 회전시킬 수 있는기능과 그 외에도 리모컨으로 다양한 세부 조절이 가능하기에 더 비쌉니다.\n\n두 제품 모두 4K 입력을 연결하여 출력기기(TV, 모니터)마다 최대 1080P로 출력 가능한 제품입니"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-MV104",
+      "chatUrl": "CkcV",
+      "dateIso": "2023-05-09T04:26:47.807Z",
+      "name": "dydw****",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "그렇다면\nLS-AMV109 모델과\nLS-AMV109-N 모델의 차이점은 어떤걸까요?\nLS-AMV109-N 모델은 Display ART Mode가 가능하나 LS-AMV109 모델은 위 기능을 지원하지 않는게 가장 큰 차이일까요?\n(추가 문의) LS-MV104 이 제품과 LS-MV104N 제품의 차이가 뭘까요~?\n(추가 문의) 상세페이지에서 보면 스펙은 비슷해보이는데 가격 차이가 좀 있어서요\n(추가 문의) 단순 지원포트 차이라는 말씀이시죠~?",
+      "answer": "LS-MV104N 제품의 경우 HDMI 입력 포트를 지원하고 있으며, LS-MV104 제품은 HDMI, DVI 입력포트, 전원 입력포트, RS232 4가지 입력포트를 지원하여 보다 더 많은 기능을 가지고 있습니다. 두 제품 모두 화면\n\n네 고객님, 단순 표면적인 차이로는 그렇게 말씀 드릴 수 있으나 세부적으로 차이가 있어서 보다 더 정확한 내용은 상세페이지를 통해 비교해보시면 더 도움이 될 것으로 보입니다. 일단 제품 본질적인 기능 차이에서는 그렇습니다.",
+      "turn_count": 7,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "그렇다면\nLS-AMV109 모델과\nLS-AMV109-N 모델의 차이점은 어떤걸까요?\nLS-AMV109-N 모델은 Display ART Mode가 가능하나 LS-AMV109 모델은 위 기능을 지원하지 않는게 가장 큰 차이일까요?"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "답변 감사합니다~"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 단순 표면적인 차이로는 그렇게 말씀 드릴 수 있으나 세부적으로 차이가 있어서 보다 더 정확한 내용은 상세페이지를 통해 비교해보시면 더 도움이 될 것으로 보입니다. 일단 제품 본질적인 기능 차이에서는 그렇습니다."
+        },
+        {
+          "role": "customer",
+          "text": "단순 지원포트 차이라는 말씀이시죠~?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요 고객님, 랜스타입니다.\n\nLS-MV104N 제품의 경우 HDMI 입력 포트를 지원하고 있으며,\nLS-MV104 제품은 HDMI, DVI 입력포트, 전원 입력포트, RS232 4가지 입력포트를 지원하여 보다 더 많은 기능을 가지고 있습니다.\n두 제품 모두 화면"
+        },
+        {
+          "role": "customer",
+          "text": "상세페이지에서 보면 스펙은 비슷해보이는데 가격 차이가 좀 있어서요"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "LS-MV104 이 제품과 LS-MV104N 제품의 차이가 뭘까요~?"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "제품 문의 드립니다"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요~"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "DVI-D",
+        "RS232"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 5
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "input_count": 2,
+      "output_count": 4,
+      "mode": [
+        "멀티비전"
+      ],
+      "cascade_support": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "하나의 HDMI 또는 DVI 입력신호를",
+    "connectivity.output_signals": "4개의 HDMI 출력으로 분배하는",
+    "connectivity.directional": "하나의 HDMI 또는 DVI 입력신호를 4개의 HDMI 출력으로 분배하는",
+    "connectivity.port_count": "입력 포트\": \"HDMI, DVI, DC 전원, RS232\", \"출력 포트\": \"HDMI 4포트",
+    "power.power_mode": "DC 12V 2A 전원 아답터",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "LANStar 4K Video Wall Controller 2x2 멀티비전 (LS-MV104)",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "certification.rohs": "null",
+    "certification.iso9001": "null",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "2x2 모드 사용 시 입력기기에서 3840x2160 해상도 지원 필요",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "리모콘으로 입력소스 변경, 출력화면 변경",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "모드 초기화는 제품의 RESET 버튼으로 수행한다.",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.input_count": "하나의 HDMI 또는 DVI 입력신호를",
+    "family.output_count": "4개의 HDMI 출력으로 분배하는",
+    "family.mode": "2x2 비디오 월 컨트롤러",
+    "family.cascade_support": "캐스케이딩 연결로 2x4, 2x6, 2x8, 4x2, 4x4, 6x2, 8x2 등 확장 구성 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:58",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 3,
+    "category_breakdown": {
+      "troubleshoot": 1,
+      "usage": 2
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "model_no": "LS-OM4-LCLC",
+  "product_name": "LANStar LC-LC Duplex 10Gigabit Patch Cord (광점퍼코드 OM4 보라색 10G, LC-LC)",
+  "category": [
+    "랜케이블-CAT6A",
+    "패치코드",
+    "광점퍼코드"
+  ],
+  "key_features": [
+    "10Gigabit 이더넷 통신 지원 (IEEE 802.3ae 표준)",
+    "멀티모드 OM4 (50/125μm) 규격",
+    "LSZH 난연 케이블 재질 적용",
+    "RoHS 및 UL 인증 획득",
+    "케이블 외경 2.0mm, Violet(바이올렛) 색상",
+    "케이블클립 기본 장착",
+    "850nm 파장 기준 최대 550M 10G 전송 지원",
+    "OFL 대역폭 4700MHz/km (850nm)",
+    "엄격한 품질보증으로 대기업 망센터 및 관공서 망센터 납품 실적 보유",
+    "20도까지 꺾이는 케이블 안정성 테스트 통과",
+    "10기가비트 이더넷 통신 지원 (IEEE 802.3ae 표준)",
+    "난연 LSZH 재질 케이블",
+    "케이블 외경 2.0mm (Duplex)",
+    "Violet(바이올렛) 색상으로 OM4 식별 용이",
+    "20도까지 꺾이는 유연성 테스트 통과",
+    "대기업 망센터 및 관공서 망센터 납품 기준 충족"
+  ],
+  "specifications": {
+    "케이블 외경(굵기)": "2.0mm",
+    "케이블 재질": "난연 LSZH",
+    "케이블 색상": "Violet(바이올렛)",
+    "커넥터": "LC/PC-LC/PC",
+    "규격": "멀티모드 OM4 (50/125μm)",
+    "파장": "850nm / 1300nm",
+    "전송 손실": "≤0.3dB/km (850nm) / ≤0.3dB/km (1300nm)",
+    "OFL 대역폭": "≥3500MHz/km (850nm) / 2500MHz/km (1300nm) / ≥3500MHz/km (850nm) / ≥500MHz/km (1300nm)",
+    "도달 대역폭": "≥4700MHz/km (850nm)",
+    "삽입 손실(Insertion Loss)": "≤0.3dB",
+    "Ferrule Interface 타입": "PC",
+    "10G 전송 거리 (850nm)": "550M",
+    "1G 전송 거리 (850nm)": "1km",
+    "케이블 길이 구성": "1m, 3m, 5m, 10m, 15m, 20m, 30m",
+    "인증": "RoHS Compliant, UL / RoHS, UL",
+    "난연 등급": "VW-1",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "모델명 시리즈": "LS-OM4-LCLC-1M, LS-OM4-LCLC-3M, LS-OM4-LCLC-5M, LS-OM4-LCLC-10M, LS-OM4-LCLC-15M, LS-OM4-LCLC-20M, LS-OM4-LCLC-30M",
+    "커넥터 타입": "LC/PC - LC/PC",
+    "케이블 모드": "멀티모드 (MM)",
+    "광섬유 규격": "50/125μm",
+    "OM 등급": "OM4",
+    "케이블 외경": "2.0mm (Duplex 2.0x2)",
+    "페룰 인터페이스": "PC",
+    "사용 파장": "850nm / 1300nm",
+    "삽입 손실": "≤0.3dB",
+    "OM4 1G 전송 거리": "1km (850nm)",
+    "OM4 10G 전송 거리": "550m (850nm)",
+    "OM4 대역폭": "4700MHz/km",
+    "케이블 길이 시리즈": "1m, 3m, 5m, 10m, 15m, 20m",
+    "플러그 색상": "Beige",
+    "부트 색상": "Black and Red",
+    "열수축 튜브 색상": "Black"
+  },
+  "compatibility": [
+    "10Gigabit 이더넷 (IEEE 802.3ae)",
+    "멀티모드 OM4 광 네트워크 장비",
+    "LC 커넥터 포트 장비",
+    "SC 커넥터 포트 장비 (별도 어댑터 사용 시)",
+    "FC 커넥터 포트 장비 (별도 어댑터 사용 시)",
+    "ST 커넥터 포트 장비 (별도 어댑터 사용 시)",
+    "MT-RJ 커넥터 포트 장비 (별도 어댑터 사용 시)",
+    "IEEE 802.3ae 10기가비트 이더넷",
+    "LC 커넥터 장비",
+    "SC 커넥터 장비 (별도 SC 시리즈)",
+    "FC 커넥터 장비 (별도 FC 시리즈)",
+    "ST 커넥터 장비 (별도 ST 시리즈)",
+    "MT-RJ 커넥터 장비 (별도 MT-RJ 시리즈)",
+    "멀티모드 OM4 광 트랜시버",
+    "1G 및 10G 광 네트워크 장비"
+  ],
+  "package_contents": [
+    "LC-LC 광점퍼코드 본체 (선택 길이 1종)",
+    "케이블클립 (기본 장착)",
+    "LC-LC Duplex OM4 광점퍼코드 (선택 길이: 1m/3m/5m/10m/15m/20m)"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "랜스타 정품 여부를 구매 전 반드시 확인하세요.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "구매/배송/반품은 판매처(쇼핑몰 하단 참조)를 통해 문의하세요."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-OM4-LCLC-1M",
+      "품목코드": "NET-광멀케105",
+      "품목명": "[LANstar] 광점퍼코드, OM4 보라색 10G, LC-LC 1M[10203]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-OM4-LCLC-3M",
+      "품목코드": "NET-광멀케106",
+      "품목명": "[LANstar] 광점퍼코드, OM4, LC-LC 3M,10G 보라색[10204](120)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-OM4-LCLC-5M",
+      "품목코드": "NET-광멀케107",
+      "품목명": "[LANstar] 광점퍼코드, OM4, LC-LC 5M, 10G 보라색[10205] (100)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-OM4-LCLC-10M",
+      "품목코드": "NET-광멀케108",
+      "품목명": "[LANstar] 광점퍼코드, OM4, LC-LC 10M,10G 보라색[10206](60)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-OM4-LCLC-15M",
+      "품목코드": "NET-광멀케109",
+      "품목명": "[LANstar] 광점퍼코드, OM4, LC-LC 15M,10G 보라색[10207](40)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-OM4-LCLC-20M",
+      "품목코드": "NET-광멀케110",
+      "품목명": "[LANstar] 광점퍼코드, OM4, LC-LC 20M,10G 보라색[10208](35)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-OM4-LCLC-30M",
+      "품목코드": "NET-광멀케352",
+      "품목명": "[LANstar] 광점퍼코드, OM4, LC-LC 30M,10G 보라색[20176](20)",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-OM4-LCLC-10M",
+      "내용": "빠르게 잘 도착했네요"
+    },
+    {
+      "source_model": "LS-OM4-LCLC-3M",
+      "내용": "빠른배송 감사합니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-OM4-LCLC-10M",
+      "chatUrl": "2bS02",
+      "dateIso": "2023-10-18T05:06:02.988Z",
+      "name": "알이",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하세요\n혹시 로젠택배 말고 경동화물 같은거도 되나요? 내일아침에 필요해서 그러는데..\n(추가 문의) LS-OM4-LCLC-10m x 10개\n\n천안까지 퀵으로 발송 가능하실까요?\n(추가 문의) LS-HD202N 과 \nLS-HD202CP 의 차이점을 알고 싶습니다.\n(추가 문의) 5678이 물건 받을분이고\n\n0187이 퀵요금 지급할 저 입니다.",
+      "answer": "[LS-HD202N]과 [LS-HD202CP] 두 제품은 HDMI2.0 버전과 1:2 분배기 기능을 공통으\n\n네 고객님, 내일 발송 가능하는지 여쭤보셔서 확인차 안내 드렸습니다. 두 주문 건 모두 확인 완료하였으며, 내일 오전 빠르게 총 10개 출고 도와드릴 수 있도록 하겠습니다. 정직\n\n남겨주신 연락처 2가지 모두 전달드리면 될까요? 네 고객님. 퀵 착불 방식으로 진행되며, 기사님께서 고객님 전화번호로 연락드릴 예정입니다. 지금 퀵 배송 도와드리겠습니다.",
+      "turn_count": 12,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "아 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님. 비용은 12만 원 정도 예상됩니다. 퀵 출고 도와드렸습니다. 추가 문의사항이 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "네 빠른 진행 부탁드립니당 ㅠㅠ"
+        },
+        {
+          "role": "agent",
+          "text": "비용은 따로 퀵 업체에 문의하여 전달드릴 수 있습니다. 문의드린 후 말씀드려도 괜찮으실까요?"
+        },
+        {
+          "role": "customer",
+          "text": "5678이 물건 받을분이고\n\n0187이 퀵요금 지급할 저 입니다."
+        },
+        {
+          "role": "agent",
+          "text": "남겨주신 연락처 2가지 모두 전달드리면 될까요? 네 고객님. 퀵 착불 방식으로 진행되며, 기사님께서 고객님 전화번호로 연락드릴 예정입니다. 지금 퀵 배송 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "주문번호 : 2023101830387201\n받는이 : 조하영\n퀵 배송지: 충청남도 아산시 탕정면 갈산샛들로 23 \n 에드워드코리아 천안4공장\n\n이거 퀵으로"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다. 안녕하세요, 고객님. 랜스타입니다.\n\n오후 1시까지 점심시간으로 확인이 늦었습니다. 해당 제품의 경우 용산 사무실에 재고를 두고 있는 제품으로, 퀵 배송 방법으"
+        },
+        {
+          "role": "customer",
+          "text": "LS-OM4-LCLC-10m x 10개\n\n천안까지 퀵으로 발송 가능하실까요?"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요? [배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요! [배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다! [발송준비]"
+        },
+        {
+          "role": "customer",
+          "text": "주문자: 채은미\n주문번호: 2023101790071221\n\n품목: \n랜스타 LS-7SSTP-300MB CAT7 SSTP 단선 300M x 2 box\n\n랜스타 LS-HT-301G x"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다. 안녕하세요. 고객님. 랜스타입니다.\n\n구매 후 해당 톡톡으로 말씀 주시면 로젠택배가 아닌, 경동화물로 출고 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요\n혹시 로젠택배 말고 경동화물 같은거도 되나요? 내일아침에 필요해서 그러는데.."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요? [배송도착예정] 주문하신 상품이 오늘 도착예정입니다~ [배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요! [배송시작] 주문하신 상품"
+        },
+        {
+          "role": "customer",
+          "text": "네 수고하세요"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 그럼 상담 종료하도록 하겠습니다.\n감사합니다."
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-OM4-LCLC-M": "LANStar\nLC-LC Duplex 10Gigabit Patch Cord\n10Gigabit OM4\n[광점퍼코드 케이블(LC-LC)\n1m/3m/5m/10m/15m/20m 시리즈 구성\nww-1 103.0\n-1 123.0\nLSZH 난연케이블\nLS-OM4-LCLC-1M/LS-OM4-LCLC-3M/LS-OM4-LCLC-5M/LS-OM4-LCLC-10M\nLS-OM4-LCLC-15M/LS-OM4-LCLC-20M\n2.0% ROHS)\nUL\nF\n10기가비트 이더넷 통신지원\n초당 10Gigabit의 IEEE 802.3ae 표준 광점퍼코드\n10Gigabit LS-OM4-LCLC-Series\n2.0mm\n케이블 외경(굵기)\n케이블 재질\n케이블 색상\n커넥터\n규격\n난연 LSZH\nViolet(바이올렛)\nLC/PC-LC/PC\n멀티모드 OM4\n850nm / 1300nm\n≤0.3dB/km / ≤0.3dB/km\n≥3500MHz/km / >500MHz/km\n≥4700MHz/km/-\n파장\n전송 손실\nOFL 대역폭\n도달 대역폭\n[광] 패치코드 커넥터 종류\nLC커넥터\nSC커넥터\nFC커넥터\nST커넥터\nMT-RJ 커넥터\n10Gigabit OM4\n케이블(LC-LC) 상세보기\n케이블클립 기본장착\n합격인증\n랜스타 정품을 확인하세요\nA SEOK L LCBL CALE Parm mg s\n\n\n케이블클립 기본장착\n합격인증\n랜스타 정품을 확인하세요\n난연케이블\n멀티모드 광점퍼코드 전송표준\n전송표준\n규격\n대역폭\n1G전송(850nm)\n10G전송(850nm)\nOM1\n62.5/125m\n275M\n33M\nOM2\n50/125μm\n550M\n82M\nOM3\n50/125μm\n2000MHz/Km\n1Km\n300M\nOM4\n50/125μm\n4700MHz/km\n1Km\n550M\nLanstar 광 패치코드 시리즈\n케이블 안정성 테스트\n20도 까지 꺽여지는 관용도\n꺽었던 케이블을 테스트 한 사진\nROHS\nUL\nCompliant\nRoHS, UL인증을 획득한 난연케이블\n까다로운 납품기준을 만족하는 품질과 성능\n난연케이블로 더욱 인정받고 있습니다!\n엄격한 품질보증과 사후관리로 대기업 망센터 및 관공서 망센터 등에\n적합한 인증획득 제품으로 안정적인 사용환경을 제공합니다.\nVW-1 23.0\nW-1 (830)\n[광] 패치코드 케이블(재킷) 색상\n1G\n1G\n10G\n10G\n싱글모드\n9/125μm\n광점퍼코드(OS1)\n멀티모드\n62.5/125m\n광점퍼코드(OM1,M2)\n멀티모드\n50/125μm\n광점퍼코드(OM3)\n멀티모드\n50/125μm\n광점퍼코드(OM4)\n\n\n1G\n1G\n10G\n10G\n싱글모드\n9/125μm\n광점퍼코드(OS1)\n멀티모드\n62,5/125μm\n광점퍼코드(OM1, OM2)\n멀티모드\n50/125μm\n광점퍼코드(OM3)\n멀티모드\n50/125μm\n광점퍼코드(OM4)\nLS-OM4-LCLC [] ||\nHE\nCH\nEH\nCHI\nIs\n2\nL\nTABLE A\nTABLE C\nTABLE B\nItem\nFiber Mode\nVaule\nMM\nOm4\nLIM)\nItem No\nCable diameter(MM)\n2.0*2\n1-PLUG\nBeige\n1\nLS-OM4-LCLC-1M\ntype\nLSZH\n3\nLS-OM4-LCLC-3M\n2-BOOT\nBlack and Red\nFerrule Interface type\nPC\n5\nOm4\nLS-OM4-LCLC-5M\nMode\nMM:50/125\n3-CABLE\nVIOLET\n10\n1,3,5,10,15,20......\nLS-OM4-LCLC-10M\nCable length(M)\n4HEAT SHRINK\nTUBE\nBLACK\nCable Marking\n15\n231397 LANtar OPTICAL CABLE, MM, OM\n50/125UM LSZH, 2012 M\nLS-OM4-LCLC-15M\nInsertion Loss(dB)\n≤0.3dB\n20\nLS-OM4-LCLC-20M\nReturn Loss(dB)"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "무관"
+      ],
+      "output_signals": [
+        "무관"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "LSZH"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        3,
+        5,
+        10,
+        15,
+        20,
+        30
+      ],
+      "color_options": [
+        "Violet",
+        "바이올렛"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "LSZH",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.directional": "LC-LC Duplex",
+    "power.power_mode": "무전원",
+    "form_physical.material": "LSZH 난연 케이블 재질 적용",
+    "form_physical.length_options_meters": "1m, 3m, 5m, 10m, 15m, 20m, 30m",
+    "form_physical.color_options": "Violet(바이올렛) 색상",
+    "certification.rohs": "RoHS 및 UL 인증 획득",
+    "family.flame_rating": "LSZH 난연 케이블 재질 적용",
+    "family.poe_support": "10Gigabit 이더넷 통신 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:23",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

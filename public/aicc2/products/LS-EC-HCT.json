@@ -1,0 +1,119 @@
+{
+  "model_no": "LS-EC-HCT",
+  "product_name": "HDMI 커플러 (F/F) 키스톤잭 타입 HDMI 19/F-19/F",
+  "category": [
+    "키스톤잭",
+    "커플러"
+  ],
+  "key_features": [
+    "고해상도 1080×1440 지원",
+    "사용하기 편한 우수한 디자인",
+    "쓰임이 유용한 간편형 커플러",
+    "특허제품",
+    "Made in Taiwan 제품으로 고품질 보장",
+    "모든 표준 키스톤잭 Wall Plate와 호환",
+    "Wall Plate 및 Surface Box 연결 사용 가능",
+    "Patch Panel 작업 가능",
+    "설치가 쉬움",
+    "강화된 PC 소재로 확실한 성능 지원"
+  ],
+  "specifications": {
+    "커플러 크기": "26mm x 20mm x 16mm",
+    "커넥터 타입": "HDMI 19/F-19/F",
+    "원산지": "Made in Taiwan",
+    "제조사": "라인업시스템(주)",
+    "모델명": "LS-EC-HCT",
+    "품명": "HDMI 커플러 F/F",
+    "제품 크기(도면)": "26±0.1mm x 19.6±0.1mm x 16.4±0.1mm"
+  },
+  "compatibility": [
+    "모든 표준 키스톤잭 Wall Plate",
+    "Patch Panel",
+    "HDMI-DVI 상호 호환 (HDMI-DVI 어댑터 필요)",
+    "장착하지 않은 키스톤잭 Wall Plate 또는 패치판넬"
+  ],
+  "package_contents": [
+    "HDMI 커플러 (F/F) 키스톤잭 타입 본체 1개"
+  ],
+  "usage_instructions": "Wall Plate 또는 Surface Box의 키스톤잭 슬롯에 커플러를 맞물려 장착한 후 HDMI 케이블을 양쪽 단자에 연결하여 사용. DVI 기기와 연결 시 별도의 HDMI-DVI 어댑터 필요.",
+  "cautions": [
+    "DVI 연결 제품과 함께 사용 시 HDMI-DVI 어댑터가 별도로 필요합니다.",
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 의거하여 보상 처리됩니다.",
+    "AS 및 소비자 상담 전화: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-EC-HCT",
+      "품목코드": "GEN-HDI131",
+      "품목명": "[LANstar] HDMI커플러 , HDMI F/F, 키스톤잭 타입, 대만산 [40624]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19/F-19/F",
+    "connectivity.output_signals": "HDMI 19/F-19/F",
+    "connectivity.directional": "HDMI 커플러 (F/F)",
+    "connectivity.port_count": "HDMI 19/F-19/F",
+    "power.power_mode": "HDMI 커플러",
+    "power.charging_support": "HDMI 커플러",
+    "form_physical.has_case": "HDMI 커플러 (F/F) 키스톤잭 타입",
+    "form_physical.material": "강화된 PC 소재",
+    "audio_video.max_resolution": "고해상도 1080×1440 지원",
+    "audio_video.audio_pass": "HDMI 커플러"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:50",
+  "feature_schema_version": "1.0.0"
+}

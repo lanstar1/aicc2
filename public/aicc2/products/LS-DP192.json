@@ -1,0 +1,470 @@
+{
+  "model_no": "LS-DP192",
+  "product_name": "디스플레이 포트 to HDMI 컨버터 케이블",
+  "category": [
+    "DisplayPort",
+    "컨버터"
+  ],
+  "key_features": [
+    "DisplayPort(Mini DP 포함) 신호를 HDMI로 변환하는 컨버터",
+    "DP 1.2 버전 지원, 최대 21.6Gbps 대역폭",
+    "4K*2K (3840x2160) @30Hz 초고해상도 지원",
+    "Full HD 1920x1080 및 2560x1600 해상도 지원",
+    "3D 입체영상 지원",
+    "디지털 음성 전송 지원 (2채널 스테레오, 5.1채널, 7.1채널 입체음향)",
+    "별도 전원 연결 불필요한 신호변환 컨버터",
+    "채널당 3Gbps 데이터 전송률",
+    "mirror mode(복제 기능) 지원, 화면 회전 가능",
+    "케이블 길이 0.2M (200mm)",
+    "색상: BLACK",
+    "DisplayPort(입력) → HDMI(출력) 단방향 신호 변환 케이블",
+    "별도 전원 불필요, 영상·음성 동시 전송 지원",
+    "최대 4K@60Hz Ultra HD 해상도 지원",
+    "크로마 서브샘플링 YUV 4:4:4 지원",
+    "3D 비디오 포맷 및 해상도 규격 지원",
+    "화면 복제 및 화면 확장 모드 지원",
+    "영상 저작권 보호 기술 HDCP / DPCP 지원",
+    "DisplayPort 1.2 표준규격 준수 (20번 핀 더미핀 처리)",
+    "RoHS 인증 제품",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-DP192",
+    "제품명": "디스플레이 포트 to HDMI 컨버터 케이블",
+    "DP 버전": "DisplayPort 1.2",
+    "최대 대역폭": "21.6Gbps",
+    "채널당 전송률": "3Gbps",
+    "최대 해상도": "3840x2160 (4K*2K) @30Hz / 4K@60Hz",
+    "지원 해상도": "1920x1080 (Full HD), 2560x1600, 3840x2160 (4K*2K)",
+    "음성 지원": "2채널 스테레오, 5.1채널, 7.1채널",
+    "케이블 길이": "200mm (0.2M) / 1m, 1.5m, 2m, 3m, 5m",
+    "커넥터 (입력)": "DisplayPort Male",
+    "커넥터 (출력)": "HDMI Female",
+    "색상": "BLACK",
+    "전원": "별도 전원 불필요",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "MSIP-REI-LUS-LS-MDP19 / 해당없음",
+    "인증 규격": "KC, FCC, CE, RoHS / RoHS COMPLIANT, ISO 9001:2008",
+    "크기 (커넥터 포함 참고)": "전체 길이 200mm, 커넥터부 45mm x 21mm x 11mm",
+    "입력 포트": "DisplayPort",
+    "출력 포트": "HDMI",
+    "DisplayPort 대역폭": "21.6Gbps",
+    "HDMI 대역폭": "18.2Gbps",
+    "크로마 서브샘플링": "YUV 4:4:4",
+    "영상 보호 기술": "HDCP, DPCP",
+    "HDMI 커넥터 규격": "HDMI Male (20.1mm × 7.1mm)",
+    "DisplayPort 커넥터 규격": "DisplayPort Male (19.6mm × 4.5mm)",
+    "제조국": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "DisplayPort 탑재 데스크탑 PC",
+    "DisplayPort 탑재 노트북",
+    "Mini DisplayPort 탑재 기기",
+    "HDMI 입력 지원 TV",
+    "HDMI 입력 지원 모니터/대형 디스플레이",
+    "DisplayPort 1.1 / 1.2 규격",
+    "HDMI (HD 720P, Full HD 1080P, 1440P, 4K2K UHD)",
+    "DisplayPort(DP) 포트 탑재 PC, 노트북, 슬림PC, 맥북 등 (입력 기기)",
+    "HDMI 포트 탑재 TV, 모니터, 빔 프로젝터 등 (출력 기기)",
+    "DisplayPort 1.2 규격 지원 기기",
+    "HDMI 지원 디스플레이 장치",
+    "3D 디스플레이 장치",
+    "블루레이 디스크 재생 기기, 넷플릭스 등 온라인 스트리밍 기기"
+  ],
+  "package_contents": [
+    "디스플레이 포트 to HDMI 컨버터 케이블 (LS-DP192) 1개",
+    "DisplayPort to HDMI 컨버터 케이블 1개"
+  ],
+  "usage_instructions": "DisplayPort Male 단자를 PC 또는 노트북의 DisplayPort 포트에 연결하고, HDMI Female 단자에 HDMI 케이블을 연결하여 TV 또는 모니터에 연결합니다. 별도 전원 연결은 불필요합니다. DisplayPort 분리 시에는 커넥터의 고정핀 버튼을 화살표 방향으로 누르면 고정핀이 내려가 쉽게 분리됩니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "DisplayPort 분리 시 고정핀 버튼을 반드시 누른 후 분리하십시오.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 소비자 상담: 070-7018-3386",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "RoHS 규정 준수 제품으로 납, 수은, 카드뮴 등 중금속 사용 제한 기준을 충족합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DP192-2M",
+      "품목코드": "CAB-젠DP049",
+      "품목명": "[LANstar] 신호변환기, 디스플레이 to HDMI, 4K*2K 30Hz, 2M [10770] (80개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP192-3M",
+      "품목코드": "CAB-젠DP050",
+      "품목명": "[LANstar] 신호변환기, 디스플레이 to HDMI, 4K*2K 30Hz, 3M (60개)[10771]",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP192-5M",
+      "품목코드": "CAB-젠DP051",
+      "품목명": "[LANstar] 신호변환기, 디스플레이 to HDMI, 4K*2K 30Hz, 5M (40개)[10772]",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP192-1M",
+      "품목코드": "CAB-젠DP275",
+      "품목명": "[LANstar] 신호변환기, 디스플레이 to HDMI, 4K*2K 30Hz, 1M [30561] (120개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP192-1.5M",
+      "품목코드": "CAB-젠DP276",
+      "품목명": "[LANstar] 신호변환기, 디스플레이 to HDMI, 4K*2K 30Hz, 1.5M [30562] (100개)",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DP192",
+      "내용": "라인업시스템 케이블은 호환성이나 문제 발생이 없어 만족합니다."
+    },
+    {
+      "source_model": "LS-DP192-1.5M",
+      "내용": "이 선도 에러가 없습니다\n좋은 제품 싸게 쓰는것 같습니다."
+    },
+    {
+      "source_model": "LS-DP192-1.5M",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-DP192-1.5M",
+      "내용": "빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-DP192-1.5M",
+      "내용": "배송 빠르고 튼튼하네요\n양방향이면 좋겠는데 dp in hdmi 아웃이라 활용도는약간 아쉬워요"
+    },
+    {
+      "source_model": "LS-DP192-1.5M",
+      "내용": "퀄리티가 좋습니다. 가격대비 아주 마음에 듭니다^^"
+    },
+    {
+      "source_model": "LS-DP192-1M",
+      "내용": "잘 쓰고 있습니다.",
+      "관련내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-DP192-1M",
+      "내용": "원래 어댑터로 변환하다가 어탭터가 너무 금방 고장나서 그냥 케이블을 새로 샀는데 화면 잘나오고 아주 좋습니다"
+    },
+    {
+      "source_model": "LS-DP192-1M",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-DP192-1M",
+      "내용": "훌륭한 제품을 좋은 가격에 제공해주셔서 진심으로 감사합니다.  덕분에 필요했던 물건을 부담 없이 구매할 수 있었습니다.  앞으로도 좋은 제품들을 많이 선보여주시길 기대하겠습니다.  만족스러운 쇼핑 경험을 하게 되어 정말 기쁩니다.  다음에도 꼭 다시 찾아뵙겠습니다."
+    },
+    {
+      "source_model": "LS-DP192-1M",
+      "내용": "유격 없이 잘 고정되네요."
+    },
+    {
+      "source_model": "LS-DP192-1M",
+      "내용": "아주 만족입니다\n아래는 20번핀관련 TMI입니다\n\n이왕사는 케이블 약간이라도 좋은걸 사야되겠다 싶어서 리뷰가 압도적으로 많은 다른 브랜드에서 두배가넘는 가격에 구입했었는데, 몇개월 쓰고 서브모니터가 깜빡이더니 안나오게되었습니다. 구글링하니 같은 증상들이 대부분 dp케이블의 20번핀때문에 생긴다는것을 알았고, 심지어 그래픽카드에도 데미지를 준다는데 그거때문인지 메인모니터마저 가끔 깨지기시작했습니다; 그래서 구매했던 케이블브랜드에 여쭤보니 20번핀이 연결돼있다고하고, Q&amp;A에 저와 동일한 현상을 겪은분들이 꽤나있었습니다. 신경써서 샀다가 돈만 낭비하고 글카에도 데미지를 입혔다는게 너무 화가나네요\n\n지금은 서브모니터도 다시 잘나오고 만족스럽습니다\n제발 다른분들은 리뷰많은 그브랜드말고 이제품을 사셨으면 좋겠습니다"
+    },
+    {
+      "source_model": "LS-DP192-1M",
+      "내용": "숙박업소 객실 컴퓨터 모니터용으로 구입하였습니다. 이전에는 렉시 제품이 저렴하길래 구입해서 사용하였는데, dp포트쪽은 문제가 없었으나, 모니터쪽 hdmi 포트 부분이 꽉 꽂히는게 아니라 느슨하게 꽂히고 길이가 약간 길어서 힘을 못받아 자주 모니터가 깜빡 거리거나 반응이 없어서 이번에 랜스타 제품으로 구입하였는데, hdmi포트쪽이 꽉 물려서 튼튼하게 잘 꽂히네요. 만족합니다."
+    },
+    {
+      "source_model": "LS-DP192-1M",
+      "내용": "주말에 시켰는데 배송도 정확히 오고 좋습니다 아직 사용은 않해봤는데 배송부터 굿~"
+    },
+    {
+      "source_model": "LS-DP192-1M",
+      "내용": "모니터 세대쓰려고 구매했는데 좋아요~"
+    },
+    {
+      "source_model": "LS-DP192-1M",
+      "내용": "빠른 배송감사합니다."
+    },
+    {
+      "source_model": "LS-DP192-1M",
+      "내용": "품질 배송 만족합니다.."
+    },
+    {
+      "source_model": "LS-DP192-2M",
+      "내용": "배송빠르고 물건 상태 최상굿"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-DP192-1M",
+      "id": 501753113,
+      "date": "2022-11-08 12:36",
+      "answerDate": "2022-11-08 15:48",
+      "user": "chlt********",
+      "productName": "랜스타 LS-DP192-1M DP TO HDMI 케이블 1M 4K30Hz 지원 20번더미",
+      "question": "(1) HDMI to DP 케이블 FHD 모니터 144hz 도 지원하나요?\n  (2)  HDMI 는 모니터에 연결 / DP 는 PC 에 연결 하면 되지요?",
+      "answer": "안녕하세요 랜스타 입니다\n\n1) 해당 내용으로 지원 불가 합니다\n2) 연결 방식 맞습니다"
+    },
+    {
+      "source_model": "LS-DP192-3M",
+      "id": 520110898,
+      "date": "2023-03-11 22:55",
+      "answerDate": "2023-03-13 09:52",
+      "user": "wlsc******",
+      "productName": "랜스타 LS-DP192-3M 신호변환기 디스플레이 to HDMI 4K2K 30Hz 3M",
+      "question": "상세페이지에 20번핀 더미핀이라고 나와있는데 더미핀 맞는거죠????ㅠㅠ일반pc에 장착해도 되는거죠..??  타사이트 쿠X에서 똑같은모델 문의글을 보니 더미가 아니라고 해가지고 불안해서요 ..ㅠ 짝퉁인지...\n그래도 여긴 상세페이지에 적어놓으셔서 더믿음이가서 여기다 주문하긴했는데.. 더미핀 맞는거죠..??",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n해당 제품 20번 핀은 더미핀이며, 랜스타에서 판매하는 모든 DisplayPort 케이블 제품은 전부 20번 핀이 더미 핀인 점 안내 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-DP192-60H",
+      "chatUrl": "2ZK1T",
+      "dateIso": "2024-06-19T04:34:45.391Z",
+      "name": "다그닥",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "딱 찾던거예요 감사합니다",
+      "answer": "자사 DP 케이블인 LS-DP192-60H 시리즈 구매 후 연결 시 사용이 가능합니다. 감사합니다.\n\n빠르게 배송해드릴게요! 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "딱 찾던거예요 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n자사 DP 케이블인 LS-DP192-60H 시리즈 구매 후 연결 시 사용이 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+        },
+        {
+          "role": "customer",
+          "text": "판매자 문의"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~ [배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요! [배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다! [발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-DP192",
+      "chatUrl": "1JfKr",
+      "dateIso": "2024-05-22T00:41:28.839Z",
+      "name": "유앤아이",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "안녕하세요 문의 드리고 구매했는데\n\n그래픽카드에 DP포트 있어서 연결은 되는데 HDMI 선이 단자 사이즈가 맞지 않는데 잘못온건가요?\n(추가 문의) 그래픽 카드는 rtx 2060 제품 사용하고 있습니다.\n(추가 문의) 혹시나 구매 했는데 안될까 싶어서요",
+      "answer": "그래픽카드에 DP 포트가 있다면 사용이 가능합니다. 감사합니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "안녕하세요 문의 드리고 구매했는데\n\n그래픽카드에 DP포트 있어서 연결은 되는데 HDMI 선이 단자 사이즈가 맞지 않는데 잘못온건가요?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n그래픽카드에 DP 포트가 있다면 사용이 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+        },
+        {
+          "role": "customer",
+          "text": "그래픽 카드는 rtx 2060 제품 사용하고 있습니다."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "혹시나 구매 했는데 안될까 싶어서요"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-DP192-5M",
+      "chatUrl": "6TifU",
+      "dateIso": "2024-02-26T04:53:01.052Z",
+      "name": "권정근",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "오피스서플라이 성남점 / 저번주 주중 / LS-DP192-5M 안녕하세요. 듀얼모니터를 사용하려고 DP to HDMI 케이블(LS-DP192-5M)을 구매했는데 모니터 연결해도 화",
+      "answer": "감사합니다. talk.naver.com/W4QWIB 자사의 경우 랜스타 스마트스토어와 거래처 문의 상담 공간이",
+      "turn_count": 1,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "오피스서플라이 성남점 / 저번주 주중 / LS-DP192-5M 안녕하세요. 듀얼모니터를 사용하려고 DP to HDMI 케이블(LS-DP192-5M)을 구매했는데 모니터 연결해도 화"
+        },
+        {
+          "role": "agent",
+          "text": "정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다. talk.naver.com/W4QWIB 자사의 경우 랜스타 스마트스토어와 거래처 문의 상담 공간이"
+        }
+      ]
+    }
+  ],
+  "_absorbed_fragments": {
+    "LS-DP192-60H_M": {
+      "product_name": "LAN Star DisplayPort to HDMI 4K@60Hz Converter Cable",
+      "category": "디스플레이 변환 케이블",
+      "key_features": [
+        "DisplayPort(입력) → HDMI(출력) 단방향 변환 케이블",
+        "최대 4K@60Hz UHD 해상도 지원",
+        "DisplayPort 1.4 to HDMI 2.0 규격 (대역폭 32.4Gbps → 18.2Gbps)",
+        "YUV 4:4:4 크로마 서브샘플링 지원",
+        "3D 디스플레이 포맷 지원",
+        "화면 복제 및 화면 확장 모드 지원",
+        "HDCP / DPCP 영상 콘텐츠 보호 기술 지원",
+        "DisplayPort 20번 핀 더미핀 처리 (표준 규격 준수)",
+        "RoHS 인증 제품",
+        "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+        "별도 전원 불필요"
+      ],
+      "specifications": {
+        "입력 포트": "DisplayPort (DisplayPort 1.4)",
+        "출력 포트": "HDMI (HDMI 2.0)",
+        "최대 해상도": "4K@60Hz (UHD)",
+        "입력 대역폭": "32.4Gbps",
+        "출력 대역폭": "18.2Gbps",
+        "크로마 서브샘플링": "YUV 4:4:4",
+        "전원": "별도 전원 불필요",
+        "길이 옵션": "1m, 1.5m, 2m, 3m, 5m",
+        "모델명(1m)": "LS-DP192-60H-1M",
+        "모델명(1.5m)": "LS-DP192-60H-1.5M",
+        "모델명(2m)": "LS-DP192-60H-2M",
+        "모델명(3m)": "LS-DP192-60H-3M",
+        "모델명(5m)": "LS-DP192-60H-5M",
+        "제조국": "중국 (China)",
+        "제조사/수입사": "라인업시스템(주)",
+        "인증": "RoHS COMPLIANT, ISO 9001:2008",
+        "인증번호": "해당없음",
+        "DisplayPort 커넥터 크기": "가로 20.1mm, 세로 7.1mm (커넥터 폭 19.6mm)",
+        "HDMI 커넥터 크기": "가로 16mm, 세로 4.5mm (커넥터 폭 14mm, 핀 폭 4.7mm)"
+      },
+      "compatibility": [
+        "DisplayPort 출력 지원 PC",
+        "DisplayPort 출력 지원 노트북",
+        "DisplayPort 출력 지원 슬림PC",
+        "DisplayPort 출력 지원 맥북",
+        "HDMI 입력 지원 TV",
+        "HDMI 입력 지원 모니터",
+        "HDMI 입력 지원 빔 프로젝터",
+        "DisplayPort 1.4 규격",
+        "HDMI 2.0 규격"
+      ],
+      "package_contents": [
+        "DisplayPort to HDMI 컨버터 케이블 1개"
+      ],
+      "source_files": [
+        "LS-DP192-60H_M.json"
+      ]
+    }
+  },
+  "_variant_raw_texts": {
+    "LS-DP192-60H_M": "LAN Star\nD DisplayPort\nDisplayPort to HDMI\n4K@60Hz Converter Cable\n1m / 1.5m / 2m / 3m / 5m\nDisplayPort to HDMI Converter Cable??\nDisplayPort(입력) / HDMI(출력)으로 방향성이 있는 케이블입니다.\n입력/출력을 반대로 연결하면 화면 출력이 되지 않습니다.\n케이블 구매시 입/출력 방향성을 참고하시고 구매하시기 바랍니다.\nDisplayPort 컨버터 케이블\nHDMI 변환! 별도의 케이블 없이 하나로 연결 끝!!\nDisplayPort(DP)가 장착된 PC, 노트북, 맥북 같은 작은 화면의 영상이나 음성을\nHDMI 지원 포트가 있는 TV나 모니터, 빔 프로젝터 등의 Display 장치에서\n출력할 수 있도록 지원하는 케이블입니다.\nDisplayPort 입력 기기 (PC, 노트북, 슬림PC, 맥북 등등)\n※주의사항\nDP(입력) / HDMI (출력)이 정해진\n방향성이 있는 케이블입니다.\n제품 연결시 주의하여 주시기\n바랍니다.\n\n\n방향성이 있는 케이블입니다.\n제품 연결시 주의하여 주시기\n바랍니다.\nHDMI 출력기기 (TV, 모니터, 빔 프로젝터 등등)\nDISPLAYPORT\nDisplayPort 1.4 to HDMI 2.0\n32.4Gbps〉〉〉18.2Gbps\nDisplayPort 1.4의 최대 대역폭은 32.4Gbps입니다. 18.2Gbps의 HDMI보다\n높은 대역폭을 가지고 있어, DisplayPort에서 HDMI로의 신호 전환은 가능하나\n대역폭이 낮은 HDMI에서 DisplayPort로의 신호 변환은 불가능합니다.\n4K@60Hz Ultra HD\nDisplayPort 1.4 to HDMI 2.0 케이블은 최대 4K@60Hz UHD 해상도를 지원합니다.\n주사율 비교\nFPS(Frame Per Second)는 1초당 보여지는 이미지 프레임 수의 약자로\n프레임이 재생되는 속도를 나타냅니다.\n영화에서는 보통 24fps, TV에서는 30fps, 스포츠 영상물은 60fps가\n자연스러운 영상을 시청할 수 있는 주사율입니다.\n30fps\n\n\n30fps\n1초에 30장의 이미지 프레임을\n나타냅니다.\n60fps\n1초에 60장의 이미지 프레임을\n나타냅니다.\nYUV 4:4:4\n크로마 서브 샘플링\n크로마서브샘플링 YUV 4:4:4는 블루레이 디스크와 온라인 스트리밍 서비스,\n넷플릭스, TV 방송을 위해 만들어진 밝기 / 컬러 인포메이션이 담긴\n압축 신호입니다.\n크로마 서브샘플링 비율\n1 2 3 4\n1 2 3 4\n1 2 3 4\nY\nj = 4\nj = 4\nj = 4\n1\n2\na=2\n1\n2\na=2\n1234 a=4\nUV\nb = 0\n1\n2\nb=2\n1234 b=4\n=\n||\n=\n||\n4:2:0\n4:2:2\n4:4:4\n크로마 서브샘플링 화질 비교\n4:2:0\n4:2:2\n4:4:4\n\n\n3D Display 지원\n3D 비디오 포맷과 해상도의 통일된 규격을 지원하여\n3D 게임, 3D 영상 등에 적용하여 생생하고 역동적인 3D 화면을 즐길 수 있습니다.\nB\n다양한 영상 모드 지원\n영상 복제/확장\n영상 복제/확장 모드를 지원합니다.\n화면 복제\n동일한 화면을 각기 다른 디스플레이 장치로 출력할 수 있습니다.\n화면 확장\n동일한 화면을 2대의 디스플레이 기기로 출력할 수 있습니다.\n\n\n화면 확장\n동일한 화면을 2대의 디스플레이 기기로 출력할 수 있습니다.\nHDCP / DPCP\n영상 콘텐츠 보호 지원\n영상 저작권 보호 기술 HDCP / DPCP는 영상 재생 기기로부터\n디스플레이 장치 등의 표시기기에 디지털 신호를 송수신하는 경로를\n암호화하여 컨텐츠가 부정하게 복사되는 것을 방지하는 기술입니다.\nH\nDisplayPort 1.4 표준규격\nDisplayPort 20번 더미핀\n표준 DisplayPort 케이블에서는 20번 핀이 사용되지 않는 더미핀입니다.\n20번 핀이 다이렉트로 연결되면 모니터와 그래픽카드에 잠재적으로 데미지를 주기 때문에\n표준 규격에서 DisplayPort 20번 핀이 사용되지 않습니다.\n19 17 15 13 11 9 7 5\n18 16 14 12 10 8\n20번 더미핀\n\n\n20번 더미핀\nRoHS\nCOMPLIANT\nRoHS 인증제품\nDirective on the use of certain Hazardous Substances in EEE\nRoHS는 유럽 연합에서 시행되는 해로운 물질을 사용한 전자제품을\n제한하는 지침으로, 모든 전기/전자 제품은 이 새로운 지침에 적합하여야\n유럽 시장에 제품을 판매할 수 있습니다.\nPRODUCT SIZE\n1m/1.5m/2m/3m /5m\nEI\n20,1mm\n19,6mm\n↑\n7,1mm\nDisplayport\nHDMI\n2.\n19 9720\n20\n12\n18 19\nP1\nP2\n14mm\n4,7mm\n4,5mm\n16mm\n<HDMI Male >\n<DisplayPort Male>\nPRODUCT SIZE\nLS-DP192-60H-1M\nLS-DP192-60H-1.5M\nLS-DP192-60H-2M\nLS-DP192-60H-3M\nLS-DP192-60H-5M\nSPECIFICATION\n입력포트\nDisplayPort\n출력포트\nHDMI\nFILLE\nwocoL\n\n\nSPECIFICATION\n입력포트\nDisplayPort\n출력포트\nHDMI\n해상도\n4K@60Hz\n전원\n전원\n길이\n1m/1.5m/2m/3m / 5m\nH M 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nC\nR\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANSStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nDisplayPort to HDMI 컨버터 케이블\nLAN Star\nLS-DP192-60H-1M\nLS-DP192-60H-1.5M\n모\n델\n명\nLS-DP192-60H-2M\nLS-DP192-60H-3M\nLS-DP192-60H-5M\n인증번호\n해당없음\n제조국 / 원 산 지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기 준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-DP192-M": "LANSStar\nDisplayPort 1.2 to HDMI\nConverter Cable\n전원, 영상 음성 동시 전송, 4K@30Hz UHD\n1m / 1.5m / 2m / 3m / 5m\nDisplayPort to HDMI Converter Cable??\nDisplayPort(입력) / HDMI(출력)으로 방향성이 있는 케이블입니다.\n입력/출력을 반대로 연결하면 화면 출력이 되지 않습니다.\n케이블 구매시 입/출력 방향성을 참고하시고 구매하시기 바랍니다.\nDisplayPort 컨버터 케이블\nHDMI 변환! 별도의 케이블 없이 하나로 연결 끝!!\nDisplayPort(DP) 포트가 장착된 PC, 노트북, 맥북 같은 작은 화면의 영상이나 음성을\nHDMI 지원 포트가 있는 TV나 모니터, 빔 프로젝터 등의 Display 장치에서 출력할 수 있도록\n지원하는 케이블입니다. 따로 전원이 필요하지 않으며 영상/음성 신호를 동시에\n전송할 수 있습니다.\nDisplayPort 입력 기기 (PC, 노트북, 슬림PC, 맥북 등등)\nㅁㅁ\n※주 의 사 항\nDP(입력) / HDMI(출력) 이 정해진\n방향성이 있는 케이블입니다.\n제품 연결시 주의하여 주시기\n바랍니다.\nIWGH\nHDMI 출력 기기 (TV, 모니터, 빔 프로젝터 등)\n\n\nIWCH\nHDMI 출력 기기 (TV, 모니터, 빔 프로젝터 등)\nDISPLAYPORT\nDisplayPort 1.2 to HDMI\n21.6Gbps〉〉〉18.2Gbps\nDisplayPort 1.2의 최대 대역폭은 21.6Gbps입니다. 18.2Gbps의 HDMI보다\n높은 대역폭을 가지고 있어, DisplayPort에서 HDMI로의 신호 전환은 가능하나\n대역폭이 낮은 HDMI에서 DisplayPort로의 신호 변환은 불가능합니다.\n4K@60Hz\n최대 4K@60Hz Ultra HD 해상도를 지원합니다.\nYUV 4:4:4\n크로마 서브 샘플링\n크로마 서브샘플링 YUV 4:4:4는 블루레이 디스크와 온라인 스트리밍 서비스,\n넷플릭스, TV 방송을 위해 만들어진 밝기 / 컬러 인포메이션이 담긴\n압축 신호입니다.\n크로마 서브샘플링 비율\n1234\n1 2 3 4\n1 2 3 4\nY\nj = 4\nj = 4\nj = 4\n+\n+\n1\n2\na=2\n1\na=2\n1234 a=4\nUV\n22\nb = 0\n1\nb=2\n1 2 34 b=4\n\n\nY\nj = 4\nj = 4\nj = 4\n+\n1\n2\na=2\n1\na=2\n1234 a=4\nUV\n22\nb = 0\n1\nb=2\n1234b=4\nII\n||\n||\n4:2:0\n4:2:2\n4:4:4\n크로마 서브샘플링 화질 비교\n4:2:0\n4:2:2\n4:4:4\n3D Display 지원\n3D 비디오 포맷과 해상도의 통일된 규격을 지원하여\n3D 게임, 3D 영상 등에 적용하여 생생하고 역동적인 3D 화면을 즐길 수 있습니다.\n다양한 영상 모드 지원\n영상 복제/확장\n영상 복제/확장 모드를 지원합니다.\n\n\n영상 복제/확장\n영상 복제/확장 모드를 지원합니다.\n화면 복제\n동일한 화면을 각기 다른 디스플레이 장치로 출력할 수 있습니다.\n화면 확장\n동일한 화면을 2대의 디스플레이 기기로 출력할 수 있습니다.\nHDCP / DPCP\n영상 콘텐츠 보호 지원\n영상 저작권 보호 기술 HDCP / DPCP는 영상 재생 기기로부터\n디스플레이 장치 등의 표시기기에 디지털 신호를 송수신하는 경로를\n암호화하여 컨텐츠가 부정하게 복사되는 것을 방지하는 기술입니다.\nH\n\n\nDisplayPort 1.2 표준규격\nDisplayPort 20번 더미핀\n표준 DisplayPort 케이블에서는 20번 핀이 사용되지 않는 더미핀입니다.\n20번 핀이 다이렉트로 연결되면 모니터와 그래픽카드에 잠재적으로 데미지를 주기 때문에\n표준 규격에서 DisplayPort 20번 핀이 사용되지 않습니다.\n19 17 15 13 11 9\n20 18 16 14 12 10 8 6 4\n20번 더미핀\nRoHS\nCOMPLIANT\nRoHS 인증제품\nDirective on the use of certain Hazardous Substances in EEE\nRoHS는 유럽 연합에서 시행되는 해로운 물질을 사용한 전자제품을\n제한하는 지침으로, 모든 전기/전자 제품은 이 새로운 지침에 적합하여야\n유럽 시장에 제품을 판매할 수 있습니다.\nPRODUCT SIZE\n1m/1.5m/2m/3m/5m\n111\n20.1mm\n: 19.6mm\n7.1mm\n14mm\n+\n4.5mm\nT\n| 4.7mm\n16mm\n<HDMI Male>\n<DisplayPort Male >\nPRODUCT SIZE\n\n\nPRODUCT SIZE\nD\nLS-DP192-1M\nLS-DP192-1.5M\nLS-DP192-2M\nLS-DP192-3M\nLS-DP192-5M\nSPECIFICATION\n입력포트\nDisplayPort\n출력포트\nHDMI\n해상도\n4K@60Hz\n전원\n전원\n길이\n1m/2m/3m / 5m/10m\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nR\nROHS\nORATIONAL\nCOMPLIANT\nTIFICATION RES\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANSStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nDisplayPort to HDMI 컨버터 케이블\nLANStar\nLS-DP192-1M\nLS-DP192-1.5M\n모\n델\n명\nLS-DP192-2M\nLS-DP192-3M\nLS-DP192-5M\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사 / 수입 사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n\n\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DisplayPort"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        0.2,
+        1.0,
+        1.5,
+        2.0,
+        3.0,
+        5.0
+      ],
+      "color_options": [
+        "BLACK"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "DP1.2",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DisplayPort(입력)",
+    "connectivity.output_signals": "HDMI(출력)",
+    "connectivity.directional": "단방향 신호 변환 케이블",
+    "power.power_mode": "별도 전원 불필요",
+    "power.charging_support": "별도 전원 불필요",
+    "form_physical.has_case": "커넥터부 45mm x 21mm x 11mm",
+    "form_physical.length_options_meters": "케이블 길이: 200mm (0.2M) / 1m, 1.5m, 2m, 3m, 5m",
+    "form_physical.color_options": "색상: BLACK",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS 인증 제품",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "최대 4K@60Hz Ultra HD 해상도 지원",
+    "audio_video.hdcp_version": "HDCP / DPCP 지원",
+    "audio_video.audio_pass": "디지털 음성 전송 지원",
+    "family.dp_version": "DP 1.2 버전 지원",
+    "family.optical_core": "DisplayPort(Mini DP 포함) 신호를 HDMI로 변환하는 컨버터"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:43",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 3,
+    "category_breakdown": {
+      "usage": 2,
+      "compatibility": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

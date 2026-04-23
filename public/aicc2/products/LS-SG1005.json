@@ -1,0 +1,154 @@
+{
+  "model_no": "LS-SG1005",
+  "product_name": "LANStar 5포트 기가비트 스위칭허브 1Gbps Fast Ethernet Switch",
+  "category": [
+    "컨버터"
+  ],
+  "key_features": [
+    "5포트 10/100/1000Mbps 기가비트 스위칭허브",
+    "각 포트별 최대 1Gbps 전송속도 지원",
+    "Auto-Negotiation: 포트별 10/100/1000Mbps 속도 자동 감지 및 변환",
+    "Auto MDI/MDI-X 지원 - 다이렉트/크로스 케이블 구분 없이 자동 감지 연결",
+    "IEEE802.3 / IEEE802.3u / IEEE802.3x / IEEE802.3ab 표준 규격 준수",
+    "Full Duplex(양방향 통신) 지원 - 데이터 동시 송수신 가능",
+    "전원 및 1~5포트 상태 표시 LED 탑재",
+    "벽/바닥 고정용 마운트 홀 지원",
+    "Plug & Play 지원",
+    "DC 5V 1A 전원 아답터 사용",
+    "KC 인증 획득(국립전파연구원), 현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "이더넷 표준": "IEEE802.3 (10Base-T), IEEE802.3u (100Base-T), ANSI/IEEE802.3 Nway Auto-Negotiation, IEEE802.3x Flow Control",
+    "프로토콜": "CSMA/CD",
+    "전송속도": "10/100/1000Mbps",
+    "포트수": "RJ45 5포트",
+    "지원거리_10Base-T": "UTP 랜케이블 최대 100m",
+    "지원거리_100Base-T": "UTP 랜케이블 최대 100m",
+    "지원거리_1000Base-T": "CAT.5E/6 UTP 랜케이블 최대 100m",
+    "전원": "DC 5V 1A 전원 아답터",
+    "작동온도": "0℃ ~ 40℃",
+    "작동습도": "10% ~ 90%",
+    "크기": "96.5 x 69 x 24 (mm)",
+    "무게": "약 80g",
+    "KC인증번호": "R-R-LUS-LS-SG1005",
+    "아답터인증번호": "HU10838-20003A",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "IEEE802.3 (10Base-T) 표준 준수 장비",
+    "IEEE802.3u (100Base-T) 표준 준수 장비",
+    "IEEE802.3ab (1000Base-T) 표준 준수 장비",
+    "IPTV",
+    "프린터",
+    "데스크톱 PC",
+    "공유기",
+    "CAT.5E/6 UTP 랜케이블 사용 장비",
+    "다이렉트 케이블 및 크로스 케이블 모두 호환"
+  ],
+  "package_contents": [
+    "5포트 기가비트 스위칭허브 본체 (LS-SG1005) 1개",
+    "DC 5V 1A 전원 아답터 1개",
+    "사용자 매뉴얼 (LS-SG1005 User Manual) 1부"
+  ],
+  "usage_instructions": "1. 스위칭허브를 공유기 또는 인터넷 포트에 랜케이블로 연결한다. 2. PC, IPTV, 프린터 등 네트워크 장비를 각 포트에 랜케이블(다이렉트 또는 크로스 무관)로 연결한다. 3. DC 5V 1A 전원 아답터를 연결하면 Plug & Play로 별도 설정 없이 자동으로 사용 가능하다. 4. 전원 LED 및 포트 LED로 연결 상태를 확인한다. 벽면 또는 바닥 고정이 필요한 경우 마운트 홀을 이용하여 부착한다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상·형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "1000Base-T 사용 시 CAT.5E 또는 CAT.6 UTP 랜케이블 사용 권장",
+    "작동 온도 범위(0℃~40℃) 및 작동 습도 범위(10%~90%) 내에서 사용할 것",
+    "반드시 DC 5V 1A 전원 아답터를 사용하여 안정적인 전원을 공급할 것",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 가능",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr / 070-7016-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SG1005",
+      "품목코드": "NET-기05032",
+      "품목명": "[LANstar] 5포트 기가비트 스위칭허브 1,000Mbps [30676] (50개)★★할인제외★★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-SG1005",
+      "내용": "번창하세요 감사합니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 5
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": null,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "N/A",
+      "requires_external_power": true,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 5포트",
+    "connectivity.output_signals": "RJ45 5포트",
+    "connectivity.directional": "Full Duplex(양방향 통신) 지원",
+    "connectivity.port_count": "5포트",
+    "power.power_mode": "DC 5V 1A 전원 아답터 사용",
+    "power.charging_support": "null",
+    "certification.kc": "KC 인증 획득",
+    "audio_video.max_resolution": "null",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.conversion_direction": "null",
+    "family.requires_external_power": "DC 5V 1A 전원 아답터 사용",
+    "family.chipset": "null"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:15",
+  "feature_schema_version": "1.0.0"
+}

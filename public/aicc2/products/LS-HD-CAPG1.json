@@ -1,0 +1,124 @@
+{
+  "model_no": "LS-HD-CAPG1",
+  "product_name": "GameDock Ultra 4K Lossless Video Capture Board (HDMI Video Capture Board)",
+  "category": [
+    "USB-C",
+    "HDMI캡쳐보드"
+  ],
+  "key_features": [
+    "4K Lossless 무손실 영상 캡처 지원",
+    "4K HDR Pass-Through 지원 (4K@60Hz, 1440P@120Hz, 1080P@240Hz 실시간 모니터링)",
+    "녹화 해상도: 1440P@60Hz, 1080P@120Hz 지원",
+    "Pass-Through 입력 지원 해상도: 4K@60Hz HDR, 1440P@144Hz, 1080P@240Hz",
+    "USB 3.1 Type-C GEN1 연결로 딜레이 없는 빠른 영상 전송",
+    "UVC(USB Video Class) 지원 - 별도 드라이버 없이 라이브 스트리밍 가능",
+    "Plug & Play 지원 - 드라이버 설치 불필요",
+    "Hot Swap 지원 - PC 전원 켜진 상태에서 자유롭게 연결/해제 가능",
+    "통기성 구조 설계로 발열 방지",
+    "HDCP 2.2 지원 - 디지털 콘텐츠 저작권 보호 기술",
+    "Windows / Mac 운영체제 지원",
+    "라이브 스트리밍 지원",
+    "오디오 포트 및 오디오 출력 지원"
+  ],
+  "specifications": {
+    "Pass-Through 해상도": "4K@60Hz HDR, 1440P@144Hz, 1080P@240Hz",
+    "Pass-Through HDR 지원": "SDR / HDR 모두 지원",
+    "녹화 해상도": "2560x1440P@60Hz, 1920x1080P@120Hz",
+    "PC 연결 인터페이스": "USB 3.1 Type-C GEN1",
+    "영상 입력 단자": "HDMI IN",
+    "영상 출력 단자": "HDMI OUT",
+    "오디오 단자": "LINE IN, MIX",
+    "UVC 지원": "지원",
+    "Plug & Play": "지원",
+    "Hot Swap": "지원",
+    "HDCP": "HDCP 2.2",
+    "호환 OS": "Windows, Mac",
+    "전용 소프트웨어": "ezcap Link"
+  },
+  "compatibility": [
+    "Windows OS",
+    "Mac OS",
+    "USB Video Class (UVC) 지원 장치",
+    "USB 3.1 Type-C GEN1 포트 보유 PC / 노트북",
+    "USB C to C 케이블 또는 USB C to A 케이블 연결 PC",
+    "HDMI 출력 장치 (게임 콘솔, PC 등)",
+    "HDMI 입력 모니터"
+  ],
+  "package_contents": [],
+  "usage_instructions": "1. HDMI 케이블로 소스 기기를 HDMI IN 단자에 연결한다. 2. HDMI 케이블로 모니터링용 모니터를 HDMI OUT 단자에 연결한다. 3. USB C to C 케이블(또는 USB C to A 케이블)로 송출용 PC/노트북과 연결한다. 4. 드라이버 설치 없이 Plug & Play로 바로 사용 가능하다. 5. 라이브 스트리밍 및 녹화 기능 이용 시 전용 프로그램 'ezcap Link'를 설치하고 압축 해제 후 실행하여 사용한다.",
+  "cautions": [
+    "라이브 스트리밍 및 녹화 기능 이용 시 캡처보드 전용 프로그램 'ezcap Link'를 반드시 설치하여야 합니다.",
+    "HDCP 2.2 기술이 적용되어 있어 저작권 보호 콘텐츠의 부정 복사가 방지됩니다.",
+    "제품 하단은 통기성 구조로 설계되어 있으므로 통풍을 막지 않도록 주의하십시오."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "USB-C"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": true,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": true
+    },
+    "family": {
+      "usb_version": "USB3.1Gen1",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "영상 입력 단자: HDMI IN",
+    "connectivity.input_signals[1]": "USB 3.1 Type-C GEN1 연결",
+    "connectivity.output_signals": "영상 출력 단자: HDMI OUT",
+    "connectivity.directional": "Pass-Through 지원",
+    "power.power_mode": "USB 3.1 Type-C GEN1 연결",
+    "audio_video.max_resolution": "4K@60Hz",
+    "audio_video.hdr_support": "4K HDR Pass-Through 지원",
+    "audio_video.hdcp_version": "HDCP 2.2 지원",
+    "audio_video.audio_pass": "오디오 포트 및 오디오 출력 지원",
+    "control_switching.has_app_control": "전용 프로그램 'ezcap Link'를 설치",
+    "family.usb_version": "USB 3.1 Type-C GEN1",
+    "family.transfer_speed_gbps": "USB 3.1 Type-C GEN1"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:41",
+  "feature_schema_version": "1.0.0"
+}

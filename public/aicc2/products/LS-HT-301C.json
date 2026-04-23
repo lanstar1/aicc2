@@ -1,0 +1,108 @@
+{
+  "model_no": "LS-HT-301C",
+  "product_name": "LANstar BNC 압축 툴",
+  "category": [
+    "커넥터",
+    "네트워크공구",
+    "LAN공구"
+  ],
+  "key_features": [
+    "Coaxial 커넥터 압착 전용 툴",
+    "일반적으로 사용되는 RG 계열 커넥터 압착 가능",
+    "압착하기 쉽도록 구성된 손잡이 구조",
+    "강력하고 견고한 압착 성능",
+    "전자통신 현장에서 자주 사용되는 BNC 툴"
+  ],
+  "specifications": {
+    "품명": "BNC 압축 TOOL",
+    "모델명": "LS-HT-301C",
+    "제조국/원산지": "Made in China",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "Hex 압착 규격": "0.256\", 0.319\", 0.068\", 0.213\" (6.50 / 8.10 / 1.72 / 5.41mm)"
+  },
+  "compatibility": [
+    "RG-58",
+    "RG-59",
+    "RG-62",
+    "RG-6"
+  ],
+  "package_contents": [],
+  "usage_instructions": "Coaxial 커넥터(BNC 등)를 케이블에 압착할 때 사용. RG 계열 케이블에 커넥터를 끼운 후 해당 규격의 다이에 맞춰 손잡이를 눌러 압착한다.",
+  "cautions": [
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 의거하여 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HT-301C",
+      "품목코드": "NEO-잡공구001",
+      "품목명": "[LANstar] TOOL공구BNC RG58,59,60용, 기어형 [40122] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HT-301C",
+      "내용": "저렴하게 사용할수있습니다. 랜스타의 브랜드신뢰도는 갑입니다!^^"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "BNC",
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "family.connector_type_a": "BNC 압축 툴",
+    "connectivity.directional": "N/A",
+    "power.power_mode": "N/A",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.gender": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:47",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,140 @@
+{
+  "model_no": "LS-USB315P",
+  "product_name": "LANStar USB 3.1 Gen1 Type C OTG 케이블 (C/M - A/F - C/F) 0.15M",
+  "category": [
+    "USB케이블",
+    "USB-C",
+    "USB3.0",
+    "USB2.0",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 3.1 Gen1 SuperSpeed 5Gbps 데이터 전송 속도 (USB 2.0 대비 10배 빠름)",
+    "3-in-1 구성: USB 3.1 C타입 Male + USB 3.0 A타입 Female + USB 3.1 C타입 Female",
+    "OTG 기능 지원으로 외장하드 등 대용량 저장장치 인식 가능",
+    "Type C 커넥터는 위아래 구분 없이 연결 가능 (방향 무관)",
+    "애플 맥북 USB Type C 포트와 완벽 호환",
+    "구글 크롬북 USB 포트 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 획득 (인증번호: MSIP-REI-LUS-LS-USB314)",
+    "RoHS, FCC, CE, KC 안전규격 인증"
+  ],
+  "specifications": {
+    "케이블 타입": "USB 3.1 TYPE C/M - 3.0 A/F + 3.1 C/F",
+    "전송 속도": "5Gbps",
+    "길이": "0.15M (150mm)",
+    "전원": "30V",
+    "작동 온도": "0°C ~ 80°C",
+    "인증": "KC (MSIP-REI-LUS-LS-USB314), FCC, CE, RoHS COMPLIANT",
+    "품질 규격": "ISO 9001:2008",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "AWM 규격": "20276",
+    "케이블 내열 온도": "80°C",
+    "케이블 전압": "30V VW-1"
+  },
+  "compatibility": [
+    "애플 맥북 (USB Type C 포트)",
+    "구글 크롬북 (USB Type C 포트)",
+    "USB 3.1 지원 기기",
+    "USB 3.0 지원 기기",
+    "USB 2.0 지원 기기 (하위 호환)"
+  ],
+  "package_contents": [
+    "USB 3.1 C타입 Male - A타입 Female + C타입 Female OTG 케이블 (0.15M) 1개",
+    "커넥터 보호캡 (C타입 Male용)",
+    "커넥터 보호캡 (A타입 Female용)",
+    "커넥터 보호캡 (C타입 Female용)"
+  ],
+  "usage_instructions": "USB 3.1 C타입 Male 단자를 호스트 기기(맥북, 크롬북 등)의 Type C 포트에 연결한 후, A타입 Female 또는 C타입 Female 단자에 저장장치 등 외부 기기를 연결하여 사용. Type C 커넥터는 방향 구분 없이 삽입 가능. 외장하드 등 대용량 장치 연결 시 원활한 작동을 위해 별도의 전원 케이블(USB 3.1 C/F)을 함께 연결 권장.",
+  "cautions": [
+    "OTG 케이블로 저장장치와의 데이터 전송은 가능하나 충전은 되지 않음",
+    "외장하드 등 대용량 장치 연결 시 원활한 작동을 위해 전원 케이블(USB 3.1 C/F)을 별도 연결 필요",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB315P",
+      "품목코드": "CAB-U31019",
+      "품목명": "[LANstar] USB 3.1 C-Type OTG 케이블, with power [10828]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-A",
+        "USB-C"
+      ],
+      "directional": "양방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.1Gen1",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 C타입 Male 단자를 호스트 기기",
+    "connectivity.output_signals": "A타입 Female 또는 C타입 Female 단자에",
+    "connectivity.directional": "Type C 커넥터는 위아래 구분 없이 연결 가능 (방향 무관)",
+    "connectivity.port_count": "3-in-1 구성: USB 3.1 C타입 Male + USB 3.0 A타입 Female + USB 3.1 C타입 Female",
+    "power.power_mode": "외장하드 등 대용량 장치 연결 시 원활한 작동을 위해 별도의 전원 케이블(USB 3.1 C/F)을 함께 연결 권장.",
+    "power.charging_support": "외장하드 등 대용량 장치 연결 시 원활한 작동을 위해 별도의 전원 케이블(USB 3.1 C/F)을 함께 연결 권장.",
+    "form_physical.length_meters": "0.15M (150mm)",
+    "certification.kc": "국립전파연구원 인증 획득 (인증번호: MSIP-REI-LUS-LS-USB314)",
+    "certification.rohs": "RoHS, FCC, CE, KC 안전규격 인증",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "RoHS, FCC, CE, KC 안전규격 인증",
+    "certification.ce": "RoHS, FCC, CE, KC 안전규격 인증",
+    "family.usb_version": "USB 3.1 Gen1 SuperSpeed 5Gbps",
+    "family.transfer_speed_gbps": "5Gbps",
+    "family.charging_only": "OTG 기능 지원으로 외장하드 등 대용량 저장장치 인식 가능",
+    "family.data_only": "OTG 기능 지원으로 외장하드 등 대용량 저장장치 인식 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:54",
+  "feature_schema_version": "1.0.0"
+}

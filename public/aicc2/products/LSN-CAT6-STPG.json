@@ -1,0 +1,123 @@
+{
+  "model_no": "LSN-CAT6-STPG",
+  "product_name": "LANStar CAT.6 STP RJ-45 8P8C 골드 모듈러 콘넥터",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-STP",
+    "커넥터",
+    "LAN공구"
+  ],
+  "key_features": [
+    "CAT.5 대비 2.5배 향상된 대역폭 250MHz 지원",
+    "CAT.5 대비 10배 향상된 속도 1000Mbps 지원",
+    "금도금 핀 사용으로 산화 방지 및 높은 전송력 확보",
+    "플러그 작업 시 신호 저하 최소화",
+    "케이블 제작 시 확실한 분리가 되도록 설계된 콘넥터",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "규격": "CAT.6 STP",
+    "커넥터 타입": "RJ-45 8P8C",
+    "핀 재질": "금도금",
+    "대역폭": "250MHz",
+    "전송 속도": "1000Mbps",
+    "수량": "100개입",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "CAT.6 STP 케이블",
+    "RJ-45 8P8C 규격 장비"
+  ],
+  "package_contents": [
+    "CAT.6 STP 골드 콘넥터 100개"
+  ],
+  "usage_instructions": "케이블 제작 시 커넥터에 케이블을 삽입하고 플러그 작업을 수행하여 결선. 커넥터는 확실한 분리가 되도록 설계되어 있음.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 소비자상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품은 판매처(쇼핑몰 하단) 참조"
+  ],
+  "variants": [
+    {
+      "model_no": "LSN-CAT6-STPG",
+      "품목코드": "NNO-콘넥터088",
+      "품목명": "[LANstar] 모듈러콘넥터 , RJ-45, CAT.6 STP,골드 콘넥터 8P8C(100개)[40659]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSN-CAT6-STPG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LSN-CAT6-STPG",
+      "내용": "포장도잘되어있고\n배송빨라요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "STP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "금도금 핀 사용",
+    "family.cat_category": "CAT.6",
+    "family.shielding": "STP"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:13",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,116 @@
+{
+  "model_no": "LS-MTR6090",
+  "product_name": "LAN Star 모니터·TV·스크린 상단 선반 트레이",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "폴딩 방식으로 누구나 손쉽게 사용 가능한 모니터 상단 선반 트레이",
+    "60cm / 90cm 두 가지 길이 선택 가능",
+    "지지대 다리는 로테이트(회전 고정) 방식으로 손쉽게 고정",
+    "제품 중간중간 다양한 홀 설계로 선 정리 및 발열 방지 효과",
+    "하중: 60cm 모델 최대 2kg / 90cm 모델 최대 3kg",
+    "현대해상화재 생산물배상책임보험 1억 원 가입 제품"
+  ],
+  "specifications": {
+    "LS-MTR60_재질_거치부": "Metal",
+    "LS-MTR60_재질_지지대다리": "ABS",
+    "LS-MTR60_색상": "Black Color",
+    "LS-MTR60_거치대크기": "60 x 9.9 cm",
+    "LS-MTR60_무게": "약 516g",
+    "LS-MTR60_최대하중": "2kg",
+    "LS-MTR60_지지대두께": "9mm",
+    "LS-MTR60_지지대다리높이": "10.8cm",
+    "LS-MTR90_재질_거치부": "Metal",
+    "LS-MTR90_재질_지지대다리": "ABS",
+    "LS-MTR90_색상": "Black Color",
+    "LS-MTR90_거치대크기": "90 x 9.9 cm",
+    "LS-MTR90_무게": "약 895g",
+    "LS-MTR90_최대하중": "3kg",
+    "LS-MTR90_지지대두께": "9mm",
+    "LS-MTR90_지지대다리높이": "10.8cm",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "KC인증번호": "해당없음"
+  },
+  "compatibility": [
+    "대형 모니터",
+    "TV",
+    "스크린",
+    "베젤 두께 최소 1cm 이상인 디스플레이 기기"
+  ],
+  "package_contents": [
+    "모니터 상단 선반 트레이 본체 (선택 모델에 따라 LS-MTR60 또는 LS-MTR90)"
+  ],
+  "usage_instructions": "지지대 다리를 회전(로테이트 방식)하여 고정한 뒤 모니터·TV·스크린 상단에 거치하여 사용. 폴딩 방식으로 접어서 보관 가능.",
+  "cautions": [
+    "구매 전 사용자의 TV·모니터 베젤 크기를 반드시 확인하시기 바랍니다.",
+    "베젤이 너무 얇으면 디스플레이 부분이 손상될 수 있습니다.",
+    "베젤 크기가 최소 1cm 이상인지 확인하시기 바랍니다.",
+    "베젤이 얇아 디스플레이 손상이 발생할 경우 환불이 어렵습니다.",
+    "60cm 모델 최대 하중 2kg, 90cm 모델 최대 하중 3kg을 초과하여 적재하지 마십시오.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸",
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.6,
+        0.9
+      ],
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "power.power_mode": "무전원",
+    "form_physical.has_case": "폴딩 방식으로 누구나 손쉽게 사용",
+    "form_physical.material": "LS-MTR60_재질_거치부\": \"Metal\",\n      \"LS-MTR60_재질_지지대다리\": \"ABS",
+    "form_physical.length_options_meters": "60cm / 90cm 두 가지 길이 선택 가능",
+    "form_physical.color_options": "Black Color",
+    "certification.kc": "KC인증번호\": \"해당없음"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:55",
+  "feature_schema_version": "1.0.0"
+}

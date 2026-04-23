@@ -1,0 +1,124 @@
+{
+  "model_no": "ZOT-PA300",
+  "product_name": "ZOT PA300 프린터 서버 (3 Parallel)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "3개의 패러럴 포트 지원 (Parallel 양방향 통신 지원)",
+    "10/100M 랜포트 크로스·다이렉트 케이블 자동 감지",
+    "프린터 공유 사용 가능 – 다른 PC의 영향 없이 독립 출력",
+    "공인 IP 할당 시 인터넷이 연결된 어느 곳에서도 인쇄 가능",
+    "웜바이러스 감염 경로 차단 효과",
+    "마법사를 이용한 손쉬운 설정 (Windows 기반)",
+    "웹 브라우저에서 프린터 서버 설정 가능 (IP 설정 시)",
+    "DHCP 지원 (IP 주소 자동 할당)",
+    "다양한 프로토콜 지원: TCP/IP, IPX, NetBEUI, Apple Talk, LPR, IPP",
+    "다양한 OS 지원"
+  ],
+  "specifications": {
+    "표준": "IEEE802.3 10Base-T, IEEE802.3u 100Base-TX",
+    "NetWare 지원": "NetWare Bindery and NDS mode",
+    "Windows 지원 프로토콜": "IPX, NetBEUI, TCP/IP",
+    "웹 관리 기능": "지원",
+    "프린트 모니터": "지원",
+    "UNIX": "LPR/LPD 지원, RFC 1179 P2P 지원",
+    "RARP/BOOTP/DHCP": "지원",
+    "Mac": "Mac OS 8.1 이상, Apple Talk 지원",
+    "크기": "56 x 51.5 x 22.2 mm",
+    "무게": "0.362 kg",
+    "어댑터": "12VDC 1.0A",
+    "작동 온도": "0°C ~ 50°C",
+    "보관 온도": "-30°C ~ 60°C",
+    "인증번호": "E-F900-04-2135",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "Parallel 프린터 (PA300 / P100S+ / PU230)",
+    "Windows 95 / 98 / ME / 2000 / XP / 2003",
+    "Windows Vista / 7 32bit (Standard TCP/IP 포트 추가 필요)",
+    "Mac OS 8.0 이상",
+    "UNIX / Linux",
+    "Netware 3.12 이상"
+  ],
+  "package_contents": [],
+  "usage_instructions": "동봉된 Setup Wizard CD를 실행하여 'Network Print Server Setup'을 선택하면 소프트웨어 설치 및 프린터 서버 설정 마법사가 자동으로 실행됩니다. IP가 설정된 경우 웹 브라우저에서도 프린터 서버 설정이 가능합니다.",
+  "cautions": [
+    "프린터의 인쇄 언어에 따라 프린터 서버와 호환되지 않을 수 있습니다.",
+    "구매 전 반드시 프린터의 호환 여부를 먼저 확인하시기 바랍니다.",
+    "Parallel 프린터는 P100S+ / PA300 / PU230을, USB 프린터는 PU201 / PU230을 구입하시기 바랍니다.",
+    "Vista / 7 32bit 환경에서는 Standard TCP/IP 포트를 별도로 추가해야 합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "ZOT-PA300",
+      "품목코드": "NET-프서패002",
+      "품목명": "[LANstar] 프린터서버 ZOT 패러럴 3포트 ZOT-PA300(10개)[30004]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Parallel(DB25)",
+        "RJ45"
+      ],
+      "output_signals": [
+        "Parallel(DB25)",
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": true,
+      "has_app_control": true
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3개의 패러럴 포트 지원",
+    "connectivity.output_signals": "3개의 패러럴 포트 지원",
+    "connectivity.directional": "Parallel 양방향 통신 지원",
+    "connectivity.port_count": "3개의 패러럴 포트 지원",
+    "power.power_mode": "어댑터: 12VDC 1.0A",
+    "power.charging_support": "false",
+    "control_switching.has_auto_scan": "크로스·다이렉트 케이블 자동 감지",
+    "control_switching.has_app_control": "마법사를 이용한 손쉬운 설정 (Windows 기반)",
+    "certification.kc": "인증번호: E-F900-04-2135"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:56",
+  "feature_schema_version": "1.0.0"
+}

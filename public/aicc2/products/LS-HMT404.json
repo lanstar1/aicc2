@@ -1,0 +1,173 @@
+{
+  "model_no": "LS-HMT404",
+  "product_name": "HDMI 2.0 4×4 4K Matrix Switch LS-HMT404 (4K HDMI Matrix 4x4 With Audio)",
+  "category": [
+    "HDMI선택기",
+    "HDMI매트릭스"
+  ],
+  "key_features": [
+    "4개 입력, 4개 출력 독립 제어 가능한 4×4 매트릭스 구조",
+    "4K@60Hz 초고화질 지원 (Full HD 대비 4배 선명)",
+    "HDMI 2.0 기반 18Gbps 대역폭으로 고용량 데이터 안정 전송",
+    "각 출력 포트마다 개별 입력 소스 할당 가능",
+    "DIP 스위치를 통한 수동 EDID 설정 (해상도 및 오디오 채널 지정)",
+    "무선 리모컨 및 전면 버튼을 통한 편리한 조작",
+    "전면 LED 인디케이터, 조작 버튼, RS232 단자, IR 수신부 배치",
+    "오디오 추출 지원 (3.5mm 스테레오 포트, Optical 포트)",
+    "HDCP 지원으로 콘텐츠 저작권 보호",
+    "3D 및 7.1채널 서라운드 오디오 지원",
+    "크로마 서브샘플링 4:4:4, 4:2:2, 4:2:0 지원",
+    "무광 알루미늄 하우징으로 내구성 및 고급스러운 디자인",
+    "측면 에어벤트 설계로 24시간 연속 가동 가능",
+    "KC 인증 획득 (인증번호: R-R-LUS-LS-HMT404)",
+    "회의실, 강의실, 제어실, 스마트 오피스 등 다양한 환경에 적합"
+  ],
+  "specifications": {
+    "HDMI 해상도": "최대 4K@60Hz",
+    "지원 비디오 포맷": "8/10/12bit Deep Color",
+    "지원 오디오 포맷": "DTS-HD, Dolby TrueHD, LPCM7.1, DTS, Dolby-AC3, DSD",
+    "전송 대역폭": "18Gbps",
+    "입력 케이블 길이": "4K@30Hz ≤15m / 4K@60Hz ≤5m (26AWG HDMI2.0 케이블)",
+    "출력 케이블 길이": "4K@30Hz ≤15m / 4K@60Hz ≤5m (26AWG HDMI2.0 케이블)",
+    "입력 포트": "HDMI 4포트, 전원 1포트, RS232 1포트, IR 1포트",
+    "출력 포트": "HDMI 4포트, 3.5mm 스테레오 포트, 오디오 포트",
+    "전원": "DC 12V 2A 어댑터 (안전 인증번호: HU10999-19004B)",
+    "작동 온도": "-15°C ~ 45°C",
+    "크기": "276 x 143 x 26 (mm)",
+    "무게": "약 720g",
+    "KC 인증번호": "R-R-LUS-LS-HMT404",
+    "EDID 설정 방식": "DIP 스위치 수동 설정",
+    "EDID 설정 옵션": "0000: HDMI 출력 포트 EDID 복사 / 0001: 3D 4K 60Hz 7.1CH / 0010: 3D 4K 30Hz 2CH / 0011: 3D 4K 30Hz 7.1CH / 0100: 2D 1080P Stereo 2CH / 0101: 2D 1080P 7.1CH / 0110: 3D 1080P Stereo 2CH / 0111: 2D 1080P DVI"
+  },
+  "compatibility": [
+    "HDMI 2.0 규격 기기",
+    "4K@60Hz 지원 디스플레이",
+    "1080P 디스플레이",
+    "3D 지원 디스플레이",
+    "26AWG HDMI 2.0 인증 케이블",
+    "RS232 제어 시스템",
+    "IR 리모컨 수신 환경",
+    "HDCP 지원 기기",
+    "DTS-HD, Dolby TrueHD, LPCM7.1, DTS, Dolby-AC3, DSD 오디오 장비"
+  ],
+  "package_contents": [
+    "HDMI 2.0 4x4 매트릭스 본체 (LS-HMT404) 1개",
+    "12V 2A 전원 어댑터 1개",
+    "리모컨 (Remote Control) 1개",
+    "매뉴얼 1개",
+    "브라켓 2개",
+    "브라켓 결합 나사 6개"
+  ],
+  "usage_instructions": "1. HDMI 입력 포트(IN 1~4)에 소스 기기(PC, 노트북 등)를 연결하고, 출력 포트(OUT 1~4)에 디스플레이를 연결한다. 2. DC 12V 2A 어댑터로 전원을 연결한다. 3. 전면 버튼 또는 동봉된 리모컨을 사용하여 각 출력 포트별 입력 소스를 선택한다. 4. 리모컨의 OUTPUT 1~4 버튼으로 각 출력 포트를 개별 제어하며, 입력 신호 이동 버튼으로 순차 전환이 가능하다. 5. 후면 DIP 스위치를 통해 연결된 디스플레이 사양에 맞는 해상도 및 오디오 채널 EDID를 수동으로 설정한다. 6. 전면 LED 인디케이터로 작동 상태를 실시간 확인한다. 7. RS232 단자를 통한 외부 제어도 지원한다.",
+  "cautions": [
+    "리모컨 분실 시 추가 구매가 불가하므로 분실에 주의할 것",
+    "4K@60Hz 출력 시 케이블 길이는 5m 이하(26AWG HDMI 2.0 인증 케이블) 사용 권장",
+    "서로 다른 해상도의 모니터를 함께 사용할 경우 EDID 설정에 따라 가장 낮은 사양 디스플레이 기준으로 동작할 수 있으므로, 출력 해상도 통일 또는 1080P 고정 EDID 사용 권장",
+    "EDID 설정은 자동이 아닌 DIP 스위치를 통한 수동 선택 방식이며, 해상도 인식 문제 발생 시 EDID 고정 모드 사용 권장",
+    "HDCP 정상 작동을 위해 연결 케이블 및 장비 모두 HDCP 지원 여부 확인 필요",
+    "4K@60Hz 동시 출력 시 HDMI 2.0 이상 인증 케이블 사용 권장"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HMT404",
+      "품목코드": "INT-HDS351",
+      "품목명": "[LANstar] HDMI2.0 4x4 매트릭스 [30965]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HMT404",
+      "id": 669024945,
+      "date": "2026-04-01 14:15",
+      "answerDate": "2026-04-02 09:17",
+      "user": "nave*******",
+      "productName": "랜스타 HDMI 2.0 4x4 4K 60Hz 매트릭스 스위치 분배기 선택기 LS-HMT404",
+      "question": "안녕하세요. \nNpay 고객센터입니다.\n\n판매자님께 확인 요청할 내용이 있어 Q&A 남깁니다.\n\n[주문정보]\n구매자명: 고*경\n주문번호: 2026032392616301\n상품주문번호: 2026032339510831\n\n[요청사항]\n# 구매자님 구매한 상품페이지에 문의글 기재가 어려워 해당 상품페이지에 작성하는 점 참고부탁드립니다.\n\n판매자님 해당 주문건 환불처리 완료된것으로 확인되는데요,\n\n구매자측에서 톡톡대화내용 보내주시어 판매자님께 상품 무상반품 및 선결제하여 반송한 반품배송비도 환불가능한지 요청하시어 문의드립니다.\n\n고객님께 제공받은 반품배송비 결제내역이 있으신건지 답변 부탁드리며,\n\n결제내역을 제공받지 못하셨다면, 내역 제공시 고객님께 반품배송비 입금처리 가능한지 답변 부탁드립니다.\n\n[민원처리기한] 2026년 4월 2일 12시까지\n\n확인 부탁 드립니다.\n감사합니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n고객님이 요청 주신 부산 은행 계좌로 반품 배송비 환불 처리 완료되었습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "USB-A",
+        "Serial(DB9)"
+      ],
+      "output_signals": [
+        "HDMI",
+        "3.5mm",
+        "Optical"
+      ],
+      "directional": "양방향",
+      "port_count": 10
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "selector_type": "양방향",
+      "input_count": 4,
+      "output_count": 4,
+      "interfaces": [
+        "HDMI"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 4포트, 전원 1포트, RS232 1포트, IR 1포트",
+    "connectivity.output_signals": "HDMI 4포트, 3.5mm 스테레오 포트, 오디오 포트",
+    "connectivity.directional": "4개 입력, 4개 출력 독립 제어 가능한 4×4 매트릭스 구조",
+    "connectivity.port_count": "HDMI 4포트, 전원 1포트, RS232 1포트, IR 1포트",
+    "power.power_mode": "DC 12V 2A 어댑터",
+    "power.charging_support": "false",
+    "audio_video.max_resolution": "4K@60Hz 초고화질 지원",
+    "audio_video.hdcp_version": "HDCP 지원으로 콘텐츠 저작권 보호",
+    "audio_video.audio_pass": "오디오 추출 지원 (3.5mm 스테레오 포트, Optical 포트)",
+    "form_physical.has_case": "무광 알루미늄 하우징으로 내구성 및 고급스러운 디자인",
+    "form_physical.material": "무광 알루미늄 하우징",
+    "certification.kc": "KC 인증 획득",
+    "control_switching.has_remote": "무선 리모컨 및 전면 버튼을 통한 편리한 조작",
+    "control_switching.has_physical_button": "전면 버튼 또는 동봉된 리모컨을 사용하여 각 출력 포트별 입력 소스를 선택한다",
+    "family.selector_type": "4개 입력, 4개 출력 독립 제어 가능한 4×4 매트릭스 구조",
+    "family.input_count": "4개 입력",
+    "family.output_count": "4개 출력",
+    "family.interfaces": "HDMI 2.0 4×4 4K Matrix Switch"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:48",
+  "feature_schema_version": "1.0.0"
+}

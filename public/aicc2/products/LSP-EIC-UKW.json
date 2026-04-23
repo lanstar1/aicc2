@@ -1,0 +1,165 @@
+{
+  "model_no": "LSP-EIC-UKW",
+  "product_name": "CAT.5E UTP 키스톤형 커플러",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP",
+    "키스톤잭",
+    "커플러"
+  ],
+  "key_features": [
+    "CAT.5E UTP 전용 커플러",
+    "RJ45/Female-RJ45/Female 1:1 형 연결 (8P8C, F/F, I형)",
+    "최대 1Gbps 전송 속도 지원 (1000BASE-T, 100MHz)",
+    "50μg 금도금 컨넥터로 신호 손실 최소화",
+    "568A(Cross) / 568B(Direct) 배열 모두 연결 가능",
+    "랜 케이블 길이가 짧거나 추가 연장 시 사용",
+    "벽 부착형 플레이트 및 마운트 판넬 장착 가능 (키스톤형)",
+    "공공기관·대기업 데이터센터·전산실·서버실 기가비트 네트워크 케이블 교체 시 활용 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "모델명": "LSP-EIC-UKW",
+    "제품명": "CAT.5E UTP 키스톤형 커플러",
+    "커넥터 타입": "RJ45, 8P8C, F/F, I형",
+    "케이블 규격": "CAT.5E UTP",
+    "전송 속도": "최대 1Gbps (1000BASE-T)",
+    "대역폭": "100MHz",
+    "연결 방식": "1:1 (Female to Female)",
+    "배선 배열": "568A(Cross) / 568B(Direct) 모두 지원",
+    "컨넥터 도금": "50μg 금도금",
+    "제품 크기": "29.6mm x 16.2mm x 14.6mm",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANstar"
+  },
+  "compatibility": [
+    "CAT.5E UTP 케이블",
+    "RJ45 (8P8C) 커넥터",
+    "568A 크로스 배열 케이블",
+    "568B 다이렉트 배열 케이블",
+    "벽 부착형 플레이트 (마운트 판넬) 키스톤 슬롯",
+    "랙장착형 키스톤잭 마운트 판넬"
+  ],
+  "package_contents": [
+    "CAT.5E UTP 키스톤형 커플러 (LSP-EIC-UKW) 1개"
+  ],
+  "usage_instructions": "랜 케이블 길이가 짧거나 추가 연장이 필요할 때 사용합니다. 양쪽 RJ45 포트에 랜 케이블을 연결하여 케이블을 1:1로 연장합니다. 벽 부착형 플레이트(마운트 판넬)의 키스톤 슬롯에 장착하여 사용할 수 있으며, 데이터센터·전산실·서버실에서 기존 패치판넬 대신 마운트 판넬에 본 커플러를 장착한 뒤 패치코드 케이블을 연결하면 기가비트 네트워크 케이블 교체 시 시간과 비용을 절약할 수 있습니다.",
+  "cautions": [
+    "CAT.5E UTP 전용 제품으로 다른 규격 케이블과의 호환 여부를 반드시 확인하세요.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-EIC-UKW",
+      "품목코드": "NEO-키스톤097",
+      "품목명": "[◆Lanstar-Plus] Cat.5E UTP 키스톤형 커플러 [20294] (500개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-EIC-UKW",
+      "내용": "튼튼하고 배송도 빠르네요~"
+    },
+    {
+      "source_model": "LSP-EIC-UKW",
+      "내용": "튼튼하고 배송도 빠르네요~"
+    },
+    {
+      "source_model": "LSP-EIC-UKW",
+      "내용": "튼튼하고 배송도 빠르네요~"
+    },
+    {
+      "source_model": "LSP-EIC-UKW",
+      "내용": "집에 랜선 싹 맞춰서 만드는데\n커플러도 언젠가 필요할거 같아 쟁였습니다\n저렴하게 잘 샀어요"
+    },
+    {
+      "source_model": "LSP-EIC-UKW",
+      "내용": "튼튼하고 배송도 빠르네요~"
+    },
+    {
+      "source_model": "LSP-EIC-UKW",
+      "내용": "마감좋고 튼실합니다. 만족!"
+    },
+    {
+      "source_model": "LSP-EIC-UKW",
+      "내용": "튼튼하고 배송도 빠르네요~"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45/Female-RJ45/Female",
+    "connectivity.output_signals": "RJ45/Female-RJ45/Female",
+    "connectivity.directional": "1:1 형 연결",
+    "connectivity.port_count": "RJ45/Female-RJ45/Female",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "키스톤형 커플러",
+    "form_physical.material": "50μg 금도금 컨넥터",
+    "family.cat_category": "CAT.5E UTP 전용 커플러",
+    "family.shielding": "CAT.5E UTP 전용 커플러"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:43",
+  "feature_schema_version": "1.0.0"
+}

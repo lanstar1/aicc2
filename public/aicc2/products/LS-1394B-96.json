@@ -1,0 +1,140 @@
+{
+  "model_no": "LS-1394B-96",
+  "product_name": "IEEE 1394 케이블 (9핀-6핀)",
+  "category": [
+    "1394케이블"
+  ],
+  "key_features": [
+    "480Mbps 고속 데이터 전송 지원",
+    "9핀(Male) - 6핀(Male) 구성",
+    "Bilingual 타입 9핀 단자 사용",
+    "길이 1.5m 및 3m 선택 가능",
+    "노트북, 슬림PC, 캠코더에 주로 사용"
+  ],
+  "specifications": {
+    "커넥터 A": "9핀 Male (Bilingual 타입)",
+    "커넥터 B": "6핀 Male",
+    "전송 속도": "480Mbps",
+    "케이블 길이": "1.5m, 3m",
+    "규격": "IEEE 1394A"
+  },
+  "compatibility": [
+    "IEEE 1394 카드 (9핀 Bilingual 단자)",
+    "노트북",
+    "슬림PC",
+    "캠코더",
+    "LANstar 제품 (모델번호 13946 표기)"
+  ],
+  "package_contents": [
+    "IEEE 1394 케이블 (9핀-6핀) 1개"
+  ],
+  "usage_instructions": "IEEE 1394 카드의 9핀 Bilingual 단자에 케이블의 9핀 커넥터를 연결하고, 반대쪽 6핀 커넥터를 대상 기기에 연결하여 사용.",
+  "cautions": [
+    "IEEE 1394B 9핀 단자라 하더라도 Bilingual 타입과 Beta 타입이 다르므로 반드시 단자 타입을 확인 후 구매하세요.",
+    "본 제품은 Bilingual 타입 9핀 케이블이며, Beta 타입은 일부 기기에서만 지원됩니다.",
+    "800Mbps 고속 전송은 IEEE 1394B 9핀-9핀 케이블 사용 시에만 가능하며, 본 제품(9핀-6핀)은 480Mbps입니다.",
+    "LANstar 제품에는 모델번호 13946으로 표기되어 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-1394B-96-3M",
+      "품목코드": "CAB-139036",
+      "품목명": "[LANstar] 1394B케이블 , 9P-6P 3M[10385] (60개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "IEEE1394-6P"
+      ],
+      "output_signals": [
+        "IEEE1394-6P"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": null,
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        1.5,
+        3.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": false,
+      "iso9001": false,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "6핀(Male) 구성",
+    "connectivity.output_signals": "6핀(Male) 구성",
+    "connectivity.directional": "480Mbps 고속 데이터 전송 지원",
+    "connectivity.port_count": null,
+    "power.power_mode": null,
+    "power.charging_support": null,
+    "power.pd_watts": null,
+    "form_physical.has_case": null,
+    "form_physical.material": null,
+    "form_physical.length_meters": null,
+    "form_physical.length_options_meters": "길이 1.5m 및 3m 선택 가능",
+    "form_physical.color_options": null,
+    "certification.kc": null,
+    "certification.rohs": null,
+    "certification.iso9001": null,
+    "certification.fcc": null,
+    "certification.ce": null,
+    "certification.netflix": null,
+    "audio_video.max_resolution": null,
+    "audio_video.hdr_support": null,
+    "audio_video.hdcp_version": null,
+    "audio_video.audio_pass": null,
+    "control_switching.has_remote": null,
+    "control_switching.has_hotkey": null,
+    "control_switching.has_physical_button": null,
+    "control_switching.has_mouse_switching": null,
+    "control_switching.has_auto_scan": null,
+    "control_switching.has_app_control": null,
+    "family.hdmi_version": null,
+    "family.dp_version": null,
+    "family.dvi_type": null,
+    "family.optical_core": null,
+    "family.ethernet_channel": null
+  },
+  "feature_extracted_at": "2026-04-23T03:05:54",
+  "feature_schema_version": "1.0.0"
+}

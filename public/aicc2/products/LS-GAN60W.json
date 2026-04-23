@@ -1,0 +1,114 @@
+{
+  "model_no": "LS-GAN60W",
+  "product_name": "GAN 65W PD 충전기 어댑터",
+  "category": [
+    "USB-C",
+    "젠더"
+  ],
+  "key_features": [
+    "GaN(질화갈륨) 소재 적용으로 작은 부피에서 높은 출력 제공",
+    "최대 65W PD 충전 지원 (USB-C1 단독 사용 시)",
+    "USB-C 2구 + USB-A 1구 총 3포트 동시 충전 가능",
+    "PPS 2.0(Programmable Power Supply) 초고속 충전 기술 지원",
+    "QC 3.0 지원 USB-A 포트 탑재",
+    "110~240V 프리볼트 지원으로 해외 사용 가능 (젠더 별도 필요)",
+    "과부하·과전압·과전류·단락고장 방지 및 과열 방지 기능 탑재",
+    "제품 무게 115g의 컴팩트 사이즈"
+  ],
+  "specifications": {
+    "제품명": "GAN 65W PD 충전기 어댑터",
+    "모델명": "KYT826-PD65W-CCA(LS-GAN65W)",
+    "제품 크기": "97×41×27mm",
+    "제품 무게": "115g",
+    "입력 전압": "110-240V",
+    "출력 포트 구성": "USB-C 2구, USB-A 1구",
+    "최대 출력 (USB-C1 단독)": "최대 65W",
+    "최대 출력 (USB-C2 단독)": "최대 18W",
+    "최대 출력 (USB-A 단독)": "최대 18W",
+    "USB-A 충전 규격": "QC 3.0",
+    "USB-C 충전 규격": "USB-PD, PPS 2.0",
+    "소재": "GaN(질화갈륨)"
+  },
+  "compatibility": [
+    "갤럭시 S20 울트라 (PPS 초고속 충전 2.0 지원)",
+    "갤럭시 노트 10+ (PPS 초고속 충전 2.0 지원)",
+    "갤럭시 탭 S7+ 이후 출시 모델 (PPS 초고속 충전 2.0 지원)",
+    "USB-PD 지원 노트북 및 기기 (최대 65W)",
+    "QC 3.0 지원 기기 (USB-A 포트)",
+    "USB-C PD 지원 기기 일반"
+  ],
+  "package_contents": [
+    "GAN 65W PD 충전기 어댑터 1EA (케이블 별매)"
+  ],
+  "usage_instructions": "USB-C1 포트 단독 사용 시 최대 65W 출력으로 노트북 충전 가능. 복수 포트 동시 사용 시 포트별 출력량이 달라질 수 있으므로 상세페이지 내 포트별 출력량 항목 참조. 초고속 충전(PPS 2.0) 이용 시 반드시 초고속 충전 지원 케이블(예: 자사 PD 100W 고속충전 케이블 LS-C100W 또는 LS-C100WL) 사용 필요. 해외 사용 시 110~240V 프리볼트 지원으로 현지 규격 젠더만 연결하여 사용 가능.",
+  "cautions": [
+    "케이블은 별도 구매 필요 (기본 구성에 미포함)",
+    "초고속 충전 사용 시 반드시 초고속 충전 지원 케이블 사용 필요 (자사 PD 100W 고속충전 케이블 권장: LS-C100W, LS-C100WL)",
+    "복수 포트 동시 사용 시 단일 포트 사용 대비 포트별 출력량이 감소할 수 있음",
+    "출력량은 사용 환경에 따라 다를 수 있음",
+    "PPS 초고속 충전 2.0은 지원 가능 기기에서만 동작하며, 지원 기기는 추후 추가될 수 있음",
+    "해외 사용 시 별도 젠더 필요 (변압기 불필요)"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [],
+      "output_signals": [
+        "USB-A",
+        "USB-C"
+      ],
+      "directional": "N/A",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": true,
+      "pd_watts": 65
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "N/A",
+      "transfer_speed_gbps": null,
+      "charging_only": null,
+      "data_only": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.output_signals": "USB-C 2구 + USB-A 1구",
+    "connectivity.port_count": "총 3포트 동시 충전 가능",
+    "power.power_mode": "PD 충전기 어댑터",
+    "power.charging_support": "PD 충전 지원",
+    "power.pd_watts": "최대 65W PD 충전 지원",
+    "form_physical.has_case": "제품 무게 115g의 컴팩트 사이즈"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:04",
+  "feature_schema_version": "1.0.0"
+}

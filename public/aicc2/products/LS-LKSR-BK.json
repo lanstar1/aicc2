@@ -1,0 +1,147 @@
+{
+  "model_no": "LS-LKSR-BK",
+  "product_name": "랜포트 LOCK 먼지마개 (RJ45 플러그 타입, 10개입)",
+  "category": [
+    "커넥터",
+    "먼지마개"
+  ],
+  "key_features": [
+    "사용하지 않는 RJ45 포트를 잠글 때 사용",
+    "허가되지 않은 접속에 대해 보안 잠금",
+    "먼지와 유해한 이물질로부터 하드웨어 보호",
+    "넣기만 하면 되는 간편한 장착 (자동 잠금)",
+    "전용 제거키로만 제거 가능한 완벽한 보안",
+    "특허출원 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 KC 인증 획득 (인증번호: LUS-LS-CAT.6)"
+  ],
+  "specifications": {
+    "모델명": "LS-LKSR-WT (흰색), LS-LKSR-BK (검정)",
+    "색상": "흰색, 검정",
+    "포트 타입": "RJ45 플러그 타입",
+    "수량": "10개입 (플러그 10pcs + 전용키 1pcs, 1SET)",
+    "제조국/원산지": "대만 (TAIWAN)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "LUS-LS-CAT.6",
+    "인증규격": "KC, FCC, CE, RoHS COMPLIANT",
+    "품질경영시스템": "ISO 9001:2008",
+    "브랜드": "LANStar"
+  },
+  "compatibility": [
+    "RJ45 포트 (스위치, 허브, 먼지마개 장금장치 호환)"
+  ],
+  "package_contents": [
+    "랜포트 LOCK 먼지마개 플러그 10pcs",
+    "전용 제거키 1pcs"
+  ],
+  "usage_instructions": "1. 비어있는 랜포트에 랜포트 LOCK 먼지마개를 밀어 넣습니다. 2. 자동 잠금이 되어 외부적인 힘으로 장착된 마개를 제거할 수 없습니다. 3. 제거 시 제품에 동봉된 전용 제거키를 홈으로 깊숙이 넣습니다. 4. 전용 제거키를 당기면 쉽게 랜포트 LOCK 먼지마개가 제거됩니다.",
+  "cautions": [
+    "본 제품은 랜케이블로 제작할 수 없습니다. 랜케이블 제작이 필요한 경우 랜포트 LOCK 콘넥터(LS-LKPC-WT/LS-LKPC-BK)로 구매하세요.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: www.LANStar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-LKSR-BK",
+      "품목코드": "NEO-부트류135",
+      "품목명": "[LANstar] LAN 포트 Lock-Dust, 잠금장치, DUST 콘넥터 포함 BLACK, (Key 1개, 플러그 10개 1SET)[40620][300개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-LKSR-BK",
+      "내용": "잘 받아서 잘 사용했어요 ~"
+    },
+    {
+      "source_model": "LS-LKSR-BK",
+      "내용": "배송이 빠릅니다  잘 사용하고 있어요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "흰색",
+        "검정"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "RJ45 Plug",
+      "connector_type_b": null,
+      "gender": "M-F",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 포트를 잠글 때 사용",
+    "connectivity.directional": "N/A",
+    "power.power_mode": "무전원",
+    "power.charging_support": "false",
+    "form_physical.has_case": "랜포트 LOCK 먼지마개",
+    "form_physical.material": "플라스틱",
+    "form_physical.color_options": "LS-LKSR-WT (흰색), LS-LKSR-BK (검정)",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "false",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "false",
+    "control_switching.has_remote": "false",
+    "control_switching.has_hotkey": "false",
+    "control_switching.has_physical_button": "false",
+    "control_switching.has_mouse_switching": "false",
+    "control_switching.has_auto_scan": "false",
+    "control_switching.has_app_control": "false",
+    "family.connector_type_a": "RJ45 플러그 타입",
+    "family.gender": "랜포트 LOCK 먼지마개 (RJ45 플러그 타입"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:18",
+  "feature_schema_version": "1.0.0"
+}

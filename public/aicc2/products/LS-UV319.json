@@ -1,0 +1,133 @@
+{
+  "model_no": "LS-UV319",
+  "product_name": "USB 3.0 TO RGB(VGA) 영상 컨버터",
+  "category": [
+    "VGA",
+    "USB3.0",
+    "컨버터"
+  ],
+  "key_features": [
+    "USB 3.0 to RGB(VGA) 영상 변환 지원",
+    "Full HD 1920x1080 해상도 지원",
+    "멀티 모니터 지원 (확장 및 복제 기능)",
+    "디스플레이 회전 기능 지원 (가로/세로/대칭 이동)",
+    "Windows 11 지원",
+    "USB 3.0 SuperSpeed 5Gbps 전송속도 지원",
+    "USB 3.0 전원 향상 (500mA → 900mA), 별도 추가 전원 불필요",
+    "FL2000DX 칩셋 사용",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC, FCC, CE 안전규격 인증 획득",
+    "RoHS 준수",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "인터페이스": "USB 3.0",
+    "출력": "RGB(VGA)",
+    "최대 해상도": "1920x1080 (Full HD 1080P)",
+    "USB 2.0 연결 시 해상도": "800x600P",
+    "칩셋": "FL2000DX",
+    "케이블 길이": "15cm",
+    "제품 크기": "17mm x 52mm x 44mm",
+    "제조국/원산지": "중국 (China)",
+    "인증번호": "MSIP-REI-LUS-LS-UH319",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "Windows 11",
+    "USB 3.0 포트를 갖춘 PC 데스크탑 및 노트북",
+    "외부 LCD 모니터",
+    "HD TV",
+    "빔 프로젝터",
+    "USB Type-C 노트북 (젠더 LS-U30F-C31M-G 별도 사용 시)",
+    "VGA(RGB) 입력을 지원하는 디스플레이 기기"
+  ],
+  "package_contents": [
+    "USB 3.0 to RGB(VGA) 영상 컨버터 본체 (LS-UV319)"
+  ],
+  "usage_instructions": "1. 제품을 PC의 USB 3.0 포트에 연결한다. 연결 직후 장치 관리자에서 장치가 보이지 않는 것은 정상이다. 2. 내 컴퓨터에 'FL2000DX'라는 드라이브가 생성되면 해당 드라이브로 진입한다. 3. 드라이브 내 'FL2000-2.1.34054.0' 파일을 실행하여 드라이버를 설치한다. 4. 설치 완료 후 장치 관리자의 디스플레이 어댑터 항목에 'Fresco Logic FL2000 USB Display Adapter'가 표시되면 정상적으로 사용 가능하다. 5. Windows 디스플레이 설정에서 디스플레이 확장, 복제, 회전, 해상도 변경 등을 설정할 수 있다. USB Type-C 노트북 사용 시 별도 젠더(LS-U30F-C31M-G, 제품번호 30615)를 이용하여 연결한다.",
+  "cautions": [
+    "USB 2.0 포트에 연결할 경우 최대 800x600P 해상도만 지원됨",
+    "USB Type-C 노트북 연결 시 별도 젠더(LS-U30F-C31M-G) 필요",
+    "제조사 사정에 따라 제품 색상, 형태 등 사양은 예고 없이 변경될 수 있음",
+    "드라이버 설치 전에는 장치 관리자에서 장치가 표시되지 않음 (정상)"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UV319",
+      "품목코드": "COM-외장형486",
+      "품목명": "[LANstar] USB 3.0 TO RGB(VGA) 영상 컨버터 , 1080P 지원 [20146]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0",
+    "connectivity.output_signals": "RGB(VGA)",
+    "connectivity.directional": "영상 변환 지원",
+    "power.power_mode": "별도 추가 전원 불필요",
+    "form_physical.has_case": "제품 크기",
+    "form_physical.length_meters": "케이블 길이: 15cm",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "Full HD 1920x1080 해상도 지원",
+    "audio_video.audio_pass": "RGB(VGA) 영상 컨버터"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:15",
+  "feature_schema_version": "1.0.0"
+}

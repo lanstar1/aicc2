@@ -1,0 +1,147 @@
+{
+  "model_no": "LS-GLAN31U",
+  "product_name": "LANStar Type-C 기가랜카드 + USB3.0 3포트 허브 (LS-GLAN31U)",
+  "category": [
+    "USB허브",
+    "USB-C",
+    "USB3.0",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "USB 3.1 Type-C 연결 방식 지원 (위아래 구분 없이 연결 가능)",
+    "기가비트 이더넷 지원 (10/100/1000Mbps)",
+    "USB 3.0 3포트 허브 내장 (각 포트 최대 5Gbps 데이터 전송)",
+    "Realtek RTL-8153 칩셋 사용 (기가비트 최적화)",
+    "Plug&Play 지원 (별도 드라이버 설치 불필요)",
+    "Hot Swap 지원 (전원 유무와 관계없이 연결/해제 가능)",
+    "알루미늄 재질 (가볍고 열전도율 우수)",
+    "KC 인증 획득 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "INPUT": "USB 3.1 Type-C",
+    "OUTPUT": "RJ45 1포트, USB 3.0 3포트",
+    "이더넷 전송속도": "10/100/1000Mbps",
+    "USB3.0 전송속도": "최대 5Gbps",
+    "칩셋": "Realtek RTL-8153",
+    "전원 타입": "버스 파워 (USB 전원)",
+    "작동 온도": "-10°C ~ 70°C",
+    "크기": "86 x 23 x 16 (mm)",
+    "무게": "약 41g (케이블 포함)",
+    "케이블 길이": "약 15cm",
+    "재질": "알루미늄",
+    "KC 인증번호": "R-REI-LUS-LS-GLAN30U",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "Windows XP / 7 / 8 / 8.1 / 10 / Vista",
+    "Mac OS",
+    "Linux",
+    "USB Type-C 지원 맥북, 노트북, 스마트폰",
+    "USB 장치: 키보드, 마우스, 프린터, USB 메모리, 카메라 등",
+    "USB 1.1 / USB 2.0 / USB 3.0 하위 버전 호환"
+  ],
+  "package_contents": [
+    "LS-GLAN31U 본체 1개"
+  ],
+  "usage_instructions": "USB Type-C 포트가 있는 기기에 제품을 연결하면 별도 드라이버 설치 없이 Plug&Play로 바로 사용 가능합니다. RJ45 포트에 이더넷 케이블을 연결하여 유선 인터넷을 사용하고, USB 3.0 3포트에 USB 장치를 연결하여 허브로 활용할 수 있습니다. Hot Swap을 지원하므로 전원이 켜진 상태에서도 자유롭게 연결 및 해제할 수 있습니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GLAN31U",
+      "품목코드": "CAB-U31189",
+      "품목명": "[LANstar] Type C 멀티허브 , 기가랜카드 + USB3.0허브 [30434]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "RJ45",
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "port_count": 3,
+      "usb_version": "USB3.0",
+      "ethernet_speed_mbps": 1000,
+      "has_sd_reader": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 Type-C 연결 방식 지원",
+    "connectivity.output_signals": "RJ45 1포트, USB 3.0 3포트",
+    "connectivity.directional": "USB 3.1 Type-C 연결 방식 지원",
+    "connectivity.port_count": "RJ45 1포트, USB 3.0 3포트",
+    "power.power_mode": "버스 파워 (USB 전원)",
+    "power.charging_support": "버스 파워 (USB 전원)",
+    "form_physical.has_case": "알루미늄 재질",
+    "form_physical.material": "알루미늄 재질",
+    "form_physical.length_meters": "케이블 길이: 약 15cm",
+    "certification.kc": "KC 인증 획득 제품",
+    "audio_video.max_resolution": "기가랜카드 + USB3.0 3포트 허브",
+    "audio_video.hdr_support": "기가랜카드 + USB3.0 3포트 허브",
+    "audio_video.hdcp_version": "기가랜카드 + USB3.0 3포트 허브",
+    "audio_video.audio_pass": "기가랜카드 + USB3.0 3포트 허브",
+    "control_switching.has_remote": "Plug&Play 지원",
+    "control_switching.has_hotkey": "Plug&Play 지원",
+    "control_switching.has_physical_button": "Plug&Play 지원",
+    "control_switching.has_mouse_switching": "Plug&Play 지원",
+    "control_switching.has_auto_scan": "Plug&Play 지원",
+    "control_switching.has_app_control": "Plug&Play 지원",
+    "family.port_count": "USB 3.0 3포트 허브 내장",
+    "family.usb_version": "USB 3.0 3포트 허브 내장",
+    "family.ethernet_speed_mbps": "기가비트 이더넷 지원 (10/100/1000Mbps)",
+    "family.has_sd_reader": "기가랜카드 + USB3.0 3포트 허브"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:21",
+  "feature_schema_version": "1.0.0"
+}

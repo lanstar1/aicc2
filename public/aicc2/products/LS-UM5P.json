@@ -1,0 +1,114 @@
+{
+  "model_no": "LS-UM5P",
+  "product_name": "랜스타 Micro B USB 데이터/충전 케이블 (SYNC&CHARGE Micro B USB CABLE)",
+  "category": [
+    "USB케이블",
+    "USB2.0",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB2.0 지원으로 빠르고 안정적인 데이터 전송 및 충전 가능",
+    "Small Connector 채택으로 범퍼/케이스 완벽 지원",
+    "무상 A/S 기간 1년, 초기불량 및 무상기한 내 1:1 교체 처리",
+    "생산물 책임 보험 가입으로 안전성 강화",
+    "ROHS 인증 제품 (유해물질 사용 제한 준수)",
+    "Apple 공식 협력 브랜드",
+    "국내 순수 브랜드 (상표등록 제0514743호, 상표권자: 라인업시스템(주))"
+  ],
+  "specifications": {
+    "케이블 길이": "0.15M (약 12cm)",
+    "커넥터 타입": "USB A to Micro B",
+    "USB 규격": "USB 2.0",
+    "인증": "ROHS Compliant",
+    "상표등록번호": "제0514743호",
+    "상표권자": "라인업시스템(주)",
+    "무상 A/S 기간": "구매일로부터 1년"
+  },
+  "compatibility": [
+    "Micro B 단자를 가진 스마트폰",
+    "컴퓨터 / 노트북",
+    "차량용 시가잭",
+    "외장하드",
+    "USB 전원 어댑터"
+  ],
+  "package_contents": [
+    "Micro B USB 케이블 (LS-UM5P-0.15M) 1개"
+  ],
+  "usage_instructions": "Micro B 단자를 가진 기기에 케이블을 연결하고, 반대쪽 USB A 단자를 컴퓨터/노트북, 차량용 시가잭 또는 USB 전원 어댑터에 연결하여 데이터 전송 및 충전에 사용한다.",
+  "cautions": [
+    "구매 전 사용하려는 기기에 Micro B 형 단자가 있는지 반드시 확인할 것",
+    "A/S 발생 시 고객센터 방문 또는 택배(옐로우캡택배)를 이용하여 처리 가능",
+    "A/S 접수 시 새 제품으로 선발송 처리 후, 수령한 물건 확인 뒤 이상 제품을 고객센터로 반송"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UM5P-015M",
+      "품목코드": "CAB-APP216",
+      "품목명": "[LANstar] 고급포장, USB마이크로케이블, A／M-Micro B／M, 0.15M[10627]",
+      "variant_suffix": "-015M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true
+    },
+    "form_physical": {
+      "has_case": false,
+      "length_meters": 0.15
+    },
+    "certification": {
+      "rohs": true
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A to Micro B",
+    "connectivity.output_signals": "USB A to Micro B",
+    "connectivity.directional": "데이터 전송 및 충전에 사용한다",
+    "power.power_mode": "USB 전원 어댑터에 연결하여",
+    "power.charging_support": "충전 가능",
+    "form_physical.has_case": "케이블",
+    "form_physical.length_meters": "0.15M (약 12cm)",
+    "certification.rohs": "ROHS 인증 제품",
+    "audio_video.max_resolution": "USB 데이터/충전 케이블",
+    "audio_video.hdr_support": "USB 데이터/충전 케이블",
+    "audio_video.hdcp_version": "USB 데이터/충전 케이블",
+    "audio_video.audio_pass": "USB 데이터/충전 케이블",
+    "family.usb_version": "USB2.0 지원",
+    "family.transfer_speed_gbps": "USB2.0 지원",
+    "family.charging_only": "데이터 전송 및 충전",
+    "family.data_only": "데이터 전송 및 충전"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:17",
+  "feature_schema_version": "1.0.0"
+}

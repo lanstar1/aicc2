@@ -1,0 +1,167 @@
+{
+  "model_no": "LS-6PASS-UTP",
+  "product_name": "CAT.6 UTP RJ45 모듈러 콘넥터 케이블 통과형 (LS-6PASS-UTP)",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "네트워크공구",
+    "UTP포트"
+  ],
+  "key_features": [
+    "케이블 통과형 구조로 초보자도 쉽게 사용 가능",
+    "육안으로 케이블 색상 순서 확인 가능 — 별도 테스터기 불필요",
+    "단선 및 연선 공용 사용 가능",
+    "3발형 금도금 핀 장착으로 전도율이 높고 신호손실 최소화",
+    "일반 랜툴(LS-68P 등)로 압착 작업 가능",
+    "30초 내 랜케이블 제작 가능",
+    "특허출원 제품 (특허 제 30-2017-0004836 호)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC, FCC, CE 안전규격 인증 및 RoHS 준수",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "국립전파연구원 인증 획득 (인증번호: KCC-RTI-LUS-LS-CAT6)"
+  ],
+  "specifications": {
+    "카테고리 규격": "CAT.6 UTP",
+    "커넥터 타입": "RJ45 모듈러 콘넥터",
+    "핀 구성": "3발형 금도금 핀",
+    "지원 케이블 종류": "단선, 연선 공용",
+    "수량": "100개입",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "KCC-RTI-LUS-LS-CAT6",
+    "특허번호": "30-2017-0004836",
+    "특허권자": "라인업시스템(주)",
+    "보험": "현대해상화재 생산물배상책임보험 1억원",
+    "규격 인증": "KC, FCC, CE, RoHS COMPLIANT, ISO 9001:2008"
+  },
+  "compatibility": [
+    "CAT.6 UTP 랜케이블 (단선)",
+    "CAT.6 UTP 랜케이블 (연선)",
+    "일반 랜툴 (예: LS-68P)",
+    "다이렉트 케이블 핀배열 (568B-568B)",
+    "크로스 케이블 핀배열 (568B-568A)"
+  ],
+  "package_contents": [
+    "LS-6PASS-UTP CAT.6 UTP RJ45 모듈러 콘넥터 100개"
+  ],
+  "usage_instructions": "1단계: 랜케이블 피복을 5~6cm 정도 탈피한다. 2단계: 다이렉트(568B-568B) 또는 크로스(568B-568A) 표준 핀배열을 확인한 후, 케이블 선을 콘넥터의 통과용 홀에 끼워 끝까지 잡아당긴다. 3단계: 육안으로 케이블 색상 순서를 재확인한 후, 튀어나온 케이블 끝을 잘라내고 랜툴(LS-68P 등)로 압착·컷팅하여 완성한다. ※ 별도 케이블 테스터기 불필요. ※ 일반 랜툴로 작업 가능.",
+  "cautions": [
+    "본 제품은 특허출원 상품으로 무단 복제를 엄금합니다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)의 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-6PASS-UTP",
+      "chatUrl": "2syx0",
+      "dateIso": "2023-05-08T06:12:35.303Z",
+      "name": "bj70****",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "전화 문의 드렸습니다 감사합니다",
+      "answer": "미답변"
+    },
+    {
+      "source_model": "LS-6PASS-UTP",
+      "chatUrl": "2syx0",
+      "dateIso": "2023-05-08T06:12:35.303Z",
+      "name": "bj70****",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "5파이랑 8파이 두가지 판매중이시길래",
+      "answer": "미답변"
+    },
+    {
+      "source_model": "LS-6PASS-UTP",
+      "chatUrl": "2syx0",
+      "dateIso": "2023-05-08T06:12:35.303Z",
+      "name": "bj70****",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "LS-6PASS-UTP 랜커넥터에는 이거 사용하면 되나요? 랜선 파이가 안써있어서요.. 케이블은 cat.6 utp 입니다.",
+      "answer": "미답변"
+    },
+    {
+      "source_model": "LS-6PASS-UTP",
+      "chatUrl": "2syx0",
+      "dateIso": "2023-05-08T06:12:35.303Z",
+      "name": "bj70****",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "안녕하세요",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "3발형 금도금 핀 장착",
+    "certification.kc": "KC, FCC, CE 안전규격 인증",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증",
+    "certification.ce": "KC, FCC, CE 안전규격 인증",
+    "family.cat_category": "CAT.6 UTP",
+    "family.shielding": "CAT.6 UTP"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:34",
+  "feature_schema_version": "1.0.0"
+}

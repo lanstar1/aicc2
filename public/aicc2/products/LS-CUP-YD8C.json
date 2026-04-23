@@ -1,0 +1,151 @@
+{
+  "model_no": "LS-CUP-YD8C",
+  "product_name": "LAN Star CAT.5E 고급형 커플러 Y형 RJ45 8P8C 1:2 선 타입",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP",
+    "커플러",
+    "UTP포트"
+  ],
+  "key_features": [
+    "RJ45 8P8C 1:2 타입 단자 구성",
+    "UTP 케이블(RJ45 포트) 한 개의 선에서 두 갈래로 분배",
+    "두 대의 컴퓨터로 인터넷을 동시에 사용할 수는 없으며, 각각 번갈아 사용 가능",
+    "내선이 케이블 방식으로 불량률이 낮음",
+    "RoHS 규격 준수 (납, 수은, 카드뮴 등 중금속 미사용)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "국립전파연구원 KC 인증 획득",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 타입": "RJ45 8P8C",
+    "분배 방식": "1:2 (Y형)",
+    "케이블 타입": "선 타입",
+    "인증번호": "T-A71-05-0095",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "RoHS 준수": "해당",
+    "ISO 인증": "ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "UTP 케이블 (RJ45 포트)",
+    "CAT.5E 규격 LAN 케이블",
+    "RJ45 8P8C 인터페이스 기기"
+  ],
+  "package_contents": [
+    "CAT.5E 고급형 커플러 Y형 (LS-CUP-YD8C) 본체 1개"
+  ],
+  "usage_instructions": "UTP 케이블(RJ45)을 커플러의 1포트 측에 연결하고, 분배된 2포트 측에 각각 기기를 연결하여 사용. 두 기기가 동시에 인터넷을 사용할 수는 없으며, 한 번에 한 기기씩 번갈아 사용 가능.",
+  "cautions": [
+    "두 대의 컴퓨터로 인터넷을 동시에 사용할 수 없으며, 각각 하나씩 번갈아 사용 가능",
+    "유통 과정상 제품의 모양이나 색상은 조금씩 달라질 수 있음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-CUP-YD8C",
+      "품목코드": "NEO-커플러004",
+      "품목명": "[LANstar] 커플러 Y형 RJ-45 CAT.5E 8P8C 1：2 고급형--★★선타입★★[(F/F*2)[40030] (800개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-CUP-YD8C",
+      "내용": "아직 사용전이지만 랜스타만 써요"
+    },
+    {
+      "source_model": "LS-CUP-YD8C",
+      "내용": "주문하고 한달넘게 기다려서 받았네요. 국내에 재고가 없다니... 공사 다끝나고 도착."
+    },
+    {
+      "source_model": "LS-CUP-YD8C",
+      "내용": "y커플러 고급 좋아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "N/A",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "PVC"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 8P8C 1:2 타입 단자 구성",
+    "connectivity.output_signals": "RJ45 8P8C 1:2 타입 단자 구성",
+    "connectivity.port_count": "1:2 타입 단자 구성",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "커플러",
+    "form_physical.material": "내선이 케이블 방식으로",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "control_switching.has_remote": "두 대의 컴퓨터로 인터넷을 동시에 사용할 수는 없",
+    "control_switching.has_hotkey": "두 대의 컴퓨터로 인터넷을 동시에 사용할 수는 없",
+    "control_switching.has_physical_button": "두 대의 컴퓨터로 인터넷을 동시에 사용할 수는 없",
+    "control_switching.has_mouse_switching": "두 대의 컴퓨터로 인터넷을 동시에 사용할 수는 없",
+    "control_switching.has_auto_scan": "두 대의 컴퓨터로 인터넷을 동시에 사용할 수는 없",
+    "control_switching.has_app_control": "두 대의 컴퓨터로 인터넷을 동시에 사용할 수는 없",
+    "family.cat_category": "LAN Star CAT.5E",
+    "family.shielding": "UTP 케이블(RJ45 포트)",
+    "family.poe_support": "두 대의 컴퓨터로 인터넷을 동시에 사용할 수는 없"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:21",
+  "feature_schema_version": "1.0.0"
+}

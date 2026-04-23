@@ -1,0 +1,327 @@
+{
+  "model_no": "LS-HMV401",
+  "product_name": "LAN Star HDMI 4:1 화면분할기 멀티뷰어 (LS-HMV401)",
+  "category": [
+    "HDMI멀티뷰어"
+  ],
+  "key_features": [
+    "HDMI 4입력 1출력 멀티뷰어",
+    "최대 해상도 4K@30Hz 지원",
+    "5가지 출력 모드 지원: 2x2 일반모드, 상하 출력 모드, 좌우 출력 모드, 1개 대화면+3개 소화면, PIP 모드",
+    "SEAMLESS 전환 기능 지원",
+    "HDCP 지원",
+    "리모콘으로 간편 조작 가능",
+    "RS232 명령어를 통한 펌웨어 제어 지원",
+    "3.5 스테레오 및 광오디오(TOSLINK) 출력 지원",
+    "Micro USB 포트를 통한 펌웨어 업데이트 지원",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-HMV401)",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득)",
+    "심리스(Seamless) 기능 지원으로 딜레이 없이 화면 전환 가능",
+    "일반 멀티비전 제품 대비 화면 전환 시 발생하는 1~2초 딜레이 없음"
+  ],
+  "specifications": {
+    "입력": "HDMI 4포트",
+    "출력": "HDMI 1포트, 3.5ST 1포트, SPDIF 1포트(오디오)",
+    "최대 해상도": "4K@30Hz",
+    "지원 해상도": "480P, 576P, 720P, 1080P@60Hz, 4K@30Hz",
+    "전원": "DC 5V USB 전원 케이블",
+    "작동 온도": "0°C ~ 70°C",
+    "습도": "5% ~ 90%",
+    "소비전력": "2W",
+    "크기": "197.5 x 91 x 18.5 (mm)",
+    "무게": "376g",
+    "재질": "메탈",
+    "KC 인증번호": "R-R-LUS-LS-HMV401",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "심리스 기능 지원 여부": "지원",
+    "일반 멀티비전 화면 전환 딜레이": "약 1~2초",
+    "LS-HMV401 화면 전환 딜레이": "없음(0초)"
+  },
+  "compatibility": [
+    "HDMI 입력 기기 4대 (소스 기기)",
+    "HDMI 출력 디스플레이 1대",
+    "3.5 스테레오 오디오 기기",
+    "광오디오(TOSLINK/SPDIF) 기기",
+    "RS232 제어 프로그램 (시리얼 통신 지원 환경)",
+    "Micro USB 펌웨어 업데이트 지원 환경"
+  ],
+  "package_contents": [
+    "HDMI 4x1 멀티뷰어 본체 (LS-HMV401)",
+    "리모콘",
+    "USB 전원 케이블",
+    "사용자 매뉴얼 (User Manual)"
+  ],
+  "usage_instructions": "1) HDMI 소스 기기를 INPUT 1~4 포트에 연결하고, 디스플레이를 OUTPUT A 포트에 연결한다. 2) DC 5V USB 전원 케이블을 연결하고 전원 스위치를 ON한다. 3) 리모콘의 MODE 버튼으로 출력 모드(2x2 일반, 상하, 좌우, 1대화면+3소화면, PIP)를 선택한다. 4) MODIFY 키와 OUTPUT 버튼(1~4)을 조합하여 디스플레이 출력 순서를 변경한다. 5) SCALER 버튼으로 해상도(1080P / 1600P / 4K@30Hz)를 변경할 수 있다. 6) AUDIO 버튼으로 오디오 출력 채널(1~4)을 선택하고, 2.1CH/5.1CH 버튼으로 오디오 모드를 설정한다. 7) RS232 제어가 필요한 경우 펌웨어 제어 프로그램에서 명령어를 입력하여 비디오/오디오 출력 및 시스템 기능을 제어한다. 펌웨어 제어 프로그램 및 RS232 매뉴얼은 랜스타 홈페이지 기술자료실에서 다운로드 가능하다. 펌웨어 업데이트는 Micro USB 포트를 이용한다.",
+  "cautions": [
+    "캐스캐이딩(CASCADING) 모드는 지원하지 않음.",
+    "화면이 출력되지 않을 경우 케이블 정상 여부를 먼저 확인할 것.",
+    "케이블 정상 확인 후에도 문제 지속 시 네이버 톡톡으로 문의 필요.",
+    "Micro USB 포트는 펌웨어 업데이트 전용이며 다른 용도로 사용 불가.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처 제품은 A/S 불가.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음.",
+    "당일출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준임.",
+    "택배사 사정에 따라 배송기간이 길어질 수 있음.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있음."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HMV401",
+      "품목코드": "INT-HDS319",
+      "품목명": "[LANstar] HDMI 4:1 화면분할기 멀티뷰어 4K (25개) [30836]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HMV401",
+      "id": 668498060,
+      "date": "2026-03-28 12:21",
+      "answerDate": "2026-03-30 11:38",
+      "user": "made****",
+      "productName": "HDMI 멀티뷰어 화면분할기 매장 CCTV 모니터 4K 멀티비전 (LS-HMV401)",
+      "question": "안녕하세요 \n문의드립니다. 이제품은 화면 90도 회전 모드 지원하나요?\n지원한다면 단독모드(1개)로 지원인지? 분할모드 [좌우모드] 2개 화면 각각 90도 회전 지원하는지요?\n지원불가능하신다면 다른제품 소개좀 부탁드립니다.",
+      "answer": "안녕하세요 고객님 랜스타 입니다.\n자사 제품 중 에서는 화면분할기중 회전모드가 지원되는 제품은 없습니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HMV401",
+      "chatUrl": "uY0A",
+      "dateIso": "2026-03-30T05:05:38.413Z",
+      "name": "bettyilove",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하세요 문자 받고 연락드립니다.",
+      "answer": "우선 원활한 제품 구매에 도움을 드리지 못해 죄송합니다. 말씀해주신대로 대체품으로 해서 금일 출고도와드리겠습니다.\n\n네. 고객님. 추가로 문의하실 사항이 있으시다면 언제든지 톡톡 부탁드립니다. 랜스타 제품 이용",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "넵~"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n우선 원활한 제품 구매에 도움을 드리지 못해 죄송합니다.\n말씀해주신대로 대체품으로 해서 금일 출고도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요 문자 받고 연락드립니다."
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n추가로 문의하실 사항이 있으시다면 언제든지 톡톡 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HMV401",
+      "chatUrl": "6y6X9",
+      "dateIso": "2024-10-04T05:44:01.215Z",
+      "name": "박신우",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "다름이 아니라.\n1.콘솔 + 닌텐도 + 컴퓨터를\n하나의 모니어에 출력이 가능한가요?\n2. 이어서.\n 콘솔(1)+컴퓨터 (2) + 닌텐도(3)이라면\n 1 +2번은 a 모니터\n(추가 문의) https://www.lanmart.co.kr/shop/goods/goods_view.php?goodsno=28734&category=025001\n(추가 문의) 저번어추천해주신걸구입했는데요\n3840 2160 99헤르츠 모니터잘되던게\n이거 연결하니 잘안되거든요\n원래 지윈이 안되나요\n(추가 문의) 제가 영상 이런걸 잘 모르는데.\n좋은걸 항상 구매하는 버릇이있어서요..ㅋㅋ",
+      "answer": "1. 하나의 모니터에 여러대의 장비를 출력하는 제품은 LS-HMV401 멀티뷰어 입니다. 2. 해당 문의는 문의 주신 제품인 LS-HDM404\n\ntalk.naver.com/W4QWIB\n\n구매확인이되지 않아 정확한 안내를 위해 아래 내용 확인 부탁드립니다. 성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS",
+      "turn_count": 10,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "업체가 전화도 안받고..\n톡톡도 아침에 보냈는데 답이없어요ㅠㅠ"
+        },
+        {
+          "role": "agent",
+          "text": "talk.naver.com/W4QWIB"
+        },
+        {
+          "role": "customer",
+          "text": "인터넷마저 제대로 지원을 안하는 모델이라서요...ㅠㅠ"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "이거 오픈하면 환불이 어렵겠죠?;;;"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "아 저 조이젠이란 곳에서 구매해서 망한거같습니다......"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n구매확인이되지 않아 정확한 안내를 위해 아래 내용 확인 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS"
+        },
+        {
+          "role": "customer",
+          "text": "화질이이상해요"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "저번어추천해주신걸구입했는데요\n3840 2160 99헤르츠 모니터잘되던게\n이거 연결하니 잘안되거든요\n원래 지윈이 안되나요"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡"
+        },
+        {
+          "role": "customer",
+          "text": "요거 말씀하시는거 맞죠?"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "https://www.lanmart.co.kr/shop/goods/goods_view.php?goodsno=28734&category=025001"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n1. 하나의 모니터에 여러대의 장비를 출력하는 제품은 LS-HMV401 멀티뷰어 입니다.\n2. 해당 문의는 문의 주신 제품인 LS-HDM404"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HMV401",
+      "chatUrl": "2MpHA",
+      "dateIso": "2024-08-22T08:04:23.622Z",
+      "name": "날으는타조",
+      "isTechnical": true,
+      "category": "shipping",
+      "modelConfidence": "high",
+      "question": "네 이걸로 보내주세요~^^",
+      "answer": "네. 고객님. 유선으로 안내드린 것과 같이 대체품 안내 드립니다. LS-HMV401 감사합니다. 안녕하세요.\n\n네. 고객님. 회신 감사드립니다. 원활한 수령에 불편을 드려 죄송합니다. 금일 출고 후 송장번호 안내드리겠습니다\n\n빠르게 배송해드릴게요! 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "넵"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n회신 감사드립니다.\n원활한 수령에 불편을 드려 죄송합니다. 금일 출고 후 송장번호 안내드리겠습니다"
+        },
+        {
+          "role": "customer",
+          "text": "네 이걸로 보내주세요~^^"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n유선으로 안내드린 것과 같이 대체품 안내 드립니다.\nLS-HMV401\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다. 안녕하세요."
+        },
+        {
+          "role": "customer",
+          "text": "배송 문의"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요! [배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다! [발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-HMV401-SEAMLESS": "심리스 기능 지원\nSEAMLESS MODE\n일반적인 멀티비전 제품들은 화면 전환시 약 1~2초 정도 딜레이가 발생하는데\nLS-HMV401은 심리스(Seamless) 기능을 지원하여 딜레이 없이 화면 전환이 가능합니다.\n심리스 기능 지원 유무에 따른 화면 전환 속도 비교\n심리스 기능 지원\n심리스 기능미지원"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI",
+        "3.5mm",
+        "Optical"
+      ],
+      "directional": "일방향",
+      "port_count": 7
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "input_count": 4,
+      "output_count": 1,
+      "mode": [
+        "멀티뷰어"
+      ],
+      "cascade_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 4입력",
+    "connectivity.output_signals": "HDMI 1포트, 3.5ST 1포트, SPDIF 1포트(오디오)",
+    "connectivity.directional": "HDMI 4입력 1출력 멀티뷰어",
+    "connectivity.port_count": "HDMI 4입력 1출력 멀티뷰어",
+    "power.power_mode": "DC 5V USB 전원 케이블",
+    "form_physical.has_case": "크기: 197.5 x 91 x 18.5 (mm)",
+    "form_physical.material": "재질: 메탈",
+    "certification.kc": "KC 인증 획득",
+    "audio_video.max_resolution": "최대 해상도 4K@30Hz 지원",
+    "audio_video.hdcp_version": "HDCP 지원",
+    "audio_video.audio_pass": "3.5 스테레오 및 광오디오(TOSLINK) 출력 지원",
+    "control_switching.has_remote": "리모콘으로 간편 조작 가능",
+    "family.input_count": "HDMI 4입력",
+    "family.output_count": "1출력",
+    "family.mode": "화면분할기 멀티뷰어"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:44",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 3,
+    "category_breakdown": {
+      "troubleshoot": 1,
+      "usage": 1,
+      "shipping": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

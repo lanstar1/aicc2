@@ -1,0 +1,93 @@
+{
+  "model_no": "LS-SL6-2W",
+  "product_name": "[LANstar] Cat.6 UTP 다이렉트 초슬림 랜케이블 2m 화이트 [30546] (250개)",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "랜케이블"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-SL6-2W",
+      "품목코드": "CAB-U5G158",
+      "품목명": "[LANstar] Cat.6 UTP 다이렉트 초슬림 랜케이블 2m 화이트 [30546] (250개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-SL6-2W",
+      "내용": "진짜 얇고 입구도 많이 안튀어나오네요\n구매하길 잘한거 같아요"
+    },
+    {
+      "source_model": "LS-SL6-2W",
+      "내용": "선이 얇아서 설치하기 편해요."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 2,
+      "length_options_meters": null,
+      "color_options": [
+        "화이트"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.length_meters": "2m",
+    "form_physical.color_options": "화이트",
+    "family.cat_category": "Cat.6",
+    "family.shielding": "UTP"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:31",
+  "feature_schema_version": "1.0.0"
+}

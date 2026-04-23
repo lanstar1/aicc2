@@ -1,0 +1,135 @@
+{
+  "model_no": "LS-HD2DVIG",
+  "product_name": "LAN Star HDMI to DVI 케이블 젠더 (HDMI 19P(M) - DVI 24+5(F) / 0.15M)",
+  "category": [
+    "HDMI케이블",
+    "DVI",
+    "컨버터",
+    "젠더"
+  ],
+  "key_features": [
+    "HDMI 19P Male - DVI-I 24+5P Female 케이블 형식 젠더",
+    "HDMI 입력 신호를 DVI 신호로 변환하여 출력",
+    "양방향 지원: 입/출력 방향에 따라 4K@60Hz UHD 및 1440P@60Hz QHD 해상도 동시 지원",
+    "4K@60Hz UHD: 입력 DVI-I 24+5P → 출력 HDMI 19P",
+    "1440P@60Hz QHD: 입력 HDMI 19P → 출력 DVI-I 24+5P",
+    "DVI-I 24+5핀으로 디지털+아날로그 신호 동시 전송 가능 (DVI-I Dual Link)",
+    "케이블 길이 약 15cm",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 A": "HDMI 19P Male",
+    "커넥터 B": "DVI-I 24+5P Female",
+    "지원 해상도 (HDMI 입력 → DVI 출력)": "1440P@60Hz QHD (2560x1440)",
+    "지원 해상도 (DVI 입력 → HDMI 출력)": "4K@60Hz UHD (3840x2160)",
+    "케이블 길이": "약 15cm (0.15M)",
+    "DVI 신호 방식": "DVI-I Dual Link (디지털+아날로그 동시 전송)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "브랜드": "LAN Star",
+    "KC 인증번호": "해당없음"
+  },
+  "compatibility": [
+    "HDMI 19P 출력 장치 (PC, 노트북, 플레이어 등)",
+    "DVI-I 24+5P 입력 장치 (모니터 등)",
+    "DVI-I Dual Link 규격 호환",
+    "QHD (2560x1440) 해상도 지원 기기",
+    "4K UHD (3840x2160) 해상도 지원 기기"
+  ],
+  "package_contents": [
+    "HDMI to DVI 케이블 젠더 (LS-HD2DVIG) 1개"
+  ],
+  "usage_instructions": "방향성 없이 양방향 사용 가능. HDMI 19P를 입력으로 연결 시 DVI-I 24+5P로 QHD(1440P@60Hz) 출력. DVI-I 24+5P를 입력으로 연결 시 HDMI 19P로 4K UHD(4K@60Hz) 출력. DVI 케이블 고정 홈을 이용하여 DVI 단자를 고정하여 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 (www.LANstar.co.kr)",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "구매/배송/반품은 판매처(쇼핑몰 하단) 참조",
+    "DVI 단자 종류(DVI-A, DVI-D Single/Dual Link, DVI-I Single/Dual Link)에 따라 호환 여부 확인 필요"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HD2DVIG",
+      "품목코드": "CAB-HDC001",
+      "품목명": "[LANstar] HDMI to DVI 케이블 젠더 0.15m [30493] (500개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "DVI-I"
+      ],
+      "output_signals": [
+        "HDMI",
+        "DVI-I"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": "DVI-I Dual",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19P Male - DVI-I 24+5P Female",
+    "connectivity.output_signals": "HDMI 19P Male - DVI-I 24+5P Female",
+    "connectivity.directional": "양방향 지원",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.length_meters": "케이블 길이 약 15cm",
+    "certification.kc": "KC 인증번호: 해당없음",
+    "audio_video.max_resolution": "4K@60Hz UHD",
+    "control_switching.has_remote": "무전원",
+    "control_switching.has_hotkey": "무전원",
+    "control_switching.has_physical_button": "무전원",
+    "control_switching.has_mouse_switching": "무전원",
+    "control_switching.has_auto_scan": "무전원",
+    "control_switching.has_app_control": "무전원",
+    "family.dvi_type": "DVI-I Dual Link",
+    "family.optical_core": "케이블 형식 젠더",
+    "family.ethernet_channel": "HDMI to DVI 케이블 젠더"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:54",
+  "feature_schema_version": "1.0.0"
+}

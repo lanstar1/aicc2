@@ -1,0 +1,155 @@
+{
+  "model_no": "LS-NV31",
+  "product_name": "LANStar USB3.1 M.2 NVMe SSD 외장 케이스",
+  "category": [
+    "랜케이블-CAT6A",
+    "USB-C",
+    "USB3.0",
+    "HDD관련"
+  ],
+  "key_features": [
+    "USB 3.1 Type-C 인터페이스, 최대 10Gbps 데이터 전송 속도 지원 (USB 3.0 대비 약 2배)",
+    "M.2 NVMe 'M' KEY 전용 외장 케이스",
+    "NVMe SSD 크기 2230 / 2242 / 2260 / 2280 모두 장착 가능",
+    "Plug & Play 지원 - 별도 드라이버 설치 불필요",
+    "별도 외부 전원 공급 불필요 (USB 버스 파워)",
+    "핫스왑(Hot Swap) 기능 지원 - PC 전원 켜진 상태에서 탈부착 가능",
+    "부착형 방열판 및 방열 패치 포함 - 발열 방지",
+    "슬림 디자인: 111 x 42 x 11 mm, 어두운 회색 계열 고급스러운 외관",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC 인증 획득 (인증번호: R-REI-LUS-LS-M2SATA-CASE)",
+    "RoHS 준수, ISO 9001:2008 품질경영시스템 적용"
+  ],
+  "specifications": {
+    "인터페이스": "USB 3.1 Type-C",
+    "최대 전송 속도": "10Gbps",
+    "지원 SSD 규격": "M.2 NVMe 'M' KEY",
+    "지원 SSD 크기": "2230 (22x30mm), 2242 (22x42mm), 2260 (22x60mm), 2280 (22x80mm)",
+    "제품 크기": "111 x 42 x 11 mm",
+    "색상": "어두운 회색 계열",
+    "전원 방식": "별도 전원 불필요 (USB 버스 파워)",
+    "드라이버": "불필요 (Plug & Play)",
+    "핫스왑": "지원",
+    "방열": "부착형 방열판 및 방열 패치 포함",
+    "인증번호": "R-REI-LUS-LS-M2SATA-CASE",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANStar"
+  },
+  "compatibility": [
+    "M.2 NVMe 'M' KEY SSD 전용",
+    "M.2 NVMe SSD 크기 2230 호환",
+    "M.2 NVMe SSD 크기 2242 호환",
+    "M.2 NVMe SSD 크기 2260 호환",
+    "M.2 NVMe SSD 크기 2280 호환",
+    "USB 3.1 (SUPERSPEED+, 10Gbps) 호스트 호환",
+    "USB 3.0 (SUPERSPEED, 5Gbps) 하위 호환",
+    "USB 2.0 (HI-SPEED, 480Mbps) 하위 호환",
+    "M.2 SATA 'B' KEY SSD 호환 불가",
+    "M.2 SATA 'B+M' KEY SSD 호환 불가"
+  ],
+  "package_contents": [
+    "SSD 외장 케이스 본체",
+    "방열판",
+    "방열 패치",
+    "USB C/M-C/M 케이블 (길이: 약 30cm)",
+    "드라이버",
+    "결합용 나사"
+  ],
+  "usage_instructions": "1. 제품 본체를 열어 내부 NVMe M.2 SSD 연결 부분을 꺼냅니다. 2. NVMe M.2 SSD를 커넥터에 연결합니다. 3. SSD 뒤쪽을 스크류로 고정합니다. 4. SSD 위에 방열 패치를 부착합니다. 5. 방열 패치 위에 방열판을 덮고 나사로 고정합니다. 6. 케이스 홈에 맞춰 넣고 조립합니다. 7. PC와 USB 케이블로 연결 후 사용합니다. [신규 SSD 볼륨 설정] 바탕화면 > 내 컴퓨터 우클릭 > 관리 > 디스크 관리 > 할당되지 않은 디스크 우클릭 > 새 단순 볼륨 > 볼륨 만들기 마법사 진행 > 크기 설정 후 완료하면 새 디스크가 생성되어 사용 가능합니다.",
+  "cautions": [
+    "M.2 NVMe 'M' KEY SSD만 장착 가능하며, M.2 SATA 'B' KEY 및 'B+M' KEY SSD는 장착 불가",
+    "NVMe M.2 SSD의 특성상 사용 중 발열 현상이 발생할 수 있음",
+    "처음 사용하는 새 SSD는 Windows 디스크 관리에서 볼륨 설정(포맷) 후 사용 가능",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "무단 복제 및 콘텐츠 무단 이용 시 불이익이 발생할 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-NV31",
+      "품목코드": "COM-외장형503",
+      "품목명": "[LANstar] USB3.1 M.2 NVMe SSD 외장 케이스 [20181] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-C"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "어두운 회색 계열"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 Type-C 인터페이스",
+    "connectivity.output_signals": "USB 3.1 Type-C 인터페이스",
+    "connectivity.directional": "USB 3.1 Type-C 인터페이스",
+    "power.power_mode": "USB 버스 파워",
+    "power.charging_support": "별도 외부 전원 공급 불필요",
+    "form_physical.has_case": "M.2 NVMe SSD 외장 케이스",
+    "form_physical.color_options": "어두운 회색 계열",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "family.cat_category": "N/A",
+    "family.shielding": "N/A",
+    "family.conductor": "N/A",
+    "family.flame_rating": "N/A",
+    "family.poe_support": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:18",
+  "feature_schema_version": "1.0.0"
+}

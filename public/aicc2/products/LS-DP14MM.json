@@ -1,0 +1,226 @@
+{
+  "model_no": "LS-DP14MM",
+  "product_name": "LANStar DisplayPort 1.4 케이블 (LS-DP14MM-2M / LS-DP14MM-3M / LS-DP14MM-5M)",
+  "category": [
+    "DisplayPort"
+  ],
+  "key_features": [
+    "DisplayPort 1.4 규격 지원, 최대 32.4Gbps 대역폭",
+    "8K@60Hz(7680×4320), 4K@120Hz(3840×2160), FHD@60/120/144/165Hz 해상도 지원",
+    "레인당 8.1Gbps 데이터 전송률 (4레인)",
+    "HDR(High Dynamic Range) 영상 지원",
+    "Full HD 3D 입체 영상 지원",
+    "32채널 오디오 및 1536kHz 샘플링 레이트 지원 (EAT 기능)",
+    "2채널 스테레오, 5.1채널, 7.1채널 입체음향 전송 지원",
+    "멀티 스트리밍(MST) 지원: 모니터 2대에서 3840×2160(60Hz), 4대에서 2560×1440 출력 가능",
+    "금도금 커넥터로 산화 방지 및 신호 손실 최소화",
+    "별도 외부 전원 불필요",
+    "HBR3(High Bit Rate 3) 지원",
+    "DTS-HD, Dolby TrueHD Master Audio 등 주요 오디오 포맷 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 규정 준수",
+    "DisplayPort 1.4 지원, 최대 32.4Gbps 대역폭",
+    "8K UHD(7680x4320) @ 60Hz, 10-bit color, RGB 4:4:4, HDR, DSC 지원",
+    "4K UHD(3840x2160) @ 120Hz, 10-bit color, RGB 4:4:4, HDR 지원",
+    "FHD(1920x1080) @ 60Hz / 120Hz / 144Hz / 165Hz 지원",
+    "멀티 스트리밍(MST) 지원: 모니터 2대에서 3840x2160(60Hz), 4대에서 2560x1440 출력 가능",
+    "32채널 오디오 및 1536kHz 샘플링 레이트 지원 (EAT: Expanded Audio Transport)",
+    "RoHS 준수 (특정위험물질 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터": "Display Port Male to Display Port Male, 금도금 커넥터",
+    "길이": "2M / 3M / 5M",
+    "색상": "검정",
+    "선재규격": "UL20276",
+    "직경": "7mm",
+    "재질": "PVC Jacket",
+    "사용온도": "80°C",
+    "허용전압": "30V",
+    "핀 수": "표준 19핀 (20번 핀은 더미핀)",
+    "최대 대역폭": "32.4Gbps",
+    "레인당 전송률": "8.1Gbps (4레인)",
+    "지원 해상도(8K)": "7680×4320 @ 60Hz, 10-bit color, RGB 4:4:4, HDR, DSC",
+    "지원 해상도(4K)": "3840×2160 @ 120Hz, 10-bit color, RGB 4:4:4, HDR",
+    "지원 해상도(FHD)": "1920×1080 @ 60Hz / 120Hz / 144Hz / 165Hz",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "품질경영시스템": "ISO 9001:2008",
+    "최대대역폭": "32.4Gbps",
+    "핀수": "표준 19핀",
+    "모델명": "LS-DP14MM-2M, LS-DP14MM-3M, LS-DP14MM-5M"
+  },
+  "compatibility": [
+    "DisplayPort 1.4 지원 그래픽카드",
+    "DisplayPort 1.4 지원 모니터",
+    "DisplayPort 포트 장착 PC",
+    "DisplayPort 포트 장착 노트북",
+    "DisplayPort 1.4 멀티 스트리밍(MST) 지원 기기",
+    "DVI 대체 사용 가능 (대역폭 우위)",
+    "HDMI 대체 사용 가능 (대역폭 우위)",
+    "HD DVD, Blu-ray Disc 오디오 포맷 호환",
+    "DTS HD 오디오 지원 기기",
+    "Dolby TrueHD / Master Audio 지원 기기",
+    "HD DVD / Blu-ray Disc 재생 기기",
+    "멀티 스트리밍(MST) 지원 기기 (그래픽카드, 모니터, 케이블 모두 MST 지원 필요)"
+  ],
+  "package_contents": [
+    "DisplayPort 1.4 케이블 본체 (선택 길이: 2M / 3M / 5M)",
+    "커넥터 보호캡"
+  ],
+  "usage_instructions": "DisplayPort 포트가 장착된 PC 또는 노트북과 모니터를 케이블로 연결하여 사용합니다. 별도의 외부 전원은 필요하지 않습니다. 멀티 스트리밍(MST) 기능 사용 시 그래픽카드, 모니터, 케이블이 모두 DisplayPort 1.4 MST를 지원하는지 사전에 확인하세요.",
+  "cautions": [
+    "20번 핀(DP_PWR)은 더미핀으로, 표준 DP 케이블에서는 사용되지 않습니다.",
+    "20번 핀(DP_PWR)을 두 장치에 직접 연결할 경우 단락(쇼트)이 발생하여 모니터 및 그래픽카드에 손상을 줄 수 있습니다. 양 장치의 DP_PWR 전압은 ±10% 허용 오차로 인해 동일하지 않을 수 있습니다.",
+    "멀티 스트리밍(MST) 기능 사용 시 그래픽카드, 모니터, 케이블이 DisplayPort 1.4 MST를 지원하는지 반드시 확인하세요.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "RoHS 규정 준수 제품으로, 납·수은·카드뮴 등 중금속 사용이 제한된 공정에서 생산되었습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DP14MM-2M",
+      "품목코드": "CAB-젠DP169",
+      "품목명": "[LANstar] Display Port 케이블 1.4ver , 8K/60hz , 2M ◈메탈 [10520] (80개)★★할인제외★★",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP14MM-3M",
+      "품목코드": "CAB-젠DP170",
+      "품목명": "[LANstar] Display Port 케이블 1.4ver , 8K/60hz , 3M ◈메탈 [10521] (50개)★★할인제외★★",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP14MM-5M",
+      "품목코드": "CAB-젠DP171",
+      "품목명": "[LANstar] Display Port 케이블 1.4ver , 8K/60hz , 5M ◈메탈 [10522] (36개)★★할인제외★★",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DP14MM-2M",
+      "내용": "배송도 빠르고 좋아요!\n저번에 여기에서 DP케이블 샀는데 가성비가 너무 좋아서 만족했는데 마침 랜선이랑 DP케이블이 필요해서 구매했습니다.\n너무 만족합니다!"
+    },
+    {
+      "source_model": "LS-DP14MM-2M",
+      "내용": "듀얼모니터 사용하려는데 DP포트가 남아있어서 케이블을 구매했습니다. 케이블 마감도 좋고 성능도 너무 좋아요! 최고입니다!"
+    },
+    {
+      "source_model": "LS-DP14MM-2M",
+      "내용": "4k 120hz 잘돌아가고 불량 없고 가격 품질 모두 만족합니다.",
+      "관련내용": "잘 받았습니다. 급하게 써야 하는데 제때 잘 왔습니다. 더미 핀이 포함해서 안전하고 안심이 됩니다."
+    },
+    {
+      "source_model": "LS-DP14MM-2M",
+      "내용": "견고한 피복처리 좋아요"
+    },
+    {
+      "source_model": "LS-DP14MM-2M",
+      "내용": "잘 받았습니다. 급하게 써야 하는데 제때 잘 왔습니다. 더미 핀이 포함해서 안전하고 안심이 됩니다."
+    },
+    {
+      "source_model": "LS-DP14MM-2M",
+      "내용": "흐드미쓰다가 이거로 바꿔요"
+    },
+    {
+      "source_model": "LS-DP14MM-2M",
+      "내용": "더미핀이라 안심하고 사용가능합니다."
+    },
+    {
+      "source_model": "LS-DP14MM-2M",
+      "내용": "잘 됩니다 좋네요 잘쓸게요"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-DP14MM-XXM": "20번 핀은 더미핀입니다.\nCONTINUITY\nOFF\nRemote\nNF-633\nStandard DisplayPort cable connections do not\nuse the DP_PWR pin. Connecting the\nDP_PWR pins of two devices directly together\nthrough a cable can create a short circuit\nwhich can potentially damage devices,\nsince the DP_PWR pins on two devices are\nunlikely to have exactly the same voltage\n(especially with a ±10% tolerance).\nPOWER\nBY\n20 20\nDP Cable Tester\nMaster\nNF-633\n표준 DP 케이블에서는 20핀이 사용되지않습니다.\n만약 다이렉트로 연결하게된다면 케이블의 20핀이\n모니터 - 그래픽카드 양 장치에 잠재적으로 데미지를\n줍니다. 이는 양 장치가 도저히 될수없는\n같은 전압(오차 10%)이 될때까지 입니다.\n<자체 테스트 완료>\nLANG\nStar\nD DisplayPort\n#전원, 영상과 음성지원\nDisplayPort\n- 1.4 케이블\nINST\n3D\n8K\n60Hz\nHDR\nHBR 3\nSTANDARD\n=\nSupports\nSupports\n표준 19핀\n2M LS-DP14MM-2M\n3M LS-DP14MM-3M\n5M LS-DP14MM-5M\nDisplayPort 컨버터 케이블은?\n디스플레이 포트가 장착된 PC나 노트북 같은 작은 화면의 영상\n이나 음성을 대형화면에서 볼 수 있도록 지원하는 케이블입니다\nD DisplayPort 1.4\n8K@60Hz\n35-\n288 Gbps\n30\n32.4 Gbps\n25-\nDP 1.4 버전은 최대 32.4Gbps의 대역폭을\n보유하고 있어 DVI나 HDMI보다 높은\n전송률을 보이므로 1920x1080의 풀HD급,\n3840x2160(4K)이나 7680x4320(8K)과\n같은 초고해상도의 화면, 그리고 3D 입체영상\n의 구현도 가능합니다.\n또한 디지털 음성도 하나의 케이블로 전달해\n2채널 스테레오 음성은 기본으로 5.1채널이나\n7.1채널의 입체음향의 전송도 가능합니다.\n20-\n21.6 Gbps\n15-\nDP 1.2\nDP 1.4\nVersion\n8K@60Hz\nIII TD AUD\n\n\n8K@60Hz\nULTRA HD\n8K UHD(Ultra High Definition) 해상도는 기존의\nFull HD 1080p보다 4배 높은 고해상도 화질을 표현하여\n얼굴의 솜털까지 볼 수 있는 실물에 가까운\n생생한 화질을 제공하는게 특징입니다\nFull HD\n4K\n8K\n1920 x 1080\n3840 x 2160\n7680x4320\nFull HD\n4K\n8K\n1920 x 1080\n3840 x 2160\n7680x4320\n※ 8K UHD-7680 x 4320 @ 60Hz, 10-bit color, RGB 4:4:4, HDR, DSC\n※ 4K UHD-3840x2160 @ 120Hz, 10-bit color, RGB 4:4:4, HDR\n※ FHD-1920 x 1080 @ 60Hz, 120Hz, 144Hz, 165Hz\ndts HD\nDO DOLBY®\n6\nHD DVD\nBlu-rayDisc\nTRUEHD\nMaster Audio\n#전원\n별도의 외부전원 없이\n동작됩니다\n8.1Gbps\n레인당 8.1Gbps의 데이터\n전송률을 지원합니다\n(4레인)\n금도금\n콘넥터\n금도금 콘넥터라 산화가\n일어나지 않아 신호손실이\n적습니다\n멀티 스트리밍(MST) 기능\nmulti streaming\nDisplayPort 1.4에서는 2대의 모니터에서 3840x2160(60Hz) 해상도를,\n4대의 모니터에서는 2560x1440 해상도의 영상을 출력할 수 있습니다\nID DisplayPort 7.4\n모니터 2대 3840 x 2160 해상도\n\n\nID DisplayPort 1.4\n모니터 2대 3840 x 2160 해상도\nDisplayPort 7.4\n모니터 4대 2560 x 1440 해상도\n⑧ 그래픽카드, 모니터, 케이블이 디스플레이포트 1.4\n멀티 스트리밍 기능을 지원하는지 확인하세요.\nHigh Dynamic Range\nHDR Video\n완벽한 색상구현\n8K UHD\nTUUDIDA\nHDR SUPPORT\n명암을 세밀하게 분석해 사람의 눈과 유사하게\n자연스러운 영상을 보여주는 기술입니다.\n3D UHD\nFull HD 3D 지원\nFull HD 3D 입체 영상을 지원하고 주요 DisplayPort 기기들의\n고화질 3D 비디오 영상을 더욱 선명하고 역동적으로 전달 가능합니다.\n3D\nFULL HD\n32Ch 오디오\nEAT(Expanded Audio Transport)\n확장 오디오 전송 EAT(Expanded Audio Transport) 기능으로\n32채널 오디오 및 1536Khz(=1.5Mhz) 샘플링 레이트,\n그리고 현재까지 알려진 모든 오디오 포맷을 지원합니다.\n\n\nEAT(Expanded Audio Transport)\n확장 오디오 전송 EAT(Expanded Audio Transport) 기능으로\n32채널 오디오 및 1536khz(=1.5Mhz) 샘플링 레이트,\n그리고 현재까지 알려진 모든 오디오 포맷을 지원합니다.\nPRODUCT SIZE\n2-5M\n19.6mm\nHH\n19.6mm\n7mm\nPIN OUT\nP1\nP2\n1\n12\n3\n10\n2\n11\n6\n7\n5\n8\n8008\n7\n6\n4.7mm\n8\n5\n10\n3\n12\n1\n16mm\n2\n<DisplayPort Male>\n13\n13\n14\n14\n15\n15\n17\n17\n16\n16\n18\n18\n19\n19\nSHELL\nBRAID\nSHELL\nPRODUCT\nO\nO\nLS-DP14MM-2M 2M\nLS-DP14MM-3M 3M\no\nLS-DP14MM-5M 5M\n콘넥터 보호캡\nSPECIFICATION\n커넥터\nDisplay Port Male to Display Port Male,\n길이\n2M/3M/5M\n색상\n검정\n선재규격\nUL20276\n직경\n7mm\n\n\nSPECIFICATION\n커넥터\nDisplay Port Male to Display Port Male, 금도금 커넥터\n길이\n2M/3M/5M\n색상\n검정\n선재 규격\nUL20276\n직경\n7mm\n재질\nPVC Jacket\n사용온도\n80°C\n허용전압\n30V\nH M 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nROHS\nCOMPLIANT\nCENTRAT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\nLANstar 라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nDisplay Port 1.4 케이블\nLANStar\nLS-DP14MM-2M/LS-DP14MM-3M\n모델명\nLS-DP14MM-5M\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DisplayPort"
+      ],
+      "output_signals": [
+        "DisplayPort"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "PVC",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        2,
+        3,
+        5
+      ],
+      "color_options": [
+        "검정"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "8K@60",
+      "hdr_support": true,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "DP1.4",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DisplayPort Male to DisplayPort Male",
+    "connectivity.output_signals": "DisplayPort Male to DisplayPort Male",
+    "connectivity.directional": "DisplayPort 포트가 장착된 PC 또는 노트북과 모니터를 케이블로 연결",
+    "power.power_mode": "별도 외부 전원 불필요",
+    "power.charging_support": "별도 외부 전원 불필요",
+    "form_physical.material": "PVC Jacket",
+    "form_physical.material.1": "금도금 커넥터",
+    "form_physical.length_options_meters": "2M / 3M / 5M",
+    "form_physical.color_options": "검정",
+    "certification.kc": "인증번호: 해당없음",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "audio_video.max_resolution": "8K@60Hz(7680×4320)",
+    "audio_video.hdr_support": "HDR(High Dynamic Range) 영상 지원",
+    "audio_video.audio_pass": "32채널 오디오 및 1536kHz 샘플링 레이트 지원",
+    "family.dp_version": "DisplayPort 1.4 규격 지원",
+    "family.optical_core": "DisplayPort 1.4 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:38",
+  "feature_schema_version": "1.0.0"
+}

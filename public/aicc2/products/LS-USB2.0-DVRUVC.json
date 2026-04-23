@@ -1,0 +1,147 @@
+{
+  "model_no": "LS-USB2.0-DVRUVC",
+  "product_name": "LAN Star VHS 영상 변환 컨버터 3RCA, S-Video to USB2.0",
+  "category": [
+    "USB2.0",
+    "컨버터",
+    "젠더",
+    "RCA케이블"
+  ],
+  "key_features": [
+    "UVC 표준 지원으로 드라이버 설치 없이 바로 사용 가능",
+    "Windows 10/11, Mac OS, Linux 다양한 OS 호환",
+    "3RCA(컴포지트) 및 S-Video 입력 지원 (동시 사용 불가)",
+    "SCART 변환 젠더 사용 시에도 영상 변환 가능",
+    "OBS 프로그램 완벽 지원 (녹화 및 편집)",
+    "DVD 화질 캡처 지원: NTSC 720x480, PAL 720x576",
+    "최대 60fps 녹화 지원 (720x480 기준)",
+    "USB Bus Power 방식으로 별도 전원 불필요",
+    "소형 경량 디자인 (72x31mm, 34g)",
+    "국립전파연구원 KC 인증 획득 (인증번호: KCC-REI-LUS-LS-USB20-DVR)"
+  ],
+  "specifications": {
+    "모델명": "LS-USB2.0-DVRUVC",
+    "인터페이스": "USB2.0 (UVC 표준)",
+    "입력 단자": "컴포지트(RCA), S-Video, Audio L/R",
+    "출력 형식": "USB 영상 스트림 (AV to USB2.0)",
+    "지원 OS": "Windows 10/11, Mac OS, Linux",
+    "지원 비디오 포맷": "NTSC / PAL",
+    "NTSC 해상도": "720x480",
+    "PAL 해상도": "720x576",
+    "최대 프레임레이트": "60fps 이하 권장",
+    "저장 형식": "MP4, AVI 등 (사용 소프트웨어 설정에 따라 다름)",
+    "전원": "USB Bus Power",
+    "크기": "72x31mm",
+    "케이블 길이": "약 70cm",
+    "무게": "34g",
+    "KC 인증번호": "KCC-REI-LUS-LS-USB20-DVR"
+  },
+  "compatibility": [
+    "VHS 플레이어",
+    "캠코더 (컴포지트/S-Video 출력 지원 기기)",
+    "비디오 데크",
+    "SCART 변환 젠더 경유 기기",
+    "Windows 10/11",
+    "Mac OS",
+    "Linux",
+    "OBS 프로그램",
+    "USB2.0 포트 탑재 데스크탑 및 노트북"
+  ],
+  "package_contents": [
+    "VHS to USB 변환 컨버터 본체 (케이블 일체형, 약 70cm)"
+  ],
+  "usage_instructions": "1) 3RCA(컴포지트) 또는 S-Video 단자를 재생 기기에 연결한다 (두 단자 동시 연결 불가). 2) USB 단자를 PC(데스크탑은 후면 포트 권장)에 연결하면 'AV to USB2.0' 장치로 자동 인식된다 (드라이버 설치 불필요). 3) OBS 프로그램을 실행하여 비디오 장치와 오디오 장치 모두 'AV to USB2.0'으로 선택한다. 4) 해상도는 720x480, FPS는 60fps 이하로 설정하고 녹화를 시작한다. 5) 색상에 맞게 RCA 케이블 연결: 노랑(영상), 빨강(음성 R), 흰색(음성 L).",
+  "cautions": [
+    "컴포지트 영상(노랑)과 S-Video(검정) 단자는 동시에 연결하지 마세요. 두 신호가 동시에 입력되면 영상이 깨지거나 인식되지 않을 수 있습니다.",
+    "오디오 입력(RCA 빨강/흰색)은 반드시 좌우 채널을 색상에 맞게 연결하세요. 잘못 연결하면 한쪽 채널에서만 소리가 나거나 소음이 발생할 수 있습니다.",
+    "HDMI 출력 기기에는 직접 연결할 수 없습니다. 이 제품은 아날로그 영상 전용 입력 장치입니다.",
+    "데스크탑 사용 시 USB 포트는 후면 포트(메인보드 직결)에 연결하세요.",
+    "OBS 비디오·오디오 장치 설정을 모두 'AV to USB2.0'으로 통일하세요.",
+    "OBS 해상도·FPS·인코딩 설정은 최대 720x480, 60fps 이하로 설정하세요. 설정이 너무 높을 경우 영상 끊김이 발생할 수 있습니다.",
+    "녹화 도중 USB 해제 및 프로그램 강제 종료를 주의하세요. 파일이 손상될 수 있습니다.",
+    "녹화 전에 충분한 저장 공간을 확보하세요. 고화질 영상의 경우 분당 약 100~200MB의 용량이 필요합니다.",
+    "녹화 시 소리가 나지 않을 경우: L/R 케이블 연결 상태 확인, OBS 오디오 입력 장치 확인, 재생 기기 볼륨 확인.",
+    "고온 다습한 환경에서는 사용하지 마세요.",
+    "전자기가 강하게 발생하는 제품(무선 공유기, 스피커, 모터 등) 근처에서 사용 시 화면에 노이즈가 발생할 수 있습니다.",
+    "실시간 게임 플레이 목적에는 적합하지 않습니다. USB2.0 기반 특성상 지연(Latency)이 존재합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB2.0-DVRUVC",
+      "품목코드": "USB-영상0001",
+      "품목명": "[LANstar] VHS 영상 USB 변환 이지캡쳐 Easycap 카드, (캠코더 비디오 테이프 디지털 변환 캡처기) [30964]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RCA",
+        "S-Video",
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.7,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "720p",
+      "hdr_support": false,
+      "hdcp_version": "없음",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3RCA(컴포지트) 및 S-Video 입력 지원",
+    "connectivity.output_signals": "USB 단자를 PC(데스크탑은 후면 포트 권장)에 연결",
+    "connectivity.directional": "AV to USB2.0",
+    "power.power_mode": "USB Bus Power 방식으로 별도 전원 불필요",
+    "form_physical.has_case": "소형 경량 디자인 (72x31mm, 34g)",
+    "form_physical.length_meters": "케이블 길이: 약 70cm",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "audio_video.max_resolution": "NTSC 720x480, PAL 720x576",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "Audio L/R",
+    "family.usb_version": "USB2.0 (UVC 표준)"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:32",
+  "feature_schema_version": "1.0.0"
+}

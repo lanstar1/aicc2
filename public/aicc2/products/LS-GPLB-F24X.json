@@ -1,0 +1,132 @@
+{
+  "model_no": "LS-GPLB-F24X",
+  "product_name": "CAT.6A 패치판넬 10G FTP 24Port",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "랜케이블-FTP",
+    "분배판넬"
+  ],
+  "key_features": [
+    "CAT.6A 지원 (CAT.7 사용 가능)",
+    "초고속 10G 지원",
+    "24포트 구성",
+    "UL 규격 인증",
+    "Vertical Type / Slim Type 지원",
+    "FTP (Foiled Twisted Pair) 방식",
+    "Made in Taiwan"
+  ],
+  "specifications": {
+    "품명": "CAT.6A 패치판넬, 10G FTP 24Port",
+    "모델명": "LS-GPLB-F24X",
+    "포트수": "24Port",
+    "지원속도": "10G",
+    "대역폭": "500MHz (CAT.6A 기준)",
+    "인증번호": "MSIP-RTI-LUS-LS-CAT7",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "규격": "UL 규격, KC 안전인증",
+    "판넬 길이": "85mm",
+    "판넬 폭": "45mm",
+    "피복 제거 길이": "75mm (3.0\")",
+    "케이블 피복 돌출 허용치": "5mm 이하",
+    "색상배열 표준": "T568A / T568B"
+  },
+  "compatibility": [
+    "CAT.6A 케이블",
+    "CAT.7 케이블",
+    "EIA/TIA-568 규격",
+    "ISO/IEC 11801 Class 규격",
+    "19인치 랙 장착 가능",
+    "STP/FTP 케이블"
+  ],
+  "package_contents": [
+    "CAT.6A 패치판넬 본체 (24Port)",
+    "패치판넬 커버"
+  ],
+  "usage_instructions": "1) 케이블 피복을 약 75mm(3.0\") 제거한다. 2) STP 케이블을 브라켓에 맞게 안으로 넣어 구부린다 (편조 쉴드가 브라켓에 정확히 배치되도록 주의). 3) 각 위치에 맞게 통신선의 호일을 벗겨낸다. 4) 피복을 제거한 케이블을 클램프에 고정한다 (피복이 5mm 이상 돌출되지 않도록 한다). 5) T568A 또는 T568B 색상배열에 따라 통신선을 배열하고 Punch Down Tool을 이용하여 전선을 꽂는다. 6) Punch down 후 통신선이 잘 들어갔는지 확인한다. 7) 슬롯에 통신선 8개 및 접지선 1개를 고정한다. 8) 케이블 타이로 케이블과 패치판넬을 고정한다. 9) 케이블 설치 완료 후 패치판넬 커버를 전면에서 끼워 넣고 양손으로 눌러 고정한다. 10) 추가 케이블 설치 시 커버를 열고 작업한다.",
+  "cautions": [
+    "편조 쉴드가 브라켓에 맞게 정확히 배치되어야 한다.",
+    "케이블 피복이 클램프에서 5mm 이상 돌출되면 안 된다.",
+    "케이블 타이를 강제로 묶으면 케이블에 변형이 생길 수 있다.",
+    "통신선 Punch down 후 통신선이 정상적으로 삽입되었는지 반드시 확인한다.",
+    "설치할 케이블이 많을 경우 패치판넬 커버를 열고 사용한다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GPLB-F24X",
+      "품목코드": "NEO-패치판015",
+      "품목명": "[LANstar] 패치판넬, CAT.6A, 10G, FTP 24PORT, 50U, UL규격, 대만산[50033] (8개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "N/A",
+      "port_count": 24
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "FTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "24포트 구성",
+    "connectivity.output_signals": "24포트 구성",
+    "connectivity.port_count": "24포트 구성",
+    "form_physical.has_case": "패치판넬 커버를 전면에서 끼워",
+    "certification.kc": "KC 안전인증",
+    "family.cat_category": "CAT.6A 지원",
+    "family.shielding": "FTP (Foiled Twisted Pair) 방식"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:19",
+  "feature_schema_version": "1.0.0"
+}

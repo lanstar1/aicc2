@@ -1,0 +1,126 @@
+{
+  "model_no": "LS-WC",
+  "product_name": "창틀 통과형 평면 윈도우 케이블 (Flat Through Window Cable)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "벽이나 창문 샤시에 구멍을 뚫지 않고 사용 가능한 평면 케이블",
+    "두께 0.3mm의 초박형 설계로 창틀 사이를 통과 가능",
+    "90도 꺾임에도 데이터 손실 없는 Flexible 평면 케이블",
+    "인터넷선(LAN), 케이블TV(RF), CCTV(BNC) 등 다양한 용도에 사용 가능",
+    "양면테이프 또는 나사못으로 고정 가능"
+  ],
+  "specifications": {
+    "두께": "0.3mm",
+    "케이블 길이": "30cm",
+    "랜 케이블 최대 지원 속도": "10/100Mbps",
+    "랜 케이블 최대 지원 거리": "5M (5M 초과 시 정상 속도 이용 불가)",
+    "커넥터 타입 (LS-WC-RJ45)": "RJ45 8P8C F/F",
+    "커넥터 타입 (LS-WC-RF)": "RF F/F",
+    "커넥터 타입 (LS-WC-BNC)": "RG58/59/6 BNC F/F",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증": "KC, FCC, CE, RoHS COMPLIANT",
+    "품질경영시스템": "ISO 9001:2008",
+    "생산물배상책임보험": "현대해상화재보험 1억원 가입"
+  },
+  "compatibility": [
+    "RJ45 8P8C 규격 LAN 케이블 (LS-WC-RJ45)",
+    "RF 규격 안테나/케이블TV 케이블 (LS-WC-RF)",
+    "RG58/59/6 BNC 규격 CCTV 케이블 (LS-WC-BNC)"
+  ],
+  "package_contents": [
+    "창틀 통과형 평면 윈도우 케이블 본체 1개",
+    "양면테이프 2개 (전 제품 공통)",
+    "나사 4개 (LS-WC-RJ45 모델만 해당)"
+  ],
+  "usage_instructions": "1) 설치하고자 하는 곳의 오염을 제거한다. 2) 창틀에 케이블을 밀착시킨다. 3) 제품에 부착된 양면테이프 또는 나사못으로 고정시킨다. 4) 케이블 단자에 맞는 커넥터를 연결한다.",
+  "cautions": [
+    "랜 케이블(LS-WC-RJ45) 사용 시 최대 지원 거리는 5M이며, 5M 초과 시 정상적인 속도 이용 불가",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45",
+        "BNC",
+        "무관"
+      ],
+      "output_signals": [
+        "RJ45",
+        "BNC",
+        "무관"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "기타"
+      ],
+      "length_meters": 0.3,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "인터넷선(LAN), 케이블TV(RF), CCTV(BNC)",
+    "connectivity.output_signals": "인터넷선(LAN), 케이블TV(RF), CCTV(BNC)",
+    "connectivity.directional": "창틀 통과형 평면 윈도우 케이블",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "창틀 통과형 평면 윈도우 케이블",
+    "form_physical.material": "Flexible 평면 케이블",
+    "form_physical.length_meters": "케이블 길이: 30cm",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:24",
+  "feature_schema_version": "1.0.0"
+}

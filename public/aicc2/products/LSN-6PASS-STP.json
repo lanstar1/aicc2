@@ -1,0 +1,360 @@
+{
+  "model_no": "LSN-6PASS-STP",
+  "product_name": "CAT.6 STP 패스(관통형) 컨넥터 100개입",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-STP"
+  ],
+  "key_features": [
+    "관통형(패스) 일자 배열 구조로 배선 순서 직관적 확인 가능",
+    "1Gbps 최대 전송속도 지원",
+    "250MHz 대역폭 지원",
+    "15k 금도금 핀 적용",
+    "3Prongs(3발형) 핀 형태로 랜 케이블 작업 시 오류 최소화",
+    "STP 전용 컨넥터",
+    "낮은 불량률"
+  ],
+  "specifications": {
+    "규격": "CAT.6 STP",
+    "전송속도": "1Gbps",
+    "대역폭": "250MHz",
+    "호환 케이블 두께": "24AWG",
+    "핀 도금": "15k 금도금",
+    "핀 형태": "3Prongs(3발형)",
+    "제조국": "중국 (China)",
+    "KC인증번호": "해당없음"
+  },
+  "compatibility": [
+    "CAT.6 STP 케이블 (LS-6SFTP-300M, Grey, 300M 박스케이블)",
+    "부트 각부트 LSN-BOOT-OPEN- (9가지 색상)",
+    "부트 LSN-BOOT-COVER- (8가지 색상)",
+    "락부트 LSN-BOOT-LOCK- (8가지 색상)",
+    "랜툴 LS-68P",
+    "랜툴 LS-68PN",
+    "EZ 플러그 랜툴 LS-68RP-EZ",
+    "EZ 플러그 랜툴(미국산) KLEINTOOL",
+    "자동스트리퍼 LS-ASTR",
+    "케이블 탈피기/스트리퍼 LS-STR-R10"
+  ],
+  "package_contents": [
+    "CAT.6 STP 패스 컨넥터 100개"
+  ],
+  "usage_instructions": "1단계: 제작할 길이만큼 케이블을 잘라낸 뒤 스트리퍼를 이용하여 케이블 피복 탈피. 2단계: 부트를 결합. 3단계: 케이블 핀배열(Direct/Cross)에 맞게 페어를 정렬. 4단계: 배선 순서에 맞게 컨넥터를 결합. 5단계: 랜툴을 이용하여 케이블 컷팅 및 압착 진행. 6단계: 처음 결합해둔 부트를 결합하여 작업 완료.",
+  "cautions": [
+    "STP 전용 컨넥터로 STP 케이블에만 사용 가능",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니며 A/S를 받을 수 없음",
+    "당일출고는 오후 4시 이전 결제완료 건에 한하며, 토·일·공휴일 제외 평일 기준",
+    "택배사 사정에 따라 배송기간이 길어질 수 있음 (평균 1~2일 소요)",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "당사 동의 없이 상품 및 콘텐츠 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LSN-6PASS-STP",
+      "품목코드": "NNO-콘넥터108",
+      "품목명": "[LANstar] 케이블 통과형 모듈러 콘넥터 8P8C, RJ45, CAT.6 STP(100개입) [20147] (60통)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "랜툴에 오일이 묻어 나옵니다. 저만 그런 것은 아닌것 같아 닦아서 사용하려구요."
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "관통형이라 쓰기 좋아요",
+      "관련내용": "관통형이 구분하기 좋네요"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "관통형이 구분하기 좋네요"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "Cat6a작업에 아주적합합니다"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "잘 받았습ㅁ니다!!!!!!"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "사용하기에 편리합니다",
+      "관련내용": "사용하기에 편리합니다"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "사장님 친절하시고 배송 빠릅니다^^"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "저렴히 잘 샀어요~좋아요~"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "사용하기에 편리합니다"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "좋은 마감인 상품 잘 쓸게요 많이 파세요!",
+      "관련내용": "관통이라 선가닥이 잘 배치 되어 있는지 구분 잘 되요 기존 랜툴도 잘 조립하는데 전용 랜툴 사용이 더 좋을 듯 합니다"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "조립성이 용이합니다. LS 랜툴로 작업했는데 수십개 찍는 동안 불량이 하나도 없네요. 좋은 제품입니다."
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "제품의 품질이 정말로 좋습니다 가성비 좋습니다",
+      "관련내용": "제품 품질이 마음에 듭니다\n배송도 빠르고 도움이 됩니다"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "업무용으로 잘 쓰고 있습니다.",
+      "관련내용": "잘 쓰고있습니다~^^"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "관통이라 선가닥이 잘 배치 되어 있는지 구분 잘 되요 기존 랜툴도 잘 조립하는데 전용 랜툴 사용이 더 좋을 듯 합니다"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "제품 품질이 마음에 듭니다\n배송도 빠르고 도움이 됩니다"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "배송 빠르고 좋아요."
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "사용하기 편리합니다!"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "아직사용은 안해봤지만 가성비로 잘 구매한거같습니다."
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "잘 쓰고있습니다~^^"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "잘쓰고 있습니다 ㅎ",
+      "관련내용": "빠른배송 좋았어요 ㅎㅎ  깔끔하네여 포장"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "안전하고 빠른 배송 감사합니다.  \n여기서 CAT6용 케이블을 사고 이것도 필요해서 구매했습니다 \n커넥터가 관통형이라 랜 케이블 만들 때 케이블 선색을 구별할 수 있어서 실수 없이 만들 수 있으니 너무 좋았습니다."
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "빠른배송 좋았어요 ㅎㅎ  깔끔하네여 포장"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "잘 쓰고 있습니다!",
+      "관련내용": "잘 써보겠습니다~~"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "많은 회사에서 통과형 또는 관통형을 판매하고 있지만 \n\n품질자체는 크게 차이가 안나더군요\n\n그래서 저렴하고 고객 지원도 잘되는 랜스타로\n\n선택 되었습니다"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "잘 써보겠습니다~~"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "잘 사용중에 있습니다.",
+      "관련내용": "마침 가지고 있던 재고들을 다 사용해서 구매하였는데 배송이 빨라서 좋아요~"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "간편한 사용 좋아요"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "아주아주 잘 사용하고 있습니다"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "마침 가지고 있던 재고들을 다 사용해서 구매하였는데 배송이 빨라서 좋아요~"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "배송이 빨라서 좋습니다"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "선을 직접 보고작업을 할수있어서 좋아요"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "작업이 편해서 다시 구입합니다.",
+      "관련내용": "관통형이라 눈으로 배선을 확인할수 있어서 좋네요"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "급하게 필요했던건데 배송도 빠르고 만족합니다."
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "좋아좋아좋아좋아좋아좋아"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "관통형이라 눈으로 배선을 확인할수 있어서 좋네요"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "상품 잘 받았습니다"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "좋은제품 싼가격에 잘샀어요"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "잘샀습니다. 아주 좋아요"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "사용해보니 일반 랜선보다 확실히 퀄리티가 높습니다 굵기부터 차이가 나네요 너무 좋고 만족합니다"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "잘 작동합니다. 가격도 적당하고 잘 산것 같아요.만족합니다"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "단자 아껴서 너무 좋아요",
+      "관련내용": "인식 잘되용!! 잘구입했어요"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "인식 잘되용!! 잘구입했어요"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "크롬 커버? 있어서 뽀대가 좋아보여요...ㅎㅎ"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "배송빠르고 만족합니다."
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "배송도빠르고 좋아요"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "배송도 빠르고 좋습니다"
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "내용": "튼튼하고 좋습니다!"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LSN-6PASS-STP",
+      "id": 527073157,
+      "date": "2023-04-27 23:58",
+      "answerDate": "2023-04-28 09:44",
+      "user": "dodo****",
+      "productName": "케이블 통과형 모듈러 콘넥터 8P8C RJ45 CAT.6 STP LSN-6PASS-STP",
+      "question": "관통형 utp 콘넥터가 품절이라 그러는데 이걸로 써도 되나요? 통부트 조합해서요",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n플라스틱 소재 (접지 불가능), 실드 소재 (접지 가능)  단순 재질 차이이며, 같은 RJ45 규격이기 때문에 사용 가능함을 안내 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "id": 535813982,
+      "date": "2023-06-29 08:34",
+      "answerDate": "2023-06-29 10:58",
+      "user": "gsnu***",
+      "productName": "케이블 통과형 모듈러 콘넥터 8P8C RJ45 CAT.6 STP LSN-6PASS-STP",
+      "question": "락부트는 어떤걸 써야하나요????",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n락부트의 경우 현재 랜스타 스마트스토어에서 판매하고 있는 모든 제품과 호환하여 사용 가능하십니다. 따라서 원하는 색상을 선택하신 뒤 같이 구매해주시면 발송 도와드리겠습니다. 추가로 말씀 드리자면, CAT5E부터 CAT8까지 규격은 같기 때문에 원활하게 사용하실 수 있는 점 안내 드립니다.\n\n만약 콘넥터와 락부트를 세트로 구매 원하실 경우 [LS-6UTPL-EZ]이 있으니 구매에 참고 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LSN-6PASS-STP",
+      "id": 598558951,
+      "date": "2024-09-29 12:13",
+      "answerDate": "2024-09-30 09:33",
+      "user": "bm****",
+      "productName": "케이블 통과형 모듈러 콘넥터 8P8C RJ45 CAT.6 STP LSN-6PASS-STP",
+      "question": "랜스타 cat6 sftp 케이블과 해당 커넥터 구매 예정인데요\n접지하려면 납땜해야 하는 구조 인가요???",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n납땜이 완벽하겠지만, 번거로워 케이블과 커넥터 사이에 넣고 툴로 집어주는 방법을 가장 많이 사용하십니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "STP",
+      "conductor": null,
+      "awg": 24,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "15k 금도금 핀 적용",
+    "certification.kc": "KC인증번호: 해당없음",
+    "family.cat_category": "CAT.6 STP",
+    "family.shielding": "STP 전용 컨넥터",
+    "family.awg": "24AWG"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:46",
+  "feature_schema_version": "1.0.0"
+}

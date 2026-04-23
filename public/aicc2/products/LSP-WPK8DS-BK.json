@@ -1,0 +1,137 @@
+{
+  "model_no": "LSP-WPK8DS-BK",
+  "product_name": "키스톤 방수 커플러 (IP68 등급)",
+  "category": [
+    "커넥터",
+    "키스톤잭",
+    "커플러",
+    "UTP포트",
+    "RCA케이블",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "IP68 등급 완전 방수·완전 방진 하우징",
+    "정교한 실리콘 실링 구조와 이중 방수 가스켓 설계로 내부 키스톤 커넥터 완벽 보호",
+    "표준 Keystone 규격(16.0×14.5mm) 지원으로 RJ45, HDMI, RCA, COAXIAL, 3.5mm 오디오 등 다양한 모듈 호환",
+    "공구 없이 손으로 조립·분해 가능",
+    "PA66(Nylon66) 소재 사용으로 충격·자외선·고온·저온 등 극한 환경에서도 형태 변형 없이 내구성 유지",
+    "CE, RoHS 인증 취득",
+    "케이블 직경 4~8mm 대응",
+    "라인업시스템(주) / 랜스타 정품, 현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "방수·방진 등급": "IP68",
+    "본체 소재": "PA66 (Nylon66)",
+    "지원 케이블 직경": "4~8mm (최적 범위 4~7mm)",
+    "지원 Keystone 규격": "16.0×14.5mm (표준 Keystone 규격)",
+    "인증": "CE, RoHS",
+    "전체 길이": "140mm",
+    "본체 외경": "36mm",
+    "너트 외경": "19mm",
+    "케이블 삽입구 내경": "19mm",
+    "너트 돌출 길이": "64.5mm / 65.5mm (양측)",
+    "제조국": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)",
+    "브랜드": "LANStar"
+  },
+  "compatibility": [
+    "RJ45 키스톤잭 (STP/FTP, CAT.6 등 표준 Keystone 규격)",
+    "RJ45 커플러",
+    "HDMI 키스톤 모듈",
+    "동축(COAXIAL) 키스톤 모듈",
+    "RCA 키스톤 모듈",
+    "바인딩(바나나잭) 키스톤 모듈",
+    "3.5mm 오디오 키스톤 모듈",
+    "표준 Keystone 규격(16.0×14.5mm)에 맞는 모든 키스톤 모듈 및 커플러"
+  ],
+  "package_contents": [
+    "키스톤 모듈 브라켓 (Keystone Module Bracket) 1ea",
+    "케이블 실링 고무링 (Sealing Rubber Ring) 2ea",
+    "방수 너트 (Waterproof Nut) 2ea",
+    "방수 커플러 본체 (Waterproof Shell) 2ea"
+  ],
+  "usage_instructions": "1. 케이블에 방수 너트, 케이블 실링 고무링, 방수 커플러 본체 순으로 결합한다. 2. 키스톤잭(커플러)을 키스톤 모듈 브라켓에 결합한다. 3. 케이블 실링 고무링을 방수 커플러 본체에 단단히 고정한다. 4. 방수 너트를 조여 단단하게 고정한다. 5. 반대편도 동일하게 방수 너트, 고무링, 본체를 결합한다. 6. 케이블을 연결한다. 7. 본체와 키스톤 모듈 브라켓을 단단하게 고정하여 방수 커플러 결합을 완료한다. (별도 공구 불필요, 손으로 조립 가능)",
+  "cautions": [
+    "방수 성능 유지를 위해 케이블 실링 고무링(Sealing Rubber Ring)을 케이블 지름에 맞게 충분히 조여야 하며, 하우징 결합 시 완전히 밀착되도록 체결해야 한다.",
+    "적합 케이블 직경은 4~7mm이며, 너무 굵은 케이블은 실링이 완벽히 되지 않을 가능성이 높아 사용을 권장하지 않는다.",
+    "내부 키스톤잭 및 커플러 품질에 따라 데이터 전송 품질이 달라질 수 있으며, 하우징 자체는 신호에 영향을 주지 않는다.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없다.",
+    "당일 출고는 평일 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일은 제외된다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있다."
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-WPK8DS-BK",
+      "품목코드": "NEO-자재용028",
+      "품목명": "[LANstar] 키스톤 방수 커플러 [30959]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": 0.14,
+      "length_options_meters": null,
+      "color_options": [
+        "BK"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": null,
+      "connector_type_b": null,
+      "gender": "F-F",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.directional": "키스톤 방수 커플러",
+    "form_physical.has_case": "IP68 등급 완전 방수·완전 방진 하우징",
+    "form_physical.material": "PA66(Nylon66) 소재 사용",
+    "form_physical.length_meters": "전체 길이: 140mm",
+    "form_physical.color_options": "LSP-WPK8DS-BK",
+    "certification.rohs": "RoHS 인증 취득",
+    "certification.ce": "CE, RoHS 인증 취득",
+    "audio_video.max_resolution": "키스톤 방수 커플러",
+    "audio_video.hdcp_version": "키스톤 방수 커플러",
+    "family.gender": "키스톤 방수 커플러"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:55",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,114 @@
+{
+  "model_no": "LS-FC2000G-SCS-A",
+  "product_name": "[LANstar] 광 미디어 컨버터/광 컨버터, 10/100/1000Mbps 싱글 SC타입, A타입 TX 1310nm/RX 1550nm, 최대 25km [20184] (50개)",
+  "category": [
+    "컨버터",
+    "미디어컨버터"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-FC2000G-SCS-A",
+      "품목코드": "NET-광컨버099",
+      "품목명": "[LANstar] 광 미디어 컨버터/광 컨버터, 10/100/1000Mbps 싱글 SC타입, A타입 TX 1310nm/RX 1550nm, 최대 25km [20184] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-FC2000G-SCS-A",
+      "내용": "잘쓰고있어요 사무실간 연결했어요",
+      "관련내용": "기가인터넷 사용할려고 샀어요"
+    },
+    {
+      "source_model": "LS-FC2000G-SCS-A",
+      "내용": "기가인터넷 사용할려고 샀어요"
+    },
+    {
+      "source_model": "LS-FC2000G-SCS-A",
+      "내용": "공장에 인터넷이 필요한데 거리가 멀어서 광케블로 작업하고, 설치했는데 아주 잘됩니다.\n두번째 구매인데 가격도 저럼하고 만족스럽습니다.",
+      "관련내용": "두번째 구입입니다.\n오늘이 임시공휴일이라 내일 올거라 예상했는데, 빨리왔네요\n덕분에 내일 작업할때 바로 사용할수 있겠네요"
+    },
+    {
+      "source_model": "LS-FC2000G-SCS-A",
+      "내용": "두번째 구입입니다.\n오늘이 임시공휴일이라 내일 올거라 예상했는데, 빨리왔네요\n덕분에 내일 작업할때 바로 사용할수 있겠네요"
+    },
+    {
+      "source_model": "LS-FC2000G-SCS-A",
+      "내용": "이상없이 잘 설치했습니다.\n인터넷 속도도 잘 나오고, 아주 만족스럽습니다.",
+      "관련내용": "결재하고 중간에 배송지 변경 요청했었는데, 하루만에 잘 도착했네요\n가격도 저렴하고 잘 사용했습니다"
+    },
+    {
+      "source_model": "LS-FC2000G-SCS-A",
+      "내용": "결재하고 중간에 배송지 변경 요청했었는데, 하루만에 잘 도착했네요\n가격도 저렴하고 잘 사용했습니다"
+    },
+    {
+      "source_model": "LS-FC2000G-SCS-A",
+      "내용": "빠른배송 좋아요 굿"
+    },
+    {
+      "source_model": "LS-FC2000G-SCS-A",
+      "내용": "빠른배송 좋아요 굿"
+    },
+    {
+      "source_model": "LS-FC2000G-SCS-A",
+      "내용": "친절한 상담과 알맞는 제품을 잘 추천해주셨습니다 제품이 잘 작동되네요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-FC2000G-SCS-A",
+      "id": 620903640,
+      "date": "2025-03-12 18:07",
+      "answerDate": "2025-03-13 09:55",
+      "user": "yell********",
+      "productName": "랜스타 LS-FC2000G-SCS-A 광 이더넷 컨버터 싱글모드 SC타입 1000Mbps",
+      "question": "안녕하세요 광컨버터를 이용해서 200M 거리 광케이블 1c으로 작업을 할려고 하는데요 제품을 보니 LS-FC2000G-SCS-A 와 LS-FC2000G-SCS-B 두 제품으로 쌍으로 구입을 해서 각각 제품에 랜선 RJ-45를 연결하면 되는 방식일까요? 의견 주시면 고맙겠씁니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n공유기에 있는 신호를 전달하기 위해 공유기와 SCS-A를 랜선(RJ45)으로 연결해야 합니다.\n그SCS-A에서 받은 신호를 길고 멀리 보내줄수 있는 광케이블을 사용해서 SCS-B 로 보내주는 방식입니다.\n그리고 SCS-B와 공유기 사이에RJ45를 연결하면 완성입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "Optical"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "어댑터"
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "양방향"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "10/100/1000Mbps",
+    "connectivity.output_signals": "싱글 SC타입",
+    "connectivity.directional": "광 미디어 컨버터/광 컨버터",
+    "power.power_mode": "어댑터",
+    "family.conversion_direction": "광 미디어 컨버터/광 컨버터"
+  },
+  "feature_extracted_at": "2026-04-23T03:12:56",
+  "feature_schema_version": "1.0.0"
+}

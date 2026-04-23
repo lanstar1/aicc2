@@ -1,0 +1,307 @@
+{
+  "model_no": "LS-MDP29",
+  "product_name": "LANStar 미니 디스플레이포트 to DVI 컨버터 (Mini DisplayPort to DVI)",
+  "category": [
+    "DVI",
+    "DisplayPort",
+    "컨버터"
+  ],
+  "key_features": [
+    "Mini DisplayPort 신호를 DVI 단자로 변환하는 컨버터",
+    "DisplayPort 1.1a 버전 지원, 최대 10.8Gbps 대역폭",
+    "최대 해상도 1920x1200@60Hz 지원 (Full HD)",
+    "3D 입체영상 구현 가능",
+    "HDCP(High-bandwidth Digital Content Protection) 지원",
+    "DPCP(디스플레이포트 콘텐츠 보호) 지원",
+    "Sleep mode(suspend mode) 지원",
+    "RoHS 규격 준수",
+    "KC 안전규격 인증 획득 (인증번호: KCC-REI-LUS-LS-MDP29)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "Mini DisplayPort(Male)에서 DVI 24+1pin(Male)으로 변환 지원",
+    "DisplayPort 1.1 버전 지원, 최대 10.8Gbps 대역폭",
+    "채널당 3Gbps 데이터 전송률 지원",
+    "최대 해상도 1920×1200 @60Hz (Full HD급) 지원",
+    "DPCP(디스플레이포트 콘텐츠 보호) 및 HDCP(고대역 디지털 콘텐츠 보호) 지원",
+    "별도 외부 전원 불필요 (버스 파워)",
+    "금도금 커넥터 적용으로 산화 방지 및 신호 손실 최소화",
+    "복제(Mirror) 모드 및 확장(Extender) 모드 지원, 화면 회전 가능",
+    "커넥터 보호캡 제공",
+    "현대해상화재 생산물배상책임보험 1억 원 가입 제품"
+  ],
+  "specifications": {
+    "DisplayPort 버전": "DP 1.1a",
+    "최대 대역폭": "10.8Gbps",
+    "최대 해상도": "1920x1200@60Hz / 1920×1200 @60Hz",
+    "입력 단자": "Mini DisplayPort (Male)",
+    "출력 단자": "DVI-I 24+5P (Female)",
+    "케이블 길이": "0.2M / 2M / 3M / 5M",
+    "색상": "White",
+    "본체 길이": "228mm",
+    "커넥터 폭(Mini DP측)": "45mm",
+    "커넥터 폭(DVI측)": "45mm",
+    "커넥터 높이(Mini DP측)": "11mm",
+    "커넥터 높이(DVI측)": "15mm",
+    "커넥터 두께(DVI측)": "9mm",
+    "인증번호": "KCC-REI-LUS-LS-MDP29 / 해당없음",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "품질 인증": "ISO 9001:2008",
+    "커넥터 타입": "Mini DisplayPort Male / DVI 24+1pin Male",
+    "채널당 전송률": "3Gbps",
+    "전압": "30V",
+    "작동 온도": "0 ~ 80℃",
+    "UL 규격": "AWM STYLE 20276, 30V, VW-1",
+    "UL 번호": "E324703"
+  },
+  "compatibility": [
+    "MacBook",
+    "MacBook Pro",
+    "MacBook Air",
+    "Mac Mini",
+    "iMac",
+    "Mini DisplayPort를 지원하는 그래픽카드 탑재 노트북",
+    "DVI 단자를 갖춘 모니터",
+    "DVI 단자를 갖춘 TV",
+    "DVI 단자를 갖춘 프로젝터",
+    "DVI 케이블 (별도 구매 필요)",
+    "Mini DisplayPort 포트 탑재 데스크탑 PC",
+    "Mini DisplayPort 포트 탑재 노트북",
+    "DVI 24+1pin 입력 지원 모니터 및 디스플레이 장치",
+    "DisplayPort 1.1 규격 호환 기기"
+  ],
+  "package_contents": [
+    "Mini DisplayPort to DVI 컨버터 본체 (LS-MDP29) 1개",
+    "Mini DisplayPort to DVI 컨버터 케이블 본체 (2M 또는 3M 또는 5M)",
+    "커넥터 보호캡 (Mini DisplayPort 측)",
+    "커넥터 보호캡 (DVI 측)"
+  ],
+  "usage_instructions": "노트북 등의 Mini DisplayPort(Male) 단자에 컨버터를 연결하고, 별도 구매한 DVI 케이블을 컨버터의 DVI(Female) 단자에 연결한 뒤 모니터·TV·프로젝터의 DVI 입력 단자에 꽂아 사용합니다.",
+  "cautions": [
+    "DVI 케이블은 별도 구매가 필요합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MDP29",
+      "품목코드": "CAB-젠DP002",
+      "품목명": "[LANstar] 신호변환기, Mini 디스플레이 to DVI, 0.2M[30042] (120개)",
+      "variant_suffix": "",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-MDP29-2M",
+      "품목코드": "CAB-젠DP043",
+      "품목명": "[LANstar] 신호변환기, Mini 디스플레이 to DVI, 2M[10782] (100개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-MDP29-3M",
+      "품목코드": "CAB-젠DP044",
+      "품목명": "[LANstar] 신호변환기, Mini 디스플레이 to DVI, 3M[10783] (70개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-MDP29-5M",
+      "품목코드": "CAB-젠DP045",
+      "품목명": "[LANstar] 신호변환기, Mini 디스플레이 to DVI, 5M[10784] (36개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-MDP29",
+      "내용": "잘 사용하고 있습니다.",
+      "관련내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "빠른 배송 감사합니다.",
+      "관련내용": "빠른 배송 감사합니다. \n잘 받았습니다."
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "빠른 배송 감사합니다. \n잘 받았습니다."
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "비싸기만함 별로안좋아여 ㅁㄴ;ㅓㅇㄹ;ㅣ바ㅓ;ㅈㄷㄱ엄ㄴ우ㅏㅜㅁㅂㅈ[' ㅂ쟈ㅗ댈 ㅐㅁ.나ㅣ우 ㄹ'ㅂㅁ ㅑㅈ대리ㅏㅓㅁㅈ;ㅣㅏㄹ ㄱ['뱌재ㅓㄷ 뤼ㅏㅁㅈ;ㅏㅓㅗㄷㄱ레 ;ㅕㅑ 모ㅠㅜ;재더ㅏㅑㅗㄱ ['ㅈ두쥵ㅁ.ㅈㄷ거ㅜㅠㄻ듀ㅜㅏ.ㅎㄺㅇ"
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "아직 사용 못해봤지만 배송은 빨랐습니다."
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "잘쓸께요 ㅎㅎ"
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "잘쓸께요 ㅎㅎ"
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "배송 빠르네요 서피스랑 모니터 연결해서 듀얼로 쓰려고 샀는데 모니터가 이상해서 결국 쓰진 못했어요ㅠㅜㅠㅠ"
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "배송 빨라요"
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "잘 받았습니다 일단 이 제품은 1280 이상의 해상도의 모니터에서는 사용하면 안될거 같네요제가 뭐 이쪽에 너무 무지해서 그런지는 모르겠지만그 이상의 해상도에서는 화면에 노이즈가 생기네요주사율이 따라가지 못해서 그러는거 같은데상품상세 설명을 읽고 샀는데도, 제가 제대로 이해를 못했던건지암튼 1600 지원하는 모니터 1280에 맞춰놓고 쓰고 있습니다 ㅎㅎ"
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "잘 받았습니다!"
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "맥북2014 mid 버전에 설치해서 2560 해상도에 설치했는데, 인식이 안됩니다.\n거기에 설치하려고 샀는데, 안되더라구요~ 1920(Full HD)는 인식이 잘 되는데요~"
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "배송 빠르고 잘 작동됩니다"
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "아주잘됩니다ㅎ"
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "가격대비 만족 중국산이라 싼 가격에 유용하게 사용할 수 있는 제품이라 특별히 사용하는데 어려움이 없고 그런대로 쓸만한 제품이라 생각 됩니다"
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "잘 받았습니다 물건 좋습니다."
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "좋아요!!! 깔끔하니 좋습니다!!!! 인식하는 속도도 빠른것같고 일단 멀티 모니터 3개 사용하는데 인식이 된다는 점에서 너무 좋아요!!!! 앞으로 사업 번창하세요~~~~"
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "맥북에어에 잘 사용중입니다"
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "만족합니다"
+    },
+    {
+      "source_model": "LS-MDP29",
+      "내용": "선도 적당히 길고 좋습니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-MDP29",
+      "id": 171247439,
+      "date": "2021-06-20 14:27",
+      "answerDate": "2021-06-21 09:46",
+      "user": "full********",
+      "productName": "랜스타 미니디스플레이 MDP to DVI 변환케이블 정품 LS-MDP29",
+      "question": "Active 기능 있는제품인가요?",
+      "answer": "안녕하세요 랜스타 입니다\n\n해당기능은 없습니다"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-MDP29-M": "LAN Star\nP DisplayPort Mini\n#전원, 영상과 음성지원\nMini DisplayPort 컨버터 케이블\nDP TO DVI\n3D\nD Display\nPort\nFULL HD\n1.1\n2M LS-MDP29-2M\n3M LS-MDP29-3M\n5M LS-MDP29-5M\nMini DisplayPort 컨버터 케이블은?\n미니 디스플레이 포트가 장착된 PC나 노트북 같은 작은 화면의 영상\n이나 음성을 대형화면에서 볼 수 있도록 지원하는 케이블입니다\nD DisplayPort Z.Z\n1920*1200 @60Hz\nDP 1.1버전은 최대 10.8Gbps의 대역폭을 보유하고 있어 DVI나 HDMI보다 높은\n전송률을 보이므로 1920x1200의 풀HD급 초고해상도의 화면, 그리고 3D 입체영상의\n구현도 가능합니다.\n디스플레이포트 콘텐츠 보호(DPCP) 뿐만 아니라 고대역 디지털 콘텐츠 보호(HDCP)도\n지원합니다.\n전원\n별도의 외부전원 없이\n동작됩니다\n3Gbps\n채널당 3Gbps의 데이터\n전송률을 지원합니다\n금도금\n自\n금도금 콘넥터라 산화가\n일어나지 않아 신호손실이\n적습니다\n콘\n복제 기능\nmirror mode\n동영상과 사진을 큰 화면에서 확대하여\n볼 수 있으며, 화면 회전도 가능합니다\n\n\n목세 기능\nmirror mode\n동영상과 사진을 큰 화면에서 확대하여\n볼 수 있으며, 화면 회전도 가능합니다\nR\n회전 미러링\n영상 확장 모드\nextender mode\n제품 연결\nsystem connection\nK\n데스크탑 PC\n노트북\n-----------\nMini DisplayPort (Male)\nDVI 24+1pin (Male)\nPRODUCT SIZE\n2000~5000mm\n42.6mm\n00000\n11.4mm\n7.1mm\n25.5mm\n8.9mm\n7.5mm\n<DVI 24+1pin Male>\n4.5mm\n<Mini DisplayPort Male>\n00\nLS-MDP29-2M 2M\nLS-MDP29-3M 3M\nLS-MDP29-5M 5M\nDisplayPort\nE324703\n刚\nAWM\nSTYLE\n20276\n000\n30V\nVW-1\n\n\nLS-MDP29-2M 2M\nLS-MDP29-3M 3M\nLS-MDP29-5M 5M\nDisplayPort\nE324703\n如\nAWM\nSTYLE\n20276\n80°C\n30V\nVW-1\nF\nACCO\n3TA4R\nMY COUNTER\n콘넥터 보호캡\n콘넥터 보호캡\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n콘넥터타입 Mini DP(Male) / DVI 24+1(Male)\n전\n압 30V\n길\n이 2M / 3M / 5M\n작동온도 0~80℃\n상품정보\n품\n명\nMini DisplayPort 컨버터 케이블\nLANStar\n®\n모델\n명\nLS-MDP29-2M/LS-MDP29-3M\nLS-MDP29-5M\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANG\nⓇ\nStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Mini DisplayPort"
+      ],
+      "output_signals": [
+        "DVI-D"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.2,
+        2.0,
+        3.0,
+        5.0
+      ],
+      "color_options": [
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": "HDCP1.4",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "DP1.2",
+      "dvi_type": "DVI-D Dual",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Mini DisplayPort(Male)",
+    "connectivity.output_signals": "DVI 24+1pin(Male)",
+    "connectivity.directional": "Mini DisplayPort 신호를 DVI 단자로 변환",
+    "power.power_mode": "별도 외부 전원 불필요 (버스 파워)",
+    "form_physical.material": "금도금 커넥터 적용",
+    "form_physical.length_options_meters": "케이블 길이: 0.2M / 2M / 3M / 5M",
+    "form_physical.color_options": "색상: White",
+    "certification.kc": "KC 안전규격 인증 획득",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "audio_video.max_resolution": "최대 해상도 1920x1200@60Hz",
+    "audio_video.hdcp_version": "HDCP(High-bandwidth Digital Content Protection) 지원",
+    "family.dp_version": "DisplayPort 1.1a 버전 지원",
+    "family.dvi_type": "DVI 24+1pin(Male)"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:32",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,104 @@
+{
+  "model_no": "LS-LKPG-WT",
+  "product_name": "[LANstar] LAN 포트 Lock-Plug, RJ45 잠금장치 플러그, WHITE,(Lock Key 1개 플러그 10개 1SET)[40612][400개]",
+  "category": [
+    "커넥터"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-LKPG-WT",
+      "품목코드": "NEO-부트류125",
+      "품목명": "[LANstar] LAN 포트 Lock-Plug, RJ45 잠금장치 플러그, WHITE,(Lock Key 1개 플러그 10개 1SET)[40612][400개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-LKPG-WT",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-LKPG-WT",
+      "내용": "빠른배송 감사합니다~"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-LKPG-WT",
+      "chatUrl": "1E4G5",
+      "dateIso": "2025-09-10T00:12:15.421Z",
+      "name": "오로로",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "A/S 문의",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 재고가 부족하여 400개 구매가 어렵습니다. 화이트는 10월 중순 입고 예정입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 ..."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [],
+      "color_options": [
+        "WHITE"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "RJ45",
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 잠금장치 플러그",
+    "power.power_mode": "무전원",
+    "form_physical.has_case": "Lock-Plug",
+    "form_physical.color_options": "WHITE",
+    "family.connector_type_a": "RJ45 잠금장치 플러그"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:21",
+  "feature_schema_version": "1.0.0"
+}

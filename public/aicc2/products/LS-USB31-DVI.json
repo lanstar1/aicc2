@@ -1,0 +1,240 @@
+{
+  "model_no": "LS-USB31-DVI",
+  "product_name": "USB 3.1 Type C to DVI 24+5P 신호변환 컨버터",
+  "category": [
+    "랜케이블-CAT6A",
+    "DVI",
+    "DisplayPort",
+    "USB-C",
+    "컨버터"
+  ],
+  "key_features": [
+    "USB 3.1 Type C 신호를 DVI 신호로 변환",
+    "Full HD(1920x1080) 해상도 출력 지원",
+    "USB 3.1 데이터 최대 10Gbps 전송 속도 지원",
+    "DisplayPort Alt Mode 지원 기기에서 사용 가능",
+    "스마트폰 미러링 기능 지원 (영화, 게임, 웹서핑 등)",
+    "1080P Full HD 3D 영상 출력 지원 (@60Hz)",
+    "DVI-I 24+5pin Female 듀얼링크 커넥터 (아날로그 및 디지털 신호 모두 전송)",
+    "HDCP(High-bandwidth Digital Content Protection) 지원",
+    "Plug and Play 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 준수 / KC, FCC, CE 인증 획득",
+    "국립전파연구원 인증 획득"
+  ],
+  "specifications": {
+    "입력 단자": "USB 3.1 Type C (Male)",
+    "출력 단자": "DVI-I 24+5pin (Female) 듀얼링크",
+    "지원 해상도": "480P / 576P / 720P / 1080P",
+    "최대 해상도": "Full HD 1920x1080",
+    "데이터 전송 속도": "최대 10Gbps (USB 3.1)",
+    "지원 운영체제": "WIN7(32/64bit) / WIN8(32/64bit) / Mac OS X 10.6",
+    "케이블 길이": "15cm (본체 제외)",
+    "작동 온도": "10~40°C",
+    "보관 온도": "-15~85°C",
+    "인증 번호": "MSIP-REI-LUS-LS-USB31-MP",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "DisplayPort Alt Mode를 지원하는 USB 3.1 Type C 단자 탑재 노트북",
+    "DisplayPort Alt Mode를 지원하는 USB 3.1 Type C 단자 탑재 스마트폰",
+    "애플 맥북 (Apple MacBook)",
+    "구글 크롬북 (Google Chromebook)",
+    "LG G5 (예시 기기)",
+    "Windows 7 (32/64bit)",
+    "Windows 8 (32/64bit)",
+    "Mac OS X 10.6 이상"
+  ],
+  "package_contents": [
+    "USB 3.1 Type C to DVI 신호변환 컨버터 본체 (LS-USB31-DVI)"
+  ],
+  "usage_instructions": "USB 3.1 Type C 단자를 가진 노트북 또는 스마트폰의 Type C 포트에 컨버터를 연결한 후, DVI 케이블(별도 구매)을 사용하여 모니터, HDTV 또는 프로젝터와 연결합니다. 연결 전 반드시 기기가 DisplayPort Alt Mode를 지원하는지 확인하세요.",
+  "cautions": [
+    "DVI 케이블은 별도 구매 필요",
+    "연결 기기가 DisplayPort Alt Mode를 지원하는지 반드시 사전 확인 필요",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB31-DVI",
+      "품목코드": "CAB-U31029",
+      "품목명": "[LANstar] 신호변환 컨버터 USB 3.1(M) TO DVI(F) 0.15M, 4K2K 30Mhz [30140]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-USB31-DVI",
+      "id": 147659472,
+      "date": "2021-01-11 19:37",
+      "answerDate": "2021-01-12 09:28",
+      "user": "dlwn********",
+      "productName": "랜스타 LS-USB31-DVI USB3.1 Type C to DVI 컨버터 1080P지원",
+      "question": "화요일 오전에 주문하면 토요일전까지는 받을 수 있겠죠??",
+      "answer": "안녕하세요 랜스타 입니다\n\n토요일 전 에는 받으실수 있을듯 합니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-USB31-DVI",
+      "chatUrl": "dtiLD",
+      "dateIso": "2024-10-16T09:04:52.078Z",
+      "name": "신은진",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하세요 어제 구매했었는데요 \n오늘 배송 완료됐다고 뜨는데\n랜스타 C to DVI 컨버터는 제대로 왔구요, \n랜스타 듀얼 C to HDMI 컨버터는 3개 주문했는데 하나밖에 안왔\n(추가 문의) LS-USB31-DVI 제품 5개 구매하였는데\n하나 사용해보니 사용하고 있는 노트북하고 호환이 안되어서 사용한 제품 제외하고 4개 반품 요청 드립니다\n(추가 문의) 법인카드 취소 완료 됐고요, 지출증빙 현금영수증 10/8 16,000원 지출증빙 사업자번호(201-81-87410) 영수증 사진 부탁드립니다!\n(추가 문의) 안녕하세요 LS-UC202 제품 2개는 배송 됐는데요\n유니콘 JV-400HD 5개 배송이 안왔습니다..",
+      "answer": "네 고객님. 반품 접수 도와드리겠습니다. 다만, 스마트스토어 정책상 부분 반품이 어려워 제품 1개 가격 10,000원 및 반품 배송비 6,000원 = 16,000원 아래 계좌로\n\n네. 고객님. 현금영수증 발급 가능합니다. 입금 후 사업자 번호 또는 핸드폰 번호 말씀 부탁드립니다.\n\n네. 고객님. 현금 영수증 발행 도와드렸습니다. 원활하게 수거될 수 있도록 준비 부탁드립니다.",
+      "turn_count": 14,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "감사합니다!"
+        },
+        {
+          "role": "agent",
+          "text": "[이미지]"
+        },
+        {
+          "role": "customer",
+          "text": "법인카드 취소 완료 됐고요, 지출증빙 현금영수증 10/8 16,000원 지출증빙 사업자번호(201-81-87410) 영수증 사진 부탁드립니다!"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n이전에 16,000원 현금영수증 010-9199-4923 번호로 요청 주셔서 해당 번호로 발행 도와드렸습니다."
+        },
+        {
+          "role": "customer",
+          "text": "입금 했습니다 핸드폰번호 010-9199-4923 입니다!"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n자사에 정상적으로 수거되어 반품 처리 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스"
+        },
+        {
+          "role": "customer",
+          "text": "지출증빙 어려우면 간이영수증도 괜찮아요!"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n현금 영수증 발행 도와드렸습니다.\n원활하게 수거될 수 있도록 준비 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "지출증빙 현금영수증(201-81-87410) 발급 가능한가요?"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n현금영수증 발급 가능합니다.\n입금 후 사업자 번호 또는 핸드폰 번호 말씀 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "LS-USB31-DVI 제품 5개 구매하였는데\n하나 사용해보니 사용하고 있는 노트북하고 호환이 안되어서 사용한 제품 제외하고 4개 반품 요청 드립니다"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        },
+        {
+          "role": "customer",
+          "text": "구매확정이 되어서 반품 접수가 안되는데 직접 접수하면 될까요??"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님.\n\n반품 접수 도와드리겠습니다.\n다만, 스마트스토어 정책상 부분 반품이 어려워 제품 1개 가격 10,000원 및 반품 배송비 6,000원 = 16,000원\n아래 계좌로"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요 LS-UC202 제품 2개는 배송 됐는데요\n유니콘 JV-400HD 5개 배송이 안왔습니다.."
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "DVI-I"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 Type C (Male)",
+    "connectivity.output_signals": "DVI-I 24+5pin (Female)",
+    "connectivity.directional": "신호를 DVI 신호로 변환",
+    "power.power_mode": "USB 3.1 Type C 단자를 가진 노트북 또는 스마트폰의 Type C 포트에 컨버터를 연결",
+    "form_physical.has_case": "컨버터",
+    "form_physical.length_meters": "15cm (본체 제외)",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS 준수",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE 인증",
+    "audio_video.max_resolution": "Full HD 1920x1080",
+    "audio_video.hdcp_version": "HDCP(High-bandwidth Digital Content Protection) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:45",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

@@ -1,0 +1,1500 @@
+{
+  "model_no": "LS-7SSTPD",
+  "product_name": "LANStar CAT.6A/CAT.7 SSTP 다이렉트 랜케이블",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "랜케이블-FTP",
+    "랜케이블-SFTP",
+    "랜케이블"
+  ],
+  "key_features": [
+    "최대 전송속도 10Gbps 지원",
+    "대역폭 600MHz (CAT.7 / ISO/IEC 11801 Class 기준)",
+    "CAT.6A/CAT.7 SSTP(S/FTP) 규격",
+    "연선(Stranded) 구조로 유연성 우수, 설치 용이",
+    "LSZH(Low Smoke Zero Halogen) 난연 최상위 등급 피복",
+    "50μ 은장 커넥터 적용 (구리 함량 높아 신호손실 적음)",
+    "26AWG 규격 내심으로 간섭 적고 안정적 전송",
+    "FLUKE DTX-1800 테스트 PASS (반사손실, 삽입손실, NEXT, PS NEXT, ACR-F, PS ACR-F 전 항목)",
+    "ETL 인증, RoHS 준수, Intertek ISO 9001:2008 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "다이렉트 케이블 핀배열(568B-568B) 적용",
+    "대역폭 600MHz (CAT.7 / ISO IEC 11801 Class 기준)",
+    "SSTP(S/FTP) 쉴드 구조 - 편조쉴드 + 알루미늄 차폐막으로 노이즈 방지",
+    "연선(Stranded) 케이블 - 단선 대비 유연하여 설치 용이, 잡음 및 감쇄 현저히 적음",
+    "26AWG 규격 - 데이터 전송 시 간섭이 적은 우수한 품질",
+    "LSZH(Low Smoke Zero Halogen) 최상위 난연등급 피복 - 화재 시 화재 확산 억제",
+    "50μ 은장 커넥터 - 구리 함량 높아 전송속도 빠르고 신호손실 적음 (제조사 사정에 따라 금장으로 변경될 수 있음)",
+    "FLUKE DTX-1800 테스터기 테스트 PASS",
+    "RoHS 준수 - 납, 수은, 카드뮴 등 중금속 미사용",
+    "ETL 인증 (4000478)",
+    "ISO 9001:2008 품질경영시스템",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "다이렉트 케이블 핀배열 (568B - 568B)",
+    "CAT.6A/CAT.7 SSTP 규격, 최대 전송속도 10Gbps",
+    "대역폭 600MHz (ISO/IEC 11801 Class CAT.7 기준)",
+    "LSZH(Low Smoke Zero Halogen) 최상위 난연 등급 피복 적용",
+    "연선(Stranded) 케이블 구조로 유연성이 높아 설치 용이",
+    "26AWG 규격 내심 사용으로 간섭 적고 안정적인 전송",
+    "편조쉴드 + 알루미늄 차폐막 이중 노이즈 방지 쉴드(S/FTP 구조)",
+    "50μ 은장 커넥터 적용 (제조사 사정에 따라 금장으로 변경될 수 있음)",
+    "FLUKE DTX-1800 테스트 PASS (반사손실, 삽입손실, NEXT, PS NEXT, ACR-F, PS ACR-F 전 항목 통과)",
+    "ETL 인증, RoHS 준수, ISO 9001:2008 품질경영시스템 적용",
+    "다이렉트 케이블 핀배열 (568B-568B)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품",
+    "대역폭 600MHz (CAT.7 / ISO/IEC 11801 Class F 기준)",
+    "CAT.6A(500MHz) 및 CAT.7(600MHz) 규격 동시 충족",
+    "꼬임(Twisted Pair) 방식으로 노이즈 방지",
+    "연선(Stranded) 케이블 - 유연성이 높아 설치 용이, 잡음 및 감쇄 현저히 적음",
+    "LSZH(Low Smoke Zero Halogen) 피복 - 최상위 난연등급, 화재 시 화재확산 지연",
+    "26AWG 규격 - 간섭이 적고 우수한 신호 품질",
+    "50μ 은장 커넥터 - 구리 함량 높아 전송속도 빠르고 신호손실 적음",
+    "FLUKE DTX-1800 테스터 통과 (PASS)",
+    "RoHS 준수 - 납·수은·카드뮴 등 중금속 사용 제한",
+    "ETL 인증 (ETL 4000478)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "연선(Stranded) 케이블로 유연성이 높아 설치 용이",
+    "26AWG 규격 내심으로 간섭이 적고 안정적인 전송",
+    "50μ 은장 커넥터 적용 (구리 함량 높아 신호손실 최소화)",
+    "FLUKE DTX-1800 테스터 통과 (반사손실, 삽입손실, NEXT, PS NEXT, ACR-F, PS ACR-F 전 항목 PASS)",
+    "ETL 인증, RoHS 준수, ISO 9001:2008 품질경영시스템",
+    "다이렉트 케이블 핀배열 (568B-568B) 적용",
+    "10Mbps / 100Mbps / 1000Mbps / 10Gbps 전송 호환",
+    "최대 전송속도 10Gbps 지원 (CAT.6A/CAT.7 규격)",
+    "대역폭 600MHz (ISO/IEC 11801 CAT.7 기준)",
+    "SSTP(S/FTP) 구조 - 편조쉴드 + 알루미늄 차폐막으로 노이즈 방지",
+    "연선(Stranded) 케이블 - 단선 대비 유연하여 설치 용이, 잡음 및 감쇄 현상 저감",
+    "LSZH(Low Smoke Zero Halogen) 최상위 난연 등급 피복 - 화재 시 화재 확산 억제",
+    "26AWG 규격 내심 - 데이터 전송 시 간섭이 적음",
+    "50μ 은장 커넥터 - 구리 함량이 높아 전송속도가 빠르고 신호손실이 적음 (제조사 사정에 따라 금장으로 변경 가능)",
+    "FLUKE DTX-1800 테스터기 통과 (반사손실, 삽입손실, NEXT, PS NEXT, ACR-F, PS ACR-F 전 항목 PASS)",
+    "ETL 인증, RoHS 준수",
+    "ISO 9001:2008 품질경영시스템 적용",
+    "대역폭 600MHz (CAT.7 기준, ISO/IEC 11801 Class 규정)",
+    "26AWG 연선(Stranded) 구조로 유연성 우수 및 잡음 감소",
+    "LSZH(Low Smoke Zero Halogen) 최상위 난연 피복 적용",
+    "편조쉴드 + 알루미늄 차폐막 이중 노이즈 방지 쉴드 구조",
+    "FLUKE DTX-1800 테스터 통과 (반사손실·삽입손실·NEXT·PS NEXT·ACR-F·PS ACR-F 전 항목 PASS)",
+    "RoHS 규정 준수 (납·수은·카드뮴 등 중금속 미사용)",
+    "26AWG 연선(Stranded) 케이블로 설치 용이 및 잡음 감소",
+    "50μ 은장 커넥터 적용 (구리함량 높아 신호손실 최소화)",
+    "FLUKE DTX-1800 테스터 PASS 인증",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "26AWG 연선(Stranded) 구조로 설치 용이 및 잡음·감쇄 현저히 감소",
+    "50μ 은장 커넥터 적용 (구리 함량 높아 신호손실 적음, 제조사 사정에 따라 금장으로 변경 가능)",
+    "CAT.6A/CAT.7 SSTP 규격, 최대 10Gbps 전송속도 지원",
+    "대역폭 600MHz (ISO/IEC 11801 Class F / CAT.7 기준)",
+    "LSZH(Low Smoke Zero Halogen) 최상위 난연등급 피복 적용",
+    "연선(Stranded) 구조로 유연성이 높아 설치 용이",
+    "26AWG 규격 내심으로 간섭 및 잡음이 적음",
+    "편조쉴드 + 알루미늄 차폐막(S/FTP) 이중 노이즈 차폐 구조",
+    "ETL 인증 획득 (ETL 4000478)",
+    "CAT.7 규격, 600MHz 넓은 대역폭 (CAT.5E 대비 6배, CAT.6 대비 2.4배)",
+    "10Gbps 고속 전송 속도 지원 (10/100/1,000Mbps 및 10Gbps)",
+    "이중차폐 쉴드 구조 (알루미늄 쉴드 + 편조 쉴드) STP 케이블",
+    "금도금 커넥터 사용으로 부식 및 산화 방지",
+    "전자파 노이즈 간섭 최소화로 안정적인 대용량 데이터 전송",
+    "커넥터 착탈 및 케이블 가설 중 파손을 고려한 내구성 설계",
+    "Fluke Networks DTX-1800 테스트 PASS (Test Limit: 10GBASE-T, Headroom: 15.0dB)",
+    "CAT.7 S/FTP 규격, 최대 10Gbps 전송속도 지원",
+    "600MHz 대역폭 지원",
+    "26AWG 연선(Stranded) 심선 사용으로 유연성 우수",
+    "OFC(무산소 구리) 도체 사용으로 전도성·내식성 우수",
+    "50μ 금도금 3Prongs 핀 커넥터로 신호 손실 최소화",
+    "S/FTP 이중차폐 구조(알루미늄 호일 + 차폐 쉴드)로 외부 신호간섭 최소화",
+    "LSZH(저연소 무할로겐) 자켓 적용 난연 케이블",
+    "ETL 인증, EC 인증, FLUKE TEST 통과",
+    "오후 4시 이전 결제완료 건 당일출고(평일 기준)",
+    "26AWG 무산소 구리(OFC) 심선 사용으로 전도성·내식성 우수",
+    "S/FTP 이중차폐 구조(각 페어별 알루미늄 호일 + 전체 편조차폐)로 외부 신호간섭 최소화",
+    "50μ 금도금 3Prongs 핀 커넥터로 신호손실 최소화 및 결합력 강화",
+    "LSZH 난연 외피 적용",
+    "오후 4시 이전 결제완료 주문건 당일출고(평일 기준)",
+    "CAT.7 규격 (CAT.6A 호환), 600MHz 넓은 대역폭 지원",
+    "최대 10Gbps(10,000Mbps) 전송 속도 지원",
+    "이중차폐 쉴드 구조: 알루미늄 쉴드 + 편조 쉴드 (S-STP)",
+    "50u 금도금 콘넥터로 부식·산화 방지 및 노이즈 차단",
+    "연선(Stranded) 케이블 구조",
+    "8P8C RJ45 커넥터, 26AWG",
+    "FLUKE 테스트 PASS 인증 (CAT7 SSTP, 10GBASE-T 기준)",
+    "KC 인증 획득 (인증번호 R-R-LUS-LS-EZ-750)",
+    "RoHS 컴플라이언트 (유해물질 사용 제한)",
+    "LSZH 난연 소재 적용",
+    "CAT.7 SSTP 규격, 최대 10Gbps(10,000Mbps) 전송속도 지원",
+    "600MHz 대역폭 (CAT.6 대비 2배)",
+    "26AWG 미국전선규격 적용 - 데이터 전송 시 간섭 최소화",
+    "SSTP(S/FTP) 구조 - 알루미늄 차폐막 및 노이즈 방지 쉴드 내장",
+    "LSZH(Low Smoke Zero Halogen) 피복 적용 - 최상위 난연등급",
+    "50µ 금도금 콘넥터 (8P8C RJ45)",
+    "다이렉트 케이블 핀배열(568B-568B)",
+    "한국기계전기전자시험연구원(KTC) 성능시험 PASS",
+    "FLUKE 테스트(DTX-1800) PASS",
+    "RoHS 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "KC 인증 획득 (인증번호: R-R-LUS-LS-EZ-750)",
+    "흰색 케이블 (MG 시리즈)",
+    "600MHz 광대역폭 (TIA/EIA-568 / ISO/IEC 11801 Class F 기준)",
+    "26AWG 미국전선규격 적용으로 간섭 최소화 및 안정적 전송",
+    "알루미늄 차폐막 + 노이즈 방지 쉴드선(SSTP) 구조로 외부 노이즈 차단",
+    "50µ 금도금 RJ45(8P8C) 커넥터 적용",
+    "한국기계전기전자시험연구원(KTC) 성능시험 PASS (성적서 번호: 12015-07623)",
+    "FLUKE DTX-1800 테스트 PASS",
+    "RoHS 준수 (납·수은·카드뮴 등 중금속 미사용)",
+    "다이렉트(Direct) 케이블 핀배열 (568B-568B)",
+    "CAT.7 SSTP 규격, 최대 10Gbps 전송속도 지원",
+    "600MHz 대역폭",
+    "26AWG 규격 내심으로 잡음 및 간섭 최소화",
+    "알루미늄 차폐막 및 노이즈 방지 쉴드 적용(SSTP)",
+    "꼬임(Twisted Pair) 방식으로 추가 노이즈 방지",
+    "다이렉트 케이블(568B-568B 핀배열)",
+    "50u 금도금 커넥터, 8P8C RJ45",
+    "RoHS 준수(납·수은·카드뮴 등 중금속 미사용)",
+    "국립전파연구원 인증 취득 (인증번호: R-R-LUS-LS-EZ-750)",
+    "CAT.7 S/FTP 규격, 최대 10Gbps 전송속도 및 600MHz 대역폭 지원",
+    "10GBASE-T 지원",
+    "26AWG 연선(Stranded) 심선 사용으로 유연성 및 설치 용이",
+    "S/FTP 이중차폐 구조(각 페어 알루미늄 호일 + 전체 편조차폐)로 외부 신호간섭 최소화",
+    "50μ 금도금 3Prongs 핀 커넥터로 신호손실 최소화 및 높은 결합력",
+    "LSZH(저연 할로겐 프리) 외부 피복 적용",
+    "오후 4시 이전 결제 완료 주문 건 당일 출고(평일 기준)",
+    "S/FTP 이중차폐 구조(알루미늄 호일 + 편조차폐)로 외부 신호간섭 최소화",
+    "무산소 구리 도체(OFC, Oxygen Free Copper) 사용으로 전도성·내식성 우수",
+    "50μ 금도금 3Prongs 핀 커넥터 적용으로 신호손실 최소화 및 결합력 강화",
+    "LSZH 난연 자켓 적용",
+    "ETL 인증, EC 인증, FLUKE TEST 통과 제품"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.6A / CAT.7 / CAT.7 (S-STP, SSTP) / CAT.7 S/FTP / CAT.7 (CAT.6A)",
+    "최대 전송속도": "10Gbps",
+    "대역폭": "600MHz",
+    "케이블 타입": "SSTP (S/FTP PIMF) / SSTP (S/FTP) / S/FTP (SSTP) / SSTP (S/FTP), Stranded(연선) / SSTP (Shielded-Shielded Twist Pair) / SSTP (S/STP) / 연선(Stranded)",
+    "내심 구조": "연선(Stranded), 4 Twisted Pair",
+    "내심 굵기": "26AWG",
+    "커넥터 도금": "50μ 은장 (제조사 사정에 따라 금장으로 변경 가능) / 50μ 은장 (제조사 사정에 따라 금장으로 변경될 수 있음) / 50µ 금도금",
+    "피복 재질": "LSZH (Low Smoke Zero Halogen) / LSZH (Low Smoke Zero Halogen) / PVC",
+    "난연 등급": "LSZH 최상위 난연등급",
+    "핀배열": "다이렉트 (568B-568B) / 다이렉트 (568B - 568B) / 다이렉트(568B-568B)",
+    "길이 라인업": "1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M / 0.5m, 1m, 2m, 3m, 5m, 7m, 10m, 15m, 20m, 30m, 50m / 2m, 3m, 5m, 10m",
+    "제품 길이 범위": "1000mm ~ 30000mm",
+    "커넥터 외형 치수": "11.5mm x 6.2mm (커넥터부), 11.5mm x 6.5mm",
+    "인증": "ETL (4000478), RoHS, LSZH, Intertek ISO 9001:2008, FLUKE TEST PASS / ETL 4000478, RoHS, FLUKE PASS, ISO 9001:2008 / ETL 4000478, RoHS COMPLIANT, FLUKE TEST PASS, ISO 9001:2008 / ETL, RoHS COMPLIANT, FLUKE TEST PASS, ISO 9001:2008 / ETL 4000478, RoHS COMPLIANT, FLUKE PASS, ISO 9001:2008, LSZH / ETL, FLUKE PASS, RoHS COMPLIANT, ISO 9001:2008 / ETL 4000478, RoHS COMPLIANT, FLUKE TEST PASS, ISO 9001:2008, LSZH / ETL, EC, FLUKE TEST",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANStar",
+    "전선 규격": "26AWG / 26AWG (American Wire Gauge)",
+    "연선/단선": "연선(Stranded)",
+    "케이블 길이 라인업": "1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M",
+    "커넥터 폭": "11.5mm",
+    "커넥터 높이": "6.2mm / 6.5mm",
+    "커넥터 길이": "11.5mm / 10.0mm (추정 표기) / 10.0mm (추정 치수, OCR 불명확)",
+    "케이블 직경": "6.5mm / 6.2mm",
+    "내심 규격": "26AWG / 26AWG (American Wire Gage)",
+    "케이블 구조": "연선(Stranded), 4쌍 Twisted Pair / 연선(Stranded), 4 Twisted Pair / 연선 (Stranded)",
+    "쉴드 구조": "편조쉴드 + 알루미늄 차폐막 / 편조쉴드 + 알루미늄 차폐막 (쌍별 개별 차폐) / 편조쉴드 + 알루미늄 차폐막 + 쉴드 접지선",
+    "케이블 길이": "15M / 1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M",
+    "제품 길이 범위(전 라인업)": "1M / 2M / 3M / 5M / 7M / 10M / 15M / 20M / 30M",
+    "커넥터 탭 높이": "6.5mm",
+    "제조사 / 수입사": "라인업시스템(주)",
+    "전선 구조": "연선 (Stranded) / 연선(Stranded)",
+    "피복 소재": "LSZH (Low Smoke Zero Halogen)",
+    "핀배열 방식": "다이렉트 (568B - 568B) / 다이렉트(568B-568B)",
+    "길이 옵션": "1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M",
+    "케이블 길이 범위": "1000mm ~ 30000mm",
+    "FLUKE 테스트 항목": "반사손실(Return Loss), 삽입손실(Insertion Loss), 전기적 누화손실(NEXT), 전력 누화손실(PS NEXT), ACR-F(ELFEXT), PS ACR-F(PSELFEXT) - 전 항목 PASS / 반사손실(Return Loss) PASS, 삽입손실(Insertion Loss) PASS, 전기적 누화손실(NEXT) PASS, 전력 누화손실(PS NEXT) PASS, ACR-F(ELFEXT) PASS, PS ACR-F(PSELFEXT) PASS",
+    "케이블 길이 (본 모델)": "20M",
+    "전체 길이 라인업": "1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M",
+    "커넥터 돌출부 높이": "6.5mm",
+    "케이블 길이 범위(전체 라인업)": "1000mm ~ 30000mm",
+    "제조사/수입사": "라인업시스템(주)",
+    "보험": "현대해상화재 생산물배상책임보험 1억원",
+    "케이블 길이 범위(mm)": "1000 ~ 30000mm",
+    "ETL 인증번호": "4000478",
+    "RoHS": "준수 (COMPLIANT) / 준수(COMPLIANT)",
+    "FLUKE 테스트": "PASS (DTX-1800) / PASS (테스터기: DTX-1800)",
+    "품질보험": "현대해상화재 생산물배상책임보험 1억원",
+    "모델명 목록": "LS-7SSTPD-1M, LS-7SSTPD-2M, LS-7SSTPD-3M, LS-7SSTPD-5M, LS-7SSTPD-7M, LS-7SSTPD-10M, LS-7SSTPD-15M, LS-7SSTPD-20M, LS-7SSTPD-30M",
+    "도체 규격": "26AWG / 26AWG (American Wire Gage)",
+    "도체 구조": "연선 (Stranded) / 연선(Stranded), 4쌍 Twisted Pair",
+    "케이블 외경": "6.2mm / 6mm",
+    "전체 길이 범위": "1000mm ~ 30000mm",
+    "케이블 길이 옵션": "1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M",
+    "제조국/원산지": "중국 (China) / 중국(China)",
+    "커넥터 깊이": "11.5mm",
+    "A/S 소비자상담": "070-7018-3386",
+    "커넥터 규격": "RJ-45",
+    "전송 속도": "10Gbps (10,000Mbps), 하위 호환: 1Gbps, 100Mbps, 10Mbps",
+    "차폐 구조": "이중차폐 (알루미늄 쉴드 + 편조 쉴드) / 알루미늄 쉴드 + 편조 쉴드 (이중차폐) / S/FTP (각 페어 알루미늄 호일 + 전체 페어 편조차폐 이중구조)",
+    "커넥터 유형": "금도금 커넥터 (쉴드 처리)",
+    "케이블 종류": "연선 (Twisted Pair)",
+    "인증번호": "MSIP-RTI-LUS-LS-CAT7 / R-R-LUS-LS-EZ-750",
+    "제조국 / 원산지": "중국 (China)",
+    "모델 라인업": "LS-7SSTPD-2MB, LS-7SSTPD-3MB, LS-7SSTPD-5MB, LS-7SSTPD-10MB",
+    "전송속도": "최대 10Gbps",
+    "심선": "26AWG, 연선(Stranded), OFC(무산소 구리) / 26AWG, 무산소 구리(OFC)",
+    "커넥터": "50μ Gold Plated PIN (3Prongs 금도금 핀) / 50μ Gold Plated PIN (3Prongs 금도금) / 8P8C RJ45, 50µ 금도금 / 8P8C RJ45, 50u 금도금 / 50μ Gold Plated PIN (3Prongs)",
+    "길이": "2m, 3m, 5m, 7m, 10m / 2m / 3m / 5m / 10m",
+    "직경": "OD 6.0±0.2mm",
+    "재질(피복)": "LSZH",
+    "재질(몰드)": "PVC",
+    "색상": "Blue / Grey / 블루 (Blue) / 빨강(Red) / 노랑(Yellow)",
+    "지원 규격": "10GBASE-T",
+    "모델명(2M)": "LS-7SSTPD-2MB",
+    "모델명(3M)": "LS-7SSTPD-3MB",
+    "모델명(5M)": "LS-7SSTPD-5MB",
+    "모델명(7M)": "LS-7SSTPD-7MB",
+    "모델명(10M)": "LS-7SSTPD-10MB",
+    "KC인증번호": "해당없음",
+    "케이블 외경(OD)": "6.0±0.2mm",
+    "외피 재질": "LSZH(피복), PVC(몰드)",
+    "AWG 26 직경(Inch)": "0.0159",
+    "AWG 26 직경(mm)": "0.405",
+    "AWG 26 단면적(㎟)": "0.129",
+    "AWG 26 저항(Ω/m)": "0.134",
+    "AWG 26 허용전류(A)": "0.378",
+    "커넥터 크기": "11.5mm x 6mm (본체), 11.5mm x 6.5mm (부트 포함 추정) / 11.5mm x 6mm (플러그부), 11.5mm x 6.5mm (부트부)",
+    "KC 인증번호": "해당없음 / R-R-LUS-LS-EZ-750",
+    "최대 전송 속도": "10Gbps",
+    "콘넥터 타입": "8P8C RJ45",
+    "콘넥터 도금": "50u 금도금",
+    "지원 길이": "2M, 3M, 5M, 7M, 10M",
+    "모델명 (2M)": "LS-7SSTPD-2MB",
+    "모델명 (3M)": "LS-7SSTPD-3MB",
+    "모델명 (5M)": "LS-7SSTPD-5MB",
+    "모델명 (7M)": "LS-7SSTPD-7MB",
+    "모델명 (10M)": "LS-7SSTPD-10MB",
+    "환경 인증": "RoHS Compliant",
+    "품질 인증": "ISO 9001:2008",
+    "성능 테스트": "FLUKE PASS (10GBASE-T, CAT7 SSTP)",
+    "난연": "LSZH",
+    "AWG": "26AWG",
+    "커넥터 타입": "8P8C RJ45",
+    "난연등급": "LSZH 최상위 난연등급",
+    "케이블 색상": "흰색",
+    "지원 전송속도": "10Mbps, 100Mbps, 1000Mbps, 10Gbps",
+    "KTC 시험결과": "반사손실(Return Loss) PASS, 삽입손실(Insertion Loss) PASS, 전기적 누화손실(NEXT) PASS, 전력 누화손실(PS NEXT) PASS, ACR-F(ELFEXT) PASS, PS ACR-F(PSELFEXT) PASS",
+    "ISO 인증": "ISO 9001:2008",
+    "케이블 외경(커넥터 포함)": "11.5mm",
+    "케이블 외경(본체)": "6mm",
+    "슬림부 외경": "6.5mm",
+    "가용 길이": "0.5M, 1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M, 50M",
+    "모델별 모델명": "2M: LS-7SSTPD-2MR, 3M: LS-7SSTPD-3MR, 5M: LS-7SSTPD-5MR, 7M: LS-7SSTPD-7MR, 10M: LS-7SSTPD-10MR",
+    "외경": "약 6mm (케이블 본체 기준)",
+    "KTC 시험성적서 번호": "12015-07623",
+    "시험항목 결과": "반사손실(Return Loss) PASS, 삽입손실(Insertion Loss) PASS, NEXT PASS, PS NEXT PASS, ACR-F(ELFEXT) PASS, PS ACR-F(PSELFEXT) PASS",
+    "지원 전송속도 범위": "10Mbps / 100Mbps / 1000Mbps / 10Gbps",
+    "케이블 배열": "다이렉트(568B-568B)",
+    "외경(커넥터 포함)": "11.5mm",
+    "모델별 길이": "2M(LS-7SSTPD-2MY), 3M(LS-7SSTPD-3MY), 5M(LS-7SSTPD-5MY), 7M(LS-7SSTPD-7MY), 10M(LS-7SSTPD-10MY)",
+    "심선 구조": "연선(Stranded), 4Pair Twisted",
+    "도체 재질": "OFC(Oxygen Free Copper, 무산소 구리)",
+    "직경(OD)": "6.0±0.2mm",
+    "몰드 재질": "PVC",
+    "모델명(2m)": "LS-7SSTPD-2MR",
+    "모델명(3m)": "LS-7SSTPD-3MR",
+    "모델명(5m)": "LS-7SSTPD-5MR",
+    "모델명(10m)": "LS-7SSTPD-10MR",
+    "KC 인증 번호": "해당없음",
+    "심선(AWG)": "26AWG",
+    "재질_피복": "LSZH",
+    "재질_몰드": "PVC",
+    "도체": "무산소 구리(OFC, Oxygen Free Copper)",
+    "모델명_2M": "LS-7SSTPD-2MY",
+    "모델명_3M": "LS-7SSTPD-3MY",
+    "모델명_5M": "LS-7SSTPD-5MY",
+    "모델명_10M": "LS-7SSTPD-10MY"
+  },
+  "compatibility": [
+    "CAT.6A 규격 장비 (TIA/EIA-568, 500MHz, 10Gbps)",
+    "CAT.7 규격 장비 (ISO/IEC 11801 Class, 600MHz, 10Gbps)",
+    "CAT.6 규격 장비 (하위 호환, 1Gbps)",
+    "CAT.5/CAT.5E 규격 장비 (하위 호환, 100~400Mbps)",
+    "10Mbps / 100Mbps / 1000Mbps / 10Gbps 네트워크 환경",
+    "568B 다이렉트 배열을 사용하는 네트워크 장비 (PC, 스위치, 서버 등)",
+    "CAT.5 / CAT.5E 호환 (하위 호환)",
+    "CAT.6 호환 (하위 호환)",
+    "CAT.6A 규격 준수 (TIA/EIA-568, 500MHz)",
+    "CAT.7 규격 준수 (ISO/IEC 11801 Class, 600MHz)",
+    "10Mbps / 100Mbps / 1000Mbps / 10Gbps 전송 환경",
+    "대용량 서버, 전산망 환경",
+    "CAT.7 규격 장비 (ISO/IEC 11801 Class F, 600MHz, 10Gbps)",
+    "RJ-45 포트 탑재 기기 (PC, 서버, 스위치, 라우터 등)",
+    "CAT.5 / CAT.5E 규격 장비 (하위 호환)",
+    "CAT.6 규격 장비 (하위 호환)",
+    "CAT.6A 규격 장비 (TIA/EIA-568 500MHz)",
+    "CAT.7 규격 장비 (ISO/IEC 11801 600MHz)",
+    "10Mbps / 100Mbps / 1000Mbps / 10Gbps 네트워크 장비",
+    "568B 다이렉트 배열 지원 스위치, 허브, 라우터, NIC 등",
+    "CAT.6A 규격 (TIA/EIA-568, 500MHz, 10Gbps)",
+    "CAT.7 규격 (ISO/IEC 11801 Class, 600MHz, 10Gbps)",
+    "CAT.6 장비 (1Gbps)",
+    "CAT.5/CAT.5E 장비 (100~400Mbps)",
+    "대용량 서버, 전산망, 일반 네트워크 환경",
+    "CAT.5 / CAT.5E 규격 네트워크 장비",
+    "CAT.6 규격 네트워크 장비",
+    "CAT.6A 규격 네트워크 장비",
+    "CAT.7 규격 네트워크 장비",
+    "TIA/EIA-568 규격 준수 장비",
+    "ISO/IEC 11801 Class 규격 준수 장비",
+    "대용량 서버, 전산망, 일반 서버, 사무용 네트워크 환경",
+    "CAT.6A 규격 준수 장비 (TIA/EIA-568, 대역폭 500MHz)",
+    "CAT.7 규격 준수 장비 (ISO/IEC 11801 Class, 대역폭 600MHz)",
+    "CAT.5 / CAT.5E / CAT.6 하위 호환 네트워크 환경",
+    "대용량 서버, 전산망, 일반 사무용 네트워크",
+    "CAT.5 / CAT.5E 네트워크 환경 (하위 호환)",
+    "CAT.6 네트워크 환경 (하위 호환)",
+    "CAT.6A 네트워크 환경 (10Gbps, 500MHz)",
+    "CAT.7 네트워크 환경 (10Gbps, 600MHz)",
+    "10Mbps / 100Mbps / 1000Mbps / 10Gbps 전송 지원 장비",
+    "CAT.7 규격 장비 (ISO/IEC 11801 Class F 600MHz)",
+    "CAT.5/CAT.5E 규격 장비 (하위 호환)",
+    "대용량 서버, 전산망, 일반 네트워크 스위치·허브·NIC",
+    "CAT.7 규격 장비 및 포트",
+    "CAT.6 규격 장비 및 포트 (하위 호환)",
+    "CAT.5E 규격 장비 및 포트 (하위 호환)",
+    "10GBASE-T 네트워크",
+    "기가비트 이더넷 (1000BASE-T)",
+    "10/100Mbps 이더넷 (하위 호환)",
+    "데스크탑 PC",
+    "노트북",
+    "공유기",
+    "스위칭허브",
+    "이더넷을 사용하는 다양한 기기",
+    "10GBASE-T 지원 장비",
+    "가정 배선 환경",
+    "사무실 배선 환경",
+    "카페 네트워크 환경",
+    "숙박시설 네트워크 환경",
+    "10GBASE-T 지원 네트워크 장비",
+    "1000BASE-T (CAT.5E 규격 장비)",
+    "1000BASE-TX (CAT.6 규격 장비)",
+    "이더넷 포트를 사용하는 가정·사무실·카페·숙박시설 네트워크 환경",
+    "10GBASE-T (10Gbps 이더넷)",
+    "1000BASE-T (1Gbps 기가비트 이더넷)",
+    "100BASE-TX (100Mbps 이더넷)",
+    "10BASE-T (10Mbps 이더넷)",
+    "CAT.5E / CAT.6 / CAT.7 규격 장비 하위 호환",
+    "RJ45 포트를 사용하는 스위치, 라우터, NAS, PC 등 네트워크 장비",
+    "CAT.5 / CAT.5E / CAT.6 / CAT.6A / CAT.7 규격 장비와 하위 호환",
+    "ISO/IEC 11801 Class F 규격 준수 장비",
+    "8P8C RJ45 포트를 사용하는 스위치, 허브, 라우터, NIC 등 네트워크 장비",
+    "CAT.7 지원 네트워크 장비 (스위치, 허브, NIC 등)",
+    "CAT.6A 지원 장비 (하위 호환)",
+    "CAT.6 / CAT.5E / CAT.5 지원 장비 (하위 호환)",
+    "8P8C RJ45 포트를 사용하는 모든 네트워크 기기",
+    "10Gbps 대용량 서버 환경",
+    "1Gbps 전산망·일반 서버 환경",
+    "100~400Mbps 사무용 네트워크 환경",
+    "CAT.7 (ISO/IEC 11801 Class F) 규격 장비",
+    "CAT.6A (TIA/EIA-568, 500MHz) 규격 장비",
+    "CAT.5E / CAT.5 규격 장비 (하위 호환)",
+    "8P8C RJ45 포트를 사용하는 모든 네트워크 장비",
+    "10Gbps 대용량 서버 및 네트워크 스위치",
+    "1Gbps 전산망·일반 서버",
+    "100Mbps 사무용 네트워크 환경",
+    "데스크탑(Desktop) PC",
+    "노트북(Notebook)",
+    "공유기(Router)",
+    "스위칭허브(Switching Hub)",
+    "이더넷을 사용하는 가정·사무실·카페·숙박시설 등 일반 네트워크 환경",
+    "CAT.5E / CAT.6 / CAT.6A 하위 규격 장비와 하위 호환",
+    "1000BASE-T / 1000BASE-TX 하위 호환"
+  ],
+  "package_contents": [
+    "CAT.6A/CAT.7 SSTP 다이렉트 랜케이블 1개 (선택 길이)",
+    "CAT.6A/CAT.7 SSTP 다이렉트 랜케이블 1개",
+    "CAT.6A/CAT.7 SSTP 다이렉트 LAN 케이블 (LS-7SSTPD-15M) 1개",
+    "CAT.6A/CAT.7 SSTP 다이렉트 케이블 (LS-7SSTPD-20M, 20M) 1개",
+    "CAT.6A/CAT.7 SSTP 다이렉트 랜케이블 (선택 길이 1종)",
+    "CAT.6A/CAT.7 SSTP 다이렉트 랜 케이블 1개 (선택 길이)",
+    "CAT.6A/CAT.7 SSTP 다이렉트 케이블 1개 (선택 길이)",
+    "CAT.7 SSTP 다이렉트 LAN 케이블 (모델별 길이 상이: 2M / 3M / 5M / 10M)",
+    "CAT.7 S/FTP 랜케이블 (선택 길이 1개)",
+    "CAT.7 S/FTP 랜케이블 (Grey) 1개",
+    "CAT.7 SSTP 다이렉트 랜케이블 (블루) 1개",
+    "CAT.7 SSTP 다이렉트 랜케이블 (LS-7SSTPD-MG) 1개",
+    "CAT.7 SSTP 다이렉트 랜케이블 (빨강) × 1",
+    "CAT.7 SSTP 다이렉트 랜케이블 (노랑) 1개",
+    "CAT.7 S/FTP 랜케이블 (Red) 1개",
+    "CAT.7 S/FTP 랜케이블 본체 (선택 길이: 2m / 3m / 5m / 10m)"
+  ],
+  "usage_instructions": "다이렉트 케이블(568B-568B 핀배열)로, PC·서버·스위치 등 일반 네트워크 장비 간 연결에 사용합니다. 연선 구조로 유연하게 휘어지므로 배선 경로에 맞게 설치하세요. 커넥터를 기기의 RJ-45 포트에 딸깍 소리가 날 때까지 삽입하여 연결합니다. 크로스 연결이 필요한 경우 별도 크로스 케이블(568B-568A)을 사용하세요.",
+  "cautions": [
+    "제조사 사정에 따라 커넥터가 은장에서 금장으로 변경될 수 있습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양이 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 소비자상담 전화: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-7SSTPD-1MG",
+      "품목코드": "CAB-SS7001",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 1M, Grey[10088](140개)",
+      "variant_suffix": "-1MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-2MG",
+      "품목코드": "CAB-SS7002",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 2M, Grey[10089](90개)",
+      "variant_suffix": "-2MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-3MG",
+      "품목코드": "CAB-SS7003",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 3M,Grey[10090](70개)",
+      "variant_suffix": "-3MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-5MG",
+      "품목코드": "CAB-SS7004",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 5M, Grey[10091](50개)",
+      "variant_suffix": "-5MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-7MG",
+      "품목코드": "CAB-SS7005",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 7M, Grey[10092](40개)",
+      "variant_suffix": "-7MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-10MG",
+      "품목코드": "CAB-SS7006",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 10M, Grey[10093](32개)",
+      "variant_suffix": "-10MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-15MG",
+      "품목코드": "CAB-SS7007",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 15M, Grey[10094](26개)",
+      "variant_suffix": "-15MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-20MG",
+      "품목코드": "CAB-SS7013",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 20M,Grey[10095](20개)",
+      "variant_suffix": "-20MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-30MG",
+      "품목코드": "CAB-SS7014",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 30M, Grey[10096](14개)",
+      "variant_suffix": "-30MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-2MB",
+      "품목코드": "CAB-SS7017",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 2M, Blue[10099](90개)",
+      "variant_suffix": "-2MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-3MB",
+      "품목코드": "CAB-SS7018",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 3M, Blue[10100](70개)",
+      "variant_suffix": "-3MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-5MB",
+      "품목코드": "CAB-SS7019",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 5M, Blue[10101](50개)",
+      "variant_suffix": "-5MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-10MB",
+      "품목코드": "CAB-SS7020",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 10M, Blue[10102](32개)",
+      "variant_suffix": "-10MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-7MB",
+      "품목코드": "CAB-SS7065",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 7M, Blue[10907](40개)",
+      "variant_suffix": "-7MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-50MG",
+      "품목코드": "CAB-SS7075",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 50M, Grey [10924](10개)",
+      "variant_suffix": "-50MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-0.5MG",
+      "품목코드": "CAB-SS7076",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 0.5M, Gray [10927] (200개)",
+      "variant_suffix": "-0.5MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-2MY",
+      "품목코드": "CAB-SS7087",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 2M, Yellow [11004] (90개)",
+      "variant_suffix": "-2MY",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-3MY",
+      "품목코드": "CAB-SS7088",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 3M, Yellow [11005](70개)",
+      "variant_suffix": "-3MY",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-5MY",
+      "품목코드": "CAB-SS7089",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 5M, Yellow [11006] (50개)",
+      "variant_suffix": "-5MY",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-10MY",
+      "품목코드": "CAB-SS7090",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 10M, Yellow [11007](32개)",
+      "variant_suffix": "-10MY",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-2MR",
+      "품목코드": "CAB-SS7091",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 2M, Red [11008](90개)",
+      "variant_suffix": "-2MR",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-3MR",
+      "품목코드": "CAB-SS7092",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 3M, Red [11009](70개)",
+      "variant_suffix": "-3MR",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-5MR",
+      "품목코드": "CAB-SS7093",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 5M, Red [11010](50개)",
+      "variant_suffix": "-5MR",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7SSTPD-10MR",
+      "품목코드": "CAB-SS7094",
+      "품목명": "[LANstar] CAT.7 랜케이블, SSTP, 50u Gold, 10M, Red [11011](32개)",
+      "variant_suffix": "-10MR",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "와이파이기가 바꾸고 선바꾸고. 인터넷속도 2.5기가나옴",
+      "관련내용": "인터넷속도. 빠름. 공유기. 와이파이7 컴퓨터 와이파이7.  케이블cat7 로바꾸니깐 2.5기가나옴"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "인터넷속도. 빠름. 공유기. 와이파이7 컴퓨터 와이파이7.  케이블cat7 로바꾸니깐 2.5기가나옴"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "속도 잘나오는것 같아요!!!배송도 빠름"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "배송빠릅니다! 속도도 잘나오는것 같아요!"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "배송도 빠르고 제품도 튼튼한거 같아요!! 속도도 잘 나오는것 같습니다"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "배송도 빠르고 제품도 튼튼하게 잘왔네요~ 속도도 잘 나오는것 같습니다."
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "잘 사용하고 있습니다 ^^ \n구지 10기가용까지 필요는 없었는데 \n공유기 바꾸면서 선도 오래돼서 바꾼다고 바꾼거였구요\n지금 공유기에서 보통 선으로 뽑아나오는건 1기가라\n저처럼 cat7까지 구매 안하셔도 5만구매하셔도 충분하세요",
+      "관련내용": "100메가짜리 공유기를 오래썼죠...선까지 바꿀필요는 없었지만 선도 오래썼기에 공유기를 기가로 바꾸면서 선도 교체의 필요성을 느껴서 바꾸게됐네요"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "랜선 길이도 적당하고 좋아요",
+      "관련내용": "인터넷 연결할 때 좋아요"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "동생이 필요하다 해서 줫는데 아주 맘에 들어해요"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "인터넷 연결할 때 좋아요"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "100메가짜리 공유기를 오래썼죠...선까지 바꿀필요는 없었지만 선도 오래썼기에 공유기를 기가로 바꾸면서 선도 교체의 필요성을 느껴서 바꾸게됐네요"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "긴데도 잘 돌아가고 좋네요."
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "생각이상으로 길고 속도 잘 나옵니다"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "속도차이 나는거 느껴지네요"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "길이가 전부 2미터 이상 사길 추천"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "잘 산거 같아서 뿌듯"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "아주 마음에 듭니다"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "방문수령 하러 갔는데 직원분이 너무 불친절 하네요"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "선이 깔끔하니 잘되서 좋네요"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "선이 깔끔해서 정리도 편하고 체결이 잘되어서 좋네요"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "유튜브보고 구매했느데 좋네여~"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "아직 사용 전이지만 빠른 배송에 만족합니다 잘 쓸게요"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "배송이 하루만에 와서 좋네요 아직 안써봤지만 기대중입니다"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "배송이 하루만에 와서 좋네요 아직 안써봤지만 기대중입니다"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "배송이 하루만에 와서 좋네요 아직 안써봤지만 기대중입니다"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "카테코리7번 진짜 환상입니다!카테고리 5번에서 바꾸었는데 정말 인터넷  속도 장난 아닙니다"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "잘 되네요 좋아요ㅎㅎ"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "감사합니다! 좋은 제품 만들어주셔서 잘 쓰고 있습니다"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "좋아요 속도가 기존꺼보다 빨르진 느낌입니다!^^"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "내용": "잘사용하겠습니다. ㅎㅎ"
+    },
+    {
+      "source_model": "LS-7SSTPD-0.5MG",
+      "내용": "필요해서 급하게 구매했는데 너무 좋은 것 같아요~ \n다음에도 재 구매요!"
+    },
+    {
+      "source_model": "LS-7SSTPD-0.5MG",
+      "내용": "배송 빠르고 좋습니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-0.5MG",
+      "내용": "빠른배송 굿. 제품도 좋아보여요."
+    },
+    {
+      "source_model": "LS-7SSTPD-0.5MG",
+      "내용": "랙케이스 패치용으로 라벨링 하여 사용하였습니다\n아무래도 패치이다보니 짧은 길이가 필요했는데 깔끔한 모양이기도 하여 잘 사용했습니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-0.5MG",
+      "내용": "배송 아주 빨라염 굳굳굳"
+    },
+    {
+      "source_model": "LS-7SSTPD-0.5MG",
+      "내용": "조아요조아요조아요조아요"
+    },
+    {
+      "source_model": "LS-7SSTPD-0.5MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-10MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-10MG",
+      "내용": "빠른배송빠른배송빠른배송",
+      "관련내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-10MG",
+      "내용": "빠른배송빠른배송빠른배송",
+      "관련내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-10MG",
+      "내용": "빠른배송빠른배송빠른배송",
+      "관련내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-10MG",
+      "내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-10MG",
+      "내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-10MG",
+      "내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-10MG",
+      "내용": "빠른배송 감사합니다",
+      "관련내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-10MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-10MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-10MG",
+      "내용": "항상 잘 받아 쓰고있습니다 24년도 번창하세요"
+    },
+    {
+      "source_model": "LS-7SSTPD-10MG",
+      "내용": "연결 확인했는데, 접지까지 제대로 되어있습니다.\n만족합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-15MG",
+      "내용": "빠른배송 감사합니다",
+      "관련내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-15MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-15MG",
+      "내용": "잘 사용하고있어요. 저렴하고 좋습니다",
+      "관련내용": "좋은제품 저렴하게 잘 구매했습니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-15MG",
+      "내용": "좋은제품 저렴하게 잘 구매했습니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-15MG",
+      "내용": "빠른배송빠른배송빠른배송",
+      "관련내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-15MG",
+      "내용": "빠른배송빠른배송빠른배송",
+      "관련내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-15MG",
+      "내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-15MG",
+      "내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-15MG",
+      "내용": "카테고리 7등급의 렌선 너무저렴하고 좋습니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-15MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-15MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-15MG",
+      "내용": "랜선기성품이 품질도 좋고, 끊기지 않아 좋습니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-1MG",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-7SSTPD-1MG",
+      "내용": "배송도 빠르고 잘 쓰고 있어요"
+    },
+    {
+      "source_model": "LS-7SSTPD-1MG",
+      "내용": "빠른배송 굿. 제품도 좋아보여요."
+    },
+    {
+      "source_model": "LS-7SSTPD-1MG",
+      "내용": "주문한 본체가 안와서 아직 사용전이긴하나 배송빠르 제품 괜찮아보이네요 ㅎㅎ"
+    },
+    {
+      "source_model": "LS-7SSTPD-1MG",
+      "내용": "배송이 빠르고 상품이 설명과 동일합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-1MG",
+      "내용": "배송도 빠르고 상품도 문제없네요."
+    },
+    {
+      "source_model": "LS-7SSTPD-1MG",
+      "내용": "깔끔한 마감으로 케이블 설치시 좋음"
+    },
+    {
+      "source_model": "LS-7SSTPD-20MG",
+      "내용": "빠른배송빠른배송빠른배송",
+      "관련내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-20MG",
+      "내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-20MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-20MG",
+      "내용": "x32 랜 네트워크 stp가 필요해서 구매했는데 좋네요"
+    },
+    {
+      "source_model": "LS-7SSTPD-20MG",
+      "내용": "정확한 제품 빠른 배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-20MG",
+      "내용": "배송 빠르게 잘받았습니다,,"
+    },
+    {
+      "source_model": "LS-7SSTPD-20MG",
+      "내용": "배송 빠르고, CAT7 기성품이라 좋습니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-20MG",
+      "내용": "빠르게 문제없이 잘 배송해주셔서 좋았습니다. 원했던 길이였고, 품질도 모두 괜찮은 것 같습니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-2MG",
+      "내용": "튼튼해서좋아요 지금까지100개정도사서쓰는중"
+    },
+    {
+      "source_model": "LS-7SSTPD-2MG",
+      "내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-2MG",
+      "내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-2MG",
+      "내용": "빠른배송 굿. 제품도 좋아보여요."
+    },
+    {
+      "source_model": "LS-7SSTPD-2MG",
+      "내용": "빠른 배송 감사합니다.\n잘 받았습니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-2MG",
+      "내용": "배송이 빠르고 상품이 설명과 동일합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-2MG",
+      "내용": "감사합니다\n좋은하루 되세요"
+    },
+    {
+      "source_model": "LS-7SSTPD-2MG",
+      "내용": "배송 빠르고 제품도 깔끔합니다 굿~"
+    },
+    {
+      "source_model": "LS-7SSTPD-2MG",
+      "내용": "배송도 안전하게 오고 잘 사용중입니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-30MG",
+      "내용": "x32 랜 네트워크 stp가 필요해서 구매했습니다. 길이도 길어서 연결하기 좋습니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-30MG",
+      "내용": "고장 없이 잘 사용중입니다.",
+      "관련내용": "급하게 샀는데 배송도 빠르고 문제 없이 잘 사용중이예요."
+    },
+    {
+      "source_model": "LS-7SSTPD-30MG",
+      "내용": "급하게 샀는데 배송도 빠르고 문제 없이 잘 사용중이예요."
+    },
+    {
+      "source_model": "LS-7SSTPD-30MG",
+      "내용": "가격 저렴하고 성능 괜찬네요."
+    },
+    {
+      "source_model": "LS-7SSTPD-30MG",
+      "내용": "아직 사용 전 입니다.\n50m 짜리 구매 후 추가 구매 한거라 좋으리라 믿습니다.\n5개 구매한다고 했는데 실수로 1개만 구매 했네요.\n4개 더 구매해야 겠네요. 배송비 아까비.."
+    },
+    {
+      "source_model": "LS-7SSTPD-3MG",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-3MG",
+      "내용": "배송도빠르고 다른제품에비해튼튼함"
+    },
+    {
+      "source_model": "LS-7SSTPD-3MG",
+      "내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-3MG",
+      "내용": "좋은 제품이네요 4m짜리를 구입했어야했는데 ㅜ.ㅜ"
+    },
+    {
+      "source_model": "LS-7SSTPD-3MG",
+      "내용": "빠른 배송 감사합니다.\n잘 받았습니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-3MG",
+      "내용": "배송이 빠르고 상품이 설명과 동일합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-3MG",
+      "내용": "배송도 안전하게 오고 잘 사용중입니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-50MG",
+      "내용": "믿고 쓰고 있어요 산업용 인터페이스 통신용으로 사용중인데 CAT5,CAT6 사용하다 통신문제 때문에 교체했어요\n통신잘됩니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-50MG",
+      "내용": "덕분에 좋은 행사 마무리했습니다!",
+      "관련내용": "덕분에 행사 잘 마무리했습니다 ㅎㅎ"
+    },
+    {
+      "source_model": "LS-7SSTPD-50MG",
+      "내용": "덕분에 행사 잘 마무리했습니다 ㅎㅎ"
+    },
+    {
+      "source_model": "LS-7SSTPD-50MG",
+      "내용": "빠른배송과 좋은상품이네요"
+    },
+    {
+      "source_model": "LS-7SSTPD-50MG",
+      "내용": "정확한 제품 빠른 배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-50MG",
+      "내용": "튼튼합니다. 잘 사용하고 있어요."
+    },
+    {
+      "source_model": "LS-7SSTPD-50MG",
+      "내용": "아직 사용 전 이지만\nFULKE 로 측정결과 특성이 괜챤게 나오네요.(5개 중 2개 랜덤으로 측정)"
+    },
+    {
+      "source_model": "LS-7SSTPD-50MG",
+      "내용": "배송 빠르게 잘 왔습니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-5MG",
+      "내용": "좋긴한테 너무 텐션이... 구부러져서 파손되는 문제는 없겠네요..^^"
+    },
+    {
+      "source_model": "LS-7SSTPD-5MG",
+      "내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-5MG",
+      "내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-5MG",
+      "내용": "역시 랜스타 입니다.재품 좋습니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-5MG",
+      "내용": "정확한 제품 빠른 배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-5MG",
+      "내용": "저번에도 구매해서 잘썻습니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-5MG",
+      "내용": "빠른 배송 감사합니다.\n잘 받았습니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-5MG",
+      "내용": "배송이 빠르고 상품이 설명과 동일합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-5MG",
+      "내용": "가성비 좋고 품질우수해서 좋아요"
+    },
+    {
+      "source_model": "LS-7SSTPD-5MG",
+      "내용": "길이선택을 아주 잘한것같습니다\n좋은제품 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-5MG",
+      "내용": "인터넷연결할때 잘쓰겠습니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-5MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-7MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-7MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-7MG",
+      "내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-7MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-7MG",
+      "내용": "빠른배송빠른배송빠른배송"
+    },
+    {
+      "source_model": "LS-7SSTPD-7MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-7MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-7MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-7MG",
+      "내용": "배송도 빠르고 상품도 문제없네요."
+    },
+    {
+      "source_model": "LS-7SSTPD-7MG",
+      "내용": "배송 빠르고, 품질 좋습니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-7SSTPD",
+      "id": 160220360,
+      "date": "2021-04-05 09:23",
+      "answerDate": "2021-04-05 09:29",
+      "user": "dear*****",
+      "productName": "랜스타 CAT7 SSTP 10Gbps 연선 색깔 랜케이블 랜스타 정품 LS-7SSTPD",
+      "question": "랜스타 CAT.7 SSTP 드럼 릴 랜케이블 50M을 구매하려고 하니,\nCAT.6A(CAT.7) SFTP콘넥터 (Dust Cover 별도구매) 이렇게 적혀있는데,\n이케이블 사서 연결하면 될까요?\n아니면 다른 선을 사서 연결해야되나요?\n검색을 해도 잘안나와서 문의드려봅니다.",
+      "answer": "안녕하세요 랜스타 입니다\n\n해당케이블 사용 가능 합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "id": 166107531,
+      "date": "2021-05-14 12:01",
+      "answerDate": "2021-05-14 13:10",
+      "user": "cym2***",
+      "productName": "랜스타 CAT7 SSTP 10Gbps 연선 그레이 랜케이블 랜스타 정품 LS-7SSTPD",
+      "question": "혹시 0.3m는 제작예정이없나요?\n0.3m를 많이들찾으셔서요 \n부턱드립니다",
+      "answer": "안녕하세요 랜스타 입니다\n\n해당 제품은 0.5mg 까지만 기성품으로 나오며\n\n0.3은 수입 요청을 해봐야 할듯 합니다"
+    },
+    {
+      "source_model": "LS-7SSTPD-7MG",
+      "id": 229272825,
+      "date": "2022-07-21 17:39",
+      "answerDate": "2022-07-22 09:29",
+      "user": "eon2***",
+      "productName": "랜스타 LS-7SSTPD-7MG CAT.7 랜케이블 SSTP 50u Gold 7M Grey",
+      "question": "이더넷선 0.5m 10개 1m 10개 7m 6개 사려고 하는대  묶음 배송 안되나요? 3건모두 각각 택배비 떠서 문의 드립니다",
+      "answer": "안녕하세요 랜스타입니다.\n\n1건만 택배비 선불, 나머지 제품은 착불로 설정해주시면 확인 후 묶음 배송 처리해드리겠습니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-15MG",
+      "id": 512940461,
+      "date": "2023-01-21 10:01",
+      "answerDate": "2023-01-25 09:32",
+      "user": "beyo******",
+      "productName": "랜스타 LS-7SSTPD-15MG CAT.7 랜케이블 SSTP 50u Gold 15M Grey",
+      "question": "안녕하세요 \n실외로 나가 창문으로 들어오는 인터넷선을 연결해야해서  알아보고있는데,\n작업할 케이블선이 아주 대량으로만 팔고 15~20m?정도는 판매하는곳이 거의없더라구요\n해서말인데 일체형 15m짜리 cat7sstp 선을 사서 커넥터를 자르고 창문구멍으로 들어온후 다시 새커넥터를 달아주는 방법을 생각중인데 \nLS-7SSTPD-15MG CAT.7 랜케이블 SSTP 50u Gold 15M Grey\n이거로 작업해도 문제없을까요?",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n해당 케이블 자른 후 다시 작업하여 사용 가능하나, 옥외용으로 사용은 권장드리지 않는 점 참고 부탁 드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-15MG",
+      "id": 602120090,
+      "date": "2024-10-24 14:37",
+      "answerDate": "2024-10-24 14:40",
+      "user": "y_ha******",
+      "productName": "랜스타 LS-7SSTPD-15MG CAT.7 랜케이블 SSTP 50u Gold 15M Grey",
+      "question": "사장님 안녕하세요.\n방금 주문했는데 이 제품 15미터짜리 맞죠?\n후기보니깐 7미터짜리가 있어서 헷갈려서요! 확인 부탁드립니다!\n그리고 오늘 발송하시면 내일 받을수있겠죵?^^",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n네, 문의 주신 제품 15M가 맞습니다. 길이별로 구매하시는 고객님들께서 리뷰를 편하게 작성해주셔서 그렇게 노출되시는 것으로 보입니다.\n그리고 금일 출고 도와드려 일반적으로 내일 받아보실 수 있을 것으로 보입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-50MG",
+      "id": 531097057,
+      "date": "2023-05-26 05:41",
+      "answerDate": "2023-05-26 10:21",
+      "user": "tp****",
+      "productName": "랜스타 LS-7SSTPD-50MG CAT.7 랜케이블 SSTP 50u Gold 50M Grey",
+      "question": "안녕하세요\n이거 인터넷랜선 맞나요?\n스마트 tv 구매해서 와아파이 없이  인터넷 유선랜선 셋탑에 연결해서\n볼 목적으로  인터넷 연결 시켜주는 선 사려고 하는데\n이거 사서 연결하면 될까요?\n맞다면 질 좋은걸로 추천해주시면 감사하겠습니다",
+      "answer": "안녕하세요 , 고객님 랜스타 입니다 .\n지금 보고계시는 케이블도 랜케이블 이 맞습니다 .\ncat.7 sstp 규격의 케이블로 일반적으로는 상위 제품이라고 보시면 됩니다 .\n\n랜선을 이용하여 셋탑박스를 사용하신다면 해당 케이블로도 사용이 가능하겠습니다 .\n안내가 도움이 되셨을까요 ? \n추가문의 사항 있으시면 언제든 문의주세요 .\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해 드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-50MG",
+      "id": 531126535,
+      "date": "2023-05-26 10:25",
+      "answerDate": "2023-05-26 10:28",
+      "user": "tp****",
+      "productName": "랜스타 LS-7SSTPD-50MG CAT.7 랜케이블 SSTP 50u Gold 50M Grey",
+      "question": "많은 도움이 됐습니다\n감사합니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n도움이 되셨다니 다행입니다.\n고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-1MG",
+      "id": 539667493,
+      "date": "2023-07-27 08:18",
+      "answerDate": "2023-07-27 10:52",
+      "user": "ol****",
+      "productName": "랜스타 LS-7SSTPD-1MG CAT.7 랜케이블 SSTP 50u Gold 1M Grey",
+      "question": "하자없는 제품으로 빠른발송 부탁드립니다.\n공용인터넷 사용중이긴한데.. 사용가능한거죠?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 주문건 확인 완료되어 금일 출고 도와드릴 예정입니다.\n케이블의 경우 공용인터넷 사용 여부 상관 없이 사용 가능하시다는 점 말씀 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-0",
+      "id": 604900837,
+      "date": "2024-11-13 10:55",
+      "answerDate": "2024-11-13 14:11",
+      "user": "hold***",
+      "productName": "랜스타 LS-7SSTPD-0.5MG CAT.7 랜케이블 SSTP 50u Gold 0.5M Gray",
+      "question": "안녕하세요 제가 문의를 계속 드리고 있는데,\n넥스트유 NEXT-HD150POC 4K60 HDMI 거리 연장기 리피터 이 제품에 쓸 랜케이블을 찾고 있는데\n\n이 랜케이블을 추천받았어요\n\n리피터쪽 상세페이지를 보면 UTP CAT6를 쓰라고 되어있는데\n\n그런데 Cat6이 아니라 cat7을 써도 되는건지, UTP가 아니라 STP FTP를 써도 되는건지 궁금합니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\nUTP FTP 상관없이 사용가능하십니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-7SSTPD-0",
+      "id": 604943296,
+      "date": "2024-11-13 14:21",
+      "answerDate": "2024-11-13 15:14",
+      "user": "hold***",
+      "productName": "랜스타 LS-7SSTPD-0.5MG CAT.7 랜케이블 SSTP 50u Gold 0.5M Gray",
+      "question": "hdmi리피터에 cat6를 써야하는데 cat7을 써도 괜찮은건가요~?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 지속적으로 기술 문의가 이뤄지고 있습니다.\n필요한 사항 정리하셔서 톡톡으로 말씀 주시면 기술 지원팀에서 확인 후 안내 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-7SSTPD-0",
+      "chatUrl": "hbnQ",
+      "dateIso": "2024-11-18T07:10:37.882Z",
+      "name": "너구리",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "정말 감사드립니다 랜스타 덕분에 깔끔하게 일처리했습니다\n\n네 추가적으로 활용할 수 있는 키스톤이 있으면 꼭 알려주세요~^^\n제가 집정리가 끝나면 후기도 꼭 쓰겠습니다\n감사합니다!",
+      "answer": "사진으로 보기에 정확하진 않지만, 일반 키스톤이 아닌 대각 모듈 키스톤잭으로 보이며, 자사에서는 판매하고 있지 않습니다. 추가로 이전에 안내드렸던 것과 같이 제품설치 전에 유선랜케이블로 거리연장기를 연결하셔서 잘 작동하는 지 먼저 테스트 후 설치 부탁드립니다. 아파트 벽 뒤의 배선은 어떻게 되어 있는 지 알 수 없기에\n\n네 고객님, 우선 모든 환경이 원활하게 작동 되셔서 다행입니다. 저희 측에서도 문의 주신 것처럼 추가적으로 활용할 수 있는 키스톤이 있는지 구매팀에 문의해보도록 하겠습니다.\n\n네 고객님, 확인하였습니다. 언제든지 랜스타 톡톡으로 필요하신 사항 있으시면 말씀 부탁드립니다. 감사합니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "agent",
+          "text": "네 고객님, 확인하였습니다.\n언제든지 랜스타 톡톡으로 필요하신 사항 있으시면 말씀 부탁드립니다.\n\n감사합니다."
+        },
+        {
+          "role": "customer",
+          "text": "정말 감사드립니다 랜스타 덕분에 깔끔하게 일처리했습니다\n\n네 추가적으로 활용할 수 있는 키스톤이 있으면 꼭 알려주세요~^^\n제가 집정리가 끝나면 후기도 꼭 쓰겠습니다\n감사합니다!"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 우선 모든 환경이 원활하게 작동 되셔서 다행입니다.\n저희 측에서도 문의 주신 것처럼 추가적으로 활용할 수 있는 키스톤이 있는지 구매팀에 문의해보도록 하겠습니다.\n\n추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n사진으로 보기에 정확하진 않지만, 일반 키스톤이 아닌 대각 모듈 키스톤잭으로 보이며, 자사에서는 판매하고 있지 않습니다.\n추가로 이전에 안내드렸던 것과 같이 제품설치 전에 유선랜케이블로 거리연장기를 연결하셔서 잘 작동하는 지 먼저 테스트 후 설치 부탁드립니다. 아파트 벽 뒤의 배선은 어떻게 되어 있는 지 알 수 없기에"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-7SSTPD",
+      "chatUrl": "5y21k",
+      "dateIso": "2024-10-23T02:53:11.083Z",
+      "name": "Chaerincess",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하세요 ~ STP와 FTP 케이블의 차이점이 있나요? LS-6STPD-0.3M 규격의 STP 케이블은 없는건가요?",
+      "answer": "STP의 경우 cat.6 규격으로는 없고, CAT.7 규격의 LS-7SSTPD- 시리즈가 있습니다. 추가로, STP = 한쌍씩 차폐 FTP =",
+      "turn_count": 1,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "안녕하세요 ~ STP와 FTP 케이블의 차이점이 있나요? LS-6STPD-0.3M 규격의 STP 케이블은 없는건가요?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\nSTP의 경우 cat.6 규격으로는 없고, CAT.7 규격의 LS-7SSTPD- 시리즈가 있습니다.\n추가로, STP = 한쌍씩 차폐 FTP ="
+        }
+      ]
+    },
+    {
+      "source_model": "LS-7SSTPD-50MG",
+      "chatUrl": "1O2rx",
+      "dateIso": "2023-11-23T02:35:45.134Z",
+      "name": "흐르는 강물처럼",
+      "isTechnical": true,
+      "category": "install",
+      "modelConfidence": "high",
+      "question": "커넥터 규격 RJ45\n케이블 CAT6A 이상\nAWG 23이하\n\n랜선 길이 각각 10M, 20M, 30M, 40M 또는 50M\n(추가 문의) 이 제품이 안된다면 cat6 50m 짜리 다른 제품 있나요?\n(추가 문의) 그러면 제품은 cat6a인가요 cat7인가요?\n(추가 문의) 이 제품 50M 짜리 입고 됐을까요 ㅠ",
+      "answer": "해당 제품은 10월 중순 입고 예정에 있습니다. 또한, CAT.6 50M 제품으로는 [LS-6UTPD-50MG]이 있으며, CAT.7으로는 [LS-7SSTPD-50MG] 제품 안내드립니다.",
+      "turn_count": 12,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "위의 조건을 충족하는 랜선 있을까요?"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "커넥터 규격 RJ45\n케이블 CAT6A 이상\nAWG 23이하\n\n랜선 길이 각각 10M, 20M, 30M, 40M 또는 50M"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "커넥터 규격 RJ45 맞나요?"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "LS-7SSTPD-50MG"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\n해당 제품은 10월 중순 입고 예정에 있습니다.\n또한, CAT.6 50M 제품으로는 [LS-6UTPD-50MG]이 있으며, CAT.7으로는 [LS-7SSTPD-50MG] 제품 안내드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신"
+        },
+        {
+          "role": "customer",
+          "text": "이 제품이 안된다면 cat6 50m 짜리 다른 제품 있나요?"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "답이 없으시네요.."
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "이 제품 50M 짜리 입고 됐을까요 ㅠ"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-7SSTPD-10M": "LANStar\nⓇ\n10Gbps 속도로 데이터를 전송하는\nCAT.6A/CAT.7 SSTP\n다이렉트 케이블\ncara\n50μ\n10Gbps\n전송속도\n600MHZ\n대역폭\nLSZH\n최상위\n난연등급\n콘넥터\n1M LS-7SSTPD-IM\n2M LS-7SSTPD-2M\n3M LS-7SSTPD-3M\n5M LS-7SSTPD-5M\n7M LS-7SSTPD-7M\n10M LS-7SSTPD-IOM\n15M LS-7SSTPD-15M\n20M LS-7SSTPD-20M 30M LS-7SSTPD-30M\nCAT.6A 케이블은?\nCAT.6A 케이블은 CAT.6보다 10배인 최대 10Gbps(10,000Mbps)의 속도를\n지원하고 CAT.6의 2배의 전송대역인 500MHz의 대역폭을 가지는 TIA/EIA-568\n규정규격이며 10Mbps/100Mbps/1000Mbps/10Gbps의 전송이 가능합니다.\n?\nCAT.6A와 CAT.7의 차이?\nCAT.6A와 CAT.7 모두 10G를 지원합니다.\nTIA/EIA-568 규격은 대역폭 500MHz를 CAT.6A라 하고 ISO/IEC 11801 Class\n규정에서는 600MHz를 CAT.7이라 기준을 정하였으나 두 기관간 명명문제이며\n결국 대역폭 외에 속도는 동일하므로 거의 같은 케이블이라 보시면 됩니다.\n케이블 규격\n케이블 타입\n대역폭\n전송속도\nCAT.5/CAT.SE\nUTP/FTP / S-FTP\n100MHz\n100~400Mbps (사무용)\nCAT.6\nUTP/FTP / S-FTP\n250MHz\n1Gbps (전산망, 일반서버)\nCAT.6A/CAT.7\nUTP/S-STP\n500MHz/600MHz\n10Gbps이상 (대용량 서버)\nCAT.6A/CAT.7 SSTP CABLE\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n노이즈 방지 쉴드\n-편조쉴드\n- 알루미늄\n차폐막\n·쌍(Pair)\nㆍPVC/LSZH 피복\n쉴드 접지선\n- 알루미늄 차폐막\n쉴드 접지선\n|Stranded Cable\n연선(線) 케이블\n연선 케이블은 단선에 비해 잘 휘어져\n설치가 용이하며 잡음이나 감쇄현상이\n현저히 적어 널리 쓰입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\nILSZH (Low Smoke Zero Halogen)\n난연(難燃) 케이블\n불에 강한 난연 케이블이라 화재 시 화재확산을 늦춰줍니다\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\nXXXII\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n녹색 6\n갈색/흰색 7\n\n\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n4\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXXI\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n8 갈색\n갈색 8\n8 갈색\n50 은장 콘넥터\n구리함량이 높아 전송속도가 빠르고\n신호손실이 적습니다\nⓖ 제조사의 사정에 의해 콘넥터가 은장에서 금장으로 바뀔 수 있습니다.\n26AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n26AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nwww\nFLUKE.\n플루크 테스트를 통과한 제품입니다.\n(테스터기 : DTX-1800)\nCD LINKWARE \"PC\nSummary: PASS\n200\nCatle ID: LS-7-55TP\nTest Sum\nCHA001\n36-45\n4000\n213\nPS NEXT\n174\n4000\nFLUKE\nm000\nDEFAULT\nSCAD\nFLUKE\nnetworks\n분류\n항목\n시험결과\n반사손실(Return Loss)\nPASS\n삽입 손실(Insertion Loss); 감쇄(Attenuation)\nPASS\nPASS\n전기적 누화손실(NEXT: Near End Crosstalk Ratio)\n특성\n전력 누화손실(PS NEXT: Power Sum Near End Crosstalk Ratio)\nPASS\nACR-F(Attenuation to Crosstalk Ratio); ELFEXT\nPASS\nPS ACR-F(Power Sum Attenuation to Crosstalk Ratio): PSELFEXT\nPASS\nPRODUCT SIZE\n1000~30000mm\n11.5mm\n마미\nmmmmmhr\n6.2mm\n11.5mm\n6.5mm |\n10.0.0\nLS-7SSTPD-1M 1M\nLS-7SSTPD-2M 2M LS-7SSTPD-3M 3M\n0.0.0\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\n\n\no\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\nLS-7SSTPD-15M 15M\nLS-7SSTPD-20M 20M\nLS-7SSTPD-30M 30M\nETL 4000478, TWIST-PAIR 4P, 26AWG S/FTP PIME CATER/CAT.7 CABLE, 10G, STRAND, <LSZH> <ROHS><LANstar>\n랜스타 정품케이블\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.6A/CAT.7\n최대전송속도\n10Gbps\n대\n역\n폭\n600MHz\n길\n이\n1M / 2M / 3M / 5M / M\n10M/15M / 20M / 30M\nROHS\nFLUKE\nTEST\nCOMPLIANT\nPASS\nLSZH\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar®\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\nCAT.6A/CAT.7 SSTP 다이렉트 케이블\nLAN Sta\nStar\n모\n델\n명\nLS-7SSTPD-1M/LS-7SSTPD-2M\nLS-7SSTPD-3M/LS-7SSTPD-5M\nLS-7SSTPD-7M/LS-7SSTPD-10M\nLS-7SSTPD-15M/LS-7SSTPD-20M\nLS-7SSTPD-30M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-7SSTPD-15M": "LANStar\nⓇ\n10Gbps 속도로 데이터를 전송하는\nCAT.6A/CAT.7 SSTP\n다이렉트 케이블\ncara\n50μ\n10Gbps\n전송속도\n600MHZ\n대역폭\nLSZH\n최상위\n난연등급\n콘넥터\n1M LS-7SSTPD-IM\n2M LS-7SSTPD-2M\n3M LS-7SSTPD-3M\n5M LS-7SSTPD-5M\n7M LS-7SSTPD-7M\n10M LS-7SSTPD-IOM\n15M LS-7SSTPD-15M\n20M LS-7SSTPD-20M 30M LS-7SSTPD-30M\nCAT.6A 케이블은?\nCAT.6A 케이블은 CAT.6보다 10배인 최대 10Gbps(10,000Mbps)의 속도를\n지원하고 CAT.6의 2배의 전송대역인 500MHz의 대역폭을 가지는 TIA/EIA-568\n규정규격이며 10Mbps/100Mbps/1000Mbps/10Gbps의 전송이 가능합니다.\n?\nCAT.6A와 CAT.7의 차이?\nCAT.6A와 CAT.7 모두 10G를 지원합니다.\nTIA/EIA-568 규격은 대역폭 500MHz를 CAT.6A라 하고 ISO/IEC 11801 Class\n규정에서는 600MHz를 CAT.7이라 기준을 정하였으나 두 기관간 명명문제이며\n결국 대역폭 외에 속도는 동일하므로 거의 같은 케이블이라 보시면 됩니다.\n케이블 규격\n케이블 타입\n대역폭\n전송속도\nCAT.5/CAT.SE\nUTP/FTP / S-FTP\n100MHz\n100~400Mbps (사무용)\nCAT.6\nUTP/FTP / S-FTP\n250MHz\n1Gbps (전산망, 일반서버)\nCAT.6A/CAT.7\nUTP/S-STP\n500MHz/600MHz\n10Gbps이상 (대용량 서버)\nCAT.6A/CAT.7 SSTP CABLE\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n노이즈 방지 쉴드\n-편조쉴드\n- 알루미늄\n차폐막\n·쌍(Pair)\nㆍPVC/LSZH 피복\n쉴드 접지선\n- 알루미늄 차폐막\n쉴드 접지선\n|Stranded Cable\n연선(線) 케이블\n연선 케이블은 단선에 비해 잘 휘어져\n설치가 용이하며 잡음이나 감쇄현상이\n현저히 적어 널리 쓰입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\nILSZH (Low Smoke Zero Halogen)\n난연(難燃) 케이블\n불에 강한 난연 케이블이라 화재 시 화재확산을 늦춰줍니다\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\nXXXII\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n녹색 6\n갈색/흰색 7\n\n\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n4\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXXI\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n8 갈색\n갈색 8\n8 갈색\n50 은장 콘넥터\n구리함량이 높아 전송속도가 빠르고\n신호손실이 적습니다\nⓖ 제조사의 사정에 의해 콘넥터가 은장에서 금장으로 바뀔 수 있습니다.\n26AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n26AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nwww\nFLUKE.\n플루크 테스트를 통과한 제품입니다.\n(테스터기 : DTX-1800)\nCD LINKWARE \"PC\nSummary: PASS\n200\nCatle ID: LS-7-55TP\nTest Sum\nCHA001\n36-45\n4000\n213\nPS NEXT\n174\n4000\nFLUKE\nm000\nDEFAULT\nSCAD\nFLUKE\nnetworks\n분류\n항목\n시험결과\n반사손실(Return Loss)\nPASS\n삽입 손실(Insertion Loss); 감쇄(Attenuation)\nPASS\nPASS\n전기적 누화손실(NEXT: Near End Crosstalk Ratio)\n특성\n전력 누화손실(PS NEXT: Power Sum Near End Crosstalk Ratio)\nPASS\nACR-F(Attenuation to Crosstalk Ratio); ELFEXT\nPASS\nPS ACR-F(Power Sum Attenuation to Crosstalk Ratio): PSELFEXT\nPASS\nPRODUCT SIZE\n1000~30000mm\n11.5mm\n마미\nmmmmmhr\n6.2mm\n11.5mm\n6.5mm |\n10.0.0\nLS-7SSTPD-1M 1M\nLS-7SSTPD-2M 2M LS-7SSTPD-3M 3M\n0.0.0\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\n\n\no\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\nLS-7SSTPD-15M 15M\nLS-7SSTPD-20M 20M\nLS-7SSTPD-30M 30M\nETL 4000478, TWIST-PAIR 4P, 26AWG S/FTP PIME CATER/CAT.7 CABLE, 10G, STRAND, <LSZH> <ROHS><LANstar>\n랜스타 정품케이블\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.6A/CAT.7\n최대전송속도\n10Gbps\n대\n역\n폭\n600MHz\n길\n이\n1M / 2M / 3M / 5M / M\n10M/15M / 20M / 30M\nROHS\nFLUKE\nTEST\nCOMPLIANT\nPASS\nLSZH\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar®\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\nCAT.6A/CAT.7 SSTP 다이렉트 케이블\nLAN Sta\nStar\n모\n델\n명\nLS-7SSTPD-1M/LS-7SSTPD-2M\nLS-7SSTPD-3M/LS-7SSTPD-5M\nLS-7SSTPD-7M/LS-7SSTPD-10M\nLS-7SSTPD-15M/LS-7SSTPD-20M\nLS-7SSTPD-30M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-7SSTPD-1M": "LANStar\nⓇ\n10Gbps 속도로 데이터를 전송하는\nCAT.6A/CAT.7 SSTP\n다이렉트 케이블\ncara\n50μ\n10Gbps\n전송속도\n600MHZ\n대역폭\nLSZH\n최상위\n난연등급\n콘넥터\n1M LS-7SSTPD-IM\n2M LS-7SSTPD-2M\n3M LS-7SSTPD-3M\n5M LS-7SSTPD-5M\n7M LS-7SSTPD-7M\n10M LS-7SSTPD-IOM\n15M LS-7SSTPD-15M\n20M LS-7SSTPD-20M 30M LS-7SSTPD-30M\nCAT.6A 케이블은?\nCAT.6A 케이블은 CAT.6보다 10배인 최대 10Gbps(10,000Mbps)의 속도를\n지원하고 CAT.6의 2배의 전송대역인 500MHz의 대역폭을 가지는 TIA/EIA-568\n규정규격이며 10Mbps/100Mbps/1000Mbps/10Gbps의 전송이 가능합니다.\n?\nCAT.6A와 CAT.7의 차이?\nCAT.6A와 CAT.7 모두 10G를 지원합니다.\nTIA/EIA-568 규격은 대역폭 500MHz를 CAT.6A라 하고 ISO/IEC 11801 Class\n규정에서는 600MHz를 CAT.7이라 기준을 정하였으나 두 기관간 명명문제이며\n결국 대역폭 외에 속도는 동일하므로 거의 같은 케이블이라 보시면 됩니다.\n케이블 규격\n케이블 타입\n대역폭\n전송속도\nCAT.5/CAT.SE\nUTP/FTP / S-FTP\n100MHz\n100~400Mbps (사무용)\nCAT.6\nUTP/FTP / S-FTP\n250MHz\n1Gbps (전산망, 일반서버)\nCAT.6A/CAT.7\nUTP/S-STP\n500MHz/600MHz\n10Gbps이상 (대용량 서버)\nCAT.6A/CAT.7 SSTP CABLE\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n노이즈 방지 쉴드\n-편조쉴드\n- 알루미늄\n차폐막\n·쌍(Pair)\nㆍPVC/LSZH 피복\n쉴드 접지선\n- 알루미늄 차폐막\n쉴드 접지선\n|Stranded Cable\n연선(線) 케이블\n연선 케이블은 단선에 비해 잘 휘어져\n설치가 용이하며 잡음이나 감쇄현상이\n현저히 적어 널리 쓰입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\nILSZH (Low Smoke Zero Halogen)\n난연(難燃) 케이블\n불에 강한 난연 케이블이라 화재 시 화재확산을 늦춰줍니다\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\nXXXII\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n녹색 6\n갈색/흰색 7\n\n\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n4\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXXI\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n8 갈색\n갈색 8\n8 갈색\n50 은장 콘넥터\n구리함량이 높아 전송속도가 빠르고\n신호손실이 적습니다\nⓖ 제조사의 사정에 의해 콘넥터가 은장에서 금장으로 바뀔 수 있습니다.\n26AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n26AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nwww\nFLUKE.\n플루크 테스트를 통과한 제품입니다.\n(테스터기 : DTX-1800)\nCD LINKWARE \"PC\nSummary: PASS\n200\nCatle ID: LS-7-55TP\nTest Sum\nCHA001\n36-45\n4000\n213\nPS NEXT\n174\n4000\nFLUKE\nm000\nDEFAULT\nSCAD\nFLUKE\nnetworks\n분류\n항목\n시험결과\n반사손실(Return Loss)\nPASS\n삽입 손실(Insertion Loss); 감쇄(Attenuation)\nPASS\nPASS\n전기적 누화손실(NEXT: Near End Crosstalk Ratio)\n특성\n전력 누화손실(PS NEXT: Power Sum Near End Crosstalk Ratio)\nPASS\nACR-F(Attenuation to Crosstalk Ratio); ELFEXT\nPASS\nPS ACR-F(Power Sum Attenuation to Crosstalk Ratio): PSELFEXT\nPASS\nPRODUCT SIZE\n1000~30000mm\n11.5mm\n마미\nmmmmmhr\n6.2mm\n11.5mm\n6.5mm |\n10.0.0\nLS-7SSTPD-1M 1M\nLS-7SSTPD-2M 2M LS-7SSTPD-3M 3M\n0.0.0\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\n\n\no\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\nLS-7SSTPD-15M 15M\nLS-7SSTPD-20M 20M\nLS-7SSTPD-30M 30M\nETL 4000478, TWIST-PAIR 4P, 26AWG S/FTP PIME CATER/CAT.7 CABLE, 10G, STRAND, <LSZH> <ROHS><LANstar>\n랜스타 정품케이블\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.6A/CAT.7\n최대전송속도\n10Gbps\n대\n역\n폭\n600MHz\n길\n이\n1M / 2M / 3M / 5M / M\n10M/15M / 20M / 30M\nROHS\nFLUKE\nTEST\nCOMPLIANT\nPASS\nLSZH\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar®\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\nCAT.6A/CAT.7 SSTP 다이렉트 케이블\nLAN Sta\nStar\n모\n델\n명\nLS-7SSTPD-1M/LS-7SSTPD-2M\nLS-7SSTPD-3M/LS-7SSTPD-5M\nLS-7SSTPD-7M/LS-7SSTPD-10M\nLS-7SSTPD-15M/LS-7SSTPD-20M\nLS-7SSTPD-30M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-7SSTPD-20M": "LANStar\nⓇ\n10Gbps 속도로 데이터를 전송하는\nCAT.6A/CAT.7 SSTP\n다이렉트 케이블\ncara\n50μ\n10Gbps\n전송속도\n600MHZ\n대역폭\nLSZH\n최상위\n난연등급\n콘넥터\n1M LS-7SSTPD-IM\n2M LS-7SSTPD-2M\n3M LS-7SSTPD-3M\n5M LS-7SSTPD-5M\n7M LS-7SSTPD-7M\n10M LS-7SSTPD-IOM\n15M LS-7SSTPD-15M\n20M LS-7SSTPD-20M 30M LS-7SSTPD-30M\nCAT.6A 케이블은?\nCAT.6A 케이블은 CAT.6보다 10배인 최대 10Gbps(10,000Mbps)의 속도를\n지원하고 CAT.6의 2배의 전송대역인 500MHz의 대역폭을 가지는 TIA/EIA-568\n규정규격이며 10Mbps/100Mbps/1000Mbps/10Gbps의 전송이 가능합니다.\n?\nCAT.6A와 CAT.7의 차이?\nCAT.6A와 CAT.7 모두 10G를 지원합니다.\nTIA/EIA-568 규격은 대역폭 500MHz를 CAT.6A라 하고 ISO/IEC 11801 Class\n규정에서는 600MHz를 CAT.7이라 기준을 정하였으나 두 기관간 명명문제이며\n결국 대역폭 외에 속도는 동일하므로 거의 같은 케이블이라 보시면 됩니다.\n케이블 규격\n케이블 타입\n대역폭\n전송속도\nCAT.5/CAT.SE\nUTP/FTP / S-FTP\n100MHz\n100~400Mbps (사무용)\nCAT.6\nUTP/FTP / S-FTP\n250MHz\n1Gbps (전산망, 일반서버)\nCAT.6A/CAT.7\nUTP/S-STP\n500MHz/600MHz\n10Gbps이상 (대용량 서버)\nCAT.6A/CAT.7 SSTP CABLE\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n노이즈 방지 쉴드\n-편조쉴드\n- 알루미늄\n차폐막\n·쌍(Pair)\nㆍPVC/LSZH 피복\n쉴드 접지선\n- 알루미늄 차폐막\n쉴드 접지선\n|Stranded Cable\n연선(線) 케이블\n연선 케이블은 단선에 비해 잘 휘어져\n설치가 용이하며 잡음이나 감쇄현상이\n현저히 적어 널리 쓰입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\nILSZH (Low Smoke Zero Halogen)\n난연(難燃) 케이블\n불에 강한 난연 케이블이라 화재 시 화재확산을 늦춰줍니다\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\nXXXII\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n녹색 6\n갈색/흰색 7\n\n\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n4\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXXI\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n8 갈색\n갈색 8\n8 갈색\n50 은장 콘넥터\n구리함량이 높아 전송속도가 빠르고\n신호손실이 적습니다\nⓖ 제조사의 사정에 의해 콘넥터가 은장에서 금장으로 바뀔 수 있습니다.\n26AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n26AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nwww\nFLUKE.\n플루크 테스트를 통과한 제품입니다.\n(테스터기 : DTX-1800)\nCD LINKWARE \"PC\nSummary: PASS\n200\nCatle ID: LS-7-55TP\nTest Sum\nCHA001\n36-45\n4000\n213\nPS NEXT\n174\n4000\nFLUKE\nm000\nDEFAULT\nSCAD\nFLUKE\nnetworks\n분류\n항목\n시험결과\n반사손실(Return Loss)\nPASS\n삽입 손실(Insertion Loss); 감쇄(Attenuation)\nPASS\nPASS\n전기적 누화손실(NEXT: Near End Crosstalk Ratio)\n특성\n전력 누화손실(PS NEXT: Power Sum Near End Crosstalk Ratio)\nPASS\nACR-F(Attenuation to Crosstalk Ratio); ELFEXT\nPASS\nPS ACR-F(Power Sum Attenuation to Crosstalk Ratio): PSELFEXT\nPASS\nPRODUCT SIZE\n1000~30000mm\n11.5mm\n마미\nmmmmmhr\n6.2mm\n11.5mm\n6.5mm |\n10.0.0\nLS-7SSTPD-1M 1M\nLS-7SSTPD-2M 2M LS-7SSTPD-3M 3M\n0.0.0\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\n\n\no\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\nLS-7SSTPD-15M 15M\nLS-7SSTPD-20M 20M\nLS-7SSTPD-30M 30M\nETL 4000478, TWIST-PAIR 4P, 26AWG S/FTP PIME CATER/CAT.7 CABLE, 10G, STRAND, <LSZH> <ROHS><LANstar>\n랜스타 정품케이블\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.6A/CAT.7\n최대전송속도\n10Gbps\n대\n역\n폭\n600MHz\n길\n이\n1M / 2M / 3M / 5M / M\n10M/15M / 20M / 30M\nROHS\nFLUKE\nTEST\nCOMPLIANT\nPASS\nLSZH\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar®\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\nCAT.6A/CAT.7 SSTP 다이렉트 케이블\nLAN Sta\nStar\n모\n델\n명\nLS-7SSTPD-1M/LS-7SSTPD-2M\nLS-7SSTPD-3M/LS-7SSTPD-5M\nLS-7SSTPD-7M/LS-7SSTPD-10M\nLS-7SSTPD-15M/LS-7SSTPD-20M\nLS-7SSTPD-30M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-7SSTPD-2M": "LANStar\nⓇ\n10Gbps 속도로 데이터를 전송하는\nCAT.6A/CAT.7 SSTP\n다이렉트 케이블\ncara\n50μ\n10Gbps\n전송속도\n600MHZ\n대역폭\nLSZH\n최상위\n난연등급\n콘넥터\n1M LS-7SSTPD-IM\n2M LS-7SSTPD-2M\n3M LS-7SSTPD-3M\n5M LS-7SSTPD-5M\n7M LS-7SSTPD-7M\n10M LS-7SSTPD-IOM\n15M LS-7SSTPD-15M\n20M LS-7SSTPD-20M 30M LS-7SSTPD-30M\nCAT.6A 케이블은?\nCAT.6A 케이블은 CAT.6보다 10배인 최대 10Gbps(10,000Mbps)의 속도를\n지원하고 CAT.6의 2배의 전송대역인 500MHz의 대역폭을 가지는 TIA/EIA-568\n규정규격이며 10Mbps/100Mbps/1000Mbps/10Gbps의 전송이 가능합니다.\n?\nCAT.6A와 CAT.7의 차이?\nCAT.6A와 CAT.7 모두 10G를 지원합니다.\nTIA/EIA-568 규격은 대역폭 500MHz를 CAT.6A라 하고 ISO/IEC 11801 Class\n규정에서는 600MHz를 CAT.7이라 기준을 정하였으나 두 기관간 명명문제이며\n결국 대역폭 외에 속도는 동일하므로 거의 같은 케이블이라 보시면 됩니다.\n케이블 규격\n케이블 타입\n대역폭\n전송속도\nCAT.5/CAT.SE\nUTP/FTP / S-FTP\n100MHz\n100~400Mbps (사무용)\nCAT.6\nUTP/FTP / S-FTP\n250MHz\n1Gbps (전산망, 일반서버)\nCAT.6A/CAT.7\nUTP/S-STP\n500MHz/600MHz\n10Gbps이상 (대용량 서버)\nCAT.6A/CAT.7 SSTP CABLE\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n노이즈 방지 쉴드\n-편조쉴드\n- 알루미늄\n차폐막\n·쌍(Pair)\nㆍPVC/LSZH 피복\n쉴드 접지선\n- 알루미늄 차폐막\n쉴드 접지선\n|Stranded Cable\n연선(線) 케이블\n연선 케이블은 단선에 비해 잘 휘어져\n설치가 용이하며 잡음이나 감쇄현상이\n현저히 적어 널리 쓰입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\nILSZH (Low Smoke Zero Halogen)\n난연(難燃) 케이블\n불에 강한 난연 케이블이라 화재 시 화재확산을 늦춰줍니다\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\nXXXII\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n녹색 6\n갈색/흰색 7\n\n\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n4\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXXI\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n8 갈색\n갈색 8\n8 갈색\n50 은장 콘넥터\n구리함량이 높아 전송속도가 빠르고\n신호손실이 적습니다\nⓖ 제조사의 사정에 의해 콘넥터가 은장에서 금장으로 바뀔 수 있습니다.\n26AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n26AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nwww\nFLUKE.\n플루크 테스트를 통과한 제품입니다.\n(테스터기 : DTX-1800)\nCD LINKWARE \"PC\nSummary: PASS\n200\nCatle ID: LS-7-55TP\nTest Sum\nCHA001\n36-45\n4000\n213\nPS NEXT\n174\n4000\nFLUKE\nm000\nDEFAULT\nSCAD\nFLUKE\nnetworks\n분류\n항목\n시험결과\n반사손실(Return Loss)\nPASS\n삽입 손실(Insertion Loss); 감쇄(Attenuation)\nPASS\nPASS\n전기적 누화손실(NEXT: Near End Crosstalk Ratio)\n특성\n전력 누화손실(PS NEXT: Power Sum Near End Crosstalk Ratio)\nPASS\nACR-F(Attenuation to Crosstalk Ratio); ELFEXT\nPASS\nPS ACR-F(Power Sum Attenuation to Crosstalk Ratio): PSELFEXT\nPASS\nPRODUCT SIZE\n1000~30000mm\n11.5mm\n마미\nmmmmmhr\n6.2mm\n11.5mm\n6.5mm |\n10.0.0\nLS-7SSTPD-1M 1M\nLS-7SSTPD-2M 2M LS-7SSTPD-3M 3M\n0.0.0\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\n\n\no\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\nLS-7SSTPD-15M 15M\nLS-7SSTPD-20M 20M\nLS-7SSTPD-30M 30M\nETL 4000478, TWIST-PAIR 4P, 26AWG S/FTP PIME CATER/CAT.7 CABLE, 10G, STRAND, <LSZH> <ROHS><LANstar>\n랜스타 정품케이블\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.6A/CAT.7\n최대전송속도\n10Gbps\n대\n역\n폭\n600MHz\n길\n이\n1M / 2M / 3M / 5M / M\n10M/15M / 20M / 30M\nROHS\nFLUKE\nTEST\nCOMPLIANT\nPASS\nLSZH\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar®\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\nCAT.6A/CAT.7 SSTP 다이렉트 케이블\nLAN Sta\nStar\n모\n델\n명\nLS-7SSTPD-1M/LS-7SSTPD-2M\nLS-7SSTPD-3M/LS-7SSTPD-5M\nLS-7SSTPD-7M/LS-7SSTPD-10M\nLS-7SSTPD-15M/LS-7SSTPD-20M\nLS-7SSTPD-30M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-7SSTPD-30M": "LANStar\nⓇ\n10Gbps 속도로 데이터를 전송하는\nCAT.6A/CAT.7 SSTP\n다이렉트 케이블\ncara\n50μ\n10Gbps\n전송속도\n600MHZ\n대역폭\nLSZH\n최상위\n난연등급\n콘넥터\n1M LS-7SSTPD-IM\n2M LS-7SSTPD-2M\n3M LS-7SSTPD-3M\n5M LS-7SSTPD-5M\n7M LS-7SSTPD-7M\n10M LS-7SSTPD-IOM\n15M LS-7SSTPD-15M\n20M LS-7SSTPD-20M 30M LS-7SSTPD-30M\nCAT.6A 케이블은?\nCAT.6A 케이블은 CAT.6보다 10배인 최대 10Gbps(10,000Mbps)의 속도를\n지원하고 CAT.6의 2배의 전송대역인 500MHz의 대역폭을 가지는 TIA/EIA-568\n규정규격이며 10Mbps/100Mbps/1000Mbps/10Gbps의 전송이 가능합니다.\n?\nCAT.6A와 CAT.7의 차이?\nCAT.6A와 CAT.7 모두 10G를 지원합니다.\nTIA/EIA-568 규격은 대역폭 500MHz를 CAT.6A라 하고 ISO/IEC 11801 Class\n규정에서는 600MHz를 CAT.7이라 기준을 정하였으나 두 기관간 명명문제이며\n결국 대역폭 외에 속도는 동일하므로 거의 같은 케이블이라 보시면 됩니다.\n케이블 규격\n케이블 타입\n대역폭\n전송속도\nCAT.5/CAT.SE\nUTP/FTP / S-FTP\n100MHz\n100~400Mbps (사무용)\nCAT.6\nUTP/FTP / S-FTP\n250MHz\n1Gbps (전산망, 일반서버)\nCAT.6A/CAT.7\nUTP/S-STP\n500MHz/600MHz\n10Gbps이상 (대용량 서버)\nCAT.6A/CAT.7 SSTP CABLE\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n노이즈 방지 쉴드\n-편조쉴드\n- 알루미늄\n차폐막\n·쌍(Pair)\nㆍPVC/LSZH 피복\n쉴드 접지선\n- 알루미늄 차폐막\n쉴드 접지선\n|Stranded Cable\n연선(線) 케이블\n연선 케이블은 단선에 비해 잘 휘어져\n설치가 용이하며 잡음이나 감쇄현상이\n현저히 적어 널리 쓰입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\nILSZH (Low Smoke Zero Halogen)\n난연(難燃) 케이블\n불에 강한 난연 케이블이라 화재 시 화재확산을 늦춰줍니다\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\nXXXII\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n녹색 6\n갈색/흰색 7\n\n\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n4\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXXI\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n8 갈색\n갈색 8\n8 갈색\n50 은장 콘넥터\n구리함량이 높아 전송속도가 빠르고\n신호손실이 적습니다\nⓖ 제조사의 사정에 의해 콘넥터가 은장에서 금장으로 바뀔 수 있습니다.\n26AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n26AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nwww\nFLUKE.\n플루크 테스트를 통과한 제품입니다.\n(테스터기 : DTX-1800)\nCD LINKWARE \"PC\nSummary: PASS\n200\nCatle ID: LS-7-55TP\nTest Sum\nCHA001\n36-45\n4000\n213\nPS NEXT\n174\n4000\nFLUKE\nm000\nDEFAULT\nSCAD\nFLUKE\nnetworks\n분류\n항목\n시험결과\n반사손실(Return Loss)\nPASS\n삽입 손실(Insertion Loss); 감쇄(Attenuation)\nPASS\nPASS\n전기적 누화손실(NEXT: Near End Crosstalk Ratio)\n특성\n전력 누화손실(PS NEXT: Power Sum Near End Crosstalk Ratio)\nPASS\nACR-F(Attenuation to Crosstalk Ratio); ELFEXT\nPASS\nPS ACR-F(Power Sum Attenuation to Crosstalk Ratio): PSELFEXT\nPASS\nPRODUCT SIZE\n1000~30000mm\n11.5mm\n마미\nmmmmmhr\n6.2mm\n11.5mm\n6.5mm |\n10.0.0\nLS-7SSTPD-1M 1M\nLS-7SSTPD-2M 2M LS-7SSTPD-3M 3M\n0.0.0\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\n\n\no\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\nLS-7SSTPD-15M 15M\nLS-7SSTPD-20M 20M\nLS-7SSTPD-30M 30M\nETL 4000478, TWIST-PAIR 4P, 26AWG S/FTP PIME CATER/CAT.7 CABLE, 10G, STRAND, <LSZH> <ROHS><LANstar>\n랜스타 정품케이블\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.6A/CAT.7\n최대전송속도\n10Gbps\n대\n역\n폭\n600MHz\n길\n이\n1M / 2M / 3M / 5M / M\n10M/15M / 20M / 30M\nROHS\nFLUKE\nTEST\nCOMPLIANT\nPASS\nLSZH\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar®\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\nCAT.6A/CAT.7 SSTP 다이렉트 케이블\nLAN Sta\nStar\n모\n델\n명\nLS-7SSTPD-1M/LS-7SSTPD-2M\nLS-7SSTPD-3M/LS-7SSTPD-5M\nLS-7SSTPD-7M/LS-7SSTPD-10M\nLS-7SSTPD-15M/LS-7SSTPD-20M\nLS-7SSTPD-30M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-7SSTPD-3M": "LANStar\nⓇ\n10Gbps 속도로 데이터를 전송하는\nCAT.6A/CAT.7 SSTP\n다이렉트 케이블\ncara\n50μ\n10Gbps\n전송속도\n600MHZ\n대역폭\nLSZH\n최상위\n난연등급\n콘넥터\n1M LS-7SSTPD-IM\n2M LS-7SSTPD-2M\n3M LS-7SSTPD-3M\n5M LS-7SSTPD-5M\n7M LS-7SSTPD-7M\n10M LS-7SSTPD-IOM\n15M LS-7SSTPD-15M\n20M LS-7SSTPD-20M 30M LS-7SSTPD-30M\nCAT.6A 케이블은?\nCAT.6A 케이블은 CAT.6보다 10배인 최대 10Gbps(10,000Mbps)의 속도를\n지원하고 CAT.6의 2배의 전송대역인 500MHz의 대역폭을 가지는 TIA/EIA-568\n규정규격이며 10Mbps/100Mbps/1000Mbps/10Gbps의 전송이 가능합니다.\n?\nCAT.6A와 CAT.7의 차이?\nCAT.6A와 CAT.7 모두 10G를 지원합니다.\nTIA/EIA-568 규격은 대역폭 500MHz를 CAT.6A라 하고 ISO/IEC 11801 Class\n규정에서는 600MHz를 CAT.7이라 기준을 정하였으나 두 기관간 명명문제이며\n결국 대역폭 외에 속도는 동일하므로 거의 같은 케이블이라 보시면 됩니다.\n케이블 규격\n케이블 타입\n대역폭\n전송속도\nCAT.5/CAT.SE\nUTP/FTP / S-FTP\n100MHz\n100~400Mbps (사무용)\nCAT.6\nUTP/FTP / S-FTP\n250MHz\n1Gbps (전산망, 일반서버)\nCAT.6A/CAT.7\nUTP/S-STP\n500MHz/600MHz\n10Gbps이상 (대용량 서버)\nCAT.6A/CAT.7 SSTP CABLE\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n노이즈 방지 쉴드\n-편조쉴드\n- 알루미늄\n차폐막\n·쌍(Pair)\nㆍPVC/LSZH 피복\n쉴드 접지선\n- 알루미늄 차폐막\n쉴드 접지선\n|Stranded Cable\n연선(線) 케이블\n연선 케이블은 단선에 비해 잘 휘어져\n설치가 용이하며 잡음이나 감쇄현상이\n현저히 적어 널리 쓰입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\nILSZH (Low Smoke Zero Halogen)\n난연(難燃) 케이블\n불에 강한 난연 케이블이라 화재 시 화재확산을 늦춰줍니다\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\nXXXII\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n녹색 6\n갈색/흰색 7\n\n\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n4\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXXI\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n8 갈색\n갈색 8\n8 갈색\n50 은장 콘넥터\n구리함량이 높아 전송속도가 빠르고\n신호손실이 적습니다\nⓖ 제조사의 사정에 의해 콘넥터가 은장에서 금장으로 바뀔 수 있습니다.\n26AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n26AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nwww\nFLUKE.\n플루크 테스트를 통과한 제품입니다.\n(테스터기 : DTX-1800)\nCD LINKWARE \"PC\nSummary: PASS\n200\nCatle ID: LS-7-55TP\nTest Sum\nCHA001\n36-45\n4000\n213\nPS NEXT\n174\n4000\nFLUKE\nm000\nDEFAULT\nSCAD\nFLUKE\nnetworks\n분류\n항목\n시험결과\n반사손실(Return Loss)\nPASS\n삽입 손실(Insertion Loss); 감쇄(Attenuation)\nPASS\nPASS\n전기적 누화손실(NEXT: Near End Crosstalk Ratio)\n특성\n전력 누화손실(PS NEXT: Power Sum Near End Crosstalk Ratio)\nPASS\nACR-F(Attenuation to Crosstalk Ratio); ELFEXT\nPASS\nPS ACR-F(Power Sum Attenuation to Crosstalk Ratio): PSELFEXT\nPASS\nPRODUCT SIZE\n1000~30000mm\n11.5mm\n마미\nmmmmmhr\n6.2mm\n11.5mm\n6.5mm |\n10.0.0\nLS-7SSTPD-1M 1M\nLS-7SSTPD-2M 2M LS-7SSTPD-3M 3M\n0.0.0\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\n\n\no\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\nLS-7SSTPD-15M 15M\nLS-7SSTPD-20M 20M\nLS-7SSTPD-30M 30M\nETL 4000478, TWIST-PAIR 4P, 26AWG S/FTP PIME CATER/CAT.7 CABLE, 10G, STRAND, <LSZH> <ROHS><LANstar>\n랜스타 정품케이블\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.6A/CAT.7\n최대전송속도\n10Gbps\n대\n역\n폭\n600MHz\n길\n이\n1M / 2M / 3M / 5M / M\n10M/15M / 20M / 30M\nROHS\nFLUKE\nTEST\nCOMPLIANT\nPASS\nLSZH\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar®\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\nCAT.6A/CAT.7 SSTP 다이렉트 케이블\nLAN Sta\nStar\n모\n델\n명\nLS-7SSTPD-1M/LS-7SSTPD-2M\nLS-7SSTPD-3M/LS-7SSTPD-5M\nLS-7SSTPD-7M/LS-7SSTPD-10M\nLS-7SSTPD-15M/LS-7SSTPD-20M\nLS-7SSTPD-30M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-7SSTPD-5M": "LANStar\nⓇ\n10Gbps 속도로 데이터를 전송하는\nCAT.6A/CAT.7 SSTP\n다이렉트 케이블\ncara\n50μ\n10Gbps\n전송속도\n600MHZ\n대역폭\nLSZH\n최상위\n난연등급\n콘넥터\n1M LS-7SSTPD-IM\n2M LS-7SSTPD-2M\n3M LS-7SSTPD-3M\n5M LS-7SSTPD-5M\n7M LS-7SSTPD-7M\n10M LS-7SSTPD-IOM\n15M LS-7SSTPD-15M\n20M LS-7SSTPD-20M 30M LS-7SSTPD-30M\nCAT.6A 케이블은?\nCAT.6A 케이블은 CAT.6보다 10배인 최대 10Gbps(10,000Mbps)의 속도를\n지원하고 CAT.6의 2배의 전송대역인 500MHz의 대역폭을 가지는 TIA/EIA-568\n규정규격이며 10Mbps/100Mbps/1000Mbps/10Gbps의 전송이 가능합니다.\n?\nCAT.6A와 CAT.7의 차이?\nCAT.6A와 CAT.7 모두 10G를 지원합니다.\nTIA/EIA-568 규격은 대역폭 500MHz를 CAT.6A라 하고 ISO/IEC 11801 Class\n규정에서는 600MHz를 CAT.7이라 기준을 정하였으나 두 기관간 명명문제이며\n결국 대역폭 외에 속도는 동일하므로 거의 같은 케이블이라 보시면 됩니다.\n케이블 규격\n케이블 타입\n대역폭\n전송속도\nCAT.5/CAT.SE\nUTP/FTP / S-FTP\n100MHz\n100~400Mbps (사무용)\nCAT.6\nUTP/FTP / S-FTP\n250MHz\n1Gbps (전산망, 일반서버)\nCAT.6A/CAT.7\nUTP/S-STP\n500MHz/600MHz\n10Gbps이상 (대용량 서버)\nCAT.6A/CAT.7 SSTP CABLE\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n노이즈 방지 쉴드\n-편조쉴드\n- 알루미늄\n차폐막\n·쌍(Pair)\nㆍPVC/LSZH 피복\n쉴드 접지선\n- 알루미늄 차폐막\n쉴드 접지선\n|Stranded Cable\n연선(線) 케이블\n연선 케이블은 단선에 비해 잘 휘어져\n설치가 용이하며 잡음이나 감쇄현상이\n현저히 적어 널리 쓰입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\nILSZH (Low Smoke Zero Halogen)\n난연(難燃) 케이블\n불에 강한 난연 케이블이라 화재 시 화재확산을 늦춰줍니다\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\nXXXII\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n녹색 6\n갈색/흰색 7\n\n\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n4\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXXI\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n8 갈색\n갈색 8\n8 갈색\n50 은장 콘넥터\n구리함량이 높아 전송속도가 빠르고\n신호손실이 적습니다\nⓖ 제조사의 사정에 의해 콘넥터가 은장에서 금장으로 바뀔 수 있습니다.\n26AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n26AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nwww\nFLUKE.\n플루크 테스트를 통과한 제품입니다.\n(테스터기 : DTX-1800)\nCD LINKWARE \"PC\nSummary: PASS\n200\nCatle ID: LS-7-55TP\nTest Sum\nCHA001\n36-45\n4000\n213\nPS NEXT\n174\n4000\nFLUKE\nm000\nDEFAULT\nSCAD\nFLUKE\nnetworks\n분류\n항목\n시험결과\n반사손실(Return Loss)\nPASS\n삽입 손실(Insertion Loss); 감쇄(Attenuation)\nPASS\nPASS\n전기적 누화손실(NEXT: Near End Crosstalk Ratio)\n특성\n전력 누화손실(PS NEXT: Power Sum Near End Crosstalk Ratio)\nPASS\nACR-F(Attenuation to Crosstalk Ratio); ELFEXT\nPASS\nPS ACR-F(Power Sum Attenuation to Crosstalk Ratio): PSELFEXT\nPASS\nPRODUCT SIZE\n1000~30000mm\n11.5mm\n마미\nmmmmmhr\n6.2mm\n11.5mm\n6.5mm |\n10.0.0\nLS-7SSTPD-1M 1M\nLS-7SSTPD-2M 2M LS-7SSTPD-3M 3M\n0.0.0\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\n\n\no\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\nLS-7SSTPD-15M 15M\nLS-7SSTPD-20M 20M\nLS-7SSTPD-30M 30M\nETL 4000478, TWIST-PAIR 4P, 26AWG S/FTP PIME CATER/CAT.7 CABLE, 10G, STRAND, <LSZH> <ROHS><LANstar>\n랜스타 정품케이블\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.6A/CAT.7\n최대전송속도\n10Gbps\n대\n역\n폭\n600MHz\n길\n이\n1M / 2M / 3M / 5M / M\n10M/15M / 20M / 30M\nROHS\nFLUKE\nTEST\nCOMPLIANT\nPASS\nLSZH\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar®\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\nCAT.6A/CAT.7 SSTP 다이렉트 케이블\nLAN Sta\nStar\n모\n델\n명\nLS-7SSTPD-1M/LS-7SSTPD-2M\nLS-7SSTPD-3M/LS-7SSTPD-5M\nLS-7SSTPD-7M/LS-7SSTPD-10M\nLS-7SSTPD-15M/LS-7SSTPD-20M\nLS-7SSTPD-30M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-7SSTPD-7M": "LANStar\nⓇ\n10Gbps 속도로 데이터를 전송하는\nCAT.6A/CAT.7 SSTP\n다이렉트 케이블\ncara\n50μ\n10Gbps\n전송속도\n600MHZ\n대역폭\nLSZH\n최상위\n난연등급\n콘넥터\n1M LS-7SSTPD-IM\n2M LS-7SSTPD-2M\n3M LS-7SSTPD-3M\n5M LS-7SSTPD-5M\n7M LS-7SSTPD-7M\n10M LS-7SSTPD-IOM\n15M LS-7SSTPD-15M\n20M LS-7SSTPD-20M 30M LS-7SSTPD-30M\nCAT.6A 케이블은?\nCAT.6A 케이블은 CAT.6보다 10배인 최대 10Gbps(10,000Mbps)의 속도를\n지원하고 CAT.6의 2배의 전송대역인 500MHz의 대역폭을 가지는 TIA/EIA-568\n규정규격이며 10Mbps/100Mbps/1000Mbps/10Gbps의 전송이 가능합니다.\n?\nCAT.6A와 CAT.7의 차이?\nCAT.6A와 CAT.7 모두 10G를 지원합니다.\nTIA/EIA-568 규격은 대역폭 500MHz를 CAT.6A라 하고 ISO/IEC 11801 Class\n규정에서는 600MHz를 CAT.7이라 기준을 정하였으나 두 기관간 명명문제이며\n결국 대역폭 외에 속도는 동일하므로 거의 같은 케이블이라 보시면 됩니다.\n케이블 규격\n케이블 타입\n대역폭\n전송속도\nCAT.5/CAT.SE\nUTP/FTP / S-FTP\n100MHz\n100~400Mbps (사무용)\nCAT.6\nUTP/FTP / S-FTP\n250MHz\n1Gbps (전산망, 일반서버)\nCAT.6A/CAT.7\nUTP/S-STP\n500MHz/600MHz\n10Gbps이상 (대용량 서버)\nCAT.6A/CAT.7 SSTP CABLE\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n노이즈 방지 쉴드\n-편조쉴드\n- 알루미늄\n차폐막\n·쌍(Pair)\nㆍPVC/LSZH 피복\n쉴드 접지선\n- 알루미늄 차폐막\n쉴드 접지선\n|Stranded Cable\n연선(線) 케이블\n연선 케이블은 단선에 비해 잘 휘어져\n설치가 용이하며 잡음이나 감쇄현상이\n현저히 적어 널리 쓰입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\nILSZH (Low Smoke Zero Halogen)\n난연(難燃) 케이블\n불에 강한 난연 케이블이라 화재 시 화재확산을 늦춰줍니다\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\nXXXII\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n녹색 6\n갈색/흰색 7\n\n\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n2 주황\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n4\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXXI\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n8 갈색\n갈색 8\n8 갈색\n50 은장 콘넥터\n구리함량이 높아 전송속도가 빠르고\n신호손실이 적습니다\nⓖ 제조사의 사정에 의해 콘넥터가 은장에서 금장으로 바뀔 수 있습니다.\n26AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n26AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nwww\nFLUKE.\n플루크 테스트를 통과한 제품입니다.\n(테스터기 : DTX-1800)\nCD LINKWARE \"PC\nSummary: PASS\n200\nCatle ID: LS-7-55TP\nTest Sum\nCHA001\n36-45\n4000\n213\nPS NEXT\n174\n4000\nFLUKE\nm000\nDEFAULT\nSCAD\nFLUKE\nnetworks\n분류\n항목\n시험결과\n반사손실(Return Loss)\nPASS\n삽입 손실(Insertion Loss); 감쇄(Attenuation)\nPASS\nPASS\n전기적 누화손실(NEXT: Near End Crosstalk Ratio)\n특성\n전력 누화손실(PS NEXT: Power Sum Near End Crosstalk Ratio)\nPASS\nACR-F(Attenuation to Crosstalk Ratio); ELFEXT\nPASS\nPS ACR-F(Power Sum Attenuation to Crosstalk Ratio): PSELFEXT\nPASS\nPRODUCT SIZE\n1000~30000mm\n11.5mm\n마미\nmmmmmhr\n6.2mm\n11.5mm\n6.5mm |\n10.0.0\nLS-7SSTPD-1M 1M\nLS-7SSTPD-2M 2M LS-7SSTPD-3M 3M\n0.0.0\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\n\n\no\nLS-7SSTPD-5M 5M\nLS-7SSTPD-7M 7M\nLS-7SSTPD-10M 10M\nLS-7SSTPD-15M 15M\nLS-7SSTPD-20M 20M\nLS-7SSTPD-30M 30M\nETL 4000478, TWIST-PAIR 4P, 26AWG S/FTP PIME CATER/CAT.7 CABLE, 10G, STRAND, <LSZH> <ROHS><LANstar>\n랜스타 정품케이블\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.6A/CAT.7\n최대전송속도\n10Gbps\n대\n역\n폭\n600MHz\n길\n이\n1M / 2M / 3M / 5M / M\n10M/15M / 20M / 30M\nROHS\nFLUKE\nTEST\nCOMPLIANT\nPASS\nLSZH\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar®\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\nCAT.6A/CAT.7 SSTP 다이렉트 케이블\nLAN Sta\nStar\n모\n델\n명\nLS-7SSTPD-1M/LS-7SSTPD-2M\nLS-7SSTPD-3M/LS-7SSTPD-5M\nLS-7SSTPD-7M/LS-7SSTPD-10M\nLS-7SSTPD-15M/LS-7SSTPD-20M\nLS-7SSTPD-30M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-7SSTPD-7MB": "LANG\ntar\nShielded-Shielded Twist Pair Cable\nCAT.7 LAN CABLE\nCHRI\n10\nGbps\n이중차폐 빠른전송속도\n600 50U\nMhz\n넓은대역폭 금도금콘넥터 연선케이블\nCAT.7 600Mhz의 넓은 대역폭\n5-STP LAN CABLE\nCAT.7은 차세대 전송 규격으로 CAT.5E의 6배, CAT.6의 2.4배의 전송대역인\n600Mhz의 대역폭을 가지고 있습니다.\nCAT.7\n600MHz\nCAT.6\n250MHz\nCAT.5E\n100MHz\nCAT.7 10Gbps 전송속도\n5-STP LAN CABLE\nCAT.7은 10/100/1,000Mbps 및 10Gbps(10,000Mbps)의 전송 속도를\n지원하는 기가비트 랜케이블 입니다.\nCAT.7\n10Gbps\nCAT.6\n1Gbps\nCAT.5E 550Mbps\nCAT 이중차폐 쉴드\n5-STP LAN CABLE\nCAT.7은 이중차폐 쉴드(알루미늄쉴드+편조쉴드) 구조의 STP(Shielded Twist\nPair) 케이블 입니다.\n인접하는 케이블의 전자파 노이즈 간섭 방지를 최소화 하였으며, 통신 에러\n및 속도의 저하없이 대용량의 정보를 빠르고 안정적으로 전달합니다.\nㆍ피복\n알루미늄쉴드\n편조쉴드\n▲ CAT.7 케이블 단면도\nCAT 금도금 콘넥터\n5-STP LAN CABLE\nCAT.7은 금도금 콘넥터를 사용하여 부식과 산화를 방지하였습니다.\n신호 전송능력이 우수한 금도금 콘넥터는 쉴드 처리가 되어있어 전기적인\n노이즈를 완벽하게 차단하여 연결효과를 극대화 시킵니다.\n콘넥터 착탈시나 케이블 가설 중 파손을 고려하여 디자인된 제품입니다.\nQ. CAT.5E, CAT.6, CAT.7 케이블은 어떻게 다른가요?\nCAT.5E\nCAT.6\nCAT.7\n피복\n피복\n피복\n단면\n십자형 개재\n알루미늄월드\n편조쉴드\n대역폭\n100MHz\n250MHz\n600MHz\n전송속도\n550Mbps\n1Gbps\n10Gbps\nQ. UTP, STP, FTP 케이블은 어떻게 다른가요?\nUTP\n(Unshielded Twist Pair)\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있습니다.\n전선과 피복만으로 구성되어 있습니다.\n보통 일반적인 랜케이블이 이에 해당되며 사무실 및 가정 배선용으로\n사용됩니다.\nTO OU Hal Hololl siri LITIO ll INTO THE\n\n\n전송속도\n550Mbps\n1Gbps\n10Gbps\nQ. UTP, STP, FTP\nUTP\n(Unshielded Twist Pair)\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있습니다.\n전선과 피복만으로 구성되어 있습니다.\n보통 일반적인 랜케이블이 이에 해당되며 사무실 및 가정 배선용으로\n사용됩니다.\nFTP\n(Foiled Twist Pair)\n꼬여 있는 선과 선 사이에 차단용 십자형 개재가 있어 케이블간의 간섭을\n줄여 전송 속도를 높여주는 기능을 합니다. 알루미늄 은박이 선을 감싸고\n있으며 접지용 선이 별도로 있습니다.\nUTP에 비해 절연 기능이 탁월하여 공장배선용으로 많이 사용됩니다.\nSTP\n(Shielded Twist Pair)\n외부 피복에 쉴드 처리가 되어 있고 알루미늄 은박이 선을 감싸고 있어\n외부의 노이즈나 전기적 신호의 간섭의 차단에 탁월합니다.\n통신 에러 및 속도 저하를 최소화 하여 대용량의 정보를 전달할 수 있어\n접지 및 특수 환경의 초고속 네트워크망이 구축된 환경에서 사용됩니다.\nLW LINKWARE\nCABLE TEST MANAGEMENT SOFTWARE\nCable ID: CAT7-3\nTest Summary: PASS\nModel: DTX-1800\nMain S/N: 9626073\nDate/Time: 06/11/2008 11:38:02am\nHeadroom: 15.0 dB (NEXT 45-78)\nTest Limit: 10GBASE-T\nCable Type: Cat 7 SSTP\nOperator: TOM\nSoftware Version: 2.0600.\nLimits Version: 1.2500\nNVP: 76.0%\nRemote S/N: 9626074\nMain Adapter: DTX-CHA001\nRemote Adapter: DTX-CHA001\nWire Map (T568B)\nPASS\n16\nInsertion Loss\ndB\n60\n23\nLength (ft)\nProp. Delay (ns), Limit 555\nDelay Skew (ns), Limit 50\nResistance (ohms)\n[Pair 78]\n[Pair 12]\n[Pair 12]\n[Pair 78]\n1\n50\n1.8\n40\n30\n20\nInsertion Loss Margin (dB)\nFrequency (MHz)\nLimit (dB)\n[Pair 12] 49.2\n[Pair 12] 490.0\n[Pair 12] 52.8\n10\n0\nD\nFrequency (MHz)\n900\nWorst Case Margin\nMAIN\nSR\nWorst Case Value\nMAIN\nSR\nNEXT\nNEXT Remote\nN/A\n100\n100\n45-78\n45-78\n36-45\n36-45\n30\n40\n15.0\n23.8\n22.3\nco\n60\n1.0\n492.0\n493.0\n22.3\n40\n40\nWorst Pain\nNEXT (dB)\nFreq. (MHz)\nLimit (dB)\nWorst Pair\nPSNEXT (dB)\nFreq. (MHz)\nLimit (dB)\n65.0\n78\n22.3\n36\n36\n20\n20\n20\n24.1\n0\n17.0\n1.0\n23.2\n492.0\n0\n0\n0\n800\n491.0\nFrequency (MHz)\n0\nFrequency (MHz)\n800\n******\n62.0\n62.0\n20.8\n20.7\nELFEXT\nELFEXT Remote\nPASS\nMAIN\nSR\nSR\nB\n100\nB\n100\nMAIN\n36-45\n45-78\n45-36\n30\n30\n16.3\n18.2\n18.3\n60\n00\n488.0\n1.0\n63.3\n489.0\n9.5\n36\n40\nWorst Pair\n78-45\nELFEXT (dB)\nFreq. (MHz)\nLimit (dB)\nWorst Pair\nPSELFEXT (dB)\nFreq. (MHz)\nLimit (dB)\n40\n9.5\n36\n78\n20\n20\n20.7\n19.1\nD\nD\n18.3\n1.0\n0\n486.0\nFrequency (MHz)\n500\n500\n0\nFrequency (MHz)\n487.0\n6.5\n60.3\n6.5\nRL\nMAIN\nRL@Remote\nSR\ndB\n60\nSR\ndB\n60\nPASS\nWorst Pair\nMAIN\n12\n78\n78\n50\n50\n14.3\n15.3\n14.3\n15.3\n40\n40\nRL (dB)\nFreq. (MHz)\nLimit (dB)\n486.0\n492.0\n492.0\n30\n486.0\n6.0\n6.0\n6.0\n20\n20\n10\nD\nC 0\n10\nD\nFrequency (MHz)\n800\nD\nFrequency (MHz)\n800\nLinkWare Version 3.02\nProject: WIRETEK\nSite: LABORATORY\nFLUKE\nnetworks.\nUNTITLED flw\n...\n상품정보\nHO\n90\nCAT.7 SSTP 다이렉트 케이블\nLANSta\nⓇ\n모\n델\n명\nLS-7SSTPD-2MB/LS-7SSTPD-3MB\nLS-7SSTPD-5MB/LS-7SSTPD-10MB\ntar\n인증번호\nMSIP-RTI-LUS-LS-CAT7\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-7SSTPD-BLUE": "당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\nLANSStar\n10G\nCAT.7 S/FTP\nDIRECT ETHERNET CABEL\n10Gbps / 50 금도금 컨넥터 / 26AWG / 연선(Stranded)\n20 22 24 26 28 30\nA ↑\nFLUKE\n26AWG\nFLUKE\n10Gbps\n전송속도\n600MHz\n대역폭\nDirect\n연선 케이블\nLSZH\n난연\n심선\n테스트 통과\n케이블 제품 분류표\n모델No.\n모델명\n길이\n심선\n직경\n색상\n10099\nLS-7SSTPD-2MB\n2M\n10100\nLS-7SSTPD-3MB\n3M\n10101\nLS-7SSTPD-5MB\n5M\n26AWG\n6.0±0.2mm\nBlue\n10907\nLS-7SSTPD-7MB\n7M\n10102\nLS-7SSTPD-10MB\n10M\n..\nMarketplace\nSOAR\nVAST\nRIDGE\nAERO\nLaunch\nLOODOO A PERS\n\n\nVAST\nHURSPOT THEME\nCampery\nRIDGE\nAERO\nLaunch\nGOOD LAO PE\nCAT.7 S/FTP\n600MHz\n26AWG\nCAT.7 최대 10Gbps\n전송속도\n600MHz 대역폭\n안정적이고 빠른 전송\n안정성이 뛰어난\n26AWG 심선 사용\nCAT.7 S/FTP\n10GBASE-T 지원\n10GBASE-T를 지원하는 CAT.7 규격의 S/FTP 랜 케이블로\n600MHz 대역폭을 지원하여 최대 10Gbps의 전송속도를 나타냅니다.\n케이블 비교\nCAT.5E\nCAT.6\nCAT.6A/CAT.7\n대역폭\n100MHz\n250MHz\n500MHz/600MHz\n전송속도\n1Gbps\n1Gbps\n10Gbps\n규격\n1000BASE-T\n1000BASE-TX\n10GBASE-T\nCAT.5E\n1Gbps\nCAT.6\n1Gbps\nCAT.6A/7\n10Gbps\nS/FTP Twisted Pair\n4Pair Twisted Pair\n4페어 꼬임구조로 이루어져 있는 연선 케이블로 각각의 페어를 알루미늄 호일이\n감싸고 있으며, 4페어를 차폐 쉴드가 감싸고 있는 2중 구조로\n가장 바깥 피복은 LSZH 자켓으로 이루어져 있습니다.\n연선\nTwisted Pair\n알루미늄 호일\n차폐 쉴드\nLSZH 자켓\n(OD: 6.0±0.2mm)\nS/FTP 이중차폐 구조\nUTP/FTP/STP 케이블 비교\n이중차폐 구조로 외부 신호간섭 최소화!!\n\n\nS/FTP 이중차폐 구조\nUTP/FTP/STP 케이블 비교\n이중차폐 구조로 외부 신호간섭 최소화!!\nUTP\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있으며 전선과\n피복만으로 구성되어 있는 케이블입니다. 보통 일반적인 랜케이블이\n이에 해당되며 사무실 및 가정 배선용으로 사용됩니다.\n(Unshielded Twisted Pair)\nFTP\n꼬여있는 선과 선 사이에 차단용 십자형 개재가 있어 케이블간의\n간섭을 줄여 전송 속도를 높여주는 기능을 합니다.\n알루미늄은박이 선을 감싸고 있으며 별도로 접지용 선이 있습니다.\nUTP에 비해 절연 기능이 탁월하여 공장 배선용으로 많이 사용됩니다.\n(Foiled Twisted Pair)\nSTP\n(Shielded Twisted Pair)\n외부 피복에 쉴드 처리가 되어 있고 알루미늄 은박이 선을 감싸고 있어\n외부의 노이즈나 전기적 신호 간섭 차단에 탁월한 케이블입니다.\n통신 에러 및 속도 저하를 최소화하여 대용량의 정보를 전달할 수 있어\n접지 및 특수 환경의 초고속 네트워크망이 구축된 환경에서 사용됩니다.\nS/FTP\n(Screened Foiled Twisted Pair)\n각 페어마다 알루미늄 실드가 있고 전체 페어를 모아 편조차폐로\n감싼 케이블로 이중차폐 구조로 이루어졌기에 외부 신호간섭을\n최소화하기 가장 좋은 케이블입니다.\n연선 케이블\nStranded Cable\n연선 케이블은 단선에 비해 잘 휘어지는 특징이 있어\n설치가 용이하며 잡음이나 감쇄현상이 현저히 적어\n널리 쓰이는 케이블입니다.\nTwisted Structure\n• 연선 / 단선 케이블 구조 비교\n연선\n단선\n가늘거나 굵은 여러개의 가닥이 그룹화되어\n단일 도체를 구성\n하나의 금속으로 구성\n단선보다 유연하여 쉽게 끊어지지 않지만\n내구성이 떨어짐\n연선보다 단단하고 내구성이 강하나\n구부리면 파손될 가능성이 높음\n엘리베이터 등 이동하거나 노출이 많이\n되는 곳에 주로 설치\n내부 배선, 고정된 전선 등 전력을 많이\n사용하는 곳에 주로 설치\nBare CU OFC\n무산소 구리 도체 사용\n케이블에 순수 구리 성분을 사용하여 데이터 전송률을 높였으며\n산소가 없는 OFC(Oxygen Free Copper) 구리 도체를 사용하여\n일반 구리도체에 비해 전도성, 내식성이 뛰어난 장점이 있습니다.\nㅁ사스 그리 드\n\n\n케이블에 순수 구리 성분을 사용하여 데이터 전송률을 높였으며\n산소가 없는 OFC(Oxygen Free Copper) 구리 도체를 사용하여\n일반 구리도체에 비해 전도성, 내식성이 뛰어난 장점이 있습니다.\n무산소 구리 도체\nOFC(Oxygen Free Copper)\n26AWG\n전세계 표준규격 준수\n케이블 내심의 굵기를 표시하는 미국 전선 규격으로 AWG가 작을수록\n굵은 내심을 가지고 있으며 잡음이 적고 전송에 적합합니다.\n본 제품은 AWG 규격중 가장 안정성이 뛰어난 26AWG를 사용했습니다.\nAWG\n직경(Inch)\n직경(㎜)\n단면적(㎡)\n저항(요/m)\n허용전류(A)\n20\n20\n0.032\n0.812\n0,518\n0.0333\n4,5\n21\n221\n0,0285\n0,723\n0.41\n0.042\n3.8\n2\n22\n0,0253\n0,644\n0,326\n0.053\n3.0\n2\n23\n0,0226\n0,573\n0,258\n0.0668\n2,2\n24\n24\n0,0201\n0,511\n0,205\n0.0842\n0.588\n25\n25\n0.0179\n0.455\n0.162\n0.106\n0.477\n26\n0.0159\n0.405\n0.129\n0.134\n0.378\n27\n0.0142\n0,361\n0.102\n0.169\n0,288\n28\n20\n0.0126\n0.321\n0.081\n0,213\n0,250\n29\n20\n0.0113\n0,286\n0,0642\n0,268\n0,212\n30\n30\n0,01\n0,255\n0,0509\n0.339\n0.147\n50 금도금 콘넥터\n신호손실 최소화\n튼튼한 스프링 구조\n컨넥터 내구성 강화\n0\n견고한 마감처리\n케이블 피복 보호\n자연스러운 컨넥터+부트\n컨넥터와 부트가 맞닿아\n직접적으로 컨넥터\n접촉이 없어\n컨넥터 보호 가능\n\n\n직접적으로 컨넥터\n접촉이 없어\n컨넥터 보호 가능\n50u 금도금\n3prongs 금도금 핀\n50 Prongs 금도금 핀을 사용하여 컨넥터와 핀의 결합력이 높으며\n전도율이 좋고 신호 손실이 적은 장점이 있습니다.\n50μ 3Prongs\n금도금 핀\n자격인증 및 확인서\n랜스타 CAT.7 S/FTP 패치 코드는\nETL, EC 인증 및 FLUKE TEST 통과 제품이며\n라인업시스템은 소재·부품·장비 전문 기업으로 확인받은 기업입니다.\nCompliance Statement\nNo. 2013 17\nData communication cable, Category 7\nintertel\nAUTHORIZATION\nEC\nGA2\n22 ndng amenden A270\nB\nCCCabling D\nCadd\nDecember 201\nטיציונן\ntestate tant\nthat\nPER\nEC:\nFR89\nETL 인증\n소재·부품·장비\n전문기업확인서\nEC 인증\nFLUKE TEST\n폭넓은 제품 활용\n이더넷을 사용하는 다양한 제품에서 폭넓게 사용할 수 있습니다.\nlenovo\nDesktop\nNotebook\n공유기\n스위칭허브\n\n\nDesktop\nNotebook\n공유기\n스위칭허브\n랜케이블이 필요한 어느곳이든\n다양하게 사용하세요!\n가정\n사무실\nCAFE\n숙박시설\nPRODUCT SIZE\n2m/3m/5m/7m/10m\n11.5mm\n6\n6mm\n11.5mm\n6.5mm\nSPECIFICATION\n케이블 규격\nCAT.7 S/FTP\n전송속도\n최대 10Gbps\n대역폭\n600MHz\n심선\n26AWG\n커넥터\n50μ Gold Plated PIN\n길이\n2m/3m/5m/7m/10m\n직경\nOD 6.0±0.2mm\n재질\nLSZH(피복), PVC(몰드)\n\n\n직경\nOD 6.0±0.2mm\n재질\nLSZH(피복), PVC(몰드)\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.7 S/FTP 랜케이블, Blue\nLS-7SSTPD-2MB\nLANG\nLS-7SSTPD-3MB\nStar\n모\n델\n명\nLS-7SSTPD-5MB\nLS-7SSTPD-7MB\nLS-7SSTPD-10MB\n口화口\nKC인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-7SSTPD-GREY": "당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\nLANSStar\n10G\nCAT.7 S/FTP\nDIRECT ETHERNET CABEL\n10Gbps / 50 금도금 컨넥터 / 26AWG / 연선(Stranded)\n20 22 24 26 28 30\nA ↑\nFLUKE\n26AWG\nFLUKE\n10Gbps\n전송속도\n600MHz\n대역폭\nDirect\n연선 케이블\nLSZH\n난연\n심선\n테스트 통과\n케이블 제품 분류표\n모델No.\n모델명\n길이\n심선\n직경\n색상\n10927\nLS-7SSTPD-0.5MG\n0.5M\n10088\nLS-7SSTPD-1MG\n1M\n10089\nLS-7SSTPD-2MG\n2M\n10090\nLS-7SSTPD-3MG\n3M\n10091\nLS-7SSTPD-5MG\n5M\n10092\nLS-7SSTPD-7MG\n7M\n26AWG\n6.0±0.2mm\nGrey\n10093\nLS-7SSTPD-10MG\n10M\n10094\nLS-7SSTPD-15MG\n15M\n10095\nLS-7SSTPD-20MG\n20M\n10096\nLS-7SSTPD-30MG\n30M\n10924\nLS-7SSTPD-50MG\n50M\n\n\n10096\nLS-7SSTPD-30MG\n30M\n10924\nLS-7SSTPD-50MG\n50M\nMarketplace\nSOAR\nVAST\nHUBSPOT THEME\nCopy\nRIDGE\nAERO\nLaunch\nOOONO ADO FED\nCAT.7 S/FTP\n600MHz\n26AWG\nCAT.7 최대 10Gbps\n전송속도\n600MHz 대역폭\n안정적이고 빠른 전송\n안정성이 뛰어난\n26AWG 심선 사용\nCAT.7 S/FTP\n10GBASE-T 지원\n10GBASE-T를 지원하는 CAT.7 규격의 S/FTP 랜 케이블로\n600MHz 대역폭을 지원하여 최대 10Gbps의 전송속도를 나타냅니다.\n케이블 비교\nCAT.5E\nCAT.6\nCAT.6A/CAT.7\n대역폭\n100MHz\n250MHz\n500MHz/600MHz\n전송속도\n1Gbps\n1Gbps\n10Gbps\n규격\n1000BASE-T\n1000BASE-TX\n10GBASE-T\nCAT.5E\n1Gbps\nCAT.6\n1Gbps\nCAT.6A/7\n10Gbps\nS/FTP Twisted Pair\n4Pair Twisted Pair\n4페어 꼬임구조로 이루어져 있는 연선 케이블로 각각의 페어를 알루미늄 호일이\n감싸고 있으며, 4페어를 차폐 쉴드가 감싸고 있는 2중 구조로\n가장 바깥 피복은 LSZH 자켓으로 이루어져 있습니다.\n연선\nTwisted Pair\n알루미늄 호일\n차폐 쉴드\n10기 1 지케\n\n\nTwisted Pair\n알루미늄 호일\n차폐 쉴드\nLSZH 자켓\n(OD: 6.0±0.2mm)\nS/FTP 이중차폐 구조\nUTP/FTP/STP 케이블 비교\n이중차폐 구조로 외부 신호간섭 최소화!!\nUTP\n(Unshielded Twisted Pair)\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있으며 전선과\n피복만으로 구성되어 있는 케이블입니다. 보통 일반적인 랜케이블이\n이에 해당되며 사무실 및 가정 배선용으로 사용됩니다.\nFTP\n(Foiled Twisted Pair)\n꼬여있는 선과 선 사이에 차단용 십자형 개재가 있어 케이블간의\n간섭을 줄여 전송 속도를 높여주는 기능을 합니다.\n알루미늄은박이 선을 감싸고 있으며 별도로 접지용 선이 있습니다.\nUTP에 비해 절연 기능이 탁월하여 공장 배선용으로 많이 사용됩니다.\nSTP\n(Shielded Twisted Pair)\n외부 피복에 쉴드 처리가 되어 있고 알루미늄 은박이 선을 감싸고 있어\n외부의 노이즈나 전기적 신호 간섭 차단에 탁월한 케이블입니다.\n통신 에러 및 속도 저하를 최소화하여 대용량의 정보를 전달할 수 있어\n접지 및 특수 환경의 초고속 네트워크망이 구축된 환경에서 사용됩니다.\nS/FTP\n각 페어마다 알루미늄 실드가 있고 전체 페어를 모아 편조차폐로\n감싼 케이블로 이중차폐 구조로 이루어졌기에 외부 신호간섭을\n최소화하기 가장 좋은 케이블입니다.\n(Screened Foiled Twisted Pair)\n연선 케이블\nStranded Cable\n연선 케이블은 단선에 비해 잘 휘어지는 특징이 있어\n설치가 용이하며 잡음이나 감쇄현상이 현저히 적어\n널리 쓰이는 케이블입니다.\nTwisted Structure\n연선/ 단선 케이블 구조 비교\n연선\n단선\n가늘거나 굵은 여러개의 가닥이 그룹화되어\n단일 도체를 구성\n하나의 금속으로 구성\n단선보다 유연하여 쉽게 끊어지지 않지만\n내구성이 떨어짐\n연선보다 단단하고 내구성이 강하나\n구부리면 파손될 가능성이 높음\n엘리베이터 등 이동하거나 노출이 많이\n되는 곳에 주로 설치\n내부 배선, 고정된 전선 등 전력을 많이\n사용하는 곳에 주로 설치\nC\n\n\nBare CU OFC\n무산소 구리 도체 사용\n케이블에 순수 구리 성분을 사용하여 데이터 전송률을 높였으며\n산소가 없는 OFC(Oxygen Free Copper) 구리 도체를 사용하여\n일반 구리도체에 비해 전도성, 내식성이 뛰어난 장점이 있습니다.\n무산소 구리 도체\nOFC(Oxygen Free Copper)\n26AWG\n전세계 표준규격 준수\n케이블 내심의 굵기를 표시하는 미국 전선 규격으로 AWG가 작을수록\n굵은 내심을 가지고 있으며 잡음이 적고 전송에 적합합니다.\n본 제품은 AWG 규격중 가장 안정성이 뛰어난 26AWG를 사용했습니다.\nAWG\n직경(Inch)\n직경(mm)\n단면적(㎡)\n저항(요/m)\n허용전류(A)\n20\n20\n0,032\n0,812\n0.518\n0.0333\n4.5\n21\n0.0285\n0.723\n0.41\n0.042\n3.8\n22\n222\n0.0253\n0.644\n0.326\n0.053\n3.0\n22\n23\n0,0226\n0.573\n0,258\n0,0668\n2,2\n24\n24\n0.0201\n0.511\n0,205\n0.0842\n0.588\n25\n0.0179\n0.455\n0,162\n0.106\n0.477\n26\n0.0159\n0.405\n0.129\n0.134\n0.378\n27\n27\n0.0142\n0,361\n0.102\n0.169\n0,288\n28\n20\n0.0126\n0.321\n0.081\n0,213\n0,250\n29\n20\n0.0113\n0,286\n0,0642\n0.268\n0,212\n30\n0.01\n0,255\n0.0509\n0.339\n0.147\n50p 금도금 콘넥터\n신호손실 최소화\n튼튼한 스프링 구조\n컨넥터 내구성 강화\n\n\nO\n견고한 마감처리\n케이블 피복 보호\n자연스러운 컨넥터+부트\n컨넥터와 부트가 맞닿아\n직접적으로 컨넥터\n접촉이 없어\n컨넥터 보호 가능\n50 금도금\n3prongs 금도금 핀\n50 Prongs 금도금 핀을 사용하여 컨넥터와 핀의 결합력이 높으며\n전도율이 좋고 신호 손실이 적은 장점이 있습니다.\n50μ 3Prongs\n금도금 핀\n자격인증 및 확인서\n랜스타 CAT.7 S/FTP 패치 코드는\nETL, EC 인증 및 FLUKE TEST 통과 제품이며\n라인업시스템은 소재·부품·장비 전문 기업으로 확인받은 기업입니다.\nCompliance Statement\nNo 2013 1754\nData communication cable. Category 7\nintertek\nAUTHORIZATION\nnex\nTEC\nWar\n86-520 G 25\n220dding ann\n41203\n한국국\nCCCgD\nDecember 201\naftstolth taki\n594\nKRS\n.EC.\nFRANCE\nETL 인증\n소재·부품·장비\n전문기업확인서\nEC 인증\nFLUKE TEST\n폭넓은 제품 활용\n이더넷을 사용하는 다양한 제품에서 폭넓게 사용할 수 있습니다.\n\n\n이더넷을 사용하는 다양한 제품에서 폭넓게 사용할 수 있습니다.\nNostenemocra\nDesktop\nNotebook\n공유기\n스위칭허브\n랜케이블이 필요한 어느곳이든\n다양하게 사용하세요!\n가정\n사무실\nCAFE\n숙박시설\nPRODUCT SIZE\n0.5m/1m/2m/3m/5m/7m/10m/15m/20m/30m/50m\n11.5mm\n-\n100000000\n6mm\n11.5mm\n17775\n6.5mm\nSPECIFICATION\n케이블 규격\nCAT.7 S/FTP\n전송속도\n최대 10Gbps\n대역폭\n600MHz\n심선\n26AWG\n커넥터\n50u Gold Plated PIN\n\n\n케이블 규격\nCAT.7 S/FTP\n전송속도\n최대 10Gbps\n대역폭\n600MHz\n심선\n26AWG\n커넥터\n50μ Gold Plated PIN\n길이\n0.5m/1m/2m/3m/5m/7m/\n10m/15m/20m/30m/50m\n직경\nOD 6.0±0.2mm\n재질\nLSZH(피), PVC(몰드)\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nLANG\nStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품 정보\n품\n명\nCAT.7 S/FTP 랜케이블, Grey\nLS-7SSTPD-0.5MG\nLANG\ntar\nLS-7SSTPD-1MG\nLS-7SSTPD-2MG\nLS-7SSTPD-3MG\nLS-7SSTPD-5MG\nO&O\n모\n델\n명\nLS-7SSTPD-7MG\nLS-7SSTPD-10MG\nLS-7SSTPD-15MG\nLS-7SSTPD-20MG\nLS-7SSTPD-30MG\nLS-7SSTPD-50MG\nKC 인증 번 호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기 준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-7SSTPD-MB": "LANG\ntar\nShielded-Shielded Twist Pair Cable\nCAT.7 LAN CABLE\n10\nGbps\n이중차폐 빠른전송속도\n600 50U\nMhz\n넓은대역폭 금도금콘넥터 연선케이블\nCAT.7 600Mhz의 넓은 대역폭\n5-STP LAN CABLE\nCAT.7은 차세대 전송 규격으로 CAT.5E의 6배, CAT.6의 2.4배의 전송대역인\n600Mhz의 대역폭을 가지고 있습니다.\nCAT.7\n600MHz\nCAT.6\n250MHz\nCAT.5E\n100MHz\nCAT.7 10Gbps 전송속도\n5-STP LAN CABLE\nCAT.7은 10/100/1,000Mbps 및 10Gbps(10,000Mbps)의 전송 속도를\n지원하는 기가비트 랜케이블 입니다.\nCAT.7\n10Gbps\nCAT.6\n1Gbps\nCAT.5E 550Mbps\nCAT 이중차폐 쉴드\n5-STP LAN CABLE\nCAT.7은 이중차폐 쉴드(알루미늄쉴드+편조쉴드) 구조의 STP(Shielded Twist\nPair) 케이블 입니다.\n인접하는 케이블의 전자파 노이즈 간섭 방지를 최소화 하였으며, 통신 에러\n및 속도의 저하없이 대용량의 정보를 빠르고 안정적으로 전달합니다.\nㆍ피복\n알루미늄쉴드\n편조쉴드\n▲ CAT.7 케이블 단면도\nCAT 금도금 콘넥터\n5-STP LAN CABLE\nCAT.7은 금도금 콘넥터를 사용하여 부식과 산화를 방지하였습니다.\n신호 전송능력이 우수한 금도금 콘넥터는 쉴드 처리가 되어있어 전기적인\n노이즈를 완벽하게 차단하여 연결효과를 극대화 시킵니다.\n콘넥터 착탈시나 케이블 가설 중 파손을 고려하여 디자인된 제품입니다.\nQ. CAT.5E, CAT.6, CAT.7 케이블은 어떻게 다른가요?\nCAT.5E\nCAT.6\nCAT.7\n피복\n피복\n피복기\n단면\n십자형 개재\n알루미늄쉴드\n편조쉴드\n대역폭\n100MHz\n250MHz\n600MHz\n전송속도\n550Mbps\n1Gbps\n10Gbps\nQ. UTP, STP, FTP 케이블은 어떻게 다른가요?\nUTP\n(Unshielded Twist Pair)\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있습니다.\n전선과 피복만으로 구성되어 있습니다.\n보통 일반적인 랜케이블이 이에 해당되며 사무실 및 가정 배선용으로\n사용됩니다.\nTOO Hal Hololl siri LITIO INTO THE\n\n\n전송속도\n550Mbps\n1Gbps\n10Gbps\nQ. UTP, STP, FTP 케이블은 어떻게 다른가요?\nUTP\n(Unshielded Twist Pair)\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있습니다.\n전선과 피복만으로 구성되어 있습니다.\n보통 일반적인 랜케이블이 이에 해당되며 사무실 및 가정 배선용으로\n사용됩니다.\nFTP\n(Foiled Twist Pair)\n꼬여 있는 선과 선 사이에 차단용 십자형 개재가 있어 케이블간의 간섭을\n줄여 전송 속도를 높여주는 기능을 합니다. 알루미늄 은박이 선을 감싸고\n있으며 접지용 선이 별도로 있습니다.\nUTP에 비해 절연 기능이 탁월하여 공장배선용으로 많이 사용됩니다.\nSTP\n(Shielded Twist Pair)\n외부 피복에 쉴드 처리가 되어 있고 알루미늄 은박이 선을 감싸고 있어\n외부의 노이즈나 전기적 신호의 간섭의 차단에 탁월합니다.\n통신 에러 및 속도 저하를 최소화 하여 대용량의 정보를 전달할 수 있어\n접지 및 특수 환경의 초고속 네트워크망이 구축된 환경에서 사용됩니다.\nLW LINKWARE\nCABLE TEST MANAGEMENT SOFTWARE\nCable ID: CAT7-3\nTest Summary: PASS\nDate/Time: 06/11/2008 11:38:02am\nHeadroom: 15.0 dB (NEXT 45-78)\nTest Limit: 10GBASE-T\nCable Type: Cat 7 SSTP\nOperator: TOM\nSoftware Version: 2,0600\nLimits Version: 1,2500\nNVP: 76.0%\nModel: DTX-1800\nMain S/N: 9626073\nRemote S/N: 9626074\nMain Adapter: DTX-CHA001\nRemote Adapter: DTX-CHA001\nWire Map (T568B)\nPASS\n16\nInsertion Loss\nB\n60\n23\nLength (ft)\nProp. Delay (ns), Limit 555\nDelay Skew (ns), Limit 50\nResistance (ohms)\n[Pair 76]\n[Pair 12]\n[Pair 12]\n[Pair 78]\n50\n1.8\n40\n30\n[Pair 12] 49.2\n[Pair 12] 490.0\n[Pair 12] 52.8\nFrequency (MHz)\n900\nInsertion Loss Margin (dB)\nFrequency (MHz)\nLimit (dB)\nWorst Case Margin\nWorst Case Value\nMAIN\nSR MAIN\nSR\nNEXT\n45-78\n45-78\n36-45\n36-45\n23,8\n15.1\n22.3\nco\n1.0\n1.0\n493.0\nN/A\nWorst Pain\nNEXT (dB)\nFreq. (MHz)\nLimit (dB)\nWorst Pair\nPSNEXT (dB)\nFreq. (MHz)\nLimit (dB)\n492.0\n22.3\n65.0\n65.0\n22.3\n78\n78\n17.2\n24.1\n23.2\n1.0\n0\n1.0\n491.0\n492.0\nFrequency (MHz)\nFrequency (MHz)\n62.0\n62.0\n20.8\nELFEXT\nELFEXT Ramle\nSR\nMAIN\nSR\n45-78\n36-45\n45-36\n16.3\n18.2\n18.3\n1.0\n489.0\nPASS\nMAIN\nWorst Pair\n78-45\nELFEXT (dB) 16.3\nFreq. (MHz)\n1.0\nLimit (dB)\n63.3\nWorst Pair\n45\nPSELFEXT (dB) 18.5\nFreq. (MHz)\n1.0\nLimit (dB)\n60,3\n63.3\n9.5\n36\n488.0\n9.5\n36\n78\n18.3\n20.7\n19.1\n486.0\n500\n1.0\nFrequency (MHz)\nFrequency (MHz)\n487.0\n6.5\n60.3\nB\ndB\nRL Remote\nMAIN\nSR\nSR\nPASS\nWorst Pair\nMAIN\n12\n12\n78\n78\n15.3\n14.3\n15.3\nRL (dB)\nFreq. (MHz)\nLimit (dB)\n14.3\n486.0\n492.0\n486.0\n492.0\n6.0\n6.0\n6.0\nC\nFrequency (MHz)\n800\nD\nFrequency (MHz)\n800\nLinkWare Version 3.02\nProject: WIRETEK\nSite: LABORATORY\nFLUKE\nnetworks.\nUNTITLED.flw\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.7 (CAT.6A)\n최대전송속도\n10Gbps\n대\n역\n폭\n600MHz\n길\n이\n2M / 3M / 5M / 7M / 10M\nR\nROHS\nKC\nFLUKE\nTEST\nCOMPLIANT\nPASS\nLSZH\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를\n인증마크로 사용합니다.\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\nK\n인증번호 R-R-LUS-LS-EZ-750\nCAT.7 콘넥터에 대한 KC 인증입니다.\nLANSStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.7 SSTP 다이렉트 랜케이블(블루)\n모\n델\n명\nLS-7SSTPD-2MB\nLS-7SSTPD-3MB\nLS-7SSTPD-5MB\nLS-7SSTPD-7MB\nLS-7SSTPD-10MB\nDAD\n영토\n인증번호\nR-R-LUS-LS-EZ-750\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\n\n\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\nA/S www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLAN\nINStar®\n자매품\n0,5M\nLS-8SSTPD-0.5MB\n10M\nLS-8SSTPD-10MB\n1M\nLS-8SSTPD-1MB\n15M\nLS-8SSTPD-15MB\nCAT.8 SSTP\n다이렉트,검정\n금도금 콘넥터,\n8P8C RJ45,\n24AWG, LI\n2M\nLS-8SSTPD-2MB\n20M\nLS-8SSTPD-20MB\n3M\nLS-8SSTPD-3MB\n25M\nLS-8SSTPD-25MB\n5M\nLS-8SSTPD-5MB\n7M\nLS-8SSTPD-7MB\n0,3M\nLS-8SLIM-0,3MB\n0.5M\nLS-8SLIM-0,5MB\n1M\nLS-8SLIM-1MB\nCAT.8 SSTP\n다이렉트 슬림,\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG, L\n4mm 슬림\n케이블\n2M\nLS-8SLIM-2MB\n3M\nLS-8SLIM-3MB\n5M\nLS-8SLIM-5MB\n0.5M LS-7UTPD-0.5M\n10M\nLS-7UTPD-10M\n1M\nLS-7UTPD-1M\n15M\nCAT.7\n(CAT.6A) UTP\n다이렉트, 회색,\n금도금 콘넥터,\n8P8C RJ45,\nLS-7UTPD-15M\nLS-7UTPD-20M\n2M\nLS-7UTPD-2M\n20M\n3M\nLS-7UTPD-3M\n30M\nLS-7UTPD-30M\n26AWG,\n5M\nLS-7UTPD-5M\n50M\nLS-7UTPD-50M\n7M\nLS-7UTPD-7M\n1M\nLS-7-SSTP-1MB\n15M LS-7-SSTP-15MB\n20M LS-7-SSTP-20MB\n2M\nLS-7-SSTP-2MB\nCAT.7 SSTP\n다이렉트 슬림\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n3M\nLS-7-SSTP-3MB\n5M\nLS-7-SSTP-5MB\n36AWG,\n4mm 초슬림\n7M\nLS-7-SSTP-7MB\n10M LS-7-SSTP-10MB\n1M\nLS-F7-SFTP-1M\n20M LS-F7-SFTP-20M\n2M\nLS-F7-SFTP-2M\nCAT.7 FTP\n다이렉트 평면,\n연선,흰색,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG,\n알루미늄 쉴드\n3M\nLS-F7-SFTP-3M\n5M LS-F7-SFTP-5M\n10M LS-F7-SFTP-10M\n15M LS-F7-SFTP-15M\n1M\nLS-F7-UTPD-1M 20M | LS-F7-UTPD-20M\nCAT.7 UTP\n기가슬림 평면,\n연선, 검정,\n8P8C RJ45,\n2M\nLS-F7-UTPD-2M\n3M\nLS-F7-UTPD-3M\n30AWG\n5M LS-F7-UTPD-5M\n10M LS-F7-UTPD-10M\n15M LS-F7-UTPD-15M\n2M\nLS-7NSTPD-2M\n30M LS-7NSTPD-30M\n50M LS-7NSTPD-50M\n3M\nLS-7NSTPD-3M\n5M\nLS-7NSTPD-5M\nCAT.7 SSTP\n다이렉트\n산업용 망사,\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\n10M LS-7NSTPD-10M\n15M\nLS-7NSTPD-15M\n20M\nLS-7NSTPD-20M\nCAT.7 SSTP\n다이렉트, 연선,\n흰색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\n0.5M LS-7SSTPD-0.5MG 10M | LS-7SSTPD-10MG\n1M LS-7SSTPD-1MG 15M LS-7SSTPD-15MG\n2M LS-7SSTPD-2MG 20M LS-7SSTPD-20MG\n3M LS-7SSTPD-3MG | 30M | LS-7SSTPD-30MG\n5M LS-7SSTPD-5MG 50M LS-7SSTPD-50MG\n7M LS-7SSTPD-7MG\nCAT.7 SSTP\n다이렉트, 연선,\n노랑,50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG.\nCAT.7 SSTP\n다이렉트, 연선,\n빨강, 50u,\n금도금 콘넥터\n8P8C RJ45,\nCAT.7 SSTP\n다이렉트, 연선,\n화이트블루,\n50u, 난연,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n26AWG,\n2M\nLS-7SSTPD-2MY\n2M\nLS-7SSTPD-2MR\n2M\nLS-7SSTPD-2MB\n3M\nLS-7SSTPD-3MY\n3M\nLS-7SSTPD-3MR\n3M\nLS-7SSTPD-3MB\nLS-7SSTPD-5MB\n5M\nLS-7SSTPD-5MY\n5M\nLS-7SSTPD-5MR\n5M\n7M\nLS-7SSTPD-7MY\n7M\nLS-7SSTPD-7MB\n7M LS-7SSTPD-7MR\n10M LS-7SSTPD-10MR\n10M LS-7SSTPD-10MY\n10M LS-7SSTPD-10MB\nCAT.6A UTP\n다이렉트 슬림\n연선,흰색,\n금도금 콘넥터,\n8P8C RJ45,\n32AWG,\n2.8mm 초슬림\nCAT.7 SSTP\n단선, 주황,\n장거리 이동형\n드럼릴,\nCAT.7 FTP\n자동감김,\n다이렉트 오토릴,\n인터넷케이블.\n8P8C RJ45,\n금도금 콘넥터\n10Gbps\n8P8C RJ45,\n23AWG,\nETL 인증\n1M\nLS-6A-UTP-1MW\n50M\nLS-CAT7-50MR\n1.5M LS-CAT.7-RT1.5M\n2M\nLS-6A-UTP-2MW\n80M\nLS-CAT7-80MR\n3M\nLS-6A-UTP-3MW\n5M\nLS-6A-UTP-5MW\n10M LS-6A-UTP-10MW\nCAT.6A SSTP\nBox, 단선,\n연선, LSZH난연,\n27AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\nCAT.7 STP\n(CAT.6A18)\nBox, 단선,\n,10Gbps,\n화이트블루,\n23AWG\n미국전선규격\n300M LS-SSTP-CAT.6A-300M\n300M\nLS-7SSTP-300MB\nCAT.7 STP\n(CAT.6A)\nBox, 단선,\nL, 10Gbps,\n23AWG\n미국전선규격\nCAT.8 SSTP\n박스,연선\nLI, 40Gbps,\n2000MHz,\n그레이,\n22AWG\n미국전선규격\n100M\nLS-7SSTP-100MG\n200M\nLS-8SSTP-200MG\n300M\nLS-7SSTP-300MG",
+    "LS-7SSTPD-MG": "LAN Star\nⓇ\n10Gbps 속도로 데이터를 전송하는\nCAT.Z SSTP 연선\n다이렉트 케이블\nBoabe's\nM.COWA\nBHOS\nLOHA\n600MHZ\n10Gbps\n전송속도\nLSZH\n최상위\n난연등급\n대역폭\n0.5M LS-7SSTPD-0.5MG 1M LS-7SSTPD-1MG\n2M LS-7SSTPD-2MG\n3M LS-7SSTPD-3MG\n5M LS-7SSTPD-5MG\n7M LS-7SSTPD-7MG\n10M LS-7SSTPD-10MG 15M LS-7SSTPD-15MG 20M LS-7SSTPD-20MG\nBOM LS-7SSTPD-30MG 50M LS-7SSTPD-50MG\nCAT.7 케이블은?\nCAT.7 케이블은 CAT.6보다 10배인 최대 10Gbps(10,000Mbps)의 속도를\n지원하고 CAT.6의 2배의 전송대역인 600MHz의 대역폭을 가지는 TIA/EIA-568\n규정규격이며 10Mbps/100Mbps/1000Mbps/10Gbps의 전송이 가능합니다.\n? CAT.6A와 CAT.7은 같은 케이블인가요?\nCAT.6A와 CAT.7 모두 10G를 지원합니다.\nTIA/EIA-568 규격은 대역폭 500MHz CAT.6A라 하고 ISO/IEC 11801 Class\n규정에서는 600MHz CAT.7이라 기준을 정하였으나 두 기관간 명명문제이며\n결국 대역폭 외에 속도는 동일하므로 거의 같은 케이블이라 보시면 됩니다.\n케이블 규격\n케이블 타입\n대역폭\n전송속도\nCAT.5 / CAT.5E\nUTP/FTP / S-FTP\n100MHz\n100~400Mbps (사무용)\nCAT.6\nUTP/FTP / S-FTP\n250MHz\n1Gbps (전산망, 일반서버)\nCAT.6A/CAT.7\nUTP/S-STP\n500MHz/600MHz\n10Gbps이상 (대용량 서버)\nCAT.7 SSTP LAN CABLE\n|Twisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n노이즈 방지 쉴드\n알루미늄 차폐막\n- 알루미늄\n차폐막\n노이즈방지\n쉴드선\n쌍(Pair)\n-PVC/LSZH 피복\n- 5개의 선\nStranded Cable\n연선(線) 케이블\n연선 케이블은 단선에 비해 잘 휘어져\n설치가 용이하며 잡음이나 감쇄현상이\n현저히 적어 널리 쓰입니다.\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n1 주황/흰색\n2 주황\n13 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n8 갈색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXIII\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n녹색 6\n갈색/흰색 7\n갈색 8\n8 갈색\n26AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n\n\n5 청색/흰색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n8 갈색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n6 주황\n7 갈색/흰색\n8 갈색\n갈색 8\n26AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n26AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다.\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nICTC PASS\n한국기계전기전자시험연구원\n한국기계전기전자시험연구원(KTC) 성능시험을 통과한 랜케이블\n시험성적서\n성적서 변호\n12015-07623\n회사명:\n대표자:\n주소 :\n라인업시스템(주)\n정정섭\n경기도 김포시 양촌읍 황금로 117 이젠아파트형공장 메카존 1층 103호\n1. 시료명: 랜케이블 패치코드\n규격 및 형식: LS-7-55TP (Cat.7, 10G)\n2. 성적서의 용도 품질관리용\n3. 접수일자 : 2015.08.04\n4. 시험일자: 2015.08.14-2015.08.26\n5. 시험방법 : 의자 제시규격\n6. 시험결과: 붙임 시험결과 참조\n시험자: 오광훈\n오광훈\n승인자: 김태오\n김태오\n2015년 08월 31일\nCTC\n한국기계전기전자시험연구원장\n원형의\nwwww.incre.kr 435-862 경기도 군포시민대로27번길 22(금정동)\nTEL:1899-7654 FAX:031-455-7307\nAS10-05(2)\nPage:\n1 of 10\n분류\n항목\n시험결과\n반사손실(Return Loss)\nPASS\n삽입손실(Insertion Loss); 감쇄(Attenuation)\nPASS\nPASS\n전기적 누화손실(NEXT: Near End Crosstalk Ratio)\n특성\n전력 누화손실(PS NEXT: Power Sum Near End Crosstalk Ratio)\nPASS\nACR-F(Attenuation to Crosstalk Ratio); ELFEXT\nPASS\nPS ACR-F(Power Sum Attenuation to Crosstalk Ratio); PSELFEXT\nPASS\nFLUKE.\n플루크 테스트를 통과한 제품입니다.\n(테스터기 : DTX-1800)\nLINKWARE\nSummary: PASS\nCable IO: LS-4AUTP\nTest Sun\n015\n016\nCHA001\n원\nsi\nWC Wrase\ntworks\nDTX-1800\nCALEANALY\nREFWOEN\nDEFAULT\nSCAD\nFLUKE\nnetworks\nPRODUCT SIZE\n500~50000mm\n11.5mm\n6mm\n11.5mm\nCHHHHH\n6.5mm\nPRODUCT IMAGE\n\n\nCHHHHHH\n6.5mm\nPRODUCT IMAGE\n0\n4000473. THIST-PAIR 4P 26ANG SFTP PIME CAT GA/CAT.7 CABLE, 106, STRAND CLSZH> <ROHSLANstal\n랜스타 정품케이블\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.7 (CAT.6A)\n최대전송속도\n10Gbps\n대\n역\n폭\n600MHz\n길\n이\n0.5M/1M / 2M / 3M/5M / 7M\n10M/15M/20M/30M/50M\nCR\nROHS K\nFLUKE\nTEST\nCOMPLIANT\nPASS\nLSZH\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를\n인증마크로 사용합니다.\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\nK\n인증번호 R-R-LUS-LS-EZ-750\nCAT.7 콘넥터에 대한 KC 인증입니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.7 SSTP 다이렉트 랜케이블\n모\n델\n명\nLS-7SSTPD-0.5MG\nLS-7SSTPD-1MG/LS-7SSTPD-2MG\nLS-7SSTPD-3MG/LS-7SSTPD-5MG\nLS-7SSTPD-7MG/LS-7SSTPD-10MG\nLS-7SSTPD-15MG/LS-7SSTPD-20MG\nLS-7SSTPD-30MG/LS-7SSTPD-50MG\n日回\n인증번호\nR-R-LUS-LS-EZ-750\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANG\ntar\n자매품\n0.5M\nLS-8SSTPD-0.5MB\n10M\nLS-8SSTPD-10MB\n1M\nLS-8SSTPD-1MB\n15M\nLS-8SSTPD-15MB\nCAT.8 SSTP\n다이렉트검정\n금도금 콘넥터,\n8P8C RJ45,\n24AWG, 난연\n2M\nLS-8SSTPD-2MB\n20M\nLS-8SSTPD-20MB\n3M\nLS-8SSTPD-3MB\n25M\nLS-8SSTPD-25MB\n5M\nLS-8SSTPD-5MB\n7M\nLS-8SSTPD-7MB\n0.3M\nLS-8SLIM-0.3MB\n0.5M\nLS-8SLIM-0.5MB\n1M\nLS-8SLIM-1MB\nCAT.8 SSTP\n다이렉트 슬림,\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG, 난연,\n4mm 슬림\n케이블\n2M\nLS-8SLIM-2MB\n3M\nLS-8SLIM-3MB\n5M\nLS-8SLIM-5MB\nCAT.7\n0.5M\nLS-7UTPD-0.5M\n10M\nLS-7UTPD-10M\n\n\n24AWG, L\n3M\nLS-8SSTPD-3MB\n25M\nLS-8SSTPD-25MB\n5M\nLS-8SSTPD-5MB\n7M\nLS-8SSTPD-7MB\n0.3M\nLS-8SLIM-0,3MB\n0.5M\nLS-8SLIM-0,5MB\n1M\nLS-8SLIM-1MB\nCAT,8 SSTP\n다이렉트 슬림\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG, L\n4mm 슬림\n케이블\n2M\nLS-8SLIM-2MB\n3M\nLS-8SLIM-3MB\n5M\nLS-8SLIM-5MB\n0.5M\nLS-7UTPD-0.5M\n10M\nLS-7UTPD-10M\nCAT.7\n(CAT.6A) UTP\n다이렉트, 회색,\n금도금 콘넥터,\n1M\nLS-7UTPD-1M\n15M\nLS-7UTPD-15M\n2M\nLS-7UTPD-2M\n20M\nLS-7UTPD-20M\n3M\nLS-7UTPD-3M\n30M\nLS-7UTPD-30M\n8P8C RJ45,\n26AWG,\n5M\nLS-7UTPD-5M\n50M\nLS-7UTPD-50M\n7M\nLS-7UTPD-7M\n1M\nLS-7-SSTP-1MB\nCAT.7 SSTP\n다이렉트 슬림,\n연선, 검정,\n금도금 콘넥터,\n15M LS-7-SSTP-15MB\n20M LS-7-SSTP-20MB\n2M\nLS-7-SSTP-2MB\n3M\nLS-7-SSTP-3MB\n8P8C RJ45,\n5M\nLS-7-SSTP-5MB\n36AWG,\n4mm 초슬림\n7M\nLS-7-SSTP-7MB\n10M LS-7-SSTP-10MB\nCAT.7 FTP\n1M\nLS-F7-SFTP-1M\n20M LS-F7-SFTP-20M\n2M\nLS-F7-SFTP-2M\n3M\nLS-F7-SFTP-3M\n다이렉트 평면,\n연선,흰색,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG,\n알루미늄 쉴드\n5M\nLS-F7-SFTP-5M\n10M LS-F7-SFTP-10M\n15M LS-F7-SFTP-15M\n1M\nLS-F7-UTPD-1M\n20M LS-F7-UTPD-20M\n2M\nLS-F7-UTPD-2M\nCAT.7 UTP\n기가슬림 평면,\n연선, 검정,\n8P8C RJ45,\n30AWG\n3M\nLS-F7-UTPD-3M\n5M LS-F7-UTPD-5M\n10M LS-F7-UTPD-10M\n15M LS-F7-UTPD-15M\n2M\nLS-7NSTPD-2M\n30M\nLS-7NSTPD-30M\n3M\nLS-7NSTPD-3M\n50M\nLS-7NSTPD-50M\nCAT.7 SSTP\n다이렉트\n산업용 망사,\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\n5M\nLS-7NSTPD-5M\n10M LS-7NSTPD-10M\n15M\nLS-7NSTPD-15M\n20M\nLS-7NSTPD-20M\nCAT.7 SSTP\n다이렉트, 연선,\n흰색, 50u,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\n0.5M LS-7SSTPD-0.5MG 10M LS-7SSTPD-10MG\n1M LS-7SSTPD-1MG 15M LS-7SSTPD-15MG\n2M LS-7SSTPD-2MG 20M LS-7SSTPD-20MG\n3M LS-7SSTPD-3MG | 30M | LS-7SSTPD-30MG\n5M LS-7SSTPD-5MG 50M LS-7SSTPD-50MG\n7M LS-7SSTPD-7MG\nCAT.7 SSTP\n다이렉트, 연선,\n노랑, 50u,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\nCAT.7 SSTP\n다이렉트, 연선,\n빨강, 50u.\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\nCAT.7 SSTP\n다이렉트, 연선,\n화이트블루.\n50u, 난연,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n2M\nLS-7SSTPD-2MY\n2M\nLS-7SSTPD-2MR\n2M\nLS-7SSTPD-2MB\n3M\nLS-7SSTPD-3MY\n3M\nLS-7SSTPD-3MR\n3M\nLS-7SSTPD-3MB\n5M\nLS-7SSTPD-5M\n5M\nLS-7SSTPD-5MR\n5M\n-7SSTPD-5MB\n7M\nLS-7SSTPD-7MY\n7M\nLS-7SSTPD-7MB\n7M LS-7SSTPD-7MR\n10M LS-7SSTPD-10MR\n10M\nLS-7SSTPD-10MY\n10M LS-7SSTPD-10MB\nCAT.6A UTP\n다이렉트 슬림\n연선,흰색,\n금도금 콘넥터\n8P8C RJ45,\n32AWG,\n2.8mm 초슬림\nCAT.7 SSTP\n단선, 주황,\n장거리 이동형\n드럼릴,\n8P8C RJ45,\n23AWG,\nETL 인증\nCAT.7 FTP\n자동감김,\n다이렉트, 오토릴\n인터넷케이블.\n8P8C RJ45,\n금도금 콘넥터,\n10Gbps\n1M\nLS-6A-UTP-1MW\n50M\nLS-CAT7-50MR\n1.5M LS-CAT.7-RT1.5M\n2M\nLS-6A-UTP-2MW\n80M\nLS-CAT7-80MR\n3M\nLS-6A-UTP-3MW\n5M\nLS-6A-UTP-5MW\n10M LS-6A-UTP-10MW\nCAT.6A SSTP\nBox, 단선,\n연선, LSZH난연,\n27AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\nCAT.7 STP\n(CAT.6A)\nBox, 단선,\nL, 10Gbps,\n화이트블루,\n23AWG\n미국전선규격\n300M LS-SSTP-CAT.6A-300M\n300M\nLS-7SSTP-300MB\nCAT.7 STP\n(CAT.6A)\nBox, 단선,\nL, 10Gbps,\n23AWG\n미국전선규격\nCAT.8 SSTP\n박스,연선\n, 40Gbps,\n2000MHz,\n그레이,\n22AWG\n미국전선규격\n100M\nLS-7SSTP-100MG\n200M\nLS-8SSTP-200MG\n300M\nLS-7SSTP-300MG",
+    "LS-7SSTPD-MR": "LANSStar®\nⓇ\n10Gbps 속도로 데이터를 전송하는\nCAT.Z SSTP 연선\n다이렉트 케이블\n600MHZ\n10Gbps\n전송속도\nLSZH\n최상위\n난연등급\n대역폭\n2M LS-7SSTPD-2MR\n3M LS-7SSTPD-3MR\n5M LS-7SSTPD-5MR\n7M LS-7SSTPD-7MR\n10M LS-7SSTPD-10MR\nCAT.7 케이블은?\nCAT.7 케이블은 CAT.6보다 10배인 최대 10Gbps (10,000Mbps)의 속도를\n지원하고 CAT.6의 2배의 전송대역인 600MHz의 대역폭을 가지는 TIA/EIA-568\n규정규격이며 10Mbps/100Mbps/1000Mbps/10Gbps의 전송이 가능합니다.\n? CAT.6A와 CAT.7은 같은 케이블인가요?\nCAT.6A와 CAT.7 모두 10G를 지원합니다.\nTIA/EIA-568 규격은 대역폭 500MHz CAT.6A라 하고 ISO/IEC 11801 Class\n규정에서는 600MHz CAT.7이라 기준을 정하였으나 두 기관간 명명문제이며\n결국 대역폭 외에 속도는 동일하므로 거의 같은 케이블이라 보시면 됩니다.\n케이블 규격\n케이블 타입\n대역폭\n전송속도\nCAT.5 / CAT.5E\nUTP/FTP / S-FTP\n100MHz\n100~400Mbps (사무용)\nCAT.6\nUTP/FTP / S-FTP\n250MHz\n1Gbps (전산망, 일반서버)\nCAT.6A/CAT.7\nUTP/S-STP\n500MHz/600MHz\n10Gbps이상 (대용량 서버)\nCAT.7 SSTP LAN CABLE\n|Twisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n노이즈 방지 쉴드\n알루미늄 차폐막\n알루미늄\n차폐막\n노이즈방지\n쉴드선\n쌍(Pair)\n-PVC/LSZH 피복\n- 5개의 선\nStranded Cable\n연선(線) 케이블\n연선 케이블은 단선에 비해 잘 휘어져\n설치가 용이하며 잡음이나 감쇄현상이\n현저히 적어 널리 쓰입니다\n단선\n연선\n단선 Solid\n연선 Stranded |\n한가닥의 구리선 여러 가닥의 구리선\n|다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n주황/흰색 1\n1 주황/흰색\n2 주황\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\n13 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXIII\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n8 갈색\n8 갈색\n26AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n\n\n5 청색/흰색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n8 갈색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n6 주황\n7 갈색/흰색\n갈색 8\n8 갈색\n26AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n26AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다.\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nICTC PASS\n한국기계전기전자시험연구원\n한국기계전기전자시험연구원(KTC) 성능시험을 통과한 랜케이블\n시험성적서\n성적서 변호\n12015-07623\n회사명 :\n대표자:\n주소 :\n라인업시스템(주)\n정정섭\n경기도 김포시 양촌읍 황금로 117 이젠아파트형공장 메카존 1층 103호\n1. 시료명: 랜케이블 패치코드\n규격 및 형식: LS-7-SSTP (Cat.7, 10G)\n2. 성적서의 용도\n품질관리용\n3. 접수일자 : 2015.08.04\n4. 시험일자: 2015.08.14-2015.08.26\n5. 시험방법 : 의자 제시규격\n6. 시험결과: 붙임 시험결과 참조\n시험자: 오광훈\n오광훈\n승인자: 김태오\n김태오\n2015년 08월 31일\nSawa\nCTC\n한국기계전기전자시험연구원장\n원형의\nwwww.incre.kr 435-862 경기도 군포시민대로27번길 22(금정동)\nTEL:1899-7654 FAX:031-455-7307\n510052)\nPage:\n1 of 10\n분류\n항목\n시험결과\n반사손실(Return Loss)\nPASS\n삽입손실(Insertion Loss); 감쇄(Attenuation)\nPASS\nPASS\n전기적 누화손실(NEXT: Near End Crosstalk Ratio)\n특성\n전력 누화손실(PS NEXT: Power Sum Near End Crosstalk Ratio)\nPASS\nACR-F(Attenuation to Crosstalk Ratio); ELFEXT\nPASS\nPS ACR-F(Power Sum Attenuation to Crosstalk Ratio); PSELFEXT\nPASS\nFLUKE.\n플루크 테스트를 통과한 제품입니다.\n(테스터기 : DTX-1800)\nLINKWARE\nSummary: PASS\nCable IO: LS-4AUTP\nTest Sun\n015\n016\nCHA001\n원\nNA\nWC War Case\ntworks\nDTX-1800\nCALEANALY\nPSACRF\nREFWORK\nFAULT\nSCAD\nFLUKE\nnetworks\nPRODUCT SIZE\n500~50000mm\n11.5mm\n6mm\n11.5mm\nCHHHHH\n6.5mm\nPRODUCT IMAGE\n\n\nCHHHHHH\n6.5mm\nPRODUCT IMAGE\nㅇ\n4000473.\nTHIST-PAIR 4P 26ANG S/FTP PINE CAT SA/CAT? CABLE, 106, STRAND CLSZH> <ROHSALANSLA\n랜스타 정품케이블\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.7 (CAT.6A)\n최대전송속도\n10Gbps\n대\n역\n폭\n600MHz\n길\n이\n2M/3M/5M/10M\nROHS K\nFLUKE\nTEST\nCOMPLIANT\nPASS\nLSZH\nISO 9001:2008\n품질경영시스템\nRoHS (Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를\n인증마크로 사용합니다.\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\nKC\n인증번호 R-R-LUS-LS-EZ-750\nCAT.7 콘넥터에 대한 KC 인증입니다.\nLANStar\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.7 SSTP 다이렉트 랜케이블\n모\n델\n명\nLS-7SSTPD-2MR\nLS-7SSTPD-3MR\nLS-7SSTPD-5MR\nLS-7SSTPD-7MR\nLS-7SSTPD-10MR\n日回\n인증번호\nR-R-LUS-LS-EZ-750\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANG\ntar\n자매품\n0.5M\nLS-8SSTPD-0.5MB\n10M\nLS-8SSTPD-10MB\n1M\nLS-8SSTPD-1MB\n15M\nLS-8SSTPD-15MB\nCAT.8 SSTP\n다이렉트검정\n금도금 콘넥터,\n8P8C RJ45,\n24AWG, 난연\n2M\nLS-8SSTPD-2MB\n20M\nLS-8SSTPD-20MB\n3M\nLS-8SSTPD-3MB\n25M\nLS-8SSTPD-25MB\n5M\nLS-8SSTPD-5MB\n7M\nLS-8SSTPD-7MB\n0.3M\nLS-8SLIM-0.3MB\n0.5M\nLS-8SLIM-0.5MB\n1M\nLS-8SLIM-1MB\nCAT.8 SSTP\n다이렉트 슬림,\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG, 난연,\n4mm 슬림\n케이블\n2M\nLS-8SLIM-2MB\n3M\nLS-8SLIM-3MB\n5M\nLS-8SLIM-5MB\nCAT.7\n0.5M\nLS-7UTPD-0.5M\n10M\nLS-7UTPD-10M\n\n\n24AWG, L\n3M\nLS-8SSTPD-3MB\n25M\nLS-8SSTPD-25MB\n5M\nLS-8SSTPD-5MB\n7M\nLS-8SSTPD-7MB\n0.3M\nLS-8SLIM-0,3MB\n0.5M\nLS-8SLIM-0,5MB\n1M\nLS-8SLIM-1MB\nCAT,8 SSTP\n다이렉트 슬림\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG, L\n4mm 슬림\n케이블\n2M\nLS-8SLIM-2MB\n3M\nLS-8SLIM-3MB\n5M\nLS-8SLIM-5MB\n0.5M\nLS-7UTPD-0.5M\n10M\nLS-7UTPD-10M\nCAT.7\n(CAT.6A) UTP\n다이렉트, 회색,\n금도금 콘넥터,\n1M\nLS-7UTPD-1M\n15M\nLS-7UTPD-15M\n2M\nLS-7UTPD-2M\n20M\nLS-7UTPD-20M\n3M\nLS-7UTPD-3M\n30M\nLS-7UTPD-30M\n8P8C RJ45,\n26AWG,\n5M\nLS-7UTPD-5M\n50M\nLS-7UTPD-50M\n7M\nLS-7UTPD-7M\n1M\nLS-7-SSTP-1MB\nCAT.7 SSTP\n다이렉트 슬림,\n연선, 검정,\n금도금 콘넥터,\n15M LS-7-SSTP-15MB\n20M LS-7-SSTP-20MB\n2M\nLS-7-SSTP-2MB\n3M\nLS-7-SSTP-3MB\n8P8C RJ45,\n5M\nLS-7-SSTP-5MB\n36AWG,\n4mm 초슬림\n7M\nLS-7-SSTP-7MB\n10M LS-7-SSTP-10MB\nCAT.7 FTP\n1M\nLS-F7-SFTP-1M\n20M LS-F7-SFTP-20M\n2M\nLS-F7-SFTP-2M\n3M\nLS-F7-SFTP-3M\n다이렉트 평면,\n연선,흰색,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG,\n알루미늄 쉴드\n5M\nLS-F7-SFTP-5M\n10M LS-F7-SFTP-10M\n15M LS-F7-SFTP-15M\n1M\nLS-F7-UTPD-1M\n20M LS-F7-UTPD-20M\n2M\nLS-F7-UTPD-2M\nCAT.7 UTP\n기가슬림 평면,\n연선, 검정,\n8P8C RJ45,\n30AWG\n3M\nLS-F7-UTPD-3M\n5M LS-F7-UTPD-5M\n10M LS-F7-UTPD-10M\n15M LS-F7-UTPD-15M\n2M\nLS-7NSTPD-2M\n30M\nLS-7NSTPD-30M\n3M\nLS-7NSTPD-3M\n50M\nLS-7NSTPD-50M\nCAT.7 SSTP\n다이렉트\n산업용 망사,\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\n5M\nLS-7NSTPD-5M\n10M LS-7NSTPD-10M\n15M\nLS-7NSTPD-15M\n20M\nLS-7NSTPD-20M\nCAT.7 SSTP\n다이렉트, 연선,\n흰색, 50u,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\n0.5M LS-7SSTPD-0.5MG 10M LS-7SSTPD-10MG\n1M LS-7SSTPD-1MG 15M LS-7SSTPD-15MG\n2M LS-7SSTPD-2MG 20M LS-7SSTPD-20MG\n3M LS-7SSTPD-3MG | 30M | LS-7SSTPD-30MG\n5M LS-7SSTPD-5MG 50M LS-7SSTPD-50MG\n7M LS-7SSTPD-7MG\nCAT.7 SSTP\n다이렉트, 연선,\n노랑, 50u,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\nCAT.7 SSTP\n다이렉트, 연선,\n빨강, 50u.\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\nCAT.7 SSTP\n다이렉트, 연선,\n화이트블루.\n50u, 난연,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n2M\nLS-7SSTPD-2MY\n2M\nLS-7SSTPD-2MR\n2M\nLS-7SSTPD-2MB\n3M\nLS-7SSTPD-3MY\n3M\nLS-7SSTPD-3MR\n3M\nLS-7SSTPD-3MB\n5M\nLS-7SSTPD-5M\n5M\nLS-7SSTPD-5MR\n5M\n-7SSTPD-5MB\n7M\nLS-7SSTPD-7MY\n7M\nLS-7SSTPD-7MB\n7M LS-7SSTPD-7MR\n10M LS-7SSTPD-10MR\n10M\nLS-7SSTPD-10MY\n10M LS-7SSTPD-10MB\nCAT.6A UTP\n다이렉트 슬림\n연선,흰색,\n금도금 콘넥터\n8P8C RJ45,\n32AWG,\n2.8mm 초슬림\nCAT.7 SSTP\n단선, 주황,\n장거리 이동형\n드럼릴,\n8P8C RJ45,\n23AWG,\nETL 인증\nCAT.7 FTP\n자동감김,\n다이렉트, 오토릴\n인터넷케이블.\n8P8C RJ45,\n금도금 콘넥터,\n10Gbps\n1M\nLS-6A-UTP-1MW\n50M\nLS-CAT7-50MR\n1.5M LS-CAT.7-RT1.5M\n2M\nLS-6A-UTP-2MW\n80M\nLS-CAT7-80MR\n3M\nLS-6A-UTP-3MW\n5M\nLS-6A-UTP-5MW\n10M LS-6A-UTP-10MW\nCAT.6A SSTP\nBox, 단선,\n연선, LSZH난연,\n27AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\nCAT.7 STP\n(CAT.6A)\nBox, 단선,\nL, 10Gbps,\n화이트블루,\n23AWG\n미국전선규격\n300M LS-SSTP-CAT.6A-300M\n300M\nLS-7SSTP-300MB\nCAT.7 STP\n(CAT.6A)\nBox, 단선,\nL, 10Gbps,\n23AWG\n미국전선규격\nCAT.8 SSTP\n박스,연선\n, 40Gbps,\n2000MHz,\n그레이,\n22AWG\n미국전선규격\n100M\nLS-7SSTP-100MG\n200M\nLS-8SSTP-200MG\n300M\nLS-7SSTP-300MG",
+    "LS-7SSTPD-MY": "LAN Star\nⓇ\n10Gbps 속도로 데이터를 전송하는\nCAT.Z SSTP 연선\n다이렉트 케이블\n600MHZ\n10Gbps\n전송속도\nLSZH\n최상위\n난연등급\n대역폭\n2M LS-7SSTPD-2MY\n3M LS-7SSTPD-3MY\n5M LS-7SSTPD-5MY\n7M LS-7SSTPD-7MY\n10M LS-7SSTPD-10MY\nCAT.7 케이블은?\nCAT.7 케이블은 CAT.6보다 10배인 최대 10Gbps(10,000Mbps)의 속도를\n지원하고 CAT.6의 2배의 전송대역인 600MHz의 대역폭을 가지는 TIA/EIA-568\n규정규격이며 10Mbps/100Mbps/1000Mbps/10Gbps의 전송이 가능합니다.\n? CAT.6A와 CAT.7은 같은 케이블인가요?\nCAT.6A와 CAT.7 모두 10G를 지원합니다.\nTIA/EIA-568 규격은 대역폭 500MHz CAT.6A라 하고 ISO/IEC 11801 Class\n규정에서는 600MHz CAT.7이라 기준을 정하였으나 두 기관간 명명문제이며\n결국 대역폭 외에 속도는 동일하므로 거의 같은 케이블이라 보시면 됩니다.\n케이블 규격\n케이블 타입\n대역폭\n전송속도\nCAT.5 / CAT.5E\nUTP/FTP / S-FTP\n100MHz\n100~400Mbps (사무용)\nCAT.6\nUTP/FTP / S-FTP\n250MHz\n1Gbps (전산망, 일반서버)\nCAT.6A/CAT.7\nUTP/S-STP\n500MHz/600MHz\n10Gbps이상 (대용량 서버)\nCAT.7 SSTP LAN CABLE\n|Twisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n노이즈 방지 쉴드\n알루미늄 차폐막\n- 알루미늄\n차폐막\n노이즈방지\n쉴드선\n쌍(Pair)\n-PVC/LSZH 피복\n- 5개의 선\nStranded Cable\n연선(線) 케이블\n연선 케이블은 단선에 비해 잘 휘어져\n설치가 용이하며 잡음이나 감쇄현상이\n현저히 적어 널리 쓰입니다.\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n1 주황/흰색\n2 주황\n13 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n8 갈색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXIII\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n녹색 6\n갈색/흰색 7\n갈색 8\n8 갈색\n26AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n\n\n5 청색/흰색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n8 갈색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n6 주황\n7 갈색/흰색\n8 갈색\n갈색 8\n26AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n26AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다.\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nICTC PASS\n한국기계전기전자시험연구원\n한국기계전기전자시험연구원(KTC) 성능시험을 통과한 랜케이블\n시험성적서\n성적서 변호\n12015-07623\n회사명:\n대표자:\n주소 :\n라인업시스템(주)\n정정섭\n경기도 김포시 양촌읍 황금로 117 이젠아파트형공장 메카존 1층 103호\n1. 시료명: 랜케이블 패치코드\n규격 및 형식: LS-7-55TP (Cat.7, 10G)\n2. 성적서의 용도 품질관리용\n3. 접수일자 : 2015.08.04\n4. 시험일자: 2015.08.14-2015.08.26\n5. 시험방법 : 의자 제시규격\n6. 시험결과: 붙임 시험결과 참조\n시험자: 오광훈\n오광훈\n승인자: 김태오\n김태오\n2015년 08월 31일\nCTC\n한국기계전기전자시험연구원장\n원형의\nwwww.incre.kr 435-862 경기도 군포시민대로27번길 22(금정동)\nTEL:1899-7654 FAX:031-455-7307\nAS10-05(2)\nPage:\n1 of 10\n분류\n항목\n시험결과\n반사손실(Return Loss)\nPASS\n삽입손실(Insertion Loss); 감쇄(Attenuation)\nPASS\nPASS\n전기적 누화손실(NEXT: Near End Crosstalk Ratio)\n특성\n전력 누화손실(PS NEXT: Power Sum Near End Crosstalk Ratio)\nPASS\nACR-F(Attenuation to Crosstalk Ratio); ELFEXT\nPASS\nPS ACR-F(Power Sum Attenuation to Crosstalk Ratio); PSELFEXT\nPASS\nFLUKE.\n플루크 테스트를 통과한 제품입니다.\n(테스터기 : DTX-1800)\nLINKWARE\nSummary: PASS\nCable IO: LS-4AUTP\nTest Sun\n015\n016\nCHA001\n원\nsi\nWC Wrase\ntworks\nDTX-1800\nCALEANALY\nREFWOEN\nDEFAULT\nSCAD\nFLUKE\nnetworks\nPRODUCT SIZE\n500~50000mm\n11.5mm\n6mm\n11.5mm\nCHHHHH\n6.5mm\nPRODUCT IMAGE\n\n\nCHHHHHH\n6.5mm\nPRODUCT IMAGE\n...\n4000428. THIST-PAIR 4P 266NG SFTP PIME CAT GA/CAT.7 CABLE 106, STRAND, CLSZH> <ROHSLANSLIDA\n랜스타 정품케이블\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.7 (CAT.6A)\n최대전송속도\n10Gbps\n대\n역\n폭\n600MHz\n길\n이\n2M / 3M / 5M / 7M / 10M\nROHS K\nFLUKE\nTEST\nCOMPLIANT\nPASS\nLSZH\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를\n인증마크로 사용합니다.\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\n인증번호 R-R-LUS-LS-EZ-750\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.7 SSTP 다이렉트 랜케이블\n모\n델\n명\nLS-7SSTPD-2MY\nLS-7SSTPD-3MY\nLS-7SSTPD-5MY\nLS-7SSTPD-7MY\nLS-7SSTPD-10MY\n日回\n인증번호\nR-R-LUS-LS-EZ-750\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANG\ntar\n자매품\n0.5M\nLS-8SSTPD-0.5MB\n10M\nLS-8SSTPD-10MB\n1M\nLS-8SSTPD-1MB\n15M\nLS-8SSTPD-15MB\nCAT.8 SSTP\n다이렉트검정\n금도금 콘넥터,\n8P8C RJ45,\n24AWG, 난연\n2M\nLS-8SSTPD-2MB\n20M\nLS-8SSTPD-20MB\n3M\nLS-8SSTPD-3MB\n25M\nLS-8SSTPD-25MB\n5M\nLS-8SSTPD-5MB\n7M\nLS-8SSTPD-7MB\n0.3M\nLS-8SLIM-0.3MB\n0.5M\nLS-8SLIM-0.5MB\n1M\nLS-8SLIM-1MB\nCAT.8 SSTP\n다이렉트 슬림,\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG, 난연,\n4mm 슬림\n케이블\n2M\nLS-8SLIM-2MB\n3M\nLS-8SLIM-3MB\n5M\nLS-8SLIM-5MB\nCAT.7\n0.5M\nLS-7UTPD-0.5M\n10M\nLS-7UTPD-10M\n\n\n24AWG, L\n3M\nLS-8SSTPD-3MB\n25M\nLS-8SSTPD-25MB\n5M\nLS-8SSTPD-5MB\n7M\nLS-8SSTPD-7MB\n0.3M\nLS-8SLIM-0,3MB\n0.5M\nLS-8SLIM-0,5MB\n1M\nLS-8SLIM-1MB\nCAT,8 SSTP\n다이렉트 슬림\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG, L\n4mm 슬림\n케이블\n2M\nLS-8SLIM-2MB\n3M\nLS-8SLIM-3MB\n5M\nLS-8SLIM-5MB\n0.5M\nLS-7UTPD-0.5M\n10M\nLS-7UTPD-10M\nCAT.7\n(CAT.6A) UTP\n다이렉트, 회색,\n금도금 콘넥터,\n1M\nLS-7UTPD-1M\n15M\nLS-7UTPD-15M\n2M\nLS-7UTPD-2M\n20M\nLS-7UTPD-20M\n3M\nLS-7UTPD-3M\n30M\nLS-7UTPD-30M\n8P8C RJ45,\n26AWG,\n5M\nLS-7UTPD-5M\n50M\nLS-7UTPD-50M\n7M\nLS-7UTPD-7M\n1M\nLS-7-SSTP-1MB\nCAT.7 SSTP\n다이렉트 슬림,\n연선, 검정,\n금도금 콘넥터,\n15M LS-7-SSTP-15MB\n20M LS-7-SSTP-20MB\n2M\nLS-7-SSTP-2MB\n3M\nLS-7-SSTP-3MB\n8P8C RJ45,\n5M\nLS-7-SSTP-5MB\n36AWG,\n4mm 초슬림\n7M\nLS-7-SSTP-7MB\n10M LS-7-SSTP-10MB\nCAT.7 FTP\n1M\nLS-F7-SFTP-1M\n20M LS-F7-SFTP-20M\n2M\nLS-F7-SFTP-2M\n3M\nLS-F7-SFTP-3M\n다이렉트 평면,\n연선,흰색,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG,\n알루미늄 쉴드\n5M\nLS-F7-SFTP-5M\n10M LS-F7-SFTP-10M\n15M LS-F7-SFTP-15M\n1M\nLS-F7-UTPD-1M\n20M LS-F7-UTPD-20M\n2M\nLS-F7-UTPD-2M\nCAT.7 UTP\n기가슬림 평면,\n연선, 검정,\n8P8C RJ45,\n30AWG\n3M\nLS-F7-UTPD-3M\n5M LS-F7-UTPD-5M\n10M LS-F7-UTPD-10M\n15M LS-F7-UTPD-15M\n2M\nLS-7NSTPD-2M\n30M\nLS-7NSTPD-30M\n3M\nLS-7NSTPD-3M\n50M\nLS-7NSTPD-50M\nCAT.7 SSTP\n다이렉트\n산업용 망사,\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\n5M\nLS-7NSTPD-5M\n10M LS-7NSTPD-10M\n15M\nLS-7NSTPD-15M\n20M\nLS-7NSTPD-20M\nCAT.7 SSTP\n다이렉트, 연선,\n흰색, 50u,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\n0.5M LS-7SSTPD-0.5MG 10M LS-7SSTPD-10MG\n1M LS-7SSTPD-1MG 15M LS-7SSTPD-15MG\n2M LS-7SSTPD-2MG 20M LS-7SSTPD-20MG\n3M LS-7SSTPD-3MG | 30M | LS-7SSTPD-30MG\n5M LS-7SSTPD-5MG 50M LS-7SSTPD-50MG\n7M LS-7SSTPD-7MG\nCAT.7 SSTP\n다이렉트, 연선,\n노랑, 50u,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\nCAT.7 SSTP\n다이렉트, 연선,\n빨강, 50u.\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\nCAT.7 SSTP\n다이렉트, 연선,\n화이트블루.\n50u, 난연,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n2M\nLS-7SSTPD-2MY\n2M\nLS-7SSTPD-2MR\n2M\nLS-7SSTPD-2MB\n3M\nLS-7SSTPD-3MY\n3M\nLS-7SSTPD-3MR\n3M\nLS-7SSTPD-3MB\n5M\nLS-7SSTPD-5M\n5M\nLS-7SSTPD-5MR\n5M\n-7SSTPD-5MB\n7M\nLS-7SSTPD-7MY\n7M\nLS-7SSTPD-7MB\n7M LS-7SSTPD-7MR\n10M LS-7SSTPD-10MR\n10M\nLS-7SSTPD-10MY\n10M LS-7SSTPD-10MB\nCAT.6A UTP\n다이렉트 슬림\n연선,흰색,\n금도금 콘넥터\n8P8C RJ45,\n32AWG,\n2.8mm 초슬림\nCAT.7 SSTP\n단선, 주황,\n장거리 이동형\n드럼릴,\n8P8C RJ45,\n23AWG,\nETL 인증\nCAT.7 FTP\n자동감김,\n다이렉트, 오토릴\n인터넷케이블.\n8P8C RJ45,\n금도금 콘넥터,\n10Gbps\n1M\nLS-6A-UTP-1MW\n50M\nLS-CAT7-50MR\n1.5M LS-CAT.7-RT1.5M\n2M\nLS-6A-UTP-2MW\n80M\nLS-CAT7-80MR\n3M\nLS-6A-UTP-3MW\n5M\nLS-6A-UTP-5MW\n10M LS-6A-UTP-10MW\nCAT.6A SSTP\nBox, 단선,\n연선, LSZH난연,\n27AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\nCAT.7 STP\n(CAT.6A)\nBox, 단선,\nL, 10Gbps,\n화이트블루,\n23AWG\n미국전선규격\n300M LS-SSTP-CAT.6A-300M\n300M\nLS-7SSTP-300MB\nCAT.7 STP\n(CAT.6A)\nBox, 단선,\nL, 10Gbps,\n23AWG\n미국전선규격\nCAT.8 SSTP\n박스,연선\n, 40Gbps,\n2000MHz,\n그레이,\n22AWG\n미국전선규격\n100M\nLS-7SSTP-100MG\n200M\nLS-8SSTP-200MG\n300M\nLS-7SSTP-300MG",
+    "LS-7SSTPD-RED": "당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\nLANSStar\n10G\nCAT.7 S/FTP\nDIRECT ETHERNET CABEL\n10Gbps / 50 금도금 컨넥터 / 26AWG / 연선(Stranded)\n20 22 24 26 28 30\nA ↑\nFLUKE\n26AWG\nFLUKE\n10Gbps\n전송속도\n600MHz\n대역폭\nDirect\n연선 케이블\nLSZH\n난연\n심선\n테스트 통과\n케이블 제품 분류표\n모델No.\n모델명\n길이\n심선\n직경\n색상\n11008\nLS-7SSTPD-2MR\n2M\n11009\nLS-7SSTPD-3MR\n3M\n26AWG\n6.0±0.2mm\nRed\n11010\nLS-7SSTPD-5MR\n5M\n11011\nLS-7SSTPD-10MR\n10M\nMarketplace\nSOAR\nVAST\nHUBSPOT THEME\nRIDGE\nAERO\nLaunch\nLOODLOORVORIO PERT\nNO S\n\n\nP\nRIDGE\nAERO\nLaunch\nLOODOO ROSTO PEET\nCAT.7 S/FTP\n600MHz\n26AWG\nCAT.7 최대 10Gbps\n전송속도\n600MHz 대역폭\n안정적이고 빠른 전송\n안정성이 뛰어난\n26AWG 심선 사용\nCAT.7 S/FTP\n10GBASE-T 지원\n10GBASE-T를 지원하는 CAT.7 규격의 S/FTP 랜 케이블로\n600MHz 대역폭을 지원하여 최대 10Gbps의 전송속도를 나타냅니다.\n케이블 비교\nCAT.5E\nCAT.6\nCAT.6A/CAT.7\n대역폭\n100MHz\n250MHz\n500MHz/600MHz\n전송속도\n1Gbps\n1Gbps\n10Gbps\n규격\n1000BASE-T\n1000BASE-TX\n10GBASE-T\nCAT.5E\n1Gbps\nCAT.6\n1Gbps\nCAT.6A/7\n10Gbps\nS/FTP Twisted Pair\n4Pair Twisted Pair\n4페어 꼬임구조로 이루어져 있는 연선 케이블로 각각의 페어를 알루미늄 호일이\n감싸고 있으며, 4페어를 차폐 쉴드가 감싸고 있는 2중 구조로\n가장 바깥 피복은 LSZH 자켓으로 이루어져 있습니다.\n연선\nTwisted Pair\n알루미늄 호일\n차폐 쉴드\nLSZH 자켓\n(OD: 6.0±0.2mm)\nS/FTP 이중차폐 구조\nUTP/FTP/STP 케이블 비교\n이중차폐 구조로 외부 신호간섭 최소화!!\n\n\nS/FTP 이중차폐 구조\nUTP/FTP/STP 케이블 비교\n이중차폐 구조로 외부 신호간섭 최소화!!\nUTP\n(Unshielded Twisted Pair)\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있으며 전선과\n피복만으로 구성되어 있는 케이블입니다. 보통 일반적인 랜케이블이\n이에 해당되며 사무실 및 가정 배선용으로 사용됩니다.\nFTP\n꼬여있는 선과 선 사이에 차단용 십자형 개재가 있어 케이블간의\n간섭을 줄여 전송 속도를 높여주는 기능을 합니다.\n알루미늄은박이 선을 감싸고 있으며 별도로 접지용 선이 있습니다.\nUTP에 비해 절연 기능이 탁월하여 공장 배선용으로 많이 사용됩니다.\n(Foiled Twisted Pair)\nSTP\n(Shielded Twisted Pair)\n외부 피복에 쉴드 처리가 되어 있고 알루미늄 은박이 선을 감싸고 있어\n외부의 노이즈나 전기적 신호 간섭 차단에 탁월한 케이블입니다.\n통신 에러 및 속도 저하를 최소화하여 대용량의 정보를 전달할 수 있어\n접지 및 특수 환경의 초고속 네트워크망이 구축된 환경에서 사용됩니다.\nS/FTP\n각 페어마다 알루미늄 실드가 있고 전체 페어를 모아 편조차폐로\n감싼 케이블로 이중차폐 구조로 이루어졌기에 외부 신호간섭을\n최소화하기 가장 좋은 케이블입니다.\n(Screened Foiled Twisted Pair)\n연선 케이블\nStranded Cable\n연선 케이블은 단선에 비해 잘 휘어지는 특징이 있어\n설치가 용이하며 잡음이나 감쇄현상이 현저히 적어\n널리 쓰이는 케이블입니다.\nTwisted Structure\n연선/ 단선 케이블 구조 비교\n연선\n단선\n가늘거나 굵은 여러개의 가닥이 그룹화되어\n단일 도체를 구성\n하나의 금속으로 구성\n단선보다 유연하여 쉽게 끊어지지 않지만\n내구성이 떨어짐\n연선보다 단단하고 내구성이 강하나\n구부리면 파손될 가능성이 높음\n엘리베이터 등 이동하거나 노출이 많이\n되는 곳에 주로 설치\n내부 배선, 고정된 전선 등 전력을 많이\n사용하는 곳에 주로 설치\nBare CU OFC\n무산소 구리 도체 사용\n케이블에 순수 구리 성분을 사용하여 데이터 전송률을 높였으며\n산소가 없는 OFC(Oxygen Free Copper) 구리 도체를 사용하여\n일반 구리도체에 비해 전도성, 내식성이 뛰어난 장점이 있습니다.\n무산소 구리 도체\nOFC(Oxygen Free Copper)\n\n\n산소가 없는 OFC(Oxygen Free Copper) 구리 도체를 사용하여\n일반 구리도체에 비해 전도성, 내식성이 뛰어난 장점이 있습니다.\n무산소 구리 도체\nOFC(Oxygen Free Copper)\n100\n26AWG\n전세계 표준규격 준수\n케이블 내심의 굵기를 표시하는 미국 전선 규격으로 AWG가 작을수록\n굵은 내심을 가지고 있으며 잡음이 적고 전송에 적합합니다.\n본 제품은 AWG 규격중 가장 안정성이 뛰어난 26AWG를 사용했습니다.\nAWG\n직경(Inch)\n직경(mm)\n단면적(㎡)\n저항(요/m)\n허용전류(A)\n20\n0.032\n0,812\n0.518\n0.0333\n4.5\n21\n21\n0.0285\n0.723\n0.41\n0,042\n3.8\n22\n0,0253\n0.644\n0.326\n0,053\n3.0\n30\n23\n2\n0,0226\n0,573\n0,258\n0.0668\n2,2\n24\n0.0201\n0.511\n0,205\n0.0842\n0.588\n25\n25\n0.0179\n0.455\n0.162\n0.106\n0.477\n26\n0.0159\n0.405\n0.129\n0.134\n0.378\n27\n0.0142\n0.361\n0.102\n0.169\n0,288\n28\n0.0126\n0.321\n0.081\n0.213\n0,250\n29\n220\n0.0113\n0.286\n0.0642\n0.268\n0,212\n30\n30\n0,01\n0,255\n0.0509\n0.339\n0.147\n50p 금도금 콘넥터\n신호손실 최소화\n튼튼한 스프링 구조\n컨넥터 내구성 강화\n0\n견고한 마감처리\n케이블 피복 보호\n자연스러운 컨넥터+부트\n컨넥터와 부트가 맞닿아\n직접적으로 컨넥터\n접촉이 없어\n컨넥터 보호 가능\n\n\n컨넥터 보호 가능\n50p 금도금\n3prongs 금도금 핀\n50 Prongs 금도금 핀을 사용하여 컨넥터와 핀의 결합력이 높으며\n전도율이 좋고 신호 손실이 적은 장점이 있습니다.\n50μ 3Prongs\n금도금 핀\n자격인증 및 확인서\n랜스타 CAT.7 S/FTP 패치 코드는\nETL, EC 인증 및 FLUKE TEST 통과 제품이며\n라인업시스템은 소재·부품·장비 전문 기업으로 확인받은 기업입니다.\nCompliance Statement\nNo 2013 1754\nData communication cable, Category 7\nintertek\nAUTHORIZATION TO MA\nFISSAZSANG\nEcarmin\nLove War\nED\nECCabling d\nGull\nIN SCHEPPED A\nthat\nCreate\nCute Ver\nEC:\n185\nETL 인증\n소재·부품·장비\n전문기업확인서\nEC 인증\nFLUKE TEST\n폭넓은 제품 활용\n이더넷을 사용하는 다양한 제품에서 폭넓게 사용할 수 있습니다.\nlenovo\nDesktop\nNotebook\n공유기\n스위칭허브\n\n\nDesktop\nNotebook\n공유기\n스위칭허브\n랜케이블이 필요한 어느곳이든\n다양하게 사용하세요!\n가정\n사무실\nt\nCAFE\n숙박시설\nPRODUCT SIZE\n2m/3m/5m/10m\n11.5mm\nL\n6mm\n11.5mm\n6.5mm\nSPECIFICATION\n케이블 규격\nCAT.7 S/FTP\n전송속도\n최대 10Gbps\n대역폭\n600MHz\n심선\n26AWG\n커넥터\n50μ Gold Plated PIN\n길이\n2m/3m/5m/10m\n직경\nOD 6.0±0.2mm\n재질\nLSZH(피복), PVC(몰드)\nH 현대해상화재보험\n새사무사채이브 1위 가이\n\n\nH M 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품 정보\n품\n명\nCAT.7 S/FTP 랜케이블, Red\nLS-7SSTPD-2MR\nLAN\nLS-7SSTPD-3MR\nStar\n모\n델\n명\nLS-7SSTPD-5MR\nLS-7SSTPD-10MR\nKC 인증 번 호\n해당없음\n제 조 국 / 원 산 지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-7SSTPD-YELLOW": "당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\nLANSStar\n10G\nCAT.7 S/FTP\nDIRECT ETHERNET CABEL\n10Gbps / 50 금도금 컨넥터 / 26AWG / 연선(Stranded)\n20 22 24 26 28 30\nA ↑\nFLUKE\n26AWG\nFLUKE\n10Gbps\n전송속도\n600MHz\n대역폭\nDirect\n연선 케이블\nLSZH\n난연\n심선\n테스트 통과\n케이블 제품 분류표\n모델No.\n모델명\n길이\n심선\n직경\n색상\n11004\nLS-7SSTPD-2MY\n2M\n11005\nLS-7SSTPD-3MY\n3M\n26AWG\n6.0±0.2mm\nYellow\n11006\nLS-7SSTPD-5MY\n5M\n11007\nLS-7SSTPD-10MY\n10M\nMarketplace\nSOAR\nVAST\nHUBSPOT THEME\nRIDGE\nAERO\nLaunch\nLOODLOORVORIO PERT\nNO S\n\n\nP\nRIDGE\nAERO\nLaunch\nLOODOO ROSTO PEET\nCAT.7 S/FTP\n600MHz\n26AWG\nCAT.7 최대 10Gbps\n전송속도\n600MHz 대역폭\n안정적이고 빠른 전송\n안정성이 뛰어난\n26AWG 심선 사용\nCAT.7 S/FTP\n10GBASE-T 지원\n10GBASE-T를 지원하는 CAT.7 규격의 S/FTP 랜 케이블로\n600MHz 대역폭을 지원하여 최대 10Gbps의 전송속도를 나타냅니다.\n케이블 비교\nCAT.5E\nCAT.6\nCAT.6A/CAT.7\n대역폭\n100MHz\n250MHz\n500MHz/600MHz\n전송속도\n1Gbps\n1Gbps\n10Gbps\n규격\n1000BASE-T\n1000BASE-TX\n10GBASE-T\nCAT.5E\n1Gbps\nCAT.6\n1Gbps\nCAT.6A/7\n10Gbps\nS/FTP Twisted Pair\n4Pair Twisted Pair\n4페어 꼬임구조로 이루어져 있는 연선 케이블로 각각의 페어를 알루미늄 호일이\n감싸고 있으며, 4페어를 차폐 쉴드가 감싸고 있는 2중 구조로\n가장 바깥 피복은 LSZH 자켓으로 이루어져 있습니다.\n연선\nTwisted Pair\n알루미늄 호일\n차폐 쉴드\nLSZH 자켓\n(OD: 6.0±0.2mm)\nS/FTP 이중차폐 구조\nUTP/FTP/STP 케이블 비교\n이중차폐 구조로 외부 신호간섭 최소화!!\n\n\nS/FTP 이중차폐 구조\nUTP/FTP/STP 케이블 비교\n이중차폐 구조로 외부 신호간섭 최소화!!\nUTP\n(Unshielded Twisted Pair)\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있으며 전선과\n피복만으로 구성되어 있는 케이블입니다. 보통 일반적인 랜케이블이\n이에 해당되며 사무실 및 가정 배선용으로 사용됩니다.\nFTP\n꼬여있는 선과 선 사이에 차단용 십자형 개재가 있어 케이블간의\n간섭을 줄여 전송 속도를 높여주는 기능을 합니다.\n알루미늄은박이 선을 감싸고 있으며 별도로 접지용 선이 있습니다.\nUTP에 비해 절연 기능이 탁월하여 공장 배선용으로 많이 사용됩니다.\n(Foiled Twisted Pair)\nSTP\n(Shielded Twisted Pair)\n외부 피복에 쉴드 처리가 되어 있고 알루미늄 은박이 선을 감싸고 있어\n외부의 노이즈나 전기적 신호 간섭 차단에 탁월한 케이블입니다.\n통신 에러 및 속도 저하를 최소화하여 대용량의 정보를 전달할 수 있어\n접지 및 특수 환경의 초고속 네트워크망이 구축된 환경에서 사용됩니다.\nS/FTP\n각 페어마다 알루미늄 실드가 있고 전체 페어를 모아 편조차폐로\n감싼 케이블로 이중차폐 구조로 이루어졌기에 외부 신호간섭을\n최소화하기 가장 좋은 케이블입니다.\n(Screened Foiled Twisted Pair)\n연선 케이블\nStranded Cable\n연선 케이블은 단선에 비해 잘 휘어지는 특징이 있어\n설치가 용이하며 잡음이나 감쇄현상이 현저히 적어\n널리 쓰이는 케이블입니다.\nTwisted Structure\n연선/ 단선 케이블 구조 비교\n연선\n단선\n가늘거나 굵은 여러개의 가닥이 그룹화되어\n단일 도체를 구성\n하나의 금속으로 구성\n단선보다 유연하여 쉽게 끊어지지 않지만\n내구성이 떨어짐\n연선보다 단단하고 내구성이 강하나\n구부리면 파손될 가능성이 높음\n엘리베이터 등 이동하거나 노출이 많이\n되는 곳에 주로 설치\n내부 배선, 고정된 전선 등 전력을 많이\n사용하는 곳에 주로 설치\nBare CU OFC\n무산소 구리 도체 사용\n케이블에 순수 구리 성분을 사용하여 데이터 전송률을 높였으며\n산소가 없는 OFC(Oxygen Free Copper) 구리 도체를 사용하여\n일반 구리도체에 비해 전도성, 내식성이 뛰어난 장점이 있습니다.\n무산소 구리 도체\nOFC(Oxygen Free Copper)\n\n\n산소가 없는 OFC(Oxygen Free Copper) 구리 도체를 사용하여\n일반 구리도체에 비해 전도성, 내식성이 뛰어난 장점이 있습니다.\n무산소 구리 도체\nOFC(Oxygen Free Copper)\n26AWG\n전세계 표준규격 준수\n케이블 내심의 굵기를 표시하는 미국 전선 규격으로 AWG가 작을수록\n굵은 내심을 가지고 있으며 잡음이 적고 전송에 적합합니다.\n본 제품은 AWG 규격중 가장 안정성이 뛰어난 26AWG를 사용했습니다.\nAWG\n직경(Inch)\n직경(mm)\n단면적(㎡)\n저항(요/m)\n허용전류(A)\n20\n20\n0.032\n0.812\n0,518\n0.0333\n4.5\n21\n0,0285\n0.723\n0.41\n0,042\n3.8\n222\n0,0253\n0.644\n0.326\n0.053\n3.0\n23\n23\n0.0226\n0,573\n0,258\n0.0668\n2,2\n22\n224\n24\n0.0201\n0,511\n0,205\n0.0842\n0.588\n25\n25\n0.0179\n0.455\n0.162\n0.106\n0.477\n26\n0.0159\n0.405\n0.129\n0.134\n0.378\n27\n27\n0.0142\n0.361\n0.102\n0.169\n0,288\n28\n20\n0.0126\n0.321\n0,081\n0,213\n0,250\n29\n20\n0.0113\n0,286\n0,0642\n0.268\n0,212\n80\n30\n0.01\n0,255\n0,0509\n0.339\n0.147\n50p 금도금 콘넥터\n신호손실 최소화\n튼튼한 스프링 구조\n컨넥터 내구성 강화\ne\n견고한 마감처리\n케이블 피복 보호\n자연스러운 컨넥터+부트\n컨넥터와 부트가 맞닿아\n직접적으로 컨넥터\n접촉이 없어\n컨넥터 보호 가능\n\n\n컨넥터 보호 가능\n50 금도금\n3prongs 금도금 핀\n50 Prongs 금도금 핀을 사용하여 컨넥터와 핀의 결합력이 높으며\n전도율이 좋고 신호 손실이 적은 장점이 있습니다.\nI\n50μ 3Prongs\n금도금 핀\n자격인증 및 확인서\n랜스타 CAT.7 S/FTP 패치 코드는\nETL, EC 인증 및 FLUKE TEST 통과 제품이며\n라인업시스템은 소재·부품·장비 전문 기업으로 확인받은 기업입니다.\nCompliance Statement\nNo. 2013 175A\nData communication cable, Category 7\nintertek\nAUTHO\nAka\nformer le\nFLUSS APZSANG\nEC\n1X1\n8220270\nED\nCCCabling\n50%\noth ak\nPOST.COM\nEC\nETL 인증\n소재·부품·장비\n전문기업확인서\nEC 인증\nFLUKE TEST\n폭넓은 제품 활용\n이더넷을 사용하는 다양한 제품에서 폭넓게 사용할 수 있습니다.\nlenovo\nDesktop\nNotebook\n공유기\n스위칭허브\n\n\nDesktop\nNotebook\n공유기\n스위칭허브\n랜케이블이 필요한 어느곳이든\n다양하게 사용하세요!\n가정\n사무실\nCAFE\n숙박시설\nPRODUCT SIZE\n2m/3m/5m/10m\n11.5mm\n6mm\n11.5mm\n6.5mm\nSPECIFICATION\n케이블 규격\nCAT.7 S/FTP\n전송속도\n최대 10Gbps\n대역폭\n600MHz\n심선\n26AWG\n커넥터\n50μ Gold Plated PIN\n길이\n2m/3m/5m/10m\n직경\nOD 6.0±0.2mm\n재질\nLSZH(피복), PVC(몰드)\nH 현대해상화재보험\n\n\nH M 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nLAN Star\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.7 S/FTP 랜케이블, Yellow\nLS-7SSTPD-2MY\nLAN St\nStar\nLS-7SSTPD-3MY\n모\n델\n명\nLS-7SSTPD-5MY\nLS-7SSTPD-10MY\n| 回回\nKC 인증 번 호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기 준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "LSZH",
+        "PVC",
+        "은도금",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1.0,
+        2.0,
+        3.0,
+        5.0,
+        7.0,
+        10.0,
+        15.0,
+        20.0,
+        30.0,
+        50.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "SSTP",
+      "conductor": "연선(stranded)",
+      "awg": 26,
+      "pair_count": 4,
+      "flame_rating": "LSZH",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ-45 포트에 딸깍 소리가 날 때까지",
+    "connectivity.output_signals": "RJ-45 포트에 딸깍 소리가 날 때까지",
+    "connectivity.directional": "다이렉트 케이블 핀배열(568B-568B) 적용",
+    "power.power_mode": "N/A",
+    "power.charging_support": "N/A",
+    "form_physical.material": "LSZH(Low Smoke Zero Halogen) 난연 최상위 등급 피복",
+    "form_physical.length_options_meters": "1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "Intertek ISO 9001:2008 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.cat_category": "CAT.6A/CAT.7 SSTP 규격",
+    "family.shielding": "SSTP(S/FTP) 쉴드 구조",
+    "family.conductor": "연선(Stranded) 구조로 유연성 우수",
+    "family.awg": "26AWG 규격 내심",
+    "family.pair_count": "4 Twisted Pair",
+    "family.flame_rating": "LSZH(Low Smoke Zero Halogen) 난연 최상위 등급 피복",
+    "family.poe_support": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:46",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 3,
+    "category_breakdown": {
+      "usage": 1,
+      "troubleshoot": 1,
+      "install": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

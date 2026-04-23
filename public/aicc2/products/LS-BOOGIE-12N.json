@@ -1,0 +1,122 @@
+{
+  "model_no": "LS-BOOGIE-12N",
+  "product_name": "LANStar 전자칠판 12형 LCD Writing Tablet",
+  "category": [
+    "전자칠판"
+  ],
+  "key_features": [
+    "종이 없이 필기·계산·그리기 가능한 전자 메모패드",
+    "버튼 한 번으로 전체 메모 삭제(원클릭 삭제) 가능",
+    "동전 배터리(CR2016 3V) 하나로 장시간 저전력 사용",
+    "두께 4.7mm, 무게 176g의 얇고 가벼운 휴대용 설계",
+    "스타일러스 펜 없이 손가락으로도 필기 가능",
+    "종이·잉크 불필요한 친환경 제품",
+    "시력 보호 설계(사용 시 눈이 편안함)",
+    "청각장애인 필담용, 도서관 등 조용한 공간에서 대화 보조 활용 가능",
+    "업무 메모·회의 보드, 아이들 그림 보드, 학습 노트, 주방 레시피 보드 등 다용도 활용",
+    "어린이 제품 안전 인증(FITI시험연구원) 통과",
+    "홍보용 실크 인쇄(로고 인쇄) 주문 가능",
+    "현대해상화재 생산물배상책임보험 1억 원 가입"
+  ],
+  "specifications": {
+    "모델명": "LS-BOOGIE-12N",
+    "제품명": "전자칠판 12인치",
+    "화면 크기": "12형",
+    "전체 크기": "275mm x 185mm",
+    "필기 영역": "235mm x 168mm",
+    "두께": "4.7mm",
+    "무게": "176g",
+    "배터리": "CR2016 3V 동전 배터리",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "제조업체(OEM)": "BOR ELECTRONIC CO., LTD",
+    "인증번호(KC)": "MSIP-REI-LUS-LS-BOOGIE-12N",
+    "어린이 안전 인증번호": "CB065R0185-7001",
+    "안전확인신고 지역": "경기김포-100",
+    "안전 인증 기관": "FITI시험연구원",
+    "획득 인증": "KC, FCC, CE, RoHS COMPLIANT, ISO 9001:2008",
+    "품질경영시스템": "ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억 원",
+    "AS/고객상담": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "CR2016 3V 동전 배터리",
+    "스타일러스 펜(동봉) 또는 손가락 필기 가능"
+  ],
+  "package_contents": [
+    "전자칠판 본체 (LS-BOOGIE-12N)",
+    "스타일러스 펜 (펜홀더 구멍 포함)",
+    "CR2016 3V 동전 배터리 (내장 트레이)"
+  ],
+  "usage_instructions": "1) 동전 배터리(CR2016 3V)를 배터리 트레이에 삽입한다. 2) 스타일러스 펜 또는 손가락으로 LCD 화면에 필기·계산·그리기를 한다. 3) 내용을 지우려면 삭제 버튼을 한 번 눌러 전체 메모를 삭제한다. 4) 로고 실크 인쇄 필요 시 별도 문의한다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제·이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결기준에 따라 보상",
+    "실크 인쇄 요청 시 별도 문의 필요",
+    "어린이 제품 안전 인증 대상 상품으로 해당 안전기준 준수 필요",
+    "RoHS 규정에 따라 납·수은·카드뮴 등 중금속 사용 제한 제품"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-BOOGIE-12N",
+      "품목코드": "COM-악세사175",
+      "품목명": "[LANstar] 전자칠판 12인치 LCD노트/전자 메모패드 [60078]★★할인제외★★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "배터리",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    }
+  },
+  "feature_evidence": {
+    "power.power_mode": "동전 배터리(CR2016 3V) 하나로",
+    "control_switching.has_physical_button": "버튼 한 번으로 전체 메모 삭제",
+    "certification.kc": "어린이 제품 안전 인증(FITI시험연구원) 통과",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:34",
+  "feature_schema_version": "1.0.0"
+}

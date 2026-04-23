@@ -1,0 +1,170 @@
+{
+  "model_no": "LS-U31-CMCF",
+  "product_name": "USB 3.1 Type C 연장 케이블 (C/M - C/F) 1M White",
+  "category": [
+    "USB케이블",
+    "USB-C",
+    "USB2.0",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 3.1 Gen1 SuperSpeed 5Gbps 전송속도 지원",
+    "USB 2.0 대비 10배 빠른 전송속도",
+    "Type C 커넥터 - 위아래 구분 없이 연결 가능 (방향 무관)",
+    "애플 맥북 등 USB Type C 포트 기기와 완벽 호환",
+    "구글 크롬북 USB-C 포트 지원",
+    "OTG 기능 지원",
+    "RoHS 인증 - 유해물질(납, 수은, 카드뮴 등 중금속) 사용 제한 준수",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "USB 3.1 Gen1 규격 지원",
+    "USB C/M - C/F 연장 구조",
+    "최대 5Gbps 데이터 전송 속도 지원 (USB 2.0 대비 약 10배)",
+    "방향성 없음 (양방향 통신 가능)",
+    "최대 3A 고속 충전 지원 (단, PD 충전 미지원)",
+    "부드럽고 견고한 케이블 설계",
+    "다양한 장치 및 OS 호환 (Windows, Mac OS, Android, Chrome OS)",
+    "USB 2.0 / 1.1 하위 버전 하위 호환",
+    "노트북 USB-C 포트 보호 용도로 활용 가능",
+    "생산물배상책임보험 1억원 가입 (현대해상화재)"
+  ],
+  "specifications": {
+    "케이블 타입": "USB 3.1 연장 C/M - C/F",
+    "전송속도": "5Gbps",
+    "길이": "1M",
+    "색상": "White",
+    "전원(전압)": "30V",
+    "작동온도": "0°C ~ 80°C",
+    "OTG 지원": "지원가능",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "RoHS": "COMPLIANT",
+    "ISO 인증": "ISO 9001:2008",
+    "규격": "USB 3.1 Gen1",
+    "인터페이스": "USB-C (Male) - USB-C (Female)",
+    "전송 속도": "최대 5Gbps",
+    "충전": "최대 3A (고속 충전 지원, PD 충전 미지원)",
+    "전압": "30V",
+    "USB 호환": "USB 2.0 / 1.1 하위 버전 호환",
+    "커넥터 외경(M측 직경)": "13mm",
+    "커넥터 길이(M측)": "25.5mm",
+    "커넥터 외경(F측 직경)": "21mm"
+  },
+  "compatibility": [
+    "애플 맥북 (USB Type C 포트 탑재 모델)",
+    "구글 크롬북 (USB-C 포트 탑재 모델)",
+    "USB 3.1 Type C 포트 탑재 기기",
+    "USB 3.0 (하위 호환)",
+    "USB 2.0 (하위 호환)",
+    "USB 1.1 (하위 호환)",
+    "Windows 7 / 8 / 10 / 11",
+    "Mac OS (맥북 에어 이상, C타입 Mac OS)",
+    "Android (스마트폰, 태블릿)",
+    "Chrome OS",
+    "iOS (아이폰 15 Pro 이상)",
+    "Google Pixel 등 USB-C 타입 기기",
+    "삼성 USB-C 타입 기기",
+    "Apple USB-C 타입 기기",
+    "외장 SSD",
+    "USB 허브",
+    "카드 리더기",
+    "C타입 이어폰",
+    "C타입 메모리",
+    "노트북 (USB-C 포트)",
+    "충전기 어댑터",
+    "확장 허브",
+    "차량용 충전기 (시거잭)",
+    "USB 2.0 / 1.1 기기 (하위 호환)"
+  ],
+  "package_contents": [
+    "USB 3.1 Type C 연장 케이블 1M (C/M - C/F, White) 1개",
+    "USB 3.1 Gen1 C/M - C/F 연장 케이블 1M 1개"
+  ],
+  "usage_instructions": "USB Type C Male 단자를 호스트 기기(맥북, 크롬북 등)의 USB-C 포트에 연결하고, USB Type C Female 단자에 외장 기기를 연결하여 사용. Type C 커넥터는 위아래 방향 구분 없이 삽입 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "A/S 소비자상담: 070-7018-3386 / www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-U31-CMCF-1M",
+      "품목코드": "CAB-U31080",
+      "품목명": "[LANstar] [USB 3.1] 케이블 USB 3.1 연장 C/M - C/F, 1M, White [11025] (250개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-U31-CMCF-1M-NEW": "LANSStar\nUSB 3.1 Genl C/M - C/F\nC타입 연장 케이블\nUSB3.1 Gen1 연장 케이블 / 5Gbps 데이터 전송속도\nLS-U31-CMCF-IM\nUSB3.1 Gen1 C/M - C/F\n연장 케이블\n1. USB3.1 Gen1 규격\n2. USB C/M - C/F 연장\n3. 5Gbps 데이터 전송 속도 지원\n4. 특별한 방향성 X\n5. 부드럽고 견고한 케이블\n6. 다양한 장치 및 OS 활용\n(구글 픽셀, 애플, 삼성 등 C타입 기기 및 OS 호환)\n방향성 無\n방향성은 없지만, C(M): 본체 연결 / C(F): 사용자 액세스 용도로\n연결하여 사용하는 것이 일반적입니다.\n▶ C/M : 기존 충전기나 기기에 연결되는 쪽(노트북, 충전기, 허브, 차량 시거잭 등)\n▶ C/F : 사용자가 자주 꽂고 빼는 쪽(케이블, 이어폰, 카드 리더기 등)\nUSB C/M INPUT\n노트북\n충전기 어댑터\n확장 허브\n차량용 충전기\nUSB C/M OUTPUT\nSanDisk\n\n\nUSB C/M OUTPUT\nSanDisk\nC타입 이어폰\nC타입 메모리\nC타입 카드리더기\n안내사항!!\n이 케이블은 방향(인풋/아웃풋)이 따로 정해져 있지 않습니다.\nUSB-C는 양방향 통신이 가능한 규격이기 때문에,\n어느 쪽이 입력이고 출력인지 구분 없이 사용하셔도 됩니다.\n그럼에도 불구하고 주의할 점은???\nUSB C/M 포트\nC타입 입력 장치에 연결\n일반적으로 기존 충전기나 기기에 연결되는 쪽\n● 예: 노트북, 충전기, 허브, 차량 포트→C(M) 단자 연결\nUSB C/F 포트\n사용자가 실제로 사용하는 장치, 케이블에 연결\n사용자가 자주 꽂고 빼는 쪽을 C(F)에 연결\n예: USB C 케이블, 플래시 드라이브, 이어폰, 카드리더기 등\nUSB 3.1 Genl\nSUPERSPEED / 5Gbps 전송 속도 지원\n▶ USB2.0 대비 약 10배 빠른 속도\n▶ 대용량 데이터도 빠르게 전송\nUSB3.1 Genl\n10Gbps\nUSB2.0\n480Mbps\nUSB C/M - C/F 연장 케이블\n이런 분들께 추천합니다!\n10914\n사무실 책상 위를 깔끔하게\n정리하고 싶은 직장인\n태블릿으로 수업하거나\n콘텐츠 보는 선생님 또는 학생\n\n\n사무실 책상 위를 깔끔하게\n정리하고 싶은 직장인\n태블릿으로 수업하거나\n콘텐츠 보는 선생님 또는 학생\n차량 내에서 USB C 포트를\n편하게 사용하고 싶은 기사님\n출장이 잦은 프리랜서/노마드워커\nPoint ① USB3.1 Gen1 5Gbps 고속 전송\nretu\nPoint ② 깔끔한 데스크테리어\nte\nPoint ③ 길이 연장\nPoint ④ 노트북 포트 보호!!\n다양한 장치 사용\n다양한 장치와 O.S에서도 사용이 가능하여 범용성이 높은 제품입니다.\nb\nWindows\nMac OS\nAndroid\nChrome\nWin 7/8/10/11\n스마트폰, 태블릿\n맥북 에어 이상,\n아이폰 15 프로 이상\n(C타입 Mac OS)\n이이이이\nTYSIN\nMacDok\n영\nFocusrite\nPRODUCT SIZE\nIM\n13mm\n25.5mm\n21mm\n\n\n13mm\n25.5mm\n21mm\nSPECIFICATION\n규격\nUSB3.1 Genl\n인터페이스\nUSB-C(Male) USB-C(FeMale)\n전송 속도\n최대 5Gbps\n충전\n최대 3A (고속 충전 지원)\n전압\n30V\nUSB 호환\nUSB2.0/1.1 하위버전 호환\n색상\nWhite\n길이\nIM\nFAQ\n자주 물어보시는 질문\nQ. 이 케이블로 영상 출력이 가능한가요? (DP Alt Mode)\n지원하지 않습니다.\n영상 출력을 원하시는 경우, DP Alt Mode를 지원하는 전용 케이블을 사용해 주세요.\nQ. 고속 충전도 가능한가요?\n최대 3A 전류 전송을 지원하므로 일반적인 고속 충전(예: 15W, 18W)은 가능합니다.\n다만, PD 충전은 지원하지 않으니 구매시 참고하시기 바랍니다.\nQ. 외장 SSD나 USB 허브 연결해도 문제 없나요?\n외장 SSD, USB 허브, 카드 리더기 등 대부분의 USB 장치와 호환됩니다.\n다만, 전력 소비가 큰 기기는 권장하지 않습니다.\nQ. 조금 더 길이가 긴 케이블은 없나요?\n길이가 길어질수록 전송 안정성이 떨어질 수 있어 안정성과 실용성을 고려하여\n1M 길이로만 판매중입니다.\n더 긴 제품이 필요하신 경우, 칩셋이 내장된 액티브 케이블을 사용하시기 바랍니다.\nQ. 노트북 포트 보호용으로도 쓸 수 있나요?\n네, 바로 그 용도로 가장 많이 사용되고 있습니다. 노트북의 USB-C 포트를 자주\n꽂았다 뺐다 하지 않고, 이 연장 케이블을 중간에 두면 포트 손상 방지에 매우 유용합니다.\nQ. 노트북 포트 보호용으로도 쓸 수 있나요?\n네, 차량 센터콘솔 속 USB-C 포트에 꽂고,\nUSB-C(F)를 손이 닿는 위치로 옮겨두는 용도로 많이 사용됩니다.\n당일출고!!\n\n\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n상품 도착\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n(평균 1~2일소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\nSe\n소재·부품·장비\n전문기업확인서\n소재·부품 장비 전문기업확인서\nelas\n*\n평가관리원\n위기인한 소재부품-장\n신문기업인을 확인합니다.\n산업통산자원부 시행 제도\nKeit\nKISSU\n2022.11.29 취득\n한국산업기술평가관\n3002\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상품정보\n품\n명\nUSB3.1 Gen1 C/M - C/F 연장 케이블\n모\n델\n명\nLS-U31-CMCF-IM\nLANStar\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질보증기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANG\nStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.\n\n\n기준에 따라 모상해드립니다.\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\nLANSStar\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-C"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": [
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.1Gen1",
+      "transfer_speed_gbps": 5,
+      "charging_only": null,
+      "data_only": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB C/M - C/F 연장 구조",
+    "connectivity.output_signals": "USB C/M - C/F 연장 구조",
+    "connectivity.directional": "방향성 없음 (양방향 통신 가능)",
+    "power.charging_support": "최대 3A 고속 충전 지원",
+    "form_physical.length_meters": "길이: 1M",
+    "form_physical.color_options": "색상: White",
+    "certification.rohs": "RoHS 인증",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.usb_version": "USB 3.1 Gen1 SuperSpeed",
+    "family.transfer_speed_gbps": "5Gbps 전송속도 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:33",
+  "feature_schema_version": "1.0.0"
+}

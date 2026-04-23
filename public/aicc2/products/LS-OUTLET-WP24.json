@@ -1,0 +1,98 @@
+{
+  "model_no": "LS-OUTLET-WP24",
+  "product_name": "삽입형 아울렛 (Back Box)",
+  "category": [
+    "분배판넬",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "벽부착형 Wall Plate와 함께 사용하는 삽입형 아울렛 뒷판넬박스",
+    "1port / 2port / 4port / 6port 겸용",
+    "벽부착형 Plate는 별도 구매 필요"
+  ],
+  "specifications": {
+    "치수(가로x세로x깊이)": "115mm x 70mm x 36mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "HL-WP23-1P (1port 벽부착형 Wall Plate)",
+    "HL-WP23-2P (2port 벽부착형 Wall Plate)",
+    "HL-WP23-4P (4port 벽부착형 Wall Plate)",
+    "HL-WP23-6P (6port 벽부착형 Wall Plate)"
+  ],
+  "package_contents": [
+    "삽입형 아울렛 Back Box (LS-OUTLET-WP24) 본체"
+  ],
+  "usage_instructions": "벽부착형 Wall Plate(별도 구매)와 함께 사용. 1port/2port/4port/6port Wall Plate 모두 겸용 가능.",
+  "cautions": [
+    "벽부착형 Wall Plate는 별도 구매 필요",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-OUTLET-WP24",
+      "품목코드": "NEO-아울렛014",
+      "품목명": "[LANstar] 삽입형아웃렛 , back box, 70*115*35mm[40075]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "port_count": null,
+      "mount_style": "wall_plate"
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "삽입형 아울렛 (Back Box)",
+    "certification.kc": "인증번호: 해당없음",
+    "family.mount_style": "벽부착형 Wall Plate와 함께 사용하는"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:23",
+  "feature_schema_version": "1.0.0"
+}

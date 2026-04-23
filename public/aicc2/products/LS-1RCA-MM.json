@@ -1,0 +1,255 @@
+{
+  "model_no": "LS-1RCA-MM",
+  "product_name": "RCA 보급형(3pi) 케이블 (M/M)",
+  "category": [
+    "RCA케이블"
+  ],
+  "key_features": [
+    "영상 신호만 전달하는 단선 영상 케이블",
+    "RCA 보급형 케이블",
+    "M/M(양쪽 수컷) 타입",
+    "영상만 전달하는 단선 영상 케이블",
+    "3pi 선 두께",
+    "M/M(수-수) 타입"
+  ],
+  "specifications": {
+    "케이블 두께": "3pi",
+    "단자 타입": "영상단자 (RCA)",
+    "커넥터 구성": "M/M (Male to Male)",
+    "선 두께": "3pi",
+    "커넥터 타입": "M/M (수-수)",
+    "신호 종류": "영상(Video)"
+  },
+  "compatibility": [
+    "RCA 영상단자 탑재 기기",
+    "영상단자(RCA) 지원 기기"
+  ],
+  "package_contents": [
+    "RCA 보급형(3pi) 케이블 (M/M) 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "영상 신호만 전달하며 음성 신호는 전달되지 않음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-1RCA-MM-1.5M",
+      "품목코드": "CAB-1RC001",
+      "품목명": "[LANstar] RCA 1선 케이블 1RCA M/M 1.5M [10390] [500개]",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-1RCA-MM-3M",
+      "품목코드": "CAB-1RC002",
+      "품목명": "[LANstar] RCA 1선 케이블 1RCA M/M 3M [10392] (200개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-1RCA-MM-5M",
+      "품목코드": "CAB-1RC003",
+      "품목명": "[LANstar] RCA 1선 케이블 1RCA M/M 5M [10393]",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-1RCA-MM-10M",
+      "품목코드": "CAB-1RC004",
+      "품목명": "[LANstar] RCA 1선 케이블 1RCA M/M 10M [10394] (50개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-1RCA-MM-15M",
+      "품목코드": "CAB-1RC005",
+      "품목명": "[LANstar] RCA 1선 케이블 1RCA M/M 15M [10395]",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-1RCA-MM-20M",
+      "품목코드": "CAB-1RC006",
+      "품목명": "[LANstar] RCA 1선 케이블 1RCA M/M 20M [10396] (50개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-1RCA-MM",
+      "내용": "좋아요좋아요아주좋아요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-1RCA-MM-1",
+      "id": 575404570,
+      "date": "2024-04-06 07:14",
+      "answerDate": "2024-04-08 08:56",
+      "user": "nt****",
+      "productName": "랜스타 LS-1RCA-MM-1.5M 1RCA 컴포지트 케이블 1.5M 영상 지원 3pi",
+      "question": "어제 전화통화했던 사람입니다. RCA 단자쪽의 dimension 또는 도면을 보내주시면 좋겠습니다. 저희 장비의 RCA 단자가 다닥다닥 붙어 있어서요.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인하시어 톡톡 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~) \n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-1RCA-MM-1",
+      "chatUrl": "1R0Ax",
+      "dateIso": "2024-04-25T00:16:35.627Z",
+      "name": "대한민국 수호",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "안녕하세요? 다시 연락드리게 됐습니다. LS-1RCA-MM-1.5M 1RCA 컴포지트 케이블 1.5M 를 2,000개 구매하려고 합니다. 납기와 가격을 알려주시면 바로 진행하겠습니\n(추가 문의) 안녕하세요? 어제 내내 케이블 연결 테스트를 해봤습니다. 가운데 +선의 가닥수가 너무 적어 연결단자에 찝었을 때 힘을 전혀 못 받는 문제가 있었습니다. 따라서 이 케이블은 구매를\n(추가 문의) 제가 조금전 한개를 구매했고, 내일 도착하면 확인 후 600개 주문하도록 하겠습니다. 저희가 이 케이블을 잘라 사용할 거라서 '만의 하나라도' 문제가 있으면 반품도 못하게 됩니다\n(추가 문의) LS-1RCA-MM-1.5M 1RCA 컴포지트 케이블 1.5M 을 대량 구매하려고 합니다. RCA 단자 쪽의 도면이 있으면 제일 좋고, 민일 없으시면 손잡는 부분의 지름과 길이에",
+      "answer": "현재 재고 약 700여개가 최대입니다. 납기의 경우 연락처와 성함 말씀 주시면 담당 부서에서 연락 드릴 수 있도록 하겠습니다.\n\n네 고객님, 혹시 주문 예정이 언제이실까요? 실재고 확인 결과 수량이 넉넉치 않아 구매해주실 경우 별도 홀딩 도와드리겠습니다.\n\n네 고객님, 그럼 우선 수량 600개 홀딩 도와드리도록 하겠습니다. 목요일 구매해주시면 출고 도와드리겠습니다.",
+      "turn_count": 14,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "빠른 회신 감사합니다🌼"
+        },
+        {
+          "role": "agent",
+          "text": "말씀 주신 연락처는 담당 부서에 전달하도록 하겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나"
+        },
+        {
+          "role": "customer",
+          "text": "700개는 오늘 오후 2시 컴퓨존에서 구매하도록 하겠습니다. 쿠폰을 사용해야 해서요."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 재고 약 700여개가 최대입니다.\n납기의 경우 연락처와 성함 말씀 주시면 담당 부서에서 연락 드릴 수 있도록 하겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "그럼 700개는 오늘 구매하고, 나머지 1300개는 언제 구매 가능할지 알려주세요. 조정권 01053309926 jcho@wistar.kr"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 재고 약 700여개가 최대입니다.\n납기의 경우 연락처와 성함 말씀 주시면 담당 부서에서 연락 드릴 수 있도록 하겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요? 다시 연락드리게 됐습니다. LS-1RCA-MM-1.5M 1RCA 컴포지트 케이블 1.5M 를 2,000개 구매하려고 합니다. 납기와 가격을 알려주시면 바로 진행하겠습니"
+        },
+        {
+          "role": "agent",
+          "text": "정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁"
+        },
+        {
+          "role": "customer",
+          "text": "네, 친절한 안내 감사드립니다."
+        },
+        {
+          "role": "agent",
+          "text": "정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요? 어제 내내 케이블 연결 테스트를 해봤습니다. 가운데 +선의 가닥수가 너무 적어 연결단자에 찝었을 때 힘을 전혀 못 받는 문제가 있었습니다. 따라서 이 케이블은 구매를"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n구매 예정이 있으실지 확인차 연락 드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "넵~빠른 회신 늘~~고맙습니다!"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 확인하였습니다.\n\n준비 되시는대로 주문 주시면 빠르게 출고 도와드리겠습니다.\n감사합니다."
+        },
+        {
+          "role": "customer",
+          "text": "네~~~지금 케이블 까서 테스트중이고 내일 600개 구매합니다."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 문의 주신 이후 재고 홀딩 중에 있는데 구매 예정이 있으실까요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RCA"
+      ],
+      "output_signals": [
+        "RCA"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": false,
+      "iso9001": false,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": null,
+      "hdr_support": false,
+      "hdcp_version": "없음",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "단자 타입\": \"영상단자 (RCA)\"",
+    "connectivity.output_signals": "단자 타입\": \"영상단자 (RCA)\"",
+    "connectivity.directional": "영상 신호만 전달하는",
+    "power.power_mode": "RCA 보급형 케이블",
+    "power.charging_support": "RCA 보급형 케이블",
+    "form_physical.has_case": "RCA 보급형 케이블",
+    "audio_video.hdr_support": "영상 신호만 전달하는",
+    "audio_video.hdcp_version": "영상 신호만 전달하는",
+    "audio_video.audio_pass": "영상 신호만 전달하는 단선 영상 케이블",
+    "family.hdmi_version": "단자 타입\": \"영상단자 (RCA)\"",
+    "family.dp_version": "단자 타입\": \"영상단자 (RCA)\"",
+    "family.dvi_type": "단자 타입\": \"영상단자 (RCA)\"",
+    "family.optical_core": "단선 영상 케이블",
+    "family.ethernet_channel": "영상 신호만 전달하는"
+  },
+  "feature_extracted_at": "2026-04-23T03:06:34",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

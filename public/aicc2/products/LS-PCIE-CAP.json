@@ -1,0 +1,174 @@
+{
+  "model_no": "LS-PCIE-CAP",
+  "product_name": "LANStar PCH-Express HDMI 캡쳐카드 (LS-PCIE-CAP)",
+  "category": [
+    "HDMI캡쳐보드"
+  ],
+  "key_features": [
+    "PCI-Express 인터페이스 기반 내장형 캡쳐카드",
+    "1080P Full HD 해상도 지원 (최대 1080p 60fps)",
+    "HDMI Pass-Through를 통한 실시간 모니터링 가능",
+    "PCIE 인터페이스 방식으로 초저지연(Low Latency) 연결",
+    "YouTube, Twitch, AfreecaTV, USTREAM 등 실시간 방송 송출 지원",
+    "실시간 방송 송출과 동시에 녹화 가능",
+    "IPTV, 셋톱박스, 인터넷강의 등 다양한 소스 활용 가능",
+    "방송장비 모니터와 송출용 컴퓨터 모니터 동시 출력 지원",
+    "OBS Studio 소프트웨어 지원",
+    "슬림PC용 브라켓 포함",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 제품 (KC 인증)"
+  ],
+  "specifications": {
+    "입력 해상도": "1080P Full HD (1080p 60fps)",
+    "인터페이스": "PCI-Express (PCIE)",
+    "입력 단자": "HDMI Input",
+    "출력 단자": "HDMI Output, PCIE",
+    "Pass-Through": "1080P Full HD Pass-Through 지원",
+    "제품 크기": "10cm x 5.7cm x 1.85cm",
+    "인증번호": "KCC-REM-LUS-LS-PCIE-EX302",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "품질 인증": "RoHS COMPLIANT, ISO 9001:2008, KC, FCC, CE",
+    "장치 인식명": "ezcap U3 capture"
+  },
+  "compatibility": [
+    "PCI-Express 슬롯이 있는 데스크탑 PC",
+    "슬림PC (슬림PC용 브라켓 포함)",
+    "HDMI 출력 기기 (IPTV, 셋톱박스, 방송장비 등)",
+    "OBS Studio (https://obsproject.com/ko)",
+    "Windows OS (장치 관리자 기반 드라이버 설치 환경)",
+    "RENESAS USB3 Host Driver 호환",
+    "DirectSound / WaveOut 오디오 출력 방식 지원"
+  ],
+  "package_contents": [
+    "LS-PCIE-CAP 본체 (PCIE 캡쳐카드)",
+    "설치 CD",
+    "슬림PC용 브라켓"
+  ],
+  "usage_instructions": "1. 동봉된 CD 드라이버를 삽입한 후 드라이버 및 관련 파일을 설치합니다. 2. 제품을 PC에 연결한 후 장치 관리자에서 'ezcap U3 capture' 항목이 생성되었는지 확인합니다. 3. https://obsproject.com/ko 에서 OBS 프로그램을 다운로드하여 설치합니다. 4. OBS 실행 후 좌측 하단 '소스 목록'에서 '+' 추가 버튼을 눌러 '비디오 캡쳐 장치'를 선택합니다. 5. '소스 만들기/선택' 창에서 장치 이름을 지정하고 확인을 누릅니다. 6. 캡쳐 장치 소스 설정 후, 오디오 출력 방식을 '출력 데스크탑 오디오 (WaveOut)'으로 설정해야 오디오 캡쳐가 가능합니다. 7. 비디오 캡쳐 장치를 우클릭하여 속성에서 녹화 경로 등 세부 설정을 할 수 있습니다. 8. 비동기 설정: 비디오 캡쳐 장치를 우클릭하여 '필터' 항목 진입 후 '+' 버튼을 눌러 '비디오 지연(비동기)' 필터를 추가하고, 지연값(밀리초)을 470으로 설정합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "실시간 방송 송출 시 스트림키 입력이 필수입니다.",
+    "오디오 캡쳐를 위해 OBS 오디오 출력 방식을 반드시 '출력 데스크탑 오디오 (WaveOut)'으로 설정해야 합니다.",
+    "송출 화면과의 싱크를 맞추기 위해 비디오 지연(비동기) 설정(470ms)이 필요합니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "RoHS 규정 준수 제품으로 납, 수은, 카드뮴 등 중금속 사용이 제한된 제품입니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-CAP",
+      "품목코드": "usb-응용제098",
+      "품목명": "[LANstar] PCIe 캡처카드,1080P, HDMI in, HDMI out [60137]★ ★단종★★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-PCIE-CAP",
+      "id": 87370733,
+      "date": "2019-08-21 16:10",
+      "answerDate": "2019-08-22 10:30",
+      "user": "chic***",
+      "productName": "PCIe 캡처카드,1080P, HDMI in, HDMI out LS-PCIE-CAP",
+      "question": "B360M 박격포 메인보드에 설치되나요?",
+      "answer": "안녕하세요 랜스타 입니다\n\n문의주신 메인보드에 설치 가능합니다."
+    },
+    {
+      "source_model": "LS-PCIE-CAP",
+      "id": 89273156,
+      "date": "2019-09-15 01:53",
+      "answerDate": "2019-09-16 09:12",
+      "user": "kesu***",
+      "productName": "PCIe 캡처카드,1080P, HDMI in, HDMI out LS-PCIE-CAP",
+      "question": "Low Latency 초지연연결 지원한다고하는데 OBS화면을 보면서 게임을 플레이할수있을정도로 딜레이가없나여?",
+      "answer": "안녕하세요 랜스타 입니다\n\n해당 제품은 외장형 타입과 비교해서 지연 연결이 가능하지만 FPS 같은 민감한 게임에서는 OBS 프로그램으로 직접 하시기에는 어려울 수 있습니다."
+    },
+    {
+      "source_model": "LS-PCIE-CAP",
+      "id": 98837046,
+      "date": "2019-12-27 21:15",
+      "answerDate": "2019-12-30 09:53",
+      "user": "5k****",
+      "productName": "PCIe 캡처카드,1080P, HDMI in, HDMI out LS-PCIE-CAP",
+      "question": "PCIe 1x 에 설치 가능한가요?\nPCIE Spec.이 안내 되었으면 좋겠네요.",
+      "answer": "안녕하세요 랜스타 입니다.\n\nPCIe 1x 슬롯에 설치 가능합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI",
+        "내장케이블"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "input_count": 1,
+      "output_count": 1,
+      "mode": [
+        "캡쳐"
+      ],
+      "cascade_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI Input",
+    "connectivity.output_signals": "HDMI Output, PCIE",
+    "connectivity.directional": "HDMI Pass-Through를 통한 실시간 모니터링",
+    "connectivity.port_count": "HDMI Input, HDMI Output",
+    "power.power_mode": "PCI-Express 인터페이스 기반 내장형 캡쳐카드",
+    "form_physical.has_case": "제품 크기",
+    "certification.kc": "국립전파연구원 인증 제품 (KC 인증)",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "1080P Full HD 해상도 지원 (최대 1080p 60fps)",
+    "audio_video.audio_pass": "오디오 출력 방식을 '출력 데스크탑 오디오",
+    "family.input_count": "HDMI Input",
+    "family.output_count": "HDMI Output",
+    "family.mode": "HDMI 캡쳐카드"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:00",
+  "feature_schema_version": "1.0.0"
+}

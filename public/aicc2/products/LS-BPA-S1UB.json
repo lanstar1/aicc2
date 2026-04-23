@@ -1,0 +1,113 @@
+{
+  "model_no": "LS-BPA-S1UB",
+  "product_name": "LANSStar 허브랙/서버랙용 블랭크 판넬 (Blank Panel, 1U, Black/Ivory)",
+  "category": [
+    "분배판넬",
+    "서버랙",
+    "허브랙"
+  ],
+  "key_features": [
+    "허브랙 및 서버랙 빈 공간 마감용 블랭크 판넬",
+    "1U 규격 지원",
+    "Black 및 Ivory 두 가지 색상 제공",
+    "랜스타(LANSStar) 브랜드 제품"
+  ],
+  "specifications": {
+    "규격": "1U",
+    "색상": "Black, Ivory",
+    "크기": "482(W) x 45(H) mm"
+  },
+  "compatibility": [
+    "허브랙",
+    "서버랙",
+    "1U 표준 랙 마운트 규격"
+  ],
+  "package_contents": [
+    "블랭크 판넬 본체 (1U, Black/Ivory)"
+  ],
+  "usage_instructions": "허브랙 또는 서버랙의 빈 슬롯에 블랭크 판넬을 장착하여 공간을 마감하는 방식으로 설치.",
+  "cautions": [],
+  "variants": [
+    {
+      "model_no": "LS-BPA-S1UB",
+      "품목코드": "NEO-판넬B002",
+      "품목명": "[LANstar] 브랭크판넬, 1U 검정 허브랙/서버랙용[50014](50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-BPA-S1UB",
+      "내용": "배송ㅇ ㅣ 코베일듯 빠름 진짜 최고"
+    },
+    {
+      "source_model": "LS-BPA-S1UB",
+      "내용": "업무용으로 구매했습니다. 배송문제없고 품질도 좋습니다~"
+    },
+    {
+      "source_model": "LS-BPA-S1UB",
+      "내용": "랙 빌드중 1유닛이 비어서 구매하였는데 가격도 저렴하고 좋네요"
+    },
+    {
+      "source_model": "LS-BPA-S1UB",
+      "내용": "배송빠르게 잘 도착했습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "Black",
+        "Ivory"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "port_count": null,
+      "mount_style": "bracket"
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "블랭크 판넬",
+    "form_physical.color_options": "Black 및 Ivory 두 가지 색상",
+    "family.mount_style": "허브랙 및 서버랙 빈 공간 마감용"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:40",
+  "feature_schema_version": "1.0.0"
+}

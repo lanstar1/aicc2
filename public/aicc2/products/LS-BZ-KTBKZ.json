@@ -1,0 +1,126 @@
+{
+  "model_no": "LS-BZ-KTBKZ",
+  "product_name": "판넬형 Plate (검정)",
+  "category": [
+    "키스톤잭",
+    "커플러",
+    "분배판넬",
+    "서버랙",
+    "허브랙",
+    "LAN공구"
+  ],
+  "key_features": [
+    "키오스크, 서버랙, 허브랙 등에 장착하는 전문가용 판넬형 Plate",
+    "키스톤잭 고정 용도로 공업용/전문가용으로 많이 이용",
+    "표준형 크기로 제작되어 다양한 종류의 키스톤잭/커플러 장착 가능",
+    "1포트 구성",
+    "색상: 검정 (흰색 모델명 LS-BZ-KTWHZ 별도 존재)",
+    "제조국: 대만산"
+  ],
+  "specifications": {
+    "모델명": "LS-BZ-KTBKZ",
+    "품명": "판넬용 Plate",
+    "색상": "검정",
+    "포트 수": "1포트",
+    "제조국/원산지": "Made in Taiwan",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "용도": "공업용/전문가용",
+    "판넬 펀칭 사이즈(단위 mm)": "가로 24, 세로 17 (도면 수치 기준: 7, 14, 17, 24)"
+  },
+  "compatibility": [
+    "HDMI 커플러/키스톤",
+    "LAN FTP Inline 커플러",
+    "ST 광 키스톤 모듈",
+    "RCA 키스톤 모듈",
+    "BNC 키스톤 모듈",
+    "LAN 키스톤 모듈 [Slim형]",
+    "LAN 키스톤 모듈",
+    "키오스크, 서버랙, 허브랙"
+  ],
+  "package_contents": [
+    "판넬형 Plate (검정) 1포트 1개"
+  ],
+  "usage_instructions": "키오스크, 서버랙, 허브랙 등의 장비에 판넬형 Plate를 장착한 후, 표준형 키스톤잭 또는 커플러를 Plate의 포트에 끼워 고정하여 사용.",
+  "cautions": [
+    "품질 이상 시 공정거래위원회 고시 소비자 분쟁해결기준에 의거하여 보상",
+    "AS 및 소비자 상담: 070-7018-3386 (라인업시스템(주))"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-BZ-KTBKZ",
+      "품목코드": "NEO-아울렛069",
+      "품목명": "[LANstar] 판넬용 Plate, 키스톤 가이드 검정 대만산 [40143]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-BZ-KTBKZ",
+      "내용": "시스템박스 아웃렛 가이드에 딱맞아요. 랜스타 모듈러잭에만 맞는다는게 아쉽지만 가격차이도 없고 만족스럽습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "검정",
+        "흰색"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.directional": "키스톤잭 고정 용도로",
+    "connectivity.port_count": "1포트 구성",
+    "power.power_mode": "키스톤잭 고정 용도로",
+    "form_physical.has_case": "판넬형 Plate",
+    "form_physical.color_options": "색상: 검정 (흰색 모델명 LS-BZ-KTWHZ 별도 존재)",
+    "audio_video.max_resolution": "키스톤잭 고정 용도로",
+    "audio_video.hdcp_version": "키스톤잭 고정 용도로",
+    "family.cat_category": "키스톤잭 고정 용도로",
+    "family.shielding": "키스톤잭 고정 용도로"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:50",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,194 @@
+{
+  "model_no": "LS-HDV-101A",
+  "product_name": "HDMI to VGA 컨버터",
+  "category": [
+    "VGA",
+    "컨버터"
+  ],
+  "key_features": [
+    "HDMI 신호를 VGA로 변환 출력",
+    "오디오 미지원",
+    "1080P Full HD 고해상도 지원",
+    "HDMI 단자에서 전원공급 (별도 전원 불필요)",
+    "RoHS 환경규제 준수",
+    "KCC, FCC, CE 안전규격 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-HDV-101A",
+    "입력단자": "HDMI A Type",
+    "출력단자": "VGA 콘넥터",
+    "HDMI 출력 해상도": "480P, 576P, 720P, 1080P",
+    "지원 해상도": "1920x1080, 1680x1050, 1600x1200, 1600x900, 1440x900, 1400x1050, 1366x768, 1280x1024, 1280x960, 1280x800, 1280x600, 1152x864, 1024x768, 800x600",
+    "지원 운영체제": "WIN XP, Vista, WIN7(32/64bit), WIN8(32/64bit)",
+    "케이블 길이": "25cm",
+    "작동 온도": "섭씨 10~40도",
+    "보관 온도": "영하 15~85도",
+    "전원 공급": "HDMI 단자 버스파워 (무전원)",
+    "인증번호": "KCC-REI-LUS-LS-PAD2VGA",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "노트북 (HDMI 출력 단자 보유 기기)",
+    "데스크탑 PC (HDMI 출력 단자 보유 기기)",
+    "게임기 (HDMI 출력 단자 보유 기기)",
+    "VGA 입력 지원 모니터",
+    "VGA 입력 지원 TV",
+    "VGA 입력 지원 프로젝터"
+  ],
+  "package_contents": [
+    "HDMI to VGA 컨버터 본체 (LS-HDV-101A) 1개"
+  ],
+  "usage_instructions": "HDMI 단자(입력)를 노트북, 데스크탑, 게임기 등 HDMI 출력 기기에 연결하고, VGA 단자(출력)를 모니터, TV, 프로젝터 등 VGA 입력 기기에 연결하여 사용. 별도 전원 연결 불필요.",
+  "cautions": [
+    "오디오 신호는 지원하지 않음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 소비자상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDV-101A",
+      "품목코드": "INT-HD선066",
+      "품목명": "[LANstar] HDMI TO VGA 컨버터/오디오 미지원 0.15M, 보급형[30109] (200개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDV-101A",
+      "내용": "원하는 제품입느다 감사"
+    },
+    {
+      "source_model": "LS-HDV-101A",
+      "내용": "저는 맥미니에 이용할려고 구매했는데 저는 이용못하고 결국 다른제품에 이용가능하여 저의 삼촌이 CCTV모니터에 vgr단자밖에없다고하여 CCTV녹화기에 장착되어 잘쓰고있네요 그저 슬픈 ㅠㅠ"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HDV-101A",
+      "chatUrl": "2zowl",
+      "dateIso": "2025-02-20T06:53:09.892Z",
+      "name": "johy****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "none",
+      "question": "모니터가 신호가 안뜨네요",
+      "answer": "미답변"
+    },
+    {
+      "source_model": "LS-HDV-101A",
+      "chatUrl": "2zowl",
+      "dateIso": "2025-02-20T06:53:09.892Z",
+      "name": "johy****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "none",
+      "question": "노트북은 화면인식을 하는데",
+      "answer": "미답변"
+    },
+    {
+      "source_model": "LS-HDV-101A",
+      "chatUrl": "2zowl",
+      "dateIso": "2025-02-20T06:53:09.892Z",
+      "name": "johy****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "none",
+      "question": "15z990-ha76k 모델입니다",
+      "answer": "미답변"
+    },
+    {
+      "source_model": "LS-HDV-101A",
+      "chatUrl": "2zowl",
+      "dateIso": "2025-02-20T06:53:09.892Z",
+      "name": "johy****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "none",
+      "question": "노트북 사양은 지원되는거같은게 왜그런지 일수있을까요",
+      "answer": "미답변"
+    },
+    {
+      "source_model": "LS-HDV-101A",
+      "chatUrl": "2zowl",
+      "dateIso": "2025-02-20T06:53:09.892Z",
+      "name": "johy****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "none",
+      "question": "노트북에 hdmi를 직접 꽂으면 화면 확장이 되는데, 보내주신 제품으로 c 타입으로 연결하면 인식을 못합니다.",
+      "answer": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.25,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": null,
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI A Type",
+    "connectivity.output_signals": "VGA 콘넥터",
+    "connectivity.directional": "HDMI 신호를 VGA로 변환 출력",
+    "power.power_mode": "HDMI 단자에서 전원공급 (별도 전원 불필요)",
+    "form_physical.length_meters": "케이블 길이: 25cm",
+    "certification.kc": "KCC",
+    "certification.rohs": "RoHS 환경규제 준수",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "1080P Full HD 고해상도 지원",
+    "audio_video.audio_pass": "오디오 미지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:35",
+  "feature_schema_version": "1.0.0"
+}

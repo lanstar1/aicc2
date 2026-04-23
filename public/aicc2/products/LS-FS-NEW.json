@@ -1,0 +1,124 @@
+{
+  "model_no": "LS-FS-NEW",
+  "product_name": "LANStar 허브랙 전면 거치 선반",
+  "category": [
+    "허브랙"
+  ],
+  "key_features": [
+    "19인치 표준 허브랙 전용 전면 거치 선반 (1U)",
+    "최대 하중 10Kg 지원 (스위칭 허브, 라우터, 서버 장비 등 경량 장비 거치)",
+    "깊이가 짧아 랙 내부 후면 공간 활용 가능",
+    "선반 타공 구조로 발열 배출 효과적",
+    "케이지 너트 & 볼트 방식으로 허브랙 전면부에만 결합하여 간편 설치",
+    "아이보리(LS-FSI) / 블랙(LS-FSB) 두 가지 색상 제공",
+    "국제 표준 규격 19인치 허브랙 및 서버랙 전 제품 호환",
+    "낱개(날개) 단위 출고 및 박스(1박스 5개입) 출고 모두 가능",
+    "오후 4시 이전 결제 완료 건 당일 출고 (평일 기준)"
+  ],
+  "specifications": {
+    "규격(W×D)": "482.6mm × 280mm",
+    "높이": "1U",
+    "최대 하중": "10Kg",
+    "색상": "아이보리(LS-FSI), 블랙(LS-FSB)",
+    "설치 방식": "케이지 너트 & 볼트 방식",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "A/S 문의": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "19인치 표준 규격 허브랙 전 제품",
+    "국제 표준 규격 서버랙 및 고급랙",
+    "LS-300H,B (300×450×600mm, 6U)",
+    "LS-300HR (300×450×600mm, 6U)",
+    "LS-500H,B (500×500×600mm, 9U)",
+    "LS-750H,B (750×600×600mm, 12U)",
+    "LS-1000H,B (1000×600×600mm, 18U)",
+    "LS-1200H,B (1200×800×600mm, 22U)",
+    "LS-1600H,B (1600×800×600mm, 32U)",
+    "LS-1800H,B (1800×800×600mm, 36U)",
+    "LS-2000H,B (2000×800×600mm, 42U)"
+  ],
+  "package_contents": [
+    "전면 거치 선반 1개 (아이보리: LS-FSI 또는 블랙: LS-FSB 중 선택 색상)",
+    "케이지 너트 & 볼트 4개"
+  ],
+  "usage_instructions": "케이지 너트를 허브랙 전면부 해당 위치에 먼저 삽입한 후, 볼트(+자 드라이버 사용)를 이용해 선반을 고정합니다. 허브랙 전면부에만 결합하면 되므로 +자 드라이버 외 별도 도구는 필요하지 않습니다. 허브랙 후면부에도 설치 가능하나 후면 접근이 어려운 환경에서는 권장하지 않습니다.",
+  "cautions": [
+    "최대 하중 10Kg을 초과하는 장비는 거치하지 마십시오. 초과 시 일반 선반(최대 약 20Kg) 사용을 권장합니다.",
+    "무거운 서버 장비 등 고하중 장비 거치 용도로는 적합하지 않습니다.",
+    "허브랙 후면 접근이 어려운 환경에서는 후면 설치를 권장하지 않습니다.",
+    "설치 시 +자 드라이버가 필요합니다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처의 제품은 A/S를 받을 수 없습니다.",
+    "당일 출고는 오후 4시 이전 결제 완료 기준이며, 토·일·공휴일 제외 평일에 한합니다. 택배사 사정에 따라 배송 기간이 길어질 수 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "아이보리",
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "rack_unit": 1,
+      "mount_type": "standing",
+      "depth_mm": 280,
+      "width_mm": 482.6,
+      "height_mm": null,
+      "has_door": null,
+      "has_lock": null,
+      "has_fan": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "LANStar 허브랙 전면 거치 선반",
+    "form_physical.material": "선반 타공 구조로 발열 배출 효과적",
+    "form_physical.color_options": "아이보리(LS-FSI) / 블랙(LS-FSB) 두 가지 색상 제공",
+    "family.rack_unit": "1U",
+    "family.mount_type": "전면 거치 선반",
+    "family.depth_mm": "280mm",
+    "family.width_mm": "482.6mm"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:01",
+  "feature_schema_version": "1.0.0"
+}

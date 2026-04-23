@@ -1,0 +1,111 @@
+{
+  "model_no": "LS-WPB55S",
+  "product_name": "LANStar 옥외용 방수 벽부착형 플레이트 (Waterproof Outdoor Industrial Wall Plate)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "IP67 등급 방수·방진 (완전한 방진구조, 15cm~1m 침수 보호)",
+    "스테인리스 바디 재질로 견고한 내구성",
+    "고무 개스킷으로 방수 기능 강화",
+    "산업용·옥외용으로 적합",
+    "너트 헐거움 방지 및 구멍 손상 방지 구조",
+    "방수기능 고무패드 포함",
+    "RoHS 준수 (납·수은·카드뮴 등 중금속 사용 금지)",
+    "UL 인증 제품",
+    "ISO 9001:2008 품질경영시스템 적용",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "1port / 2port / 4port 라인업 구성"
+  ],
+  "specifications": {
+    "IP등급": "IP67",
+    "방진등급": "6 (완전한 방진구조)",
+    "방수등급": "7 (15cm~1m 침수 보호)",
+    "바디 재질": "스테인리스",
+    "개스킷 재질": "고무",
+    "제조국/원산지": "대만 (Taiwan)",
+    "1port 모델명": "LS-WPB55S-1",
+    "2port 모델명": "LS-WPB55S-2",
+    "4port 모델명": "LS-WPB55S-4",
+    "1port 치수(mm)": "115 x 83.3 x 41 (포트홀 직경 25.2, 두께 6.15, 개스킷 두께 4.1, 나사 간격 70.7, 너트 직경 22.6±0.05)",
+    "2port 치수(mm)": "115 x 83.3 x 41 (포트홀 직경 25.2, 두께 6.15, 개스킷 두께 4.1, 나사 간격 70.7, 너트 직경 22.6±0.05)",
+    "4port 치수(mm)": "116 x 86 (포트홀 직경 25.2, 두께 6.15, 개스킷 두께 4.1, 포트 간격 46)",
+    "인증번호": "해당없음",
+    "보험": "현대해상화재 생산물배상책임보험 1억원",
+    "인증": "RoHS COMPLIANT, UL, ISO 9001:2008"
+  },
+  "compatibility": [
+    "옥외용 산업 환경",
+    "벽부착형 설치 환경",
+    "IP67 방수·방진 요구 환경"
+  ],
+  "package_contents": [
+    "바디 본체 (스테인리스 재질) - 1port/2port/4port 중 해당 모델",
+    "개스킷 (고무 재질)",
+    "와셔 2개 (1port·2port 모델) / 와셔 4개 (4port 모델)",
+    "나사 2개 (1port·2port 모델) / 나사 4개 (4port 모델)"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸",
+        "고무"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "LANStar 옥외용 방수 벽부착형 플레이트",
+    "form_physical.material": "스테인리스 바디 재질로 견고한 내구성",
+    "form_physical.material[1]": "고무 개스킷으로 방수 기능 강화",
+    "certification.rohs": "RoHS 준수 (납·수은·카드뮴 등 중금속 사용 금지)",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:34",
+  "feature_schema_version": "1.0.0"
+}

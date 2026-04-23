@@ -1,0 +1,107 @@
+{
+  "model_no": "LS-SBR",
+  "product_name": "LANSStar 실리콘 욕실청소 브러쉬",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "미니 사이즈로 사각지대 없이 구석구석 꼼꼼하게 청소 가능",
+    "가볍고 내구성이 우수한 TPR 소재",
+    "받침대에 구멍이 뚫려 있어 자체 통풍으로 쾌적한 보관 가능",
+    "물로 헹궈주기만 하면 깔끔하게 세척 완료",
+    "구부려 사용 가능한 평평한 청소솔",
+    "녹이 슬지 않고 내구성이 뛰어남",
+    "머리카락이 엉키거나 더러워지는 문제 없음",
+    "손이 닿지 않는 부분까지 완벽 청소 가능",
+    "거치형 보관 방식",
+    "하단 홈을 통한 쾌적한 통풍",
+    "홈을 이용한 미끄럼 방지",
+    "길이 3단 분리 구조"
+  ],
+  "specifications": {
+    "소재": "TPR",
+    "전체 길이": "367mm",
+    "너비": "87mm",
+    "높이/두께": "39mm",
+    "품명": "실리콘 욕실 청소 브러쉬",
+    "모델명": "LS-SBR",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr",
+    "생산물배상책임보험": "현대해상화재보험 1억원 가입"
+  },
+  "compatibility": [],
+  "package_contents": [
+    "변기 청소솔",
+    "청소솔 받침대",
+    "청소솔 연장봉",
+    "벽고정 마운트"
+  ],
+  "usage_instructions": "연장봉을 3단으로 조립하여 사용. 청소 후 물로 헹궈 세척하고 받침대에 거치하여 보관. 벽고정 마운트를 이용한 벽면 거치 가능.",
+  "cautions": [
+    "정품 인증 배너가 등록되어 있지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "당일출고는 오후 4시 이전 결제완료 주문 기준이며, 토·일·공휴일 제외 평일에 한함",
+    "택배사 사정에 따라 배송기간이 길어질 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음"
+  ],
+  "variants": [],
+  "reviews": [
+    {
+      "source_model": "LS-SBR",
+      "내용": "깔끔하게 전선정리 했어요!"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "TPR"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "받침대에 구멍이 뚫려 있어 자체 통풍으로 쾌적한 보관 가능",
+    "form_physical.material": "TPR 소재",
+    "form_physical.length_options_meters": "길이 3단 분리 구조"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:00",
+  "feature_schema_version": "1.0.0"
+}

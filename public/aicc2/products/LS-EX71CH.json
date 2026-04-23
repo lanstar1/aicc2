@@ -1,0 +1,129 @@
+{
+  "model_no": "LS-EX71CH",
+  "product_name": "LANStar 5.1채널 PCI-Express 사운드카드 LS-EX71CH",
+  "category": [
+    "커넥터",
+    "사운드카드"
+  ],
+  "key_features": [
+    "5.1채널(Ch) 아날로그 스피커 출력 지원 (2Ch/2.1Ch, 4Ch, 5.1Ch)",
+    "2채널 사운드를 5.1채널로 확장하는 업믹스 기능 지원",
+    "호환성이 뛰어난 asmedia ASM1083 칩셋 탑재",
+    "MIC IN, LINE IN, FRONT OUT, REAR OUT, BASS 커넥터 제공",
+    "Windows XP/Vista/7/8/10/Me, Linux 등 다양한 운영체제 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC, FCC, CE 안전규격 인증 획득 (인증번호: R-REI-LUS-LS-USOUND-71)",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)"
+  ],
+  "specifications": {
+    "인터페이스": "PCI-Express (PCIe)",
+    "채널": "2Ch(2.1Ch), 4Ch, 5.1Ch",
+    "칩셋": "asmedia ASM1083",
+    "커넥터": "MIC IN, LINE IN, FRONT OUT, REAR OUT, BASS",
+    "제품 크기": "가로 약 12cm, 세로 약 9.4cm, 브라켓 높이 약 6.4cm",
+    "제조국": "중국 (China)",
+    "인증번호": "R-REI-LUS-LS-USOUND-71",
+    "제조사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "PCI-Express 슬롯이 있는 데스크톱 PC 메인보드",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7 (32bit, 64bit)",
+    "Windows 8",
+    "Windows 10",
+    "Windows Me",
+    "Linux",
+    "Windows 2000",
+    "Windows 98SE",
+    "Windows NT 4.0",
+    "Windows 9x",
+    "2Ch, 4Ch, 5.1Ch 아날로그 스피커",
+    "마이크 (MIC IN)",
+    "헤드폰 (LINE IN)"
+  ],
+  "package_contents": [
+    "LS-EX71CH 사운드카드 본체",
+    "드라이버 설치 CD"
+  ],
+  "usage_instructions": "1. PC를 끄고 메인보드의 PCI-Express 슬롯에 사운드카드를 장착한다. 2. PC를 켜면 CD를 삽입해도 자동 설치가 되지 않으므로, CD 드라이브에서 드라이버 폴더를 직접 열어 운영체제에 맞는 폴더(예: 8738-Vist-Win7-64 등)를 선택한다. 3. 해당 폴더 안의 Setup 응용 프로그램을 실행하여 C-Media PCI Audio Device 드라이버를 설치한다. 4. 설치 완료 후 안내에 따라 컴퓨터를 재부팅한다. 5. 재부팅 후 장치 관리자에서 '사운드, 비디오 및 게임 컨트롤러' 항목 아래 'C-Media PCI Audio Devices'가 정상 등록되었는지 확인한다.",
+  "cautions": [
+    "CD 삽입 시 자동 설치가 되지 않으므로 반드시 운영체제에 맞는 폴더를 직접 선택하여 Setup을 실행해야 한다.",
+    "드라이버 설치 완료 후 반드시 재부팅을 해야 정상 작동한다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-EX71CH",
+      "품목코드": "AVO-사운드030",
+      "품목명": "[LANstar] PCI-express 사운드카드, 5.1채널 [60128]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "3.5mm"
+      ],
+      "directional": "N/A"
+    },
+    "power": {
+      "power_mode": "N/A"
+    },
+    "form_physical": {
+      "has_case": true,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "PCI-Express",
+      "connector_type_b": "3.5mm",
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "MIC IN, LINE IN, FRONT OUT, REAR OUT, BASS 커넥터",
+    "connectivity.output_signals": "MIC IN, LINE IN, FRONT OUT, REAR OUT, BASS 커넥터",
+    "form_physical.has_case": "LANStar 5.1채널 PCI-Express 사운드카드 LS-EX71CH",
+    "certification.kc": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.ce": "KC, FCC, CE 안전규격 인증 획득",
+    "audio_video.audio_pass": "5.1채널(Ch) 아날로그 스피커 출력 지원",
+    "family.connector_type_a": "PCI-Express (PCIe)",
+    "family.connector_type_b": "MIC IN, LINE IN, FRONT OUT, REAR OUT, BASS 커넥터"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:59",
+  "feature_schema_version": "1.0.0"
+}

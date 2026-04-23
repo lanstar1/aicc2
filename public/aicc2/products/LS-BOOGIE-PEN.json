@@ -1,0 +1,115 @@
+{
+  "model_no": "LS-BOOGIE-PEN",
+  "product_name": "LANStar LCD 전자칠판 Write Pen (전자칠판 터치펜)",
+  "category": [
+    "전자칠판"
+  ],
+  "key_features": [
+    "2mm 초소형 특수 섬유 팁으로 정교하고 세밀한 터치 가능",
+    "볼펜처럼 사용하는 스타일러스 터치펜으로 안정감 있는 필기 및 그림 그리기 적합",
+    "펜촉이 가늘고 단단하며 견고하여 화면에 달라붙지 않고 펜촉 열화성이 낮음",
+    "별도의 장치나 애플리케이션 없이 사용 가능",
+    "전자칠판 하단에 끼워넣어 휴대 가능",
+    "학생 노트필기 및 작가 그림 그리기에 적합"
+  ],
+  "specifications": {
+    "팁 직경": "2mm",
+    "팁 소재": "특수 섬유",
+    "펜 길이": "12.3cm",
+    "팁 너비(폭)": "0.8cm",
+    "제품명": "전자칠판 Write Pen",
+    "모델명": "LS-BOOGIE-PEN",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입",
+    "인증": "RoHS Compliant, ISO 9001:2008"
+  },
+  "compatibility": [
+    "LANStar LCD 전자칠판 (전자칠판 하단 슬롯에 끼워 사용 가능한 모델)"
+  ],
+  "package_contents": [
+    "전자칠판 Write Pen (LS-BOOGIE-PEN) 1개"
+  ],
+  "usage_instructions": "전자칠판 하단 슬롯에 끼워 보관하며, 볼펜처럼 잡고 전자칠판 화면에 터치하여 필기 및 그림 그리기에 사용. 별도의 장치나 애플리케이션 설치 불필요.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "전자칠판과 별도로 구매 필요 (기본 구성품 아님)"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-BOOGIE-PEN",
+      "품목코드": "COM-악세사178",
+      "품목명": "[LANstar] 전자칠판 Write Pen [단품] [60081]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "무관"
+      ],
+      "output_signals": [
+        "무관"
+      ],
+      "directional": "N/A"
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "기타"
+      ],
+      "length_meters": 0.123
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "별도의 장치나 애플리케이션 없이 사용 가능",
+    "connectivity.output_signals": "별도의 장치나 애플리케이션 없이 사용 가능",
+    "connectivity.directional": "별도의 장치나 애플리케이션 없이 사용 가능",
+    "power.power_mode": "별도의 장치나 애플리케이션 없이 사용 가능",
+    "power.charging_support": "별도의 장치나 애플리케이션 없이 사용 가능",
+    "form_physical.has_case": "전자칠판 하단에 끼워넣어 휴대 가능",
+    "form_physical.material": "특수 섬유 팁",
+    "form_physical.length_meters": "펜 길이: 12.3cm",
+    "certification.rohs": "RoHS Compliant",
+    "certification.iso9001": "ISO 9001:2008",
+    "audio_video.max_resolution": "전자칠판 Write Pen (전자칠판 터치펜)",
+    "audio_video.hdr_support": "전자칠판 Write Pen (전자칠판 터치펜)",
+    "audio_video.hdcp_version": "전자칠판 Write Pen (전자칠판 터치펜)",
+    "audio_video.audio_pass": "전자칠판 Write Pen (전자칠판 터치펜)",
+    "control_switching.has_remote": "별도의 장치나 애플리케이션 없이 사용 가능",
+    "control_switching.has_hotkey": "별도의 장치나 애플리케이션 없이 사용 가능",
+    "control_switching.has_physical_button": "별도의 장치나 애플리케이션 없이 사용 가능",
+    "control_switching.has_mouse_switching": "별도의 장치나 애플리케이션 없이 사용 가능",
+    "control_switching.has_auto_scan": "별도의 장치나 애플리케이션 없이 사용 가능",
+    "control_switching.has_app_control": "별도의 장치나 애플리케이션 없이 사용 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:38",
+  "feature_schema_version": "1.0.0"
+}

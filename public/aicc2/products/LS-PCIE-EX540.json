@@ -1,0 +1,149 @@
+{
+  "model_no": "LS-PCIE-EX540",
+  "product_name": "인텔 X540-T2 듀얼 랜카드 (LANStar LS-PCIE-EX540)",
+  "category": [
+    "랜케이블-CAT6A",
+    "방열판",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "Intel X540-T2 칩셋 사용으로 네트워크 속도와 안정성 향상",
+    "최대 10Gbps 속도 지원 (10GBASE-T)",
+    "PCI-Express x8 인터페이스 사용 (PCIe 2.1, 최대 3GB/s 데이터 전송)",
+    "RJ45 듀얼 포트(2Port) 지원",
+    "열 전도율이 높은 대형 방열판 결합으로 발열 방지 및 무소음",
+    "슬림 PC용 LP 브라켓 제공",
+    "Windows 11 지원",
+    "iSCSI, FCoE, NFS 등 Storage over Ethernet 지원",
+    "VLAN, VXLAN, Wake on LAN, Jumboframes(15.5KB), SR-IOV, LACP 등 다양한 특수 기능 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원(KC) 인증 획득",
+    "RoHS 준수, FCC, CE, ISO 9001:2008 인증"
+  ],
+  "specifications": {
+    "칩셋": "Intel X540",
+    "커넥터": "RJ45 2Port",
+    "Bus Type": "PCI-Express v2.1 (5GT/s)",
+    "Interface": "PCIe 2.1 x8",
+    "Transmission": "100/1000/10000Mbase-T",
+    "IEEE 표준": "1000BASE-T",
+    "Network Topology": "10GBASE-T",
+    "Special Features": "VLAN, VXLAN, Wake on LAN, 15.5KB Jumboframes, FCoE, iSCSI, Intel VT-c, PXE-Bootrom 2.0, LACP, SR-IOV, NC-SI, SNMP-management",
+    "제품 크기": "15.4cm x 5.6cm x 1.7cm (보조 치수: 12cm)",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "KCC-REM-LUS-LS-PCIE-EX1000",
+    "전파연구원 인증번호": "R-R-LUS-LS-PCIE-EX540"
+  },
+  "compatibility": [
+    "Windows 11",
+    "Windows 7 / 8 / 10",
+    "Windows Server 2003 / 2008 / 2012",
+    "Linux",
+    "ESX / ESXi",
+    "PCI-Express x8 슬롯 장착 시스템",
+    "슬림 PC (LP 브라켓 사용 시)",
+    "iSCSI, FCoE, NFS 기반 스토리지 네트워크",
+    "인터넷 포털 사이트, 기업 홈페이지, 금융 사이트 등 네트워크 서버 환경"
+  ],
+  "package_contents": [
+    "LS-PCIE-EX540 듀얼 랜카드 본체",
+    "슬림 PC용 LP 브라켓"
+  ],
+  "usage_instructions": "PCI-Express x8 슬롯이 있는 PC 또는 서버에 카드를 장착하여 사용. 슬림 PC 사용 시 동봉된 LP 브라켓으로 교체 후 장착. 네트워크 서버 구축 환경(인터넷 포털, 기업 홈페이지, 금융 사이트 등)에서 활용 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-EX540",
+      "품목코드": "USB-PCI240",
+      "품목명": "[LANstar] 인텔 X540-T2 10기가 랜카드/10G/듀얼포트[20255] (60개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-PCIE-EX540",
+      "내용": "제품 잘받았습니다... 아주좋아요^^"
+    },
+    {
+      "source_model": "LS-PCIE-EX540",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-EX540",
+      "내용": "시놀 1821+ 에 장착했는데 잘작동하네요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [],
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 듀얼 포트(2Port) 지원",
+    "connectivity.port_count": "RJ45 듀얼 포트(2Port) 지원",
+    "form_physical.has_case": "대형 방열판 결합으로 발열 방지",
+    "certification.kc": "국립전파연구원(KC) 인증 획득",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 인증",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "family.cat_category": "랜케이블-CAT6A"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:09",
+  "feature_schema_version": "1.0.0"
+}

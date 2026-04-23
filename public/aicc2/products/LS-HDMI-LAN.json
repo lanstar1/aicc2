@@ -1,0 +1,629 @@
+{
+  "model_no": "LS-HDMI-LAN",
+  "product_name": "NEW HDMI 장거리 리피터 SET",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블",
+    "HDMI선택기",
+    "리피터",
+    "스위치허브"
+  ],
+  "key_features": [
+    "HDMI 신호를 CAT.6 랜케이블로 최대 120M까지 전송 (1:1 연결 기준)",
+    "스위치 허브 사용 시 최대 240M까지 전송 가능",
+    "1:1 연결 및 1:N 연결(스위치/라우터) 모두 지원",
+    "1080p Full HD 3D 영상 지원 (1920x1080)",
+    "HDCP 1.2 지원으로 디지털 콘텐츠 저작권 보호",
+    "IR 리모컨 신호 연장 지원 (38kHz NEC)",
+    "Plug and Play 자동 접속, 별도 소프트웨어 설치 불필요",
+    "TX/RX 모두 고정 꺽쇠로 벽면 부착 가능",
+    "Cascade 및 EDID 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "KC·FCC·CE·RoHS 인증 취득, 국립전파연구원 인증 획득",
+    "HDMI 신호를 CAT.6 랜케이블로 최대 120M(스위치 허브 사용 시 최대 240M)까지 전송",
+    "1:1 연결(연장) 및 1:N 연결(스위치 허브 필요) 모두 지원",
+    "1080p Full HD 3D 영상 지원 (해상도: 1920x1080)",
+    "HDCP 1.2 지원으로 영상 저작권 보호",
+    "IR 리모컨 신호 전달 기능 지원 (38kHz NEC 방식)",
+    "TX·RX 모두 고정 꺽쇠로 벽면 부착 가능",
+    "EDID 지원, Cascade 연결 지원",
+    "병원·은행·영상 디스플레이 매장·스크린 골프장·지하철역 등 다양한 환경에서 활용 가능",
+    "KC·FCC·CE·RoHS 인증 획득, 국립전파연구원 인증 제품",
+    "최대 150M 거리 확장 (CAT.5E/6 랜케이블 이용)",
+    "Full HD 1080P (1920x1080) 해상도 지원",
+    "H.264 압축 방식 적용",
+    "1:1 및 1:N(스위칭허브 활용) 연결 방식 지원",
+    "HDMI 1.3 표준 규격 지원 (하위 버전 호환)",
+    "HDCP(High-Bandwidth Digital Content Protection) 지원",
+    "Plug & Play – 별도 설치 없이 연결 즉시 사용 가능",
+    "송신기(TX) HDMI Loop Out(모니터링 출력) 포트 제공",
+    "IR 리모컨 신호 연장 지원 (IR-TX / IR-RX)",
+    "UTP / STP 랜케이블 모두 지원",
+    "Metal 재질 케이스",
+    "국립전파연구원(KC) 인증 제품",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "최대 150M 거리 확장 (CAT.5E/CAT.6 랜케이블 사용)",
+    "H.264 압축 방식 지원",
+    "Plug & Play 지원 (별도 설치 과정 없이 연결 즉시 사용 가능)",
+    "1:1 및 1:N 연결 방식 지원 (스위칭 허브 활용)",
+    "수신기(RX) 단독 제품 (송신기 미포함)",
+    "IR-RX 기능 내장",
+    "메탈 재질 본체",
+    "HDMI 영상·음성 신호를 CAT.5E/CAT.6/CAT.7 랜케이블을 이용해 최대 90M까지 전송",
+    "4K@30Hz (3840x2160) UHD 해상도 지원",
+    "3D 영상 플레이 지원",
+    "CASCADE 및 Multi-RX(1:N 연결) 방식 지원",
+    "원격 제어를 위한 IR 적외선 센서 지원 (IR-TX / IR-RX)",
+    "HDCP 2.2 완벽 지원으로 콘텐츠 불법 복제 방지",
+    "랜케이블 종류별 최대 전송 거리: CAT.5E/CAT.6 최대 50M, CAT.7 최대 90M",
+    "DTS / Dolby / LPCM 오디오 포맷 지원",
+    "벽면 고정용 마운트 홀 제공",
+    "국립전파연구원 인증 획득 (인증번호: MSIP-REI-LUS-LS-HDMI-120M)",
+    "RoHS 준수, KC·FCC·CE 안전규격 인증",
+    "HDMI 영상/음성 신호를 CAT.5E/CAT.6/CAT.7 랜케이블을 이용해 최대 90M까지 전송",
+    "Cascade 및 Multi-RX 방식 지원 (1:1 및 1:N 다수 디스플레이 연결 가능)",
+    "원격제어를 위한 IR 적외선 센서 지원",
+    "HDCP 2.2 완벽 지원",
+    "Sw-signal 스위치로 TX(HDMI)/RX(RJ45) 신호 선택 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC/FCC/CE 안전규격 인증 및 RoHS 준수"
+  ],
+  "specifications": {
+    "HDMI 버전": "HDMI 1.3 / HDMI 1.3 (하위 버전 호환)",
+    "HDCP 버전": "HDCP 1.2",
+    "지원 해상도": "1080p / 1080i / 720p / 576p / 576i / 480p / 480i / 480p, 720p, 1080p",
+    "지원 오디오 포맷": "LPCM 2.0, 32kHz, 44.1kHz, 48kHz",
+    "IR 리모컨": "38kHz NEC / 38kHz, NEC",
+    "최대 전송 거리": "120M (CAT.6 기준), 최대 240M (스위치 허브 사용 시)",
+    "연결 방식": "1:1, 1:N (스위치/라우터 지원), Cascade, EDID 지원 / 1:1, 1:N (스위치·라우터 지원), Cascade, EDID 지원",
+    "자동 연결": "Plug and Play 자동 접속, 별도 S/W 설치 불필요",
+    "작동 온도": "0~70°C (32~158°F) / 0°C ~ 45°C / 0℃ ~ 45℃",
+    "작동 습도": "10~80% RH (응축 현상 없음) / 10~80% RH (응축 현상 발생하지 않는 환경) / 10% ~ 80%",
+    "전원 어댑터 입력": "AC 100~240V (50Hz/60Hz) / AC 100~240V (50Hz / 60Hz)",
+    "전원 어댑터 출력": "DC 5V / 2A",
+    "크기": "92 x 79 x 28 mm",
+    "무게": "240g x 2 / 약 163g",
+    "인증번호": "MSIP-REI-LUS-LS-HDMI-120M, KC인증 HU10841-15001B",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "CAT.5E 지원 거리": "최대 100M",
+    "제조사/수입사": "라인업시스템(주)",
+    "입력(INPUT)": "HDMI, RJ45, IR",
+    "출력(OUTPUT)": "HDMI, RJ45, IR, Loop Out",
+    "최대 전송거리": "150m",
+    "IR 주파수 범위": "38KHz, NEC",
+    "오디오 샘플레이트": "32kHz, 44.1kHz, 48kHz",
+    "전원": "DC 5V/1A x 2ea / DC 5V / 1A / DC 5V 1A",
+    "습도": "10% ~ 80%",
+    "송신기 무게": "약 163g",
+    "수신기 무게": "약 163g",
+    "본체 크기(TX/RX 공통)": "93mm x 72.5mm x 22.5mm",
+    "재질": "Metal",
+    "랜케이블 규격": "CAT.5E, CAT.6 (UTP/STP)",
+    "KC 인증번호": "MSIP-REI-LUS-LS-HDMI-120M",
+    "아답터 인증번호": "HU101081-20002A / HU10999-18001A",
+    "제조국/원산지": "중국 (China)",
+    "A/S 문의": "랜스타 A/S센터 www.LANstar.co.kr",
+    "출력 단자": "HDMI, RJ45, IR",
+    "본체 크기": "93mm x 72.5mm x 22.5mm",
+    "HDMI 입력 해상도": "4K / 1080P / 720P / 576P / 576i / 480P / 480i",
+    "HDMI 출력 해상도": "4K / 1080P / 720P / 576P / 576i / 480P / 480i",
+    "최대 지원 해상도": "3840x2160 @30Hz",
+    "지원 오디오 형식": "DTS / Dolby / LPCM / DTS/Dolby/LPCM",
+    "최대 대역폭": "340MHz",
+    "입력 비디오 신호": "0.5~1.5Volts p-p / 0.5-1.5Volts p-p",
+    "출력 DDC 신호": "5Volts p-p (TTL)",
+    "TX 최대 작동 전류": "350mA",
+    "RX 최대 작동 전류": "200mA",
+    "중량": "223g",
+    "제품 크기": "94mm x 84mm x 24mm",
+    "최대 전송 거리 (CAT.5E/CAT.6)": "최대 50M",
+    "최대 전송 거리 (CAT.7)": "최대 90M",
+    "HDCP 지원": "HDCP 2.2",
+    "HDMI 입력": "4K/1080P/720P/576P/576i/480P/480i",
+    "HDMI 출력": "4K/1080P/720P/576P/576i/480P/480i",
+    "인증번호 (전파)": "MSIP-REI-LUS-LS-HDMI-120M",
+    "인증번호 (아답터)": "HU10999-18001A"
+  },
+  "compatibility": [
+    "CAT.5E UTP 랜케이블 (최대 100M 지원)",
+    "CAT.6 UTP 랜케이블 (최대 120M 지원)",
+    "스위치 허브 (1:N 연결 및 240M 연장 시 필요)",
+    "커플러 (케이블 연장 연결 시 사용)",
+    "PC, DVD 플레이어, STB, PS3 등 HDMI 출력 기기",
+    "TV, 모니터, 프로젝터, HDTV 등 HDMI 입력 디스플레이 기기",
+    "병원 광고 DID, 은행 창구, TV 전시장, 박람회장, 스크린 골프장, 지하철역 등 상업용 환경",
+    "HDMI 출력 기기: PC, DVD 플레이어, STB(셋톱박스), PS3",
+    "HDMI 입력 기기: TV, 모니터, 프로젝터, HDTV",
+    "랜케이블: CAT.5E (최대 100M), CAT.6 이상 (최대 120M)",
+    "네트워크 장비: 스위치 허브 (1:N 및 240M 연장 시 필요)",
+    "연장 부품: 랜 커플러 (케이블 연장 시 사용 가능)",
+    "HDMI 1.3 표준 규격 지원 기기 (하위 버전 호환)",
+    "CAT.5E 랜케이블",
+    "CAT.6 랜케이블",
+    "UTP 랜케이블",
+    "STP 랜케이블",
+    "HDCP 지원 기기 (HDCP 미지원 기기에서는 사용 불가)",
+    "1080P Full HD 디스플레이",
+    "스위칭허브 (1:N 연결 시)",
+    "HDMI 1.3 및 하위 버전 호환 기기",
+    "송신기(TX) 세트 제품: 랜마트 상품번호 30587",
+    "CAT.7 랜케이블",
+    "HDMI 입력 소스 기기 (셋톱박스, 콘솔, Blu-ray 플레이어, HD DVD 등)",
+    "HDMI 출력 디스플레이 기기 (TV, 빔 프로젝터 등)",
+    "3D 영상 지원 HDMI 기기",
+    "HDCP 2.2 지원 기기",
+    "HDMI 입력 소스 기기 (셋톱박스, Blu-ray, 게임 콘솔 등)",
+    "DTS/Dolby/LPCM 오디오 지원 기기"
+  ],
+  "package_contents": [
+    "HDMI 리피터 TX 송신기 1개",
+    "HDMI 리피터 RX 수신기 1개",
+    "고정용 꺽쇠 및 나사 2세트 (TX/RX 각 1세트)",
+    "IR 케이블 1개 (TX/RX 구분 없음)",
+    "전원 어댑터 5V/2A 2개",
+    "한글 매뉴얼 1부",
+    "HDMI 리피터 TX (송신기) 1개",
+    "HDMI 리피터 RX (수신기) 1개",
+    "고정용 꺽쇠 나사 2세트",
+    "IR 케이블 (TX·RX 구분 없음)",
+    "한글 매뉴얼",
+    "송신기(Transmitter, TX) 1ea",
+    "수신기(Receiver, RX) 1ea",
+    "5V 1A 아답터 2ea",
+    "IR-TX 1ea",
+    "IR-RX 1ea",
+    "User Manual 1부",
+    "거리확장기 수신기(Receiver) 본체 1ea",
+    "5V 1A 아답터 1ea (아답터 인증번호: HU101081-20002A)",
+    "User Manual 1ea",
+    "HDMI 리피터 송신기 (Transmitter / TX) 1EA",
+    "HDMI 리피터 수신기 (Receiver / RX) 1EA",
+    "고정용 꺽쇠 2EA",
+    "나사 4EA",
+    "DC 5V 1A 전원 어댑터 2EA",
+    "User Manual (사용설명서) 1EA",
+    "HDMI 리피터 수신기(RX) 본체 1개",
+    "IR-RX (적외선 수신 안테나) 1개",
+    "DC 5V 1A 전원 아답터 2개",
+    "User Manual (매뉴얼) 1부"
+  ],
+  "usage_instructions": "1) TX(송신기)의 HDMI IN 단자에 PC·DVD플레이어·STB 등 소스 기기를 HDMI 케이블로 연결한다. 2) TX의 UTP OUT 단자와 RX(수신기)의 UTP IN 단자를 CAT.5E 또는 CAT.6 랜케이블로 연결한다. 3) RX의 HDMI OUT 단자에 TV·모니터·프로젝터 등 디스플레이 기기를 HDMI 케이블로 연결한다. 4) TX와 RX 각각 전원 어댑터(DC 5V/2A)를 연결하면 Plug and Play로 자동 접속된다. ※ 120M 이상 전송 시 CAT.6 이상 케이블 필수. CAT.5E는 최대 100M만 지원. ※ 1:N 연결 및 최대 240M 연장 시 스위치 허브 필요. ※ 케이블 연장이 필요한 경우 커플러를 사용하여 연결 가능.",
+  "cautions": [
+    "CAT.6 이상 케이블 사용 시 최대 120M 지원, CAT.5E는 최대 100M까지만 지원",
+    "240M 연장 시 반드시 스위치 허브를 사용해야 함",
+    "전원 어댑터는 TX와 RX 모두 각각 연결 필요 (DC 5V/2A)",
+    "작동 습도 범위(10~80% RH) 내에서 사용, 응축 현상이 발생하지 않는 환경에서 사용",
+    "작동 온도 범위(0~70°C) 내에서 사용",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주) 제작 상품 및 콘텐츠를 동의 없이 무단 복제·이용 시 불이익을 받을 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMI-LAN-120MN",
+      "품목코드": "INT-HDS093",
+      "품목명": "[LANstar]◆◆ NEW HDMI 장거리 리피터 [SET상품], 기본 120M,허브연장 240M 1080P지원 [30162]",
+      "variant_suffix": "-120MN",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-LAN-120MN",
+      "품목코드": "INT-HDS098",
+      "품목명": "[LANstar] [RX 단독]NEW HDMI 리피터 기본 120M,허브연장 240M 1080P지원 [30170]",
+      "variant_suffix": "-120MN",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-LAN-2120M",
+      "품목코드": "INT-HDS145",
+      "품목명": "[LANstar] HDMI 리피터 거리연장기 , 최대 120M 연장 (TX,RX-Set), Multi-RX CASCADE 기능 [20223](20개)",
+      "variant_suffix": "-2120M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-LAN-2120MRX",
+      "품목코드": "INT-HDS146",
+      "품목명": "[LANstar] HDMI 리피터 거리연장기 (수신기,RX) , 최대 120M 연장 , Multi-RX CASCADE [20224](40개)",
+      "variant_suffix": "-2120MRX",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-LAN-150M",
+      "품목코드": "INT-HDS206",
+      "품목명": "[LANstar] HDMI 랜 거리 연장기 150M지원 [30587] (20개)",
+      "variant_suffix": "-150M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-LAN-150MRX",
+      "품목코드": "INT-HDS210",
+      "품목명": "[LANstar] HDMI 랜 거리연장기 리시버 150M지원 [30625] (20개)",
+      "variant_suffix": "-150MRX",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDMI-LAN-2120M",
+      "내용": "먼 거리  까지 영상이 잘 출력됩니다."
+    },
+    {
+      "source_model": "LS-HDMI-LAN-2120M",
+      "내용": "거리에 비해 더 먼곳이 가능한 제품으로 미리 구입했는데...\n마음에 듭니다. 영상 깨끗하고 거리에 대해선 그냥 무시하고 이건물 저건물에 연결해도 될듯합니다.",
+      "관련내용": "길이는 최소 20~30m 면 되지만 그냥 120m 짜리로 했습니다. 추후 라인을 변경할때도 그대로 사용해도 될듯합니다.\n\n다 만족스러운데 한가지 어뎁터가 그리 튼실해 보이진 않네요. 추후 따로 주문 할수 있기를 희망합니다."
+    },
+    {
+      "source_model": "LS-HDMI-LAN-2120M",
+      "내용": "길이는 최소 20~30m 면 되지만 그냥 120m 짜리로 했습니다. 추후 라인을 변경할때도 그대로 사용해도 될듯합니다.\n\n다 만족스러운데 한가지 어뎁터가 그리 튼실해 보이진 않네요. 추후 따로 주문 할수 있기를 희망합니다."
+    },
+    {
+      "source_model": "LS-HDMI-LAN-2120M",
+      "내용": "Hdmi선이 고장이 잦아 긴거리 기기간 관리에 어려움이 있어왔는데 리피터 알고 쓰고 난후 상당히 편합니다. 역시 알아야 뭣도 한다고,,, 아마추어 관리자들은 공부를 해야.. ㅋ",
+      "관련내용": "여러군데 쓰는중이라 믿고 구매 했습니다.\n깔끔하게 동작 잘됩니다"
+    },
+    {
+      "source_model": "LS-HDMI-LAN-2120M",
+      "내용": "여러군데 쓰는중이라 믿고 구매 했습니다.\n깔끔하게 동작 잘됩니다"
+    },
+    {
+      "source_model": "LS-HDMI-LAN-2120M",
+      "내용": "튼튼해요, HDMI 선은 경험상 고장이 잦아요, 웬만한 짧은거리 아니면 설비유지보수상 필수인거 같습니다. 좋습니다.",
+      "관련내용": "일단 테스트로 동작확인했으니 설치를 잘 해봐야겠네요. 잘 나옵니다"
+    },
+    {
+      "source_model": "LS-HDMI-LAN-2120M",
+      "내용": "작동이 잘되고 쓰는데 불편함이 없었습니다"
+    },
+    {
+      "source_model": "LS-HDMI-LAN-2120M",
+      "내용": "일단 테스트로 동작확인했으니 설치를 잘 해봐야겠네요. 잘 나옵니다"
+    },
+    {
+      "source_model": "LS-HDMI-LAN-2120M",
+      "내용": "직접방문해서 받았는데 직원들도 친절하시고 너무 좋았습니다."
+    },
+    {
+      "source_model": "LS-HDMI-LAN-2120M",
+      "내용": "상품 좋아요. 리뷰가 없어서 걱정했는데, 유튜브에 자세한 설명도 있고 좋습니다."
+    },
+    {
+      "source_model": "LS-HDMI-LAN-2120MRX",
+      "내용": "영상 출력 잘 됩니다."
+    },
+    {
+      "source_model": "LS-HDMI-LAN-2120MRX",
+      "내용": "포장도 꼼꼼하게 되어있고 \n배송도 빠르게 도착했습니다 \n\n디자인도 깔끔하고 \n품질도 좋아요 \n\n다른곳보다 저렴하게 \n구입했는데 \n잘 사용하겠습니다 \n\n필요시에 재구매 하겠습니다 \n\n번창하세요^^",
+      "관련내용": "포장도 꼼꼼하게 되어있고 \n배송도 빠르게 도착했습니다 \n\n디자인도 깔끔하고 \n품질도 좋아요 \n\n다른곳보다 저렴하게 \n구입했는데 \n잘 사용하겠습니다 \n\n필요시에 재구매 하겠습니다 \n\n번창하세요^^"
+    },
+    {
+      "source_model": "LS-HDMI-LAN-2120MRX",
+      "내용": "포장도 꼼꼼하게 되어있고 \n배송도 빠르게 도착했습니다 \n\n디자인도 깔끔하고 \n품질도 좋아요 \n\n다른곳보다 저렴하게 \n구입했는데 \n잘 사용하겠습니다 \n\n필요시에 재구매 하겠습니다 \n\n번창하세요^^"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HDMI-LAN-150M",
+      "id": 505185672,
+      "date": "2022-12-01 14:11",
+      "answerDate": "2022-12-01 17:53",
+      "user": "kims******",
+      "productName": "랜스타 LS-HDMI-LAN-150M HDMI 리피터 최대 150M 1080P 지원",
+      "question": "구형 컴퓨터 VGA 방식이라 VGA to Hdmi 컨버터를 랜스타 LSP-VGA2HD VGA TO HDMI 이용해서 \n  변환해서 해당 제품으로 멀리 hdmi로 출력 하려 하는데\n사용이 가능한가요",
+      "answer": "안녕하세요 랜스타입니다.\n\n해당 내용 테스트 후 답변 드리겠습니다 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-LAN-150M",
+      "id": 505233219,
+      "date": "2022-12-01 18:06",
+      "answerDate": "2022-12-02 12:51",
+      "user": "kims******",
+      "productName": "랜스타 LS-HDMI-LAN-150M HDMI 리피터 최대 150M 1080P 지원",
+      "question": "테스트 까지 해주시다니 감사합니다 결과 내용이 궁금하네요\n\n지금이 구현 하고 싶은것은 VGA 출력신호 하나밖에 없어서 VGA모니터와 장거리인 100~150M hdmi 모니터를 복제 출력 총 2대 하고 싶었거든요 ㅠ.ㅠ\n\n제가 생각해둔것이지만  \n1. vga 출력신호를 vga to hdmi 컨버터하고 \n2. hdmi 컨버터한 것을 hdmi 1 : 2 분배기를 이용해서 출력 하나는 hdmi to vga와 \n다른 출력 하나는 hdmi 리피터를 이용해서 장거리 연결 생각하고 있었는데 \n\n이게 될까라는...의심만 들고 돈만 날라가는게 아닌가라는 의심이 들어서요 ㅠ.ㅠ 랜스타님 도와주세요 알아볼려고 노력하고 있지만 복잡하네요 아니면 더 좋은 방법이 있을까요",
+      "answer": "안녕하세요 랜스타입니다.\n\n문의하신 부분 전체 테스트 진행하였으며, 테스트 결과 정상적으로 출력되는 점 확인하였습니다.\n\n이 점 참고하시고 구매 부탁드리겠습니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-LAN-150M",
+      "id": 507684645,
+      "date": "2022-12-16 15:15",
+      "answerDate": "2022-12-16 15:44",
+      "user": "kims******",
+      "productName": "랜스타 LS-HDMI-LAN-150M HDMI 리피터 최대 150M 1080P 지원",
+      "question": "상품 수령 받았습니다 그런데 박스 까보니 \n\n같은 Receiver이 두개 들어있습니다\n\n잘못된 상품 패키지 같습니다\n\n원래는 송신과 수신 각 있어야하는데\n\n수신기가 두개와서 당황스럽습니다 ㅜ",
+      "answer": "안녕하세요 랜스타 입니다\n\n해당 제품이 수신기 별도로 판매가 되는 제품이다 보니 오출고가 된 듯 합니다\n\n재 출고 진행 해 드리겠습니다"
+    },
+    {
+      "source_model": "LS-HDMI-LAN-150M",
+      "id": 509146597,
+      "date": "2022-12-26 11:19",
+      "answerDate": "2022-12-26 11:36",
+      "user": "kims******",
+      "productName": "랜스타 LS-HDMI-LAN-150M HDMI 리피터 최대 150M 1080P 지원",
+      "question": "택배 회수 안하시나요?",
+      "answer": "안녕하세요 랜스타 입니다\n\n재 수거 접수 진행 해 드렸습니다"
+    },
+    {
+      "source_model": "LS-HDMI-LAN-150M",
+      "id": 541176485,
+      "date": "2023-08-08 08:33",
+      "answerDate": "2023-08-08 13:27",
+      "user": "flyk****",
+      "productName": "랜스타 LS-HDMI-LAN-150M HDMI 리피터 최대 150M 1080P 지원",
+      "question": "구매전 궁금한것이 있습니다.\n\n1:1이 연결이 아닌 1:N 연결할 경우 사용설명 그림상에는 스위치허브를 이용하여 연결하였는데 스위치허브를 아무거나 사용해도 되는지요??\n아니면 전용 스위치허브가 있는지 궁금합니다.\n\n답변 부탁드립니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n말씀 주신 것처럼 일반 스위칭 허브 사용하시면 됩니다.\n자사에서 판매 중인 제품으로 'LS-S108' 제안 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-LAN-150M",
+      "id": 541794405,
+      "date": "2023-08-12 15:33",
+      "answerDate": "2023-08-16 15:16",
+      "user": "prin******",
+      "productName": "랜스타 LS-HDMI-LAN-150M HDMI 리피터 최대 150M 1080P 지원",
+      "question": "제품이 TX, RX 한개씩 와야되는데 RX2개가 왔습니다분명 판매페이지에는 TX, RX 1set라고 적혀있는데 잘못온것 같습니다",
+      "answer": "안녕하세요, 고객님. 랜스타입니다.\n\n우선, 원활한 제품 사용에 불편을 드려 죄송합니다. 금일 제품 상태 확인하여 재발송 도와드렸습니다. 자세한 내용은 톡톡 문의 답변 확인 부탁드립니다. 추가로, 제품의 수거가 원활히 진행될 수 있도록 포장하여 문 앞에 놔주시면 감사하겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-LAN-150M",
+      "id": 552482037,
+      "date": "2023-10-30 08:21",
+      "answerDate": "2023-10-30 11:29",
+      "user": "taeb******",
+      "productName": "랜스타 LS-HDMI-LAN-150M HDMI 리피터 최대 150M 1080P 지원",
+      "question": "교회에서 영상을 설치하려고 8월에 주문해서 이제 공사가 마무리되는 단계에 포장을 열어봤더니 송신기(Transmitter)가 안오고 수신기만 왔습니다.\n 당장 해야 하는데 분명 판매자와 통화도 하고 문자도 넣어서 확인했는데 빠른 조치바랍니다.",
+      "answer": "안녕하세요, 고객님. 랜스타입니다.\n\n유선 상담 완료하였습니다. 금일 재발송 운송장번호 안내드립니다. [로젠 36696042961]\n기존에 수령하신 [LS-HDMI-LAN-150MRX] 제품 1개의 경우, 원활히 수거될 수 있도록 포장하여 문 앞에 놔주시면 감사하겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-LAN-2120M",
+      "id": 566916576,
+      "date": "2024-02-05 14:21",
+      "answerDate": "2024-02-05 14:34",
+      "user": "haey****",
+      "productName": "랜스타 HDMI Extender 광 거리연장기 리피터 최대 120M 4K (LS-HDMI-LAN-2120M)",
+      "question": "안녕하세요 랜스타 HDMI Extender 광 거리연장기 리피터 셋트구매후  따로 수신기만 구매가능한가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n말씀해주신 것처럼 세트로 구매 후 수신기만 따로 구매 가능합니다.\n(LS-HDMI-LAN-2120MRX) 이 제품이 수신기만 있는 제품이라 이 제품으로 구매하시면 될 거 같습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-LAN-2120M",
+      "id": 641739379,
+      "date": "2025-09-03 16:13",
+      "answerDate": "2025-09-03 16:29",
+      "user": "scud********",
+      "productName": "랜스타 HDMI Extender 광 거리연장기 리피터 최대 120M 4K (LS-HDMI-LAN-2120M)",
+      "question": "1080p 일 경우는 60Hz 지원하나요..?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n1080p 60hz 지원이 됩니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-LAN-2120M",
+      "id": 644064000,
+      "date": "2025-09-22 10:06",
+      "answerDate": "2025-09-22 10:33",
+      "user": "sksd***",
+      "productName": "랜스타 HDMI Extender 광 거리연장기 리피터 최대 120M 4K (LS-HDMI-LAN-2120M)",
+      "question": "Tx txt 한쌍인가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\ntx-rx 한쌍으로 판매하는 제품이 있고 rx만 판매하는 제품도 있습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HDMI-LAN-2120M",
+      "chatUrl": "EN7H",
+      "dateIso": "2026-01-05T04:54:04.191Z",
+      "name": "잉크베스트",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "제품이 잘못 왔습니다.",
+      "answer": "사진 보내주시면 담당자 확인 후 회신 드리겠습니다.",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "제품이 잘못 왔습니다."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요? 사진 보내주시면 담당자 확인 후 회신 드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "A/S 문의"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HDMI-LAN-150M",
+      "chatUrl": "GZN3",
+      "dateIso": "2023-11-03T03:03:12.363Z",
+      "name": "Hyokli",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "이런 상황이면 제품을 다 반품하고 싶어서요",
+      "answer": "고객님. 현재 내부적으로 전화상담을 중단하고 톡톡문의를 통해 상담을 지원해 드리고 있습니다. 톡톡으로 문제 증상 말씀해 주시면 기술 담당자에게 전달하여 신속히 답변드리도록 하겠습니다. 우선, 말씀 주신 내용으로 보아 송신부가 문제일 가능성이 있습니다. 송신부 1개만 교환을 진행하는 방법과, 송신부와 수신부 전부 회수 후에 불량 테스트를 진행하여 확인하는\n\n방문하시려는 사유가 어떻게 되실까요? 해당 내용에 따라 안내 도와드릴 수 있을 것으로 보입니다.\n\n네 고객님, 용산에 영업소가 있습니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "이런 상황이면 제품을 다 반품하고 싶어서요"
+        },
+        {
+          "role": "agent",
+          "text": "방문하시려는 사유가 어떻게 되실까요?\n해당 내용에 따라 안내 도와드릴 수 있을 것으로 보입니다."
+        },
+        {
+          "role": "customer",
+          "text": "오후에 찾아가도 될까요"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 용산에 영업소가 있습니다."
+        },
+        {
+          "role": "customer",
+          "text": "회사가 용산에 있나요"
+        },
+        {
+          "role": "agent",
+          "text": "고객님. 현재 내부적으로 전화상담을 중단하고 톡톡문의를 통해 상담을 지원해 드리고 있습니다. 톡톡으로 문제 증상 말씀해 주시면 기술 담당자에게 전달하여 신속히 답변드리도록 하겠습니다.\n\n우선, 말씀 주신 내용으로 보아 송신부가 문제일 가능성이 있습니다. 송신부 1개만 교환을 진행하는 방법과, 송신부와 수신부 전부 회수 후에 불량 테스트를 진행하여 확인하는"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HDMI-LAN-150M",
+      "chatUrl": "1OfEy",
+      "dateIso": "2023-10-05T07:47:57.778Z",
+      "name": "hdg0670",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "100m도 신호가 가지않습니다",
+      "answer": "주문하신 LS-HDMI-LAN-150M 제품 2개 모두 리시버만 수령하신 상태이실까요?\n\n네 고객님. 말씀 주신 cat.5 100m 케이블은 랜스타에서 구매하신 걸까요?",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "반품 했습니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님. 말씀 주신 cat.5 100m 케이블은 랜스타에서 구매하신 걸까요?"
+        },
+        {
+          "role": "customer",
+          "text": "1개 제품만 그렇습니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\n주문하신 LS-HDMI-LAN-150M 제품 2개 모두 리시버만 수령하신 상태이실까요?"
+        },
+        {
+          "role": "customer",
+          "text": "리시버만 왔습니다"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        },
+        {
+          "role": "customer",
+          "text": "케이블 cat5 입니다"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "100m도 신호가 가지않습니다"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-HDMI-LAN-120MN(RX)": "LAN Star®\nNEW HDMI 장거리 리피터 SET\nHDMI 신호를 120M까지 지원(최대 240M)\n[LS-HDMI-LAN-120MN\nLANStar\nL-HOM-LAN-120MIN\nHDMI Over Ethernet\nLS-HOP\nHDMI Over\nReceiver\nTransmitter\nUTP IN\nDTP OUT\nHDMI 장거리 리피터 120M는?\nHDMI 신호를 원거리로 전송할 때 사용하는 기기로 송신부(TX)와 수신부(RX) 사이를\n랜케이블로 연결하여 120M(최대 240M)까지 전송할 수 있는 장치입니다.\nHDMI 장거리 리피터 120M 연결도\n1:1 연결(연장)\nTV\nPC\nHDMI 케이블 (입력)\nHDMI 케이블(출력)\nLANGI'\nLAN tar\nDVD 플레이어\nHDMI Over Ethernet\nHDMI Over Ethernet\n모니터\nTransmitter\nReceiver\nTX\nRX\nSTB\nCAT.5E/6 랜케이블\n프로젝터\n※ CAT.6 이상이어야 120미터 지원가능\nCAT.5E는 100미터까지만 지원\nPS3\nDS-PAD\n1:N 연결\nAK\nRX\n최대 240미터 지원!\n(단, 스위치 허브 연결 필요)\nPC\nHDMI 케이블(입력)\nHDMI 케이블(출력)\nRX\nDVD 플레이어\nLANG\n120M\nOK\n스위치허브\nTransmitte\nSTB\nTX\nRX\n4K\nCAT.5E/6 랜케이블 120M\n※ CAT.6 이상이어야 120미터 지원가능\nCAT.5E는 100미터까지만 지원\nRX\nPS3\n3D\nFULL HD\n1080P Full HD 3D 지원\nHDMI 리피터를 HDTV나 프로젝터에 연결하여\n1080P Full HD 해상도의 고화질 영상을 감상할 수 있습니다.\nFull HD\nFull HD 1920x1080\n| 1080p\n\n\nHDMI 리피터를 HDTV나 프로젝터에 연결하여\n1080P Full HD 해상도의 고화질 영상을 감상할 수 있습니다.\nFull HD\nFull HD 1920x1080\n1080p\nHD 1280x720\nSD 720x480\nHDMI 장거리 리피터 120M 실제 연결\nHDMI 리피터 200M 연결(스위치 허브)\n연결구성 : HDMI 리피터 TX + CAT.5E UTP 케이블 100M + 스위치 허브\n+ CAT.5E UTP 케이블 100M + HDMI 리피터 RX\n이때의\nW\nHDMI 리피터 120M 연결(커플러)\n연결구성 : HDMI 리피터 TX + CAT.6 UTP 케이블 100M + 커플러\n+ CAT.6 UTP 케이블 20M + HDMI 리피터 RX\n커플러\n8\nHDMI 리피터 240M 연결(커플러 스위치허브)\n연결구성 : HDMI 리피터 TX + CAT.6 UTP 케이블 100M + 커플러\n+ 커플러 + CAT.6 UTP 케이블 20M + 스위치 허브\n+ CAT.6 UTP 케이블 100M + 커플러 + CAT.6 UTP 케이블 20M\n+ HDMI 리피터 RX\n998\n\n\nLANStar\nLO-HOMI-LAN-120MN\nHDMI Over Ethernet\nTransmitter\nUTP OUT\nIR-RX\nDC/BV\nTRANSMITTER 단자\nHDMI Over Ethernet\nJOJO JOAO INOH\nTransmitter\nODC/5V\nIR-TX\nReset\nHDMI IN\nUTP OUT\nIR 연결\nUTP 랜 출력\n전원 어댑터(5V/1A)\nHDMI 입력\nRECEIVER 단자\nJOJOJO INOH\nHDMI Over Ethernet\nOSNO\nIR-RX\nDC/5V\nReset\nHDMI OUT\nUTP IN\nIR 연결\nUTP 랜 입력\n전원 어댑터(5V/1A)\nHDMI 출력\nHDCP™\nHIGH-BANDWIDTH DIGITAL CONTENT PROTECTION\nHDCP(High-bandwidth Digital Content Protection)는 고대역 디지털\n콘텐츠 보호로 쉽게 말해 영상 저작권 보호 기술입니다.\n영상 재생 기기로부터 디스플레이 장치 등의 표시 기기에 디지털 신호를\n송수신 하는 경로를 암호화하여 콘텐츠가 부정하게 복사되는 것을 방지합니다.\n((HDCP))\n9999\nLANStar\nLB-HOME-LAN-120MN\nHDMI Over Ethernet\nLS-HOME\nReceiver\nHDMI Over\nUTP IN\nTransmitter\nUTPOUT\n병원, 은행, 영상 디스플레이 매장,\n스크린 골프장, 지하철역 등 높은 활용도\n88077\n병원 광고 DID 은행창구\nULTRA\nTV 저시장 박히자 ㅅㅋ리 고ㅍ자\n\n\n인공관절수술\n[병원 광고 DID 은행창구\nLILTRA\nTV 전시장, 박람회장 스크린 골프장\n4K\n고정 꺽쇠로 벽에 고정 가능\nTX, RX 모두 고정꺽쇠를 부착할 수 있습니다.\nLAN tar\nLP-HDA-LAY-DOWN\nLANStar\nHDMI Over Ethernet\nLS-HOME-EXT-120MN\nHDMI Over Ethernet\nReceiver\nReceiver\nPRODUCT SIZE\n79mm\nLANStar\nLS-HDMI-LAN-120MIN\n92mm\nHDMI Over Ethernet\nReceiver\n28mm\nUTP IN\nPRODUCT PACKAGE\nLAN\nHOMI Over Ethernet\nReceiver\nD\nHDMI 리피터 RX (수신기)\n고정용 꺽쇠 나사 (2세트)\nIR 케이블\n(TX, RX 구분없음)\n전원어댑터 5V2A (2개)\nKC인증 HU10841-15001B\nLANK\nHDMI MATRIX EXTENDER\nUser Manual\nHONami\n한글매뉴얼\nPRODUCT SPECIFICATION\nHDMI 1.3\nHDMI 버전\nHDCP 버전\nHDCP 1.2\nHDMI 지원 해상도\n1080p/1080i/720p/576p/576i/480p/480i\nIR 리모컨\n38kHz;NEC\n지원 오디오 포맷\nLPCM2.0, 32kHz, 44.1kHz, 48kHz\n입출력 케이블 거리\n연결 방식\n최대 120M (최대 240M)\n1:1, 1:n(스위치, 라우터 지원), Cascade, EDID 지원\nPlug and Play 자동접속, 별도의 S/W 설치 불필요\n10~80% RH (응축 현상이 발생하지 않음)\n자동 연결\n작동 습도\n작동 온도\n0~70°C(5~131F)\n입력 AC(50Hz,60Hz) 100~240V\n전원 어댑터\n전원 규격\n출력 DC 5V/2A\n크기/무게\n92x79x28mm/240g x 2\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nR\nROHS K FC CE\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nDHS/D\n하는ull ㅂ 바ㅍ 차 ㅌ 저이처므지 ILO 대하\n\n\nROHS & FC CEKFCFCCES\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를\n인증마크로 사용합니다.\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\nK\n인증번호 MSIP-REI-LUS-LS-HDMI-120M\nLANStar®\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nNEW HDMI 장거리 리피터 SET\nLAN Star\nⓇ\n모\n델\n명\nLS-HDMI-LAN-120MN(RX)\n인증번호\nMSIP-REI-LUS-LS-HDMI-120M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\nwww.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-HDMI-LAN-150M": "LANG\ntar\nHDMI LAN EXTENDER\nCAT.5E,6 / 최대 150M 전송 / TX, RX 1SET\nLS-HDMI-LAN-150M\nH.264\nP Extender\nTransmitter\nReceiver\nHAMI H.264\n150M IP Extender\nㅁ\nEthernet\nD\nEthernet\nHDMI OUT\n1920x1080\n최대 150M 거리 확장\nCAT.5E / CAT.6\nFull HD 해상도 지원\n최대 1080P Full HD\n해상도를 지원합니다.\n송신기(TX)의 신호를 수신기(RX)\n로 최대 150M까지 전달합니다.\nCAT.5E/6 랜케이블을 통해\nHDMI 신호를 전달합니다.\nHDMI 1.3\nHDCP\nPLUG & PLAY\nHDMI 1.3 표준 규격을\n지원합니다. (하위버전 호환)\n콘텐츠 보호기술인 HDCP를\n지원하여 HDCP를 지원하지\n않는 기기에서는 사용할 수\n없습니다.\n별도의 설치 과정 없이\n연결하면 바로 사용이\n가능합니다.\nLS-HDMI-LAN-150M\nHDMI LAN 거리확장기\nHDMI 입력 신호를 받아 CAT.5E/6 랜케이블을 통해 최대 150M까지\n신호를 전송해주는 거리확장기입니다.\n\n\n1080P Full HD 해상도 지원\n1920x1080\n거리 확장기 제품을 통해 나타낼 수 있는 최대 해상도는 1080P Full HD입니다.\n다양한 연결방식\n1:1 / 1:N\n1:1 연결뿐만 아니라 스위칭허브와 수신기를 통해 1:N 방식의 연결도 가능합니다.\n1:1 Mode\n한대의 TX/RX를 이용하여 연결하는 가장 기본적인 1:1 연결 방식입니다.\nHami H264\n150M IP Extender\nTransmittet\nHDMI 케이블\nIR-TX\nHDMI 입력소스\nCAT.5E/6\nUTP,STP 랜케이블\n(최대 150M)\nHami24\n150M IP Extender\nReceive\nHDMI 케이블\nL\nEemet\nMababaw\nIR-RX\nHDMI 출력 디스플레이\n1:N Mode\n한대의 TX 여러대의 RX, 스위칭 허브를 이용하여 연결하는 1:N 연결 방식입니다.\nHami H264\n150M IP Extende\nHDMI 케이블\nL\nC\nHDMI 입력소스\nIR-TX\n\n\nHAMIH.264\n150M IP Extender\nTransmitte\nHDMI 케이블\nANDERE\nB\n이더\nHOME OUT Eemet\nHDMI 입력소스\nIR-TX\nCAT.5E/6 UTP,STP 랜케이블\nRX\nRX\nnghurces SAVIGAS\n\\..\\\nSICH HUICH\nOCH CH\n..]\nfol\nfl\n20\nNOVOL\n2012\n20\nN료리스트\nIR-RX\nIR-RX\nIR-RX\nHDMI 출력 디스플레이\nHDMI 출력 디스플레이\nHDMI 출력 디스플레이\nUTP / STP 랜케이블 연결시 주의사항!!\n※ 최대 연장 거리는 이론상 가능한 수치로 사용 환경에 따라 최대 연장 거리가 짧아질 수 있습니다.\n※ 최대 연장 거리는 국산 UTP, STP 랜케이블 기준이며, 일부 중국산 랜케이블의 품질에 따라\n지원되는 길이가 짧아지거나 화면 출력이 지원되지 않을 수 있습니다.\nHDCP\nHigh-Bandwidth Content Proection\n영상 저작권보호 기술의 하나로 HDCP는 영상 재생 기기로부터\n디스플레이 장치 등의 표시기기에 디지털 신호를 송수신하는 경로를 암호화하여\n컨텐츠가 부정하게 복사되는 것을 방지하는 기술입니다.\nH\nHDCP™\nHIGH-BANDWIDTH DIGITAL CONTENT PROTECTION\nPRODUCT DETAIL\n송신기(Transmitter)\nH:264\nHDM\nHIGH-DEFINITION MULTIMEDIA INTERFACE\n150M IP Extender\nitter\n\n\n• (Transmitter)\nHDMI\nH.264\nHIGH-DEFINITION MULTIMED\n150M IP Extender\nsmitter\nB\nRO\nEthernet\nHDMI OUT\nCAT5E/6\nEthernet Port\nHDMI LOOP OUT\n(모니터링 출력)\nensuell\nCapa CEPOS\nрочн шан\nIR-TX\nHDMI IN\nDC/5V\nReset\nIR-TX\n리셋버튼\nHDMI 소스 입력\nDC 5V/1A\n전원아답터\n수신기(Receiver)\nHDMI\nH.264\nHIGH-DEFINITION MULTIMEDIA INTERFACE\n150M IP Extender\nReceiver\nD\nEthernet\nCAT5E/6\nEthernet Port\nCR\nCapa CE COS\nBORGERLIG FROM MO\nточн тан\nIR-RX\nHDMI OUT\nDC/5V\nReset\nIR-RX\nHDMI 출력\n리셋 버튼\nDC 5V/1A\n전원아답터\nPRODUCT COMPONENT\n\n\nPRODUCT COMPONENT\n무게: 약 163g\nHDMI H.264\n150M IP Extender\nTransmitter\n22,5mm\n1.\nD\n93mm\nEthernet\nHDMI OUT\n72,5mm\n※ 송신기, 수신기의 크기와 무게는 동일합니다.\nH.264\nP Extender\nTransmitter\nReceiver\nHOME H.264\n150M IP Extender\nEthernet\nEthernet\nHDMI OUT\nTX RX 1SET\nLAN tar\nHDMI LAN EXTENDER\n& Ⓡ\nUser Manual\nLSHOMHLAN-150M\nIR-TX\n125)\n&\n5V 1A 아답터 2ea\nIR-RX\nUSER MANUAL\n아답터 인증번호:\nHU101081-20002A\nPRODUCT PACKAGE\nHDMI®\nHIGH-DEFINITION MULTIMEDIA INTERFACE\n150M IP Extender\n1080P\nSOU\nHDMI H.264\n150M IP Extender\nStat\nTransmitter\nBand\nReceiver\nA\nEtemet\nEthemet\nSPECIFICATION\n\n\nSPECIFICATION\nINPUT\nHDMI, RJ45, IR\nOUTPUT\nHDMI, RJ45, IR, Loop Out\n최대 전송거리\n150m\n해상도\n480p, 720p, 1080p\nIR 주파수 범위\n38KHZ:NEC\nAUDIO\nSample Rate:32kHz, 44.1kHz, 48kHz code\n전원\nDC 5V/1A 2ea\n작동 온도\nO°C -45°C\n습도\n10% - 80%\n무게\n송신기 : 약 163g / 수신기 : 약 163g\n재질\nMetal\nK\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\n인증번호 : MSIP-REI-LUS-LS-HDMI-120M\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상품 정보\n품\n명\nHDMI 랜 거리연장기, 150M\n모\n델\n명\nLS-HDMI-LAN-150M\nLAN Star\nKC 인증 번 호\nMSIP-REI-LUS-LS-HDMI-120M\n제조국/원산지\n중국 (China)\n제조사 / 수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "LS-HDMI-LAN-150MRX": "LANG\ntar\nHDMI LAN EXTENDER\nCAT.5E,6 / 최대 150M 전송 / RX(Receiver)\nLS-HDMI-LAN-150MRX\nHPMI H.264\n150M IP Extender\nReceiver\nB\nEthernet\n1920x1080\n최대 150M 거리 확장\nCAT.5E / CAT.6\nFull HD 해상도 지원\n최대 1080P Full HD\n해상도를 지원합니다.\n송신기(TX)의 신호를 수신기(RX)\n로 최대 150M까지 전달합니다.\nCAT.5E/6 랜케이블을 통해\nHDMI 신호를 전달합니다.\nHDMI 1.3\nHDCP\nPLUG & PLAY\nHDMI 1.3 표준 규격을\n지원합니다. (하위버전 호환)\n콘텐츠 보호기술인 HDCP를\n지원하여 HDCP를 지원하지\n않는 기기에서는 사용할 수\n없습니다.\n별도의 설치 과정 없이\n연결하면 바로 사용이\n가능합니다.\nLS-HDMI-LAN-150MRX\nHDMI LAN 거리확장 수신기(리시버 단독 제품)\n스위치허브를 이용하여 수신기 여러개를 통해 1:N 방식으로 연결할 수 있는\n거리확장기 리시버 단독 제품입니다.\n이 제품은 송신기(Transmitter)가 포함되어있지 않은 제품입니다.\n송/수신기 세트는 랜마트에서 상품번호 \"30587\"를 검색하여 구매하시기 바랍니다.\n19490ad\nJapuaxlWOSL\nBON BERG\n192H CH\nIR-RX\nHDMI OUT\nDC/5V\nReset\n\n\nIR-RX\nHDMI OUT\nDC/5V\nD\nReset\n1080P Full HD 해상도 지원\n1920x1080\n거리 확장기 제품을 통해 나타낼 수 있는 최대 해상도는 1080P Full HD입니다.\n다양한 연결방식\n1:1 / 1:N\n1:1 연결뿐만 아니라 스위칭허브와 수신기를 통해 1:N 방식의 연결도 가능합니다.\n1:1 Mode\n한대의 TX/RX를 이용하여 연결하는 가장 기본적인 1:1 연결 방식입니다.\nHamı 24\n150M IP Extender\nTransmitt\nent\nHDMI 케이블\n363030\nIR-TX\nHDMI 입력소스\nCAT.5E/6\nUTP,STP 랜케이블\n(최대 150M)\nHami\n150M IP Extender\nReceiver\nHDMI 케이블\nEleme\n30005-03\nIR-RX\nHDMI 출력 디스플레이\n1:N Mode\n한대의 TX 여러대의 RX, 스위칭 허브를 이용하여 연결하는 1:N 연결 방식입니다.\nHami24\n150M IP Extender\nHDMI 케이블\n\n\n안내의 시어머네의 W, STIO\n관심이다\nㄹㄹ ㅇㄱㅂ거나,\nHami H264\n150M IP Extender\nHDMI 케이블\nNEVRE\nHOME OUT Pemet\nHDMI 입력소스\nIR-TX\nCAT.5E/6 UTP,STP 랜케이블\nRX\nRX\npe\nper\nOCH UP\n10..11\nSICH ULICA\nOCH CH\n1-1\nSO\nNE121\nO\nNEX2\n드&스트\nIR-RX\nIR-RX\nIR-RX\nHDMI 출력 디스플레이\nHDMI 출력 디스플레이\nHDMI 출력 디스플레이\nUTP / STP 랜케이블 연결시 주의사항!!\n※ 최대 연장 거리는 이론상 가능한 수치로 사용 환경에 따라 최대 연장 거리가 짧아질 수 있습니다.\n※ 최대 연장 거리는 국산 UTP, STP 랜케이블 기준이며, 일부 중국산 랜케이블의 품질에 따라\n지원되는 길이가 짧아지거나 화면 출력이 지원되지 않을 수 있습니다.\nHDCP\nHigh-Bandwidth Content Proection\n영상 저작권보호 기술의 하나로 HDCP는 영상 재생 기기로부터\n디스플레이 장치 등의 표시기기에 디지털 신호를 송수신하는 경로를 암호화하여\n컨텐츠가 부정하게 복사되는 것을 방지하는 기술입니다.\nH\nTM\nHDCP\nHIGH-BANDWIDTH DIGITAL CONTENT PROTECTION\nPRODUCT DETAIL\n수신기(Receiver)\n\n\n수신기(Receiver)\nH.264\nHOM\nHIGH-DEFINITION MULTIMEDIA INTERNE\n150M IP Extender\nReceiver\nD\nEthernet\nCAT5E/6\nEthernet Port\nR\nCopa A FOS\nрочн шан\nIR-RX\nHDMI OUT\nDC/5V\nReset\nIR-RX\n리셋 버튼\nHDMI 출력\nDC 5V/1A\n전원아답터\n무게: 약 163g\nC\napa B COS\n1924\n22,5mm\nIR-RX\nHDMI OUT\nDC/5V\nReset\n93mm\n72,5mm\nPRODUCT COMPONENT\nHDMI H.264\n150M IP Extender\n\\\\ -\nReceiver\nEthernet\n거리확장기 수신기(Receiver)\nLAN tar\nHDMI LAN EXTENDER\nUser Manual\nLSHOMHAN-150MA\n\n\n거리확장기 수신기(Receiver)\nLAN tar\nHDMI LAN EXTENDER\nUser Manual\nLSHOMHLAN-150MA\n한일시스트\n5V 1A 아답터 1ea\nIR-RX\nUSER MANUAL\n아답터 인증번호:\nHU101081-20002A\nPRODUCT PACKAGE\nⓇ\nHDMI\ns high\nHIGH-DEFINITION MULTIMEDIA INTERFACE\n150M IP Extender\n1080P\nHOOL H.264\n150M IP Extender\nReceiver\nThe branderagtigyal\n10\nEhemet\nTheo c\nSPECIFICATION\nOUTPUT\nHDMI, RJ45, IR\n최대 전송거리\n150m\n해상도\n480p, 720p, 1080p\nIR 주파수 범위\n38KHz:NEC\nAUDIO\nSample Rate: 32kHz, 44.1kHz, 48kHz code\n전원\nDC 5V/1A\n작동 온도\n0℃~45℃\n습도\n10% -80%\n무게\n약 163g\n재질\nMetal\nK\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\n인증번호 : MSIP-REI-LUS-LS-HDMI-120M\nM 현대해상화재보험H\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nLANSStar\n제조사의 사정에 따라 제품의 색상 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n\n\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nLANG\nStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nHDMI 랜 거리연장기 수신기\n모\n델\n명\nLS-HDMI-LAN-150MRX\nLANStar\nKC 인증 번 호\nMSIP-REI-LUS-LS-HDMI-120M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-HDMI-LAN-2120M": "LAN Star\n4<\nULTRAHD\nHDMI\n4K@30Hz HDMI Extender\nCascade Connection\nLS-HDMI-LAN-2120M\nHDMI\n4K 120M HDMI Extender\ncascade connection\nTransmitter\nReceiver\nIR-TX\nCAT5E/6 IN\nHDMI IN\n4K@30Hz UHD\nCAT.5E/CAT.6\n랜케이블 연결\n현실감 넘치는\n3D 영상 지원\n3840x2160 지원\nHDMI 영상/음성 신호를\n최대 4K@ 30Hz 3840 x 2160\n현실감, 생동감 넘치는\n최대 90M까지 연결합니다.\n해상도를 지원합니다.\n3D 영상 플레이를 지원합니다.\nCASCADE,\nMulti-RX 지원\n원격제어를 위한\nIR 적외선 센서\nHDCP 2.2\n완벽 지원\n하나의 디스플레이 신호를\n영상물에 관한 저작권 보호기술\n다수의 디스플레이 장치로\n원거리의 Display 장치에서\n리모콘 사용이 가능한\nIR 적외선 센서를 지원합니다.\n연결할 수 있는 Multi-RX\nHDCP 2.2을 지원하여 콘텐츠가\n부정하게 복제되는것을\n방지합니다.\n방식을 지원합니다.\nHDMI Extender\nHDMI 영상, 음성 신호를 최대 90M까지 전송\nHDMI의 영상,음성신호를 CAT.5E/CAT.6 / CAT.7 랜케이블을 이용하여\n최대 90M까지 전송할 수 있는 HDMI 리피터 제품입니다.\nConsole\nTONIN\n2:88:88\nHDMI Input\nSet top\n\n\nConsole\nTONIX\n88:88\nHDMI Input\nSet top\nTOSHIBA\nHD DVD\nHD DVD\nTransmitt\ncascade connection\n4K \n120M HDMI \nExtender\nHDMI\nHDMI 입력장치\nSw-signal\nhdmi 45\nCAT5E/6 OUT HDMI OUT\nDC/5V\n90M\n< 랜케이블 종류별 최대 전송 거리>\n1.50M: CAT5E/CAT.6\n2. 90M: CAT.7\ncascade connection\n4K 120M \nHDMI \nExtender\nIWCH\nHDMI 출력\nDisplay\nCATSEB OUT HOMI OUT\n///\nHDMI Output\nTV\nEPSON\nBeam Projector\n4K@30Hz\n3840 x 2160\n\n\n3840 x 2160\n1280 x 720\n1920 x 1080\n4K\nMOT\nSAMSUNG\ndts HD\nDO DOLBY\nHD D\nTRUEHD\nBlu-ray Disc C\nMaster Audio\n거리 연장의 예시\n1:1/ Multi-Receiver Cascade\nLS-HDMI-LAN-2120MRX는 1:1 연결, Cascade 방식을 이용한\n다수의 Display 장치와의 연결이 가능합니다.\nPoint to Point (1:14)\nTX\nRX\nHDMI Input\nCAT5E/CAT.6/CAT,7\nHDMI Output\nMax 90M\nMulti-Receiver Cascade\n(1:N 연결)\nTX\nRX\nHDMI Input\nCAT5E/CAT6/CAT 7\nHDMI Output\nMax 90M\nRX\nRX\ně\nRX\nRX\n....\n\n\n3D 입체영상 지원\n주요 HDMI 기기들의 3D 비디오 포맷과 해상도의 통일된 규격을 지원해\n진정한 3D 영상, 게임에 적용하여 더욱 생생하고 역동적인 화면을\n즐길 수 있습니다.\nrantibit\nH007XX 37\n제품 상세\n• 송신기 (Transmitter / TX)\nHDMI\n4K 120M HDMI Extender\ncascade connection\nTransmitter\nIR TX\nㅗㅗ\n적외선 송신\n안테나 연결\nCAT.5E/6 IN\n벽면고정\n| CAT.5E/CAT.6 / CAT.7\n랜케이블 연결포트\n벽면고정용\n마운트 홀\nHDMI IN\nHDMI 입력소스\n기기에 연결\nL\nWOUL 05E0\nIWON WOT\n\n\nHDMI 입력소스\n기기에 연결\nJanusUBIL\nwas ap\n크 IWON WOL\nTOEILNIINNOLLINISTO HDIN\nIWCH\nSw-signal\nDC15V\nhdmi rj45\nCAT5E/6 OUT\nDC/5V\n///\nHDMI OUT\n전원입력\nSw-signal\nHDMI/RJ45\n전송신호 선택\nCAT.5E/6/7 OUT\n최대 90M 연결\nHDMI OUT\nHDMI 출력소스\nSw-signal 버튼의 역할?\n신호를 보내는 Transmitter(TX)와\n신호를 받는 Receiver(RX)의 신호를 선택해주는\n스위치입니다.\nTransmitter의 신호는 \"HDMI로 맞추고\nReceiver의신호는 “RJ45\"로 맞춰야 합니다.\n● 수신기 (Receiver / RX)\nㅁ\n4K 120M HDMI Extender\ncascade connection\nReceiver\nIR RX\nㅗㅜ\n적외선 수신\n안테나 연결\nHDMI\nCAT.5E/6/7 IN\n벽면고정\n최대 90M 연결\n벽면고정용\n마운트 홀\nHDMI IN\nHDMI 입력소스\n기기에 연결\n181838y\nWondaiOS Apeaseo\napIWON WOUL NE\nJOYINFINITIONIAWINNOLLININFO HOIN\nIWCH\nSw-signal\nDC15V\nhdmi rj45\nCAT5E/6 OUT\nDC/5V\n전원입력\nHDMI OUT\n///\nSw-signal\nHDMI/RJ45\n전송신호 선택\nCAT.5E/6/7 OUT\nCAT.5E/CAT.6/CAT.7\nHDMI OUT\n랜케이블 연결 포트\nHDMI 출력소스\n\n\nHUMI WARS\nHDCP 2.2\nHigh-Bandwidth Digital Content Protection\n영상 저작권 보호기술의하나로 HDCP는 영상 재생기기로부터 디스플레이\n장치 등의 표시 기기에 디지털 신호를 송수신하는 경로를 암호화하여\n콘텐츠가 부정하게 복사되는 것을 방지하는 기술입니다.\na\n사용처\n가정, 회사와 같이 근거리에서부터 옥외광고, 지하철 역사, 영화관과 같이\n장거리에서도 사용이 가능합니다.\n30\n가정\n페로즈\nMARRIOTT\nMARQUIS\nRO\nRE\nLTHUS?\n옥외 광고\n\n\nOFFEED-MIT\nARE\nYOU\n옥외 광고\nful\nCAL-WUSTY\nFOR WO\n700\n쇼핑 센터\n6 аларнин\n2002\n은행\n회의\nPRODUCT SIZE\nC\nwas se\nлориа х3 Iwah wOZL XV\n24mm\nSw-signal\n94mm\nCAT5E/6 OUT HDMI OUT\nDC/5V\n84mm\nPRODUCT COMPONENT\nHDMI\nHDMI 리피터\n송수신기 SET\n4K 120M HDMI Extender\ncascade connection\nTransmitter\nReceiver\n고정용 꺽쇠(2EA)\n나사(4EA)\nIR-RX\nIR-TX\nLS-HOW-LA-w\nLAN tar\n\n\nIR-RX\nIR-TX\nLANG\ntar\nMulti-RX, CASCADE\nUser Manual\nHOMI 리피터 거리연장기\n라인업시스템(주)\nDC5VIA\n전원아답터(X2)\n홈페이지\n매뉴얼\n아답터 인증번호\nHU10999-18001A\nPRODUCT PACKAGE\n①\nHDMI\nHIGH-DEFINITION MULTIMEDIA INTERFACE\nחור\nonnect\nReceiver\nTransmitter\nHDMI\n120M HOWction\n4K\ntender\n120M Extendade co\n4K 120M HDMI Extender\ncascade \nconnection\nSPECFICATIONS\nHDMI 입력\n4K/1080P/720P/576P/576i/480P/480i\nHDMI 출력\n4K/1080P/720P/576P/576i/480P/480i\n지원 오디오 형식\nDTS/Dolby/LPCM\n최대 대역폭\n340MHz\n입력 비디오 신호\n0.5~1.5Volts p-p\n출력 DDC 신호\n5Volts p-p (TTL)\nTX 최대 작동 전류\n350mA\nRX 최대 작동 전류\n200mA\n전원\nDC 5V 1A\n중량\n223g\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nROHS\nKFCCES\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를\n인증마크로 사용합니다.\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\nK\n인증번호 MSIP-REI-LUS-LS-HDMI-120M\nLANG\nStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\nTH\nIDULTII (6 & umLOFT)\n\n\nLANSStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nHDMI 리피터 거리연장기 (송수신기 SET)\nLANStar\n모델명\nLS-HDMI-LAN-2120M\n인증번호\nMSIP-REI-LUS-LS-HDMI-120M\n아답터 인증번호\nHU10999-18001A\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-HDMI-LAN-2120MRX": "LAN Star\n4<\nULTRAHD\nHDMI\n4K@30Hz HDMI Extender\nCascade Connection\nLS-HDMI-LAN-2120MRX\nHDMI\n4K 120M HDMI Extender\ncascade connection\nReceiver\n11\nCATSES IN\nO\nHDMI IN\nCategory별\n랜케이블 연결\n4K@30Hz UHD\n3840x2160 지원\n현실감 넘치는\n3D 영상 지원\nHDMI 영상/음성 신호를\n현실감, 생동감 넘치는\n최대 4K@30Hz 3840x2160\n해상도를 지원합니다.\n최대 90M까지 연결합니다.\n3D 영상 플레이를 지원합니다.\nCASCADE,\nMulti-RX 지원\n원격제어를 위한\nIR 적외선 센서\nHDCP 2.2\n완벽 지원\n하나의 디스플레이 신호를\n다수의 디스플레이 장치로\n원거리의 Display 장치에서\n리모콘 사용이 가능한\nIR 적외선 센서를 지원합니다.\n영상물에 관한 저작권 보호기술\nHDCP 2.2을 지원하여 콘텐츠가\n부정하게 복제되는것을\n연결할 수 있는 Multi-RX\n방식을 지원합니다.\n방지합니다.\nHDMI Extender\nHDMI 영상, 음성 신호를 최대 90M까지 전송\nHDMI의 영상,음성신호를 CAT.5E/CAT.6 / CAT.7 랜케이블을 이용하여\n최대 90M까지 전송할 수 있는 HDMI 리피터 제품입니다.\nConsole\nTONIN\n2:88:88\nHDMI Input\nSet top\n\n\nConsole\nTONIX\n88:88\nHDMI Input\nSet top\nTOSHIBA\nHD DVD\nHD DVD\nTHwsueBIL\nContacts asses\nлариэхэ \nМОН WOZI \nXV\nUCH\nHDMI 입력장치\nSw-signal\nhdmi 45\nCAT5E/6 OUT HDMI OUT\nDC/5V\n90M\n< 랜케이블 종류별 최대 전송 거리>\n1.50M: CAT5E/CAT.6\n2. 90M: CAT.7\nJopuorxF ІWан шог УР\nan apaO\nIWCH\nHDMI 출력\nDisplay\nCATSES OUT HDMI OUT\n///\nHDMI Output\nTV\nEPSON\nBeam Projector\n4K@30Hz\n3856 x 2160\n\n\n3856 x 2160\n1280 x 720\n1920 x 1080\n4K\nBUT\nSAMSUNG\ndts HD\nDO DOLBY\nHD D\nTRUEHD\nBlu-ray Disc C\nMaster Audio\n거리 연장의 예시\n1:1/ Multi-Receiver Cascade\nLS-HDMI-LAN-2120MRX는 1:1 연결, Cascade 방식을 이용한\n다수의 Display 장치와의 연결이 가능합니다.\nPoint to Point (1:14)\nTX\nRX\nHDMI Input\nCAT5E/CAT.6/CAT.7\nHDMI Output\nMax 90M\nMulti-Receiver Cascade\n(1:N 연결)\nTX\nRX\nHDMI Input\nCAT5E/CAT6/CAT 7\nHDMI Output\nMax 90M\nRX\nRX\ně\nRX\nRX\n....\n\n\n3D 입체영상 지원\n주요 HDMI 기기들의 3D 비디오 포맷과 해상도의 통일된 규격을 지원해\n진정한 3D 영상, 게임에 적용하여 더욱 생생하고 역동적인 화면을\n즐길 수 있습니다.\nartnestinit\nH007XX 37\n제품 상세\n● 수신기 (Receiver / RX)\nADMI\n4K 120M HDMI Extender\ncascade connection\nReceiver\nIR RX\nㅗㅜ\n적외선 수신\n안테나 연결\nCAT.5E/6/7 IN\n최대 90M 연결\nHDMI IN\nHDMI 입력소스\n기기에 연결\n\n\nCAT.5E/6/7 IN\n최대 90M 연결\nHDMI IN\nHDMI 입력소스\n기기에 연결\nSw-signal 버튼의 역할?\n신호를 보내는 Transmitter(TX)와\n신호를 받는 Receiver(RX)의 신호를 선택해주는\n스위치입니다.\nTransmitter의 신호는 \"HDMI로 맞추고\nReceiver의신호는 \"RJ45\"로 맞춰야 합니다.\n101038y\nwas appose\nWOWOTL HD\nJOINFINIFIELTONNELLINESEN\nIWCH\nSw-signal\nDC/5V\nhdmi rj45\nCAT5E/6 OUT\nDC/5V\n전원입력\nHDMI OUT\nSw-signal\nHDMI / RJ45\n전송신호 선택\nCAT.5E/6OUT\nCAT.5E/CAT.6/CAT,7\nHDMI OUT\n랜케이블 연결 포트\nHDMI 출력소스\nHDCP 2.2\nHigh-Bandwidth Digital Content Protection\n영상저작권 보호기술의하나로 HDCP는 영상 재생기기로부터 디스플레이\n장치 등의 표시 기기에 디지털 신호를 송수신하는 경로를 암호화하여\n콘텐츠가 부정하게 복사되는 것을 방지하는 기술입니다.\nA\n사용처\n\n\n사용처\n가정, 회사와 같이 근거리에서부터 옥외광고, 지하철 역사, 영화관과 같이\n장거리에서도 사용이 가능합니다.\nJAR\n가정\n테크\"\nMARRIOTT\nMARQUIS\nLIVU\nARE\nYOU\n85\nALTHUS?\n옥외 광고\nful\n-||-\n1월\n쇼핑 센터\n6 라인창구\n2002\n22\n은행\n회의\nPRODUCT SIZE\n\n\nPRODUCT SIZE\nC\nwas app\nЛариа \nха IWOH \nMOZL XV\nIWCH\n24mm\nHDMI OUT\nSw-signal\n94mm\nCAT5E/6 OUT\nDC/5V\n84mm\nPRODUCT COMPONENT\nJopuorxy IWah wort УБ\nobat a\nIWCH\nCATSES OUT HOMI OUT\nHDMI 리피터\n수신기(RX)\nIR-RX\nSHER-LN-TH\nLAN tar\nDC5V1A\n전원아답터(X2)\nMulti-RX, CASCADE\nUser Manual\n아답터 인증번호\nHU10999-18001A\nHOMI 리피터 거리연장기\n라인업시스템(주)\nSAM\n홈페이지\n고정용 꺽쇠(2EA)\n나사(4EA)\n매뉴얼\nPRODUCT PACKAGE\nHDMI®\nHIGH-DEFINITION MULTIMEDIA INTERFACE\nmi\ntender\n11 EX\nHDMI\nK120M HDMI Extender\n4K 120M HDMI Extender\ncascade \nconnection\nSPECFICATIONS\nHDMI 입력\n4K/1080P/720P/576P/576i/480P/480i\nHDMI 출력\n4K/1080P/720P/576P/576i/480P/480i\n지원 오디오 형식\nDTS/Dolby/LPCM\n최대 대역폭\n340MHz\n입력 비디오 신호\n0.5-1.5Volts p-p\n출력 DDC 신호\n5Volts p-p (TTL)\nTX 최대 작동 전류\n350mA\nRX 최대 작동 전류\n200mA\n전원\nDC 5V 1A\n중량\n223g\n\n\n출력 DDC 신호\n5Volts p-p (TTL)\nTX 최대 작동 전류\n350mA\nRX 최대 작동 전류\n200mA\n전원\nDC 5V 1A\n중량\n223g\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nR\nROHS\nKFC CES\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를\n인증마크로 사용합니다.\nK\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\n인증번호 MSIP-REI-LUS-LS-HDMI-120M\nLANG\nStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nHDMI 리피터 거리연장기 수신기(RX)\nLANStar\n모\n델\n명\nLS-HDMI-LAN-2120MRX\n인증\n번 호\nMSIP-REI-LUS-LS-HDMI-120M\n인증번호\nHU10999-18001A\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "RJ45",
+        "IR"
+      ],
+      "output_signals": [
+        "HDMI",
+        "RJ45",
+        "IR"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": "HDCP1.4",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": true,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "입력(INPUT): HDMI, RJ45, IR",
+    "connectivity.output_signals": "출력(OUTPUT): HDMI, RJ45, IR",
+    "connectivity.directional": "IR 리모컨 신호 연장 지원",
+    "power.power_mode": "전원 어댑터 입력: AC 100~240V",
+    "power.charging_support": "전원 어댑터 출력: DC 5V / 2A",
+    "form_physical.has_case": "TX/RX 모두 고정 꺽쇠로 벽면 부착 가능",
+    "certification.kc": "KC·FCC·CE·RoHS 인증 취득",
+    "certification.rohs": "KC·FCC·CE·RoHS 인증 취득",
+    "certification.fcc": "KC·FCC·CE·RoHS 인증 취득",
+    "certification.ce": "KC·FCC·CE·RoHS 인증 취득",
+    "audio_video.max_resolution": "1080p Full HD 3D 영상 지원",
+    "audio_video.hdcp_version": "HDCP 1.2 지원으로 디지털 콘텐츠 저작권 보호",
+    "audio_video.audio_pass": "지원 오디오 포맷: LPCM 2.0",
+    "control_switching.has_remote": "IR 리모컨 신호 연장 지원",
+    "control_switching.has_auto_scan": "Plug and Play 자동 접속",
+    "family.cat_category": "CAT.6 랜케이블로 최대 120M까지 전송",
+    "family.shielding": "N/A",
+    "family.conductor": "N/A",
+    "family.flame_rating": "N/A",
+    "family.poe_support": "전원 어댑터 입력: AC 100~240V"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:16",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 3,
+    "category_breakdown": {
+      "usage": 2,
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

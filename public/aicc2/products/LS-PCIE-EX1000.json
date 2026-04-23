@@ -1,0 +1,121 @@
+{
+  "model_no": "LS-PCIE-EX1000",
+  "product_name": "PCI Express Gigabit Lan Card LS-PCIE-EX1000",
+  "category": [
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "10/100/1000Mbps 데이터속도 자동감지 기능 지원",
+    "Auto MDI / MDI-X 지원",
+    "Single-lane (x1) PCI-Express 규격 지원",
+    "Wake on LAN (WOL) 지원",
+    "Link/Act 및 Speed LED 내장",
+    "Marvel Host Controller 칩셋 탑재로 안정성과 호환성 보장",
+    "Windows 11 지원",
+    "KCC 인증 획득 제품 (인증번호: KCC-REM-LUS-LS-PCIE-EX1000)",
+    "RoHS 규격 준수"
+  ],
+  "specifications": {
+    "Bus Type": "PCI Express",
+    "Chipset": "Marvel",
+    "Number of Ports": "RJ45 x 1ea",
+    "Transfer Rate": "10/100/1000Mbps, Auto MDI/MDI-X",
+    "LED": "Link/Act, Speed 10/100/1000Mbps",
+    "Cable": "UTP CAT-5, STP CAT-5",
+    "OS Compatibility": "Windows 2000 / XP / 2003 / Vista / 7 / 8 / 10 / 11",
+    "인증": "KCC-REM-LUS-LS-PCIE-EX1000"
+  },
+  "compatibility": [
+    "PCI Express 1.0a 규격 슬롯",
+    "10/100/1000 IEEE802.3 표준규격",
+    "Windows 2000",
+    "Windows XP",
+    "Windows 2003",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8",
+    "Windows 10",
+    "Windows 11"
+  ],
+  "package_contents": [
+    "LAN 카드 본체 1개",
+    "설치 드라이버 CD 1개",
+    "사용설명서 1개",
+    "Slim PC 가이드 1개"
+  ],
+  "usage_instructions": "데스크탑 PC의 PCI Express 슬롯에 카드를 삽입한 후, 동봉된 드라이버 CD로 드라이버를 설치하여 사용합니다.",
+  "cautions": [
+    "구매 시 KCC 인증번호(KCC-REM-LUS-LS-PCIE-EX1000)를 반드시 확인하시기 바랍니다.",
+    "정보통신부 KCC 인증을 받지 않은 유사품에 주의하시기 바랍니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-EX1000",
+      "품목코드": "USB-PCI072",
+      "품목명": "[LANstar] PCI EXPRESS 기가랜카드 Marvel[30061] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 1000,
+      "chipset": "Marvel"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 x 1ea",
+    "connectivity.port_count": "RJ45 x 1ea",
+    "connectivity.directional": "10/100/1000Mbps 데이터속도 자동감지 기능 지원",
+    "certification.kc": "KCC 인증 획득 제품",
+    "certification.rohs": "RoHS 규격 준수",
+    "family.bus_interface": "PCI Express",
+    "family.speed_mbps": "10/100/1000Mbps",
+    "family.chipset": "Marvel Host Controller 칩셋 탑재"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:59",
+  "feature_schema_version": "1.0.0"
+}

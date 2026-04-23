@@ -1,0 +1,171 @@
+{
+  "model_no": "LS-RS204C",
+  "product_name": "LANStar USB 2.0 to RS232 4Port Converter",
+  "category": [
+    "USB2.0",
+    "컨버터"
+  ],
+  "key_features": [
+    "RS232 시리얼 4포트를 USB 2.0 포트 1개로 동시 사용 가능",
+    "PL2303 칩셋 사용 (시리얼 통신 특화, 안정성·호환성 우수)",
+    "USB 2.0 인터페이스 지원 (하위 버전 호환)",
+    "양방향 / 단방향 통신 지원",
+    "Serial 통신 1Mbps 전송속도 지원",
+    "각 포트별 개별 설정 가능",
+    "케이블 길이 1.8M",
+    "Windows 10에서 드라이버 별도 설치 없이 자동 인식",
+    "KC 인증 획득 (인증번호: R-R-LUS-LS-RS204C)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "포트": "USB 2.0, RS232 4Port",
+    "USB 전송속도": "480Mbps",
+    "Serial 전송속도": "1Mbps",
+    "케이블 길이": "1.8M",
+    "지원 OS": "Windows XP / Vista / Server2000 / 7 / 8 / 8.1 / 10, Linux, Mac OS X 10.6",
+    "무게": "약 265g",
+    "패키지 크기": "16cm x 13.7cm x 4.2cm (추정 외박스), 15cm",
+    "KC 인증번호": "R-R-LUS-LS-RS204C",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "칩셋": "PL2303"
+  },
+  "compatibility": [
+    "Windows XP",
+    "Windows Vista",
+    "Windows Server 2000",
+    "Windows 7",
+    "Windows 8",
+    "Windows 8.1",
+    "Windows 10",
+    "Linux",
+    "Mac OS X 10.6",
+    "USB 2.0 (하위 버전 호환)",
+    "RS232C (DB9) 시리얼 장치",
+    "신용카드 단말기",
+    "바코드 스캐너",
+    "POS 기기",
+    "터치 스크린",
+    "라벨 프린터",
+    "Windows Embedded CE 6.0 기반 장치"
+  ],
+  "package_contents": [
+    "LS-RS204C 본체 (USB 2.0 to RS232 4Port Converter)",
+    "LS-RS204C 사용자 매뉴얼"
+  ],
+  "usage_instructions": "USB 단자를 PC에 연결하면 Windows 10의 경우 드라이버 설치 없이 장치 관리자의 포트(COM & LPT) 항목에 'Prolific USB-to-Serial Comm Port (COM6~COM9)'로 자동 생성됩니다. 각 장치에서 우클릭 후 '속성'으로 진입하여 비트/초, 데이터 비트, 패리티, 정지 비트, 흐름 제어 등 포트별 설정값을 개별로 지정할 수 있으며, 고급 설정에서 COM 포트 번호 변경, FIFO 버퍼, DTR/RTS 신호 등 세밀한 설정도 가능합니다. 4포트 모두 독립적으로 설정할 수 있습니다.",
+  "cautions": [
+    "본 제품은 Windows 11을 지원하지 않습니다. 구매 전 반드시 확인하시기 바랍니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RS204C",
+      "품목코드": "USB-시리얼139",
+      "품목명": "[LANstar] USB to RS232 4포트 컨버터 [30470] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-RS204C",
+      "내용": "그량 쓸만 합니다."
+    },
+    {
+      "source_model": "LS-RS204C",
+      "내용": "잘 받았습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 1.8,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 2.0 포트 1개로",
+    "connectivity.output_signals": "RS232 시리얼 4포트를",
+    "connectivity.directional": "양방향 / 단방향 통신 지원",
+    "connectivity.port_count": "RS232 시리얼 4포트를",
+    "power.power_mode": "USB 단자를 PC에 연결하면",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "LANStar USB 2.0 to RS232 4Port Converter",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "케이블 길이 1.8M",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "null",
+    "certification.iso9001": "null",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "null",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.usb_version": "USB 2.0 인터페이스 지원",
+    "family.transfer_speed_gbps": "USB 전송속도: 480Mbps",
+    "family.charging_only": "null",
+    "family.data_only": "Serial 통신 1Mbps 전송속도 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:49",
+  "feature_schema_version": "1.0.0"
+}

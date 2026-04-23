@@ -1,0 +1,139 @@
+{
+  "model_no": "LS-DVI2HDG",
+  "product_name": "LAN Star DVI to HDMI 케이블 젠더 (DVI 24+1(M)-HDMI 19P(F) / 0.15M)",
+  "category": [
+    "HDMI케이블",
+    "DVI",
+    "컨버터",
+    "젠더"
+  ],
+  "key_features": [
+    "DVI 입력 신호를 HDMI 신호로 변환하여 출력하는 젠더",
+    "4K UHD 및 QHD 동시 지원",
+    "방향성 없이 양방향 모두 지원",
+    "DVI→HDMI 방향: 4K@60Hz UHD 지원 (입력: DVI-D 24+1P / 출력: HDMI 19P)",
+    "HDMI→DVI 방향: 1440P@60Hz QHD 지원 (입력: HDMI 19P / 출력: DVI-D 24+1P)",
+    "DVI-D 24+1핀 Dual Link 방식으로 디지털 신호만 전송",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터_A": "DVI-D 24+1P Male",
+    "커넥터_B": "HDMI 19P Female",
+    "케이블_길이": "약 15cm (0.15M)",
+    "지원_해상도_DVI입력_HDMI출력": "4K@60Hz UHD (3840x2160)",
+    "지원_해상도_HDMI입력_DVI출력": "1440P@60Hz QHD (2560x1440)",
+    "DVI_타입": "DVI-D Dual Link (24+1핀, 디지털 신호 전용)",
+    "제조국": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)",
+    "KC_인증번호": "해당없음",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "DVI-D 24+1P (Dual Link) 출력 포트를 가진 기기",
+    "HDMI 19P 입력 포트를 가진 기기",
+    "4K@60Hz UHD 해상도 지원 기기",
+    "QHD 1440P@60Hz 해상도 지원 기기",
+    "디지털 신호 전송 장치 (아날로그 신호 전송 불가)"
+  ],
+  "package_contents": [
+    "DVI to HDMI 케이블 젠더 (LS-DVI2HDG) 1개"
+  ],
+  "usage_instructions": "DVI-D 24+1P Male 단자를 DVI 출력 포트에 연결하고 HDMI 19P Female 단자를 HDMI 입력 포트에 연결하면 DVI→HDMI 변환(4K@60Hz)으로 동작합니다. 반대로 HDMI 출력 포트에 HDMI 단자를 연결하고 DVI 입력 포트에 DVI 단자를 연결하면 HDMI→DVI 변환(QHD 1440P@60Hz)으로 동작합니다.",
+  "cautions": [
+    "DVI-D 타입만 지원하며 아날로그 신호 전송은 불가합니다 (DVI-A, DVI-I 단자와 혼용 불가).",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "구매·배송·반품 관련 문의는 판매처(쇼핑몰 하단 참조)에 문의하세요.",
+    "AS 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DVI2HDG",
+      "품목코드": "CAB-HDC002",
+      "품목명": "[LANstar] DVI to HDMI 케이블 젠더 0.15m [30494] (500개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-DVI2HDG",
+      "id": 670091769,
+      "date": "2026-04-09 16:45",
+      "answerDate": "2026-04-13 16:02",
+      "user": "kang****",
+      "productName": "랜스타 LS-DVI2HDG DVI to HDMI 케이블 젠더 0.15m 4K60Hz 지원",
+      "question": "노트북 HDMI에서 DVI-D(듀얼채널)단자 1개만 있는 구형 바이패스 모니터(QHD)에 연결하여 QHD 해상도로 사용할 수 있나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품(HDMI → DVI-D 젠더)으로 QHD 모니터에 연결하시면 연결 자체는 가능하나, QHD(2560×1440) 해상도 출력은 어렵습니다.\nHDMI 단자는 DVI 듀얼링크 신호로의 변환을 지원하지 않아, 실제 출력 해상도는 FHD(1920×1080) 수준으로 제한됩니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DVI-D",
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI",
+        "DVI-D"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "DVI-D Dual",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DVI 24+1(M)-HDMI 19P(F)",
+    "connectivity.output_signals": "DVI 24+1(M)-HDMI 19P(F)",
+    "connectivity.directional": "방향성 없이 양방향 모두 지원",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.length_meters": "약 15cm (0.15M)",
+    "certification.kc": "KC_인증번호: 해당없음",
+    "audio_video.max_resolution": "4K@60Hz UHD 지원",
+    "audio_video.audio_pass": "DVI-D Dual Link 방식으로 디지털 신호만 전송",
+    "family.dvi_type": "DVI-D 24+1핀 Dual Link"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:50",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,152 @@
+{
+  "model_no": "LS-HD202",
+  "product_name": "LANStar HDMI 2.0 1:2 분배기 (HDMI Splitter 1in 2out)",
+  "category": [
+    "HDMI분배기"
+  ],
+  "key_features": [
+    "HDMI 2.0 지원, 18Gbps 대역폭으로 4K UHD 60fps 영상 전송 가능",
+    "1개의 HDMI 입력 소스를 2개의 디스플레이에 동시 출력",
+    "4K2K(4096x2160) @ 60Hz 해상도 지원",
+    "HDR(High Dynamic Range) 영상 지원",
+    "HDCP 2.2 지원으로 블루레이 등 저작권 보호 콘텐츠 완벽 재생",
+    "32채널 멀티채널 오디오 및 1536kHz 오디오 지원",
+    "3D 및 Full HD 1080p 지원",
+    "데이지 체인(Daisy Chain) 방식 연결 지원",
+    "DTS-HD, Dolby True-HD, Dolby Atmos, DTS:X, LPCM7.1, AC3, DTS, DSD 오디오 포맷 지원",
+    "KC, FCC, CE 안전규격 인증 획득",
+    "RoHS 규격 준수",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "HDMI 버전": "HDMI 2.0",
+    "전송 대역폭": "18Gbps",
+    "최대 해상도": "4K2K (4096x2160) @ 60Hz",
+    "지원 해상도": "2160i/p, 1080i/p, 720i/p, 576i/p, 480i/p",
+    "입력 포트": "HDMI 입력 1포트",
+    "출력 포트": "HDMI 출력 2포트",
+    "오디오 채널": "32채널 멀티채널",
+    "오디오 주파수": "1536kHz",
+    "오디오 포맷": "DTS-HD, Dolby True-HD, Dolby Atmos, DTS:X, LPCM7.1, AC3, DTS, DSD",
+    "HDCP": "HDCP 2.2 지원",
+    "HDR": "지원",
+    "3D": "지원",
+    "전원": "DC 5V / 1A",
+    "전원 커넥터 외경": "3.5mm",
+    "전원 커넥터 내경": "1.8mm",
+    "크기 (W x H x L)": "83 x 48 x 24.5mm",
+    "인증번호": "MSIP-REI-LUS-LS-HD202",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "LCD 모니터",
+    "디지털 TV",
+    "블루레이 플레이어",
+    "게임기",
+    "프로젝터",
+    "HDMI 단자를 가진 디지털 기기 전반",
+    "DVI 단자 기기 (DVI-HDMI 케이블 또는 DVI 젠더 별도 구매 필요, 음성 미지원)"
+  ],
+  "package_contents": [
+    "HDMI 분배기 본체 (LS-HD202)",
+    "전원 어댑터 DC 5V/1A",
+    "한글 매뉴얼"
+  ],
+  "usage_instructions": "1개의 HDMI 소스 기기를 INPUT 포트에 연결하고, 출력 디스플레이 기기를 OUTPUT 1 및 OUTPUT 2 포트에 각각 HDMI 케이블로 연결한다. DC 5V 전원 어댑터를 전원 단자에 연결하여 사용한다. DVI 단자 기기 연결 시 DVI-HDMI 케이블 또는 DVI 젠더(별도 구매)를 이용하며, 이 경우 음성은 별도 스테레오 케이블(M/M)로 연결해야 한다. 데이지 체인 방식으로 연장 연결도 가능하며, 케이블 길이와 성능에 따라 연장 가능 여부가 달라진다.",
+  "cautions": [
+    "본 기기는 셋톱박스, 인터넷 TV와 연결 시 작동하지 않는다.",
+    "셋톱박스·인터넷 TV 연결 시 일시적으로 작동할 수 있으나, 방송 송출사에서 신호 차단 시 다시 작동하지 않으니 유의해야 한다.",
+    "DVI 단자 기기 연결 시 음성이 지원되지 않으므로 별도의 스테레오 케이블(M/M)을 기기와 연결해야 한다.",
+    "DVI 단자 기기 연결 시 DVI-HDMI 케이블 또는 DVI 젠더는 별도 구매해야 한다.",
+    "데이지 체인 연장 시 케이블 길이와 성능에 따라 연장 가능 여부가 달라진다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HD202",
+      "품목코드": "INT-HDS054",
+      "품목명": "[LANstar] LS-HD202 HDMI 2.0 1:2 분배기 3D, 2K/4K/60MHz지원[30130] (20개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": true,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "input_count": 1,
+      "output_count": 2,
+      "mode": [
+        "분배"
+      ],
+      "cascade_support": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "1개의 HDMI 입력 소스를",
+    "connectivity.output_signals": "2개의 디스플레이에 동시 출력",
+    "connectivity.directional": "1개의 HDMI 입력 소스를 2개의 디스플레이에 동시 출력",
+    "connectivity.port_count": "HDMI 입력 1포트, HDMI 출력 2포트",
+    "power.power_mode": "DC 5V / 1A",
+    "power.charging_support": "DC 5V 전원 어댑터를 전원 단자에 연결",
+    "form_physical.has_case": "크기 (W x H x L): 83 x 48 x 24.5mm",
+    "certification.kc": "KC 안전규격 인증 획득",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.fcc": "FCC 안전규격 인증 획득",
+    "certification.ce": "CE 안전규격 인증 획득",
+    "audio_video.max_resolution": "4K2K(4096x2160) @ 60Hz 해상도 지원",
+    "audio_video.hdr_support": "HDR(High Dynamic Range) 영상 지원",
+    "audio_video.hdcp_version": "HDCP 2.2 지원",
+    "audio_video.audio_pass": "32채널 멀티채널 오디오 및 1536kHz 오디오 지원",
+    "family.input_count": "1개의 HDMI 입력 소스를",
+    "family.output_count": "2개의 디스플레이에 동시 출력",
+    "family.mode": "1:2 분배기",
+    "family.cascade_support": "데이지 체인(Daisy Chain) 방식 연결 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:47",
+  "feature_schema_version": "1.0.0"
+}

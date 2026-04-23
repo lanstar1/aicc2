@@ -1,0 +1,105 @@
+{
+  "model_no": "LS-KEY-M8P",
+  "product_name": "키스톤잭 잠금키 툴 (Keystone Jack Lock Key Tool)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-CAT6",
+    "키스톤잭",
+    "LAN공구"
+  ],
+  "key_features": [
+    "키스톤잭의 잠금 및 잠금 해제 기능을 수행하는 전용 Key 툴",
+    "CAT.5E 및 CAT.6 잠금형 키스톤잭 모듈과 호환",
+    "Slim타입 잠금형 키스톤잭 전용"
+  ],
+  "specifications": {
+    "모델명": "LS-KEY-M8P",
+    "제품명": "키스톤잭 잠금키 툴",
+    "크기": "80.5mm",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "브랜드": "LANstar"
+  },
+  "compatibility": [
+    "CAT.5E 잠금형 키스톤잭 모듈 (LS-EKTVMK-U1RD, LS-EKTVMK-U1YL, LS-EKTVMK-U1GN, LS-EKTVMK-U1BL, LS-EKTVMK-U1WH)",
+    "CAT.6 잠금형 키스톤잭 모듈 (LS-6KTVMK-U1RD, LS-6KTVMK-U1YL, LS-6KTVMK-U1GN, LS-6KTVMK-U1BL, LS-6KTVMK-U1WH)",
+    "8P8C Slim타입 잠금형 키스톤잭 모듈 전반"
+  ],
+  "package_contents": [
+    "키스톤잭 잠금키 툴 (LS-KEY-M8P) 1개"
+  ],
+  "usage_instructions": "키스톤잭 잠금형 모듈에 본 Key 툴을 사용하여 잠금 또는 잠금 해제를 수행합니다. Lock Bar에 Key를 삽입하여 조작합니다.",
+  "cautions": [
+    "본 제품은 잠금형 키스톤잭 모듈 전용 툴로, 일반 키스톤잭에는 사용하지 마십시오.",
+    "잠금형 키스톤잭 모듈 구매 시 잠금키(LS-KEY-M8P)는 별매입니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-KEY-M8P",
+      "품목코드": "NEO-키스톤056",
+      "품목명": "[LANstar] 보안용 키스톤잭 잠금키, Lock/Unlock기능, 대만산[40110]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 0.0805,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": null,
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.length_meters": "크기: 80.5mm",
+    "certification.kc": "인증번호: 해당없음"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:54",
+  "feature_schema_version": "1.0.0"
+}

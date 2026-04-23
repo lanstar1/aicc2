@@ -1,0 +1,124 @@
+{
+  "model_no": "LS-HDGAF-CMDM",
+  "product_name": "HDMI 멀티 변환 젠더 (HDMI A(암) to Mini HDMI C(수) + Micro HDMI D(수))",
+  "category": [
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "HDMI A타입(Female), Mini HDMI C타입(Male), Micro HDMI D타입(Male) 일체형 변환 젠더",
+    "HDMI 단자·Mini HDMI 단자·Micro HDMI 단자를 하나의 젠더로 지원",
+    "24K 금도금 커넥터 적용"
+  ],
+  "specifications": {
+    "커넥터 구성": "HDMI A(Female) + Mini HDMI C(Male) + Micro HDMI D(Male)",
+    "제품 크기": "41mm x 28mm",
+    "커넥터 도금": "24K 금도금",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "HDMI 단자 탑재 기기 (데스크탑 PC, 노트북 등)",
+    "Mini HDMI 단자 탑재 기기 (노트북, 캠코더 등)",
+    "Micro HDMI 단자 탑재 기기 (태블릿 PC, 디지털 카메라, DSLR, 캠코더 등)"
+  ],
+  "package_contents": [
+    "HDMI 멀티 변환 젠더 (LS-HDGAF-CMDM) 1개"
+  ],
+  "usage_instructions": "제품 및 케이블의 커넥터 타입을 반드시 확인한 후, HDMI(Female) 단자를 소스/디스플레이 기기에 연결하고 Mini HDMI(Male) 또는 Micro HDMI(Male) 단자를 대상 기기에 연결하여 사용.",
+  "cautions": [
+    "제품과 케이블 커넥터 타입을 반드시 확인 후 사용하세요.",
+    "Micro HDMI와 Mini HDMI 단자를 동시에 사용할 수 없습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDGAF-CMDM",
+      "품목코드": "GEN-HDI071",
+      "품목명": "[LANstar] HDMI 멀티 젠더, HDMI A/F TO C/M or D/M, Black[20116]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI",
+        "USB-Mini",
+        "USB-Micro"
+      ],
+      "directional": "단방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI A타입(Female)",
+    "connectivity.output_signals": "Mini HDMI C타입(Male), Micro HDMI D타입(Male)",
+    "connectivity.directional": "변환 젠더",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "일체형 변환 젠더",
+    "form_physical.material": "24K 금도금 커넥터",
+    "certification.kc": "해당없음",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "control_switching.has_remote": "false",
+    "control_switching.has_hotkey": "false",
+    "control_switching.has_physical_button": "false",
+    "control_switching.has_mouse_switching": "false",
+    "control_switching.has_auto_scan": "false",
+    "control_switching.has_app_control": "false",
+    "family.conversion_direction": "변환 젠더",
+    "family.requires_external_power": "무전원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:04",
+  "feature_schema_version": "1.0.0"
+}

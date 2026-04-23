@@ -1,0 +1,136 @@
+{
+  "model_no": "LS-1394-46M",
+  "product_name": "IEEE 1394 4P-6P 케이블",
+  "category": [
+    "1394케이블"
+  ],
+  "key_features": [
+    "USB보다 빠른 데이터 고속 전송",
+    "멀티미디어 데이터 실시간 전송이 가능할 정도의 빠른 전송속도",
+    "100, 200, 400Mbps의 서로 다른 속도를 혼합하여 사용 가능",
+    "디지털 신호를 그대로 사용해 데이터 손실이 적음",
+    "Plug and Play 지원",
+    "Hot Swapping 지원",
+    "DV 캠코더의 영상을 바로 재생 가능"
+  ],
+  "specifications": {
+    "모델명": "LS-1394-46-2M/L",
+    "커넥터 A": "IEEE 1394 6pin (Male)",
+    "커넥터 B": "IEEE 1394 4pin (Male)",
+    "케이블 길이": "2000mm (2M)",
+    "색상": "BLACK",
+    "전송속도": "100, 200, 400Mbps",
+    "케이블 외경": "5.6mm",
+    "6pin 커넥터 폭": "11mm",
+    "6pin 커넥터 높이": "3.8mm",
+    "6pin 커넥터 길이": "6mm",
+    "4pin 커넥터 폭": "11.5mm",
+    "4pin 커넥터 높이": "3.4mm",
+    "4pin 커넥터 길이": "5.6mm",
+    "내열온도": "80°C",
+    "정격전압": "30V",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386",
+    "RoHS 인증": "RoHS Compliant",
+    "품질인증": "ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "IEEE 1394 6pin 포트 지원 기기",
+    "IEEE 1394 4pin 포트 지원 기기",
+    "DV 캠코더",
+    "IEEE 1394(FireWire) 지원 PC"
+  ],
+  "package_contents": [
+    "IEEE 1394 4P-6P 케이블 (2M) 1개"
+  ],
+  "usage_instructions": "PC와 연결 장치 양쪽에 IEEE 1394 지원 포트가 있어야 합니다. 6pin 커넥터를 6pin 포트에, 4pin 커넥터를 4pin 포트에 연결하여 사용하십시오. Plug and Play 및 Hot Swapping을 지원합니다.",
+  "cautions": [
+    "PC와 연결 장치에 IEEE 1394 지원 포트가 있어야 합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-1394-46M-2M",
+      "품목코드": "CAB-139023",
+      "품목명": "[LANstar] 1394케이블 , 4P-6P, Black, 2M[10763] (129개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "IEEE1394-6P",
+        "IEEE1394-4P"
+      ],
+      "output_signals": [
+        "IEEE1394-6P",
+        "IEEE1394-4P"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": 2.0,
+      "length_options_meters": null,
+      "color_options": [
+        "BLACK"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "IEEE 1394 6pin (Male)",
+    "connectivity.output_signals": "IEEE 1394 4pin (Male)",
+    "connectivity.directional": "멀티미디어 데이터 실시간 전송",
+    "power.power_mode": "무전원",
+    "form_physical.length_meters": "케이블 길이: 2000mm (2M)",
+    "form_physical.color_options": "색상: BLACK",
+    "certification.kc": "인증번호: 해당없음",
+    "certification.rohs": "RoHS 인증: RoHS Compliant",
+    "certification.iso9001": "품질인증: ISO 9001:2008",
+    "audio_video.audio_pass": "멀티미디어 데이터 실시간 전송"
+  },
+  "feature_extracted_at": "2026-04-23T03:05:31",
+  "feature_schema_version": "1.0.0"
+}

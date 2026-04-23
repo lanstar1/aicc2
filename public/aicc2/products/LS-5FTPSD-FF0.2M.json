@@ -1,0 +1,174 @@
+{
+  "model_no": "LS-5FTPSD-FF0.2M",
+  "product_name": "CAT.5E FTP 랜 커플러 케이블 판넬형 (RJ45 F/F) 0.2M",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-FTP",
+    "익스텐더",
+    "커플러",
+    "분배판넬"
+  ],
+  "key_features": [
+    "판넬형 구조로 나사(스크루) 고정 방식 채택 – 흔들림 없이 안정적으로 연장 사용 가능",
+    "CAT.5E FTP(Foiled Twisted Pair) 규격 – 알루미늄 은박(Mylar 테이프) 차폐막으로 외부 전자기 간섭(EMI) 차단",
+    "접지선 내장 – 외부 노이즈 및 전자파로부터 데이터 전송 손실 최소화",
+    "연선(Stranded) 케이블 – 단선 대비 유연하여 설치 용이, 잡음·감쇄 현상 현저히 적음",
+    "24AWG 규격 – 간섭이 적고 안정적인 데이터 전송 품질",
+    "RJ45 Female–Female(F/F) 다이렉트(Direct) 핀배열 (568B-568B)",
+    "허브랙, 서버랙, 전자교탁, 서버, PC 및 각종 산업용 장비의 LAN 포트를 외부로 깔끔하게 고정·노출 가능",
+    "RoHS 규정 준수 – 납·수은·카드뮴 등 중금속 사용 제한",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "단자규격": "RJ45 F/F (8P8C)",
+    "케이블 타입": "CAT.5E FTP (Foiled Twisted Pair)",
+    "전송속도": "1Gbps",
+    "대역폭": "100MHz",
+    "AWG": "24AWG",
+    "케이블 길이": "0.2M",
+    "소비전력 최대": "DC 30V",
+    "작동온도": "0~80°C",
+    "핀배열": "다이렉트 (568B-568B)",
+    "차폐 구조": "Al.Mylar 테이프 (알루미늄 은박 차폐)",
+    "내부 구조": "4Pair/8Core, PE절연, PVC/LSZH 피복",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANStar",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008",
+    "제품 전체 길이": "225mm",
+    "패널 고정부 너비": "36mm",
+    "커넥터 직경(참고)": "5.5mm",
+    "기타 치수": "38mm, 36mm, 2.5mm, 27mm, 21mm, 15.9mm, 42mm, 22mm, 13mm (상세 도면 참조)"
+  },
+  "compatibility": [
+    "허브랙(Hub Rack)",
+    "서버랙(Server Rack)",
+    "전자교탁",
+    "서버(Server)",
+    "PC",
+    "각종 산업용 장비 LAN 포트",
+    "RJ45 표준 포트 장비",
+    "CAT.5E 규격 네트워크 환경",
+    "공장 배선 및 옥외 배선 환경(FTP 접지선 활용 시)"
+  ],
+  "package_contents": [
+    "랜 판넬 케이블 1개 (CAT.5E FTP, 0.2M, RJ45 F/F)",
+    "고정나사 4개"
+  ],
+  "usage_instructions": "판넬형 케이블을 허브랙, 서버랙, 전자교탁 등 장비의 패널에 삽입한 후 동봉된 나사 4개로 고정하여 흔들리지 않게 설치합니다. RJ45 Female 커넥터 양단에 LAN 케이블을 연결하여 LAN 포트를 외부로 노출·연장하여 사용합니다. 설치 전 제품 상세 치수와 설치 위치가 일치하는지 반드시 확인 후 구매 및 설치하십시오.",
+  "cautions": [
+    "설치할 곳과 제품 사이즈가 맞는지 상세 치수를 확인하고 구매하십시오.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-5FTPSD-FF0.2M",
+      "품목코드": "CAB-U5S015",
+      "품목명": "[LANstar] 랜 ALL연장케이블 , CAT.5E FTP, 판넬형, RJ45 F/F, SCREW. 0.2M-검정 [10993] (250개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-5FTPSD-FF0.2M",
+      "내용": "원하던 사양! 빠른배송!"
+    },
+    {
+      "source_model": "LS-5FTPSD-FF0.2M",
+      "내용": "감사합니다 잘쓸게요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "PVC"
+      ],
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "FTP",
+      "conductor": "연선(stranded)",
+      "awg": 24,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 Female–Female(F/F)",
+    "connectivity.output_signals": "RJ45 Female–Female(F/F)",
+    "connectivity.directional": "RJ45 Female–Female(F/F)",
+    "connectivity.port_count": "RJ45 Female–Female(F/F)",
+    "power.power_mode": "N/A",
+    "power.charging_support": "N/A",
+    "form_physical.has_case": "판넬형 구조로 나사(스크루) 고정 방식",
+    "form_physical.material": "PVC/LSZH 피복",
+    "form_physical.length_meters": "케이블 길이: 0.2M",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.cat_category": "CAT.5E FTP",
+    "family.shielding": "FTP(Foiled Twisted Pair)",
+    "family.conductor": "연선(Stranded) 케이블",
+    "family.awg": "24AWG 규격",
+    "family.pair_count": "4Pair/8Core",
+    "family.flame_rating": "PVC/LSZH 피복",
+    "family.poe_support": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:23",
+  "feature_schema_version": "1.0.0"
+}

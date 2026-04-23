@@ -1,0 +1,125 @@
+{
+  "model_no": "LS-MPATCH-U31",
+  "product_name": "스마트폰 무선충전패드 (Type-C)",
+  "category": [
+    "USB케이블",
+    "USB-C",
+    "커넥터",
+    "무선충전"
+  ],
+  "key_features": [
+    "무선으로 쉽고 간편하게 충전 가능",
+    "충전 케이블 및 플러그 불필요",
+    "손 안에 들어오는 가볍고 컴팩트한 사이즈",
+    "휴대 시 기기에 연결된 패드를 케이스에 함께 수납 가능",
+    "Qi 표준 규격 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-MPATCH-U31",
+    "커넥터 타입": "Type-C",
+    "Input": "DC 5V / 1A (self-adaptation)",
+    "Output (수신 전압)": "DC 5V / 1A",
+    "Output (충전 전압)": "DC 5V / 800mA",
+    "크기": "72mm x 42mm",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증": "CE, FC, RoHS",
+    "지원 규격": "Qi 표준"
+  },
+  "compatibility": [
+    "Qi 표준 규격 지원 무선 충전기 (권장: TB884 또는 WPC 표준 규격)",
+    "Type-C 단자 스마트폰",
+    "LG G5 - 장착 시 뒷면 전원버튼 간섭현상 발생으로 사실상 사용 불가"
+  ],
+  "package_contents": [
+    "스마트폰 무선충전패드 (Type-C) 1개"
+  ],
+  "usage_instructions": "Type-C 단자에 무선충전패드를 연결한 후 무선 충전기 위에 올려 놓으면 충전됩니다. 충전 케이블과 플러그 없이 스마트폰에 직접 충전되며, 휴대 시에는 기기에 연결된 패드를 케이스에 함께 넣으면 됩니다. 무선 충전기는 별도 구매 필요 (권장 모델: LS-HCS-9).",
+  "cautions": [
+    "사용 장비 또는 기기에 따라 호환성 문제가 발생할 수 있습니다.",
+    "호환성 문제는 제품 불량으로 볼 수 없으므로, 원래 패키지 그대로 반납 바랍니다.",
+    "제품 구성품 누락 및 제품이나 포장 패키지 훼손 시 반품이 불가하며 별도 비용이 청구될 수 있습니다. 이는 제품 불량일 경우에도 해당됩니다.",
+    "LG G5의 경우 본 제품 장착 시 뒷면 전원버튼 간섭현상이 발생하여 사실상 사용이 불가능합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "무선 충전기는 별도 구매가 필요합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MPATCH-U31",
+      "품목코드": "CAB-APP617",
+      "품목명": "[LANstar] USB 3.1 C타입 무선 충전 패치 [60088]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "무선"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": null,
+      "transfer_speed_gbps": null,
+      "charging_only": null,
+      "data_only": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Type-C 단자에 무선충전패드를 연결",
+    "connectivity.output_signals": "무선으로 쉽고 간편하게 충전 가능",
+    "connectivity.directional": "Type-C 단자에 무선충전패드를 연결한 후 무선 충전기 위에 올려 놓으면 충전됩니다.",
+    "power.power_mode": "Type-C 단자에 무선충전패드를 연결",
+    "power.charging_support": "무선으로 쉽고 간편하게 충전 가능",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "인증: CE, FC, RoHS",
+    "certification.ce": "인증: CE, FC, RoHS",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:55",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,141 @@
+{
+  "model_no": "LS-AC",
+  "product_name": "해외여행용 멀티 어댑터",
+  "category": [
+    "컨버터",
+    "커넥터",
+    "전원아답터"
+  ],
+  "key_features": [
+    "180여개국에서 사용 가능 (국내 사용 불가)",
+    "4가지 국제 전원 방식 지원 (유럽/영국/미국/오스트레일리아 등)",
+    "LOCK/UNLOCK 버튼으로 플러그 자동 전개 및 고정",
+    "전원 연결 시 정면 적색 램프 지시등 점등으로 연결 상태 확인 가능",
+    "제품 플러그 부분에 사용 국가 및 방향 표기",
+    "서지 프로텍터(SURGE PROTECTOR) 기능 탑재",
+    "파우치 포함",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 준수 제품",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "재질": "ABS",
+    "무게": "90g",
+    "사이즈(mm)": "49 x 73 x 38",
+    "형식(정격)": "100V-250V / 10A",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "특허": "PAT200930196087.4"
+  },
+  "compatibility": [
+    "유럽 (유럽, 아프리카 일부, 남아메리카 일부, 중동, 아시아 일부, 카리브해 제도 등)",
+    "미국/일본 (남아메리카 일부, 북아메리카 일부, 일본, 대만 등)",
+    "오스트레일리아/뉴질랜드/피지/태국 등",
+    "영국/아일랜드/아프리카/홍콩/싱가포르 등",
+    "스마트폰, 디지털카메라, 노트북, MP3플레이어 등 전기제품"
+  ],
+  "package_contents": [
+    "해외여행용 멀티 어댑터 본체 (LS-AC-MULTI)",
+    "파우치"
+  ],
+  "usage_instructions": "1. 초록색 버튼을 'LOCK'에서 'UNLOCK' 쪽으로 밀면 어댑터가 자동으로 펼쳐집니다. 2. 펼쳐진 어댑터를 사용 국가에 맞게 조절한 뒤 초록색 버튼을 다시 'LOCK' 쪽으로 밀어 어댑터를 고정합니다. [변형1-유럽형] 버튼 UNLOCK 없이 핀을 붙잡고 위로 올립니다. [변형2-미국/일본형] 상단 LOCK 버튼을 UNLOCK합니다. [변형3-오스트레일리아/태국형] 상단 LOCK 버튼을 UNLOCK 후 펼쳐진 핀을 붙잡고 돌립니다. [변형4-영국형] 하단 LOCK 버튼을 UNLOCK 후 가운데 접혀진 핀을 잡고 올립니다. 3. 현지 콘센트에 꽂고 정면 적색 램프가 점등되면 올바르게 전원 연결된 것입니다. 4. 사용하려는 전기제품 플러그를 어댑터에 연결하여 사용합니다.",
+  "cautions": [
+    "국내 사용 불가 제품입니다. 국내 사용으로 인한 피해는 책임지지 않습니다.",
+    "본 제품은 변압 기능이 없습니다. 사용하시는 가전기기의 정격전압과 지역 표준 전압을 확인 후 사용하십시오.",
+    "전압 변환(110V↔220V)이 되지 않습니다.",
+    "사용하는 국가의 전압(V) 및 플러그가 맞는지 확인 후 사용하십시오.",
+    "여러 개의 플러그(멀티탭)를 연결하여 사용하지 마십시오.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-AC-MULTI",
+      "품목코드": "TTA-전기기047",
+      "품목명": "[LANstar] 전원 멀티 변환기, 세계 공용 아답터 [60092]",
+      "variant_suffix": "-MULTI",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-AC-MULTI",
+      "내용": "스크래치가 좀 있지만, 성능은 좋네요.",
+      "관련내용": "배송이 빠르고, 상품도 만족스럽네요."
+    },
+    {
+      "source_model": "LS-AC-MULTI",
+      "내용": "배송이 빠르고, 상품도 만족스럽네요."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-AC-MULTI",
+      "id": 241910992,
+      "date": "2022-10-21 12:01",
+      "answerDate": "2022-10-21 12:46",
+      "user": "ye****",
+      "productName": "랜스타 LS-AC-MULTI 전원 멀티 변환기 세계 공용 아답터",
+      "question": "해외에서 손님이 오셔서 구매하려 하는데, 국내에서는 사용이 안되나요? 말레이시아에서 온 분들의 전자기기를 국내에서 사용하고자 합니다.",
+      "answer": "안녕하세요 랜스타 입니다\n\n국내 사용 불가 입니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "ABS"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "conversion_direction": "N/A",
+      "requires_external_power": null,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "파우치 포함",
+    "form_physical.material": "재질: ABS",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "control_switching.has_physical_button": "LOCK/UNLOCK 버튼으로 플러그 자동 전개 및 고정"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:49",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,133 @@
+{
+  "model_no": "LS-SATA3I",
+  "product_name": "SATA3 일자 / ㄱ자 클립 케이블",
+  "category": [
+    "커넥터",
+    "HDD관련"
+  ],
+  "key_features": [
+    "SATA 6Gb/s 대역폭 지원",
+    "핫플러그(Hot Plug) 기능 지원",
+    "SATA2 대비 2배 전송 속도",
+    "NCQ(Native Command Queuing) 지원",
+    "한쪽이 ㄱ자(90도) 커넥터로 설계되어 메인보드 및 하드디스크 연결 편리",
+    "금속 클립 고리 장착으로 커넥터 이탈 방지"
+  ],
+  "specifications": {
+    "인터페이스": "SATA3 6Gbps",
+    "전송 속도": "6.0Gb/s",
+    "일자 클립형 길이": "50cm",
+    "ㄱ자 클립형 길이": "40cm",
+    "커넥터 형태": "일자(직각) / ㄱ자(90도)",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANStar",
+    "인증번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "SATA3 (6Gb/s) 규격 메인보드",
+    "SATA3 (6Gb/s) 규격 HDD / SSD",
+    "SATA2 (3Gb/s) 규격 장치 (하위 호환)",
+    "SATA Gen 1 (1.5Gb/s) 규격 장치 (하위 호환)"
+  ],
+  "package_contents": [
+    "SATA3 일자 클립형 케이블 50cm",
+    "SATA3 ㄱ자 클립형 케이블 40cm"
+  ],
+  "usage_instructions": "메인보드 또는 하드디스크의 SATA 포트에 커넥터를 연결하여 사용. 한쪽이 ㄱ자 커넥터로 되어 있어 공간이 좁은 환경에서도 편리하게 연결 가능.",
+  "cautions": [
+    "안전한 결합을 위해 금속 클립 고리가 장착되어 있으므로 탈착 시 클립을 누른 후 분리할 것",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SATA3I-0.5M",
+      "품목코드": "CAB-SAT032",
+      "품목명": "[LANstar] SATA3 케이블 플랫타입 LOCK 일자 50CM [6b/S]/[10649] (500개)",
+      "variant_suffix": "-0.5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-SATA3I-0.5M",
+      "내용": "ssd 증설하려구 구매함"
+    },
+    {
+      "source_model": "LS-SATA3I-0.5M",
+      "내용": "필요한 상품을 구매하여 좋았습니다!"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "SATA"
+      ],
+      "output_signals": [
+        "SATA"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "N/A"
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "금속 클립"
+      ],
+      "length_options_meters": [
+        0.5,
+        0.4
+      ]
+    },
+    "certification": {
+      "kc": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "SATA",
+      "connector_type_b": "SATA",
+      "gender": "M-M"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "SATA3 6Gbps",
+    "connectivity.output_signals": "SATA3 6Gbps",
+    "connectivity.directional": "SATA3 6Gb/s 대역폭 지원",
+    "power.power_mode": "N/A",
+    "form_physical.has_case": "SATA3 일자 / ㄱ자 클립 케이블",
+    "form_physical.material": "금속 클립 고리 장착",
+    "form_physical.length_options_meters": "일자 클립형 길이: 50cm, ㄱ자 클립형 길이: 40cm",
+    "certification.kc": "인증번호: 해당없음",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.connector_type_a": "SATA3 6Gbps",
+    "family.connector_type_b": "SATA3 6Gbps",
+    "family.gender": "SATA 포트에 커넥터를 연결"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:58",
+  "feature_schema_version": "1.0.0"
+}

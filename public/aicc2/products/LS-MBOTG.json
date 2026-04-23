@@ -1,0 +1,125 @@
+{
+  "model_no": "LS-MBOTG",
+  "product_name": "마이크로 5핀 OTG 케이블 (Micro B(M)-OTG(F))",
+  "category": [
+    "USB케이블",
+    "컨버터"
+  ],
+  "key_features": [
+    "USB Micro B Male to USB A Female OTG 변환 케이블",
+    "PC 없이 스마트폰에서 USB 메모리의 영상, 음악, 사진 파일 열람 및 파일 전송 가능",
+    "마우스, 키보드, 타블렛 연결 지원 (문자 입력, 커서 클릭, 그림 그리기 가능)",
+    "2가지 칩셋 탑재로 안정적인 연결 지원",
+    "RoHS 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 구성": "USB Micro B Male / USB A Female",
+    "케이블 길이": "0.15M",
+    "칩셋 수": "2가지",
+    "Micro B Male 직경": "6mm",
+    "Micro B Male 길이": "13.4mm",
+    "Micro B Male 핀 너비": "1.8mm",
+    "Micro B Male 핀 높이": "1.9mm",
+    "USB A Female 너비": "6.2mm",
+    "USB A Female 높이": "6.8mm",
+    "USB A Female 길이": "18mm",
+    "본체 전체 길이": "134mm",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANStar",
+    "인증번호": "상세페이지 참조",
+    "품질보증기준": "공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  },
+  "compatibility": [
+    "USB Micro 5핀 단자를 갖춘 스마트폰 및 태블릿",
+    "USB 메모리 (USB A Type)",
+    "USB 마우스",
+    "USB 키보드",
+    "USB 타블렛"
+  ],
+  "package_contents": [
+    "마이크로 5핀 OTG 케이블 (LS-MBOTG-0.15MB) 1개"
+  ],
+  "usage_instructions": "스마트폰의 Micro B 단자에 케이블의 Micro B Male 쪽을 연결하고, USB A Female 단자에 USB 메모리 또는 마우스/키보드/타블렛 등을 연결하여 사용. 연결 시 '대용량 내장 메모리가 연결되었습니다' 메시지가 표시되며, 로컬 저장공간 > USB storage에서 파일 접근 가능.",
+  "cautions": [
+    "외장하드와 같은 대용량 장치는 인식하지 않습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MBOTG-0.15MB",
+      "품목코드": "CAB-모바일026",
+      "품목명": "[LANstar] 마이크로 5핀 OTG케이블 micro B(M)-OTG(F) 0.15M 블랙 [20120]]",
+      "variant_suffix": "-0.15MB",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-Micro"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "N/A",
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB Micro B Male",
+    "connectivity.output_signals": "USB A Female",
+    "connectivity.directional": "파일 열람 및 파일 전송 가능",
+    "connectivity.port_count": "USB Micro B Male / USB A Female",
+    "power.power_mode": "PC 없이 스마트폰에서",
+    "form_physical.has_case": "본체 전체 길이",
+    "form_physical.length_meters": "0.15M",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:26",
+  "feature_schema_version": "1.0.0"
+}

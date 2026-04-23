@@ -1,0 +1,151 @@
+{
+  "model_no": "LS-DVIS-HDMI-B",
+  "product_name": "LANstar High Quality Ver 1.3b HDMI-DVI Cable (Metal Design)",
+  "category": [
+    "HDMI케이블",
+    "DVI",
+    "커넥터"
+  ],
+  "key_features": [
+    "HDMI Ver 1.3b 지원 — 최대 340MHz 신호 대역폭, 10.2Gbit/s TMDS 대역폭",
+    "최대 48비트 Deep Color 지원 (281조 색상 표현)",
+    "WQXGA 1600p / FULL HD 1080p / 1440p 해상도 지원",
+    "TrueHD 및 DTS-HD Master Audio 비트스트림 전송 지원",
+    "금도금 처리 커넥터로 신호 손실 및 저항 최소화",
+    "알루미늄 쉴드로 데이터 보호, 응축 필터로 노이즈 차단",
+    "일반 케이블 대비 4배 이상 화질 차이",
+    "고무 캡 내장으로 보관 편리",
+    "Metal Design 적용",
+    "FCC 인증 및 CE 인증 획득"
+  ],
+  "specifications": {
+    "HDMI 버전": "1.3b",
+    "최대 신호 대역폭": "340 MHz",
+    "최대 TMDS 대역폭": "10.2 Gbit/s",
+    "최대 영상 대역폭": "8.16 Gbit/s",
+    "최대 오디오 대역폭": "36.86 Mbit/s",
+    "최대 해상도 (24비트 기준)": "2560x1600p60",
+    "최대 색심도": "48 bits per pixel",
+    "색상 표현 수": "최대 2800T (281조) 색상",
+    "색공간 지원": "RGB, YCbCr, xvYCC",
+    "Deep Color": "지원",
+    "Auto Lip-sync": "지원",
+    "CEC": "지원",
+    "오디오 지원": "8채널 / 192kHz / 24bit",
+    "DVD-Audio 지원": "지원",
+    "SACD (DSD) 지원": "지원",
+    "TrueHD 비트스트림": "지원",
+    "DTS-HD Master Audio 비트스트림": "지원",
+    "Blu-ray/HD DVD 풀 해상도 영상·음성": "지원",
+    "전선 규격": "AWM Style 20276, VW-1, 80°C, 30V",
+    "커넥터 처리": "금도금",
+    "쉴드": "알루미늄 쉴드",
+    "노이즈 차단": "응축 필터",
+    "보호 캡": "고무 캡",
+    "인증": "FCC, CE"
+  },
+  "compatibility": [
+    "HDMI 단자 탑재 기기",
+    "DVI 단자 탑재 기기",
+    "셋탑박스 (Set-Top Box)",
+    "DVD 플레이어",
+    "Blu-ray Disc 플레이어",
+    "HDTV",
+    "PC / 그래픽카드",
+    "플레이스테이션",
+    "Xbox 360",
+    "AV 리시버",
+    "컴퓨터 모니터 (DVI 지원)",
+    "디지털 TV"
+  ],
+  "package_contents": [
+    "LANstar HDMI-DVI 케이블 (Ver 1.3b) 1개"
+  ],
+  "usage_instructions": "HDMI 단자(영상기기)와 DVI 단자(디스플레이기기)를 케이블로 연결하여 사용. 본 케이블은 영상 신호만 전송하므로, 음성 출력이 필요한 경우 영상기기와 디스플레이기기의 오디오 단자 종류(RCA 또는 3.5mm 스테레오)를 확인한 후 별도의 오디오 케이블(2RCA-3.5st 또는 3.5st-3.5st 또는 2RCA-2RCA)을 추가 구매하여 연결.",
+  "cautions": [
+    "본 케이블(HDMI-DVI)은 영상 신호만 지원하며 음성은 전송되지 않음",
+    "음성 출력이 필요한 경우 별도 오디오 케이블 추가 구매 필요",
+    "구매 전 사용 기기에 HDMI 단자와 DVI 단자가 모두 있는지 반드시 확인",
+    "케이블 표면의 '1.3b' 표기를 확인하여 올바른 버전인지 확인",
+    "사용할 오디오 케이블 종류는 기기의 단자(RCA 또는 3.5mm 스테레오)에 따라 상이하므로 사전 확인 필요"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "DVI-D"
+      ],
+      "output_signals": [
+        "HDMI",
+        "DVI-D"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "알루미늄",
+        "금도금",
+        "고무"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1440p",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "HDMI1.3b",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI-DVI Cable",
+    "connectivity.output_signals": "HDMI-DVI Cable",
+    "connectivity.directional": "HDMI-DVI Cable",
+    "power.power_mode": "무전원",
+    "power.charging_support": "영상 신호만 전송하므로",
+    "form_physical.material.0": "Metal Design 적용",
+    "form_physical.material.1": "금도금 처리 커넥터",
+    "form_physical.material.2": "고무 캡 내장",
+    "certification.fcc": "FCC 인증",
+    "certification.ce": "CE 인증",
+    "audio_video.max_resolution": "1440p 해상도 지원",
+    "audio_video.hdcp_version": "본 케이블은 영상 신호만 전송하므로",
+    "audio_video.audio_pass": "TrueHD 및 DTS-HD Master Audio 비트스트림 전송 지원",
+    "family.hdmi_version": "HDMI Ver 1.3b 지원",
+    "family.optical_core": "알루미늄 쉴드로 데이터 보호"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:50",
+  "feature_schema_version": "1.0.0"
+}

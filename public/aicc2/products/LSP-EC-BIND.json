@@ -1,0 +1,133 @@
+{
+  "model_no": "LSP-EC-BIND",
+  "product_name": "바인딩 키스톤잭 F/F (LANstar plus, White Color)",
+  "category": [
+    "키스톤잭",
+    "분배판넬",
+    "멀티탭",
+    "서버랙",
+    "허브랙",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "스피커 케이블 연결용 키스톤잭 (Bind F to Bind F)",
+    "벽면 플레이트(Wall Plate) 및 Outlet 백박스에 매립형으로 설치 가능",
+    "허브랙·서버랙 전용 마운트 판넬에 장착 가능",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품",
+    "화이트 컬러"
+  ],
+  "specifications": {
+    "모델명": "LSP-EC-BIND",
+    "품명": "바인딩 키스톤잭",
+    "커넥터 타입": "Bind(F) - Bind(F)",
+    "색상": "흰색 (White)",
+    "제조국/원산지": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "외형 치수(mm)": "16.1 x 28.6 x 29.1 (주요 치수 기준, 도면 참조)"
+  },
+  "compatibility": [
+    "벽부착형 Wall Plate (LS-WP23-1PN, LS-WP23-2PN, LS-WP23-4PN, LS-WP23-6PN 등)",
+    "Outlet 백박스",
+    "허브랙·서버랙 전용 마운트 판넬 (LS-PLKP-24BK, LS-PLKP-24UM, LS-PLKP-48UM, LS-PLKP-24SM 등)",
+    "키스톤잭 규격 호환 마운트 판넬 및 월 플레이트 전용 슬롯"
+  ],
+  "package_contents": [
+    "바인딩 키스톤잭 (LSP-EC-BIND) 본체 1개"
+  ],
+  "usage_instructions": "벽면 플레이트(Wall Plate) 또는 Outlet 백박스에 결합하여 매립형으로 사용하거나, 허브랙·서버랙 마운트 판넬에 장착하여 사용. 스피커 케이블을 Female 커넥터 양단에 연결하여 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-EC-BIND",
+      "품목코드": "GEN-USB121",
+      "품목명": "[◆Lanstar-Plus] 바인딩 키스톤잭 , F/F, White [20323]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "내장케이블"
+      ],
+      "output_signals": [
+        "내장케이블"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "흰색"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Bind F to Bind F",
+    "connectivity.output_signals": "Bind F to Bind F",
+    "connectivity.directional": "스피커 케이블 연결용 키스톤잭",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "바인딩 키스톤잭 F/F",
+    "form_physical.material": "플라스틱",
+    "form_physical.color_options": "화이트 컬러",
+    "certification.kc": "인증번호: 해당없음",
+    "audio_video.max_resolution": "스피커 케이블 연결용",
+    "audio_video.hdr_support": "스피커 케이블 연결용",
+    "audio_video.hdcp_version": "스피커 케이블 연결용",
+    "audio_video.audio_pass": "스피커 케이블 연결용 키스톤잭",
+    "control_switching.has_remote": "스피커 케이블 연결용",
+    "control_switching.has_hotkey": "스피커 케이블 연결용",
+    "control_switching.has_physical_button": "스피커 케이블 연결용",
+    "control_switching.has_mouse_switching": "스피커 케이블 연결용",
+    "control_switching.has_auto_scan": "스피커 케이블 연결용",
+    "control_switching.has_app_control": "스피커 케이블 연결용",
+    "family.cat_category": "스피커 케이블 연결용",
+    "family.shielding": "스피커 케이블 연결용"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:29",
+  "feature_schema_version": "1.0.0"
+}

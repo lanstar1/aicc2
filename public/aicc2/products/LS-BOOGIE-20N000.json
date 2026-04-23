@@ -1,0 +1,123 @@
+{
+  "model_no": "LS-BOOGIE-20N000",
+  "product_name": "부기보드 20인치 LCD 전자 메모패드 (LCD Writing Tablet)",
+  "category": [
+    "배터리관련",
+    "전자칠판"
+  ],
+  "key_features": [
+    "종이 없이 필기·계산·그리기가 가능한 전자 메모패드",
+    "건전지(AAA×3) 하나로 오랜 시간 사용 가능한 저전력 제품",
+    "원클릭 삭제 버튼으로 필기 내용을 한 번에 삭제 가능",
+    "지움방지 버튼으로 메모 내용 보호 및 정보 유출 방지 가능",
+    "20인치 대화면, 두께가 얇고 가벼워 휴대 편리",
+    "전용 펜 없이 손가락으로도 필기 가능",
+    "종이·잉크 불필요한 친환경 제품 (최대 100,000회 이상 사용, 종이 100,000장 절약)",
+    "눈이 편안한 시력 보호 설계",
+    "청각장애인 필담용, 도서관 등 조용한 공간에서의 대화 보조 활용 가능",
+    "업무 메모·회의 보드·학습 노트·요리 레시피 보드·그림 그리기 등 다용도 활용",
+    "어린이 제품 안전 인증(FITI시험연구원) 통과 제품",
+    "현대해상화재 생산물배상책임보험 1억 원 가입",
+    "홍보용 실크 로고 인쇄 가능 (별도 문의 필요)"
+  ],
+  "specifications": {
+    "모델명": "LS-BOOGIE-20N",
+    "화면 크기": "20인치",
+    "제품 크기": "445mm × 325mm",
+    "전원": "AAA 건전지 3개",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "MSIP-REI-LUS-LS-BOOGIE-12N",
+    "어린이 안전 인증번호": "CB065R0185-7001",
+    "안전 인증 기관": "FITI시험연구원",
+    "안전 인증 분류": "완구(부속서 6), 비 작동완구, 어린 학생용 완구(8세 이상), 기타완구, 플라스틱제",
+    "안전 인증 일자": "2017년 11월 9일",
+    "제조업체명(OEM)": "BOR ELECTRONIC CO., LTD",
+    "환경 규격": "RoHS 준수",
+    "안전 규격": "KC, FCC, CE",
+    "품질 규격": "ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억 원 가입",
+    "A/S 문의": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "AAA 건전지 (전용 건전지캡 사용)",
+    "전용 펜 또는 손가락으로 필기 가능"
+  ],
+  "package_contents": [
+    "LCD 스케치 판 (본체)",
+    "전용 펜",
+    "건전지캡 (AAA 건전지×3 별도)"
+  ],
+  "usage_instructions": "1) 건전지캡에 AAA 건전지 3개를 삽입한다. 2) 전용 펜 또는 손가락으로 LCD 화면에 필기·계산·그림 그리기를 한다. 3) 필기 내용을 지우려면 삭제 버튼을 누른다. 4) 메모 내용을 보호하려면 지움방지 버튼을 오른쪽으로 이동한다.",
+  "cautions": [
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "홍보용 실크 인쇄 요청 시 별도 문의 필요",
+    "어린이 안전 인증 대상 제품(8세 이상 학생용 완구로 분류)이므로 영유아의 경우 보호자 지도 하에 사용 권장",
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "배터리",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "wireless_standard": "N/A",
+      "output_watts": null
+    }
+  },
+  "feature_evidence": {
+    "power.power_mode": "건전지(AAA×3)",
+    "power.charging_support": "건전지(AAA×3)",
+    "form_physical.has_case": "전자 메모패드",
+    "certification.kc": "KC 인증번호",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "20인치 LCD 전자 메모패드",
+    "audio_video.hdcp_version": "20인치 LCD 전자 메모패드",
+    "audio_video.audio_pass": "20인치 LCD 전자 메모패드",
+    "control_switching.has_physical_button": "원클릭 삭제 버튼",
+    "family.wireless_standard": "20인치 LCD 전자 메모패드"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:36",
+  "feature_schema_version": "1.0.0"
+}

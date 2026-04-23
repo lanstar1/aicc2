@@ -1,0 +1,125 @@
+{
+  "model_no": "LS-SPR",
+  "product_name": "LANStar 데스크탑 외부 전원·리셋 스위치 (LS-SPR)",
+  "category": [
+    "분배판넬",
+    "HDD관련",
+    "LED램프"
+  ],
+  "key_features": [
+    "전원·리셋 버튼 일체형 패널로 한 곳에서 간편 조작 가능",
+    "전원 LED(파란색) 및 HDD LED(빨간색) 표시 기능 내장",
+    "메인보드 F_PANEL 단자와 완벽 호환 (표준 ATX / Micro ATX / Mini ITX)",
+    "케이스 전면 스위치 고장 시 대체 사용 가능",
+    "빅타워 또는 책상 아래 케이스 환경에서도 여유로운 설치 가능",
+    "안전한 저전압 신호 방식 (메인보드 제어 신호만 전달, 전기적 위험 없음)",
+    "투명 아크릴 + 금속 지지대 이중 패널 구조",
+    "하단 스티커를 이용해 원하는 위치에 고정 가능",
+    "오픈 벤치, 수리용, 튜닝 PC 등 DIY 및 테스트 환경에 최적",
+    "산업용 스위치 적용, 약 5만 회 이상 클릭 테스트 통과"
+  ],
+  "specifications": {
+    "소재": "투명 아크릴 + 금속 지지대",
+    "기능": "전원 버튼, 리셋 버튼, 전원 LED(Blue), HDD LED(Red)",
+    "케이블 길이": "약 70~80cm",
+    "연결 방식": "메인보드 F_PANEL (POWER SW / RESET SW / LED 단자)",
+    "호환성": "표준 ATX / Micro ATX / Mini ITX 메인보드",
+    "크기(참고)": "79mm x 39mm x 16mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "품명": "데스크탑 파워, 리셋 스위치"
+  },
+  "compatibility": [
+    "표준 ATX 메인보드 F_PANEL 단자",
+    "Micro ATX 메인보드 F_PANEL 단자",
+    "Mini ITX 메인보드 F_PANEL 단자",
+    "※ Dell, HP OEM 보드 등 일부 브랜드는 커넥터 규격이 다를 수 있어 핀 배열 확인 필요"
+  ],
+  "package_contents": [
+    "외부 전원·리셋 스위치 패널 본체 (LS-SPR) 1개",
+    "연결 케이블 (약 70~80cm) 1개"
+  ],
+  "usage_instructions": "1) 케이스 후면 확장 슬롯이나 팬홀을 통해 케이블을 본체 내부로 통과시킨다. 2) 메인보드 F_PANEL 커넥터에 POWER SW 및 POWER LED를 연결한다. 3) 메인보드 F_PANEL 커넥터에 H.D.D LED 및 RESET SW를 연결한다. 4) 외부 스위치를 원하는 위치에 하단 스티커로 고정한 뒤 패널의 전원·리셋 버튼을 사용한다. ※ F_PANEL 핀 배열은 메인보드 제조사별로 다를 수 있으므로 메인보드 매뉴얼을 반드시 확인 후 연결할 것.",
+  "cautions": [
+    "메인보드 연결 시 반드시 메인보드(PC) 전원을 완전히 차단한 후 작업할 것 — 전원 인가 중 연결 시 메인보드 손상 위험 있음",
+    "F_PANEL 핀 배열은 메인보드 제조사별로 다를 수 있으므로, 메인보드 매뉴얼 확인 후 연결할 것",
+    "잘못된 핀 연결은 LED 불점등 또는 버튼 미작동의 원인이 됨",
+    "POWER LED가 켜지지 않을 경우 커넥터 방향(극성)을 반대로 꽂아볼 것",
+    "Dell, HP OEM 보드 등 일부 제조사 보드는 F_PANEL 커넥터 규격이 달라 호환되지 않을 수 있으므로 핀 배열 사전 확인 필요",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처의 제품은 정품이 아니며 A/S를 받을 수 없음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SPR",
+      "품목코드": "CAB-잡자재602",
+      "품목명": "[LANstar] 데스크탑 파워 전원 버튼스위치 [30963]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "내장케이블"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "아크릴",
+        "금속"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.7,
+        0.8
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "port_count": null,
+      "mount_style": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "케이블을 본체 내부로 통과시킨다",
+    "power.power_mode": "안전한 저전압 신호 방식 (메인보드 제어 신호만 전달, 전기적 위험 없음)",
+    "power.charging_support": "전원·리셋 버튼 일체형 패널",
+    "form_physical.has_case": "투명 아크릴 + 금속 지지대 이중 패널 구조",
+    "form_physical.material": "투명 아크릴 + 금속 지지대",
+    "form_physical.length_options_meters": "케이블 길이: 약 70~80cm",
+    "control_switching.has_physical_button": "전원·리셋 버튼 일체형 패널로 한 곳에서 간편 조작 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:43",
+  "feature_schema_version": "1.0.0"
+}

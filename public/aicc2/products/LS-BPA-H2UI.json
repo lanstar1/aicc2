@@ -1,0 +1,97 @@
+{
+  "model_no": "LS-BPA-H2UI",
+  "product_name": "LANSStar 허브랙/서버랙용 블랭크 판넬 Blank Panel 2U Black/Ivory",
+  "category": [
+    "분배판넬",
+    "서버랙",
+    "허브랙"
+  ],
+  "key_features": [
+    "허브랙 및 서버랙용 빈 슬롯 마감용 블랭크 판넬",
+    "2U 사이즈 규격",
+    "블랙(Black) 및 아이보리(Ivory) 두 가지 색상 제공",
+    "규격 치수: 482(W) x 88(H)mm"
+  ],
+  "specifications": {
+    "타입": "Blank Panel (블랭크 판넬)",
+    "크기(U)": "2U",
+    "색상": "Black, Ivory",
+    "가로 치수": "482mm",
+    "세로 치수": "88mm",
+    "브랜드": "LANSStar (랜스타)"
+  },
+  "compatibility": [
+    "허브랙 (Hub Rack)",
+    "서버랙 (Server Rack)",
+    "19인치 표준 랙 (482mm 폭 기준)"
+  ],
+  "package_contents": [
+    "블랭크 판넬 2U (Black 또는 Ivory)"
+  ],
+  "usage_instructions": "허브랙 또는 서버랙의 빈 슬롯(2U 공간)에 장착하여 마감 처리. 랜스타 허브랙/서버랙용 판넬 장착 방식에 따라 설치.",
+  "cautions": [],
+  "variants": [
+    {
+      "model_no": "LS-BPA-H2UI",
+      "품목코드": "NEO-판넬B003",
+      "품목명": "[LANstar] 브랭크판넬, 2U 아이보리 허브랙/서버랙용[50015][25개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "Black",
+        "Ivory"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "port_count": null,
+      "mount_style": "bracket"
+    }
+  },
+  "feature_evidence": {
+    "form_physical.color_options": "블랙(Black) 및 아이보리(Ivory) 두 가지 색상",
+    "family.mount_style": "허브랙 또는 서버랙의 빈 슬롯(2U 공간)에 장착"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:39",
+  "feature_schema_version": "1.0.0"
+}

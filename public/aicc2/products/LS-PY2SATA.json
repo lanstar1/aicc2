@@ -1,0 +1,101 @@
+{
+  "model_no": "LS-PY2SATA",
+  "product_name": "SATA 전원 케이블 (내부전원 4p/M - SATA 15p/M)",
+  "category": [
+    "컨버터",
+    "커넥터"
+  ],
+  "key_features": [
+    "내부전원 4핀(ㄱ자형 x2)을 SATA 15핀으로 변환하는 전원 케이블",
+    "SATA는 기존 PATA(패러럴 인터페이스)와 호환성을 가진 직렬 연결 인터페이스",
+    "병렬 40핀 커넥터를 7핀으로 축소, 전송 속도 최대 1.5Gbps 지원",
+    "PATA 방식과 완벽한 호환으로 SATA와 PATA 동시 사용 가능",
+    "eSATA는 외장형 기기 연결을 위한 국제 표준 물리 규격으로 최대 3Gbps 전송 속도 지원",
+    "eSATA는 SATA의 ㄱ자 커넥터를 ㅡ자 커넥터로 변경하여 장착성 보완"
+  ],
+  "specifications": {
+    "커넥터 종류": "4핀 전원(ㄱ자형) x2 → SATA 15핀",
+    "케이블 길이": "약 15cm",
+    "SATA 전송 속도": "최대 1.5Gbps",
+    "eSATA 전송 속도": "최대 3Gbps",
+    "내부 구조": "외피복, 쉴드(알루미늄), 접지극, 신호선 A(+), 신호선 B(+), 신호선 A(-), 신호선 B(-)"
+  },
+  "compatibility": [
+    "SATA 인터페이스 장치",
+    "PATA(IDE) 인터페이스 장치",
+    "하드디스크(HDD)",
+    "CD-ROM",
+    "DVD 드라이브",
+    "eSATA 외장형 기기"
+  ],
+  "package_contents": [
+    "SATA 전원 케이블 (내부전원 4p/M - SATA 15p/M) 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Parallel(DB25)"
+      ],
+      "output_signals": [
+        "SATA"
+      ],
+      "directional": "단방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "내부전원 4핀(ㄱ자형 x2)",
+    "connectivity.output_signals": "SATA 15핀으로 변환하는 전원 케이블",
+    "connectivity.directional": "변환하는 전원 케이블",
+    "form_physical.material": "쉴드(알루미늄)",
+    "form_physical.length_meters": "약 15cm",
+    "family.conversion_direction": "변환하는 전원 케이블",
+    "family.requires_external_power": "내부전원 4핀"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:38",
+  "feature_schema_version": "1.0.0"
+}

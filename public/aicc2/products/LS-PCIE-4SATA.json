@@ -1,0 +1,325 @@
+{
+  "model_no": "LS-PCIE-4SATA",
+  "product_name": "SATA III x4 PCI-Express 카드 (LAN Star LS-PCIE-4SATA)",
+  "category": [
+    "방열판"
+  ],
+  "key_features": [
+    "PC 메인보드에 SATA 포트 4개를 추가 생성하는 PCI-Express 카드",
+    "SATA III (6Gbps) 인터페이스 지원, 하위 버전(3Gbps/1.5Gbps) 호환",
+    "PCI-Express 2.0 1배속 규격 사용, 1배속/4배속/8배속/16배속 슬롯 모두 장착 가능",
+    "Marvell 88SE9215 칩셋 사용으로 높은 호환성과 안정성 제공",
+    "칩셋 위에 방열판(Heatsink) 결합으로 발열 대응",
+    "Plug & Play / Hot Swap 지원",
+    "NCQ(Native Command Queuing) 지원",
+    "Windows 11 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "슬롯": "PCI-Express Specification V2.0, Serial ATA Specification 3.0",
+    "인터페이스": "4 x SATA III Connector",
+    "전송속도": "SATA Gen III 6.0 Gbps (최대), 3Gbps / 1.5Gbps 하위 호환",
+    "칩셋": "Marvell 88SE9215",
+    "기능": "Plug & Play, Hot Swap, NCQ(Native Command Queue), SATA 6G/3G/1.5G 속도 지원",
+    "지원 OS": "Windows XP / Vista / 7 / 8 / 10 / 11, Windows Server 2003 / Server 2008 R2, Linux 2.6.x 이상",
+    "제품 크기": "90mm x 56mm x 20mm (전체 길이 119mm)",
+    "제조국": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)",
+    "인증번호": "MSIP-REI-LUS-LS-PCIE-MSATA",
+    "안전규격인증": "KC, FCC, CE",
+    "환경규격": "RoHS Compliant",
+    "품질인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "PCI-Express 2.0 x1 슬롯",
+    "PCI-Express x4 슬롯",
+    "PCI-Express x8 슬롯",
+    "PCI-Express x16 슬롯",
+    "Windows XP / Vista / 7 / 8 / 10 / 11",
+    "Windows Server 2003 / Server 2008 R2",
+    "Linux 2.6.x 이상",
+    "SATA I (1.5Gbps) 장치",
+    "SATA II (3Gbps) 장치",
+    "SATA III (6Gbps) 장치"
+  ],
+  "package_contents": [
+    "LS-PCIE-4SATA 본체 (PCIE SATA3 4Port 카드)",
+    "설치 CD Driver",
+    "슬림 PC 브라켓"
+  ],
+  "usage_instructions": "PC 메인보드의 빈 PCI-Express 슬롯(x1/x4/x8/x16)에 카드를 장착한 후, 포함된 CD Driver를 설치하거나 Plug & Play로 인식하여 사용. SATA 장치를 카드의 SATA 포트에 연결하여 사용 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품 및 콘텐츠를 당사(라인업시스템(주))의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-4SATA",
+      "품목코드": "USB-PCI249",
+      "품목명": "[LANstar] SATA3*4 PCI-e 카드 [30370] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "인식잘되고 넘 좋아요",
+      "관련내용": "사타포트 부족할때 최고입니다! 호환성도 좋고 하드인식도 잘 됩니다"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "사타포트 부족할때 최고입니다! 호환성도 좋고 하드인식도 잘 됩니다"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "잘 작동됩니다.\n좋아요",
+      "관련내용": "아직 안 쓰고 있어요\n4포트에 pci전원인데 가격이 \n비싼감이 있습니다\n잘 작동된다면 괜찮을거 같읍니다"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "한달동안 사용후 너무 좋아요\n설치도 간편하고 더좋운점은 바로 무전원 입니다",
+      "관련내용": "안전하게 도착했습니다\n잘 사용하게습니다"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "아직 안 쓰고 있어요\n4포트에 pci전원인데 가격이 \n비싼감이 있습니다\n잘 작동된다면 괜찮을거 같읍니다"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "안전하게 도착했습니다\n잘 사용하게습니다"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "sata. 부자가 되기 위하여 구매합니다"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "사타 하드디스크가 늘어나서 좋네요"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "랜스타 SATA3 4 PCI-e 카드 LS-PCIE-4SATA"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "필요한 날에만 장치관리자에서 다시 설정하고 재부팅하면 되니깐 좋아요"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "좋아요 하드들 다 정상작동하고 외장 하드독은 인식 불량이 가끔 생기고 고장이 많이 나는데 진작에 내장으로 쓸걸 그랬어요 ㅠ"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "빠른 배송 너무 감사드려요"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "물건 잘 받았습니다. 기존 설치되어있던, SSD 방열판 높이 때문에 문제가 좀 있었지만, 설치 잘 했습니다."
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "잘사용했어요 좋아요"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "우분투에서 별도 드라이버 설치없이 잘 인식 됩니다."
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "하드를 더 달기위해 주문했습니다 \n빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "가격대비 가성비 최고"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "딱 필요한 장비였는데 다행이네요"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "제품 도착하자마자 설치하고 하드 4개를 붙였는데 잘 작동하네요. 속도도 잘 나오고요. 좋습니다."
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "내용": "윈도10 에서 별도 드라이버 설치 없이 바로 인식되고 잘 작동합니다. 좋네요."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "id": 234556903,
+      "date": "2022-08-30 19:56",
+      "answerDate": "2022-09-01 18:05",
+      "user": "vi****",
+      "productName": "랜스타 SATA3 4 PCI-e 카드 LS-PCIE-4SATA",
+      "question": "안녕하세요\n컴퓨존에서 구매 했는데...  윈도우7에서는 인식이 안 돼서 드라이버 설치 해야 될것 같은데 제가 시디룸이 없어서...ㅠㅠ\nvirya@naver.com 여기로 드라이버 보내주실 수 있을까요?ㅠ",
+      "answer": "안녕하세요 랜스타입니다.\n\nhttps://www.lanmart.co.kr/shop/board/view.php?id=lanstardownload&search[subject]=on&search[word]=4sata&subSpeech=%B5%E5%B6%F3%C0%CC%B9%F6&no=168\n\n해당 링크에서 다운로드 부탁드리겠습니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "id": 238701783,
+      "date": "2022-09-29 20:55",
+      "answerDate": "2022-09-30 09:16",
+      "user": "go****",
+      "productName": "랜스타 SATA3 4 PCI-e 카드 LS-PCIE-4SATA",
+      "question": "윈도우11정상작동 될까요?",
+      "answer": "안녕하세요 랜스타 입니다\n\n윈도우11 정상작동 가능 합니다"
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "id": 533448110,
+      "date": "2023-06-12 20:58",
+      "answerDate": "2023-06-13 11:32",
+      "user": "re2q****",
+      "productName": "랜스타 SATA3 4 PCI-e 카드 LS-PCIE-4SATA",
+      "question": "LS-PCIE-2SATA 사용중인데 동시 이용 가능한가요",
+      "answer": "안녕하세요, 고객님. 랜스타입니다.\n\n포트 2개를 동시에 사용하시려는 상황이면 사용이 가능한 점 안내드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해 드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "id": 582824746,
+      "date": "2024-05-30 16:07",
+      "answerDate": "2024-05-30 17:53",
+      "user": "psh8*****",
+      "productName": "랜스타 SATA3 4 PCI-e 카드 LS-PCIE-4SATA",
+      "question": "윈도우11인데 인식이 안되네요\n\n홈페이지에 드라이버는 아래 두개 모두 설치했습니다.\nLS-PCIE-4SATA.zip / Marvell 88SE9215.zip\n\n메인보드는 GIGABYTE Z790 AORUS ELITE 입니다.\n\n혹시 팁 없을까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 자사에서 테스트를 진행하느라 답변이 늦었습니다.\n자사 테스트 결과 윈도우 11에서도 정상 동작 가능합니다.\npcie 슬롯을 변경해서 장착 한번 더 해보시는 걸 권장드립니다.\n이후에도 같은 증상이 발생하신다면 톡톡으로 문의부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "id": 595412241,
+      "date": "2024-09-04 11:04",
+      "answerDate": "2024-09-04 14:10",
+      "user": "ksb6***",
+      "productName": "랜스타 SATA3 4 PCI-e 카드 LS-PCIE-4SATA",
+      "question": "이 제품 각 포트당 하드디스크 용량 얼마까지 지원할까요 ??\n(2tb or 4tb or 8tb 이상)",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n문의주신 제품의 경우 포트당 하드디스크 용량 2TB를 지원합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "id": 597452987,
+      "date": "2024-09-21 04:08",
+      "answerDate": "2024-09-23 10:02",
+      "user": "irus***",
+      "productName": "랜스타 SATA3 4 PCI-e 카드 LS-PCIE-4SATA",
+      "question": "몇 tb 용량까지 인식하나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n최대 2TB까지 지원하는 점 안내 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "id": 599459040,
+      "date": "2024-10-06 18:06",
+      "answerDate": "2024-10-07 09:07",
+      "user": "irus***",
+      "productName": "랜스타 SATA3 4 PCI-e 카드 LS-PCIE-4SATA",
+      "question": "용량 12tb까지 꽂아서 사용중인데 최대치가 궁금해서 글을 남겼는데 최대2tb지원이라고하시면 참으로 당황스럽네요.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인 후 톡톡 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "id": 611485003,
+      "date": "2024-12-27 20:29",
+      "answerDate": "2024-12-30 09:00",
+      "user": "weon*****",
+      "productName": "랜스타 SATA3 4 PCI-e 카드 LS-PCIE-4SATA",
+      "question": "다른 제품이 왔어요 4포트 사타카드 주문했는데 2포트 사타카드가 왔어요 교환 바랍니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n우선 원활한 제품 수령에 불편을 드려 죄송합니다.\n혹시 해당 건 받아보신 이미지와 함께 톡톡 주실 수 있으실까요?\n\n확인 후 빠르게 안내 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "id": 618399687,
+      "date": "2025-02-20 11:20",
+      "answerDate": "2025-02-20 14:32",
+      "user": "rhgm*****",
+      "productName": "랜스타 SATA3 4 PCI-e 카드 LS-PCIE-4SATA",
+      "question": "안녕하세요\n궁금한것인데요\nSATA3 4 PCI-e 카드 LS-PCIE-4SATA 무전원 인가요??\n아니면 별로 전원케이블이 필요하는지??\n유튜브 잘보고 있습니다 구독자 입니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 카드는 PCI슬롯을 통하여 전력을 공급받아 사용 가능 합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-4SATA",
+      "id": 619338363,
+      "date": "2025-02-27 17:20",
+      "answerDate": "2025-02-27 17:38",
+      "user": "rhgm*****",
+      "productName": "랜스타 SATA3 4 PCI-e 카드 LS-PCIE-4SATA",
+      "question": "안녕하세요\n궁금한것인데요\n제가 이제품 구입예정입니다\n그렌데 현재 재고가 있는지 알고싶습니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품 재고 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "PCI-Express"
+      ],
+      "output_signals": [
+        "SATA"
+      ],
+      "directional": "N/A",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "fan_size_mm": null,
+      "rpm_max": null,
+      "cooling_target": [
+        "기타"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "PCI-Express 카드",
+    "connectivity.output_signals": "SATA 포트 4개를 추가 생성",
+    "connectivity.port_count": "SATA 포트 4개를 추가 생성",
+    "power.power_mode": "PC 메인보드의 빈 PCI-Express 슬롯",
+    "form_physical.has_case": "칩셋 위에 방열판(Heatsink) 결합",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS Compliant",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "family.cooling_target": "칩셋 위에 방열판(Heatsink) 결합으로 발열 대응"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:09",
+  "feature_schema_version": "1.0.0"
+}

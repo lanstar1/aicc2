@@ -1,0 +1,141 @@
+{
+  "model_no": "LS-F850",
+  "product_name": "LANStar CAT.8 FTP RJ45 8P8C Tooless 키스톤잭",
+  "category": [
+    "랜케이블-CAT8",
+    "랜케이블-FTP",
+    "커넥터",
+    "키스톤잭",
+    "LAN공구"
+  ],
+  "key_features": [
+    "별도의 도구 없이 랜 커넥터 제작이 가능한 Tooless 방식",
+    "40Gbps 속도 및 2,000MHz 대역폭 지원",
+    "구성품(부트, 케이블 타이) 조립 시 높은 결합력으로 랜선 이탈 방지",
+    "단선과 연선 공용 사용 가능",
+    "배선캡에서 케이블 꼬임을 유지하여 성능과 지속성 향상",
+    "최대 6~8.5mm 두께의 랜 케이블까지 제작 가능",
+    "FTP 차폐 구조(노이즈 방지 쉴드 및 접지 스티커 포함)"
+  ],
+  "specifications": {
+    "규격": "CAT.8 FTP",
+    "커넥터 타입": "RJ45 8P8C",
+    "대역폭": "2,000MHz",
+    "전송 속도": "최대 40Gbps (40,000Mbps)",
+    "지원 속도 목록": "10Mbps, 100Mbps, 1Gbps, 10Gbps, 40Gbps",
+    "호환 케이블 외경": "6~8.5mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "R-R-LUS-LS-M850",
+    "안전규격 인증": "KC, FCC, CE, RoHS",
+    "품질 인증": "ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "CAT.8 FTP/SSTP 랜 케이블",
+    "RJ45 8P8C 표준 규격",
+    "T568A (크로스) 배선",
+    "T568B (다이렉트) 배선",
+    "단선 및 연선 케이블 공용",
+    "외경 6~8.5mm 랜 케이블"
+  ],
+  "package_contents": [
+    "FTP 키스톤잭 (RJ45 8P8C) 본체",
+    "배선캡",
+    "접지 스티커",
+    "케이블 타이"
+  ],
+  "usage_instructions": "1) CAT.8 케이블을 준비한 뒤 3cm 가량 피복을 벗긴다. 2) 노이즈 방지 쉴드를 정리하여 접지 스티커로 고정한다. 3) 접지 스티커로 감싸고 남은 노이즈 방지 쉴드를 제거한다. 4) 케이블을 감싼 은박 코팅을 제거한다. 5) 배선캡 구멍으로 케이블을 넣는다. 6) 배선캡 표시에 맞춰 색깔별로 케이블을 나눈다. 7) 배선캡 표시대로 나눈 케이블을 홈에 맞춰 눌러 끼운다. 8) 배선캡 밖으로 나온 케이블을 제거한다. 9) 케이블과 연결된 배선캡을 키스톤잭 홈에 맞게 끼운다. 10) 케이블 타이로 연결 부분을 고정한 후 불필요한 부분을 제거하면 완성.",
+  "cautions": [
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "RoHS 규정 준수 제품으로 납, 수은, 카드뮴 등 중금속 사용 제한 기준 충족"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-F850",
+      "품목코드": "NEO-콘넥터117",
+      "품목명": "[LANstar] Tooless 키스톤잭,CAT.8 FTP, 40G [60134]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT8",
+      "shielding": "FTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 8P8C",
+    "connectivity.output_signals": "RJ45 8P8C",
+    "connectivity.directional": "Tooless 키스톤잭",
+    "connectivity.port_count": "키스톤잭",
+    "power.power_mode": "N/A",
+    "power.charging_support": "N/A",
+    "form_physical.has_case": "키스톤잭",
+    "form_physical.material": "N/A",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "family.cat_category": "CAT.8 FTP",
+    "family.shielding": "FTP 차폐 구조",
+    "family.conductor": "단선과 연선 공용 사용 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:10",
+  "feature_schema_version": "1.0.0"
+}

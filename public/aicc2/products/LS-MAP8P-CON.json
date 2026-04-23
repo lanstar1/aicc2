@@ -1,0 +1,119 @@
+{
+  "model_no": "LS-MAP8P-CON",
+  "product_name": "자석 애플 8핀 케이블 콘넥터",
+  "category": [
+    "커넥터",
+    "아이폰케이블"
+  ],
+  "key_features": [
+    "자석 방식 애플 8핀 커넥터 (데이터 충전+전송 지원)",
+    "커넥터 단독 판매 제품 (케이블 본체 미포함)",
+    "잦은 탈착으로 인한 커넥터 손상 방지 및 수명 연장",
+    "먼지·이물질 유입 차단",
+    "커넥터 분리용 제거기(U자형 홈) 동봉",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS, FCC, CE, ISO 9001:2008 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-MAP8P-CON",
+    "커넥터 규격": "Apple 8Pin (8핀)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "인증 규격": "RoHS, FCC, CE, ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "Apple 8핀(Lightning) 단자 사용 기기",
+    "LANStar 자석 케이블 본체 (별도 구매)"
+  ],
+  "package_contents": [
+    "자석 애플 8핀 케이블 콘넥터 본체",
+    "콘넥터 제거기 (U자형 홈)"
+  ],
+  "usage_instructions": "자석 케이블 본체(별도 구매)에 본 커넥터를 장착하여 사용. 기기와 케이블 분리 시 앞으로 당기면 자성에 의해 커넥터가 딸려나올 수 있으므로 살짝 옆으로 들어 빼야 함. 커넥터 분리 시에는 동봉된 제거기의 U자형 홈에 끼워 빼냄.",
+  "cautions": [
+    "커넥터 단독 판매이며 케이블 본체는 포함되어 있지 않음 (자석 케이블 구입은 별도 문의)",
+    "기기와 케이블 분리 시 앞으로 당기지 말고 살짝 옆으로 들어 빼야 함 (자성에 의해 커넥터가 딸려나올 수 있음)",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주) 제작 상품 및 콘텐츠 무단 복제 및 이용 금지",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 070-7018-3386 (라인업시스템)"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MAP8P-CON",
+      "품목코드": "CAB-모바일031",
+      "품목명": "[LANstar] 자석 애플 8핀/라이트닝 충전케이블 커넥터(단품) [60057]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "내장케이블"
+      ],
+      "output_signals": [
+        "내장케이블"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "Apple 8Pin",
+      "connector_type_b": null,
+      "gender": "M-F",
+      "pin_count": 8
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "자석 방식 애플 8핀 커넥터",
+    "connectivity.output_signals": "자석 방식 애플 8핀 커넥터",
+    "connectivity.directional": "데이터 충전+전송 지원",
+    "power.charging_support": "데이터 충전+전송 지원",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "family.connector_type_a": "Apple 8Pin (8핀)",
+    "family.gender": "커넥터 단독 판매 제품",
+    "family.pin_count": "8핀"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:23",
+  "feature_schema_version": "1.0.0"
+}

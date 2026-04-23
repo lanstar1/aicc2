@@ -1,0 +1,125 @@
+{
+  "model_no": "LS-HDMIG-AFCM",
+  "product_name": "HDMI Mini 젠더",
+  "category": [
+    "HDMI케이블",
+    "컨버터",
+    "젠더"
+  ],
+  "key_features": [
+    "HDMI(F) ↔ Mini HDMI(M) 변환 젠더",
+    "HDMI 기기 연결 및 케이블 연장 시 사용"
+  ],
+  "specifications": {
+    "모델명": "LS-HDMIG-AFCM",
+    "커넥터 구성": "HDMI (F) - Mini HDMI (M)",
+    "제조국/원산지": "Made in China",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "HDMI 표준 포트 탑재 기기",
+    "Mini HDMI 포트 탑재 기기"
+  ],
+  "package_contents": [
+    "HDMI Mini 젠더 본체 1개"
+  ],
+  "usage_instructions": "HDMI(F) 단자를 HDMI 기기 또는 케이블에 연결하고, Mini HDMI(M) 단자를 Mini HDMI 포트 탑재 기기에 연결하여 사용. 케이블 연장 시에도 활용 가능.",
+  "cautions": [
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 의거하여 보상 처리됨"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMIG-AFCM",
+      "품목코드": "GEN-HDI038",
+      "품목명": "[LANstar] HDMI미니젠더, HDMI A／F-C／M, Black[20096]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDMIG-AFCM",
+      "내용": "빠르게 배송 잘 받았네요"
+    },
+    {
+      "source_model": "LS-HDMIG-AFCM",
+      "내용": "튼튼해보이진 않지만 기능은 정상입니다."
+    },
+    {
+      "source_model": "LS-HDMIG-AFCM",
+      "내용": "배송도 빠르고 제품도 좋아 늘 이곳에서 주문합니다. 많이 파세요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무관",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI(F) ↔ Mini HDMI(M)",
+    "connectivity.output_signals": "HDMI(F) ↔ Mini HDMI(M)",
+    "connectivity.directional": "변환 젠더",
+    "connectivity.port_count": "HDMI(F) ↔ Mini HDMI(M)",
+    "power.power_mode": "HDMI Mini 젠더",
+    "power.charging_support": "HDMI Mini 젠더",
+    "form_physical.has_case": "HDMI Mini 젠더",
+    "audio_video.max_resolution": "HDMI Mini 젠더",
+    "audio_video.hdcp_version": "HDMI Mini 젠더",
+    "family.hdmi_version": "HDMI Mini 젠더",
+    "family.dp_version": "HDMI Mini 젠더",
+    "family.dvi_type": "HDMI Mini 젠더",
+    "family.optical_core": "HDMI Mini 젠더",
+    "family.ethernet_channel": "HDMI Mini 젠더"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:26",
+  "feature_schema_version": "1.0.0"
+}

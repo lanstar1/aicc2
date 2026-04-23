@@ -1,0 +1,96 @@
+{
+  "model_no": "LS-BRP-H2UI",
+  "product_name": "랜스타 허브랙/서버랙용 브라켓 판넬 (Bracket Panel, 2U, Ivory/Black)",
+  "category": [
+    "분배판넬",
+    "서버랙",
+    "허브랙"
+  ],
+  "key_features": [
+    "허브랙 및 서버랙에 장착 가능한 브라켓 판넬",
+    "2U 크기 규격",
+    "Ivory 및 Black 두 가지 색상 제공",
+    "표준 19인치 랙 규격 호환 (482mm 너비)"
+  ],
+  "specifications": {
+    "타입": "Bracket Panel (브라켓 판넬)",
+    "유닛": "2U",
+    "색상": "Ivory, Black",
+    "크기": "482(W) x 88(H) mm"
+  },
+  "compatibility": [
+    "허브랙 (Hub Rack)",
+    "서버랙 (Server Rack)",
+    "19인치 표준 랙 (너비 482mm 규격)"
+  ],
+  "package_contents": [
+    "브라켓 판넬 본체 (Bracket Panel, 2U)"
+  ],
+  "usage_instructions": "허브랙 또는 서버랙의 빈 슬롯에 브라켓 판넬을 장착하여 사용. 1U/2U 블랭크 판넬, 엔트리 판넬, 매니지먼트 판넬 등과 함께 혼용 장착 가능.",
+  "cautions": [],
+  "variants": [
+    {
+      "model_no": "LS-BRP-H2UI",
+      "품목코드": "NEO-판넬R003",
+      "품목명": "[LANstar] 브라켓판넬, 2U, 4HOLE 아이보리 허브랙/서버랙 겸용[50019]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "Ivory",
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "port_count": null,
+      "mount_style": "bracket"
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "브라켓 판넬",
+    "form_physical.color_options": "Ivory 및 Black 두 가지 색상 제공",
+    "family.mount_style": "허브랙 및 서버랙에 장착 가능한 브라켓 판넬"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:41",
+  "feature_schema_version": "1.0.0"
+}

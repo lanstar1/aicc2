@@ -1,0 +1,125 @@
+{
+  "model_no": "LS-EXP-PX302",
+  "product_name": "LANStar USB 3.0 2Port PCM Express Card",
+  "category": [
+    "USB3.0",
+    "USB2.0"
+  ],
+  "key_features": [
+    "USB 3.0 SuperSpeed 5Gbps 초고속 전송속도 지원 (USB 2.0 대비 10배 이상 빠름)",
+    "PCI Express 2.0 규격 지원, Single-lane(x1) PCI Express 5Gbps 처리속도 지원",
+    "USB 3.0 2포트 확장 — USB 3.0 포트가 없는 노트북에서 USB 3.0 사용 가능",
+    "USB 3.0 / USB 2.0 / USB 1.1 완벽 하위 호환 지원",
+    "Windows 7 64bit 환경 완벽 지원",
+    "900mA 전원 공급으로 외장하드 인식률 향상 (USB 2.0의 500mA 대비 향상)",
+    "데이터 전송 중 전원 부족으로 인한 접속 끊김 현상 방지",
+    "USB 3.0 슬립(Sleep) 저전력 모드 지원",
+    "NEC Host Controller Chipset 탑재로 안정성과 호환성 보장",
+    "KCC(정보통신부) 전자파 적합등록 인증 획득 (인증번호: KCC-REM-LUS-LS-EXP-PX302)",
+    "보조전원 포트 및 보조전원 케이블 제공으로 안정적 전원공급 가능"
+  ],
+  "specifications": {
+    "Bus Type": "PCM Express",
+    "Chipset": "NEC",
+    "Number of Ports": "USB 3.0 x 2ea",
+    "Transfer Rate": "Low Speed: 1.5Mbps / Full Speed: 12Mbps / High Speed: 480Mbps / SuperSpeed: 5Gbps",
+    "Operating Temperature": "-10 to 80℃",
+    "Storage Temperature": "-20 to 100℃",
+    "OS Compatibility": "Windows 2000 / XP / 2003 / Vista / 7",
+    "KCC 인증번호": "KCC-REM-LUS-LS-EXP-PX302",
+    "전원공급 전류": "900mA (USB 3.0)"
+  },
+  "compatibility": [
+    "Windows 2000",
+    "Windows XP",
+    "Windows 2003",
+    "Windows Vista",
+    "Windows 7 (32bit / 64bit)",
+    "USB 3.0",
+    "USB 2.0",
+    "USB 1.1",
+    "PCI Express 2.0 (Single-lane x1)",
+    "ExpressCard(PCMCIA) 슬롯 장착 노트북"
+  ],
+  "package_contents": [
+    "카드 본체 1개",
+    "보조 전원케이블 1개",
+    "설치 드라이버 CD 1개"
+  ],
+  "usage_instructions": "노트북의 ExpressCard(PCMCIA) 슬롯에 카드를 삽입하여 사용. 드라이버 CD를 이용해 드라이버를 설치. 외장하드 등 안정적 전원이 필요한 장치 연결 시 보조전원 케이블을 보조전원 포트에 연결하여 사용.",
+  "cautions": [
+    "정보통신부 KCC 인증을 받지 않은 유사품에 주의하시기 바랍니다.",
+    "구매 시 KCC 인증번호(KCC-REM-LUS-LS-EXP-PX302)를 반드시 확인하시기 바랍니다.",
+    "사업지원 여부는 모임(판매처/구매처)에 따라 다를 수 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 2포트 확장",
+    "connectivity.output_signals": "USB 3.0 2포트 확장",
+    "connectivity.directional": "USB 3.0 SuperSpeed 5Gbps 초고속 전송속도 지원",
+    "connectivity.port_count": "USB 3.0 x 2ea",
+    "power.power_mode": "900mA 전원 공급",
+    "power.charging_support": "900mA 전원 공급으로 외장하드 인식률 향상",
+    "certification.kc": "KCC(정보통신부) 전자파 적합등록 인증 획득",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.usb_version": "USB 3.0 SuperSpeed 5Gbps",
+    "family.transfer_speed_gbps": "SuperSpeed: 5Gbps",
+    "family.charging_only": "데이터 전송 중 전원 부족으로 인한 접속 끊김 현상 방지",
+    "family.data_only": "USB 3.0 SuperSpeed 5Gbps 초고속 전송속도 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:03",
+  "feature_schema_version": "1.0.0"
+}

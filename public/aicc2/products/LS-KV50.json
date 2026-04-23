@@ -1,0 +1,129 @@
+{
+  "model_no": "LS-KV50",
+  "product_name": "LANStar 모니터 분배기 VIDEO SPLITTER",
+  "category": [
+    "HDMI분배기"
+  ],
+  "key_features": [
+    "본체 1대로 여러 대의 모니터에 동일 화면을 디스플레이하는 장치",
+    "전시장, 관공서, 병원 등 홍보용 모니터링 시스템에 활용 가능",
+    "프리젠테이션, 원격지 TV 출력, 화상 회의 교육 시스템에 활용 가능",
+    "대역폭 450MHz",
+    "최대 해상도 2048×1536",
+    "케이블 전송거리 (분배기 ↔ 모니터) 최대 65m(213ft)",
+    "DDC, DDC2, DDC2B 중 1개 Port만 선택적으로 지원",
+    "제품끼리 Uplink(Daisy Chain)하여 추가 연결 가능",
+    "모든 VGA 카드와 상호 호환",
+    "당사 LANStar 모니터 선택기(LS-KS401, LS-KS801 등)와 조합 사용 가능"
+  ],
+  "specifications": {
+    "Video In Connector": "HDB 15P / Male, 1Port (전 모델 공통)",
+    "Video Out Connector (LS-KV502)": "HDB 15P / Female, 2Port",
+    "Video Out Connector (LS-KV504)": "HDB 15P / Female, 4Port",
+    "Video Out Connector (LS-KV508)": "HDB 15P / Female, 8Port",
+    "Video Bandwidth": "450MHz",
+    "Maximum Resolution": "2048×1536",
+    "Cable Distance (Splitter to Monitor)": "65m (213ft)",
+    "Support Signal": "VGA, SVGA, XGA, Multisync",
+    "Power Adapter": "DC 5V 1A",
+    "동작온도/습도": "-20~60°C / 0~80%",
+    "Housing": "Metal",
+    "Size (LS-KV502)": "130×75×40",
+    "Size (LS-KV504)": "130×75×40",
+    "Size (LS-KV508)": "200×75×40"
+  },
+  "compatibility": [
+    "모든 VGA 카드",
+    "VGA, SVGA, XGA, Multisync 신호 지원",
+    "DDC, DDC2, DDC2B (1개 Port 선택 지원)",
+    "LANStar 모니터 선택기 LS-KS401",
+    "LANStar 모니터 선택기 LS-KS801"
+  ],
+  "package_contents": [
+    "모니터 분배기 본체 1대",
+    "사용자 메뉴얼 및 보증서",
+    "DC Power Adapter 및 USB 전원케이블 Y형",
+    "연결케이블 1개 (PC 분배기용, HDB 15P M/F)"
+  ],
+  "usage_instructions": "1) 컴퓨터, 모니터, 모니터 분배기 등 모든 전원 OFF. 2) 동봉된 연결케이블(HDB 15P M/F)로 PC Video Port와 분배기 Video In Port를 연결. 3) 분배기의 Video Out Port와 모니터(또는 TV)를 연결. 4) 분배기 → 모니터 → PC 순으로 전원 ON. Daisy Chain 연결 시 상단 분배기의 출력단자와 하단 분배기의 Video In Port를 연결.",
+  "cautions": [
+    "DDC, DDC2, DDC2B 중 1개 Port만 선택적으로 지원되므로 연결 구성 시 유의",
+    "전원 연결은 DC 5V 1A 또는 USB 전원만 사용할 것",
+    "설치 시 모든 기기의 전원을 OFF한 후 케이블 연결 진행",
+    "전원 ON 순서 준수: 분배기 → 모니터 → PC 순"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "2048×1536",
+      "hdr_support": false,
+      "hdcp_version": "없음",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "input_count": 1,
+      "output_count": null,
+      "mode": [
+        "분배"
+      ],
+      "cascade_support": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Video In Connector: HDB 15P",
+    "connectivity.output_signals": "Video Out Connector (LS-KV502): HDB 15P",
+    "connectivity.directional": "본체 1대로 여러 대의 모니터에 동일 화면을 디스플레이하는 장치",
+    "power.power_mode": "Power Adapter: DC 5V 1A",
+    "form_physical.has_case": "Housing: Metal",
+    "form_physical.material": "Housing: Metal",
+    "audio_video.max_resolution": "최대 해상도 2048×1536",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "family.input_count": "Video In Connector: HDB 15P / Male, 1Port",
+    "family.mode": "LANStar 모니터 분배기 VIDEO SPLITTER",
+    "family.cascade_support": "제품끼리 Uplink(Daisy Chain)하여 추가 연결 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:57",
+  "feature_schema_version": "1.0.0"
+}

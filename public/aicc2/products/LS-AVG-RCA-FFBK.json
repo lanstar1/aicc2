@@ -1,0 +1,130 @@
+{
+  "model_no": "LS-AVG-RCA-FFBK",
+  "product_name": "LANStar AV 변환젠더 1RCA (1RCA/F-1RCA/F, 검정)",
+  "category": [
+    "컨버터",
+    "젠더",
+    "커넥터",
+    "RCA케이블",
+    "AV케이블"
+  ],
+  "key_features": [
+    "양쪽 모두 1RCA(F) 타입 커넥터로 구성된 젠더",
+    "1RCA(M) 케이블 연장 시 사용하는 일체형 연장 젠더",
+    "6가지 색상 라인업 보유",
+    "RoHS 준수 제품 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 타입": "1RCA(F) - 1RCA(F)",
+    "색상": "검정 (총 6가지 색상 라인업)",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "RoHS": "RoHS Compliant",
+    "품질인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "1RCA(M) 타입 케이블"
+  ],
+  "package_contents": [
+    "AV 변환젠더 1RCA (F/F) 본체 1개"
+  ],
+  "usage_instructions": "1RCA(M) 케이블 두 개를 연장할 때 본 젠더의 양쪽 RCA(F) 포트에 각각 연결하여 사용합니다.",
+  "cautions": [
+    "유통 과정상 제품의 모양이나 색상은 조금씩 달라질 수 있습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "LANStar® 제품을 무단으로 복제·제작한 유사 제품 사용 시 불이익을 당할 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품은 판매처(쇼핑몰 하단 참조)를 통해 문의하세요.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-AVG-RCA-FFBK",
+      "품목코드": "GEN-오디영005",
+      "품목명": "[LANstar] AV젠더Changer , 1RCA F／F, Black[20005]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RCA"
+      ],
+      "output_signals": [
+        "RCA"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "검정"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "1RCA(F) 타입 커넥터",
+    "connectivity.output_signals": "1RCA(F) 타입 커넥터",
+    "connectivity.directional": "양쪽 모두 1RCA(F) 타입 커넥터",
+    "connectivity.port_count": "양쪽 모두 1RCA(F) 타입 커넥터",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "젠더",
+    "form_physical.color_options": "검정 (총 6가지 색상 라인업)",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "AV 변환젠더",
+    "audio_video.hdcp_version": "AV 변환젠더",
+    "audio_video.audio_pass": "1RCA(M) 케이블 연장",
+    "control_switching.has_remote": "젠더",
+    "control_switching.has_hotkey": "젠더",
+    "control_switching.has_physical_button": "젠더",
+    "control_switching.has_mouse_switching": "젠더",
+    "control_switching.has_auto_scan": "젠더",
+    "control_switching.has_app_control": "젠더",
+    "family.conversion_direction": "양쪽 모두 1RCA(F) 타입 커넥터",
+    "family.requires_external_power": "무전원"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:25",
+  "feature_schema_version": "1.0.0"
+}

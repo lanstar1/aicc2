@@ -1,0 +1,145 @@
+{
+  "model_no": "LS-PCIE-EX1284N",
+  "product_name": "LAN Star 패러럴 포트 + 시리얼 2포트 PCI-Express 콤보 카드",
+  "category": [
+    "시리얼카드"
+  ],
+  "key_features": [
+    "PCI-Express x1 슬롯 하나를 통해 Parallel 1포트, Serial 2포트를 동시에 생성",
+    "WCH382L 칩셋 채택, 256 Byte FIFO 버퍼 내장",
+    "Serial 통신 속도 50bps ~ 128Kbps 지원 (각 포트 최대 115Kbps)",
+    "Parallel 포트 최대 2Mbps 지원",
+    "PCI-Express x1 슬롯부터 x4, x8, x16 슬롯까지 모두 호환",
+    "10핀 내부연결을 통해 시리얼 2포트를 PC 브라켓에 고정 후 사용 가능",
+    "Windows 11 지원",
+    "국립전파연구원 KC 인증 획득",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "버스 타입": "PCI-Express x1 Rev1.1, 2.5Gbps",
+    "칩셋": "WCH382L",
+    "시리얼 속도": "최대 115Kbps (각 포트)",
+    "패러럴 속도": "최대 2Mbps",
+    "인터페이스": "DB9 Serial 2포트, DB25 Parallel 1포트",
+    "FIFO 버퍼": "256 Byte",
+    "지원 OS": "Windows 98SE / ME / Server 2000 / XP / Server 2003 / Vista / Win 7 / Server 2008 / Server 2016 / Win 8 / Win 8.1 / Win 10 / Win 11, DOS, Linux",
+    "제품 크기": "120mm x 79mm x 47mm (두께 18mm)",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "KCC-REI-LUS-LS-PCIE-EX1284"
+  },
+  "compatibility": [
+    "PCI-Express x1 슬롯",
+    "PCI-Express x4 슬롯",
+    "PCI-Express x8 슬롯",
+    "PCI-Express x16 슬롯",
+    "일반 프린터 (패러럴 포트)",
+    "도트 프린터 (패러럴 포트)",
+    "스캐너 (패러럴 포트)",
+    "카드계산용 포스기기 (시리얼 포트)",
+    "라벨 프린터기 (시리얼 포트)",
+    "바코드 스캐너 (시리얼 포트)",
+    "GPS / 네비게이션 (시리얼 포트)",
+    "PDA (시리얼 포트)",
+    "FOS 기기 (시리얼 포트)"
+  ],
+  "package_contents": [
+    "LS-PCIE-EX1284N 본체 카드 1개",
+    "슬림 PC용 브라켓 1개",
+    "CD Driver 1개",
+    "Parallel 브라켓 1개",
+    "Serial 브라켓 2개"
+  ],
+  "usage_instructions": "1. PC의 PCI-Express 슬롯에 카드를 올바르게 장착한다. 2. 장치 관리자 > 기타 장치에서 'PCI 직렬 포트' 항목이 나타나는지 확인한다. 3. 제품 구성품의 CD를 삽입하고 'SERIAL&PARALLEL' 폴더로 이동한다. 4. 'CH38XDRV' 폴더에 진입한다. 5. 사용 중인 OS 비트에 맞는 SETUP 파일을 실행한다 (32bit: PUMPSETUP / 64bit: PUMPSETUP64). 6. 설치 프로그램에서 'Install Driver'를 선택하여 드라이버를 설치한다. 7. 설치 완료 후 장치 관리자 > 포트(COM & LPT) 항목에서 'WCH PCI Express-PARALLEL(LPT)', 'WCH PCI Express-SERIAL(COM)' 항목이 정상 등록되었는지 확인한다. 8. 사용자 환경에 맞게 각 포트를 설정하여 사용한다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "LAN Star 정품 이외의 무단으로 제작한 제품 및 이미지를 사용하면 불이익을 당할 수 있습니다.",
+    "드라이버는 VCH(WCH) 상표 칩을 사용한 PCI/PCIE/USB 시리얼 포트 카드만 지원합니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-EX1284N",
+      "품목코드": "USB-PCI253",
+      "품목명": "[LANstar] 시리얼 2포트 + 패러럴 1포트 콤보 PCIe 카드 [30432] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "PCIe"
+      ],
+      "output_signals": [
+        "Serial(DB9)",
+        "Parallel(DB25)"
+      ],
+      "directional": "N/A",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 2500,
+      "chipset": "WCH382L"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "PCI-Express x1 슬롯",
+    "connectivity.output_signals": "Parallel 1포트, Serial 2포트",
+    "connectivity.port_count": "Parallel 1포트, Serial 2포트",
+    "power.power_mode": "PCI-Express x1 슬롯",
+    "power.charging_support": "null",
+    "audio_video.max_resolution": "null",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "certification.kc": "KC 인증 획득",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.bus_interface": "PCI-Express x1 슬롯",
+    "family.speed_mbps": "2.5Gbps",
+    "family.chipset": "WCH382L 칩셋 채택"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:05",
+  "feature_schema_version": "1.0.0"
+}

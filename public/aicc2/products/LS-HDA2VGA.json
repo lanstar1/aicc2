@@ -1,0 +1,197 @@
+{
+  "model_no": "LS-HDA2VGA",
+  "product_name": "LANStar HDMI TO VGA 컨버터",
+  "category": [
+    "VGA",
+    "컨버터",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "HDMI A Type 입력을 VGA 출력으로 변환",
+    "최대 1080P Full HD 30Hz 지원",
+    "HDCP 1.2 지원 (영상 저작권 보호 기술)",
+    "Plug and Play 지원 (별도 드라이버 불필요)",
+    "3.5mm 스테레오 오디오 출력 단자 제공",
+    "Micro USB 전원 공급 방식",
+    "아날로그 비디오 UXGA 출력 지원",
+    "10bit DAC 탑재",
+    "채널 당 165MHz / 1.65Gbps 지원",
+    "HDMI 신호를 VGA로 변환 출력 (오디오 미지원)",
+    "1080P Full HD 3D 지원 (1920x1080 @60Hz)",
+    "CH7101B HDMI 입력 감지 리피터 칩셋 탑재",
+    "Micro B 타입 전원 단자 내장",
+    "RGB 연장케이블(LS-RGB-15MF10M-RGB) 사용 시 최대 10M까지 연장 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC, FCC, CE, RoHS 인증 획득",
+    "ISO 9001:2008 품질경영시스템 적용",
+    "국립전파연구원 인증 획득 (인증번호: KCC-REI-LS-PAD2VGA)"
+  ],
+  "specifications": {
+    "입력 단자": "HDMI A Type",
+    "출력 단자": "VGA 커넥터",
+    "오디오 출력": "3.5mm 스테레오",
+    "전원 공급": "Micro USB",
+    "제품 길이(케이블)": "0.15M",
+    "케이블 총 길이(커넥터 포함)": "17.5CM",
+    "본체 크기": "가로 4.5CM x 세로 4.3CM x 두께 1.5CM",
+    "지원 해상도": "480P, 720P, 1080i, 1080P (자동 감지) / Full HD 1920x1080 (1080p), HD 1280x720, SD 720x480",
+    "대역폭": "1080p 지원",
+    "DAC": "10bit",
+    "채널 대역폭": "165MHz / 1.65Gbps",
+    "아날로그 비디오 출력": "UXGA",
+    "HDCP 지원": "HDCP 1.2",
+    "Plug and Play": "지원",
+    "작동 온도": "10~40°C",
+    "보관 온도": "-15~85°C",
+    "지원 OS": "Windows XP, Vista, 7, 8",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "KCC-REI-LUS-LS-PAD2VGA / KCC-REI-LS-PAD2VGA",
+    "AS 소비자상담": "070-7018-3386",
+    "전원 단자": "Micro B/F",
+    "케이블 길이": "1.8M (1800mm)",
+    "주사율": "60Hz",
+    "3D 지원": "지원",
+    "오디오 지원": "미지원",
+    "내장 칩셋": "CH7101B HDMI 입력 감지 리피터",
+    "제품 크기": "135mm (커넥터부 기준, 단자 직경 5.5mm / 2.8mm)",
+    "제조사": "라인업시스템(주)",
+    "인증 규격": "KC, FCC, CE, RoHS COMPLIANT",
+    "품질 인증": "ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "HDMI A Type 출력이 가능한 노트북",
+    "HDMI A Type 출력이 가능한 데스크탑",
+    "HDMI A Type 출력이 가능한 셋톱박스",
+    "HDMI A Type 출력이 가능한 게임기",
+    "VGA 포트가 있는 모니터",
+    "VGA 포트가 있는 TV",
+    "VGA 포트가 있는 프로젝터",
+    "Windows XP / Vista / 7 / 8",
+    "HDMI 출력 단자를 갖춘 노트북",
+    "HDMI 출력 단자를 갖춘 데스크탑 PC",
+    "HDMI 출력 단자를 갖춘 게임기",
+    "VGA 입력 단자를 갖춘 모니터",
+    "VGA 입력 단자를 갖춘 TV",
+    "VGA 입력 단자를 갖춘 프로젝터",
+    "HDTV"
+  ],
+  "package_contents": [
+    "HDMI TO VGA 컨버터 본체 1개",
+    "HDMI to VGA 컨버터 케이블 1.8M (LS-HDA2VGA-1.8M) 1개"
+  ],
+  "usage_instructions": "1. HDMI 입력 단자에 데스크탑, 노트북, 게임기, 셋톱박스 등 HDMI 출력 기기를 연결합니다. 2. VGA 출력 단자에 VGA 포트가 있는 모니터, TV, 프로젝터를 연결합니다. 3. Micro USB 포트에 스마트폰 충전기 등을 이용하여 전원을 공급합니다. 4. 음성 출력이 필요한 경우 3.5mm 스테레오 케이블(별도 구매)을 연결합니다. 5. Plug and Play 지원으로 별도 드라이버 설치 없이 사용 가능합니다.",
+  "cautions": [
+    "Micro USB 전원 케이블은 제품에 포함되지 않으며 별도 구매 필요 (일반 가정용 Micro USB 케이블 사용 가능)",
+    "3.5mm 스테레오 케이블은 제품에 포함되지 않으며 별도 구매 필요",
+    "VGA는 아날로그 출력 방식이므로 HDMI 디지털 신호를 변환하며, 반대 방향(VGA→HDMI) 변환은 지원하지 않음",
+    "품질 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDA2VGA",
+      "품목코드": "INT-HD선040",
+      "품목명": "[LANstar] HDMI TO VGA 영상/오디오지원 0.15M[30092]-선타입-물건잘확인하세요- (200개)",
+      "variant_suffix": "",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDA2VGA-1.8M",
+      "품목코드": "INT-HD선098",
+      "품목명": "[LANstar] HDMI TO VGA 컨버터 케이블 1.8M/ With Power-Micro B(F) (150개) [10968]",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDA2VGA",
+      "내용": "저렴하고 성능도 좋아요"
+    },
+    {
+      "source_model": "LS-HDA2VGA",
+      "내용": "좋아요좋아요좋아요좋아요"
+    },
+    {
+      "source_model": "LS-HDA2VGA-1.8M",
+      "내용": "실물과 동일 합니다~~"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-HDA2VGA-1.8M": "LANStar®Ⓡ\nHDMI to VGA 컨버터 케이블\n[오디오 미지원]\nLS-HDA2VGA-1.8M\nHDMI A Type to VGA+ Micro B/F\n길이\n1.8M\nHDMI to VGA Converter Cable?\n노트북, 데스크탑, 게임기 등의 영상을 HDMI 단자에서\nVGA로 변환하여 TV, 모니터, 프로젝터로 출력하는 컨버터입니다.\nHDMI to VGA 연결가능한 디스플레이\n프로젝터\nPC\nHDMI()\nVGA(출력)\nP\n모니터\n노트북\n※ RGB 연장케이블10M로 최대 10M까지\n(LS-RGB-15MF10M-RGB)\nTV\nPC/Laptop\nMonitor\nPCA Laptop\nMonitor\nwwwwwwww\nww\nHDMI\nVGA\nVGA\nHDMI\n3D\nFULL HD\n@60Hz\n1080P Full HD 3D\nHDTV나 프로젝터에 연결하여\n1080P Full HD 해상도의 고화질 영상을 감상할 수 있습니다.\nFull HD\nFull HD 1920x1080\n1080p\n\n\nFull HD\nFull HD 1920x1080\n1080p\nHD 1280x720\nSD 720x480\nCH7101B\nHDMI 입력 감지 리피터 칩셋 탑재\nCH7101B\nSTORŽINI\nCH7101B-BF\nHDMI TO VGA 컨버터 케이블\n1.8m\na\nVGA 출력단자\nHDMI 입력단자\n마이크로 전원단자\nD\nPRODUCT SIZE\n1800mm\nUOL\n0000\n5.5mm\nO\n+2.8mm\nFs\n11\n=\n135mm\n19\n18\n15\n51\n-2\n10\nPACKAGE IMAGES\nJYKATE\nUltra High Speed 20\nHDMI/VGA CONVERTER\nHDMI 20/VGA\nVGA CHOC\nFIRASENILE\nCE\n●國\n라인업시스템(주) Rose 1.8M\n생산물배상책임보험가입\n2: LS-HDAZVGA-1.8M\nHDMI to VGA 컨버터 케이블\n\n\nLAN\n30\n2.0\nUltra High Speed E\nHDMI/VGA CONVERTER\nHDMI 2.0/VGA\nO Co\nVGA CRE\nbeligu\n공인을 지지·\nDecethe \nrese\nRCE\nSwa\n이를\n라인업시스템(주) 1.8M\nTOMS\n생산물배상책임보험가입\n모델명: LS-HDA2VGA-1.8M\nHOEGENG\nHDMI to VGA 컨버터 케이블\nM\nHOMM\nO\nDa\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nhows KFC CE Ⓒ\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를\n인증마크로 사용합니다.\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\nK\n인증번호 KCC-REI-LS-PAD2VGA\nⓇ\nLANC\nStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nHDMI to VGA 컨버터 케이블\nLANSStar\nⓇ\n모델\n명\nLS-HDA2VGA-1.8M\n인증번호\nKCC-REI-LS-PAD2VGA\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "VGA",
+        "3.5mm"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": "HDCP1.4",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI A Type 입력을",
+    "connectivity.output_signals": "VGA 출력으로 변환",
+    "connectivity.output_signals.1": "3.5mm 스테레오 오디오 출력 단자",
+    "connectivity.directional": "HDMI A Type 입력을 VGA 출력으로 변환",
+    "power.power_mode": "Micro USB 전원 공급 방식",
+    "form_physical.has_case": "본체 크기",
+    "form_physical.length_meters": "제품 길이(케이블): 0.15M",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS 인증 획득",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "최대 1080P Full HD 30Hz 지원",
+    "audio_video.hdcp_version": "HDCP 1.2 지원",
+    "audio_video.audio_pass": "3.5mm 스테레오 오디오 출력 단자 제공"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:59",
+  "feature_schema_version": "1.0.0"
+}

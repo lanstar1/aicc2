@@ -1,0 +1,296 @@
+{
+  "model_no": "LS-RGB-15MM",
+  "product_name": "보급형 RGB 모니터 금장 커넥터 케이블 (GENERAL RGB MONITOR CABLE)",
+  "category": [
+    "커넥터"
+  ],
+  "key_features": [
+    "10 Core 케이블 구성 (3×2 Core RGB + 4 Core + Shield)",
+    "2중 차폐 처리 (알루미늄 은박 + 망사 Shield)",
+    "노이즈 방지 필터 장착으로 외부 신호 간섭 최소화",
+    "금도금 핀 사용으로 산화(녹) 방지 및 우수한 신호 전송",
+    "커넥터 형태: HDB 15P/M - HDB 15P/M",
+    "50m 이내 원거리 사용 환경 지원",
+    "LANstar 정품 케이블 (라인업시스템 브랜드)",
+    "VGA 3+4C 구조: RGB 3개 색상 신호선 + 4개 동기 신호 보조선",
+    "최대 해상도 1080P@60Hz (Full HD) 지원",
+    "HDB 15P M-M (수-수) 커넥터 구성",
+    "페라이트 코어 2개 장착으로 고주파 노이즈(EMI) 감소",
+    "알루미늄 차폐 + 편조차폐로 안정적인 신호 전송",
+    "아날로그 비디오 신호 전송 (오디오 신호 전송 불가)",
+    "커넥터 고정 나사 2개 장착으로 단단한 체결 가능",
+    "케이블 직경 8.0±0.15mm",
+    "1.8m / 3m / 5m / 10m / 15m / 20m / 30m 길이 라인업",
+    "색상: White(1.8m~5m), Grey(10m~30m)",
+    "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "라인업시스템(주) / 랜스타 정품 인증 제품"
+  ],
+  "specifications": {
+    "커넥터 형태": "HDB 15P/M - HDB 15P/M (RGB 15핀 수 - RGB 15핀 수)",
+    "케이블 구조": "10 Core (3×2 Core RGB + 4 Core + Shield)",
+    "차폐 방식": "2중 차폐 (알루미늄 은박 + 망사 Shield)",
+    "핀 도금": "금도금",
+    "사용 환경 거리": "50m 이내 원거리용",
+    "제조국/원산지": "중국 (China) / 중국(China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "규격": "VGA 3+4C / 페라이트 코어",
+    "해상도": "1080P@60Hz",
+    "커넥터": "HDB 15P/M - 15P/M",
+    "케이블 직경": "8.0±0.15mm",
+    "케이블 길이": "1.8m, 3m, 5m, 10m, 15m, 20m, 30m",
+    "색상": "White(1.8m·3m·5m), Grey(10m·15m·20m·30m)",
+    "페라이트 코어 수량": "2개",
+    "페라이트 코어 외경": "20mm",
+    "페라이트 코어 내경": "7mm",
+    "신호 방식": "아날로그 비디오 신호",
+    "오디오 전송": "불가",
+    "HDCP 지원": "불가 (아날로그 신호 특성상 적용 불가)",
+    "모델명(1.8M)": "LS-RGB-15MM-1.8M (모델No. 10275)",
+    "모델명(3M)": "LS-RGB-15MM-3M (모델No. 10276)",
+    "모델명(5M)": "LS-RGB-15MM-5M (모델No. 10277)",
+    "모델명(10M)": "LS-RGB-15MM-10M (모델No. 10278)",
+    "모델명(15M)": "LS-RGB-15MM-15M (모델No. 10279)",
+    "모델명(20M)": "LS-RGB-15MM-20M (모델No. 10280)",
+    "모델명(30M)": "LS-RGB-15MM-30M (모델No. 10281)"
+  },
+  "compatibility": [
+    "PC와 흑백 모니터 연결",
+    "PC와 CRT 모니터 연결",
+    "PC와 LCD 모니터 연결",
+    "VGA(D-SUB) 15핀 포트를 갖춘 모니터",
+    "VGA(D-SUB) 15핀 포트를 갖춘 데스크탑/노트북",
+    "VGA 기반 빔 프로젝터",
+    "VGA 기반 CCTV 모니터링 장비",
+    "VGA 기반 산업용 모니터 및 PLC",
+    "VGA 기반 POS 시스템",
+    "구형/레트로 장비 (VGA 포트 탑재 기기)",
+    "HDMI·DisplayPort 변환 아답터/컨버터 경유 시 현대 장비 연결 가능"
+  ],
+  "package_contents": [
+    "보급형 RGB 모니터 케이블 (LS-RGB-15MM) 1개",
+    "VGA 3+4C 모니터 케이블 (HDB 15P M-M, 페라이트 코어 2개 장착) 1개"
+  ],
+  "usage_instructions": "모니터와 컴퓨터의 RGB(HDB 15핀) 포트에 각각 연결하여 사용. 50m 이내 원거리 환경에서 사용 가능.",
+  "cautions": [
+    "9번 핀은 예비핀으로 사용되지 않으며, 케이블에 따라 핀이 비어 있는 경우가 있으나 제품 이상이 아니므로 반품 또는 교환 사유가 될 수 없습니다.",
+    "LANstar 정품 여부는 케이블의 LANstar 마크를 확인하여 판별하세요.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "AS 및 소비자 상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RGB-15MM-1.8M",
+      "품목코드": "CAB-RG저001",
+      "품목명": "[LANstar] RGB 모니터케이블 3＋4C M/M 1.8M [10275] (68개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB-15MM-3M",
+      "품목코드": "CAB-RG저002",
+      "품목명": "[LANstar] RGB 모니터케이블 3＋4C M/M 3M [10276] (40개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB-15MM-5M",
+      "품목코드": "CAB-RG저003",
+      "품목명": "[LANstar] RGB 모니터케이블 3＋4C M/M 5M [10277] (30개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB-15MM-10M",
+      "품목코드": "CAB-RG저004",
+      "품목명": "[LANstar] RGB 모니터케이블 3＋4C M/M 10M [10278] (16개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB-15MM-15M",
+      "품목코드": "CAB-RG저005",
+      "품목명": "[LANstar] RGB 모니터케이블 3＋4C M/M 15M [10279] (12개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB-15MM-20M",
+      "품목코드": "CAB-RG저006",
+      "품목명": "[LANstar] RGB 모니터케이블 3＋4C M/M 20M [10280] (8개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB-15MM-30M",
+      "품목코드": "CAB-RG저007",
+      "품목명": "[LANstar] RGB 모니터케이블 3＋4C M/M 30M [10281] (6개)",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB-15MM-5MCC",
+      "품목코드": "CAB-RG저160",
+      "품목명": "[LANstar] RGB모니터케이블 ,3＋4C, M／M, 5M[10277] (30개) - 큐브케어전용",
+      "variant_suffix": "-5MCC",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-RGB-15MM-1.8M",
+      "내용": "좋습니다. 연결 아주 잘되요"
+    },
+    {
+      "source_model": "LS-RGB-15MM-10M",
+      "내용": "아주아주 좋아하십니다"
+    },
+    {
+      "source_model": "LS-RGB-15MM-10M",
+      "내용": "저렴하고 배송도 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-RGB-15MM-20M",
+      "내용": "길고 좋네요. 선 색이 블랙이였으면 더 좋앗을텐데요"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-RGB-15MM-10M",
+      "chatUrl": "jM7o",
+      "dateIso": "2024-01-17T01:44:38.037Z",
+      "name": "카모마일",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "기존 사용하던 케이블 모델명을 모르겠네요.. 너무오래되어서.. 케이블에 적힌\nAWM2919…RGB 3+4이렇게 적혀있어서 그것 보고 \nLS-RGB-15MM-10M을 구매했습니다.\n(추가 문의) 문제가 노트북과 빔프로젝터 연결 시\n화면이 확대되었다 축소되었다 움직? 입니다..\n\n기존 케이블(랜스타) 연결하면 정상이구요.\n어떤걸 구매해야할까요?\n(추가 문의) 안녕하세요. 기존에 사용하던 케이블 선이 짧아 구매한건데요..같은제품 같아보이는데 연결이 안되네요 두제품 차이가 뭔지 알 수 있을까요?",
+      "answer": "1. XGA - 1024*768 2. WXGA - 1280*800 3. WUXGA - 1920*1080 또는 1920*1200 대부분의 빔프로젝터의 해상도는 위와 같으니 디스",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "문제가 노트북과 빔프로젝터 연결 시\n화면이 확대되었다 축소되었다 움직? 입니다..\n\n기존 케이블(랜스타) 연결하면 정상이구요.\n어떤걸 구매해야할까요?"
+        },
+        {
+          "role": "agent",
+          "text": "1. XGA - 1024*768\n\n2. WXGA - 1280*800\n\n3. WUXGA - 1920*1080 또는 1920*1200\n\n대부분의 빔프로젝터의 해상도는 위와 같으니 디스"
+        },
+        {
+          "role": "customer",
+          "text": "기존 사용하던 케이블 모델명을 모르겠네요.. 너무오래되어서.. 케이블에 적힌\nAWM2919…RGB 3+4이렇게 적혀있어서 그것 보고 \nLS-RGB-15MM-10M을 구매했습니다."
+        },
+        {
+          "role": "agent",
+          "text": "1. XGA - 1024*768\n\n2. WXGA - 1280*800\n\n3. WUXGA - 1920*1080 또는 1920*1200\n\n대부분의 빔프로젝터의 해상도는 위와 같으니 디스"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요. 기존에 사용하던 케이블 선이 짧아 구매한건데요..같은제품 같아보이는데 연결이 안되네요 두제품 차이가 뭔지 알 수 있을까요?"
+        },
+        {
+          "role": "agent",
+          "text": "1. XGA - 1024*768\n\n2. WXGA - 1280*800\n\n3. WUXGA - 1920*1080 또는 1920*1200\n\n대부분의 빔프로젝터의 해상도는 위와 같으니 디스"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-RGB-15MM-NEW": "LAN Star\nVGA 3+4C 모니터 케이블\nRGB 신호 포함 / HDB 15P M-M / 페라이트 코어\n케이블 제품 분류표\n모델No.\n모델명\n길이\n규격\n직경\n색상\n10275\nLS-RGB-15MM-1.8M\n1.8M\n10276\nLS-RGB-15MM-3M\n3M\n10277\nLS-RGB-15MM-5M\n5M\nWhite\n10278\nLS-RGB-15MM-10M\nHOM\nVGA 3+4C\n8.0±0.15(mm)\nGrey\n10279\nLS-RGB-15MM-15M\n15M\n10280\nLS-RGB-15MM-20M\n20M\n10281\nLS-RGB-15MM-30M\n30M\nHDMI DP 케이블도 있는데\nVGA 케이블은 왜 여전히 사용될까요?\n구형 장비와의 호환성\n교육 기관, 기업 환경에서는 여전히 구형 장비가\n사용되고 있습니다. 구형 장비는 디지털 포트를\n지원하지 않기 때문에 RGB 케이블을 사용합니다.\n경제적인 이유\nHDMI나 DisplayPort에 비해 제작 비용이\n낮아 가격이 저렴하며, 저렴한 연결 솔류션이\n필요한 경우 여전히 RGB 케이블이 선택됩니다.\n특정 용도의 적합성\n고전게임 콘솔이나 CRT 모니터에서는\nRGB 케이블이 필수이며, 일부 산업용\n디스플레이나 프로젝터는 RGB 연결을\npape\n기본적으로 사용합니다.\nopy\nWOW\n아답터 및 컨버터 호환성\n\n\nRGB 이글이 갈수이머, 일부 신임야\n디스플레이나 프로젝터는 RGB 연결을\n기본적으로 사용합니다.\nWOH\n아답터 및 컨버터 호환성\nJO\nRGB 케이블은 HDMI, DisplayPort로\n변환할 수 있는 아답터나 컨버터를 통해\nTheroM\nJare\n현대 장비와도 연결 가능합니다.\nRGB, VGA 용어 정리\nRGB\nVGA\n개념\n색상 모델\n영상 신호 전송 표준\n신호 방식\n색상 표현(Red, Green, Blue)\n아날로그 비디오 신호\n사용처\n디지털 디스플레이, LED, 그래픽\n모니터, 프로젝터, 디스플레이 연결\n신호 전달\nRGB 신호선 포함\nRGB 신호 + 동기 신호\n▶ RGB는 색상을 표현하는 방식입니다.\n▶ VGA는 RGB 기반의 아날로그 신호 전송 방식입니다.\n▶ 랜스타 모니터 케이블은 RGB 3+4C VGA 케이블로 RGB 신호와 동기 신호를\n함께 전송하는 “VGA 케이블입니다.\n▶ 3+4C는 3개의 RGB 신호선(Red, Green, Blue) + 4개의 추가 신호선을\n의미하며, 안정적인 신호 전송이 가능하도록 설계되었습니다.\nRGB 신호 포함\nVGA 3+4C 케이블\n1. HDB 15P/M - 15P/M\n2. 1080P@60Hz 최대 해상도 지원\n3. 아날로그 신호 전송-비디오 신호만 전송\n4. 오디오 신호 전송 X\n5. 페라이트 코어 장착 케이블\n6. 구형 장비 및 레트로 장비 활용\nFull HD 해상도 지원\n1080P@60Hz\n최대 1080P@60Hz 해상도를 지원합니다.\nFull HD\n1080p\n\n\nFull HD\n1080p\nRGB 3선 +4개의 추가 신호선\nVGA 3+4C 케이블\n색상 신호를 전달하는 RGB 3선과, 동기 신호를 전달하는 4개의 보조선을\n알루미늄 차폐와 편조차폐가 감싸는 구조로 안정적인 신호 전송이 가능합니다.\n알루미늄 차폐\nRGB(Red, Green, Blue)\n- 색상 신호 전달\n4개의 보조선 - 동기 신호 전달\n접지선 편조차폐\n페라이트 코어\n페라이트 소재(산화철 기반 세라믹)로\n만든 원통형의 코어로\n케이블의 외부에 장착되어\n고주파 노이즈(EMI)를 감소시킵니다.\n010 2919\n페라이트 코어는 2개가 장착되어\n30V\n있습니다.\n\"UTL-MA\nGLOZ CAHON> JIN 2008\nMOTL-MA ABC\nHDB 15P M/M\nHDB(High Density D-Sub),\nVGA케이블에 사용되는 D-Sub\n15 핀 커넥터이며,\n수수로 구성된 케이블입니다.\n고정 나사\n2개의 고정 나사를 통해\nVGA 컨넥터가 빠지지 않고\n단단하게 고정할 수 있습니다.\n손으로 돌려 고정이 가능하여\n손쉽게 체결이 가능합니다.\n랜스타 모니터 케이블 어디서 사용할까요?\nVGA 케이블은 더 이상 주류가 아니지만, 특정 환경과 목적에서는 필수적입니다.\n특히, 구형 장비를 계속 사용하는 환경에서 VGA 케이블은 필수품입니다.\n\n\n랜스타 모니터 케이블 어디서 사용할까요?\nVGA 케이블은 더 이상 주류가 아니지만, 특정 환경과 목적에서는 필수적입니다.\n특히, 구형 장비를 계속 사용하는 환경에서 VGA 케이블은 필수품입니다.\ne\nCCTV 모니터링실\n사무실,회의실\n교실, 강의실\n저해상도 환경의 모니터링시\nVGA 기반의 CCTV 활용\n일부 공공기관, 사무실에서는\n아직 VGA 기반 장비를 사용\n교실, 강의실 등 여전히\nVGA 빔 프로젝터를 사용\n컴퓨터 실습실\n공장 모니터링\nPOS 시스템\n일부 대학 및 학교에서는\nVGA 기반 장비를 사용\n공장에서 사용하는 PLC 또는\n산업용 모니터가 VGA 기반\nVGA 기반 POS 시스템을\n사용하는 매장, 편의점 등에서\n사용\nPRODUCT SIZE\nㅂㅂㅂ\nn\nn\nPIN OUT\nP1\nP2\n- %」.\n日」\n1\n1\n2\n2\nD\n페라이트 코어\n3\n23 6\n외경 : 20mm\n내경 : 7mm\n6\n1.8M\n0\n日\n7\n7\n3M\n5M\n8\n8\n10M\n4\n4\n15M\n10\n10\n20M\nlo\n13\n13\n30M\nD\n14\n14\nSHELL\nSHELL\nD\n日\n34mm\n43mm\nU\nAAA\nU\n33mm\nSPECIFICATION\n규격\nVGA 3+4C / 페라이트 코어\n해상도\n1080P@60Hz\n컨넥터\nHDB 15P/M - 15P/M\n직경\n8.0±0.15(mm)\n케이블 길이\n1.8m/3m/5m/10m/15m/20m/30m\n\n\n컨넥터\nHDB 15P/M - 15P/M\n직경\n8.0±0.15(mm)\n케이블 길이\n1.8m/3m/5m/10m/15m/20m/30m\nFAQ\n자주 물어보시는 질문\nQ. 60Hz 이상 고주사율은 지원하지 않나요?\n이론적으로 800x600 해상도에서 최대 85Hz까지 지원은 가능하나, 아날로그 신호 특성상\n60Hz 이상 고주사율은 권장하지 않습니다. 고주사율 해상도 출력을 원하실 경우\nHDMI 케이블이나, DP 케이블을 구매하여 사용하시기 바랍니다.\nQ. 오디오 신호도 전달되나요?\n아니요! VGA 케이블은 비디오 신호만 전달합니다. 오디오 신호는 별도의 오디오 케이블\n(3.5mm AUX 또는 RCA 케이블)을 연결해야 합니다.\nQ. VGA 케이블은 길이가 길어질수록 품질이 떨어지지 않나요?\n네. VGA 케이블은 일반적으로 신호 감쇠 현상으로 인해 10m 이하에서 사용을 권장합니다.\n단, 랜스타 케이블은 페라이트 코어가 장착되어 있어 최대 30m까지 사용 가능합니다.\nQ. 모니터, 컴퓨터가 VGA 포트를 지원하는지 어떻게 알 수 있나요?\n일반적으로 D-SUB 15핀 포트는 파란색을 사용하기에, 파란색 15핀 포트가 있으면\nVGA 모니터 케이블을 사용할 수 있습니다.\nQ. VGA 케이블 연결 후 화면이 깜빡거려요.\n깜빡임의 원인은 케이블 불량, 신호 감쇠, 포트 접촉 불량 등의 원인이 있습니다.\n길이가 짧은 케이블로 다시 연결, 다른 케이블로 연결시에도 증상이 나아지지 않을 경우\n네이버 톡톡으로 문의주시기 바랍니다.\nQ. HDCP도 지원하나요?\nHDCP는 디지털 신호를 암호화하는 기능입니다.\nVGA는 아날로그 신호이기 때문에 HDCP 암호화를 적용할 수 없습니다.\nHDCP를 지원하는 인터페이스는 HDMI, DP, DVI, USB-C입니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\nShake\n소재·부품·장비\n전문기업확인서\n소재·부품 장비 전문기업인\nDala\nSWI\n+432 21\n2022.11.2011.\n\n\n소재·부품·장비\n전문기업확인서\n소재·부품·장비 전문기업확인서\npa\nAW\nAND 2022.31.23-212537.2\n평가관리원\n기소개\n선호기업인을 확신합니다.\n산업통산자원부 시행 제도\nKeit\nH2S11 29\n2022.11.29 취득\n한국산업기술평가관학원\n노주의\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH M 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상품 정보\n품\n명\nVGA 3+4C 모니터 케이블\nLS-RGB-15MM-1.8M\nLANSStar\nLS-RGB-15MM-3M\nLS-RGB-15MM-5M\n모\n델\n명\nLS-RGB-15MM-10M\nLS-RGB-15MM-15M\nLS-RGB-15MM-20M\nLS-RGB-15MM-30M\n제조국/원산지\n중국(China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질 보증 기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANG\nStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1.8,
+        3.0,
+        5.0,
+        10.0,
+        15.0,
+        20.0,
+        30.0
+      ],
+      "color_options": [
+        "White",
+        "Grey"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": false,
+      "iso9001": false,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": "없음",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "HDB 15P/M",
+      "connector_type_b": "HDB 15P/M",
+      "gender": "M-M",
+      "pin_count": 15
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDB 15P/M - HDB 15P/M",
+    "connectivity.output_signals": "HDB 15P/M - HDB 15P/M",
+    "connectivity.directional": "HDB 15P/M - HDB 15P/M",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "금장 커넥터",
+    "form_physical.material": "알루미늄 은박 + 망사 Shield",
+    "form_physical.length_options_meters": "1.8m / 3m / 5m / 10m / 15m / 20m / 30m",
+    "form_physical.color_options": "White(1.8m~5m), Grey(10m~30m)",
+    "audio_video.max_resolution": "1080P@60Hz (Full HD) 지원",
+    "audio_video.hdr_support": "아날로그 비디오 신호 전송",
+    "audio_video.hdcp_version": "HDCP 지원: 불가 (아날로그 신호 특성상 적용 불가)",
+    "audio_video.audio_pass": "오디오 신호 전송 불가",
+    "family.connector_type_a": "HDB 15P/M",
+    "family.connector_type_b": "HDB 15P/M",
+    "family.gender": "HDB 15P M-M (수-수)",
+    "family.pin_count": "HDB 15P"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:41",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

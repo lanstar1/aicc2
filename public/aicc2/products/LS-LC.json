@@ -1,0 +1,100 @@
+{
+  "model_no": "LS-LC",
+  "product_name": "LANStar 케이블 랩핑 튜브 (19mm / 32mm)",
+  "category": [
+    "케이블정리"
+  ],
+  "key_features": [
+    "셀프 브레이드 랩핑 방식으로 케이블 수량·두께에 관계없이 안정적으로 감싸서 정리 가능",
+    "외부 자극으로 인한 케이블 파손 방지",
+    "2가지 직경(19mm, 32mm) 및 3가지 길이(2m, 3m, 5m) 선택 가능",
+    "가위나 칼로 필요한 길이만큼 잘라 사용 가능",
+    "마우스·키보드 등 기기 교체 시 선만 넣으면 재정리 가능",
+    "가정, 학교, 병원, 사무실 등 다양한 환경에서 사용 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "직경 종류": "19mm, 32mm",
+    "길이 종류": "2M, 3M, 5M",
+    "모델명 전체": "LS-LC0219, LS-LC0319, LS-LC0519, LS-LC0232, LS-LC0332, LS-LC0532",
+    "LS-LC0219": "직경 19mm, 길이 2M",
+    "LS-LC0319": "직경 19mm, 길이 3M",
+    "LS-LC0519": "직경 19mm, 길이 5M",
+    "LS-LC0232": "직경 32mm, 길이 2M",
+    "LS-LC0332": "직경 32mm, 길이 3M",
+    "LS-LC0532": "직경 32mm, 길이 5M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "품질보증기준": "공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "컴퓨터 주변기기 케이블 (마우스, 키보드 등)",
+    "가정용 전선 및 케이블",
+    "사무실·학교·병원 배선"
+  ],
+  "package_contents": [
+    "케이블 랩핑 튜브 (선택 모델에 따라 직경·길이 상이)"
+  ],
+  "usage_instructions": "1. 가위나 칼을 이용하여 필요한 길이로 잘라줍니다. 2. 정리할 선을 모아 잘라낸 케이블 랩핑 튜브로 감싸주면 완성.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단) 참조.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [
+        2,
+        3,
+        5
+      ],
+      "color_options": []
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.length_options_meters": "3가지 길이(2m, 3m, 5m) 선택 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:10",
+  "feature_schema_version": "1.0.0"
+}

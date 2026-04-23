@@ -1,0 +1,136 @@
+{
+  "model_no": "LS-DPFF-S0.2M",
+  "product_name": "디스플레이포트 케이블 판넬형 (DP Female / DP Female Screw)",
+  "category": [
+    "DisplayPort",
+    "분배판넬"
+  ],
+  "key_features": [
+    "DP(F)-DP(F) 판넬 타입 케이블로, 한쪽 단자는 Screw 타입 나사 고정 지원",
+    "4K@60Hz(4K×2K, 3840×2160) 초고해상도 지원 — Full HD 1080p 대비 4배 고화질",
+    "3D 및 Blu-ray, DTS-HD, Dolby TrueHD 등 고품질 오디오·비디오 규격 지원",
+    "28AWG 미국전선규격 적용으로 데이터 전송 시 간섭 최소화 및 안정적 전송",
+    "RoHS 준수 — 납·수은·카드뮴 등 중금속 미사용",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억 원 가입 제품"
+  ],
+  "specifications": {
+    "단자규격": "DP/F - DP/F",
+    "지원해상도": "4K×2K @60Hz (3840×2160)",
+    "AWG": "28AWG",
+    "케이블길이": "0.2M",
+    "소비전력 최대": "DC 30V",
+    "작동온도": "0~80°C",
+    "색상": "Black",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "케이블 전체 길이": "200mm",
+    "커넥터 외경(케이블측)": "7.3mm",
+    "판넬 고정부 너비": "36mm",
+    "판넬 고정부 높이": "28mm",
+    "커넥터 돌출 길이(전면)": "23mm",
+    "커넥터 돌출 길이(후면)": "54mm",
+    "나사 간격": "16mm",
+    "기타 치수 A": "5mm",
+    "기타 치수 B": "11mm"
+  },
+  "compatibility": [
+    "DisplayPort 출력 단자가 장착된 PC",
+    "DisplayPort 출력 단자가 장착된 노트북",
+    "DisplayPort 입력 단자가 장착된 대형 모니터 및 디스플레이",
+    "4K UHD(3840×2160) 지원 기기",
+    "Full HD 1080p 지원 기기",
+    "HD 720p 지원 기기",
+    "1440p 지원 기기",
+    "Blu-ray / HD DVD 재생 기기"
+  ],
+  "package_contents": [
+    "DP 케이블 판넬형 본체 1개",
+    "나사 2개"
+  ],
+  "usage_instructions": "판넬 타입 제품으로 장비 패널에 나사(동봉 2개)로 고정하여 설치합니다. 설치 전 제품 상세 사이즈와 설치 위치가 일치하는지 반드시 확인 후 구매 및 장착하세요.",
+  "cautions": [
+    "설치할 곳과 제품 사이즈가 맞는지 상세 치수를 확인하고 구매하시기 바랍니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DPFF-S0.2M",
+      "품목코드": "CAB-젠DP119",
+      "품목명": "[LANstar] 디스플레이 판넬형 케이블, DP/F TO DP/F, Screw, Black, 0.2M [10938]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DisplayPort"
+      ],
+      "output_signals": [
+        "DisplayPort"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": null,
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DP(F)-DP(F) 판넬 타입 케이블",
+    "connectivity.output_signals": "DP(F)-DP(F) 판넬 타입 케이블",
+    "connectivity.directional": "DP(F)-DP(F) 판넬 타입 케이블",
+    "form_physical.length_meters": "케이블길이: 0.2M",
+    "form_physical.color_options": "색상: Black",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "4K@60Hz(4K×2K, 3840×2160) 초고해상도 지원",
+    "audio_video.audio_pass": "DTS-HD, Dolby TrueHD 등 고품질 오디오·비디오 규격 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:42",
+  "feature_schema_version": "1.0.0"
+}

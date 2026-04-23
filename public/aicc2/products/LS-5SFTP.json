@@ -1,0 +1,381 @@
+{
+  "model_no": "LS-5SFTP",
+  "product_name": "LAN Star CAT.5E SFTP 단선 랜 케이블 300M",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-SFTP",
+    "랜케이블"
+  ],
+  "key_features": [
+    "기존 저가형과 차별화된 고급 랜케이블",
+    "구리 함량이 높아 데이터 손실이 적고 통신공사용으로 적합",
+    "알루미늄 차폐막(Al.Mylar 테이프) 적용으로 노이즈 방지",
+    "꼬임방식(Twisted Pair) 케이블로 노이즈 방지",
+    "단선(Solid) 케이블로 외부 간섭이 적고 데이터 전송이 안정적",
+    "24AWG 규격으로 잡음이 적고 안정적인 전송에 적합",
+    "RoHS 친환경 소재 사용",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "SFTP 구조: 4Pair/Core 전선, 알루미늄 은박 차폐, 접지용 선 내장",
+    "친환경 정품(RoHS Compliant)",
+    "일반 저가형 대비 구리 함량이 높아 데이터 손실이 적고 빠른 전도율 제공",
+    "SFTP(Shielded Foiled Twisted Pair) 구조로 알루미늄 차폐막 및 노이즈 방지 쉴드 적용",
+    "단선(Solid Cable) 구조로 외부 간섭을 덜 받아 데이터 전송이 안정적",
+    "24AWG 규격의 굵은 내심으로 잡음이 적고 안정적인 전송에 적합",
+    "통신공사용으로 적합하며 옥외 배선 및 공장 배선 환경에서 사용 가능",
+    "친환경 소재(RoHS 준수) 사용",
+    "꼬임(Twisted Pair) 방식으로 전자기유도 및 노이즈 방지",
+    "접지용 선 내장으로 접지 및 특수환경 대응 가능",
+    "CAT.5E SFTP(Shielded Foiled Twisted Pair) 규격의 단선(Solid) 케이블",
+    "기존 저가형 대비 구리 함량이 높아 데이터 손실이 적음",
+    "통신공사용으로 적합하며 빠른 전도율 제공",
+    "알루미늄 차폐막(Al. Mylar 테이프) 및 쉴드 접지선으로 노이즈 방지",
+    "꼬임(Twisted Pair) 방식으로 노이즈 방지",
+    "단선 구조로 외부 간섭이 적고 데이터 전송이 안정적",
+    "24AWG 규격으로 간섭이 적고 안정적인 전송 품질",
+    "RoHS 인증 준수(친환경 소재 사용, 납·수은·카드뮴 등 중금속 사용 금지)",
+    "Roll 케이블 형태(300M 박스)"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.5E",
+    "케이블 타입": "SFTP (Shielded Foiled Twisted Pair)",
+    "선종": "단선 (Solid) / 단선 (Solid Cable)",
+    "도체 규격": "24AWG",
+    "최대 전송속도": "400Mbps",
+    "대역폭": "100MHz",
+    "길이": "300M",
+    "코어 구성": "4Pair / 8Core",
+    "차폐 구조": "알루미늄 차폐막(Al.Mylar 테이프), 접지용 선 내장 / 알루미늄 은박(Al.Mylar 테이프) + 노이즈 방지 비닐막 / 알루미늄 차폐막(Al. Mylar 테이프), 쉴드 접지선 포함",
+    "피복 재질": "PVC/LSZH",
+    "절연 재질": "PE",
+    "친환경 인증": "RoHS Compliant",
+    "품질 인증": "ISO 9001:2008",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "보험": "현대해상화재 생산물배상책임보험 1억원",
+    "카테고리 등급": "CAT.5E",
+    "선 종류": "단선 (Solid Cable)",
+    "AWG 규격": "24AWG",
+    "페어 구성": "4Pair / 8Core",
+    "데이터 전송속도": "150MHz / 550Mbps",
+    "피복 소재": "PVC/LSZH",
+    "절연 소재": "PE절연",
+    "인증": "RoHS Compliant",
+    "인증번호": "상세페이지 참조",
+    "최대 전송 속도": "400Mbps",
+    "전송 속도 (표기)": "150MHz / 550Mbps",
+    "절연 및 피복": "PE 절연, PVC/LSZH 피복",
+    "RoHS": "COMPLIANT",
+    "ISO 인증": "ISO 9001:2008",
+    "색상": "회색 (Gray)"
+  },
+  "compatibility": [
+    "CAT.5E 규격 네트워크 장비",
+    "통신공사용 배선",
+    "공장 배선용",
+    "옥외 배선 (접지용 선 내장으로 옥외 사용 적합)",
+    "EIA/TIA 568 규격 준수",
+    "CAT.5E 규격 호환 네트워크 장비",
+    "UTP/FTP/SFTP 포트를 갖춘 스위치, 허브, 라우터 등",
+    "사무실 및 가정 배선 환경",
+    "공장 배선 환경",
+    "옥외 배선 환경",
+    "사무실 및 가정 배선",
+    "공장 배선 및 옥외 배선(접지용 쉴드선 내장)",
+    "8P8C RJ45 커넥터 호환"
+  ],
+  "package_contents": [
+    "CAT.5E SFTP 단선 랜 케이블 300M (BOA Roll)",
+    "CAT.5E SFTP 랜케이블 단선 300M (LS-5SFTP-300MB) 1롤",
+    "CAT.5E SFTP 단선 랜 케이블 300M (Roll)"
+  ],
+  "usage_instructions": "통신공사용 배선, 공장 배선, 옥외 배선 등에 사용. 단선(Solid) 타입으로 고정 배선에 적합하며, 알루미늄 차폐 및 접지선이 내장되어 있어 노이즈가 많은 환경이나 옥외 배선 시 활용 권장. 케이블 내 접지선을 접지에 연결하여 사용.",
+  "cautions": [
+    "단선(Solid) 케이블이므로 반복적인 굽힘·이동이 많은 환경에는 연선(Stranded) 케이블 사용 권장",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "RoHS 인증 제품으로 납, 수은, 카드뮴 등 중금속 사용 제한 기준 준수",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-5SFTP-10M",
+      "품목코드": "CAB-F5G021",
+      "품목명": "[LANstar] 클라우드 LAN케이블 , CAT.5E SFTP, 10M [10844]",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-5SFTP-16M",
+      "품목코드": "CAB-F5G024",
+      "품목명": "[LANstar] 클라우드 LAN케이블 , CAT.5E SFTP, 16M [10847]",
+      "variant_suffix": "-16M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-5SFTP-300M",
+      "품목코드": "CAB-F5박011",
+      "품목명": "[LANstar] GigaLAN케이블 , CAT.5E SFTP, Gray 300M BOA [10118](2개)",
+      "variant_suffix": "-300M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-5SFTP-300MG",
+      "품목코드": "CAB-F5박015",
+      "품목명": "[LANstar] GigaLAN케이블 , CAT.5E SFTP, Gray 300M RO [10921] (2개)★★단종-전표입력주의★★",
+      "variant_suffix": "-300MG",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-5SFTP-300M",
+      "내용": "만족합니다 좋은제품 감사합니다"
+    },
+    {
+      "source_model": "LS-5SFTP-300M",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-5SFTP-300M",
+      "내용": "성능 잘 나오고 사용하기 편합니다",
+      "관련내용": "성능도 잘 나오고 쓰기도 편합니다"
+    },
+    {
+      "source_model": "LS-5SFTP-300M",
+      "내용": "성능도 잘 나오고 쓰기도 편합니다"
+    },
+    {
+      "source_model": "LS-5SFTP-300M",
+      "내용": "빠른 배송 만족합니다."
+    },
+    {
+      "source_model": "LS-5SFTP-300M",
+      "내용": "빠른 배송 만족합니다."
+    },
+    {
+      "source_model": "LS-5SFTP-300M",
+      "내용": "랜스타 LS-5SFTP-300M CAT5E\n좋아요"
+    },
+    {
+      "source_model": "LS-5SFTP-300M",
+      "내용": "빠른배송 매우 만족합니다"
+    },
+    {
+      "source_model": "LS-5SFTP-300MG",
+      "내용": "배송빠르고 좋아요.. 제품도 정상입니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-5SFTP-300MG",
+      "id": 555099375,
+      "date": "2023-11-16 05:03",
+      "answerDate": "2023-11-16 09:06",
+      "user": "gnsd****",
+      "productName": "랜스타 LS-5SFTP-300MG CAT5E SFTP 단선 300M 회색 제작용 랜케이블",
+      "question": "랜 케이블 드럼 형식으로 판매 하는지 문의 드립니다.\n\n CAT5e / F-STP / 색상 : RED / 길이 : 300M\n CAT5e / STP / 색상 : LIGHT BLUE / 길이 : 300M\n CAT5e / STP / 색상 : WHITE / 길이 : 300M\n CAT5e / STP / 색상 : ORANGE / 길이 : 300M\n CAT5e / STP / 색상 : GREEN / 길이 : 300M\n CAT5e / STP / 색상 : YELLOW / 길이 : 300M",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n자사에서는 STP로 LS-5SFTP-300M(회색), LS-5SFTP-B300M(블루) 두가지 컬러만 취급하고 있습니다.\n다만 UTP로는 레드, 그린, 블랙, 블루, 옐로우, 그레이 색상을 취급하고 있는 점 안내 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-5SFTP-300M",
+      "chatUrl": "1s616",
+      "dateIso": "2024-11-05T01:20:45.136Z",
+      "name": "숭구리당",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "LS-5SFTP-300M CAT5E SFTP 단선 300M 회색 제작용 랜케이블 구매하려 하는데요 방문수령으로요\n(추가 문의) 방문 수령 가능 여부 알려주시면 감사하겠습니다.",
+      "answer": "네 고객님, 수량 1개 구매해주신 건 확인되었습니다. 언제 방문 예정이실까요?",
+      "turn_count": 4,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "오후 1시에 방문들겠습니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 수량 1개 구매해주신 건 확인되었습니다.\n언제 방문 예정이실까요?"
+        },
+        {
+          "role": "customer",
+          "text": "방문 수령 가능 여부 알려주시면 감사하겠습니다."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "LS-5SFTP-300M CAT5E SFTP 단선 300M 회색 제작용 랜케이블 구매하려 하는데요 방문수령으로요"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "용산 방문 수령 가능한가요?"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-5SFTP-300M",
+      "chatUrl": "2oqkC",
+      "dateIso": "2024-01-09T01:51:50.257Z",
+      "name": "나나나",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "'LS-5SFTP-300M 랜케이블 10박스 구매하려고 하는데 택배비 할인은 안되나요? 10박스 각 배송비가 발생 하나요?\n(추가 문의) 감사합니다 방문수령으로 하고 네이버에서 기존대로 구매하기 하면 되는거죠?\n(추가 문의) 네 감사합니다~ 1월11일~12일 사이 구매 예정입니다~\n(추가 문의) 연락처 알려주시면 월요일날 전화문의하겠습니다 ~",
+      "answer": "https://smartstore.naver.com/lineup/products/6052603546?site_preference=device&NaPm=ct%3Dlr4aum8v%7C\n\n네, 고객님 입고 되면 해당 수량 구매 가능하십니다. 혹 원하실 경우 예약 구매도 가능하십니다.\n\n10박스 구매해주실 경우, 저희가 택배비 지원해드리도록 하겠습니다. 배송방법에서 '방문수령' 택해주신 뒤에 도착 원하시는 주소지/성함/연락처",
+      "turn_count": 7,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 감사합니다~ 1월11일~12일 사이 구매 예정입니다~"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 전달 드린 위 링크 통하여 구매해주셔야 하는 점 참고 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "감사합니다 방문수령으로 하고 네이버에서 기존대로 구매하기 하면 되는거죠?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n10박스 구매해주실 경우, 저희가 택배비 지원해드리도록 하겠습니다.\n배송방법에서 '방문수령' 택해주신 뒤에 도착 원하시는 주소지/성함/연락처"
+        },
+        {
+          "role": "customer",
+          "text": "'LS-5SFTP-300M 랜케이블 10박스 구매하려고 하는데 택배비 할인은 안되나요? 10박스 각 배송비가 발생 하나요?"
+        },
+        {
+          "role": "agent",
+          "text": "https://smartstore.naver.com/lineup/products/6052603546?site_preference=device&NaPm=ct%3Dlr4aum8v%7C"
+        },
+        {
+          "role": "customer",
+          "text": "경민에프에이/010-6627-1570\n월요일 10~15시"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님 성함 / 연락처 남겨주시면 저희 측 담당자가 전화 드릴 수 있도록 하겠습니다.\n연락 가능하신 시간 말씀 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "연락처 알려주시면 월요일날 전화문의하겠습니다 ~"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님 입고 되면 해당 수량 구매 가능하십니다.\n혹 원하실 경우 예약 구매도 가능하십니다."
+        },
+        {
+          "role": "customer",
+          "text": "10박스정도 구매 가능한가요?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품 1월 3~4주차에 입고 예정입니다.\n원활한 구매에 불편을 드려 죄송합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요 재고 문의드립니다"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-5SFTP-300MB": "LANG\nStar\n\"\nI CAT.5E SFTP 랜케이블 단선\nLS-5SFTP-300MB\n\"\n300M\nT\n기존 저가형과 차별화된 고급 랜케이블\n구리 함량이 높아 데이터 손실이 적고\n통신용으로 안전한 랜케이블입니다.\nLENSTO\nLA\nHigh Quality Copper\nHigh Quality Copper\n통신공사용 랜케이블\nCAT.5E LAN Cable\n통신공사용 랜케이블\nCAT.SE\n.\n\"\nT-AK\nJUP\nDunest\nUPP\nI\n300M\n1\nCAN CATE\nT\ng\n\"\n\"\n1\nCAT.5E SFTP LAN CABLE\nTwisted Pair\n노이즈 방지 쉴드\n꼬임방식의 케이블로 노이즈를 방지합니다\n노이즈 방지 비닐막\n알루미늄 차폐막\n단선\nSolid Cable\n단선(線) 케이블\n선이 하나이므로 외부간섭을 덜 받아\n데이터 전송이 안정적입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\nUTP (Unshield Twisted Pair)\nCAT.5E\nCAT.6\n절연의 구리선이 전자기유도를 줄이기 위해\n서로 꼬여져 있는 케이블로 4Pair/8Core\n전선과 피복으로 구성되어 있습니다\n케이블\n구조\n절연의 구리선이 전자기유도를 줄이기 위해\n서로 꼬여져 있는 케이블로 4Pair/Core 전선\n과 피복으로 구성되어 있습니다.\n꼬여있는 선과 선사이에 차단용 십자플라스틱\n이 있어 케이블 Pair간의 간섭을 줄여서 전송\n속도를 높여주는 역할을 합니다.\n사용처\n일반적인 랜케이블로 사무실 및 가정배선용\n으로 사용됩니다\n초고속 네트워크 망이 구축된 환경에서 사용\n됩니다.\n십자형 개재\n케이블\n구조도\nPVC/LSZH 피복\n-PE절연\nPVC/LSZH 피복\n-PE절연\n쌍(Pair)\n- 쌍(Pair)\n데이터\n전송속도\n150MHz/550Mbps\n250MHz / 1Gbps\nFTP (Foield Twisted Pair)\nCAT.5E\nCAT.6\n절연의 구리선이 전자기유도를 줄이기 위해\n서로 꼬여져 있는 케이블로 4Pair/Core\n전선과 피복으로 구성되어 있습니다.\n알루미늄 은박이 선을 감싸고 있으며 접지용\n선이 별도로 있습니다.\n케이블\n구조\n절연의 구리선이 전자기유도를 줄이기 위해 서\n로 꼬여져 있는 케이블로 4Pair/Core 전선과\n피복으로 구성되어 있습니다.\n꼬여있는 선과 선사이에 차단용 십자 플라스틱\n이 있어 케이블 Pair간의 간섭을 줄여서 전송\n속도를 높여주는 역할을 합니다.\n알루미늄 은박이 선을 감싸고 있으며 접지용\n선이 별도로 있습니다.\n사용처\n공장배선용으로 많이 사용되며, 접지용 선이\n내장되어 있어 옥외로 선이 지나갈때 사용하\n시면 좋습니다.\n접지 및 특수환경에서의 초고속 네트워크 망이\n구축된 곳에서 사용됩니다.\nAl.Mylar 테이프\nPS테이프-\nPS테이프-\n- 십자형 개재\n케이블\n'PVC/LSZH 피복\n-PE절연\nPVC/LSZH 피복\n-PE절연\n구조도\n쌍(Pair)\nAl.Mylar 테이프\n- 쌍(Pair)\n데이터\n전송속도\n150MHz / 550Mbps\n250MHz / 1Gbps\nCAT.5E SFTP LAN CABLE\nHIGH QUALITY\nBEST COPPER\n\n\n'데이터\n전송속도\n150MHz/550Mbps\n250MHz / 1Gbps\nCAT.5E SFTP LAN CABLE\nHIGH QUALITY\nBEST COPPER\n일반 저가형 케이블에 비해 구리 함량이 높아\n통신공사용으로 적합하며 빠른 전도율이 가능한 케이블입니다\n0\nN\nTHIST-PAIR 4P <LANStar> <ROHS> SOLID, CAT.SE SFTP CABLE, CATH\nLAN tar\n랜스타 정품으로 친환경 소재를 사용한 랜케이블입니다\n正品\n[미국전선규격 American Wire Gage]\n24AWG 규격의 굵기로 데이터 전송시 간섭이 적은\n우수한 품질의 랜케이블입니다\n이 제품은 당사가 보증하는\n순정품입니다.\nROHS\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\nCompliantCompiant\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nimmi\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\nLAN Star® 라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.5E SFTP 랜케이블 300M\nLAN Star\n®\n모\n델\n명\nLS-5SFTP-300MB\n인증번호\n상세페이지 참조\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386 (라인업시스템)\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-5SFTP-300MG": "Ⓡ\nLANG\ntar\nCAT.5E SFTP 단선\n랜 케이블 300M\nLS-5SFTP-300MG\n기존 저가형과 차별화된 고급 랜케이블\n구리 함량이 높아 데이터 손실이 적고\n통신용으로 안전한 랜케이블입니다.\nLAN Star\nHigh Quality Copper\n통신공사용 래케이블\nHigh Qually Copper\n통신공사용 렌케이블\nCAT.5E LAN Cable\nCAT SE\nHIGH\n300M\nCAT.5E SFTP LAN CABLE\n|Twisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n노이즈 방지 쉴드\n노이즈 방지 비닐막\n알루미늄 차폐막\n단선\n쉴드 접지선\nSolid Cable\n단선(線) 케이블\n선이 하나이므로 외부간섭을 덜 받아\n데이터 전송이 안정적입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\nUTP (Unshield Twisted Pair)\nCAT.5E\nCAT.6\n절연의 구리선이 전자기유도를 줄이기 위해\n서로 꼬여져 있는 케이블로 4Pair/8Core\n전선과 피복으로 구성되어 있습니다\n케이블\n구조\n절연의 구리선이 전자기유도를 줄이기 위해\n서로 꼬여져 있는 케이블로 4Pair/8Core 전선 |\n과 피복으로 구성되어 있습니다.\n꼬여있는 선과 선사이에 차단용 십자플라스틱\n이 있어 케이블 Pair 간의 간섭을 줄여서 전송\n속도를 높여주는 역할을 합니다.\n사용처\n일반적인 랜케이블로 사무실 및 가정배선용\n으로 사용됩니다\n초고속 네트워크 망이 구축된 환경에서 사용\n됩니다.\n- 십자형 개재\n케이블\n구조도\n2-PE절연\nPVC/LSZH 피복 |\nPVC/LSZH 피복\n- PE절연\n-쌍(Pair)\n쌍(Pair)\n데이터\n전송속도\n150MHz / 550Mbps\n250MHz / 1Gbps\nFTP (Foield Twisted Pair)\nCAT.5E\nCAT.6\n절연의 구리선이 전자기유도를 줄이기 위해\n서로 꼬여져 있는 케이블로 4Pair/Core\n전선과 피복으로 구성되어 있습니다.\n알루미늄 은박이 선을 감싸고 있으며 접지용\n선이 별도로 있습니다.\n케이블\n구조\n절연의 구리선이 전자기유도를 줄이기 위해 서\n로 꼬여져 있는 케이블로 4Pair/Core 전선과\n피복으로 구성되어 있습니다.\n꼬여있는 선과 선사이에 차단용 십자 플라스틱\n이 있어 케이블 Pair간의 간섭을 줄여서 전송\n속도를 높여주는 역할을 합니다.\n알루미늄 은박이 선을 감싸고 있으며 접지용\n선이 별도로 있습니다.\n사용처\n공장배선용으로 많이 사용되며, 접지용 선이\n내장되어 있어 옥외로 선이 지나갈때 사용하\n시면 좋습니다.\n접지 및 특수환경에서의 초고속 네트워크 망이\n구축된 곳에서 사용됩니다.\nAl.Mylar 테이프\nPS테이프\nPS테이프\n- 십자형 개재\n케이블\n구조도\nPVC/LSZH 피복\n- PE절연\nPVC/LSZH 피복\n- PE절연\n- 쌍(Pair)\nAL.Mylar 테이프/\n- 쌍(Pair)\n데이터\n전송속도\n150MHz / 550Mbps\n250MHz / 1Gbps\nCAT.5E SFTP LAN CABLE\nHIGH QUALITY\nBEST COPPER\n\n\n150MHz / 550Mbps\n250MHz/1Gbps\n전송속도\nCAT.5E SFTP LAN CABLE\nHIGH QUALITY\nBEST COPPER\n일반 저가형 케이블에 비해 구리 함량이 높아\n통신공사용으로 적합하며 빠른 전도율이 가능한 케이블입니다\nTHIST-PAIR 4P <LANstar> <RoHSY SOLID, CAT.SE SFTP CABLE, (24AWG, ELATIA 56\nLAN tar\n랜스타 정품으로 친환경 소재를 사용한 랜케이블입니다.\n正品\n[미국전선규격 American Wire Gage]\n24AWG 규격의 굵기로 데이터 전송시 간섭이 적은\n우수한 품질의 랜케이블입니다\n이 제품은 당사가 보증하는\n순정품입니다.\nROHS\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\nComplant\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nPRODUCT IMAGE\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.5E\n최대전송속도\n400Mbps\n대\n역\n폭\n100MHz\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.5E SFTP 랜케이블 300M\nⓇ\n모\n델\nLANSta\n명\nLS-5SFTP-300MG\nStar\n인증번호\n상세페이지 참조\n回回\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLAN Star\n자매품\n\n\nLAN Star\nⓇ\n자매품\n0.5M LS-5UTPD-0.5MG\n10M\nLS-5UTPD-10MG\n1M\nLS-5UTPD-1MG\n15M LS-5UTPD-15MG\n2M\nLS-5UTPD-2MG\n20M\nLS-5UTPD-20MG\nCAT.5E UTP\n다이렉트, 회색,\n단선/연선,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\nSolid 타입\n(0.5M/1M)\n3M\nLS-5UTPD-3MG\n30M LS-5UTPD-30MG\n5M\nLS-5UTPD-5MG\n50M LS-5UTPD-50MG\n7M\nLS-5UTPD-7MG\n1M\nLS-5UTPD-1MB\n15M LS-5UTPD-15MB\n2M\nLS-5UTPD-2MB\n20M LS-5UTPD-20MB\nCAT.5E UTP\n다이렉트, 파랑,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n3M\nLS-5UTPD-3MB\n30M LS-5UTPD-30MB\n5M\nLS-5UTPD-5MB\n26AWG\n7M\nLS-5UTPD-7MB\n10M LS-5UTPD-10MB\n2M\nLS-5UTPD-2MY\n20M LS-5UTPD-20MY\n3M\nLS-5UTPD-3MY\n30M LS-5UTPD-30MY\nCAT.5E UTP\n다이렉트, 노랑,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-5UTPD-5MY\n7M\nLS-5UTPD-7MY\n26AWG\n10M LS-5UTPD-10MY\n15M LS-5UTPD-15MY\n2M\nLS-5UTPD-2MR\n20M\nLS-5UTPD-20MR\n3M\nLS-5UTPD-3MR\n30M LS-5UTPD-30MR\nCAT.5E UTP\n다이렉트, 빨강,\n연선, 50u,\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-5UTPD-5MR\n7M\nLS-5UTPD-7MR\n26AWG\n10M\nLS-5UTPD-10MR\n15M\nLS-5UTPD-15MR\n1M\nLS-5STPD-1M\n20M\nLS-5STPD-20M\n2M\nLS-5STPD-2M\n30M\nLS-5STPD-30M\nCAT.5E FTP\n다이렉트, 연선,\n회색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n3M\nLS-5STPD-3M\n50M\nLS-5STPD-50M\n5M\nLS-5STPD-5M\n10M\nLS-5STPD-10M\n15M\nLS-5STPD-15M\nCAT.5E FTP\nCAT.5E UTP\n다이렉트, 연선,\n검정, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n크로스, 연선,\n녹색, 50u\n금도금 콘넥터,\n8P8C RJ45,\nCAT.5E UTP\n다이렉트, 연선,\n회색, 50u\nㄱ자 90도\n꺾임형, 8P8C\nRJ45, 24AWG\n26AWG\n2M\nLS-5UTPD-2MBK\n2M\nLS-5STPC-2M\n2M\nLS-5UTPAD-2M\n3M\nLS-5UTPD-3MBK\n3M\nLS-5STPC-3M\n5M\nLS-5UTPAD-5M\n5M\nLS-5UTPD-5MBK\n5M\nLS-5STPC-5M\n10M LS-5UTPD-10MBK\n10M\nLS-5STPC-10M\nCAT.5E FTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n26AWG,\nUL인증, 대만산,\n알루미늄 쉴드\nCAT.5E UTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n24AWG,\nUL인증, 대만산,\nCCTV 웹카메라\n공사용\n5M\nLS-SPCE-WP5M\n1M\nLS-WPCCTV-RJ45\n10M LS-SPCE-WP10M\nCAT.SE LAN CABLE\n100M\ny\nCATS UT\nCAT.5E UTP\nBox, 단선,\n보급형, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽콘넥터 있음,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nво чолбоот\nLS-5UTP-100MG\nLS-5UTP-100MR\n305M ALS-5UTP-305MGE\n305M 빨강 LS-5UTP-305MR\n305M 파랑 LS-5UTP-305MB\n305M 노랑 LS-5UTP-305MY\n305M LS-5UTP-305MGN\n100M 회색\n100M 빨강\n100M 파랑\n100M 노랑\nLS-5UTP-100MB\nLS-5UTP-100MY\nCAT5E LAN CABLE\n100M\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽콘넥터 없음.\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nTP CAT SE\nLor\n305M 회색\nLS-5UTP-305MG\n100MLS-5UTP-100MGE\n100M 파랑 LS-5UTP-100MBE\nCAT5E LAN CABLE\n100M\n통신공사업 면제이블\nCAT SE LAN Cable\nKon\nCAT.5E FTP\nBox, 연선,\n1,26AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\nCAT.5E FTP\nBox, 단선,\n24AWG\n미국전선규격,\n안정적인\n데이터 전송\nLANO\n300M LS-FTP-300MSTG\n100M 회색\nLS-5FTP-100M\nUnShor\n통신공사용 맨케이블\nCATS LAN Cable\nCAT.5E SFTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\nRoll 케이블,\n통신용 특화,\nRO/BOA\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n통신공사용,\n높은 구리 함량\nE\nBORANG WAN\n300M (RO) LS-5SFTP-300MG\n300M (BOA) LS-5SFTP-300M\n300M (BOA) LS-5SFTP-B300M\n300M LS-UTP5H-300MBK\n300M LS-UTP5H-300MG"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC",
+        "PE",
+        "알루미늄"
+      ],
+      "length_meters": 300,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "SFTP",
+      "conductor": "단선(solid)",
+      "awg": 24,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "피복 재질\": \"PVC/LSZH\",\n      \"절연 재질\": \"PE",
+    "form_physical.length_meters": "길이\": \"300M",
+    "certification.rohs": "RoHS 친환경 소재 사용",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.cat_category": "CAT.5E SFTP",
+    "family.shielding": "SFTP 구조",
+    "family.conductor": "단선(Solid) 케이블",
+    "family.awg": "24AWG 규격",
+    "family.pair_count": "4Pair/Core 전선",
+    "family.flame_rating": "피복 재질\": \"PVC/LSZH"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:21",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 2,
+    "category_breakdown": {
+      "compatibility": 1,
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

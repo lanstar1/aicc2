@@ -1,0 +1,126 @@
+{
+  "model_no": "LS-UAMMAM",
+  "product_name": "USB A형(Male) - Micro A형(Male) USB2.0 케이블",
+  "category": [
+    "USB케이블",
+    "USB2.0"
+  ],
+  "key_features": [
+    "USB A형(Male) - Micro A형(Male) 연결 케이블",
+    "USB 2.0 규격 지원 (최대 480Mbps 전송속도)",
+    "알루미늄 쉴드 및 편조 구조로 노이즈 차폐",
+    "VCC +5V / DATA+ / DATA- / Ground 4선 구성"
+  ],
+  "specifications": {
+    "제품명": "USB2.0 케이블 A-MicroA",
+    "모델명": "LS-UAMMAM-1.5M",
+    "브랜드": "LANStar",
+    "USB 규격": "USB 2.0 (480Mbps)",
+    "커넥터 A측": "USB A형 (Male)",
+    "커넥터 B측": "Micro A형 (Male)",
+    "Micro A 커넥터 단면 형상": "직사각형",
+    "Micro A 커넥터 단면 가로": "0.65mm",
+    "Micro A 커넥터 단면 세로": "0.2mm",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "모바일폰",
+    "PDA",
+    "MP3 플레이어",
+    "캠코더",
+    "게임기",
+    "GPS",
+    "디지털카메라",
+    "Micro A형 단자 탑재 기기"
+  ],
+  "package_contents": [
+    "USB A형 - Micro A형 케이블 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "구매 전 사용 중인 제품의 단자가 반드시 Micro A형인지 확인 후 구매하세요.",
+    "Micro A형(직사각형)과 Micro B형(라운드 사각형), 미니 5핀(사다리꼴 사각형)은 외형이 유사하므로 단자 모양을 반드시 확인하고 구매하세요.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UAMMAM-1.5M",
+      "품목코드": "CAB-USM001",
+      "품목명": "[LANstar] USB2.0 MICRO케이블, A／M-MICRO A／M, 1.5M [10737](250개)",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": null,
+      "data_only": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A형(Male)",
+    "connectivity.output_signals": "Micro A형(Male)",
+    "connectivity.directional": "USB A형(Male) - Micro A형(Male) 연결 케이블",
+    "power.power_mode": "VCC +5V / DATA+ / DATA- / Ground 4선 구성",
+    "power.charging_support": "VCC +5V / DATA+ / DATA- / Ground 4선 구성",
+    "form_physical.material": "알루미늄 쉴드",
+    "certification.kc": "인증번호: 해당없음",
+    "audio_video.max_resolution": "USB A형(Male) - Micro A형(Male) 연결 케이블",
+    "audio_video.hdcp_version": "USB A형(Male) - Micro A형(Male) 연결 케이블",
+    "family.usb_version": "USB 2.0 규격 지원",
+    "family.transfer_speed_gbps": "최대 480Mbps 전송속도"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:57",
+  "feature_schema_version": "1.0.0"
+}

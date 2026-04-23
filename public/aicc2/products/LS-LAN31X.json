@@ -1,0 +1,154 @@
+{
+  "model_no": "LS-LAN31X",
+  "product_name": "LANStar USB Type-C 2.0 100Mbps 랜카드",
+  "category": [
+    "USB-C",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "USB Type-C 2.0 연결 방식 지원 (위아래 구분 없이 연결 가능)",
+    "이더넷 전송속도 최대 100Mbps 지원",
+    "ASIX AX88772E 칩셋 사용 (속도 저하·끊김 없는 안정적 사용)",
+    "운영체제(PC)에서 드라이버 호환성으로 인해 AX88179로 표시됨",
+    "Plug & Play 지원 (별도 드라이버·프로그램 설치 불필요)",
+    "Windows, Mac OS, Android 등 다양한 운영체제 지원",
+    "RJ45 1포트 출력",
+    "알루미늄 재질 본체",
+    "국립전파연구원 KC 인증 획득",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "INPUT": "USB Type-C 2.0",
+    "OUTPUT": "RJ45 1포트",
+    "이더넷 전송속도": "10/100Mbps",
+    "USB 2.0 전송속도": "최대 100Mbps",
+    "칩셋": "ASIX AX88772E Chipset",
+    "작동 온도": "-10°C ~ 70°C",
+    "크기": "59 x 23.5 x 19.5 (mm)",
+    "무게": "약 29g (케이블 포함)",
+    "케이블 길이": "약 18cm",
+    "재질": "알루미늄",
+    "KC 인증번호": "MSIP-REI-LUS-LS-GLAN30",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "Windows 8 / 8.1 / 10 / 11",
+    "Mac OS",
+    "Android",
+    "데스크탑",
+    "노트북",
+    "맥북",
+    "크롬북",
+    "태블릿",
+    "스마트폰 (USB Type-C 포트 및 이더넷 지원 기기에 한함)"
+  ],
+  "package_contents": [
+    "USB Type-C to 10/100Mbps Ethernet Network Adapter (LS-LAN31X) 1개"
+  ],
+  "usage_instructions": "USB Type-C 포트가 있는 기기에 본 제품의 Type-C 커넥터를 연결하고, RJ45 포트에 LAN 케이블을 꽂아 공유기·모뎀·허브 등 인터넷 지원 기기와 연결합니다. Plug & Play를 지원하므로 별도의 드라이버나 프로그램 설치 없이 바로 사용할 수 있습니다.",
+  "cautions": [
+    "USB Type-C 포트를 연결하는 기기(스마트폰, 태블릿, 노트북 등)가 이더넷을 지원하는 기기인지 반드시 확인 후 구매하십시오.",
+    "이더넷을 지원하지 않는 기기에서는 사용이 불가능합니다.",
+    "운영체제(PC)에서는 드라이버 호환성 때문에 칩셋이 AX88179로 표시될 수 있으나, 실제 내부 칩은 AX88772E입니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-LAN31X",
+      "품목코드": "CAB-U31215",
+      "품목명": "[LANstar] USB Type C 랜카드 , 100mbps [30552] (200개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-LAN31X",
+      "내용": "작동 잘해요 사용하기 편하고요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": 0.18,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.1,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB Type-C 2.0 연결 방식 지원",
+    "connectivity.output_signals": "RJ45 1포트 출력",
+    "connectivity.directional": "이더넷 전송속도 최대 100Mbps 지원",
+    "connectivity.port_count": "RJ45 1포트 출력",
+    "power.power_mode": "USB Type-C 2.0 연결 방식 지원",
+    "power.charging_support": "랜카드",
+    "form_physical.has_case": "알루미늄 재질 본체",
+    "form_physical.material": "알루미늄 재질 본체",
+    "form_physical.length_meters": "케이블 길이: 약 18cm",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "audio_video.max_resolution": "랜카드",
+    "audio_video.hdr_support": "랜카드",
+    "audio_video.hdcp_version": "랜카드",
+    "audio_video.audio_pass": "랜카드",
+    "control_switching.has_remote": "Plug & Play 지원",
+    "control_switching.has_hotkey": "Plug & Play 지원",
+    "control_switching.has_physical_button": "Plug & Play 지원",
+    "control_switching.has_mouse_switching": "Plug & Play 지원",
+    "control_switching.has_auto_scan": "Plug & Play 지원",
+    "control_switching.has_app_control": "Plug & Play 지원",
+    "family.usb_version": "USB Type-C 2.0",
+    "family.transfer_speed_gbps": "이더넷 전송속도 최대 100Mbps 지원",
+    "family.charging_only": "랜카드",
+    "family.data_only": "랜카드"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:15",
+  "feature_schema_version": "1.0.0"
+}

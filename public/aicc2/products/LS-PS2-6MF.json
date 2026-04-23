@@ -1,0 +1,179 @@
+{
+  "model_no": "LS-PS2-6MF",
+  "product_name": "PS2 연장 케이블 6핀 (DIN6P/M-DIN6P/F)",
+  "category": [
+    "익스텐더",
+    "커넥터"
+  ],
+  "key_features": [
+    "키보드 또는 마우스용 PS2 케이블 연장에 사용",
+    "양끝 커넥터가 암(Female)/수(Male) 구조로 서로 연결 가능",
+    "6가닥 구성 케이블",
+    "차폐 처리로 데이터 전송 시 노이즈 보호",
+    "RoHS 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 타입": "DIN6P/M - DIN6P/F",
+    "길이": "0.15M, 1.8M, 5M, 10M",
+    "전압": "300V",
+    "작동 온도": "0~80°C",
+    "모델명(0.15M)": "LS-PS2-6MF-0.15M",
+    "모델명(1.8M)": "LS-PS2-6MF-1.8M",
+    "모델명(5M)": "LS-PS2-6MF-5M",
+    "모델명(10M)": "LS-PS2-6MF-10M",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "PS2 키보드",
+    "PS2 마우스",
+    "6핀 DIN(PS2) 규격 기기"
+  ],
+  "package_contents": [
+    "PS2 연장 케이블 6핀 (DIN6P/M-DIN6P/F) 1개"
+  ],
+  "usage_instructions": "기존 PS2 키보드 또는 마우스 케이블의 수(Male) 커넥터를 본 제품의 암(Female) 커넥터에 연결하고, 본 제품의 수(Male) 커넥터를 PC PS2 포트에 연결하여 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PS2-6MF-1.8M",
+      "품목코드": "CAB-PS2004",
+      "품목명": "[LANstar] PS2키보드연장케이블 ,DIN6P M／F 1.8M[10533] (120개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-PS2-6MF-5M",
+      "품목코드": "CAB-PS2005",
+      "품목명": "[LANstar] PS2키보드연장케이블 , DIN6P M／F 5M[10534] (76개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-PS2-6MF-10M",
+      "품목코드": "CAB-PS2006",
+      "품목명": "[LANstar] PS2키보드연장케이블 , DIN6P M／F 10M[10535] (45개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-PS2-6MF-0.15M",
+      "품목코드": "CAB-PS2115",
+      "품목명": "[LANstar] PS2키보드케이블 , DIN6P M／F 0.15M[20326]",
+      "variant_suffix": "-0.15M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-PS2-6MF",
+      "내용": "빠른 배송 품질 포장도 깔끔하네요"
+    },
+    {
+      "source_model": "LS-PS2-6MF-0.15M",
+      "내용": "저렴하게 잘 샀고 제 때 받았습니다."
+    },
+    {
+      "source_model": "LS-PS2-6MF-5M",
+      "내용": "조아요  잘쓰고 있습니다"
+    },
+    {
+      "source_model": "LS-PS2-6MF-5M",
+      "내용": "배송 빠르고 제품 만족합니다"
+    },
+    {
+      "source_model": "LS-PS2-6MF-5M",
+      "내용": "랜스타 연장 키보드 케이블 입니다. 모델명은 LS-PS2-6MF-5M 입니다. 배송 정말 빠르고 랜스타 제품은 믿고 쓰고 있어요. 5M라서 여유있고 쓰기 편합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "PS/2"
+      ],
+      "output_signals": [
+        "PS/2"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [
+        0.15,
+        1.8,
+        5,
+        10
+      ],
+      "color_options": []
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "max_distance_m": null,
+      "carrier_media": [
+        "N/A"
+      ],
+      "poc_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "PS2 케이블 연장에 사용",
+    "connectivity.output_signals": "PS2 케이블 연장에 사용",
+    "connectivity.directional": "양끝 커넥터가 암(Female)/수(Male) 구조",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.length_options_meters": "0.15M, 1.8M, 5M, 10M",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "키보드 또는 마우스용 PS2 케이블",
+    "audio_video.hdr_support": "키보드 또는 마우스용 PS2 케이블",
+    "audio_video.hdcp_version": "키보드 또는 마우스용 PS2 케이블",
+    "audio_video.audio_pass": "키보드 또는 마우스용 PS2 케이블",
+    "control_switching.has_remote": "키보드 또는 마우스용 PS2 케이블",
+    "control_switching.has_hotkey": "키보드 또는 마우스용 PS2 케이블",
+    "control_switching.has_physical_button": "키보드 또는 마우스용 PS2 케이블",
+    "control_switching.has_mouse_switching": "키보드 또는 마우스용 PS2 케이블",
+    "control_switching.has_auto_scan": "키보드 또는 마우스용 PS2 케이블",
+    "control_switching.has_app_control": "키보드 또는 마우스용 PS2 케이블",
+    "family.carrier_media": "6가닥 구성 케이블",
+    "family.poc_support": "무전원"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:38",
+  "feature_schema_version": "1.0.0"
+}

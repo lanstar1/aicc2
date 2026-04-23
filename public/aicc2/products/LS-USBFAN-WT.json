@@ -1,0 +1,121 @@
+{
+  "model_no": "LS-USBFAN-WT",
+  "product_name": "LANStar 미니 USB 선풍기",
+  "category": [
+    "휴대용선풍기"
+  ],
+  "key_features": [
+    "3가지 색상 제공: 화이트(LS-USBFAN-WT), 블루(LS-USBFAN-BL), 핑크(LS-USBFAN-PK)",
+    "심플 디자인",
+    "날개 결합 시 제품 길이 14cm의 휴대성",
+    "구부러지는 넥 구조로 바람 방향 자유 조절 가능",
+    "부드러운 날개 소재로 작동 중 부상 위험 최소화",
+    "OTG 젠더(별도 구매) 연결 시 스마트폰 사용 가능",
+    "USB 포트를 갖춘 노트북·PC 등 모든 기기와 연결 가능",
+    "휴대용 보조배터리로 작동 가능",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "RoHS·FCC·CE 인증 및 ISO 9001:2008 품질경영시스템 적용"
+  ],
+  "specifications": {
+    "제품 길이": "14cm (날개 결합 시)",
+    "색상": "화이트, 블루, 핑크",
+    "모델명": "LS-USBFAN-WT, LS-USBFAN-BL, LS-USBFAN-PK",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "인증 규격": "RoHS, FCC, CE, ISO 9001:2008"
+  },
+  "compatibility": [
+    "USB 포트가 있는 노트북 및 PC",
+    "USB 포트가 있는 모든 기기",
+    "OTG 지원 스마트폰 (OTG 젠더 별도 구매 필요)",
+    "휴대용 USB 보조배터리"
+  ],
+  "package_contents": [
+    "미니 USB 선풍기 본체 1개 (OTG 젠더 미포함)"
+  ],
+  "usage_instructions": "USB 포트에 본 제품을 연결하여 사용. 스마트폰 사용 시 OTG 젠더(별도 구매)를 스마트폰에 연결한 후 제품을 꽂아 사용. 넥 부분을 구부려 원하는 바람 방향으로 각도 조절 가능.",
+  "cautions": [
+    "스마트폰 연결 시 OTG 젠더(별도 구매) 필요",
+    "OTG 젠더 연결 전 스마트폰의 OTG 지원 여부를 반드시 확인할 것",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매·배송·반품 문의는 판매처(쇼핑몰 하단) 참조",
+    "본 제품의 무단 복제 및 이용 금지 (라인업시스템(주) 저작권 보호)"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USBFAN-WT",
+      "품목코드": "ELT-생활가204",
+      "품목명": "[LANstar] USB 미니 선풍기 화이트[60054]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 0.14,
+      "length_options_meters": null,
+      "color_options": [
+        "화이트",
+        "블루",
+        "핑크"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "fan_size_mm": null,
+      "rpm_max": null,
+      "cooling_target": []
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 포트를 갖춘 노트북·PC 등",
+    "power.power_mode": "USB 포트를 갖춘 노트북·PC 등 모든 기기와 연결 가능",
+    "form_physical.length_meters": "제품 길이 14cm",
+    "form_physical.color_options": "3가지 색상 제공: 화이트(LS-USBFAN-WT), 블루(LS-USBFAN-BL), 핑크(LS-USBFAN-PK)",
+    "certification.rohs": "RoHS·FCC·CE 인증",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "certification.fcc": "RoHS·FCC·CE 인증",
+    "certification.ce": "RoHS·FCC·CE 인증"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:57",
+  "feature_schema_version": "1.0.0"
+}

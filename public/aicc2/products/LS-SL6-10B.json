@@ -1,0 +1,93 @@
+{
+  "model_no": "LS-SL6-10B",
+  "product_name": "[LANstar] Cat.6 UTP 다이렉트 초슬림 랜케이블 10m 블랙 [30541] (80개)",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "랜케이블"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-SL6-10B",
+      "품목코드": "CAB-U5G153",
+      "품목명": "[LANstar] Cat.6 UTP 다이렉트 초슬림 랜케이블 10m 블랙 [30541] (80개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-SL6-10B",
+      "내용": "배송 빠르고 제품 좋습니다"
+    },
+    {
+      "source_model": "LS-SL6-10B",
+      "내용": "상품 대비 저렴한 가격",
+      "관련내용": "상품 대비 저렴한 가격"
+    },
+    {
+      "source_model": "LS-SL6-10B",
+      "내용": "상품 대비 저렴한 가격"
+    },
+    {
+      "source_model": "LS-SL6-10B",
+      "내용": "빠른 배송 감사 합니다"
+    },
+    {
+      "source_model": "LS-SL6-10B",
+      "내용": "항상 사용하는 제품입니다."
+    },
+    {
+      "source_model": "LS-SL6-10B",
+      "내용": "속도 빠르고 좋아요 !!"
+    },
+    {
+      "source_model": "LS-SL6-10B",
+      "내용": "선이 얇고 탄성이 있는편입니다. 장판 아래로 돌려서 정리하려고 구입했는데, 생각한대로 티가 안나서 좋습니다."
+    },
+    {
+      "source_model": "LS-SL6-10B",
+      "내용": "배송 겁나빨라요!!"
+    },
+    {
+      "source_model": "LS-SL6-10B",
+      "내용": "케이블이 슬림해서 가지도 다니기 좋아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향"
+    },
+    "form_physical": {
+      "color_options": [
+        "블랙"
+      ],
+      "length_meters": 10
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "랜케이블",
+    "connectivity.output_signals": "랜케이블",
+    "connectivity.directional": "다이렉트",
+    "form_physical.color_options": "블랙",
+    "form_physical.length_meters": "10m",
+    "family.cat_category": "Cat.6",
+    "family.shielding": "UTP"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:27",
+  "feature_schema_version": "1.0.0"
+}

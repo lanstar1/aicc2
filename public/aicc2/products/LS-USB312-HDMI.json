@@ -1,0 +1,269 @@
+{
+  "model_no": "LS-USB312-HDMI",
+  "product_name": "USB 3.1 Type-C to HDMI 컨버터 케이블 (4K2K @30Hz)",
+  "category": [
+    "DisplayPort",
+    "USB-C",
+    "USB3.0",
+    "컨버터"
+  ],
+  "key_features": [
+    "USB 3.1 Type-C 입력 신호를 HDMI 포트로 변환 출력",
+    "4K2K @30Hz UHD(3840x2160) 해상도 지원",
+    "DisplayPort Alternate Mode 지원",
+    "최대 5Gbps 전송속도 지원 (USB 3.0)",
+    "Plug & Play 지원 - 별도 드라이버 설치 불필요",
+    "무전원 방식 - 별도 전원 불필요",
+    "앞뒤 구분 없는 양면인식 USB Type-C 커넥터",
+    "HDCP 지원",
+    "32채널 멀티 오디오 지원, 1535kHz 오디오 샘플링",
+    "21:9 화면비율 영상 지원",
+    "DEX 모드 지원 (갤럭시 S8, S8+, 노트8 제외)",
+    "HDMI 표준규격 디지털 음성 출력 가능",
+    "고성능 칩셋 사용으로 갤럭시 S10e/S10/S10+, 노트10, 갤럭시 폴드, LG V40 영상출력 완벽 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC, FCC, CE 안전규격 인증, RoHS 준수, ISO 9001:2008 인증"
+  ],
+  "specifications": {
+    "인터페이스_입력": "USB 3.1 Type-C",
+    "인터페이스_출력": "HDMI",
+    "지원_해상도": "4K2K (3840x2160) @30Hz UHD",
+    "전송속도": "최대 5Gbps (USB 3.0), USB 2.0 (480Mbps) 호환, USB 1.1 호환",
+    "케이블_길이": "2M",
+    "색상": "Red, Black",
+    "지원_모드": "DisplayPort Alternate Mode",
+    "오디오": "32채널 멀티 오디오, 1535kHz 오디오 샘플링",
+    "화면비율": "21:9 지원",
+    "전원방식": "무전원",
+    "인증번호": "MSIP-REI-LUS-USB31-MP",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증규격": "KC, FCC, CE, RoHS, ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "Samsung Galaxy S10e",
+    "Samsung Galaxy S10",
+    "Samsung Galaxy S10+",
+    "Samsung Galaxy S9",
+    "Samsung Galaxy S9+",
+    "Samsung Galaxy Note 10",
+    "Samsung Galaxy Fold",
+    "LG V40",
+    "New MacBook (썬더볼트3 Type-C 노트북)",
+    "MacBook Air",
+    "DisplayPort Alternate Mode 지원 USB Type-C 포트 기기",
+    "HDMI 포트 탑재 TV, 모니터, 프로젝터",
+    "USB 2.0, USB 3.0 호환 (커넥터 모양 상이 시 별도 젠더 필요)"
+  ],
+  "package_contents": [
+    "USB 3.1 Type-C to HDMI 컨버터 케이블 1개 (2M, Red/Black)",
+    "반투명 비닐 포장"
+  ],
+  "usage_instructions": "USB Type-C 커넥터를 스마트폰 또는 노트북의 Type-C 포트에 앞뒤 구분 없이 연결하고, HDMI 단자를 TV·모니터·빔프로젝터의 HDMI 포트에 연결합니다. Plug & Play 방식으로 드라이버 설치 없이 즉시 사용 가능하며, 별도 전원 공급 불필요합니다.",
+  "cautions": [
+    "DisplayPort Alternate Mode를 지원하는 USB Type-C 포트에서만 영상 출력 가능",
+    "DEX 모드는 갤럭시 S8, S8+, 노트8에서 미지원",
+    "USB 2.0·3.0 제품과 호환 가능하나 커넥터 모양이 달라 별도 젠더 필요",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [],
+  "qna": [
+    {
+      "source_model": "LS-USB312-HDMI",
+      "id": 46189084,
+      "date": "2018-01-16 21:14",
+      "answerDate": "2018-01-17 10:11",
+      "user": "wnak*****",
+      "productName": "랜스타 갤럭시노트8/S8 V30 MHL 미러링 케이블 2M RED [LS-USB312-HDMI]",
+      "question": "충전도 동시에 가능한건가요?",
+      "answer": "안녕하세요 고객님\n\n충전과 동시에 사용은 되지 않습니다.\n\nLS-USB31-MPG  모델이 충전과 동시에 사용 가능합니다."
+    },
+    {
+      "source_model": "LS-USB312-HDMI",
+      "id": 47180796,
+      "date": "2018-02-02 20:41",
+      "answerDate": "2018-02-05 09:30",
+      "user": "kyk3***",
+      "productName": "랜스타 갤럭시노트8/S8 V30 MHL 미러링 케이블 2M RED [LS-USB312-HDMI]",
+      "question": "TV모델이 UN55H6350AF 인데 연결 되나요?",
+      "answer": "TV모델 보다는 TV에 HDMI 출력기능이 있는지\n없는지를 알아보셔야 합니다.\n감사합니다"
+    },
+    {
+      "source_model": "LS-USB312-HDMI",
+      "id": 47618090,
+      "date": "2018-02-09 15:45",
+      "answerDate": "2018-02-09 17:48",
+      "user": "tnal*******",
+      "productName": "랜스타 갤럭시노트8/S8 V30 MHL 미러링 케이블 2M RED [LS-USB312-HDMI]",
+      "question": "V20은 호환 안되나요?",
+      "answer": "안녕하세요 고객님\n\nV20은 호환 불가능합니다."
+    },
+    {
+      "source_model": "LS-USB312-HDMI",
+      "id": 53846260,
+      "date": "2018-05-20 13:20",
+      "answerDate": "2018-05-21 10:07",
+      "user": "kilr******",
+      "productName": "랜스타 갤럭시노트8/S8 V30 MHL 미러링 케이블 2M RED [LS-USB312-HDMI]",
+      "question": "LG V30에서 사용이 가능한가요?",
+      "answer": "안녕하세요 고객님\n\n안드로이드 8.0으로 업그레이드 하셨다면 호환 되지 않습니다."
+    },
+    {
+      "source_model": "LS-USB312-HDMI",
+      "id": 54488681,
+      "date": "2018-05-30 10:25",
+      "answerDate": "2018-05-30 18:24",
+      "user": "khc2******",
+      "productName": "랜스타 갤럭시노트8/S8 V30 MHL 미러링 케이블 2M RED [LS-USB312-HDMI]",
+      "question": "G6호환되나요?",
+      "answer": "안녕하세요 고객님\n\n해당제품은 G6과 호환 불가능하며\n\nA519B , A519R 제품으로\n\n사용하시면 되겠습니다"
+    },
+    {
+      "source_model": "LS-USB312-HDMI",
+      "id": 55729629,
+      "date": "2018-06-18 18:52",
+      "answerDate": "2018-06-19 09:11",
+      "user": "ky****",
+      "productName": "랜스타 갤럭시노트8/S8 V30 MHL 미러링 케이블 2M RED [LS-USB312-HDMI]",
+      "question": "갤럭시 A8 2018 사용가능한가요??",
+      "answer": "안녕하세요 고객님\n\n해당 제품은 갤럭시 A8과는 호환이 불가하며\n\nA519B , A519R 제품을 사용하시면 되겠습니다\n\n감사합니다"
+    },
+    {
+      "source_model": "LS-USB312-HDMI",
+      "id": 56206792,
+      "date": "2018-06-26 10:09",
+      "answerDate": "2018-06-26 11:58",
+      "user": "cj****",
+      "productName": "랜스타 갤럭시노트8/S8 V30 MHL 미러링 케이블 2M RED [LS-USB312-HDMI]",
+      "question": "노트fe 가능한가요?",
+      "answer": "안녕하세요 고객님\n\n해당기종은 노트FE와는 호환이 불가능합니다\n\nA519R , A519B 제품 사용하시면 되겠습니다"
+    },
+    {
+      "source_model": "LS-USB312-HDMI",
+      "id": 56324371,
+      "date": "2018-06-27 18:08",
+      "answerDate": "2018-06-28 15:46",
+      "user": "j100*****",
+      "productName": "랜스타 갤럭시노트8/S8 V30 MHL 미러링 케이블 2M RED [LS-USB312-HDMI]",
+      "question": "S9+호환 되나요?",
+      "answer": "안녕하세요 고객님\n\n호환 가능합니다."
+    },
+    {
+      "source_model": "LS-USB312-HDMI",
+      "id": 56391996,
+      "date": "2018-06-28 18:01",
+      "answerDate": "2018-06-29 11:25",
+      "user": "naya***",
+      "productName": "랜스타 갤럭시노트8/S8 V30 MHL 미러링 케이블 2M RED [LS-USB312-HDMI]",
+      "question": "갤럭시 s8인데 디버깅하고 연결해도 지원하지않는 모드라고나오네요",
+      "answer": "안녕하세요 고객님\n\n해당증상 제품 초기불량 증상이 의심 되며\n\n저희쪽으로 교환 A/S접수를 해주시기 바랍니다."
+    },
+    {
+      "source_model": "LS-USB312-HDMI",
+      "id": 57619047,
+      "date": "2018-07-17 16:58",
+      "answerDate": "2018-07-18 15:52",
+      "user": "naya***",
+      "productName": "랜스타 갤럭시노트8/S8 V30 MHL 미러링 케이블 2M RED [LS-USB312-HDMI]",
+      "question": "불량으로 반품했는데 여태 연락이없어서 문의 남깁니다.",
+      "answer": "안녕하세요 고객님\n\n저희쪽으로 입고 확인이 확실히 되지 않았습니다\n\n수거접수는 되어 있으나\n\n기사님이 집에 방문은 하셧는지\n\n확인 부탁드립니다"
+    },
+    {
+      "source_model": "LS-USB312-HDMI",
+      "id": 57737605,
+      "date": "2018-07-19 09:27",
+      "answerDate": "2018-07-19 11:24",
+      "user": "wkd2***",
+      "productName": "랜스타 갤럭시노트8/S8 V30 MHL 미러링 케이블 2M RED [LS-USB312-HDMI]",
+      "question": "안녕하세요 \n핸드폰 화면에 어쩌구저쩌구\n에러 라고 뜨던데 되기는 해요\n핸드폰에 이상생기는거 아니겠죠??",
+      "answer": "안녕하세요 고객님\n\n정확한 에러 사항을\n\n기재해 주시기 바랍니다\n\n감사합니다"
+    },
+    {
+      "source_model": "LS-USB312-HDMI",
+      "id": 57801843,
+      "date": "2018-07-20 00:21",
+      "answerDate": "2018-07-20 13:41",
+      "user": "wkd2***",
+      "productName": "랜스타 갤럭시노트8/S8 V30 MHL 미러링 케이블 2M RED [LS-USB312-HDMI]",
+      "question": "App/UI crashed\n이런 에러가 뜨는데\n괜찮은 건가요?",
+      "answer": "안녕하세요 고객님\n\n해당증상의 에러가 어떠한 상황에서\n\n나타나는지 파악이 되지 않습니다.\n\n자세한 문의를 남겨주시면 저희가 확인후\n\n다시 안내 해드리겠습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 2,
+      "length_options_meters": null,
+      "color_options": [
+        "Red",
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": null,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 Type-C 입력 신호를",
+    "connectivity.output_signals": "HDMI 포트로 변환 출력",
+    "connectivity.directional": "USB 3.1 Type-C 입력 신호를 HDMI 포트로 변환 출력",
+    "power.power_mode": "무전원 방식 - 별도 전원 불필요",
+    "form_physical.length_meters": "케이블_길이: 2M",
+    "form_physical.color_options": "색상: Red, Black",
+    "certification.kc": "KC, FCC, CE 안전규격 인증",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 인증",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증",
+    "certification.ce": "KC, FCC, CE 안전규격 인증",
+    "audio_video.max_resolution": "4K2K @30Hz UHD(3840x2160) 해상도 지원",
+    "audio_video.hdcp_version": "HDCP 지원",
+    "audio_video.audio_pass": "32채널 멀티 오디오 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:49",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,118 @@
+{
+  "model_no": "LS-4PG-STMF",
+  "product_name": "LANStar 애플용 스테레오 연장 케이블 (4극) 3.5st(M)-3.5st(F)",
+  "category": [
+    "컨버터",
+    "커넥터",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "3.5mm 4극 스테레오 연장 케이블 (Male to Female)",
+    "애플 정품 이어폰 기준 통화 마이크 기능 지원",
+    "스마트폰 범퍼/케이스 장착 시에도 문제 없이 연결 가능",
+    "이어폰 커넥터 단자 보호 목적으로 활용 가능",
+    "RoHS 인증 친환경 제품"
+  ],
+  "specifications": {
+    "규격": "3.5 stereo 4극",
+    "커넥터 구성": "3.5st Male - 3.5st Female",
+    "길이": "18cm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증": "RoHS Compliant",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "컴퓨터",
+    "MP3 플레이어",
+    "오디오 기기",
+    "스피커",
+    "스마트폰",
+    "스마트패드",
+    "이어폰",
+    "애플 정품 이어폰 (4극)"
+  ],
+  "package_contents": [
+    "스테레오 연장 케이블 3.5st(M)-3.5st(F) 1개"
+  ],
+  "usage_instructions": "3.5st(M) 단자를 컴퓨터, MP3, 오디오, 스마트폰, 스마트패드 등의 오디오 출력 단자에 연결하고, 3.5st(F) 단자에 스피커 또는 이어폰 등의 음향기기 케이블을 연결하여 음성을 전달합니다.",
+  "cautions": [
+    "이어폰 사용 시 커넥터 단자 부분이 접히거나 당김에 의해 손상될 수 있으므로 주의하십시오.",
+    "이어폰 연결 시 통화 마이크는 지원하나 그 외의 버튼/기능은 지원하지 않습니다.",
+    "이어폰 기능 지원은 애플 제품 구매 시 포함된 정품 이어폰 기준으로 적용됩니다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-4PG-STMF-015M",
+      "품목코드": "CAB-모젠케002",
+      "품목명": "[LANstar] 모바일 스테레오변환케이블, 3.5ST M/F, 4극 0.15M[10646]",
+      "variant_suffix": "-015M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "3.5mm"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": 0.18,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": false,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5st(M)",
+    "connectivity.output_signals": "3.5st(F)",
+    "connectivity.directional": "스테레오 연장 케이블",
+    "power.power_mode": "무전원",
+    "form_physical.length_meters": "길이\": \"18cm",
+    "certification.rohs": "RoHS 인증 친환경 제품",
+    "audio_video.audio_pass": "음성을 전달합니다.",
+    "family.conversion_direction": "연장 케이블",
+    "family.requires_external_power": "무전원"
+  },
+  "feature_extracted_at": "2026-04-23T03:07:26",
+  "feature_schema_version": "1.0.0"
+}

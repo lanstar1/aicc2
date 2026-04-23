@@ -1,0 +1,134 @@
+{
+  "model_no": "LS-WPCOP",
+  "product_name": "방수용 CAT.6 FTP 랜 커플러 형 1:1",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-FTP",
+    "커플러"
+  ],
+  "key_features": [
+    "CAT.6 FTP 규격 인라인 커플러 (RJ45 Female - RJ45 Female, 1:1)",
+    "IP67 등급 방수·방진 성능 (수심 15cm~1m 침수 보호)",
+    "10/100/1000Mbps 전송속도 지원",
+    "568A(Cross) 및 568B(Direct) 배열 모두 지원",
+    "최대 OD 4~8mm 케이블까지 사용 가능",
+    "옥외용·산업용 조립키트 포함, 랜스타 옥외용 방수제품과 호환",
+    "일반 케이블에 조립키트를 적용하여 방수·방진 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC·FCC·CE 인증 및 RoHS 규정 준수, ISO 9001:2008 품질경영시스템",
+    "국립전파연구원 인증 획득 (인증번호: KCC-RTI-LUS-LS-CAT6)"
+  ],
+  "specifications": {
+    "모델명": "LS-WPCOP-C6",
+    "규격": "CAT.6 FTP",
+    "커넥터 타입": "RJ45 Female - RJ45 Female",
+    "연결 방식": "인라인 커플러 1:1",
+    "전송속도": "10/100/1000Mbps",
+    "배선 배열": "568A(Cross), 568B(Direct)",
+    "방수·방진 등급": "IP67",
+    "호환 케이블 외경": "OD 4~8mm",
+    "인증번호": "KCC-RTI-LUS-LS-CAT6",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANStar (랜스타)"
+  },
+  "compatibility": [
+    "CAT.6 랜케이블",
+    "랜스타 옥외용 방수 커플러",
+    "랜스타 옥외용 방수 키스톤잭",
+    "USB 케이블 (옥외용 방수 커플러/키스톤잭 연결 시 조립키트 활용)"
+  ],
+  "package_contents": [
+    "커플러 (RJ45 Female - RJ45 Female)",
+    "조립키트 본체",
+    "고무링",
+    "조임나사"
+  ],
+  "usage_instructions": "1. 커플러에 케이블 선을 연결합니다. 2. 조립키트 본체를 커플러에 연결합니다. 3. 고무링을 C자 형태로 벌려 케이블에 끼운 후 조립키트 안에 넣습니다. 4. 조임나사를 조립키트와 결합하고 케이블 굵기에 맞게 조여줍니다. 반대쪽도 동일한 방법으로 연결합니다.",
+  "cautions": [
+    "사용 가능한 케이블 외경은 OD 4~8mm 이내로 제한됩니다.",
+    "방수·방진 효과를 위해 반드시 옥외용 방수 조립키트를 함께 사용하세요.",
+    "조임나사는 케이블 굵기에 맞게 적절히 조여야 방수 성능이 유지됩니다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주) 제작 상품 및 콘텐츠를 무단 복제·이용 시 불이익이 발생할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "FTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 Female - RJ45 Female",
+    "connectivity.output_signals": "RJ45 Female - RJ45 Female",
+    "connectivity.directional": "인라인 커플러 1:1",
+    "connectivity.port_count": "RJ45 Female - RJ45 Female",
+    "power.power_mode": "N/A",
+    "power.charging_support": "N/A",
+    "form_physical.has_case": "조립키트 본체를 커플러에 연결합니다",
+    "form_physical.material": "N/A",
+    "certification.kc": "KC·FCC·CE 인증",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템",
+    "certification.fcc": "KC·FCC·CE 인증",
+    "certification.ce": "KC·FCC·CE 인증",
+    "family.cat_category": "CAT.6 FTP 규격",
+    "family.shielding": "CAT.6 FTP 규격"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:39",
+  "feature_schema_version": "1.0.0"
+}

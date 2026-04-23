@@ -1,0 +1,135 @@
+{
+  "model_no": "LS-VGA2HDN",
+  "product_name": "VGA TO HDMI Video Converter (VGA to HDMI 컨버터)",
+  "category": [
+    "VGA",
+    "컨버터",
+    "전원아답터"
+  ],
+  "key_features": [
+    "VGA 신호를 HDMI 신호로 단방향 변환 (반대 방향 사용 불가)",
+    "VGA 입력 해상도 최대 1920x1080 지원",
+    "HDMI 출력 해상도 최대 1080P 지원",
+    "오디오 입력(스테레오/헤드셋 단자) 및 HDMI 동시 출력 지원",
+    "DC 5V 1.5A 유전원 방식 (전원 어댑터 필요)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC, FCC, CE 안전규격 인증 및 국립전파연구원 인증 획득",
+    "RoHS 준수 제품"
+  ],
+  "specifications": {
+    "모델명": "LS-VGA2HDN",
+    "품명": "VGA to HDMI 컨버터",
+    "VGA 입력 해상도": "최대 1920x1080",
+    "HDMI 출력 해상도": "최대 1080P",
+    "오디오 입력": "스테레오/헤드셋 단자",
+    "전원 입력": "DC 5V 1.5A (유전원)",
+    "본체 크기": "93mm x 61mm x 21.5mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "MSIP-REI-LUS-VGA2HD",
+    "어댑터 모델명": "GFP252-0512",
+    "어댑터 정격입력전압": "100V~240V, 50/60Hz, 0.7A",
+    "어댑터 정격출력전압": "5V DC, 1500mA",
+    "어댑터 케이블 길이": "1.4M",
+    "어댑터 규격": "외경 5.2mm, 내경 2.8mm",
+    "어댑터 안전인증번호": "HU10188-6007A"
+  },
+  "compatibility": [
+    "VGA 출력 단자가 있는 컴퓨터(데스크톱)",
+    "VGA 출력 단자가 있는 노트북",
+    "HDMI 입력 단자가 있는 모니터",
+    "HDMI 입력 단자가 있는 TV",
+    "HDMI 입력 단자가 있는 프로젝터"
+  ],
+  "package_contents": [
+    "VGA TO HDMI 컨버터 본체 1개",
+    "DC 5V 1.5A 전원 어댑터 (GFP252-0512) 1개",
+    "사용설명서 (User Manual) 1부"
+  ],
+  "usage_instructions": "1. VGA TO HDMI 컨버터의 VGA 입력단자에 VGA 케이블을 연결하여 컴퓨터 또는 노트북의 VGA 단자에 연결합니다. 2. 컨버터의 HDMI 출력단자에 HDMI 케이블을 연결하여 모니터, TV, 프로젝터 등의 HDMI 단자에 연결합니다. 3. 필요 시 컨버터 본체의 오디오 입력단자(Audio In)에 PC/오디오 케이블을 연결하여 사운드를 출력 장치로 전달합니다. 4. 컨버터 본체의 DC 5V 전원 입력단자에 DC 5V 전원 어댑터를 연결하여 전원을 공급한 후 사용합니다.",
+  "cautions": [
+    "VGA 입력 → HDMI 출력의 단방향 변환만 가능하며, 반대 방향(HDMI → VGA) 사용은 불가능합니다.",
+    "반드시 전원(DC 5V 1.5A 어댑터)을 연결한 후 사용하시기 바랍니다.",
+    "입·출력 방향을 반대로 인식하지 않도록 구매 전 확인하시기 바랍니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "전원 어댑터(GFP252-0512)는 별도 추가 구매가 가능합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-VGA2HDN",
+      "품목코드": "INT-HDS118",
+      "품목명": "[LANstar] VGA TO HDMI 영상 컨버터, 오디오지원, 아답터포함[60123] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA",
+        "3.5mm"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals[0]": "VGA 신호를 HDMI 신호로",
+    "connectivity.input_signals[1]": "오디오 입력(스테레오/헤드셋 단자)",
+    "connectivity.output_signals[0]": "HDMI 신호로 단방향 변환",
+    "connectivity.directional": "단방향 변환 (반대 방향 사용 불가)",
+    "power.power_mode": "DC 5V 1.5A 유전원 방식 (전원 어댑터 필요)",
+    "certification.kc": "KC, FCC, CE 안전규격 인증",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증",
+    "certification.ce": "KC, FCC, CE 안전규격 인증",
+    "audio_video.max_resolution": "HDMI 출력 해상도 최대 1080P 지원",
+    "audio_video.audio_pass": "오디오 입력(스테레오/헤드셋 단자) 및 HDMI 동시 출력 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:19",
+  "feature_schema_version": "1.0.0"
+}

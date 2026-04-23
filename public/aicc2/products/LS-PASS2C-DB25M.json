@@ -1,0 +1,122 @@
+{
+  "model_no": "LS-PASS2C-DB25M",
+  "product_name": "패시브 8P8C RJ45*2/F-DB25/M 커넥터",
+  "category": [
+    "컨버터",
+    "커넥터"
+  ],
+  "key_features": [
+    "패시브 타입 커넥터 (전원 불필요)",
+    "RJ45(F) x2 포트를 DSUB 25핀(Male) 타입으로 변환",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 미사용)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 구성": "RJ45(Female) x2 / DSUB 25핀(Male)",
+    "타입": "패시브",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "브랜드": "LANStar"
+  },
+  "compatibility": [
+    "RJ45(8P8C) Female 커넥터",
+    "DSUB DB25 Male 25핀 인터페이스"
+  ],
+  "package_contents": [
+    "패시브 RJ45*2/F-DB25/M 커넥터 본체 1개"
+  ],
+  "usage_instructions": "패시브끼리 연결 방법을 참고하여 RJ45(F) 포트에 케이블을 연결하고, 반대쪽 DSUB 25핀(M)을 대상 장비의 DB25 포트에 연결하여 사용.",
+  "cautions": [
+    "유통 과정상 제품의 모양이 조금씩 달라질 수 있음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익이 발생할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PASS2C-DB25M",
+      "품목코드": "INT-패시브008",
+      "품목명": "[LANstar] 패시브 , RJ-45 * 2／F - DB25／M [20123]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45(F) x2 포트를 DSUB 25핀(Male)",
+    "connectivity.output_signals": "DSUB 25핀(Male) 타입으로 변환",
+    "connectivity.directional": "패시브끼리 연결 방법을 참고하여",
+    "connectivity.port_count": "RJ45(Female) x2 / DSUB 25핀(Male)",
+    "power.power_mode": "패시브 타입 커넥터 (전원 불필요)",
+    "power.charging_support": "패시브 타입 커넥터 (전원 불필요)",
+    "form_physical.has_case": "패시브 8P8C RJ45*2/F-DB25/M 커넥터",
+    "certification.rohs": "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 미사용)",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "패시브 8P8C RJ45*2/F-DB25/M 커넥터",
+    "audio_video.hdr_support": "패시브 8P8C RJ45*2/F-DB25/M 커넥터",
+    "audio_video.hdcp_version": "패시브 8P8C RJ45*2/F-DB25/M 커넥터",
+    "audio_video.audio_pass": "패시브 8P8C RJ45*2/F-DB25/M 커넥터",
+    "control_switching.has_remote": "패시브 8P8C RJ45*2/F-DB25/M 커넥터",
+    "control_switching.has_hotkey": "패시브 8P8C RJ45*2/F-DB25/M 커넥터",
+    "control_switching.has_physical_button": "패시브 8P8C RJ45*2/F-DB25/M 커넥터",
+    "control_switching.has_mouse_switching": "패시브 8P8C RJ45*2/F-DB25/M 커넥터",
+    "control_switching.has_auto_scan": "패시브 8P8C RJ45*2/F-DB25/M 커넥터",
+    "control_switching.has_app_control": "패시브 8P8C RJ45*2/F-DB25/M 커넥터",
+    "family.conversion_direction": "패시브끼리 연결 방법을 참고하여",
+    "family.requires_external_power": "패시브 타입 커넥터 (전원 불필요)"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:30",
+  "feature_schema_version": "1.0.0"
+}

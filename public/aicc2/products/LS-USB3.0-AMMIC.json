@@ -1,0 +1,233 @@
+{
+  "model_no": "LS-USB3.0-AMMIC",
+  "product_name": "LANStar USB 3.0 Micro B 케이블",
+  "category": [
+    "USB케이블",
+    "USB3.0",
+    "USB2.0"
+  ],
+  "key_features": [
+    "USB 3.0 SuperSpeed 5Gbps 전송속도 지원 (USB 2.0 대비 10배 이상 빠름)",
+    "USB 2.0 기준 약 14분 소요되는 25GB 동영상을 약 70초에 전송 가능",
+    "USB 3.0은 USB 2.0 대비 약 2배 향상된 전원 공급 (500mA → 900mA)",
+    "별도 추가 전원 없이 기기 사용 가능 (향상된 전원 공급)",
+    "슬림모드, 저전력모드 등 전력관리 기능 개선",
+    "고밀도 쉴드 처리로 고속 양방향 통신 지원 및 전자파 노이즈 방지",
+    "USB 2.0 케이블보다 두꺼운 고밀도 쉴드 구조 (UTP Signal Pair, SDP Signal Pair, Shield Braid 등 포함)",
+    "USB 2.0 기준 약 14분 걸리는 25GB 동영상을 약 70초에 전송 가능",
+    "별도 추가 전원 없이 기기 사용 가능",
+    "SUPERSPEED CERTIFIED USB 인증",
+    "USB 3.0 SuperSpeed 지원, 최대 5Gbps 데이터 전송 속도",
+    "최대 900mA 전력 공급 지원",
+    "USB 2.0(480Mbps) 대비 약 10배 빠른 전송 속도",
+    "Full Duplex(동시 양방향) 데이터 전송 지원",
+    "3중 차폐 구조(편조차폐 + 알루미늄 차폐 2중)로 EMI 간섭 최소화",
+    "4쌍의 28AWG 전선 구성",
+    "USB 2.0 및 USB 1.1 장치와의 하위 호환성 유지(단, Micro B 커넥터 형상 불일치로 물리적 연결 불가)",
+    "플러그 앤 플레이 지원(드라이버 설치 불필요)",
+    "데이터 전송 및 충전 동시 지원(고속 충전 미지원)",
+    "0.5M / 1M / 1.5M / 2M / 3M / 5M 총 6가지 길이 옵션 제공",
+    "소재·부품·장비 전문기업 확인서 취득(2022.11.29)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "인터페이스": "USB 3.0 (SuperSpeed, 5Gbps)",
+    "커넥터 타입": "USB A Type (Male) - USB Micro B Type (Male)",
+    "케이블 길이": "0.5M / 1M / 1.5M / 2M / 3M / 5M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "품질보증기준": "공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "품명": "USB 3.0 Micro B 케이블",
+    "전송속도": "5Gbps (USB 3.0 SuperSpeed)",
+    "전원 공급": "900mA",
+    "길이": "0.5M / 1M / 1.5M / 2M / 3M / 5M",
+    "규격": "USB3.0 A/M - Micro B/M",
+    "전송_속도": "최대 5Gbps",
+    "실제_전송_속도_참고": "400MB/s 내외",
+    "전력_공급": "최대 900mA",
+    "심선": "28AWG",
+    "직경": "OD 5.8±0.1mm",
+    "길이_옵션": "0.5m, 1m, 1.5m, 2m, 3m, 5m",
+    "모델번호_0.5M": "10368 / LS-USB3.0-AMMIC-0.5M",
+    "모델번호_1M": "10369 / LS-USB3.0-AMMIC-1M",
+    "모델번호_1.5M": "10370 / LS-USB3.0-AMMIC-1.5M",
+    "모델번호_2M": "10371 / LS-USB3.0-AMMIC-2M",
+    "모델번호_3M": "10761 / LS-USB3.0-AMMIC-3M",
+    "모델번호_5M": "10762 / LS-USB3.0-AMMIC-5M",
+    "커넥터_A단": "USB 3.0 A/M (Male) - PC, 노트북 등 연결용",
+    "커넥터_B단": "USB 3.0 Micro B/M (Male)",
+    "케이블_구조": "PVC 자켓, 편조차폐, 알루미늄 차폐(2중), STUFFING(충전재), DRAIN WIRE",
+    "A_M_커넥터_크기": "15.5mm x 8mm (헤드부 약 35mm)",
+    "Micro_B_M_커넥터_크기": "9mm x 36mm (헤드부 약 42mm)",
+    "제조국": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)",
+    "브랜드": "LANStar (랜스타)",
+    "AS_문의": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "갤럭시 노트3 (Galaxy Note3)",
+    "갤럭시 S5 (Galaxy S5)",
+    "USB 3.0 외장하드",
+    "USB 3.0 Micro B 포트 지원 기기",
+    "Samsung Galaxy Note 3",
+    "Samsung Galaxy S5",
+    "USB 3.0 지원 기기 (Micro B 단자 사용 기기)",
+    "USB 3.0 Micro B 포트를 탑재한 외장 하드 드라이브",
+    "USB 3.0 Micro B 포트를 탑재한 휴대용 SSD",
+    "USB 3.0 Micro B 포트를 탑재한 카메라 및 캠코더",
+    "USB 3.0 Micro B 포트를 탑재한 구형 스마트폰",
+    "USB 3.0 Micro B 포트를 탑재한 구형 태블릿",
+    "USB 3.0 Micro B 포트를 탑재한 NAS 장치",
+    "USB 3.0 Micro B 포트를 탑재한 휴대용 오디오/비디오 장비(오디오 레코더, 비디오 캡처 장치 등)",
+    "USB 3.0 A 포트를 탑재한 데스크탑 PC",
+    "USB 3.0 A 포트를 탑재한 노트북",
+    "USB 2.0 / USB 1.1 장치와 하위 호환(단, Micro B 커넥터 형상 불일치로 물리적 연결 불가)"
+  ],
+  "package_contents": [
+    "USB 3.0 Micro B 케이블 1개",
+    "USB3.0 A/M-Micro B/M 케이블 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "길이 2M 이상의 케이블은 외장하드와 같이 전력 소모가 많은 제품과 연결 시 작동이 안 될 수 있음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "전송 속도 및 충전 시간은 환경에 따라 오차가 있을 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB3.0-AMMIC-2M",
+      "품목코드": "CAB-US3015",
+      "품목명": "[LANstar] [USB 3.0] 케이블 AM-MICRO B 2m [10371] (120개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB3.0-AMMIC-0.5M",
+      "품목코드": "CAB-US3029",
+      "품목명": "[LANstar] [USB 3.0] 케이블 AM-MICRO B 0.5m [10368] (240개)",
+      "variant_suffix": "-0.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB3.0-AMMIC-1M",
+      "품목코드": "CAB-US3030",
+      "품목명": "[LANstar] [USB 3.0] 케이블 AM-MICRO B 1m [10369] (180개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB3.0-AMMIC-1.5M",
+      "품목코드": "CAB-US3031",
+      "품목명": "[LANstar] [USB 3.0] 케이블 AM-MICRO B 1.5m [10370] (160개)",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB3.0-AMMIC-3M",
+      "품목코드": "CAB-US3061",
+      "품목명": "[LANstar] [USB 3.0] 케이블 AM-MICRO B 3m [10761] (80개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB3.0-AMMIC-5M",
+      "품목코드": "CAB-US3064",
+      "품목명": "[LANstar] [USB 3.0] 케이블 AM-MICRO B 5m [10762] (60개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-USB3.0-AMMIC-1M",
+      "내용": "선정리 대충 끝냈습니다"
+    },
+    {
+      "source_model": "LS-USB3.0-AMMIC-1M",
+      "내용": "내구성 좋고, 잘 안끊겨서 좋습니다.",
+      "관련내용": "한방에 똵!!! 인식 해서 좋습니다. 또 주문할께요 감사합니다~"
+    },
+    {
+      "source_model": "LS-USB3.0-AMMIC-1M",
+      "내용": "한방에 똵!!! 인식 해서 좋습니다. 또 주문할께요 감사합니다~"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-USB3.0-AMMIC-NEW": "SUPERSPEED\nLAN Star\nCERTIFIED\nUSB\nUSB3.0 A/M-Micro B/M 케이블\nUSB3.0 SUPERSPEED\n케이블 제품 분류표\n모델No.\n모델명\n길이\n직경\n심선\n10368\nLS-USB3.0-AMMIC-0.5M\n0.5M\n10369\nLS-USB3.0-AMMIC-IM\nIM\n10370\nLS-USB3.0-AMMIC-1.5M\n1.5M\n5.8±0.1mm\n28AWG\n10371\nLS-USB3.0-AMMIC-2M\n2M\n10761\nLS-USB3.0-AMMIC-3M\n3M\n10762\nLS-USB3.0-AMMIC-5M\n5M\nUSB 3.0 SUPERSPEED!\nUSB3.0 표준 규격\nUSB3.0 표준 규격은 USB 인터페이스의 3번째 주요 버전으로,\n기존 USB2.0 규격에 비해 데이터 전송 속도와 성능이 크게 향상되었습니다.\n빠른 데이터 전송 속도\nUSB 3.0은 최대 5Gbps의 데이터 전송 속도를 지원하여, USB 2.0(480Mbps)에 비해\n약 10배 빠른 전송 속도를 제공합니다. 이를 통해 대용량 파일이나 고해상도 비디오 등의\n전송 시간이 크게 단축됩니다.\n높은 전력 공급\nUSB 3.0은 최대 900mA의 전류를 지원하므로, USB 2.0의 500mA보다 더 높은\n전력 공급이 가능합니다. 따라서 전력을 더 많이 소비하는 장치들도 안정적으로 사용할 수 있습니다.\n듀얼 버스 지원(하위 호환성)\nUSB 2.0 및 USB 1.1 장치와의 하위 호환성을 유지하므로, 기존 USB 포트와 연결해도\n사용할 수 있습니다. 그러나 연결된 장치나 포트가 USB 3.0이 아닐 경우 속도가 그에 맞게 제한됩니다.\n강화된 차폐 구조\n차폐(Shielding) 구조가 더 강화되어 외부 전자기 간섭(EMI)으로부터 데이터를 보호하고,\n안정적인 연결을 제공합니다. 이를 통해 전송 중 오류나 신호 손실을 최소화할 수 있습니다.\n동시 양방향 데이터 전송 (Full Duplex)\nUSB 3.0은 양방향으로 동시에 데이터를 전송할 수 있는 Full Duplex 방식입니다.\n이는 이전 버전의 USB(USB 2.0)의 단방향 전송 방식에 비해 훨씬 효율적입니다.\n\n\n안정적인 연결을 제공합니다. 이를 통해 전송 중 오류나 신호 손실을 최소화할 수 있습니다.\n동시 양방향 데이터 전송 (Full Duplex)\nUSB 3.0은 양방향으로 동시에 데이터를 전송할 수 있는 Full Duplex 방식입니다.\n이는 이전 버전의 USB(USB 2.0)의 단방향 전송 방식에 비해 훨씬 효율적입니다.\n플러그 앤 플레이 기능\n대부분의 운영 체제에서 플러그 앤 플레이를 지원하여, 드라이버 설치 없이도 USB 3.0 장치를\n빠르게 인식하고 사용할 수 있습니다.\nUSB3.0 A/M-Micro B/M\n주로 작고 휴대 가능한 장치와의 고속 데이터 전송이 필요한 상황에서 많이 사용됩니다.\nUSB A/M(Male)\nPC, 노트북 등에 사용\nIIIII\n데스크탑\n노트북\nUSB Micro B(Male)\nUSB Micro B타입을 사용하는\nUSB 장치에서 사용\nO\n외장하드\n휴대용 SSD\n카메라\n캠코더\nNAS\n구형 태블릿\n구형 스마트폰\nUSB3.0 A/M-Micro B/M 케이블 주의사항\nUSB 3.0 Micro B 커넥터는 USB 2.0 Micro B와 모양이 다릅니다.\nUSB 2.0 포트에는 물리적으로 맞지 않으니,\n반드시 USB 3.0 Micro B 포트에만 사용해야 합니다.\n5Gbps 전송속도\n최대 5Gbps 전송속도를 지원합니다.\n일반적으로 USB 전송 속도는 사용자의 PC\n환경 및 여러 복합적인 요소로 인해\n이론적 전송 속도와 실제 전송 속도간의 차이가\n발생합니다.\nUSB 버전\n이론적 속도\n실제 전송 속도\nUSB 2.0\n480Mbps (=58MB/s)\n30MB/s 내외\nUSB 3.0\n5Gbps (=600MB/s)\n400MB/s 내외\nUSB 3.1\n10Gbps (=1200MB/s)\n850MB/s 내외\nUSB 3.2\n20Gbps (=2400MB/s)\n2100MB/s 내외\n\n\nUSB 3.0\n5Gbps (=600MB/s)\n400MB/s 내외\nUSB 3.1\n10Gbps (=1200MB/s)\n850MB/s 내외\nUSB 3.2\n20Gbps (=2400MB/s)\n2100MB/s 내외\nUSB3.0 케이블 구조\n4쌍의 28AWG 전선이 각각 데이터와 전력을 전송하며\n3중으로 이루어진 차폐 구조를 통해\n전자기 간섭으로부터 보호됩니다.\nPVC 자켓\n편조차폐\n► STUFFING\n충전재로, 케이블 내부에서 공간을 메우고,\n전선의 움직임을 줄이며,\n물리적인 충격으로부터\n보호하는 역할\n알루미늄 차폐\n알루미늄 차폐\nSTUFFING\nDRAIN WIRE\nSTUFFING\nUSB3.0 A/M-Micro B/M 사용처는?\n작고 휴대 가능한 장치와의 고속 데이터 전송이 필요한 상황에서 많이 사용됩니다.\n--\n외장 하드 드라이브\n카메라 및 캠코더\n구형 스마트폰, 태블릿\n컴퓨터와 외장 하드 드라이브를\n연결할 때 자주 사용\n고해상도 프린터나 스캐너와\n같은 장치에서 연결시 사용\nUSB3.0 Micro B포트를\n지원하는 구형 태블릿, 스마트폰에서\n충전 및 데이터 전송\nSynology\nNAS 장치\n휴대용 오디오/비디오 장비\n네트워크 저장장치(NAS)에서도\n데이터를 빠르게 백업하거나\n전송하기 위해 사용\nUSB 3.0 속도가 필요한\n오디오 레코더, 비디오 캡처\n장치 등에서도 이 케이블을 사용\nPRODUCT SIZE\n15.5mm\n<A/M (Male) >\n8mm\n35mm\n47mm\n47mm\n<Micro B/M (Male) >\n9mm\n\n\n35mm\n47mm\n47mm\n<Micro B/M (Male) >\n9mm\n36mm\n42mm\n0.5M\nIM\n1.5M\n2M\nPIN OUT\n3M\n5M\nP1 USB 3.0 AM\nP2 USB 3.0 AF\nCOLOR\n1\n1\nRED\n2\n2\nWHITE\nx\n3\n3\nGREEN\n4\n4\nBLACK\n5\n8\nPURPLE\n6\n9\nORANGE\n7\n7\nDRAIN WIRE\n42mm\n8\n5\nYELLOW\n9\n6\nBLUE\nBRAID+DRAIN\nSHELL\nSHELL\n15.5mm\nSPECIFICATION\n규격\nUSB3.0 A/M - Micro B/M\n전송 속도\n최대 5Gbps\n전력 공급\n최대 900mA\n호환\n포트 모양이 다릅니다. 하위버전 사용 불가\n심선\n28AWG\n길이\n0.5m / 1m / 1.5m/2m/3m/5m\n직경\nOD 5.8±0.1mm\nFAQ\n자주 물어보시는 질문\nQ. USB3.0 전송 속도를 지원하나요?\nSUPERSPEED를 지원하며, 5Gbps의 빠른 데이터 전송이 가능합니다.\n하지만 연결하는 장치와 포트가 USB 3.0을 지원해야 최대 성능을 낼 수 있습니다.\nQ. 충전을 지원하는 케이블인가요?\n데이터 전송과 충전을 동시에 지원하지만, 고속 충전을 지원하지는 않습니다.\n데이터 전송에 최적화된 케이블입니다.\nQ. 신호 간섭이나 손실 방지 기능이 있나요?\n네. 이중 차폐 처리되어 외부 신호 간섭을 최소화하여 안정적인 데이터 전송을 보장합니다.\n신호 손실을 방지하여 데이터 고속 전송시에도 품질을 유지합니다.\nQ. 4K 영상 전송이 가능한가요?\n대용량 데이터 전송이 가능한 케이블이지만, 4K 영상 전송은 어렵습니다.\n4K 영상 전송이 가능한 케이블을 구매하여 사용하시기 바랍니다.\n\n\nQ. 4K 영상 전송이 가능한가요?\n대용량 데이터 전송이 가능한 케이블이지만, 4K 영상 전송은 어렵습니다.\n4K 영상 전송이 가능한 케이블을 구매하여 사용하시기 바랍니다.\nQ. USB2.0 포트에서도 사용 가능한가요?\nUSB3.0 Micro B 포트와 USB2.0 Micro B 포트는 포트 모양이 다릅니다.\nUSB Micro B 포트에서는 사용할 수 없으니, 무리해서 연결을 시도하지 않도록\n주의하여 주시기 바랍니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n상품 도착\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n전문기업확인서\n소재·부품상비 전문기업확인서\n4\n17\n* 22.11.23-11.\n평가관리원\n위기\n신문기업인을 확신합니다..\n산업통산자원부 시행 제도\nKell\nBLINE\n2022.11.29 취득\n2:29\n한국산업기술평가관학원\nBEXD\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상품정보\n품\n명\nUSB3.0 A/M-Micro B/M 케이블\nLS-USB3.0-AMMIC-0.5M\nLANStar\nLS-USB3.0-AMMIC-IM\n모\n델\n명\nLS-USB3.0-AMMIC-1.5M\n\n\n상 품 성 모\n품\n명\nUSB3.0 A/M-Micro B/M 케이블\nLS-USB3.0-AMMIC-0.5M\nANStar\nLS-USB3.0-AMMIC-IM\n모\n델\n명\nLS-USB3.0-AMMIC-1.5M\nLS-USB3.0-AMMIC-2M\nLS-USB3.0-AMMIC-3M\nLS-USB3.0-AMMIC-5M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질보증기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANS Star\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1,
+        1.5,
+        2,
+        3,
+        5
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A Type (Male)",
+    "connectivity.output_signals": "USB Micro B Type (Male)",
+    "connectivity.directional": "Full Duplex(동시 양방향) 데이터 전송",
+    "power.power_mode": "별도 추가 전원 없이 기기 사용 가능",
+    "power.charging_support": "데이터 전송 및 충전 동시 지원",
+    "form_physical.length_options_meters": "0.5M / 1M / 1.5M / 2M / 3M / 5M",
+    "family.usb_version": "USB 3.0 SuperSpeed",
+    "family.transfer_speed_gbps": "5Gbps 전송속도 지원",
+    "family.charging_only": "데이터 전송 및 충전 동시 지원",
+    "family.data_only": "데이터 전송 및 충전 동시 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:39",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,128 @@
+{
+  "model_no": "LS-WROLLER",
+  "product_name": "드럼 케이블 작업용 롤러",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "드럼 케이블 전용 작업용 롤러",
+    "롤러 간격 조절 가능 (최대 27.5cm / 최소 12.5cm, M14 육각볼트 조절)",
+    "레버를 통한 바퀴 고정 기능",
+    "최대 하중 약 60kg",
+    "스틸(롤링부) + 알루미늄(프레임) 재질로 튼튼한 구조",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "모델명": "LS-WROLLER",
+    "드럼케이블 규격": "폭 500mm / 지름 120~420mm",
+    "재질": "Steel(롤링부), Aluminum(프레임)",
+    "최대하중": "약 60kg",
+    "크기": "53x43(30) x 12.7(7.3) cm",
+    "무게": "약 7kg",
+    "볼트규격": "M14 육각볼트",
+    "롤러 간격 조절 범위": "최소 12.5cm / 최대 27.5cm",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "KC 인증번호": "해당없음"
+  },
+  "compatibility": [
+    "폭 500mm 이하 드럼 케이블",
+    "지름 120~420mm 드럼 케이블",
+    "LAN Star CAT.7 S/STP 300M (모델명: LS-7SSTP-300MG, Grey)",
+    "LAN Star CAT.7 S/STP 300M (모델명: LS-7SSTP-300MB, Blue)",
+    "LAN Star CAT.6A S/STP 300M (모델명: LS-SSTP-CAT.6A-300M, Grey)",
+    "LAN Star CAT.8 S/STP 200M (모델명: LS-8SSTP-200MG, Grey)"
+  ],
+  "package_contents": [
+    "드럼 케이블 롤러 본체",
+    "바퀴 (장착된 상태로 출고)"
+  ],
+  "usage_instructions": "1. (PUT UP) 드럼 케이블을 롤러 위에 올립니다. 2. (PULL) 롤러에 올려둔 드럼 케이블을 사용할 길이만큼 당깁니다. 3. (CUT) 사용할 길이만큼 잡아당긴 후 가위 및 절단도구로 케이블을 잘라냅니다. 4. (PUT DOWN) 사용한 드럼 케이블은 롤러에서 내려 안전하게 보관합니다. 롤러 간격은 M14 육각볼트를 조절하여 드럼 케이블 규격에 맞게 설정하고, 케이블 작업 시 레버로 바퀴를 고정하여 사용합니다.",
+  "cautions": [
+    "최대 하중은 이론상 약 60kg이며, 초과 하중 사용 금지",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-WROLLER",
+      "품목코드": "NEO-자재용022",
+      "품목명": "[LANstar] 드럼케이블 롤러, 바퀴포함 [30716][2개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-WROLLER",
+      "내용": "케이블  롤 놓고 쓰니 참 좋네요."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸",
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.directional": "N/A",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "드럼 케이블 전용 작업용 롤러",
+    "form_physical.material": "스틸(롤링부) + 알루미늄(프레임) 재질",
+    "certification.kc": "KC 인증번호: 해당없음",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:42",
+  "feature_schema_version": "1.0.0"
+}

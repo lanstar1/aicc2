@@ -1,0 +1,129 @@
+{
+  "model_no": "LS-AVGC-STM2STF",
+  "product_name": "LANStar 스테레오 Y형 연장 케이블 (3.5ST/M-3.5ST/F*2)",
+  "category": [
+    "젠더",
+    "커넥터",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "스마트폰용 이어폰 연장 케이블로 이어폰 기능과 마이크 기능을 동시에 연장 가능",
+    "3.5ST(Male) - 3.5ST*2(Female) Y형 분배 구조",
+    "아날로그 음성 지원",
+    "신호 손실을 최소화하는 금도금 커넥터 적용",
+    "케이블 두께 4pi",
+    "RoHS 규격 준수 (납·수은·카드뮴 등 중금속 사용 제한)",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 구성": "3.5ST Male 1개 - 3.5ST Female 2개",
+    "케이블 길이": "0.15M",
+    "케이블 두께": "4pi",
+    "커넥터 도금": "금도금",
+    "신호 유형": "아날로그 음성",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "품질 규격": "RoHS COMPLIANT, ISO 9001:2008"
+  },
+  "compatibility": [
+    "PC / 컴퓨터 / 노트북 (3.5mm 스테레오 단자)",
+    "MP3 플레이어",
+    "스마트폰",
+    "스마트패드",
+    "3.5mm 스테레오 이어폰 / 헤드셋",
+    "3.5mm 스테레오 스피커"
+  ],
+  "package_contents": [
+    "스테레오 Y형 연장 케이블 (3.5ST/M-3.5ST/F*2) 1개"
+  ],
+  "usage_instructions": "3.5ST(Male) 단자를 PC·MP3·스마트폰 등 소스 기기의 3.5mm 오디오 출력 단자에 연결하고, 2개의 3.5ST(Female) 단자에 각각 이어폰·헤드셋 또는 스피커를 연결하여 동시에 사용하거나, 연결을 미리 꽂아두어 매번 재연결하는 번거로움을 줄일 수 있습니다.",
+  "cautions": [
+    "본 제품은 음성(오디오)만 전달하며, 이어폰의 마이크 기능을 지원하지 않습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-AVGC-STM2STF-015M",
+      "품목코드": "CAB-젠더케008",
+      "품목명": "[LANstar] 젠더케이블 ,3.5ST(M)-3.5ST(F)*2 0.15M[20011]",
+      "variant_suffix": "-015M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "3.5mm"
+      ],
+      "directional": "양방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "3.5ST Male",
+      "connector_type_b": "3.5ST Female",
+      "gender": "M-F",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5ST(Male) 단자를 PC·MP3·스마트폰",
+    "connectivity.output_signals": "2개의 3.5ST(Female) 단자에 각각 이어폰",
+    "connectivity.directional": "이어폰 기능과 마이크 기능을 동시에 연장",
+    "connectivity.port_count": "3.5ST Male 1개 - 3.5ST Female 2개",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.material": "금도금 커넥터 적용",
+    "form_physical.length_meters": "케이블 길이: 0.15M",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "audio_video.audio_pass": "아날로그 음성 지원",
+    "family.connector_type_a": "3.5ST Male",
+    "family.connector_type_b": "3.5ST Female",
+    "family.gender": "3.5ST(Male) - 3.5ST*2(Female)"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:29",
+  "feature_schema_version": "1.0.0"
+}

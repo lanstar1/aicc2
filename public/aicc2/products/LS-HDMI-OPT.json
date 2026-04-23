@@ -1,0 +1,293 @@
+{
+  "model_no": "LS-HDMI-OPT",
+  "product_name": "LAN Star HDMI 리피터 광케이블",
+  "category": [
+    "광케이블",
+    "HDMI케이블",
+    "HDMI광케이블",
+    "리피터"
+  ],
+  "key_features": [
+    "4K2K(3840x2160) @30Hz 고해상도 지원 (기존 1080P 대비 4배 해상도)",
+    "HD 3D, 1440P, Full HD 1080P, HD 720P 등 다양한 해상도 지원",
+    "전송속도(대역폭) 16Gbps",
+    "최대 전송거리 300M",
+    "HDCP 지원",
+    "EDID 지원",
+    "CEC 지원",
+    "3D 지원",
+    "금도금(Gold Plated) 커넥터 적용 — 산화 방지, 높은 전도율, 신호 손실 최소화",
+    "HDMI 케이블과 리피터 일체형 구조 (TX 입력 / RX 출력)",
+    "HDMI 광케이블 매립 시 풀링(Pull-Ring) 활용 가능",
+    "HDMI to DVI 젠더(별매) 연결을 통한 고해상도 DVI 신호 전송 가능",
+    "RoHS, KC, FCC, CE 안전규격 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-HDMI-OPT-30M / LS-HDMI-OPT-40M / LS-HDMI-OPT-50M / LS-HDMI-OPT-60M / LS-HDMI-OPT-80M / LS-HDMI-OPT-100M / LS-HDMI-OPT-150M / LS-HDMI-OPT-200M / LS-HDMI-OPT-300M",
+    "케이블 길이": "30M, 40M, 50M, 60M, 80M, 100M, 150M, 200M, 300M",
+    "전송속도(대역폭)": "16Gbps",
+    "HDMI 출력 해상도": "4Kx2K (3840x2160) @30Hz 지원",
+    "소비전력(최대)": "DC 5V / 입력(TX): 0.6W / 출력(RX): 0.5W",
+    "작동온도": "0~55°C",
+    "작동습도": "0~90%",
+    "인증번호": "MSIP-REI-LUS-LS-HDMI-EXT",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템 (주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "DVD 플레이어",
+    "블루레이 플레이어",
+    "DVR",
+    "셋톱박스",
+    "PC",
+    "태블릿",
+    "비디오게임기",
+    "DVI 기기 (HDMI to DVI 젠더 별매 사용 시)"
+  ],
+  "package_contents": [
+    "HDMI 리피터 광케이블 본체 (TX 입력 커넥터 + RX 출력 커넥터 포함)",
+    "전원 아답터",
+    "USB 연장케이블",
+    "풀링(Pull-Ring)"
+  ],
+  "usage_instructions": "1) TX(입력) 커넥터를 영상 소스 기기(PC, 셋톱박스 등)의 HDMI 출력 포트에 연결한다. 2) RX(출력) 커넥터를 디스플레이 기기의 HDMI 입력 포트에 연결한다. 3) USB 전원을 공급한다(제공된 전원 아답터 또는 USB 연장케이블 활용). 4) 케이블을 매립할 경우, TX 커넥터에 풀링(Pull-Ring)을 케이블 아래에 놓고 두 번 감은 뒤 절연테이프로 고정하고 TX 커넥터까지 감아 매립관 안으로 통과시킨다.",
+  "cautions": [
+    "HDMI 광케이블에 사용된 유리 섬유는 꼬임과 얽힘 상태에서 손상될 수 있음",
+    "커넥터와 연결된 케이블을 잡아당기지 말 것",
+    "케이블이 구부러지지 않도록 주의할 것",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결기준에 따라 보상",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "HDMI to DVI 젠더는 별매 제품임"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMI-OPT-30M",
+      "품목코드": "CAB-HDO002",
+      "품목명": "[LANstar] 광 hdmi 1.4 광케이블 , 19P M/M, Black, Optical,4K*2K 60Hz 30M[10708]**할인제외**",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-OPT-40M",
+      "품목코드": "CAB-HDO003",
+      "품목명": "[LANstar] 광 hdmi 1.4 광케이블 , HDMI 19P M/M, Black, Optical, 40M(6) [10709]",
+      "variant_suffix": "-40M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-OPT-50M",
+      "품목코드": "CAB-HDO004",
+      "품목명": "[LANstar] 광 hdmi 1.4 광케이블 , HDMI 19P M/M, Black, Optical, 50M(6) [10710]**할인제외**",
+      "variant_suffix": "-50M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-OPT-60M",
+      "품목코드": "CAB-HDO005",
+      "품목명": "[LANstar] 광 hdmi 1.4 광케이블 , HDMI 19P M/M, Black, Optical, 60M(4) [10711]",
+      "variant_suffix": "-60M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-OPT-80M",
+      "품목코드": "CAB-HDO006",
+      "품목명": "[LANstar] 광 hdmi 1.4 광케이블 , HDMI 19P M/M, Black, Optical, 80M(4) [10712]",
+      "variant_suffix": "-80M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-OPT-100M",
+      "품목코드": "CAB-HDO007",
+      "품목명": "[LANstar] 광 hdmi 1.4 광케이블 , HDMI 19P M/M, Black, Optical, 100M[10713]",
+      "variant_suffix": "-100M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-OPT-200M",
+      "품목코드": "CAB-HDO009",
+      "품목명": "[LANstar] 광 hdmi 1.4 광케이블 , HDMI 19P M/M, Black, Optical, 200M[10715]**할인제외**",
+      "variant_suffix": "-200M",
+      "source": "excel"
+    }
+  ],
+  "_absorbed_fragments": {
+    "LS-HDMI-OPT-H": {
+      "product_name": "LANStar HDMI 2.0 Hybrid Active Optical Cable (LS-HDMI-OPT-30MH ~ LS-HDMI-OPT-100MH)",
+      "category": "HDMI 광 하이브리드 케이블",
+      "key_features": [
+        "신호 손실률 0% (Zero Loss) 장거리 전송",
+        "HDMI 2.0 규격 지원, 4K2K(3840x2160) @60Hz 출력",
+        "광섬유 + 구리 동선 하이브리드 구조 (Active Optical Cable)",
+        "무전원 방식 (별도 외부 전원 공급 불필요)",
+        "지원 길이: 30m / 40m / 50m / 60m / 80m / 100m",
+        "18Gbps 광대역 전송 지원",
+        "HDCP 2.2 / EDID / CEC 지원",
+        "HDR (High Dynamic Range) 지원 (HDMI 2.0a)",
+        "YUV 4:4:4 색 재현 지원",
+        "32채널 멀티채널 오디오 및 ARC(Audio Return Channel) 지원",
+        "HEC(HDMI Ethernet Channel) 지원",
+        "EMI 간섭 방지 (광섬유 사용으로 전자파 차단)",
+        "높은 인장강도 50kg (아라미드 원사 적용)",
+        "난연 재질 케이블 사용 (불에 강하고 유독가스 미배출)",
+        "OM3 광케이블 및 TMDS 신호 전송 방식 적용",
+        "24K 금도금 커넥터 적용",
+        "KC / FCC / CE / RoHS 인증 획득",
+        "현대해상화재 생산물배상책임보험 1억원 가입",
+        "ISO 9001:2008 품질경영시스템 인증"
+      ],
+      "specifications": {
+        "모델명": "LS-HDMI-OPT-30MH, LS-HDMI-OPT-40MH, LS-HDMI-OPT-50MH, LS-HDMI-OPT-60MH, LS-HDMI-OPT-80MH, LS-HDMI-OPT-100MH",
+        "품명": "HDMI 2.0a 하이브리드 케이블",
+        "브랜드": "LANStar",
+        "케이블 길이": "30M, 40M, 50M, 60M, 80M, 100M (±30cm 허용 오차, 커스텀 길이 가능)",
+        "전송속도(대역폭)": "18Gbps",
+        "영상 대역폭": "6Gbps x 3채널 (max) + Clock",
+        "HDMI 출력 해상도": "4K2K(3840x2160) @60Hz",
+        "지원 해상도": "480p, 720p, 1080i, 1080p(Deep Color), 4K(60P), 3D Full HD 1920x1080, WUXGA 1920x1200",
+        "케이블 타입": "하이브리드 (OM3 광섬유 + 구리선)",
+        "커넥터 타입": "HDMI Type A",
+        "케이블 외경": "4.5mm",
+        "케이블 피복 재질": "PVC",
+        "케이블 색상": "Black",
+        "소비전력 최대": "250mW (max)",
+        "입력 전원": "DC 5V / 입력(TX): 0.6W / 출력(RX): 0.5W",
+        "전원 공급 방식": "무전원 (별도 외부 전원 불필요)",
+        "광 변환기(송신)": "4채널 850nm VCSEL array",
+        "광 변환기(수신)": "4채널 GaAs PD array",
+        "차동 임피던스": "100 ohm (typ)",
+        "작동 온도": "0°C ~ 55°C",
+        "보관 온도": "-40°C ~ 70°C",
+        "작동 습도": "0 ~ 90%",
+        "상대 습도 (절대 최대)": "10 ~ 80% RH",
+        "전원 공급 전압 (권장)": "4.75V ~ 5.25V (Typical 5.0V)",
+        "전원 공급 전압 (절대 최대)": "4.5V ~ 5.5V",
+        "인장강도": "50kg",
+        "커넥터 도금": "24K 금도금",
+        "커넥터 크기 (Sink측)": "15mm x 14mm x 4mm",
+        "커넥터 크기 (Source측)": "15mm x 14mm x 4mm",
+        "HDCP 지원": "HDCP 2.2",
+        "인증번호": "MSIP-REI-LUS-LS-HDMI-EXT",
+        "제조국/원산지": "중국 (China)",
+        "제조사/수입사": "라인업시스템(주)",
+        "A/S 문의": "랜스타 A/S센터 www.LANstar.co.kr"
+      },
+      "compatibility": [
+        "HDMI 2.0 / 2.0a 규격 호환",
+        "HDCP 2.2 지원 기기",
+        "4K UHD TV, Full HD TV",
+        "블루레이 플레이어",
+        "노트북 (HDMI 출력 지원 기기)",
+        "게임기 (HDMI 출력 지원 기기)",
+        "셋톱박스",
+        "PC 모니터 (HDMI 입력 지원 기기)",
+        "프로젝터",
+        "DVR, 게임콘솔, 컴퓨터",
+        "3D 영상 지원 기기",
+        "ARC 지원 TV 및 AV 기기",
+        "HEC(HDMI Ethernet Channel) 지원 기기",
+        "디지털 안내판, LED 간판",
+        "의료용 이미징 장비",
+        "비행기 온보드 비디오 시스템",
+        "홈씨어터",
+        "TV 방송국 장비",
+        "회의실 비디오 장비",
+        "보안 시스템"
+      ],
+      "package_contents": [
+        "HDMI 2.0 Hybrid Active Optical Cable 본체 (선택 길이: 30m / 40m / 50m / 60m / 80m / 100m 중 1개)"
+      ],
+      "source_files": [
+        "LS-HDMI-OPT-H.json"
+      ]
+    }
+  },
+  "_variant_raw_texts": {
+    "LS-HDMI-OPT-H": "LANSStar®\n신호 손실률 0% (Zero)\nHDMI 2.0 Hybrid\nLS-HDMI-OPT-30MH~100MH\n30m\n40m\n50m\nHDMI 2.0\nActive Optical Cable\n60m\n80m\n100m\nSupports HDCP22AHDR Read\n無\n###*\n전원\nNtar\nLAN\nAda\nHDMI\ndts\n3D\nConforme\nCE FC\nROHS\nСЕют коне\n4K HDR\nHDMI HDCP\nDEFINITION MULTIMEDIA INTERACE\ndts\n3,840 x 2160 2.0a 2.2\nDOLBY\n60Hz 지원\nHDMI™\nHIGH-DEFINITION MULTIMEDIA INTERFACE\n4K@6\n@60Hz\nULTRA HD\n4K2K 고화질 해상도는 기존의 Full HD 1080p보다\n4배 높은 고해상도 화질을 표현하여\n얼굴의 솜털까지 볼 수 있는 실물에 가까운\n생생한 화질을 제공하는게 특징입니다.\n3D\nFULL HD\nFULL)\n4KX2K (4096x2160)\nHDMI 2.0\nHD\nHIGH DEFINITION MULTIMEDIA INTERFACE\nHDMI 1.3 1440P\nHDMI 1.2 FULL HD 1080P\nHD 720P\ndts HD\nDODOLBY® b HD DVD\nTRUEHD Blu-ray Disc\nMaster Audio\n21:9 화면비율\n극장용 시네마스코프 영상 지원\nHDMI 2.0 케이블은 21:9 화면비를 지원하여 극장에서 영화를 감상하듯\n잘리지 않은 화면을 선명하고 생생하게 볼 수 있습니다.\n21:9 UltraWide\n16:9\n\n\nHDMI 버전표\nHDMI version\n1.Over 1.1ver 1.2ver 1.3ver 1.4ver 2.Over 2.0a\nsRGB\nO\nO\nO\nO\nO\n0\nYCbCr 4:2:2/4:4:4\nO\nO\nO\nㅇ\n0\n8채널 LPCM, 192kHz 24비트 오디오 지원\nO\nㅇ\nO\nㅇ\nㅇ\noooo\noooooo\n블루레이/HD-DVD 오디오의 최대 해상도 지원\nO\nㅇ\nO\nO\nO\n기기간 컨트롤 링크 (CEC)\nO\nO\nO\nO\nC\nDVD 오디오 지원\nX\nO\n0\nO\nO\nO\nSACD (DSD) 지원\nx\nX\nX\nO\nO\nO\nO\nDeep color\nx\nx\nx\nO\nO\nO\nO\nXVYCC\nX\nX\nX\nO\n○\nㅇ\n○\n자동 립싱크\nx\nX\nX\nㅇ\nO\nO\nC\n돌비 TrueHD 오디오 비트스트림 지원\nX\nX\n×\nO\nO\nO\nO\nUpdated list of CEC commands\nX\nx\n×\nO\nO\nO\nC\nHDMI 3D 지원\nX\nX\nX\nx\nO\nO\nO\n이더넷채널\nX\nX\nX\nx\nO\nO\nO\n오디오 리턴 채널\nx\n×\nX\nX\nO\n0\n0\n4K 해상도 지원 (30Hz)\nX\nX\nX\nx\nO\nO\n○\n4K 해상도 지원 (60Hz)\nX\nx\nX\nX\nX\nO\nO\n32채널 오디오\nx\nX\n×\nX\nx\nO\nO\nHDR\nX\n×\nX\nX\nx\nX\nO\nHigh Dynamic Range\nHDR Video\n완벽한 색상구현\n4K UHD\nHDR SUPPORT\n명암을 세밀하게 분석해 사람의 눈과 유사하게\n자연스러운 영상을 보여주는 기술입니다.\n32채널 멀티채널오디오\n1536kHz 오디오 샘플링으로 최대 4명의 사용자에게 동시에 멀티\n스트림 오디오를 전송하여 고음질의 풍성하고 섬세한 소리로\n영화나 음악을 감상할 수 있습니다\n459:\nage\n오디오 리턴 채널\n(Audio Return Channel)\nTV와 AV기기 간에 별도의 케이블이 없이도\n선명하고 쾌적한 음성신호를 전송합니다.\n\n\n9:35\nHD\nHDMI 케이블을 통해 TV 사운드를 재생하는 ARC(Audio Return Channel) 지원\nHEC 지원\n(HDMI Ethernet Channal)\nHDMI 2.0 케이블은 별도의 랜케이블 없이 네트워크에 접속해\n초고속 양방향 통신 및 IP 기반 응용기술(IPTV, DLNA, UPnp)을\n구현할 수 있습니다.\nHDMI®\nHIGH SPEED\nwith ETHERNET\nINTERNET\nTV, PC 모니터 등에 연결\n1 OUTPUT(출력)\ne\n19P/M\nINPUT (입력)\n노트북, 블루레이 플레이어, 게임기\n셋톱박스 등에 연결\n00:02:00\n30\nBlu-ray 플레이어\n노트북\nv33\n게임기\n셋톱박스\nOUTPUT(출력)과 INPUT(입력) 연결방향이 바뀌면\n작동하지 않습니다. 연결시 반드시 확인하세요.\n광 + 구리 하이브리드 구조\nHDMI 2.0 Hybrid 광케이블은 광섬유와 구리 동선을 사용한 하이브리드 구조로 영상 및 음성 신호를 광섬유를\n사용하여 전송하므로 4K 60Hzdml 신호도 0%의 손실로 장거리 전송할 수 있는 최고 수준의 HDMI 케이블입니다.\n기존의 광 HDMI 케이블의 경우 장거리 전송시 별도의 전원공급이 필요했지만, HDMI 2.0 Hybrid 광케이블은 추가로\n내장된 구리선을 통해 원활한 전원공급이 가능하기때문에 무전원으로 장거리 전송을 실현할수 있습니다.\nㄱㄱ\n방탄조끼등에 쓰이는 열에 강하고 튼튼한 아라미드 섬유\n절연충\n구리\n광섬유\n열수축 슬리브\n보호 피복\nPET 메쉬\nHDMI 케이블 종류별 비교\n케이블 종류\n구리 HDMI 케이블\n하이브리드 HDMI 케이블\n광 HDMI 케이블\n지원거리\n1~18M 이내\n1~100M\n1~300M\n신호손실\n발생\n없음\n없음\n전원공급\n필요없음\n필요없음\n필요\n인장강도\n낮음\n높음\n보통\n\n\n케이블 종류\n구리 HDMI 케이블\n하이브리드 HDMI 케이블\n광 HDMI 케이블\n지원거리\n1-18M 이내\n1~100M\n1~300M\n신호손실\n발생\n없음\n없음\n전원공급\n필요없음\n필요없음\n필요\n인장강도\n낮음\n높음\n보통\nHDMI 2.0 Hybrid 광케이블 기능\n》4K HDR (High Dynamic Range)\n4K HDR\nHIGH DYNAMIC RANGE\nHDMI 2.0a의 HDR을 완벽 지원하여,디테일이 살아있는 고화질의\n영상을 감상할수 있습니다.\nYUV 4:4:4\n》YUV 4:4:4 색 재현\n최적의 샘플링 비율인 YUV 4:4:4를 지원하여 화질저하 없는 원본에\n가까운 영상을 재생할수 있습니다.\n》EDID / HDCP 2.2 / CEC 지원\nHDCP\n2.2\nEDID(모니터에 맞는 최적의 해상도 제공)\nHDCP 2.2 (블루레이 영상 완벽한 재생)\nCEC (삼호 연결된 장치를 리모콘 하나로 통합)\n> 하이브리드 구조 (구리+광)\nHYBRID\nOPTICL\nCOOPER\n광섬유와 구리를 사용하고, 엑티브 방식으로 리피터 칩이 내장되어\n10~100M 까지 안정적인 신호 전송이 가능합니다.\n> 무전원 방식\n기존 HDMI 광케이블의 단점을 개선하여, 장거리 전송과 무전원 두 가지\n모두 가능해 설치가 간편합니다.\n높은 인장강도 50Kg\n50KG\n구리와 광케이블의 배합 및 강력한 내구성의 아라미드 원사를 적용하여\n야외 공연장에서도 사용이 가능합니다.\n> 초 고속 케이블\nHIGH\nSPEED\nHDMI 2.0 Hybrid 광케이블은 10.2Gbs 비압축 케이블로 영상 및 음성을\n초고속으로 전송할수 있습니다.\nNO EMI\n> EMI 간섭 방지\nC::\n광섬유를 사용하기 때문에 EMI 필터 없이도 전자파 신호 간섭없이 깨끗한\n신호전송이 가능합니다.\n> 난연 재질 케이블\n불에 잘 타지 않고 유독가스배출이 없는 난연재질의 케이블을 사용\n하였습니다.\nTM\nHDMI\nHIGH-DEFINITION MULTIMEDIA INTERFACE\nActive Optical Cable\nHDMI 2.0 Hybrid는 TMDC 신호를 OM3 광케이블을 사용하여 흔히 사용하는 구리선 HDMI 케이블에 비해\n속도와 거리에 대한 제한으로 부터 자유롭고 0%의 신호손실로 높은 화질을 구현합니다.\n초고화질 광대역 전송 방식\nHDMI 2.0 Hybrid는 광케이블을 이용하여 전기신호가 아닌 초고속 광대역 전송방식을 이용, 주변의 전기적인\n신호에 영향을 받지 않아 화면의 흔들림 현상이나 물결현상, 빠른 화면 이동시 발생할 수 있는 모자이크 현상,\n노이즈등이 없이 정확한 데이터 전송이 가능하여 한 차원 높은 비디오 및 오디오 전송이 가능합니다.\nHDMI 2.0\nActive Optical Cable\nHOM20 30m\n· 우수한 전송률의\n24K 금도금 콘넥터\nChap\n1545\nChata Ze B\n44\nCE FC\nats\n3D\nConfor\n01. 장거리 전송 거리선 HDMI 케이블 보다 거리제한으로 부터 자유롭기 때문에\n전송이 가능합니다.\n02. 넓은 대역폭 18Gbps의 넓은 대역폭을 지원하여 장거리 전송을 하면서도 고화질,고선명,\n고음질의 데이터를 전송할수 있습니다.\n03. 안정된 신호 광섬유로 제작되어 있어 얇고 인장강도가 우수하며, 장거리에서도 손실없이\n안정된 신호를 전송할수 있습니다.\n고화질의 장거리 전송이 가능한 HDMI케이블!\n어느곳에 사용하면 좋을까요?\n\n\n고화질의 장거리 전송이 가능한 HDMI케이블!\n어느곳에 사용하면 좋을까요?\n방송실/종합상황실\n강의실/세미나\nDataG.\n병원/교회/컨벤션센터\n지하철/옥외광고\n* 가볍고 얇지만 성능은 강력한 제품으로 관리실, 교육장, 전시장, 마트, 지하철, 병원 등 다양한 환경에\n설치가 용이합니다.\n주요 특징\n• 최대 길이 최대 100m. (사용자에 따라 길이 조정가능). EDID 정보를위한 자체 탐지 기능\n·저전력 소비 : 250mW (max)\n• 신호 손실 없음(맑고 깨끗한 디지털 이미지를\nPlug and Play\n즉시 제공)\n• HDMI 2.0 표준과 호환 가능\n• 1080P 및 4K2K의 컴퓨터 해상도 지원(60P)\n• HDCP 지원\n• 광섬유 및 구리선이있는 하이브리드 광케이블\n응용 분야\n• 디지털 안내판\n거리와 경기장의 LED간판\n·의료용 이미징 장비\n·비행기 온보드 비디오 시스템\n• 홈씨어터\n• 블루레이, 3D 비디오, 프로젝터, 셋업박스\n• DVR 게임콘솔및 컴퓨터\n• TV 방송국\n회의실 비디오 장비\n• 보안 시스템\nAbsolute Maximum Rating\nParameter\nSymbol\nMin\nMax\nUnit\nPower Supply Voltage\nVCC\n4.5\n5.5\nV\nOperating Temperature\nTop\n0\n50\n° C\nStorage Temperature\nTs\n-40\n70\n. C\nRelative Humidity\nHs\n10\n80\n%RH\nRecommended Operating Conditions\nParameter\nSymbol\nMin\nTypical\nMax\nUnit\nPower Supply Voltage\nVCC\n4.75\n5.0\n5.25\nV\nOperating Temperature\nTop\n0\n50\n。C\nSpecifications\nItem\nDescription\nUnits\nTransmitter (Source)\nReceiver (Sink)\nHDCP & DDC\nHDCP 2.0 Fully Support bi-directional EDID and HDCP communication\nVideo Bandwidth\n6Gbps/x3Channel (max) + Clock.\nSupported\nPC: WUXGA 1920 x 1200 up to 100 meters, HDTV : 480p,720p, 1080i\nResolution & Distance\nand 1080p deep color, 4K(60P), 3DFull HD 1920 x 1080 up to 100 meters\nO/E Converter\n4 channel 850 nm VCSEL array\n4 CH GaAs PD array\nConnector Type\nHDMI type A\nCable Type\nHybrid type with OM3 fiber and copper wire\nCable Length\n15m/20m/30m/40m/50m/60m/70m/80m/90m/100m (with +/-30cm\ntolerance) Custom length available.\nCable Outer Diameter\n4.5mm\nJacket Outer Material\nPVC\nCable Weight TBD\nCable Weight TBD\nCable Color\nTBD\nCable Color Black\nDifferential Input\n100 ohm (typ)\nPower Consumption\n250mW (max)\nPower Supply\nNon external power required\nHDMI Type A Pin Assignment\nCKT.18\nCKT.2\nCKT.19\nCKT.1\nHDMI Type A Connector Pin Assignment\nPIN\nFunction\nPIN\nFunction\n1\nT.M.D.S. Data 2+\n11\nTMDS Clock Shield\n2\nT.M.D.S. Data 2 Shield\n12\nTMDS Clock-\n3\nT.M.D.S. Data 2-\n13\nCEC\n4\nT.M.D.S. Data 1+\n14\nUtility\n5\nT.M.D.S. Data 1 Shield\n15\nSCL\n6\nT.M.D.S. Data 1-\n16\nSDA\n7\nT.M.D.S. Data 0+\n17\nDDC/CEC Ground\n8\nT.M.D.S. Data 2 Shield\n18\n+5V Power\n9\nT.M.D.S. Data 0-\n19\nHot Plug Detect\n10\nTMDS Clock+\nPRODUCT SIZE\n30m~100m\n15mm\n15111\n↑\n4mm\nTo Source, ex. DVD, PC\nTo Sink, ex. TV\n4mm\n14mm\n\n\nPRODUCT SIZE\n30m~100m\n15mm\n888\nlaags\n\"\n↑\n4mm\nTo Source, ex. DVD, PC\nTo Sink, ex. TV\n4mm\n14mm 1\nPRODUCT IMAGE\nHDMI 2.0\nActive Optical Cable\nHOMI2.0\nActive Optical Cable\nHDMI 2.0\nActive Optical Cable\nActive Optical Cable\n지름 : 24.5cm.\n지름 : 24.5cm\n지름 : 20cm\n지름 : 20cm\nBOCO\n30m\n201\ncom 40m\n2008\n50m\nCEFC\n1500\n60m\nCCICC\nHDMI2.0\nActive Optical Cable\nHDMI2.0\nActive Optical Cable\n지름 : 30cm\n지름 : 30cm\n1503\n80m\n70-8\n(FC 100m\nCEFC\nPACKAGE IMAGE\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nROHS\nK FC CE\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nROHS(Restriction of Hazardous Substances)는 EU에서 발표한 특정위험물질 사용제한 지침으로\n2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등 중금속 사용을 금지합니다.\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는 마크로서 국내는\nKC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를 인증마크로 사용합니다.\nKC\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\n인증번호 MSIP-REI-LUS-LS-HDMI-EXT\nSPECIFICATION\n모\n델\n명\nLS-HDMI-OPT-30MH-100MH\n케이블 길이\n30M/40M/50M/60M/80M/100M\n전송속도(대역폭)\n18Gbps\nHDMI출력\n4K2K(3840*2160) @ 60Hz\n소비전력 최대\nDC 5V / 입력 (TX):0.6W / 출력(RX):0.5W\n입력전원\n5V\n작동 온 도\n섭씨 0~55도\n작동 습 도\n0-90%\nLAN Star\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nHDMI 2.0a 하이브리드 케이블\nLANStar®\n모\n명\nLS-HDMI-OPT-30MH\nLS-HDMI-OPT-40MH\nLS-HDMI-OPT-50MH\nLS-HDMI-OPT-60MH\nLS-HDMI-OPT-80MH\nLS-HDMI-OPT-100MH\n인증번호\nMSIP-REI-LUS-LS-HDMI-EXT\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n*구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        30.0,
+        40.0,
+        50.0,
+        60.0,
+        80.0,
+        100.0,
+        150.0,
+        200.0,
+        300.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": "없음",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": true,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "TX(입력) 커넥터를 영상 소스 기기(PC, 셋톱박스 등)의 HDMI 출력 포트에 연결한다.",
+    "connectivity.output_signals": "RX(출력) 커넥터를 디스플레이 기기의 HDMI 입력 포트에 연결한다.",
+    "connectivity.directional": "TX 입력 / RX 출력",
+    "power.power_mode": "USB 전원을 공급한다(제공된 전원 아답터 또는 USB 연장케이블 활용)",
+    "power.charging_support": "USB 전원을 공급한다",
+    "form_physical.has_case": "HDMI 케이블과 리피터 일체형 구조",
+    "form_physical.material": "금도금(Gold Plated) 커넥터 적용",
+    "form_physical.length_options_meters": "30M, 40M, 50M, 60M, 80M, 100M, 150M, 200M, 300M",
+    "certification.kc": "KC 안전규격 인증",
+    "certification.rohs": "RoHS 안전규격 인증",
+    "certification.fcc": "FCC 안전규격 인증",
+    "certification.ce": "CE 안전규격 인증",
+    "audio_video.max_resolution": "4K2K(3840x2160) @30Hz 고해상도 지원",
+    "audio_video.hdcp_version": "HDCP 지원",
+    "family.optical_core": "LAN Star HDMI 리피터 광케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:17",
+  "feature_schema_version": "1.0.0"
+}

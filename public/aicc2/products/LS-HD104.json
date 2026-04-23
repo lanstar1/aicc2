@@ -1,0 +1,142 @@
+{
+  "model_no": "LS-HD104",
+  "product_name": "LAN Star 1:4 HDMI 분배기 (HDMI Splitter 1 in 4 out)",
+  "category": [
+    "HDMI분배기",
+    "리피터"
+  ],
+  "key_features": [
+    "1입력 4출력 HDMI 분배 지원",
+    "Full-HD 1920x1080 (1080p) 지원",
+    "영상 및 음성 동시 지원",
+    "HDMI v1.4 (3D) 및 HDMI v1.3 지원",
+    "비디오 리피터 내장 (최대 20m 전송, 케이블 품질에 따라 다름)",
+    "HDCP (High Digital Content Protection) 완벽 지원 (개별 컨트롤 칩셋 내장)",
+    "데이지 체인 방식 지원 (분배기 출력을 다시 분배 가능)",
+    "IR 원격제어 포트 지원 (옵션 상품 별도 구매 필요)",
+    "입출력 포트 24K 골드 도금 (신호 손실 억제)",
+    "정격 아답터 기본 제공",
+    "KCC 인증 획득 제품 (인증번호: KCC-REI-LS-HD104)",
+    "x.v.Color 지원"
+  ],
+  "specifications": {
+    "모델명": "LS-HD104",
+    "전원": "DC 5V / 1A 이상 (아답터 기본 제공)",
+    "크기": "111(W) x 75(H) x 23.5(D) mm",
+    "입력": "HDMI IN 1 PORT",
+    "출력": "HDMI OUT 4 PORT",
+    "지원 영상 규격": "DVI v1.0, HDMI v1.4 3D, HDMI v1.3b, HDCP 1.0 / 1.1 / 1.2, 1080p, 1080i, 720p, 720i, 576p, 576i, 480p, 480i, UXGA, XGA, SVGA, VGA",
+    "지원 음향 규격": "LPCM, Dolby-AC3, DTS, DSD",
+    "전송 거리": "15m (MAX 20m, 케이블 품질에 따라 다름)",
+    "재질": "STEEL",
+    "인증": "KCC-REI-LS-HD104"
+  },
+  "compatibility": [
+    "HDMI 포트가 있는 데스크탑 컴퓨터 및 노트북",
+    "DVI 출력 기기 (DVI 젠더 사용)",
+    "디지털 기기: PSP, XBOX, 캠코더 (HDMI 또는 DVI 출력)",
+    "LCD 모니터",
+    "LED TV",
+    "LCD TV",
+    "PDP",
+    "프로젝터",
+    "홈시어터",
+    "3D TV",
+    "HDMI v1.4 (3D 지원)",
+    "HDMI v1.3b",
+    "HDCP 1.0 / 1.1 / 1.2",
+    "VGA ~ UXGA 해상도",
+    "x.v.Color"
+  ],
+  "package_contents": [
+    "LS-HD104 본체",
+    "정격 아답터 (DC 5V)",
+    "한글 사용자 설명서 (User Manual)"
+  ],
+  "usage_instructions": "1. HDMI 포트가 있는 컴퓨터 또는 노트북의 HDMI 출력을 분배기 HDMI IN 포트에 연결한다. 2. 분배기의 HDMI OUT 1~4 포트에 HDMI 케이블을 이용하여 TV, 모니터 등 최대 4대의 영상 장비를 연결한다 (DVI 젠더 사용 가능). 3. 정격 아답터를 DC 5V 입력 포트에 연결하여 전원을 공급한다. 4. 데이지 체인 방식으로 분배기 출력을 다시 분배기에 연결하여 확장 응용이 가능하다. 5. IR 원격제어가 필요한 경우 전면 IR 포트에 옵션 상품(LS-IRTX-1.5M 등)을 연결하여 사용한다. ※ DVI 케이블 연결 시 음성은 지원되지 않으며, 음성이 필요한 경우 스테레오 M/M 케이블로 소스 기기와 별도 연결해야 한다.",
+  "cautions": [
+    "DVI 케이블 연결 시 음성은 지원되지 않습니다. 음성 출력을 원할 경우 스테레오 M/M 케이블을 이용하여 소스 기기와 별도 연결해야 합니다.",
+    "MAX 20m 전송 거리는 케이블 품질에 따라 다를 수 있습니다.",
+    "IR 원격제어 기능은 옵션 상품(LS-IRAP-MF / LS-IRRX-1.5M / LS-IRTX-1.5M)으로 별도 구매가 필요합니다.",
+    "KCC 인증을 받지 않은 유사품에 주의하시기 바랍니다. 구매 시 인증번호(KCC-REI-LS-HD104)를 반드시 확인하세요.",
+    "본 상품 이미지 및 텍스트 등 모든 자료의 저작권은 라인업시스템(주)에 있으며, 무단 전재 또는 배포 시 저작권법에 의해 처벌받을 수 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 5
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": "HDCP1.4",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "input_count": 1,
+      "output_count": 4,
+      "mode": [
+        "분배"
+      ],
+      "cascade_support": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI IN 1 PORT",
+    "connectivity.output_signals": "HDMI OUT 4 PORT",
+    "connectivity.directional": "1입력 4출력 HDMI 분배 지원",
+    "connectivity.port_count": "HDMI IN 1 PORT, HDMI OUT 4 PORT",
+    "power.power_mode": "정격 아답터 기본 제공",
+    "power.charging_support": "전원 공급한다.",
+    "form_physical.has_case": "크기: 111(W) x 75(H) x 23.5(D) mm",
+    "form_physical.material": "재질: STEEL",
+    "certification.kc": "KCC 인증 획득 제품",
+    "audio_video.max_resolution": "Full-HD 1920x1080 (1080p) 지원",
+    "audio_video.hdcp_version": "HDCP 1.0 / 1.1 / 1.2",
+    "audio_video.audio_pass": "영상 및 음성 동시 지원",
+    "control_switching.has_remote": "IR 원격제어 포트 지원",
+    "family.input_count": "1입력 4출력",
+    "family.output_count": "1입력 4출력",
+    "family.mode": "HDMI 분배기",
+    "family.cascade_support": "데이지 체인 방식 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:45",
+  "feature_schema_version": "1.0.0"
+}

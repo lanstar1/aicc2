@@ -1,0 +1,75 @@
+{
+  "model_no": "LS-MTR18",
+  "product_name": "[LANstar] TV 모니터 스크린 선반 트레이 18cm [30534] (40개)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-MTR18",
+      "품목코드": "AVD-모니터003",
+      "품목명": "[LANstar] TV 모니터 스크린 선반 트레이 18cm [30534] (40개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-MTR18",
+      "내용": "좋습니다 많이파세요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.18,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "[LANstar] TV 모니터 스크린 선반 트레이",
+    "form_physical.length_meters": "18cm"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:46",
+  "feature_schema_version": "1.0.0"
+}

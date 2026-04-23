@@ -1,0 +1,150 @@
+{
+  "model_no": "LS-PASS-DB25M",
+  "product_name": "패시브 RJ45/F-DB25/M 커넥터 (8P8C RJ45 암 to DSUB 25핀 수)",
+  "category": [
+    "컨버터",
+    "커넥터"
+  ],
+  "key_features": [
+    "RJ45(F) 커넥터를 DSUB 25핀(Male) 타입으로 변환해주는 패시브 커넥터",
+    "별도 전원 불필요한 패시브(Passive) 방식",
+    "8P8C RJ45 암(Female) → DB25 수(Male) 핀 배열 변환",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 타입 (입력)": "RJ45 (8P8C) Female",
+    "커넥터 타입 (출력)": "DSUB 25핀 (DB25) Male",
+    "핀 수": "25핀",
+    "방식": "패시브 (Passive)",
+    "RJ45 핀 색상": "파랑, 흰색, 주황, 회색, 검정, 노랑, 빨강, 녹색",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "RoHS 준수": "준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "품질인증": "ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "RJ45 (8P8C) Female 포트 장치",
+    "DSUB DB25 Male 포트 장치"
+  ],
+  "package_contents": [
+    "패시브 RJ45/F-DB25/M 커넥터 본체 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "유통 과정상 제품의 모양이 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PASS-DB25M",
+      "품목코드": "INT-패시브002",
+      "품목명": "[LANstar] 패시브 , RJ-45, 8P8C／F - DB25／M[20037](500개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-PASS-DB25M",
+      "id": 568951957,
+      "date": "2024-02-21 09:08",
+      "answerDate": "2024-02-21 09:14",
+      "user": "jay0****",
+      "productName": "랜스타 LS-PASS-DB25M 패시브 RJ-45 8P8C／F - DB25／M",
+      "question": "해당 제품이 조립이 필요한 제품으로 보이는데 구매를 하게 되면 구매자가 직접 조립을 해야하나요? 아니면 조립이 되어 출고되나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품의 경우 미조립으로 출고되어 직접 조립 해주셔야됩니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-PASS-DB25M",
+      "id": 568961647,
+      "date": "2024-02-21 09:43",
+      "answerDate": "2024-02-21 10:10",
+      "user": "jay0****",
+      "productName": "랜스타 LS-PASS-DB25M 패시브 RJ-45 8P8C／F - DB25／M",
+      "question": "해당 제품을 구매하게 되었을 때 택배사를 통해 수령하는 것이 아닌 퀵으로 당일 수령이 가능한지 문의드립니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n상품 주문해주시고 네이버 톡톡으로 퀵 발송 문의주시면 당일 수령 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45(F) 커넥터를",
+    "connectivity.output_signals": "DSUB 25핀(Male) 타입으로 변환",
+    "connectivity.directional": "변환해주는 패시브 커넥터",
+    "power.power_mode": "별도 전원 불필요한 패시브(Passive) 방식",
+    "power.charging_support": "별도 전원 불필요한 패시브(Passive) 방식",
+    "form_physical.has_case": "패시브 RJ45/F-DB25/M 커넥터",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.conversion_direction": "변환해주는 패시브 커넥터",
+    "family.requires_external_power": "별도 전원 불필요한 패시브(Passive) 방식"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:01",
+  "feature_schema_version": "1.0.0"
+}

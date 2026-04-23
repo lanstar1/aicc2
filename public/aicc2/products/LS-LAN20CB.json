@@ -1,0 +1,149 @@
+{
+  "model_no": "LS-LAN20CB",
+  "product_name": "USB2.0 유선 랜카드 Fast Ethernet Converter",
+  "category": [
+    "USB2.0",
+    "컨버터",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "USB 포트에 꽂아 랜포트를 생성해주는 컨버터",
+    "Plug & Play 지원 – 꽂으면 자동 연결 및 자동 실행",
+    "10/100Mbps 스위치 지원 및 이중 작동",
+    "USB 1.1 / 2.0 완벽 호환 (최대 480Mbps USB 전송속도)",
+    "IEEE 802.3x 네트워크 규격 지원",
+    "랜포트가 없는 PC·노트북에 간편하게 사용 가능",
+    "크기가 작아 휴대 편리 (약 10 × 6 × 1.6 × 2.7 cm)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC / FCC / CE 인증, RoHS 준수, ISO 9001:2008 품질경영시스템",
+    "국립전파연구원 인증 획득 (인증번호: E-E013-002-3276)"
+  ],
+  "specifications": {
+    "모델명": "LS-LAN20CB",
+    "인터페이스": "USB 2.0",
+    "네트워크 속도": "10/100Mbps (Fast Ethernet)",
+    "USB 최대 전송속도": "최대 480Mbps",
+    "USB 호환": "USB 1.1 / 2.0",
+    "네트워크 포트": "RJ-45",
+    "네트워크 규격": "IEEE 802.3x",
+    "크기": "10cm × 6cm × 1.6cm × 2.7cm",
+    "인증번호": "E-E013-002-3276",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "Windows 98SE",
+    "Windows Me",
+    "Windows 2K",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8",
+    "Windows CE",
+    "Linux 2.4",
+    "Mac OS",
+    "USB 1.1",
+    "USB 2.0"
+  ],
+  "package_contents": [
+    "USB2.0 유선 랜카드 (LS-LAN20CB) 본체"
+  ],
+  "usage_instructions": "1. USB 포트에 랜카드를 삽입하면 자동실행(Plug & Play)되어 드라이버 설치 화면이 나타납니다. Setup(setup.exe)을 실행하여 설치합니다. 2. 자동실행이 되지 않을 경우: 내 컴퓨터에서 CD 드라이브(RTL_UL) 장치를 더블클릭하여 폴더 안의 Setup을 실행하거나, 폴더/장치창이 사라지면서 몇 초 후 장치를 자동 인식합니다. 3. 설치 확인: 장치 관리자에서 'Realtek USB FE Family Controller'가 네트워크 어댑터 항목에 표시되면 정상 설치된 것이며, 랜선을 꽂아 사용합니다. 4. 장치 인식 실패(기타 장치에 'USB 10/100 LAN'으로 표시되는 경우): 프로그램 충돌로 인한 현상이므로 www.LANmart.co.kr 고객지원 다운로드에서 LAN20C를 검색하여 드라이버를 다운받아 Setup을 실행합니다.",
+  "cautions": [
+    "드라이버 설치 후 장치 관리자에서 정상 설치 여부를 반드시 확인하세요.",
+    "장치 인식 실패 시 www.LANmart.co.kr에서 드라이버를 다운로드하여 수동 설치하세요.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품(라인업시스템(주) 제작 상품 및 콘텐츠)을 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 포트에 꽂아 랜포트를 생성",
+    "connectivity.output_signals": "랜포트를 생성",
+    "connectivity.directional": "10/100Mbps 스위치 지원 및 이중 작동",
+    "connectivity.port_count": "USB 포트에 꽂아 랜포트를 생성",
+    "power.power_mode": "USB 포트에 꽂아",
+    "power.charging_support": null,
+    "power.pd_watts": null,
+    "form_physical.has_case": "크기가 작아 휴대 편리",
+    "form_physical.material": null,
+    "form_physical.length_meters": null,
+    "form_physical.length_options_meters": null,
+    "form_physical.color_options": null,
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE 인증",
+    "certification.netflix": null,
+    "audio_video.max_resolution": null,
+    "audio_video.hdr_support": null,
+    "audio_video.hdcp_version": null,
+    "audio_video.audio_pass": null,
+    "control_switching.has_remote": null,
+    "control_switching.has_hotkey": null,
+    "control_switching.has_physical_button": null,
+    "control_switching.has_mouse_switching": null,
+    "control_switching.has_auto_scan": null,
+    "control_switching.has_app_control": null,
+    "family.usb_version": "USB 1.1 / 2.0 완벽 호환",
+    "family.transfer_speed_gbps": "최대 480Mbps USB 전송속도",
+    "family.charging_only": null,
+    "family.data_only": null
+  },
+  "feature_extracted_at": "2026-04-23T03:15:12",
+  "feature_schema_version": "1.0.0"
+}

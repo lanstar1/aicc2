@@ -1,0 +1,339 @@
+{
+  "model_no": "LS-USB",
+  "product_name": "LANStar USB 거리확장기 over 랜케이블 (USB Extender)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-CAT6",
+    "랜케이블-CAT7",
+    "랜케이블",
+    "USB케이블",
+    "익스텐더"
+  ],
+  "key_features": [
+    "CAT.5E / CAT.6 / CAT.7 랜케이블을 통해 USB 신호를 최대 60M까지 확장",
+    "USB 1.1 규격 준수",
+    "TX(송신부)와 RX(수신부) 2단 장치 구성",
+    "외부 전원 불필요",
+    "키오스크, 디지털 신호계, 의료 영상, 산업 자동화 등 다양한 분야에 활용 가능",
+    "CAT.5E/CAT.6 랜케이블을 통해 USB 2.0 신호를 최대 70M까지 확장",
+    "USB 2.0 규격 준수 (최대 480Mbps)",
+    "HOST(호스트)와 DEVICE(디바이스) 2단 구성",
+    "하드웨어 제어 설계, 추가 드라이버 없이 자동 인식",
+    "HOT Plug 지원",
+    "3단계 출력 변화 조정 및 출력 변화 레벨 표시 LED 지원",
+    "키오스크, 디지털신호계, 의료 영상, 산업 자동화 등 다양한 응용 가능"
+  ],
+  "specifications": {
+    "인터페이스 유형": "USB B, RJ45, PS/2 키보드, PS/2 마우스",
+    "지원 USB 규격": "USB 1.1",
+    "최대 확장 거리": "60M / 70M",
+    "지원 케이블": "CAT.5E, CAT.6, CAT.7",
+    "지원 운영체제": "Windows 98SE, ME, 2000, XP, 7, 8, Linux",
+    "전원": "외부 전원 불필요 / DC 5V (전원 어댑터 포함)",
+    "소비 전력": "5V 10mA",
+    "제조국/원산지": "Made in China / 대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증서 번호": "MSIP-REI-LUS-LS-USB-2070M",
+    "AS 소비자상담": "070-7018-3386",
+    "USB 규격": "USB 2.0 (최대 480Mbps)",
+    "호스트(HOST) - 커넥터": "USB A(Male) Type 일체형 케이블 × 1, RJ45 × 1",
+    "호스트(HOST) - LED/버튼": "Mode 레벨 LED × 1, USB 상태 Active LED × 1, PUSH Mode 버튼 × 1",
+    "호스트(HOST) - 소비전류": "130mA (일반)",
+    "호스트(HOST) - 크기(가로x세로x높이)": "61 × 39 × 25 mm",
+    "디바이스(DEVICE) - 커넥터": "USB A(Female) Type × 1, RJ45 × 1",
+    "디바이스(DEVICE) - LED/버튼": "Mode 레벨 LED × 1, PUSH Mode 버튼 × 1",
+    "디바이스(DEVICE) - 소비전류": "130mA (일반)",
+    "디바이스(DEVICE) - 크기(가로x세로x높이)": "61 × 39 × 25 mm",
+    "인증번호": "MSIP-REI-LUS-LS-USB-2070M"
+  },
+  "compatibility": [
+    "CAT.5E 랜케이블",
+    "CAT.6 랜케이블",
+    "CAT.7 랜케이블",
+    "Windows 98SE",
+    "Windows ME",
+    "Windows 2000",
+    "Windows XP",
+    "Windows 7",
+    "Windows 8",
+    "Linux",
+    "키보드 (USB 호환)",
+    "마우스 (USB 호환)",
+    "게임기 (USB 호환)",
+    "외장 USB (USB 호환)",
+    "USB 공유기",
+    "웹캠 (USB 호환)",
+    "프린터 (USB 호환)",
+    "스캐너 (USB 호환)",
+    "외장하드 (USB 호환)",
+    "전자칠판 (USB 호환)",
+    "USB 2.0 호환 기기 전반",
+    "키보드",
+    "마우스",
+    "게임기",
+    "외장 USB",
+    "웹캠",
+    "프린터",
+    "스캐너",
+    "외장하드",
+    "전자칠판"
+  ],
+  "package_contents": [
+    "TX (송신부) 1개",
+    "RX (수신부) 1개",
+    "호스트(HOST) × 1",
+    "디바이스(DEVICE) × 1",
+    "DC5V 전원 어댑터 × 1",
+    "박스 × 1"
+  ],
+  "usage_instructions": "1. 'TX'를 컴퓨터/노트북의 USB(Female) 포트에 연결한다. 2. CAT.5E 또는 CAT.6 랜케이블(최대 60M, 별도 구매)로 'TX'와 'RX'를 연결한다. 3. 'RX'에 사용할 USB 장비를 연결하여 사용한다.",
+  "cautions": [
+    "랜케이블(CAT.5E/CAT.6/CAT.7)은 별도 구매 필요",
+    "최대 지원 거리는 60M이며 이를 초과하지 않도록 주의",
+    "USB 1.1 규격만 지원하므로 USB 2.0/3.0 전용 장치는 호환되지 않을 수 있음",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 의거하여 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB-1060M",
+      "품목코드": "USB-리피터069",
+      "품목명": "[LANstar] USB Extender, 랜선 최대 60M 증폭-중국산 [30033]",
+      "variant_suffix": "-1060M",
+      "source": "excel"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-USB-AM2AF-0",
+      "chatUrl": "33JKO",
+      "dateIso": "2024-03-06T05:40:51.325Z",
+      "name": "KY",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "외환 04818737098 이경용 제대로 적용해주세요 구매의사 취소가 아니고, 품절 사유로 취소된거 아닌가요? 나머지 두가지만 배송해주세요",
+      "answer": "알려주신 계좌번호로 660원 입금도와드렸습니다. 랜스타 제품...",
+      "turn_count": 1,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "외환 04818737098 이경용 제대로 적용해주세요 구매의사 취소가 아니고, 품절 사유로 취소된거 아닌가요? 나머지 두가지만 배송해주세요"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n알려주신 계좌번호로 660원 입금도와드렸습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품..."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-USB",
+      "chatUrl": "2LPxu",
+      "dateIso": "2023-09-21T01:34:49.641Z",
+      "name": "mrhy****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "LS-USB .0-DVRN 영상 안보여서 OBS STUDIO 프로그램 설치 하였으나 영상 출력 안됩니다.",
+      "answer": "정확한 안내를 위해 아래 내용 확인 부탁드립니다. 성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "권혁동 \n010-8533-1938\n레알몰 스토어 \n2023.9.16\nLS USB 2.0 DVRN\n영상 출력이 안되서\n랜스타 고객센터 담당자와 상담하였는데 호환/케이블 문제인지 정확한 원인 불명하여 반품처리 하라고 합"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)"
+        },
+        {
+          "role": "customer",
+          "text": "LS-USB .0-DVRN 영상 안보여서 OBS STUDIO 프로그램 설치 하였으나 영상 출력 안됩니다."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "A/S 문의"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "_absorbed_fragments": {
+    "LS-USB-AP30P-015M": {
+      "product_name": "LANstar 아이폰/아이팟/아이패드 충전 & 데이터 케이블 (애플 30핀 ↔ USB A형)",
+      "category": "모바일 충전 및 데이터 케이블",
+      "key_features": [
+        "USB 2.0 지원으로 고속 데이터 전송 가능",
+        "충전 및 데이터 전송 겸용 케이블",
+        "애플 30핀(Male) ↔ USB A형(Male) 연결",
+        "0.15M(흰색)와 1.5M(검정) 두 가지 길이 제공",
+        "RoHS 인증 친환경 제품",
+        "생산물 배상 책임 보험 가입 제품"
+      ],
+      "specifications": {
+        "모델명": "LSM-USB-AP30P",
+        "길이": "0.15M(흰색), 1.5M(검정)",
+        "커넥터_A": "애플 30핀 (Male)",
+        "커넥터_B": "USB A형 (Male)",
+        "USB_규격": "USB 2.0",
+        "색상": "흰색(0.15M), 검정(1.5M)",
+        "인증": "RoHS Compliant"
+      },
+      "compatibility": [
+        "Apple iPod 시리즈",
+        "Apple iPhone 시리즈",
+        "Apple iPad 시리즈",
+        "애플 30핀 커넥터 지원 기기",
+        "USB A형 포트 장치 (컴퓨터, 노트북, USB 전원 어댑터, 차량용 시가잭)"
+      ],
+      "package_contents": [
+        "LSM-USB-AP30P 케이블 (0.15M 흰색 또는 1.5M 검정, 구매 옵션에 따름)"
+      ],
+      "source_files": [
+        "LS-USB-AP30P-015M.json"
+      ]
+    },
+    "LS-USB-SMF": {
+      "product_name": "USB 2.0 판넬형 연장 케이블 (나사고정)",
+      "category": "USB 케이블 / 연장 케이블",
+      "key_features": [
+        "판넬 나사 고정 방식으로 케이블을 흔들리지 않게 고정하여 안전하게 사용 가능",
+        "허브랙/서버랙, 전자교탁, 서버, PC, 산업용 장비 등에 USB 2.0 포트를 외부로 깔끔하게 노출·고정 가능",
+        "데이터 손실 없이 USB 2.0 신호 연장",
+        "28AWG/1P+28AWG/2C 규격 적용으로 고품질·고성능 데이터 전송",
+        "순동 편조쉴드 + 은박코팅 쉴드 이중쉴드 처리로 외부 노이즈·전자파 차단 및 데이터 손실 최소화",
+        "28AWG/1P: 두 가닥 심선을 꼬아 안정적 데이터 전송 설계",
+        "28AWG/2C: 두 가닥 전원선으로 DC Drop 현상 없이 안정적 데이터 전송",
+        "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+      ],
+      "specifications": {
+        "USB 규격": "USB 2.0",
+        "커넥터 구성": "USB Type-A Female (F) — USB Type-A Male (M)",
+        "케이블 길이": "0.5M / 1M / 2M / 3M / 5M",
+        "전선 규격": "28AWG/1P + 28AWG/2C",
+        "쉴드 구조": "순동 편조쉴드 + 은박코팅 쉴드 (이중쉴드)",
+        "고정 방식": "나사 고정 (판넬형)",
+        "제조국/원산지": "중국 (China)",
+        "제조사/수입사": "라인업시스템(주)",
+        "브랜드": "LANStar",
+        "인증번호": "해당없음",
+        "Female 커넥터 외형 치수(mm)": "33 x 11 x 11 (돌출부 포함 44mm), 나사홀 간격 27mm, 플랜지 13 x 18mm",
+        "Male 커넥터 외형 치수(mm)": "33 x 11 x 11 (돌출부 포함 44mm), 나사홀 간격 27mm, 플랜지 13 x 18mm, 전체 길이 약 30~38mm"
+      },
+      "compatibility": [
+        "USB 2.0 포트 지원 기기",
+        "허브랙 / 서버랙",
+        "전자교탁",
+        "서버",
+        "PC",
+        "산업용 장비",
+        "USB 2.0 포트 노출이 필요한 각종 개발 제품"
+      ],
+      "package_contents": [
+        "USB 연장 판넬형 케이블 1개",
+        "고정용 나사 (케이블에 개별 포함, 장착되지 않은 상태로 동봉)"
+      ],
+      "source_files": [
+        "LS-USB-SMF.json"
+      ]
+    }
+  },
+  "_variant_raw_texts": {
+    "LS-USB-2070M": "LANStar®\nUSB2Extender\n랜케이블을 통해 USB2.0 장치를 70M까지 확장하는 컨버터\npuaixazasn\npuaxxarasn\n3030\nSOH\nAHOST\nADEVICE\nUSB2Extender은 CAT.5E/CAT.6 랜케이블을 통해 USB 신호를 70M까지 확장할 수 있습니다.\n장치구성으로는 HOST(호스트) DEVICE(디바이스)로 구성되어있습니다. 키오스크, 디지털신호계,\n의료 영상 및 전문 비디오 등 산업 자동화를 포함하여 USB 장치의 거리확장 응용으로 활용이 다양합니다.\nB\nCAT.5E, CAT.6\nPC\nHOST\nDEVICE\nHI-SPEED\n제품 특징\nUSB2.0 480Mbps\nUSB2.0 규격(최대480Mbps까지)준수\n• USB 호스트(HOST)와 디바이스(DEVICE) 사이 CAT.5E/CAT6케이블을\n연결하여 최대 70M까지 거리 신호를 확장합니다.\n• 하드웨어 제어 설계, 추가 드라이브 없이 자동인식.\n·HOT Plug 지원\n- 3단계 출력 변화 조정 및 출력 변화 레벨 표시 LED를 지원\nUSB2extend\nUSB2extend\n▲호스트(HOST)\n▲ 디바이스(DEVICE)\n▲ DC5V 전원 어댑터\n※ 전원단자의 규격이 일반 리피터 어댑터와 다르므로\n별도 구매시 꼭 확인하시기 바랍니다.\n제품 사양\n▶ 호스트(HOST)\n- 1개의 Mode 레벨 LED, 1개의 USB상태 Active LED,\n1개의 PUSH Mode 버튼\nㆍ1개의 USB A(Male) Type 일체형 케이블, 1개×RJ45\n• 소비전류:130mA(일반)\n• 크기(가로x세로x높이):61×39×25(mm)\npuarxaZEN\n3030\npuaixarasn\n디바이스(DEVICE)\n- 1개의 Mode 레벨 LED, 1개의 PUSH Mode 버튼\nᆞ1개의 USB A(Female)Type, 1개XRJ45\n• 소비전류:130mA(일반)\n●크기(가로x세로x높이): 61×39×25(mm)\n제품 사용 방법\nUSB2Exteder USB를 장거리 사용시 필요할 컨버터 입니다.\nUSB2extend\n1 호스트(HOST)를 컴퓨터/노트북에\nUSB(Female)에 연결합니다.\n호스트(HOST)\nO\nA USB(Female)\n2 CAT.5E/CAT.6의 긴 랜선으로 호스트(HOST)와 디바이스(DEVICE)를\n연결합니다.\nUSB2extend\nextend\n▲ CAT.5E/CAT.6\n(길이 70M까지)\n▲ 호스트(HOST)\n▲ 디바이스(DEVICE)\n3 디바이스(DEVICE)에 USB 선을 연결하여 필요한 장비들을 연결하여\n사용시면 됩니다.\n※ 디바이스(DEVICE)에 DC5V 전원을 꼭 연결하여 사용하세요.\n\n\ndכ\n▲ CAT.5E/CAT.6\n(길이 70M까지)\n▲ 호스트(HOST)\n▲ 디바이스(DEVICE)\n3 디바이스(DEVICE)에 USB 선을 연결하여 필요한 장비들을 연결하여\n사용시면 됩니다.\n※ 디바이스(DEVICE)에 DC5V 전원을 꼭 연결하여 사용하세요.\nUSB2extendDEVICE\n※ USB를 호환하는 기기를 모두 사용가능합니다.\nUSB 케이블 별도구매\n키보드\n마우스\n게임기\n외장 USB\nUSB 공유기\n캠\n프린터\n스캐너\n외장하드\n전자칠판\n● 구성품\napuaxatio\nрuа хагас н\nEDIAGO\n호스트(HOST)\n디바이스(DEVICE)\nAS\nUSB2.0 extender max.240 feet\nVideoHome\nprofessional\nDC5V 전원 어댑터\n박스\nau\n상품정보\n품\n명\nUSB2.0 Extender\n모\n델\nLANStar®\n명\nLS-USB-2070M\n인증번호\nMSIP-REI-LUS-LS-USB-2070M\n제조국/원산지\n대만 (Taiwan)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질 보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-USB-AP30P-015M": "LANStar\nⓇ\niPhone/iPod/iPad CABLE\n아이폰/아이팟/아이패드\n충전&데이터 케이블\n당\n애플 30핀\n(Male)\n애플 30핀\n(Male)\nUSB A형\n(Male)\nUSB A형\n(Male)\n• 모델명: LSM-USB-AP30P\n길이 : 0.15M(흰색) / 1.5m(검정)\n● 규격 : 애플 30핀\nUSB 2.0 (A형)\n애플케이블 활용 예\n1.5M\nUSB A(M)\n애플 30핀(M)\n0.15M\n컴퓨터/노트북\n아이팟/아이폰/\n아이패드\n컴퓨터/노트북에 연결하여 데이터 전송 또는 충전하는 케이블\n1.5M\nUSB A(M)\n애플 30핀(M)\n0.15M\nUSB 전원 아답터/\n차량용 시가잭\n아이팟/아이폰/\n아이패드\nㆍUSB 전원 아답터/차량용 시가잭에 연결하여 충전하는 케이블\n※ 아이패드의 입력은 5V 2.1A 입니다.\n컴퓨터&노트북 USB 포트의 출력은 500mA(PC의 사양에 따라 그 이하)이므로 충전 표시가 되지만\n실제로는 충전이 느리게 진행이 됩니다.\n최적의 환경을 만들기 원하시면 5V 2.1A의 USB 전원 아답터나 차량용 시가잭을 구매하셔서 사용\n하시면 됩니다.\n고속 데이터 전송이 가능한 USB 충전/데이터 케이블!\n애플 iPod & iPhone\nUSB 충전/데이터 케이블\nJane Appleseed\n0004\n빠른 USB2.01\n정규격 30핀\n충전 및 데이터 전용케이블\niPod & iPhone 전용 충전/데이터 케이블 입니다.\n넉넉한 길이로 사용 편리하며 USB2.0을 지원하여\n고속 데이터 전송이 가능하며 iPod & iPhone의\n전체음악 보관함을 빠르게 로딩, 충전할 수 있습니다.\n고속 데이터 전송이 가능한 USB 충전/데이터 케이블!\niPod & iPhone & iPad\n애플정품! USB 충전/데이터케이블\nQ-Searck\nMovies\nTV Shows\nApp Store\nPodcasts\nAudiobooks\niTunes U\nIMOGEN HEAP\nMusic\nELLIPSE\nQUICK LINKS\nIndie Spotlight\nTunes Essentials\nMix\nSpuma\nCelebrity Playlists\nJust\nL\nStonehenge Tisa macic PLACE\nRock Trio Return\ne coming back with the eagerly anticipated\nstance, available for pre-order now. The\nstudio effort dives into disco, glam, and\nd symphonic rock, splicing them all together\npowerful whole. The iTunes LP includes\nvideo features, interviews, photos, and more.\nMUSE\nColbie\nCaillat\nTOP CH\nSongs\nMusic\nSee A\nleds\nrough\nTurn Me Loose\n1 Look To Your\nWhitney Houston\nElipse\nImogen Heap\nTwang\nGeorge Strat\nㅇ\nSkinny Jeans\nImperial Blaze\nKeep On Lovi\nReba McEntire\nJessie James\nJessie James\nBig Whiskey\nDave Matthew\nJane Appleseed\n\n\nKeep On LoviLovi\n..\nRoba McEntre\nJessie James\nJesse James\nSkinny Jeans\nNew Boyz\nBig Whiskey.\nDave Matthew\nImperial Blaze\nSean PaulPau\ngrasys\n27\nJane Appleseed\n°\n0000\nEnd\nLAN tar\n1.5M\n모바일 충전 및 통신케이블\nLAN tar\n0.15M\n모바일 USB 변환 케이블\n110\n11\n생산물배상책임보험가입\n생산물 배상 책임 보험가입\n애플\n애플\n케이블\n케이블\nCSM\nLSM\nUSB-MOBILE\nCENTER-MOBILE\nROHS\nRoHS 인증 제품\nCompliant\nThe Restriction of the use of certian Hazardous Substances in electirical and electronic equipment,\n전기전자제품에 포함된 유해물질 사용에 대한 규제로써, 지구 환경과 인테 건강에 해로운 위험을 최소화 하는 것을 목적으로 합니다.\nLANstar 랜 통신 케이블은 ROHS 인증을 받은 친환경 제품입니다.",
+    "LS-USB-SMF": "tar\nUSB 연장 판넬형 케이블\n* USB 연장 케이블 (판넬형)으로 케이블을 흔들리지 않게 나사로\n고정한 후 연장하여 사용하면 안전하게 사용이 가능합니다.\n→허브랙/서버랙, 전자교탁, 서버, PC 및 산업용 장비와 각종 개발된\n상품에 USB2.0포트를 데이타 손실없이 외부로부터\n깔끔하게 고정하여 노출할 수 있도록\n길이\n개발된 케이블입니다.\n0.5M/1M/2M/3M/5M\nUSB (F) 컨넥터\nUSB (M) 컨넥터\n제품에 나사가 개별로 들어 있어 (장착아님)\n별도의 준비없이 편리하게 사용이 가능합니다.\n日\n°\nH19\nUSB (F)\n컨넥터\nUSB (M)\n컨넥터\n안전적인 데이터 전송\n28AWG/1P+28AWG/2C 규격으로 개발되어 최고의 품질과 성능을 자랑합니다.\n28AWGX1P\n28AWGX2C\nUSB\n순도 이중쉴드 처리\n순동으로 만든 편조쉴드와 은박코팅 쉴드로\n외부간섭들을 철저하게 차단하였습니다.\n은박 코팅 쉴드\n외부의 노이즈나 전자파로부터 데이터\n보호해주며 손실률을 최소화하였습니다.\n28AWG/1P\n미국의 전선규격인 AWG에\n맞추어 개발 된 상품입니다.\n두가닥의 심선을 꼬아 안정적으로 데이터를\n전송하도록 설계되어있어 뛰어난 품질을 자랑합니다.\n28AWG/2C\n두가닥의 전원선으로 개발되어 전자파 간섭을 최소화하며\nDC Drop(직류의 떨어짐) 현상없이 매우 안정적으로 데이터를 전송합니다.\nPRODUCT SIZE\n0.5m/1m/2m/3m/5m\n0\n11mm\nn\n11mm\n33mm\n10mm\n44mm\n27mm\nㅁㅁㅁㅁ\n13mm\n18mm\n\n\n11mm\n33mm\n10mm\n44mm\n27mm\n13mm\n18mm\n30mm\n38mm\nH M 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nLANStar\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nUSB 2.0 판넬형 연장 케이블 (나사고정)\nLS-USB2.0-AMAF-S0.5M\nLS-USB2.0-AMAF-S1M\n모\n델\n명\nLS-USB2.0-AMAF-S2M\nLS-USB2.0-AMAF-S3M\nLANStar®\nLS-USB2.0-AMAF-S5M\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기 준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-B",
+        "RJ45",
+        "PS/2",
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A",
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": null,
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB B, RJ45, PS/2 키보드, PS/2 마우스",
+    "connectivity.output_signals": "USB A(Female) Type × 1, RJ45 × 1",
+    "connectivity.directional": "USB 신호를 최대 60M까지 확장",
+    "power.power_mode": "외부 전원 불필요",
+    "power.charging_support": "외부 전원 불필요",
+    "form_physical.has_case": "61 × 39 × 25 mm",
+    "certification.kc": "MSIP-REI-LUS-LS-USB-2070M",
+    "audio_video.max_resolution": "USB 신호를 최대 60M까지 확장",
+    "audio_video.hdr_support": "USB 신호를 최대 60M까지 확장",
+    "audio_video.hdcp_version": "USB 신호를 최대 60M까지 확장",
+    "audio_video.audio_pass": "USB 신호를 최대 60M까지 확장",
+    "control_switching.has_physical_button": "PUSH Mode 버튼 × 1",
+    "family.shielding": "랜케이블을 통해 USB 신호를",
+    "family.conductor": "랜케이블을 통해 USB 신호를",
+    "family.flame_rating": "랜케이블을 통해 USB 신호를",
+    "family.poe_support": "외부 전원 불필요"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:31",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 2,
+    "category_breakdown": {
+      "troubleshoot": 2
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

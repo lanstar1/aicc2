@@ -1,0 +1,177 @@
+{
+  "model_no": "LS-UCP1",
+  "product_name": "LANStar PCI-Express USB3.2 Gen2x2 20Gbps 1채널 카드 (LS-UCP1)",
+  "category": [
+    "USB-C"
+  ],
+  "key_features": [
+    "PCI-Express 3.0 x4 Bus Slot 규격 사용",
+    "USB3.2 Gen2x2 Type-C 포트 1개 제공 (최대 20Gbps 전송 속도)",
+    "ASMedia ASM3242 칩셋 탑재",
+    "UASP 지원",
+    "5V/3A Bus Power 지원",
+    "하위 USB 버전 호환 (USB 3.0, 3.1 Gen1/Gen2 등)",
+    "PCI-Express x4, x8, x16 슬롯에 장착 가능 (x1 사용 불가)",
+    "슬림 PC 전용 브라켓 기본 제공",
+    "국립전파연구원 인증 획득 (인증번호: R-R-LUS-LS-UCP1)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "버스 슬롯": "PCIe 3.0 x4",
+    "인터페이스": "USB3.2 Gen2x2 Type-C 포트",
+    "전송 속도": "최대 20Gbps",
+    "칩셋": "ASMedia ASM3242",
+    "지원 전원": "5V/3A Bus Power",
+    "지원 운영체제": "Windows 8/10/11 (Win7·XP 미지원), Mac 10.8/10.10/10.12, Linux 2.6.31 이상 (UASP 지원 버전)",
+    "제품 무게": "약 35g",
+    "제품 크기": "51mm x 80mm",
+    "원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "R-R-LUS-LS-UCP1"
+  },
+  "compatibility": [
+    "PCI-Express x4 슬롯 (사용 가능)",
+    "PCI-Express x8 슬롯 (사용 가능)",
+    "PCI-Express x16 슬롯 (사용 가능)",
+    "PCI-Express x1 슬롯 (사용 불가)",
+    "Windows 8, Windows 10, Windows 11",
+    "Mac OS X 10.8, 10.10, 10.12",
+    "Linux 2.6.31 이상 (UASP 지원 버전)",
+    "USB3.2 Gen2x2 / Gen2 / Gen1, USB 3.0, USB 2.0, USB 1.0 하위 호환",
+    "슬림 PC (전용 브라켓 사용 시)"
+  ],
+  "package_contents": [
+    "USB 확장 카드 본체 (LS-UCP1)",
+    "슬림 PC 전용 브라켓"
+  ],
+  "usage_instructions": "1. PC 전원을 완전히 끈 상태에서 메인보드의 PCI-Express x4/x8/x16 슬롯에 카드를 장착한다. 2. PC를 부팅하면 드라이버가 자동 설치된다. 3. 장치 관리자 > 범용 직렬 버스 컨트롤러 > 'ASMedia USB 3.20 확장 가능한 호스트 컨트롤러' 항목으로 드라이버 정상 설치 여부를 확인한다. 4. 슬림 PC 사용 시 기본 브라켓을 제거하고 동봉된 슬림 PC 전용 브라켓으로 교체한 후 슬림 PC의 PCIe 슬롯에 장착한다.",
+  "cautions": [
+    "메인보드에 장착 시 반드시 PC 전원이 꺼진 상태에서 결합할 것",
+    "PCI-Express x1 슬롯에는 사용 불가",
+    "Windows 7 및 Windows XP는 지원하지 않음",
+    "20Gbps 속도를 내려면 메인보드가 PCIe 3.0을 지원해야 하며, 연결 케이블·허브 등도 USB3.2 Gen2x2를 지원해야 함",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처의 제품은 A/S 불가",
+    "속도가 20Gbps 미달 시 ① 메인보드 PCIe 3.0 지원 여부, ② 케이블·허브의 USB3.2 Gen2x2 지원 여부, ③ 드라이버 정상 설치 여부를 순서대로 확인할 것",
+    "제조사 사정에 따라 제품 색상 및 사양은 예고 없이 변경될 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UCP1",
+      "품목코드": "USB-PCI330",
+      "품목명": "[LANstar] PCIe USB3.2 Type-C 20Gbps 1채널 카드 [30817] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-UCP1",
+      "내용": "잘 쓰고 있습니다. 번창 하세요.",
+      "관련내용": "나사가 없어 아쉽습니다."
+    },
+    {
+      "source_model": "LS-UCP1",
+      "내용": "파일 이동 시간 표시는 보수적으로 잡아주긴하는데\n줄어드는 속도가 확연히 빨라서 좋네요\nA to C 대비 최소 1.5배 이상 빨라졌습니다"
+    },
+    {
+      "source_model": "LS-UCP1",
+      "내용": "잘 쓰고 있습니다. 번창 하세요.",
+      "관련내용": "잘 받았습니다. 감사합니다. 많이 파세요."
+    },
+    {
+      "source_model": "LS-UCP1",
+      "내용": "나사가 없어 아쉽습니다."
+    },
+    {
+      "source_model": "LS-UCP1",
+      "내용": "잘 받았습니다. 감사합니다. 많이 파세요."
+    },
+    {
+      "source_model": "LS-UCP1",
+      "내용": "컴퓨터 C포트 USB3.2 20Gbps 1채널 PCIe 확장카",
+      "관련내용": "컴퓨터 C포트 USB3.2 20Gbps 1채널 PCIe 확장카드"
+    },
+    {
+      "source_model": "LS-UCP1",
+      "내용": "컴퓨터 C포트 USB3.2 20Gbps 1채널 PCIe 확장카드"
+    },
+    {
+      "source_model": "LS-UCP1",
+      "내용": "구웃 씨타입 없는 컴퓨터는 이걸로"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-UCP1",
+      "id": 630213206,
+      "date": "2025-06-02 03:50",
+      "answerDate": "2025-06-02 10:48",
+      "user": "lhb2*****",
+      "productName": "컴퓨터 C포트 USB3.2 20Gbps 1채널 PCIe 확장카드 (LS-UCP1)",
+      "question": "USB허브 연결해서 사용가능한가요?\n설치하면 USB컨트롤러 늘어나나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n기본적으로 USB컨트롤러를 가지고 있어서 , 허브처럼 사용가능 하고 USB 컨트롤러가 새로 추가 됩니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": 15
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [],
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.2",
+      "transfer_speed_gbps": 20,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB3.2 Gen2x2 Type-C 포트 1개",
+    "connectivity.port_count": "USB3.2 Gen2x2 Type-C 포트 1개",
+    "power.power_mode": "5V/3A Bus Power 지원",
+    "power.charging_support": "5V/3A Bus Power 지원",
+    "power.pd_watts": "5V/3A Bus Power 지원",
+    "certification.kc": "국립전파연구원 인증 획득 (인증번호: R-R-LUS-LS-UCP1)",
+    "family.usb_version": "USB3.2 Gen2x2 Type-C 포트",
+    "family.transfer_speed_gbps": "최대 20Gbps 전송 속도"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:01",
+  "feature_schema_version": "1.0.0"
+}

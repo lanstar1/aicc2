@@ -1,0 +1,116 @@
+{
+  "model_no": "LS-KT-6U4",
+  "product_name": "CAT.6 UTP Tooless 키스톤잭",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "키스톤잭",
+    "LAN공구"
+  ],
+  "key_features": [
+    "별도의 제작 툴 없이 손쉽게 제작 가능 (Toolless)",
+    "CAT.6 UTP 규격 지원",
+    "흰색(White) 색상",
+    "타이 및 간편툴 포함 SET 구성"
+  ],
+  "specifications": {
+    "규격": "CAT.6 UTP",
+    "색상": "흰색(White)",
+    "커넥터": "RJ45 8P8C",
+    "전송속도": "10/100/1000Mbps"
+  },
+  "compatibility": [
+    "CAT.6 UTP 케이블",
+    "RJ45 8P8C 표준 포트"
+  ],
+  "package_contents": [
+    "CAT.6 UTP 모듈",
+    "타이(Tie)",
+    "간편툴"
+  ],
+  "usage_instructions": "1. 스트리퍼를 이용하여 케이블의 피복을 제거한다. 2. 피복 제거 후 선을 적당한 길이로 잘라낸다. 3. 케이블을 모듈 안으로 넣는다. 4. 타이를 이용해 모듈에 케이블을 고정시킨다. 5. 케이블이 움직이지 않도록 단단히 고정시킨다. 6. 간편툴을 이용하여 전선을 고정시킨다. 7. 전선 배열에 주의하여 고정시킨다(배열도 참고). 8. 배열이 끝나면 모듈을 닫는다. 9. 불필요한 전선은 절단 가위로 제거한다. 10. 완성.",
+  "cautions": [
+    "제작 시 케이블 선의 배열 순서를 반드시 지켜야 합니다.",
+    "전선 배열도를 참고하여 순서에 맞게 작업하십시오."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-KT-6U4",
+      "품목코드": "NEO-키스톤015",
+      "품목명": "[LANstar] Tooless키스톤잭,CAT.6,대만산[40092]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-KT-6U4",
+      "내용": "상품 품질 좋습니다. 추천합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "N/A"
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "color_options": [
+        "흰색(White)"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "커넥터: RJ45 8P8C",
+    "connectivity.output_signals": "커넥터: RJ45 8P8C",
+    "power.power_mode": "별도의 제작 툴 없이 손쉽게 제작",
+    "power.charging_support": "null",
+    "form_physical.has_case": "케이블을 모듈 안으로 넣는다",
+    "form_physical.color_options": "흰색(White) 색상",
+    "family.cat_category": "CAT.6 UTP 규격 지원",
+    "family.shielding": "CAT.6 UTP 규격 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:56",
+  "feature_schema_version": "1.0.0"
+}

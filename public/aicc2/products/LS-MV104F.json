@@ -1,0 +1,287 @@
+{
+  "model_no": "LS-MV104F",
+  "product_name": "LANSTAR HDMI 2X2 Video Wall Controller (4K 2X2 멀티비전 컨트롤러)",
+  "category": [
+    "DVI",
+    "멀티비전"
+  ],
+  "key_features": [
+    "HDMI 2.0 지원, 4K@60Hz 입력 지원",
+    "HDCP 2.2 지원",
+    "HDMI(DVI) 1개 입력 → HDMI 4개 출력 지원",
+    "각 출력 디스플레이 최대 1080P@60Hz 해상도 지원",
+    "1x1 / 1x2 / 1x4 / 2x2 / 2x1 / 3x1 / 4x1 등 다양한 출력 모드 지원",
+    "90° 및 180° 디스플레이 회전(플립) 기능 지원",
+    "밝기 및 베젤 조절 기능 지원",
+    "CASCADING 모드로 최대 16대 디스플레이 확장 가능",
+    "RS232 시리얼 포트 지원",
+    "광오디오(Optical) 및 R/L 오디오 출력 포트 지원",
+    "리모콘으로 손쉬운 디스플레이 조작 가능",
+    "전원 OFF 후 재기동 시 종료 전 모드 유지",
+    "RESET 버튼으로 모드 초기화 가능",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-MV104)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "CASCADING MODE 지원"
+  ],
+  "specifications": {
+    "입력 포트": "HDMI, DVI, RS232",
+    "출력 포트": "HDMI 4포트, 오디오 포트 R/L 1포트, 광오디오(Optical) 포트",
+    "입력 해상도": "4K@60Hz (최대 5m 케이블), 4K@30Hz (최대 15m 케이블), 15m 초과 시 1080P 입력",
+    "출력 해상도": "각 디스플레이 1920x1080 (1080P@60Hz 최대 5m, 1080P@30Hz 최대 15m)",
+    "지원 비디오 포맷": "8/10/12 bit deep color",
+    "지원 오디오 포맷": "LPCM",
+    "HDMI 버전": "HDMI 2.0",
+    "HDCP": "HDCP 2.2",
+    "HDMI 케이블 규격 기준": "국제 표준 규격 26AWG",
+    "전원": "DC 12V 3A 전원 어댑터",
+    "작동 온도": "-15°C ~ 45°C",
+    "습도": "5% ~ 90%",
+    "크기": "256 x 153 x 33 (mm)",
+    "무게": "약 1276.3g",
+    "KC 인증번호": "R-R-LUS-LS-MV104",
+    "어댑터 인증번호": "HU10999-19006A",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 입력 기기: 콘솔(Console), 노트북(Notebook), 데스크탑(Desktop), 셋톱박스(Set Top Box), DVD 플레이어",
+    "DVI 입력 기기: DVI 출력 지원 PC 및 장비",
+    "HDMI 출력 기기: TV, 모니터(Monitor), 빔 프로젝터(Beam Projector)",
+    "2x2 모드: 입력기기 3840x2160 해상도 지원 필요",
+    "3x3 모드: 입력기기 5760x3540 해상도 지원 필요",
+    "1x2 모드: 입력기기 3840x1080 해상도 지원 필요",
+    "2x1 모드: 입력기기 1920x2160 해상도 지원 필요",
+    "가로 확장(1xN) 모드: 입력기기 (1920xN)x1080 해상도 지원 필요",
+    "세로 확장(Nx1) 모드: 입력기기 1920x(1080xN) 해상도 지원 필요",
+    "CASCADING 연결 시 최대 16대 디스플레이 확장 가능"
+  ],
+  "package_contents": [
+    "LS-MV104F 본체 (HDMI 4K 2X2 Video Wall Controller)",
+    "리모콘 (Remote Control)",
+    "DC12V/3A 전원 어댑터 및 전원 케이블",
+    "사용자 매뉴얼 (USER MANUAL)"
+  ],
+  "usage_instructions": "1. HDMI 또는 DVI 입력 포트에 소스 기기(PC, 노트북, 셋톱박스 등)를 연결한다.\n2. HDMI 출력 포트 1~4에 디스플레이 장치(TV, 모니터 등)를 연결한다.\n3. DC12V 전원 어댑터를 연결하고 전원 스위치를 켠다.\n4. 본체의 Mode Select 버튼 또는 리모콘으로 원하는 출력 모드(1x1, 1x2, 1x4, 2x2, 2x1, 3x1, 4x1 등)를 선택한다.\n5. 2개의 디스플레이 사용 시 Output 1,2 또는 Output 3,4처럼 연결해야 한다.\n6. 90° 또는 180° 회전 기능은 리모콘의 Output 1~4 회전 버튼 또는 180° Flip 버튼으로 설정한다.\n7. 밝기(Brightness), 베젤(Bezel-V/Bezel-H), 색상(Red/Green/Blue/Contrast) 등은 리모콘으로 조절한다.\n8. CASCADING 모드 사용 시 여러 대의 컨트롤러를 연결하여 최대 16대까지 디스플레이를 확장한다.\n9. 전원 재기동 시 종료 전 모드가 유지되며, 초기화가 필요하면 본체의 RESET 버튼을 누른다.\n10. 입력 소스는 리모콘의 Input 버튼으로 HDMI IN / DVI IN 중 선택한다.",
+  "cautions": [
+    "HDMI 케이블은 국제 표준 규격 26AWG 기준을 사용할 것",
+    "4K@60Hz 입력 시 케이블 길이 최대 5m 이내 사용 권장",
+    "4K@30Hz 입력 시 케이블 길이 최대 15m 이내 사용 권장",
+    "케이블 길이가 15m를 초과할 경우 입력 해상도가 1080P로 제한됨",
+    "출력 케이블은 1080P@60Hz 기준 최대 5m, 1080P@30Hz 기준 최대 15m 이내 사용 권장",
+    "사용하려는 디스플레이 배열 모드에 맞는 해상도를 입력 기기(PC, 노트북 등)에서 지원해야 정상 출력 가능",
+    "2개의 디스플레이 사용 시 Output 1,2 또는 Output 3,4 순서로 연결해야 함",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처의 제품은 A/S 불가",
+    "제조사 사정에 따라 제품 색상 및 사양이 예고 없이 변경될 수 있음",
+    "당사 동의 없이 콘텐츠 무단 복제 및 이용 시 불이익이 발생할 수 있음",
+    "당일출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준임",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MV104F",
+      "품목코드": "INT-HDS190",
+      "품목명": "[LANstar] HDMI 2x2 멀티비전 , 비디오월, 월컨트롤러 [30490] (5개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-MV104F",
+      "내용": "빠른배송감사합니다. 중국산 유통사통해구매분이 사자마자 고장나서 AS도못빋고 새로 구매하는데 이건괜찮겟죠?"
+    },
+    {
+      "source_model": "LS-MV104F",
+      "내용": "배송빠르고 좋습니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-MV104F",
+      "id": 575795569,
+      "date": "2024-04-09 11:37",
+      "answerDate": "2024-04-09 16:03",
+      "user": "yunh*****",
+      "productName": "랜스타 LS-MV104F HDMI 2.0 멀티비전 2x2 DID 비디오월 컨트롤러 피벗",
+      "question": "output쪽에 lan케이블+hdmi젠더로 사용하는 경우에 호환이 되나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 내용 보다 더 정확한 확인이 필요할 것으로 보입니다.\n다만 말씀 주신 부분 추측하여 답변 드립니다.\n\n제품 자체에는 RJ45 포트가 없습니다.\n따라서 HDMI > 랜케이블 > HDMI 연결할 수 있는 HDMI 거리 연장기 연결을 말씀 주시는 것으로 보입니다.\n거리 연장기의 경우 영상 신호를 전달하는 목적이기에 사용 가능하지만, 장비+장비 개념으로 연결하는 것이기 때문에 호환성은 보장하지 않습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-MV104F",
+      "id": 590895750,
+      "date": "2024-07-31 16:00",
+      "answerDate": "2024-08-05 09:03",
+      "user": "herj******",
+      "productName": "랜스타 LS-MV104F HDMI 2.0 멀티비전 2x2 DID 비디오월 컨트롤러 피벗",
+      "question": "안녕하세요. 당사는 법인기업으로 B2B로 업체 등록 후 구매 시 제품가격이 어떻게 되는지 문의드립니다. 문의사항은 톡톡 또는 02-2264-6025 로 연락주세요. 감사합니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 구매 건 관련하여 스마트스토어로 진행해주실 예정인지 톡톡으로 말씀 부탁드립니다.\n담당 부서가 달라 확인 후 안내 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-MV104F",
+      "chatUrl": "8TZTP",
+      "dateIso": "2024-02-20T06:57:29.141Z",
+      "name": "once film works",
+      "isTechnical": true,
+      "category": "feature",
+      "modelConfidence": "high",
+      "question": "제품 기능 문의인데 다른곳에 상담이 가능 한가요?",
+      "answer": "네, 고객님. 자사의 경우 랜스타 스마트스토어와 거래처 문의 상담 공간이 다릅니다. 거래처 문의의 경우 아래 전달 드린 링크에서 다시 진행 부탁드립니다. talk.nave...\n\n정확한 안내를 위해 아래 내용 확인 부탁드립니다. 성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "제품 기능 문의인데 다른곳에 상담이 가능 한가요?"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님.\n\n자사의 경우 랜스타 스마트스토어와 거래처 문의 상담 공간이 다릅니다.\n거래처 문의의 경우 아래 전달 드린 링크에서 다시 진행 부탁드립니다.\n\ntalk.nave..."
+        },
+        {
+          "role": "customer",
+          "text": "입니다."
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "손성훈 / 010-44327130 / 쿠팡 / 2024-02-19 / MV104N"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)"
+        }
+      ]
+    }
+  ],
+  "_absorbed_fragments": {
+    "LS-MV104F-CASCADINGMODE": {
+      "product_name": "LS-MV104F Cascading Mode 멀티뷰어",
+      "category": "멀티뷰어 / 비디오 월 프로세서",
+      "key_features": [
+        "캐스케이딩 방식으로 다수 유닛 연결하여 출력 확장 가능",
+        "각 유닛은 HDMI IN 및 DVI IN 입력 지원",
+        "각 유닛당 OUT 1~OUT 4 총 4채널 출력 지원",
+        "Mode 02: 2x6 구성 (4 Unit, A+B+C+D)",
+        "Mode 03: 2x8 구성 (5 Unit, A+B+C+D+E)",
+        "Mode 04: 6x2 구성 (4 Unit, A+B+C+D)",
+        "Mode 05: 8x2 구성 (5 Unit, A+B+C+D+E)",
+        "Mode 06: 4x2 구성 (3 Unit, A+B+C)",
+        "Mode 07: 4x4 구성 (5 Unit, A+B+C+D+E)"
+      ],
+      "specifications": {
+        "Mode 02 구성": "2x6 / 사용 유닛 수: 4 (A, B, C, D)",
+        "Mode 02 출력": "B Output1~4, C Output1~4, D Output1~4",
+        "Mode 03 구성": "2x8 / 사용 유닛 수: 5 (A, B, C, D, E)",
+        "Mode 03 출력": "B Output1~4, C Output1~4, D Output1~4, E Output1~4",
+        "Mode 04 구성": "6x2 / 사용 유닛 수: 4 (A, B, C, D)",
+        "Mode 04 출력": "B Output1~4, C Output1~4, D Output1~4",
+        "Mode 05 구성": "8x2 / 사용 유닛 수: 5 (A, B, C, D, E)",
+        "Mode 05 출력": "B Output1~4, C Output1~4, D Output1~4, E Output1~4",
+        "Mode 06 구성": "4x2 / 사용 유닛 수: 3 (A, B, C)",
+        "Mode 06 출력": "B Output1~4, C Output1~4",
+        "Mode 07 구성": "4x4 / 사용 유닛 수: 5 (A, B, C, D, E)",
+        "Mode 07 출력": "B Output1~4, C Output1~4, D Output1~4, E Output1~4",
+        "유닛당 입력": "HDMI IN, DVI IN",
+        "유닛당 출력 수": "4 (OUT 1, OUT 2, OUT 3, OUT 4)"
+      },
+      "compatibility": [
+        "HDMI 입력 기기",
+        "DVI 입력 기기"
+      ],
+      "source_files": [
+        "LS-MV104F-CASCADINGMODE.json"
+      ]
+    }
+  },
+  "_variant_raw_texts": {
+    "LS-MV104F-CASCADINGMODE": "Mode\n02\n42\n2x6\n(4 Unit)\n[A]\nHDMI IN\nDVI IN\nOUT 1\nOUT 2\nOUT 3\nOUT 4\n[B]\n[D]\nHDMI IN\nDVI IN\nHDMI IN\nDVI IN\nOUT 1\nOUT 2\nOUT 3\nOUT 4\nOUT 1\nOUT 2\nOUT 3\nOUT 4\n[C]\nHDMI IN\nDVI IN\n<B> Outputi\n<B> Output2\n<C> Output\n<C> Output2\n<D> Outputi\n<D> Output2\nBurc\n<B> Output3\n<B> Output4\n<C> Output3\n<C> Output4\n<D> Output3\n<D> Output4\nMode\n03\n2x8\n(5 Unit)\n[A]\nHDMI IN\nDVI IN\nOUT 1\nOUT 2\nOUT 3\nOUT 4\n[B]\n[E]\nHDMI IN\nDVI IN\nHDMI IN\nDVI IN\nOUT 1\nOUT 2\nOUT 3\nOUT 4\nOUT 1\nOUT 2\nOUT 3\nOUT 4\n[C]\n[D]\nHDMI IN\nDVI IN\nHDMI IN\nDVI IN\nOUT 1\nOUT 2\nOUT 3\nOUT 4\nOUT 1\nOUT 2\nOUT 3\nOUT 4\n<B> Output1 <B> Output2 <C> Output1 <C> Output2 <D> Output <D> Output2 <E> Output1 <E> Output2\nBCD\n<B> Outputs <B> Output4 <C> Output3 <C> Output4 <D> Outputs <D> Output4 <E> Outputs <E> Output4\nMode\n04\n6x2\n(4 Unit)\n[A]\nHDMI IN\nDVI IN\nOUT 1\nOUT 2\nOUT 3\nOUT 4\n[B]\n[D]\nHDMI IN\nDVI IN\nHDMI IN\nDVI IN\nOUT 1\nOUT 2\nOUT 3\nOUT 4\nOUT 1\nOUT 2\nOUT 3\nOUT 4\n\n\n[B]\n[D]\nHDMI IN\nDVI IN\nHDMI IN\nDVI IN\nOUT 1\nOUT 2\nOUT 3\nOUT 4\nOUT 1\nOUT 2\nOUT 3\nOUT 4\n[C]\nHDMI IN\nDVI IN\n<B> Output1\n<B> Output2\nB\n<B> Outputs\n<B> Output4\n<C> Outputi\n<C> Output2\nC\n<C> Output3\n<C> Output4\n<D> Output1\n<D> Output2\nD\n<D> Output3\n<D> Output4\nMode\n05\n8x2\n(5 Unit)\n[A]\nHDMI IN\nDVI IN\nOUT 1\nOUT 2\nOUT 3\nOUT 4\n[B]\n[E]\nHDMI IN\nDVI IN\nHDMI IN\nDVI IN\nOUT 1\nOUT 2\nOUT 3\nOUT 4\nOUT 1\nOUT 2\nOUT 3\nOUT 4\n.\n[C]\n[D]\nHDMI IN\nDVI IN\nHDMI IN\nDVI IN\nOUT 1\nOUT 2\nOUT 3\nOUT 4\nOUT 1\nOUT 2\nOUT 3\nOUT 4\n<B> Output1\n<B> Output2\nD\n\n\n<B> Output1\n<B> Output2\nB\n<B> Output3\n<B> Output4\n<C> Output1\n<C> Output2\nC\n<C> Output3\n<C> Output4\n<D> Output1\n<D> Output2\nHA\nDE\n<D> Output3\n<D> Output4\n<E> Output1\n<E> Output2\nMickey\n<E> Output3\nKE Output4\nMode\n06\n4x2\n(3 Unit)\n[A]\nHDMI IN\nDVI IN\nOUT 1\nOUT 2\nOUT 3\nOUT 4\n[B]\n[C]\nHDMI IN\nDVI IN\nHDMI IN\nDVI IN\nOUT 1\nOUT 2\nOUT 3\nOUT 4\nOUT 1\nOUT 2\nOUT 3\nOUT 4\n<B> Output1\n<B> Output2\nB\nmm\n<B> Output3\n<B> Output4\n<C> Output1\n<C> Output2\nC\n\n\nC\n<C> Output3\n<C> Output4\nMode\n07\n4x4\n(5 Unit)\n[A]\nHDMI IN\nDVI IN\nOUT 1\nOUT 2\nOUT 3\nOUT 4\n[B]\n[E]\nHDMI IN\nDVI IN\nHDMI IN\nDVI IN\nOUT 1\nOUT 2\nOUT 3\nOUT 4\nOUT 1\nOUT 2\nOUT 3\nOUT 4\n[C]\n[D]\nHDMI IN\nDVI IN\nHDMI IN\nDVI IN\nOUT 1\nOUT 2\nOUT 3\nOUT 4\nOUT 1\nOUT 2\nOUT 3\nOUT 4\n<B> Output 1\n<B> Output2 <C> Output1\n<C> Output2\nB\nC\n<B> Output3\n<B> Output4 <C> Output3\n<C> Output4\n<D> Output 1\n<D> Output2 <E> Output1\n<E> Output2\nD\nE\n<D> Output3\n<D> Output4\n<E> Output3\n<E> Output4"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "DVI-D",
+        "RS232"
+      ],
+      "output_signals": [
+        "HDMI",
+        "3.5mm",
+        "Optical"
+      ],
+      "directional": "일방향",
+      "port_count": 5
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "HDMI2.0",
+      "dp_version": "N/A",
+      "dvi_type": "DVI-D Dual",
+      "optical_core": null,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI, DVI, RS232",
+    "connectivity.output_signals": "HDMI 4포트, 오디오 포트 R/L 1포트, 광오디오(Optical) 포트",
+    "connectivity.directional": "1개 입력 → HDMI 4개 출력",
+    "connectivity.port_count": "HDMI 4포트, 오디오 포트 R/L 1포트, 광오디오(Optical) 포트",
+    "power.power_mode": "DC 12V 3A 전원 어댑터",
+    "power.charging_support": "전원 OFF 후 재기동 시 종료 전 모드 유지",
+    "audio_video.max_resolution": "4K@60Hz 입력 지원",
+    "audio_video.hdcp_version": "HDCP 2.2 지원",
+    "audio_video.audio_pass": "광오디오(Optical) 및 R/L 오디오 출력 포트 지원",
+    "form_physical.has_case": "LANSTAR HDMI 2X2 Video Wall Controller",
+    "certification.kc": "KC 인증 획득",
+    "control_switching.has_remote": "리모콘으로 손쉬운 디스플레이 조작 가능",
+    "control_switching.has_physical_button": "본체의 Mode Select 버튼",
+    "family.hdmi_version": "HDMI 2.0 지원",
+    "family.dvi_type": "HDMI(DVI) 1개 입력"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:56",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "feature": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

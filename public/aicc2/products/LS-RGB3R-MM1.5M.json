@@ -1,0 +1,85 @@
+{
+  "model_no": "LS-RGB3R-MM1.5M",
+  "product_name": "RGB 컴포넌트 케이블 (고급 DVD 모니터 케이블)",
+  "category": [
+    "커넥터",
+    "DVD관련"
+  ],
+  "key_features": [
+    "PC의 RGB(D-SUB) 출력단자와 TV의 컴포넌트(빨강, 파랑, 초록) 입력단자를 연결하는 케이블",
+    "Gold Type 커넥터로 화질 전송력 우수",
+    "고화질 영상신호 전송 지원",
+    "견고한 품질과 우수한 디자인",
+    "DVDP와 프로젝터의 D-SUB 연결 또는 HD 카드에서 HDTV 연결에 사용 가능"
+  ],
+  "specifications": {
+    "커넥터 구성": "D-SUB 15p Male / 3 RCA Male",
+    "커넥터 타입": "Gold Type",
+    "컴포넌트 단자 색상": "빨강, 파랑, 초록",
+    "전송 방향": "단방향 (PC RGB 출력 → TV 컴포넌트 입력)"
+  },
+  "compatibility": [
+    "RGB(D-SUB) 출력단자를 갖춘 데스크탑 또는 노트북 (컴포넌트 신호 변환 기능 지원 그래픽 카드 필수)",
+    "컴포넌트(빨강, 파랑, 초록) 입력단자를 갖춘 TV 또는 디스플레이 기기",
+    "HD 프로젝터 (DVD 화면 지원 모델)",
+    "DVDP (D-SUB 연결 지원 모델)",
+    "HDTV (HD 카드 연결 용도)"
+  ],
+  "package_contents": [
+    "RGB 컴포넌트 케이블 (D-SUB 15p Male - 3 RCA Male) 1개"
+  ],
+  "usage_instructions": "PC(RGB/D-SUB) 출력단자에 D-SUB 15p 커넥터를 연결하고, TV 또는 디스플레이 기기의 컴포넌트(빨강·파랑·초록) 입력단자에 3 RCA 커넥터를 연결하여 사용합니다.",
+  "cautions": [
+    "반드시 사용 전 데스크탑 또는 노트북의 그래픽 카드가 RGB 단자에서 컴포넌트 신호로 변환하는 기능을 지원하는지 그래픽 카드사에 확인하세요. RGB 단자가 있다고 해서 자동 지원되지 않습니다.",
+    "RGB 단자에서 컴포넌트 신호로 변환하는 추가 기능이 없으면 케이블 사용이 전혀 불가능합니다.",
+    "TV에 컴포넌트(빨강, 파랑, 초록) 단자가 있는지 반드시 확인하세요. 컴포지트(흰색, 빨강, 노랑) 단자와 모양이 같아도 쓰임이 다르므로 혼동하지 마세요.",
+    "이 케이블은 양방향을 지원하지 않습니다. 반드시 D-SUB(RGB) 쪽을 PC의 출력단자에, RCA(컴포넌트) 쪽을 TV 등 디스플레이 기기의 입력단자에 연결하세요.",
+    "그래픽 카드에서 지원 가능한 제품만 사용할 수 있습니다. 단순 케이블 변환만으로 영상 출력이 지원되지 않습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "D-SUB",
+        "RGB"
+      ],
+      "output_signals": [
+        "RCA"
+      ],
+      "directional": "일방향"
+    },
+    "form_physical": {
+      "material": [
+        "금도금"
+      ]
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "family": {
+      "connector_type_a": "D-SUB 15p Male",
+      "connector_type_b": "3 RCA Male",
+      "gender": "M-M",
+      "pin_count": 15
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "PC의 RGB(D-SUB) 출력단자와",
+    "connectivity.output_signals": "TV의 컴포넌트(빨강, 파랑, 초록) 입력단자를 연결하는 케이블",
+    "connectivity.directional": "단방향 (PC RGB 출력 → TV 컴포넌트 입력)",
+    "form_physical.material": "Gold Type 커넥터로",
+    "audio_video.max_resolution": "고화질 영상신호 전송 지원",
+    "audio_video.hdr_support": "고화질 영상신호 전송 지원",
+    "audio_video.hdcp_version": "고화질 영상신호 전송 지원",
+    "audio_video.audio_pass": "고화질 영상신호 전송 지원",
+    "family.connector_type_a": "D-SUB 15p Male",
+    "family.connector_type_b": "3 RCA Male",
+    "family.gender": "D-SUB 15p Male / 3 RCA Male",
+    "family.pin_count": "D-SUB 15p Male"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:40",
+  "feature_schema_version": "1.0.0"
+}

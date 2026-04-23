@@ -1,0 +1,117 @@
+{
+  "model_no": "LS-HDMI-HYB-R10M",
+  "product_name": "[LANstar] HDMI REAL 2.0 하이브리드 광케이블 , 19P M/M, Black, 4K*2K 60Hz 10M [11041] (10개)",
+  "category": [
+    "광케이블",
+    "HDMI케이블",
+    "HDMI광케이블"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-HDMI-HYB-R10M",
+      "품목코드": "CAB-HDO017",
+      "품목명": "[LANstar] HDMI REAL 2.0 하이브리드 광케이블 , 19P M/M, Black, 4K*2K 60Hz 10M [11041] (10개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDMI-HYB-R10M",
+      "내용": "가격과 배송 모두 만족합니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HDMI-HYB-R10M",
+      "id": 525198903,
+      "date": "2023-04-15 14:00",
+      "answerDate": "2023-04-17 09:04",
+      "user": "mlsw***",
+      "productName": "랜스타 LS-HDMI-HYB-R10M HDMI 2.0 하이브리드 광케이블 10M",
+      "question": "안녕하세요 공연장에서 hdmi 로 프로젝터 사용하려고 하는데 거리가 좀 되서 그런데 20미터 짜리 사서 사용하면 딜레이나 신호 오류 없을까요?",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n해당 용도로 사용하실 경우 LS-HDAOC-20M(https://smartstore.naver.com/lineup/products/6818043477) 제품 사용을 권장 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-HYB-R10M",
+      "id": 535591391,
+      "date": "2023-06-27 17:40",
+      "answerDate": "2023-06-28 09:33",
+      "user": "jiyo****",
+      "productName": "랜스타 LS-HDMI-HYB-R10M HDMI 2.0 하이브리드 광케이블 10M",
+      "question": "안녕하세요 \n혹시 40M 구매할 수 있을까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n문의 주신 40M 제품의 경우 현재 단종입니다. 다만 현재 50M 재고 하나 보유하고 있어 해당 제품으로 대체 구매 제안 드립니다. (50M 역시 해당 재고 판매 후 단종 처리 예정) 대신 해당 제품과 기능 동일하게 호환 가능한 상품으로 ‘LS-HDAOC’ 케이블 라인 안내 드립니다. 아래 링크를 통해 살펴보시면 도움이 되실 것 같습니다. https://smartstore.naver.com/lineup/search?q=LS-HDAOC\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해 드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 10,
+      "length_options_meters": null,
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "HDMI2.0",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": true,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI REAL 2.0 하이브리드 광케이블",
+    "connectivity.output_signals": "HDMI REAL 2.0 하이브리드 광케이블",
+    "connectivity.directional": "HDMI REAL 2.0 하이브리드 광케이블",
+    "form_physical.length_meters": "10M",
+    "form_physical.color_options": "Black",
+    "audio_video.max_resolution": "4K*2K 60Hz",
+    "family.hdmi_version": "HDMI REAL 2.0",
+    "family.optical_core": "하이브리드 광케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:14",
+  "feature_schema_version": "1.0.0"
+}

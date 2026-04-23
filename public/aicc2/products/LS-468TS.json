@@ -1,0 +1,237 @@
+{
+  "model_no": "LS-468TS",
+  "product_name": "LANstar 분리형 케이블 테스터기 (UTP/STP 겸용, RJ45/RJ11/RJ12)",
+  "category": [
+    "랜케이블-UTP",
+    "랜케이블-STP",
+    "네트워크공구"
+  ],
+  "key_features": [
+    "분리형 구조: MASTER(케이블 테스터기)와 REMOTE(외부 리시버)로 구성",
+    "근거리 및 원거리 랜공사 장소에서 케이블 정상/불량 여부 확인 가능",
+    "그라운드(접지) 테스트 지원",
+    "9개의 LED로 양쪽 테스터기에서 케이블 정상작동 여부 표시",
+    "케이블 연결 시 자동으로 테스트 시작",
+    "S모드 스위치(OFF-ON-S): S 위치에서 느린 동작으로 램프 동작",
+    "다이렉트(Direct) 케이블 및 크로스(Cross) 케이블 모두 테스트 가능",
+    "RJ45, RJ11, RJ12 케이블 종류별 LED 점등 순서 상이",
+    "실제 사용 4선: 1(RX+), 2(RX-), 3(TX+), 6(TX-)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 획득 (인증번호: R-R-LUS-LS-68WT)"
+  ],
+  "specifications": {
+    "커넥터 종류": "RJ45, RJ11, RJ12",
+    "표준 규격": "Token Ring, 10Base-T, 10Base-2, 258A, TIA-568A/568B",
+    "작동 전압": "9V DC",
+    "크기": "105 x 100 x 29mm (H x W x D)",
+    "무게": "MASTER 180g / REMOTE 150g",
+    "인증번호": "R-R-LUS-LS-68WT",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "UTP 케이블",
+    "STP 케이블",
+    "RJ45",
+    "RJ11",
+    "RJ12",
+    "Token Ring",
+    "10Base-T",
+    "10Base-2",
+    "TIA-568A",
+    "TIA-568B",
+    "258A"
+  ],
+  "package_contents": [
+    "케이블 테스터기 MASTER (XT-468)",
+    "외부 리시버 REMOTE (XT-468)",
+    "휴대 케이스",
+    "영문 매뉴얼",
+    "건전지 (그린셀 1604G 6F22 / 9V)"
+  ],
+  "usage_instructions": "1. 테스트할 케이블의 양쪽 끝을 MASTER와 REMOTE의 각각 해당 포트(RJ45 또는 RJ11/RJ12)에 연결한다. 2. MASTER의 스위치를 'OFF' 상태에서 'ON'으로 이동시키면 자동으로 테스트가 시작된다. 3. 9개의 LED가 순서대로 점등되며, 위 표에 있는 순서대로 LED가 동작하면 정상이다. 4. S모드(슬로우 모드)를 사용하려면 스위치를 'S' 위치로 이동하면 느린 속도로 램프가 동작한다. 5. 다이렉트 케이블: MASTER와 REMOTE의 LED가 1-2-3-4-5-6-7-8-G 순서로 동일하게 점등. 6. 크로스 케이블: MASTER 1→REMOTE 3, MASTER 2→REMOTE 6, MASTER 3→REMOTE 1, MASTER 6→REMOTE 2 순서로 점등(나머지 핀은 동일).",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-468TS",
+      "품목코드": "NEO-테스터001",
+      "품목명": "[LANstar] 테스터기, UTP／STP겸용,분리형 [40124] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-468TS",
+      "내용": "좋아요좋아요좋아요좋아요"
+    },
+    {
+      "source_model": "LS-468TS",
+      "내용": "빠르게 잘 받았습니다!!"
+    },
+    {
+      "source_model": "LS-468TS",
+      "내용": "작동 잘 됩니다. 배송 만족합니다."
+    },
+    {
+      "source_model": "LS-468TS",
+      "내용": "너무너무 좋아요 잘 사용하고 있어요~~",
+      "관련내용": "너무너무 좋아요 잘 사용하고 있어요~~"
+    },
+    {
+      "source_model": "LS-468TS",
+      "내용": "있으면 쓸까 싶은데, 없으면 필요한 테스터기&hellip;"
+    },
+    {
+      "source_model": "LS-468TS",
+      "내용": "빠른 배송 감사합니다.\n그런데 랜선박스에 테스터기를 넣어놓으셔서 한참 찾았습니다. 랜선만 도착한 줄 알았습니다.\n배송비는 각각 건별로 붙어있어서 각각 다른 택배건로 오는 줄 알았는데 랜선박스에 같이 넣어서 보내주셨네요. \n이런 경우는 배송비를 한 건으로 해주시면 좋을 것 같습니다."
+    },
+    {
+      "source_model": "LS-468TS",
+      "내용": "너무너무 좋아요 잘 사용하고 있어요~~"
+    },
+    {
+      "source_model": "LS-468TS",
+      "내용": "좋은 제품 잘 사용하겠습니다"
+    },
+    {
+      "source_model": "LS-468TS",
+      "내용": "사무실에서 사용하려 구매하였습니다. 좋네요~ 감사합니다."
+    },
+    {
+      "source_model": "LS-468TS",
+      "내용": "좋은 제품 감사합니다."
+    },
+    {
+      "source_model": "LS-468TS",
+      "내용": "아주 좋아요 굳굳굳구ㅡ"
+    },
+    {
+      "source_model": "LS-468TS",
+      "내용": "가성비 좋습니다. 좀 싼마이 느낌이 있고 제품안에 부품이 덜그럭 거리긴 하지만 절 됩니다. 가정용으론 훌륭합니다."
+    },
+    {
+      "source_model": "LS-468TS",
+      "내용": "외관상태는 메롱했지만, 글케 문제될 정도는 아녔습니다. 가격 대 성능은 매우 만족합니다!"
+    },
+    {
+      "source_model": "LS-468TS",
+      "내용": "설치 잘 하고 있습니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-468TS",
+      "id": 622150298,
+      "date": "2025-03-24 01:13",
+      "answerDate": "2025-03-24 13:14",
+      "user": "kimt*********",
+      "productName": "랜스타 UTP／STP겸용,분리형 랜 테스터기 LS-468TS",
+      "question": "LS-468TSN 모델과 차이가 무엇인가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n성능 및 용도는 동일하나 가성비형 제품으로 출시 된 제품입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45",
+        "RJ11",
+        "RJ12"
+      ],
+      "output_signals": [
+        "RJ45",
+        "RJ11",
+        "RJ12"
+      ],
+      "directional": "양방향",
+      "port_count": 6
+    },
+    "power": {
+      "power_mode": "배터리",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": true,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45, RJ11, RJ12 케이블 종류별",
+    "connectivity.output_signals": "RJ45, RJ11, RJ12 케이블 종류별",
+    "connectivity.directional": "양쪽 테스터기에서 케이블 정상작동",
+    "connectivity.port_count": "RJ45, RJ11, RJ12",
+    "power.power_mode": "작동 전압: 9V DC",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "크기: 105 x 100 x 29mm",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "국립전파연구원 인증 획득",
+    "certification.rohs": "null",
+    "certification.iso9001": "null",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "MASTER(케이블 테스터기)와 REMOTE(외부 리시버)",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "MASTER의 스위치를 'OFF' 상태에서 'ON'으로 이동",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "케이블 연결 시 자동으로 테스트 시작",
+    "control_switching.has_app_control": "null",
+    "family.cat_category": "N/A",
+    "family.shielding": "N/A",
+    "family.conductor": "N/A",
+    "family.awg": "null",
+    "family.pair_count": "null",
+    "family.flame_rating": "N/A",
+    "family.poe_support": "정보 없음"
+  },
+  "feature_extracted_at": "2026-04-23T03:07:30",
+  "feature_schema_version": "1.0.0"
+}

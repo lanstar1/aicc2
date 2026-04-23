@@ -1,0 +1,138 @@
+{
+  "model_no": "LS-PCI-1284B",
+  "product_name": "PCI 프린터 Parallel 카드 (PCI to Parallel 1Port Card)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "Windows 11 지원 제품",
+    "드라이버 불필요 (No driver needed), IRQ 및 I/O 주소 자동 분배",
+    "32-bit PCI Bus 설계, PCI 2.1 지원",
+    "칩셋: WCH351Q (변경된 칩셋)",
+    "Parallel 25Pin Female 1Port 제공",
+    "고속 I/O 컨트롤러 (16C550C 또는 호환 UART)"
+  ],
+  "specifications": {
+    "인터페이스": "32-bit PCI Bus",
+    "포트": "Parallel 25Pin Female 1Port",
+    "칩셋": "WCH351Q",
+    "PCI 규격": "PCI 2.1",
+    "종류": "PCI 프린터 카드",
+    "모델명(박스표기)": "PC-12848",
+    "제조/판매원": "라인업시스템(주)",
+    "A/S 안내": "www.LANstar.co.kr",
+    "대상 PC 유형": "데스크탑용"
+  },
+  "compatibility": [
+    "Windows 95",
+    "Windows 98",
+    "Windows 98SE",
+    "Windows ME",
+    "Windows 2000",
+    "Windows NT 4.0",
+    "Windows XP",
+    "Windows 7",
+    "Windows 8",
+    "Windows 10",
+    "Windows 11"
+  ],
+  "package_contents": [
+    "PCI 카드",
+    "LP 브라켓",
+    "Driver CD (I/O Card Driver VER 3.1)",
+    "사용설명서"
+  ],
+  "usage_instructions": "1. PC 전원을 차단한 후 제품을 메인보드의 PCI 슬롯에 장착한다. 2. PC 전원을 켜면 '새 하드웨어 추가 마법사'가 자동 실행된다. 3. [Windows 98/ME] Driver CD 삽입 후 경로(CD > MCS9865 > WIN95_98_ME)에서 드라이버 선택 및 설치. 마법사가 실행되지 않을 경우 장치관리자에서 수동 설치. 4. [Windows 2000/XP] PC 부팅 후 자동 실행되는 마법사에서 Driver CD를 넣고 자동 검색으로 설치(경로: CD > MSC9865 > WINXP_2K_NT 또는 Drive_Vista32/64). 자동 검색 실패 시 내 컴퓨터 > 하드웨어 > 장치관리자에서 수동 설치.",
+  "cautions": [
+    "칩셋이 WCH351Q로 변경되었으므로 기존 드라이버와 호환 여부 확인 필요",
+    "드라이버 설치 전 반드시 PC 전원을 차단한 후 카드를 장착할 것",
+    "드라이버 CD 경로 선택 시 사용 중인 Windows OS 버전에 맞는 폴더를 정확히 지정할 것"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCI-1284B",
+      "품목코드": "USB-PCI076",
+      "품목명": "[LANstar] PCI페러럴카드 1284 1Port 미니가이드[30053]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-PCI-1284B",
+      "내용": "배송 만족, 가격착하고 작동잘되요."
+    },
+    {
+      "source_model": "LS-PCI-1284B",
+      "내용": "항상 상품으로 잘 사용하고 있습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "PCI",
+        "Parallel(DB25)"
+      ],
+      "output_signals": [
+        "Parallel(DB25)"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "PCI 프린터 Parallel 카드 (PCI to Parallel 1Port Card)",
+    "connectivity.output_signals": "Parallel 25Pin Female 1Port 제공",
+    "connectivity.directional": "고속 I/O 컨트롤러",
+    "connectivity.port_count": "Parallel 25Pin Female 1Port 제공",
+    "power.power_mode": "32-bit PCI Bus 설계",
+    "power.charging_support": "PCI 프린터 Parallel 카드",
+    "audio_video.max_resolution": "PCI 프린터 Parallel 카드",
+    "audio_video.hdr_support": "PCI 프린터 Parallel 카드",
+    "audio_video.hdcp_version": "PCI 프린터 Parallel 카드",
+    "audio_video.audio_pass": "PCI 프린터 Parallel 카드",
+    "control_switching.has_remote": "PCI 프린터 Parallel 카드",
+    "control_switching.has_hotkey": "PCI 프린터 Parallel 카드",
+    "control_switching.has_physical_button": "PCI 프린터 Parallel 카드",
+    "control_switching.has_mouse_switching": "PCI 프린터 Parallel 카드",
+    "control_switching.has_auto_scan": "PCI 프린터 Parallel 카드",
+    "control_switching.has_app_control": "PCI 프린터 Parallel 카드"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:57",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,147 @@
+{
+  "model_no": "LS-USB204P-SN",
+  "product_name": "USB 2.0 4포트 허브 (LS-USB204P)",
+  "category": [
+    "USB허브",
+    "USB2.0"
+  ],
+  "key_features": [
+    "최대 127대까지 장치 확장 가능",
+    "USB 2.0 최대 480Mbps 고속 데이터 전송 지원",
+    "USB 2.0 및 USB 1.1 규격 호환 (USB 1.1 최대 12Mbps)",
+    "FE1.1 칩셋 사용으로 빠르고 안정적인 동작",
+    "Plug & Play 자동 설치 지원",
+    "고휘도 LED 탑재",
+    "초소형 디자인으로 휴대 간편",
+    "DC 5V 외부 전원 공급 지원 (충전기 별도 구매)"
+  ],
+  "specifications": {
+    "전송 속도": "USB 2.0 최대 480Mbps, USB 1.1 최대 12Mbps",
+    "포트 수": "4포트",
+    "사용 칩셋": "FE1.1",
+    "연결 케이블": "Mini 5P 케이블 50cm",
+    "색상": "실버, 블랙",
+    "외부 전원": "DC 5V 1A (별도 구매, INPUT: AC 110~240V 50MHz, OUTPUT: DC 5V 1A)",
+    "제조국/원산지": "Made in China",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "LUS-USB204PN",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "USB 2.0",
+    "USB 1.1",
+    "Windows 98SE (수동 설치)",
+    "Windows 98/2000/XP/Vista/7/8",
+    "Mac OS",
+    "Linux",
+    "USB 마우스",
+    "프린터",
+    "PC카메라(웹캠)",
+    "스캐너",
+    "조이스틱",
+    "MP3 플레이어",
+    "키보드",
+    "USB 모뎀",
+    "USB 랜카드",
+    "USB 휴대폰 충전기",
+    "USB 외장하드",
+    "CD-ROM",
+    "USB 메모리카드리더기",
+    "디지털카메라",
+    "스마트폰",
+    "게임기"
+  ],
+  "package_contents": [
+    "USB 2.0 4포트 허브 본체",
+    "Mini 5P 케이블 50cm",
+    "DC 5V 1A 충전기 (별도 구매)"
+  ],
+  "usage_instructions": "Plug & Play 방식으로 자동 설치됩니다. Windows 98/2000/XP/Vista/7/8 및 Mac OS, Linux에서 자동 설치를 지원합니다. 단, Windows 98SE에서는 수동으로 설치하여 사용하시면 됩니다. 외부 전원이 필요한 경우 DC 5V 1A 충전기(별도 구매)를 연결하여 사용하실 수 있습니다.",
+  "cautions": [
+    "Windows 98SE에서는 자동 설치가 지원되지 않으므로 수동 설치 필요",
+    "DC 5V 1A 충전기는 별도 구매 필요",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 의거하여 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB204P-SN",
+      "품목코드": "USB-HB무003",
+      "품목명": "[LANstar] USB2.0 HUB 4Port FE2.0 실버 [30036]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.5,
+      "length_options_meters": null,
+      "color_options": [
+        "실버",
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "port_count": 4,
+      "usb_version": "USB2.0",
+      "ethernet_speed_mbps": null,
+      "has_sd_reader": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 2.0 4포트 허브",
+    "connectivity.output_signals": "USB 2.0 4포트 허브",
+    "connectivity.directional": "USB 2.0 최대 480Mbps 고속 데이터 전송",
+    "connectivity.port_count": "4포트",
+    "power.power_mode": "DC 5V 외부 전원 공급 지원",
+    "power.charging_support": "DC 5V 외부 전원 공급 지원 (충전기 별도 구매)",
+    "form_physical.has_case": "초소형 디자인으로 휴대 간편",
+    "form_physical.length_meters": "Mini 5P 케이블 50cm",
+    "form_physical.color_options": "색상: 실버, 블랙",
+    "certification.kc": "인증번호: LUS-USB204PN",
+    "audio_video.max_resolution": "USB 2.0 4포트 허브",
+    "audio_video.hdcp_version": "USB 2.0 4포트 허브",
+    "family.port_count": "4포트",
+    "family.usb_version": "USB 2.0 최대 480Mbps"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:37",
+  "feature_schema_version": "1.0.0"
+}

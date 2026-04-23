@@ -1,0 +1,212 @@
+{
+  "model_no": "LS-MHL-A519B",
+  "product_name": "LANStar 애플/삼성/LG 겸용 미러링 케이블 (블랙 2M)",
+  "category": [
+    "오디오케이블",
+    "아이폰케이블"
+  ],
+  "key_features": [
+    "애플(iPhone/iPad), 삼성 갤럭시, LG 스마트폰 겸용 미러링 케이블",
+    "1080P Full HD 3D 지원 (1920x1080 해상도)",
+    "영상 및 오디오 동시 출력 지원",
+    "케이블 길이 2M",
+    "HDTV, 모니터, 프로젝터 연결 가능",
+    "커넥터 구성: HDMI(Male) + USB A(Male) + USB A(Female)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC, FCC, CE 안전규격 인증 취득",
+    "국립전파연구원 인증 획득 (인증번호: KCC-REI-LUS-LS-MHL-519)",
+    "RoHS 규격 준수"
+  ],
+  "specifications": {
+    "모델명": "LS-MHL-A519B",
+    "커넥터": "HDMI(Male) + USB A(Male) + USB A(Female)",
+    "해상도": "1920x1080 (1080P Full HD 3D 지원)",
+    "길이": "2M",
+    "색상": "블랙(Black)",
+    "인증번호": "KCC-REI-LUS-LS-MHL-519",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입",
+    "안전규격": "KC, FCC, CE, RoHS COMPLIANT, ISO 9001:2008"
+  },
+  "compatibility": [
+    "iPhone 7",
+    "iPhone 6 Plus",
+    "iPhone 6s",
+    "iPhone 6",
+    "iPhone 5s",
+    "iPhone 5",
+    "iPad (Wi-Fi + Cellular)",
+    "Samsung Galaxy S8",
+    "Samsung Galaxy S8+",
+    "Samsung Galaxy S7",
+    "Samsung Galaxy S7 edge",
+    "LG G6",
+    "LG V20",
+    "Android 5.1 이상 (안드로이드 8.0 미만)",
+    "HDMI 단자를 가진 TV, 모니터, 프로젝터"
+  ],
+  "package_contents": [
+    "미러링 케이블 본체 (HDMI Male + USB A Male + USB A Female, 2M)",
+    "아이폰 연결용 USB A(Male)-8Pin 케이블 (별도 구매)",
+    "안드로이드폰 연결용 USB A(Male)-Micro B 케이블 (별도 구매)",
+    "S8, G6 연결용 USB A(Male)-USB 3.1 C Type 케이블 (별도 구매)",
+    "DC 5V 어댑터 (별도 구매)"
+  ],
+  "usage_instructions": "1. 미러링 케이블의 HDMI(Male) 단자를 HDMI 단자가 있는 TV, 모니터 또는 프로젝터에 연결한다. 2. USB A(Male) 단자를 DC 5V 어댑터 또는 PC의 USB 단자에 연결하여 전원을 공급한다. 3. USB A(Female) 단자를 스마트폰과 연결한다. (아이폰: 별도 구매 애플 8핀 케이블 사용 / 안드로이드: 별도 구매 Micro B 케이블 사용 / S8·G6: 별도 구매 USB 3.1 C Type 케이블 사용) ※ 별도 케이블은 데이터 전송과 충전이 동시에 지원되는 제품을 사용할 것. [아이폰 연결 시] 4. 화면에 '이 컴퓨터를 신뢰하겠습니까?' 팝업이 뜨면 '신뢰'를 클릭한다. 5. TV(모니터)와 미러링이 되어 폰 화면과 동일하게 출력된다. [안드로이드폰 연결 시] 6. 설정 > 개발자 옵션에서 'USB 디버깅'을 허용한다. ('개발자 옵션'이 없을 경우: 설정 > 디바이스 정보 > 빌드번호를 개발자 모드로 바뀔 때까지 계속 클릭하여 개발자 옵션을 생성) 7. 'USB 디버깅을 허용할까요?' 팝업에서 '확인'을 클릭하고, RSA 키 지문 허용도 확인한다. 8. 약 5초 후 미러링이 시작되어 TV(모니터)와 폰 화면이 동일하게 출력된다. Tip. 안드로이드는 USB 디버깅 허용 후 'EZCAST' 앱을 실행하여 미러링할 수 있다. [삼성 갤럭시 Android 7.0 누가 업데이트 시] 설정 > 디스플레이 > 화면 해상도에서 WQHD(2560x1440)로 설정하면 꽉 찬 전체화면으로 출력된다.",
+  "cautions": [
+    "Netflix에서는 사용이 되지 않습니다.",
+    "안드로이드 8.0으로 업데이트 시 사용이 불가능합니다.",
+    "안드로이드폰은 버전이 5.1 이상일 때 정상 작동합니다.",
+    "구글 플레이 무비, 넷플릭스와 같은 일부 애플리케이션은 작동하지 않을 수 있습니다.",
+    "별도의 케이블 연결 시 데이터 전송과 충전이 동시에 지원되는 제품을 사용해 주세요.",
+    "아이폰 연결 시 '신뢰' 클릭 후 와이파이 안테나, 현재시각, 충전 상태 표시가 임의 변경됩니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MHL-A519B",
+      "품목코드": "CAB-APP581",
+      "품목명": "[LANstar] 아이폰 안드로이드 겸용 미러링 케이블/MHL기능 블랙 2M [10904]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-MHL-A519B",
+      "내용": "잘받았어요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-MHL-A519B",
+      "id": 11948853,
+      "date": "2017-05-11 06:42",
+      "answerDate": "2017-05-11 14:30",
+      "user": "pms9***",
+      "productName": "랜스타 LS-MHL-A519B G6 G5 V20 MHL 미러링케이블 아이폰6/6S/7/갤럭시노트5 /6/7 갤럭시S6/S7/S6엣지/S7엣지",
+      "question": "노트5 사용가능한가요?\n티비가 스마트티비가아니라 유선연결하려고하는데 웨스팅하우스40인치 제품이고HDMI단자 2개있구요 USB단자1개있습니다  사용가능할까요?",
+      "answer": "안녕하세요 고객님\n\n사용 가능하십니다. 다만 안드로이드 7으로 업데이트를 하셨다면 화면 비율이 작아지는 문제가 있기\n때문에 고려하시고 구매 부탁드립니다."
+    },
+    {
+      "source_model": "LS-MHL-A519B",
+      "id": 12071136,
+      "date": "2017-05-16 21:08",
+      "answerDate": "2017-05-17 20:30",
+      "user": "qkrt******",
+      "productName": "랜스타 LS-MHL-A519B G6 G5 V20 MHL 미러링케이블 아이폰6/6S/7/갤럭시노트5 /6/7 갤럭시S6/S7/S6엣지/S7엣지",
+      "question": "갤럭시s5호환가능한가요\n갤럭시s5호환가능한가요",
+      "answer": "안녕하세요 고객님\n\n호환 가능합니다."
+    },
+    {
+      "source_model": "LS-MHL-A519B",
+      "id": 70467905,
+      "date": "2019-01-16 12:43",
+      "answerDate": "2019-01-17 10:03",
+      "user": "kkk1***",
+      "productName": "랜스타 LS-MHL-A519B G6 G5 V20 MHL 미러링케이블 아이폰6/6S/7/갤럭시노트5 /6/7 갤럭시S6/S7/S6엣지/S7엣지",
+      "question": "V20도 미러링 가능한가요? 지원된다고 샀는데 안되는게 있어서 문의합니다. 아님 컨버터를 사야하나요?",
+      "answer": "안녕하세요 고객님\n\nV20은 전용케이블이 따로 있습니다.\n\nUSB312-HDMI 모델의 제품을 구매하시면 됩니다."
+    },
+    {
+      "source_model": "LS-MHL-A519B",
+      "id": 242386664,
+      "date": "2022-10-25 04:07",
+      "answerDate": "2022-10-25 10:19",
+      "user": "moon*******",
+      "productName": "랜스타 LS-MHL-A519B 아이폰 안드로이드 겸용 미러링 케이블 2M",
+      "question": "아이폰 사용 중이라 해당 제품의 구매를 고려중입니다. \n\n그런데 제품 정보에 사용 가능 모델이 '아이폰5에서 아이폰7'라고 표기되어 있는 점이 맘에 걸리네요.\n\n현재 사용 중인 모델이 '아이폰11 프로 맥스' 입니다만, 이 케이블로 미러링이 가능한가요? \n\n답변 부탁드립니다.",
+      "answer": "안녕하세요 랜스타 입니다\n\n해당제품은 현재 단종되어 사용이 어렵습니다 죄송합니다"
+    },
+    {
+      "source_model": "LS-MHL-A519B",
+      "id": 512684844,
+      "date": "2023-01-18 18:09",
+      "answerDate": "2023-01-19 09:36",
+      "user": "namt*******",
+      "productName": "랜스타 LS-MHL-A519B 아이폰 안드로이드 겸용 미러링 케이블 2M",
+      "question": "안녕하세요 액정이 고장난 z플립으로 알아보다 유투브 보고 들어왔습니다 갤럭시 a시리즈랑 플립 1은 덱스 미지원으로 c to hdmi는 꼽으면 인식이 안되는 데요 이걸로 하면 가능할까요? 가능하다면 구입하고 싶습니다",
+      "answer": "안녕하세요 랜스타입니다.\n\n갤럭시 Z 플립 시리즈와 A 시리즈 일부는 유선 미러링 기능을 지원하지 않아, 해당 제품을 사용하여도 미러링 등의 기능 사용이 불가 한 점 안내 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "USB-A"
+      ],
+      "output_signals": [
+        "HDMI",
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 2,
+      "length_options_meters": null,
+      "color_options": [
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI(Male) + USB A(Male) + USB A(Female)",
+    "connectivity.output_signals": "HDMI(Male) + USB A(Male) + USB A(Female)",
+    "connectivity.directional": "영상 및 오디오 동시 출력 지원",
+    "power.power_mode": "USB A(Male) 단자를 DC 5V 어댑터 또는 PC의 USB 단자에 연결하여 전원을 공급한다",
+    "power.charging_support": "별도 케이블은 데이터 전송과 충전이 동시에 지원되는 제품을 사용할 것",
+    "form_physical.has_case": "LANStar 애플/삼성/LG 겸용 미러링 케이블",
+    "form_physical.length_meters": "케이블 길이 2M",
+    "form_physical.color_options": "블랙(Black)",
+    "certification.kc": "KC, FCC, CE 안전규격 인증 취득",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증 취득",
+    "certification.ce": "KC, FCC, CE 안전규격 인증 취득",
+    "audio_video.max_resolution": "1080P Full HD 3D 지원 (1920x1080 해상도)",
+    "audio_video.audio_pass": "영상 및 오디오 동시 출력 지원",
+    "family.optical_core": "LANStar 애플/삼성/LG 겸용 미러링 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:35",
+  "feature_schema_version": "1.0.0"
+}

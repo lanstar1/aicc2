@@ -1,0 +1,114 @@
+{
+  "model_no": "LS-WPAK-5E6",
+  "product_name": "옥외용 방수 조립키트 (Waterproof Outdoor Industrial Coupler)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-CAT6",
+    "랜케이블-CAT7",
+    "키스톤잭",
+    "커플러"
+  ],
+  "key_features": [
+    "IP67 등급 취득 산업용/옥외용 방수·방진 조립키트",
+    "케이블 외경(OD) 4~8mm까지 호환",
+    "CAT.5E / CAT.6 / CAT.7 케이블 사용 가능",
+    "랜스타 옥외용 방수 커플러 및 키스톤잭과 호환",
+    "일반 케이블에 적용하여 방수·방진 효과 극대화",
+    "MADE IN TAIWAN",
+    "RoHS 규정 준수 (납·수은·카드뮴 등 중금속 사용 금지)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "IP등급": "IP67",
+    "방진등급": "6 (완전한 방진구조)",
+    "방수등급": "7 (15cm~1m 침수되어도 보호됨)",
+    "호환 케이블 외경(OD)": "4~8mm",
+    "호환 케이블 규격": "CAT.5E, CAT.6, CAT.7",
+    "제품 치수(L x W x H)": "68.2mm x 18.2mm x 35.95mm (외형 참고치)",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "RoHS": "준수",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "랜스타 옥외용 방수 커플러 (CAT.5E, CAT.6)",
+    "랜스타 옥외용 방수 키스톤잭 (CAT.5E, CAT.6)",
+    "CAT.5E 랜케이블 (OD 4~8mm)",
+    "CAT.6 랜케이블 (OD 4~8mm)",
+    "CAT.7 랜케이블 (OD 4~8mm)"
+  ],
+  "package_contents": [
+    "조립키트 본체",
+    "조임나사"
+  ],
+  "usage_instructions": "1. 연결하려는 케이블에 조임나사를 넣는다. 2. 조립키트 본체를 케이블에 넣는다. 3. 케이블 제작 후 키스톤잭/커플러와 조립키트 본체를 연결한다. 4. 조임나사로 작업을 마무리한다.",
+  "cautions": [
+    "옥외용 방수 벽부착형 플레이트(1/2/4포트)는 별도 구매 제품입니다.",
+    "옥외용 방수 키스톤잭/커플러(CAT.5E, CAT.6, USB3.0)는 별도 구매 제품입니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "사용 가능 케이블 외경은 최대 OD 4~8mm입니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-WPAK-5E6",
+      "품목코드": "NEO-자재용009",
+      "품목명": "[LANstar] 방수용 Assembly kit for outdoor cable, CAT.5E,6,7 OD 6mm/7mm/8mm [40598]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-WPAK-5E6",
+      "내용": "잘받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-WPAK-5E6",
+      "내용": "배송 빠르고 제품도 좋아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향"
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true
+    },
+    "family": {
+      "cat_category": [
+        "CAT5E",
+        "CAT6",
+        "CAT7"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "CAT.5E / CAT.6 / CAT.7 케이블 사용 가능",
+    "connectivity.output_signals": "CAT.5E / CAT.6 / CAT.7 케이블 사용 가능",
+    "connectivity.directional": "조립키트 본체를 케이블에 넣는다",
+    "form_physical.has_case": "옥외용 방수 조립키트",
+    "form_physical.material": "조립키트 본체를 케이블에 넣는다",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.cat_category": "CAT.5E / CAT.6 / CAT.7 케이블 사용 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:38",
+  "feature_schema_version": "1.0.0"
+}

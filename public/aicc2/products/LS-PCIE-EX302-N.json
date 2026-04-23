@@ -1,0 +1,137 @@
+{
+  "model_no": "LS-PCIE-EX302-N",
+  "product_name": "LANStar PCI-Express USB3.0 2PORT RISER CARD",
+  "category": [
+    "USB3.0",
+    "USB2.0"
+  ],
+  "key_features": [
+    "PCI-Express x1 Rev2.0 슬롯 사용으로 높은 호환성",
+    "USB3.0 2포트 확장 (최대 5Gbps 전송속도)",
+    "USB2.0 / USB1.1 하위 버전 호환",
+    "NEC720200F1 칩셋 사용으로 호환성과 데이터 전송 안정성 확보",
+    "IDE 4PIN 보조전원 연결을 통한 안정적 전원 공급",
+    "UASP(USB Attached SCSI Protocol) 지원",
+    "슬림 PC용 LP 브라켓 포함",
+    "Windows 11 지원",
+    "KC 인증 획득 제품 (인증번호: KCC-REI-LUS-LS-PCIE-EX302)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "x1/x4/x8/x16 PCI-Express 슬롯 호환"
+  ],
+  "specifications": {
+    "슬롯": "PCI-Express x1 Rev2.0",
+    "인터페이스": "USB3.0 2포트",
+    "칩셋": "NEC720200F1",
+    "전송속도": "5Gbps",
+    "USB 규격": "USB3.0 (USB2.0 / USB1.1 호환)",
+    "지원 OS": "Windows XP / Vista / Win 7 / Win 8 / Win 8.1 / Win 10 (32bit, 64bit) / Win 11",
+    "전원 공급": "IDE 4PIN 보조전원 커넥터",
+    "제품 크기": "120mm x 79mm x 48mm",
+    "제조국": "중국 (China)",
+    "KC 인증번호": "KCC-REI-LUS-LS-PCIE-EX302",
+    "제조사 / 수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "PCI-Express x1 슬롯 장착 데스크탑 메인보드",
+    "PCI-Express x4 슬롯 장착 데스크탑 메인보드",
+    "PCI-Express x8 슬롯 장착 데스크탑 메인보드",
+    "PCI-Express x16 슬롯 장착 데스크탑 메인보드",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8",
+    "Windows 8.1",
+    "Windows 10 (32bit, 64bit)",
+    "Windows 11",
+    "USB3.0 장치",
+    "USB2.0 장치",
+    "USB1.1 장치"
+  ],
+  "package_contents": [
+    "PCIe USB3.0 2포트 확장카드 본체 1개",
+    "슬림 PC LP 브라켓 1개",
+    "Manual 1개",
+    "CD Driver 1개"
+  ],
+  "usage_instructions": "데스크탑 메인보드의 PCI-Express 슬롯에 카드를 장착하고, PC 파워의 IDE 4PIN 보조전원 커넥터를 카드에 연결하여 안정적인 전원을 공급한다. 슬림 PC 사용 시 동봉된 LP 브라켓으로 교체 장착한다. 오래된 데스크탑이나 USB3.0 포트가 부족한 메인보드, 또는 USB 포트가 고장난 PC에서 USB3.0 포트를 확장하는 용도로 사용한다.",
+  "cautions": [
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없음",
+    "당일출고는 오후 4시 이전 결제완료 건에 한하며, 토·일·공휴일 제외 평일 기준",
+    "택배사 사정에 따라 배송기간이 길어질 수 있음",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-EX302-N",
+      "품목코드": "USB-PCI312",
+      "품목명": "[LANstar] USB3.0 2포트 PCI-Express 카드 [30729] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB3.0 2포트 확장",
+    "connectivity.port_count": "USB3.0 2포트 확장",
+    "power.power_mode": "IDE 4PIN 보조전원 연결을 통한 안정적 전원 공급",
+    "form_physical.has_case": "슬림 PC용 LP 브라켓 포함",
+    "certification.kc": "KC 인증 획득 제품",
+    "family.usb_version": "USB3.0",
+    "family.transfer_speed_gbps": "최대 5Gbps 전송속도",
+    "family.charging_only": "USB3.0 포트를 확장하는 용도로 사용한다.",
+    "family.data_only": "USB3.0 포트를 확장하는 용도로 사용한다."
+  },
+  "feature_extracted_at": "2026-04-23T03:17:16",
+  "feature_schema_version": "1.0.0"
+}

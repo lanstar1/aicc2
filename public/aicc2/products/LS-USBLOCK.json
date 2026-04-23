@@ -1,0 +1,266 @@
+{
+  "model_no": "LS-USBLOCK",
+  "product_name": "USB 2.0 LOCK 연장케이블",
+  "category": [
+    "USB케이블",
+    "USB2.0",
+    "익스텐더",
+    "커넥터",
+    "USB잠금장치"
+  ],
+  "key_features": [
+    "커넥터 부분에 잠금장치(Clip Lock)가 장착되어 케이블 연결부위가 외부 충격에도 빠지지 않음",
+    "클립형 Lock 장착으로 잡아당겨도 분리되지 않으며 연결부위를 견고하고 깔끔하게 처리",
+    "시중에 유통되는 모든 USB 케이블과 잠금장치 연결이 가능하여 호환성 우수",
+    "케이블에 자석코어(페라이트 코어) 장착으로 정전기 방지 및 안전한 통신 지원",
+    "Lock 기능(쇼트방지, 스파크방지)으로 USB 장비 및 PC 고장 원인 감소",
+    "실용신안 등록 제품 (등록번호 제20-0451880호, 고안명: USB디바이스용 고정클립)"
+  ],
+  "specifications": {
+    "USB 규격": "USB 2.0",
+    "커넥터 타입": "A/M - A/F",
+    "코어 수": "4Core",
+    "전송속도": "480Mbps",
+    "케이블 길이": "1.8m, 3m, 5m",
+    "실용신안 등록번호": "제20-0451880호",
+    "실용신안 출원번호": "제2008-0008408호",
+    "실용신안 등록일": "2011년 01월 11일"
+  },
+  "compatibility": [
+    "USB 2.0 규격을 사용하는 모든 USB 장비",
+    "컴퓨터(PC)",
+    "프린터",
+    "카메라",
+    "시중에 유통되는 모든 USB 케이블"
+  ],
+  "package_contents": [
+    "USB 2.0 LOCK 연장케이블 본체 (A/M-A/F)",
+    "잠금기능 클립 1개"
+  ],
+  "usage_instructions": "1. 연결하고자 하는 USB 케이블을 준비한 후 상호 연결한다. 2. 연결부위의 그림과 같은 위치에 클립을 먼저 결합한다. 3. 연장케이블 홈에 클립이 걸쳐지도록 한다. 4. 클립 뚜껑을 덮어 씌운다. 5. 클립에서 '딸칵' 소리가 날 때까지 눌러 확실하게 고정시킨다. 6. 클립이 확실히 고정되었는지 양쪽 케이블을 살짝 잡아당겨 확인한다.",
+  "cautions": [
+    "본 제품은 특허출원으로 무단복제를 금함",
+    "A/S 및 문의: 라인업시스템(주) www.lanstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USBLOCK-1.8M",
+      "품목코드": "CAB-U연장007",
+      "품목명": "[LANstar] USB 2.0 LOCK 연장케이블 AM-AF 1.8M [10337] (130개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USBLOCK-3M",
+      "품목코드": "CAB-U연장008",
+      "품목명": "[LANstar] USB 2.0 LOCK 연장케이블 AM-AF 3M [10338] (100개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USBLOCK-5M",
+      "품목코드": "CAB-U연장009",
+      "품목명": "[LANstar] USB 2.0 LOCK 연장케이블 AM-AF 5M [10339] (80개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USBLOCK-10M",
+      "품목코드": "CAB-U연장010",
+      "품목명": "[LANstar] USB 2.0 LOCK 연장케이블 AM-AF 10M [10340] (50개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USBLOCK-B",
+      "품목코드": "NEO-부트류151",
+      "품목명": "[LANstar] USB포트 잠금장치 전용 보안 커넥터(블루/10개)[20163]",
+      "variant_suffix": "",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USBLOCK-P",
+      "품목코드": "NEO-부트류150",
+      "품목명": "[LANstar] USB포트 잠금장치 전용 보안 커넥터(핑크/10개) [20162]",
+      "variant_suffix": "",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USBLOCK-R",
+      "품목코드": "NEO-부트류149",
+      "품목명": "[LANstar] USB포트 잠금장치 전용 보안 커넥터(레드/10개) [20161]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-USBLOCK-1.8M",
+      "내용": "이런 제품이 있었으면 했는데 존재했네요. 굿굿"
+    },
+    {
+      "source_model": "LS-USBLOCK-3M",
+      "내용": "배송빠르고 제품 좋아요!"
+    },
+    {
+      "source_model": "LS-USBLOCK-5M",
+      "내용": "배송빠르고 제품 좋아요!"
+    },
+    {
+      "source_model": "LS-USBLOCK-5M",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-USBLOCK-5M",
+      "내용": "임시조치로 해놓음."
+    },
+    {
+      "source_model": "LS-USBLOCK-5M",
+      "내용": "총알배송 배송이 빠르네요."
+    },
+    {
+      "source_model": "LS-USBLOCK-B",
+      "내용": "빠른 배송과 안전한 포장 만족합니다."
+    },
+    {
+      "source_model": "LS-USBLOCK-B",
+      "내용": "빠른 배송과 안전한 포장 만족합니다."
+    },
+    {
+      "source_model": "LS-USBLOCK-B",
+      "내용": "엄청 빠른 안전한 배송 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-USBLOCK-1",
+      "chatUrl": "bhkWS",
+      "dateIso": "2023-12-20T08:44:55.367Z",
+      "name": "김현빈",
+      "isTechnical": true,
+      "category": "other",
+      "modelConfidence": "high",
+      "question": "혹시 지금 샘플 좀 받으러 갈 수 있을까요?\n(추가 문의) Usblock 제품만 구매가 가능할가요?\n(추가 문의) 긴급히 문의 드릴게 있어서 연락드렸습니더\n(추가 문의) 혹시 영업소 번호 알려주실수 있나요?",
+      "answer": "서울영업소 방문하셔서 'LS-USBLOCK-1.8M' 현장 결제하셔서 샘플 확인 해주시면 되겠습니다.\n\n우선 샘플 확인을 해주신다고 하셨으니, 저 제품을 구매하시어 샘플 확인이 필요하실 듯 합니다. 추후 500개 구매건의 경우 usblock만 구매하실 수 있도록 안내 도와드리겠습니다\n\n그리고 해당 주문 500건의 경우, 당장 판매는 힘드실 수 있습니다. 저희도 제조사 측에 확인하여 입고 후 판매해야 합니다. 이 부분 현재 확인 중에 있습니다.",
+      "turn_count": 19,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n혹시 500개 구매 계획이 있으실까요?\n어제 방문하셔서 어떻게 처리 되셨을까요?"
+        },
+        {
+          "role": "customer",
+          "text": "혹시 영업소 번호 알려주실수 있나요?"
+        },
+        {
+          "role": "agent",
+          "text": "02-717-3386 전달 드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "출발했습니더"
+        },
+        {
+          "role": "agent",
+          "text": "고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하"
+        },
+        {
+          "role": "customer",
+          "text": "네 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "우선 샘플 확인을 해주신다고 하셨으니, 저 제품을 구매하시어 샘플 확인이 필요하실 듯 합니다.\n추후 500개 구매건의 경우 usblock만 구매하실 수 있도록 안내 도와드리겠습니다"
+        },
+        {
+          "role": "customer",
+          "text": "네 알겠습니더"
+        },
+        {
+          "role": "agent",
+          "text": "서울영업소 방문하셔서 'LS-USBLOCK-1.8M' 현장 결제하셔서 샘플 확인 해주시면 되겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "Usblock만 구매는 안되나요?"
+        },
+        {
+          "role": "agent",
+          "text": "평일 기준 오전 9시 ~ 오후 5시 이전까지 방문해주셔야 합니다. (점심시간 12~1시 제외)"
+        },
+        {
+          "role": "customer",
+          "text": "네 5시까지 방문하겠습니더"
+        },
+        {
+          "role": "agent",
+          "text": "그리고 해당 주문 500건의 경우, 당장 판매는 힘드실 수 있습니다.\n저희도 제조사 측에 확인하여 입고 후 판매해야 합니다. 이 부분 현재 확인 중에 있습니다."
+        },
+        {
+          "role": "customer",
+          "text": "네네"
+        },
+        {
+          "role": "agent",
+          "text": "서울 용산구 원효로71길 6 샌달우드 1층 라인업시스템"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_options_meters": [
+        1.8,
+        3,
+        5
+      ]
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "A/M - A/F",
+    "connectivity.output_signals": "A/M - A/F",
+    "connectivity.directional": "USB 2.0 LOCK 연장케이블",
+    "power.power_mode": "USB 2.0 LOCK 연장케이블",
+    "power.charging_support": "Lock 기능(쇼트방지, 스파크방지)으로 USB 장비 및 PC 고장 원인 감소",
+    "form_physical.has_case": "클립 뚜껑을 덮어 씌운다.",
+    "form_physical.material": "클립 뚜껑을 덮어 씌운다.",
+    "form_physical.length_options_meters": "케이블 길이: 1.8m, 3m, 5m",
+    "family.usb_version": "USB 규격: USB 2.0",
+    "family.transfer_speed_gbps": "전송속도: 480Mbps"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:12",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "other": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

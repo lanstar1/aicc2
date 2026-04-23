@@ -1,0 +1,353 @@
+{
+  "model_no": "LS-HMS204N",
+  "product_name": "LAN Star 4K HDMI Matrix 2x4 (LS-HMS204N)",
+  "category": [
+    "HDMI매트릭스",
+    "HDMI캡쳐보드"
+  ],
+  "key_features": [
+    "4K@60Hz (3840x2160) UHD 해상도 지원",
+    "HDMI 2.0 지원 (입력 2포트, 출력 4포트)",
+    "YUV 4:4:4 크로마 서브샘플링 지원",
+    "4K HDR Pass-Through 지원 (HDR10, HDR10+)",
+    "3D 영상 포맷 지원",
+    "HDCP 2.2 지원 (영상 저작권 보호)",
+    "IR 센서 및 리모콘 지원 (출력 포트별 입력소스 변경)",
+    "Plug&Play 지원 (별도 드라이버 설치 불필요)",
+    "Hot Swap 지원 (PC 전원 켜진 상태에서 연결/해제 가능)",
+    "N to N, N to ALL 출력 모드 지원",
+    "고품질 오디오 지원: DTS-HD / Dolby TrueHD / HD(HBR)",
+    "SPDIF 광출력 단자 및 AUDIO 단자 탑재",
+    "메탈 하우징 재질",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "KC, FCC, CE, RoHS 인증 획득",
+    "국립전파연구원 인증 획득 (인증번호: R-R-LUS-LS-HMS404)"
+  ],
+  "specifications": {
+    "입력단자": "HDMI 2포트",
+    "출력단자": "HDMI 4포트",
+    "해상도": "4K@60Hz UHD (3840x2160)",
+    "대역폭": "340MHz",
+    "입력전원": "DC 5V 1A",
+    "동작온도": "-15°C ~ 55°C",
+    "습도": "5% ~ 90%",
+    "재질": "메탈 하우징",
+    "무게": "약 250g",
+    "크기": "200mm x 70mm x 24mm",
+    "HDMI 버전": "HDMI 2.0",
+    "HDR 지원": "HDR10, HDR10+ (4K HDR Pass-Through)",
+    "크로마 서브샘플링": "YUV 4:4:4",
+    "3D 지원": "지원",
+    "HDCP": "HDCP 2.2",
+    "오디오 출력": "SPDIF 광출력 단자, AUDIO 단자",
+    "오디오 포맷": "DTS-HD, Dolby TrueHD, HD(HBR)",
+    "출력 모드": "N to N, N to ALL",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "R-R-LUS-LS-HMS404"
+  },
+  "compatibility": [
+    "HDMI 입력 기기: 콘솔(게임기), 노트북, 데스크탑 PC, 셋톱박스, DVD 플레이어",
+    "HDMI 출력 기기: TV, 모니터, 빔 프로젝터",
+    "HDMI 2.0 규격 기기",
+    "HDCP 2.2 지원 기기",
+    "HDR10 / HDR10+ 지원 기기 (소스 및 디스플레이 모두 지원 필요)",
+    "3D 디스플레이 기기",
+    "DTS-HD / Dolby TrueHD 지원 오디오 기기",
+    "블루레이 디스크 플레이어",
+    "온라인 스트리밍 서비스(넷플릭스 등) 지원 기기"
+  ],
+  "package_contents": [
+    "4K HDMI Matrix 2x4 본체 (LS-HMS204N) 1개",
+    "리모콘 1개",
+    "DC 5V 1A 어댑터 1개",
+    "배터리 (리모콘용) 1개"
+  ],
+  "usage_instructions": "1. HDMI 입력 포트(IN1, IN2)에 소스 기기(콘솔, 노트북, 데스크탑, 셋톱박스, DVD 플레이어 등)를 HDMI 케이블로 연결한다. 2. HDMI 출력 포트(OUT1~OUT4)에 디스플레이 기기(TV, 모니터, 빔 프로젝터 등)를 연결한다. 3. DC 5V 1A 어댑터를 연결하여 전원을 공급한다. 4. 본체 전면의 Key1~Key4 버튼 또는 리모콘을 이용하여 각 출력 포트별 입력소스(IN1 또는 IN2)를 선택한다. 5. N to N 또는 N to ALL 출력 모드를 선택하여 화면을 구성한다. 6. Plug&Play 방식으로 별도 드라이버 설치 없이 바로 사용 가능하며, Hot Swap을 지원하므로 PC 전원이 켜진 상태에서도 자유롭게 연결/해제 가능하다.",
+  "cautions": [
+    "HDR10+ 정상 사용을 위해서는 소스(Source) 기기와 출력 디스플레이 기기 모두 HDR10+를 지원해야 한다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있다.",
+    "LANSStar(라인업시스템(주)) 제작 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있다.",
+    "A/S 및 소비자 상담은 랜스타 A/S센터(www.LANstar.co.kr)를 통해 진행한다.",
+    "동작 습도 범위(5%~90%) 및 동작 온도 범위(-15°C~55°C)를 준수하여 사용해야 한다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HMS204N",
+      "품목코드": "INT-HDS163",
+      "품목명": "[LANstar] HDMI 매트릭스 2:4 , 4K 60Hz [30349](20개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HMS204N",
+      "내용": "최고로 좋아요 감사합니다, ..",
+      "관련내용": "좋아요 아주좋아요 아주좋아요"
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "내용": "좋아요 아주좋아요 아주좋아요"
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "내용": "잘 쓰고 있습니다....",
+      "관련내용": "잘 받았습니다...."
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "내용": "잘 받았습니다...."
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "내용": "아직까지 잘 사용하고 있어요."
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "내용": "매우만족합니다~~^^",
+      "관련내용": "매우만족합니다~^^"
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "내용": "매우만족합니다~^^"
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "내용": "매우만족합니다~~^^",
+      "관련내용": "매우만족합니다~~^^"
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "내용": "매우만족합니다~~^^"
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "내용": "매우만족합니다~^^",
+      "관련내용": "매우만족합니다~~^^"
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "내용": "매우만족합니다~~^^"
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "내용": "빠른배송 감사\n제품이야 믿고쓰는 랜스타"
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "내용": "박스는 사진처럼 찢어져서 왔어요 살짝. 그래도 상품엔 문제 없어서 씁니다. 리모컨 있고 INPUT 1,2 구분해서 보고 선택할 수 있는 건 좋아요"
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "내용": "모니터 두개로 내보내려고 샀는데 안되요 ㅠㅠ\n오히려 컴스꺼 더 저렴한건 나가던데 왜그런지 알수 업센요 ㅠㅠ"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HMS204N",
+      "id": 142012925,
+      "date": "2020-12-07 21:50",
+      "answerDate": "2020-12-17 11:29",
+      "user": "prai*****",
+      "productName": "랜스타 LS-HMS204N HDMI2.0 매트릭스 2:4 타입 4K UHD 60Hz 지원",
+      "question": "이 제품 다나와에선 hdr 지원된다고 써있는데, 상품 설명 란에는 없네요. 미지원 제품인건가요?\n\n+ 무상 as는 언제까지 지원하나요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n해당 제품은 1년 무상 as 가능합니다. \n\nHDR 지원 여부는 확인 후 안내 드리겠습니다."
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "id": 157886040,
+      "date": "2021-03-19 17:49",
+      "answerDate": "2021-03-22 10:23",
+      "user": "saym***",
+      "productName": "랜스타 LS-HMS204N HDMI2.0 매트릭스 2:4 타입 4K UHD 60Hz 지원",
+      "question": "유튜브보고 문의드려요\n이제품 구매하려고 하는데\n\n아웃단자를 통해 신호를 내보낼떼 거리가 20미터 같이 멀 경우는\n그냥 hdmi로는 신호가 안나가지요?\n\n그럼 광케이블달린 hdmi를 사용하면 상관 없나요?>",
+      "answer": "안녕하세요 랜스타 입니다\n\n케이블 에 따라서 20M 전송이 가능합니다만\n\n해당 정도의 거리라면 광케이블이나 리피터케이블 사용 하시면 됩니다"
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "id": 219430000,
+      "date": "2022-05-11 22:10",
+      "answerDate": "2022-05-12 11:06",
+      "user": "vill****",
+      "productName": "랜스타 LS-HMS204N HDMI2.0 매트릭스 2:4 타입 4K UHD 60Hz 지원",
+      "question": "매트릭스를 이용하여\nOut1 프로젝터\nOut2 65인치 tv\nOut3 20인치 모니터\n이렇게 연결했는데..\n\n프로젝터와 tv는 화면이 나오는데\n20인치 모니터에는 신호없음이라고 뜹니다.\n해상도 문제인건가요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n분배 기능을 사용할때 출력이 되는 디스플레이 장비 측 해상도가 서로 다를 경우 가장 낮은 해상도 기준으로 맞춰야만\n\n동시 출력이 가능합니다."
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "id": 508134189,
+      "date": "2022-12-19 19:04",
+      "answerDate": "2022-12-20 09:39",
+      "user": "gms1*****",
+      "productName": "랜스타 LS-HMS204N HDMI2.0 매트릭스 2:4 타입 4K UHD 60Hz 지원",
+      "question": "안녕하세요.\n간혹 제품 사용 유무와 상관없이 상품 개봉하면 환불 불가하다는 연락을 받은 적이 있어서 연락을 드립니다.\n혹시 위와 같은 특별한 환불 불가 사유가 있을까요?",
+      "answer": "안녕하세요 랜스타입니다.\n\n단순 개봉 시에는 배송비 부담하시어 반품 처리 가능하지만, 제품에 스크래치, 찌그러짐 등 상품 손상이 있을 경우 반품이 불가할 수 있는 점 참고 부탁드리겠습니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "id": 515909391,
+      "date": "2023-02-11 18:28",
+      "answerDate": "2023-02-13 09:33",
+      "user": "good******",
+      "productName": "랜스타 LS-HMS204N HDMI 2:4 매트릭스 분배기",
+      "question": "화면 확장은 불가하고 복제만 되는건가요?",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n해당 제품은 간접적으로 모니터 최대 두대까지 모니터 확장이 가능하지만,(IN1,2에 PC 1대 연결) 사용 용도에는 맞지 않을 수 있다는 점 안내 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "id": 516131671,
+      "date": "2023-02-13 13:11",
+      "answerDate": "2023-02-13 15:34",
+      "user": "good******",
+      "productName": "랜스타 LS-HMS204N HDMI 2:4 매트릭스 분배기",
+      "question": "입력을 한개또는 두개 사용하는지는 제품설명 보고 알고 있습니다.\n다만, 출력할 때 복제하는 것이 아니라 각 출력마다 확장 형태로 가능한지 궁금한건데 잘 모르시는건가요..? 구입해조고 확장이 안됐을 때 환불 가능한가요?",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n본 제품은 매트릭스 분배기로, 각 출력마다 확장은 불가능한 점 안내 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HMS204N",
+      "id": 644738314,
+      "date": "2025-09-26 10:08",
+      "answerDate": "2025-09-26 11:20",
+      "user": "da****",
+      "productName": "랜스타 LS-HMS204N HDMI 2:4 매트릭스 분배기",
+      "question": "혹시 어댑터만 따로 구매할 수 있을까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인 후 톡톡 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HMS204N",
+      "chatUrl": "2o4D9",
+      "dateIso": "2023-08-29T00:33:01.609Z",
+      "name": "바람한점",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "안녕하세요. 선택기 문의드려봅니다\npc,ps5콘솔 기기에 모니터 하나를 같이 사용하려고 선택기를 보고있습니다\n\n현재 스피커를 모니터에 연결해서 사용하다보니 음질이 좋지 않아서 그러는데 선택기 중에 추가로 스피커도 연결가능한 제품은 없나요? 스피커는 3.5단자 연결단자입니다.",
+      "answer": "https://smartstore.naver.com/lineup/products/9020242049 아래 링크 전달 드리오니, 상세페이지 내 유튜브 영상을 참고해주시면 감사하겠습니다. 아래 문의 주신 내용 답변 드립니다. 확인 부탁드립니다. 1) 현재 선택기 중에서는 오디오를 출력할 수 있는 제품은 시중에 판매되고 있",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "안녕하세요. 선택기 문의드려봅니다\npc,ps5콘솔 기기에 모니터 하나를 같이 사용하려고 선택기를 보고있습니다\n\n현재 스피커를 모니터에 연결해서 사용하다보니 음질이 좋지 않아서 그러는데 선택기 중에 추가로 스피커도 연결가능한 제품은 없나요? 스피커는 3.5단자 연결단자입니다."
+        },
+        {
+          "role": "agent",
+          "text": "https://smartstore.naver.com/lineup/products/9020242049 아래 링크 전달 드리오니, 상세페이지 내 유튜브 영상을 참고해주시면 감사하겠습니다. 안녕하세요. 고객님. 랜스타입니다.\n\n아래 문의 주신 내용 답변 드립니다.\n확인 부탁드립니다.\n\n1) 현재 선택기 중에서는 오디오를 출력할 수 있는 제품은 시중에 판매되고 있"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요. 선택기 문의드려봅니다\npc,ps5콘솔 기기에 모니터 하나를 같이 사용하려고 선택기를 보고있습니다\n\n현재 스피커를 모니터에 연결해서 사용하다보니 음질이 좋지 않아서 그러는데 선택기 중에 추가로 스피커도 연결가능한 제품은 없나요? 스피커는 3.5단자 연결단자입니다."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI",
+        "Optical",
+        "3.5mm"
+      ],
+      "directional": "양방향",
+      "port_count": 6
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": true,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "input_count": 2,
+      "output_count": 4,
+      "mode": [
+        "매트릭스"
+      ],
+      "cascade_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 2.0 지원 (입력 2포트",
+    "connectivity.output_signals": "HDMI 4포트), SPDIF 광출력 단자 및 AUDIO 단자 탑재",
+    "connectivity.directional": "HDMI Matrix 2x4",
+    "connectivity.port_count": "입력 2포트, 출력 4포트",
+    "power.power_mode": "DC 5V 1A 어댑터를 연결하여 전원을 공급한다",
+    "power.charging_support": null,
+    "power.pd_watts": null,
+    "form_physical.has_case": "메탈 하우징 재질",
+    "form_physical.material": "메탈 하우징 재질",
+    "form_physical.length_meters": null,
+    "form_physical.length_options_meters": null,
+    "form_physical.color_options": null,
+    "certification.kc": "KC, FCC, CE, RoHS 인증 획득",
+    "certification.rohs": "KC, FCC, CE, RoHS 인증 획득",
+    "certification.iso9001": null,
+    "certification.fcc": "KC, FCC, CE, RoHS 인증 획득",
+    "certification.ce": "KC, FCC, CE, RoHS 인증 획득",
+    "certification.netflix": null,
+    "audio_video.max_resolution": "4K@60Hz (3840x2160) UHD 해상도 지원",
+    "audio_video.hdr_support": "4K HDR Pass-Through 지원 (HDR10, HDR10+)",
+    "audio_video.hdcp_version": "HDCP 2.2 지원 (영상 저작권 보호)",
+    "audio_video.audio_pass": "고품질 오디오 지원: DTS-HD / Dolby TrueHD / HD(HBR)",
+    "control_switching.has_remote": "IR 센서 및 리모콘 지원",
+    "control_switching.has_hotkey": null,
+    "control_switching.has_physical_button": "본체 전면의 Key1~Key4 버튼",
+    "control_switching.has_mouse_switching": null,
+    "control_switching.has_auto_scan": null,
+    "control_switching.has_app_control": null,
+    "family.input_count": "입력 2포트",
+    "family.output_count": "출력 4포트",
+    "family.mode": "HDMI Matrix 2x4",
+    "family.cascade_support": null
+  },
+  "feature_extracted_at": "2026-04-23T03:14:41",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

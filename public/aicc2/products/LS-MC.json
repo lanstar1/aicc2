@@ -1,0 +1,112 @@
+{
+  "model_no": "LS-MC",
+  "product_name": "랜스타 매직 케이블 (LANSTAR MAGIC CABLE)",
+  "category": [
+    "케이블정리"
+  ],
+  "key_features": [
+    "직경 25mm 나선형 튜브 구조로 여러 케이블을 한 번에 정리 및 보호",
+    "블랙/화이트 2가지 색상, 1.5m/3m/5m 3가지 길이 선택 가능",
+    "원하는 케이블을 중간 중간 뽑아서 자유롭게 사용 가능",
+    "사용 환경에 따라 컷팅하여 사용 가능",
+    "반려동물의 케이블 물어뜯기 방지",
+    "케이블 정리를 통해 멀티탭 이물질·먼지 청소 용이 및 화재 예방 효과",
+    "가정, 학교, 병원, 사무실 등 다양한 환경에서 사용 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "직경": "25mm",
+    "색상": "Black, White",
+    "길이": "1.5M, 3M, 5M",
+    "모델명_블랙_1.5M": "LS-MC15B",
+    "모델명_블랙_3M": "LS-MC30B",
+    "모델명_블랙_5M": "LS-MC50B",
+    "모델명_화이트_1.5M": "LS-MC15W",
+    "모델명_화이트_3M": "LS-MC30W",
+    "모델명_화이트_5M": "LS-MC50W",
+    "상품번호_LS-MC15B": "30484",
+    "상품번호_LS-MC30B": "30485",
+    "상품번호_LS-MC50B": "30486",
+    "상품번호_LS-MC15W": "30487",
+    "상품번호_LS-MC30W": "30488",
+    "상품번호_LS-MC50W": "30489",
+    "KC인증번호": "해당없음",
+    "제조국": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "직경 25mm 이하의 단일 또는 다수 케이블 묶음"
+  ],
+  "package_contents": [
+    "매직 케이블 (나선형 튜브) 1개",
+    "집게형 가이드 1개"
+  ],
+  "usage_instructions": "1. 집게형 가이드와 정리할 케이블을 준비한다. 2. 집게형 가이드에 정리할 케이블을 모아 집어넣는다. 3. 매직 케이블 아래쪽을 잡은 후 집게형 가이드를 밑으로 내려준다. 4. 매직 케이블에 연결된 케이블을 사용처에 따라 연결하여 사용한다. 필요 시 적당한 길이로 컷팅하여 사용 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "본 제품 이미지 및 콘텐츠를 제조사 동의 없이 무단 복제·이용 시 불이익을 당할 수 있음"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1.5,
+        3.0,
+        5.0
+      ],
+      "color_options": [
+        "Black",
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "나선형 튜브 구조로 여러 케이블을",
+    "form_physical.length_options_meters": "1.5m/3m/5m 3가지 길이 선택 가능",
+    "form_physical.color_options": "블랙/화이트 2가지 색상",
+    "certification.kc": "KC인증번호: 해당없음"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:29",
+  "feature_schema_version": "1.0.0"
+}

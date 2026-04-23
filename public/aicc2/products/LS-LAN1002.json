@@ -1,0 +1,256 @@
+{
+  "model_no": "LS-LAN1002",
+  "product_name": "LANStar 인터넷 1:2 랜 분배기 (Ethernet 1:2 Splitter)",
+  "category": [
+    "HDMI분배기"
+  ],
+  "key_features": [
+    "하나의 랜 포트를 2개로 나눠 동시 사용 가능 (1:2 분배)",
+    "최대 1Gbps(1000Mbps)까지 안정적 데이터 전송",
+    "LED 인디케이터로 연결 및 작동 상태 실시간 확인",
+    "최대 100M 거리까지 신호 손실 없이 전송 가능",
+    "알루미늄 합금 하우징 (발열 방지, 내구성 강화, 컴팩트한 디자인)",
+    "Plug & Play 지원 (별도 소프트웨어 설치 불필요)",
+    "DC 5V USB 전원 연결 필수 (USB A to C 케이블)",
+    "KC 인증 획득 (인증번호: R-R-LUS-LS-LAN1002)",
+    "국립전파연구원 인증 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "INPUT": "RJ45 1포트, DC 전원포트",
+    "OUTPUT": "RJ45 2포트",
+    "전송 속도": "1Gbps (1000Mbps)",
+    "최대 전송 거리": "100M",
+    "이더넷 규격": "CAT.5E, CAT.6, CAT.7, CAT.8 모두 호환",
+    "전원": "DC 5V 1A, USB 전원 케이블 (USB A to C)",
+    "크기": "53 x 56 x 21 (mm)",
+    "무게": "약 53g",
+    "재질": "알루미늄",
+    "제조국": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)",
+    "KC 인증번호": "R-R-LUS-LS-LAN1002"
+  },
+  "compatibility": [
+    "공유기",
+    "스위칭허브 (분배기 앞단에 연결 시에만 사용 가능)",
+    "PC (데스크탑)",
+    "노트북",
+    "스마트 TV",
+    "셋탑박스",
+    "스마트 기기",
+    "CAT.5E 랜케이블",
+    "CAT.6 랜케이블",
+    "CAT.7 랜케이블",
+    "CAT.8 랜케이블",
+    "USB3.0 포트 (PC, 노트북의 USB3.0 포트를 통해 전원 공급 가능)"
+  ],
+  "package_contents": [
+    "인터넷 1:2 랜 분배기 본체 (LS-LAN1002)",
+    "USB 전원 케이블 (USB A to C)"
+  ],
+  "usage_instructions": "1) 벽면 랜 포트 또는 공유기의 RJ45 포트에 분배기의 Input 포트를 연결한다. 2) 분배기의 Output RJ45 포트 2개에 사용할 기기(PC, 노트북, 스마트 TV 등)를 각각 연결한다. 3) 동봉된 USB A to C 전원 케이블을 DC 5V 전원 아답터 또는 PC·노트북의 USB3.0 포트에 연결하여 분배기에 전원을 공급한다. 4) LED 인디케이터로 정상 연결 및 작동 상태를 확인한다. 별도의 드라이버 설치 없이 바로 사용 가능(Plug & Play).",
+  "cautions": [
+    "전원(DC 5V) 연결이 필수이며, 전원 미연결 시 제품이 정상 작동하지 않는다.",
+    "분배기는 최대 2대 기기까지만 안정적으로 사용 가능하며, 3대 이상 연결 시 네트워크 오류가 발생한다.",
+    "분배기 뒤에 스위칭허브를 연결하면 IP 충돌로 인해 정상 사용이 불가하다. (불가 구성: 공유기 → 분배기 → 스위칭허브 → 기기)",
+    "스위칭허브 사용 가능 구성: ① 공유기 → 스위칭허브 → 기기, ② 공유기 → 스위칭허브 → 분배기 → 기기(최대 2대)",
+    "분배기는 IP 할당 기능이 없으므로 스위칭허브 역할을 할 수 없다.",
+    "2대 기기가 동시에 고속 데이터를 사용할 경우 속도 저하가 있을 수 있다.",
+    "네트워크 프린터 연결 시 IP 충돌이 발생할 수 있으므로 권장하지 않는다.",
+    "최대 전송 거리는 100M이나, 환경적 요인과 케이블 품질에 영향을 받으므로 100M 미만 거리에서 사용을 권장한다.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-LAN1002",
+      "품목코드": "NET-스8포103",
+      "품목명": "[Lanstar] 인터넷 랜 1:2 분배기 동시사용, 1Gbps [30932] [100개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "인터넷 속도 좋아진거 같아요~ 그냥 좋아진 느낌 입니다 \n컴이 두대 인데 ..인터넷 선은  한개라 뺏다 꼈다 안해서 좋습니다!",
+      "관련내용": "좋아요 잘 됩니다 ~^^"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "깰끔하고 빠른 배송 굿"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "빠른 배송 좋습니다"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "간편하고 단순한 구조로 누구나 손쉽게 사용할 수 있는 제품이다. 성능 또한 우수하다. 대 만 족!"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "빠른배송 감사합니아"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "공유기에서 1개 회선으로 2개 동시접속 잘되네요~~"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "좋아요 잘 됩니다 ~^^"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "좋아요 잘 쓰고있어요"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "한달동안 이상없이 잘쓰고 있습니다.",
+      "관련내용": "굿굿굿  좋아요 좋아요 굿굿"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "굿굿굿  좋아요 좋아요 굿굿"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "필요해서삿는데 좋아요"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "잘받았습니다! 처음에 인터넷이 안되어서 무슨문제지 했더만..2.0usb포트에 꽂아서 였던거 같습니다 ㅎㅎ.. 어답터 이용해서 전원 연결하니 아주잘되네요!"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "배송 ☆☆☆☆☆\n 포장상태☆☆☆☆☆\n물건  상태 ☆☆☆☆☆\n가격 ☆☆☆☆☆",
+      "관련내용": "배송 ☆☆☆☆☆\n포장장태   ☆☆☆☆☆\n가격 ☆☆☆☆☆"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "배송 ☆☆☆☆☆\n포장장태   ☆☆☆☆☆\n가격 ☆☆☆☆☆"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "좋아여 잘쓰겠습니다다다"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "요즘 조립 컴퓨터 성능이 무지막지\n\n무선랜카드장착이라 필요없게됐음 ㅋ"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "잘 쓰고있고 속도도 잘 나오는데 팬돌아가는 소리가 좀 납니다",
+      "관련내용": "안정적으로 잘 됩니다 잘 쓸게요"
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "내용": "안정적으로 잘 됩니다 잘 쓸게요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-LAN1002",
+      "id": 643812445,
+      "date": "2025-09-19 14:14",
+      "answerDate": "2025-09-19 17:10",
+      "user": "juni****",
+      "productName": "인터넷 분배기 1:2 랜 회선 분배 1Gbps 지원(LS-LAN1002)",
+      "question": "궁금한게 전원어답터는 usb A타입 저속 충전기로 써도 되는건가요? 아니면 전용 구성품이 따로 있는지?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n저속 충전기의 출력 사양이 5v 1a 이상이라면 사용 가능하십니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-LAN1002",
+      "id": 652721271,
+      "date": "2025-11-26 21:35",
+      "answerDate": "2025-11-27 10:35",
+      "user": "ta****",
+      "productName": "인터넷 분배기 1:2 랜 회선 분배 1Gbps 지원(LS-LAN1002)",
+      "question": "벽에서나온 랜포트에 연결해서 분배했는데, 연결한 두 기기다 인터넷연결이 되지않습니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인 후 톡톡 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45",
+        "USB-C"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "일방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "input_count": 1,
+      "output_count": 2,
+      "mode": [
+        "분배"
+      ],
+      "cascade_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 1포트, DC 전원포트",
+    "connectivity.output_signals": "RJ45 2포트",
+    "connectivity.directional": "하나의 랜 포트를 2개로 나눠 동시 사용 가능 (1:2 분배)",
+    "connectivity.port_count": "RJ45 1포트, DC 전원포트, RJ45 2포트",
+    "power.power_mode": "DC 5V USB 전원 연결 필수",
+    "form_physical.has_case": "알루미늄 합금 하우징",
+    "form_physical.material": "알루미늄 합금 하우징",
+    "certification.kc": "KC 인증 획득",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.input_count": "하나의 랜 포트를 2개로 나눠",
+    "family.output_count": "2개로 나눠",
+    "family.mode": "1:2 랜 분배기",
+    "family.cascade_support": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:59",
+  "feature_schema_version": "1.0.0"
+}

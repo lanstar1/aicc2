@@ -1,0 +1,114 @@
+{
+  "model_no": "LS-MS12",
+  "product_name": "고급형 모니터 수동 선택기 (1:2) Manual Switch",
+  "category": [
+    "VGA"
+  ],
+  "key_features": [
+    "수동(Manual) 선택기 방식으로 별도의 회로나 DATA 처리 기능 없이 VGA 신호를 통과(By Pass)하는 방식",
+    "양방향 통신 및 역방향 연결 사용 가능",
+    "One-touch 기능으로 동작",
+    "UP-DOWN 방식의 고품질 스위치 사용으로 편리한 조작",
+    "호환성이 뛰어나며 전환 및 선택이 간편하고 반응속도가 빠름",
+    "사용 중 특성을 타거나 장애 없음",
+    "선택된 포트만 출력되며 2개 단자 동시 출력 불가",
+    "전시장, 컴퓨터 및 모니터 판매점, 상황실, 회의실 등 다양한 용도로 사용 가능"
+  ],
+  "specifications": {
+    "모델명": "LS-MS12-NEW",
+    "크기": "약 11.5 × 7.5 × 2.9 cm (최대변 기준)",
+    "선택 방식": "수동(Manual) 선택, 1:2",
+    "INPUT/OUTPUT 단자": "15pin Female",
+    "A단자": "15pin Female",
+    "B단자": "15pin Female",
+    "신호 방식": "VGA By Pass (회로 및 DATA 처리 없음)"
+  },
+  "compatibility": [
+    "VGA(15pin) 신호 지원 PC 본체",
+    "VGA(15pin) 입력 지원 모니터"
+  ],
+  "package_contents": [],
+  "usage_instructions": "1. 한 대의 모니터에서 PC 본체를 선택하여 사용: 여러 대의 PC 본체를 LS-MS12의 A, B 단자에 연결하고 모니터를 INPUT/OUTPUT 단자에 연결한 후 A 또는 B 중 원하는 포트를 선택하여 해당 PC의 영상을 모니터에 출력. 2. 한 대의 PC 본체에서 모니터를 선택하여 사용: PC 본체를 INPUT/OUTPUT 단자에 연결하고 여러 대의 모니터를 A, B 단자에 연결한 후 원하는 모니터 포트를 선택하여 출력.",
+  "cautions": [
+    "노이즈 및 화질 저하를 줄이기 위해 쉴드(Shield) 처리된 RGB 모니터 케이블 사용 권장",
+    "2개 단자에서 동시에 출력되는 것이 아닌 선택된 포트만 출력됨",
+    "수동 선택기 방식으로 별도의 회로나 DATA 처리 기능이 없음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MS12",
+      "품목코드": "USB-선택기006",
+      "품목명": "[LANstar] 수동모니터선택기 2：1 (40개)[30076]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "양방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "VGA 신호를 통과",
+    "connectivity.output_signals": "VGA 신호를 통과",
+    "connectivity.directional": "양방향 통신 및 역방향 연결 사용 가능",
+    "connectivity.port_count": "INPUT/OUTPUT 단자: 15pin Female",
+    "power.power_mode": "별도의 회로나 DATA 처리 기능 없이",
+    "power.charging_support": "별도의 회로나 DATA 처리 기능 없이",
+    "audio_video.max_resolution": "VGA 신호를 통과",
+    "audio_video.hdr_support": "VGA 신호를 통과",
+    "audio_video.hdcp_version": "VGA 신호를 통과",
+    "audio_video.audio_pass": "VGA 신호를 통과",
+    "control_switching.has_physical_button": "UP-DOWN 방식의 고품질 스위치 사용"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:43",
+  "feature_schema_version": "1.0.0"
+}

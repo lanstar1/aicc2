@@ -1,0 +1,214 @@
+{
+  "model_no": "LSP-6IC-UKW",
+  "product_name": "LANstar plus CAT.6 UTP 키스톤형 커플러",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "커넥터",
+    "키스톤잭",
+    "커플러"
+  ],
+  "key_features": [
+    "CAT.6 UTP 전용 커플러",
+    "RJ45/Female-RJ45/Female 1:1 형 연결 (8P8C, F/F, I형)",
+    "최대 1Gbps 전송 속도 지원 (1000BASE-TX, 250MHz)",
+    "50μ 금도금 커넥터로 신호 손실 최소화",
+    "568A(Cross) / 568B(Direct) 두 가지 배열 모두 연결 가능",
+    "랜 케이블 길이가 짧거나 추가 연장이 필요할 때 사용",
+    "키스톤형으로 벽 부착형 플레이트(마운트 패널) 장착 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "모델명": "LSP-6IC-UKW",
+    "제품명": "CAT.6 UTP 키스톤형 커플러",
+    "커넥터 타입": "RJ45, 8P8C, F/F, I형",
+    "케이블 규격": "CAT.6 UTP",
+    "전송 속도": "1Gbps (1000BASE-TX)",
+    "대역폭": "250MHz",
+    "커넥터 도금": "50μ 금도금",
+    "연결 방식": "1:1",
+    "핀 배열 지원": "568A(Cross), 568B(Direct)",
+    "제품 크기": "29.6mm x 16.2mm x 14.6mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "A/S 문의": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "CAT.6 UTP 랜 케이블",
+    "RJ45 (8P8C) 커넥터",
+    "벽 부착형 플레이트 (마운트 패널) 키스톤 슬롯",
+    "표준랙 마운트 패널 키스톤잭 슬롯",
+    "568A 크로스 케이블 배열",
+    "568B 다이렉트 케이블 배열"
+  ],
+  "package_contents": [
+    "CAT.6 UTP 키스톤형 커플러 (LSP-6IC-UKW) 1개"
+  ],
+  "usage_instructions": "랜 케이블 길이가 짧거나 추가 연장이 필요한 경우, 두 RJ45 케이블을 커플러 양쪽에 꽂아 1:1로 연결합니다. 키스톤형 타입이므로 벽 부착형 플레이트(마운트 패널) 또는 표준랙 마운트 패널의 키스톤잭 슬롯에 장착하여 사용할 수 있습니다. 공공기관·대기업 데이터센터·전산실·서버실에서 기존 패치패널 대신 마운트 패널에 본 커플러를 연결한 뒤 Fluke Test를 통과한 패치코드 케이블을 연결하면 시간과 비용을 절약하며 기가비트 네트워크 케이블로 교체가 가능합니다.",
+  "cautions": [
+    "본 제품은 CAT.6 UTP 전용 커플러이므로 다른 규격 케이블 사용 시 성능이 보장되지 않을 수 있습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-6IC-UKW",
+      "품목코드": "NEO-키스톤098",
+      "품목명": "[◆Lanstar-Plus] Cat.6 UTP 키스톤형 커플러 [20295] (500개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-6IC-UKW",
+      "내용": "믿고 씁니다. LS!"
+    },
+    {
+      "source_model": "LSP-6IC-UKW",
+      "내용": "배송이 빠르고 락킹이 잘되요"
+    },
+    {
+      "source_model": "LSP-6IC-UKW",
+      "내용": "좋은 상품 감사합니다"
+    },
+    {
+      "source_model": "LSP-6IC-UKW",
+      "내용": "속도가 안나와서 커플러를 바꿨는데\n똑같네요, 아무래도 제가 잘못 찝은것같네요 ㅠㅠ"
+    },
+    {
+      "source_model": "LSP-6IC-UKW",
+      "내용": "테스트는 잘해보았음 . 만족 스러움.......\n\n참고 이곳 홈네트워크차 케이블을 포설하였는데 마지막에 짧음. 커플러 사용해서 자되겠지"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LSP-6IC-UKW",
+      "chatUrl": "4oxVL",
+      "dateIso": "2025-07-03T02:30:14.485Z",
+      "name": "서재정",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "상품 오늘 도착했는데 90개 주문했는데 89개 도착하였습니다.\n(추가 문의) lsp-6ic-ukw 제품이 도착했는데요? 다른제품 아닌가요?\n(추가 문의) 내일 도착하면 오배송건은 반품하겠습니다.",
+      "answer": "원활한 수령에 불편을 드려 죄송합니다. 금일 누락된 1건 발송 도와드리겠습니다.\n\n주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!",
+      "turn_count": 4,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "빠른 대처 감사합니다."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n원활한 수령에 불편을 드려 죄송합니다.\n금일 누락된 1건 발송 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리..."
+        },
+        {
+          "role": "customer",
+          "text": "상품 오늘 도착했는데 90개 주문했는데 89개 도착하였습니다."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "내일 도착하면 오배송건은 반품하겠습니다."
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        },
+        {
+          "role": "customer",
+          "text": "lsp-6ic-ukw 제품이 도착했는데요? 다른제품 아닌가요?"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45/Female-RJ45/Female",
+    "connectivity.output_signals": "RJ45/Female-RJ45/Female",
+    "connectivity.directional": "1:1 형 연결",
+    "connectivity.port_count": "두 RJ45 케이블을 커플러 양쪽에 꽂아",
+    "power.power_mode": "무전원",
+    "power.charging_support": "false",
+    "form_physical.has_case": "키스톤형 커플러",
+    "form_physical.material": "50μ 금도금 커넥터",
+    "family.cat_category": "CAT.6 UTP 전용 커플러",
+    "family.shielding": "CAT.6 UTP",
+    "family.poe_support": "false"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:25",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

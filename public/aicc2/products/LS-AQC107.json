@@ -1,0 +1,145 @@
+{
+  "model_no": "LS-AQC107",
+  "product_name": "LANStar PCI-EXPRESS RJ45 1PORT 10G LANCARD (LS-AQC107)",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "Marvell Aquantia AQC107 칩셋 탑재",
+    "PCI-Express x4 Rev3.0 슬롯 지원 (x4/x8/x16 슬롯 호환)",
+    "최대 10Gbps 전송속도 지원 (10GBASE-T/IEEE802.3an)",
+    "다중 전송속도 지원: 10Gb/s, 5Gb/s, 2.5Gb/s, 1Gb/s, 100Mb/s",
+    "CAT.7 이상 케이블 사용 시 최대 10Gbps 데이터 전송 가능",
+    "효과적인 열 분산을 위한 대형 방열판 탑재",
+    "슬림 PC용 LP(Low Profile) 브라켓 패키지 포함",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-AQC107)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "소재·부품·장비 전문기업확인서 취득 (2022.11.29, 한국산업기술평가관리원)",
+    "Windows 11 지원"
+  ],
+  "specifications": {
+    "슬롯": "PCI-Express x4 Rev3.0",
+    "인터페이스": "RJ45 x1",
+    "칩셋": "Marvell AQC107",
+    "토폴로지": "10GBASE-T / IEEE802.3an Standard",
+    "전송속도": "10Gb/s, 5Gb/s, 2.5Gb/s, 1Gb/s, 100Mb/s",
+    "지원 OS": "Win7 / Win8 / Win8.1 / Win10 / Win11 / Win-server 2008 / Win-server 2012 / Win-server 2016",
+    "제품 크기": "55mm x 120mm x 133mm",
+    "제조국": "중국 (China)",
+    "KC 인증번호": "R-R-LUS-LS-AQC107",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "PCI-Express x4 슬롯",
+    "PCI-Express x8 슬롯",
+    "PCI-Express x16 슬롯",
+    "PCI-Express Rev3.0",
+    "10GBASE-T / IEEE802.3an 표준",
+    "CAT.7 이상 랜케이블",
+    "10Gbps 지원 스위칭허브",
+    "10Gbps 지원 공유기",
+    "Windows 7",
+    "Windows 8 / 8.1",
+    "Windows 10",
+    "Windows 11",
+    "Windows Server 2008",
+    "Windows Server 2012",
+    "Windows Server 2016"
+  ],
+  "package_contents": [
+    "PCIe 싱글 RJ45 랜카드 (LS-AQC107) x1",
+    "슬림 PC LP 브라켓 x1",
+    "CD Driver x1"
+  ],
+  "usage_instructions": "PCI-Express x4/x8/x16 슬롯에 카드를 장착한 후 CD Driver 또는 별도 드라이버를 설치하여 사용. 최대 10Gbps 속도 이용 시 CAT.7 이상 케이블, 10Gbps 지원 스위칭허브 및 공유기를 함께 사용해야 정상적인 속도 구현 가능. 슬림 PC 사용 시 동봉된 LP 브라켓으로 교체하여 장착.",
+  "cautions": [
+    "최대 10Gbps 속도를 사용하려면 랜케이블, 스위칭허브, 공유기 등 연결된 모든 장비가 10Gbps를 지원해야 합니다.",
+    "CAT.7 이상의 케이블을 사용해야 최대 전송속도를 보장받을 수 있습니다.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없습니다.",
+    "당일출고는 오후 4시 이전 결제완료 건에 한하며, 토·일·공휴일은 제외됩니다.",
+    "택배사 사정에 따라 배송기간이 길어질 수 있습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-AQC107",
+      "품목코드": "RJ45-PC001",
+      "품목명": "[LANstar] 10GbE PCIe 랜카드 Marvell AQC107 [30734] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "인터페이스: RJ45 x1",
+    "connectivity.output_signals": "인터페이스: RJ45 x1",
+    "connectivity.directional": "최대 10Gbps 전송속도 지원",
+    "connectivity.port_count": "RJ45 1PORT",
+    "power.power_mode": "PCI-Express x4 Rev3.0 슬롯 지원",
+    "power.charging_support": "false",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "family.cat_category": "CAT.7 이상 케이블 사용 시",
+    "family.poe_support": "false"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:16",
+  "feature_schema_version": "1.0.0"
+}

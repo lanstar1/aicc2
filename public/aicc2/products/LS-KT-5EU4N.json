@@ -1,0 +1,137 @@
+{
+  "model_no": "LS-KT-5EU4N",
+  "product_name": "CAT.5E UTP Tooless 키스톤잭 신형",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP",
+    "키스톤잭",
+    "멀티탭",
+    "아웃렛박스",
+    "LAN공구"
+  ],
+  "key_features": [
+    "10/100Mbps 전송속도 지원",
+    "별도의 압축 Tool 없이 케이블 선 장착 가능 (Tooless)",
+    "1개의 모듈에서 568A(Cross)와 568B(Direct) 배열 모두 지원",
+    "케이블 선을 보호하는 일체형 덮개 적용 신형 모듈",
+    "벽부착형 Plate Outlet 공박스에 장착하여 사용 가능",
+    "생산물배상책임보험 1억원 가입 (현대해상화재보험)",
+    "RoHS Compliant, UL 인증, KC 인증(국가통합인증) 획득",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "규격": "CAT.5E UTP",
+    "전송속도": "10/100Mbps",
+    "선배열방법": "568A / 568B",
+    "크기": "14 x 15.9 x 31.5 (mm)",
+    "작동온도": "0°C ~ 80°C",
+    "제조국": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "T-A71-05-0095",
+    "UL 인증번호": "DUXR.E203713",
+    "RoHS": "Compliant",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "벽부착형 Plate (삽입형 아울렛, 별도구매, 1port~6port)",
+    "Outlet 공박스 (별도구매, 1port~6port)",
+    "EIA/TIA 568A, 568B 배열",
+    "IEC 11801 규격",
+    "KRONE 110 / SPEEDTERM TOOL 방식 호환 (Punch Down Tool 선택 사용 가능)"
+  ],
+  "package_contents": [
+    "CAT.5E UTP Tooless 키스톤잭 신형 모듈 (일체형 덮개 포함)"
+  ],
+  "usage_instructions": "1. 스트리퍼로 케이블 피복을 적당한 길이로 벗겨냅니다. 2. 피복이 제거되어 드러난 케이블 선을 적당한 길이로 잘라냅니다. 3. 케이블 선을 모듈 안으로 넣습니다. 4. 케이블 선을 A(Cross) 혹은 B(Direct) 배열대로 각각의 홈에 끼워줍니다. 5. 일체형 덮개를 씌웁니다. 6. 모듈 밖으로 나온 케이블 선을 잘라줍니다. 7. 완성. 완성된 모듈은 벽부착형 Plate 또는 Outlet 공박스에 장착하여 사용합니다.",
+  "cautions": [
+    "벽부착형 Plate 및 Outlet 공박스는 별도 구매 필요",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 소비자상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-KT-5EU4N",
+      "품목코드": "NEO-키스톤066",
+      "품목명": "[LANstar] 신형 Tooless키스톤잭,CAT.5E, white 대만산[40524]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-KT-5EU4N",
+      "내용": "만족합니다 배송빨라요"
+    },
+    {
+      "source_model": "LS-KT-5EU4N",
+      "내용": "이런게 있다니 신세계네요. 전화선 들어온곳을 모두 바꾸었어요"
+    },
+    {
+      "source_model": "LS-KT-5EU4N",
+      "내용": "빠른 배송 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "케이블 선을 보호하는 일체형 덮개 적용 신형 모듈",
+    "certification.kc": "KC 인증(국가통합인증) 획득",
+    "certification.rohs": "RoHS Compliant",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.cat_category": "CAT.5E UTP",
+    "family.shielding": "CAT.5E UTP"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:55",
+  "feature_schema_version": "1.0.0"
+}

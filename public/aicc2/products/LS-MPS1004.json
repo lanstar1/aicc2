@@ -1,0 +1,170 @@
+{
+  "model_no": "LS-MPS1004",
+  "product_name": "Multi Point Station (컴퓨터 망전환 장치)",
+  "category": [
+    "랜케이블"
+  ],
+  "key_features": [
+    "1대의 Server PC로 최대 12명(최대 24user 구성 가능)의 사용자 환경 구축",
+    "Full HD 해상도 지원",
+    "CAD, 3DMAX 등 고사양 소프트웨어 사용 가능",
+    "다이렉트 케이블(랜케이블) 연결 방식의 한국형 클라우드 컴퓨팅 시스템",
+    "TX-RX 간 최대 50M 전송 거리 지원",
+    "유지보수 및 관리비용 80% 감소 효과",
+    "전기세 80% 감소 효과",
+    "구입 및 업그레이드 비용 40% 감소 효과",
+    "자동부팅·자동종료 기능 설정 가능",
+    "부팅 시 복구설정으로 바이러스·악성코드 원천 차단",
+    "복구설정으로 매번 깨끗한 상태로 컴퓨터 사용 가능",
+    "학생 모니터 모니터링 및 화면제어를 통한 수업집중도 향상",
+    "하드디스크 물리적 손상 시 백업 HDD로 수동 전환 부팅 가능",
+    "바이러스 침입 시 재부팅으로 자동 복구 가능",
+    "나라장터 등록제품 (물품 분류번호: 43222615, 물품 식별번호: 23080536)",
+    "S2B 학교장터 등록제품 (S2B 물품번호: 20160826496341)",
+    "KC 전자파 적합 인증 제품 (등록번호: MSIP-REM-LUS-MPS-1004)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "Multi Point Station 기능 지원",
+    "MIC(마이크) 입력 지원",
+    "VGA 출력 지원",
+    "LAN 연결 지원",
+    "송신부(HOST) 구성"
+  ],
+  "specifications": {
+    "서버 CPU": "i7",
+    "서버 RAM": "32GB",
+    "서버 SSD": "256GB",
+    "서버 HDD": "1TB",
+    "서버 파워": "600W",
+    "서버 OS": "Windows 7 64bit",
+    "VGA Card": "12 VGA Card",
+    "USB Port (서버)": "12 USB Port",
+    "전송 거리": "최대 50M (SFTP 랜케이블)",
+    "지원 해상도": "Full HD",
+    "최대 동시 사용자 수": "12명 (단일 서버 기준), 최대 48user (1800mm 랙 기준)",
+    "단말기 모델명": "MPS-1004TX (송신부), MPS-1004RX (수신부)",
+    "적합등록 번호": "MSIP-REM-LUS-MPS-1004",
+    "등록연월일": "2016-08-22",
+    "제조사": "라인업시스템(주)",
+    "원산지": "대한민국",
+    "A/S 연락처": "www.LANmart.co.kr / 080-717-3386",
+    "인터페이스": "LAN, VGA, MIC",
+    "역할": "송신부(HOST)"
+  },
+  "compatibility": [
+    "Windows 7 OS",
+    "VGA 인터페이스 모니터",
+    "USB 키보드 및 마우스",
+    "SFTP 랜케이블 (최대 50M)",
+    "CAD 소프트웨어",
+    "3DMAX 소프트웨어",
+    "Windows MultiPoint 관리 및 제어 S/W",
+    "LAN",
+    "VGA",
+    "MIC"
+  ],
+  "package_contents": [
+    "서버 PC (CPU: i7, RAM: 32GB, SSD: 240GB, HDD: 1TB, 파워: 600W, OS: Windows 7)",
+    "MPS 단말기 TX (송신부, HOST) - 수량은 구성에 따라 상이",
+    "MPS 단말기 RX (수신부) - 수량은 구성에 따라 상이",
+    "USB 7포트 허브",
+    "랜케이블",
+    "USB 케이블",
+    "모니터 케이블 (VGA)",
+    "랙 캐비넷 (용량에 따라 750H / 1000H / 1600H 중 선택)",
+    "무선 키보드",
+    "무선 마우스",
+    "Windows 7 OS 라이선스",
+    "관리 및 제어 S/W (Windows MultiPoint)"
+  ],
+  "usage_instructions": "1. Server PC의 VGA 케이블과 USB 케이블을 TX 단말기에 연결한다 (최대 12EA TX). 2. TX와 RX를 SFTP 랜케이블로 연결한다 (최대 50M, 12EA RX). 3. RX와 모니터를 VGA 케이블로 연결한다 (12EA 모니터). 4. RX의 USB 포트에 키보드와 마우스를 연결한다.",
+  "cautions": [
+    "KC 적합성 평가 표시를 반드시 부착하여 유통하여야 하며, 위반 시 과태료 부과 및 등록 취소될 수 있음",
+    "전송 거리는 최대 50M(SFTP 랜케이블 기준)이므로 초과 시 사용 불가",
+    "하드디스크 물리적 손상 시 백업 HDD로의 전환은 수동 연결 방식임",
+    "본 제품은 Windows 7 OS 기반으로 구성되어 있음",
+    "서버 1대 기준 최대 12user 구성 가능하며, 24user 이상은 서버 2대 필요"
+  ],
+  "variants": [],
+  "_variant_raw_texts": {
+    "LS-MPS1004-MAIN": "LANStar\nⓇ\nod\nMIC\nMulti Point Station\nAK\nLAN\n스위치\nJOGOUT\n전원\n송신부(HOST)\nVGA"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA",
+        "USB-A",
+        "RJ45",
+        "3.5mm"
+      ],
+      "output_signals": [
+        "VGA",
+        "USB-A",
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": true,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": null,
+      "shielding": "SFTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "VGA 케이블과 USB 케이블을 TX 단말기에 연결",
+    "connectivity.input_signals[2]": "SFTP 랜케이블로 연결",
+    "connectivity.input_signals[3]": "MIC(마이크) 입력 지원",
+    "connectivity.output_signals": "RX와 모니터를 VGA 케이블로 연결",
+    "connectivity.output_signals[1]": "RX의 USB 포트에 키보드와 마우스를 연결",
+    "connectivity.output_signals[2]": "SFTP 랜케이블로 연결",
+    "connectivity.directional": "TX-RX 간 최대 50M 전송 거리 지원",
+    "power.power_mode": "어댑터",
+    "form_physical.has_case": "단말기 모델명: MPS-1004TX (송신부), MPS-1004RX (수신부)",
+    "certification.kc": "KC 전자파 적합 인증 제품",
+    "audio_video.max_resolution": "Full HD 해상도 지원",
+    "audio_video.audio_pass": "MIC(마이크) 입력 지원",
+    "control_switching.has_auto_scan": "자동부팅·자동종료 기능 설정 가능",
+    "family.shielding": "SFTP 랜케이블",
+    "family.poe_support": "전기세 80% 감소 효과"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:43",
+  "feature_schema_version": "1.0.0"
+}

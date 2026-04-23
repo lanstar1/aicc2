@@ -1,0 +1,173 @@
+{
+  "model_no": "LS-GIC-FKTMT",
+  "product_name": "CAT.6A Inline 키스톤형 커플러 (CAT.7 사용가능)",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "랜케이블-FTP",
+    "키스톤잭",
+    "커플러"
+  ],
+  "key_features": [
+    "CAT.6A / CAT.7 FTP 케이블의 길이를 확장하는 데 사용",
+    "8P8C 접지형 (RJ-45 / FTP)",
+    "초고속 10G급 지원 (10Gbps)",
+    "50마이크로 골드 도금",
+    "UL 규격 적용",
+    "110 Block Keystone 타입",
+    "8P8C Female TO 8P8C Female (1:1, F/F)"
+  ],
+  "specifications": {
+    "모델명": "LS-GIC-FKTMT",
+    "제품명": "CAT.6A Inline 키스톤형 커플러 (CAT.7 사용가능)",
+    "커넥터 타입": "RJ-45 / FTP, 8P8C Female TO 8P8C Female",
+    "지원 속도": "10Gbps",
+    "지원 대역폭": "CAT.6A 500MHz / CAT.7 600MHz",
+    "도금": "50마이크로 골드 도금",
+    "규격": "UL규격",
+    "인증서 번호": "MSIP-RTI-LUS-LS-CAT7",
+    "제조국/원산지": "Made in Taiwan",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "마운트 타입": "110 Block Keystone 타입"
+  },
+  "compatibility": [
+    "CAT.6A FTP 케이블",
+    "CAT.7 FTP 케이블",
+    "EIA/TIA-568 규격",
+    "ISO/IEC 11801 Class 규격"
+  ],
+  "package_contents": [
+    "CAT.6A Inline 키스톤형 커플러 (LS-GIC-FKTMT) 본체"
+  ],
+  "usage_instructions": "CAT.6A 또는 CAT.7 FTP 케이블 연장 시, 8P8C Female TO 8P8C Female 방식으로 두 케이블을 연결하여 네트워크 배선 길이를 확장하는 데 사용. 키스톤 패치 패널 또는 110 Block Keystone 타입 슬롯에 장착하여 사용.",
+  "cautions": [
+    "품질 보증: 본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 의거하여 보상",
+    "CAT.6A와 CAT.7은 속도(10G) 차이는 없으나 대역폭 기준 규격(TIA/EIA-568 vs ISO/IEC 11801)이 상이하므로 설치 환경의 규격 요건 확인 필요"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GIC-FKTMT",
+      "품목코드": "NEO-커플러032",
+      "품목명": "[LANstar] 키스톤형 메탈커플러, CAT.6A, 10G, FTP, I형, RJ45, 대만산[40056]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-GIC-FKTMT",
+      "내용": "요긴 하게 쓰일수 있는 거라, 예비로 모셔 둡니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-GIC-FKTMT",
+      "chatUrl": "1Efem",
+      "dateIso": "2025-11-13T08:24:41.931Z",
+      "name": "kkk3****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "판매자 문의",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    },
+    {
+      "source_model": "LS-GIC-FKTMT",
+      "chatUrl": "1Efem",
+      "dateIso": "2025-11-13T08:24:41.931Z",
+      "name": "kkk3****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "재고 문의 드립니다",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    },
+    {
+      "source_model": "LS-GIC-FKTMT",
+      "chatUrl": "1Efem",
+      "dateIso": "2025-11-13T08:24:41.931Z",
+      "name": "kkk3****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "재고 문의 드립니다.",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "FTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "8P8C Female TO 8P8C Female",
+    "connectivity.output_signals": "8P8C Female TO 8P8C Female",
+    "connectivity.directional": "8P8C Female TO 8P8C Female (1:1, F/F)",
+    "connectivity.port_count": "8P8C Female TO 8P8C Female",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "CAT.6A Inline 키스톤형 커플러",
+    "form_physical.material": "50마이크로 골드 도금",
+    "certification.kc": "MSIP-RTI-LUS-LS-CAT7",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.cat_category": "CAT.6A / CAT.7 FTP 케이블",
+    "family.shielding": "FTP 케이블",
+    "family.conductor": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:15",
+  "feature_schema_version": "1.0.0"
+}

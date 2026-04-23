@@ -1,0 +1,246 @@
+{
+  "model_no": "LS-H21AOC",
+  "product_name": "LAN Star HDMI 2.1 광섬유 AOC 케이블 (HDMI 2.1v Active Optical Cable)",
+  "category": [
+    "광케이블",
+    "HDMI케이블",
+    "HDMI광케이블"
+  ],
+  "key_features": [
+    "HDMI 2.1 규격 지원, 최대 48Gbps 대역폭",
+    "최대 해상도 8K@60Hz / 4K@120Hz / 1080P@240Hz 지원",
+    "광섬유 기반으로 최대 100M까지 신호 감쇠 없이 안정적 전송",
+    "전자파 간섭(EMI/RFI) 차단 - 광섬유 비전도체 소재",
+    "HDR10, HDR10+, Dolby Vision, Dynamic HDR, HLG 지원",
+    "HDCP 2.3 지원 (하위 버전 포함)",
+    "VRR(가변 주사율), ALLM(자동 저지연 모드), QFT(빠른 프레임 전송), DSC(디스플레이 스트림 압축) 지원",
+    "eARC 지원으로 Dolby Atmos, DTS:X 등 무손실 오디오 전송 가능",
+    "Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS Digital Surround, DTS-HD High Resolution Audio, DTS-HD Master Audio, LPCM 등 다양한 오디오 포맷 지원",
+    "크로마서브샘플링 4:4:4 / 4:2:2 / 4:2:0 지원",
+    "CEC 기능 지원 (하나의 리모컨으로 여러 기기 제어)",
+    "21:9 와이드 화면비 지원",
+    "하이브리드 구조: 4Core OM3 광섬유 + 구리선(7Core 동선)",
+    "알루미늄 쉴드 + 아라미드 섬유로 내구성 및 신호 안정성 강화",
+    "외경 5.2mm, 가볍고 유연하여 벽·천장 매립 배선에 적합",
+    "IN/OUT 단방향 전송 방식 (방향성 있음)",
+    "별도 외부 전원 불필요",
+    "작동 온도 -40°C ~ 70°C",
+    "HDMI 하위 버전(2.0, 1.4) 포트와도 호환 (해상도 및 기능은 기기 버전에 따라 제한)",
+    "라인업시스템(주) / 랜스타 정품, 현대해상화재 생산물배상책임보험 1억원 가입",
+    "소재·부품·장비 전문기업확인서 취득 (2022.11.29)"
+  ],
+  "specifications": {
+    "형태": "HDMI 19P(M) - HDMI 19P(M) / 입·출력 방향 확인 필요",
+    "규격": "HDMI 2.1 (하위 버전 호환)",
+    "최대 해상도": "8K@60Hz / 4K@120Hz / 1080P@240Hz",
+    "대역폭": "48Gbps",
+    "케이블 구조": "하이브리드 타입 (4Core OM3 광섬유 + 7Core 동선)",
+    "차폐": "알루미늄 쉴드 + PVC 자켓",
+    "보강재": "아라미드 섬유",
+    "외경": "5.2mm",
+    "작동 온도": "-40°C ~ 70°C",
+    "전원": "외부 전원 입력 없음",
+    "HDCP": "HDCP 2.3 지원 (하위 버전 지원)",
+    "HDR 지원": "HDR10, HDR10+, Dolby Vision, Dynamic HDR, HLG",
+    "오디오 리턴": "eARC",
+    "크로마서브샘플링": "4:4:4, 4:2:2, 4:2:0",
+    "VRR": "지원",
+    "ALLM": "지원",
+    "QFT": "지원",
+    "DSC": "지원",
+    "CEC": "지원",
+    "3D 영상": "지원",
+    "이더넷 채널": "미지원",
+    "방향성": "단방향 (SOURCE → DISPLAY)",
+    "색공간": "Deep Color, xvYCC, 10bit/12bit 확장",
+    "길이 옵션": "5M, 10M, 15M, 20M, 30M, 40M, 50M, 70M, 100M",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "모델 번호 (5M)": "30908 / LS-H21AOC-5M",
+    "모델 번호 (10M)": "30909 / LS-H21AOC-10M",
+    "모델 번호 (15M)": "30910 / LS-H21AOC-15M",
+    "모델 번호 (20M)": "30911 / LS-H21AOC-20M",
+    "모델 번호 (30M)": "30912 / LS-H21AOC-30M",
+    "모델 번호 (40M)": "30913 / LS-H21AOC-40M",
+    "모델 번호 (50M)": "30914 / LS-H21AOC-50M",
+    "모델 번호 (70M)": "30915 / LS-H21AOC-70M",
+    "모델 번호 (100M)": "30916 / LS-H21AOC-100M"
+  },
+  "compatibility": [
+    "HDMI 2.1 지원 기기 (PS5, Xbox Series X, 고사양 PC 등)",
+    "HDMI 2.0 지원 기기 (하위 호환, 기능 제한)",
+    "HDMI 1.4 지원 기기 (하위 호환, 기능 제한)",
+    "입력(SOURCE): 데스크탑, 노트북, 콘솔 게임기 등 HDMI 출력 기기",
+    "출력(DISPLAY): TV, 모니터, 빔프로젝터 등 HDMI 입력 디스플레이",
+    "eARC 지원 AV 리시버 및 사운드바 (TV와 리시버 모두 eARC 지원 시)",
+    "HDCP 2.3 지원 기기 (저작권 보호 콘텐츠 재생 시 기기도 HDCP 지원 필요)",
+    "8K TV, 4K HDR 디스플레이, 고주사율 게이밍 모니터"
+  ],
+  "package_contents": [
+    "HDMI 2.1 AOC 케이블 (선택한 길이)",
+    "외부 박스 (전 길이 공통)",
+    "내부 비닐 팩 (5M, 10M, 15M, 20M, 30M, 40M)",
+    "내부 릴 + 랩 포장 (50M, 70M, 100M)"
+  ],
+  "usage_instructions": "케이블의 SOURCE 커넥터를 PC·노트북·콘솔 등 입력 기기의 HDMI 포트에 연결하고, DISPLAY 커넥터를 TV·모니터·빔프로젝터 등 출력 디스플레이의 HDMI 포트에 연결하세요. 케이블에 각인된 'SOURCE' 및 'DISPLAY' 방향 표시를 반드시 확인 후 연결해야 하며, 반대로 연결 시 영상이 출력되지 않거나 검은 화면 등 문제가 발생합니다. 별도 외부 전원은 필요하지 않습니다. 벽·천장 매립 배선 시에는 케이블이 과도하게 꺾이거나 압력을 받지 않도록 주의하세요.",
+  "cautions": [
+    "단방향 전송 케이블이므로 SOURCE(입력기기)와 DISPLAY(출력기기) 방향을 반드시 확인 후 연결할 것. 반대 연결 시 영상 미출력, 끊김, 검은 화면 발생 가능.",
+    "직각 꺾임, 심한 압박, 과도한 꼬임은 피할 것. 광섬유 소재 특성상 꺾임이나 압력에 취약하여 신호 손실이 발생할 수 있음.",
+    "벽 매립 시 케이블이 과도하게 꺾이거나 압력을 받지 않도록 주의할 것.",
+    "HDCP 보호 콘텐츠 재생 시 연결된 입·출력 기기도 HDCP를 지원해야 정상 작동함.",
+    "eARC 기능 사용 시 TV와 AV 리시버(사운드바 등) 모두 eARC를 지원해야 함.",
+    "출력 해상도 및 기능은 연결된 입·출력 기기의 HDMI 버전에 따라 제한될 수 있음.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처의 제품은 A/S 불가.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음.",
+    "당일 출고는 오후 4시 이전 결제 완료 기준, 토·일·공휴일 제외 평일에 한함. 택배사 사정에 따라 배송기간이 길어질 수 있음."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-H21AOC-5M",
+      "품목코드": "AVO-HD선054",
+      "품목명": "[LANstar] HDMI 2.1v AOC 케이블, 5M [30908](10개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-H21AOC-10M",
+      "품목코드": "AVO-HD선055",
+      "품목명": "[LANstar] HDMI 2.1v AOC 케이블, 10M [30909](10개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-H21AOC-15M",
+      "품목코드": "AVO-HD선056",
+      "품목명": "[LANstar] HDMI 2.1v AOC 케이블, 15M [30910](10개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-H21AOC-20M",
+      "품목코드": "AVO-HD선057",
+      "품목명": "[LANstar] HDMI 2.1v AOC 케이블, 20M [30911](10개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-H21AOC-30M",
+      "품목코드": "AVO-HD선058",
+      "품목명": "[LANstar] HDMI 2.1v AOC 케이블, 30M [30912](10개)",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-H21AOC-40M",
+      "품목코드": "AVO-HD선059",
+      "품목명": "[LANstar] HDMI 2.1v AOC 케이블, 40M [30913](10개)",
+      "variant_suffix": "-40M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-H21AOC-50M",
+      "품목코드": "AVO-HD선060",
+      "품목명": "[LANstar] HDMI 2.1v AOC 케이블, 50M [30914](10개)",
+      "variant_suffix": "-50M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-H21AOC-70M",
+      "품목코드": "AVO-HD선061",
+      "품목명": "[LANstar] HDMI 2.1v AOC 케이블, 70M [30915](4개)",
+      "variant_suffix": "-70M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-H21AOC-100M",
+      "품목코드": "AVO-HD선062",
+      "품목명": "[LANstar] HDMI 2.1v AOC 케이블, 100M [30916](4개)",
+      "variant_suffix": "-100M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "알루미늄",
+        "PVC",
+        "아라미드 섬유"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        5,
+        10,
+        15,
+        20,
+        30,
+        40,
+        50,
+        70,
+        100
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "8K@60",
+      "hdr_support": true,
+      "hdcp_version": "HDCP2.3",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "HDMI2.1",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": true,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19P(M) - HDMI 19P(M)",
+    "connectivity.output_signals": "HDMI 19P(M) - HDMI 19P(M)",
+    "connectivity.directional": "IN/OUT 단방향 전송 방식 (방향성 있음)",
+    "power.power_mode": "별도 외부 전원 불필요",
+    "form_physical.material": "알루미늄 쉴드 + 아라미드 섬유",
+    "form_physical.length_options_meters": "5M, 10M, 15M, 20M, 30M, 40M, 50M, 70M, 100M",
+    "audio_video.max_resolution": "최대 해상도 8K@60Hz / 4K@120Hz",
+    "audio_video.hdr_support": "HDR10, HDR10+, Dolby Vision, Dynamic HDR, HLG 지원",
+    "audio_video.hdcp_version": "HDCP 2.3 지원 (하위 버전 포함)",
+    "audio_video.audio_pass": "eARC 지원으로 Dolby Atmos, DTS:X 등 무손실 오디오 전송 가능",
+    "family.hdmi_version": "HDMI 2.1 규격 지원",
+    "family.optical_core": "광섬유 기반으로 최대 100M까지 신호 감쇠 없이 안정적 전송",
+    "family.ethernet_channel": "이더넷 채널: 미지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:30",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,117 @@
+{
+  "model_no": "LS-ESATA-MM",
+  "product_name": "eSATA 케이블 일자형 (eSATA/M-SATA/M)",
+  "category": [
+    "커넥터"
+  ],
+  "key_features": [
+    "eSATA(External Serial AT Attachment) 규격의 외장형 기기 연결용 케이블",
+    "최대 전송 속도 3Gbps 지원",
+    "커넥터 형태: 양쪽 모두 'ㅡ'자형(일자형) eSATA 커넥터",
+    "SATA의 'ㄱ'자 커넥터를 'ㅡ'자 커넥터로 변경하여 장착성 보완",
+    "외피복, 알루미늄 쉴드, 접지극, 신호선 A(+/-), 신호선 B(+/-) 구조"
+  ],
+  "specifications": {
+    "커넥터 타입": "eSATA 'ㅡ'자형 - 'ㅡ'자형 (Male to Male)",
+    "인터페이스 규격": "eSATA (External Serial AT Attachment)",
+    "최대 전송 속도": "3Gbps",
+    "핀 구성": "7pin",
+    "쉴드": "알루미늄",
+    "내부 구조": "접지극, 신호선 A(+), 신호선 A(-), 신호선 B(+), 신호선 B(-)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "브랜드": "LAN Star",
+    "인증번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "eSATA 규격 외장형 스토리지 기기",
+    "SATA (Serial AT Attachment) 인터페이스 기기",
+    "하드디스크 (HDD)",
+    "CD-ROM",
+    "DVD"
+  ],
+  "package_contents": [
+    "eSATA 케이블 일자형 (LS-ESATA) 1ea"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-ESATA-MM-0.5M",
+      "품목코드": "CAB-SAT005",
+      "품목명": "[LANstar] ESATA케이블 , M／M, BLACK, 0.5M[10551]",
+      "variant_suffix": "-0.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ESATA-MM-1M",
+      "품목코드": "CAB-SAT006",
+      "품목명": "[LANstar] ESATA케이블 , M／M, BLACK, 1M[10552]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "eSATA"
+      ],
+      "output_signals": [
+        "eSATA"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "N/A"
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "알루미늄"
+      ]
+    },
+    "certification": {
+      "kc": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "eSATA Male",
+      "connector_type_b": "eSATA Male",
+      "gender": "M-M",
+      "pin_count": 7
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "eSATA(External Serial AT Attachment)",
+    "connectivity.output_signals": "eSATA(External Serial AT Attachment)",
+    "connectivity.directional": "eSATA 케이블",
+    "power.power_mode": "N/A",
+    "form_physical.has_case": "eSATA 케이블",
+    "form_physical.material": "알루미늄 쉴드",
+    "certification.kc": "인증번호: 해당없음",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.connector_type_a": "eSATA 'ㅡ'자형 - 'ㅡ'자형 (Male to Male)",
+    "family.connector_type_b": "eSATA 'ㅡ'자형 - 'ㅡ'자형 (Male to Male)",
+    "family.gender": "Male to Male",
+    "family.pin_count": "7pin"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:55",
+  "feature_schema_version": "1.0.0"
+}

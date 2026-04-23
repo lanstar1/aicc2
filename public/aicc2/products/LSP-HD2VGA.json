@@ -1,0 +1,146 @@
+{
+  "model_no": "LSP-HD2VGA",
+  "product_name": "LANStar HDMI to VGA 컨버터 (LSP-HD2VGA)",
+  "category": [
+    "VGA",
+    "컨버터"
+  ],
+  "key_features": [
+    "HDMI 신호를 VGA(RGB) 신호로 변환하는 컨버터",
+    "최대 1920x1080 Full HD 1080p 해상도 지원",
+    "1080P Full HD 3D 영상 지원",
+    "오디오 출력 지원",
+    "USB 전원 공급 방식 (5V / 1A)",
+    "HDCP(High-bandwidth Digital Content Protection) 지원",
+    "간편한 휴대 가능한 미니 사이즈",
+    "Plug & Play 지원",
+    "KC, FCC, CE 안전규격 인증 획득",
+    "RoHS 준수 제품",
+    "ISO 9001:2008 품질경영시스템 적용",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "입력(INPUT)": "HDMI",
+    "출력(OUTPUT)": "VGA, 오디오",
+    "최대 해상도": "1920x1080 (Full HD 1080p)",
+    "지원 해상도": "1920x1080 (Full HD), 1280x720 (HD), 720x480 (SD)",
+    "전원": "USB 5V / 1A",
+    "케이블 길이": "48cm",
+    "크기": "55mm x 20mm x 61mm",
+    "인증번호": "MSIP-REI-LUS-LS-VGA2HD",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "브랜드": "LANStar",
+    "안전규격인증": "KC, FCC, CE"
+  },
+  "compatibility": [
+    "HDMI 출력을 지원하는 노트북",
+    "HDMI 출력을 지원하는 DVD 플레이어",
+    "HDMI 출력을 지원하는 게임기 (DS-PAD, PS4 등)",
+    "HDMI 출력을 지원하는 셋톱박스",
+    "HDMI 출력을 지원하는 PC",
+    "VGA 입력을 지원하는 모니터",
+    "VGA 입력을 지원하는 프로젝터(빔 프로젝터)",
+    "VGA(RGB) 포트만 있는 구형 TV",
+    "VGA 입력을 지원하는 TV"
+  ],
+  "package_contents": [
+    "HDMI to VGA 컨버터 본체 (LSP-HD2VGA)",
+    "USB 전원 공급 케이블",
+    "사용자 매뉴얼(User Manual)"
+  ],
+  "usage_instructions": "HDMI 케이블을 컨버터의 HDMI 입력(INPUT) 단자에 연결하고, RGB(VGA) 케이블을 VGA 출력(OUTPUT) 단자에 연결합니다. USB 전원 공급 케이블을 USB/POWER 단자에 반드시 연결하여 전원을 공급합니다. HDMI 단자가 없고 VGA(RGB) 포트만 있는 구형 TV, 모니터, 빔 프로젝터 등에 연결하여 사용합니다. HDMI 케이블과 RGB 케이블은 별도 구매가 필요합니다.",
+  "cautions": [
+    "HDMI 케이블 및 RGB(VGA) 케이블은 별도 구매 필요",
+    "USB 전원 공급 케이블은 필수 연결 사항",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익이 발생할 수 있음",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-HD2VGA",
+      "품목코드": "INT-HDS115",
+      "품목명": "[◆Lanstar-Plus] HDMI TO VGA 컨버터,오디오 지원[60119] (200개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "USB-A"
+      ],
+      "output_signals": [
+        "VGA",
+        "3.5mm"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.48,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 신호를 VGA(RGB) 신호로 변환",
+    "connectivity.input_signals[1]": "USB 전원 공급 방식 (5V / 1A)",
+    "connectivity.output_signals": "VGA(RGB) 신호로 변환",
+    "connectivity.output_signals[1]": "오디오 출력 지원",
+    "connectivity.directional": "HDMI 신호를 VGA(RGB) 신호로 변환",
+    "power.power_mode": "USB 전원 공급 방식 (5V / 1A)",
+    "power.charging_support": "USB 전원 공급 방식 (5V / 1A)",
+    "form_physical.has_case": "간편한 휴대 가능한 미니 사이즈",
+    "form_physical.length_meters": "케이블 길이: 48cm",
+    "certification.kc": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.ce": "KC, FCC, CE 안전규격 인증 획득",
+    "audio_video.max_resolution": "최대 1920x1080 Full HD 1080p 해상도 지원",
+    "audio_video.hdr_support": "1080P Full HD 3D 영상 지원",
+    "audio_video.hdcp_version": "HDCP(High-bandwidth Digital Content Protection) 지원",
+    "audio_video.audio_pass": "오디오 출력 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:49",
+  "feature_schema_version": "1.0.0"
+}

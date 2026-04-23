@@ -1,0 +1,148 @@
+{
+  "model_no": "LS-RS200C",
+  "product_name": "LANStar USB 2.0 to RS232 시리얼 케이블 1.8M",
+  "category": [
+    "USB2.0",
+    "컨버터"
+  ],
+  "key_features": [
+    "USB 단자에 RS232 규격의 시리얼 장치를 연결 가능",
+    "USB 1.1/2.0 버전 지원",
+    "RS232 규격 지원",
+    "COM 포트(COM1~COM256) 변경 가능",
+    "USB 2.0 480Mbps 속도 지원",
+    "시리얼 최대 1Mbps 속도 지원",
+    "PDA나 모뎀에 적합",
+    "COM 포트를 이용한 RS232 시리얼 통신",
+    "기존 시리얼 타입의 마우스, 태블릿, 싱크용 시리얼 제품을 USB로 변환",
+    "USB 변환 시 기존 장치의 느린 대역폭 해소에 도움"
+  ],
+  "specifications": {
+    "인터페이스(USB 측)": "USB 2.0",
+    "인터페이스(시리얼 측)": "RS232 시리얼 9핀",
+    "USB 전송 속도": "480Mbps",
+    "시리얼 최대 속도": "1Mbps",
+    "케이블 길이": "1.8M",
+    "COM 포트 범위": "COM1~COM256",
+    "인증번호": "E-F900-04-1010",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "USB 1.1/2.0 포트 지원 데스크탑 및 노트북",
+    "Windows 98",
+    "Windows 2000",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8",
+    "Linux",
+    "MAC OS 8.6 이상",
+    "RS232 규격 시리얼 장치",
+    "COM 포트 통신 장비",
+    "PDA",
+    "모뎀",
+    "시리얼 타입 마우스",
+    "시리얼 타입 태블릿"
+  ],
+  "package_contents": [
+    "USB 2.0 to RS232 시리얼 케이블 (LS-RS200C)",
+    "드라이버 CD"
+  ],
+  "usage_instructions": "【자동설치】 1. 제품을 PC의 USB 단자에 연결한다. 2. 약 10초 후 PC가 자동으로 USB를 인식하여 드라이버 설치를 준비한다. 3. 드라이버 위치를 찾는 창이 뜨면 동봉된 CD를 삽입하고 컴퓨터 OS에 맞는 디렉토리를 선택하여 확인한다. 4. 설치 완료 후 장치관리자의 포트 항목에서 'USB Serial Port(COM)' 추가를 확인한다. 5. 'Prolific USB to Serial Comm Port(COM)'에서 마우스 우클릭 후 속성창을 연다. 6. 포트설정 탭에서 고급 버튼을 클릭한다. 7. [COM 포트번호(P)]에서 사용할 COM 포트를 선택하고 확인을 누르면 설치 완료. 【수동설치】 1. 제품을 PC의 USB 단자에 연결하고 동봉된 CD를 삽입한다. 2. 내 컴퓨터 우클릭 > 속성 > 하드웨어 탭 > 장치관리자로 이동한다. 3. 포트 탭에서 'Prolific USB to Serial Comm Port(COM)' 우클릭 후 속성창으로 이동한다. 4. 드라이버 탭에서 드라이버 업데이트를 클릭한다. 5. 하드웨어 업데이트 마법사에서 [예, 장치를 연결할때마다 연결] 선택 후 [목록 또는 특정 위치에서 설치(공급)]를 선택한다. 6. [검색할 때 다음 위치 포함]을 체크 후 찾아보기를 눌러 CD 내 'USB2.0 to RS232 Cable > Windows > OS 해당 폴더'를 지정하고 다음을 누른다. 7. 'Prolific USB to Serial Comm Port(COM)' 우클릭 > 속성 > 포트설정 탭 > 고급 버튼 클릭 후 [COM 포트번호(P)]에서 사용할 COM 포트를 선택하고 확인을 누르면 설치 완료.",
+  "cautions": [
+    "본 제품은 단순 젠더가 아닌 포트 변환 장치입니다.",
+    "데스크탑 또는 노트북에 USB 포트가 장착되어야 하며, 반대 방향으로는 사용이 불가능합니다.",
+    "COM 포트 통신을 하는 장비만 사용이 가능합니다.",
+    "LPT 포트로 프린터에는 사용할 수 없습니다.",
+    "Keylock의 경우 제품 특성에 따라 일부 제품에서 사용이 불가능합니다.",
+    "시리얼 포트를 사용하는 일부 제품에서는 정상 작동이 되지 않을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RS200C",
+      "품목코드": "USB-시리얼038",
+      "품목명": "[LANstar] USB 2.0 TO 시리얼 컨버터 케이블 1.8M(80개)[30015]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 1.8,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.001,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 단자에",
+    "connectivity.output_signals": "RS232 규격의 시리얼 장치를 연결",
+    "connectivity.directional": "COM 포트를 이용한 RS232 시리얼 통신",
+    "power.power_mode": "USB 전원",
+    "power.charging_support": "PDA나 모뎀에 적합",
+    "form_physical.has_case": "제품을 PC의 USB 단자에 연결한다",
+    "form_physical.length_meters": "케이블 길이: 1.8M",
+    "certification.kc": "인증번호: E-F900-04-1010",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.usb_version": "USB 1.1/2.0 버전 지원",
+    "family.transfer_speed_gbps": "시리얼 최대 1Mbps 속도 지원",
+    "family.charging_only": "N/A",
+    "family.data_only": "COM 포트를 이용한 RS232 시리얼 통신"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:48",
+  "feature_schema_version": "1.0.0"
+}

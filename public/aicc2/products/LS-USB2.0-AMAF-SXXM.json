@@ -1,0 +1,134 @@
+{
+  "model_no": "LS-USB2.0-AMAF-SXXM",
+  "product_name": "LANStar USB 2.0 판넬형 연장 케이블 (나사고정)",
+  "category": [
+    "USB허브",
+    "USB2.0",
+    "분배판넬",
+    "서버랙",
+    "허브랙"
+  ],
+  "key_features": [
+    "판넬 나사 고정 방식으로 케이블을 흔들리지 않게 고정 후 연장 사용 가능",
+    "허브랙/서버랙, 전자교탁, 서버, PC 및 산업용 장비에 USB 2.0 포트를 데이터 손실 없이 외부로 노출 가능",
+    "28AWG/1P+28AWG/2C 규격으로 개발된 고품질 케이블",
+    "순동 편조쉴드 + 은박 코팅 쉴드 이중 차폐로 외부 노이즈 및 전자파 차단",
+    "28AWG/1P: 두 가닥의 심선을 꼬아 안정적인 데이터 전송 설계",
+    "28AWG/2C: 두 가닥의 전원선으로 DC Drop 현상 없이 안정적인 데이터 전송",
+    "제품에 나사가 개별 포함되어 있어 별도 준비 없이 편리하게 사용 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "규격": "USB 2.0",
+    "커넥터": "USB (F) 컨넥터 / USB (M) 컨넥터",
+    "케이블 길이": "0.5M, 1M, 2M, 3M, 5M",
+    "케이블 규격": "28AWG/1P + 28AWG/2C",
+    "쉴드": "순동 편조쉴드 + 은박 코팅 쉴드 이중 쉴드",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "고정 방식": "나사 고정 (판넬형)",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "USB 2.0 지원 기기",
+    "허브랙 / 서버랙",
+    "전자교탁",
+    "서버",
+    "PC",
+    "산업용 장비"
+  ],
+  "package_contents": [
+    "USB 연장 판넬형 케이블 1개",
+    "고정용 나사 (개별 포함)"
+  ],
+  "usage_instructions": "케이블을 나사로 고정한 후 연장하여 사용. 판넬에 나사로 고정하면 흔들림 없이 안전하게 USB 포트를 외부로 노출할 수 있음. 제품에 나사가 포함되어 있어 별도 준비 불필요.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "PVC",
+        "니켈도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1.0,
+        2.0,
+        3.0,
+        5.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "port_count": null,
+      "usb_version": "USB2.0",
+      "ethernet_speed_mbps": null,
+      "has_sd_reader": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB (F) 컨넥터",
+    "connectivity.output_signals": "USB (M) 컨넥터",
+    "connectivity.directional": "연장 케이블",
+    "form_physical.material": "순동 편조쉴드 + 은박 코팅 쉴드",
+    "form_physical.length_options_meters": "0.5M, 1M, 2M, 3M, 5M",
+    "certification.kc": "인증번호: 해당없음",
+    "audio_video.max_resolution": "USB 2.0",
+    "audio_video.hdr_support": "USB 2.0",
+    "audio_video.hdcp_version": "USB 2.0",
+    "audio_video.audio_pass": "USB 2.0",
+    "control_switching.has_remote": "나사 고정 방식으로",
+    "control_switching.has_hotkey": "나사 고정 방식으로",
+    "control_switching.has_physical_button": "나사 고정 방식으로",
+    "control_switching.has_mouse_switching": "나사 고정 방식으로",
+    "control_switching.has_auto_scan": "나사 고정 방식으로",
+    "control_switching.has_app_control": "나사 고정 방식으로",
+    "family.usb_version": "USB 2.0"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:32",
+  "feature_schema_version": "1.0.0"
+}

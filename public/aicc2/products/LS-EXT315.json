@@ -1,0 +1,101 @@
+{
+  "model_no": "LS-EXT315",
+  "product_name": "[LANstar] USB3.0 연장 리피터 케이블 15m , 아답터포함 [30636] (16개)",
+  "category": [
+    "USB케이블",
+    "USB3.0",
+    "리피터",
+    "전원아답터"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-EXT315",
+      "품목코드": "USB-리피터244",
+      "품목명": "[LANstar] USB3.0 연장 리피터 케이블 15m , 아답터포함 [30636] (16개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-EXT315",
+      "chatUrl": "2XCRL",
+      "dateIso": "2024-05-08T08:15:22.948Z",
+      "name": "슈퍼맨EJ",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "퀵 신청\n\n주문번호 2024050840802411\n랜스타 LS-EXT315 USB3.0 리피터 케이블 15M 2개\nhdmi 광케이블 15M 광섬유 구리 하이브리드 구조 (LS-HD\n(추가 문의) 15M 주문취소하고 20M로 재주문했습니다",
+      "answer": "주문주신 제품 퀵 착불로 출고 도와드리겠습니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n주문주신 제품 퀵 착불로 출고 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "15M 주문취소하고 20M로 재주문했습니다"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "퀵 신청\n\n주문번호 2024050840802411\n랜스타 LS-EXT315 USB3.0 리피터 케이블 15M 2개\nhdmi 광케이블 15M 광섬유 구리 하이브리드 구조 (LS-HD"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "어댑터"
+    },
+    "form_physical": {
+      "length_meters": 15
+    },
+    "family": {
+      "usb_version": "USB3.0"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB3.0 연장 리피터 케이블",
+    "connectivity.output_signals": "USB3.0 연장 리피터 케이블",
+    "connectivity.directional": "연장 리피터 케이블",
+    "power.power_mode": "아답터포함",
+    "form_physical.length_meters": "케이블 15m",
+    "family.usb_version": "USB3.0"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:07",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

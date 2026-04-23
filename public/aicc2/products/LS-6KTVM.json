@@ -1,0 +1,123 @@
+{
+  "model_no": "LS-6KTVM",
+  "product_name": "CAT.6 키스톤잭 모듈 8P8C FTP Toolless I-Type",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-FTP",
+    "키스톤잭",
+    "멀티탭",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "10/100/1000Mbps 전송속도 지원",
+    "별도의 압축 Tool 없이 케이블 선 장착 가능 (Toolless)",
+    "1개의 모듈에서 568A(Cross)와 568B(Direct) 배열 모두 지원",
+    "케이블 선을 보호하는 분리덮개 적용 신형 모듈",
+    "벽부착형 Plate Outlet 공박스에 장착하여 사용 가능",
+    "UL 인증 취득 (인증번호: DUXR.E203713)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "규격": "CAT.6",
+    "타입": "8P8C FTP Toolless I-Type",
+    "배열": "568A (Cross), 568B (Direct)",
+    "전송속도": "10/100/1000Mbps",
+    "제품 크기": "28mm x 14.5mm x 22mm",
+    "색상": "화이트(U1WH), 블루(U1BL), 레드(U1RD), 옐로우(U1YL)",
+    "UL 인증번호": "DUXR.E203713",
+    "제조국": "TAIWAN",
+    "제조사": "LAN Star (라인업시스템(주))"
+  },
+  "compatibility": [
+    "벽부착형 Plate Outlet (삽입형 아울렛, 1port~6port, 별도구매)",
+    "Outlet 공박스 (1port~6port, 별도구매)",
+    "키스톤모듈용 커넥터 압축 Tool (별도구매)"
+  ],
+  "package_contents": [
+    "CAT.6 키스톤잭 모듈 본체",
+    "분리덮개"
+  ],
+  "usage_instructions": "1. 스트리퍼로 케이블 피복을 적당한 길이로 제거한다. 2. 피복이 제거되어 드러난 케이블 선을 568A 또는 568B 배열에 맞게 각각의 홈에 끼운다. 3. 모듈 밖으로 나온 케이블 선을 잘라낸다. 4. 덮개를 씌워 완성한다. 완성된 모듈은 벽부착형 Plate(삽입형 아울렛)와 결합하여 콘센트처럼 사용하거나, Outlet 공박스와 결합해 돌출형 또는 바닥 거치형으로 활용할 수 있다.",
+  "cautions": [
+    "벽부착형 Plate(삽입형 아울렛)는 별도 구매 필요 (1port~6port)",
+    "Outlet 공박스는 별도 구매 필요 (1port~6port)",
+    "시연 제품과 실제 제품이 다를 수 있으나 동일한 방법으로 조립 가능"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "화이트",
+        "블루",
+        "레드",
+        "옐로우"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "FTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": 4,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "8P8C FTP Toolless I-Type",
+    "connectivity.output_signals": "8P8C FTP Toolless I-Type",
+    "connectivity.directional": "10/100/1000Mbps 전송속도 지원",
+    "connectivity.port_count": "1개의 모듈에서",
+    "form_physical.has_case": "분리덮개 적용 신형 모듈",
+    "form_physical.material": "모듈",
+    "form_physical.color_options": "색상: 화이트(U1WH), 블루(U1BL), 레드(U1RD), 옐로우(U1YL)",
+    "family.cat_category": "CAT.6",
+    "family.shielding": "FTP",
+    "family.pair_count": "8P8C"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:34",
+  "feature_schema_version": "1.0.0"
+}

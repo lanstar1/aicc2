@@ -1,0 +1,112 @@
+{
+  "model_no": "LS-GTM-1310BL",
+  "product_name": "LAN Star 벨크로타이 Roll 너비 13mm (10M)",
+  "category": [
+    "케이블정리",
+    "벨크로타이"
+  ],
+  "key_features": [
+    "6가지 색상(검정, 흰색, 파랑, 빨강, 노랑, 회색) 제공으로 다양한 연출 가능",
+    "필요한 길이만큼 잘라 사용 가능 (Roll 형태)",
+    "두 종류의 너비 라인업: 13mm, 20mm",
+    "탈부착이 쉽고 양면 사용 가능",
+    "케이블 정리, 공사 케이블 설치 등 묶을 수 있는 모든 곳에 사용 가능",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "RoHS 준수 제품",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "너비": "13mm",
+    "길이": "10M (Roll)",
+    "색상": "검정(LS-GTM-1310BK), 흰색(LS-GTM-1310WH), 파랑(LS-GTM-1310BL), 빨강(LS-GTM-1310RD), 노랑(LS-GTM-1310YL), 회색(LS-GTM-1310GY)",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "브랜드": "LAN Star",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원",
+    "AS 소비자상담": "070-7018-3386",
+    "인증번호": "상세페이지 참조"
+  },
+  "compatibility": [
+    "각종 케이블 (공사 케이블 설치 포함)",
+    "묶을 수 있는 모든 대상 (TIES / STRAPS 용도)",
+    "GARDEN 용도",
+    "GENERAL PURPOSE 용도"
+  ],
+  "package_contents": [
+    "벨크로타이 Roll 13mm x 10M (색상별 1롤)"
+  ],
+  "usage_instructions": "필요한 길이만큼 잘라 사용. 양면 벨크로 방식으로 탈부착하여 케이블 등을 묶어 정리.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GTM-1310BL",
+      "품목코드": "COM-악세사126",
+      "품목명": "[LANstar] 매직테이프 RoLL(대만산) 13mm 10M 블루 [60042]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 10,
+      "length_options_meters": null,
+      "color_options": [
+        "검정",
+        "흰색",
+        "파랑",
+        "빨강",
+        "노랑",
+        "회색"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "Roll 형태",
+    "form_physical.length_meters": "길이: 10M (Roll)",
+    "form_physical.color_options": "6가지 색상(검정, 흰색, 파랑, 빨강, 노랑, 회색)",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:23",
+  "feature_schema_version": "1.0.0"
+}

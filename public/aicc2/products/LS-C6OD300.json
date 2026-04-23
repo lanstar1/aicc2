@@ -1,0 +1,215 @@
+{
+  "model_no": "LS-C6OD300",
+  "product_name": "CAT.6 UTP 옥외용 박스케이블 단선(SOLID) / LDPE / 24AWG 300M",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP"
+  ],
+  "key_features": [
+    "CAT.6 UTP 케이블",
+    "단선(SOLID) 케이블 구조",
+    "전송속도 1Gbps",
+    "대역폭 250MHz",
+    "LDPE 외피 재질 (내부·외부 2겹) — 옥외 설치에 적합",
+    "CCA(Copper Clad Aluminum) 심선 구조 — 알루미늄 코어에 구리 피복",
+    "4PAIR 꼬임(UTP) 구조 및 십자형 차단막으로 신호 간섭 방지",
+    "FLUKE 테스트 통과 / SGS 인증 / RoHS 인증",
+    "컨넥터 미결합 상태로 출고 (박스 케이블)",
+    "플라스틱 캡을 통해 원하는 길이만큼 인출 가능",
+    "라인업시스템(주) 정품 / 현대해상화재 생산물배상책임보험(1억원) 가입"
+  ],
+  "specifications": {
+    "모델명": "LS-C6OD300",
+    "케이블 규격": "CAT.6 UTP",
+    "전송속도": "1Gbps",
+    "대역폭": "250MHz",
+    "케이블 길이": "300m",
+    "심선 규격": "24AWG",
+    "심선 구조": "단선(SOLID)",
+    "심선 소재": "CCA (Copper Clad Aluminum)",
+    "절연체": "HD-PE",
+    "외피 소재": "LDPE (Low-density polyethylene)",
+    "케이블 색상": "검정색(Black)",
+    "외경": "6.0±0.2mm",
+    "내부 구조": "4PAIR 꼬임 + 십자형 차단막",
+    "작동 온도": "섭씨 80℃",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "해당없음",
+    "박스 외형 치수": "345mm × 347mm × 210mm (근사치)",
+    "FLUKE 테스트 기준": "약 80~83m 기준"
+  },
+  "compatibility": [
+    "CAT.5E 전용 일반 컨넥터 — LSN-CAT5E-UTP50 (투명), LSN-CAT5E-UTP50BL (블루)",
+    "CAT.5E 전용 패스 컨넥터 — LSN-5EPASS-UTP (투명)",
+    "부트(Boot) — LSN-BOOT-OPEN (각부트, 8색), LSN-BOOT-COVER (통부트, 8색), LSN-BOOT-LOCK (락부트, 9색)",
+    "랜툴 — LS-68PN, LS-68RP-EZ, LS-68P",
+    "스트리퍼 — LS-ASTR (자동), LS-STR-R10",
+    "Direct/Cross 핀배열 컨넥터 모두 사용 가능",
+    "패스 컨넥터 및 일반 컨넥터 모두 사용 가능"
+  ],
+  "package_contents": [
+    "CAT.6 UTP 옥외용 박스케이블 300m (LS-C6OD300) 1박스",
+    "플라스틱 캡 (박스 인출구)"
+  ],
+  "usage_instructions": "① 제작할 길이만큼 케이블을 잘라낸 뒤 스트리퍼로 피복을 탈피한다. ② 부트를 케이블에 먼저 결합한다. ③ Direct 또는 Cross 핀배열에 맞게 페어를 정렬한다. ④ 컨넥터(패스 또는 일반)를 결합한다. ⑤ 랜툴을 이용하여 케이블 컷팅 및 컨넥터 압착을 진행한다. ⑥ 처음 결합해둔 부트를 마무리 결합하면 완성. ※ 박스 상단 플라스틱 캡을 통해 원하는 길이만큼 케이블을 인출하여 사용 가능.",
+  "cautions": [
+    "컨넥터가 결합되지 않은 상태로 출고되므로 구매자가 직접 컨넥터를 연결해야 한다.",
+    "FLUKE 테스트 기준은 약 80~83m이며, 케이블 제작 시 80m를 넘지 않도록 주의한다.",
+    "100m 초과 시 속도 저하가 발생할 수 있다.",
+    "단선(SOLID) 케이블은 연선보다 단단하여 과도하게 구부리면 파손될 수 있다.",
+    "정품 인증 배너가 등록되지 않은 판매처의 제품은 A/S를 받을 수 없다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있다.",
+    "당일출고는 오후 4시 이전 결제완료 건에 한하며, 토·일·공휴일은 제외된다.",
+    "택배사 사정에 따라 배송기간이 길어질 수 있다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-C6OD300",
+      "품목코드": "CAB-U5박169",
+      "품목명": "[LANstar] Cat.6 UTP 300M 옥외용 케이블 Black 색상 [LSC007][2개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-C6OD300",
+      "내용": "포장도 잘되있고 배송도 빠르고 너무 만족하게 잘받았습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-C6OD300",
+      "내용": "제품 좋네요 잘 쓰고 있습니다.",
+      "관련내용": "배송 빠르고 좋네요"
+    },
+    {
+      "source_model": "LS-C6OD300",
+      "내용": "배송 빠르고 좋네요"
+    },
+    {
+      "source_model": "LS-C6OD300",
+      "내용": "옥상 통신선로 부분 교체에 잘 사용합니다.",
+      "관련내용": "건물 옥외 CCTV 및 인터넷 선로 부분 보수용으로\n구매합니다."
+    },
+    {
+      "source_model": "LS-C6OD300",
+      "내용": "건물 옥외 CCTV 및 인터넷 선로 부분 보수용으로\n구매합니다."
+    },
+    {
+      "source_model": "LS-C6OD300",
+      "내용": "빳빳하니 쓰기 좋아요"
+    },
+    {
+      "source_model": "LS-C6OD300",
+      "내용": "잘 사용중입니다 ㅎㅎ",
+      "관련내용": "잘 사용하겠습니다 ㅎ"
+    },
+    {
+      "source_model": "LS-C6OD300",
+      "내용": "잘 사용하겠습니다 ㅎ"
+    },
+    {
+      "source_model": "LS-C6OD300",
+      "내용": "잘됩니다요!!이미 안쪽에 설치해서 따로 사진없네요..까비",
+      "관련내용": "아직 사무실에 설치는 안했지만 가성비로 잘산거같아요!"
+    },
+    {
+      "source_model": "LS-C6OD300",
+      "내용": "아직 사무실에 설치는 안했지만 가성비로 잘산거같아요!"
+    },
+    {
+      "source_model": "LS-C6OD300",
+      "내용": "너무 인상적이었어요. 완전 굿굿"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-C6OD300",
+      "id": 637991181,
+      "date": "2025-08-05 11:28",
+      "answerDate": "2025-08-06 17:42",
+      "user": "fann*****",
+      "productName": "랜스타 옥외 UTP CAT6 LDPE 24AWG 300M 랜케이블 LS-C6OD300",
+      "question": "100m 단위로는 안파나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n옥외용의 경우 100M 단위로는 판매하고 있지 않습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "LDPE",
+        "CCA"
+      ],
+      "length_meters": 300,
+      "length_options_meters": null,
+      "color_options": [
+        "검정색(Black)"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": "단선(solid)",
+      "awg": 24,
+      "pair_count": 4,
+      "flame_rating": "LDPE",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "컨넥터 미결합 상태로 출고",
+    "connectivity.output_signals": "컨넥터 미결합 상태로 출고",
+    "connectivity.directional": "CAT.6 UTP 케이블",
+    "form_physical.has_case": "옥외용 박스케이블",
+    "form_physical.material": "LDPE 외피 재질",
+    "form_physical.length_meters": "300M",
+    "form_physical.color_options": "검정색(Black)",
+    "certification.rohs": "RoHS 인증",
+    "family.cat_category": "CAT.6 UTP 케이블",
+    "family.shielding": "UTP",
+    "family.conductor": "단선(SOLID) 케이블 구조",
+    "family.awg": "24AWG",
+    "family.pair_count": "4PAIR 꼬임",
+    "family.flame_rating": "LDPE 외피 재질"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:58",
+  "feature_schema_version": "1.0.0"
+}

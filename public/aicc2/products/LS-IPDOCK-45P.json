@@ -1,0 +1,150 @@
+{
+  "model_no": "LS-IPDOCK-45P",
+  "product_name": "30핀 DOCK 젠더 (iPod & iPhone & iPad 전용 30핀 변환젠더)",
+  "category": [
+    "USB케이블",
+    "USB2.0",
+    "컨버터",
+    "젠더",
+    "커넥터",
+    "RCA케이블",
+    "오디오케이블",
+    "AV케이블"
+  ],
+  "key_features": [
+    "Apple MFi 공식 인증 제품 (Made for iPod / iPhone / iPad)",
+    "30핀 DOCK 커넥터를 통해 TV로 고화질(Full HD) 영상 및 무손실 음성 출력 가능",
+    "USB 2.0 지원으로 고속 데이터 전송 가능",
+    "USB 미니 5핀 케이블 연결 시 충전 및 PC 데이터 전송 지원",
+    "3.5 스테레오(4극)-3RCA 케이블 연결을 통해 TV 컴포지트 출력 지원",
+    "차량용 시가잭 또는 USB 전원 아답터를 통한 충전 지원",
+    "RoHS 인증 제품 (유해물질 규제 준수)",
+    "생산물 책임 보험 가입 제품",
+    "랜스타 애플 인증 제품 무상 A/S 1년"
+  ],
+  "specifications": {
+    "인터페이스": "30핀 DOCK (입력) / 3.5mm 스테레오 4극, USB 미니 5핀 (출력)",
+    "영상 출력 방식": "컴포지트 (3RCA: 빨강, 흰색, 노랑) — 별도 케이블 필요",
+    "지원 USB 규격": "USB 2.0",
+    "RFI Product ID": "102355-0099",
+    "Model No": "LS-IPDOCK-45P",
+    "브랜드": "LAN Star (랜스타)",
+    "제조사": "라인업시스템㈜",
+    "설립연도": "1993년",
+    "인증": "Apple MFi (Made for iPod/iPhone/iPad), RoHS Compliant",
+    "별도 구매 필요 케이블": "3.5 스테레오(4극)-3RCA 케이블 [LS3RST-1.8M], USB 미니 5핀 케이블"
+  },
+  "compatibility": [
+    "iPod nano 1세대",
+    "iPod nano 2세대 (aluminum)",
+    "iPod nano 3세대 (Video)",
+    "iPod nano 4세대 (Video)",
+    "iPod nano 5세대 (Video camera)",
+    "iPod nano 6세대",
+    "iPod 5세대 (Video)",
+    "iPod Mini",
+    "iPod Touch 1세대",
+    "iPod Touch 2세대",
+    "iPod Touch 3세대",
+    "iPod Touch 4세대",
+    "iPod Classic 80GB",
+    "iPod Classic 120GB",
+    "iPod Classic 160GB (2007)",
+    "iPod Classic 160GB (2009)",
+    "iPhone 3G",
+    "iPhone 3GS",
+    "iPhone 4",
+    "iPad (1세대)",
+    "iPad 2"
+  ],
+  "package_contents": [
+    "30핀 DOCK 젠더 (LS-IPDOCK-45P) 본체"
+  ],
+  "usage_instructions": "1. TV 영상·음성 출력: 30핀 젠더를 iPod/iPhone/iPad의 30핀 DOCK 단자에 연결한 후, 3.5 스테레오(4극)-3RCA 케이블(별도 구매)을 젠더의 3.5mm 단자에 연결하고 반대쪽 RCA 단자를 TV의 영상(노랑), 음성(빨강, 흰색) 단자에 연결한다. ※ iPod/iPhone/iPad의 스테레오 단자에서는 영상 출력이 불가하므로 반드시 30핀 젠더를 통해 출력해야 한다. 2. 충전 및 데이터 전송: 30핀 젠더를 기기에 연결한 후, USB 미니 5핀 케이블(별도 구매)을 젠더의 USB 미니 5핀 단자에 연결하여 USB 전원 아답터 또는 차량용 시가잭에 연결하면 충전이 가능하며, PC에 연결하면 데이터 전송도 가능하다.",
+  "cautions": [
+    "iPod, iPhone, iPad의 3.5mm 스테레오 단자에서는 영상 출력 기능이 없으므로, 반드시 30핀 젠더를 통해 영상을 출력해야 합니다.",
+    "TV 연결용 3.5 스테레오(4극)-3RCA 케이블 및 USB 미니 5핀 케이블은 별도 구매 품목입니다.",
+    "구매 전 호환 모델 목록을 확인 후 구매하시기 바랍니다.",
+    "본 컨텐츠를 저작권 허락 없이 무단 복사, 도용, 변형, 배포 및 기타 타 용도로 전환 시 형사상의 책임을 부담할 수 있습니다.",
+    "무상 A/S 기간은 구매일로부터 1년입니다.",
+    "초기 불량 시 고객센터 또는 판매점에서 1:1 교체 가능합니다.",
+    "A/S 발생 시 고객센터 방문 또는 택배(옐로우캡택배)를 이용할 수 있으며, 접수 후 새 제품으로 선발송 처리됩니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-IPDOCK-45P",
+      "품목코드": "CAB-APP202",
+      "품목명": "[LANstar]애플용 AV변환젠더, 30P TO 3.5ST4극＋USB",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "30핀 DOCK"
+      ],
+      "output_signals": [
+        "3.5mm",
+        "USB-Mini"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": true
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "30핀 DOCK (입력)",
+    "connectivity.output_signals": "3.5mm 스테레오 4극, USB 미니 5핀 (출력)",
+    "connectivity.directional": "충전 및 PC 데이터 전송 지원",
+    "power.power_mode": "USB 전원 아답터 또는 차량용 시가잭",
+    "power.charging_support": "충전 및 PC 데이터 전송 지원",
+    "form_physical.has_case": "30핀 DOCK 젠더",
+    "certification.rohs": "RoHS 인증 제품",
+    "audio_video.max_resolution": "고화질(Full HD) 영상",
+    "audio_video.audio_pass": "무손실 음성 출력 가능",
+    "family.usb_version": "USB 2.0 지원",
+    "family.transfer_speed_gbps": "USB 2.0 지원으로 고속 데이터 전송 가능",
+    "family.charging_only": "충전 및 PC 데이터 전송 지원",
+    "family.data_only": "충전 및 PC 데이터 전송 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:51",
+  "feature_schema_version": "1.0.0"
+}

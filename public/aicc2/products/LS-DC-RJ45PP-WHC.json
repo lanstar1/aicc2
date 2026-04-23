@@ -1,0 +1,178 @@
+{
+  "model_no": "LS-DC-RJ45PP-WHC",
+  "product_name": "랜포트 먼지마개 (RJ45 Jack Cover / Dust Cover Boot)",
+  "category": [
+    "먼지마개"
+  ],
+  "key_features": [
+    "케이블 미사용 시 열려있는 RJ45 포트에 먼지 및 이물질 유입 방지",
+    "투명(Transparent) 색상",
+    "RoHS 규격 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품",
+    "ISO 9001:2008 품질경영시스템 적용"
+  ],
+  "specifications": {
+    "모델명": "LS-DC-RJ45PP-WHC",
+    "제품 유형": "Dust Cover Boot (RJ45 Jack Cover)",
+    "색상": "투명 (Transparent)",
+    "적용 규격": "RJ45",
+    "RoHS": "COMPLIANT",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "RJ45 Jack (without Hook) 포트",
+    "스위치, 허브 등 RJ45 포트 보유 네트워크 장비"
+  ],
+  "package_contents": [
+    "랜포트 먼지마개 (LS-DC-RJ45PP-WHC) 본체"
+  ],
+  "usage_instructions": "케이블을 사용하지 않는 RJ45 포트에 먼지마개를 삽입하여 먼지 및 이물질 유입을 방지합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DC-RJ45PP-WHC",
+      "품목코드": "NEO-부트류120",
+      "품목명": "[LANstar] 랜포트(RJ45) 먼지덮개, DUST 커버, PP, 투명, 중국산 [40607] (100개입 판매)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DC-RJ45PP-WHC",
+      "내용": "잘 받았습니다 감사합니다."
+    },
+    {
+      "source_model": "LS-DC-RJ45PP-WHC",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-DC-RJ45PP-WHC",
+      "내용": "빠른 발송 감사합니다."
+    },
+    {
+      "source_model": "LS-DC-RJ45PP-WHC",
+      "내용": "잘 받았습니다 감사합니다."
+    },
+    {
+      "source_model": "LS-DC-RJ45PP-WHC",
+      "내용": "랜선에 먼지가 많이 들오갈것같아서 구입\n깔끔하고 깨끗해졌어요"
+    },
+    {
+      "source_model": "LS-DC-RJ45PP-WHC",
+      "내용": "잘 받았습니다 감사합니다."
+    },
+    {
+      "source_model": "LS-DC-RJ45PP-WHC",
+      "내용": "잘 받았습니다 감사합니다."
+    },
+    {
+      "source_model": "LS-DC-RJ45PP-WHC",
+      "내용": "역시 소문대로 깔끔하네요. 음질 향상은 이미 너무 많이 튜닝되어서 느끼긴 어려웠습니다."
+    },
+    {
+      "source_model": "LS-DC-RJ45PP-WHC",
+      "내용": "저렴한 가격으로 맘에 안정을 찾았네요 ㅎ헤"
+    },
+    {
+      "source_model": "LS-DC-RJ45PP-WHC",
+      "내용": "합리적인 가격, 좋은품질. 감사하게 사용하고 있습니다."
+    },
+    {
+      "source_model": "LS-DC-RJ45PP-WHC",
+      "내용": "사이즈 딱 입니다 투명색이라 색상 매치도 좋아요"
+    },
+    {
+      "source_model": "LS-DC-RJ45PP-WHC",
+      "내용": "빠른 배송 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-DC-RJ45PP-WHC",
+      "chatUrl": "3okkD",
+      "dateIso": "2023-11-27T05:00:05.769Z",
+      "name": "jhha****",
+      "isTechnical": true,
+      "category": "install",
+      "modelConfidence": "high",
+      "question": "LS-DC-RJ45PP-WHC 투명제품 지금 재고가 없어서 본사에 문의를 해야한다는데 입고 일정 알 수 있을까요?",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "투명"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "RJ45",
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.directional": "N/A",
+    "power.power_mode": "N/A",
+    "form_physical.has_case": "먼지마개",
+    "form_physical.material": "Dust Cover Boot",
+    "form_physical.color_options": "투명(Transparent) 색상",
+    "certification.kc": "인증번호: 해당없음",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.connector_type_a": "RJ45 포트",
+    "family.gender": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:25",
+  "feature_schema_version": "1.0.0"
+}

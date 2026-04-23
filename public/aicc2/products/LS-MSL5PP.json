@@ -1,0 +1,133 @@
+{
+  "model_no": "LS-MSL5PP",
+  "product_name": "LANStar 자석 마이크로 5핀 데이터 충전+전송 케이블 1M",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "자석 방식으로 한 손으로 1초 만에 케이블 연결 및 분리 가능",
+    "LED 표시 기능: 충전 중 파란색(BLUE), 미충전 시 초록색(GREEN)",
+    "아래 위 구분 없이 꽂을 수 있어 편리",
+    "어두운 곳에서도 LED 불빛과 자성으로 쉽게 연결 가능",
+    "2A 고속충전 지원",
+    "충전 및 데이터 전송 동시 지원",
+    "자석 커넥터 장착으로 커넥터 수명 연장",
+    "커넥터가 먼지 및 이물질 투입 차단",
+    "골드메탈, 실버메탈, 핑크메탈 3가지 색상 제공",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "RoHS, FCC, CE 인증, ISO 9001:2008 품질경영시스템 준수"
+  ],
+  "specifications": {
+    "커넥터": "마이크로 5핀 (안드로이드)",
+    "인터페이스": "USB A/M - Micro B/M",
+    "전압(전류)": "2A",
+    "기능": "충전/데이터전송",
+    "LED표시": "BLUE(충전 시) / GREEN(미충전 시)",
+    "길이": "1M (1000mm)",
+    "색상": "골드메탈, 실버메탈, 핑크메탈",
+    "모델별 색상": "LS-MSL5PG-1M(골드메탈), LS-MSL5PS-1M(실버메탈), LS-MSL5PP-1M(핑크메탈)",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증": "RoHS, FCC, CE, KCC",
+    "품질경영시스템": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "마이크로 5핀(Micro USB) 단자가 있는 삼성 스마트폰/태블릿",
+    "마이크로 5핀(Micro USB) 단자가 있는 LG 스마트폰/태블릿",
+    "마이크로 5핀(Micro USB) 단자가 있는 소니 스마트폰/태블릿",
+    "마이크로 5핀(Micro USB) 단자가 있는 모토로라 스마트폰/태블릿",
+    "마이크로 5핀(Micro USB) 단자가 있는 안드로이드 스마트폰/태블릿 전반"
+  ],
+  "package_contents": [
+    "자석 마이크로 5핀 케이블 1M",
+    "커넥터 제거기(U자형 홈)"
+  ],
+  "usage_instructions": "1. 마이크로 5핀 커넥터를 기기의 충전 단자에 장착한다(아래 위 구분 없이 삽입 가능). 2. 자석 케이블을 커넥터에 가져다 대면 자성으로 자동 결합된다. 3. 케이블 분리 시 앞으로 당기지 말고 살짝 옆으로 들어 빼준다(앞으로 당기면 커넥터가 딸려나올 수 있음). 4. 커넥터를 기기에서 제거할 때는 동봉된 제거기의 U자형 홈에 커넥터를 끼워 빼낸다.",
+  "cautions": [
+    "케이블과 기기 분리 시 앞으로 당기면 자성에 의해 커넥터가 딸려나올 수 있으니 살짝 옆으로 들어 빼주세요.",
+    "커넥터 제거 시 동봉된 제거기의 U자형 홈을 사용하세요.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 소비자상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MSL5PP-1M",
+      "품목코드": "CAB-모바일030",
+      "품목명": "[LANstar] 자석 데이터 충전 삼성/LG 모바일케이블 -핑크메탈 1M[10880]]★★할인제외★★",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": [
+        "골드메탈",
+        "실버메탈",
+        "핑크메탈"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A/M",
+    "connectivity.output_signals": "Micro B/M",
+    "connectivity.directional": "충전 및 데이터 전송 동시 지원",
+    "power.power_mode": "버스파워",
+    "power.charging_support": "2A 고속충전 지원",
+    "form_physical.material": "골드메탈",
+    "form_physical.length_meters": "길이: 1M",
+    "form_physical.color_options": "골드메탈, 실버메탈, 핑크메탈",
+    "certification.kc": "KCC",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:44",
+  "feature_schema_version": "1.0.0"
+}

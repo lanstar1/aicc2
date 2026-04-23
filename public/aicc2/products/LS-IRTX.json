@@ -1,0 +1,102 @@
+{
+  "model_no": "LS-IRTX",
+  "product_name": "HDMI IR 송신부 (IR 적외선 케이블 송신기)",
+  "category": [
+    "컨버터"
+  ],
+  "key_features": [
+    "적외선 리모컨 신호를 멀리 떨어진 곳에서 원격제어로 이용 가능한 송신기",
+    "3~5미터 거리까지 송신 가능",
+    "IR 컨버터와 결합하여 사용",
+    "RoHS 준수 제품 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "모델명": "LS-IRTX-1.5M",
+    "품명": "HDMI IR 송신부",
+    "케이블 길이": "1.5M",
+    "송신 거리": "3~5미터",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "품질경영시스템": "ISO 9001:2008",
+    "환경규격": "RoHS COMPLIANT"
+  },
+  "compatibility": [
+    "IR 컨버터"
+  ],
+  "package_contents": [
+    "HDMI IR 송신부 (LS-IRTX-1.5M) 본체"
+  ],
+  "usage_instructions": "IR 컨버터와 결합하여 사용. 적외선 리모컨 신호를 원격제어로 이용 시 송신기를 통해 3~5미터 거리까지 신호 송신 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-IRTX-1.5M",
+      "품목코드": "INT-HDS009",
+      "품목명": "[Lanstar] HDMI적외선 IR센서, 송신부(TX, Sender) 1.5M, 리모콘원격제어[60069]",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 1.5,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": null,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.length_meters": "케이블 길이: 1.5M",
+    "certification.kc": "인증번호: 해당없음",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008",
+    "family.conversion_direction": "IR 적외선 케이블 송신기"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:53",
+  "feature_schema_version": "1.0.0"
+}

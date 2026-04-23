@@ -1,0 +1,122 @@
+{
+  "model_no": "LS-HT-301G",
+  "product_name": "LANstar BNC 압축 툴",
+  "category": [
+    "커넥터",
+    "네트워크공구",
+    "LAN공구"
+  ],
+  "key_features": [
+    "Coaxial 커넥터 압착 전용 툴",
+    "일반적으로 사용되는 RG 계열 커넥터 압착 가능",
+    "압착하기 쉽도록 구성된 손잡이 구조",
+    "강력하고 견고한 압착 성능",
+    "전자통신 현장에서 자주 사용되는 BNC 툴"
+  ],
+  "specifications": {
+    "품명": "BNC 압축 툴",
+    "모델명": "LS-HT301G",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증서번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386",
+    "압착 직경 1": "0.043인치 (1.1mm)",
+    "압착 직경 2": "0.068인치 (1.73mm)",
+    "압착 직경 3": "0.100인치 (2.54mm)",
+    "압착 직경 4": "0.137인치 (3.50mm)",
+    "압착 직경 5": "0.213인치 (5.41mm)",
+    "압착 직경 6": "0.255인치 (6.48mm)"
+  },
+  "compatibility": [
+    "RG-58",
+    "RG-59",
+    "RG-62",
+    "RG-174",
+    "Fiber Optic 케이블"
+  ],
+  "package_contents": [],
+  "usage_instructions": "Coaxial 커넥터(BNC 등 RG 계열)를 케이블에 압착할 때 사용. 케이블 규격에 맞는 압착 다이를 선택하여 커넥터를 고정 후 손잡이를 눌러 압착.",
+  "cautions": [
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HT-301G",
+      "품목코드": "NEO-잡공구167",
+      "품목명": "[LANstar] TOOL공구BNC RG58,59,62용, 기어형, HD BNC용 [40130]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HT-301G",
+      "내용": "감사드립니다 여러 제품 잘 쓰고있습니다"
+    },
+    {
+      "source_model": "LS-HT-301G",
+      "내용": "저렴한가격에 잘 구입했습니다"
+    },
+    {
+      "source_model": "LS-HT-301G",
+      "내용": "매우 잘 받았습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "BNC",
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "강력하고 견고한 압착 성능",
+    "certification.kc": "인증서번호: 해당없음",
+    "family.connector_type_a": "Coaxial 커넥터(BNC 등 RG 계열)"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:47",
+  "feature_schema_version": "1.0.0"
+}

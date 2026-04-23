@@ -1,0 +1,353 @@
+{
+  "model_no": "LS-DP12MM",
+  "product_name": "LANStar DisplayPort 1.2 케이블 (M/M)",
+  "category": [
+    "DisplayPort"
+  ],
+  "key_features": [
+    "DisplayPort 1.2 규격 지원, 최대 21.6Gbps 대역폭",
+    "4K2K(3840x2160) @60Hz UHD 해상도 지원",
+    "QHD(2560x1440) 144Hz 게이밍 모드 지원",
+    "3D 입체영상 지원",
+    "YUV 4:4:4 크로마 서브샘플링 지원",
+    "디지털 음성 전송 지원 (2채널 스테레오 기본, 5.1채널 및 7.1채널 입체음향 지원)",
+    "별도 외부전원 불필요 (無전원)",
+    "채널당 3Gbps 데이터 전송률 지원",
+    "금도금 커넥터로 산화 방지 및 신호손실 최소화",
+    "멀티 스트리밍 기능 지원 (모니터 2대 2560x1600, 모니터 4대 1920x1200)",
+    "커넥터 보호캡 포함",
+    "RoHS 인증 준수",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "QHD(2560x1440) 144Hz 게이밍 모드 완벽 지원",
+    "Full HD(1920x1080) 지원",
+    "YUV 4:4:4 크로마서브샘플링 지원",
+    "디지털 음성 전송 지원: 2채널 스테레오, 5.1채널, 7.1채널 입체음향",
+    "멀티 스트리밍 지원: 모니터 2대 2560x1600(60Hz) 또는 모니터 4대 1920x1200 동시 출력",
+    "별도 외부 전원 불필요 (무전원 동작)",
+    "채널당 3Gbps 데이터 전송률",
+    "금도금 커넥터로 산화 방지 및 신호 손실 최소화",
+    "커넥터 보호캡 제공",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 타입": "DisplayPort Male / DisplayPort Male",
+    "DP 버전": "DisplayPort 1.2",
+    "최대 대역폭": "21.6Gbps",
+    "채널당 전송률": "3Gbps",
+    "최대 해상도": "3840x2160 (4K2K) @60Hz",
+    "전압": "30V",
+    "작동 온도": "0~80°C",
+    "핀 수": "19핀 (표준), 20번 핀은 더미핀 / 표준 19핀 (20번 핀은 더미핀, 케이블에 연결되지 않음)",
+    "케이블 규격": "AWM STYLE 20276, 80°C, 30V, VW-1",
+    "커넥터 크기": "19.6mm x 7.1mm (플러그 헤드 기준)",
+    "길이 옵션": "1M (LS-DP12MM-1M), 2M (LS-DP12MM-2M), 3M (LS-DP12MM-3M), 5M (LS-DP12MM-5M), 10M (LS-DP12MM-10M)",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원",
+    "DisplayPort 버전": "1.2",
+    "게이밍 해상도": "2560x1440 (QHD) @144Hz",
+    "음성 지원": "2채널 스테레오, 5.1채널, 7.1채널",
+    "케이블 길이": "1M, 2M, 3M, 5M, 10M",
+    "커넥터 너비": "19.6mm",
+    "커넥터 높이": "7.1mm",
+    "커넥터 핀 폭": "4.7mm",
+    "케이블 외경(커넥터 부)": "16mm",
+    "AWM 규격": "STYLE 20276, 80°C, 30V, VW-1",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "RoHS": "준수 (납, 수은, 카드뮴 등 중금속 미사용)"
+  },
+  "compatibility": [
+    "DisplayPort 1.2 포트 탑재 데스크탑 PC",
+    "DisplayPort 1.2 포트 탑재 노트북",
+    "DisplayPort 1.2 포트 탑재 모니터",
+    "DisplayPort 1.2 포트 탑재 TV",
+    "멀티 스트리밍 기능은 그래픽카드·모니터·케이블 모두 DisplayPort 1.2 멀티 스트리밍 지원 필요",
+    "멀티 스트리밍: 그래픽카드·모니터·케이블 모두 DisplayPort 1.2 멀티 스트리밍 지원 필요",
+    "DP 1.1 하위 호환"
+  ],
+  "package_contents": [
+    "DisplayPort 1.2 케이블 (선택 길이 1종)",
+    "커넥터 보호캡",
+    "DisplayPort 1.2 케이블 (선택 길이: 1M / 2M / 3M / 5M / 10M)"
+  ],
+  "usage_instructions": "DisplayPort Male 커넥터를 PC/노트북의 DP 출력 포트와 모니터/TV의 DP 입력 포트에 각각 연결합니다. 분리 시에는 커넥터의 고정핀 버튼을 화살표 방향으로 누르면 고정핀이 내려가 쉽게 분리됩니다. 멀티 스트리밍 사용 시 그래픽카드, 모니터, 케이블이 모두 DisplayPort 1.2 멀티 스트리밍 기능을 지원하는지 사전 확인이 필요합니다.",
+  "cautions": [
+    "20번 핀은 더미핀이므로 사용하지 않습니다.",
+    "표준 DP 케이블에서는 20번 핀(DP_PWR)이 사용되지 않으며, 20번 핀을 양 장치에 직접 연결하면 쇼트가 발생해 기기가 손상될 수 있습니다.",
+    "멀티 스트리밍 기능 사용 시 그래픽카드, 모니터, 케이블이 모두 DisplayPort 1.2 멀티 스트리밍을 지원하는지 반드시 확인하세요.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DP12MM-2M",
+      "품목코드": "CAB-젠DP055",
+      "품목명": "[LANstar] DisplayPort 1.2 케이블 2m [10786] (80개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP12MM-3M",
+      "품목코드": "CAB-젠DP056",
+      "품목명": "[LANstar] DisplayPort 1.2 케이블 3m [10787] (60개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP12MM-5M",
+      "품목코드": "CAB-젠DP057",
+      "품목명": "[LANstar] DisplayPort 1.2 케이블 5m [10788] (40개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP12MM-1M",
+      "품목코드": "CAB-젠DP060",
+      "품목명": "[LANstar] DisplayPort 1.2 케이블 1m [10785] (120개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP12MM-10M",
+      "품목코드": "CAB-젠DP097",
+      "품목명": "[LANstar] DisplayPort 1.2 케이블 10m [10885] (24개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DP12MM",
+      "내용": "1.2DP 포트라 1080p 1920 x 1080 해상도에서는 60Hz 밖에 출력 못합니다. 저 해상도에서 144hz 쓰실분은 참고하세요"
+    },
+    {
+      "source_model": "LS-DP12MM",
+      "내용": "----------"
+    },
+    {
+      "source_model": "LS-DP12MM",
+      "내용": "빠른 배송과 가성비"
+    },
+    {
+      "source_model": "LS-DP12MM-10M",
+      "내용": "배송 잘 받고 사용중입니다. 만족합니다",
+      "관련내용": "배송 잘 받았습니다. 감사합니다"
+    },
+    {
+      "source_model": "LS-DP12MM-10M",
+      "내용": "배송 잘 받았습니다. 감사합니다"
+    },
+    {
+      "source_model": "LS-DP12MM-10M",
+      "내용": "배송 빠르고 딱 필요한 제품입니다"
+    },
+    {
+      "source_model": "LS-DP12MM-10M",
+      "내용": "만족합니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-DP12MM-10M",
+      "내용": "잘받았습니다~~👍👍"
+    },
+    {
+      "source_model": "LS-DP12MM-10M",
+      "내용": "dp10m는 다른회사에 잘없어서 랜스타 케이블로 셋팅했는데 잘됩니다"
+    },
+    {
+      "source_model": "LS-DP12MM-10M",
+      "내용": "좋은 제품 빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-DP12MM-10M",
+      "내용": "잘 받았습니다! 잘 작동하네요!"
+    },
+    {
+      "source_model": "LS-DP12MM-1M",
+      "내용": "선정리 대충 끝냈습니다"
+    },
+    {
+      "source_model": "LS-DP12MM-1M",
+      "내용": "잘들어가긴했는데 모니터하고연결하기에 너무짧아서 잘못삿네요"
+    },
+    {
+      "source_model": "LS-DP12MM-2M",
+      "내용": "인식이 되었다 안되었다 합니다...",
+      "관련내용": "기존에 쓰던 dp to hdmi 케이블이 인식되지않아\ndp to dp를 구매했는데, 한방에 인식되서 편안하고 좋습니다 :)\n게다가 20번 더미라서 전력이 튀지도 않아 더욱 좋습니다"
+    },
+    {
+      "source_model": "LS-DP12MM-2M",
+      "내용": "기존에 쓰던 dp to hdmi 케이블이 인식되지않아\ndp to dp를 구매했는데, 한방에 인식되서 편안하고 좋습니다 :)\n게다가 20번 더미라서 전력이 튀지도 않아 더욱 좋습니다"
+    },
+    {
+      "source_model": "LS-DP12MM-2M",
+      "내용": "모니터 좋은거 쓸수록 좋은 케이블을 사용해야합니다.\n랜스타 케이블은 고장안나게 조치가 되어있어서 안심되구 선길이도 딱 좋네요!!\n4k 영상 너무 잘나와요!!"
+    },
+    {
+      "source_model": "LS-DP12MM-2M",
+      "내용": "솔직히 처음써보는데, 유튜브영향도 좀 있었고...\n가성비에서 좋은거 같아서요 암튼 깨끗하게 잘 나오네요"
+    },
+    {
+      "source_model": "LS-DP12MM-2M",
+      "내용": "배송빠르고 잘 사용하고 있습니다"
+    },
+    {
+      "source_model": "LS-DP12MM-2M",
+      "내용": "배송 빠르고좋아요."
+    },
+    {
+      "source_model": "LS-DP12MM-2M",
+      "내용": "아주 잘사용하고 있습니다."
+    },
+    {
+      "source_model": "LS-DP12MM-2M",
+      "내용": "인식 잘되고 가성비좋아요",
+      "관련내용": "가성비 만족합니다 좋은제품이네요"
+    },
+    {
+      "source_model": "LS-DP12MM-2M",
+      "내용": "가성비 만족합니다 좋은제품이네요"
+    },
+    {
+      "source_model": "LS-DP12MM-2M",
+      "내용": "DP 케이블 덕분에 4K로 게임할 수 있습니다. 만족합니다.",
+      "관련내용": "케이블 잘 받았습니다. 작동 잘 되고요, 만족합니다. ^^"
+    },
+    {
+      "source_model": "LS-DP12MM-2M",
+      "내용": "더미핀은 여기가 최고일 듯 합니다^~^"
+    },
+    {
+      "source_model": "LS-DP12MM-2M",
+      "내용": "케이블 잘 받았습니다. 작동 잘 되고요, 만족합니다. ^^"
+    },
+    {
+      "source_model": "LS-DP12MM-2M",
+      "내용": "좋은물건 감사합니다"
+    },
+    {
+      "source_model": "LS-DP12MM-2M",
+      "내용": "가격이 싸고 배송이 빨라서 좋아요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-DP12MM-3M",
+      "id": 543549440,
+      "date": "2023-08-25 16:59",
+      "answerDate": "2023-08-28 14:59",
+      "user": "hwoa******",
+      "productName": "랜스타 LS-DP12MM-3M 디스플레이포트 DP 케이블 3M 20핀 더미핀 1.2VER",
+      "question": "이 키이블은 20번 핀을 제거 안하고 사용해도 괜찮나요?",
+      "answer": "안녕하세요, 고객님. 랜스타입니다.\n\n해당 제품의 경우, 20번 핀이 제거되어 있어 그냥 사용하셔도 괜찮습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-DP12MM-1M",
+      "chatUrl": "3IShH",
+      "dateIso": "2023-10-25T06:58:54.466Z",
+      "name": "rlrt****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "반품 문의",
+      "answer": "고객님, 금일 재발송 운송장번호 남겨드립니다. [로젠 36665181210]\n또한, 수령하신 케이블의 경우, 별도의 수거 진행을 하지 않아 번거로우시겠지만 고객님께서 직접 폐기해"
+    },
+    {
+      "source_model": "LS-DP12MM-1M",
+      "chatUrl": "3IShH",
+      "dateIso": "2023-10-25T06:58:54.466Z",
+      "name": "rlrt****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "[이미지]",
+      "answer": "주문을 문의합니다. [배송도착예정] 주문하신 상품이 오늘 도착예정입니다~ [배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요! [배송시작] 주문하신 상품이 택배사에 도착"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-DP12MM-XXM": "20번 핀은 더미핀입니다.\nCONTINUITY\nOFF\nC\nRemote\nNF-633\nStandard DisplayPort cable connections do not\nuse the DP_PWR pin. Connecting the\nDP_PWR pins of two devices directly together\nthrough a cable can create a short circuit\nwhich can potentially damage devices,\nsince the DP_PWR pins on two devices are\nunlikely to have exactly the same voltage\n(especially with a ±10% tolerance).\nPOWER\nDP Cable Tester\nMaster\nNF-633\n표준 DP 케이블에서는 20핀이 사용되지않습니다.\n만약 다이렉트로 연결하게된다면 케이블의 20핀이\n모니터 - 그래픽카드 양 장치에 잠재적으로 데미지를\n줍니다. 이는 양 장치가 도저히 될수없는\n같은 전압(오차 10%)이 될때까지 입니다.\n<자체 테스트 완료>\nLANG\nStar\nD DisplayPort\n無전원, 영상과 음성 지원\nDisplayPort 1.2 케이블\nM/M\nDisplay\n4K2K\n3D\nPort\nSTANDARD\n01\n60Hz\n1.2\nFULL HD\n표준 19핀\n1M LS-DP12MM-1M\n(2M LS-DP12MM-2M\n3M LS-DP12MM-3M\n5M LS-DP12MM-5M\n10M LS-DP12MM-10M\nDisplayPort 컨버터 케이블은?\n디스플레이 포트가 장착된 PC나 노트북 같은 작은 화면의 영상\n이나 음성을 대형화면에서 볼 수 있도록 지원하는 케이블입니다\nP DisplayPort 7.2\n4K*2K @60Hz\nㅇ\nGBPS\n25\n20\n21.6 GBPS\nDP 1.2 버전은 최대 21.6Gbps의 대역폭을\n보유하고 있어 DVI나 HDMI보다 높은\n전송률을 보이므로 1920x1080의 풀HD급,\n2560x1600이나 3840x2160(4K*2K)과\n같은 초고해상도의 화면, 그리고 3D 입체영상\n의 구현도 가능합니다.\n또한 디지털 음성도 하나의 케이블로 전달해\n2채널 스테레오 음성은 기본으로 5.1채널이나\n7.1채널의 입체음향의 전송도 가능합니다.\n15-\n10\n10.8 GBPS\n5\nDP 1.1\nDP 1.2\nVersion\n\n\n10.8 GBPS\n2채널 스테레오 음성은 기본으로 5.1채널이나\n7.1채널의 입체음향의 전송도 가능합니다.\n5\nDP 1.1\nDP 1.2\nVersion\n4K@60Hz UHD\n해상도 지원\n4K@60Hz 해상도를 지원하여 고해상도의 화면으로 영상을\n감상할 수 있습니다.\n1920x1080\n3840x2160\nFull HD\n4K Ultra HD\nYUV 4:4:4\n크로마서브샘플링\n크로마서브샘플링 4:4:4는 블루레이 디스크와 온라인 스트리밍 서비스,\n넷플릭스, TV방송을 위해 만들어진 밝기/컬리 인포메이션이 담긴\n압축 신호입니다.\n크로마 서브샘플링 비율\n1234\n1 2 3 4\n1 2 3 4\nY\nj = 4\nj = 4\nj = 4\n+\n1\n2\na=2\n1\n2\na=2\n1234a=4\n=>\nb = 0\n1\n2\nb = 2\n1\n23 4 b =4\nII\nII\nII\n4:2:0\n4:2:2\n4:4:4\n크로마 서브샘플링 화질 비교\n\n\n크로마 서브샘플링 화질 비교\n4:2:0\n4:2:2\n4:4:4\nQHD 144Hz\n게이밍모드 완벽지원\n2560x1440 QHD 해상도에서 144Hz 게이밍 모드를 완벽 지원합니다.\nSAMSUNG\n3D 입체영상 지원\n주요 HDMI 기기들의 3D 비디오 포맷과 해상도의 통일된 규격을 지원해\n진정한 3D게임과 3D영상에 적용하여 더욱 생생하고 역동적인 화면을 즐길 수 있습니다.\nSSSS\n3D\n\n\n30\n#전원\n별도의 외부전원 없이\n동작됩니다\n3Gbps\n채널당 3Gbps의 데이터\n전송률을 지원합니다\n금도금\n콘넥터\n금도금 콘넥터라 산화가\n일어나지 않아 신호손실이\n적습니다\n멀티 스트리밍 기능\nmulti streaming\nDisplayPort 1.2에서는 2대의 모니터에서 2560x1600(60Hz) 해상도를,\n4대의 모니터에서는 1920x1200 해상도의 영상을 출력할 수 있습니다\nDisplayPort 7.2\n모니터 2대 2560x1600 해상도\nAGBABAGHEERA\nD DisplayPort 7.2\n모니터 4대 1920x1200 해상도\n그래픽카드, 모니터, 케이블이 디스플레이포트 1.2\n멀티 스트리밍 기능을 지원하는지 확인하세요.\n제품 연결\nsystem connection\n1588\n데스크탑 PC\n노트북\nDisplayPort (Male)\nDisplayPort (Male)\n\n\nDisplayPort (Male)\nDisplayPort (Male)\nTV\nPRODUCT SIZE\n1-10M\n19.6mm\nPH\nHU\n19.6mm\n7.1mm\nPIN OUT\nP1\nP2\n1\n12\n3\n10\n11\n11\n2\n7\n4.7mm\n10\n12\n1\n16mm\n11\n<DisplayPort Male>\n13\n13\n14\n14\n15\n15\n17\n17\n16\n16\n18\n18\n19\n19\nBRAID\nSHELL\nSHELL\n디스플레이 포트 분리 방법\n고정핀\n화살표 방향으로 버튼을 누릅니다\n고정핀이 내려가서 쉽게 빠집니다.\nLS-DP12MM-1M 1M\nLS-DP12MM-2M 2M\nда\nQO0\nLS-DP12MM-3M 3M\nLS-DP12MM-5M 5M\nLS-DP12MM-10M 10M\nDisplayPort\nCable\nAWM\nSTYLE\n20276\n80˚C\n30V\nVW-1\n콘넥터 보호캡\n\n\n콘넥터 보호캡\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n콘넥터타입\nDP(Male) / DP(Male)\n전\n압\n30V\n길\n이\n1M / 2M / 3M / 5M / 10M\n작동온도\n0~80°℃\nR\n10\nROHS\nCOMPLIANT\nATIONA\nCERTIFICATION\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANSStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nDisplay Port 1.2 케이블\nLS-DP12MM-1M/LS-DP12MM-2M\nLANStar\n모\n델\n명\nLS-DP12MM-3M/LS-DP12MM-5M\nLS-DP12MM-10M\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DisplayPort"
+      ],
+      "output_signals": [
+        "DisplayPort"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        2,
+        3,
+        5,
+        10
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "DP1.2",
+      "dvi_type": "N/A",
+      "optical_core": null,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DisplayPort Male",
+    "connectivity.output_signals": "DisplayPort Male",
+    "connectivity.directional": "PC/노트북의 DP 출력 포트와 모니터/TV의 DP 입력 포트",
+    "power.power_mode": "별도 외부전원 불필요 (無전원)",
+    "power.charging_support": "별도 외부전원 불필요 (無전원)",
+    "form_physical.material": "금도금 커넥터로 산화 방지",
+    "form_physical.length_options_meters": "1M (LS-DP12MM-1M), 2M (LS-DP12MM-2M), 3M (LS-DP12MM-3M), 5M (LS-DP12MM-5M), 10M",
+    "certification.rohs": "RoHS 인증 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "4K2K(3840x2160) @60Hz UHD 해상도 지원",
+    "audio_video.audio_pass": "디지털 음성 전송 지원",
+    "family.dp_version": "DisplayPort 1.2 규격 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:37",
+  "feature_schema_version": "1.0.0"
+}

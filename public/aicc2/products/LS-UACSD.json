@@ -1,0 +1,174 @@
+{
+  "model_no": "LS-UACSD",
+  "product_name": "LANStar USB3.0 A/C 듀얼 포트 SD/TF(Micro SD) 카드 리더기",
+  "category": [
+    "USB-C",
+    "USB3.0"
+  ],
+  "key_features": [
+    "USB Type-A / Type-C 듀얼 포트 지원",
+    "USB 3.0 규격 지원 (최대 5Gbps 데이터 전송 속도)",
+    "SD 및 TF(Micro SD) 카드 슬롯 동시 탑재",
+    "Plug & Play 방식 (별도 드라이버·앱 설치 불필요)",
+    "초소형·슬림 디자인 (알루미늄 재질, 약 12g)",
+    "USB 포트 보호 캡 제공 (미사용·보관 시 포트 보호)",
+    "스마트폰·태블릿·PC·노트북 등 다양한 기기 연결 가능",
+    "현장에서 블랙박스 영상 즉시 확인 및 증거 확보 가능",
+    "KC 인증 획득 제품 (인증번호: R-R-LUS-LS-UACSD)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득)"
+  ],
+  "specifications": {
+    "호환 규격": "SD / TF(Micro SD)",
+    "인터페이스": "USB3.0 Type-A / Type-C",
+    "전송 속도": "최대 5Gbps",
+    "크기": "71 x 21 x 10 (mm)",
+    "무게": "약 12g",
+    "재질": "알루미늄",
+    "KC 인증번호": "R-R-LUS-LS-UACSD",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "SD, SDHC, SDXC 카드",
+    "MicroSD, MicroSDHC, MicroSDXC 카드",
+    "USB Type-C 포트 탑재 스마트폰·태블릿·노트북 (아이폰 15 이상 포함)",
+    "OTG 기능 지원 안드로이드 스마트폰·태블릿",
+    "USB Type-A 포트 탑재 PC(데스크탑)·노트북",
+    "맥북 등 Type-C 포트 사용 노트북",
+    "USB 2.0 포트 (전송 속도는 USB 3.0 대비 느림)",
+    "아이폰: iOS 17 이상 / 파일 앱(File App) 필요, 메모리 카드 exFAT 또는 FAT32 포맷 권장",
+    "일부 구형 스마트폰·카메라: SDHC까지만 인식 가능"
+  ],
+  "package_contents": [
+    "USB3.0 A/C 듀얼 포트 SD/TF 카드 리더기 (LS-UACSD) 본체"
+  ],
+  "usage_instructions": "① 차량 블랙박스 등에서 메모리 카드를 분리한다. ② 카드 리더기의 SD 또는 TF(Micro SD) 슬롯에 메모리 카드를 삽입한다. ③ USB Type-C 또는 Type-A 포트를 이용해 스마트폰·태블릿·PC·노트북에 연결한다. ④ 안드로이드: '내 파일 > 저장공간 > USB 저장장치' 항목에서 파일 확인. 아이폰(iOS 17 이상, 아이폰 15 이상): '파일 앱 > Untitled' 항목에서 파일 확인. PC/노트북: 자동 인식 후 파일 탐색기에서 확인. 별도 드라이버·앱 설치 불필요(Plug & Play).",
+  "cautions": [
+    "아이폰은 USB Type-C를 사용하는 아이폰 15 시리즈부터 사용 가능",
+    "아이폰 사용 시 iOS 17 이상 필요, 파일 앱(File App)으로 접근해야 하며 메모리 카드가 exFAT 또는 FAT32 형식으로 포맷되어 있어야 안정적으로 인식됨",
+    "일부 구형 스마트폰·카메라는 SDHC까지만 인식",
+    "USB 2.0 포트 연결 시 전송 속도가 USB 3.0 대비 느릴 수 있음",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처 제품은 정품이 아니므로 A/S 불가",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음",
+    "당사 동의 없이 제품 및 콘텐츠 무단 복제·이용 시 불이익이 발생할 수 있음",
+    "품질 보증 기준: 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UACSD",
+      "품목코드": "CAB-APO001",
+      "품목명": "[Lanstar] SD 카드 리더기 USB 3.0 A/C 듀얼 [30931]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-UACSD",
+      "내용": "잘 작동 하고 있어요",
+      "관련내용": "좋아요 잘인식 합니다"
+    },
+    {
+      "source_model": "LS-UACSD",
+      "내용": "잘 작동고 하고 있어요",
+      "관련내용": "카드 제거시 걸림이 있어요  삐떡하게 제거시 메모리 잠금 장치"
+    },
+    {
+      "source_model": "LS-UACSD",
+      "내용": "좋아요 잘인식 합니다"
+    },
+    {
+      "source_model": "LS-UACSD",
+      "내용": "카드 제거시 걸림이 있어요  삐떡하게 제거시 메모리 잠금 장치"
+    },
+    {
+      "source_model": "LS-UACSD",
+      "내용": "SD카드 빠르게 읽힙니다\n추헌찹니다!!!"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "USB-C"
+      ],
+      "output_signals": [
+        "SD",
+        "microSD"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB Type-A / Type-C 듀얼 포트 지원",
+    "connectivity.output_signals": "SD 및 TF(Micro SD) 카드 슬롯 동시 탑재",
+    "connectivity.directional": "SD 및 TF(Micro SD) 카드 슬롯 동시 탑재",
+    "connectivity.port_count": "SD 및 TF(Micro SD) 카드 슬롯 동시 탑재",
+    "power.power_mode": "USB Type-C 또는 Type-A 포트를 이용해",
+    "power.charging_support": "USB3.0 A/C 듀얼 포트 SD/TF(Micro SD) 카드 리더기",
+    "form_physical.has_case": "USB 포트 보호 캡 제공",
+    "form_physical.material": "알루미늄 재질",
+    "certification.kc": "KC 인증 획득 제품",
+    "audio_video.max_resolution": "USB3.0 A/C 듀얼 포트 SD/TF(Micro SD) 카드 리더기",
+    "audio_video.hdr_support": "USB3.0 A/C 듀얼 포트 SD/TF(Micro SD) 카드 리더기",
+    "audio_video.hdcp_version": "USB3.0 A/C 듀얼 포트 SD/TF(Micro SD) 카드 리더기",
+    "audio_video.audio_pass": "USB3.0 A/C 듀얼 포트 SD/TF(Micro SD) 카드 리더기",
+    "control_switching.has_remote": "USB3.0 A/C 듀얼 포트 SD/TF(Micro SD) 카드 리더기",
+    "control_switching.has_hotkey": "USB3.0 A/C 듀얼 포트 SD/TF(Micro SD) 카드 리더기",
+    "control_switching.has_physical_button": "USB3.0 A/C 듀얼 포트 SD/TF(Micro SD) 카드 리더기",
+    "control_switching.has_mouse_switching": "USB3.0 A/C 듀얼 포트 SD/TF(Micro SD) 카드 리더기",
+    "control_switching.has_auto_scan": "USB3.0 A/C 듀얼 포트 SD/TF(Micro SD) 카드 리더기",
+    "control_switching.has_app_control": "별도 드라이버·앱 설치 불필요",
+    "family.usb_version": "USB 3.0 규격 지원",
+    "family.transfer_speed_gbps": "최대 5Gbps 데이터 전송 속도",
+    "family.charging_only": "USB3.0 A/C 듀얼 포트 SD/TF(Micro SD) 카드 리더기",
+    "family.data_only": "USB3.0 A/C 듀얼 포트 SD/TF(Micro SD) 카드 리더기"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:56",
+  "feature_schema_version": "1.0.0"
+}

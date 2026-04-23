@@ -1,0 +1,133 @@
+{
+  "model_no": "LS-HIAPPG",
+  "product_name": "LANStar 고속충전 데이터 애플 아이폰 케이블 USB A/M-8Pin/M 1M",
+  "category": [
+    "아이폰케이블"
+  ],
+  "key_features": [
+    "패브릭 소재를 땋아서 만든 케이블로 줄꼬임 없음",
+    "유연하여 구부려도 단선 위험 없음",
+    "콘넥터와 케이블 이음 부분에 완충장치 적용(단선방지 설계)",
+    "일반 케이블보다 2배 빠른 충전속도(충전기 성능에 따라 달라질 수 있음)",
+    "5V 2A 전원 어댑터 기준 아이폰 6 측정 전류값 0.97A(오차범위 ±0.05)",
+    "2mm 단차 콘넥터 적용으로 두꺼운 폰 케이스와도 결합 가능(단, 메탈실버 8핀 색상은 단차 없는 일반형 콘넥터)",
+    "고급 알루미늄 콘넥터로 내구성 강화",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터": "라이트닝 8핀(애플 아이폰)",
+    "USB 타입": "USB A Male - 8Pin Male",
+    "최대 전류": "2.1A",
+    "기능": "충전/데이터전송 가능",
+    "케이블 길이": "1M (1000mm)",
+    "USB A Male 크기": "11.1mm x 6.6mm",
+    "8Pin Male 크기": "3.5mm x 7.2mm x 11mm",
+    "케이블 소재": "패브릭(땋음 처리)",
+    "콘넥터 소재": "알루미늄",
+    "색상": "골드메탈(LS-HIAPPG-1M), 실버메탈(LS-HIAPPS-1M)",
+    "제조국": "중국 (China)",
+    "인증": "RoHS, FCC, CE, KCC, ISO 9001:2008"
+  },
+  "compatibility": [
+    "애플 아이폰 (라이트닝 8핀 지원 기기)",
+    "아이폰 6 확인됨"
+  ],
+  "package_contents": [
+    "USB A/M-8Pin/M 패브릭 케이블 1M"
+  ],
+  "usage_instructions": "5V 2A 전원 어댑터에 연결하여 아이폰 충전 및 데이터 전송에 사용. 두꺼운 케이스 사용 시 2mm 단차 콘넥터(골드메탈)를 사용하면 케이스 탈거 없이 연결 가능. 메탈실버 색상은 단차 없는 일반형 콘넥터이므로 두꺼운 케이스와의 결합 여부 사전 확인 필요.",
+  "cautions": [
+    "충전 속도는 충전기의 성능에 따라 달라질 수 있음",
+    "메탈실버(8핀) 색상은 단차가 없는 일반형 콘넥터이므로 두꺼운 폰 케이스와의 호환 주의",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주) 제작 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상(AS 소비자상담: 070-7018-3386)"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HIAPPG-1M",
+      "품목코드": "CAB-모바일024",
+      "품목명": "[LANstar] 고속충전 데이터 애플8핀/아이폰 , Gold cable-골드메탈 A/M-라이트닝 1M[10853]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Lightning"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "알루미늄",
+        "패브릭"
+      ],
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": [
+        "골드메탈",
+        "실버메탈"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A Male - 8Pin Male",
+    "connectivity.output_signals": "8Pin Male",
+    "connectivity.directional": "충전/데이터전송 가능",
+    "power.power_mode": "5V 2A 전원 어댑터 기준",
+    "power.charging_support": "고속충전 데이터",
+    "form_physical.material": "패브릭 소재를 땋아서 만든 케이블",
+    "form_physical.length_meters": "케이블 길이: 1M",
+    "form_physical.color_options": "색상: 골드메탈, 실버메탈",
+    "certification.kc": "KCC",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "family.optical_core": "광(AOC) 코어 내장",
+    "family.ethernet_channel": "HDMI with Ethernet 등 이더넷 패스스루"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:41",
+  "feature_schema_version": "1.0.0"
+}

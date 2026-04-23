@@ -1,0 +1,148 @@
+{
+  "model_no": "LS-SL6-W",
+  "product_name": "CAT.6 UTP Ultra Slim Direct Ethernet Cable (White)",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP"
+  ],
+  "key_features": [
+    "CAT.6 UTP 규격, 최대 1Gbps 전송속도 지원",
+    "250MHz 대역폭 지원",
+    "32AWG 초슬림 케이블 (외경 OD 2.8±0.2mm)",
+    "4페어 꼬임구조(Twisted Pair) 연선 케이블 — 단선 대비 유연하고 설치 용이",
+    "100% Copper 연선 사용으로 잡음 및 감쇄 현상 최소화",
+    "LSZH(Low Smoke Zero Halogen) 난연 소재 — 저연기·무독성·무산성 가스",
+    "Red RJ45 커넥터(8P8C) 적용",
+    "Fluke DTX-1800 테스터 통과 (PASS)",
+    "RoHS 인증 제품",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "0.5m~20m 총 8가지 길이 선택 가능"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.6 UTP (U/UTP, 4Pair Twisted Pair)",
+    "전송속도": "최대 1Gbps",
+    "대역폭": "250MHz",
+    "심선(AWG)": "32AWG",
+    "심선 재질": "100% Copper (연선/Stranded)",
+    "커넥터": "RJ45, 8P8C, Red Connector",
+    "외경(OD)": "2.8±0.2mm",
+    "재질(자켓)": "PVC",
+    "난연 규격": "LSZH (Low Smoke Zero Halogen)",
+    "지원 길이": "0.5m, 1m, 2m, 3m, 5m, 10m, 15m, 20m",
+    "핀아웃(CN1-CN2)": "1-1 White, 2-2 Orange, 3-3 White, 4-4 Blue, 5-5 White, 6-6 Green, 7-7 White, 8-8 Brown",
+    "RoHS": "COMPLIANT",
+    "KC 인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "품질 테스트": "Fluke DTX-1800 PASS (TIA Cat 6 Channel 기준)",
+    "보험": "현대해상화재보험 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "1000BASE-TX (CAT.6 규격)",
+    "1000BASE-T",
+    "100BASE-TX",
+    "100BASE-T4",
+    "10BASE-T",
+    "ATM-51, ATM-156",
+    "100VG-AnyLAN",
+    "TR-4, TR-16 Active, TR-16 Passive"
+  ],
+  "package_contents": [
+    "CAT.6 UTP Ultra Slim 랜케이블 (선택 길이 1개)"
+  ],
+  "usage_instructions": "RJ45 커넥터를 네트워크 장비(스위치, 라우터, PC 등)의 LAN 포트에 직접 연결하여 사용합니다. 연선(Stranded) 구조로 유연하게 휘어지므로 좁은 공간이나 배선 정리가 필요한 환경에 적합합니다. 공공장소 또는 환기가 원활하지 않은 장소에는 LSZH 특성을 활용할 수 있습니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상·형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품은 라인업시스템(주)의 정품이며, 비정품 사용 시 불이익이 발생할 수 있습니다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "구매·배송·반품은 판매처(쇼핑몰) 정책을 따릅니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1,
+        2,
+        3,
+        5,
+        10,
+        15,
+        20
+      ],
+      "color_options": [
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": "연선(stranded)",
+      "awg": 32,
+      "pair_count": 4,
+      "flame_rating": "LSZH",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Red RJ45 커넥터(8P8C) 적용",
+    "connectivity.output_signals": "Red RJ45 커넥터(8P8C) 적용",
+    "connectivity.directional": "RJ45 커넥터를 네트워크 장비(스위치, 라우터, PC 등)의 LAN 포트에 직접 연결",
+    "form_physical.material": "재질(자켓): PVC",
+    "form_physical.length_options_meters": "0.5m~20m 총 8가지 길이 선택 가능",
+    "form_physical.color_options": "CAT.6 UTP Ultra Slim Direct Ethernet Cable (White)",
+    "certification.rohs": "RoHS 인증 제품",
+    "certification.kc": "KC 인증번호: 해당없음",
+    "family.cat_category": "CAT.6 UTP 규격",
+    "family.shielding": "CAT.6 UTP (U/UTP, 4Pair Twisted Pair)",
+    "family.conductor": "연선 케이블 — 단선 대비 유연하고 설치 용이",
+    "family.awg": "32AWG 초슬림 케이블",
+    "family.pair_count": "4페어 꼬임구조(Twisted Pair)",
+    "family.flame_rating": "LSZH(Low Smoke Zero Halogen) 난연 소재"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:35",
+  "feature_schema_version": "1.0.0"
+}

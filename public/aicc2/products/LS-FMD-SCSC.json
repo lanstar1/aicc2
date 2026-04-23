@@ -1,0 +1,185 @@
+{
+  "model_no": "LS-FMD-SCSC",
+  "product_name": "광점퍼코드 멀티모드(MM) SC-SC Duplex 케이블",
+  "category": [
+    "광케이블",
+    "광점퍼코드",
+    "커넥터"
+  ],
+  "key_features": [
+    "멀티모드(MM) 광섬유 사용, 코어 직경 50~100㎛, 단거리 전송에 적합",
+    "케이블 색상: 주황색",
+    "SC 타입 커넥터 양단 적용, Duplex(2C) 구성",
+    "1m / 3m / 5m / 10m / 15m / 20m / 30m 총 7가지 길이 라인업",
+    "당일출고 가능 (평일 오후 4시 이전 결제 완료 건)",
+    "소재·부품·장비 전문기업확인서 취득 (2022.11.29, KEIT)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "라인업시스템(주) / 랜스타 정품 인증 제품"
+  ],
+  "specifications": {
+    "커넥터 타입": "SC-SC Duplex",
+    "광섬유 모드": "멀티모드(MM)",
+    "코어 직경": "50~100㎛",
+    "케이블 색상": "주황색",
+    "사용 길이 옵션": "1m, 3m, 5m, 10m, 15m, 20m, 30m",
+    "모델명(1m)": "LS-FMD-SCSC-1M",
+    "모델명(3m)": "LS-FMD-SCSC-3M",
+    "모델명(5m)": "LS-FMD-SCSC-5M",
+    "모델명(10m)": "LS-FMD-SCSC-10M",
+    "모델명(15m)": "LS-FMD-SCSC-15M",
+    "모델명(20m)": "LS-FMD-SCSC-20M",
+    "모델명(30m)": "LS-FMD-SCSC-30M",
+    "커넥터 외경(페룰)": "2.5mm",
+    "부트 길이": "53mm",
+    "커넥터 본체 폭": "18.9mm",
+    "커넥터 본체 높이": "8.9mm",
+    "케이블 외경": "2.3mm",
+    "KC 인증 번호": "해당없음",
+    "제조국/원산지": "중국(China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "SC 타입 광송수신 장비",
+    "광전송로(광케이블)",
+    "광분배함",
+    "광장비",
+    "광 단말 장치"
+  ],
+  "package_contents": [
+    "광점퍼코드 멀티모드 SC-SC Duplex 케이블 (선택 길이 1개)"
+  ],
+  "usage_instructions": "① 광송수신 장비와 광전송로 간 연결 ② 광분배함과 광케이블 간 연결 ③ 광분배함과 광장비 간 연결 ④ 광장비와 광 단말 간 연결. SC 타입 커넥터를 해당 포트에 삽입하여 사용.",
+  "cautions": [
+    "정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "당일출고는 토·일·공휴일을 제외한 평일 기준이며, 택배사 사정에 따라 배송기간이 길어질 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-FMD-SCSC-3M",
+      "품목코드": "NET-광멀케013",
+      "품목명": "[LANstar] 광케이블 멀티모드(MM) SC-SC, 3M 주황 [10167] (120개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-FMD-SCSC-5M",
+      "품목코드": "NET-광멀케014",
+      "품목명": "[LANstar] 광케이블 멀티모드(MM) SC-SC, 5M 주황 [10168] (80개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-FMD-SCSC-10M",
+      "품목코드": "NET-광멀케015",
+      "품목명": "[LANstar] 광케이블 멀티모드(MM) SC-SC, 10M 주황 [10169] (60개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-FMD-SCSC-15M",
+      "품목코드": "NET-광멀케016",
+      "품목명": "[LANstar] 광케이블 멀티모드(MM) SC-SC, 15M 주황 [10170] (40개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-FMD-SCSC-20M",
+      "품목코드": "NET-광멀케017",
+      "품목명": "[LANstar] 광케이블 멀티모드(MM) SC-SC, 20M 주황 [10171] (35개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-FMD-SCSC-30M",
+      "품목코드": "NET-광멀케018",
+      "품목명": "[LANstar] 광케이블 멀티모드(MM) SC-SC, 30M 주황 [10172] (20개)",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-FMD-SCSC-1M",
+      "품목코드": "NET-광멀케482",
+      "품목명": "[LANstar] 광케이블 멀티모드(MM) SC-SC, 1M 주황 [30731](150개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Optical"
+      ],
+      "output_signals": [
+        "Optical"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        3,
+        5,
+        10,
+        15,
+        20,
+        30
+      ],
+      "color_options": [
+        "주황색"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": true,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "SC 타입 커넥터 양단 적용",
+    "connectivity.output_signals": "SC 타입 커넥터 양단 적용",
+    "connectivity.directional": "광송수신 장비와 광전송로 간 연결",
+    "form_physical.length_options_meters": "1m / 3m / 5m / 10m / 15m / 20m / 30m",
+    "form_physical.color_options": "케이블 색상: 주황색",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "family.optical_core": "멀티모드(MM) 광섬유 사용"
+  },
+  "feature_extracted_at": "2026-04-23T03:12:57",
+  "feature_schema_version": "1.0.0"
+}

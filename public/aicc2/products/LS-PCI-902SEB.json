@@ -1,0 +1,141 @@
+{
+  "model_no": "LS-PCI-902SEB",
+  "product_name": "PCI to RS-232 Serial 2Port Card",
+  "category": [
+    "시리얼브라켓",
+    "시리얼카드"
+  ],
+  "key_features": [
+    "PCI to RS-232 시리얼 2포트 카드",
+    "Serial 9Pin Male 2Port 제공",
+    "CH35X(CH352L) 칩 사용",
+    "32bit PCI Bus, 33MHz PCI 인터페이스",
+    "LP(Low Profile) 브라켓 포함",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "모델명": "LS-PCI-902SEB",
+    "인터페이스": "32-bit, 33MHz PCI",
+    "칩셋": "CH35X (CH352L)",
+    "포트": "RS-232 Serial 9Pin Male 2Port",
+    "KC 인증 번호": "LUS-PCI-902SE",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "Windows 95",
+    "Windows 98",
+    "Windows 98SE",
+    "Windows ME",
+    "Windows 2000",
+    "Windows NT 4.0",
+    "Windows XP",
+    "Windows Vista (32bit)",
+    "Windows Vista (64bit)",
+    "Windows 11 미지원"
+  ],
+  "package_contents": [
+    "PCI 카드",
+    "LP 브라켓",
+    "Driver CD",
+    "사용설명서"
+  ],
+  "usage_instructions": "1. PC 전원 차단 후 제품을 메인보드 PCI 슬롯에 장착한다.\n2. PC 전원을 켠 후 '새 하드웨어 추가 마법사'가 실행되면 동봉된 드라이버 CD를 삽입한다.\n[Windows 98/ME] 경로: CD → SERIAL&PARALLEL → MCS9805 → win95_98_ME. OS 드라이버 요청 시 98SE/ME CD의 'WIN 98' 폴더를 지정하여 설치 완료. 마법사가 자동 실행되지 않을 경우 장치관리자에서 수동 설치(새 하드웨어 검색 또는 드라이버 업데이트) 진행.\n[Windows 2000/XP] 자동 검색 시 해당 OS(WIN2000/XP) 드라이버 설치. 자동 검색 실패 시 내 컴퓨터 → 하드웨어 → 장치관리자에서 수동 설치. 경로: CD → MSC9805 → WINXP_2K_NT 또는 CD → MSC9805 → Drive_Vista32/64.",
+  "cautions": [
+    "본 제품은 Windows 11을 지원하지 않습니다. 구매 전 반드시 확인하시기 바랍니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCI-902SEB",
+      "품목코드": "USB-PCI077",
+      "품목명": "[LANstar] PCI시리얼카드 2Port 미니가이드[30052](100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-PCI-902SEB",
+      "id": 583305349,
+      "date": "2024-06-03 17:46",
+      "answerDate": "2024-06-04 09:12",
+      "user": "tlsr******",
+      "productName": "랜스타 LS-PCI-902SEB PCI 시리얼카드 2포트 윈10지원 WCH351Q 칩셋",
+      "question": "제가 이 회사제품 LS-PCI-902SEB 시리얼 카드 4개를 가지고 있습니다.\n근데 산지 너무 오래되서 드라이버 CD가 없습니다.\n드라이버 설치를 하고자 검색을 많이 해봣는데 방법이 없어서 그런데\n드라이버좀 보내 주실수 있으신가요\n설치할 컴퓨터는 윈도우7입니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-PCI-902SEB",
+      "id": 583370989,
+      "date": "2024-06-04 09:31",
+      "answerDate": "2024-06-04 09:38",
+      "user": "tlsr******",
+      "productName": "랜스타 LS-PCI-902SEB PCI 시리얼카드 2포트 윈10지원 WCH351Q 칩셋",
+      "question": "4년전에 구매해서 구매 아이디와 사이트, 구매자를 모르겠습니다.\n업체는 우익반도체이며 연락처는 010-5495-4443\n\n1.기기명 : PCI 시리얼 카드\n2.모델명 : LS-PCI-902SEB\n3.인증번호 : KCC-REI-LUS-LS-PCI-902SE\n4.제조국가 : 중국\n5.제조/판매원 : 라인업시스템(주)\n●A/S안내 : www.LANstar.co.kr\n\n하단 바코드 내용 : 2019040316\n\n내용 확인하시어 답변 부탁드립니다.+",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n자사의 경우 랜스타 스마트스토어와 거래처 문의 상담 공간이 다릅니다.\n거래처 문의의 경우 아래 전달 드린 링크에서 다시 진행 부탁드립니다.\n\ntalk.naver.com/W4QWIB\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "PCI"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "N/A",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "port_count": 2,
+      "mount_style": "bracket"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "PCI to RS-232 시리얼 2포트 카드",
+    "connectivity.output_signals": "RS-232 Serial 9Pin Male 2Port",
+    "connectivity.port_count": "Serial 9Pin Male 2Port",
+    "certification.kc": "KC 인증 번호: LUS-PCI-902SE",
+    "family.port_count": "Serial 9Pin Male 2Port",
+    "family.mount_style": "LP(Low Profile) 브라켓 포함"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:59",
+  "feature_schema_version": "1.0.0"
+}

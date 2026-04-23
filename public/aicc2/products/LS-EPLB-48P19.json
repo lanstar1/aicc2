@@ -1,0 +1,150 @@
+{
+  "model_no": "LS-EPLB-48P19",
+  "product_name": "CAT.5E UTP 48포트 패치판넬",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP",
+    "분배판넬",
+    "UTP포트"
+  ],
+  "key_features": [
+    "100MHz 대역폭 / 400Mbps 전송속도 지원",
+    "19인치 표준형 랙 2U 타입",
+    "EIA/TIA 568B & 568A Category.5E 규격 준수",
+    "22~24AWG 연선/단선 작업 가능",
+    "RJ-45 포트에 50마이크로 금도금 핀 적용으로 신호 전달률 극대화",
+    "포트 식별을 위한 라벨 제공",
+    "허브랙 및 서버랙 모두 장착 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 획득 (인증번호 T-A71-05-0095)"
+  ],
+  "specifications": {
+    "포트 수": "48포트",
+    "카테고리 규격": "CAT.5E",
+    "대역폭": "100MHz",
+    "전송속도": "400Mbps",
+    "랙 타입": "19인치 표준형 랙",
+    "랙 유닛": "2U",
+    "준수 규격": "EIA/TIA 568B & 568A Category.5E",
+    "지원 케이블 규격": "22~24AWG 연선/단선",
+    "핀 도금": "50마이크로 금도금",
+    "커넥터 타입": "RJ-45",
+    "제품 크기": "482.6 x 465mm (단위: mm, 도면 기준)",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "T-A71-05-0095"
+  },
+  "compatibility": [
+    "19인치 표준 허브랙",
+    "19인치 표준 서버랙",
+    "EIA/TIA 568B 배선 규격",
+    "EIA/TIA 568A 배선 규격",
+    "CAT.5E UTP 케이블",
+    "22~24AWG 연선 케이블",
+    "22~24AWG 단선 케이블"
+  ],
+  "package_contents": [
+    "LS-EPLB-48P19 패치판넬 본체 1ea",
+    "케이블타이 8ea",
+    "판넬 고정 나사 4ea",
+    "케이블 고정덮개 48ea",
+    "Manual"
+  ],
+  "usage_instructions": "1. 패치판넬과 연결 케이블, 탈피기, 가위 등을 준비한다. 2. 연결할 케이블의 피복을 탈피기를 이용하여 벗긴다. 3. 연결할 규격(Direct/Cross)에 맞게 케이블을 연결한다. 4. 연결이 끝난 부분을 덮개로 씌운다. 5. 덮개로 마무리한 다음 튀어나온 케이블을 가위로 자른다. 6. 선 마무리까지 작업이 끝나면 케이블 타이를 이용하여 선들을 정리한다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "케이블 배선 정리 시 깔끔한 처리로 통풍을 확보하여 랙 내부 온도 상승률을 줄일 것",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-EPLB-48P19",
+      "품목코드": "NEO-패치판043",
+      "품목명": "[LANstar] Cat.5E , UTP 48포트 패치판넬 [20284] (10개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-EPLB-48P19",
+      "내용": "배송빠르고 좋습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "N/A",
+      "port_count": 48
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ-45 포트",
+    "connectivity.output_signals": "RJ-45 포트",
+    "connectivity.directional": "패치판넬",
+    "connectivity.port_count": "48포트",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "패치판넬",
+    "form_physical.material": "50마이크로 금도금 핀",
+    "certification.kc": "국립전파연구원 인증 획득",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.cat_category": "CAT.5E",
+    "family.shielding": "UTP",
+    "family.conductor": "22~24AWG 연선/단선 작업 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:56",
+  "feature_schema_version": "1.0.0"
+}

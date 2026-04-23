@@ -1,0 +1,183 @@
+{
+  "model_no": "LS-UC2KM",
+  "product_name": "LANStar KM 링크 케이블 LS-UC2KM",
+  "category": [
+    "USB케이블"
+  ],
+  "key_features": [
+    "두 대의 PC를 하나의 키보드·마우스로 제어 가능",
+    "마우스 커서를 화면 끝으로 이동하면 자동으로 옆 PC로 제어권 전환 (자동 화면 전환 기술)",
+    "Alt+S 단축키로 PC 간 간편 전환 가능",
+    "실시간 클립보드 동기화 (텍스트·이미지 복사 후 다른 PC에 즉시 붙여넣기)",
+    "드래그 앤 드롭 방식의 파일 전송 지원",
+    "USB A/C to USB A 듀얼 인터페이스 지원 (C타입 기본 내장, 젠더 불필요)",
+    "별도 드라이버 설치 없이 케이블 연결 즉시 SmartLink 프로그램 자동 실행 (Plug & Play)",
+    "OTI U3 데이터 링크 칩셋 내장",
+    "USB 2.0 기반 최대 480Mbps 안정적 전송 속도",
+    "견고한 알루미늄 하우징 및 유연한 케이블 마감",
+    "Windows 및 Mac OS 혼용 환경 지원",
+    "별도 전원 불필요 (USB Bus Power)",
+    "케이블 길이 약 1.7M"
+  ],
+  "specifications": {
+    "인터페이스": "USB-A/C to USB-A",
+    "USB 규격": "USB 2.0",
+    "전송 속도": "최대 480Mbps",
+    "칩셋": "OTI U3 Transfer Cable",
+    "전원": "USB Bus Power (별도 전원 없음)",
+    "설치 방식": "자동 실행 (SMARTLINK 가상 디스크)",
+    "케이블 길이": "약 1.7M",
+    "지원 OS": "Windows 7/8/10/11, Mac OS 10.15 이상",
+    "커넥터 타입": "USB A to USB A/C",
+    "C타입 지원": "기본 내장 (젠더 불필요)",
+    "하우징 소재": "알루미늄"
+  },
+  "compatibility": [
+    "Windows 7",
+    "Windows 8",
+    "Windows 10",
+    "Windows 11",
+    "Mac OS 10.15 이상",
+    "Android (키보드·마우스 공유만 가능, 데이터 전송 미지원)",
+    "일반 데스크탑 PC",
+    "구형 노트북 (USB-A 포트)",
+    "최신 맥북 (USB-C 포트)",
+    "슬림형 노트북 (USB-C 포트)",
+    "태블릿 (USB-C 포트)"
+  ],
+  "package_contents": [
+    "LS-UC2KM KM 링크 케이블 본체 (USB A/C to A, 약 1.7M) 1개",
+    "SmartLink 소프트웨어 내장 (가상 디스크 자동 실행)"
+  ],
+  "usage_instructions": "1. LS-UC2KM 케이블의 양쪽 커넥터를 두 PC의 USB 포트에 각각 연결합니다. (USB-A 또는 USB-C 포트 사용 가능, 젠더 불필요) 2. 케이블 연결 즉시 내장된 SmartLink 프로그램이 자동 실행됩니다. (별도 드라이버 설치 불필요) 3. 마우스 커서를 화면 끝으로 이동하면 자동으로 옆 PC로 제어권이 전환됩니다. 4. 또는 Alt+S 단축키를 눌러 PC 간 제어권을 전환할 수 있습니다. 5. 파일 전송은 드래그 앤 드롭으로, 클립보드 동기화는 복사(Ctrl+C) 후 다른 PC에서 붙여넣기(Ctrl+V)로 사용합니다. 6. PC 본체(메인보드) USB 포트에 직접 연결을 권장합니다.",
+  "cautions": [
+    "KVM 스위치가 아닌 KM 공유 케이블로, 모니터(디스플레이) 출력 공유 기능은 지원하지 않습니다.",
+    "각 PC는 각자의 모니터가 필요합니다. 모니터 공유가 필요한 경우 KVM 스위치 제품을 사용하세요.",
+    "한 번에 한 PC만 제어 가능하며 두 PC 동시 입력 기능은 지원하지 않습니다.",
+    "Android 연결 시 데이터(파일) 전송은 지원하지 않습니다.",
+    "보안 정책상 외부 장치 연결이 제한된 PC에서는 사용이 불가할 수 있습니다.",
+    "입력 지연에 민감한 게이밍(FPS, 리듬 게임 등) 환경에는 적합하지 않습니다.",
+    "USB 허브 연결 시 인식 불안정이 발생할 수 있으므로 PC 본체(메인보드) USB 포트에 직접 연결을 권장합니다.",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일은 제외됩니다. 택배사 사정에 따라 배송 기간이 길어질 수 있습니다.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UC2KM",
+      "품목코드": "USB-리피터305",
+      "품목명": "[LANstar] USB C 데이터 공유 KM 링크 케이블 [30967] [100개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-UC2KM",
+      "id": 664833031,
+      "date": "2026-02-28 11:59",
+      "answerDate": "2026-03-03 17:25",
+      "user": "ssdh***",
+      "productName": "랜스타 USB C타입 PC 2대 연결 노트북 키보드 마우스 공유 케이블 LS-UC2KM",
+      "question": "안녕하세요 \n튜얼모니터 및 액정 테블릿 사용중입니다(모니터화면3개)\n\n여기에다 테블릿pc 를 이제품으로연결  화면만 하나 띄워놓을려고합니다\n\n작동하는데 문제는없을까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\nKVM 링크 데이터 케이블 제품으로 화면출력과는 관계가 없어 사용 어렵습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-UC2KM",
+      "id": 666364359,
+      "date": "2026-03-12 06:57",
+      "answerDate": "2026-03-12 09:41",
+      "user": "akir*****",
+      "productName": "랜스타 USB C타입 PC 2대 연결 노트북 키보드 마우스 공유 케이블 LS-UC2KM",
+      "question": "마우스 키보드 1개로 2개 pc 제어되나요",
+      "answer": "안녕하세요 고객님 랜스타 입니다\n제어는 가능 하지만 해당제품은 그런 용도 전용으로 나온제품이 아니어서 , LS-HD2KVM 같은 KVM스위치 제품이 더 적합해 보입니다"
+    },
+    {
+      "source_model": "LS-UC2KM",
+      "id": 669968871,
+      "date": "2026-04-08 20:14",
+      "answerDate": "2026-04-09 09:25",
+      "user": "gpsp****",
+      "productName": "랜스타 USB C타입 PC 2대 연결 노트북 키보드 마우스 공유 케이블 LS-UC2KM",
+      "question": "안녕하세요\n2개 구매해서 총 3대의 pc에 연결하여\n사용 하고싶은데 가능한가요?\n가운데 pc에서 왼쪽 pc 파일 복사 오른쪽 pc에서\n가운데 pc 파일 복사 이런식으로 사용 가능한지\n답변 부탁드립니다 감사합니다",
+      "answer": "안녕하세요 고객님 랜스타 입니다\n제품 중복 연결 사용이 불가하여 해당 방식으로는 사용이 어렵습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": 1.7,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": true,
+      "has_physical_button": false,
+      "has_mouse_switching": true,
+      "has_auto_scan": null,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A/C to USB A 듀얼 인터페이스",
+    "connectivity.output_signals": "USB A/C to USB A 듀얼 인터페이스",
+    "connectivity.directional": "두 대의 PC를 하나의 키보드·마우스로 제어",
+    "power.power_mode": "USB Bus Power (별도 전원 없음)",
+    "power.charging_support": "USB Bus Power (별도 전원 없음)",
+    "form_physical.has_case": "견고한 알루미늄 하우징",
+    "form_physical.material": "알루미늄 하우징",
+    "form_physical.length_meters": "케이블 길이 약 1.7M",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_hotkey": "Alt+S 단축키로 PC 간 간편 전환",
+    "control_switching.has_mouse_switching": "마우스 커서를 화면 끝으로 이동하면 자동으로 옆 PC로 제어권 전환",
+    "control_switching.has_app_control": "SmartLink 프로그램 자동 실행",
+    "family.usb_version": "USB 2.0 기반",
+    "family.transfer_speed_gbps": "최대 480Mbps 안정적 전송 속도",
+    "family.charging_only": "USB 2.0 기반",
+    "family.data_only": "USB 2.0 기반"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:54",
+  "feature_schema_version": "1.0.0"
+}

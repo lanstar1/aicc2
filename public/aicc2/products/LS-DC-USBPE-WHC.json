@@ -1,0 +1,132 @@
+{
+  "model_no": "LS-DC-USBPE-WHC",
+  "product_name": "LANStar USB 포트 먼지마개 (USB A Female Port Cover)",
+  "category": [
+    "USB케이블",
+    "먼지마개"
+  ],
+  "key_features": [
+    "케이블 미사용 시 열려있는 USB 포트에 먼지 및 이물질 유입 방지",
+    "USB A(Female) 포트 전용 커버",
+    "투명(Transparent) 색상",
+    "후크(Hook) 없는 타입 (without Hook)",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "모델명": "LS-DC-USBPE-WHC",
+    "제품명": "USB 먼지마개",
+    "색상": "투명 (Transparent)",
+    "포트 타입": "USB A (Female)",
+    "후크 유무": "없음 (without Hook)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "RoHS": "준수 (Compliant)",
+    "품질경영시스템": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "USB A (Female) 포트"
+  ],
+  "package_contents": [
+    "USB 포트 먼지마개 (LS-DC-USBPE-WHC, 투명)"
+  ],
+  "usage_instructions": "케이블 미사용 시 USB A(Female) 포트에 먼지마개를 삽입하여 먼지 및 이물질 유입을 방지한다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DC-USBPE-WHC",
+      "품목코드": "NEO-부트류121",
+      "품목명": "[LANstar] USB 먼지덮개, DUST 커버,PE, 투명, 중국산 (★100개입 판매) [40608]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "무관"
+      ],
+      "directional": "N/A"
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "투명"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "N/A",
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A(Female) 포트 전용 커버",
+    "connectivity.output_signals": "먼지 및 이물질 유입 방지",
+    "connectivity.directional": "먼지 및 이물질 유입 방지",
+    "power.power_mode": "무전원",
+    "power.charging_support": "먼지 및 이물질 유입 방지",
+    "form_physical.has_case": "USB 포트 먼지마개",
+    "form_physical.material": "투명(Transparent) 색상",
+    "form_physical.color_options": "투명(Transparent) 색상",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "USB 포트 먼지마개",
+    "audio_video.hdr_support": "USB 포트 먼지마개",
+    "audio_video.hdcp_version": "USB 포트 먼지마개",
+    "audio_video.audio_pass": "USB 포트 먼지마개",
+    "control_switching.has_remote": "USB 포트 먼지마개",
+    "control_switching.has_hotkey": "USB 포트 먼지마개",
+    "control_switching.has_physical_button": "USB 포트 먼지마개",
+    "control_switching.has_mouse_switching": "USB 포트 먼지마개",
+    "control_switching.has_auto_scan": "USB 포트 먼지마개",
+    "control_switching.has_app_control": "USB 포트 먼지마개",
+    "family.usb_version": "USB A(Female) 포트 전용 커버",
+    "family.charging_only": "먼지 및 이물질 유입 방지",
+    "family.data_only": "먼지 및 이물질 유입 방지"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:26",
+  "feature_schema_version": "1.0.0"
+}

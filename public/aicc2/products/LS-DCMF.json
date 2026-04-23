@@ -1,0 +1,107 @@
+{
+  "model_no": "LS-DCMF",
+  "product_name": "CCTV 파워 젠더케이블",
+  "category": [
+    "CCTV파워"
+  ],
+  "key_features": [
+    "일반 전원케이블보다 우수한 성능의 전원케이블",
+    "CCTV 카메라 및 DVR 영상장비의 전원 케이블 연장 용도"
+  ],
+  "specifications": {
+    "규격": "DC5521/M to DC5521/F",
+    "색상": "검정",
+    "길이": "30cm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증서번호": "해당없음"
+  },
+  "compatibility": [
+    "HD CCTV 영상장비",
+    "DVR 영상장비",
+    "DC5521 규격 전원 커넥터 사용 기기"
+  ],
+  "package_contents": [
+    "CCTV 파워 젠더케이블 (LS-DCMF-0.3M) 1개"
+  ],
+  "usage_instructions": "HD CCTV 영상 전원케이블 제작 시 동축케이블과 연결 후 BNC 커넥터를 끼운다. 전원선은 DC 연장케이블 중간을 절단한 후 연결하고 테이핑하여 사용한다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DCMF-0.3M",
+      "품목코드": "CAB-젠더케013",
+      "품목명": "[LANstar] CCTV파워 젠더케이블 , DC5521/M-DC5521/F, 0.3M [10648]",
+      "variant_suffix": "-0.3M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "내장케이블"
+      ],
+      "output_signals": [
+        "내장케이블"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": 0.3,
+      "length_options_meters": null,
+      "color_options": [
+        "검정"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "outlet_count": null,
+      "has_surge": null,
+      "has_switch": null,
+      "plug_standard": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DC5521/M to DC5521/F",
+    "connectivity.output_signals": "DC5521/M to DC5521/F",
+    "connectivity.directional": "전원 케이블 연장 용도",
+    "form_physical.length_meters": "길이: 30cm",
+    "form_physical.color_options": "색상: 검정",
+    "certification.kc": "인증서번호: 해당없음",
+    "family.plug_standard": "DC5521/M to DC5521/F"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:25",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,155 @@
+{
+  "model_no": "LS-USB314B",
+  "product_name": "USB 3.1 Type C to USB 3.0 HUB (LAN Star LS-USB314B)",
+  "category": [
+    "USB허브",
+    "USB-C",
+    "USB3.0",
+    "USB2.0",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 3.1 Gen1 Type-C Male to USB 3.0 Type-A Female 4포트 허브",
+    "USB 3.0 규격 5Gbps 초고속 데이터 전송 (USB 2.0 대비 10배 빠른 속도)",
+    "Type-C 커넥터 채용으로 위아래 구분 없이 연결 가능",
+    "OTG 지원 – 스마트폰/태블릿PC에 연결해 마우스·키보드·외장메모리 사용 가능",
+    "애플 MacBook 및 Google Chromebook USB-C 포트 호환",
+    "HIGH POWER SUPPLY SYSTEM 탑재 (외부 어댑터 5V1A 별도 사용 가능)",
+    "현대해상화재 생산물배상책임보험 1억 원 가입",
+    "국립전파연구원 인증 획득 (인증번호: MSIP-REI-LUS-LS-USB314)",
+    "RoHS 준수 / FCC·CE·KC 안전규격 인증",
+    "ISO 9001:2008 품질경영시스템 적용"
+  ],
+  "specifications": {
+    "케이블타입": "USB 3.1 C/M - USB 3.0 4Port",
+    "전송속도": "5Gbps",
+    "케이블길이": "20cm",
+    "전원": "30V",
+    "작동온도": "0°C ~ 80°C",
+    "포트수": "4포트 (USB 3.0 Type-A Female)",
+    "입력커넥터": "USB 3.1 Type-C Male",
+    "출력커넥터": "USB 3.0 Type-A Female x4",
+    "인증번호": "MSIP-REI-LUS-LS-USB314",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "USB 3.1 Type-C 포트 탑재 기기",
+    "Apple MacBook (USB Type-C 포트)",
+    "Google Chromebook (USB-C 포트)",
+    "OTG 지원 스마트폰 및 태블릿PC",
+    "USB 3.0 규격 장치",
+    "USB 2.0 하위 호환",
+    "USB 1.1 하위 호환",
+    "MS Windows 2000 / XP / Vista",
+    "Mac OS 10.x 이상"
+  ],
+  "package_contents": [
+    "USB 3.1 Type-C to USB 3.0 4포트 허브 본체 (LS-USB314B) x1",
+    "외부 어댑터 5V1A (제품번호 10702) – 별매 / 전원공급 추가 필요 시 사용"
+  ],
+  "usage_instructions": "USB 3.1 Type-C Male 커넥터를 PC, MacBook, Chromebook 또는 OTG 지원 스마트폰·태블릿의 Type-C 포트에 연결한 후, USB 3.0 Type-A Female 포트에 마우스·키보드·외장메모리 등 USB 기기를 연결하여 사용. 전원 공급이 추가로 필요한 경우 별매 외부 어댑터(5V1A, 제품번호 10702)를 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "전원 공급이 부족할 경우 별매 외부 어댑터(5V1A, 제품번호 10702) 사용 권장",
+    "본 제품의 콘텐츠 및 상품을 라인업시스템(주) 동의 없이 무단 복제·이용 시 불이익 발생 가능",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "작동온도 범위(0°C ~ 80°C) 내에서 사용할 것"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB314B",
+      "품목코드": "CAB-U31097",
+      "품목명": "[LANstar] USB Type C 허브. 4Port, Black [30181]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-USB314B",
+      "내용": "작동도 잘되고 좋습니다",
+      "관련내용": "배송도 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-USB314B",
+      "내용": "배송도 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-USB314B",
+      "내용": "작고 작동도 잘 됩니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "port_count": 4,
+      "usb_version": "USB3.0",
+      "ethernet_speed_mbps": null,
+      "has_sd_reader": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 Gen1 Type-C Male",
+    "connectivity.output_signals": "USB 3.0 Type-A Female 4포트",
+    "connectivity.directional": "USB 3.0 규격 5Gbps 초고속 데이터 전송",
+    "connectivity.port_count": "4포트",
+    "power.power_mode": "HIGH POWER SUPPLY SYSTEM 탑재 (외부 어댑터 5V1A 별도 사용 가능)",
+    "power.charging_support": "HIGH POWER SUPPLY SYSTEM 탑재 (외부 어댑터 5V1A 별도 사용 가능)",
+    "form_physical.has_case": "USB 3.1 Type C to USB 3.0 HUB",
+    "form_physical.length_meters": "케이블길이: 20cm",
+    "certification.kc": "국립전파연구원 인증 획득",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "certification.fcc": "FCC·CE·KC 안전규격 인증",
+    "certification.ce": "FCC·CE·KC 안전규격 인증",
+    "family.port_count": "4포트",
+    "family.usb_version": "USB 3.0 규격 5Gbps"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:50",
+  "feature_schema_version": "1.0.0"
+}

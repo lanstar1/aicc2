@@ -1,0 +1,170 @@
+{
+  "model_no": "LS-U31M-CM3AM",
+  "product_name": "USB 3.1 Gen1 C/M-A/M 케이블 (USB 3.1 Type C - USB 3.0 Type A, 1m)",
+  "category": [
+    "USB케이블",
+    "USB-C",
+    "USB3.0",
+    "USB2.0",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 3.1 Gen1 SuperSpeed 5Gbps 전송속도 지원 (USB 2.0 대비 약 10배 빠름)",
+    "Type C 커넥터는 위아래 구분 없이 방향에 제한 없이 연결 가능",
+    "애플 맥북(MacBook) USB Type C 포트와 완벽 호환",
+    "구글 크롬북(Chromebook) USB-C 포트 지원",
+    "RoHS 인증 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "UL 인증 취득 (미국 안전 규격)",
+    "ISO 9001:2008 품질경영시스템 적용",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "USB 3.1 Gen1 규격 (5Gbps 데이터 전송 속도 지원)",
+    "USB A(호스트) to USB C(장치) 방향성 케이블",
+    "최대 3A 고속 충전 지원",
+    "충전 및 데이터 전송 동시 지원",
+    "내구성 높은 PVC 외피",
+    "골드 메탈 커넥터 (접촉 불량 최소화)",
+    "USB 2.0/1.1 하위 버전 호환",
+    "구글 픽셀, 애플, 삼성 등 C타입 기기 및 다양한 OS 호환",
+    "USB 2.0 대비 약 10배 빠른 전송 속도",
+    "깔끔하고 심플한 디자인"
+  ],
+  "specifications": {
+    "케이블타입": "USB 3.1 C/M - 3.0 A/M",
+    "전송속도": "5Gbps",
+    "길이": "1m (1000mm) / 1M",
+    "전원": "30V",
+    "작동온도": "0°C ~ 80°C",
+    "USB_TypeC_커넥터_크기": "가로 8.2mm x 세로 2.5mm (플러그 기준)",
+    "USB_TypeA_커넥터_크기": "가로 12mm x 세로 4.6mm (플러그 기준)",
+    "색상": "White / 커넥터: 골드 메탈, 케이블: White",
+    "인증": "RoHS COMPLIANT, UL, ISO 9001:2008",
+    "인증번호": "해당없음",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANStar",
+    "규격": "USB 3.1 Gen1",
+    "인터페이스": "USB-A (Male) / USB-C (Male)",
+    "전송 속도": "5Gbps",
+    "충전": "최대 3A (고속 충전 지원)",
+    "전압": "30V",
+    "USB 호환": "USB 2.0 / 1.1 하위 버전 호환",
+    "커넥터 크기": "18mm / 17mm"
+  },
+  "compatibility": [
+    "애플 맥북(MacBook) - USB Type C 포트",
+    "구글 크롬북(Chromebook) - USB-C 포트",
+    "USB 3.1 Type C 포트 탑재 기기",
+    "USB 3.0 Type A 포트 탑재 기기",
+    "USB 2.0 하위 버전 호환",
+    "USB 1.1 하위 버전 호환",
+    "Windows 7 / 8 / 10 / 11",
+    "Mac OS (맥북 에어 이상, C타입 Mac OS)",
+    "Android (스마트폰, 태블릿)",
+    "Chrome OS",
+    "아이폰 15 Pro 이상 (C타입)",
+    "구글 픽셀 시리즈",
+    "삼성 C타입 기기",
+    "외장 SSD (예: 삼성 T7, SanDisk Extreme 등 USB-C 타입)",
+    "태블릿, 보조배터리, 도킹 스테이션, 외장 하드",
+    "USB 허브 / 확장 어댑터 (USB 3.1 Gen1 지원 기기에 한해 최대 성능 발휘)",
+    "USB 2.0 포트 (최대 480Mbps로 동작)"
+  ],
+  "package_contents": [
+    "USB 3.1 C/M - 3.0 A/M 케이블 1m x 1개",
+    "USB 3.1 Gen1 A/M - C/M 골드 메탈 케이블 1개"
+  ],
+  "usage_instructions": "USB 3.1 Type C 커넥터를 기기의 Type C 포트에 연결하고, 반대쪽 USB 3.0 Type A 커넥터를 상대 기기의 Type A 포트에 연결합니다. Type C 커넥터는 방향 구분 없이 삽입 가능합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 소비자상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-U31M-CM3AM-1M",
+      "품목코드": "CAB-U31010",
+      "품목명": "[LANstar] [USB 3.1] 케이블 USB 3.1 C/M-3.0 A/M, 1M Metal[10765]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-U31M-CM3AM-1M-NEW": "LANSStar\nUSB 3.1 Genl A/M - C/M\n골드 메탈 케이블\nUSB3.1 Gen1 데이터 전송 케이블 / 5Gbps\nLS-U31M-CM3AM-1M\nSS\nUSB3.1 Gen1 A/M - C/M\n“표준” 규격 케이블\nSS\n1. USB3.1 Gen1 규격\n2. USB A(호스트) to C(장치) - 방향성\n3. 5Gbps 데이터 전송 속도 지원\n4. 고속 충전 지원\n5. 부드럽고 견고한 케이블\n6. 다양한 장치 및 OS 활용\n(구글 픽셀, 애플, 삼성 등 C타입 기기 및 OS 호환)\n방향성 확인\nUSB A(HOST) / C(C타입 장치)\n▶ 호스트(HOST) : PC, 노트북\n외장장치 : C타입 장치(스 트폰, 태블릿, 외장 하드 등)\nSS\nUSB A(HOST)\nPC\n노트북\nUSBC(C타입 장치)\n태블릿\n\n\n태블릿\n스마트폰\n도킹 스테이션\n외장 하드\nPC-PC 연결에 사용금지!\n두 대의 PC나 노트북을 직접 연결하는 용도로는 사용하지 마세요!\n전원 및 데이터 충돌로 인해 장치 손상이 발생할 수 있습니다.\n외장 장치(프린터, 외장 HDD)와 호스트(PC, 노트북) 간 연결에만 사용!!\nPC와 PC 연결시 사용하지 않도록 주의하시기 바랍니다!\nonery Sund\nDownl\ncamiond\nvitos\nAndroid\nUptond to: My Drive\n...\nUSB 3.1 Genl\nSUPERSPEED / 5Gbps 전송 속도 지원\n▶ USB2.0 대비 약 10배 빠른 속도\n▶ 대용량 데이터도 빠르게 전송\nUSB3.1 Genl\n10Gbps\nUSB2.0\n480Mbps\n0000\n충전&데이터 동시 지원\n스마트폰, 태블릿, 보조배터리 등 다양한 기기 충전\n▶ 3A 고속 충전 지원!\n견고한 케이블\n내구성 높은 PVC 외피\n▶ 접촉 불량 없고, 고급스러운 골드 메탈 컨넥터\nXXX\n\n\n☐☐\nUSB3.1 Gen]은 구형 규격 아닌가요?\nNo!! 여전히 많이 사용중!!\nUSB 3.1 Gen1 규격이 지금도 널리 사용되는 이유는 단순히 ‘과거 규격이니까'가 아니라,\n실제 사용 환경·호환성·가격·성능 균형 면에서 최적화되어 있기 때문입니다.\n폭넓은 호환성\nUSB-A포트를 기반으로 한 장비(데스크탑, 노트북, 모니터, 프린터 등)가 여전히 많음\n• USB 하위 버전과 호환되기 때문에 구형 장비와도 충돌 없이 연결 가능\n여전히 일반 사용자는 A to C 케이블 규격에 익숙\n사용 환경 다양성\nPC와 외장 SSD 연결, 각종 스마트 기기 연결, AV장비 연결 등 다양하게 사용\n● 기업, 학교, 공공 기관 등 여전히 USB-A 장비 사용 및 선호\n충분한 \"성능\"\n5Gbps(=625MB/s)의 속도는 일반적인 소비자 사용 환경에서 충분한 스펙\n외장 SSD 연결, 4K 영상 파일 전송, 스마트폰 데이터 백업 등 대부분의 고속 전송 작업에 충분\n실속 있는 고속 충전 가능 (최대 3A)\n가격 경쟁력\nUSB 3.1 Gen2, USB4, Thunderbolt4 케이블은 가격이 비싸고 필요 장비도 고급화됨\nUSB 3.1 Genl은 충분한 성능에 합리적 가격 → 가성비 측면에서 최고의 선택지\n표준 규격 채택\n시장에 가장 많이 보급된 '고속 전송 표준' 이 바로 USB 3.1 Genl\n대다수의 외장 SSD, USB 허브, USB 메모리, 충전 기기 등이 이 규격 기반으로 설계\nUSB 3.0에서 명칭만 바뀐 표준이기 때문에, 오랫동안 지속적으로 보급됨\n케이블 구조의 안정성\n구조적으로 단순하고 안정성이 높은 케이블 → 신호 간섭이 적고, 단선 문제가 적음\n방향성이 명확하여 사용자의 실수가 줄어듦\nPoint ① USB3.1 Gen1 5Gbps 고속 전송\nretu\nPoint ② 고속 충전 & 데이터 전송 동시 가능!\nte\nPoint ③ 고급스러운 골드 메탈 컨넥터\n11777\n\n\nte\nPoint ③ 고급스러운 골드 메탈 컨넥터\nPoint ④ 깔끔하고 심플한 디자인!\n다양한 장치 사용\n다양한 장치와 O.S에서도 사용이 가능하여 범용성이 높은 제품입니다.\nWindows\nMac OS\nAndroid\nChrome\nWin 7/8/10/11\n스마트폰, 태블릿\n맥북 에어 이상,\n아이폰 15 프로 이상\n(C타입 Mac OS)\n이이이이\nMe Divk\nFocusrite\n이런분들께 추천드립니다!\n아직 USB-A 포트를 쓰는 환경에서 최신 C타입 기기를 활용하려는\n사용자에게 매우 실용적입니다.\n사무실\n차량\n가정\n외장 SSD, 각종 USB 장치를\n연결하여 사용\n차량용 아답터와 연결하여\n스마트폰 충전\n충전, 데이터 전송 등\n다양하게 활용\nPRODUCT SIZE\nIM\n18mm\n17mm\nSPECIFICATION\n\n\n17mm\nSPECIFICATION\n규격\nUSB3.1 Genl\n인터페이스\nUSB-A (Male) USB-C (Male)\n전송 속도\n*ICH 5Gbps\n충전\n최대 3A (고속 충전 지원)\n전압\n30V\nUSB 호환\nUSB2.0/1.1 하위버전 호환\n색상\n컨넥터 : 골드 메탈 / 케이블 : White\n길이\nIM\nFAQ\n자주 물어보시는 질문\nQ. 고속 충전도 지원하나요?\n네. 고속 충전을 지원합니다. 단, 18~20W의 아답터와 같이 사용해야 하며,\nUSB 허브, PC로는 고속 충전을 할 수 없습니다.\nQ. USB2.0 장치에 연결해도 되나요?\n네, 하위 호환되므로 USB 2.0 포트에도 연결 가능합니다.\n단, 이 경우 속도는 USB 2.0 기준(최대 480Mbps)으로 작동합니다.\nQ. 스마트폰, 태블릿에 연결 가능한가요?\n네, 가능합니다. 충전 및 데이터 전송 모두 가능하며,\nPC&노트북과 연결 시엔 고속 충전을 지원하지는 않습니다.\nQ. 외장 SSD에 사용해도 되나요?\nUSB-C 타입의 고속 외장 SSD (예: 삼성 T7, SanDisk Extreme 등)에 적합하며,\n최대 5Gbps의 빠른 데이터 전송 속도를 지원합니다.\nQ. USB 허브나 확장 어댑터에 연결해도 되나요?\n네, 다만 허브나 확장 어댑터가 USB 3.1 Gen]를 지원해야\n최대 성능(5Gbps)으로 사용하실 수 있습니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n\n\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n전문기업확인서\n소재·부품 장비 전문기업확인서\nTa\n201\n*2222-22\n평가관리원\n기소개\n선호기업인을 확인합니다\n산업통산자원부 시행 제도\n802211 29\n2022.11.29 취득\n한국산업기술평가관\n33%2\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상 품 정보\n품\n명\nUSB3.1 Gen] A to C 골드 메탈 케이블\n모\n덱\n명\nLS-U31M-CM3AM-IM\nLANStar\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질보증기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\nLANStar\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-C"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "PVC",
+        "금도금"
+      ],
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": [
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.1Gen1",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A(호스트) to USB C(장치)",
+    "connectivity.output_signals": "USB A(호스트) to USB C(장치)",
+    "connectivity.directional": "USB A(호스트) to USB C(장치) 방향성 케이블",
+    "power.power_mode": "최대 3A 고속 충전 지원",
+    "power.charging_support": "최대 3A 고속 충전 지원",
+    "form_physical.material": "내구성 높은 PVC 외피",
+    "form_physical.length_meters": "1m (1000mm)",
+    "form_physical.color_options": "색상: White",
+    "certification.rohs": "RoHS 인증 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "family.usb_version": "USB 3.1 Gen1 규격",
+    "family.transfer_speed_gbps": "5Gbps 데이터 전송 속도 지원",
+    "family.charging_only": "충전 및 데이터 전송 동시 지원",
+    "family.data_only": "충전 및 데이터 전송 동시 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:43",
+  "feature_schema_version": "1.0.0"
+}

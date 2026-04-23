@@ -1,0 +1,145 @@
+{
+  "model_no": "LS-CON-RG58",
+  "product_name": "LANG Star TOOL용 BNC 콘넥터 RG58",
+  "category": [
+    "LAN공구"
+  ],
+  "key_features": [
+    "RG58 동축케이블용 BNC 케이블 제작 콘넥터",
+    "TOOL(LS-HT-301C / LS-HT-301G)을 이용한 압착 방식 결선",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품",
+    "RoHS 유해물질 사용제한 지침 준수",
+    "ISO 9001:2008 품질경영시스템 인증 제조사 제품",
+    "유통과정상 제품 모양이 조금씩 달라질 수 있음"
+  ],
+  "specifications": {
+    "모델명": "LS-CON-RG58",
+    "적용규격": "RG58",
+    "콘넥터 길이": "24mm",
+    "콘넥터 외경": "4.5mm",
+    "콘넥터 내경": "3mm",
+    "RING 길이": "12mm",
+    "RING 외경": "6mm",
+    "RING 내경(링 내경)": "5.5mm",
+    "PIN 길이": "11.5mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "RG58 동축케이블",
+    "동축케이블 LS-CCTP-100M (별도구매)",
+    "동축케이블 LS-CCTP-200M (별도구매)",
+    "BNC Tool LS-HT-301C (별도구매)",
+    "BNC Tool LS-HT-301G (별도구매)"
+  ],
+  "package_contents": [
+    "BNC 콘넥터 RG58 (LS-CON-RG58)"
+  ],
+  "usage_instructions": "1) 동축케이블의 피복을 탈피한다. 2) 수축튜브를 케이블에 꽂는다. 3) 내심을 5mm 절단한다. 4) BNC 콘넥터를 케이블에 꽂는다. 5) BNC Tool(LS-HT-301C 또는 LS-HT-301G)로 조여 고정한다. 6) 내심에 잭을 끼운 후 BNC Tool로 고정한다. 7) 라이터로 수축튜브를 조인다. 8) 전원케이블 피복을 벗겨낸다. 9) 전원케이블에 전원 연결 후 절연테이프로 마무리하고 선을 깔끔하게 정리한다.",
+  "cautions": [
+    "유통과정상 제품의 모양이 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "동축케이블(LS-CCTP-100M, LS-CCTP-200M) 및 BNC Tool(LS-HT-301C, LS-HT-301G)은 별도 구매 필요.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "라인업시스템(주)의 동의 없이 상품 및 콘텐츠를 무단 복제·이용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-CON-RG58",
+      "품목코드": "GEN-BNC046",
+      "품목명": "[LANstar] BNC콘넥터, TOOL형, RG58, 콘넥터외경 4.5mm,RING내경 5.5mm[20122]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-CON-RG58",
+      "내용": "감사드립니다 잘쓰겠습니다"
+    },
+    {
+      "source_model": "LS-CON-RG58",
+      "내용": "감사드립니다 잘쓰겠습니다"
+    },
+    {
+      "source_model": "LS-CON-RG58",
+      "내용": "만족합니다!^^ 가성비좋아요! bnc툴과 함께 여러개 주문했어요^^"
+    },
+    {
+      "source_model": "LS-CON-RG58",
+      "내용": "배송빠르고 품질 만족합니다"
+    },
+    {
+      "source_model": "LS-CON-RG58",
+      "내용": "좋은 제품 빠른배송 매우 만족합니다. 추천드립니다."
+    },
+    {
+      "source_model": "LS-CON-RG58",
+      "내용": "저렴한 가격에 잘 구입했습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "tool_type": [
+        "압착기"
+      ],
+      "target_terminal": [
+        "BNC"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.directional": "콘넥터",
+    "certification.kc": "인증번호: 해당없음",
+    "certification.rohs": "RoHS 유해물질 사용제한 지침 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증 제조사 제품",
+    "audio_video.max_resolution": "콘넥터",
+    "audio_video.hdcp_version": "콘넥터",
+    "family.tool_type": "압착 방식 결선",
+    "family.target_terminal": "BNC 콘넥터"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:08",
+  "feature_schema_version": "1.0.0"
+}

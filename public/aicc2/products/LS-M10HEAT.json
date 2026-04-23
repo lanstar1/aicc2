@@ -1,0 +1,123 @@
+{
+  "model_no": "LS-M10HEAT",
+  "product_name": "LANStar M.2 SSD 방열판 22110 (LS-M10HEAT)",
+  "category": [
+    "HDD관련",
+    "방열판"
+  ],
+  "key_features": [
+    "열 전도율이 뛰어난 실리콘 패드(3.7 W/mk) 사용으로 효율적인 쿨링 성능 제공",
+    "공기와의 접촉면을 최소화한 격자형 날개 구조의 알루미늄 방열판으로 효율적인 방열 가능",
+    "M.2 NVMe 및 SATA SSD 모두 호환, Key 타입 무관",
+    "22110 사이즈 전용 설계",
+    "고무 링밴드 2개로 방열판과 M.2 SSD 고정",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "모델명": "LS-M10HEAT",
+    "색상": "Black",
+    "크기(방열판 결합 전)": "22 x 100 x 2.5 mm",
+    "크기(방열판 결합 후)": "22 x 110 x 6 mm",
+    "무게": "약 12g",
+    "열전도율": "3.7 W/mk (실리콘 패드)",
+    "재질": "알루미늄",
+    "지원기기": "M.2 SSD 22110",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "M.2 NVMe SSD (22110 사이즈)",
+    "M.2 SATA SSD (22110 사이즈)",
+    "Key 타입 무관, 22110 사이즈에만 호환"
+  ],
+  "package_contents": [
+    "방열판 (알루미늄) 1EA",
+    "열전도 실리콘 패드 1EA",
+    "고무 링밴드 2EA",
+    "크리너 (M.2 SSD 및 방열판 이물질 제거용)"
+  ],
+  "usage_instructions": "① 방열판을 뒤집어 평평한 면이 나오도록 위치한다. ② 실리콘 패드의 테이프 비닐을 벗긴 후 방열판 평평한 면에 부착한다. ③ 실리콘 패드가 부착된 방열판과 M.2 SSD를 결합한다. ④ 고정용 링밴드 2개를 끼우면 방열판 부착 완료.",
+  "cautions": [
+    "M.2 SSD는 제품에 포함되지 않음",
+    "설치 순서와 방법을 숙지하지 않아 발생되는 제품 손상은 교환 및 환불 불가",
+    "22110 사이즈 M.2 SSD에만 호환되며, 다른 규격(예: 2280, 2260 등)에는 사용 불가",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-M10HEAT",
+      "품목코드": "USB-응용제119",
+      "품목명": "[LANstar] M.2 SSD 방열판 22110규격 블랙색상 [30367]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-M10HEAT",
+      "내용": "잘쓰고 있어요 22110 구하기가 힘드네요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "storage_interface": null,
+      "drive_size": "M.2"
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "알루미늄 방열판",
+    "form_physical.material": "알루미늄",
+    "form_physical.color_options": "Black",
+    "certification.kc": "인증번호: 해당없음",
+    "family.drive_size": "M.2 SSD 22110"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:18",
+  "feature_schema_version": "1.0.0"
+}

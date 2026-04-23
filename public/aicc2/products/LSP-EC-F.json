@@ -1,0 +1,96 @@
+{
+  "model_no": "LSP-EC-F",
+  "product_name": "안테나 키스톤잭 (R/F-R/F, White Color)",
+  "category": [
+    "키스톤잭",
+    "분배판넬",
+    "멀티탭",
+    "서버랙",
+    "허브랙",
+    "안테나케이블",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "안테나 케이블 연결용 키스톤잭 (F/F 타입)",
+    "벽면 플레이트(Wall Plate)에 결합하여 매립형으로 사용 가능",
+    "허브랙·서버랙 전용 마운트 판넬에 장착 가능",
+    "Outlet 백박스에 장착 가능",
+    "화이트 색상",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 타입": "R/F - R/F (F/F)",
+    "색상": "White (흰색)",
+    "제조국/원산지": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANstar plus",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "벽부착형 Wall Plate (LS-WP23 시리즈)",
+    "허브랙 마운트 판넬",
+    "서버랙 마운트 판넬",
+    "Outlet 백박스",
+    "랙장착형 마운트 판넬 (LS-PLKP 시리즈)"
+  ],
+  "package_contents": [
+    "안테나 키스톤잭 (LSP-EC-F) 1개"
+  ],
+  "usage_instructions": "벽면 플레이트(Wall Plate) 또는 Outlet 백박스에 결합하여 매립형으로 설치하거나, 허브랙·서버랙 전용 마운트 판넬에 장착하여 사용. 안테나 케이블을 R/F 커넥터 양단에 연결하여 연장.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-EC-F",
+      "품목코드": "GEN-USB120",
+      "품목명": "[◆Lanstar-Plus] 안테나 키스톤잭 , F/F, White [20322] (500개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-EC-F",
+      "내용": "현장에서 너무 잘 사용하고 있습니다"
+    },
+    {
+      "source_model": "LSP-EC-F",
+      "내용": "좋네요.\n생각만 했던 정리를 했습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RCA"
+      ],
+      "output_signals": [
+        "RCA"
+      ],
+      "directional": "양방향"
+    },
+    "form_physical": {
+      "color_options": [
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": false
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "안테나 케이블 연결용 키스톤잭 (F/F 타입)",
+    "connectivity.output_signals": "안테나 케이블 연결용 키스톤잭 (F/F 타입)",
+    "connectivity.directional": "R/F 커넥터 양단에 연결하여 연장",
+    "form_physical.color_options": "화이트 색상",
+    "certification.kc": "인증번호: 해당없음"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:30",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,127 @@
+{
+  "model_no": "LS-HANDKEY35",
+  "product_name": "기계식 한손 게이밍 키보드 LS-HANDKEY35",
+  "category": [
+    "키캡",
+    "게이밍키보드"
+  ],
+  "key_features": [
+    "6가지 색상 LED 백라이트 지원",
+    "7가지 LED EFFECT 모드 지원",
+    "반영구적인 이중사출 키캡 적용 (지워지지 않는 선명한 LED)",
+    "무한 동시입력 지원 (어떤 조합이든 모든 키 동시입력 가능)",
+    "체리식 스테빌라이저 탑재 (축 뒤틀림 방지, 내구성 향상)",
+    "인체공학적 스텝스컬쳐2(STEP SCULPTURE 2) 키캡 구성",
+    "경쾌한 소리의 청축 기계식 스위치",
+    "안정적인 유선 USB 타입",
+    "FN 키를 통한 일반모드/게임모드 전환 지원",
+    "오버워치, 리그 오브 레전드(LoL) 게임 최적화 키 배열",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 KC 인증 획득"
+  ],
+  "specifications": {
+    "스위치": "청축 (기계식)",
+    "연결방식": "유선 USB",
+    "키캡": "이중사출 키캡",
+    "스테빌라이저": "체리식 스테빌라이저",
+    "LED": "6가지 색상 백라이트, 7가지 EFFECT 모드",
+    "키 구조": "스텝스컬쳐2 (STEP SCULPTURE 2)",
+    "동시입력": "무한 동시입력 지원",
+    "제품 크기": "22cm x 14.5cm x 3.5cm",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "R-REI-LUS-LS-HANDKEY35",
+    "인증규격": "KC, RoHS, FCC, CE",
+    "품질경영시스템": "ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "리그 오브 레전드 (LoL)",
+    "오버워치 (Overwatch)",
+    "유선 USB 연결 지원 PC"
+  ],
+  "package_contents": [
+    "한손 기계식 키보드 (LS-HANDKEY35) 본체 1개"
+  ],
+  "usage_instructions": "FN + Esc: LED 이펙트 모드 변경 / FN + 1: LED 브레스모드 속도 증가 / FN + 2: LED 브레스모드 속도 감소 / FN + 3: LED 백라이트 밝기 밝게 / FN + 4: LED 백라이트 밝기 어둡게 / FN + ~: 일반모드 및 게임모드 전환. LED EFFECT 모드: 1) 전체 줄 LED ON, 2) 전체 줄 동시 ON/OFF 반복(Breath Mode), 3) 위→아래 방향으로 순차 ON, 4) 아래→위 방향으로 순차 ON, 5) 순차 반복 ON, 6) 특정 순서로 ON, 7) 홀수 줄 ON→OFF 후 짝수 줄 ON, 8) 전체 LED OFF.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "RoHS 지침에 따라 납, 수은, 카드뮴 등 중금속 사용이 제한된 제품입니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HANDKEY35",
+      "품목코드": "COM-키마기199",
+      "품목명": "[LANstar] LED 한손 키보드, 기계식 35KEY [60107] [32개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": true,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "유선 USB 타입",
+    "connectivity.directional": "N/A",
+    "power.power_mode": "유선 USB 타입",
+    "power.charging_support": "false",
+    "form_physical.has_case": "기계식 한손 게이밍 키보드",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "false",
+    "control_switching.has_hotkey": "FN 키를 통한 일반모드/게임모드 전환",
+    "control_switching.has_physical_button": "FN 키를 통한 일반모드/게임모드 전환"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:30",
+  "feature_schema_version": "1.0.0"
+}

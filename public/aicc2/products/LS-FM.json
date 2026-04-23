@@ -1,0 +1,125 @@
+{
+  "model_no": "LS-FM",
+  "product_name": "LAN Star 휴대용 미니 선풍기 (자석거치대 / 거울) LS-FMW(White) / LS-FMN(Navy)",
+  "category": [
+    "휴대용선풍기"
+  ],
+  "key_features": [
+    "자석 거치대 내장으로 손쉬운 거치 가능",
+    "거치대 가운데 부분 거울 기능 탑재",
+    "정방향 유도 커버(곡선형 전면망)로 바람 응집 극대화",
+    "최대 8시간 사용 가능",
+    "조용하고 부드러운 바람소리 (저소음 송풍 기술)",
+    "5단계 풍속 조절 기능",
+    "책상/테이블 거치 및 휴대용으로 모두 사용 가능",
+    "2000mAh 배터리 내장"
+  ],
+  "specifications": {
+    "모델명": "LS-FMW(White) / LS-FMN(Navy)",
+    "재질": "ABS/PP",
+    "배터리 전압": "3.7V",
+    "배터리 용량": "2000mAh",
+    "정격 전압": "DC 5V / 1000mA",
+    "출력 파워": "4W",
+    "단계별 세부사항_1단계": "4.3V, 2200rpm, 240mA, 1W",
+    "단계별 세부사항_2단계": "5.9V, 2900rpm, 465mA, 1.9W",
+    "단계별 세부사항_3단계": "6.7V, 3300rpm, 600mA, 2.5W",
+    "단계별 세부사항_4단계": "7.5V, 3600rpm, 760mA, 3.2W",
+    "단계별 세부사항_5단계": "8.3V, 3940rpm, 950mA, 4W",
+    "사이즈": "100 x 81 x 212 (mm)",
+    "무게": "215g",
+    "색상": "White(흰색), Navy(남색)",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 전파안전 인증번호": "R-R-LUS-LS-FMW",
+    "KC 전기안전 인증번호": "XU101401-18001A"
+  },
+  "compatibility": [
+    "DC 5V / 1000mA USB 전원 입력 규격 호환",
+    "KC 전파안전 인증 적합 기기",
+    "KC 전기안전 인증 적합 기기",
+    "FCC 인증",
+    "CE 인증",
+    "RoHS 규격 준수"
+  ],
+  "package_contents": [
+    "휴대용 미니 선풍기 본체",
+    "자석 거치대 (거울 포함)"
+  ],
+  "usage_instructions": "자석 거치대를 선풍기에 부착한 후 책상이나 테이블 위에 세워서 사용하거나, 거치대 없이 휴대용으로 들고 다니며 사용할 수 있습니다. 풍속은 1단계~5단계로 조절 가능합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "본 제품은 현대해상화재 생산물배상책임보험(1억원)에 가입되어 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "배터리",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "White",
+        "Navy"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "fan_size_mm": null,
+      "rpm_max": 3940,
+      "cooling_target": []
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DC 5V / 1000mA",
+    "power.power_mode": "2000mAh 배터리 내장",
+    "power.charging_support": "2000mAh 배터리 내장",
+    "form_physical.has_case": "자석 거치대 내장으로 손쉬운 거치 가능",
+    "form_physical.material": "ABS/PP",
+    "form_physical.color_options": "White(흰색), Navy(남색)",
+    "certification.kc": "KC 전파안전 인증번호",
+    "control_switching.has_physical_button": "5단계 풍속 조절 기능",
+    "family.rpm_max": "5단계: 8.3V, 3940rpm"
+  },
+  "feature_extracted_at": "2026-04-23T03:12:57",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,123 @@
+{
+  "model_no": "LS-SL5PWS",
+  "product_name": "삼성/LG 5핀 모바일 케이블 (평면슬림케이블 A/M-Micro B/M 1m)",
+  "category": [
+    "USB케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "마이크로 5핀(Micro USB B Type) 케이블",
+    "삼성/LG 제품과의 완벽한 호환",
+    "1M 평면(플랫) 케이블로 엉킴과 단선 방지",
+    "세련된 컬러의 메탈 커넥터 (골드/실버/레드/블루)",
+    "데이터 전송 및 전원 충전 지원"
+  ],
+  "specifications": {
+    "커넥터 타입": "USB A/M - Micro USB B/M",
+    "핀 규격": "5핀 (Micro USB B Type)",
+    "케이블 길이": "1m",
+    "케이블 형태": "평면 슬림 (Flat)",
+    "커넥터 마감": "메탈",
+    "색상": "메탈골드, 메탈실버, 메탈레드, 메탈블루",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "삼성(Samsung) Micro USB 5핀 지원 모바일 기기",
+    "LG Micro USB 5핀 지원 모바일 기기",
+    "Micro USB B Type 규격 기기"
+  ],
+  "package_contents": [
+    "삼성/LG 5핀 모바일 케이블 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 소비자 상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SL5PWS-1M",
+      "품목코드": "CAB-모바일007",
+      "품목명": "[LANstar] 삼성/LG용 USB TO 마이크로 B 평면 충전 데이터 실버메탈 케이블 1M [10733]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "메탈"
+      ],
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": [
+        "메탈골드",
+        "메탈실버",
+        "메탈레드",
+        "메탈블루"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": null,
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A/M",
+    "connectivity.output_signals": "Micro USB B/M",
+    "connectivity.directional": "데이터 전송 및 전원 충전 지원",
+    "power.power_mode": "전원 충전 지원",
+    "power.charging_support": "전원 충전 지원",
+    "form_physical.material": "메탈 커넥터",
+    "form_physical.length_meters": "1m",
+    "form_physical.color_options": "메탈골드, 메탈실버, 메탈레드, 메탈블루",
+    "family.charging_only": "데이터 전송 및 전원 충전 지원",
+    "family.data_only": "데이터 전송 및 전원 충전 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:27",
+  "feature_schema_version": "1.0.0"
+}

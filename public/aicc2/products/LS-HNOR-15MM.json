@@ -1,0 +1,186 @@
+{
+  "model_no": "LS-HNOR-15MM",
+  "product_name": "LANStar VGA 고급형 모니터 케이블 HDB 15P M/M",
+  "category": [
+    "VGA"
+  ],
+  "key_features": [
+    "15 core 케이블 구성으로 양쪽 15핀 단자가 각각 1대 1로 연결",
+    "금도금 핀 사용으로 산화(녹)에 강하고 신호 전송 능력 우수",
+    "15 Core + 접지선 구성으로 노이즈 제거 및 접지 기능 포함",
+    "구리(Cu) 0.12mm 7가닥 접지선으로 노이즈 제거",
+    "PDP TV, 데스크탑, 노트북, 넷북, 빔 프로젝터 등 다양한 기기 고해상도 출력 지원",
+    "RoHS 준수 제품 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "커넥터 타입": "RGB 15핀(M) / RGB 15핀(M), HDB 15P",
+    "케이블 구성": "15 Core + 접지선",
+    "접지선 규격": "구리(Cu) 0.12mm 7가닥",
+    "핀 처리": "금도금",
+    "9번 핀": "예비핀 (미사용, 케이블에 따라 비어있을 수 있음)",
+    "길이 및 모델명 (1.8M)": "LS-HNOR-15MM-1.8M",
+    "길이 및 모델명 (3M)": "LS-HNOR-15MM-3M",
+    "길이 및 모델명 (5M)": "LS-HNOR-15MM-5M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "RoHS": "COMPLIANT",
+    "품질경영시스템": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "PDP TV",
+    "데스크탑 컴퓨터",
+    "노트북",
+    "넷북",
+    "빔 프로젝터",
+    "VGA(RGB 15핀) 포트를 갖춘 기기 전반"
+  ],
+  "package_contents": [
+    "VGA 고급형 모니터 케이블 M/M (선택 길이: 1.8M / 3M / 5M 중 1개)"
+  ],
+  "usage_instructions": "모니터와 컴퓨터(또는 기타 호환 기기)의 VGA(RGB 15핀) 포트에 양쪽 커넥터를 각각 연결하여 사용합니다.",
+  "cautions": [
+    "9번 핀은 예비핀으로 사용되지 않으며, 케이블에 따라 핀이 비어있는 경우가 있으나 제품 이상이 아니므로 반품 또는 교환 사유가 될 수 없습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단 참조)로 문의하세요."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HNOR-15MM-1.8M",
+      "품목코드": "CAB-일반모004",
+      "품목명": "[LANstar] 모니터케이블 ,15＋1C,HDB15PM／M,1.8M[10303] (120개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HNOR-15MM-3M",
+      "품목코드": "CAB-일반모006",
+      "품목명": "[LANstar] 모니터케이블 ,15＋1C,HDB15PM／M, 3M[10304] (80개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HNOR-15MM-5M",
+      "품목코드": "CAB-일반모007",
+      "품목명": "[LANstar] 모니터케이블 ,15＋1C,HDB15P M／M,5M[10305] (60개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HNOR-15MM-3M",
+      "내용": "배송빠르고 만족합니다."
+    },
+    {
+      "source_model": "LS-HNOR-15MM-5M",
+      "내용": "진짜 빠른 배송 감사합니다~"
+    },
+    {
+      "source_model": "LS-HNOR-15MM-5M",
+      "내용": "빠른 배송 감사합니다~"
+    },
+    {
+      "source_model": "LS-HNOR-15MM-5M",
+      "내용": "비추합니다. 길면 좋지 않군요."
+    },
+    {
+      "source_model": "LS-HNOR-15MM-5M",
+      "내용": "배송빠르고 만족합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금",
+        "구리(Cu)"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1.8,
+        3.0,
+        5.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": null,
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RGB 15핀(M) / RGB 15핀(M)",
+    "connectivity.output_signals": "RGB 15핀(M) / RGB 15핀(M)",
+    "connectivity.directional": "양쪽 15핀 단자가 각각 1대 1로 연결",
+    "power.power_mode": "무전원",
+    "power.charging_support": "false",
+    "form_physical.material": "금도금 핀 사용",
+    "form_physical.material[1]": "구리(Cu) 0.12mm 7가닥",
+    "form_physical.length_options_meters": "길이 및 모델명 (1.8M)",
+    "form_physical.length_options_meters[1]": "길이 및 모델명 (3M)",
+    "form_physical.length_options_meters[2]": "길이 및 모델명 (5M)",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "false",
+    "control_switching.has_remote": "false",
+    "control_switching.has_hotkey": "false",
+    "control_switching.has_physical_button": "false",
+    "control_switching.has_mouse_switching": "false",
+    "control_switching.has_auto_scan": "false",
+    "control_switching.has_app_control": "false",
+    "family.hdmi_version": "N/A",
+    "family.dp_version": "N/A",
+    "family.dvi_type": "N/A",
+    "family.optical_core": "false",
+    "family.ethernet_channel": "false"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:44",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,30 @@
+# Credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.gcp_key.json
+.anthropic_key
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / tmp
+*.log
+tmp/
+.tmp/
+
+# Huge raw data (kept out of git; regen via scripts)
+raw/
+all_images/
+all_segments/
+docai_raw/

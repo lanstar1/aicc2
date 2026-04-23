@@ -1,0 +1,218 @@
+{
+  "model_no": "LS-OM3-LCSC",
+  "product_name": "LANStar 10Gigabit OM3 광점퍼코드 케이블 (LC-SC) LSZH 난연케이블",
+  "category": [
+    "랜케이블-CAT6A",
+    "광케이블",
+    "광점퍼코드",
+    "커넥터"
+  ],
+  "key_features": [
+    "10Gigabit 이더넷 통신 지원 (IEEE 802.3ae 표준)",
+    "멀티모드 OM3 (50/125μm) 규격",
+    "LSZH 난연 재질 케이블",
+    "RoHS 및 UL 인증 획득",
+    "LC/PC - SC/PC 커넥터 구성",
+    "Aqua(아쿠아) 색상 케이블 외관",
+    "케이블클립 기본 장착",
+    "1m/3m/5m/10m/15m/20m/30m 총 7가지 길이 시리즈 구성",
+    "20도까지 꺾임 허용 케이블 안정성 테스트 통과",
+    "대기업 망센터 및 관공서 망센터 납품 기준 충족",
+    "LC/PC - SC/PC 듀플렉스 커넥터 구성",
+    "난연 LSZH 재질 케이블",
+    "케이블 외경 2.0mm, Aqua(아쿠아) 색상",
+    "케이블 클립 기본 장착",
+    "20도까지 꺾임 허용 관용도 테스트 완료"
+  ],
+  "specifications": {
+    "케이블 외경(굵기)": "2.0mm",
+    "케이블 재질": "난연 LSZH",
+    "케이블 색상": "Aqua(아쿠아색)",
+    "커넥터": "LC/PC - SC/PC",
+    "규격": "멀티모드 OM3 (50/125μm)",
+    "파장": "850nm / 1300nm",
+    "전송 손실": "≤0.3dB/km / ≤0.3dB/km",
+    "OFL 대역폭": "≥1500MHz/km / 2500MHz/km",
+    "도달 대역폭": "≥2000MHz/km / -",
+    "삽입 손실(Insertion Loss)": "≤0.3dB",
+    "케이블 타입": "LSZH",
+    "페룰 인터페이스 타입": "PC",
+    "지원 전송 속도(850nm 기준)": "1G전송 최대 1km, 10G전송 최대 300M",
+    "인증": "RoHS Compliant, UL / RoHS, UL",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "브랜드": "LANStar (랜스타)",
+    "인증번호": "해당없음",
+    "페룰 인터페이스": "PC",
+    "지원 전송 표준": "IEEE 802.3ae 10Gigabit Ethernet",
+    "OM3 1G 전송 거리(850nm)": "1km",
+    "OM3 10G 전송 거리(850nm)": "300m",
+    "OM3 대역폭": "2000MHz/km",
+    "케이블 길이 시리즈": "1m, 3m, 5m, 10m, 15m, 20m"
+  },
+  "compatibility": [
+    "IEEE 802.3ae 10Gigabit 이더넷 표준",
+    "멀티모드 OM3 광통신 장비 (LC 포트 - SC 포트)",
+    "LC 커넥터 지원 장비",
+    "SC 커넥터 지원 장비",
+    "OM3 멀티모드 광 네트워크 인프라",
+    "10Gigabit Ethernet (IEEE 802.3ae)",
+    "멀티모드 OM3 광 네트워크 장비",
+    "LC 커넥터 포트 장비",
+    "SC 커넥터 포트 장비"
+  ],
+  "package_contents": [
+    "LS-OM3-LCSC 광점퍼코드 본체 (선택 길이: 1m/3m/5m/10m/15m/20m/30m)",
+    "케이블클립 (기본 장착)",
+    "LC-SC 광점퍼코드 케이블 (선택 길이: 1m / 3m / 5m / 10m / 15m / 20m)",
+    "케이블 클립 (기본 장착)"
+  ],
+  "usage_instructions": "LC/PC 커넥터를 LC 포트 장비에, SC/PC 커넥터를 SC 포트 장비에 연결하여 사용. 케이블 꺾임 허용각도(20도) 이내로 포설하여 광 손실을 최소화할 것.",
+  "cautions": [
+    "케이블을 20도 이상 과도하게 꺾거나 구부리지 말 것",
+    "RoHS 준수 제품이나 취급 시 일반 전기·광통신 안전 수칙 준수 필요",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 (랜스타 A/S센터: www.LANstar.co.kr)",
+    "구매/배송/반품은 판매처(쇼핑몰 하단) 참조"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-OM3-LCSC-1M",
+      "품목코드": "NET-광멀케098",
+      "품목명": "[LANstar] 광케이블 OM3 파랑 10G, LC-SC 1M [10197] (150개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-OM3-LCSC-3M",
+      "품목코드": "NET-광멀케099",
+      "품목명": "[LANstar] 광케이블 OM3 파랑 10G, LC-SC 3M [10198] (120개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-OM3-LCSC-5M",
+      "품목코드": "NET-광멀케100",
+      "품목명": "[LANstar] 광케이블 OM3 파랑 10G, LC-SC 5M [10199] (80개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-OM3-LCSC-10M",
+      "품목코드": "NET-광멀케101",
+      "품목명": "[LANstar] 광케이블 OM3 파랑 10G, LC-SC 10M [10200] (60개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-OM3-LCSC-15M",
+      "품목코드": "NET-광멀케102",
+      "품목명": "[LANstar] 광케이블 OM3 파랑 10G, LC-SC 15M [10201] (40개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-OM3-LCSC-20M",
+      "품목코드": "NET-광멀케103",
+      "품목명": "[LANstar] 광케이블 OM3 파랑 10G, LC-SC 20M [10202] (35개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-OM3-LCSC-30M",
+      "품목코드": "NET-광멀케355",
+      "품목명": "[LANstar] 광케이블 OM3 파랑 10G, LC-SC 30M [20179] (20개)",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-OM3-LCSC",
+      "내용": "만족합니다. 감사합니다."
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-OM3-LCSC-M": "LANStar\nLC-LC Duplex 10Gigabit Patch Cord\n10Gigabit OM3\n[광]점퍼코드 케이블(LC-SC)\n1m/3m/5m/10m/15m/20m 시리즈 구성\n10\nEDGE\nLSZH 난연케이블\nLS-OM3-LCSC-1M/LS-OM3-LCSC-3M/LS-OM3-LCSC-5M/LS-OM3-LCSC-10M\nLS-OM3-LCSC-15M/LS-OM3-LCSC-20M\n2.0% ROHS)\nUL\n10기가비트 이더넷 통신지원\n초당 10Gigabit의 IEEE 802.3ae 표준 광점퍼코드\n10Gigabit LS-OM3-LCSC-Series\n케이블 외경(굵기)\n케이블 재질\n케이블 색상\n커넥터\n규격\n파장\n전송 손실\nOFL 대역폭\n도달 대역폭\n2.0mm\n난연 LSZH\nAqua(아쿠아색)\nLC/PC-SC/PC\n멀티모드 OM3\n850nm / 1300nm\n≤0.3dB/km / ≤0.3dB/km\n≥1500MHz/km / 2500MHz/km\n22000MHz/km / -\n[광] 패치코드 커넥터 종류\nLC커넥터\nSC커넥터\nFC커넥터\nST커넥터\nMT-RJ 커넥터\n10Gigabit OM3\n케이블(LC-SC) 상세보기\n케이블클립 기본장착\n합격인증\n랜스타 정품을 확인하세요\nOPTICAL CABLE MM OM3 50.\n\n\n합격인증\n랜스타 정품을 확인하세요\nCROHS) LANSOP OPTICAL CABLE MM OM3 50.\nLAN=SaP OPTICAL CABLE MM OM3 50/125UM LSZH2E\n난연케이블\n멀티모드 광점퍼코드 전송표준\n전송표준\n규격\n대역폭\n1G 전송(850nm)\n10G전송(850nm)\nOM1\n62,5/125μm\n275M\n33M\nOM2\n50/125μm\n550M\n82M\nOM3\n50/125μm\n2000MHz/Km\n1Km\n300M\nOM4\n50/125μm\n4700MHz/Km\n1Km\n550M\nLanstar 광 패치코드 시리즈\n케이블 안정성 테스트\n20도까지 꺽여지는 관용도\n꺽었던 케이블을 테스트 한 사진\nROHS\nU₁\nCompliant\nRoHS, UL인증을 획득한 난연케이블\n까다로운 납품기준을 만족하는 품질과 성능\n난연케이블로 더욱 인정받고 있습니다!\n엄격한 품질보증과 사후관리로 대기업 망센터 및 관공서 망센터 등에\n적합한 인증획득 제품으로 안정적인 사용환경을 제공합니다.\n10\nВВЕО В\n光[광] 패치코드 케이블(재킷) 색상\n1G\n1G\n10G\n10G\n싱글모드\n9/125μm\n광점퍼코드(OS1)\n멀티모드\n62.5/125m\n광점퍼코드(OM1, OM2)\n멀티모드\n50/125μm\n광점퍼코드(OM3)\n멀티모드\n50/125μm\n광점퍼코드(OM4)\n\n\n1G\n1G\n10G\n10G\n싱글모드\n9/125μm\n광점퍼코드(OS1)\n멀티모드\n62,5/125μm\n(M1, M2)\n멀티모드\n50/125μm\n광점퍼코드(OM3)\n멀티모드\n50/125μm\n광점퍼코드(OM4)\nLS-OM3-LCSC [광] 패치코드 케이블\nDOHHHHH\nHH\nCHHHHHH\nHEL\nHH\nCOHHHHH\n3\n4\nA1\nA2\nL\nB2\nB1,\nTABLE A\nTABLE B\nTABLE C\nMM\nItem\nVaule\nOm3\nLIM)\nItem No\nA1-PLUG\nBeige\nCable diameter(MM)\nⒸ2.0*2\n1\nLS-OM3-LCSC-1M\nA2-BOOT\nBlack and Red\nCable type\nLSZH\n3\nLS-OM3-LCSC-3M\n81-PLUG\nBlue\nFerrule Interface type\nPC\n5\nLS-OM3-LCSC-5M\nMode\nMM:50/125\nB2-BOOT\nBlack and Red\n10\nLS-OM3-LCSC-10M\nOM3\nCable length(M)\n1.3.5.10.15.20\n3-CABLE\nGREEN\nCable Marking\n15\nLS-OM3-LCSC-15M\nHEAT SHRINK\nTUBE\n2313 AN OPTICAL CABLE, MM, M\n50/125UM LSD 2012 M\nBLACK\n20\nLS-OM3-LCSC-20M\nInsertion Loss)\n≤0.3dB\nRetro)"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "LC",
+        "SC"
+      ],
+      "output_signals": [
+        "LC",
+        "SC"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "LSZH"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        3,
+        5,
+        10,
+        15,
+        20,
+        30
+      ],
+      "color_options": [
+        "Aqua"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "LSZH",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "LC/PC - SC/PC 커넥터 구성",
+    "connectivity.output_signals": "LC/PC - SC/PC 커넥터 구성",
+    "connectivity.directional": "LC/PC - SC/PC 커넥터 구성",
+    "form_physical.material": "LSZH 난연 재질 케이블",
+    "form_physical.length_options_meters": "1m/3m/5m/10m/15m/20m/30m 총 7가지 길이",
+    "form_physical.color_options": "Aqua(아쿠아) 색상 케이블 외관",
+    "certification.rohs": "RoHS 및 UL 인증 획득",
+    "family.flame_rating": "LSZH 난연 재질 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:27",
+  "feature_schema_version": "1.0.0"
+}

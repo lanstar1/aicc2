@@ -1,0 +1,202 @@
+{
+  "model_no": "LS-USB312-HDCHA",
+  "product_name": "USB 3.1 Type-C to HDMI 컨버터 케이블 (LS-USB312-HOCHA)",
+  "category": [
+    "DisplayPort",
+    "USB-C",
+    "컨버터",
+    "전원아답터"
+  ],
+  "key_features": [
+    "USB 3.1 Type-C 입력을 HDMI 출력으로 변환하는 케이블",
+    "4K2K (3840x2160) @30Hz UHD 해상도 지원",
+    "영상·음성·충전 동시 지원 (5V USB 아답터 별매)",
+    "DisplayPort Alternate Mode 지원",
+    "Plug & Play 지원 (별도 드라이버 불필요)",
+    "무전원 방식 (보조전원 추가 시 사용시간 연장 가능)",
+    "앞뒤 구분 없는 양면인식 USB Type-C 커넥터",
+    "DEX 모드 지원 (갤럭시 S8, S8+, 노트8 제외)",
+    "32채널 멀티 오디오 지원",
+    "21:9 화면비율 영상 지원",
+    "Full HD 1080p 대비 최대 4배 초고해상도 지원",
+    "타사 대비 고성능 칩셋 사용",
+    "케이블 길이 2M, Red Black Color"
+  ],
+  "specifications": {
+    "인터페이스_입력": "USB 3.1 Type-C",
+    "인터페이스_출력": "HDMI",
+    "지원_해상도": "4K2K @30Hz (3840x2160)",
+    "전송속도": "USB 3.1 (10Gbps)",
+    "출력전류": "1.5~3A",
+    "케이블_길이": "2M",
+    "색상": "Red, Black",
+    "충전지원": "5V USB 아답터 사용 시 충전 가능 (아답터 별매)",
+    "오디오_샘플링": "1535kHz",
+    "대역폭": "최대 18Gbps",
+    "인증": "KC (MSIP-REI-LUS-USB31-MP), FCC, CE, RoHS",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "Samsung Galaxy S10e",
+    "Samsung Galaxy S10",
+    "Samsung Galaxy S10+",
+    "Samsung Galaxy S9",
+    "Samsung Galaxy S9+",
+    "Samsung Galaxy Note 10",
+    "Samsung Galaxy Fold",
+    "New MacBook (썬더볼트3 / Type-C 탑재 MacBook)",
+    "DisplayPort Alternate Mode를 지원하는 USB Type-C 포트 탑재 기기",
+    "HDMI 포트 탑재 TV, 모니터, 프로젝터",
+    "USB 2.0, USB 3.0 (커넥터 형태 상이하여 별도 젠더 필요)"
+  ],
+  "package_contents": [
+    "USB 3.1 Type-C to HDMI 컨버터 케이블 (2M, Red Black) 1개"
+  ],
+  "usage_instructions": "1) USB Type-C 커넥터를 스마트폰 또는 노트북의 Type-C 포트에 연결한다. 2) HDMI 단자를 TV·모니터·프로젝터의 HDMI 포트에 연결한다. 3) Plug & Play 방식으로 드라이버 설치 없이 자동 인식된다. 4) 충전이 필요한 경우 별매 5V USB 아답터를 충전 포트에 연결한다. (보조전원은 사용시간 연장 용도이며 스마트폰 충전이 어려울 수 있음.)",
+  "cautions": [
+    "NETFLIX에서는 사용이 되지 않으므로 구매 시 참고할 것",
+    "DisplayPort Alternate Mode를 지원하는 USB Type-C 포트에서만 사용 가능",
+    "DEX 모드는 갤럭시 S8, S8+, 노트8에서는 지원되지 않음",
+    "충전 기능은 별매 5V USB 아답터 필요하며, 보조전원 연결 시 스마트폰 충전이 어려울 수 있음",
+    "USB 2.0, USB 3.0 제품과 호환은 가능하나 커넥터 모양이 달라 별도 젠더 필요",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "USB 아답터는 별매 품목임",
+    "본 제품은 Type-C 맥북에서만 작동"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB312-HDCHA",
+      "품목코드": "CAB-APP623",
+      "품목명": "[LANstar] USB 3.1 C-Type TO HDMI 컨버터케이블 ,USB충전, 미러링 2M [11073] ★단종★-->20328로 대체",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-USB312-HDCHA",
+      "id": 57183442,
+      "date": "2018-07-11 00:58",
+      "answerDate": "2018-07-11 15:28",
+      "user": "lk****",
+      "productName": "랜스타 USB3.1 C TO HDMI 컨버터케이블 MHL 미러링 2M 갤럭시S9/S9PLUS/V20/노트8 USB충전 LS-USB312-HDCHA",
+      "question": "충전이  아예안돼는데  왜그런건가요?불량인건가요?",
+      "answer": "안녕하세요 고객님\n\n연락을 드렸는데 안받으시네요.\n\n충전이 가능한 제품이며 별도의 usb 충전기로 연결하시면 됩니다.\n\n잘 안되신다면 070-4099-4995 로 연락주시기 바랍니다."
+    },
+    {
+      "source_model": "LS-USB312-HDCHA",
+      "id": 59379061,
+      "date": "2018-08-14 02:22",
+      "answerDate": "2018-08-14 11:26",
+      "user": "mecu***",
+      "productName": "랜스타 USB3.1 C TO HDMI 컨버터케이블 MHL 미러링 2M 갤럭시S9/S9PLUS/V20/노트8 USB충전 LS-USB312-HDCHA",
+      "question": "v20 사용자에요\n티비랑 핸드폰 연결해서 동영상보려고하는데 충전지원되나요?",
+      "answer": "안녕하세요 고객님\n\n해당제품 호환되어 사용 가능합니다.\n\n충전도 지원 됩니다.\n\n감사합니다"
+    },
+    {
+      "source_model": "LS-USB312-HDCHA",
+      "id": 59575381,
+      "date": "2018-08-16 21:44",
+      "answerDate": "2018-08-17 09:28",
+      "user": "defc***",
+      "productName": "랜스타 USB3.1 C TO HDMI 컨버터케이블 MHL 미러링 2M 갤럭시S9/S9PLUS/V20/노트8 USB충전 LS-USB312-HDCHA",
+      "question": "만약에 스마트폰 배터리가 70인 상태에서 연결해서 미러링으로 충전하면서 사용할때 시간이 지날수록 70이하로 떨어지는지? 70을 유지하는지? 70에서 100을향하여 충전까지 되는지? (충전기는 스마트폰에 같이들어있던 정품 고속충전기일 경우)\n유지만되도 좋을것같은데 말입니다\n 기종은 s8+입니다",
+      "answer": "안녕하세요 고객님\n\n해당 제품은 고속충전을 지원하지 않으며 충전 용도 보다는 스마트폰 미러링시 배터리 소모율을 줄여주는 것으로 보시면 될 것 같습니다."
+    },
+    {
+      "source_model": "LS-USB312-HDCHA",
+      "id": 89866698,
+      "date": "2019-09-20 17:28",
+      "answerDate": "2019-09-23 08:56",
+      "user": "anim****",
+      "productName": "랜스타 USB3.1 C TO HDMI 컨버터케이블 MHL 미러링 2M 갤럭시S9/S9PLUS/V20/노트8 USB충전 LS-USB312-HDCHA",
+      "question": "노트8 에서 사용가능한 케이블 입니까 ?",
+      "answer": "안녕하세요. 랜마트 입니다.\n\n문의 하신 \"LS-USB312-HDCHA\" 제품은 갤럭시 노트8에서 사용 가능합니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-USB312-HDCHA",
+      "id": 127724511,
+      "date": "2020-08-31 09:39",
+      "answerDate": "2020-08-31 14:09",
+      "user": "rain****",
+      "productName": "랜스타 USB3.1 C TO HDMI 컨버터케이블 MHL 미러링 2M 갤럭시S9/S9PLUS/V20/노트8 USB충전 LS-USB312-HDCHA",
+      "question": "안녕하세요. 핸드폰 S9 기종으로 이제품 사용중입니다.\n그런데 넥플릭스, 위버스 앱 사용시 2-3초 재생되다가 계속 오류가 납니다.\n유투브 사용은 정상적입니다.\n다른 제품을 사면 넥플릭스 재생을 TV에서 할 수 있을까요? ㅠ_ㅠ",
+      "answer": "안녕하세요 랜스타 입니다.\n\n해당 모델은 넷플릭스 사용이 불가능한 제품 입니다.\n\n지원되는 제품 모델은 LS-USB312-HDCHAN 입니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 2,
+      "length_options_meters": null,
+      "color_options": [
+        "Red",
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": null,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 Type-C 입력을 HDMI 출력",
+    "connectivity.output_signals": "HDMI 출력으로 변환하는 케이블",
+    "connectivity.directional": "USB 3.1 Type-C 입력을 HDMI 출력",
+    "power.power_mode": "무전원 방식",
+    "power.charging_support": "충전 동시 지원 (5V USB 아답터 별매)",
+    "form_physical.length_meters": "케이블 길이 2M",
+    "form_physical.color_options": "Red Black Color",
+    "certification.kc": "KC (MSIP-REI-LUS-USB31-MP)",
+    "certification.rohs": "RoHS",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "4K2K (3840x2160) @30Hz UHD",
+    "audio_video.audio_pass": "영상·음성·충전 동시 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:48",
+  "feature_schema_version": "1.0.0"
+}

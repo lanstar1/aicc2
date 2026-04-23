@@ -1,0 +1,124 @@
+{
+  "model_no": "LS-HD2VGA",
+  "product_name": "HDMI to VGA 컨버터",
+  "category": [
+    "VGA",
+    "컨버터"
+  ],
+  "key_features": [
+    "HDMI 신호를 VGA 신호로 변환하여 VGA 지원 모니터·프로젝터 등에 연결 가능",
+    "1080P Full HD 및 3D 지원",
+    "오디오 지원",
+    "별도 드라이버 설치 없이 Plug & Play 즉시 사용 가능",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "KC, FCC, CE 안전규격 인증 및 국립전파연구원 인증 획득",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "RoHS 준수 (납·수은·카드뮴 등 중금속 사용 금지)"
+  ],
+  "specifications": {
+    "HDMI 입력 해상도": "480P / 720P / 1080P @60Hz, 50Hz",
+    "VGA 출력 해상도": "1920x1080 @60Hz, 50Hz, 1680x1050, 1800x1440, 1360x768, 1440x900, 1600x900, 1280x768, 1280x800, 1280x1024, 1280x720, 1024x768, 800x600",
+    "본체 크기": "W92 x D60 x H20 (mm)",
+    "전원 어댑터": "DC 5V / 1.5A",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "MSIP-REI-LUS-VGA2HD",
+    "브랜드": "LANStar"
+  },
+  "compatibility": [
+    "HDMI 출력 지원 노트북",
+    "HDMI 출력 지원 블루레이 플레이어",
+    "HDMI 출력 지원 게임기",
+    "HDMI 출력 지원 데스크탑",
+    "VGA 입력 지원 모니터 (TV, PC 모니터 등)",
+    "VGA 입력 지원 프로젝터"
+  ],
+  "package_contents": [
+    "HDMI to VGA 컨버터 본체",
+    "전원 어댑터 (DC 5V / 1.5A)",
+    "한글 매뉴얼",
+    "HDMI 케이블 (별도 구매)",
+    "VGA 케이블 (별도 구매)",
+    "스테레오 케이블 (별도 구매)"
+  ],
+  "usage_instructions": "HDMI 입력 단자에 소스 기기(노트북, 게임기, 데스크탑 등)를 연결하고, VGA 출력 단자에 모니터 또는 프로젝터를 연결한 후 전원 어댑터를 연결하면 드라이버 설치 없이 즉시 사용 가능합니다.",
+  "cautions": [
+    "OUTPUT(출력)과 INPUT(입력) 연결 방향이 바뀌면 작동하지 않으므로 연결 시 반드시 방향을 확인하세요.",
+    "HDMI 케이블, VGA 케이블, 스테레오 케이블은 별도 구매 필요합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "VGA",
+        "3.5mm"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 신호를 VGA 신호로 변환",
+    "connectivity.output_signals": "VGA 신호로 변환하여 VGA 지원 모니터·프로젝터 등에 연결 가능",
+    "connectivity.directional": "HDMI 신호를 VGA 신호로 변환",
+    "power.power_mode": "전원 어댑터: DC 5V / 1.5A",
+    "form_physical.has_case": "본체 크기: W92 x D60 x H20 (mm)",
+    "certification.kc": "KC, FCC, CE 안전규격 인증 및 국립전파연구원 인증 획득",
+    "certification.rohs": "RoHS 준수 (납·수은·카드뮴 등 중금속 사용 금지)",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증 및 국립전파연구원 인증 획득",
+    "certification.ce": "KC, FCC, CE 안전규격 인증 및 국립전파연구원 인증 획득",
+    "audio_video.max_resolution": "1080P Full HD 및 3D 지원",
+    "audio_video.audio_pass": "오디오 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:56",
+  "feature_schema_version": "1.0.0"
+}

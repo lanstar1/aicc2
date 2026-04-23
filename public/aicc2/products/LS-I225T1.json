@@ -1,0 +1,164 @@
+{
+  "model_no": "LS-I225T1",
+  "product_name": "LAN Star Intel i225 2.5G 랜카드 (LS-1225T1)",
+  "category": [
+    "방열판",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "Intel i225-V 칩셋 탑재로 안정성 및 네트워크 속도 최대 출력",
+    "최대 2.5Gbps 전송속도 지원 (1Gbps, 100Mbps, 10Mbps 하위 호환)",
+    "PCI-Express x1 v3.1 규격 사용 (x1, x4, x8, x16 슬롯 모두 장착 가능)",
+    "IEEE 802.3 이더넷 표준 규격 지원 (2500BASE-T, 1000BASE-T, 100BASE-TX, 10BASE-TE)",
+    "방열판(Heatsink) 탑재로 발열 대비 및 제품 성능 저하 방지",
+    "슬림 PC 전용 브라켓 기본 구성품 포함",
+    "Windows 10/11 32bit/64bit 지원",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-1225T1)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "라인업시스템(주) / 랜스타 정품 수입·유통 제품"
+  ],
+  "specifications": {
+    "모델명": "LS-1225T1",
+    "버스 슬롯": "PCI-Express x1 v3.1 (5GT/s)",
+    "인터페이스": "RJ45 포트",
+    "칩셋": "Intel i225-V",
+    "최대 전송속도": "2.5Gbps",
+    "지원 전송속도": "2.5Gbps, 1Gbps, 100Mbps, 10Mbps",
+    "지원 이더넷 규격": "2500BASE-T, 1000BASE-T, 100BASE-TX, 10BASE-TE",
+    "운영체제": "Windows 10/11 32bit or 64bit",
+    "제품 크기": "55.5mm x 73mm",
+    "제품 무게": "약 40g",
+    "KC 인증번호": "R-R-LUS-LS-1225T1",
+    "제조국": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)",
+    "권장 랜케이블": "CAT.7 (CAT.6A) 이상 필수"
+  },
+  "compatibility": [
+    "PCI-Express x1 슬롯 장착 가능",
+    "PCI-Express x4 슬롯 장착 가능",
+    "PCI-Express x8 슬롯 장착 가능",
+    "PCI-Express x16 슬롯 장착 가능",
+    "슬림 PC 메인보드 PCIE 슬롯 (슬림 PC 전용 브라켓 사용 시)",
+    "Windows 10 32bit/64bit",
+    "Windows 11 32bit/64bit",
+    "CAT.6A 이상 랜케이블 (2.5Gbps 속도 구현 시 CAT.7 권장)"
+  ],
+  "package_contents": [
+    "2.5Gbps 랜카드 (LS-1225T1) x1",
+    "슬림 PC 전용 브라켓 x1",
+    "드라이버 설치 CD x1",
+    "매뉴얼 x1"
+  ],
+  "usage_instructions": "1. 메인보드의 빈 PCI-Express 슬롯(x1/x4/x8/x16 모두 사용 가능)에 랜카드를 장착한다. 2. PC를 부팅한 후 동봉된 드라이버 설치 CD를 이용하거나 제조사 사이트에서 드라이버를 설치한다. 3. 장치 관리자 > 네트워크 어댑터에서 'Intel(R) Ethernet Controller (3) I225-V' 장치가 정상 설치되었는지 확인한다. 4. 2.5Gbps 속도 이용 시 CAT.7(CAT.6A) 이상 랜케이블을 RJ45 포트에 연결한다. 5. 슬림 PC에 장착 시, 기본 브라켓을 제거하고 동봉된 슬림 PC 전용 브라켓으로 교체한 뒤 슬림 PC 메인보드 PCIE 슬롯에 결합하여 사용한다.",
+  "cautions": [
+    "2.5Gbps 최대 속도 구현을 위해서는 사용 중인 인터넷 회선이 2.5Gbps 이상 속도를 지원해야 한다.",
+    "2.5Gbps 속도 이용 시 랜케이블은 반드시 CAT.7(CAT.6A) 이상 규격을 사용해야 한다.",
+    "드라이버가 정상적으로 설치되지 않으면 제품이 인식되지 않을 수 있으므로 설치 여부를 장치 관리자에서 확인해야 한다.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처의 제품은 정품이 아니며 A/S를 받을 수 없다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있다.",
+    "당일출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일은 제외된 평일 기준이다. 택배사 사정에 따라 배송기간이 길어질 수 있다.",
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-I225T1",
+      "품목코드": "NET-유랜카118",
+      "품목명": "[LANstar] PCIe Intel i225 1포트 2.5G 랜카드 [30808] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-I225T1",
+      "내용": "빠른 배송 좋습니다. 잘사용~"
+    },
+    {
+      "source_model": "LS-I225T1",
+      "내용": "가성비가 좋은 랜카드입니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-I225T1",
+      "id": 567089566,
+      "date": "2024-02-06 13:12",
+      "answerDate": "2024-02-06 13:44",
+      "user": "ww****",
+      "productName": "PCI-Express 2.5G 기가 1포트 랜카드 인텔 i225-v 칩셋 (LS-I225T1)",
+      "question": "윈도우7 사용 가능하다 해서 제품 구매 해서 끼워넣었는데\n현재 운영 체제에서 지원 되지 않습니다. 라고 뜨더라고요.\n윈도우7 안된다고 뜨네요 어떻게 하죠?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n톡톡 문의 주신 것으로 확인되어, 해당 공간에서 확인 후 답변 드릴 수 있도록 하겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-I225T1",
+      "chatUrl": "igpH",
+      "dateIso": "2025-08-29T00:55:16.120Z",
+      "name": "cent****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "성함 : 민준기\n주소 : 경기도 평택시 고덕국제2로 189 335동 702호\n연락처 : 010-8538-3546\n구매처(사이트) : G마켓(주문번호: 4338026414)\n구매 시...",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 구매처와 문의주신 문의처의 상담 공간이 다릅니다.\n저희 측에서 고객님 주문 내역 확인이 어려워 구매해주신 구매처를 통해 문의 부탁드립니다..."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "fan_size_mm": null,
+      "rpm_max": null,
+      "cooling_target": []
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 포트",
+    "connectivity.port_count": "RJ45 포트",
+    "form_physical.has_case": "방열판(Heatsink) 탑재",
+    "certification.kc": "KC 인증 획득"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:48",
+  "feature_schema_version": "1.0.0"
+}

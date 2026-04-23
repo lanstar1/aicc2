@@ -1,0 +1,132 @@
+{
+  "model_no": "LS-IPUAM",
+  "product_name": "LAN Star iPod & iPhone & iPad USB 데이터/충전 케이블 (SYNC & CHARGE USB CABLE)",
+  "category": [
+    "USB케이블",
+    "USB2.0",
+    "커넥터",
+    "아이폰케이블"
+  ],
+  "key_features": [
+    "Apple 공식 MFi 인증 제품 (Made for iPod / iPhone / iPad)",
+    "라인업시스템㈜ Apple 공식 Licensed Developer 공급 정품",
+    "USB 2.0 지원으로 빠르고 안정적인 데이터 전송 및 충전 가능",
+    "Small Connector 채택으로 범퍼/케이스 완벽 지원",
+    "무상 A/S 1년, 초기불량 포함 1:1 교환 보상",
+    "생산물 책임 보험 가입",
+    "RoHS 인증 제품 (유해물질 사용 제한 규격 준수)",
+    "랜스타 상표등록 국내 순수 브랜드 (1993년 설립)"
+  ],
+  "specifications": {
+    "인터페이스": "USB 2.0",
+    "케이블 길이": "1.5M",
+    "커넥터 타입": "Small Connector (30핀 iPod/iPhone/iPad 전용)",
+    "인증": "Apple MFi (Made for iPod/iPhone/iPad), RoHS",
+    "Product ID": "102355-0065",
+    "제조/공급사": "라인업시스템㈜ (LAN Star)",
+    "브랜드 설립연도": "1993년"
+  },
+  "compatibility": [
+    "iPod 5세대 (Video)",
+    "iPod nano 1세대",
+    "iPod nano 2세대 (aluminum)",
+    "iPod nano 3세대 (Video)",
+    "iPod nano 4세대 (Video)",
+    "iPod nano 5세대 (Video camera)",
+    "iPod nano 6세대",
+    "iPod Mini",
+    "iPod Touch 1세대",
+    "iPod Touch 2세대",
+    "iPod Touch 3세대",
+    "iPod Touch 4세대",
+    "iPod Classic 80GB",
+    "iPod Classic 120GB",
+    "iPod Classic 160GB (2007)",
+    "iPod Classic 160GB (2009)",
+    "iPhone 3G",
+    "iPhone 3GS",
+    "iPhone 4",
+    "iPad",
+    "iPad 2"
+  ],
+  "package_contents": [
+    "USB 데이터/충전 케이블 (LS-IPUAM-1.5M) 1개"
+  ],
+  "usage_instructions": "iPod/iPhone/iPad의 30핀 커넥터에 케이블을 연결하고, 반대쪽 USB 단자를 컴퓨터/노트북, 차량용 시가잭, 또는 USB 전원 어댑터에 연결하여 데이터 전송 및 충전에 사용한다.",
+  "cautions": [
+    "구매 전 호환 가능한 모델인지 반드시 확인 후 구매 바람",
+    "저가/비공식 케이블 사용으로 인한 기기 고장·파손에 주의하고 공식 인증 제품 사용 권장",
+    "무상 A/S 기간은 구매일로부터 1년",
+    "A/S 발생 시 고객센터 방문 또는 택배(옐로우캡택배) 이용 가능, 새 제품 선발송 후 이상 제품 반송",
+    "본 콘텐츠를 저작권 허락 없이 무단 복사·도용·변형·배포·타 용도 전환 시 민·형사상 책임을 부담할 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-IPUAM-1M",
+      "품목코드": "CAB-APP618",
+      "품목명": "[LANstar] 아이폰 30핀 케이블 USB A／M - Apple 30／M 1M [10994]★단종★",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 1.5
+    },
+    "certification": {
+      "rohs": true
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 2.0 지원",
+    "connectivity.output_signals": "USB 2.0 지원",
+    "connectivity.directional": "데이터 전송 및 충전 가능",
+    "power.power_mode": "USB 전원 어댑터에 연결하여",
+    "power.charging_support": "충전 가능",
+    "form_physical.length_meters": "1.5M",
+    "certification.rohs": "RoHS 인증 제품",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.usb_version": "USB 2.0",
+    "family.transfer_speed_gbps": "USB 2.0 지원으로 빠르고 안정적인 데이터 전송",
+    "family.charging_only": "데이터 전송 및 충전 가능",
+    "family.data_only": "데이터 전송 및 충전 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:51",
+  "feature_schema_version": "1.0.0"
+}

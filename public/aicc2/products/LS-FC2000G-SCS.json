@@ -1,0 +1,288 @@
+{
+  "model_no": "LS-FC2000G-SCS",
+  "product_name": "LANStar 광 이더넷 컨버터 싱글 SC 타입 (10/100/1000Mbps) LS-FC2000G-SCS-A / LS-FC2000G-SCS-B",
+  "category": [
+    "광케이블",
+    "컨버터",
+    "광컨버터",
+    "미디어컨버터"
+  ],
+  "key_features": [
+    "10/100/1000Base-T to 1000Base-SX/LX 지원 Ethernet Media Converter",
+    "싱글모드 WDM 방식, SC 타입 1Core Fiber 포트 사용",
+    "최대 25km 장거리 전송 지원",
+    "A타입 TX:1310nm / RX:1550nm, B타입 TX:1550nm / RX:1310nm (A·B타입 별도 구매 상품)",
+    "LED 작동 표시등으로 동작 상태 확인 가능 (1000, 100, LINK/ACT, FDX, PWR)",
+    "튼튼한 메탈 소재, 어두운 쥐색 디자인",
+    "광케이블 사용으로 외부 간섭 차단 및 보안성 우수",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 획득 (인증번호: R-R-LUS-LS-SFC2000G-SC)",
+    "RoHS, FCC, CE, KC 인증, ISO 9001:2008 품질경영시스템",
+    "10/100/1000 Base-T to 1000Base-SX/LX 변환 지원",
+    "SC 싱글모드 광케이블 사용으로 최대 25km 장거리 전송 가능",
+    "싱글모드 광섬유 적용으로 데이터 전송 손실률 최소화",
+    "LED 표시등으로 동작 상태 실시간 확인 가능 (TX 1000/100, LINK/ACT, FDX, PWR)",
+    "170x130x32mm 메탈 소재 디자인",
+    "RoHS 준수, KC·FCC·CE 안전규격 인증",
+    "ISO 9001:2008 품질경영시스템 적용"
+  ],
+  "specifications": {
+    "모델명_A타입": "LS-FC2000G-SCS-A",
+    "모델명_B타입": "LS-FC2000G-SCS-B",
+    "전송속도": "10/100/1000Mbps",
+    "전송방식": "싱글모드 WDM",
+    "광파장_A타입": "TX: 1310nm / RX: 1550nm",
+    "광파장_B타입": "TX: 1550nm / RX: 1310nm",
+    "최대전송거리": "25km",
+    "광포트": "SC 타입 1Core Fiber 포트",
+    "UTP포트": "RJ45",
+    "전원": "DC 5V 1A (아답터 포함), DC 5V 2A (모델: HU101081-20002A)",
+    "크기": "170 x 130 x 32 (mm)",
+    "색상": "어두운 쥐색 / 쥐색 (다크 그레이)",
+    "소재": "메탈",
+    "인증번호": "R-R-LUS-LS-SFC2000G-SC",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "싱글모드_코어직경": "8~10μm",
+    "싱글모드_클래딩직경": "125μm",
+    "싱글모드_전송손실": "훨씬 적다",
+    "싱글모드_모드분산": "없음",
+    "싱글모드_전송거리": "~25km",
+    "모델명": "LS-FC2000G-SCS",
+    "제품 유형": "광 이더넷 미디어 컨버터 (Gigabit Ethernet Media Converter)",
+    "전송 규격": "10/100/1000 Base-T to 1000Base-SX/LX",
+    "광케이블 포트": "SC 싱글모드",
+    "UTP 포트": "RJ45 UTP 랜포트",
+    "전원 입력": "DC 5V 1A",
+    "전원 아답터": "DC 5V 2A (아답터 인증번호: HU101081-20002A)",
+    "제품 크기": "170x130x32 (mm)",
+    "최대 전송 거리 (싱글모드)": "~25km",
+    "최대 전송 거리 (멀티모드 참고)": "~2km",
+    "싱글모드 코어 직경": "8~10um",
+    "싱글모드 클래딩 직경": "125um",
+    "광전송로 모드 (싱글모드)": "하나 (단일)",
+    "모드 분산 (싱글모드)": "없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "LED - TX(1000) ON": "Fiber Optic Module 동작",
+    "LED - TX(100) ON": "UTP 케이블 연결이 100Mbps 속도",
+    "LED - LINK/ACT(1000) ON": "Fiber 케이블 연결이 상대측과 정상",
+    "LED - LINK/ACT(1000) Blink": "FX포트로 데이터 전송중",
+    "LED - LINK/ACT(100) ON": "UTP 케이블 연결이 상대측과 정상",
+    "LED - LINK/ACT(100) Blink": "TX포트로 데이터 전송중",
+    "LED - FDX ON": "Full Duplex 모드",
+    "LED - FDX OFF": "Half Duplex 모드",
+    "LED - PWR ON": "DC 전원이 정상"
+  },
+  "compatibility": [
+    "10/100/1000Base-T (UTP RJ45)",
+    "1000Base-SX/LX (광 SC 싱글모드)",
+    "싱글모드 SC 타입 광케이블 1Core",
+    "공유기, UTP 케이블 연결 환경",
+    "A타입과 B타입 쌍으로 사용 (WDM 방식)",
+    "10/100/1000 Base-T UTP 랜케이블 (RJ45)",
+    "1000Base-SX/LX SC 싱글모드 광케이블",
+    "Router, Server, VoIP, PC, Switch, Hub 등과 연결 가능"
+  ],
+  "package_contents": [
+    "LS-FC2000G-SCS-A 또는 LS-FC2000G-SCS-B 본체 1개",
+    "DC 5V 전원 아답터 1개",
+    "광 이더넷 컨버터 본체 LS-FC2000G-SCS (단품)",
+    "전원 아답터 DC 5V 2A (인증번호: HU101081-20002A)"
+  ],
+  "usage_instructions": "A타입(TX:1310nm/RX:1550nm)과 B타입(TX:1550nm/RX:1310nm)을 쌍으로 구매하여 사용. 각 장치의 RJ45 포트에 UTP 케이블을 연결하고, SC 타입 1Core 광케이블로 두 컨버터를 연결. 공유기 등 네트워크 장비와 UTP 케이블로 연결 후 DC 5V 전원 아답터를 연결하여 사용. LED 표시등으로 동작 상태 확인 가능.",
+  "cautions": [
+    "A타입과 B타입은 별도 구매 상품으로, 장거리 연결 시 A·B타입 각 1개씩 쌍으로 사용해야 함",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-FC2000G-SCS",
+      "품목코드": "NET-광컨버112",
+      "품목명": "[LANstar] 광 미디어 컨버터 , 싱글 SC타입 , TX/RX 겸용 , 1,000Mbps (50개) [30377]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-FC2000G-SCS",
+      "내용": "랜스타 첫 구매입니다! 매번 컴ㅇㅇ 홈페이지에서 샀는데요. 톡톡상담도 잘해주시고 도움을 받아서 랜스타 스토어에서 구매했습니다.필요한 제품과 좋은 제품 제공해주셔서 감사합니다 :)\n구매팁 -- 송수신을 위해서는 이 제품 SCS 를 사셔야합니다.  ㅎㅎ"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-FC2000G-SCS",
+      "chatUrl": "8Ppjl",
+      "dateIso": "2024-03-22T05:57:03.439Z",
+      "name": "근자씽",
+      "isTechnical": true,
+      "category": "install",
+      "modelConfidence": "high",
+      "question": "오후 4:21툴팁 열기\n위 장비, 10~15미터(10~15M) 거리에 있는 곳으로 HDMI케이블로 연결하려고 하는데\n(추가 문의) 위 장비, 10미터(10M) 거리에 있는 곳으로 HDMI케이블로 연결하려고 하는데\n(추가 문의) 혹시 케이블이 1.4 1.5 버전이더라도 이 분배기가 지원해주나요\n(추가 문의) 지원이 가능한가요? 혹시 HDMI 케이블도 추천해주실수있나요",
+      "answer": "네 고객님, 두 제품 차이점 알려드립니다. 1. LS-FC2000G-SCS의 경우 신호 전송, 수신 다 가능하고, 광케이블 SC타입 2개 연결가능합니다. 2. LS-FC2000G\n\n자사에서 권장하는 거리는 최대 5M입니다. 그 이상 연결하여 사용하실 경우, 60hz > 30hz 또는 프레임 등 저하가 발생하실 수 있습니다\n\nHDMI 일반 케이블 이용시 분배기 인/아웃 최대 5M까지 사용가능합니다. 10M이상 사용을 원하시면 리피터 케이블 사용을 추천드립니다. 아래",
+      "turn_count": 31,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "랜스타 감사드립니다."
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "믿고 구매하였습니자."
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "하면 되는거겠네요?"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "1번. Scs 4만원 제품 2개 구매해서"
+        },
+        {
+          "role": "agent",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        },
+        {
+          "role": "customer",
+          "text": "그러면 양방향으로 통신해야한다면"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "부탁드리겠습니다~!+"
+        },
+        {
+          "role": "agent",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        },
+        {
+          "role": "customer",
+          "text": "답변"
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        },
+        {
+          "role": "customer",
+          "text": "그냥 SCS는 40000원이네요"
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-FC2000G-SCS-SINGLE": "LAN Star\n(R\n광 이더넷 컨버터\n10/100/1000Mbps SC 싱글모드\nLS-FC2000G-SCS\nLANStar\nLS-FC2000G-SCS\n10/100/1000 Base-T to 1000Base-SX/LXEthernet Media Converter\n////\nIII\n10/100/1000 Base-T\nto\n1000Base-SX/LX\nEthernet Media Converter\n제품은 단품으로 구성되어 있습니다\nLS-FC2000G-SCS\n장거리 전송\n일반적인 랜케이블은 데이터 전송 거리의 한계를 가지고 있습니다.\n광케이블을 이용한 광 이더넷 컨버터를 이용하여\n건물과 건물 사이의 연결, 1층부터 고층까지의 연결 등\n장거리 전송의 효능을 경험해 보세요!!\nSIS-9000771-57\nЈәзәлио) ирәү әшәфа\nXIXS-\nISEg0001 01 J-aseg \n0001/001/01\nLLLLLLL\n00\n1000 10 x\nink\nAct\nLAN Star\nPWR\n\n\n1000 100\nink\n304\nAct\nLANG\nPWR\nLS-FC2000G-SCS\n연결 구성\nUTP 랜케이블\nB\nRouter/Server/Voip / PC\nIN AWWAY ST\nмамку про wapg\n10000 10001/001/01\nLS-FC2000G-SCS\n1000 100\nGCTXLink\nAct\nFX\nX PWR\n27\n25Km\n*\nSC 싱글모드 광케이블\nIN AWAY ST\nme te ma\n0001/001/01\nSPINUT\n1000 100\nGTX\nLink\nAct\nSO FX\nPWR\nC\nLS-FC2000G-SCS\n\n\nX PWR\nPR\nLS-FC2000G-SCS\nUTP 랜케이블\nSwitch Hurb/ PC\n6F\nJJ\nEE\n1F\nBaxxaxa\nLS-SFC2000G-SCS\nLED 표시등\nLED 작동 표시등을 통해 사용중인 상태를 한눈에 확인할 수 있습니다.\n1000 100\nTX\nО\nLink\nAct\nFX\nFDX PWR\nTX\nRX\nLED\n상태\n설명\nTX (1000)\nON\nFiber Optic Module 동작\nNN\nTX (100)\nON\nUTP 케이블 연결이 100Mbps 속도\n\n\nLED\n상태\n설명\nTX (1000)\nON\nFiber Optic Module 동작\nTX (100)\nON\nUTP 케이블 연결이 100Mbps 속도\n||=\nON\nFiber 케이블 연결이 상대측과 정상\nLINK/ACT\n(1000)\nBlink\nFX포트로 데이터 전송중\nON\nUTP 케이블 연결이 상대측과 정상\nLINK/ACT\n(100)\nBlink\nTX포트로 데이터 전송중\nON\nFull Duplex 모드\nFDX\nOFF\nHalf Duplex 모드\nPWR\nON\nDC 전원이 정상\nFiber Media Converter / Gigabit Ethernet\n광(光)케이블\n데이터 전송 손실률이 적은\n싱글모드\n싱글 모드 광섬유는 광선을 단일 전송하기 위해 설계된 광섬유로서,\n장거리 신호 전송에 사용됩니다. 싱글모드는 멀티모드에 비해 훨씬 크기가\n작은 코어가 사용되며 단거리용으로는 멀티모드가 사용됩니다.\n<멀티모드〉\n50/60.5um\n<싱글모드>\n8~10um\n멀티모드\n싱글모드\n코어 직경\n50um/62.5m\n8~10um\n클래딩 직경\n125um\n125um\n광전송로 모드\n복수\n하나\n모드 분산\n있음\n없음\n전송 손실\n적다\n훨씬 적다\n전송 거리\n~2km\n~25km\n케이블 취급\n다소 어렵다\n많이 어렵다\n\n\n광전송로 모드\n복수\n하나\n모드 분산\n있음\n없음\n전송 손실\n적다\n훨씬 적다\n전송 거리\n~2km\n-25Km\n케이블 취급\n다소 어렵다\n많이 어렵다\n10/100/1000 Base-T to 1000Base-SX/LX\n제품 명칭\nLS-FC2000G-SCS\n$75-9000274-5T\nJAURAND EPIN 3303PE\nNTNS-\n88000 1 2L-750g \n00017/007/01\nJOLINUT\n1000 100\nTX\nLink\nAct\nFX\nX PWR\nEl\nRJ45 UTP\n랜포트\nLED 표시등\nSC 싱글 광케이블\n연결 포트\nJOLG\n535-90002151\nA B C\nXXS-\n35eg0001 of \nJ-seg (000100101\nDC 5V 1A\n전원입력\nFast Ethernet Media Converter\n보안성\n외부적 간섭을 받지 않고 데이터 전송률이 뛰어난 광케이블을 사용하여\n다른 유선 전송매체보다 비교적 보안이 뛰어납니다.\n\n\n다른 유선 전송매체보다 비교적 보안이 뛰어납니다.\nLS-FC2000G-SCS\n10/100/1000 Base-T to 1000Base-SX/LX\nEthernet Media Converter\nA\nLLLLLL\nx\n1000 100\nink\nAct\nLAN Star\nPWR\n10/100/1000Mbps Single SC Type\nDesign\n170x130x32(mm)의 사이즈, 전체적으로 어두운 쥐색의 색상,\n튼튼한 메탈 소재로 디자인되어 고급스러운 느낌을 살렸습니다.\nLANStar\nLS-FC2000G-SCS\nEthernet Media Converter\n10/100/1000 Base-T to 1000Base-SX/LX\n///////////\nGigabit Optical Converter\nPRODUCT SIZE\nSIX-PARANDY ST\nEthernet Media Converter\n10/100/1000 \nBase-T to \n1000Base-SXLY\nLANStar\n32mm\n1000 100\nCOTX\nGOLFX\nY PWR\n\n\n9000DY ST\nALAND PW 20\nSTAS-\n8000 ling \n0001/007/01\nHOLINUT\n32mm\n1000 100\nGGTXLink\nAct\nFX\nX PWR\n기\n170mm\n130mm\nPRODUCT COMPONENT\n525-2000221-57\nXIX35280001 @L-asing 0001/001/01\nLAN Star\nLS-FC2000G-SCS\n전원아답터 : DC 5V 2A\n아답터 인증번호 : HU101081-20002A\nPRODUCT PACKAGE\nCEBA\nFiber Media Converter\nEthernet/Fast Ethernet/ Gigabit Ethernet\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nROHS E FC CEK\nCOMPLIANT\nCATION\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를\n인증마크로 사용합니다.\nK\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\n인증번호 R-R-LUS-LS-SFC2000G-SC\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\nLAN Star® 라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n\n\n믿을 수 있는 안전한 제품입니다.\nKS\ng\n인증번호 R-R-LUS-LS-SFC2000G-SC\nLAN Star\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\n광 이더넷 컨버터 싱글모드\n(10/100/1000Mbps)\nLANStar®Ⓡ\n모델명\nLS-FC2000G-SCS\n인증번호\nR-R-LUS-LS-SFC2000G-SC\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45",
+        "Optical"
+      ],
+      "output_signals": [
+        "RJ45",
+        "Optical"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "메탈"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "어두운 쥐색",
+        "쥐색",
+        "다크 그레이"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": true,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "SC 타입 1Core Fiber 포트",
+    "connectivity.output_signals": "SC 타입 1Core Fiber 포트",
+    "connectivity.directional": "Ethernet Media Converter",
+    "power.power_mode": "DC 5V 1A (아답터 포함)",
+    "power.charging_support": "전원 아답터를 연결하여 사용",
+    "form_physical.has_case": "튼튼한 메탈 소재",
+    "form_physical.material": "튼튼한 메탈 소재",
+    "form_physical.color_options": "어두운 쥐색 디자인",
+    "certification.kc": "KC 인증",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "10/100/1000Mbps",
+    "audio_video.hdcp_version": "10/100/1000Mbps",
+    "family.optical_core": "SC 타입 1Core Fiber 포트"
+  },
+  "feature_extracted_at": "2026-04-23T03:12:58",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "install": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

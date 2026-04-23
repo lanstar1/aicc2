@@ -1,0 +1,123 @@
+{
+  "model_no": "LS-PCIE-EX302",
+  "product_name": "LANStar USB 3.0 2Port PCI-E Card",
+  "category": [
+    "USB3.0",
+    "USB2.0"
+  ],
+  "key_features": [
+    "SuperSpeed USB 3.0 최대 5Gbps 전송속도 지원 (USB 2.0 대비 10배 이상)",
+    "USB 3.0 포트 2개 제공",
+    "PCI Express 2.0 규격 지원 (Single-lane x1)",
+    "USB 3.0 / USB 2.0 / USB 1.1 하위 호환 완벽 지원",
+    "NEC Host Controller 칩셋 탑재 (D720200F1) - 안정성 및 호환성 보장",
+    "USB 3.0 기준 900mA 전원 공급으로 외장하드 인식률 향상",
+    "내장 4핀(IDE) 전원 커넥터를 통한 별도 외부 전원 입력 지원 (권장)",
+    "슬립(Sleep) 등 저전력 모드 지원",
+    "Windows 11 지원",
+    "KCC 인증 획득 (인증번호: KCC-REI-LUS-LS-PCIE-EX302)"
+  ],
+  "specifications": {
+    "Bus Type": "PCI Express",
+    "Chipset": "NEC (D720200F1)",
+    "Number of Ports": "USB 3.0 x 2",
+    "Transfer Rate": "Low Speed: 1.5Mbps / Full Speed: 12Mbps / High Speed: 480Mbps / SuperSpeed: 5Gbps",
+    "Operating Temperature": "-10 to 80°C",
+    "Storage Temperature": "-20 to 100°C",
+    "OS Compatibility": "Windows 2000 / XP / 2003 / Vista / 7 / 8 / 10 / 11",
+    "Power Output per Port": "USB 2.0: 500mA, USB 3.0: 900mA",
+    "KCC 인증번호": "KCC-REI-LUS-LS-PCIE-EX302",
+    "제조국": "MADE IN CHINA"
+  },
+  "compatibility": [
+    "PCI Express 2.0 슬롯 장착 데스크탑 PC",
+    "USB 3.0 장치",
+    "USB 2.0 장치",
+    "USB 1.1 장치",
+    "외장하드 드라이브",
+    "USB 허브",
+    "Windows 2000 / XP / 2003 / Vista / 7 / 8 / 10 / 11"
+  ],
+  "package_contents": [
+    "USB 3.0 2Port PCI-E Card (LS-PCIE-EX302) 본체 1개",
+    "미니가이드 1개",
+    "설치 드라이버 CD 1개",
+    "사용설명서 1개"
+  ],
+  "usage_instructions": "데스크탑 PC의 PCI Express 슬롯에 카드를 삽입한 후, 안정적인 전원 공급을 위해 IDE 4핀 전원 커넥터를 메인보드 또는 파워서플라이의 전원 포트에 연결(권장)하고 드라이버 CD를 이용해 드라이버를 설치한다.",
+  "cautions": [
+    "내장된 4핀 전원 커넥터에 별도 전원 입력을 권장함 (미연결 시 외장하드 등 고전력 장치 인식 불안정 가능)",
+    "KCC 인증을 받지 않은 유사품 구매에 주의할 것",
+    "구매 시 KCC 인증번호(KCC-REI-LUS-LS-PCIE-EX302) 확인 필요"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-EX302",
+      "품목코드": "USB-PCI069",
+      "품목명": "[LANstar] PCI EXPRESS USB 3.0 카드 2＋1Port, NEC[30063]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 포트 2개 제공",
+    "connectivity.port_count": "USB 3.0 포트 2개 제공",
+    "power.power_mode": "내장 4핀(IDE) 전원 커넥터를 통한 별도 외부 전원 입력 지원",
+    "power.charging_support": "USB 3.0 기준 900mA 전원 공급",
+    "certification.kc": "KCC 인증 획득",
+    "family.usb_version": "SuperSpeed USB 3.0",
+    "family.transfer_speed_gbps": "최대 5Gbps 전송속도 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:07",
+  "feature_schema_version": "1.0.0"
+}

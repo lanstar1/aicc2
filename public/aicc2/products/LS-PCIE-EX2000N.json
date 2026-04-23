@@ -1,0 +1,144 @@
+{
+  "model_no": "LS-PCIE-EX2000N",
+  "product_name": "LANStar PCI-Express Gigabit Ethernet Dual LanCard (PCI-Express 듀얼 기가랜카드)",
+  "category": [
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "2개의 RJ45 포트 제공, 10/100/1000Mbps 속도 지원",
+    "Intel 82576EB 칩셋 사용으로 안정성과 네트워크 속도 극대화",
+    "IEEE 802.3 표준규격 지원 (10BASE-T/100BASE-TX/1000BASE-T)",
+    "티밍(Teaming) 기능 지원: 2개 회선을 하나로 묶어 대역폭 및 안정성 향상 (내부망·외부망 동시 접속 가능)",
+    "LACP(Link Aggregation) 기능 지원: 여러 물리적 링크를 하나로 묶어 대역폭 확대",
+    "망분리 기능 지원: 회사·관공서에서 내부망/외부망 두 회선 선택 사용 가능",
+    "PCI-Express x4 슬롯 규격 (x4, x8, x16 슬롯 모두 장착 가능)",
+    "IPMI Pass-Through via SMBus or NC-SI 지원",
+    "WOL(Wake on LAN), PXE remote boot, iSCSI boot, VLAN Filtering 지원",
+    "IEEE 802.3az Energy Efficient Ethernet(EEE) 지원",
+    "IEEE 802.3Q VLANs, IEEE 802.3x, IEEE 1588 지원",
+    "슬림PC용 LP 브라켓 포함",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 획득 (인증번호: R-R-LUS-EX2000N)",
+    "RoHS, FCC, CE, KC 인증, ISO 9001:2008 품질경영시스템",
+    "대규모 기업, 중소기업, 소규모 사업장, 가정, 학원 등 다양한 환경에서 사용 가능"
+  ],
+  "specifications": {
+    "슬롯": "PCI-Express x4",
+    "인터페이스": "RJ45 x2",
+    "칩셋": "Intel 82576EB",
+    "전송속도": "10/100/1000Mbps",
+    "Topology": "IEEE 802.3, 10BASE-T / 100BASE-TX / 1000BASE-T, IEEE 802.3z, IEEE 802.3Q VLANs, IEEE 802.3x, IEEE 1588, IEEE 802.3az - Energy Efficient Ethernet(EEE)",
+    "기능": "IPMI Pass-Through via SMBus or NC-SI, WOL, PXE remote boot, iSCSI boot, VLAN Filtering",
+    "지원 OS": "WIN 7 / Server 2008 / Server 2012 / WIN 8 / WIN 8.1 / Server 2016 / WIN 10 / FreeBSD, Linux, VMWare ESXi",
+    "제품 크기": "122mm x 56mm x 12mm (카드 기준, 브라켓 포함 시 119mm)",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "R-R-LUS-EX2000N",
+    "안전규격인증": "KC, FCC, CE, RoHS COMPLIANT, ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "PCI-Express x4 슬롯",
+    "PCI-Express x8 슬롯",
+    "PCI-Express x16 슬롯",
+    "Windows 7",
+    "Windows 8 / 8.1",
+    "Windows 10",
+    "Windows Server 2008",
+    "Windows Server 2012",
+    "Windows Server 2016",
+    "FreeBSD",
+    "Linux",
+    "VMWare ESXi",
+    "CAT-5 케이블",
+    "10BASE-T / 100BASE-TX / 1000BASE-T 네트워크",
+    "LACP 지원 NAS, 스토리지, 공유기, 스위칭허브 (LACP 기능 사용 시)"
+  ],
+  "package_contents": [
+    "LS-PCIE-EX2000N 본체 (PCI-Express 듀얼 랜카드)",
+    "슬림PC용 LP 브라켓",
+    "설치 CD (Driver)"
+  ],
+  "usage_instructions": "1. 메인보드의 PCI-Express 슬롯(x4, x8, x16 중 택일)에 카드를 장착한다. 2. 장착 후 장치관리자 > 네트워크 어댑터에서 'Intel(R) 82576 Gigabit Dual Port Network Connection #3/#4' 항목이 표시되는지 확인한다. 3. 제어판 > 네트워크 및 인터넷 > 네트워크 연결에서 이더넷 포트(이더넷8, 이더넷9)가 인식되는지 확인한다. 랜 케이블 미연결 시 '네트워크 케이블 언플러그됨' 표시, 연결 시 '네트워크' 상태로 표시된다. 4. 드라이버는 동봉된 설치 CD 또는 랜스타 자료실(https://www.LANstar.co.kr)에서 다운로드하여 설치한다. 5. 티밍(Teaming) 기능 사용 시 티밍 프로그램을 랜스타 자료실에서 별도 다운로드하여 설치한다.",
+  "cautions": [
+    "Teaming 기능은 Windows 7까지만 지원되며, Windows 8 / 8.1 / 10에서는 지원되지 않는다.",
+    "LACP 사용 시 연결하려는 데이터 서버(NAS, 스토리지), 공유기, 스위칭허브가 LACP를 지원해야 한다.",
+    "티밍 프로그램은 랜스타 자료실(https://www.LANstar.co.kr)에서 별도로 다운로드해야 한다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-EX2000N",
+      "품목코드": "USB-PCI245",
+      "품목명": "[LANstar] Intel 82576, 1Gbps 듀얼 PCI-Express 랜 카드 [20281]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [],
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 1000,
+      "chipset": "Intel 82576EB"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "2개의 RJ45 포트 제공",
+    "connectivity.port_count": "2개의 RJ45 포트 제공",
+    "certification.kc": "KC 인증",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "family.bus_interface": "PCI-Express x4 슬롯 규격",
+    "family.speed_mbps": "10/100/1000Mbps 속도 지원",
+    "family.chipset": "Intel 82576EB 칩셋 사용"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:04",
+  "feature_schema_version": "1.0.0"
+}

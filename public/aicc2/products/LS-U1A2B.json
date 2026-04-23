@@ -1,0 +1,134 @@
+{
+  "model_no": "LS-U1A2B",
+  "product_name": "LANStar 고급형 USB 수동 선택기 1:2 (LS-U1A2B-NEW)",
+  "category": [
+    "USB선택기"
+  ],
+  "key_features": [
+    "1:2 방식의 수동 USB 선택기로, 하나의 USB 장치를 2대의 PC에 연결하거나 하나의 PC에서 2개의 USB 장치 중 선택하여 사용 가능",
+    "별도의 회로나 DATA 처리 기능 없이 USB 신호를 그대로 통과(By Pass)하는 방식",
+    "사용 중 특성을 타거나 장애 없음",
+    "양방향 통신 및 역방향 연결 사용 가능",
+    "One-touch 기능으로 동작",
+    "UP-DOWN 방식의 고품질 스위치 사용으로 편리한 조작",
+    "호환성이 뛰어나며 전환 및 선택이 간편하고 반응속도 빠름",
+    "선택된 포트만 출력되며 2개 단자 동시 출력 불가",
+    "전시장, 컴퓨터 및 모니터 판매점, 상황실, 회의실 등 다양한 용도로 활용 가능",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "RoHS 인증 및 ISO 9001:2008 품질경영시스템 적용"
+  ],
+  "specifications": {
+    "제품명": "USB 수동선택기 2:1",
+    "모델명": "LS-U1A2B",
+    "크기": "약 11.5 × 7.5 × 2.9 cm (최대변 기준)",
+    "선택 방식": "수동 (Manual Switch)",
+    "포트 구성": "A단자 USB A형 Female 1개, B단자 USB B Female 2개",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr",
+    "품질보증기준": "공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  },
+  "compatibility": [
+    "USB 장치 (프린터, 허브, 디지털 카메라 등)",
+    "Windows 운영체제 PC",
+    "USB A형 Female 포트 지원 기기",
+    "USB B Female 포트 지원 기기"
+  ],
+  "package_contents": [],
+  "usage_instructions": "1. 하나의 USB 장치에서 PC를 선택하여 사용하는 방법: USB 장치를 선택기의 A단자에 연결하고, 2대의 PC를 B단자(B1, B2)에 각각 연결한 후 스위치로 원하는 PC를 선택하여 사용. 2. 하나의 PC 본체에서 USB 장치를 선택하여 사용하는 방법: PC를 선택기의 A단자에 연결하고, 2개의 USB 장치를 B단자(B1, B2)에 각각 연결한 후 스위치로 원하는 USB 장치를 선택하여 사용.",
+  "cautions": [
+    "본 제품은 수동 선택기 방식으로 별도의 회로나 DATA 처리 기능이 없으며 USB 신호를 통과(By Pass)하는 역할만 함",
+    "2개 단자에서 동시에 출력되지 않으며 선택된 포트만 출력됨",
+    "노이즈 및 화질 저하를 줄이기 위해 쉴드(Shield) 처리된 USB 케이블 사용을 권장",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-U1A2B",
+      "품목코드": "USB-선택기001",
+      "품목명": "[LANstar] USB수동선택기 2：1 (60개)[30079]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "USB-B"
+      ],
+      "output_signals": [
+        "USB-A",
+        "USB-B"
+      ],
+      "directional": "양방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "selector_type": "양방향",
+      "input_count": 1,
+      "output_count": 2,
+      "interfaces": [
+        "USB"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "A단자 USB A형 Female 1개, B단자 USB B Female 2개",
+    "connectivity.output_signals": "A단자 USB A형 Female 1개, B단자 USB B Female 2개",
+    "connectivity.directional": "양방향 통신 및 역방향 연결 사용 가능",
+    "connectivity.port_count": "A단자 USB A형 Female 1개, B단자 USB B Female 2개",
+    "power.power_mode": "별도의 회로나 DATA 처리 기능 없이 USB 신호를 그대로 통과",
+    "power.charging_support": "별도의 회로나 DATA 처리 기능 없이 USB 신호를 그대로 통과",
+    "form_physical.has_case": "약 11.5 × 7.5 × 2.9 cm",
+    "certification.rohs": "RoHS 인증",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "audio_video.max_resolution": "USB 신호를 그대로 통과",
+    "audio_video.hdr_support": "USB 신호를 그대로 통과",
+    "audio_video.hdcp_version": "USB 신호를 그대로 통과",
+    "audio_video.audio_pass": "USB 신호를 그대로 통과",
+    "control_switching.has_physical_button": "UP-DOWN 방식의 고품질 스위치 사용",
+    "family.selector_type": "1:2 방식의 수동 USB 선택기",
+    "family.input_count": "1:2 방식의 수동 USB 선택기",
+    "family.output_count": "1:2 방식의 수동 USB 선택기",
+    "family.interfaces": "USB 수동 선택기"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:27",
+  "feature_schema_version": "1.0.0"
+}

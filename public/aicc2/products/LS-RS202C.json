@@ -1,0 +1,151 @@
+{
+  "model_no": "LS-RS202C",
+  "product_name": "LANStar USB 2.0 시리얼 컨버터 2Port 1.8M (LS-RS202C)",
+  "category": [
+    "USB2.0",
+    "컨버터",
+    "전원아답터",
+    "시리얼브라켓"
+  ],
+  "key_features": [
+    "USB to Serial (RS-232) DB9M 어댑터",
+    "USB specification revision 1.1 compliant",
+    "Wake-on-line 및 전원 관리 기능 지원",
+    "Plug & Play 지원 (I/O 프로토콜 및 IRQ 설정 불필요)",
+    "업스트림/다운스트림 듀얼 데이터 버퍼 지원",
+    "RS-232 시리얼 인터페이스 지원",
+    "Hot-Swap 지원",
+    "2개의 독립적인 RS-232 시리얼 포트 지원",
+    "최대 1 Mbps 데이터 전송 속도",
+    "케이블 길이 1.8m"
+  ],
+  "specifications": {
+    "인터페이스": "USB to RS-232 (DB9M)",
+    "포트 수": "2포트",
+    "케이블 길이": "1.8m",
+    "USB 규격": "USB 1.1",
+    "최대 데이터 전송 속도": "최대 1 Mbps",
+    "인증번호": "LUS-LS-RS202C",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "안전규격인증": "KC, FCC, CE",
+    "환경규격": "RoHS Compliant",
+    "품질규격": "ISO 9001:2008",
+    "배상책임보험": "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "IBM PC 486DX4-100 MHz CPU 이상 또는 호환 시스템",
+    "USB 포트 탑재 PC",
+    "Windows 98SE / ME / 2000 / XP",
+    "Mac OS v10.0 이상",
+    "CD-ROM 드라이브 탑재 시스템",
+    "모뎀",
+    "PDA",
+    "디지털 카메라",
+    "라벨 프린터",
+    "ISDN terminal adapters"
+  ],
+  "package_contents": [
+    "USB to 2port Serial Adapter (1.8m)",
+    "CD 드라이버"
+  ],
+  "usage_instructions": "USB 커넥터를 컴퓨터의 USB 포트에 연결하면 램프에 불이 들어옵니다. 시리얼 커넥터에 주변기기를 연결하면 해당 램프에 불이 들어옵니다. Plug & Play 기능으로 별도의 I/O 프로토콜 및 IRQ 설정 없이 사용 가능하며, Hot-Swap을 지원합니다. CD 드라이버를 이용해 드라이버를 설치하세요.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "RoHS 지침에 따라 납, 수은, 카드뮴 등 중금속 사용이 제한된 제품입니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RS202C",
+      "품목코드": "USB-시리얼011",
+      "품목명": "[LANstar] USB 2.0 시리얼 컨버터 2port 1.8M(30개)[30016]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 1.8,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB1.1",
+      "transfer_speed_gbps": 0.001,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB to Serial (RS-232) DB9M 어댑터",
+    "connectivity.output_signals": "USB to Serial (RS-232) DB9M 어댑터",
+    "connectivity.directional": "업스트림/다운스트림 듀얼 데이터 버퍼 지원",
+    "connectivity.port_count": "2개의 독립적인 RS-232 시리얼 포트 지원",
+    "power.power_mode": "USB 커넥터를 컴퓨터의 USB 포트에 연결하면",
+    "power.charging_support": "USB 2.0 시리얼 컨버터",
+    "form_physical.has_case": "LANStar USB 2.0 시리얼 컨버터",
+    "form_physical.length_meters": "케이블 길이 1.8m",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS Compliant",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "USB 2.0 시리얼 컨버터",
+    "audio_video.hdr_support": "USB 2.0 시리얼 컨버터",
+    "audio_video.hdcp_version": "USB 2.0 시리얼 컨버터",
+    "audio_video.audio_pass": "USB 2.0 시리얼 컨버터",
+    "control_switching.has_remote": "USB 2.0 시리얼 컨버터",
+    "control_switching.has_hotkey": "USB 2.0 시리얼 컨버터",
+    "control_switching.has_physical_button": "USB 2.0 시리얼 컨버터",
+    "control_switching.has_mouse_switching": "USB 2.0 시리얼 컨버터",
+    "control_switching.has_auto_scan": "USB 2.0 시리얼 컨버터",
+    "control_switching.has_app_control": "USB 2.0 시리얼 컨버터",
+    "family.usb_version": "USB 1.1",
+    "family.transfer_speed_gbps": "최대 1 Mbps 데이터 전송 속도",
+    "family.charging_only": "USB 2.0 시리얼 컨버터",
+    "family.data_only": "USB 2.0 시리얼 컨버터"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:49",
+  "feature_schema_version": "1.0.0"
+}

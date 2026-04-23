@@ -1,0 +1,113 @@
+{
+  "model_no": "LS-MG-STMM",
+  "product_name": "AV 스테레오 케이블 3.5st(M)-3.5st(M)",
+  "category": [
+    "컨버터",
+    "커넥터",
+    "오디오케이블",
+    "AV케이블"
+  ],
+  "key_features": [
+    "3.5mm 스테레오 단자(Male-Male) 연결 케이블",
+    "PC/MP3/스마트폰 등에 연결하여 이어폰·헤드셋에 소리를 분배",
+    "컴퓨터·노트북과 스피커·헤드셋을 동시에 연결하여 매번 교체하는 번거로움 감소",
+    "범퍼·케이스 장착 스마트폰에도 문제없이 장착 가능한 슬림 플러그",
+    "음성 전달 기능만 지원 (이어폰 마이크 기능 미지원)"
+  ],
+  "specifications": {
+    "모델명": "LS-MG-STMM-015M",
+    "길이": "15cm",
+    "커넥터 규격": "3.5mm 스테레오 (Male) - 3.5mm 스테레오 (Male)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "라인업시스템(주) 070-7018-3386"
+  },
+  "compatibility": [
+    "PC (3.5mm 스테레오 음성 단자)",
+    "MP3 플레이어 (3.5mm 스테레오 단자)",
+    "스마트폰 (3.5mm 스테레오 단자)",
+    "스마트패드 (3.5mm 스테레오 단자)",
+    "컴퓨터/노트북 (3.5mm 스테레오 음성 출력)",
+    "이어폰/헤드셋 (3.5mm 스테레오 단자)",
+    "스피커 (3.5mm 스테레오 단자)"
+  ],
+  "package_contents": [
+    "스테레오 케이블 3.5st(M)-3.5st(M) 1개"
+  ],
+  "usage_instructions": "3.5mm 스테레오 단자가 있는 PC·MP3·스마트폰 등의 음성 출력 단자에 케이블 한쪽을 연결하고, 반대쪽을 이어폰·헤드셋·스피커의 입력 단자에 연결하여 사용. 컴퓨터·노트북에 연결 시 스피커와 헤드셋을 동시에 유지하여 전환 번거로움을 줄일 수 있음.",
+  "cautions": [
+    "본 케이블은 음성(오디오) 신호만 전달하며, 이어폰의 마이크 기능은 지원하지 않습니다.",
+    "스마트폰에 범퍼·케이스를 장착한 경우 일반 케이블은 삽입이 어려울 수 있으나, 본 케이블은 장착 가능합니다.",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MG-STMM-015M",
+      "품목코드": "CAB-모젠케004",
+      "품목명": "[LANstar] 모바일 스테레오변환케이블, 3.5ST M/M, 고급형 메탈, 0.15M[10642]",
+      "variant_suffix": "-015M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "3.5mm"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "N/A",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5mm 스테레오 단자(Male-Male)",
+    "connectivity.output_signals": "3.5mm 스테레오 단자(Male-Male)",
+    "connectivity.directional": "3.5mm 스테레오 단자(Male-Male)",
+    "power.power_mode": "음성 전달 기능만 지원",
+    "form_physical.length_meters": "길이: 15cm",
+    "audio_video.audio_pass": "음성 전달 기능만 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:38",
+  "feature_schema_version": "1.0.0"
+}

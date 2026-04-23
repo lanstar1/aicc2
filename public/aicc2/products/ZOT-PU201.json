@@ -1,0 +1,225 @@
+{
+  "model_no": "ZOT-PU201",
+  "product_name": "USB 2.0 프린터 서버 1Port",
+  "category": [
+    "USB2.0"
+  ],
+  "key_features": [
+    "USB 2.0 호환 (10/100Mbps 전송속도 지원)",
+    "DHCP 클라이언트 지원",
+    "다중 네트워크 프로토콜 지원",
+    "비용 절감 효과",
+    "초고속 인쇄 지원",
+    "하나의 네트워크에서 다수의 사용자가 동시에 인쇄 가능",
+    "Flash RAM 및 SDRAM 내장",
+    "Windows 기반 설치 프로그램(PSAdmin) 제공",
+    "웹관리 및 텔넷 구성 지원",
+    "펌웨어 업그레이드 지원",
+    "생산물배상책임보험 1억원 가입 (현대해상화재)"
+  ],
+  "specifications": {
+    "네트워크 프로토콜": "TCP/IP, IPX, NetBEUI, Apple Talk, LPR, RAW TCP",
+    "운영체제 지원": "Windows 7/8/10, MAC OS 8.0 이상(Postscript 프린터), UNIX/Linux(LPR), NetWare 3.12 이상(NDS&Bindery)",
+    "고급 기능": "DHCP(클라이언트) 지원, 전자메일 알림, IPP(Internet Printing Protocol) 지원, SNMP 지원, 펌웨어 업그레이드",
+    "관리": "Windows 기반 설치 프로그램(PSAdmin), 웹관리, 텔넷 구성, HP JetAdmin",
+    "이더넷 표준": "IEEE 802.3 및 802.3U 준수",
+    "USB 인터페이스": "USB 2.0 호환",
+    "이더넷 포트": "10/100Mbps 이더넷 포트(RJ45) 내장",
+    "메모리": "Flash RAM 내장, SDRAM 내장",
+    "규격": "73.2x64.8x28.4mm (HxWxD)",
+    "무게": "57.6g",
+    "전원": "5V/2A",
+    "제조국": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "LUS-PU201-USB20",
+    "안전인증": "KC, FCC, CE, RoHS COMPLIANT, ISO 9001:2008"
+  },
+  "compatibility": [
+    "PCL 언어를 지원하는 프린터 (PCL, PCL5, PCL5E, PCL6)",
+    "PS(PostScript) 언어를 지원하는 프린터",
+    "MAC OS 8.0 이상 환경의 Postscript 프린터",
+    "Windows 7/8/10",
+    "UNIX/Linux (LPR)",
+    "NetWare 3.12 이상 (NDS&Bindery)",
+    "IEEE 802.3 및 802.3U 준수 네트워크 장비",
+    "USB 2.0 인터페이스 프린터"
+  ],
+  "package_contents": [
+    "PU201 프린터 서버 본체",
+    "프린터 서버 충전기(5V/2A)",
+    "한글 매뉴얼",
+    "드라이버 CD"
+  ],
+  "usage_instructions": "1) PC 1대에 프린터 서버 드라이버를 설치하면 PSAdmin 관리 프로그램도 함께 설치된다. 2) PSAdmin에서 TCP/IP 자동 또는 수동 할당을 설정한다. 3) 프린터 드라이버는 반드시 로컬 프린터로 설치하며, '프린터를 공유 안함'으로 설정하지 않는다. 4) 다른 PC에서는 프린터 드라이버를 로컬로 설치 후 프린터 속성에서 TCP/IP 포트를 추가하고 프린터 서버에 할당된 IP를 입력한다. 5) 전 PC에 프린터 서버 드라이버를 설치할 필요는 없다. 6) 세그먼트 오류 발생 시 PSAdmin에서 사용하는 네트워크 IP 대역폭에 맞게 IP를 수동 할당한다. 7) 시간 경과 후 인쇄가 안 될 경우 어댑터 잭을 분리했다가 다시 꽂는다.",
+  "cautions": [
+    "SPL(삼성 프린터 언어), CARPS(캐논 프린팅 시스템), CAPT, GDI 전용 언어를 사용하는 프린터와는 호환되지 않는다.",
+    "복합기의 90% 이상이 호환되지 않는다. 복합기는 드라이버가 지원된다고 해도 호환성 문제가 있을 수 있다.",
+    "프린터 서버와 프린터 호환 여부는 사전에 프린터 제조사에 PCL 또는 PS 언어 지원 여부를 문의해야 한다.",
+    "설치 진행 시 윈도우 방화벽을 '끔'으로 설정해야 프린터 서버가 인식된다.",
+    "TCP/IP 자동 할당 사용 시 프린터 서버 전원 재시작 후 IP 주소가 변경될 수 있으므로 프린터 속성에서 포트를 재설정해야 한다.",
+    "패스워드를 잊은 경우 PSAdmin의 속성 창 > 일반 탭 > 패스워드 버튼에서 대문자 'PSPASS' 입력 후 재설정할 수 있다.",
+    "USB 포트는 시간이 지나면 인식 실패 현상이 발생할 수 있으며, 이 경우 어댑터 잭을 분리했다가 다시 꽂아 해결한다.",
+    "제품 색상 및 형태 등의 사양은 제조사 사정에 따라 예고 없이 변경될 수 있다.",
+    "AS 소비자상담: 라인업시스템(주) 070-7018-3386",
+    "품질 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "ZOT-PU201",
+      "품목코드": "NET-프서U002",
+      "품목명": "[LANstar] 프린터서버 ZOT USB2.0 1PORT(20개)[30001]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "ZOT-PU201",
+      "chatUrl": "6dXsg",
+      "dateIso": "2024-10-14T02:33:59.490Z",
+      "name": "우얄짱",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "제품 구매 후 동봉된 CD를사용하여 설치 진행하였으나\n설치 마법사로 넘어가지 않고 있습니다\n\n랜스타 유튜브확인후 동일 방법으로 진행하였는데 프로그램이 설치가 안돼 문의 남깁니다\n(추가 문의) 티엠정보통신/ 010 6593 9877 ( 연락 주실때 010 7938 9877) / 아이코다 / 9월 30 /랜스타 ZOT-PU201 PLUS 프린터 서버\n(추가 문의) 프린터 서버 PU201+ 설치 문의",
+      "answer": "정확한 안내를 위해 아래 내용 확인 부탁드립니다. 성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)\n\n자사의 경우 랜스타 스마트스토어와 거래처 문의 상담 공간이 다릅니다. 거래처 문의의 경우 아래 전달 드린 링크에서 다시 진행 부탁드립니다.\n\ntalk.naver.com/W4QWIB",
+      "turn_count": 6,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "talk.naver.com/W4QWIB"
+        },
+        {
+          "role": "customer",
+          "text": "티엠정보통신/ 010 6593 9877 ( 연락 주실때 010 7938 9877) / 아이코다 / 9월 30 /랜스타 ZOT-PU201 PLUS 프린터 서버"
+        },
+        {
+          "role": "agent",
+          "text": "자사의 경우 랜스타 스마트스토어와 거래처 문의 상담 공간이 다릅니다.\n거래처 문의의 경우 아래 전달 드린 링크에서 다시 진행 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "프린터 서버 PU201+ 설치 문의"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)"
+        },
+        {
+          "role": "customer",
+          "text": "제품 구매 후 동봉된 CD를사용하여 설치 진행하였으나\n설치 마법사로 넘어가지 않고 있습니다\n\n랜스타 유튜브확인후 동일 방법으로 진행하였는데 프로그램이 설치가 안돼 문의 남깁니다"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "판매자 문의"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "A/S 문의"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-B",
+        "RJ45"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": true
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.1,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 2.0 프린터 서버 1Port",
+    "connectivity.output_signals": "USB 2.0 프린터 서버 1Port",
+    "connectivity.directional": "하나의 네트워크에서 다수의 사용자가 동시에 인쇄 가능",
+    "connectivity.port_count": "1Port",
+    "power.power_mode": "전원: 5V/2A",
+    "power.charging_support": "USB 2.0 프린터 서버 1Port",
+    "form_physical.has_case": "73.2x64.8x28.4mm (HxWxD)",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "USB 2.0 프린터 서버 1Port",
+    "audio_video.hdr_support": "USB 2.0 프린터 서버 1Port",
+    "audio_video.hdcp_version": "USB 2.0 프린터 서버 1Port",
+    "audio_video.audio_pass": "USB 2.0 프린터 서버 1Port",
+    "control_switching.has_app_control": "Windows 기반 설치 프로그램(PSAdmin) 제공",
+    "family.usb_version": "USB 2.0 호환",
+    "family.transfer_speed_gbps": "10/100Mbps 전송속도 지원",
+    "family.charging_only": "USB 2.0 프린터 서버 1Port",
+    "family.data_only": "USB 2.0 프린터 서버 1Port"
+  },
+  "feature_extracted_at": "2026-04-23T03:23:01",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

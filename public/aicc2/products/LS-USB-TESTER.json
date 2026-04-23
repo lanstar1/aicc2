@@ -1,0 +1,143 @@
+{
+  "model_no": "LS-USB-TESTER",
+  "product_name": "LANStar 스틱형 전류/전압 측정기 USB 테스터기 (USB Safety Tester)",
+  "category": [
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 전원의 전압, 전류, 충전 용량 등을 디지털 계측으로 측정 가능",
+    "급속 충전 규격 Qualcomm QC2.0 / QC3.0 대응",
+    "측정 범위: 전압 3.0V~30V, 전류 0~5.1A",
+    "USB 양면 커넥터 채용으로 방향 구분 없이 사용 가능",
+    "USB 포트 및 장치 작동 전류, 충전/방전 용량, 출력 전압 성능 측정 가능",
+    "충전 케이블 성능 판단 가능",
+    "MODE 1: USB 핀별 전압/저항값/내부온도/사용시간/전류 표시",
+    "MODE 2: 전압/전류/전류량(Ah)/전력량(Wh) 측정",
+    "MODE 3: 전압/전류/전류량/전력량/내부온도/사용시간 표시",
+    "Key 버튼 5회 연속 누르면 최대 충전 시간 설정 가능 (AO 자동꺼짐 / OFF 사용안함 / 시간 선택)",
+    "Key 버튼 6회 연속 누르면 언어 설정 가능 (영어/중국어)",
+    "Key 버튼 길게 누르면 사용 전력, 시간 등의 값 초기화",
+    "손 안에 들어오는 컴팩트한 사이즈 (53mm x 25mm x 14mm)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "RoHS 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "제품명": "USB 테스터기",
+    "모델명": "LS-USB-TESTER",
+    "제조사/수입사": "라인업시스템(주)",
+    "제조국/원산지": "중국 (China)",
+    "인증번호": "해당 없음",
+    "입력 전압 범위": "3V ~ 30V",
+    "입력 전류 범위": "0 ~ 5.1A",
+    "수용량 누적 범위": "0 ~ 99999 mAh, precision: 0.001 Ah",
+    "충전 누적 범위": "0 ~ 999999 mWh, precision: 0.001 Wh",
+    "동력 누적 범위": "0 ~ 299.999W, precision: 0.001W",
+    "시간 최대 범위": "0 ~ 999시간 59분 59초, precision: 1초",
+    "정확도": "1 (A level)",
+    "동작 온도": "-10 ~ 60°C",
+    "크기": "53mm x 25mm x 14mm",
+    "인터페이스": "USB 양면 커넥터",
+    "안전 인증": "CE, RoHS COMPLIANT"
+  },
+  "compatibility": [
+    "Qualcomm Quick Charge 2.0 (QC2.0)",
+    "Qualcomm Quick Charge 3.0 (QC3.0) 호환",
+    "BC1.2",
+    "Apple 전압 범위",
+    "USB 포트가 있는 각종 전자기기",
+    "충전기(充电器) 등 USB 전원 공급 장치"
+  ],
+  "package_contents": [
+    "USB Safety Tester 본체 1개"
+  ],
+  "usage_instructions": "1. USB 포트가 있는 기기에 USB 양면 커넥터를 방향 구분 없이 연결한다.\n2. Key 버튼을 눌러 MODE 1 / MODE 2 / MODE 3 간 전환하며 원하는 측정값을 확인한다.\n   - MODE 1: USB 핀별 전압/저항값/내부온도/사용시간/전류 표시\n   - MODE 2: 전압/전류/전류량(Ah)/전력량(Wh) 측정\n   - MODE 3: 전압/전류/전류량/전력량/내부온도/사용시간 표시\n3. Key 버튼을 길게 누르면 사용 전력, 시간 등의 누적 값이 초기화된다.\n4. Key 버튼을 5회 연속 누르면 최대 충전 시간 설정이 가능하다 (AO: 자동꺼짐 / OFF: 사용안함 / 시간 선택).\n5. Key 버튼을 6회 연속 누르면 언어 설정이 가능하다 (영어/중국어).\n6. 실내 건조한 장소에서 사용한다.",
+  "cautions": [
+    "감전 방지를 위해 제품을 임의로 분해하지 마십시오.",
+    "실내 건조한 장소에서만 사용하십시오.",
+    "동작 온도 범위(-10~60°C)를 벗어난 환경에서 사용하지 마십시오.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB-TESTER",
+      "품목코드": "NEO-테스터099",
+      "품목명": "[LANstar] USB 테스터기, 전류, 전압 측정기 [60096]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "USB-A Male",
+      "connector_type_b": "USB-A Female",
+      "gender": "M-F",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 양면 커넥터 채용",
+    "connectivity.output_signals": "USB 양면 커넥터 채용",
+    "connectivity.directional": "USB 양면 커넥터 채용으로 방향 구분 없이 사용 가능",
+    "connectivity.port_count": "USB 양면 커넥터",
+    "power.power_mode": "USB 전원의 전압",
+    "power.charging_support": "급속 충전 규격 Qualcomm QC2.0 / QC3.0 대응",
+    "form_physical.has_case": "손 안에 들어오는 컴팩트한 사이즈",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.ce": "CE, RoHS COMPLIANT",
+    "control_switching.has_physical_button": "Key 버튼 5회 연속 누르면",
+    "family.connector_type_a": "USB 양면 커넥터",
+    "family.connector_type_b": "USB 양면 커넥터",
+    "family.gender": "USB 양면 커넥터"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:28",
+  "feature_schema_version": "1.0.0"
+}

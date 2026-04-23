@@ -1,0 +1,158 @@
+{
+  "model_no": "LS-MDP19",
+  "product_name": "Mini DisplayPort to HDMI 컨버터",
+  "category": [
+    "DisplayPort",
+    "컨버터"
+  ],
+  "key_features": [
+    "Mini DisplayPort 신호를 HDMI 단자로 변환",
+    "DisplayPort 1.1a 지원, 최대 10.8Gbps 대역폭",
+    "최대 해상도 1920x1200@60Hz (Full HD급) 지원",
+    "3D 입체영상 지원",
+    "HDCP(고대역 디지털 콘텐츠 보호) 및 DPCP(디스플레이포트 콘텐츠 보호) 지원",
+    "Dolby TrueHD, DTS-HD Master Audio 등 고음질 오디오 포맷 지원",
+    "전원, 영상, 음성 동시 지원",
+    "Sleep mode(suspend mode) 지원",
+    "RoHS 준수 및 ISO 9001:2008 품질경영시스템 인증",
+    "KC 인증 획득 (국립전파연구원)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "모델명": "LS-MDP19",
+    "인터페이스_입력": "Mini DisplayPort (Male)",
+    "인터페이스_출력": "HDMI (Female)",
+    "지원_DisplayPort_버전": "DisplayPort 1.1a",
+    "최대_대역폭": "10.8Gbps",
+    "최대_해상도": "1920x1200@60Hz",
+    "지원_해상도": "1920x1200, 1280x720, 720x480",
+    "색상": "White",
+    "케이블_길이": "0.2M",
+    "제품_크기_컨버터_본체": "45mm x 45mm x 11mm",
+    "제품_크기_입력단_돌출": "15mm",
+    "제품_크기_출력단_돌출": "9mm",
+    "전체_길이": "228mm (케이블 포함 추정)",
+    "콘텐츠_보호": "HDCP, DPCP",
+    "인증번호": "KCC-REI-LUS-LS-MDP19",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "품질인증": "ISO 9001:2008",
+    "환경인증": "RoHS COMPLIANT"
+  },
+  "compatibility": [
+    "MacBook",
+    "MacBook Pro",
+    "MacBook Air",
+    "Mac Mini",
+    "iMac",
+    "Mini DisplayPort를 지원하는 그래픽카드 탑재 노트북/데스크톱",
+    "HDMI 단자를 가진 모니터",
+    "HDMI 단자를 가진 TV",
+    "HDMI 단자를 가진 프로젝터",
+    "HD DVD",
+    "Blu-ray Disc"
+  ],
+  "package_contents": [
+    "Mini DisplayPort to HDMI 컨버터 (LS-MDP19) 1개"
+  ],
+  "usage_instructions": "Mini DisplayPort(Male) 단자를 맥북 등 소스 기기의 Mini DisplayPort 포트에 연결하고, HDMI(Female) 단자에 HDMI 케이블(별도 구매)을 연결한 뒤 반대쪽 HDMI 케이블을 TV, 모니터, 프로젝터 등 디스플레이 장치에 연결하여 사용합니다.",
+  "cautions": [
+    "HDMI 케이블은 별도 구매 필요",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MDP19",
+      "품목코드": "CAB-젠DP003",
+      "품목명": "[LANstar] 신호변환기, Mini 디스플레이 to HDMI, 0.2M[30043] (120개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-MDP19",
+      "내용": "네 정상적으로 왔는데, 잘못시켜서 반품하려니 반품이 안되는 업체네요."
+    },
+    {
+      "source_model": "LS-MDP19",
+      "내용": "노트북에 사용하려고 샀어요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Mini DisplayPort"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": [
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": "HDCP1.4",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": "DP1.1a",
+      "dvi_type": null,
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Mini DisplayPort (Male)",
+    "connectivity.output_signals": "HDMI (Female)",
+    "connectivity.directional": "Mini DisplayPort 신호를 HDMI 단자로 변환",
+    "power.power_mode": "전원, 영상, 음성 동시 지원",
+    "form_physical.has_case": "제품_크기_컨버터_본체",
+    "form_physical.length_meters": "케이블_길이\": \"0.2M",
+    "form_physical.color_options": "색상\": \"White",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "최대 해상도 1920x1200@60Hz (Full HD급)",
+    "audio_video.hdcp_version": "HDCP(고대역 디지털 콘텐츠 보호)",
+    "audio_video.audio_pass": "고음질 오디오 포맷 지원",
+    "family.dp_version": "DisplayPort 1.1a 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:37",
+  "feature_schema_version": "1.0.0"
+}

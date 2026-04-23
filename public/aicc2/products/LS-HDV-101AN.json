@@ -1,0 +1,194 @@
+{
+  "model_no": "LS-HDV-101AN",
+  "product_name": "LANStar HDMI to VGA(RGB) 변환 컨버터 0.15M",
+  "category": [
+    "VGA",
+    "컨버터"
+  ],
+  "key_features": [
+    "HDMI 입력 신호를 VGA(RGB) 신호로 변환 출력",
+    "1080P@60Hz Full HD 해상도 지원",
+    "HDCP(High-bandwidth Digital Content Protection) 지원",
+    "Plug&Play 지원 - 별도 드라이버 설치 불필요",
+    "Hot Swap 지원 - PC 전원 켜진 상태에서 연결/해제 가능",
+    "오디오 미지원",
+    "케이블 길이 0.15M(15cm)"
+  ],
+  "specifications": {
+    "입력단자": "HDMI",
+    "출력단자": "VGA(RGB)",
+    "최대 해상도": "1920x1080 Full HD",
+    "주사율": "60fps",
+    "사이즈": "45x43x15 (mm)",
+    "케이블 길이": "0.15M (15cm)",
+    "인증번호": "KCC-REI-LUS-LS-PAD2VGA",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "지원 HDTV 해상도": "480i, 576i, 480p, 576p, 1080i, 1080P",
+    "지원 PC 해상도": "VGA, SVGA, XGA, SXGA, UXGA",
+    "인증 규격": "KC, FCC, CE, RoHS",
+    "품질경영시스템": "ISO 9001:2008",
+    "생산물배상책임보험": "현대해상화재보험 1억원 가입"
+  },
+  "compatibility": [
+    "HDMI 출력 소스 기기: PC, 노트북, 태블릿, 셋탑박스, DVD 플레이어",
+    "VGA(RGB) 입력 디스플레이 기기: TV, 모니터, 빔프로젝터",
+    "랜스타 Slim RGB 케이블 1M~20M (1080P@60Hz 정상 출력 테스트 완료)",
+    "20M 초과 연결 시 랜스타 별도 제품(랜마트 30132) 사용 권장"
+  ],
+  "package_contents": [
+    "HDMI to VGA 컨버터 (LS-HDV-101AN) 1개"
+  ],
+  "usage_instructions": "HDMI 소스 기기(PC, 노트북, 셋탑 등)의 HDMI 포트에 본 제품의 HDMI 입력 포트를 연결하고, VGA(RGB) 케이블을 이용해 디스플레이 장치(TV, 모니터, 빔프로젝터 등)의 VGA 포트에 연결합니다. 별도 드라이버 설치 없이 Plug&Play로 바로 사용 가능합니다. PC 전원이 켜진 상태에서도 Hot Swap으로 자유롭게 연결 및 해제할 수 있습니다.",
+  "cautions": [
+    "VGA(RGB)에서 HDMI로의 신호 변환(역방향 변환)은 지원되지 않습니다.",
+    "오디오 출력을 지원하지 않습니다.",
+    "VGA(RGB) 케이블 20M 초과 연결 시 별도 제품(랜마트 30132) 구매 후 사용을 권장합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDV-101AN",
+      "품목코드": "INT-HD선149",
+      "품목명": "[LANstar] HDMI to VGA 컨버터 0.15M [30368] (250개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDV-101AN",
+      "내용": "좋은 제품 잘 받아서 사용하고있습니다 :)"
+    },
+    {
+      "source_model": "LS-HDV-101AN",
+      "내용": "가성비 좋은제품, 빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-HDV-101AN",
+      "내용": "매우 만족스럽습니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HDV-101AN",
+      "chatUrl": "raw7",
+      "dateIso": "2024-01-19T04:04:29.578Z",
+      "name": "삶의문턱",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "VGA TO HDMI 컨버터 LS-HDV-101AN\n10개 재고 있나요?\n(추가 문의) LS-RS925\n2개 재고 있나요?",
+      "answer": "현재 재고 보유하고 있어, 주문 주시면 출고 도와드리겠습니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "VGA TO HDMI 컨버터 LS-HDV-101AN\n10개 재고 있나요?"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "네 확인 감사합니다."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 재고 보유하고 있어, 주문 주시면 출고 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다"
+        },
+        {
+          "role": "customer",
+          "text": "LS-RS925\n2개 재고 있나요?"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": "HDCP1.4",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 입력 신호를",
+    "connectivity.output_signals": "VGA(RGB) 신호로 변환 출력",
+    "connectivity.directional": "HDMI 입력 신호를 VGA(RGB) 신호로 변환 출력",
+    "power.power_mode": "Plug&Play 지원 - 별도 드라이버 설치 불필요",
+    "power.charging_support": "오디오 미지원",
+    "form_physical.has_case": "LANStar HDMI to VGA(RGB) 변환 컨버터",
+    "form_physical.length_meters": "케이블 길이 0.15M(15cm)",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "1080P@60Hz Full HD 해상도 지원",
+    "audio_video.hdcp_version": "HDCP(High-bandwidth Digital Content Protection) 지원",
+    "audio_video.audio_pass": "오디오 미지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:39",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

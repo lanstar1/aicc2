@@ -1,0 +1,858 @@
+{
+  "model_no": "LS-6UTPD",
+  "product_name": "LANstar CAT.6 UTP 연선 다이렉트 랜케이블",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "랜케이블"
+  ],
+  "key_features": [
+    "CAT.6 규격, 최대 1Gbps(1,000Mbps) 전송속도 지원",
+    "250MHz 대역폭 (CAT.5 대비 2.5배)",
+    "TIA/EIA-568 규정 규격 준수",
+    "연선(Stranded) 구조로 유연성 우수, 설치 용이",
+    "십자형 차단막(개재)으로 케이블 간 간섭 감소 및 전송속도 향상",
+    "꼬임방식(Twisted Pair) 케이블로 노이즈 방지",
+    "금도금 커넥터 단자 적용으로 산화 방지 및 신호손실 최소화",
+    "FLUKE DTX-1800 테스터기 테스트 통과 (PASS)",
+    "RoHS 규정 준수 (EU 특정위험물질 사용제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "다이렉트 케이블 핀배열 (568B-568B)",
+    "컬러 케이블로 용도 구별 가능 (회색, 노랑, 파랑, 빨강)",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "0.5M, 1M 길이는 단선(Solid) 타입",
+    "CAT.6 UTP 이더넷 케이블 (1000BASE-TX 지원)",
+    "연선(STRANDED) 구조로 유연성 우수",
+    "최대 1Gbps 전송속도 지원",
+    "250MHz 대역폭 지원",
+    "CCA(Copper Clad Aluminum) 재질 심선",
+    "15μ 금도금 3Prongs 형태 커넥터 적용으로 신호 오류 최소화",
+    "FLUKE 테스트 통과 제품",
+    "4Pair Twisted 구조 + 십자형 차단막으로 신호 간섭 방지",
+    "PoE(Power over Ethernet) 지원",
+    "튼튼한 스프링 구조 커넥터로 내구성 강화",
+    "Blue, Red, Yellow, Black 4가지 색상 제공",
+    "CAT.6 UTP 이더넷 케이블",
+    "1000BASE-TX 지원",
+    "15µ 금도금 커넥터로 신호 손실 최소화",
+    "3Prongs 형태 핀으로 신호 전송 오류 최소화",
+    "4쌍(4PAIR) 꼬임 구조 및 십자형 차단막으로 신호 간섭 방지",
+    "튼튼한 스프링 구조로 커넥터 내구성 강화",
+    "자연스러운 커넥터+부트 구조로 커넥터 보호",
+    "BLUE, RED, YELLOW, GREY 4가지 색상 라인업",
+    "CAT.6 UTP 규격",
+    "단선(SOLID) 구조 — CCA(Copper Clad Aluminum) 심선",
+    "최대 1Gbps 전송속도 / 1000BASE-TX 지원",
+    "250MHz 대역폭",
+    "15μ 금도금 커넥터",
+    "3Prongs 형태 핀 — 신호 전송 시 오류 최소화",
+    "4쌍 트위스트 구조 + 십자형 차단막(UTP)",
+    "커넥터와 부트 일체형 설계로 커넥터 보호",
+    "GREY 색상 외 RED·BLUE·YELLOW 색상 라인업 존재",
+    "소재·부품·장비 전문기업확인서 취득(2022.11.29)",
+    "현대해상화재 생산물배상책임보험 1억 원 가입",
+    "CAT.6 UTP 규격 지원",
+    "최대 1Gbps 전송속도 지원 (1000BASE-TX)",
+    "CCA(Copper Clad Aluminum) 연선(STRANDED) 구조",
+    "15μ 금도금 커넥터 (신호 손실 최소화)",
+    "3Prongs 형태 핀 (신호 전송 오류 최소화)",
+    "4PAIR TWISTED STRUCTURE + 십자형 차단막 (신호 간섭 방지)",
+    "커넥터와 부트 일체형 설계로 커넥터 보호 가능",
+    "0.5M~50M 총 11가지 길이 라인업",
+    "GREY 포함 4가지 색상 라인업 (RED, BLUE, YELLOW, GREY)",
+    "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득, 한국산업기술평가관리원)",
+    "라인업시스템(주) 정품 인증 제품",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "CAT.6 UTP 규격, 1000BASE-TX 지원",
+    "최대 1Gbps 전송속도, 250MHz 대역폭",
+    "0.5M·1M는 단선(SOLID) 케이블, 2M 이상은 연선(STRANDED) 케이블",
+    "CCA(Copper Clad Aluminum) 심선 구조",
+    "15μ 금도금 3Prongs 형태 핀 커넥터 (신호 전송 오류 최소화)",
+    "십자형 차단막 포함 4PAIR TWISTED STRUCTURE",
+    "케이블 외경 OD 6.0±0.2mm, PVC 자켓",
+    "튼튼한 스프링 구조 커넥터 및 부트로 커넥터 보호",
+    "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "연선(STRANDED) 케이블 구조",
+    "4가지 색상 라인업 구성 (RED, BLUE, YELLOW, GREY)",
+    "제조사 테스트 기준 최대 50미터까지 안정적인 신호 전송",
+    "연선(STRANDED) 케이블 구조 - 유연성 우수",
+    "최대 전송속도 1Gbps (1000BASE-TX 지원)",
+    "대역폭 250MHz",
+    "CCA(Copper Clad Aluminum) 심선 재질",
+    "15μ 금도금 커넥터 - 신호 손실 최소화",
+    "3Prongs 형태 핀 - 신호 전송 오류 최소화",
+    "4가지 색상 라인업 제공 (RED, BLUE, YELLOW, GREY)",
+    "4페어 꼬임(4PAIR TWISTED) 구조 및 십자형 차단막 적용",
+    "자연스러운 커넥터+부트 일체형으로 커넥터 보호",
+    "제조사 테스트 기준 최대 50m까지 안정적 신호 전송",
+    "단선(Solid) 타입으로 외부 간섭이 적고 데이터 전송이 안정적",
+    "십자형 차단막(개재) 적용으로 케이블 간 간섭 최소화",
+    "금도금 커넥터 적용으로 산화 방지 및 신호손실 최소화",
+    "FLUKE DTX-1800 테스터기로 전기적 특성 PASS 인증",
+    "RoHS 규정 준수 (유해물질 사용 제한)",
+    "다이렉트 케이블 핀배열(568B-568B) 적용",
+    "그레이(회색) 색상, 0.5M~50M 다양한 길이 제공",
+    "컬러 케이블 라인업(노랑, 파랑, 빨강) 별도 제공(2M~10M)"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.6",
+    "케이블 타입": "UTP (Unshielded Twisted Pair) Stranded (연선), 0.5M/1M은 Solid(단선) 타입 / 연선(STRANDED)",
+    "최대 전송속도": "1Gbps (1,000Mbps)",
+    "대역폭": "250MHz",
+    "전송 지원": "10Mbps / 100Mbps / 1,000Mbps",
+    "AWG": "24AWG (회색 일반 라인업)",
+    "커넥터": "금도금 커넥터, 8P8C RJ45 / 15μ Gold Plated Pin (3Prongs 형태) / 15µ Gold Plated Pin, 3Prongs 형태 / 15μ Gold Plated Pin / 3Prongs 형태 / 15μ Gold Plated Pin, 3Prongs 형태 / 금도금 RJ45 (8P8C)",
+    "핀배열": "다이렉트 (568B-568B)",
+    "피복 재질": "PVC/LSZH / PVC / LSZH",
+    "절연": "PE 절연",
+    "색상": "회색(Grey), 노랑(Yellow), 파랑(Blue), 빨강(Red) / Blue, Red, Yellow, Black / BLUE / GREY(MG), RED(MR), BLUE(MB), YELLOW(MY) / RED, BLUE, YELLOW, GREY",
+    "RoHS": "COMPLIANT / 준수(Compliant)",
+    "FLUKE 테스트": "PASS (DTX-1800)",
+    "제조국": "중국 (China) / 중국(China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "케이블 길이 (회색)": "0.5M, 1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M, 50M",
+    "케이블 길이 (노랑)": "2M, 3M, 5M, 10M",
+    "케이블 길이 (파랑)": "2M, 3M, 5M, 10M",
+    "케이블 길이 (빨강)": "2M, 3M, 5M, 10M",
+    "제품 크기(커넥터 폭)": "11.6mm",
+    "제품 크기(커넥터 높이)": "5.5mm",
+    "제품 크기(커넥터 길이)": "11.6mm",
+    "제품 크기(케이블 직경)": "6.4mm",
+    "케이블 길이 범위": "500mm ~ 50,000mm",
+    "규격": "CAT.6 UTP",
+    "전송속도": "최대 1Gbps",
+    "심선": "24AWG / 24AWG, CCA(Copper Clad Aluminum)",
+    "도체재질": "CCA (Copper Clad Aluminum)",
+    "케이블구조": "연선 (STRANDED) / 연선(STRANDED), 4PAIR TWISTED, 십자형 차단막",
+    "직경": "OD 6.0±0.2mm",
+    "길이": "2M, 3M, 5M, 10M",
+    "모델명_Blue": "LS-6UTPD-XMB",
+    "모델명_Red": "LS-6UTPD-XMR",
+    "모델명_Yellow": "LS-6UTPD-XMY",
+    "제조사_수입사": "라인업시스템(주)",
+    "안정적신호전송최대거리": "50m (제조사 테스트 기준)",
+    "지원 규격": "1000BASE-TX",
+    "케이블 구조": "연선(STRANDED) / 4PAIR TWISTED STRUCTURE, 십자형 차단막",
+    "심선 재질": "CCA (Copper Clad Aluminum) / CCA(Copper Clad Aluminum)",
+    "케이블 외경": "OD 6.0±0.2mm",
+    "케이블 길이": "2m, 3m, 5m, 10m",
+    "커넥터 구조": "RJ-45, 튼튼한 스프링 구조",
+    "PIN OUT": "T568B (1:WHITE/ORANGE, 2:ORANGE, 3:WHITE/GREEN, 4:BLUE, 5:WHITE/BLUE, 6:GREEN, 7:WHITE/BROWN, 8:BROWN)",
+    "심선_구조": "단선(SOLID) / CCA(Copper Clad Aluminum)",
+    "케이블_직경": "OD 6.0±0.2mm",
+    "케이블_길이_라인업": "0.5m, 1m, 2m, 3m, 5m, 7m, 10m, 15m, 20m, 30m, 50m",
+    "PIN_OUT_배열": "1-WHITE/ORANGE, 2-ORANGE, 3-WHITE/GREEN, 6-GREEN, 4-BLUE, 5-WHITE/BLUE, 7-WHITE/BROWN, 8-BROWN",
+    "모델명_0.5M": "LS-6UTPD-0.5MG",
+    "모델명_1M": "LS-6UTPD-1MG",
+    "모델명_2M": "LS-6UTPD-2MG",
+    "모델명_3M": "LS-6UTPD-3MG",
+    "모델명_5M": "LS-6UTPD-5MG",
+    "모델명_7M": "LS-6UTPD-7MG",
+    "모델명_10M": "LS-6UTPD-10MG",
+    "모델명_15M": "LS-6UTPD-15MG",
+    "모델명_20M": "LS-6UTPD-20MG",
+    "모델명_30M": "LS-6UTPD-30MG",
+    "모델명_50M": "LS-6UTPD-50MG",
+    "지원 표준": "1000BASE-TX",
+    "심선 규격": "24AWG",
+    "심선 구조": "연선(STRANDED), 단선(STRANDED 미해당 - 0.5M·1M은 단선)",
+    "도체 재질": "CCA (Copper Clad Aluminum)",
+    "케이블 직경": "OD 6.0±0.2mm",
+    "케이블 색상": "GREY",
+    "사용 가능 길이": "0.5m, 1m, 2m, 3m, 5m, 7m, 10m, 15m, 20m, 30m, 50m",
+    "핀아웃 (P1→P2)": "1:WHITE/ORANGE, 2:ORANGE, 3:WHITE/GREEN, 4:BLUE, 5:WHITE/BLUE, 6:GREEN, 7:WHITE/BROWN, 8:BROWN",
+    "제조국/원산지": "중국 (China)",
+    "자켓 재질": "PVC",
+    "케이블 종류": "0.5M·1M 단선(SOLID), 2M 이상 연선(STRANDED)",
+    "케이블 길이 라인업": "0.5M, 1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M, 50M",
+    "핀 배열(PIN OUT)": "T568B 다이렉트 (1:1 - WHITE/ORANGE, ORANGE, WHITE/GREEN, GREEN, BLUE, WHITE/BLUE, WHITE/BROWN, BROWN)",
+    "커넥터 크기": "길이 40mm, 너비 11mm, 높이 14mm",
+    "부트 길이": "21mm",
+    "PoE 지원": "지원",
+    "모델No. 2M": "10063 / LS-6UTPD-2MR",
+    "모델No. 3M": "10064 / LS-6UTPD-3MR",
+    "모델No. 5M": "10065 / LS-6UTPD-5MR",
+    "모델No. 10M": "10066 / LS-6UTPD-10MR",
+    "지원규격": "1000BASE-TX",
+    "심선재질": "CCA (Copper Clad Aluminum)",
+    "케이블직경": "OD 6.0±0.2mm",
+    "케이블길이": "2m / 3m / 5m / 10m",
+    "모델번호_2M": "10071 / LS-6UTPD-2MY",
+    "모델번호_3M": "10072 / LS-6UTPD-3MY",
+    "모델번호_5M": "10073 / LS-6UTPD-5MY",
+    "모델번호_10M": "10074 / LS-6UTPD-10MY",
+    "AS센터": "www.LANstar.co.kr",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입",
+    "소재부품장비전문기업확인서": "2022.11.29 취득 (한국산업기술평가관리원)",
+    "품질보증기준": "공정거래위원회 고시 소비자 분쟁해결 기준",
+    "전선 구조": "단선(Solid)",
+    "지원 전송속도": "10Mbps / 100Mbps / 1000Mbps",
+    "준수 규격": "TIA/EIA-568",
+    "제조사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "제품 치수(커넥터 포함)": "11.6mm x 6.4mm (커넥터 폭 x 높이), 케이블 직경 5.5mm",
+    "케이블 길이(회색)": "0.5M, 1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M, 50M",
+    "케이블 길이(노랑)": "2M, 3M, 5M, 10M",
+    "케이블 길이(파랑)": "2M, 3M, 5M, 10M",
+    "케이블 길이(빨강)": "2M, 3M, 5M, 10M",
+    "Solid 타입 해당 모델": "0.5M(LS-C6G-UTPDS-0.5M), 1M(LS-6UTPD-1MG)",
+    "FLUKE 테스트 항목": "반사손실(Return Loss), 삽입손실(Insertion Loss), 전기적 누화손실(NEXT), 전력 누화손실(PS NEXT), ACR-F(ELFEXT), PS ACR-F(PSELFEXT) 전 항목 PASS",
+    "핀배열 방식": "다이렉트(568B-568B)"
+  },
+  "compatibility": [
+    "CAT.5 / CAT.5E 호환 장비",
+    "CAT.6 호환 장비",
+    "10Mbps / 100Mbps / 1,000Mbps 이더넷 장비",
+    "8P8C RJ45 포트 지원 장비 (스위치, 라우터, NIC, 허브 등)",
+    "TIA/EIA-568 규격 준수 네트워크 장비",
+    "1000BASE-TX 지원 네트워크 장비",
+    "기가비트(1Gbps) 인터넷 환경",
+    "인터넷 공유기(라우터)",
+    "네트워크 스위치",
+    "컴퓨터 및 노트북",
+    "게임 콘솔",
+    "스마트 TV",
+    "프린터",
+    "IP 전화기 (VoIP)",
+    "IP 카메라 / CCTV",
+    "PoE 지원 네트워크 장비",
+    "서버 및 네트워크 스위치",
+    "스마트 허브 등 스마트 홈 장치",
+    "IP 카메라 및 CCTV",
+    "PoE(Power over Ethernet) 지원 네트워크 장비",
+    "스마트 허브 등 스마트 홈 장비",
+    "기가비트(1Gbps) 인터넷 공유기",
+    "네트워크 스위치 / 허브",
+    "데스크탑 PC / 노트북",
+    "VoIP(IP 전화기)",
+    "서버 / 라우터",
+    "기가비트 인터넷 (1Gbps) 지원 환경",
+    "인터넷 공유기 (라우터)",
+    "서버 및 네트워크 스위치/라우터",
+    "1000BASE-TX (CAT.6 UTP 규격 지원 장비)",
+    "기가비트 인터넷 공유기",
+    "컴퓨터, 노트북",
+    "인터넷 라우터, 스위치",
+    "프린터, IP 전화기(VoIP)",
+    "서버, 네트워크 스위치",
+    "IP 카메라, CCTV",
+    "스마트 허브, 스마트 홈 장비",
+    "소규모 서버 네트워크",
+    "네트워크 라우터",
+    "데스크탑 컴퓨터 및 노트북",
+    "IP 전화기(VoIP)",
+    "CAT.6 UTP 표준 규격 장비",
+    "1000BASE-TX 지원 장비",
+    "기가비트 인터넷 환경 (1Gbps 지원 공유기, 스위치, 라우터)",
+    "인터넷 공유기",
+    "컴퓨터 / 노트북",
+    "서버 및 네트워크 스위치 / 라우터",
+    "CAT.6 규격 호환 장비 전반",
+    "CAT.5 / CAT.5E 하위 호환",
+    "10Mbps / 100Mbps / 1000Mbps 네트워크 장비",
+    "RJ45(8P8C) 포트를 사용하는 스위치, 허브, 라우터, PC, NAS 등",
+    "TIA/EIA-568 규격 준수 네트워크 환경"
+  ],
+  "package_contents": [
+    "CAT.6 UTP 다이렉트 랜케이블 1개",
+    "CAT.6 UTP 다이렉트 랜 케이블 (선택 색상 및 길이 1개)",
+    "CAT.6 UTP 패치코드 (BLUE) 1개",
+    "CAT.6 UTP 다이렉트 랜 케이블 (GREY) × 1",
+    "CAT.6 UTP 다이렉트 랜 케이블 (GREY) 1개",
+    "CAT.6 UTP 다이렉트 랜 케이블 (GREY) 1개 (선택 길이에 따라 단선 또는 연선)",
+    "CAT.6 UTP 패치코드 (다이렉트 랜 케이블, 연선, RED) 1개",
+    "CAT.6 UTP 패치코드 (YELLOW) × 1",
+    "CAT.6 UTP 단선 다이렉트 랜 케이블 1개 (선택한 길이 및 색상에 따라 상이)"
+  ],
+  "usage_instructions": "다이렉트 케이블(568B-568B 핀배열)로, PC·서버·스위치·라우터 등 이종 장비 간 연결에 사용합니다. RJ45 커넥터를 장비의 LAN 포트에 삽입하여 연결하세요. 연선(Stranded) 타입으로 구부러짐에 강해 설치가 용이합니다. 0.5M 및 1M 제품은 단선(Solid) 타입입니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품은 다이렉트 케이블(568B-568B)이며, 크로스 케이블(568B-568A)과 다르므로 용도에 맞게 선택하세요.",
+    "RoHS 규정에 따라 수은, 카드뮴 등 중금속 사용이 제한된 친환경 제품입니다.",
+    "본 제품 및 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 070-7018-3386 (라인업시스템(주))"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-6UTPD-2MB",
+      "품목코드": "CAB-U6B001",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT, BLUE, 2M [10067] (90개)",
+      "variant_suffix": "-2MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-3MB",
+      "품목코드": "CAB-U6B002",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT, BLUE, 3M [10068] (70개)",
+      "variant_suffix": "-3MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-5MB",
+      "품목코드": "CAB-U6B003",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT, BLUE, 5M [10069] (60개)",
+      "variant_suffix": "-5MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-10MB",
+      "품목코드": "CAB-U6B004",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT, BLUE, 10M [10070] (32개)",
+      "variant_suffix": "-10MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-1MG",
+      "품목코드": "CAB-U6G001",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT 50u, 1M [10053] (150개)",
+      "variant_suffix": "-1MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-2MG",
+      "품목코드": "CAB-U6G002",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT 50u, 2M [10054] (90개)",
+      "variant_suffix": "-2MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-3MG",
+      "품목코드": "CAB-U6G004",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT 50u, 3M [10055] (70개)",
+      "variant_suffix": "-3MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-5MG",
+      "품목코드": "CAB-U6G005",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT 50u, 5M [10056] (60개)",
+      "variant_suffix": "-5MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-10MG",
+      "품목코드": "CAB-U6G006",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT 50u, 10M [10058] (32개)",
+      "variant_suffix": "-10MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-15MG",
+      "품목코드": "CAB-U6G007",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT 50u, 15M [10059] (30개)",
+      "variant_suffix": "-15MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-20MG",
+      "품목코드": "CAB-U6G008",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT 50u, 20M [10060] (20개)",
+      "variant_suffix": "-20MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-30MG",
+      "품목코드": "CAB-U6G010",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT 50u, 30M [10061] (14개)",
+      "variant_suffix": "-30MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-7MG",
+      "품목코드": "CAB-U6G013",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT 50u, 7M [10057] (40개)",
+      "variant_suffix": "-7MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-50MG",
+      "품목코드": "CAB-U6G014",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT 50u, 50M [10062] (10개)",
+      "variant_suffix": "-50MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-0.5MG",
+      "품목코드": "CAB-U6G022",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT 50u, 0.5M [10724] (220개)",
+      "variant_suffix": "-0.5MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-2MR",
+      "품목코드": "CAB-U6R001",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT, RED, 2M [10063] (90개)",
+      "variant_suffix": "-2MR",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-3MR",
+      "품목코드": "CAB-U6R002",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT, RED, 3M [10064] (70개)",
+      "variant_suffix": "-3MR",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-5MR",
+      "품목코드": "CAB-U6R003",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT, RED, 5M [10065] (60개)",
+      "variant_suffix": "-5MR",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-10MR",
+      "품목코드": "CAB-U6R004",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT, RED, 10M [10066] (32개)",
+      "variant_suffix": "-10MR",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-2MY",
+      "품목코드": "CAB-U6Y001",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT, YELLOW, 2M [10071] (90개)",
+      "variant_suffix": "-2MY",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-3MY",
+      "품목코드": "CAB-U6Y002",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT, YELLOW, 3M [10072] (70개)",
+      "variant_suffix": "-3MY",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-5MY",
+      "품목코드": "CAB-U6Y003",
+      "품목명": "[LANstar] H-CAT.6 랜케이블 , UTP DIRECT, YELLOW, 5M [10073] (60개)",
+      "variant_suffix": "-5MY",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6UTPD-10MY",
+      "품목코드": "CAB-U6Y004",
+      "품목명": "[LANstar] H-CAT.6 랜 케이블 , UTP DIRECT, YELLOW, 10M [10074] (32개)",
+      "variant_suffix": "-10MY",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "만족합니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "다음날 총알 배송이 좋았습니다. 품질도 우수합니다."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "다음날 총알 배송이 좋았습니다. 품질도 우수합니다."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "다음날 총알 배송으로 필요한 시간에 쓸수 있어서 좋왔습니다. 전에도 구매해서 사용했는데.. 품질도 좋습니다."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "선 잘활용 하고 있습니다."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "선 잘 받았습니다."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "잘받았습니다. 배송이 빠릅니다."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "만족합니다 사업 번창하세요"
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "만족합니다 사업 번창하세요"
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "만족합니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "기가 인터넷으로 바꾸고 랜선도 바꿔야한다고 친구에게 듣고 집에 쓰던 랜선을 보니 CAT5라 얼른 CAT6로 주문했더니, 속도가 확~!! 올라서 진짜 너무 만족합니다. 일부러 구분되게 색깔 별로 주문했는데, 진짜 색도 찐해서 정말 최고입니다."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "빠른 배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "잘 받았습니다&hellip;.."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "잘 받았습니다&hellip;.."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "잘 받았습니다&hellip;.."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "잘 받았습니다&hellip;.."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "잘 받았습니다&hellip;.."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "빠른 배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "좋습니다 잘쓰겠습니다"
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "좋습니다 잘쓰겠습니다"
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "빠른 배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "빠른배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "배송 좋고 제품 좋아요!"
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "배송빠르고 좋습니다"
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "믿고 쓰는 LS판 랜선입니다."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "너이어둬니ㅣㄴ파ㅣ틈"
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "컴여러대라서 색깔있는걸로 선택했어요 일단 불량없네요"
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "길이감도 충분하고 연결감도 좋습니다"
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "빠른 배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요"
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "사정상 랜선 여러개 연결했는데 색이 다르니까 확실히 구별 잘되고 좋네요"
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "잘 받았습니다. 이쁜 포장 감사합니다."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "무난하게 잘 연결됩니다"
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "어제 주문해서 오늘받음 개빠름"
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "잘 받았습니다.\n많이 파세요."
+    },
+    {
+      "source_model": "LS-6UTPD",
+      "내용": "잘 받았습니다.\n만히 파세요."
+    },
+    {
+      "source_model": "LS-6UTPD-10MG",
+      "내용": "배송빠르고 원하던상품이에요"
+    },
+    {
+      "source_model": "LS-6UTPD-2MB",
+      "내용": "잘 받았습니다. 배송이 빠릅니다."
+    },
+    {
+      "source_model": "LS-6UTPD-2MG",
+      "내용": "배송빠르고 좋아요."
+    },
+    {
+      "source_model": "LS-6UTPD-2MR",
+      "내용": "배송이 빠릅니다. 추천해요."
+    },
+    {
+      "source_model": "LS-6UTPD-2MY",
+      "내용": "다음날 총알 배송이 좋았습니다. 품질도 우수합니다."
+    },
+    {
+      "source_model": "LS-6UTPD-2MY",
+      "내용": "잘 받았습니다. 배송이 빠르네요."
+    },
+    {
+      "source_model": "LS-6UTPD-3MG",
+      "내용": "배송이 빠르고 가격이 저렴해서 좋습니다."
+    },
+    {
+      "source_model": "LS-6UTPD-3MG",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-6UTPD-3MY",
+      "내용": "다음날 총알 배송이 좋았습니다. 품질도 우수합니다."
+    },
+    {
+      "source_model": "LS-6UTPD-3MY",
+      "내용": "배송이 빠르고 가격이 저렴해서 좋습니다."
+    },
+    {
+      "source_model": "LS-6UTPD-5MG",
+      "내용": "배송이 빠르고 가격이 저렴해서 좋습니다."
+    },
+    {
+      "source_model": "LS-6UTPD-5MG",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-6UTPD-5MY",
+      "내용": "다음날 총알 배송이 좋았습니다. 품질도 우수합니다."
+    },
+    {
+      "source_model": "LS-6UTPD-5MY",
+      "내용": "배송이 빠르고 가격이 저렴해서 좋습니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-6UTPD",
+      "id": 597353593,
+      "date": "2024-09-20 12:03",
+      "answerDate": "2024-09-20 12:04",
+      "user": "tlsr********",
+      "productName": "랜스타 CAT6 UTP 1000Mbps 그레이 정품 랜케이블 LS-6UTPD",
+      "question": "1박스를 주문하고 싶은데 1박스엔 몇개가 들어가있나요?\n15M 그레이",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품 1박스에 30개가 들어있습니다.\n수량에 맞게 주문 주시면 알맞게 체크하여 출고 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-6UTPD-20MG",
+      "chatUrl": "5GoX3",
+      "dateIso": "2025-10-10T07:53:08.326Z",
+      "name": "캐빈",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "말씀좀 주문좀 하게요",
+      "answer": "그리고 LS-6UTPD-20MG 제품은 utp 케이블로서 가정, pc방에서 자주 사용하는 모델입니다. 비싼 모델은 전자파 간섭이 많은 산업용 현장에서 자주 사용하는 제품입니다. 두",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "6새사도"
+        },
+        {
+          "role": "agent",
+          "text": "그리고 LS-6UTPD-20MG 제품은 utp 케이블로서 가정, pc방에서 자주 사용하는 모델입니다. 비싼 모델은 전자파 간섭이 많은 산업용 현장에서 자주 사용하는 제품입니다. 두"
+        },
+        {
+          "role": "customer",
+          "text": "두개중에"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요? 안녕하세요. 고객님. 랜스타입니다.\n\n제품명 말씀 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "말씀좀 주문좀 하게요"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-6UTPD-10MG",
+      "chatUrl": "4LH6t",
+      "dateIso": "2024-05-17T03:24:51.021Z",
+      "name": "이인성",
+      "isTechnical": true,
+      "category": "install",
+      "modelConfidence": "high",
+      "question": "17일 문의드린 수량으로 주문들어갈겁니다. 내일 확인 부탁드립니다.",
+      "answer": "네 고객님, 확인하였습니다. 10M 재고의 경우 우선 네이버 정책적으로는 출고 처리 도와드리되, 추후 입고 시 출고 도와드리겠습니다.\n\n네, 확인하였습니다. 주문 주시면 확인 후 안내 도와드리겠습니다.\n\n네 고객님, 주문 주시면 말씀 부탁드립니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n네, 확인하였습니다.\n주문 주시면 확인 후 안내 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습"
+        },
+        {
+          "role": "customer",
+          "text": "17일 문의드린 수량으로 주문들어갈겁니다. 내일 확인 부탁드립니다."
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 주문 주시면 말씀 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "네 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 확인하였습니다.\n10M 재고의 경우 우선 네이버 정책적으로는 출고 처리 도와드리되, 추후 입고 시 출고 도와드리겠습니다."
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-6UTPD-COLOR-STRANDED-SS": "LAN Star\nCAT.6 UTP\n다이렉트 랜 케이블 / 연선 / 24AWG\nBlue, Red, Yellow, Black 4\neeeee\ncecec\nCAT.6 UTP BLUE\n02M, 3M,5M, 10M\nCAT.6 UTP RED\n02M, 3M,5M, 10M\nCAT.6 UTP YELLOW\n02M,3M,5M, 10M\n이더넷 케이블의 표준!\nPATCH CORD\n\n\n이더넷 케이블의 표준!\nPATCH CORD\n1. CAT.6 UTP 이더넷 케이블\n2. 연선(STRANDED) 케이블\n3. 1Gbps 전송속도\n4. 250MHz 대역폭\n5. CCA 재질\n6. 15 금도금 컨넥터\n7. FLUKE 테스트 통과 제품\n3 COLOR\n1. RED(LS-6UTPD-XMR)\n2. BLUE(LS-6UTPD-XMB)\n3. YELLOW(LS-6UTPD-xMY)\nCAT.6 UTP\n1000BASE-TX 지원\n1000BASE-TX를 지원하는 CAT.6 UTP 랜케이블로\n250MHz 대역폭을 지원하여 최대 1Gbps의 전송속도를 나타냅니다.\n높은 속도와 넓은 대역폭이 필요한 일반적인 네트워크 환경에서\n경제적이고 효율적으로 사용할 수 있습니다.\n케이블 비교\nCAT.5E\nCAT.6\nCAT.6A/CAT.7\n대역폭\n100MHz\n250MHz\n500MHz/600MHz\n전송속도\n1Gbps\n1Gbps\n10Gbps\n규격\n1000BASE-T\n1000BASE-TX\n10GBASE-T\nUTP/FTP/STP 케이블\n꼬여있는 선과 선 사이에 차단용 십자형 개재가 있어 케이블간의\n간섭을 줄여 전송 속도를 높여주는 기능을 합니다.\nFTP\n(Foiled Twisted Pair)\n알루미늄은박이 선을 감싸고 있으며 별도로 접지용 선이 있습니다.\nUTP에 비해 절연 기능이 탁월하여 공장 배선용으로 많이 사용됩니다.\n외부 피복에 쉴드 처리가 되어 있고 알루미늄 은박이 선을 감싸고 있어\n외부의 노이즈나 전기적 신호 간섭 차단에 탁월한 케이블입니다.\nSTP\n(Shielded Twisted Pair)\n통신 에러 및 속도 저하를 최소화하여 대용량의 정보를 전달할 수 있어\n접지 및 특수 환경의 초고속 네트워크망이 구축된 환경에서 사용됩니다.\n각 페어마다 알루미늄 실드가 있고 전체 페어를 모아 편조차폐로\nS-FTP\n감싼 케이블로 이중차폐 구조로 이루어졌기에 외부 신호간섭을\n(Screened Foiled Twisted Pair)\n최소화하기 가장 좋은 케이블입니다.\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있으며 전선과\nUTP\n피복만으로 구성되어 있는 케이블입니다. 보통 일반적인 랜케이블이\n(Unshielded Twisted Pair)\n이에 해당되며 사무실 및 가정 배선용으로 사용됩니다.\nCAT.6 UTP 케이블 구조\n4PAIR TWISTED STRUCTURE\n신호 간섭 방지를 위해 8개의 페어가 2개씩 꼬여있는 방식과\n십자형 차단막으로 이뤄진 UTP 케이블입니다.\n\n\nCAT.6 UTP 케이블 구조\n4PAIR TWISTED STRUCTURE\n신호 간섭 방지를 위해 8개의 페어가 2개씩 꼬여있는 방식과\n십자형 차단막으로 이뤄진 UTP 케이블입니다.\n십자형 차단막\n연선\nPVC 자켓\n꼬임 구조\n연선(STRANDED) 케이블\nCCA(Copper Clad Aluminum)\n알루미늄 코어 바깥 부분에 구리를 씌운 CCA 구조의 연선 케이블로\n저렴한 가격, 가벼운 무게, 고정된 설치 환경에서의 안정성 등의 장점이 있습니다.\n구리\n알루미늄\n연선/ 단선 케이블 구조 비교\n연선\n단선\n가늘거나 굵은 여러개의 가닥이 그룹화되어\n하나의 금속으로 구성\n단일 도체를 구성\n단선보다 유연하여 쉽게 끊어지지 않지만\n내구성이 떨어짐\n연선보다 단단하고 내구성이 강하나\n구부리면 파손될 가능성이 높음\n엘리베이터 등 이동하거나 노출이 많이\n되는 곳에 주로 설치\n내부 배선, 고정된 전선 등 전력을 많이\n사용하는 곳에 주로 설치\nFLUKE TEST PASS\nCW LINKWARE\"PC\nTest Summary: PASS\nVodel CGX4\nGAZ SEMAN\nRe:x-C440\nCable ID: LS-6UTPD-50MG\ne Time \n05-29-02 10:29 AM\n85 dB \nINEXT 45-\nDer BL\nSortweeks 5 BukStore5\nPatrion Sat Dole\n02-2010\nRomcle a 30\nVacalo\nRedactic 25X CH-504\n011501 Channe\nTop Cal LOUT\nASP\nPar45\nP 2\nPak 4\nPAIS\nDay Skec, Lin 30\nRais \nJoe Last \n25 C\nwearess agaict.\nWorst Cesego Case vag\n\n\nTest Summary: PASS\nLINKWARE\"PC\nVodel DGX-8:0\nOSMANGANA JONE\nDBL\nBuk\nRe:CHA\nCHAM\nSut\n5-10\nCable ID: LS-6UTPD-50MG\nCae Time \n05-21-02 10:29 A\nHeadroom \n85 dB NEXT 45-\nTes: mit: B IS011801 \nChanne \nCus\nCach Tops \nCale LLUT\nCatamon S\n2010\nH\nRomce cu 30223\nPar 4\n1940\nLongL222\nPey\nDay Lin 30\nPantacto\n-net \nLast2563\nPara\nPASS\n24.0\nwearess Magsich\nge\nLant\nWe Won Case Vago\nESR\nPASS\nBE\n2855\n243\nNEXT (B)\n30.1\n6.\n46%\n\"\n114\n2021\nte\n30.\nid.\n2\n-\n2012 1\n152\nPREPA\nACROBI\n15\n2950\nSP\n2330\n03-\n2202\n2100\n165\n-\n153\nWILS\n12:\n2204\nPSACRF (3)\n5121\n-\n2025\nBRE\n376 375\n20\ns 212.3\n30\n132\nCRN\n6\nSR MAIN\nMAR\n1625\n360\nALL\n나이\nC\nGeoga\n20\nFLUKE\nnetworks.\nP: DEFAULT\n15 3Prongs 금도금\n① 15k 금도금 컨넥터\n② 3Prongs 형태 핀 > 신호 전송시 오류 최소화 형태\n3Prongs\n형태 핀\n15k\n금도금 핀\n랜스타 패치코드 어디서 사용할까요?\n다양한 네트워크 환경에서 사용할 수 있으며, 다음과 같은 용도로 많이 사용됩니다.\n가정용 네트워크\n사무실 및 기업 환경\n서버룸 및 데이터 센터\n인터넷 공유기와 컴퓨터, 노트북,\n게임 콘솔, 스마트 TV\n등을 연결하는 데 적합.\n사무실에서 인터넷 라우터, 스위치,\n컴퓨터, 프린터, IP 전화기 등\n다양한 장비를 연결\n서버와 네트워크 스위치,\n라우터 간의 연결을 위해 사용.\n소규모 서버 네트워크에도 적합\nIDIS\nIP 카메라,CCTV\nVolP 전화 시스템\n게임 및 스트리밍\nPoE(Power over Ethernet)\n지원하여 데이터, 전원을 동시에 전송.\nCCTV 설치시 많이 사용\nIP 전화기를 네트워크에\n연결하는 데 사용\n온라인 게임이나 스트리밍에서\n낮은 지연시간과 높은 안정성을 확보\n\n\nIP 카메라,CCTV\nVoIP 전화 시스템\n게임 및 스트리밍\nPOE(Power over Ethernet)\n지원하여 데이터, 전원을 동시에 전송.\nCCTV 설치시 많이 사용\nIP 전화기를 네트워크에\n연결하는 데 사용\n온라인 게임이나 스트리밍에서\n낮은 지연시간과 높은 안정성을 확보\nPOL\n장애인 의사소통지원\n학교 및 교육 기관\n스마트 홈 장비\n컴퓨터실이나 강의실에서 사용\n신속한 데이터 전송이\n필요한 환경에 적합\n스마트 허브, 스마트 TV, 보안\n시스템 등의 스마트 장치를\n네트워크에 연결하여 더 안정적인\n데이터 전송을 지원\nPRODUCT DETAIL\n튼튼한 스프링 구조\n컨넥터 내구성 강화\n15 금도금 컨넥터\n신호 손실 최소화\n자연스러운 컨넥터+부트\n컨넥터와 부트가 맞닿아\n직접적으로 컨넥터에\n접촉이 없기 때문에\n컨넥터 보호 가능\n견고한 마감 처리\n케이블 피복 보호\nPRODUCT SIZE\n11mm\n40mm\n14mm\nBUBBE\nLAAAAA\n21mm\n40mm\n2M\nPIN OUT\n3M\n5M\nP1\nP2\n10M\n1\n1 WHITE\n2 ORANGE\n- 23 64\n3 WHITE\n6 GREEN\n4 BLUE\n\n\n5M\n8\nP1\nP2\n10M\n1\n1 WHITE\n2 ORANGE\n23\n3 WHITE\n6\n6 GREEN\n4\n4 BLUE\n5\n5 WHITE\n7\n7 WHITE\n8\n8 BROWN\nSHELL\nSHELL\nDO\nSPECIFICATION\n규격\nCAT.6 UTP\n전송속도\n최대 1Gbps\n대역폭\n250MHz\n심선\n24AWG\n콘넥터\n15μ Gold Plated Pin\n직경\nOD 6.0±0.2mm\nFAQ\n자주 물어보시는 질문\nQ. 기가비트 인터넷을 지원하나요?\nCAT.6 UTP 패치 코드는 기가비트(1Gbps) 속도를 지원합니다.\n단 사용하는 인터넷 환경 역시 기가비트 인터넷을 지원해야 정상적인 속도로\n인터넷을 사용할 수 있습니다.\n길이가 길어지면 속도나 신호 저하가 발생하나요?\n제조사 테스트 결과 최대 50미터까지 안정적인 신호 전송이 가능합니다.\n단, 케이블 연결 환경 및 주변의 요인으로 인해 속도나 신호 저하에 영향을 끼칠 수 있습니다.\nQ. 실외에서 사용할 수 있나요?\n주로 실내 환경에 적합하게 설계되었습니다.\n실외에서 사용하려면 별도로 방수 및 내구성이 강화된 케이블을 고려하는 것이 좋습니다.\n랜마트 및 랜스타 스마트 스토어에서 옥외용 케이블, 방수 케이블 검색 후\n구매하여 사용하시기 바랍니다.\nQ. PoE(Power Over Ethernet)을 지원하나요?\n네. PoE를 지원하여 전력과 데이터를 동시에 전송할 수 있습니다.\nPoE 기능이 있는 네트워크 장비에 연결하면 안정적으로 전원을 공급할 수 있습니다.\nQ. 케이블은 유연한 편인가요?\n네. 짧은 길이의 케이블 제외, 2M 길이 이상부터는 연선 케이블로 매우 유연합니다.\n연선 케이블은 유연성이 뛰어나기 때문에, 다양한 환경에서 쉽게 설치할 수 있습니다.\n\n\n연선 케이블은 유연성이 뛰어나기 때문에, 다양한 환경에서 쉽게 설치할 수 있습니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n상품 도착\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n전문기업확인서\n소개 부품 장비 전문기업확인서\nAa\n4\nANA 222.3.2-ES\n평가관리원\n기업소개\n신문기업인을 확인합니다\n산업통산자원부 시행 제도\nKeit\nBZ231 29\n2022.11.29 취득\n한국산업기술평가관\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상품정보\n품\n명\nCAT.6 UTP 다이렉트 랜케이블, COLOR\n제조국/원산지\n중국 (China)\nLANG\nStar\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품 질 보증 기 준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\n계정 나이 사저 이미 FTL 기계ㅍ이 새사미 허리 드이사야 예고 어이\n\n\n본 제품에 이상이 있으면\n품질 보증 기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "LS-6UTPD-MB-STRANDED": "LAN Star\nCAT.6 UTP 패치코드\n다이렉트 랜 케이블 / 연선 / BLUE\nララララララ\nううううう\n케이블 제품 분류표\n모델No.\n모델명\n길이\n규격\n직경\n심선\n10067\nLS-6UTPD-2MB\n2M\n10068\nLS-6UTPD-3MB\n3M\n연선\n6.0±0.2mm\n24AWG\n10069\nLS-6UTPD-5MB\n5M\n10070\nLS-6UTPD-10MB\nTOM\n이더넷 케이블의 표준!\nPATCH CORD\n1. CAT.6 UTP 이더넷 케이블\n2. 연선(STRANDED) 케이블\n3. 1Gbps 전송속도\n4. 250MHz 대역폭\n5. CCA 재질\n6. 15 금도금 컨넥터\n7. FLUKE 테스트 통과 제품\n4가지 색깔\nPATCH CORD\n\n\n4가지 색깔\nPATCH CORD\n1. CAT.6 UTP RED(LS-6UTPD-XMR)\n2. CAT.6 UTP BLUE(LS-6UTPD-XMB)\n3. CAT.6 UTP YELLOW(LS-6UTPD-xMY)\n4. CAT.6 UTP GREY(LS-6UTPD-xMG)\nCAT.6 UTP 케이블 구조\n4PAIR TWISTED STRUCTURE\n신호 간섭 방지를 위해 8개의 페어가 2개씩 꼬여있는 방식과\n십자형 차단막으로 이뤄진 UTP 케이블입니다.\n십자형 차단막\n연선\nPVC 자켓\n꼬임 구조\nCAT.6 UTP\n1000BASE-TX 지원\n1000BASE-TX를 지원하는 CAT.6 UTP 랜케이블로\n250MHz 대역폭을 지원하여 최대 1Gbps의 전송속도를 나타냅니다.\n높은 속도와 넓은 대역폭이 필요한 일반적인 네트워크 환경에서\n경제적이고 효율적으로 사용할 수 있습니다.\n케이블 비교\nCAT.5E\nCAT.6\nCAT.6A/CAT.7\n대역폭\n100MHz\n250MHz\n500MHz/600MHz\n전송속도\n1Gbps\n1Gbps\n10Gbps\n규격\n1000BASE-T\n1000BASE-TX\n10GBASE-T\nUTP/FTP/STP 케이블\n꼬여있는 선과 선 사이에 차단용 십자형 개재가 있어 케이블간의\n간섭을 줄여 전송 속도를 높여주는 기능을 합니다.\nFTP\n(Foiled Twisted Pair)\n알루미늄은박이 선을 감싸고 있으며 별도로 접지용 선이 있습니다.\nUTP에 비해 절연 기능이 탁월하여 공장 배선용으로 많이 사용됩니다.\n외부 피복에 쉴드 처리가 되어 있고 알루미늄 은박이 선을 감싸고 있어\n외부의 노이즈나 전기적 신호 간섭 차단에 탁월한 케이블입니다.\nSTP\n(Shielded Twisted Pair)\n통신 에러 및 속도 저하를 최소화하여 대용량의 정보를 전달할 수 있어\n접지 및 특수 환경의 초고속 네트워크망이 구축된 환경에서 사용됩니다.\n각 페어마다 알루미늄 실드가 있고 전체 페어를 모아 편조차폐로\nS-FTP\n감싼 케이블로 이중차폐 구조로 이루어졌기에 외부 신호간섭을\n(Screened Foiled Twisted Pair)\n최소화하기 가장 좋은 케이블입니다.\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있으며 전선과\nUTP\n피복만으로 구성되어 있는 케이블입니다. 보통 일반적인 랜케이블이\n(Unshielded Twisted Pair)\n이에 해당되며 사무실 및 가정 배선용으로 사용됩니다.\n\n\n페어머니 두 있고 신세 페이트 모아 소노\nS-FTP\n감싼 케이블로 이중차폐 구조로 이루어졌기에 외부 신호간섭을\n(Screened Foiled Twisted Pair)\n최소화하기 가장 좋은 케이블입니다.\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있으며 전선과\nUTP\n피복만으로 구성되어 있는 케이블입니다. 보통 일반적인 랜케이블이\n(Unshielded Twisted Pair)\n이에 해당되며 사무실 및 가정 배선용으로 사용됩니다.\n연선(STRANDED) 케이블\nCCA(Copper Clad Aluminum)\n알루미늄 코어 바깥 부분에 구리를 씌운 CCA 구조의 연선 케이블로\n저렴한 가격, 가벼운 무게, 고정된 설치 환경에서의 안정성 등의 장점이 있습니다.\n구리\n알루미늄\n연선/ 단선 케이블 구조 비교\n연선\n단선\n가늘거나 굵은 여러개의 가닥이 그룹화되어\n하나의 금속으로 구성\n단일 도체를 구성\n단선보다 유연하여 쉽게 끊어지지 않지만\n연선보다 단단하고 내구성이 강하나\n구부리면 파손될 가능성이 높음\n내구성이 떨어짐\n엘리베이터 등 이동하거나 노출이 많이\n내부 배선, 고정된 전선 등 전력을 많이\n되는 곳에 주로 설치\n사용하는 곳에 주로 설치\n15 3Prongs 금도금\n① 15k 금도금 컨넥터\n② 3Prongs 형태 핀 > 신호 전송시 오류 최소화 형태\n3Prongs\n형태 핀\n15u\n금도금 핀\n\n\n15k\n금도금 핀\nFLUKE TEST PASS\nLINKWARE\"PC\nTest Summary: PASS\nVadex:0:\n2005\nQUESTMANNAE\nDBL\n55 Buks\n2001003\nStwor\nVack 35\nAwmto ductu 25\nCable ID: LS-6UTPD-50MG\nCae Time \n05-2-22 1sac2 10c29 AM\nHeadroom 85 dB \nINEXTNEXT \n46 TH\nTes: mit: 1501101\n01 \nChunne Class E\nCach Top Cate LLUT\nand C\nRawA\nPar 45\nAEN\n2255\nPat's\n1840\nSh, Lint 30\nAB2\nPak 2\n24.0\nwar ess Margnict\nLimi\nWont Gesegno Case Vago\nBH ER \nSR\nPASS\n303x\nNEXT (B\nas C\n110\n95\n245 s\nBeit\nPS NEXT (dB)\n24\nTAI\n그\nSLO\n14\n2315\n256\n233\nFicg\n12\n242\n12\nDA\n2184\n123\n2625\n125\nveq -\n160\n254\n30 4579\n14:\nO\nsocne\nACR\nACKN MB\n14161\n332\n112\n13.12\n3631\n2425\nPS ACR-N(BI\n15\nER Tren\nLin\nPASS\n1625\n24\n1905\nont Pat\nALM8\nNo\nm\n201\ndsdanadisected andard\nTexasa\nEDUCAT\nFLUKE\n.networks.\nP DEFAULT\n랜스타 패치코드 어디서 사용할까요?\n다양한 네트워크 환경에서 사용할 수 있으며, 다음과 같은 용도로 많이 사용됩니다.\n가정용 네트워크\n사무실 및 기업 환경\n서버룸 및 데이터 센터\n인터넷 공유기와 컴퓨터, 노트북,\n게임 콘솔, 스마트 TV\n등을 연결하는 데 적합.\n사무실에서 인터넷 라우터, 스위치,\n컴퓨터, 프린터, IP 전화기 등\n다양한 장비를 연결\n서버와 네트워크 스위치,\n라우터 간의 연결을 위해 사용.\n소규모 서버 네트워크에도 적합\nIDIS\nIP 카메라, CCTV\nVoIP 전화 시스템\n게임 및 스트리밍\nPOE(Power over Ethernet)\n지원하여 데이터 전원을 동시에 전송.\nCCTV 설치시 많이 사용\nIP 전화기를 네트워크에\n연결하는 데 사용\n온라인 게임이나 스트리밍에서\n낮은 지연시간과 높은 안정성을 확보\n학교 및 교육 기관\n스마트 홈 장비\n컴퓨터실이나 강의실에서 사용\n신속한 데이터 전송이\n필요한 환경에 적합\n스마트 허브, 스마트 TV, 보안\n시스템 등의 스마트 장치를\n네트워크에 연결하여 더 안정적인\n데이터 전송을 지원\n\n\n학교 및 교육 기관\n스마트 홈 장비\n컴퓨터실이나 강의실에서 사용\n신속한 데이터 전송이\n필요한 환경에 적합\n스마트 허브, 스마트 TV, 보안\n시스템 등의 스마트 장치를\n네트워크에 연결하여 더 안정적인\n데이터 전송을 지원\nPRODUCT DETAIL\n튼튼한 스프링 구조\n컨넥터 내구성 강화\n15k 금도금 컨넥터\n신호 손실 최소화\n자연스러운 컨넥터+부트\n컨넥터와 부트가 맞닿아\n직접적으로 컨넥터에\n접촉이 없기 때문에\n컨넥터 보호 가능\n견고한 마감 처리\n케이블 피복 보호\nPRODUCT SIZE\n11mm\n40mm\n14mm\nAAAAA\n21mm\n40mm\n2M\n3M\n5M\n10M\nPIN OUT\nP1\nP2\n1\n1\nWHITE/ORANGE\n2\nORANGE\n3\nWHITE/GREEN\n6\nGREEN\n23 645 M\n4\nBLUE\nHI\n5\nWHITE/BLUE\n7\n7\nWHITE/BROWN\nD\n8\n8\nBROWN\nSPECIFICATION\n\n\nSPECIFICATION\n규격\nCAT.6 UTP\n전송속도\n최대 1Gbps\n대역폭\n250MHz\n심선\n24AWG\n콘넥터\n15k Gold Plated Pin\n케이블 길이\n2m/3m/5m/10m\n직경\nOD 6.0±0.2mm\nFAQ\n자주 물어보시는 질문\nQ. 기가비트 인터넷을 지원하나요?\nCAT.6 UTP 패치 코드는 기가비트(1Gbps) 속도를 지원합니다.\n단 사용하는 인터넷 환경 역시 기가비트 인터넷을 지원해야 정상적인 속도로\n인터넷을 사용할 수 있습니다.\nQ. 길이가 길어지면 속도나 신호 저하가 발생하나요?\n제조사 테스트 결과 최대 50미터까지 안정적인 신호 전송이 가능합니다.\n단, 케이블 연결 환경 및 주변의 요인으로 인해 속도나 신호 저하에 영향을 끼칠 수 있습니다.\nQ. 실외에서 사용할 수 있나요?\n주로 실내 환경에 적합하게 설계되었습니다.\n실외에서 사용하려면 별도로 방수 및 내구성이 강화된 케이블을 고려하는 것이 좋습니다.\n랜마트 및 랜스타 스마트 스토어에서 옥외용 케이블, 방수 케이블 검색 후\n구매하여 사용하시기 바랍니다.\nQ. PoE(Power Over Ethernet)을 지원하나요?\n네. PoE를 지원하여 전력과 데이터를 동시에 전송할 수 있습니다.\nPoE 기능이 있는 네트워크 장비에 연결하면 안정적으로 전원을 공급할 수 있습니다.\nQ. 케이블은 유연한 편인가요?\n네. 짧은 길이의 케이블 제외. 2M 길이 이상부터는 연선 케이블로 매우 유연합니다.\n연선 케이블은 유연성이 뛰어나기 때문에, 다양한 환경에서 쉽게 설치할 수 있습니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n\n\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\nShare\n소재·부품·장비\n전문기업확인서\n소개 부품 상비 전문기업인\nSTATI\nNAW\nATA 22A\n가관리원\n기소개\n신문기업인을 확인합니다\n산업통산자원부 시행 제도\nKeit\nBUZZ 31 27\n2022.11.29 취득\n한국산업기술평가관학원\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상 품 정 보\n품\n명\nCAT.6 UTP 다이렉트 랜케이블, BLUE\nLS-6UTPD-2MB\nLANSStar\nLS-6UTPD-3MB\n모\n델\n명\nLS-6UTPD-5MB\nLS-6UTPD-10MB\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질보증기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "LS-6UTPD-MG-SOLID": "LAN Star\nCAT.6 UTP HIE\n다이렉트 랜 케이블 / 단선/ GREY\n케이블 제품 분류표\nNo.\n모델명\n201\n규격\n직경\n심선\n10724\nLS-6UTPD-0.5MG\n0.5M\n단선\n10053\nLS-6UTPD-1MG\nIM\n10054\nLS-6UTPD-2MG\n2M\n10055\nLS-6UTPD-3MG\n3M\nM\n10056\nLS-6UTPD-5MG\n5M\n3\n10057\nLS-6UTPD-7MG\n7M\n6.0±0.2mm\n24AWG\n10058\nLS-6UTPD-10MG\n10M\n연선\n10059\nLS-6UTPD-15MG\n15M\n10060\nLS-6UTPD-20MG\n20M\n10061\nLS-6UTPD-30MG\n30M\n10062\nLS-6UTPD-50MG\n50M\n이더넷 케이블의 표준!\nPATCH CORD\n1. CAT.6 UTP\n2. 단선(SOLID) 케이블\n3. 1Gbps 전송속도\n4. 250MHz 대역폭\n5. CCA\n6. 15k 금도금 컨넥터\n7. FLUKE 테스트 통과 제품\n\n\nコウウラウラだ\n4가지 색깔\nPATCH CORD\n1. CAT.6 UTP RED(LS-6UTPD-xMR)\n2. CAT.6 UTP BLUE(LS-6UTPD-xMB)\n3. CAT.6 UTP YELLOW(LS-6UTPD-xMY)\n4. CAT.6 UTP GREY(LS-6UTPD-xMG)\nCAT.6 UTP 케이블 구조\n4PAIR TWISTED STRUCTURE\n신호 간섭 방지를 위해 8개의 페어가 2개씩 꼬여있는 방식과\n십자형 차단막으로 이뤄진 UTP 케이블입니다.\n단선\n꼬임 구조\n십자형 차단막\nPVC 자켓\nCAT.6 UTP\n1000BASE-TX 지원\n1000BASE-TX를 지원하는 CAT.6 UTP 랜케이블로\n250MHz 대역폭을 지원하여 최대 1Gbps의 전송속도를 나타냅니다.\n높은 속도와 넓은 대역폭이 필요한 일반적인 네트워크 환경에서\n경제적이고 효율적으로 사용할 수 있습니다.\n케이블 비교\nCAT.5E\nCAT.6\nCAT.6A/CAT.7\n대역폭\n100MHz\n250MHz\n500MHz/600MHz\n전송속도\n1Gbps\n1Gbps\n10Gbps\n규격\n1000BASE-T\n1000BASE-TX\n10GBASE-T\nUTP/FTP/STP 케이블\n\n\n보\n1000BASE-T\n1000BASE-TX\nTUGBASE-T\nUTP/FTP/STP 케이블\n꼬여있는 선과 선 사이에 차단용 십자형 개재가 있어 케이블간의\n간섭을 줄여 전송 속도를 높여주는 기능을 합니다.\nFTP\n(Foiled Twisted Pair)\n알루미늄은박이 선을 감싸고 있으며 별도로 접지용 선이 있습니다.\nUTP에 비해 절연 기능이 탁월하여 공장 배선용으로 많이 사용됩니다.\n외부 피복에 쉴드 처리가 되어 있고 알루미늄 은박이 선을 감싸고 있어\n외부의 노이즈나 전기적 신호 간섭 차단에 탁월한 케이블입니다.\nSTP\n(Shielded Twisted Pair)\n통신에러 및 속도 저하를 최소화하여 대용량의 정보를 전달할 수 있어\n접지 및 특수 환경의 초고속 네트워크망이 구축된 환경에서 사용됩니다.\n각 페어마다 알루미늄 실드가 있고 전체 페어를 모아 편조차폐로\nS-FTP\n감싼 케이블로 이중차폐 구조로 이루어졌기에 외부 신호간섭을\n(Screened Foiled Twisted Pair)\n최소화하기 가장 좋은 케이블입니다.\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있으며 전선과\nUTP\n(Unshielded Twisted Pair)\n피복만으로 구성되어 있는 케이블입니다. 보통 일반적인 랜케이블이\n이에 해당되며 사무실 및 가정 배선용으로 사용됩니다.\n단선(SOLID) 케이블\nCCA(Copper Clad Aluminum)\n알루미늄 코어 바깥 부분에 구리를 씌운 CCA 구조의 단선 케이블로\n저렴한 가격, 가벼운 무게, 고정된 설치 환경에서의 안정성 등의 장점이 있습니다.\n구리\n알루미늄\n연선/ 단선 케이블 구조 비교\n연선\n단선\n가늘거나 굵은 여러개의 가닥이 그룹화되어\n하나의 금속으로 구성\n단일 도체를 구성\n단선보다 유연하여 쉽게 끊어지지 않지만\n연선보다 단단하고 내구성이 강하나\n구부리면 파손될 가능성이 높음\n내구성이 떨어짐\n엘리베이터 등 이동하거나 노출이 많이\n되는 곳에 주로 설치\n내부 배선, 고정된 전선 등 전력을 많이\n사용하는 곳에 주로 설치\n15 3Prongs 금도금\n① 15k 금도금 컨넥터\n② 3Prongs 형태 핀 > 신호 전송시 오류 최소화 형태\n3Prongs\n형태 핀\n\n\n3Prongs\n형태 핀\n15u\n금도금 핀\nFLUKE TEST PASS\nTest Summary: PASS\nCW LINKWARE\"PC\nCASE MANN SOPE\nDoesby BL\ntwee kes 55 Buk\nRex-C445\n05-2-23\nCom 3 INEXTE\nalan S\nCab\nCable ID: LS-6UTPD-50MG102921\nHeadrod\nTes: Jm: 5011801 Channel\nTops \nCalé LUT\nNSP\nAwmoto Adache 25X CH44504\nand\nRomce o 29242020\nLoram1222\nLin\nPak 45\nAp\nPASS\nDay Ske\nRasa Jones Lm125 C3\n12.9\nsockagict\nWont Gese Mugo Case Va\nPASS\nch\n242\nNEXT (\nFicy -2\nBO\n202\n455\nMaish\ni\n110\n95\nNEXT (ORY\n-\n\"\n20\ni\nAMMIN\nMal\n0\n14\n114\n218C\n15\n2250\nLo\nACR\n231.2\n14\n2013\n153\nDS\n22\nMey\n2035\nP\nNadine\n-\n65 212.3\nPar\nACR-NAR\nea d\nLini\n2\n35\nRo\n12.\nx\n240\nA\nPS ACR\n214\nS\n머리\nS\nPASS\nRost Pat\nALM\n7\n1625\n29.5\nMi\nAudinaticia Andraudiol\nLin\nE\nFLUKE\nnetworks\nP: DEFAULT\n랜스타 패치코드 어디서 사용할까요?\n다양한 네트워크 환경에서 사용할 수 있으며, 다음과 같은 용도로 많이 사용됩니다.\n가정용 네트워크\n사무실 및 기업 환경\n서버룸 및 데이터 센터\n인터넷 공유기와 컴퓨터, 노트북,\n게임 콘솔, 스마트 TV\n등을 연결하는 데 적합.\n사무실에서 인터넷 라우터, 스위치,\n컴퓨터, 프린터, IP 전화기 등\n다양한 장비를 연결.\n서버와 네트워크 스위치,\n라우터 간의 연결을 위해 사용.\n소규모 서버 네트워크에도 적합\nIDIS\nIP 카메라,CCTV\nVoIP 전화 시스템\n게임 및 스트리밍\nPOE(Power over Ethernet)\nIP 전화기를 네트워크에\n온라인 게임이나 스트리밍에서\n\n\nIDIS\nIP 카메라,CCTV\nVoIP 전화 시스템\n게임 및 스트리밍\nPoE(Power over Ethernet)\n지원하여 데이터, 전원을 동시에 전송,\nCCTV 설치시 많이 사용\nIP 전화기를 네트워크에\n연결하는 데 사용\n온라인 게임이나 스트리밍에서\n낮은 지연시간과 높은 안정성을 확보\n90\n학교 및 교육 기관\n스마트 홈 장비\n컴퓨터실이나 강의실에서 사용\n신속한 데이터 전송이\n필요한 환경에 적합\n스마트 허브, 스마트 TV, 보안\n시스템 등의 스마트 장치를\n네트워크에 연결하여 더 안정적인\n데이터 전송을 지원\nPRODUCT DETAIL\n튼튼한 스프링 구조\n컨넥터 내구성 강화\n15 금도금 컨넥터\n신호 손실 최소화\n자연스러운 컨넥터+부트\n컨넥터와 부트가 맞닿아\n직접적으로 컨넥터에\n접촉이 없기 때문에\n컨넥터 보호 가능\n견고한 마감 처리\n케이블 피복 보호\nPRODUCT SIZE\n11mm\n40mm\n14mm\nㅂㅂㅂㅂㅂ\nAAAAA\n21mm\n40mm\n0.5M\nIM\n2M\n3M\n5M\n7M\nPIN OUT\n10M\n15M\nP1\n이\nP2\n20M\n30M\n1\n1\nWHITE/ORANGE\n\n\n0.5M\nIM\n2M\n3M\n5M\nIM\nPIN OUT\n10M\n15M\nP1\nP2\n20M\n30M\n1\n1\nWHITE/ORANGE\n50M\n2\n2\nORANGE\n3\n3\nWHITE/GREEN\n6\n6\nGREEN\n4\n4\nBLUE\n5\n5\nWHITE/BLUE\n7\n7\nWHITE/BROWN\n8\n8\nBROWN\nD\nSPECIFICATION\n규격\nCAT.6 UTP\n전송속도\n최대 1Gbps\n대역폭\n250MHz\n심선\n24AWG\n콘넥터\n154 Gold Plated Pin\n0.5m/1m/2m/3m/5m/7m/10m/\n케이블 길이\n15m/20m / 30m/50m\n직경\nOD 6.0±0.2mm\nFAQ\n자주 물어보시는 질문\nQ. 기가비트 인터넷을 지원하나요?\nCAT.6 UTP 패치 코드는 기가비트(1Gbps) 속도를 지원합니다.\n단 사용하는 인터넷 환경 역시 기가비트 인터넷을 지원해야 정상적인 속도로\n인터넷을 사용할 수 있습니다.\nQ. 길이가 길어지면 속도나 신호 저하가 발생하나요?\n제조사 테스트 결과 최대 50미터까지 안정적인 신호 전송이 가능합니다.\n단, 케이블 연결 환경 및 주변의 요인으로 인해 속도나 신호 저하에 영향을 끼칠 수 있습니다.\nQ. 실외에서 사용할 수 있나요?\n주로 실내 환경에 적합하게 설계되었습니다.\n실외에서 사용하려면 별도로 방수 및 내구성이 강화된 케이블을 고려하는 것이 좋습니다.\n랜마트 및 랜스타 스마트 스토어에서 옥외용 케이블, 방수 케이블 검색 후\n구매하여 사용하시기 바랍니다.\nQ. PoE(Power Over Ethernet)을 지원하나요?\n네. PoE를 지원하여 전력과 데이터를 동시에 전송할 수 있습니다.\nPoE 기능이 있는 네트워크 장비에 연결하면 안정적으로 전원을 공급할 수 있습니다.\nQ. 케이블은 유연한 편인가요?\n네. 짧은 길이의 케이블 제외, 2M 길이 이상부터는 연선 케이블로 매우 유연합니다.\n여서 케이블은 여성이 띄어에 나기 때문에 다양한 학계에서 쉬게 설치한 ㅅ 이스! It\n\n\nPoE 기능이 있는 네트워크 장비에 연결하면 안정적으로 전원을 공급할 수 있습니다.\nQ. 케이블은 유연한 편인가요?\n네. 짧은 길이의 케이블 제외, 2M 길이 이상부터는 연선 케이블로 매우 유연합니다.\n연선 케이블은 유연성이 뛰어나기 때문에, 다양한 환경에서 쉽게 설치할 수 있습니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\nㅎㅎ\n상품 도착\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n전문기업확인서\n소재·부품 장비 전문기업확인서\nNAVI\n***\n평가관리원\n위기원은 「소독실\n신문기업인을 확인합니다.\n산업통산자원부 시행 제도\nKeit\n802231-29\n2022.11.29 취득\n한국산업기술평가관\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nM 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상 품 정보\n품\n명\nCAT.6 UTP 다이렉트 랜케이블, GREY\nLS-6UTPD-0.5MG\nLANStar\nLS-6UTPD-IMG\nLS-6UTPD-2MG\nLS-6UTPD-3MG\nLS-6UTPD-5MG\n모\n델\n명\nLS-6UTPD-7MG\nLS-6UTPD-10MG\nLS-6UTPD-15MG\n\n\nLS-6UTPD-0.5MG\nLANStar\nLS-6UTPD-IMG\nLS-6UTPD-2MG\nLS-6UTPD-3MG\nLS-6UTPD-5MG\n모\n명\nLS-6UTPD-7MG\nLS-6UTPD-10MG\nLS-6UTPD-15MG\nLS-6UTPD-20MG\nLS-6UTPD-30MG\nLS-6UTPD-50MG\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질보증기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\nLANStar\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "LS-6UTPD-MG-STRANDED": "LAN Star\nCAT.6 UTP HIE\n다이렉트 랜 케이블 / 연선 / GREY\n케이블 제품 분류표\nNo.\n모델명\n길이\n규격\n직경\n심선\n10724\nLS-6UTPD-0.5MG\n0.5M\n단선\n10053\nLS-6UTPD-IMG\nIM\n10054\nLS-6UTPD-2MG\n2M\n10055\nLS-6UTPD-3MG\n3M\n10056\nLS-6UTPD-5MG\n5M\nN\n10057\nLS-6UTPD-7MG\n7M\n6.0±0.2mm\n24AWG\n10058\nLS-6UTPD-10MG\n10M\n연선\n10059\nLS-6UTPD-15MG\n15M\n10060\nLS-6UTPD-20MG\n20M\n10061\nLS-6UTPD-30MG\n30M\n10062\nLS-6UTPD-50MG\n50M\n이더넷 케이블의 표준!\nPATCH CORD\n1. CAT.6 UTP\n2. 연선(STRANDED) 케이블\n3. 1Gbps 전송속도\n4. 250MHz 대역폭\n5. CCA\n6. 15k 금도금 컨넥터\n7. FLUKE 테스트 통과 제품\n\n\n4가지 색깔\nPATCH CORD\n1. CAT.6 UTP RED(LS-6UTPD-XMR)\n2. CAT.6 UTP BLUE(LS-6UTPD-xMB)\n3. CAT.6 UTP YELLOW(LS-6UTPD-xMY)\n4. CAT.6 UTP GREY(LS-6UTPD-xMG)\nCAT.6 UTP 케이블 구조\n4PAIR TWISTED STRUCTURE\n신호 간섭 방지를 위해 8개의 페어가 2개씩 꼬여있는 방식과\n십자형 차단막으로 이뤄진 UTP 케이블입니다.\n십자형 차단막\n연선\nPVC 자켓\n꼬임 구조\nCAT.6 UTP\n1000BASE-TX 지원\n1000BASE-TX를 지원하는 CAT.6 UTP 랜케이블로\n250MHz 대역폭을 지원하여 최대 1Gbps의 전송속도를 나타냅니다.\n높은 속도와 넓은 대역폭이 필요한 일반적인 네트워크 환경에서\n경제적이고 효율적으로 사용할 수 있습니다.\n케이블 비교\nCAT.5E\nCAT.6\nCAT.6A/CAT.7\n대역폭\n100MHz\n250MHz\n500MHz/600MHz\n전송속도\n1Gbps\n1Gbps\n10Gbps\n규격\n1000BASE-T\n1000BASE-TX\n10GBASE-T\nUTP/FTP/STP 케이블\n꼬여있는 선과 선 사이에 차단용 십자형 개재가 있어 케이블간의\nFTP\n간섭을 줄여 전송 속도를 높여주는 기능을 합니다.\n(Foiled Twisted Pair)\n알루미늄은박이 선을 감싸고 있으며 별도로 접지용 선이 있습니다.\nUTP에 비해 절연 기능이 탁월하여 공장 배선용으로 많이 사용됩니다.\n\n\nJIP/FTP/STP 케이글\n꼬여있는 선과 선 사이에 차단용 십자형 개재가 있어 케이블간의\nFTP\n간섭을 줄여 전송 속도를 높여주는 기능을 합니다.\n(Foiled Twisted Pair)\n알루미늄은박이 선을 감싸고 있으며 별도로 접지용 선이 있습니다.\nUTP에 비해 절연 기능이 탁월하여 공장 배선용으로 많이 사용됩니다.\n외부 피복에 쉴드 처리가 되어 있고 알루미늄 은박이 선을 감싸고 있어\n외부의 노이즈나 전기적 신호 간섭 차단에 탁월한 케이블입니다.\nSTP\n(Shielded Twisted Pair)\n통신 에러 및 속도 저하를 최소화하여 대용량의 정보를 전달할 수 있어\n접지 및 특수 환경의 초고속 네트워크망이 구축된 환경에서 사용됩니다.\n각 페어마다 알루미늄 실드가 있고 전체 페어를 모아 편조차폐로\nS-FTP\n감싼 케이블로 이중차폐 구조로 이루어졌기에 외부 신호간섭을\n(Screened Foiled Twisted Pair)\n최소화하기 가장 좋은 케이블입니다.\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있으며 전선과\nUTP\n피복만으로 구성되어 있는 케이블입니다. 보통 일반적인 랜케이블이\n(Unshielded Twisted Pair)\n이에 해당되며 사무실 및 가정 배선용으로 사용됩니다.\n연선(STRANDED) 케이블\nCCA(Copper Clad Aluminum)\n알루미늄 코어 바깥 부분에 구리를 씌운 CCA 구조의 연선 케이블로\n저렴한 가격, 가벼운 무게, 고정된 설치 환경에서의 안정성 등의 장점이 있습니다.\n구리\n알루미늄\n연선/ 단선 케이블 구조 비교\n연선\n단선\n가늘거나 굵은 여러개의 가닥이 그룹화되어\n단일 도체를 구성\n하나의 금속으로 구성\n단선보다 유연하여 쉽게 끊어지지 않지만\n연선보다 단단하고 내구성이 강하나\n구부리면 파손될 가능성이 높음\n내구성이 떨어짐\n엘리베이터 등 이동하거나 노출이 많이\n내부 배선, 고정된 전선 등 전력을 많이\n되는 곳에 주로 설치\n사용하는 곳에 주로 설치\n15 3Prongs 금도금\n① 15k 금도금 컨넥터\n② 3Prongs 형태 핀 > 신호 전송시 오류 최소화 형태\n3Prongs\n형태 핀\n\n\n3Prongs\n형태 핀\n15μ\n금도금 핀\nFLUKE TEST PASS\nLINKWARE\"PC\nTest Summary: PASS\ncox:0:\nCE EST MANN JOSE\nCable ID: LS.BUT PERSON\nDedy BL\nStreeks 55 B55 \nBok\n- \nV\nako 25x-C44\nHeadroom Channe C\nCae Time 05-29-02\nNEXT 45-7\nTes: mit: 5011801 Channel Class E\nCach Tips \nCale LLUTS\nNSP\n고\nRanciacu 20262020\nBEN\nPart 45\nPk 2\nPat's\nCeas L S\nDway Sk\nStein, Li\nPAIS\nPk 2\nwar css Margnicty\nT\nWont GesegWon Cel \nCase Vaus\n137\nGRASS\n125\n11.0\n9-\n2055\n*\n2125\nPS NEXT (dB)\n44\nFUN\n머리\n27\n12\n206\no\n1752\n114\n225\nABY\n2013\nChoi BL\n12\n15\n242\nPS3 ACR-F (3)\nveq -\n3\n2100\n12:\n4\n250\n10.\nWont Pa\nACR\nDo\n522\n\"\n12\n2023\n264\nPS ACR\n그려진\nim\nS\nROT\nHEAL\nPASS\n45\n43\n2.4\nMak\nTocy\nR\nM1\nAndroced hadeal\nLin\nCec\nMAGNAT\nTOWNER\nFLUKE\nnetworks.\nPk DEFGULT\n랜스타 패치코드 어디서 사용할까요?\n다양한 네트워크 환경에서 사용할 수 있으며, 다음과 같은 용도로 많이 사용됩니다.\n가정용 네트워크\n사무실 및 기업 환경\n서버룸 및 데이터 센터\n인터넷 공유기와 컴퓨터, 노트북,\n게임 콘솔, 스마트 TV\n등을 연결하는 데 적합.\n사무실에서 인터넷 라우터, 스위치,\n컴퓨터, 프린터, IP 전화기 등\n다양한 장비를 연결.\n서버와 네트워크 스위치,\n라우터 간의 연결을 위해 사용\n소규모 서버 네트워크에도 적합\nIDIS\nBROW\nIP 카메라,CCTV\nVoIP 전화 시스템\n게임 및 스트리밍\nPoE(Power over Ethernet)\n지원하여 데이터, 전원을 동시에 전송.\nCCTV 설치시 많이 사용\nIP 전화기를 네트워크에\n연결하는 데 사용\n온라인 게임이나 스트리밍에서\n낮은 지연시간과 높은 안정성을 확보\n\n\nIP 카메라, CCTV\nVoIP 전화 시스템\n게임 및 스트리밍\nPoE(Power over Ethernet)\n지원하여 데이터, 전원을 동시에 전송.\nCCTV 설치시 많이 사용\nIP 전화기를 네트워크에\n연결하는 데 사용\n온라인 게임이나 스트리밍에서\n낮은 지연시간과 높은 안정성을 확보\n장애인 의사소통지원\n학교 및 교육 기관\n스마트 홈 장비\n컴퓨터실이나 강의실에서 사용\n신속한 데이터 전송이\n필요한 환경에 적합\n스마트 허브, 스마트 TV 보안\n시스템 등의 스마트 장치를\n네트워크에 연결하여 더 안정적인\n데이터 전송을 지원\nPRODUCT DETAIL\n튼튼한 스프링 구조\n컨넥터 내구성 강화\n15 금도금 컨넥터\n신호 손실 최소화\n자연스러운 컨넥터+부트\n컨넥터와 부트가 맞닿아\n직접적으로 컨넥터에\n접촉이 없기 때문에\n컨넥터 보호 가능\n견고한 마감 처리\n케이블 피복 보호\nPRODUCT SIZE\n11mm\n40mm\n14mm\n88888\nLAAAAA\n21mm\n40mm\n0.5M\nIM\n2M\n3M\n5M\nPIN OUT\nIM\n10M\nP1\nP2\n15M\n20M\n1\n1\nWHITE/ORANGE\n30M\nxoxc\n2\n2\nORANGE\n50M\n3\n3\nWHITE/GREEN\n6\n6\nGREEN\n4\n4\nBLUE\n5\n5\nWHITE/BLUE\nHI\n\n\nP1\nP2\n15M\n20M\n1\nWHITE/ORANGE\n30M\n2\n2\nORANGE\n50M\n3\n3\nWHITE/GREEN\n6\n6\nGREEN\nXX\nX\n4\n4\nBLUE\n5\n5\nWHITE/BLUE\n7\n7\nWHITE/BROWN\n8\n8\nBROWN\nB\nSPECIFICATION\n규격\nCAT.6 UTP\n전송속도\n최대 1Gbps\n대역폭\n250MHz\n심선\n24AWG\n콘넥터\n15μ Gold Plated Pin\n0.5m/1m/2m/3m/5m/7m/10m/\n케이블 길이\n15m/20m/30m / 50m\n직경\nOD 6.0±0.2mm\nFAQ\n자주 물어보시는 질문\nQ. 기가비트 인터넷을 지원하나요?\nCAT.6 UTP 패치 코드는 기가비트(1Gbps) 속도를 지원합니다.\n단, 사용하는 인터넷 환경 역시 기가비트 인터넷을 지원해야 정상적인 속도로\n인터넷을 사용할 수 있습니다.\nQ. 길이가 길어지면 속도나 신호 저하가 발생하나요?\n제조사 테스트 결과 최대 50미터까지 안정적인 신호 전송이 가능합니다.\n단, 케이블 연결 환경 및 주변의 요인으로 인해 속도나 신호 저하에 영향을 끼칠 수 있습니다.\n실외에서 사용할 수 있나요?\n주로 실내 환경에 적합하게 설계되었습니다.\n실외에서 사용하려면 별도로 방수 및 내구성이 강화된 케이블을 고려하는 것이 좋습니다.\n랜마트 및 랜스타 스마트 스토어에서 옥외용 케이블, 방수 케이블 검색 후\n구매하여 사용하시기 바랍니다.\nQ. PoE(Power Over Ethernet)을 지원하나요?\n네. PoE를 지원하여 전력과 데이터를 동시에 전송할 수 있습니다.\nPoE 기능이 있는 네트워크 장비에 연결하면 안정적으로 전원을 공급할 수 있습니다.\nQ. 케이블은 유연한 편인가요?\n네. 짧은 길이의 케이블 제외, 2M 길이 이상부터는 연선 케이블로 매우 유연합니다.\n연선 케이블은 유연성이 뛰어나기 때문에, 다양한 환경에서 쉽게 설치할 수 있습니다.\n\n\nQ. 케이블은 유연한 편인가요?\n네. 짧은 길이의 케이블 제외, 2M 길이 이상부터는 연선 케이블로 매우 유연합니다.\n연선 케이블은 유연성이 뛰어나기 때문에, 다양한 환경에서 쉽게 설치할 수 있습니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n전문기업확인서\n소재 부품 장비 전문기업학인서\nokcalan\nHEA\n평가관리원\n위기인한 부품-장\n선호기업인을 확인합니다.\n산업통산자원부 시행 제도\nKelt\n23129\n2022.11.29 취득\n한국산업기술평가관\nSEXE\n라인업시스템(주) 정품 인증\n*****\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상품정보\n품\n명\nCAT.6 UTP 다이렉트 랜케이블, GREY\nLS-6UTPD-0.5MG\nLANStar\nLS-6UTPD-IMG\nLS-6UTPD-2MG\nLS-6UTPD-3MG\nLS-6UTPD-5MG\n모\n명\nLS-6UTPD-7MG\nLS-6UTPD-10MG\nLS-6UTPD-15MG\nLS-6UTPD-20MG\nLS-6UTPD-30MG\nLS-6UTPD-50MG\n제조국/원산지\n중국 (China)\n\n\nH\n0.\nLS-6UTPD-10MG\nLS-6UTPD-15MG\nLS-6UTPD-20MG\nLS-6UTPD-30MG\nLS-6UTPD-50MG\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질 보증 기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANG\nStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "LS-6UTPD-MG-STRANDED-SS": "LAN Star\nCAT.6 UTP\n다이렉트 랜 케이블 / 연선 / GREY\n0.5M, IM는 단선 케이블입니다.\n케이블 제품 분류표\n모델No.\n모델명\n201\n규격\n직경\n심선\n10724\nLS-6UTPD-0.5MG\n0.5M\n단선\n10053\nLS-6UTPD-IMG\n1M\n10054\nLS-6UTPD-2MG\n2M\n10055\nLS-6UTPD-3MG\n3M\n10056\nLS-6UTPD-5MG\n5M\nN\n10057\nLS-6UTPD-7MG\n7M\nM\n6.0±0.2mm\n24AWG\n10058\nLS-6UTPD-10MG\n10M\n연선\n10059\nLS-6UTPD-15MG\n15M\n10060\nLS-6UTPD-20MG\n20M\n10061\nLS-6UTPD-30MG\n30M\n10062\nLS-6UTPD-50MG\n50M\n이더넷 케이블의 표준!\nPATCH CORD\n1. CAT.6 UTP\n2. 연선(STRANDED) 케이블 (0.5M, 1M 단선)\n3. 1Gbps 전송속도\n4. 250MHz 대역폭\n5. CCA\n6. 15k 금도금 컨넥터\n7. FLUKE 테스트 통과 제품\nСЛТАІ ITD\n\n\nCAT.6 UTP\n1000BASE-TX 지원\n1000BASE-TX를 지원하는 CAT.6 UTP 랜케이블로\n250MHz 대역폭을 지원하여 최대 1Gbps의 전송속도를 나타냅니다.\n높은 속도와 넓은 대역폭이 필요한 일반적인 네트워크 환경에서\n경제적이고 효율적으로 사용할 수 있습니다.\n케이블 비교\nCAT.5E\nCAT.6\nCAT.6A/CAT.7\n대역폭\n100MHz\n250MHz\n500MHz/600MHz\n전송속도\n1Gbps\n1Gbps\n10Gbps\n규격\n1000BASE-T\n1000BASE-TX\n10GBASE-T\nUTP/FTP/STP 케이블\n꼬여있는 선과 선 사이에 차단용 십자형 개재가 있어 케이블간의\n간섭을 줄여 전송 속도를 높여주는 기능을 합니다.\nFTP\n(Foiled Twisted Pair)\n알루미늄은박이 선을 감싸고 있으며 별도로 접지용 선이 있습니다.\nUTP에 비해 절연 기능이 탁월하여 공장 배선용으로 많이 사용됩니다.\n외부 피복에 쉴드 처리가 되어 있고 알루미늄 은박이 선을 감싸고 있어\n외부의 노이즈나 전기적 신호 간섭 차단에 탁월한 케이블입니다.\nSTP\n(Shielded Twisted Pair)\n통신 에러 및 속도 저하를 최소화하여 대용량의 정보를 전달할 수 있어\n접지 및 특수 환경의 초고속 네트워크망이 구축된 환경에서 사용됩니다.\n각 페어마다 알루미늄 실드가 있고 전체 페어를 모아 편조차폐로\nS-FTP\n감싼 케이블로 이중차폐 구조로 이루어졌기에 외부 신호간섭을\n(Screened Foiled Twisted Pair)\n최소화하기 가장 좋은 케이블입니다.\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있으며 전선과\nUTP\n피복만으로 구성되어 있는 케이블입니다. 보통 일반적인 랜케이블이\n(Unshielded Twisted Pair)\n이에 해당되며 사무실 및 가정 배선용으로 사용됩니다.\nCAT.6 UTP 케이블 구조\n4PAIR TWISTED STRUCTURE\n신호 간섭 방지를 위해 8개의 페어가 2개씩 꼬여있는 방식과\n십자형 차단막으로 이뤄진 UTP 케이블입니다.\n십자형 차단막\n연선\nPVC 자켓\n꼬임 구조\n연선(STRANDED) 케이블\nCCA(Copper Clad Aluminum)\n알루미늄 코어 바깥 부분에 구리를 씌운 CCA 구조의 연선 케이블로\n\n\n연선(STRANDED) 케이블\nCCA(Copper Clad Aluminum)\n알루미늄 코어 바깥 부분에 구리를 씌운 CCA 구조의 연선 케이블로\n저렴한 가격, 가벼운 무게, 고정된 설치 환경에서의 안정성 등의 장점이 있습니다.\n구리\n알루미늄\n연선 / 단선 케이블 구조 비교\n연선\n단선\n가늘거나 굵은 여러개의 가닥이 그룹화되어\n하나의 금속으로 구성\n단일 도체를 구성\n단선보다 유연하여 쉽게 끊어지지 않지만\n내구성이 떨어짐\n연선보다 단단하고 내구성이 강하나\n구부리면 파손될 가능성이 높음\n엘리베이터 등 이동하거나 노출이 많이\n되는 곳에 주로 설치\n내부 배선, 고정된 전선 등 전력을 많이\n사용하는 곳에 주로 설치\nFLUKE TEST PASS\nTest Summary: PASS\nLINKWARE\"\nREPC\nCE SE MANNETJOPESE\nVodel CGX830\n2003!\nCable ID: LS. BUT PASUNNO\nHeadroom 85 danne Class E\nDay BL\nStreeks 55 BSS \nBok\n- \nS\nvackr 35x-C44\nCaoTae0525\nNEXT 45-78\nTes: mit: 15011801 Channe\nCach Tips Cale \nLLUTS\nASP\n고\nRanciac 30212020\nBEN\nPa 45\nP2\nP\nCeas L S\nDay S\nStein, Li\nPk 2\nwarcis Margnicty\nWont GesegWon Ckel \nCase Vaye\nPASS\nMalw thanished\n202 2125\nNEXT(\nFic-\n201\nW.\n1\n114\n15\nPS NEXT (B)\nww\n-\n14:\nFR\nMAIN\n시\n3\n15\n12\npass\nOLLA\nACR-DI\n2180 23\n033\nCADY\na\nPS ACR\nveq\n122\n2204\n12:\n84\n254\n-\nWone Pa\nACR\n\"\n521\n2423\na\n12\n260\nACK (dB)\n15\na-zi\nin\n2464\nPASS\n45\n43\n2.4\nMak\nToc\nALM\nM1\nAndroced Android\nLint\nCec\nMAGNAT\nTOWNER\nFLUKE\nnetworks.\nPDEGUT\n15 3Prongs 금도금\n① 15k 금도금 컨넥터\n② 3Prongs 형태 핀 > 신호 전송시 오류 최소화 형태\n\n\n15 3Prongs 금도금\n① 15 금도금 컨넥터\n② 3Prongs 형태 핀 > 신호 전송시 오류 최소화 형태\n3Prongs\n형태 핀\n15u\n금도금 핀\n랜스타 패치코드 어디서 사용할까요?\n다양한 네트워크 환경에서 사용할 수 있으며, 다음과 같은 용도로 많이 사용됩니다.\n가정용 네트워크\n사무실 및 기업 환경\n서버룸 및 데이터 센터\n인터넷 공유기와 컴퓨터, 노트북,\n게임 콘솔, 스마트 TV\n등을 연결하는 데 적합.\n사무실에서 인터넷 라우터, 스위치,\n컴퓨터, 프린터, IP 전화기 등\n다양한 장비를 연결.\n서버와 네트워크 스위치,\n라우터 간의 연결을 위해 사용\n소규모 서버 네트워크에도 적합\nIDIS\nBOW\nIP 카메라,CCTV\nVolP 전화 시스템\n게임 및 스트리밍\nPOE(Power over Ethernet)\n지원하여 데이터, 전원을 동시에 전송.\nCCTV 설치시 많이 사용\nIP 전화기를 네트워크에\n연결하는 데 사용\n온라인 게임이나 스트리밍에서\n낮은 지연시간과 높은 안정성을 확보\n장애인 의사소통지원\n학교 및 교육 기관\n스마트 홈 장비\n컴퓨터실이나 강의실에서 사용\n신속한 데이터 전송이\n필요한 환경에 적합\n스마트 허브, 스마트 TV, 보안\n시스템 등의 스마트 장치를\n네트워크에 연결하여 더 안정적인\n데이터 전송을 지원\nPRODUCT DETAIL\n\n\n튼튼한 스프링 구조\n컨넥터 내구성 강화\n15 금도금 컨넥터\n신호 손실 최소화\n자연스러운 컨넥터+부트\n컨넥터와 부트가 맞닿아\n직접적으로 컨넥터에\n접촉이 없기 때문에\n컨넥터 보호 가능\n견고한 마감 처리\n케이블 피복 보호\nPRODUCT SIZE\n11mm\n40mm\n14mm\n88888\nLAAAAA\n21mm\n40mm\n0.5M\nIM\n2M\n3M\n5M\nPIN OUT\nIM\nP1\nP2\n10M\n15M\n1\n1 WHITE\n20M\n30M\n2 ORANGE\n50M\n23 0\n3 WHITE\n6\n6 GREEN\n4\n4 BLUE\n5\n5 WHITE\n7\n7 WHITE\n8\n8 BROWN\nSHELL\nSHELL\nDAI\nSPECIFICATION\n규격\nCAT.6 UTP\n전송속도\n최대 1Gbps\n대역폭\n250MHz\n심선\n24AWG\n콘넥터\n154 Gold Plated Pin\n0.5m/1m/2m/3m/5m/7m/10m/\n케이블 길이\n\n\n대역폭\n250MHz\n심선\n24AWG\n콘넥터\n154 Gold Plated Pin\n0.5m/1m/2m/3m/5m/7m/10m/\n케이블 길이\n15m/20m/30m / 50m\n직경\nOD 6.0±0.2mm\nFAQ\n자주 물어보시는 질문\nQ. 기가비트 인터넷을 지원하나요?\nCAT.6 UTP 패치 코드는 기가비트(1Gbps) 속도를 지원합니다.\n단, 사용하는 인터넷 환경 역시 기가비트 인터넷을 지원해야 정상적인 속도로\n인터넷을 사용할 수 있습니다.\nQ. 길이가 길어지면 속도나 신호 저하가 발생하나요?\n제조사 테스트 결과 최대 50미터까지 안정적인 신호 전송이 가능합니다.\n단, 케이블 연결 환경 및 주변의 요인으로 인해 속도나 신호 저하에 영향을 끼칠 수 있습니다.\n실외에서 사용할 수 있나요?\n주로 실내 환경에 적합하게 설계되었습니다.\n실외에서 사용하려면 별도로 방수 및 내구성이 강화된 케이블을 고려하는 것이 좋습니다.\n랜마트 및 랜스타 스마트 스토어에서 옥외용 케이블, 방수 케이블 검색 후\n구매하여 사용하시기 바랍니다.\nQ. PoE(Power Over Ethernet)을 지원하나요?\n네. PoE를 지원하여 전력과 데이터를 동시에 전송할 수 있습니다.\nPoE 기능이 있는 네트워크 장비에 연결하면 안정적으로 전원을 공급할 수 있습니다.\nQ. 케이블은 유연한 편인가요?\n네. 짧은 길이의 케이블 제외, 2M 길이 이상부터는 연선 케이블로 매우 유연합니다.\n연선 케이블은 유연성이 뛰어나기 때문에, 다양한 환경에서 쉽게 설치할 수 있습니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n상품 도착\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n저므기어하이ㅂ\n소재·부품·장비 전문기업확인서\n\n\n소재·부품·장비\n전문기업확인서\n소재·부품상비 전문기업확인서\nCa\n422\n*20.2.\n평가관리원\n신문기업인을 확신합니다.\n산업통산자원부 시행 제도\n2022.11.29 취득\nexce\n한국산업기술평가관으\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타\" 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH M 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상 품 정보\n품\n명\nCAT.6 UTP 다이렉트 랜케이블, GREY\nLS-6UTPD-0.5MG\nLANSto\nStar\nLS-6UTPD-IMG\nLS-6UTPD-2MG\nLS-6UTPD-3MG\nLS-6UTPD-5MG\n모\n명\nLS-6UTPD-7MG\nLS-6UTPD-10MG\nLS-6UTPD-15MG\nLS-6UTPD-20MG\nLS-6UTPD-30MG\nLS-6UTPD-50MG\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질보증기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANSStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "LS-6UTPD-MR-STRANDED": "LAN Star\nCAT.6 UTP 패치코드\n다이렉트 랜 케이블 / 연선 / RED\n케이블 제품 분류표\n모델No.\n모델명\n길이\n규격\n직경\n심선\n10063\nLS-6UTPD-2MR\n2M\n10064\nLS-6UTPD-3MR\n3M\n연선\n6.0±0.2mm\n24AWG\n10065\nLS-6UTPD-5MR\n5M\n10066\nLS-6UTPD-10MR\nTOM\n이더넷 케이블의 표준!\nPATCH CORD\n1. CAT.6 UTP 이더넷 케이블\n2. 연선(STRANDED) 케이블\n11\n3. 1Gbps 전송속도\n4. 250MHz 대역폭\n5. CCA 재질\n6. 15 금도금 컨넥터\n7. FLUKE 테스트 통과 제품\n4가지 색깔\nPATCH CORD\n\n\n4가지 색깔\nPATCH CORD\n1. CAT.6 UTP RED(LS-6UTPD-XMR)\n2. CAT.6 UTP BLUE(LS-6UTPD-XMB)\n3. CAT.6 UTP YELLOW(LS-6UTPD-xMY)\n4. CAT.6 UTP GREY(LS-6UTPD-xMG)\nCAT.6 UTP 케이블 구조\n4PAIR TWISTED STRUCTURE\n신호 간섭 방지를 위해 8개의 페어가 2개씩 꼬여있는 방식과\n십자형 차단막으로 이뤄진 UTP 케이블입니다.\n십자형 차단막\n연선\nPVC 자켓\n꼬임 구조\nCAT.6 UTP\n1000BASE-TX 지원\n1000BASE-TX를 지원하는 CAT.6 UTP 랜케이블로\n250MHz 대역폭을 지원하여 최대 1Gbps의 전송속도를 나타냅니다.\n높은 속도와 넓은 대역폭이 필요한 일반적인 네트워크 환경에서\n경제적이고 효율적으로 사용할 수 있습니다.\n케이블 비교\nCAT.5E\nCAT.6\nCAT.6A/CAT.7\n대역폭\n100MHz\n250MHz\n500MHz/600MHz\n전송속도\n1Gbps\n1Gbps\n10Gbps\n규격\n1000BASE-T\n1000BASE-TX\n10GBASE-T\nUTP/FTP/STP 케이블\n꼬여있는 선과 선 사이에 차단용 십자형 개재가 있어 케이블간의\n간섭을 줄여 전송 속도를 높여주는 기능을 합니다.\nFTP\n(Foiled Twisted Pair)\n알루미늄은박이 선을 감싸고 있으며 별도로 접지용 선이 있습니다.\nUTP에 비해 절연 기능이 탁월하여 공장 배선용으로 많이 사용됩니다.\n외부 피복에 쉴드 처리가 되어 있고 알루미늄 은박이 선을 감싸고 있어\n외부의 노이즈나 전기적 신호 간섭 차단에 탁월한 케이블입니다.\nSTP\n(Shielded Twisted Pair)\n통신 에러 및 속도 저하를 최소화하여 대용량의 정보를 전달할 수 있어\n접지 및 특수 환경의 초고속 네트워크망이 구축된 환경에서 사용됩니다.\n각 페어마다 알루미늄 실드가 있고 전체 페어를 모아 편조차폐로\nS-FTP\n감싼 케이블로 이중차폐 구조로 이루어졌기에 외부 신호간섭을\n(Screened Foiled Twisted Pair)\n최소화하기 가장 좋은 케이블입니다.\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있으며 전선과\nUTP\n피복만으로 구성되어 있는 케이블입니다. 보통 일반적인 랜케이블이\n(Unshielded Twisted Pair)\n이에 해당되며 사무실 및 가정 배선용으로 사용됩니다.\n\n\n페어머니 두 있고 신세 페이트 모아 소노\nS-FTP\n감싼 케이블로 이중차폐 구조로 이루어졌기에 외부 신호간섭을\n(Screened Foiled Twisted Pair)\n최소화하기 가장 좋은 케이블입니다.\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있으며 전선과\nUTP\n피복만으로 구성되어 있는 케이블입니다. 보통 일반적인 랜케이블이\n(Unshielded Twisted Pair)\n이에 해당되며 사무실 및 가정 배선용으로 사용됩니다.\n연선(STRANDED) 케이블\nCCA(Copper Clad Aluminum)\n알루미늄 코어 바깥 부분에 구리를 씌운 CCA 구조의 연선 케이블로\n저렴한 가격, 가벼운 무게, 고정된 설치 환경에서의 안정성 등의 장점이 있습니다.\n구리\n알루미늄\n연선/ 단선 케이블 구조 비교\n연선\n단선\n가늘거나 굵은 여러개의 가닥이 그룹화되어\n하나의 금속으로 구성\n단일 도체를 구성\n단선보다 유연하여 쉽게 끊어지지 않지만\n연선보다 단단하고 내구성이 강하나\n구부리면 파손될 가능성이 높음\n내구성이 떨어짐\n엘리베이터 등 이동하거나 노출이 많이\n내부 배선, 고정된 전선 등 전력을 많이\n되는 곳에 주로 설치\n사용하는 곳에 주로 설치\n15 3Prongs 금도금\n① 15k 금도금 컨넥터\n② 3Prongs 형태 핀 > 신호 전송시 오류 최소화 형태\n3Prongs\n형태 핀\n15u\n금도금 핀\n\n\n15k\n금도금 핀\nFLUKE TEST PASS\nLINKWARE\"PC\nTest Summary: PASS\nVadex:0:\n2005\nQUESTMANNAE\nDBL\n55 Buks\n2001003\nStwor\nVack 35\nAwmto ductu 25\nCable ID: LS-6UTPD-50MG\nCae Time \n05-2-22 1sac2 10c29 AM\nHeadroom 85 dB \nINEXTNEXT \n46 TH\nTes: mit: 1501101\n01 \nChunne Class E\nCach Top Cate LLUT\nand C\nRawA\nPar 45\nAEN\n2255\nPat's\n1840\nSh, Lint 30\nAB2\nPak 2\n24.0\nwar ess Margnict\nLimi\nWont Gesegno Case Vago\nBH ER \nSR\nPASS\n303x\nNEXT (B\nas C\n110\n95\n245 s\nBeit\nPS NEXT (dB)\n24\nTAI\n그\nSLO\n14\n2315\n256\n233\nFicg\n12\n242\n12\nDA\n2184\n123\n2625\n125\nveq -\n160\n254\n30 4579\n14:\nO\nsocne\nACR\nACKN MB\n14161\n332\n112\n13.12\n3631\n2425\nPS ACR-N(BI\n15\nER Tren\nLin\nPASS\n1625\n24\n1905\nont Pat\nALM8\nNo\nm\n201\ndsdanadisected andard\nTexasa\nEDUCAT\nFLUKE\n.networks.\nP DEFAULT\n랜스타 패치코드 어디서 사용할까요?\n다양한 네트워크 환경에서 사용할 수 있으며, 다음과 같은 용도로 많이 사용됩니다.\n가정용 네트워크\n사무실 및 기업 환경\n서버룸 및 데이터 센터\n인터넷 공유기와 컴퓨터, 노트북,\n게임 콘솔, 스마트 TV\n등을 연결하는 데 적합.\n사무실에서 인터넷 라우터, 스위치,\n컴퓨터, 프린터, IP 전화기 등\n다양한 장비를 연결\n서버와 네트워크 스위치,\n라우터 간의 연결을 위해 사용.\n소규모 서버 네트워크에도 적합\nIDIS\nIP 카메라, CCTV\nVoIP 전화 시스템\n게임 및 스트리밍\nPOE(Power over Ethernet)\n지원하여 데이터 전원을 동시에 전송.\nCCTV 설치시 많이 사용\nIP 전화기를 네트워크에\n연결하는 데 사용\n온라인 게임이나 스트리밍에서\n낮은 지연시간과 높은 안정성을 확보\n학교 및 교육 기관\n스마트 홈 장비\n컴퓨터실이나 강의실에서 사용\n신속한 데이터 전송이\n필요한 환경에 적합\n스마트 허브, 스마트 TV, 보안\n시스템 등의 스마트 장치를\n네트워크에 연결하여 더 안정적인\n데이터 전송을 지원\n\n\n학교 및 교육 기관\n스마트 홈 장비\n컴퓨터실이나 강의실에서 사용\n신속한 데이터 전송이\n필요한 환경에 적합\n스마트 허브, 스마트 TV, 보안\n시스템 등의 스마트 장치를\n네트워크에 연결하여 더 안정적인\n데이터 전송을 지원\nPRODUCT DETAIL\n튼튼한 스프링 구조\n컨넥터 내구성 강화\n15k 금도금 컨넥터\n신호 손실 최소화\n자연스러운 컨넥터+부트\n컨넥터와 부트가 맞닿아\n직접적으로 컨넥터에\n접촉이 없기 때문에\n컨넥터 보호 가능\n견고한 마감 처리\n케이블 피복 보호\nPRODUCT SIZE\n11mm\n40mm\n14mm\nAAAAA\n21mm\n40mm\n2M\n3M\n5M\nPIN OUT\n10M\nP1\nP2\n1\n1\nWHITE/ORANGE\n2\n2\nORANGE\n3\n3\nWHITE/GREEN\n6\n6\nGREEN\n4\n4\nBLUE\nHI\n5\n5\nWHITE/BLUE\n7\n7\nWHITE/BROWN\nD\n8\n8\nBROWN\nSPECIFICATION\n\n\nSPECIFICATION\n규격\nCAT.6 UTP\n전송속도\n최대 1Gbps\n대역폭\n250MHz\n심선\n24AWG\n콘넥터\n15k Gold Plated Pin\n케이블 길이\n2m/3m/5m/10m\n직경\nOD 6.0±0.2mm\nFAQ\n자주 물어보시는 질문\nQ. 기가비트 인터넷을 지원하나요?\nCAT.6 UTP 패치 코드는 기가비트(1Gbps) 속도를 지원합니다.\n단 사용하는 인터넷 환경 역시 기가비트 인터넷을 지원해야 정상적인 속도로\n인터넷을 사용할 수 있습니다.\nQ. 길이가 길어지면 속도나 신호 저하가 발생하나요?\n제조사 테스트 결과 최대 50미터까지 안정적인 신호 전송이 가능합니다.\n단, 케이블 연결 환경 및 주변의 요인으로 인해 속도나 신호 저하에 영향을 끼칠 수 있습니다.\nQ. 실외에서 사용할 수 있나요?\n주로 실내 환경에 적합하게 설계되었습니다.\n실외에서 사용하려면 별도로 방수 및 내구성이 강화된 케이블을 고려하는 것이 좋습니다.\n랜마트 및 랜스타 스마트 스토어에서 옥외용 케이블, 방수 케이블 검색 후\n구매하여 사용하시기 바랍니다.\nQ. PoE(Power Over Ethernet)을 지원하나요?\n네. PoE를 지원하여 전력과 데이터를 동시에 전송할 수 있습니다.\nPoE 기능이 있는 네트워크 장비에 연결하면 안정적으로 전원을 공급할 수 있습니다.\nQ. 케이블은 유연한 편인가요?\n네. 짧은 길이의 케이블 제외. 2M 길이 이상부터는 연선 케이블로 매우 유연합니다.\n연선 케이블은 유연성이 뛰어나기 때문에, 다양한 환경에서 쉽게 설치할 수 있습니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n\n\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\nShare\n소재·부품·장비\n전문기업확인서\n소개 부품 상비 전문기업인\nSTATI\nNAW\nATA 22A\n가관리원\n기소개\n신문기업인을 확인합니다\n산업통산자원부 시행 제도\nKeit\nBUZZ 31 27\n2022.11.29 취득\n한국산업기술평가관학원\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상 품 정 보\n품\n명\nCAT.6 UTP 다이렉트 랜케이블, RED\nLS-6UTPD-2MR\nLANSStar\nLS-6UTPD-3MR\n모\n델\n명\nLS-6UTPD-5MR\nLS-6UTPD-10MR\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질보증기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "LS-6UTPD-MY-STRANDED": "LAN Star\nCAT.6 UTP 패치코드\n다이렉트 랜 케이블 / 연선 / YELLOW\n케이블 제품 분류표\n모델No.\n모델명\n길이\n규격\n직경\n심선\n10071\nLS-6UTPD-2MY\n2M\n10072\nLS-6UTPD-3MY\n3M\n연선\n6.0±0.2mm\n24AWG\n10073\nLS-6UTPD-5MY\n5M\n10074\nLS-6UTPD-10MY\nTOM\n이더넷 케이블의 표준!\nPATCH CORD\n1. CAT.6 UTP 이더넷 케이블\n2. 연선(STRANDED) 케이블\n3. 1Gbps 전송속도\n4. 250MHz 대역폭\n5. CCA 재질\n6. 15 금도금 컨넥터\n7. FLUKE 테스트 통과 제품\n4가지 색깔\nPATCH CORD\n\n\n4가지 색깔\nPATCH CORD\n1. CAT.6 UTP RED(LS-6UTPD-XMR)\n2. CAT.6 UTP BLUE(LS-6UTPD-XMB)\n3. CAT.6 UTP YELLOW(LS-6UTPD-xMY)\n4. CAT.6 UTP GREY(LS-6UTPD-xMG)\nCAT.6 UTP 케이블 구조\n4PAIR TWISTED STRUCTURE\n신호 간섭 방지를 위해 8개의 페어가 2개씩 꼬여있는 방식과\n십자형 차단막으로 이뤄진 UTP 케이블입니다.\n십자형 차단막\n연선\nPVC 자켓\n꼬임 구조\nCAT.6 UTP\n1000BASE-TX 지원\n1000BASE-TX를 지원하는 CAT.6 UTP 랜케이블로\n250MHz 대역폭을 지원하여 최대 1Gbps의 전송속도를 나타냅니다.\n높은 속도와 넓은 대역폭이 필요한 일반적인 네트워크 환경에서\n경제적이고 효율적으로 사용할 수 있습니다.\n케이블 비교\nCAT.5E\nCAT.6\nCAT.6A/CAT.7\n대역폭\n100MHz\n250MHz\n500MHz/600MHz\n전송속도\n1Gbps\n1Gbps\n10Gbps\n규격\n1000BASE-T\n1000BASE-TX\n10GBASE-T\nUTP/FTP/STP 케이블\n꼬여있는 선과 선 사이에 차단용 십자형 개재가 있어 케이블간의\n간섭을 줄여 전송 속도를 높여주는 기능을 합니다.\nFTP\n(Foiled Twisted Pair)\n알루미늄은박이 선을 감싸고 있으며 별도로 접지용 선이 있습니다.\nUTP에 비해 절연 기능이 탁월하여 공장 배선용으로 많이 사용됩니다.\n외부 피복에 쉴드 처리가 되어 있고 알루미늄 은박이 선을 감싸고 있어\n외부의 노이즈나 전기적 신호 간섭 차단에 탁월한 케이블입니다.\nSTP\n(Shielded Twisted Pair)\n통신 에러 및 속도 저하를 최소화하여 대용량의 정보를 전달할 수 있어\n접지 및 특수 환경의 초고속 네트워크망이 구축된 환경에서 사용됩니다.\n각 페어마다 알루미늄 실드가 있고 전체 페어를 모아 편조차폐로\nS-FTP\n감싼 케이블로 이중차폐 구조로 이루어졌기에 외부 신호간섭을\n(Screened Foiled Twisted Pair)\n최소화하기 가장 좋은 케이블입니다.\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있으며 전선과\nUTP\n피복만으로 구성되어 있는 케이블입니다. 보통 일반적인 랜케이블이\n(Unshielded Twisted Pair)\n이에 해당되며 사무실 및 가정 배선용으로 사용됩니다.\n\n\n페어머니 두 있고 신세 페이트 모아 소노\nS-FTP\n감싼 케이블로 이중차폐 구조로 이루어졌기에 외부 신호간섭을\n(Screened Foiled Twisted Pair)\n최소화하기 가장 좋은 케이블입니다.\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있으며 전선과\nUTP\n피복만으로 구성되어 있는 케이블입니다. 보통 일반적인 랜케이블이\n(Unshielded Twisted Pair)\n이에 해당되며 사무실 및 가정 배선용으로 사용됩니다.\n연선(STRANDED) 케이블\nCCA(Copper Clad Aluminum)\n알루미늄 코어 바깥 부분에 구리를 씌운 CCA 구조의 연선 케이블로\n저렴한 가격, 가벼운 무게, 고정된 설치 환경에서의 안정성 등의 장점이 있습니다.\n구리\n알루미늄\n연선/ 단선 케이블 구조 비교\n연선\n단선\n가늘거나 굵은 여러개의 가닥이 그룹화되어\n하나의 금속으로 구성\n단일 도체를 구성\n단선보다 유연하여 쉽게 끊어지지 않지만\n연선보다 단단하고 내구성이 강하나\n구부리면 파손될 가능성이 높음\n내구성이 떨어짐\n엘리베이터 등 이동하거나 노출이 많이\n내부 배선, 고정된 전선 등 전력을 많이\n되는 곳에 주로 설치\n사용하는 곳에 주로 설치\n15 3Prongs 금도금\n① 15k 금도금 컨넥터\n② 3Prongs 형태 핀 > 신호 전송시 오류 최소화 형태\n3Prongs\n형태 핀\n15u\n금도금 핀\n\n\n15k\n금도금 핀\nFLUKE TEST PASS\nLINKWARE\"PC\nTest Summary: PASS\nVadex:0:\n2005\nQUESTMANNAE\nDBL\n55 Buks\n2001003\nStwor\nVack 35\nAwmto ductu 25\nCable ID: LS-6UTPD-50MG\nCae Time \n05-2-22 1sac2 10c29 AM\nHeadroom 85 dB \nINEXTNEXT \n46 TH\nTes: mit: 1501101\n01 \nChunne Class E\nCach Top Cate LLUT\nand C\nRawA\nPar 45\nAEN\n2255\nPat's\n1840\nSh, Lint 30\nAB2\nPak 2\n24.0\nwar ess Margnict\nLimi\nWont Gesegno Case Vago\nBH ER \nSR\nPASS\n303x\nNEXT (B\nas C\n110\n95\n245 s\nBeit\nPS NEXT (dB)\n24\nTAI\n그\nSLO\n14\n2315\n256\n233\nFicg\n12\n242\n12\nDA\n2184\n123\n2625\n125\nveq -\n160\n254\n30 4579\n14:\nO\nsocne\nACR\nACKN MB\n14161\n332\n112\n13.12\n3631\n2425\nPS ACR-N(BI\n15\nER Tren\nLin\nPASS\n1625\n24\n1905\nont Pat\nALM8\nNo\nm\n201\ndsdanadisected andard\nTexasa\nEDUCAT\nFLUKE\n.networks.\nP DEFAULT\n랜스타 패치코드 어디서 사용할까요?\n다양한 네트워크 환경에서 사용할 수 있으며, 다음과 같은 용도로 많이 사용됩니다.\n가정용 네트워크\n사무실 및 기업 환경\n서버룸 및 데이터 센터\n인터넷 공유기와 컴퓨터, 노트북,\n게임 콘솔, 스마트 TV\n등을 연결하는 데 적합.\n사무실에서 인터넷 라우터, 스위치,\n컴퓨터, 프린터, IP 전화기 등\n다양한 장비를 연결\n서버와 네트워크 스위치,\n라우터 간의 연결을 위해 사용.\n소규모 서버 네트워크에도 적합\nIDIS\nIP 카메라, CCTV\nVoIP 전화 시스템\n게임 및 스트리밍\nPOE(Power over Ethernet)\n지원하여 데이터 전원을 동시에 전송.\nCCTV 설치시 많이 사용\nIP 전화기를 네트워크에\n연결하는 데 사용\n온라인 게임이나 스트리밍에서\n낮은 지연시간과 높은 안정성을 확보\n학교 및 교육 기관\n스마트 홈 장비\n컴퓨터실이나 강의실에서 사용\n신속한 데이터 전송이\n필요한 환경에 적합\n스마트 허브, 스마트 TV, 보안\n시스템 등의 스마트 장치를\n네트워크에 연결하여 더 안정적인\n데이터 전송을 지원\n\n\n학교 및 교육 기관\n스마트 홈 장비\n컴퓨터실이나 강의실에서 사용\n신속한 데이터 전송이\n필요한 환경에 적합\n스마트 허브, 스마트 TV, 보안\n시스템 등의 스마트 장치를\n네트워크에 연결하여 더 안정적인\n데이터 전송을 지원\nPRODUCT DETAIL\n튼튼한 스프링 구조\n컨넥터 내구성 강화\n15k 금도금 컨넥터\n신호 손실 최소화\n자연스러운 컨넥터+부트\n컨넥터와 부트가 맞닿아\n직접적으로 컨넥터에\n접촉이 없기 때문에\n컨넥터 보호 가능\n견고한 마감 처리\n케이블 피복 보호\nPRODUCT SIZE\n11mm\n40mm\n14mm\nAAAAA\n21mm\n40mm\n2M\n3M\nPIN OUT\n5M\n10M\nP1\n미\nP2\n1\n1\nWHITE/ORANGE\n2\nORANGE\n3\nWHITE/GREEN\n6\nGREEN\n236457\n4\nBLUE\nHI\n5\nWHITE/BLUE\n7\nWHITE/BROWN\n8\n8\nBROWN\nD\nSPECIFICATION\n\n\nSPECIFICATION\n규격\nCAT.6 UTP\n전송속도\n최대 1Gbps\n대역폭\n250MHz\n심선\n24AWG\n콘넥터\n15k Gold Plated Pin\n케이블 길이\n2m/3m/5m/10m\n직경\nOD 6.0±0.2mm\nFAQ\n자주 물어보시는 질문\nQ. 기가비트 인터넷을 지원하나요?\nCAT.6 UTP 패치 코드는 기가비트(1Gbps) 속도를 지원합니다.\n단 사용하는 인터넷 환경 역시 기가비트 인터넷을 지원해야 정상적인 속도로\n인터넷을 사용할 수 있습니다.\nQ. 길이가 길어지면 속도나 신호 저하가 발생하나요?\n제조사 테스트 결과 최대 50미터까지 안정적인 신호 전송이 가능합니다.\n단, 케이블 연결 환경 및 주변의 요인으로 인해 속도나 신호 저하에 영향을 끼칠 수 있습니다.\nQ. 실외에서 사용할 수 있나요?\n주로 실내 환경에 적합하게 설계되었습니다.\n실외에서 사용하려면 별도로 방수 및 내구성이 강화된 케이블을 고려하는 것이 좋습니다.\n랜마트 및 랜스타 스마트 스토어에서 옥외용 케이블, 방수 케이블 검색 후\n구매하여 사용하시기 바랍니다.\nQ. PoE(Power Over Ethernet)을 지원하나요?\n네. PoE를 지원하여 전력과 데이터를 동시에 전송할 수 있습니다.\nPoE 기능이 있는 네트워크 장비에 연결하면 안정적으로 전원을 공급할 수 있습니다.\nQ. 케이블은 유연한 편인가요?\n네. 짧은 길이의 케이블 제외. 2M 길이 이상부터는 연선 케이블로 매우 유연합니다.\n연선 케이블은 유연성이 뛰어나기 때문에, 다양한 환경에서 쉽게 설치할 수 있습니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n\n\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\nShare\n소재·부품·장비\n전문기업확인서\n소개 부품 상비 전문기업인\nSTATI\nNAW\nATA 22A\n가관리원\n기소개\n신문기업인을 확인합니다\n산업통산자원부 시행 제도\nKeit\nBUZZ 31 27\n2022.11.29 취득\n한국산업기술평가관학원\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상 품 정 보\n품\n명\nCAT.6 UTP 다이렉트 랜케이블, YELLOW\nLS-6UTPD-2MY\nLANSStar\nLS-6UTPD-3MY\n모\n델\n명\nLS-6UTPD-5MY\nLS-6UTPD-10MY\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질보증기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "LS-6UTPD-SOLID": "LANSTO\nⓇ\nStar\nCAT.6 UTP 단선\n다이렉트 랜 케이블\n0.5M [LS-C6G-UTPDS-0.5M] Solid 타입\n1M [LS-6UTPD-1MG] Solid 타입\n2M [LS-6UTPD-2MG]\n3M [LS-6UTPD-3MG]\n5M [LS-6UTPD-5MG]\n7M [LS-6UTPD-7MG]\n10M [LS-6UTPD-10MG]\n15M [LS-6UTPD-15MG]\n2M [LS-6UTPD-2MY]\n20M [LS-6UTPD-20MG]\n3M [LS-6UTPD-3MY]\n30M [LS-6UTPD-30MG]\n5M [LS-6UTPD-5MY]\n50M [LS-6UTPD-50MG]\n10M [LS-6UTPD-10MY]\n2M [LS-6UTPD-2MB]\n3M [LS-6UTPD-3MB]\n5M [LS-6UTPD-5MB]\n10M [LS-6UTPD-10MB]\n2M [LS-6UTPD-2MR]\n3M [LS-6UTPD-3MR]\n5M [LS-6UTPD-5MR]\n10M [LS-6UTPD-10MR]\nCAT.6 케이블은?\nCAT.6 케이블은 CAT.5보다 10배인 최대 1Gbps(1,000Mbps)의 속도를 지원\n하고 CAT.5의 2.5배 전송대역인 250MHz의 대역폭을 가지는 TIA/EIA-568\n규정규격이며 10Mbps/100Mbps/1000Mbps의 전송이 가능합니다.\n케이블 규격\n케이블 타입\n대역폭\n전송속도\nCAT.5/CAT.5E\nUTP/FTP / S-FTP\n100MHz\n100~400Mbps (사무용)\nCAT.6\nUTP/FTP / S-FTP\n250MHz\n1Gbps (전산망 일반서버)\nCAT.6A/CAT.7\nUTP/S-STP\n500MHz/600MHz\n10Gbps이상 (대용량 서버)\nCAT.6 UTP LAN CABLE\nUnshielded Twisted Pair Stranded Direct\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n십자형 차단막\n케이블간 간섭을 줄여 전송속도를 높여줍니다\n십자형 개재\nPVC/LSZH 피복\n-PE절연\n쌍(Pair)\nSolid Cable\n단선(線) 케이블\n선이 하나이므로 외부간섭을 덜 받아\n데이터 전송이 안정적입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\n|다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n1 주황/흰색\n2 주황\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\nXXXI\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n8 갈색\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\n8 갈색\nFLUKE\n\n\n녹색 6\n갈색/흰색 7\n갈색 8\n6 녹색\n7 갈색/흰색\n8 갈색\n녹색 6\n갈색/흰색 7\n6 주황\n7 갈색/흰색\n갈색 8\n8 갈색\nFLUKE.\n플루크 테스트를 통과한 제품입니다.\n(테스터기 : DTX-1800)\nLINKWARE \"PC\nSummary: PASS\nCable ID: LS-4UTP\n015\nOperOGH\nA001\n987\nPLAX Works\nDTX-1800\nCAMEANALY\nE-\nPDEFAULT\nM\nSCAD\nFLUKE\nnetworks\n분류\n항목\n시험결과\n반사손실(Return Loss)\nPASS\n삽입손실(Insertion Loss); 감쇄(Attenuation)\nPASS\nPASS\n전기적 누화손실(NEXT: Near End Crosstalk Ratio)\n특성\n전력 누화손실(PS NEXT: Power Sum Near End Crosstalk Ratio)\nPASS\nACR-F(Attenuation to Crosstalk Ratio); ELFEXT\nPASS\nPS ACR-F(Power Sum Attenuation to Crosstalk Ratio); PSELFEXT\nPASS\n15 금도금 콘넥터\n금도금 콘넥터 단자는 산화가 일어나지 않아\n신호손실이 적습니다.\n컬러 케이블\nCAT.6 UTP 컬러케이블은 색상으로\n용도를 구별할 수 있어 편리합니다.\nPRODUCT SIZE\n500~50000mm\n11.6mm\n5.5mm\nL 11.6mm\n6.4mm\nCAT.6 UTP GREY\n0.5M,1M, 2M, 3M, 5M, 7M\n10M, 15M, 20M, 30M, 50M\nCAT.6 UTP YELLOW\n2M, 3M, 5M, 10M\n00\nCAT.6 UTP RED\nCAT.6 UTP BLUE\n2M, 3M, 5M, 10M\n2M, 3M, 5M, 10M\n<RoHS> STRANDED, CAT.6 UTP CABLE EIA\ntan\n\n\nCAT.6 UTP BLUE\n2M, 3M, 5M, 10M\nCAT.6 UTP RED\n2M, 3M, 5M, 10M\nLANstar) <ROHS> STRANDED, CAT.6 UTP CABLE EIA-TIA 568,006\n랜스타 정품케이블\nTHIST-PAIR 4P\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.6\n최대전송속도\n1Gbps\n대역\n폭\n250MHz\nC\nROHS\nFLUKE\nTEST\nCOMPLIANT\nPASS\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANG\ntar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.6 다이렉트 랜 케이블\nLAN Star\n모\n델\n명\n상세페이지 참고\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANG\ntar\n자매품\n1M\nLS-F6UTPD-1MW 20M | LS-F6UTPD-20MW\n2M\nLS-F6UTPD-2MW\nCAT.6 UTP\n다이렉트 평면,\n연선, 흰색,\n금도금 콘넥터,\n1G 500MHz,\n32AWG\n3M\nLS-F6UTPD-3MW\n5M LS-F6UTPD-5MW\n10MLS-F6UTPD-10MW\n15M LS-F6UTPD-15MW\n1M\nLS-F6-UTPD-1M\n20MLS-F6-UTPD-20M\n2M\nLS-F6-UTPD-2M\nCAT.6 UTP\n다이렉트 평면,\n연선, 검정,\n금도금 콘넥터,\n1G 500MHz,\n32AWG\n3M\nLS-F6-UTPD-3M\n5M LS-F6-UTPD-5M\n10M LS-F6-UTPD-10M\n15MLS-F6-UTPD-15M\n1M\nLS-6STPD-1M\n15M\nLS-6STPD-15M\n2M\nLS-6STPD-2M\n20M\nCAT.6 FTP\n다이렉트, 연선,\n고급, 회색,\n금도금 콘넥터,\n8P8C RJ45,\n24AWG\n3M\nLS-6STPD-3M\n30M\nLS-6STPD-20M\nLS-6STPD-30M\nLS-6STPD-50M\nCEEE\n1111\n5M\nLS-6STPD-5M\n50M\nIM\nLS-6STPD-7M\n10M\nLS-6STPD-10M\nCAT.6 UTP\n다이렉트, 회색,\n단선/연선, 고급,\n금도금 콘넥터,\n8P8C RJ45,\n0.5M LS-06G-UTPDS-0.5M 10M LS-6UTPD-10MG\n1M LS-6UTPD-1MG 15M LS-6UTPD-15MG\n2M LS-6UTPD-2MG 20M LS-6UTPD-20MG\n3M LS-6UTPD-3MG 30M LS-6UTPD-30MG\n5M LS-6UTPD-5MG 50M LS-6UTPD-50MG\n24AWG,\nSolid 타입\n(0.5M/1M 해당)\n7M\nLS-6UTPD-7MG\nCAT.6 UTP\n다이렉트, 연선,\n고급, 노랑,\n금도금 콘넥터,\n8P8C RJ45\n24AWG\nCAT.6 UTP\n다이렉트, 연선,\n고급, 파랑,\n금도금 콘넥터,\n8P8C RJ45\nCAT.6 UTP\n다이렉트, 연선,\n고급, 빨강,\n금도금 콘넥터,\n8P8C RJ45,\n24AWG\n24AWG\n2M\nLS-6UTPD-2MY\nLS-6UTPD-2MR\n2M\n3M\n3M\nLS-6UTPD-3MR\n2M LS-6UTPD-2MB\n3M LS-6UTPD-3MB\n5M LS-6UTPD-5MB\n10M LS-6UTPD-10MB\nLS-6UTPD-3MY\nLS-6UTPD-5MY\nLS-6UTPD-10MY\n5M\n5M\nLS-6UTPD-5MR\n10M\n10M\nLS-6UTPD-10MR\nCAT.6 UTP\n크로스, 연선,\n고급, 녹색,\n금도금 콘넥터,\n8P8C RJ45,\nCAT.6 FTP\n옥외용 방수\nIP67 방수등급,\n8P8C RJ45,\n26AWG, 연선,\nUL인증, 대만산,\n알루미늄 쉴드\n24AWG\nLS-6UTPC-2MG\n5M\nLS-SPC6-WP5M\nM\n3M\nLS-6UTPC-3MG\n10M\nLS-SPC6-WP10M\n5M\nLS-6UTPC-5MG\n10M\nLS-6UTPC-10MG\nLAN Stor Cable\nCAT.6 UTP\nBox, 단선\nLANtor Cable\nCAT.6 FTP\nBox, 단선,\n\n\n금도금 콘넥터,\n8P8C RJ45,\n24AWG\n8P8C RJ45,\n26AWG, 연선,\nUL인증, 대만산,\n알루미늄 쉴드\n5M LS-SPC6-WP5M\n10MLS-SPC6-WP10M\n2M LS-6UTPC-2MG\n3M LS-6UTPC-3MG\n5M LS-6UTPC-5MG\n10M LS-6UTPC-10MG\nLAN Star Cable\nLAN Star Cable\nCAT.6 UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.6 FTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\n100M 회색 LS-6UTP-100MG\n100M 회색 LS-6FTP-100MG\n05\n용인공지품 관케이블\nCALAN Cable\nBop\nwhy and\n통신공사용 랜케이블\nCAT LAN Cable\nCAT.6 UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.6 SFTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nC\n098\n300M 회색\nLS-6SFTP-300M\n300M 회색(BOA) LS-6UTP-300MG\n300M 파랑(BOA) LS-6UTP-300MB\n300M 파랑(RO) LS-6UTP-300MBN"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "N/A"
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC",
+        "PE",
+        "금도금"
+      ],
+      "length_options_meters": [
+        0.5,
+        1.0,
+        2.0,
+        3.0,
+        5.0,
+        7.0,
+        10.0,
+        15.0,
+        20.0,
+        30.0,
+        50.0
+      ],
+      "color_options": [
+        "회색",
+        "노랑",
+        "파랑",
+        "빨강"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": "연선(stranded)",
+      "awg": 24,
+      "pair_count": null,
+      "flame_rating": "PVC",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 커넥터를 장비의 LAN 포트",
+    "connectivity.output_signals": "RJ45 커넥터를 장비의 LAN 포트",
+    "connectivity.directional": "PC·서버·스위치·라우터 등 이종 장비 간 연결",
+    "power.power_mode": "N/A",
+    "form_physical.has_case": "N/A",
+    "form_physical.material": "PVC/LSZH / PE 절연 / 금도금 커넥터 단자",
+    "form_physical.length_options_meters": "0.5M, 1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M, 50M",
+    "form_physical.color_options": "회색(Grey), 노랑(Yellow), 파랑(Blue), 빨강(Red)",
+    "certification.kc": "N/A",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "N/A",
+    "certification.ce": "N/A",
+    "certification.netflix": "N/A",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.cat_category": "CAT.6 규격",
+    "family.shielding": "UTP (Unshielded Twisted Pair)",
+    "family.conductor": "연선(Stranded) 구조로 유연성 우수",
+    "family.awg": "24AWG",
+    "family.pair_count": "N/A",
+    "family.flame_rating": "PVC/LSZH",
+    "family.poe_support": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:41",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 2,
+    "category_breakdown": {
+      "usage": 1,
+      "install": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

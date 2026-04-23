@@ -1,0 +1,139 @@
+{
+  "model_no": "LS-CUP-YC8C",
+  "product_name": "CAT.5E 고급형 커플러 Y형 (RJ45 8P8C 1:2, D/C겸용, 선 타입)",
+  "category": [
+    "랜케이블-CAT5E",
+    "컨버터",
+    "커플러"
+  ],
+  "key_features": [
+    "RJ45 8P8C 1:2 타입 단자 구성",
+    "Direct 및 Cross 겸용(D/C겸용) 지원",
+    "Direct 연결 시 일반 커플러로 사용 가능하며 Cross로 변환 기능 제공",
+    "내선이 케이블 방식으로 불량률이 낮음",
+    "선 타입 구조",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "KC 인증 획득 (인증번호 T-A71-05-0095)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "ISO 9001:2008 품질경영시스템 적용"
+  ],
+  "specifications": {
+    "커넥터 규격": "RJ45 8P8C",
+    "분배 타입": "1:2 (Y형)",
+    "케이블 모드": "Direct / Cross 겸용",
+    "구조": "선 타입",
+    "규격 등급": "CAT.5E",
+    "인증번호": "T-A71-05-0095",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "환경 규격": "RoHS COMPLIANT",
+    "품질 규격": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "CAT.5E UTP 네트워크 환경",
+    "RJ45 8P8C 규격 장비",
+    "Direct 케이블 연결 장비 (예: 컴퓨터와 허브 연결)",
+    "Cross 케이블 연결 장비 (예: 허브와 허브, 컴퓨터와 컴퓨터 연결)"
+  ],
+  "package_contents": [
+    "CAT.5E 고급형 커플러 Y형 (LS-CUP-YC8C) 본체 1개"
+  ],
+  "usage_instructions": "Direct 포트에 연결하면 일반 커플러로 동작하며, Cross 포트에 연결하면 Cross 변환 커플러로 동작합니다. Direct 케이블은 서로 다른 장비(예: 컴퓨터↔허브) 연결 시 사용하고, Cross 케이블은 서로 같은 장비(예: 허브↔허브, 컴퓨터↔컴퓨터) 연결 시 사용합니다.",
+  "cautions": [
+    "유통 과정상 제품의 모양이나 색상은 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품의 무단 복제 및 콘텐츠 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-CUP-YC8C",
+      "품목코드": "NEO-커플러005",
+      "품목명": "[LANstar] 커플러 , Y형, RJ-45, CAT.5E, 8P8C, 1：2, D／C겸용--★★선타입★★ [40031]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-CUP-YC8C",
+      "내용": "디자인도 좋고 설치도 쉽고 좋네요\n잘쓸께요"
+    },
+    {
+      "source_model": "LS-CUP-YC8C",
+      "내용": "디자인도 좋고 일단 튼튼해보이네요\n잘 사용할께요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": 4,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 8P8C 1:2 타입 단자 구성",
+    "connectivity.output_signals": "RJ45 8P8C 1:2 타입 단자 구성",
+    "connectivity.directional": "Direct 및 Cross 겸용(D/C겸용) 지원",
+    "connectivity.port_count": "RJ45 8P8C 1:2 타입 단자 구성",
+    "power.power_mode": "무전원",
+    "power.charging_support": "false",
+    "form_physical.has_case": "선 타입 구조",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "family.cat_category": "CAT.5E 고급형 커플러",
+    "family.pair_count": "RJ45 8P8C"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:19",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,237 @@
+{
+  "model_no": "LSP-5UTPD",
+  "product_name": "LANstar plus+ CAT.5E UTP Direct 랜케이블 (RJ45, 8P8C)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP",
+    "랜케이블"
+  ],
+  "key_features": [
+    "CAT.5E UTP 다이렉트 케이블 (568B-568B 핀배열)",
+    "최대 전송속도 400Mbps, 대역폭 100MHz",
+    "28AWG CCA(Copper Coated Aluminum) 소재 — 경량 고전도성",
+    "연선(Stranded) 구조로 유연하여 설치 용이, 잡음·감쇄 현상 저감",
+    "트위스트 페어(Twisted Pair) 구조로 노이즈 방지",
+    "RoHS 인증 제품 (유해물질 사용 제한 지침 준수)",
+    "작동온도 섭씨 80도",
+    "0.5M ~ 50M 총 11가지 길이 라인업"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.5E",
+    "커넥터 규격": "RJ45, 8P8C",
+    "핀 배열 방식": "다이렉트(Direct) — 568B to 568B",
+    "최대 전송속도": "400Mbps",
+    "대역폭": "100MHz",
+    "케이블 소재": "CCA (Copper Coated Aluminum)",
+    "도체 규격": "28AWG",
+    "케이블 구조": "연선(Stranded), 4Pair Twisted Pair",
+    "외부 피복": "PVC/LSZH",
+    "절연": "PE 절연",
+    "작동온도": "섭씨 80도",
+    "케이블 길이 라인업": "0.5M, 1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M, 50M",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증": "RoHS COMPLIANT",
+    "인증번호": "해당없음",
+    "커넥터 너비(참고)": "39mm"
+  },
+  "compatibility": [
+    "CAT.5E 규격 호환 네트워크 장비",
+    "RJ45(8P8C) 포트를 사용하는 스위치, 허브, 라우터, PC, NAS 등",
+    "568B 다이렉트 배열 호환 장비 (PC↔스위치/허브/라우터 등 이종 장비 연결)"
+  ],
+  "package_contents": [
+    "CAT.5E UTP 다이렉트 랜케이블 1개 (선택 길이에 따라 0.5M~50M)"
+  ],
+  "usage_instructions": "다이렉트 케이블(568B-568B)로 PC와 스위치·허브·라우터 등 이종 장비 간 연결에 사용합니다. RJ45 커넥터를 장비의 LAN 포트에 딸깍 소리가 날 때까지 삽입하여 연결하세요. 연선 구조이므로 유연하게 구부려 배선할 수 있습니다. 크로스 케이블(568B-568A)이 필요한 동종 장비 간 직접 연결에는 사용하지 마십시오.",
+  "cautions": [
+    "본 제품은 다이렉트(Direct) 케이블로, 동종 장비 간 연결(PC↔PC 등)에는 크로스 케이블을 사용해야 합니다.",
+    "CCA 소재는 순수 구리(CU) 케이블 대비 장거리·고전력 환경에서 성능 차이가 있을 수 있습니다.",
+    "작동온도 범위(최대 섭씨 80도)를 초과하는 환경에서 사용하지 마십시오.",
+    "케이블을 심하게 꺾거나 무거운 물체로 눌리지 않도록 하십시오.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "본 상품 및 콘텐츠를 당사(라인업시스템(주)) 동의 없이 무단 복제·이용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-5UTPD-1MG",
+      "품목코드": "PCA-U5G001",
+      "품목명": "[◆Lanstar-Plus] CAT.5e UTP 랜케이블 1M [70001] (200개)",
+      "variant_suffix": "-1MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-5UTPD-2MG",
+      "품목코드": "PCA-U5G002",
+      "품목명": "[◆Lanstar-Plus] CAT.5e UTP 랜케이블 2M [70002] (150개)",
+      "variant_suffix": "-2MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-5UTPD-3MG",
+      "품목코드": "PCA-U5G003",
+      "품목명": "[◆Lanstar-Plus] CAT.5e UTP 랜케이블 3M [70003] (120개)",
+      "variant_suffix": "-3MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-5UTPD-5MG",
+      "품목코드": "PCA-U5G004",
+      "품목명": "[◆Lanstar-Plus] CAT.5e UTP 랜케이블 5M [70004] (80개)",
+      "variant_suffix": "-5MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-5UTPD-10MG",
+      "품목코드": "PCA-U5G005",
+      "품목명": "[◆Lanstar-Plus] CAT.5e UTP 랜케이블 10M [70005] (50개)",
+      "variant_suffix": "-10MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-5UTPD-15MG",
+      "품목코드": "PCA-U5G006",
+      "품목명": "[◆Lanstar-Plus] CAT.5e UTP 랜케이블 15M [70006] (32개)",
+      "variant_suffix": "-15MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-5UTPD-0.5MG",
+      "품목코드": "PCA-U5G007",
+      "품목명": "[◆Lanstar-Plus] CAT.5e UTP 랜케이블 0.5M [70063] (500개)",
+      "variant_suffix": "-0.5MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-5UTPD-20MG",
+      "품목코드": "PCA-U5G011",
+      "품목명": "[◆Lanstar-Plus] CAT.5e UTP 랜케이블 20M [70074] (28개)",
+      "variant_suffix": "-20MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-5UTPD-30MG",
+      "품목코드": "PCA-U5G012",
+      "품목명": "[◆Lanstar-Plus] CAT.5e UTP 랜케이블 30M [70075] (24개)",
+      "variant_suffix": "-30MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-5UTPD-50MG",
+      "품목코드": "PCA-U5G013",
+      "품목명": "[◆Lanstar-Plus] CAT.5e UTP 랜케이블 50M [70076] (16개)",
+      "variant_suffix": "-50MG",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-5UTPD-0.5MG",
+      "내용": "빨리왔어요상품이좋아요"
+    },
+    {
+      "source_model": "LSP-5UTPD-0.5MG",
+      "내용": "3M 짜리가 UTP가 아니고 STP가옴.. 뭐 큰차이는 없으니깐.."
+    },
+    {
+      "source_model": "LSP-5UTPD-30MG",
+      "내용": "배송도빠르고 좋아요"
+    },
+    {
+      "source_model": "LSP-5UTPD-3MG",
+      "내용": "물건 잘받았습니다. 다음달 이사인데 빨리 써보고싶네요"
+    },
+    {
+      "source_model": "LSP-5UTPD-3MG",
+      "내용": "좋은 제품 잘 사용중에 있습니다\n\n불량 발생하지 않았고 공유기에도 연결하여 잘 사용중입니다\n\n감사합니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC",
+        "PE"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1.0,
+        2.0,
+        3.0,
+        5.0,
+        7.0,
+        10.0,
+        15.0,
+        20.0,
+        30.0,
+        50.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": false,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": "연선(stranded)",
+      "awg": 28,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45, 8P8C",
+    "connectivity.output_signals": "RJ45, 8P8C",
+    "connectivity.directional": "PC와 스위치·허브·라우터 등 이종 장비 간 연결",
+    "form_physical.material": "외부 피복: PVC/LSZH",
+    "form_physical.length_options_meters": "0.5M, 1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M, 50M",
+    "certification.rohs": "RoHS 인증 제품",
+    "family.cat_category": "CAT.5E UTP 다이렉트 케이블",
+    "family.shielding": "UTP 다이렉트 케이블",
+    "family.conductor": "연선(Stranded) 구조",
+    "family.awg": "28AWG CCA",
+    "family.pair_count": "4Pair Twisted Pair",
+    "family.flame_rating": "외부 피복: PVC/LSZH",
+    "family.poe_support": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:18",
+  "feature_schema_version": "1.0.0"
+}

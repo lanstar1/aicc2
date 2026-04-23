@@ -1,0 +1,158 @@
+{
+  "model_no": "LS-EXT210AB",
+  "product_name": "USB 2.0 A/M - B/M 리피터 케이블 (ACTIVE REPEATER CABLE)",
+  "category": [
+    "USB케이블",
+    "USB2.0",
+    "리피터",
+    "커넥터",
+    "전원아답터"
+  ],
+  "key_features": [
+    "USB 2.0 HI-SPEED 규격 지원, 최대 480Mbps 전송속도",
+    "USB 하위 버전(USB 1.0, USB 1.1) 호환",
+    "ACTIVE 케이블(FE1.1S 칩셋 내장)로 장거리 전송 시 신호 손실 없이 사용 가능",
+    "A/M - B/M 커넥터 구성 (PC/노트북 ↔ 프린터·스캐너 등 B포트 기기)",
+    "케이블 일체형 아답터 포함 (분리 불가)",
+    "Plug & Play 지원, 별도 설치 과정 없이 즉시 사용 가능",
+    "Hot Swap 지원",
+    "Windows, Mac OS 등 다양한 운영체제 지원",
+    "국립전파연구원(KCC) 인증 제품",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "길이": "10m",
+    "색상": "Black Color",
+    "인터페이스": "USB 2.0",
+    "입/출력 단자": "USB 2.0 A/M - B/M",
+    "전송속도": "USB 2.0 HI-SPEED 480Mbps",
+    "입력전원": "USB Bus Power / DC 5V 1A (별도 구매)",
+    "재질": "PVC Jacket",
+    "사용 온도": "0°C - 80°C",
+    "KC 인증 번호": "KCC-REI-LUS-LS-EXT200",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "패키지 크기": "190mm x 170mm x 80mm (추정 박스 기준)",
+    "커넥터 A/M 크기": "56mm x 22mm x 12mm"
+  },
+  "compatibility": [
+    "USB 2.0 HI-SPEED 규격",
+    "USB 1.1 (FULL SPEED, 하위 호환)",
+    "USB 1.0 (하위 호환)",
+    "Windows OS",
+    "Mac OS",
+    "프린터 (USB B포트 사용 기기)",
+    "스캐너 (USB B포트 사용 기기)",
+    "복합기 (USB B포트 사용 기기)",
+    "영수증 프린터 (USB B포트 사용 기기)",
+    "카메라 등 다양한 USB 장비"
+  ],
+  "package_contents": [
+    "USB 2.0 A/M - B/M ACTIVE 리피터 케이블 (10m, 케이블 일체형 아답터 포함)",
+    "※ DC 5V 1A 전원 아답터는 미포함 (별도 구매, 랜마트 상품번호 10702)"
+  ],
+  "usage_instructions": "USB A/M 단자를 PC 또는 노트북의 USB 포트에 연결하고, USB B/M 단자를 프린터·스캐너·복합기 등 USB B포트를 사용하는 기기에 연결합니다. Plug & Play 방식으로 별도 설치 없이 바로 사용 가능합니다. 전력 소모가 적은 USB 기기는 아답터 없이 사용 가능하나, 외장하드 등 소비 전력이 큰 기기 사용 시에는 DC 5V 1A 전원 아답터(별도 구매)를 연결해야 안정적으로 사용할 수 있습니다.",
+  "cautions": [
+    "소비 전력이 큰 제품은 별도의 전원을 공급할 수 있는 DC 5V 1A 전원 아답터를 사용해야 안정적으로 사용 가능합니다.",
+    "DC 5V 1A 전원 아답터는 별도 구매 제품입니다 (랜마트 상품번호 10702 검색 후 구매).",
+    "아답터는 케이블 일체형으로 분리되지 않습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-EXT210AB",
+      "품목코드": "USB-리피터233",
+      "품목명": "[LANstar] USB2.0 A to B 리피터 케이블 10M (20개) [30623]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-EXT210AB",
+      "내용": "빠른 배송 정확한 제품 올바른 작동"
+    },
+    {
+      "source_model": "LS-EXT210AB",
+      "내용": "회사용 주문했습니다 회사용 주문했습니다"
+    },
+    {
+      "source_model": "LS-EXT210AB",
+      "내용": "하루만에 잘 받았어요ㅎㅎ"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-B"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "PVC"
+      ],
+      "length_meters": 10,
+      "length_options_meters": null,
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "A/M - B/M 커넥터 구성",
+    "connectivity.output_signals": "A/M - B/M 커넥터 구성",
+    "connectivity.directional": "A/M - B/M 커넥터 구성",
+    "power.power_mode": "USB Bus Power",
+    "form_physical.material": "PVC Jacket",
+    "form_physical.length_meters": "길이: 10m",
+    "form_physical.color_options": "Black Color",
+    "certification.kc": "국립전파연구원(KCC) 인증 제품",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.usb_version": "USB 2.0 HI-SPEED 규격 지원",
+    "family.transfer_speed_gbps": "최대 480Mbps 전송속도",
+    "family.charging_only": "USB A/M - B/M 리피터 케이블",
+    "family.data_only": "USB A/M - B/M 리피터 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:05",
+  "feature_schema_version": "1.0.0"
+}

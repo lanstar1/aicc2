@@ -1,0 +1,234 @@
+{
+  "model_no": "LS-MHL-HR519",
+  "product_name": "HDMI 무선 디스플레이 동글",
+  "category": [
+    "HDMI케이블"
+  ],
+  "key_features": [
+    "1080P Full HD 무선 미러링 지원",
+    "Fast Ethernet(RJ45 LAN 포트) 지원으로 Wi-Fi보다 안정적이고 빠른 반응 속도",
+    "공유기와 랜 케이블로 연결하는 유선 기반 무선 디스플레이 방식",
+    "Android SmartView, iOS 화면 미러링(AirPlay), Windows EZCast, Mac AirPlay 지원",
+    "YouTube, 아프리카TV, Twitch 등 1인 미디어 및 실시간 TV 어플 이용 가능",
+    "스마트 TV 없이 일반 HDMI 디스플레이를 스마트 TV처럼 활용 가능",
+    "2.4GHz 및 5GHz Wi-Fi 지원(공유기 성능에 따라)",
+    "EZCast 기반 동작(장치명: MagicEther-6808568D)",
+    "국립전파연구원 KC 인증 획득",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "인터페이스": "10/100 LAN (RJ45)",
+    "CPU": "AM8269D",
+    "지원_해상도": "1080P Full HD",
+    "무선_주파수": "2.4GHz, 5GHz (공유기 성능에 따라)",
+    "색상": "White",
+    "중량": "25.7g",
+    "케이블_선길이": "약 33cm",
+    "지원_미러링_방식": "SmartView, 화면공유, AirPlay, EZCast",
+    "인증번호": "KCC-REI-LUS-LS-MHL519",
+    "제조국_원산지": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)",
+    "전원": "Micro 5pin, 5V 1A"
+  },
+  "compatibility": [
+    "Android 스마트폰 (SmartView 지원 기기)",
+    "iOS 스마트폰 (화면 미러링/AirPlay 지원 기기)",
+    "Windows PC (Wi-Fi 모듈 탑재 노트북/데스크탑, EZCast 앱 설치 필요)",
+    "Mac OS (AirPlay 지원 기기)",
+    "HDMI 단자 탑재 디스플레이 기기 (TV, 모니터 등)",
+    "RJ45 LAN 포트 탑재 공유기",
+    "Smart TV 기능 지원 (스마트폰 실시간 TV 어플 연동)"
+  ],
+  "package_contents": [
+    "HDMI 무선 디스플레이 동글 (LS-MHL-HR519) × 1",
+    "CAT.6 평면 랜 케이블 3M × 1",
+    "USB A/M - Micro 5pin 케이블 × 1",
+    "User Manual × 1"
+  ],
+  "usage_instructions": "1. HDMI 무선 디스플레이 동글의 HDMI 단자를 디스플레이 기기(TV 등)의 HDMI 포트에 연결한다. 2. 동글과 공유기를 랜 케이블(CAT.6)로 연결한다. 3. Micro 5pin 케이블로 동글에 전원(5V 1A)을 공급한다(안정적 공급을 위해 아답터 사용 권장). 4. 디스플레이에 대기화면(MagicEther-6808568D)이 표시되면 연결 준비 완료. [Android] 스마트폰에서 공유기 Wi-Fi 연결 후 Smart View 실행 → MagicEther-6808568D 선택. [iOS] 공유기 Wi-Fi 연결 후 화면 미러링 실행 → MagicEther-6808568D 선택. [Windows] Wi-Fi 모듈 탑재 PC에서 www.ezcast.com/app 접속 후 EZCast 프로그램 다운로드 → Search Device로 MagicEther-6808568D 검색 → Mirror 버튼 클릭. [Mac] 공유기 Wi-Fi 연결 후 AirPlay에서 MagicEther-6808568D 선택 → 원하는 디스플레이 모드 선택.",
+  "cautions": [
+    "Netflix에서는 사용이 되지 않습니다. 구매 시 참고하시기 바랍니다.",
+    "Windows의 경우 Wi-Fi 모듈이 있는 노트북/데스크탑에서만 사용 가능합니다.",
+    "전원 공급 시 디스플레이 기기의 USB 포트를 이용할 수 있으나, 안정적인 전력 공급을 위해 아답터 사용을 권장합니다.",
+    "공유기 성능에 따라 2.4GHz와 5GHz가 지원됩니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MHL-HR519",
+      "품목코드": "CAB-APP660",
+      "품목명": "[LANstar] HDMI 무선 디스플레이 동글 / iOS, Android, Win, Mac OS 지원/스마트뷰, Airplay, DLAN [20215]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-MHL-HR519",
+      "내용": "빨리보내주셔서 감사합니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-MHL-HR519",
+      "id": 124339799,
+      "date": "2020-07-31 02:08",
+      "answerDate": "2020-08-06 09:48",
+      "user": "mdj0***",
+      "productName": "HDMI 무선 디스플레이 동글 LS-MHL-HR519",
+      "question": "제품 구매전에 문의 드립니다.\n이제품으로 연결후 컴퓨터 -&gt; 티비로 송출할려고 합니다.\n다 이해했는데 한가지가 궁금한데요.\n\n컴퓨터-&gt;티비로 영화를 하면 소리는 컴퓨터 스피커에서 나오나요?\n아님 티비스피커에서 나오나요??",
+      "answer": "안녕하세요 랜스타 입니다.\n\n티비 스피커에서 소리가 나오는 구조 입니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-MHL-HR519",
+      "id": 578534052,
+      "date": "2024-04-29 11:05",
+      "answerDate": "2024-04-29 16:42",
+      "user": "sk19****",
+      "productName": "랜스타 LS-MHL-HR519 스마트폰 PC HDMI 무선 디스플레이 동글 미라캐스트",
+      "question": "안녕하세요 ! 이걸로 구매 하면 아이폰으로 티비 연결 가능할까요 ?? 넷플릭스도 가능한지 문의 드려요",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n아이폰 연결하여 사용 가능하나, 넷플릭스는 지원이 안됩니다.\nC타입 호환 아이폰 이라면 UC314 사용 추천합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-MHL-HR519",
+      "chatUrl": "1OPt8",
+      "dateIso": "2024-03-19T05:21:55.423Z",
+      "name": "토마터",
+      "isTechnical": true,
+      "category": "install",
+      "modelConfidence": "high",
+      "question": "안녕하세요 ㅠㅠ 바보같은 실수를 했는데요… 아이패드와 아이폰 13으로 티비에\n연결하고 싶은데 타입을 잘못산거 같습니다 ㅠㅠ 어떤 제품으로 구매를 해야할까요??\n(추가 문의) 감사합니다 !! 잘못 구매한 제품은 바로 반품 요청해서 오늘 회수예정이에요 ㅠ",
+      "answer": "반품 요청해주신 제품 자사 측에 정상적으로 도착하여 반품 진행해드렸습니다.\n\n주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 감사합니다~"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n반품 요청해주신 제품 자사 측에 정상적으로 도착하여 반품 진행해드렸습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타"
+        },
+        {
+          "role": "customer",
+          "text": "감사합니다 !! 잘못 구매한 제품은 바로 반품 요청해서 오늘 회수예정이에요 ㅠ"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요 ㅠㅠ 바보같은 실수를 했는데요… 아이패드와 아이폰 13으로 티비에\n연결하고 싶은데 타입을 잘못산거 같습니다 ㅠㅠ 어떤 제품으로 구매를 해야할까요??"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "판매자 문의"
+        },
+        {
+          "role": "agent",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        },
+        {
+          "role": "customer",
+          "text": "반품 문의"
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45",
+        "무선"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.33,
+      "length_options_meters": null,
+      "color_options": [
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": true
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": false,
+      "ethernet_channel": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Fast Ethernet(RJ45 LAN 포트) 지원",
+    "connectivity.input_signals[1]": "무선 미러링 지원",
+    "connectivity.output_signals": "HDMI 단자를 디스플레이 기기(TV 등)의 HDMI 포트에 연결",
+    "connectivity.directional": "HDMI 무선 디스플레이 동글",
+    "power.power_mode": "전원: Micro 5pin, 5V 1A",
+    "power.charging_support": "전원(5V 1A)을 공급한다",
+    "form_physical.has_case": "HDMI 무선 디스플레이 동글",
+    "form_physical.length_meters": "케이블_선길이: 약 33cm",
+    "form_physical.color_options": "색상: White",
+    "certification.kc": "KC 인증 획득",
+    "audio_video.max_resolution": "1080P Full HD 무선 미러링 지원",
+    "audio_video.audio_pass": "HDMI 무선 디스플레이 동글",
+    "control_switching.has_app_control": "Windows EZCast, Mac AirPlay 지원",
+    "family.ethernet_channel": "Fast Ethernet(RJ45 LAN 포트) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:37",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "install": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "model_no": "LS-HMS204-UHD",
+  "product_name": "LANStar HDMI 선택 분배기 2:4 (HDMI Splitter 2in 4out)",
+  "category": [
+    "HDMI분배기",
+    "HDMI선택기",
+    "HDMI광케이블"
+  ],
+  "key_features": [
+    "2개의 HDMI 입력 중 1개를 선택하여 4개의 디스플레이에 동시 출력",
+    "4K UHD(3840x2160) @ 30Hz 지원",
+    "HDCP(고대역 디지털 콘텐츠 보호) 지원",
+    "3D 및 Full HD 1080p 지원",
+    "S/PDIF 옵티컬(광) 출력 단자 및 스테레오 R/L 오디오 출력 단자 제공",
+    "SELECT 스위치 5초 누름으로 5.1 또는 2.1 음향 채널 선택 가능",
+    "데이지 체인(Daisy Chain) 방식 지원으로 다양한 확장 연결 가능",
+    "리모컨 제공(입/출력 포트 선택 가능, CR2025 건전지 포함)",
+    "HDMI Signal Retiming with Cascading 지원",
+    "오디오 포맷: DTS-HD, Dolby-True-HD, AC3, DTS, DSD 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 획득 (인증번호: KCC-REI-LS-HMS204)"
+  ],
+  "specifications": {
+    "HDMI 해상도": "4K*2K(3840x2160) @ 30Hz, 2160i/p, 1080i/p, 720i/p, 576i/p, 480i/p",
+    "입력 포트": "HDMI 입력 2포트",
+    "출력 포트": "HDMI 출력 4포트",
+    "대역폭": "300MHz",
+    "데이터 전송 속도": "3Gbps",
+    "출력 케이블 최대 거리": "최대 15m (1080p, 26AWG)",
+    "입력 케이블 최대 거리": "최대 10m (1080p, 26AWG)",
+    "HDCP 지원": "지원",
+    "3D 지원": "지원",
+    "오디오 포맷": "DTS-HD, Dolby-True-HD, AC3, DTS, DSD",
+    "오디오 출력": "스테레오 R/L, S/PDIF 옵티컬(광) 각형",
+    "전원": "DC 5V/2A",
+    "제품 크기": "200 x 25 x 70mm (W x H x L)",
+    "인증": "KC(KCC-REI-LS-HMS204), FCC, CE, RoHS, ISO 9001:2008",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "LCD 모니터",
+    "디지털 TV",
+    "블루레이 플레이어",
+    "게임기",
+    "프로젝터",
+    "HDMI 단자를 가진 디지털 기기",
+    "DVI 단자 기기 (DVI-HDMI 케이블 또는 DVI 젠더 별도 구매 필요, 음성 미지원)",
+    "HDMI 1.4 규격",
+    "HDCP 지원 기기"
+  ],
+  "package_contents": [
+    "HDMI 분배기 본체 (LS-HMS204-UHD)",
+    "전원 어댑터 DC 5V/2A",
+    "리모컨 (CR2025 건전지 포함)",
+    "한글 매뉴얼"
+  ],
+  "usage_instructions": "1) HDMI 소스 기기를 INPUT1 또는 INPUT2 포트에 연결한다. 2) 출력 디스플레이(최대 4대)를 OUTPUT1~OUTPUT4 포트에 HDMI 케이블로 연결한다. 3) DC 5V 전원 어댑터를 연결하여 전원을 켠다. 4) 본체의 SELECT 스위치 또는 리모컨으로 원하는 입력 소스를 선택한다. 5) SELECT 스위치를 5초간 눌러 5.1 또는 2.1 음향 채널을 선택할 수 있다. 6) 데이지 체인 방식으로 추가 연장 연결이 가능하며, 케이블 길이와 성능에 따라 연장 가능 여부가 달라진다. 7) DVI 단자 기기 연결 시 DVI-HDMI 케이블 또는 DVI 젠더(별도 구매)를 사용하고, 음성은 별도 스테레오 케이블(M/M)로 연결해야 한다.",
+  "cautions": [
+    "본 기기는 셋톱박스, 인터넷 TV와 연결 시 작동하지 않습니다. 일시적으로 작동할 수 있으나 방송 송출사에서 신호 차단 시 다시 작동하지 않으니 유의하시기 바랍니다.",
+    "DVI 단자 기기와 연결 시 음성은 지원하지 않으므로 별도의 스테레오 케이블(M/M)을 기기와 연결해야 합니다.",
+    "DVI 연결 시 DVI-HDMI 케이블 또는 DVI 젠더는 별도 구매 필요합니다.",
+    "데이지 체인 연결 시 케이블 길이와 성능에 따라 연장 가능 여부가 달라집니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "품질 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상합니다. A/S: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HMS204-UHD",
+      "품목코드": "INT-HDS103",
+      "품목명": "[LANstar] HDMI 선택 분배기, 2:4, 입력 2P 출력 4P, 4K 2K 30Hz지원[30175]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI",
+        "3.5mm",
+        "Optical"
+      ],
+      "directional": "양방향",
+      "port_count": 6
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "input_count": 2,
+      "output_count": 4,
+      "mode": [
+        "분배",
+        "스위치"
+      ],
+      "cascade_support": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "2개의 HDMI 입력",
+    "connectivity.output_signals": "4개의 디스플레이에 동시 출력",
+    "connectivity.output_signals[1]": "스테레오 R/L 오디오 출력 단자",
+    "connectivity.output_signals[2]": "S/PDIF 옵티컬(광) 출력 단자",
+    "connectivity.directional": "2개의 HDMI 입력 중 1개를 선택하여 4개의 디스플레이에 동시 출력",
+    "connectivity.port_count": "HDMI 입력 2포트, HDMI 출력 4포트",
+    "power.power_mode": "DC 5V/2A",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "제품 크기: 200 x 25 x 70mm",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "국립전파연구원 인증 획득 (인증번호: KCC-REI-LS-HMS204)",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "4K UHD(3840x2160) @ 30Hz 지원",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "HDCP(고대역 디지털 콘텐츠 보호) 지원",
+    "audio_video.audio_pass": "S/PDIF 옵티컬(광) 출력 단자 및 스테레오 R/L 오디오 출력 단자 제공",
+    "control_switching.has_remote": "리모컨 제공(입/출력 포트 선택 가능, CR2025 건전지 포함)",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "SELECT 스위치 5초 누름으로 5.1 또는 2.1 음향 채널 선택 가능",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.input_count": "2개의 HDMI 입력",
+    "family.output_count": "4개의 디스플레이에 동시 출력",
+    "family.mode": "HDMI 선택 분배기",
+    "family.mode[1]": "2개의 HDMI 입력 중 1개를 선택",
+    "family.cascade_support": "데이지 체인(Daisy Chain) 방식 지원으로 다양한 확장 연결 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:45",
+  "feature_schema_version": "1.0.0"
+}

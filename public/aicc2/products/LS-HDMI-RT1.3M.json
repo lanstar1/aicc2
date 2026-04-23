@@ -1,0 +1,128 @@
+{
+  "model_no": "LS-HDMI-RT1.3M",
+  "product_name": "LANStar 자동감김 HDMI 케이블 with Ethernet",
+  "category": [
+    "광케이블",
+    "HDMI케이블",
+    "HDMI광케이블",
+    "RCA케이블",
+    "AV케이블",
+    "자동감김케이블"
+  ],
+  "key_features": [
+    "자동감김(Retractable) 타입으로 휴대 및 보관 용이",
+    "Full HD 1080p 및 3D TV 완벽 지원",
+    "HDMI 1.4 버전 지원 - 최대 4K×2K(4096×2160) 해상도 지원",
+    "HEC(HDMI Ethernet Channel) 지원 - 별도 이더넷 케이블 없이 IP기반 기기 통신 가능",
+    "ARC(Audio Return Channel) 지원 - 별도 AV/RCA/광케이블 없이 오디오 신호 전달",
+    "추가 색공간(sYCC601 / Adobe RGB / Adobe YCC601) 지원으로 풍부한 색감"
+  ],
+  "specifications": {
+    "제품명": "HDMI 자동감김 케이블 with Ethernet",
+    "모델명": "LS-HDMI-RT-1.3M",
+    "케이블 길이": "1.3m",
+    "몸체 지름": "약 5.2cm",
+    "타입": "자동감김(Retractable)",
+    "HDMI 버전": "1.4",
+    "지원 해상도": "SD 480p, HD 720p, Full HD 1080p, 1440p, 4K×2K(4096×2160)",
+    "인증": "ATC CERTIFICATE #48370"
+  },
+  "compatibility": [
+    "Full HD 1080p 지원 기기",
+    "3D TV 및 3D 홈시어터",
+    "HDMI 1.4 지원 기기",
+    "HEC(HDMI Ethernet Channel) 지원 기기",
+    "ARC(Audio Return Channel) 지원 TV 및 AV 리시버/홈시어터",
+    "IP기반 이더넷 연결 주변기기"
+  ],
+  "package_contents": [
+    "자동감김 HDMI 케이블 with Ethernet 1개"
+  ],
+  "usage_instructions": "반드시 양쪽 선을 동시에 당겨서 케이블을 인출하세요. 한 쪽만 당기면 고장의 원인이 될 수 있습니다.",
+  "cautions": [
+    "반드시 양쪽 선을 동시에 당겨야 합니다.",
+    "한 쪽만 당길 시 고장의 원인이 될 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMI-RT1.3M",
+      "품목코드": "CAB-자동릴012",
+      "품목명": "[LANstar] 자동감김케이블 , HDMI1.4, M／M, 4K*2K 60Hz, 1.3M[10663]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDMI-RT1.3M",
+      "내용": "배송도 빠르고 좋습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": 1.3,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": false,
+      "rohs": false,
+      "iso9001": false,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "HDMI1.4",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 케이블",
+    "connectivity.output_signals": "HDMI 케이블",
+    "connectivity.directional": "ARC(Audio Return Channel) 지원",
+    "power.power_mode": "무전원",
+    "form_physical.has_case": "자동감김(Retractable) 타입",
+    "form_physical.length_meters": "1.3m",
+    "audio_video.max_resolution": "4K×2K(4096×2160) 해상도 지원",
+    "audio_video.audio_pass": "ARC(Audio Return Channel) 지원",
+    "family.hdmi_version": "HDMI 1.4 버전 지원",
+    "family.ethernet_channel": "HEC(HDMI Ethernet Channel) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:27",
+  "feature_schema_version": "1.0.0"
+}

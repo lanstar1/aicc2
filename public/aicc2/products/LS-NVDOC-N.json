@@ -1,0 +1,184 @@
+{
+  "model_no": "LS-NVDOC-N",
+  "product_name": "LANStar M.2 SSD 듀얼 도킹 스테이션 (NVMe 전용 듀얼 복제 도킹 스테이션)",
+  "category": [
+    "USB케이블",
+    "HDD관련"
+  ],
+  "key_features": [
+    "USB 3.2 Gen 2x2 지원, 최대 20Gbps 전송 속도 (C to C 케이블 기준)",
+    "PC 없이 전원만 연결하여 버튼 한 번으로 NVMe SSD 복제 가능 (오프라인 복제)",
+    "4단계 LED로 복제 진행률 확인 가능 (25% / 50% / 75% / 100%)",
+    "NVMe M.2 SSD 외장 저장 장치로도 사용 가능 (슬롯 2개 동시 사용)",
+    "2230 / 2242 / 2260 / 2280 / 22110 모든 M.2 NVMe SSD 사이즈 호환",
+    "M Key 및 B+M Key 타입 NVMe SSD 지원 (SATA 미지원)",
+    "JMicron JMS586U 칩셋 탑재, UASP / S.M.A.R.T / TRIM 지원",
+    "Windows / macOS / Linux 다중 운영체제 지원",
+    "측면 방열구 배치로 고속 전송·복제 중 안정적인 쿨링 유지",
+    "C to C 케이블 및 A to C 케이블 2종 기본 제공",
+    "KC 인증 획득 제품 (인증번호: R-R-LUS-LS-NVDOC)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "USB 규격": "USB 3.2 Gen 2x2",
+    "최대 전송 속도 (C to C)": "최대 20Gbps (약 1800MB/s)",
+    "최대 전송 속도 (A to C)": "최대 10Gbps (약 950MB/s)",
+    "지원 SSD 사이즈": "2230 / 2242 / 2260 / 2280 / 22110",
+    "지원 최대 용량": "최대 8TB",
+    "지원 SSD 타입": "M Key, B+M Key M.2 NVMe SSD (PCIe)",
+    "칩셋": "JMicron JMS586U",
+    "크기": "64 x 64 x 17 (mm)",
+    "무게": "약 39g",
+    "재질": "ABS",
+    "지원 운영체제": "Windows, Mac OS, Linux",
+    "전원 어댑터": "DC 12V 2A",
+    "어댑터 인증번호": "HU10539-19056",
+    "KC 인증번호": "R-R-LUS-LS-NVDOC",
+    "제조국": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "M.2 NVMe SSD - M Key 타입",
+    "M.2 NVMe SSD - B+M Key 타입",
+    "SSD 사이즈: 2230, 2242, 2260, 2280, 22110",
+    "NVMe PCIe Gen3 SSD",
+    "NVMe PCIe Gen4 SSD (장착 가능, 단 Gen3 수준 속도로 동작)",
+    "USB 3.2 Gen 2x2 Type-C 포트 (20Gbps 지원 호스트)",
+    "USB 3.2 Gen 2 Type-A 포트 (10Gbps, A to C 케이블 사용 시)",
+    "운영체제: Windows, macOS, Linux",
+    "B Key 타입 SSD 미지원",
+    "SATA(NGFF) 방식 M.2 SSD 미지원"
+  ],
+  "package_contents": [
+    "도킹 스테이션 본체 1ea",
+    "USB C to C 케이블 1ea",
+    "USB A to C 케이블 1ea",
+    "매뉴얼 1ea",
+    "DC 12V 2A 전원 어댑터 1ea (인증번호: HU10539-19056)"
+  ],
+  "usage_instructions": "【외장 SSD로 사용】 도킹 스테이션에 NVMe SSD를 장착 후 USB 케이블로 PC와 연결. 신규 SSD의 경우 Windows 디스크 관리에서 디스크 초기화(MBR 또는 GPT 선택) → 새 단순 볼륨 생성 → 포맷 후 사용. 【복제 사용】 (1) 전원 어댑터를 연결하고 Source(슬롯1)에 원본 SSD, Target(슬롯2)에 새 SSD를 장착. (2) 복제 버튼을 약 5초간 눌러 준비 상태(LED 점등 후 깜빡임) 확인. (3) 복제 버튼을 다시 한 번 눌러 복제 시작. (4) LED 순차 점등으로 진행률 확인(25%→50%→75%→100%), 모든 LED 고정 점등 시 복제 완료. PC 연결 불필요, 오프라인 동작.",
+  "cautions": [
+    "B Key 타입 SSD 및 SATA(NGFF) 방식 M.2 SSD는 물리적 장착이 가능하더라도 인식되지 않음",
+    "복제 시 Target SSD의 용량이 Source SSD보다 크거나 같아야 정상 복제 가능 (작을 경우 복제 불가)",
+    "신규 SSD는 '미할당(Unallocated)' 상태이므로, 외장 SSD로 사용 시 디스크 초기화 및 포맷 필수 (복제용 Target SSD는 자동 포맷되므로 해당 없음)",
+    "USB-A 포트는 최대 10Gbps까지만 지원하며, 20Gbps 전송은 USB-C (3.2 Gen 2x2 이상) 포트에서만 가능",
+    "NVMe PCIe Gen4 SSD 장착 시 본 제품 인터페이스 한계로 Gen3 수준 속도로만 동작",
+    "20Gbps 전속 속도는 C to C 케이블 사용 시 기준이며, A to C 케이블 사용 시 약 950MB/s 수준",
+    "랜스타 정품 인증 배너가 없는 판매처의 제품은 A/S 불가",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "당일 출고는 오후 4시 이전 결제 완료 기준, 토·일·공휴일 제외 평일 한정"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-NVDOC-N",
+      "품목코드": "COM-외장형767",
+      "품목명": "[LANstar] M.2 NVMe SSD 듀얼 복제 도킹 스테이션 [30948]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-NVDOC-N",
+      "내용": "포장도 깔끔하게 잘 해 주셨습니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-NVDOC-N",
+      "id": 642822031,
+      "date": "2025-09-12 06:31",
+      "answerDate": "2025-09-12 15:12",
+      "user": "pare****",
+      "productName": "M.2 SSD 듀얼 복제 도킹 스테이션 (LS-NVDOC-N)",
+      "question": "제조사 구분없이 사용 가능한가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n제조사 구분 없이 사용 가능하십니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-NVDOC-N",
+      "id": 656017406,
+      "date": "2025-12-21 17:32",
+      "answerDate": "2025-12-22 09:38",
+      "user": "dtim***",
+      "productName": "M.2 SSD 듀얼 복제 도킹 스테이션 (LS-NVDOC-N)",
+      "question": "원본 nvme m.2 ssd 2tb  복제대상 sk p41 1tb 이렇게는  복제가 안되나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n복제 대상의 용량은 원본보다 커야 합니다. 용량이 원본보다 작으면 복제가 되지 않습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-C"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB3.2",
+      "transfer_speed_gbps": 20,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "C to C 케이블 및 A to C 케이블 2종",
+    "connectivity.output_signals": "C to C 케이블 및 A to C 케이블 2종",
+    "connectivity.directional": "NVMe M.2 SSD 외장 저장 장치로도 사용 가능 (슬롯 2개 동시 사용)",
+    "connectivity.port_count": "NVMe 전용 듀얼 복제 도킹 스테이션",
+    "power.power_mode": "전원 어댑터를 연결하고",
+    "power.charging_support": "NVMe M.2 SSD 외장 저장 장치로도 사용 가능",
+    "form_physical.has_case": "LANStar M.2 SSD 듀얼 도킹 스테이션",
+    "form_physical.material": "재질: ABS",
+    "certification.kc": "KC 인증 획득 제품",
+    "audio_video.max_resolution": "NVMe 전용 듀얼 복제 도킹 스테이션",
+    "audio_video.hdr_support": "NVMe 전용 듀얼 복제 도킹 스테이션",
+    "audio_video.hdcp_version": "NVMe 전용 듀얼 복제 도킹 스테이션",
+    "audio_video.audio_pass": "NVMe 전용 듀얼 복제 도킹 스테이션",
+    "control_switching.has_physical_button": "버튼 한 번으로 NVMe SSD 복제 가능",
+    "family.usb_version": "USB 3.2 Gen 2x2",
+    "family.transfer_speed_gbps": "최대 20Gbps 전송 속도",
+    "family.charging_only": "NVMe M.2 SSD 외장 저장 장치로도 사용 가능",
+    "family.data_only": "NVMe M.2 SSD 외장 저장 장치로도 사용 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:20",
+  "feature_schema_version": "1.0.0"
+}

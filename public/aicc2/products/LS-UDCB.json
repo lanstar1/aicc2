@@ -1,0 +1,85 @@
+{
+  "model_no": "LS-UDCB",
+  "product_name": "[LANstar] 언더 데스크 케이블 정리기 블랙 [30603] [20개]",
+  "category": [
+    "케이블정리",
+    "데스크스탠드"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-UDCB",
+      "품목코드": "CAB-시리M062",
+      "품목명": "[LANstar] 언더 데스크 케이블 정리기 블랙 [30603] [20개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-UDCB",
+      "내용": "선정리를 깔끔하게 할 수 있어 만족합니다.\n\n내구성만 조금 보완되면 금상첨화일것 같습니다."
+    },
+    {
+      "source_model": "LS-UDCB",
+      "내용": "내구성이 조금 약하긴 합니다.\n\n하단부 동그란부분 제거 하다가 2개구매했는데 두개다 결합 부분이 깨졌네요. \n\n선정리를 매우 깔끔하게 할 수 있어 만족합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "언더 데스크 케이블 정리기",
+    "form_physical.material": "스틸",
+    "form_physical.color_options": "블랙"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:04",
+  "feature_schema_version": "1.0.0"
+}

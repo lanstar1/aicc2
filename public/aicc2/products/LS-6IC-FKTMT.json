@@ -1,0 +1,146 @@
+{
+  "model_no": "LS-6IC-FKTMT",
+  "product_name": "CAT.6 FTP 인라인 키스톤형 커플러(메탈)",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-FTP",
+    "키스톤잭",
+    "커플러"
+  ],
+  "key_features": [
+    "FTP Coupler 1:1 F/F 방식",
+    "RJ45 1형 / 8P8C 규격",
+    "50μ 금도금 단자 적용",
+    "UL94V0 규격 PCB 사용",
+    "110 Block Keystone Type",
+    "Blank 패치판넬, Blank 박스, 벽부착용 아울렛에 부착 사용 가능",
+    "Fluke Tester Pass한 패치코드 케이블과 연결하여 저렴한 비용으로 기가비트 케이블 교체 가능",
+    "스테인레스 스틸 재질 메탈 하우징",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 규격 준수",
+    "KC 인증 획득 (인증번호: LUS-LS-CAT6)",
+    "UL 인증 획득 (DUXR.E203713)",
+    "Meets CAT.6 EIA/TIA 568B Standard",
+    "대만산(MADE IN TAIWAN)"
+  ],
+  "specifications": {
+    "제품 규격": "CAT.6",
+    "커플러 타입": "FTP Coupler 1:1 F/F",
+    "커넥터 규격": "RJ45 / 8P8C",
+    "단자 도금": "50μ 금도금",
+    "PCB 규격": "FR-4 / UL-94V0",
+    "하우징 소재": "스테인레스 스틸",
+    "절연저항": "500M ohms (최소)",
+    "접속저항": "200M ohms (최대)",
+    "전류 정격": "1.5 Amps",
+    "DC 저항": "0.1 ohms (최대)",
+    "내전압": "1000 VAC RMS @ 60Hz / 1분",
+    "잭 삽입주기": "2000회 이상",
+    "작동온도": "-40도 ~ 70도",
+    "크기(mm)": "16.8 x 14.4 x 28.6",
+    "호환 케이블": "S/FTP CABLE",
+    "준수 표준": "EIA/TIA 568B (CAT.6)",
+    "KC 인증번호": "LUS-LS-CAT6",
+    "UL 인증번호": "DUXR.E203713",
+    "제조국": "대만 (Taiwan)",
+    "제조사 / 수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "Blank 패치판넬",
+    "Blank 박스",
+    "벽부착용 아울렛",
+    "S/FTP CAT.6 LAN 케이블",
+    "RJ45 8P8C 패치코드 케이블",
+    "EIA/TIA 568B CAT.6 표준 호환 장비"
+  ],
+  "package_contents": [
+    "CAT.6 FTP 인라인 키스톤형 커플러(메탈) 본체 1개"
+  ],
+  "usage_instructions": "LAN 케이블 길이가 짧거나 연장이 필요할 때 사용. 공공기관 및 대기업 데이터센터·전산실에서 고속 기가비트 케이블로 교체 시, 기존 패치판넬을 module punch 방식 대신 Fluke Tester Pass한 패치코드 케이블과 Blank 패치판넬에 본 제품(키스톤형 커플러)을 연결하여 저렴한 비용으로 손쉽게 대체 가능. Blank 패치판넬, Blank 박스, 벽부착용 아울렛에 부착하여 사용.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-6IC-FKTMT",
+      "품목코드": "NEO-커플러046",
+      "품목명": "[LANstar] 키스톤 장착형 커플러, CAT.6, FTP, I형, RJ45, UL규격, Metal, 대만산[40526] (1,000개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무관",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "FTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 1형 / 8P8C 규격",
+    "connectivity.output_signals": "RJ45 1형 / 8P8C 규격",
+    "connectivity.directional": "FTP Coupler 1:1 F/F 방식",
+    "connectivity.port_count": "FTP Coupler 1:1 F/F 방식",
+    "form_physical.has_case": "스테인레스 스틸 재질 메탈 하우징",
+    "form_physical.material": "스테인레스 스틸 재질 메탈 하우징",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "RoHS 규격 준수",
+    "family.cat_category": "CAT.6",
+    "family.shielding": "FTP Coupler",
+    "family.flame_rating": "UL94V0 규격 PCB 사용"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:30",
+  "feature_schema_version": "1.0.0"
+}

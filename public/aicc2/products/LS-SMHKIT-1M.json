@@ -1,0 +1,134 @@
+{
+  "model_no": "LS-SMHKIT-1M",
+  "product_name": "LANStar 스마트폰 가정용 USB 충전기 + USB 충전/통신케이블 (AC Power USB Adapter + USB to Micro B Cable)",
+  "category": [
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "Apple 공식 인증 브랜드 LANStar 제품",
+    "가정용 USB 충전기와 USB 충전/통신케이블 세트 구성",
+    "PC 충전 대비 최대 3배 이상 빠른 초고속 충전 가능",
+    "110V/220V 겸용 지원으로 국내외 사용 가능",
+    "마이크로 B(5핀) 커넥터 적용으로 별도 젠더 불필요",
+    "USB 충전/통신케이블 분리 시 PC 또는 노트북에서 충전 및 데이터 통신 가능",
+    "가정용 USB 충전기 분리 시 아이폰, 아이패드, 아이팟 등 USB 포트 기기 충전 가능",
+    "컴팩트한 사이즈로 휴대 간편",
+    "충전기 연결 시 파란불 점등으로 연결 상태 확인 가능",
+    "전기용품안전인증 제품 (인증번호: HU10065-30104)"
+  ],
+  "specifications": {
+    "입력 전압": "110V/220V",
+    "출력": "USB 5V 1000mA",
+    "USB 규격": "USB 2.0",
+    "케이블 커넥터": "USB to Micro B (5핀)",
+    "케이블 길이": "1M",
+    "전기용품안전인증번호": "HU10065-30104"
+  },
+  "compatibility": [
+    "마이크로 B(5핀) 단자 적용 스마트폰",
+    "삼성 Anycall 갤럭시A (SHW-M100S)",
+    "삼성 Anycall 갤럭시S (SHW-M110S)",
+    "삼성 Anycall 갤럭시U (SHW-M130L)",
+    "삼성 Anycall 갤럭시K (SHW-M130K)",
+    "LG CYON 인사이트 (LG-KU2000)",
+    "LG CYON 안드로원 (LG-KH5200)",
+    "LG CYON 옵티머스원 (LG-KU3700)",
+    "HTC HD2",
+    "HTC 디자이어 (Desire)",
+    "HTC 디자이어팝 (DesirePop)",
+    "HTC 레전드 (Legend)",
+    "HTC 넥서스원 (NexusOne)",
+    "BlackBerry BOLD 9700",
+    "MOTOROLA 모토로이 (XT720)",
+    "MOTOROLA 모토쿼티 (A853)",
+    "MOTOROLA 모토글램 (XT800W)",
+    "NOKIA X6",
+    "Apple 아이폰 (iPhone)",
+    "Apple 아이팟 (iPod)",
+    "Apple 아이패드 (iPad)",
+    "디지털카메라 (USB 포트 기기)",
+    "MP3 플레이어 (USB 포트 기기)",
+    "게임기 (USB 포트 기기)",
+    "PC 및 노트북 (데이터 통신 및 충전)"
+  ],
+  "package_contents": [
+    "가정용 USB 충전기 (AC Power USB Adapter) × 1",
+    "USB 충전/통신케이블 (USB to Micro B Cable, 1M) × 1"
+  ],
+  "usage_instructions": "1. 전기콘센트에 가정용 USB 충전기를 꽂는다. 이때 충전기에 파란불이 점등된다. 2. 충전케이블의 USB 단자를 가정용 USB 충전기에 끝까지 밀어 꽂는다. 3. 충전케이블의 마이크로 B 단자를 충전할 스마트폰에 연결한다. 초고속 충전이 시작된다. 4. 배터리 충전이 완료되면 케이블을 분리한다. [분리 사용] USB 충전/통신케이블만 분리하여 컴퓨터나 노트북에 연결하면 충전 및 데이터 통신 가능. 가정용 USB 충전기만 분리하여 아이폰, 아이패드, 아이팟 및 기타 휴대용 기기 충전 가능.",
+  "cautions": [
+    "스마트폰 모두가 마이크로 B 단자를 사용하지 않으니 구매 전 단자 모양을 반드시 확인할 것",
+    "제품을 임의로 분해할 경우 교환 및 환급이 불가함"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "USB-A Male",
+      "connector_type_b": "Micro B (5핀) Male",
+      "gender": "M-M",
+      "pin_count": 5
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 단자를 가정용 USB 충전기에",
+    "connectivity.output_signals": "마이크로 B 단자를 충전할 스마트폰에",
+    "connectivity.directional": "충전 및 데이터 통신 가능",
+    "power.power_mode": "가정용 USB 충전기",
+    "power.charging_support": "초고속 충전 가능",
+    "form_physical.length_meters": "케이블 길이: 1M",
+    "certification.kc": "전기용품안전인증 제품 (인증번호: HU10065-30104)",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.connector_type_a": "USB 단자를 가정용 USB 충전기에",
+    "family.connector_type_b": "마이크로 B 단자를 충전할 스마트폰에",
+    "family.gender": "USB to Micro B (5핀)",
+    "family.pin_count": "5핀"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:36",
+  "feature_schema_version": "1.0.0"
+}

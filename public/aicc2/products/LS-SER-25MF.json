@@ -1,0 +1,235 @@
+{
+  "model_no": "LS-SER-25MF",
+  "product_name": "LAN Star 공유기 연장 케이블 25핀 M/F (DB25P/M-DB25P/F)",
+  "category": [
+    "익스텐더"
+  ],
+  "key_features": [
+    "DB25P Male to DB25P Female 25핀 다이렉트 연장 케이블",
+    "공유기 케이블의 길이를 연장하는 용도로 사용",
+    "25핀 다이렉트(Direct) 배열 구성",
+    "1.8M / 3M / 5M 세 가지 길이 선택 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "RoHS 규격 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "25핀 다이렉트 배열 (DB25 Male → DB25 Female)",
+    "25pin to 25pin serial 연장 케이블",
+    "RoHS(EU 특정위험물질 사용제한 지침) 준수 — 납·수은·카드뮴 등 중금속 미사용",
+    "길이 옵션: 1.8M / 3M / 5M"
+  ],
+  "specifications": {
+    "커넥터 타입": "DB25P/M - DB25P/F",
+    "케이블 길이": "1.8M / 3M / 5M",
+    "정격 전압": "300V",
+    "작동 온도": "0 ~ 80°C",
+    "핀 구성": "25핀 다이렉트 배열",
+    "RoHS": "준수 (COMPLIANT)",
+    "품질 인증": "ISO 9001:2008",
+    "핀 수": "25핀",
+    "배열 방식": "다이렉트(Direct)",
+    "제조국": "중국 (China)",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "DB25P (DB-25) Male 커넥터 장비",
+    "DB25P (DB-25) Female 커넥터 장비",
+    "25핀 시리얼(Serial) 포트 규격 기기",
+    "DB25P (25핀) Male 커넥터 장치",
+    "DB25P (25핀) Female 커넥터 장치",
+    "25핀 시리얼(Serial) 포트 기기"
+  ],
+  "package_contents": [
+    "DB25P/M-DB25P/F 공유기 연장 케이블 1개 (선택 길이: 1.8M / 3M / 5M 중 1종)",
+    "공유기 연장 케이블 25핀 M/F 1개"
+  ],
+  "usage_instructions": "공유기 케이블의 길이가 부족할 때 본 케이블을 기존 케이블에 연결하여 연장 사용. DB25P Male 단자를 기존 케이블의 Female 포트에, DB25P Female 단자를 연장할 장비의 Male 포트에 연결.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품은 판매처(쇼핑몰 하단) 참조"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SER-25MF-1.8M",
+      "품목코드": "CAB-공유F001",
+      "품목명": "[LANstar] 공유기 연장케이블 , DB25P M／F, 25Core, 1.8M[10510] (70개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SER-25MF-5M",
+      "품목코드": "CAB-공유F002",
+      "품목명": "[LANstar] 공유기 연장케이블 , DB25P M／F, 25Core, 5M[10512] (30개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SER-25MF-3M",
+      "품목코드": "CAB-공유F004",
+      "품목명": "[LANstar] 공유기 연장케이블 , B25P M／F, 25Core, 3M[10511] (40개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-SER-25MF",
+      "내용": "구매해서 잘 사용하고 있습니다.",
+      "관련내용": "배송도빠르고물건잘받았습니다"
+    },
+    {
+      "source_model": "LS-SER-25MF",
+      "내용": "배송도빠르고물건잘받았습니다"
+    },
+    {
+      "source_model": "LS-SER-25MF-3M",
+      "내용": "배송빠르고 포장상태 좋습니다"
+    },
+    {
+      "source_model": "LS-SER-25MF-3M",
+      "내용": "쓸만해요..."
+    },
+    {
+      "source_model": "LS-SER-25MF-5M",
+      "내용": "배송빠르고 좋아요 잘샀어요"
+    },
+    {
+      "source_model": "LS-SER-25MF-5M",
+      "내용": "저렴한 가격에 잘쓰도 있습니다",
+      "관련내용": "비싸지 않고 품질 좋네요"
+    },
+    {
+      "source_model": "LS-SER-25MF-5M",
+      "내용": "비싸지 않고 품질 좋네요"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-SER-25MF-3M",
+      "chatUrl": "9JYs0",
+      "dateIso": "2023-09-13T07:28:12.194Z",
+      "name": "Outis",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "안녕하세요.\nG마켓에서 해당 제품으로 구매 후 교환 문의를 드리고자 글을 남깁니다.",
+      "answer": "교환의 경우에는 구매 해주신 곳에서 진행을 해주셔야 합니다. 안내 받으신 것처럼 스마트스토어 톡톡 문의로 고객 응대를 진행해드리고 있는 것은 맞으나, 여기서는 기술적인 지원이나 저희 랜스타 스마트스토어에서 구매해주신 제품만 응대 가",
+      "turn_count": 4,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "A/S 문의"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "A/S 문의"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요? 네 고객님, 정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의"
+        },
+        {
+          "role": "customer",
+          "text": "네, 감사합니다."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n교환의 경우에는 구매 해주신 곳에서 진행을 해주셔야 합니다.\n안내 받으신 것처럼 스마트스토어 톡톡 문의로 고객 응대를 진행해드리고 있는 것은 맞으나, 여기서는 기술적인 지원이나 저희 랜스타 스마트스토어에서 구매해주신 제품만 응대 가"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요.\nG마켓에서 해당 제품으로 구매 후 교환 문의를 드리고자 글을 남깁니다."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-SER-25MF-XXM": "LAN Star\n공유기 연장 케이블 25핀\nDB25P/M-DB25P/F\n1.8M 3M 5M\n25핀 공유기 연장 케이블이란?\n공유기 케이블의 길이를 연장하는 용도로 사용합니다.\n25/25 공유기 연장 케이블\n25pin to 25pin serial\nD\n4444444\nDB25P(Male)\nDB25P(Female)\n25핀 다이렉트 배열도\nIC\n100\nDB25M\nDB25F\nPIN OUT\nDB25M\nDB25F\nDB25M\nDB25F\nRed\nOrange/White\n14\n14\nBlue\nPink/White\n123\n2\n3\n123\n15\n15\n16\n56\nOrange\nGreen/White\n16\nDink\nPrown/White\n\n\nPIN OUT\nDB25M\nDB25F\nDB25M\nDB25F\nRed\nOrange/White\n14\nBlue\nPink/White\n14\n15\n16\n17\nOrange\nGreen/White\nPink\nBrown/White\nGreen\n123456781\nYellow/White\n101\n18\n15\n16\n17\n18\n19\n20\n21\nBrown\nPurple/White\nYellow\nRed/Black\n234567890123\n19\n20\n21\nWhite\nOrange/Black\n9\nGrey\nYellow/Black\n22\nBlack\nGreen/Black\n23\n23\n24\nPurple\n2222\nGrey/Black\n10\n11\n12\n13\n24\n10\n11\n12\n13\nRed/White\nPink/Black\n25\nSHELL\n25\nSHELL\nBlue/White\nPRODUCT IMAGE\n13444443\nM 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n콘넥터타입\nDB25P/M-DB25P/F\n길\n이\n1.8M/3M/5M\n전\n압\n300V\n작동온도\n0~80°℃\nR\nROHS\nTIONAL\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\n공유기 연장 케이블 25핀 M/F\nLS-SER-25MF-1.8M\nLANStar\n모\n델\n명\nLS-SER-25MF-3M\nLS-SER-25MF-5M\n인증번호\n상세페이지 참조\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\n\n\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Serial(DB9)"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [
+        1.8,
+        3.0,
+        5.0
+      ],
+      "color_options": []
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "max_distance_m": null,
+      "carrier_media": [
+        "N/A"
+      ],
+      "poc_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DB25P Male to DB25P Female",
+    "connectivity.output_signals": "DB25P Male to DB25P Female",
+    "connectivity.directional": "25핀 다이렉트 연장 케이블",
+    "form_physical.length_options_meters": "1.8M / 3M / 5M 세 가지 길이 선택 가능",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:14",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "compatibility": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

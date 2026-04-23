@@ -1,0 +1,163 @@
+{
+  "model_no": "LS-POETS",
+  "product_name": "LANStar POE / DC Power / RJ45 테스터기 (LS-POETS)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "POE 스위치 포트 불량 테스트: 표준/비표준 PoE 장비의 전압, 극성, Midspan/Endspan 정보 확인",
+    "IEEE 802.3af(15W) / 802.3at(30W) 표준 및 비표준 PoE 지원",
+    "RJ45 랜 케이블 단선(Open), 단락(Short), 크로스(Cross) 불량 테스트",
+    "DC 전원 테스트: 전압(0~60V), 전류(0~3A), 전력(0~180W) 측정",
+    "Loopback 테스트: POE 스위치 해당 포트 LED를 통해 정상 유무 확인 (10M/100M 호환)",
+    "LCD 스크린(5cm x 2.5cm, 백라이트 지원)으로 결과 직관적 확인",
+    "LED 플래시 내장으로 어두운 환경에서도 작업 가능",
+    "AAA 건전지 3개로 동작 (배터리 포함)",
+    "KC 인증 획득 제품 (인증번호: R-R-LUS-LS-POETS)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "스크린 크기": "5cm(W) x 2.5cm(H), 백라이트 기능 지원",
+    "지원 케이블 타입": "UTP / STP",
+    "최대 지원 거리": "600m",
+    "Wire Mapping 테스트 구성": "테스터기 본체 + Remote",
+    "PoE 테스트 구성": "테스터기 본체 + PoE 스위치",
+    "PoE 테스트 범위": "DC 5~60V POE 스위치",
+    "PoE 지원 표준": "802.3af / 802.3at (standard / non-standard)",
+    "PoE 테스트 전력 범위": "0~18W",
+    "Power 전압 범위": "DC 0~60V",
+    "Power 전류 범위": "0~3A",
+    "Power 전력 범위": "0~180W",
+    "입력 보호 전압": "DC 48V 5mA",
+    "최대 작동 전류": "80mA",
+    "Loopback 호환": "10M / 100M POE 스위치",
+    "배터리": "AAA 건전지 x3 (포함)",
+    "Remote 포트": "RJ45 Ethernet Port",
+    "Remote 기능": "랜케이블 오류 및 불량 테스트",
+    "Remote 입력 보호 전압": "DC 48V 5mA",
+    "테스터기 본체 무게": "약 122g",
+    "Remote 무게": "약 24g",
+    "패키지 무게": "약 298g",
+    "본체 크기": "125mm x 68mm x 29mm (추정: 길이 x 폭 x 두께)",
+    "Remote 크기": "63.5mm x 36.5mm x 28mm (추정: 길이 x 폭 x 두께)",
+    "KC 인증번호": "R-R-LUS-LS-POETS",
+    "제조국": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)",
+    "A/S 문의": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "IEEE 802.3af 표준 PoE 장비",
+    "IEEE 802.3at 표준 PoE 장비",
+    "비표준(Non-standard) PoE 장비",
+    "10M / 100M POE 스위치 (Loopback 테스트)",
+    "UTP 케이블",
+    "STP 케이블",
+    "RJ45 인터페이스 장비"
+  ],
+  "package_contents": [
+    "테스터기 본체: 1ea",
+    "와이어맵(Remote): 1ea",
+    "DC 아답터 케이블: 1ea (30mm)",
+    "악어클립 케이블: 1ea",
+    "RJ45 케이블: 1ea",
+    "AAA 배터리: 3ea",
+    "설명서: 1ea",
+    "파우치: 1ea"
+  ],
+  "usage_instructions": "1. [POE 테스트] POE 스위치와 테스터기를 랜케이블로 연결 후 테스트 진행 → LCD에 케이블 페어 수, IEEE 표준, 전압 표시. 2. [RJ45 케이블 테스트] 테스터기 본체와 Remote(와이어맵)를 랜케이블로 연결 후 테스트 진행 → 단선/단락/크로스/불량 핀 번호 LCD 표시. 3. [DC 전원 테스트] 전원 아답터와 전원 공급 장치 사이에 연결 → 전압, 전류, 전력 LCD 표시. 4. [Loopback 테스트] POE 스위치와 테스터기를 랜케이블로 연결 후 Loopback 테스트 진행 → LCD에 'LOOP Testing...' 표시, 스위치 포트 LED로 정상 유무 확인. 5. 배터리: 테스터기 뒤쪽에 AAA 건전지 3개 삽입. 6. 기능키: 전원 On/Off, LED ON, 좌측 이동, 우측 이동, 돌아가기, OK(확인) 버튼으로 조작.",
+  "cautions": [
+    "회로 전압이 60V DC를 초과하는 경우 테스터기 손상 위험이 있으므로 연결하지 않을 것",
+    "배터리는 AAA 건전지 3개 사용 (동봉된 배터리 포함)",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-POETS",
+      "품목코드": "NEO-테스터128",
+      "품목명": "[LANstar] POE / DC power / RJ45 테스터기 [30660] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-POETS",
+      "내용": "잘 사용하고 있습니다",
+      "관련내용": "좋아요 만족합니다 재구매의사있어요"
+    },
+    {
+      "source_model": "LS-POETS",
+      "내용": "좋아요 만족합니다 재구매의사있어요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "배터리",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 랜 케이블",
+    "connectivity.output_signals": "RJ45 랜 케이블",
+    "connectivity.directional": "테스터기 본체와 Remote(와이어맵)를 랜케이블로 연결",
+    "power.power_mode": "AAA 건전지 3개로 동작 (배터리 포함)",
+    "power.charging_support": "AAA 건전지 3개로 동작",
+    "form_physical.has_case": "테스터기 본체",
+    "certification.kc": "KC 인증 획득 제품",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "기능키: 전원 On/Off, LED ON, 좌측 이동, 우측 이동, 돌아가기, OK(확인) 버튼으로 조작",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:35",
+  "feature_schema_version": "1.0.0"
+}

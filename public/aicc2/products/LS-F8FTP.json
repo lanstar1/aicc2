@@ -1,0 +1,228 @@
+{
+  "model_no": "LS-F8FTP",
+  "product_name": "LAN Star CAT.8 FTP FLAT 케이블 (다이렉트 평면 랜 케이블 / 연선)",
+  "category": [
+    "랜케이블-CAT8",
+    "랜케이블-FTP"
+  ],
+  "key_features": [
+    "CAT.8 FTP 평면(FLAT) 케이블",
+    "연선(STRANDED) 구조",
+    "최대 40Gbps 전송속도",
+    "2000MHz 대역폭",
+    "32AWG 심선",
+    "3μ 금도금 RJ45 커넥터 (3Prongs 형태 핀)",
+    "FLUKE 테스트 통과 (전 길이 모델)",
+    "코튼 메쉬 외피 적용 (내마모성, 꼬임 방지, 고급 디자인)",
+    "알루미늄 쉴드 + Drain Wire 포함 FTP 구조 (EMI/RFI 차단)",
+    "4Pair Twisted 구조 (신호 간섭 최소화)",
+    "RoHS 인증 / REACH 인증 완료 (SGS)",
+    "40GBASE-T 지원",
+    "케이블 단면 크기: 2.5(H) x 8.2(W) mm (얇고 납작한 평면 설계)",
+    "문틈·카펫 아래·바닥 몰딩 밑 등 공간 제약 환경에 적합",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "라인업시스템(주) / 랜스타 정품 인증 제품"
+  ],
+  "specifications": {
+    "규격": "CAT.8 FTP FLAT",
+    "전송속도": "최대 40Gbps",
+    "대역폭": "2000MHz",
+    "심선": "32AWG",
+    "심선_도체": "BC (Bare Copper, 무도금 동선 / 연선)",
+    "커넥터": "3μ Gold Plated Pin (3Prongs 형태)",
+    "케이블_직경": "OD 2.5(H) x 8.2(W) mm",
+    "케이블_길이_라인업": "0.5m, 1m, 1.5m, 2m, 3m, 5m, 7m, 10m",
+    "쉴드_구조": "FTP (Foiled Twisted Pair) - 알루미늄 쉴드 + Drain Wire",
+    "외피": "코튼 메쉬 외피 + PVC 자켓",
+    "내부_구조": "4Pair Twisted (4쌍 꼬임 구조)",
+    "핀_배열": "T568B",
+    "인증": "RoHS, REACH (SGS 인증)",
+    "테스트": "FLUKE LINKWARE PC (전 길이 모델 PASS, Test Limit: ISO/IEC 11801 Channel Class I)",
+    "제조국": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)",
+    "모델번호_0.5M": "30923 / LS-F8FTP-0.5M",
+    "모델번호_1M": "30924 / LS-F8FTP-1M",
+    "모델번호_1.5M": "30925 / LS-F8FTP-1.5M",
+    "모델번호_2M": "30926 / LS-F8FTP-2M",
+    "모델번호_3M": "30927 / LS-F8FTP-3M",
+    "모델번호_5M": "30928 / LS-F8FTP-5M",
+    "모델번호_7M": "30929 / LS-F8FTP-7M",
+    "모델번호_10M": "30930 / LS-F8FTP-10M"
+  },
+  "compatibility": [
+    "CAT.8 (40GBASE-T) 장비 및 포트",
+    "CAT.7 / CAT.6A (10GBASE-T) 장비 및 포트",
+    "CAT.6 (1000BASE-TX) 장비 및 포트",
+    "CAT.5E (1000BASE-T) 장비 및 포트",
+    "하위 규격(CAT.5E~CAT.7) 지원 모든 장비 및 포트 (해당 규격 최대 속도로 동작)",
+    "표준 RJ45 포트 (일반 라운드 케이블과 동일한 RJ45 커넥터 규격)"
+  ],
+  "package_contents": [
+    "CAT.8 FTP FLAT 랜 케이블 1개 (선택 길이: 0.5m / 1m / 1.5m / 2m / 3m / 5m / 7m / 10m)"
+  ],
+  "usage_instructions": "평면 디자인을 활용하여 문틈, 창틀, 카펫 아래, 바닥 몰딩 밑, 벽 구석 등 공간이 제한된 장소에 설치 가능. 테이프나 클립으로 표면에 밀착 고정하여 사용. 일반 RJ45 포트에 꽂아 사용하며, 라운드 케이블과 커넥터 길이 차이가 있으나 신호 전달에는 문제 없음. 실내 환경 전용으로 사용 권장.",
+  "cautions": [
+    "심한 당김(장력)이 가해지는 환경에서는 외피와 커넥터 결합 부위 손상 가능성이 있으므로 주의 필요.",
+    "케이블 테스터기 등 전문 작업 시 접촉 상태가 다소 민감할 수 있으며, 이 경우 라운드 케이블이 더 적합할 수 있음.",
+    "실외 사용 금지 - 직사광선과 습기로 인한 성능 저하 발생 가능. 실외 설치 시 실외용 케이블 사용 권장.",
+    "고강도 압력이 지속적으로 가해지는 환경에서는 사용을 피할 것 (순간적인 압력은 문제 없음).",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처 제품은 A/S 불가.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-F8FTP-0.5M",
+      "품목코드": "CAB-SS8101",
+      "품목명": "[Lanstar] CAT.8 FTP 평면 랜 케이블, 0.5M [30923][200개]",
+      "variant_suffix": "-0.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F8FTP-1M",
+      "품목코드": "CAB-SS8102",
+      "품목명": "[Lanstar] CAT.8 FTP 평면 랜 케이블, 1M [30924][200개]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F8FTP-1.5M",
+      "품목코드": "CAB-SS8103",
+      "품목명": "[Lanstar] CAT.8 FTP 평면 랜 케이블, 1.5M [30925][100개]",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F8FTP-2M",
+      "품목코드": "CAB-SS8104",
+      "품목명": "[Lanstar] CAT.8 FTP 평면 랜 케이블, 2M [30926][100개]",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F8FTP-3M",
+      "품목코드": "CAB-SS8105",
+      "품목명": "[Lanstar] CAT.8 FTP 평면 랜 케이블, 3M [30927][80개]",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F8FTP-5M",
+      "품목코드": "CAB-SS8106",
+      "품목명": "[Lanstar] CAT.8 FTP 평면 랜 케이블, 5M [30928][60개]",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F8FTP-7M",
+      "품목코드": "CAB-SS8107",
+      "품목명": "[Lanstar] CAT.8 FTP 평면 랜 케이블, 7M [30929][50개]",
+      "variant_suffix": "-7M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F8FTP-10M",
+      "품목코드": "CAB-SS8108",
+      "품목명": "[Lanstar] CAT.8 FTP 평면 랜 케이블, 10M [30930][40개]",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-F8FTP",
+      "내용": "배송빠르고 가격 저렴함"
+    },
+    {
+      "source_model": "LS-F8FTP",
+      "내용": "전송이 빠르고 잘사용하고 있어요"
+    },
+    {
+      "source_model": "LS-F8FTP",
+      "내용": "제품좋아요 잘쓰고있어요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "N/A"
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "PVC",
+        "코튼 메쉬",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1.0,
+        1.5,
+        2.0,
+        3.0,
+        5.0,
+        7.0,
+        10.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT8",
+      "shielding": "FTP",
+      "conductor": "연선(stranded)",
+      "awg": 32,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 커넥터",
+    "connectivity.output_signals": "RJ45 커넥터",
+    "connectivity.directional": "LAN Star CAT.8 FTP FLAT 케이블",
+    "power.power_mode": "N/A",
+    "form_physical.material": "코튼 메쉬 외피 + PVC 자켓",
+    "form_physical.length_options_meters": "0.5m, 1m, 1.5m, 2m, 3m, 5m, 7m, 10m",
+    "certification.rohs": "RoHS 인증 / REACH 인증 완료 (SGS)",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.cat_category": "CAT.8 FTP FLAT 케이블",
+    "family.shielding": "FTP (Foiled Twisted Pair)",
+    "family.conductor": "연선(STRANDED) 구조",
+    "family.awg": "32AWG 심선",
+    "family.pair_count": "4Pair Twisted 구조",
+    "family.flame_rating": "PVC 자켓"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:11",
+  "feature_schema_version": "1.0.0"
+}

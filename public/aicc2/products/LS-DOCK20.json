@@ -1,0 +1,128 @@
+{
+  "model_no": "LS-DOCK20",
+  "product_name": "USB DOCKING CABLE (USB 2.0 연장 케이블)",
+  "category": [
+    "USB케이블",
+    "USB2.0",
+    "리피터"
+  ],
+  "key_features": [
+    "USB 2.0 연장 케이블",
+    "2포트 USB 단자 제공",
+    "도킹볼 타입으로 거치에 용이",
+    "480Mbps 전송 속도 지원",
+    "일반 PC 및 맥킨토시 호환"
+  ],
+  "specifications": {
+    "USB 규격": "USB 2.0",
+    "전송 속도": "480Mbps",
+    "케이블 길이": "1.8m",
+    "포트 수": "2포트",
+    "타입": "도킹볼 타입"
+  },
+  "compatibility": [
+    "일반 PC",
+    "맥킨토시(Mac)"
+  ],
+  "package_contents": [
+    "USB 2.0 도킹 케이블 1.8m"
+  ],
+  "usage_instructions": "후면 DATA 단자: USB 메모리, 카드리더기 등 데이터 전송 및 USB 선풍기, 외장하드 보충 전원, 핸드폰 충전 등 전원 사용 모두 가능. 전면 Power 단자: USB 선풍기, 외장하드 보충 전원, 핸드폰 충전 등 전원 공급 전용으로 사용.",
+  "cautions": [
+    "전면 Power 단자는 데이터 전송이 되지 않습니다.",
+    "전면 Power 단자에는 USB 메모리, 카드리더기 등 데이터 장치 인식이 불가합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DOCK20-1.8M",
+      "품목코드": "USB-리피터018",
+      "품목명": "[LANstar] USB리피터 도킹볼 A／M-A／F*2port 1.8M(30개)[30028]",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DOCK20-1.8M",
+      "내용": "사용해보니 잘작동하네요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 1.8,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 2.0 연장 케이블",
+    "connectivity.output_signals": "2포트 USB 단자 제공",
+    "connectivity.directional": "USB 2.0 연장 케이블",
+    "connectivity.port_count": "2포트",
+    "power.power_mode": "USB 선풍기, 외장하드 보충 전원, 핸드폰 충전 등 전원 사용 모두 가능",
+    "power.charging_support": "핸드폰 충전 등 전원 사용 모두 가능",
+    "form_physical.has_case": "도킹볼 타입으로 거치에 용이",
+    "form_physical.length_meters": "1.8m",
+    "audio_video.max_resolution": "USB 2.0 연장 케이블",
+    "audio_video.hdr_support": "USB 2.0 연장 케이블",
+    "audio_video.hdcp_version": "USB 2.0 연장 케이블",
+    "audio_video.audio_pass": "USB 2.0 연장 케이블",
+    "control_switching.has_remote": "USB 2.0 연장 케이블",
+    "control_switching.has_hotkey": "USB 2.0 연장 케이블",
+    "control_switching.has_physical_button": "USB 2.0 연장 케이블",
+    "control_switching.has_mouse_switching": "USB 2.0 연장 케이블",
+    "control_switching.has_auto_scan": "USB 2.0 연장 케이블",
+    "control_switching.has_app_control": "USB 2.0 연장 케이블",
+    "family.usb_version": "USB 2.0",
+    "family.transfer_speed_gbps": "480Mbps 전송 속도 지원",
+    "family.charging_only": "데이터 전송 및 USB 선풍기, 외장하드 보충 전원, 핸드폰 충전 등 전원 사용 모두 가능",
+    "family.data_only": "데이터 전송 및 USB 선풍기, 외장하드 보충 전원, 핸드폰 충전 등 전원 사용 모두 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:38",
+  "feature_schema_version": "1.0.0"
+}

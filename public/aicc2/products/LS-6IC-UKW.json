@@ -1,0 +1,195 @@
+{
+  "model_no": "LS-6IC-UKW",
+  "product_name": "CAT.6 UTP 인라인 키스톤형 커플러 (흰색)",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "패치코드",
+    "키스톤잭",
+    "커플러",
+    "분배판넬",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "CAT.6 UTP 1:1 F/F 인라인 커플러",
+    "RJ45(8P8C) 50 금도금 단자 적용",
+    "110 Block Keystone Type 구조",
+    "Blank 패치판넬, Blank 박스, 벽부착용 아울렛에 장착 가능",
+    "Fluke Tester Pass 패치코드 케이블과 조합하여 기존 패치판넬을 저렴하게 대체 가능",
+    "EIA/TIA 568B CAT.6 표준 준수",
+    "UL-94V0 불연 ABS 소재 사용",
+    "RoHS, UL, KC 인증 획득",
+    "4가지 색상 라인업(흰색, 레드, 옐로우, 블루)",
+    "제조국: 대만(Taiwan)"
+  ],
+  "specifications": {
+    "인터페이스": "UTP Coupler 1:1 F/F, RJ45(8P8C)",
+    "단자 도금": "50 금도금",
+    "PCB 재질": "FR-4 / UL-94V0",
+    "제품 소재": "불연 ABS UL-94V0",
+    "준수 규격": "EIA/TIA 568B CAT.6 Standard",
+    "절연저항": "500M ohms (최소)",
+    "접속저항": "200M ohms (최대)",
+    "전류 정격": "1.5 Amps",
+    "DC 저항": "0.1 ohms (최소)",
+    "내전압": "1000 VAC RMS @ 60Hz / 1분",
+    "잭 삽입주기": "2000회 이상",
+    "작동온도": "-40°C ~ 70°C",
+    "치수(mm)": "23.9 x 17 x 28.7",
+    "색상": "흰색(UKW), 레드(UKRD), 옐로우(UKYL), 블루(UKBL)",
+    "인증": "RoHS, UL(DUXR.E203713), KC(LUS-LS-CAT6)",
+    "제조사": "라인업시스템(주)",
+    "원산지": "대만(Taiwan)"
+  },
+  "compatibility": [
+    "Blank 패치판넬",
+    "Blank 박스",
+    "벽부착용 아울렛",
+    "CAT.6 UTP 패치코드 케이블",
+    "EIA/TIA 568B 표준 장비",
+    "키스톤형 모듈 슬롯 지원 기기"
+  ],
+  "package_contents": [
+    "CAT.6 UTP 키스톤형 커플러 1개"
+  ],
+  "usage_instructions": "Blank 패치판넬, Blank 박스 또는 벽부착용 아울렛의 키스톤 슬롯에 본 제품을 장착한 후, Fluke Tester Pass 패치코드 케이블을 양단 RJ45 포트에 연결하여 LAN 케이블 연장 또는 기존 패치판넬 대체 용도로 사용. LAN 케이블 길이가 짧거나 연장이 필요한 경우, 또는 공공기관·데이터센터·전산실에서 기가비트 케이블 교체 시 기존 punch 방식 대신 저렴하게 적용 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 처리",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 무단 복제 및 이용 시 불이익을 받을 수 있음",
+    "AS 소비자상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-6IC-UKW",
+      "품목코드": "NEO-커플러030",
+      "품목명": "[LANstar] 키스톤 장착형 커플러, CAT.6, UTP, I형, RJ45, UL규격, White, 대만산[40098] (1000개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-6IC-UKW",
+      "내용": "빠르게 잘 도착했습니다."
+    },
+    {
+      "source_model": "LS-6IC-UKW",
+      "내용": "늘 빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-6IC-UKW",
+      "내용": "늘 빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-6IC-UKW",
+      "내용": "늘 빠르게 도착해서 좋아요"
+    },
+    {
+      "source_model": "LS-6IC-UKW",
+      "내용": "빠르게 잘 도착했어요. 1개 누락분도 바로 보내서 잘 받았습니다."
+    },
+    {
+      "source_model": "LS-6IC-UKW",
+      "내용": "급하게 주문했는데 빠르게 잘 도착하였습니다."
+    },
+    {
+      "source_model": "LS-6IC-UKW",
+      "내용": "뻐르게 도착해서 잘 설치하였습니다.."
+    },
+    {
+      "source_model": "LS-6IC-UKW",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-6IC-UKW",
+      "내용": "키스톤형 커플러가 편할거 같네요"
+    },
+    {
+      "source_model": "LS-6IC-UKW",
+      "내용": "잘 작동됩니다. 커플러이면서 키스톤이라서 좀 더 편리하고 활용하기 좋아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "ABS",
+        "FR-4",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "흰색",
+        "레드",
+        "옐로우",
+        "블루"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "UL-94V0",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45(8P8C)",
+    "connectivity.output_signals": "RJ45(8P8C)",
+    "connectivity.directional": "1:1 F/F 인라인 커플러",
+    "connectivity.port_count": "RJ45(8P8C) 50 금도금 단자",
+    "power.power_mode": "무전원",
+    "power.charging_support": "false",
+    "form_physical.has_case": "키스톤형 커플러",
+    "form_physical.material": "불연 ABS 소재 사용",
+    "form_physical.color_options": "4가지 색상 라인업(흰색, 레드, 옐로우, 블루)",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "RoHS, UL, KC 인증 획득",
+    "family.cat_category": "CAT.6 UTP",
+    "family.shielding": "UTP",
+    "family.flame_rating": "UL-94V0 불연 ABS 소재 사용"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:31",
+  "feature_schema_version": "1.0.0"
+}

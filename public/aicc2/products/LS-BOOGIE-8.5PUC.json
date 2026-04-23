@@ -1,0 +1,101 @@
+{
+  "model_no": "LS-BOOGIE-8.5PUC",
+  "product_name": "LCD 전자칠판 파우치 8.5형 (LCD WRITING TABLET POUCH 8.5형)",
+  "category": [
+    "배터리관련",
+    "전자칠판"
+  ],
+  "key_features": [
+    "건전지 하나로 종이 없이 필기, 계산, 그리기 가능",
+    "버튼 한 번으로 메모 삭제 가능 — 정보 유출 방지",
+    "종이를 사용하지 않아 자원 절약 가능",
+    "부드러운 필기감으로 아이들 장난감으로도 활용 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS(특정위험물질 사용제한) 준수 — 납, 수은, 카드뮴 등 중금속 사용 금지",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "화면 크기": "8.5형(인치)",
+    "제품 크기": "가로 17.5cm × 세로 27cm",
+    "두께": "10mm",
+    "무게": "48g",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [],
+  "package_contents": [
+    "LCD 전자칠판 8.5인치 파우치 본체"
+  ],
+  "usage_instructions": "건전지를 삽입 후 화면에 필기 도구로 필기, 계산, 그리기 등을 할 수 있으며, 버튼을 한 번 누르면 화면의 메모가 지워집니다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-BOOGIE-8.5PUC",
+      "품목코드": "COM-악세사176",
+      "품목명": "[LANstar] 전자칠판 파우치 검정 8.5인치[60079]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "배터리",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "wireless_standard": "N/A",
+      "output_watts": null
+    }
+  },
+  "feature_evidence": {
+    "power.power_mode": "건전지를 삽입 후",
+    "certification.rohs": "RoHS(특정위험물질 사용제한) 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "control_switching.has_physical_button": "버튼 한 번으로 메모 삭제 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:35",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,127 @@
+{
+  "model_no": "LS-DVI29G",
+  "product_name": "DVI-I 24+5 M/F 90도 꺾임 젠더",
+  "category": [
+    "DVI",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "DVI-I 듀얼링크 방식으로 2560x1600 해상도 지원",
+    "ㄱ자(90도) 꺾임 구조로 좁은 공간에서 연결 용이",
+    "커넥터 금도금 처리로 전도율이 높고 신호손실 최소화",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 타입": "DVI 24+5pin (Male) / DVI 24+5pin (Female)",
+    "신호 방식": "DVI-I 듀얼링크",
+    "최대 지원 해상도": "2560x1600",
+    "커넥터 도금": "금도금",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "품질 인증": "ISO 9001:2008, RoHS COMPLIANT"
+  },
+  "compatibility": [
+    "DVI-I 24+5pin Male 포트 기기",
+    "DVI-I 24+5pin Female 포트 기기",
+    "DVI-I 듀얼링크 지원 장치"
+  ],
+  "package_contents": [
+    "DVI-I 24+5 M/F 90도 꺾임 젠더 본체 1개"
+  ],
+  "usage_instructions": "DVI 24+5pin Male 단자를 기기의 DVI 포트에 연결하고, Female 단자에 DVI 케이블을 연결하여 사용. 좁은 공간에서 90도 꺾임 구조를 활용해 케이블을 정리할 수 있음.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DVI29G-MFL",
+      "품목코드": "GEN-HDI027",
+      "품목명": "[LANstar] DVI젠더Changer , DVI 24＋5 M／F, 90도 꺽임[20117]",
+      "variant_suffix": "-MFL",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DVI29G-MFL",
+      "내용": "배송도 빠르고 잘 됩니다 좋아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DVI-I"
+      ],
+      "output_signals": [
+        "DVI-I"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "2K",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "DVI-I Dual",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DVI-I 24+5 M/F",
+    "connectivity.output_signals": "DVI-I 24+5 M/F",
+    "connectivity.directional": "DVI-I 24+5 M/F",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "DVI-I 24+5 M/F 90도 꺾임 젠더",
+    "form_physical.material": "커넥터 금도금 처리",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "audio_video.max_resolution": "2560x1600 해상도 지원",
+    "audio_video.hdcp_version": "N/A",
+    "family.dvi_type": "DVI-I 듀얼링크"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:49",
+  "feature_schema_version": "1.0.0"
+}

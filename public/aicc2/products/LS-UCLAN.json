@@ -1,0 +1,292 @@
+{
+  "model_no": "LS-UCLAN",
+  "product_name": "LANStar Type-C 기가랜카드 + USB3.0 3포트 허브 (LS-UCLAN)",
+  "category": [
+    "USB허브",
+    "USB-C",
+    "USB3.0",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "USB 3.1 Type-C 인터페이스 지원 (위아래 구분 없이 연결 가능)",
+    "기가비트 이더넷 지원: 10/100/1000Mbps",
+    "USB 3.0 3포트 허브 내장, 최대 5Gbps 데이터 전송 속도",
+    "ASIX AX88179 칩셋 사용으로 호환성 및 안정성 우수",
+    "알루미늄 재질로 가볍고 열전도율·전도성이 높아 안정성과 성능 극대화",
+    "Plug&Play 지원 (별도 드라이버 설치 불필요)",
+    "Hot Swap 지원 (전원 유무 관계없이 연결·해제 가능)",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-UCLAN)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "최대 1Gbps(1000Mbps) 기가비트 전송 속도 지원",
+    "CAT.6 FTP 규격 케이블 (이중 차폐 + 십자형 차단막으로 신호 간섭 최소화)",
+    "Realtek RTL8153E 칩셋 탑재 (안정성·호환성 우수)",
+    "Plug&Play 지원 – 드라이버 설치 없이 연결 즉시 사용",
+    "USB-C와 RJ45 일체형 디자인으로 휴대성 극대화",
+    "내피 HDPE+PE, 외피 PVC+Cotton Mesh 소재로 내구성 확보",
+    "미사용 시 C타입 포트 보호 캡 제공",
+    "Windows, Mac OS, Android, Chrome OS 등 다양한 운영체제 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "라인업시스템(주) / 랜스타 정품 인증 제품"
+  ],
+  "specifications": {
+    "INPUT": "USB 3.1 Type-C",
+    "OUTPUT": "RJ45 1포트, USB 3.0 3포트",
+    "이더넷 전송속도": "10/100/1000Mbps",
+    "USB3.0 전송속도": "최대 5Gbps",
+    "칩셋": "ASIX AX88179 / Realtek RTL8153E",
+    "작동 온도": "-10°C ~ 70°C",
+    "크기": "86 x 23 x 16 (mm)",
+    "무게": "약 42.3g (케이블 포함)",
+    "재질": "알루미늄",
+    "케이블 길이": "약 15cm",
+    "KC 인증번호": "R-R-LUS-LS-UCLAN",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "형태": "USB Type-C to RJ45",
+    "규격": "CAT.6 FTP",
+    "전송 속도": "최대 1Gbps",
+    "케이블 직경": "6.3 ± 0.1mm",
+    "색상": "Black",
+    "길이 라인업": "2M, 3M, 5M, 10M",
+    "모델번호(2M)": "30893 / LS-UCLAN-2M",
+    "모델번호(3M)": "30894 / LS-UCLAN-3M",
+    "모델번호(5M)": "30895 / LS-UCLAN-5M",
+    "모델번호(10M)": "30896 / LS-UCLAN-10M",
+    "내피 소재": "HDPE + PE",
+    "외피 소재": "PVC 자켓 + Cotton Mesh"
+  },
+  "compatibility": [
+    "USB Type-C 포트 탑재 맥북, 노트북, 스마트폰",
+    "Windows XP / 7 / 8 / 8.1 / 10 / Vista",
+    "Mac OS",
+    "Linux",
+    "키보드, 마우스, USB 메모리, 프린터, 카메라 등 USB 장치",
+    "USB-C 포트 탑재 노트북 (충전 전용 포트 제외)",
+    "USB-C 포트 탑재 태블릿 (아이패드 프로, 아이패드 에어 4세대 이상 포함)",
+    "갤럭시 S20 이상 스마트폰",
+    "갤럭시 탭 S 시리즈",
+    "아이폰 15 이상",
+    "Windows 10 이상 (Plug&Play)",
+    "Mac OS (Plug&Play)",
+    "Android (Plug&Play)",
+    "Chrome OS (Plug&Play)",
+    "Windows 7 / 구형 Mac OS – Realtek RTL8153E 드라이버 수동 설치 시 사용 가능",
+    "RJ45 포트 보유 인터넷 포트(가정집), 공유기, 스위칭 허브 연결 가능"
+  ],
+  "package_contents": [
+    "LS-UCLAN 본체 (Type-C 기가랜카드 + USB3.0 3포트 허브)",
+    "USB C to RJ45 일체형 케이블 본체 (선택 길이: 2M / 3M / 5M / 10M)",
+    "C타입 포트 보호 캡"
+  ],
+  "usage_instructions": "USB Type-C 포트에 본 제품을 연결하면 별도 드라이버 설치 없이 Plug&Play로 즉시 사용 가능. RJ45 포트에 LAN 케이블을 연결하여 기가비트 유선 인터넷 이용 가능. USB 3.0 포트 3개에 키보드, 마우스, USB 메모리 등 USB 장치를 연결하여 포트 확장 가능. Hot Swap 지원으로 전원 상태와 무관하게 연결 및 해제 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품의 이미지 및 콘텐츠는 라인업시스템(주) 소유로 무단 복제 및 이용 금지",
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UCLAN-2M",
+      "품목코드": "NET-유랜카133",
+      "품목명": "[LANstar] USB-C타입 to RJ45 기가비트 이더넷 케이블 인터넷선 무전원, 2m [30893][100개]",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-UCLAN-3M",
+      "품목코드": "NET-유랜카134",
+      "품목명": "[LANstar] USB-C타입 to RJ45 기가비트 이더넷 케이블 인터넷선 무전원, 3m [30894][100개]",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-UCLAN-5M",
+      "품목코드": "NET-유랜카135",
+      "품목명": "[LANstar] USB-C타입 to RJ45 기가비트 이더넷 케이블 인터넷선 무전원, 5m [30895][50개]",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-UCLAN-10M",
+      "품목코드": "NET-유랜카136",
+      "품목명": "[LANstar] USB-C타입 to RJ45 기가비트 이더넷 케이블 인터넷선 무전원, 10m [30896][25개]",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "기능 잘 작동하고 간지나는 색상 맘에 듭니다."
+    },
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "튼튼하고 좋습니다. 맘에 들어요"
+    },
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "항상 인터넷은 느리고 게임은 잘 안되서 불편했는데 사용 후 쾌적하니 좋아요 고장나도 또 살 것 같아요",
+      "관련내용": "컴퓨터가 안좋아서 노트북을 대신 사용하는데 인터넷선을 연결하니까 하스팟보다 빠르고 좋아서 매우 만족합니다 합리적인 가격에 구매하니 더욱 좋네요 감사합니다"
+    },
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "여행때 잘 사용했어요",
+      "관련내용": "배송빠르네요 잘쓸께요"
+    },
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "인터넷이 안끊기고 잘 터진다고 해요",
+      "관련내용": "인터넷이 잘된다고 해요"
+    },
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "선 튼튼하고 속도 잘나와요"
+    },
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "인터넷이 잘된다고 해요"
+    },
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "컴퓨터가 안좋아서 노트북을 대신 사용하는데 인터넷선을 연결하니까 하스팟보다 빠르고 좋아서 매우 만족합니다 합리적인 가격에 구매하니 더욱 좋네요 감사합니다"
+    },
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "배송빠르네요 잘쓸께요"
+    },
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "만족합니당~~~~^^"
+    },
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "회사에서 작업할때 \n쓰는데 잘 사용중입니다~",
+      "관련내용": "사무실 작업장에 필요해서\n구매했어요~!!\n잘 도착해서 잘 쓰고 있습니당~"
+    },
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "너무 잘쓰고 있어요  좋아요",
+      "관련내용": "배송도 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "사무실 작업장에 필요해서\n구매했어요~!!\n잘 도착해서 잘 쓰고 있습니당~"
+    },
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "배송도 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "사용함에 편리하고 너무 빠른 배송이 좋와요"
+    },
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "이곳 저곳 찾아 헤맸던 일체형 USB C type 1기가비트 지원 랜케이블 발견ㅎ"
+    },
+    {
+      "source_model": "LS-UCLAN",
+      "내용": "노트북 에 연결 하여\n잘 사용 하고 있어요."
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-UCLAN-XXM": "LAN Star\nUSB C to RJ45 일체형 케이블\n최대 1Gbps / Plug&Play / 휴대성\n케이블 제품 분류표\n모델No.\n모델명\n길이\n직경\n색상\n30893\nLS-UCLAN-2M\n2M\n30894\nLS-UCLAN-3M\n새해대\n3M\n6.3±0.1mm\nBlack\n30895\nLS-UCLAN-5M\n5M\n30896\nLS-UCLAN-10M\n10M\n랜 포트 없는 무선 인터넷...\n혹시 이런 경험 없으셨나요??\n알림\n온라인 게임 튕김\n네트워크 상태가 불안정합니다.\n네트워크를 확인해 주세요.\n와이파이로 온라인 게임 실행시 네트워크\n연결 지연 및 게임 도중 튕김 현상으로\n불편함을 느껴보셨나요?\n확인\n화상회의 도중 튕김\n중요한 화상 회의 도중 버퍼링(연결 지연),\n튕김 현상으로 원활한 회의 진행이 불가하여\nLoading\n난감했던 경험 있으신가요?\n카페 Wi-Fi 끊김\n카페, 스터디 카페 등 여러 사람이 사용하는\n와이파이 사용중에 연결이 지연되고\n끊김 현상으로 불편함을 겪어보셨나요?\n이기UF AL\n-11\n\n\n이런 분들에게 추천드려요!\nⓒ 딜레이 없는 게임 환경을 원하는 게이머!\n안정적인 VPN, SSH 환경을 원하는 IT 전문가\nⓒ 노트북을 들고 출장, 외근이 잦은 직장인!\n랜포트 없는 세상! 케이블 하나로 해결!\nTWIT\n169\n1Gbps 지원\nCAT.6 FTP\nRTL8153E 칩셋\n빠르고 안정적인\n기가비트 속도 지원\n2중 차폐로 신호\n간섭 최소화\n검증된 Realtek 칩셋\n닭\nN\n►\n일체형 디자인\n다양한 기기 호환\nPLUG&PLAY\n출장, 외근에 최적화\n노트북, 태블릿, 스마트폰\n완벽 호환\n드라이버 설치 없이\n자동 인식\n유선 인터넷의 사용 빈도가 점점 줄어드는데...\n왜 유선 인터넷을 사용해야되죠?\n최신 노트북들은 점점 더 얇아지며 LAN 포트가 사라지고 있으며,\n스마트 기기에서 사용하는 와이파이 기술이 발전함에 따라 무선 인터넷을 선호합니다.\n그럼에도 불구하고 여전히 유선 인터넷은 필요성과 활용도가 높습니다!\n빠른 인터넷 속도\n일반적으로 무선(Wi-Fi)보다 전송 속도가 더 빠르고 안정적입니다.\n특히 고해상도 영상 스트리밍, 대용량 파일 다운로드/업로드에 유리합니다.\n낮은 지연(Latency)\n● 핑(Ping)값이 낮아 온라인 게임, 화상회의, 원격 제어에 적합합니다.\n무선 인터넷은 주변 간섭의 영향을 쉽게 받기 때문에 지연이 생기기 쉽습니다.\n신호 간섭 없음\n유선은 다른 기기나 전자기기 간섭에 영향을 받지 않기 때문에 일관된 연결 품질을 유지합니다.\n보안이 더 강함\n물리적인 연결이 필요하므로 무선보다 해킹 위험이 적고 안전합니다.\n끊김 없는 연결\nWi-Fi는 신호 세기나 위치에 따라 끊길 수 있지만, 유선은 그런 문제가 거의 없습니다.\n최대 1Gbps 전송속도 지원\n\n\n최대 1Gbps 전송속도 지원\n안정적인 기가비트 인터넷\n1Gbps 전송 속도를 지원하며\n무선 인터넷에 비해 안정적인 장점이 있습니다.\n#NITION WAGO\nwwwwww\n国\n1Gbps(1000Mbps)\n(c.\n100Mbps\n이중 차폐 + 십자형 차단막\nCAT.6 FTP 케이블 구조\n신호 간섭 방지를 위해 십자형 차단막과 함께 8개의 페어가 2개씩 꼬여있고,\n그 위를 비닐 차폐막과 알루미늄 차폐막으로 감싼 FTP 케이블입니다.\n▶ 내피 : HDPE + PE 소재\n▶ 외피 : PVC 자켓 + Cotton mesh\n▶ OD : 6.3 ± 0.1(mm)\nPVC + Cotton Mesh 2|II|\n십자형 차단막\n연선\n비닐 차폐막\n꼬임 구조\n알루미늄 차폐막\n접지선\nHDPE + PE LHII\nHDPE + PE LHII\n내부 보호를 위한 구조 강도 확보(HDPE) + 유연한 배선(PE) 조합으로\n전선이나 신호선, 유체가 지나가는 내부 환경을 보호\n• PVC + Cotton Mesh 외피\n난연성, 내유성, 내습성이 우수(PVC) + 외부 마찰 및 인장강도 보강(Cotton Mesh)\n외부 충격 보호와 유연한 굴곡에 강해 케이블 꺾임이나 외부 압력에 의한 손상 보호\n접지선(Drain Wire)\n각 차폐층의 접지 역할을 하며, 노이즈를 효과적으로 제거하여 신호를 안정적으로 전달하고,\n일반적으로 케이블을 연결하는 장치의 접지와 연결되어 외부 간섭을 분산시킵니다.\n주의사항!!\n1. 고온 환경(70℃~80℃)에서는 PVC 외피가 경화될 수 있습니다.\n2. 화학약품의 직접적인 노출을 피해주세요!\n\n\n1. 고온 환경(70℃~80℃)에서는 PVC 외피가 경화될 수 있습니다.\n2. 화학약품의 직접적인 노출을 피해주세요!\n케이블 특징\n유연한 소재 및 고급스러운 콘넥터 마감을 통해\n디자인 및 내구성을 모두 잡아 안정적으로 사용할 수 있습니다.\n110011\n66666\n콘넥터 마감 처리\n케이블 꼬임 방지 및 수명 연장\n유연한 케이블\n내구성이 뛰어난 케이블\n콘넥터 보호 캡\n미사용시 C타입 포트 보호\n랜카드나 멀티 허브를 이용해도 되지 않나요?\n왜 일체형 케이블을 사용해야되죠?\n일체형 케이블\n랜카드\n멀티 허브\n4809\n멀티 허브\n랜카드\nC to RJ45 일체형 케이블\n속도\n(CAT.6 FTP 기준)\n1Gbps\n(USB 3.0 기반)\n1Gbps\n(USB 3.0 기반)\n1Gbps\n신호 안정성\n중간\n(다른 포트 영향)\n보통\n(케이블, USB 영향)\n높음\n사용성\n중간\n(허브 + 랜케이블)\n중간\n(랜카드 + 랜케이블)\n높음\n(꽂아서 바로 사용)\n휴대성\n낮음\n(허브 + 랜케이블)\n보통\n(랜카드 + 랜케이블)\n매우 높음\n(가볍고 일체형)\n호환성\n대부분 윈도우10 이상,\n드라이버 필요\nO.S 특성에 따름\n대부분의 O.S에서 바로 사용\n디자인 일체감\nX\nX\n심플하고 깔끔\nREALTEK\n\n\nREALTEK\n빠른 속도, 안정성, 호환성!!\nY..y\nRealtek Chipset\nRTL8153E\nREALTEK\nRTL8153E\nB407K1 03\n발열이 적고 전력을 효율적으로 사용하며,\n타 브랜드 대비 가격이 저렴하고\n품질이 우수하여 OEM 제조사, 브랜드 제조사들이\n많이 채택하여 사용중인 칩셋입니다.\n포트에 연결 후 바로 사용하세요!\n간편한 사용 방법!\n▶INPUT:C타입 기기(스마트폰, 노트북, 태블릿 등)\n▶OUTPUT:RJ45 포트, 스위칭 허브, 공유기 등\nINPUT:USB-C\n노트북\n태블릿\n스마트폰\nOUTPUT:RJ45\n[III]\n인터넷 포트\n(가정집)\n공유기\n스위칭허브\n(X)\n별도 설치 과정 X!!\nPLUG&PLAY\n드라이버 설치 및 별도 설치 과정 없이\n연결하여 바로 사용!!\n다양한 O.S 지원\nWindows, Mac, Android, Chrome 등 다양한 O.S에서 사용할 수 있습니다.\nO\nnarch\nli Featured (21)\n\n\nWindows, Mac, Android, Chrome 등 다양한 O.S에서 사용할 수 있습니다.\nQ Search\nlii Featured (25)\nRANGO\nHANNA\n□\nbai\nhite\nauk Shadows\nStation Cate\nPana\nRented (1)\nPurcissed (LE\nRecorded\nWindows\nMac OS\nAndroid\nChrome\nPRODUCT SIZE\n2M/3M/5M/10M\n16.5mm\n13mm\n46.5mm\n49mm\n8mm\n10mm\n17mm\nSPECIFICATION\n형태\nUSB Type-C - RJ45\n규격\nCAT.6 FTP\n전송 속도\n1Gbps\n직경\n6.3 ± 0.1(mm)\n칩셋\nRealtek “RTL8153E\"\n색상\nBlack\n길이\n2M/3M/5M/10M\nFAQ\n자주 물어보시는 질문\nQ. 모든 USB C포트에서 사용 가능한가요?\n일부 기기의 C타입 포트는 충전 전용 포트일 수 있습니다.\n충전 전용 포트가 아닌 C타입 포트에서는 모두 사용 가능합니다.\nQ. 제 노트북에 LAN 포트가 없는데, 이 케이블만 쓰면 인터넷 가능할까요?\nUSB-C 포트만 있으면 별도의 허브 없이 이 케이블만으로 유선 인터넷 사용이 가능합니다.\n단, 노트북 운영체제가 케이블을 자동 인식할 수 있는 환경이어야 합니다.\n\n\n충전 전용 포트가 아닌 C타입 포트에서는 모두 사용 가능합니다.\nQ. 제 노트북에 LAN 포트가 없는데, 이 케이블만 쓰면 인터넷 가능할까요?\nUSB-C 포트만 있으면 별도의 허브 없이 이 케이블만으로 유선 인터넷 사용이 가능합니다.\n단, 노트북 운영체제가 케이블을 자동 인식할 수 있는 환경이어야 합니다.\nex) Windows 10 이상\nQ. 아이패드에서도 케이블 사용 가능한가요?\nUSB-C 포트를 지원하는 아이패드프로, 에어 4세대 이상 모델에서 사용 가능합니다.\n단, iPadOS의 버전이나 앱 설정에 따라 일부 제한이 있을 수 있으니,\n네트워크 연결이 필요한 앱이 유선 인터넷을 지원하는지도 함께 확인해 주세요.\nQ. 스마트폰, 태블릿에 연결하면 바로 인터넷이 되나요?\n대부분의 갤럭시 스마트폰, 아이폰(아이폰 15 이상)에서 바로 사용 가능합니다.\n(갤럭시 S20 이상, 갤럭시 탭 S 시리즈, 아이폰 15 이상, 아이패드 프로, 에어4세대 이상)\n단, 일부 중저가형 모델이나 구형 기종에서는 지원되지 않을 수 있습니다.\nQ. USB 허브에 연결해서 사용할 수 있나요?\n이 제품은 직접 USB-C 포트에 연결하여 사용할 때 정상 작동되도록 설계된 제품으로\nUSB 허브에 연결하여 사용하는 것은 권장하지 않습니다.\n허브나 독(dock)에 연결하면 전력 공급이나 인식 문제가 발생할 수 있습니다.\nQ. 인터넷 속도가 느려요 / 연결이 끊기는 것 같아요\n아래 사항을 먼저 확인해주세요.\n① 기기 USB-C포트가 USB3.0 이상 지원하는 포트인지 확인\n② 사용중인 인터넷 환경이 기가비트를 지원하는지 확인\n③ 공유기와 케이블, 포트 상태 확인\n3가지 조건이 정상인데도 문제 해결이 되지 않을 경우, 톡톡으로 문의주시기 바랍니다.\nQ. 드라이버는 따로 설치해야 하나요?\n대부분의 운영체제(Windows, MacOS, 안드로이드)는 별도의 드라이버 설치 없이\n케이블 연결 후 바로 사용할 수 있습니다.\nQ. Windows7 / 구형 MacOS 에선 사용할 수 없나요?\nRealtek “RTL8153E\" 칩셋 드라이버를 수동으로 설치하면 정상적으로 사용할 수\n있습니다. (운영체제 칩셋 드라이버를 지원하는지 확인해주세요)\n단, 운영체제가 너무 구형(윈도우 XP, MacOS 10.8 이하 등)일 경우엔 드라이버가\n제공되지 않을 수 있습니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\nㅎㅎ\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n전문기업확인서\n소재·부품·장비 전문기업확인서\npercasan\nAV\n* 2022.11.23-212531.28\n평가관리원\n기소개\n산업통산자원부 시행 제도\nKeit\n8802231 29\n2022.11.29 취득\n\n\n소새'\n소재부품 상비 전문기업인\n전문기업확인서\nCITI\nAW\n+43\n평가관리원\n기업소개축·\n신문기업인을 확인합니다\n산업통산자원부 시행 제도\nPUZZ327\n2022.11.29 취득\n한국산업기술평가관\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상품정보\n품\n명\nUSB C to RJ45 인터넷 케이블\nLS-UCLAN-2M\nLANStar\nLS-UCLAN-3M\n모\n델\n명\nLS-UCLAN-5M\nLS-UCLAN-10M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질 보증 기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANSStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "RJ45",
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄",
+        "PVC",
+        "PE",
+        "기타"
+      ],
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "port_count": 3,
+      "usb_version": "USB3.0",
+      "ethernet_speed_mbps": 1000,
+      "has_sd_reader": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 Type-C 인터페이스 지원",
+    "connectivity.output_signals": "RJ45 1포트, USB 3.0 3포트",
+    "connectivity.directional": "Hot Swap 지원 (전원 유무 관계없이 연결·해제 가능)",
+    "connectivity.port_count": "RJ45 1포트, USB 3.0 3포트",
+    "power.power_mode": "USB Type-C 포트에 본 제품을 연결하면",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "알루미늄 재질로 가볍고",
+    "form_physical.material": "알루미늄 재질로 가볍고",
+    "form_physical.length_meters": "케이블 길이: 약 15cm",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "색상: Black",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "certification.rohs": "null",
+    "certification.iso9001": "null",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "null",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.port_count": "USB 3.0 3포트 허브 내장",
+    "family.usb_version": "USB 3.0 3포트 허브 내장",
+    "family.ethernet_speed_mbps": "기가비트 이더넷 지원: 10/100/1000Mbps",
+    "family.has_sd_reader": "null"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:02",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,126 @@
+{
+  "model_no": "LS-240HM,420HM",
+  "product_name": "LANStar 미니 허브랙 캐비넷",
+  "category": [
+    "허브랙"
+  ],
+  "key_features": [
+    "10인치 랙 표준 미니 허브랙 (높이 240mm 또는 420mm, 깊이 300mm)",
+    "10인치 전기, 통신, 음향장비 장착에 최적화",
+    "전면 도어에 고강도 강화유리 적용 및 잠금장치(보조키 지급)",
+    "후면에 벽고정용 홀 4개 제공 – 벽 부착 가능",
+    "선반 1개 포함, 높이 조절 가능 (볼트 4개로 고정)",
+    "케이지너트 방식으로 장비 장착 가능 – 견고하고 안전한 보관",
+    "랙 선반 분리 가능, 후면 패널 분리 가능",
+    "아이보리 색상"
+  ],
+  "specifications": {
+    "모델명": "LS-240HM / LS-420HM",
+    "사이즈": "240(H)x312(W)x300(D)mm / 420(H)x312(W)x300(D)mm",
+    "유닛": "4U / 8U",
+    "내부규격": "215(W)x150(D)mm / 215(W)x150(D)mm",
+    "무게(포장재 포함)": "LS-240HM: 6.1kg(본체), 7.1kg(포장재 포함) / LS-420HM: 7.5kg(본체), 8.5kg(포장재 포함)",
+    "색상": "아이보리",
+    "고정타입": "스틸고정형",
+    "전면도어": "강화유리",
+    "후면도어": "스틸도어 (벽고정용 홀 4개)",
+    "선반": "1개 (높이 조절 가능)",
+    "잠금장치": "잠금장치 (보조키 추가 증정)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "브랜드": "LANStar",
+    "인증번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "10인치 랙 표준 규격 전기/통신/음향 장비",
+    "CAT.5E 12포트 패치판넬 (LS-EPLB-12P10) – 별도 구매",
+    "CAT.6 12포트 패치판넬 (LS-6PLB-12P10) – 별도 구매",
+    "미니 허브랙 선반 (LS-SHE-10INCH) – 별도 구매"
+  ],
+  "package_contents": [
+    "미니 허브랙 캐비넷 본체 1개",
+    "선반 1개",
+    "볼트 10개",
+    "케이지너트 10개",
+    "보조키",
+    "육각 꺾임 렌치"
+  ],
+  "usage_instructions": "후면의 벽고정용 홀(4개)을 이용해 벽에 부착 가능. 선반은 볼트 4개로 고정되며 높이 조절 가능. 장비는 케이지너트 방식으로 장착. 전면 강화유리 도어는 잠금장치로 시건 가능. 추가 선반(LS-SHE-10INCH)은 별도 구매 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸",
+        "강화유리"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "아이보리"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "rack_unit": null,
+      "mount_type": "wall_mount",
+      "depth_mm": 300,
+      "width_mm": 312,
+      "height_mm": null,
+      "has_door": true,
+      "has_lock": true,
+      "has_fan": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "미니 허브랙 캐비넷",
+    "form_physical.material": "스틸고정형, 강화유리",
+    "form_physical.color_options": "아이보리 색상",
+    "certification.kc": "인증번호: 해당없음",
+    "family.mount_type": "벽고정용 홀 4개 제공 – 벽 부착 가능",
+    "family.depth_mm": "깊이 300mm",
+    "family.width_mm": "312(W)x300(D)mm",
+    "family.has_door": "전면 도어에 고강도 강화유리 적용",
+    "family.has_lock": "잠금장치(보조키 지급)"
+  },
+  "feature_extracted_at": "2026-04-23T03:06:40",
+  "feature_schema_version": "1.0.0"
+}

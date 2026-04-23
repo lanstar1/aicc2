@@ -1,0 +1,186 @@
+{
+  "model_no": "LS-PCIE-EX902BN",
+  "product_name": "LANStar PCI-Express to Serial 카드 (LS-PCIE-EX902BN)",
+  "category": [
+    "시리얼카드"
+  ],
+  "key_features": [
+    "시리얼 포트가 없는 PC에 PCI-Express 슬롯을 통해 RS232C 시리얼 2포트 생성",
+    "ASIX(MOS) MCS9901 칩셋 사용으로 안정적인 장치 확장 지원",
+    "PCI-Express x1 슬롯 장착형 카드로 x16 / x8 / x4 슬롯 모두 호환 가능",
+    "시리얼 최대 전송 속도 230.4Kbps 지원",
+    "Windows11 지원",
+    "MCS-9901CV-CC 칩셋의 독점적 CASCADE 인터페이스를 통한 장치 확장 옵션 지원",
+    "국립전파연구원(KCC) 인증 획득 제품",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "PCI-Express x1 Bus Slot 사용 (x4, x8, x16 슬롯에도 장착 가능)",
+    "DB 9PIN RS232 인터페이스 2포트 제공",
+    "시리얼 통신 최대 230.4Kbps 전송 속도 지원",
+    "ASIX AX99100 칩셋 탑재 (단일 칩으로 다양한 I/O 기능 제공)",
+    "Windows 7/8/10/11, Linux, Mac OS 다양한 운영체제 지원",
+    "Plug & Play 지원 (운영체제 자동 인식 및 드라이버 자동 설치)",
+    "PCIe 슬롯에서 전력 공급 (별도 외부 전원 불필요)",
+    "슬림 PC용 로우 프로파일 브라켓 2개 포함",
+    "2개의 시리얼 포트 동시 독립 사용 가능",
+    "국립전파연구원 KC 인증 획득 (인증번호: KCC-REI-LUS-LS-PCIE-EX902)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "데스크탑 전용 내장형 PCIe 카드"
+  ],
+  "specifications": {
+    "칩셋": "MOS MCS9901 (MCS-9901CV-CC) / ASIX AX99100",
+    "슬롯": "PCI-Express x1",
+    "인터페이스": "DB-9pin RS232 커넥터 2포트 / DB 9PIN RS232 x2",
+    "전송 속도": "230.4Kbps",
+    "지원 OS": "Windows XP / Vista / Server 2000 / 7 / 8 / 8.1 / 10 / 11, Linux, Mac OS",
+    "KC 인증번호": "KCC-REI-LUS-LS-PCIE-EX902",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "카드 크기(단위 mm)": "76.5 x 50 x 120 (추정 치수, 도면 수치 기준)",
+    "브라켓 크기(단위 mm)": "18 (슬림 PC 브라켓 기준)",
+    "BUS_SLOT": "PCI Express x1",
+    "UART_호환": "16C450 / 550 / Extended 550 compatible UARTs",
+    "전송_속도": "Serial up to 230.4 Kbps",
+    "지원_OS": "Windows 7 / 8 / 10 / 11, Linux, Mac OS",
+    "전원_공급": "PCIe 슬롯 버스 전원 (별도 전원 연결 불필요)",
+    "무게": "약 45g",
+    "크기": "120mm x 66mm (카드 기준, 높이 59mm, 두께 20mm)",
+    "제조국": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)",
+    "KC_인증번호": "KCC-REI-LUS-LS-PCIE-EX902",
+    "기타_기능": "Supports remote wakeup and power management features, Fully Plug & Play compatible"
+  },
+  "compatibility": [
+    "PCI-Express x1 슬롯",
+    "PCI-Express x4 슬롯",
+    "PCI-Express x8 슬롯",
+    "PCI-Express x16 슬롯",
+    "Windows XP",
+    "Windows Vista",
+    "Windows Server 2000",
+    "Windows 7",
+    "Windows 8",
+    "Windows 8.1",
+    "Windows 10",
+    "Windows 11",
+    "Linux",
+    "Mac OS",
+    "Desktop PC",
+    "Slim PC (슬림 PC 브라켓 포함)",
+    "Windows 7 / 8 / 10 / 11",
+    "RS232 시리얼 포트를 사용하는 모든 장비 (POS 단말기, 시리얼 프린터, 바코드 스캐너, 산업용 PLC, 네트워크 장비 콘솔 포트 등)",
+    "데스크탑 PC (내장형 카드, 노트북 사용 불가)"
+  ],
+  "package_contents": [
+    "LS-PCIE-EX902BN PCI-Express to Serial 카드 본체",
+    "슬림 PC 브라켓 2ea",
+    "설치 CD",
+    "PCIe 시리얼 확장 카드 x1",
+    "슬림 PC용 로우 프로파일 브라켓 x2",
+    "드라이버 설치 CD x1"
+  ],
+  "usage_instructions": "PC의 PCI-Express 슬롯(x1, x4, x8, x16 모두 가능)에 LS-PCIE-EX902BN 카드를 장착한 후 설치 CD를 이용하여 드라이버를 설치하면 시리얼(RS232C) 2포트가 생성됩니다. 슬림 PC에는 동봉된 슬림 PC 브라켓으로 교체하여 장착하세요. 연결 대상 장치(신용카드 단말기, 바코드 스캐너, POS 기기, 터치 스크린, 라벨 프린터 등)를 DB-9pin RS232 포트에 연결하여 사용합니다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "LANStar 및 라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상합니다.",
+    "구매/배송/반품은 판매처(쇼핑몰 하단 참조)를 통해 문의하세요.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-EX902BN",
+      "품목코드": "USB-PCI257",
+      "품목명": "[LANstar] PCIe to 시리얼카드 (ASIX AX99100) [30462] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-PCIE-EX902BN-NEW": "LAN Star\nPCI-Express to SERIAL\n시리얼 포트가 없는 PC에 시리얼 2포트 생성\nLS-PCIE-EX902BN\nCHANA 2. SUR\nLAN Star\n▲ ASIX\nLS-PCIE-EX902BN\nRS232(시리얼) 듀얼 포트 확장 카드\n1. PCI-Express x1 Bus Slot\n2. 2 x DB 9PIN RS232 인터페이스\n3. 시리얼 통신 최대 230.4Kbps 전송 속도 지원\n4. ASIX AX99100 칩셋\n5. Windows, Linux, Mac OS 등 다양한 O.S 지원\nLAN Star\n시리얼 카드 어디서 사용하나요?\n여전히 산업 현장 및 여러 곳에서 RS232 시리얼 포트를 사용하는 장비가 많습니다.\n이 카드는 시리얼 포트가 없는 PC에서 시리얼 장비들과의 통신을 위해 사용하는\nPCle 시리얼 확장 카드입니다.\n산업 현장/공장 자동화\nPOS 시스템 / 무인기기\nATM / 키오스크\nPLC, 센서,계측 기기 등\nRS232 통신만 지원하는\n장비와의 연결시 사용\nPOS 단말기, 바코드스캐너,\n카드 리더기 등 RS232 전용\n장비와의 연결시 사용\n은행 및 편의점 등에 설치된\nATM, 키오스크 등의\n내부 통신 장비와 연동\nware Version\nMAC Address\nSystem T\n17:21:40 u\nLine\nugon\nSerd\nCOM)\nOTROSA\nRTSUCTS\nDeta bit\nJun\nGeneric\nEXONNOFF\n≤1:40 login/7000:00: [sdal Attached SCSI renovable c\n55E\n05 kernel Polling interval (ms): 100\nstarting pid 609, tty\": /bin/echo /sbin\n10:05 init: starting \npidbutty\n00:06 kernel ating pid 610\n, fty \n/dev/tty30 /sbin/\n00:06 kernel: eth00:0:0:0 Direct-Access00:08 Kernel: sesi 0:0:0:0: Direct-Access\n08 kernel: usb-storage: device scan complete\n00:08 kernel\nin1774) root login o'ts/0\n26:16 SerialGate 542): [1576223] device out available\n26:16 SerialGate(542) [1576224-devige write 10 bytes\n16 SerialGate(542) (1576224) L-S 10 31 32 33 34\n:04 SerialGate(542) (1744229-devide out available,\n:04 Serial Gate 542) (1744229) device write 10 bytes\n04 SerialGate(542) [1744229] 10 31 32 33\nSerialGate[542] [1744238) S-8-31 32 33\nSerial Gate[542): (1744244)-3 2 39 30\nrialGate[542] : [1746025] device out avail\n[1746026) device write t\nw quick connect on state\nSave session\n\n\nMAC Address\nSysten Time\nug on\nSerial\nCOM3\nFlow Control\nOTROSA\naud rate\n9600\nATSACTS\nCHOOD\nData bil\nJinn\n4 rfc2217545): Loo level 8\n4 rfc22172545 Pollina interval (ms): 100\n205 kernel: Lethl] Bonfe_coen\n0:05 init: starting pid 609. tty : /bin/echo/sbin\n10:05 init: starting pid 610 tty Idev/ttySO\": \"/sbin/\n00:06 kernel: eth0 link up (100/Full)\n00:08 kernel: scsi 0:0:0:0: Direct-Access Generic\n00:08 kernel: usb-storage device scan complete\n00:08 kernel: sd 0:0:0:0: [sda] Attached SCSI renovable\n21:40 Login[774): root dopin on 'pts/0'\n1:16 Serial Gate[542] : [1576223] device out available\n(1576224-devige write 10 bytes\n18 SerialGate(542): [1576224] L->S] 10 31 32 33 34\nrialGate(542): [1744229 device out available,\nrialGate[542] [1744229] device write 10 byte\nSerial Gate[542) [1744229) 10-31 32 33\n[1744238] S-L 8 31 32\n\"\nParty\nStop bits\nw quick connect on statu\nSave session\nOpen in a tab\nCoppe\n서버, 테스트 환경\n네트워크 장비 설정\n시리얼 포트 기반 로그 수집이\n필요한 경우, 개발자나 QA 팀이\n시리얼 통신 테스트 용도로 사용\n일부 스위치, 공유기, 방화벽 등\n고급 네트워크 장비는 초기 설정시\nRS232 포트를 통해 접근\nPRICE\nLA\nA\nWhat is RS232?\nRS232는 컴퓨터와 주변기기 간에 직력(Serial) 통신을 하기 위한\n표준 통신 규격으로 POS 기기, PLC 기기, 키오스크, ATM, 의료기기 등\n여전히 사용중인 통신 규격입니다.\n왜 RS232가 여전히 쓰이는건가요?\n오래된 산업용 장비들과의 호환성\n▶ 공장, 병원, 건물 제어 시스템에는 10~20년 이상 된 장비들이 다수 존재\n▶ 이런 장비들은 대부분 RS232 통신만 지원하고, USB는 지원하지 않음\n▶ 장비 전체를 교체하는 건 비용이 엄청나기 때문에, 시리얼 포트를 계속 유지\n단순함과 안정성\nRS232는 단방향/양방향 통신 구조가 단순하고 직관적\n프로토콜이 간단해서 에러 발생률이 낮고 디버깅이 쉬움\n소프트웨어적으로도 쉽게 구현 가능 (직접 AT 커맨드 입력하거나 시리얼 모니터링 등)\n운영체제에 의존하지 않음\n▶ USB는 운영체제와 드라이버에 의존\n▶ RS232는 단순한 하드웨어 통신이라, BIOS나 부트로더 레벨에서도 통신 가능\n서버/네트워크 장비 콘솔 연결할 때도 OS가 뜨기 전에 접근 가능\n장거리 저속 통신에 적합\n▶ 데이터 속도가 빠르진 않지만, 15m 이상 거리에서도 신호가 안정적\n▶ 저속 통신(센서, 데이터 로깅 등)에 매우 적합\n정전기, 노이즈에 강한 구조\n▶ 차동 신호는 아니지만, 구조 자체가 단순해서 EMI에 비교적 강함\n▶ 산업 환경의 노이즈 많은 환경에서 유리함\nTARTNESSION\nAX99100\n美\nAIDE-BRAIN\nINTS\nJEAN\nASIX AX99100' 칩셋\nAX99100 칩셋의 가장 큰 장점은 다양한 I/O 기능을 단일 칩으로 제공한다는\n점입니다. 특히 PCIe 슬롯 1개만으로 시리얼, 병렬, GPIO, IPC, SPI 등 여러 포트를\n동시에 확장할 수 있어 산업용 및 임베디드 시스템에 매우 효율적입니다.\n\n\nASIX AX99100' 칩셋\nAX99100 칩셋의 가장 큰 장점은 다양한 I/O 기능을 단일 칩으로 제공한다는\n점입니다. 특히 PCIe 슬롯 1개만으로 시리얼, 병렬, GPIO, IPC, SPI 등 여러 포트를\n동시에 확장할 수 있어 산업용 및 임베디드 시스템에 매우 효율적입니다.\nPRODUCT DETAIL\nRICKHER\nMADE IN CHINA 분\nPCI-Express x1\nPClex] 슬롯은 소형 장치에 적합하며,\n다양한 확장 카드를 장착할 수 있는 범용성과\n공간 효율성을 제공합니다.\n저전력·저비용으로 간단한 기능을 추가할 수\n있다는 점이 큰 장점입니다.\n슬림 PC용 브라켓\n로우 프로파일(Low Profile) 또는 슬림형\n케이스에 맞춰 PCIe 카드를 장착할 수 있도록\n설계된 금속 브라켓 2개를 제공합니다.\nPlug&Play\nPC 전원이 꺼진 상태로 카드를 연결한 뒤\nPlug&PlayⓇ\n전원을 키면, 운영체제가 자동으로 카드를 인식하고\n드라이버를 설치 및 설정하여 별도의 추가 작업 없이\n바로 사용할 수 있습니다.\nPRODUCT SIZE\n<제품 무게: 45g >\n59mm\n20mm\nLANStar\n66mm\n120mm\nPRODUCT COMPONENT\n① PCIe 시리얼 확장 카드\n② 슬림 PC 브라켓 2개\n③ 드라이버 설치 CD\nMADE IN CH\nLANStar\nRING SOON\n\n\nLANStar\nETT\n보\nJUNING ONIONFIXE\nSPECIFICATION\nBUS SLOT\nPCI Express X1\n칩셋\nASIX AX99100\"\n인터페이스\nDB 9PIN RS232 x2\n16C450/550/Extended 550 compatible UARTs\n기능\nSupports remote wakeup and power management features\nFully Plug & Play compatible\n전송 속도\nSerial up to 230.4 Kbps\n지원 O.S\nWindows7/8 / 10 / 11, Linux, Mac OS\n무게\n약 45g\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\nK\n인증번호 : KCC-REI-LUS-LS-PCIE-EX902\nFAQ\n자주 물어보시는 질문\nQ. 어떤 운영 체제에서 사용할 수 있나요?\nWindows7, 8, 10, 11 등 Windows 계열, Linux, Mac OS에서 사용할 수 있습니다.\n(윈도우에서 자동으로 드라이버 설치가 되지 않을 경우, CD를 통해 수동 설치 필요)\nQ. 어떤 장비들과 연결할 수 있나요?\nRS232 시리얼 포트를 사용하는 모든 장비와 연결 가능합니다.\n예를 들어, POS 단말기, 시리얼 프린터, 바코드스캐너, 산업용 PLC,\n네트워크 장비 콘솔 포트 등이 있습니다.\nQ. 데스크탑에 슬롯이 하나밖에 없는데, 이 제품 설치 가능한가요?\n네, 이 제품은 PCI-Express x1 슬롯 전용 카드로,\nx1뿐만 아니라 x4, x8, x16 슬롯에도 문제 없이 장착 가능합니다.\nQ. USB to RS232 컨버터와 어떤 차이가 있나요?\nUSB 방식은 간편하지만, 속도와 안정성 면에서는 PCIe 카드 방식이 우수합니다.\n특히 산업 환경이나 장시간 통신, 센서/로거 등과의 연결 시 오류율이 낮고\n안정성 면에서 더 유리합니다.\nQ. 노트북에서도 사용할 수 있나요?\n이 제품은 내장형 PCIe 카드이므로 데스크탑 전용입니다.\n노트북에서는 사용할 수 없고, USB 방식의 RS232 변환기를 권장드립니다.\n\n\n안정성 면에서 더 유리합니다.\nQ. 노트북에서도 사용할 수 있나요?\n이 제품은 내장형 PCIe 카드이므로 데스크탑 전용입니다.\n노트북에서는 사용할 수 없고, USB 방식의 RS232 변환기를 권장드립니다.\nQ. 전원 연결이 따로 필요한가요?\n아니요, PCIe 슬롯에서 전력을 공급받기 때문에 별도 전원 연결이 필요 없습니다.\n단 사용하는 시리얼 장비에 따라 외부 전원을 요구하는 경우는 있을 수 있습니다.\nQ. 시리얼 포트가 두 개 있는데, 동시에 사용해도 되나요?\n네, 2개의 포트를 동시에 각각 다른 장비와 연결해도 문제 없습니다.\n각 포트는 독립적으로 작동합니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n상품 도착\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n전문기업확인서\n소재·부품 장비 전문기업확인서\n17\n*23.231.\n평가관리원\n신문기업인을 확신합니다\n산업통산자원부 시행 제도\n2022.11.29 취득\n한국산업기술평가관\nBEXD\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n사 프저ㅂ\n\n\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상품정보\n품\n명\nPCIe 시리얼 2포트 확장 카드\n모\n델\n명\nLS-PCIE-EX902BN\nLANSStar\nKC 인증 번 호\nKCC-REI-LUS-LS-PCIE-EX902\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질 보증 기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\nLANSStar\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "PCIe"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 0.2304,
+      "chipset": "ASIX AX99100"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "PCI-Express 슬롯을 통해",
+    "connectivity.output_signals": "RS232C 시리얼 2포트 생성",
+    "connectivity.directional": "시리얼 통신",
+    "connectivity.port_count": "RS232C 시리얼 2포트",
+    "power.power_mode": "PCIe 슬롯에서 전력 공급",
+    "power.charging_support": "null",
+    "form_physical.has_case": "데스크탑 전용 내장형 PCIe 카드",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "국립전파연구원(KCC) 인증 획득",
+    "certification.rohs": "null",
+    "certification.iso9001": "null",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "null",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.bus_interface": "PCI-Express x1 슬롯 장착형",
+    "family.speed_mbps": "최대 전송 속도 230.4Kbps",
+    "family.chipset": "ASIX AX99100 칩셋 탑재"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:17",
+  "feature_schema_version": "1.0.0"
+}

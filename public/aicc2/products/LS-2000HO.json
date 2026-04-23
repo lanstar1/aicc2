@@ -1,0 +1,82 @@
+{
+  "model_no": "LS-2000HO",
+  "product_name": "LS-2000HO (42U) 랙 마운트 캐비닛",
+  "category": [
+    "허브랙"
+  ],
+  "key_features": [
+    "42U 규격 랙 캐비닛",
+    "높이 2000mm, 깊이 600mm, 너비 600mm",
+    "하단 바퀴(캐스터) 4개 장착으로 이동 용이",
+    "프레임 조립형 구조 (볼트 체결 방식)",
+    "케이지 너트 지원으로 장비 장착 호환성 확보"
+  ],
+  "specifications": {
+    "높이(H)": "2000mm",
+    "깊이(D)": "600mm",
+    "너비(W)": "600mm",
+    "U수": "42U",
+    "중량": "17.2Kg",
+    "하단 개구부 깊이": "506mm",
+    "하단 개구부 너비": "600mm"
+  },
+  "compatibility": [
+    "19인치 표준 랙 마운트 장비",
+    "케이지 너트 규격 장비"
+  ],
+  "package_contents": [
+    "기둥 프레임 2ea",
+    "하단 프레임 2ea",
+    "프레임 고정 연결부 2ea (상·하단 구분 없음)",
+    "랙 바퀴 4ea",
+    "볼트 60ea",
+    "보호 고무 20ea",
+    "너트 20ea",
+    "케이지 너트 20ea"
+  ],
+  "usage_instructions": null,
+  "cautions": [],
+  "variants": [
+    {
+      "model_no": "LS-2000HO",
+      "품목코드": "NEO-허브랙194",
+      "품목명": "[LANstar] 오픈허브랙 2POST , 42unit, 아이보리색상 [30853]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {},
+    "power": {},
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {},
+    "audio_video": {},
+    "control_switching": {},
+    "family": {
+      "rack_unit": 42,
+      "mount_type": "standing",
+      "depth_mm": 600,
+      "width_mm": 600,
+      "height_mm": 2000,
+      "has_door": null,
+      "has_lock": null,
+      "has_fan": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "랙 마운트 캐비닛",
+    "family.rack_unit": "42U 규격 랙 캐비닛",
+    "family.mount_type": "하단 바퀴(캐스터) 4개 장착",
+    "family.depth_mm": "깊이 600mm",
+    "family.width_mm": "너비 600mm",
+    "family.height_mm": "높이 2000mm"
+  },
+  "feature_extracted_at": "2026-04-23T03:06:24",
+  "feature_schema_version": "1.0.0"
+}

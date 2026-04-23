@@ -1,0 +1,121 @@
+{
+  "model_no": "LS-MDP-MM",
+  "product_name": "Apple Mini DisplayPort 케이블 (Mini DP(M) to Mini DP(M))",
+  "category": [
+    "DisplayPort",
+    "커넥터"
+  ],
+  "key_features": [
+    "Mini DisplayPort to Mini DisplayPort 연결 케이블",
+    "외장 디스플레이와 완벽한 디지털 연결 제공",
+    "플러그 앤 플레이 방식 지원",
+    "멀티 스트리밍(Multiple Streams) 지원",
+    "2채널 스테레오 음성 지원",
+    "5.1채널, 7.1채널 입체음향 지원 (하나의 케이블로 디지털 음성 분리 전송)",
+    "영상분배기 사용 시 1개 디스플레이 출력을 복수 모니터로 분배 가능 (최대 4대 출력)",
+    "최대 1920×1200 해상도 지원",
+    "DVI, VGA(RGB), HDMI 등 다양한 디스플레이 규격 지원 (적절한 어댑터 사용 시)",
+    "싱글 링크 DVI, 듀얼 링크 DVI, VGA 디스플레이 연결 지원 (어댑터 사용 시)"
+  ],
+  "specifications": {
+    "길이": "1M",
+    "커넥터 타입": "Mini DP(M) to Mini DP(M)",
+    "최대 해상도": "1920×1200",
+    "제조국/원산지": "중국",
+    "제조사/수입사": "라인업시스템(주)",
+    "A/S 소비자상담": "라인업시스템(주) / 070-7018-3386"
+  },
+  "compatibility": [
+    "Apple 휴대용 컴퓨터",
+    "iMac",
+    "Mac Mini",
+    "Mini DisplayPort 포트를 지원하는 컴퓨터",
+    "Mini DisplayPort 포트를 지원하는 TV 등 디스플레이 장치",
+    "Apple LED Cinema Display",
+    "DisplayPort 단자가 장착된 최신형 노트북/데스크톱",
+    "싱글 링크 DVI 디스플레이 (어댑터 사용 시)",
+    "듀얼 링크 DVI 디스플레이 (어댑터 사용 시)",
+    "VGA 디스플레이 (어댑터 사용 시)",
+    "HDMI 디스플레이 (어댑터 사용 시)"
+  ],
+  "package_contents": [
+    "Mini DisplayPort 케이블 1M 1개"
+  ],
+  "usage_instructions": "Mini DisplayPort 단자가 있는 컴퓨터(Apple 휴대용 컴퓨터, iMac, Mac Mini 등)와 디스플레이 장치를 케이블로 연결하면 플러그 앤 플레이 방식으로 작동합니다. 적절한 어댑터를 사용하면 싱글 링크 DVI, 듀얼 링크 DVI, VGA 디스플레이에도 연결할 수 있습니다. 영상분배기를 함께 사용하면 최대 4대의 모니터에 각각 다른 화면을 출력할 수 있습니다.",
+  "cautions": [
+    "구매 전 본 제품(컴퓨터, 모니터 등)에 DisplayPort 단자가 있는지 반드시 확인 후 구매하시기 바랍니다.",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 의거하여 보상합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MDP-MM-1M",
+      "품목코드": "CAB-젠DP005",
+      "품목명": "[LANstar] Mini 디스플레이 Port 케이블, Ver1.1 M/M, 4K 60Hz, 1M[10569]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Mini DisplayPort"
+      ],
+      "output_signals": [
+        "Mini DisplayPort"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 1.0,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1440p",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Mini DisplayPort to Mini DisplayPort",
+    "connectivity.output_signals": "Mini DisplayPort to Mini DisplayPort",
+    "connectivity.directional": "Mini DisplayPort to Mini DisplayPort",
+    "form_physical.length_meters": "길이\": \"1M",
+    "audio_video.max_resolution": "최대 1920×1200 해상도 지원",
+    "audio_video.audio_pass": "2채널 스테레오 음성 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:29",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,202 @@
+{
+  "model_no": "LS-FSD-SCSC",
+  "product_name": "광점퍼코드 싱글모드 (SM) SC-SC Duplex 케이블",
+  "category": [
+    "광케이블",
+    "광점퍼코드",
+    "커넥터"
+  ],
+  "key_features": [
+    "싱글모드(SM) 광섬유 사용 – 장거리 신호전송에 적합",
+    "SC-SC Duplex 및 Simplex(2C) 타입 제공",
+    "SC타입 커넥터 채용",
+    "RoHS 준수(납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 타입": "SC-SC",
+    "전송 방식": "싱글모드 (SM)",
+    "케이블 구성": "Duplex",
+    "제공 길이": "3m, 5m, 10m, 15m, 20m, 30m",
+    "모델별 길이_3m": "LS-FSD-SCSC-3M",
+    "모델별 길이_5m": "LS-FSD-SCSC-5M",
+    "모델별 길이_10m": "LS-FSD-SCSC-10M",
+    "모델별 길이_15m": "LS-FSD-SCSC-15M",
+    "모델별 길이_20m": "LS-FSD-SCSC-20M",
+    "모델별 길이_30m": "LS-FSD-SCSC-30M",
+    "커넥터 전체 길이": "53mm",
+    "커넥터 외경(페룰부)": "2.5mm",
+    "커넥터 본체 폭": "8.9mm",
+    "커넥터 본체 높이": "5.8mm",
+    "케이블 외경": "2.3mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조"
+  },
+  "compatibility": [
+    "광송수신장비 – 광전송로 간 연결",
+    "광분배함 – 광케이블 간 연결",
+    "광분배함 – 광장비 간 연결",
+    "광장비 – 광 단말 간 연결"
+  ],
+  "package_contents": [
+    "SC-SC Duplex 광점퍼코드 (선택 길이 1개)"
+  ],
+  "usage_instructions": "SC 커넥터를 광송수신장비, 광분배함, 광장비, 광 단말 등의 SC 포트에 연결하여 사용. 싱글모드 광섬유이므로 장거리 신호전송 환경에 적합하며, 단거리 환경에는 멀티모드 제품 사용 권장.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단) 참조",
+    "A/S 및 소비자상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-FSD-SCSC-3M",
+      "품목코드": "NET-광싱케013",
+      "품목명": "[LANstar] 광케이블 싱글모드(SM) SC-SC, 3M 노랑색 [10185] (120개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-FSD-SCSC-5M",
+      "품목코드": "NET-광싱케014",
+      "품목명": "[LANstar] 광케이블 싱글모드(SM) SC-SC, 5M 노랑색 [10186] (80개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-FSD-SCSC-10M",
+      "품목코드": "NET-광싱케015",
+      "품목명": "[LANstar] 광케이블 싱글모드(SM) SC-SC, 10M 노랑색 [10187] (60개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-FSD-SCSC-15M",
+      "품목코드": "NET-광싱케016",
+      "품목명": "[LANstar] 광케이블 싱글모드(SM) SC-SC, 15M 노랑색 [10188] (40개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-FSD-SCSC-20M",
+      "품목코드": "NET-광싱케017",
+      "품목명": "[LANstar] 광케이블 싱글모드(SM) SC-SC, 20M 노랑색 [10189] (35개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-FSD-SCSC-30M",
+      "품목코드": "NET-광싱케018",
+      "품목명": "[LANstar] 광케이블 싱글모드(SM) SC-SC, 30M 노랑색 [10190] (20개)",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-FSD-SCSC-10M",
+      "내용": "랜스타 첫 구매입니다! 매번 컴ㅇㅇ 홈페이지에서 샀는데요. 톡톡상담도 잘해주시고 도움을 받아서 랜스타 스토어에서 구매했습니다.광케이블과 컨버터까지. 감사합니다!"
+    },
+    {
+      "source_model": "LS-FSD-SCSC-15M",
+      "내용": "공사하는데 잘 사용했습니다/"
+    },
+    {
+      "source_model": "LS-FSD-SCSC-20M",
+      "내용": "공사하는데 잘 사용했습니다/"
+    },
+    {
+      "source_model": "LS-FSD-SCSC-30M",
+      "내용": "공사하는데 잘 사용했습니다/"
+    },
+    {
+      "source_model": "LS-FSD-SCSC-5M",
+      "내용": "랜스타 첫 구매입니다! 매번 컴ㅇㅇ 홈페이지에서 샀는데요. 톡톡상담도 잘해주시고 도움을 받아서 랜스타 스토어에서 구매했습니다.광케이블과 컨버터까지. 감사합니다!"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-FSD-SCSC-30M",
+      "id": 555350229,
+      "date": "2023-11-17 14:06",
+      "answerDate": "2023-11-17 14:14",
+      "user": "ca****",
+      "productName": "랜스타 LS-FSD-SCSC-30M 광케이블, 싱글모드(S／M), SC-SC, 30M 노랑",
+      "question": "글로 다 적어서 물어보려니 힘들어서요\n\n전화했더니 고객센터가 안하시네요",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 남겨주신 톡톡으로 응대 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Optical"
+      ],
+      "output_signals": [
+        "Optical"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [
+        3,
+        5,
+        10,
+        15,
+        20,
+        30
+      ],
+      "color_options": []
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": true,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "SC타입 커넥터 채용",
+    "connectivity.output_signals": "SC타입 커넥터 채용",
+    "connectivity.directional": "SC 커넥터를 광송수신장비",
+    "form_physical.length_options_meters": "3m, 5m, 10m, 15m, 20m, 30m",
+    "certification.rohs": "RoHS 준수(납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.optical_core": "싱글모드(SM) 광섬유 사용"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:03",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,165 @@
+{
+  "model_no": "LS-MG-STM2F",
+  "product_name": "LANStar 스테레오 Y 연장 케이블 (3.5ST M/F*2, 골드메탈)",
+  "category": [
+    "컨버터",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "3.5mm 스테레오 Y형 케이블 (Male 1개 → Female 2개 분배)",
+    "금도금 콘넥터로 신호 손실 최소화",
+    "아날로그 음성 지원",
+    "케이블 두께 4pi",
+    "RoHS 규정 준수 (납·수은·카드뮴 등 중금속 사용 금지)",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "3.5mm 스테레오 Male 단자 1개를 Female 단자 2개로 분배하는 Y형 케이블",
+    "PC, MP3, 스마트폰 등에 연결하여 이어폰/헤드셋에 동시에 소리 분배 가능",
+    "컴퓨터/노트북에 스피커와 헤드셋을 동시에 연결하여 교체 번거로움 감소",
+    "스마트폰 범퍼/케이스 장착 시에도 문제없이 연결 가능"
+  ],
+  "specifications": {
+    "커넥터 구성": "3.5ST(Male) - 3.5ST(Female) x2 / 3.5st Male 1개, 3.5st Female 2개",
+    "케이블 두께": "4pi",
+    "커넥터 도금": "금도금",
+    "신호 방식": "아날로그 음성",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음 / 상세페이지 참조",
+    "품질경영시스템": "ISO 9001:2008",
+    "환경규격": "RoHS COMPLIANT",
+    "모델명": "LS-MG-STM2F-015M",
+    "길이": "15cm",
+    "규격": "3.5mm 스테레오 (3.5 stereo)"
+  },
+  "compatibility": [
+    "컴퓨터 사운드카드",
+    "노트북",
+    "MP3 플레이어",
+    "CD/DVD 플레이어",
+    "스마트폰",
+    "AUX 단자 지원 기기",
+    "태블릿 PC",
+    "TV",
+    "게임기",
+    "캠코더",
+    "스피커",
+    "이어폰/헤드셋",
+    "PC / 컴퓨터 / 노트북 (3.5mm 음성 단자)",
+    "스마트패드",
+    "이어폰 / 헤드셋"
+  ],
+  "package_contents": [
+    "스테레오 Y 연장 케이블 (LS-MG-STM2F-0.3M) 1개",
+    "스테레오 Y 연장 케이블 (3.5st Male - 2×3.5st Female) 1개"
+  ],
+  "usage_instructions": "3.5ST(Male) 단자를 PC·MP3·스마트폰 등 소스 기기의 3.5mm 오디오 출력 단자에 연결하고, 2개의 3.5ST(Female) 단자에 각각 이어폰·헤드셋 또는 스피커를 연결하여 동시에 소리를 분배하거나, 컴퓨터/노트북에 스피커와 헤드셋을 동시에 연결해 교체 시 재연결하는 번거로움을 줄일 수 있습니다.",
+  "cautions": [
+    "본 케이블은 음성(오디오) 신호만 전달하며, 이어폰의 마이크 기능을 지원하지 않습니다.",
+    "스마트폰에 범퍼/케이스 장착 시 일반 케이블이 잘 들어가지 않는 경우가 있으나, 본 케이블 사용 시 문제없이 장착 가능합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MG-STM2F-015M",
+      "품목코드": "CAB-모젠케006",
+      "품목명": "[LANstar] 모바일 스테레오변환케이블, 3.5ST/M-2*3.5ST/F, 고급형 메탈, 0.15M[10644]",
+      "variant_suffix": "-015M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-MG-STM2F-0.3M",
+      "품목코드": "CAB-모젠케019",
+      "품목명": "[LANstar] 모바일 스테레오변환케이블, 3.5ST/M-2*3.5ST/F, 고급형 메탈, 0.3M [10932]",
+      "variant_suffix": "-0.3M",
+      "source": "excel"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-MG-STM2F-015M": "LAN tar\nⓇ\nStereo CABLE, 3.5st(M)-2×3.5st(F)\nAV 스테레오 연장 케이블\n3.5 스테레오\n(Male)\n3.5 스테레오\n(Female)\ntha\n• 모델명: LSM-MG-STM\n. 길이 : 15cm\n· 규격 : 3.5 stereo\n(MP3 또는 컴퓨터 음성 단자에 주로 쓰이는 규격)\n스테레오 연장 케이블 활용 예\n3.5st(M)\nPC/MP3/스마트폰/\n스마트패드\n3.5st(F)\n3.5st(M)\n이어폰/헤드셋\n• 컴퓨터, MP3, 스마트폰과 같은 기기에 연결하여 이어폰/헤드셋에 각자 소리를 분배하는 케이블\n컴퓨터/노트북\n3.5st(M)\n3.5st(F)\n3.5st(M)\n스피커/이어폰\n• 컴퓨터/노트북을 연결하여 스피커와 헤드셋에 각자 연결하여, 사용할때마다 연결을 해야하는\n번거로움을 줄일 수 있습니다.\n※ 단, 현재 케이블은 음성을 전달하나 이어폰의 마이크 기능을 지원하지 않습니다.\n• 스마트폰의 경우 범퍼/케이스를 장착하면 스테레오 케이블이 잘 들어가지 않는 경우가 있는데\n현재 케이블을 이용하시면 문제 없이 장착이 가능합니다.\n상품정보\n품\n명\n스테레오 Y 연장 케이블\nLANStar\nⓇ\n모\n델\n명\nLS-MG-STM2F-015M\n인증번호\n상세페이지 참조\n日平日\n제조국/원산지\n중국 (China)\n제조사/수입사\n봄\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "3.5mm"
+      ],
+      "directional": "일방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금",
+        "메탈"
+      ],
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5ST(Male) 단자를 PC·MP3·스마트폰",
+    "connectivity.output_signals": "2개의 3.5ST(Female) 단자에 각각 이어폰·헤드셋",
+    "connectivity.directional": "Male 1개 → Female 2개 분배",
+    "connectivity.port_count": "Male 1개, 3.5st Female 2개",
+    "power.power_mode": "무전원",
+    "power.charging_support": "null",
+    "form_physical.has_case": "금도금 콘넥터로 신호 손실 최소화",
+    "form_physical.material": "금도금 콘넥터",
+    "form_physical.length_meters": "길이: 15cm",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "audio_video.max_resolution": "아날로그 음성 지원",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "아날로그 음성 지원",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.conversion_direction": "Male 1개 → Female 2개 분배",
+    "family.requires_external_power": "무전원",
+    "family.chipset": "null"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:38",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,164 @@
+{
+  "model_no": "LS-UCHDG",
+  "product_name": "LAN Star USB Type-C to HDMI 젠더 (LS-UCHDG)",
+  "category": [
+    "USB-C",
+    "컨버터",
+    "젠더",
+    "아이폰케이블"
+  ],
+  "key_features": [
+    "USB Type-C 입력 신호를 HDMI 신호로 변환하여 출력하는 젠더 컨버터",
+    "최대 4K@60Hz UHD 해상도 지원",
+    "화면 복제(미러링) 및 화면 확장(Extend) 2가지 모드 지원",
+    "삼성 DeX 모드 지원 (Galaxy S20~S23 시리즈, Galaxy 폴드 시리즈, S10e/S10/S10+/S9/S9+)",
+    "넷플릭스 송출 지원 (단, 아이폰·아이패드 등 애플 제품군은 미지원)",
+    "HDCP(High-bandwidth Digital Content Protection) 영상 저작권 보호 기술 지원",
+    "Plug&Play 지원 (별도 드라이버 설치 불필요)",
+    "Hot Swap 지원 (PC 전원 켜진 상태에서 자유롭게 연결/해제 가능)",
+    "알루미늄 소재의 컴팩트한 디자인 (약 8g)",
+    "Alternate Mode 지원 기기에 한하여 사용 가능"
+  ],
+  "specifications": {
+    "인터페이스": "USB Type-C to HDMI",
+    "입력 포트": "USB Type-C",
+    "출력 포트": "HDMI",
+    "해상도": "최대 4K@60Hz UHD",
+    "영상 모드": "영상 복제(미러링), 영상 확장(Extend)",
+    "크기": "24 x 33 x 11 (mm)",
+    "무게": "약 8g",
+    "재질": "알루미늄",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음"
+  },
+  "compatibility": [
+    "USB Type-C Alternate Mode 지원 기기 (필수 확인 사항)",
+    "삼성 Galaxy S23 시리즈",
+    "삼성 Galaxy S22 시리즈",
+    "삼성 Galaxy S21 시리즈",
+    "삼성 Galaxy S20 시리즈",
+    "삼성 Galaxy 폴드 시리즈",
+    "삼성 Galaxy S10e / S10 / S10+",
+    "삼성 Galaxy S9 / S9+",
+    "USB Type-C 포트를 갖춘 노트북 (Laptop, MacBook 등)",
+    "USB Type-C 포트를 갖춘 태블릿",
+    "HDMI 입력을 지원하는 모니터, TV, 빔 프로젝터",
+    "아이폰·아이패드 등 애플 제품군 미지원 (넷플릭스 송출 불가)"
+  ],
+  "package_contents": [
+    "USB Type-C to HDMI 젠더 본체 1개"
+  ],
+  "usage_instructions": "USB Type-C 단자를 노트북, 스마트폰, 태블릿 등 소스 기기에 연결하고, HDMI 단자를 모니터·TV·빔 프로젝터 등 출력 기기에 연결합니다. 별도 드라이버 설치 없이 Plug&Play로 즉시 사용 가능하며, PC 전원이 켜진 상태에서도 Hot Swap으로 자유롭게 연결/해제할 수 있습니다. 삼성 DeX 모드 사용 시 USB 키보드·마우스 등을 멀티 허브로 추가 연결하면 스마트폰을 PC처럼 활용할 수 있습니다.",
+  "cautions": [
+    "사용 전 소스 기기가 USB Type-C Alternate Mode를 지원하는지 반드시 확인하세요. Alternate Mode를 지원하지 않는 기기는 디스플레이 출력이 불가능합니다.",
+    "아이폰·아이패드 등 애플 제품군은 넷플릭스와 애플 간 계약 문제로 넷플릭스 서비스 이용이 불가능합니다.",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일을 제외한 평일 기준입니다. 택배사 사정에 따라 배송 기간이 길어질 수 있습니다.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아닐 수 있으며, A/S를 받을 수 없습니다.",
+    "Samsung DeX 모드 시작 또는 종료 시 현재 사용 중인 앱이 종료되므로, 실행 전 데이터를 저장하세요.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UCHDG",
+      "품목코드": "CAB-U31391",
+      "품목명": "[LANstar] Type C to HDMI 2.0 젠더, 4K 60hz [30742]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-UCHDG",
+      "내용": "연결이 오지게 끊깁니다. 못 쓰겠네요."
+    },
+    {
+      "source_model": "LS-UCHDG",
+      "내용": "사용 장치에 따라 작동 유뮤가 차이가 있어요. 다음에는 안 삽니다ㅠ",
+      "관련내용": "작아서 공간을 많이 차지하지 않아서 만족스러워요!"
+    },
+    {
+      "source_model": "LS-UCHDG",
+      "내용": "작아서 공간을 많이 차지하지 않아서 만족스러워요!"
+    },
+    {
+      "source_model": "LS-UCHDG",
+      "내용": "품질과 포장상태, 그리고 가격도 아주 만족합니다.",
+      "관련내용": "품질도좋고 포장도 좋았습니다"
+    },
+    {
+      "source_model": "LS-UCHDG",
+      "내용": "품질도좋고 포장도 좋았습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": true
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": null,
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB Type-C 입력 신호를",
+    "connectivity.output_signals": "HDMI 신호로 변환하여 출력하는",
+    "connectivity.directional": "USB Type-C 입력 신호를 HDMI 신호로 변환하여 출력하는",
+    "power.power_mode": "USB Type-C 단자를 노트북, 스마트폰, 태블릿 등 소스 기기에 연결하고",
+    "form_physical.has_case": "알루미늄 소재의 컴팩트한 디자인",
+    "form_physical.material": "알루미늄 소재의 컴팩트한 디자인",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "certification.netflix": "넷플릭스 송출 지원",
+    "audio_video.max_resolution": "최대 4K@60Hz UHD 해상도 지원",
+    "audio_video.hdcp_version": "HDCP(High-bandwidth Digital Content Protection) 영상 저작권 보호 기술 지원",
+    "audio_video.audio_pass": "USB Type-C to HDMI 젠더"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:00",
+  "feature_schema_version": "1.0.0"
+}

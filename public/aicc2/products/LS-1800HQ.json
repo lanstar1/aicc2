@@ -1,0 +1,99 @@
+{
+  "model_no": "LS-1800HQ",
+  "product_name": "LS-1800HQ(38U) 허브랙",
+  "category": [
+    "허브랙"
+  ],
+  "key_features": [
+    "38U 규격 허브랙",
+    "높이 1820mm, 깊이 800mm, 너비 600mm의 대형 캐비닛",
+    "무게 98kg"
+  ],
+  "specifications": {
+    "모델명": "LS-1800HQ(38U)",
+    "높이(H)": "1820mm",
+    "깊이(D)": "800mm",
+    "너비(W)": "600mm",
+    "무게": "98kg",
+    "유닛": "38U"
+  },
+  "compatibility": [],
+  "package_contents": [
+    "랙 고정 다리 4ea",
+    "허브랙 열쇠 4ea",
+    "케이지너트, 볼트 각 40개 1SET"
+  ],
+  "usage_instructions": null,
+  "cautions": [],
+  "variants": [
+    {
+      "model_no": "LS-1800HQ",
+      "품목코드": "NEO-허브랙095",
+      "품목명": "[LANstar] 고급형 허브랙 1800*800*600mm (H*D*W) Black [38U][55068]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": null,
+      "port_count": null
+    },
+    "power": {
+      "power_mode": null,
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": null,
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "rack_unit": 38,
+      "mount_type": "standing",
+      "depth_mm": 800,
+      "width_mm": 600,
+      "height_mm": 1820,
+      "has_door": null,
+      "has_lock": null,
+      "has_fan": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "허브랙",
+    "family.rack_unit": "38U 규격 허브랙",
+    "family.mount_type": "허브랙",
+    "family.depth_mm": "깊이 800mm",
+    "family.width_mm": "너비 600mm",
+    "family.height_mm": "높이 1820mm"
+  },
+  "feature_extracted_at": "2026-04-23T03:05:44",
+  "feature_schema_version": "1.0.0"
+}

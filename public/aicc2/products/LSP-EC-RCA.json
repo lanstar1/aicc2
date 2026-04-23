@@ -1,0 +1,135 @@
+{
+  "model_no": "LSP-EC-RCA",
+  "product_name": "RCA 키스톤 커플러 (RCA/F - RCA/F, White Color)",
+  "category": [
+    "키스톤잭",
+    "커플러",
+    "분배판넬",
+    "멀티탭",
+    "서버랙",
+    "허브랙",
+    "RCA케이블",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "RCA 케이블 연장용 키스톤 커플러 (F/F 타입)",
+    "벽면 부착형 Wall Plate 및 Outlet 백박스에 장착 가능",
+    "허브랙·서버랙 전용 마운트 판넬에 장착 가능",
+    "매립형 사용 지원 (벽면 플레이트 결합)",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "흰색(White) 컬러"
+  ],
+  "specifications": {
+    "커넥터 타입": "RCA/F - RCA/F",
+    "색상": "흰색 (White)",
+    "제품 치수(mm)": "14.6 x 18.8 x 18.8 (참고: 16.1, 20, 12.2, 33.11 등 도면 수치 포함, 단위 mm)",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANstar (랜스타)",
+    "품질보증기준": "공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  },
+  "compatibility": [
+    "벽면 부착형 Wall Plate (LS-WP23 시리즈 등)",
+    "Outlet 백박스",
+    "허브랙 전용 마운트 판넬 (LS-PLKP 시리즈 등)",
+    "서버랙 마운트 판넬",
+    "표준 키스톤잭 모듈 장착 가능한 마운트 판넬"
+  ],
+  "package_contents": [
+    "RCA 키스톤 커플러 (LSP-EC-RCA) 1개"
+  ],
+  "usage_instructions": "허브랙·서버랙 마운트 판넬에 연결하여 사용하거나, 벽면 플레이트에 결합하여 매립형으로 설치 가능. RCA 케이블을 양쪽 RCA/F 포트에 연결하여 케이블을 연장하는 방식으로 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-EC-RCA",
+      "품목코드": "GEN-USB109",
+      "품목명": "[◆Lanstar-Plus] RCA 키스톤 커플러 ,RCA/F to RCA/F , White[20311]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RCA"
+      ],
+      "output_signals": [
+        "RCA"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RCA/F - RCA/F",
+    "connectivity.output_signals": "RCA/F - RCA/F",
+    "connectivity.directional": "RCA 케이블 연장용 키스톤 커플러",
+    "connectivity.port_count": "RCA/F - RCA/F",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "키스톤 커플러",
+    "form_physical.material": "흰색(White) 컬러",
+    "form_physical.color_options": "흰색(White) 컬러",
+    "certification.kc": "인증번호: 해당없음",
+    "audio_video.max_resolution": "RCA 키스톤 커플러",
+    "audio_video.hdcp_version": "RCA 키스톤 커플러",
+    "audio_video.audio_pass": "RCA 케이블 연장용",
+    "control_switching.has_remote": "RCA 키스톤 커플러",
+    "control_switching.has_hotkey": "RCA 키스톤 커플러",
+    "control_switching.has_physical_button": "RCA 키스톤 커플러",
+    "control_switching.has_mouse_switching": "RCA 키스톤 커플러",
+    "control_switching.has_auto_scan": "RCA 키스톤 커플러",
+    "control_switching.has_app_control": "RCA 키스톤 커플러",
+    "family.cat_category": "RCA 키스톤 커플러",
+    "family.shielding": "RCA 키스톤 커플러"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:34",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,331 @@
+{
+  "model_no": "LS-DVI25M",
+  "product_name": "DVI-D 듀얼 케이블 (DVI24+1P) M/M",
+  "category": [
+    "DVI"
+  ],
+  "key_features": [
+    "TMDS(Transition Minimized Differential Signaling) 방식의 순수 디지털 신호 전송 케이블",
+    "DVI-D Dual Link(24+1핀) 방식으로 디지털 신호만 전송 가능",
+    "최대 WQXGA 2560×1600 초고해상도 지원 (DVI 싱글 케이블 대비 2배)",
+    "아날로그 신호 미개입으로 뭉개짐·잔상·잡티 등 아날로그 문제점 개선",
+    "RoHS 준수(납·수은·카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "DVI-D Dual Link 24+1핀 구성으로 디지털 신호만 전송 가능",
+    "최대 해상도 WQXGA 2560×1600 지원 (DVI 싱글 케이블 대비 2배 해상도)",
+    "뭉개짐·잔상·잡티 등 아날로그 신호 문제 개선",
+    "RoHS 인증 획득 (납·수은·카드뮴 등 중금속 사용 제한 준수)"
+  ],
+  "specifications": {
+    "DVI 단자": "DVI 24+1 / M - DVI 24+1 / M / DVI 24+1 M - DVI 24+1 M",
+    "지원 해상도": "2560x1600 / 2560x1600 (WQXGA)",
+    "케이블 길이": "1.8M, 3M, 5M, 10M",
+    "소비전력 최대": "DC 300V / 5s",
+    "작동온도": "80°C",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조"
+  },
+  "compatibility": [
+    "DVI-D Dual Link 포트 탑재 PC 및 디스플레이 기기",
+    "WQXGA(2560×1600) 해상도 지원 모니터",
+    "QHD(2560×1440), FHD(1920×1200), HD(1440×900) 해상도 디스플레이",
+    "DVI-D Dual Link 단자를 갖춘 PC 및 디스플레이 기기",
+    "WQXGA 2560×1600 해상도 지원 모니터",
+    "QHD 2560×1600, FHD 1920×1200, HD 1440×900 해상도 기기",
+    "dts-HD, Dolby TrueHD Master Audio 지원 기기",
+    "HD DVD, Blu-ray Disc 재생 기기"
+  ],
+  "package_contents": [
+    "DVI-D 듀얼 케이블 (DVI24+1P) M/M 본체 1개 (선택 길이: 1.8M / 3M / 5M / 10M)",
+    "DVI-D 듀얼 케이블 (DVI24+1P) M/M × 1 (선택 길이: 1.8M / 3M / 5M / 10M)"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 소비자상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품은 판매처(쇼핑몰 하단) 참조"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DVI25M-1.8M",
+      "품목코드": "CAB-DVI095",
+      "품목명": "[LANstar] DVI 듀얼링크 케이블 DVI 24+1P MM 1.8M [10257] (60개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DVI25M-3M",
+      "품목코드": "CAB-DVI096",
+      "품목명": "[LANstar] DVI 듀얼링크 케이블 DVI 24+1P MM 3M [10258] (50개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DVI25M-5M",
+      "품목코드": "CAB-DVI097",
+      "품목명": "[LANstar] DVI 듀얼링크 케이블 DVI 24+1P MM 5M [10259] (24개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DVI25M-10M",
+      "품목코드": "CAB-DVI098",
+      "품목명": "[LANstar] DVI 듀얼링크 케이블 DVI 24+1P MM 10M [10260] (20개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "저렴하게 잘 샀어요"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "만족합니다 배송도 빨라요 굿굿"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "좋네요 잘쓰겠습니다!"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "굿 아주 잘됩니다 ㅎㅎ"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "3개 시켰는데 한개만 보내주셨었어요 ^^;; 말씀드리니 누락된것 잘 보내주셨습니다 상품 만족합니다 ^^"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "가격대비 길이가 커서 좋네요!"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "감사합니다또쥬문할게요"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "배송도 빠르고 간편하게 사용할 수 있도록 잘 되있어요"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "배송도 빠르고 잘됩니다"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "VGA 케이블에서 교체했는데 정말로 선명해지네요.. 케이블도 가격치고 마감이 좋습니다~"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "빠른배송 감사드립니다"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "배송 빠르고 잘사용하고있습니다."
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "저렴하게 잘 샀어요. 비싼 거랑 차이를 모르깄네요."
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "괜찮아요......",
+      "관련내용": "배송빠르고 잘받아쓰고있습니다"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "좋은 제품 저렴하게 잘 구입했습니다. 2560&times;1600 잘 나옵니다."
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "싸게 질좋은 제품 잘 샀어요"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "싸게 질좋은 제품 잘 샀어요"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "배송빠르고 잘받아쓰고있습니다"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "내용": "로켓배송 \n이에요."
+    },
+    {
+      "source_model": "LS-DVI25M-1.8M",
+      "내용": "좋은제품 빠른배송 친절한 cs 너무 감사합니다."
+    },
+    {
+      "source_model": "LS-DVI25M-1.8M",
+      "내용": "여전히 잘 쓰고있습니다!"
+    },
+    {
+      "source_model": "LS-DVI25M-1.8M",
+      "내용": "배송 빠르고 좋아요."
+    },
+    {
+      "source_model": "LS-DVI25M-1.8M",
+      "내용": "배송도 빠르고 상품 튼튼해요"
+    },
+    {
+      "source_model": "LS-DVI25M-1.8M",
+      "내용": "배송 빠르게 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-DVI25M-1.8M",
+      "내용": "잘쓰다가 쓰던모니터깨졌다요..ㅎㅎ"
+    },
+    {
+      "source_model": "LS-DVI25M-1.8M",
+      "내용": "감사합니다 잘쓰겠습니다"
+    },
+    {
+      "source_model": "LS-DVI25M-1.8M",
+      "내용": "빠른 배송 좋아요!"
+    },
+    {
+      "source_model": "LS-DVI25M-1.8M",
+      "내용": "랜스타 LS-DVI25M-1.8M DVI케이블 듀얼 24+1핀 M/M"
+    },
+    {
+      "source_model": "LS-DVI25M-1.8M",
+      "내용": "택배 하루만에 도착"
+    },
+    {
+      "source_model": "LS-DVI25M-1.8M",
+      "내용": "야마카시 듀얼링크 단자로만 사용이 가능한 모니터는 화면이 제대로 출력되지않고 사분할되어 떨리는 현상이 나오네요. 호환성 문제인지 제품이 문제인지 모르겠군요. 기존에 사용하던 두꺼운 제품은 이상없이 지금도 잘 되긴하지만요"
+    },
+    {
+      "source_model": "LS-DVI25M-1.8M",
+      "내용": "QHD로 안나옴...듀얼링크라고 해서 구입했는데 싱글링크인 듯."
+    },
+    {
+      "source_model": "LS-DVI25M-3M",
+      "내용": "랜스타 LS-DVI25M-3M DVI케이블 듀얼 DVI24＋1P M"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-DVI25M",
+      "id": 161611569,
+      "date": "2021-04-14 02:04",
+      "answerDate": "2021-04-14 09:52",
+      "user": "tngu*****",
+      "productName": "랜스타 DVI 모니터 듀얼케이블 24+1P 정품 LS-DVI25M",
+      "question": "모니터가 180hz인데 144hz 지원되는 케이블인가요?",
+      "answer": "안녕하세요 랜스타 입니다\n\n지원 되지 않습니다"
+    },
+    {
+      "source_model": "LS-DVI25M",
+      "id": 194567217,
+      "date": "2021-11-30 12:26",
+      "answerDate": "2021-11-30 14:22",
+      "user": "u764***",
+      "productName": "랜스타 DVI 모니터 듀얼케이블 24+1P 정품 LS-DVI25M",
+      "question": "1.8m제품은 노이즈필터(페라이트코어)가 없는 제품인가요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n해당 제품 1.8M와 3M는 노이즈필터가 있으며 5M와 10M는 노이즈필터가 없습니다."
+    },
+    {
+      "source_model": "LS-DVI25M-1",
+      "id": 567347974,
+      "date": "2024-02-08 11:52",
+      "answerDate": "2024-02-13 11:11",
+      "user": "alsk******",
+      "productName": "랜스타 LS-DVI25M-1.8M DVI케이블 듀얼 24+1핀 M/M 1.8M 2K지원",
+      "question": "원래 사용하던 연결선이 DVI-D Single Link 인데 제품 구매를 DVI-D Dual Link 로 구매해서요ㅠ 그래도 상관없이 본체랑 모니터 연결이 잘 되서 화면이 잘 나올까요??",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n듀얼 싱크의 경우 음성까지 신호 전달이 가능합니다.\n핀이 연결되고 영상 전달에 문제가 없으실 경우, 추가 구매는 필요하시지 않을 것으로 보입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-DVI25M-XXM": "LANG\nNSStar\nDVI-D 듀얼 케이블\nDVI24+1P M/M\n1.8M 3M 5M 10M\n1.8M LS-DVI25M-1.8M 3M LS-DVI25M-3M 5M LS-DVI25M-5M 10M LS-DVI25M-10M\nDVI(Digital Visual Interface) CABLE?\nPC에서 디스플레이 기기까지 아날로그 신호가 개입되지 않은 순수한\n디지털 신호를 전송하기 위한 TMDS (Transition Minimized\nDifferential Signaling)방식의 케이블입니다. DVI는 뭉개짐, 잔상\n현상, 잡티 등 아날로그에서 발생하는 문제점들을 개선합니다.\nDVI-D Dual Link]\nDVI-D Dual Link\nWQXGA 2560×1600\n디지털 고해상도 지원\n16:10 WQXGA 2560x1600, DVI 싱글 케이블의\n두배에 달하는 초고해상도 지원\nQHD 2560x1600\n\n\nQHD 2560x1600\nFHD 1920x1200\nHD 1440X900\ndts-HD\nDODOLBY\nHD DVD\nBlu-rayDisc 0\nTRUEHD\nMaster Audio\nDVI 단자의 종류\nDVI-A\n,\n--\nO\n---\n아날로그 신호만 전송시키는 단자입니다.\nㅇ\nDVI-D Single Link\n18+1 핀으로 DVI-D 싱글 케이블은 디지털 신호만\n전송 가능합니다.\nDVI-D Dual Link\n。\n---\n▬▬▬▬\n24+1핀으로 DVI-D 듀얼 케이블은 디지털 신호만\n전송 가능합니다.\nDVI-I Single Link\nㅇ\nO\n18+5핀으로 DVI-D 듀얼 케이블은 디지털+아날로그\n신호 전송 가능합니다.\nDVI-I Dual Link\nㅇ\nㅇ\n24+5핀으로 DVI-D 듀얼 케이블은 디지털+아날로그\n신호 전송 가능합니다.\nPRODUCT IMAGE\nㅇ\nSPECFICATIONS\nDVI단자\nDVI 24+1/M-DVI 24+1/M\n지원해상도\n2560x1600\n케이블 길이\n1.8M/3M/5M/10M\n소비전력 최대\nDC 300V/5s\n작동온도\n섭씨 80도\n■ 현대해상화재보험H\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n\n\nH M 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nCR\nROHS\nCOMPLIANT\nCERTIFICATION\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nDVI-D 듀얼 케이블 (DVI24+1P) M/M\nLS-DVI25M-1.8M\nLANStar\n모\n델\n명\nLS-DVI25M-3M\nLS-DVI25M-5M\nLS-DVI25M-10M\n인증번호\n상세페이지 참조\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DVI-D"
+      ],
+      "output_signals": [
+        "DVI-D"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [
+        1.8,
+        3.0,
+        5.0,
+        10.0
+      ],
+      "color_options": []
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "2K",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "DVI-D Dual",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DVI-D Dual Link(24+1핀)",
+    "connectivity.output_signals": "DVI-D Dual Link(24+1핀)",
+    "connectivity.directional": "DVI-D 듀얼 케이블",
+    "power.power_mode": "무전원",
+    "form_physical.length_options_meters": "1.8M, 3M, 5M, 10M",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "WQXGA 2560×1600",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "순수 디지털 신호 전송 케이블",
+    "family.dvi_type": "DVI-D Dual Link(24+1핀)",
+    "family.optical_core": "케이블",
+    "family.ethernet_channel": "순수 디지털 신호 전송 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:47",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,106 @@
+{
+  "model_no": "LS-PRT-18C",
+  "product_name": "LANStar 프린터 케이블 18Core DB25/M-CENT36/M 1.8M",
+  "category": [
+    "커넥터"
+  ],
+  "key_features": [
+    "18Core 프린터 연결 케이블",
+    "DB25(Male) - CENT36(Male) 커넥터 구성",
+    "정격 전압 300V, 작동 온도 0~80°C",
+    "RoHS 준수 제품 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 타입": "DB25/M-CENT36/M",
+    "전압": "300V",
+    "길이": "1.8M",
+    "작동 온도": "0~80°C",
+    "코어 수": "18Core"
+  },
+  "compatibility": [
+    "DB25(Male) 포트 지원 기기",
+    "CENT36(Male) 포트 지원 프린터"
+  ],
+  "package_contents": [
+    "프린터 케이블 18Core DB25/M-CENT36/M 1.8M 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PRT-18C-1.8M",
+      "품목코드": "CAB-프린터001",
+      "품목명": "[LANstar] 프린터케이블, DB25／M-CN36／M,18C,1.8M[10502] (100개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Parallel(DB25)"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": 1.8,
+      "length_options_meters": [],
+      "color_options": []
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "DB25 Male",
+      "connector_type_b": "CENT36 Male",
+      "gender": "M-M",
+      "pin_count": 18
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DB25(Male)",
+    "form_physical.length_meters": "1.8M",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.connector_type_a": "DB25(Male)",
+    "family.connector_type_b": "CENT36(Male)",
+    "family.gender": "DB25(Male) - CENT36(Male)",
+    "family.pin_count": "18Core"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:30",
+  "feature_schema_version": "1.0.0"
+}

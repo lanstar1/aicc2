@@ -1,0 +1,164 @@
+{
+  "model_no": "LSP-6KTVM-SMLED",
+  "product_name": "LANstar CAT.6 STP Tooless LED 키스톤잭",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-STP",
+    "키스톤잭",
+    "LAN공구"
+  ],
+  "key_features": [
+    "CAT.6 STP 규격 지원",
+    "1Gbps 전송속도 지원",
+    "별도의 압축 Tool 없이 제작 가능한 Tooless 제품",
+    "568A(Cross) / 568B(Direct) 배열 모두 지원",
+    "케이블 선을 보호하는 분리덮개 적용 신형 모듈",
+    "LED 기능으로 연결된 케이블 식별 가능",
+    "벽부착형 Plate, Outlet 공박스, 랙 장착형 마운트 판넬에 장착 가능"
+  ],
+  "specifications": {
+    "규격": "CAT.6 STP",
+    "전송속도": "1Gbps",
+    "커넥터": "8P8C",
+    "원산지": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "LUS-LS-CAT6",
+    "핀배열": "568A(Cross), 568B(Direct)",
+    "제품크기_단위": "mm",
+    "치수_항목1": "16.5",
+    "치수_항목2": "14.5",
+    "치수_항목3": "21.6",
+    "치수_항목4": "16.25",
+    "치수_항목5": "19.33",
+    "치수_항목6": "14.5",
+    "치수_항목7": "9.6",
+    "치수_항목8": "8",
+    "치수_항목9": "33.6",
+    "치수_항목10": "38.65"
+  },
+  "compatibility": [
+    "벽부착형 Wall Plate (LS-WP23 시리즈)",
+    "돌출형 아울렛 공박스 (LS-BK 시리즈, LSP-BK 시리즈)",
+    "19인치 표준형 랙 마운트 판넬 (LS-PLKP 시리즈)",
+    "랜스타 LED 테스터기 (랜마트 검색코드 40617) - LED 테스트 전용",
+    "스트리퍼 (랜마트 검색코드 40127)"
+  ],
+  "package_contents": [
+    "키스톤잭 모듈",
+    "케이블타이",
+    "모듈 덮개"
+  ],
+  "usage_instructions": "1. 모듈 덮개를 케이블에 삽입 후 스트리퍼를 이용하여 케이블 피복을 벗긴다. 2. 연결하고자 하는 핀배열(Direct 568B / Cross 568A)에 맞게 케이블을 연결한다. 3. 키스톤잭 모듈 홈에 맞게 스트리퍼를 이용하여 눌러 결선한다. 4. 가위를 이용하여 옆으로 튀어나온 선을 잘라 정리한다. 5. 미리 삽입해둔 모듈 덮개를 결합한다. 6. 키스톤잭 모듈을 소리가 날 때까지 꾹 눌러 결합한다. 7. 케이블 타이로 케이블과 키스톤잭 모듈을 고정한다.",
+  "cautions": [
+    "LED 테스트는 랜스타 LED 테스터기 모델로만 측정 가능",
+    "랜스타 LED 테스터기(랜마트 '40617' 검색)는 별도 구매 제품",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주) 제작 상품 및 콘텐츠 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품은 현대해상화재 생산물배상책임보험(1억원) 가입 제품",
+    "RoHS 규정 준수 제품(납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "본 제품은 국립전파연구원 인증 획득 제품 (인증번호: LUS-LS-CAT6)"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-6KTVM-SMLED",
+      "품목코드": "NEO-키스톤095",
+      "품목명": "[◆Lanstar-Plus] CAT.6 STP LED 키스톤잭 , White, Tooless [20292]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-6KTVM-SMLED",
+      "내용": "테스트결과 잘됩니다.",
+      "관련내용": "빠른 배송처리 감사합니다."
+    },
+    {
+      "source_model": "LSP-6KTVM-SMLED",
+      "내용": "빠른 배송처리 감사합니다."
+    },
+    {
+      "source_model": "LSP-6KTVM-SMLED",
+      "내용": "배송도 빠르고 품질도 좋네요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "STP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "CAT.6 STP Tooless LED 키스톤잭",
+    "connectivity.output_signals": "CAT.6 STP Tooless LED 키스톤잭",
+    "connectivity.directional": "N/A",
+    "connectivity.port_count": "키스톤잭",
+    "power.power_mode": "N/A",
+    "power.charging_support": "N/A",
+    "form_physical.has_case": "모듈 덮개를 케이블에 삽입",
+    "certification.kc": "인증번호: LUS-LS-CAT6",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.cat_category": "CAT.6 STP 규격 지원",
+    "family.shielding": "CAT.6 STP 규격 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:24",
+  "feature_schema_version": "1.0.0"
+}

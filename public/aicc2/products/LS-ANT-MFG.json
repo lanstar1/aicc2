@@ -1,0 +1,177 @@
+{
+  "model_no": "LS-ANT-MFG",
+  "product_name": "LANStar 안테나 연장 케이블 (RF M/F)",
+  "category": [
+    "익스텐더",
+    "커넥터",
+    "안테나케이블",
+    "LAN공구"
+  ],
+  "key_features": [
+    "RF 표준방식에 맞게 제작된 안테나 연장 케이블",
+    "신호감쇄율이 가장 적은 75Ω(RG59 COAXIAL) 케이블 사용으로 장거리 전송 시에도 화질손실 없이 선명한 고화질 영상 제공",
+    "금도금 커넥터 사용으로 신호손실 최소화",
+    "RoHS(유해물질 사용제한) 준수 인증",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "신호감쇄율이 가장 적은 75Ω(RG59) 동축 케이블 사용으로 장거리 전송 시에도 화질 손실 없이 선명한 고화질 영상 구현",
+    "금도금 커넥터 사용으로 신호 손실 최소화",
+    "RF 표준 방식에 맞게 제작",
+    "RoHS 규격 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "모델명(5M)": "LS-ANT-MFG-5M",
+    "모델명(10M)": "LS-ANT-MFG-10M",
+    "케이블 길이": "5M, 10M",
+    "커넥터 타입": "RF M/F / RF M/F (수-암)",
+    "임피던스": "75 OHM / 75 Ω",
+    "케이블 규격": "RG59 COAXIAL",
+    "커넥터 도금": "금도금",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "품질 인증": "ISO 9001:2008",
+    "환경 인증": "RoHS COMPLIANT"
+  },
+  "compatibility": [
+    "TV 안테나",
+    "케이블 TV",
+    "기타 RF 연장 연결 기기",
+    "RF 표준 방식 기기",
+    "기타 RF 연장 연결이 필요한 기기"
+  ],
+  "package_contents": [
+    "안테나 연장 케이블 (5M 또는 10M 중 선택 구매)",
+    "안테나 연장 케이블 (5M 또는 10M 중 선택 모델)"
+  ],
+  "usage_instructions": "TV 안테나, 케이블 TV, 기타 RF 기기의 연장 연결 시 RF M/F 커넥터를 기기의 안테나 단자에 연결하여 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단) 참조"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-ANT-MFG-5M",
+      "품목코드": "CAB-안테나045",
+      "품목명": "[LANstar] 안테나 연장케이블 RF M/F 75옴 5M [10985] (60개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ANT-MFG-10M",
+      "품목코드": "CAB-안테나046",
+      "품목명": "[LANstar] 안테나 연장케이블 RF M/F 75옴 10M [10986] (40개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-ANT-MFG-10M",
+      "내용": "딱 적당한 길이에 필요한 케이블이 왔네요"
+    },
+    {
+      "source_model": "LS-ANT-MFG-10M",
+      "내용": "안테나 선이 살짝 모자라 구입했습니다. TV 수신율에 영향 없이 잘 나오네요"
+    },
+    {
+      "source_model": "LS-ANT-MFG-10M",
+      "내용": "가성비 좋은 제품 입니다."
+    },
+    {
+      "source_model": "LS-ANT-MFG-10M",
+      "내용": "저렴한 가격에 구매하여 잘 사용중입니다."
+    },
+    {
+      "source_model": "LS-ANT-MFG-5M",
+      "내용": "배송도 빠르고 선도 깔끔하니 좋아요"
+    },
+    {
+      "source_model": "LS-ANT-MFG-5M",
+      "내용": "티비위치를 옮겼더니  선이 짧아서 시켰어요. 너무좋아요~"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-ANT-MFG-XXM": "LANSStar\n안테나 연장 케이블(RF M/F)\nANTENNA CABLE\n5M\n10M\n고화질 TV 안테나 케이블\nREM/F75OHMI) 저손실 케이블\nTV안테나, 케이블 TV, 기타 RF 연장 연결시에 사용되는\n안테나 케이블로 RF 표준방식에 맞게 제작되었습니다\n신호감쇄율이 가장 적은 752 케이블을 사용하여\n장거리 전송시에도 화질손실 없이 선명한\n고화질의 영상을 즐기실 수 있습니다\nH\n금도금 콘넥터 를 사용하여\n신호손실을 최소화하였습니다\nPRODUCT IMAGE\nLAN Star\nLAN Star\nmico\n안테나 연장 케이블 5m\n안테나 연장 케이블 10m\nInter\nInter\nAccessories\nAccessories\nMade in China Pectory\n\n\nInterf\nInter\nAccessories\nRolle\n2ww.co.k\nMade in China Fectory\nin China Face\nFry\noo\n5M\n10M\nRG59 COAXIAL\n75 OHM\nCABLE\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nR\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANSStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\nLAN Star\n품\n명 안테나 연장 케이블 (RF M / F)\n모\n델\n명\nLS-ANT-MFG-5M\nLS-ANT-MFG-10M\n인증번호 상세페이지 참조\n제조국/원산지 중국 (China)\n제조사/수입사 라인업시스템(주)\nAS 소비자상담 라인업시스템(주) 070-7018-3386\n구매/배송/반품 판매처 (쇼핑몰 하단 참조)\n품질보증기준 본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RF"
+      ],
+      "output_signals": [
+        "RF"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        5,
+        10
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": null,
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "max_distance_m": null,
+      "carrier_media": [
+        "동축"
+      ],
+      "poc_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RF 표준방식에 맞게 제작된 안테나",
+    "connectivity.output_signals": "RF 표준방식에 맞게 제작된 안테나",
+    "connectivity.directional": "안테나 연장 케이블",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.material": "금도금 커넥터 사용",
+    "form_physical.length_options_meters": "케이블 길이: 5M, 10M",
+    "certification.rohs": "RoHS(유해물질 사용제한) 준수 인증",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.audio_pass": "화질손실 없이 선명한 고화질 영상 제공",
+    "audio_video.hdcp_version": "N/A",
+    "family.carrier_media": "75Ω(RG59 COAXIAL) 케이블 사용"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:09",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,172 @@
+{
+  "model_no": "LS-MHL-A519R",
+  "product_name": "애플/삼성/LG 겸용 미러링 케이블 (레드블랙 1M)",
+  "category": [
+    "아이폰케이블"
+  ],
+  "key_features": [
+    "애플 / 삼성 / LG 3사 겸용 미러링 지원",
+    "영상 및 오디오 동시 출력 지원",
+    "1080P Full HD 3D 지원 (해상도 1920x1080)",
+    "HDTV, 모니터, 프로젝터 연결 가능",
+    "유튜브 스트리밍 영상을 TV에서 시청 가능",
+    "MiraScreen Wire 앱 연동 지원",
+    "케이블 길이 1M",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "KC / FCC / CE / RoHS 인증 획득"
+  ],
+  "specifications": {
+    "커넥터": "HDMI (Male) + USB A (Male) - USB A (Female)",
+    "해상도": "1920x1080 (Full HD 1080P, 3D 지원)",
+    "케이블 길이": "1M",
+    "색상": "Red, Black",
+    "인증번호": "KCC-REI-LUS-LS-MHL-519",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "A/S 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "iPhone 7",
+    "iPhone 6 Plus",
+    "iPhone 6",
+    "iPhone 5S",
+    "iPhone 5",
+    "iPad (Wi-Fi + Cellular)",
+    "Samsung Galaxy S7",
+    "Samsung Galaxy S7 edge",
+    "LG G6",
+    "LG V20",
+    "안드로이드 OS 버전 5.1 이상"
+  ],
+  "package_contents": [
+    "미러링 케이블 본체 (HDMI Male + USB A Male + USB A Female, 1M)",
+    "※ DC 5V 어댑터 별도 구매 필요",
+    "※ 아이폰 연결 시 USB A(Male)-8Pin 케이블 별도 구매 필요",
+    "※ 안드로이드폰 연결 시 USB A(Male)-Micro B 케이블 별도 구매 필요",
+    "※ LG G6 연결 시 USB A(Male)-USB 3.1 C Type 케이블 별도 구매 필요"
+  ],
+  "usage_instructions": "1. 미러링 케이블의 HDMI 단자를 TV, 모니터 또는 프로젝터의 HDMI 포트에 연결한다. 2. USB A(Male) 단자에 DC 5V 전원을 공급한다(5V 어댑터 또는 PC USB 단자 사용). 3. USB A(Female) 단자를 휴대폰과 연결한다(아이폰: 애플 8핀 케이블 / 안드로이드: Micro B 케이블 / LG G6: USB 3.1 C Type 케이블). [아이폰 연결 시] 4. 화면에 '이 컴퓨터를 신뢰하겠습니까?' 메시지가 나타나면 '신뢰'를 클릭한다. 5. TV(모니터)와 미러링이 되어 폰 화면과 동일하게 출력된다. [안드로이드폰 연결 시] 4. 설정 > 개발자 옵션에서 'USB 디버깅'을 선택한다(개발자 옵션이 없을 경우 설정 > 디바이스 정보 > 빌드번호를 개발자 모드로 바뀔 때까지 반복 클릭하여 생성). 5. 'USB 디버깅을 허용'한다. 6. '컴퓨터 RSA 키 지문'의 USB 디버깅도 허용하면 약 5초 후 미러링이 된다. 7. TV(모니터)와 미러링이 되어 폰 화면과 동일하게 출력된다. Tip: 안드로이드는 USB 디버깅 허용 후 MiraWire 앱을 실행하여 미러링한다. [펌웨어 업데이트] 안드로이드 연결 시 유튜브 영상이 나오지 않을 경우, MiraWire 앱 설치 후 Setting 클릭 > USB 테더링 켜기 > 에어 설정 > 업그레이드 클릭 > '최신 펌웨어'로 확인되면 완료.",
+  "cautions": [
+    "안드로이드 8.0으로 업데이트 시 사용이 불가능합니다.",
+    "안드로이드폰은 버전이 5.1 이상일 때 정상 작동됩니다.",
+    "구글 플레이 무비, 넷플릭스와 같은 일부 앱은 작동하지 않을 수 있습니다.",
+    "삼성 갤럭시 모델에서 안드로이드 7.0 누가 업데이트 시 [설정 > 디스플레이 > 화면 해상도]에서 WQHD(2560x1440)로 설정하면 전체화면으로 출력됩니다.",
+    "별도 케이블 연결 시 데이터 전송과 충전이 동시에 지원되는 제품을 사용하세요.",
+    "아이폰 연결 시 와이파이 안테나, 현재 시각, 충전 상태가 임의 변경됩니다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MHL-A519R",
+      "품목코드": "CAB-APP597",
+      "품목명": "[LANstar] [10954] 아이폰 안드로이드 겸용 미러링 케이블/MHL기능 RED 1M ***단종***",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-MHL-A519R",
+      "chatUrl": "7vHaT",
+      "dateIso": "2024-02-04T23:58:07.855Z",
+      "name": "도시천사",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "none",
+      "question": "안녕하셔요 ㅎ\n5년전 ‘LS-MHL-A519R’ 제품 구매하여 아이폰 6s+와 잘 썼습니다. 오래 안쓰다가 아이폰15 일반(USB 2지원)과 연결하려고, usb A to c type까지 구매했는데ㅠ소리만 나오네요 ㅠㅠ 혹시 몰라 연결했더니 아이폰6s+는 아직 잘 나와요~! ㅎㅎHDMI 케이블이 오래되어 호환이 안되서겠죠?? 새로 HDMI 케이블을 구매해야할까요?? 참고로 TV는 LG입니다.",
+      "answer": "감사합니다. talk.naver.com/W4QWIB 해당 문의의 경우 아래 링크로 문의 부탁드립니다.",
+      "turn_count": 1,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "안녕하셔요 ㅎ\n5년전 ‘LS-MHL-A519R’ 제품 구매하여 아이폰 6s+와 잘 썼습니다. 오래 안쓰다가 아이폰15 일반(USB 2지원)과 연결하려고, usb A to c type까지 구매했는데ㅠ소리만 나오네요 ㅠㅠ 혹시 몰라 연결했더니 아이폰6s+는 아직 잘 나와요~! ㅎㅎHDMI 케이블이 오래되어 호환이 안되서겠죠?? 새로 HDMI 케이블을 구매해야할까요?? 참고로 TV는 LG입니다."
+        },
+        {
+          "role": "agent",
+          "text": "정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다. talk.naver.com/W4QWIB 안녕하세요. 고객님. 랜스타입니다.\n\n해당 문의의 경우 아래 링크로 문의 부탁드립니다."
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": [
+        "Red",
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": true
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": null,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A (Male) - USB A (Female)",
+    "connectivity.output_signals": "HDMI (Male)",
+    "connectivity.directional": "미러링 지원",
+    "power.power_mode": "DC 5V 전원을 공급한다(5V 어댑터 또는 PC USB 단자 사용)",
+    "form_physical.length_meters": "케이블 길이 1M",
+    "form_physical.color_options": "Red, Black",
+    "certification.kc": "KC / FCC / CE / RoHS 인증 획득",
+    "certification.rohs": "KC / FCC / CE / RoHS 인증 획득",
+    "certification.fcc": "KC / FCC / CE / RoHS 인증 획득",
+    "certification.ce": "KC / FCC / CE / RoHS 인증 획득",
+    "audio_video.max_resolution": "1080P Full HD 3D 지원 (해상도 1920x1080)",
+    "audio_video.audio_pass": "영상 및 오디오 동시 출력 지원",
+    "control_switching.has_app_control": "MiraScreen Wire 앱 연동 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:37",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

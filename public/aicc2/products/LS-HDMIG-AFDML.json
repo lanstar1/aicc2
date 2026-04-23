@@ -1,0 +1,135 @@
+{
+  "model_no": "LS-HDMIG-AFDML",
+  "product_name": "HDMI 마이크로 젠더 19핀 90도 꺾임 (HDMI19P A/F - Micro HDMI D/M)",
+  "category": [
+    "HDMI케이블",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "HDMI19P A/F 타입과 Micro HDMI D/M 타입 커넥터가 ㄱ자형(90도 꺾임)으로 구성된 젠더",
+    "좁은 공간에서 케이블이 꽂히지 않을 때 사용 가능",
+    "신호 손실을 최소화하는 금도금 커넥터 적용",
+    "RoHS 준수 제품 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터_A": "HDMI19P A/F (Female)",
+    "커넥터_B": "Micro HDMI D/M (Male)",
+    "형태": "ㄱ자형 90도 꺾임",
+    "금도금": "적용",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008",
+    "인증번호": "해당없음",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "AS_소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "TV",
+    "PC 모니터",
+    "스마트폰",
+    "캠코더",
+    "태블릿PC"
+  ],
+  "package_contents": [
+    "HDMI 마이크로 젠더 90도 꺾임 본체 1개"
+  ],
+  "usage_instructions": "HDMI A/F 단자에 기존 HDMI 케이블을 연결하고, Micro HDMI D/M 단자를 기기의 Micro HDMI 포트에 삽입하여 사용. 좁은 공간 등 일반 케이블 연결이 어려운 환경에서 활용.",
+  "cautions": [
+    "제품의 단자 크기와 모양을 반드시 확인 후 구매·사용할 것",
+    "유통 과정상 제품의 모양이 조금씩 달라질 수 있음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMIG-AFDML",
+      "품목코드": "GEN-HDI042",
+      "품목명": "[LANstar] HDMI마이크로젠더, HDMI A／F-D／M, Black, 90도[20101]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무관",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI19P A/F 타입과 Micro HDMI D/M",
+    "connectivity.output_signals": "HDMI19P A/F 타입과 Micro HDMI D/M",
+    "connectivity.directional": "HDMI19P A/F 타입과 Micro HDMI D/M",
+    "connectivity.port_count": "HDMI19P A/F 타입과 Micro HDMI D/M",
+    "power.power_mode": "젠더",
+    "power.charging_support": "젠더",
+    "form_physical.has_case": "젠더",
+    "form_physical.material": "금도금 커넥터 적용",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008",
+    "audio_video.max_resolution": "젠더",
+    "audio_video.hdcp_version": "젠더",
+    "control_switching.has_remote": "젠더",
+    "control_switching.has_hotkey": "젠더",
+    "control_switching.has_physical_button": "젠더",
+    "control_switching.has_mouse_switching": "젠더",
+    "control_switching.has_auto_scan": "젠더",
+    "control_switching.has_app_control": "젠더",
+    "family.hdmi_version": "HDMI 마이크로 젠더",
+    "family.dp_version": "HDMI 마이크로 젠더",
+    "family.dvi_type": "HDMI 마이크로 젠더",
+    "family.optical_core": "젠더",
+    "family.ethernet_channel": "HDMI 마이크로 젠더"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:27",
+  "feature_schema_version": "1.0.0"
+}

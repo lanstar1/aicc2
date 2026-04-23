@@ -1,0 +1,119 @@
+{
+  "model_no": "LS-BNCF-RCAF",
+  "product_name": "BNC 커플러 BNC 변환젠더 BNC/F-1RCA/F",
+  "category": [
+    "컨버터",
+    "젠더",
+    "커넥터",
+    "커플러"
+  ],
+  "key_features": [
+    "BNC(F) 타입과 1RCA(F) 타입 커넥터로 구성된 젠더",
+    "1RCA/F 커플러 단자를 BNC/F 커플러 단자로 변환할 때 사용",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "RoHS(유해물질 사용제한) 규격 준수",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-BNCF-RCAF",
+    "품명": "BNC 커플러 BNC/F-1RCA/F",
+    "커넥터 구성": "BNC(Female) + 1RCA(Female)",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "브랜드": "LAN Star"
+  },
+  "compatibility": [
+    "BNC(F) 타입 커넥터",
+    "1RCA(F) 타입 커넥터",
+    "RCA Type을 BNC Type으로 변환하는 장비"
+  ],
+  "package_contents": [
+    "BNC/F-1RCA/F 변환젠더 본체 1개"
+  ],
+  "usage_instructions": "1RCA/F 커플러 단자를 BNC/F 커플러 단자로 변환할 때 본 젠더를 사이에 연결하여 사용합니다.",
+  "cautions": [
+    "유통과정상 제품의 모양이 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품 및 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "품질에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결기준에 따라 보상 가능 (AS 문의: 라인업시스템(주) 070-7018-3386)"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-BNCF-RCAF",
+      "품목코드": "GEN-BNC005",
+      "품목명": "[LANstar] BNC커플러Changer , BNC／F-1RCA／ F[20030]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "BNC",
+        "RCA"
+      ],
+      "output_signals": [
+        "BNC",
+        "RCA"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "BNC(F) 타입과 1RCA(F) 타입 커넥터",
+    "connectivity.output_signals": "BNC(F) 타입과 1RCA(F) 타입 커넥터",
+    "connectivity.directional": "BNC(F) 타입과 1RCA(F) 타입 커넥터로 구성된 젠더",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "BNC 커플러 BNC 변환젠더",
+    "certification.rohs": "RoHS(유해물질 사용제한) 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.conversion_direction": "1RCA/F 커플러 단자를 BNC/F 커플러 단자로 변환",
+    "family.requires_external_power": "무전원"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:34",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,146 @@
+{
+  "model_no": "LS-RC",
+  "product_name": "LANStar 라이저 카드 (Riser Card) LS-RC-630",
+  "category": [
+    "USB케이블",
+    "USB3.0",
+    "커넥터"
+  ],
+  "key_features": [
+    "PCI-E 1X to 16X 확장 지원",
+    "USB 3.0 연장 케이블 60cm 포함 (전송속도 5Gbps Super Speed)",
+    "3x FP 솔리드 콘덴서 사용으로 그래픽 전원 공급 안정성 및 안전성 향상",
+    "금도금 커넥터 적용으로 수명이 길고 연결 안정성 우수",
+    "마더보드의 1X, 4X, 8X, 16X PCI-E 슬롯과 호환",
+    "사이드 클립으로 다른 카드 고정 가능",
+    "드라이버 설치 불필요",
+    "GPU 그래픽 카드 및 암호화폐 채굴(Crypto Currency Mining) 용도 적합",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 획득 (인증번호: MSIP-REI-LUS-LS-RC630)",
+    "RoHS 규정 준수, CE·FCC·KC 안전규격 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-RC-630",
+    "인터페이스": "PCI-E 1X to 16X",
+    "USB 케이블 규격": "USB 3.0 (AM-AM) 0.6m",
+    "전원 케이블": "6pin to 15pin SATA 0.2m",
+    "커넥터 재질": "금도금",
+    "콘덴서": "3x FP 솔리드 콘덴서",
+    "제품 크기 (보드)": "200mm x 42mm x 128mm",
+    "케이블 총길이": "600mm",
+    "기타 치수": "32mm x 17mm",
+    "인증번호": "MSIP-REI-LUS-LS-RC630",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "안전규격 인증": "KC, FCC, CE",
+    "환경규격": "RoHS 준수",
+    "품질경영시스템": "ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "PCI-E 1X 슬롯",
+    "PCI-E 4X 슬롯",
+    "PCI-E 8X 슬롯",
+    "PCI-E 16X 슬롯"
+  ],
+  "package_contents": [
+    "PCI-E 1X to 16X 라이저 카드 본체",
+    "USB 3.0 연장 케이블 (AM-AM, 0.6m / 60cm)",
+    "6pin to 15pin SATA 전원 케이블 (0.2m)"
+  ],
+  "usage_instructions": "드라이버 설치 없이 마더보드의 PCI-E 1X, 4X, 8X, 16X 슬롯에 꽂아 사용. USB 3.0 연장 케이블로 라이저 카드와 메인보드를 연결하고, 6pin to SATA 전원 케이블로 전원 공급. 사이드 클립으로 그래픽 카드 등 다른 카드를 고정 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익이 발생할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리",
+    "AS 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.6
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 연장 케이블 60cm 포함",
+    "connectivity.output_signals": "USB 3.0 연장 케이블 60cm 포함",
+    "connectivity.directional": "USB 3.0 연장 케이블",
+    "power.power_mode": "6pin to 15pin SATA 전원 케이블로 전원 공급",
+    "power.charging_support": "전원 공급 안정성 및 안전성 향상",
+    "form_physical.has_case": "LANStar 라이저 카드",
+    "form_physical.material": "금도금 커넥터 적용",
+    "form_physical.length_options_meters": "USB 3.0 연장 케이블 60cm 포함",
+    "certification.kc": "KC 안전규격 인증",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC 안전규격 인증",
+    "certification.ce": "CE 안전규격 인증",
+    "audio_video.max_resolution": "PCI-E 1X to 16X 확장 지원",
+    "audio_video.hdr_support": "PCI-E 1X to 16X 확장 지원",
+    "audio_video.hdcp_version": "PCI-E 1X to 16X 확장 지원",
+    "audio_video.audio_pass": "PCI-E 1X to 16X 확장 지원",
+    "control_switching.has_remote": "드라이버 설치 불필요",
+    "control_switching.has_hotkey": "드라이버 설치 불필요",
+    "control_switching.has_physical_button": "드라이버 설치 불필요",
+    "control_switching.has_mouse_switching": "드라이버 설치 불필요",
+    "control_switching.has_auto_scan": "드라이버 설치 불필요",
+    "control_switching.has_app_control": "드라이버 설치 불필yo",
+    "family.usb_version": "USB 3.0 연장 케이블",
+    "family.transfer_speed_gbps": "전송속도 5Gbps Super Speed",
+    "family.charging_only": "전원 공급 안정성 및 안전성 향상",
+    "family.data_only": "전송속도 5Gbps Super Speed"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:40",
+  "feature_schema_version": "1.0.0"
+}

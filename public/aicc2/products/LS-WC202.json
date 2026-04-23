@@ -1,0 +1,238 @@
+{
+  "model_no": "LS-WC202",
+  "product_name": "LAN Star HDMI 2x2 멀티비전 월 컨트롤러",
+  "category": [
+    "HDMI선택기",
+    "멀티비전"
+  ],
+  "key_features": [
+    "각 디스플레이별 1080P@60Hz 출력 해상도 지원",
+    "8가지 디스플레이 출력 모드 지원 (1x2, 1x3, 1x4, 2x1, 3x1, 4x1, 2x2 비디오 월, 2x2 복제)",
+    "Edge 조절을 통해 베젤 두께에 따른 부자연스러운 화면 출력 보정 가능",
+    "디스플레이 180° 회전 출력 지원",
+    "리모콘을 통한 간편한 조작 가능 (출력 모드 변경, 음소거, 사운드 채널 선택, OSD, Edge 조절, 회전)",
+    "Plug&Play 지원 (PC 재부팅, 드라이버 설치 없이 바로 사용 가능)",
+    "벽 부착 사용 가능 (브라켓 포함)",
+    "RS232 제어 프로그램을 통한 비디오 출력 및 각종 기능 제어 지원",
+    "2.1CH / 5.1CH 오디오 출력 선택 가능",
+    "Stereo(3.5mm), 광오디오(TOSLINK), HDMI 오디오 출력 지원",
+    "KC 인증 획득 제품 (인증번호: R-R-LUS-LS-WC202)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "입력 포트": "HDMI 포트 1개",
+    "출력 포트": "HDMI 포트 4개, 스테레오(3.5mm) 1포트, 광오디오(TOSLINK) 1포트",
+    "입력 최대 해상도": "4K@30Hz",
+    "출력 최대 해상도": "1080P@60Hz (각 디스플레이별)",
+    "지원 해상도": "480P, 576P, 720P, 1080P@60Hz",
+    "작동 온도": "0°C ~ 70°C",
+    "습도": "5% ~ 90%",
+    "전원": "DC 5V 1A 전원 어댑터",
+    "소비 전력": "2W",
+    "크기": "197 x 84.5 x 18.5 (mm)",
+    "무게": "약 371g",
+    "재질": "메탈",
+    "KC 인증번호": "R-R-LUS-LS-WC202",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 입력장치: PC, 노트북 등",
+    "HDMI 출력장치: 모니터, TV 등 최대 4대",
+    "3.5mm 스테레오 출력장치: 이어폰, 헤드셋 등",
+    "광오디오 출력장치 (TOSLINK)",
+    "Micro USB: 펌웨어 제어용 (PC, 노트북)",
+    "2x2 모드 사용 시 입력기기가 3840x2160 해상도 지원 필요",
+    "1x2 모드 사용 시 입력기기가 3840x1080 해상도 지원 필요",
+    "2x1 모드 사용 시 입력기기가 1920x2160 해상도 지원 필요",
+    "1x3 모드 사용 시 입력기기가 5760x1080 해상도 지원 필요 (가로 배치 확장 원칙 적용)",
+    "RS232 제어 프로그램 (별도 프로그램 사용 가능, 랜마트 기술 자료실에서 다운로드 가능)"
+  ],
+  "package_contents": [
+    "HDMI 2x2 멀티비전 월 컨트롤러 본체 (LS-WC202)",
+    "DC 5V 전원 어댑터",
+    "USB Micro 5Pin 케이블",
+    "벽 부착 브라켓",
+    "Remote Control (리모콘)",
+    "HDMI 케이블 2ea",
+    "사용자 매뉴얼 (LSWC202 User Manual)"
+  ],
+  "usage_instructions": "1. HDMI 입력 포트에 PC 또는 노트북 등 입력장치를 연결한다.\n2. HDMI Output 1~4 포트에 최대 4대의 디스플레이를 연결한다.\n3. DC 5V 전원 어댑터를 연결하고 전원 버튼을 켠다.\n4. Plug&Play로 드라이버 설치 없이 바로 사용 가능하다.\n5. 리모콘 또는 본체 버튼으로 출력 모드(8가지), Edge 조절, 화면 회전(180°), 오디오 채널(2.1CH/5.1CH) 등을 설정한다.\n6. 입력기기(PC 등)에서 사용할 디스플레이 배열에 맞는 해상도를 설정해야 정상 출력된다 (예: 2x2 모드 시 3840x2160 설정 필요).\n7. Edge 조절: 베젤 두께로 인한 부자연스러운 화면을 보정하려면 리모콘의 Edge 조절 버튼 또는 RS232 명령어(SPO Edge Mask +/-)를 사용한다.\n8. 180° 화면 회전: 모니터 하단 베젤이 두꺼운 경우, 모니터를 물리적으로 회전한 뒤 리모콘의 ROTATE 버튼으로 해당 출력 화면을 180° 회전하여 자연스럽게 출력한다.\n9. RS232 제어: 제어 프로그램에서 명령어를 입력하여 전원, 비디오 모드, 오디오, OSD, 초기화 등 각종 기능을 제어할 수 있다.\n10. 벽 부착 시 제공된 브라켓을 사용하여 고정한다.",
+  "cautions": [
+    "캐스캐이딩(CASCADING) 모드는 지원하지 않음",
+    "출력 화면이 깜빡이거나 깨지는 경우 HDMI 케이블 불량 가능성이 높으므로 케이블 교체 후 재시도 필요; 동일 증상 지속 시 판매처(네이버 톡톡 등)에 문의",
+    "사용하려는 디스플레이 배열에 맞는 해상도를 입력기기(PC, 노트북 등)에서 반드시 지원해야 정상 멀티비전 사용 가능",
+    "Edge 조절 기능은 출력 모드에 상관없이 사용 가능 (2x2 모드 전용 아님)",
+    "정품 인증 배너가 없는 판매처의 제품은 A/S를 받을 수 없음; 라인업시스템(주)/랜스타 공식 인증 배너 확인 필요",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "당일 출고는 오후 4시 이전 결제 완료 건 기준이며, 토요일·공휴일 제외 평일 기준; 택배사 사정에 따라 배송 기간이 길어질 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-WC202",
+      "품목코드": "INT-HDS325",
+      "품목명": "[LANstar] 2x2 HDMI 월컨트롤러 멀티비전 비디오월 4K 30Hz [30847][20개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-WC202",
+      "내용": "좋아요~좋아요~좋아요~좋아요~좋아요~좋아요~",
+      "관련내용": "좋아요~좋아요~좋아요~좋아요~좋아요~좋아요~"
+    },
+    {
+      "source_model": "LS-WC202",
+      "내용": "좋아요~좋아요~좋아요~좋아요~좋아요~좋아요~"
+    },
+    {
+      "source_model": "LS-WC202",
+      "내용": "항상 잘쓰고 있습니다"
+    },
+    {
+      "source_model": "LS-WC202",
+      "내용": "항상 잘 사용하고 있습니다"
+    },
+    {
+      "source_model": "LS-WC202",
+      "내용": "잘 작동되고 잘쓰고 있습니다!"
+    },
+    {
+      "source_model": "LS-WC202",
+      "내용": "잘 작동되고 좋습니다"
+    },
+    {
+      "source_model": "LS-WC202",
+      "내용": "현재까지 잘 사용하고 있습니다.\n영상 잘 출력됩니다.",
+      "관련내용": "제품 잘 받았습니다."
+    },
+    {
+      "source_model": "LS-WC202",
+      "내용": "빠른 배송으로 잘 사용하게 되었습니다"
+    },
+    {
+      "source_model": "LS-WC202",
+      "내용": "제품 잘 받았습니다."
+    },
+    {
+      "source_model": "LS-WC202",
+      "내용": "배송은 늦었지만 품질 좋습니다~!"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-WC202",
+      "id": 626872508,
+      "date": "2025-05-02 12:24",
+      "answerDate": "2025-05-02 14:01",
+      "user": "wnsg******",
+      "productName": "랜스타 미디어월 멀티비전 8가지 디스플레이 출력 월컨트롤러 비디오월 (LS-WC202)",
+      "question": "안녕하세요?\n경기 고양시 덕양구 대덕로200번길 138\n오늘  지금 주문하면 언제 받을 수 있나요??",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n15시30분 이전 주문건까지 금일 출고 도와드리고 있습니다.\n다만 연휴로 인해 연휴 이후에 택배 받아보실 가능성이 높습니다.\n택배사마다 휴무가 달라 정확한 시점 안내가 불가한 점 안내드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-WC202",
+      "id": 634600614,
+      "date": "2025-07-09 10:50",
+      "answerDate": "2025-07-10 09:05",
+      "user": "13****",
+      "productName": "랜스타 미디어월 멀티비전 8가지 디스플레이 출력 월컨트롤러 비디오월 (LS-WC202)",
+      "question": "안녕하세요\n모니터를 총 3대사용하려는데\n이제품 1x3 가로모드 적용이 가능한가요??",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n네. 상세페이지에 기재되어있는 것과 같이 1x3 가로모드 적용이 가능하십니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-WC202",
+      "chatUrl": "67V7j",
+      "dateIso": "2025-09-03T01:26:33.455Z",
+      "name": "apexon",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "감사합니다",
+      "answer": "기술지원 담당자 확인하였습니다. 이용 가능하다고 합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI",
+        "3.5mm",
+        "Optical"
+      ],
+      "directional": "일방향",
+      "port_count": 6
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": true
+    },
+    "family": {
+      "selector_type": "수동",
+      "input_count": 1,
+      "output_count": 4,
+      "interfaces": [
+        "HDMI"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 포트 1개",
+    "connectivity.output_signals": "HDMI 포트 4개, 스테레오(3.5mm) 1포트, 광오디오(TOSLINK) 1포트",
+    "connectivity.directional": "HDMI 2x2 멀티비전 월 컨트롤러",
+    "connectivity.port_count": "HDMI 포트 1개\n출력 포트: HDMI 포트 4개, 스테레오(3.5mm) 1포트, 광오디오(TOSLINK) 1포트",
+    "power.power_mode": "DC 5V 1A 전원 어댑터",
+    "power.charging_support": "DC 5V 1A 전원 어댑터",
+    "form_physical.has_case": "메탈",
+    "form_physical.material": "메탈",
+    "certification.kc": "KC 인증 획득 제품",
+    "audio_video.max_resolution": "1080P@60Hz 출력 해상도 지원",
+    "audio_video.audio_pass": "2.1CH / 5.1CH 오디오 출력 선택 가능",
+    "control_switching.has_remote": "리모콘을 통한 간편한 조작 가능",
+    "control_switching.has_physical_button": "본체 버튼으로 출력 모드",
+    "control_switching.has_app_control": "RS232 제어 프로그램을 통한 비디오 출력",
+    "family.selector_type": "리모콘 또는 본체 버튼으로 출력 모드",
+    "family.input_count": "HDMI 입력 포트에 PC 또는 노트북 등 입력장치를 연결한다.",
+    "family.output_count": "HDMI Output 1~4 포트에 최대 4대의 디스플레이를 연결한다.",
+    "family.interfaces": "HDMI"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:24",
+  "feature_schema_version": "1.0.0"
+}

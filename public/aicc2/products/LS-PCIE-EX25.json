@@ -1,0 +1,287 @@
+{
+  "model_no": "LS-PCIE-EX25",
+  "product_name": "LAN Star PCI-Express 2.5G 유선 랜카드",
+  "category": [
+    "방열판",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "Realtek RTL8125B 칩셋 채용 – 최첨단 DSP 기술과 혼합 모드 신호 기술로 호환성·안정성·신호전달력 우수",
+    "2.5Gbps(10/100/1000Mbps/2.5Gbps) Full-Duplex 지원",
+    "PCI-Express x1/x4/x8/x16 슬롯 모두 장착 가능",
+    "발열 방지용 방열판 내장으로 부품 보호 및 소음 저감",
+    "슬림 PC용 Low-profile 브라켓 동봉",
+    "Windows 11 공식 지원",
+    "국립전파연구원 인증 획득 (인증번호: R-R-LUS-EX2500)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "CAT6A/CAT.7/CAT.8 케이블로 2.5Gbps 속도 유지 가능",
+    "크로스오버 검출 및 자동 보정, 적응 균등화, 크로스 토크 취소, 에코 취소, 타이밍 복구, 오류 수정 기능 제공"
+  ],
+  "specifications": {
+    "칩셋": "Realtek RTL8125B",
+    "인터페이스": "PCI-Express x1-Lane Revision 2.1",
+    "표준": "IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3bz-2016 NGBASET, IEEE802.3az-2010, IEEE1588v1, IEEE1588v2, IEEE802.1Qav, IEEE802.1P, IEEE802.1Q VLAN, IEEE802.3x",
+    "포트 형식": "RJ45",
+    "전송 속도": "10/100/1000Mbps / 2.5Gbps Full-Duplex",
+    "동작 온도": "0~40°C",
+    "동작 습도": "10~90%",
+    "전원": "PCI-Express Bus Power",
+    "운영체제": "Windows 7 / 8 / 8.1 / 10 / 11, Linux",
+    "인증번호": "R-R-LUS-EX2500",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "제품 크기": "56mm x 120mm x 18mm (가로 x 세로 x 두께, 약 70mm 포함 치수 병기)",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "PCI-Express x1 슬롯",
+    "PCI-Express x4 슬롯",
+    "PCI-Express x8 슬롯",
+    "PCI-Express x16 슬롯",
+    "Windows 7 / 8 / 8.1 / 10 / 11",
+    "Linux",
+    "슬림 PC (Low-profile 브라켓 사용 시)",
+    "CAT6A / CAT.7 / CAT.8 케이블 (2.5Gbps 속도 유지)"
+  ],
+  "package_contents": [
+    "PCI-Express 2.5G 랜카드 본체 (LS-PCIE-EX25)",
+    "슬림 PC용 Low-profile 브라켓",
+    "Slim PC 가이드"
+  ],
+  "usage_instructions": "PC 메인보드의 PCI-Express 슬롯(x1/x4/x8/x16)에 본 카드를 장착하면 2.5G 랜포트가 생성됩니다. 슬림 PC에 설치할 경우 동봉된 Low-profile 브라켓으로 교체하여 장착하세요. 드라이버는 지원 운영체제(Windows 7/8/8.1/10/11, Linux)에 맞게 설치하세요.",
+  "cautions": [
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "LAN Star 및 라인업시스템(주) 상품과 콘텐츠를 사전 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있습니다.",
+    "2.5Gbps 속도를 온전히 활용하려면 인터넷 회선이 2.5Gbps 이상이어야 하며, CAT6A/CAT.7/CAT.8 케이블 사용을 권장합니다.",
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-EX25",
+      "품목코드": "USB-PCI276",
+      "품목명": "[LANstar] PCIe 랜카드 2.5Gbps , RTL8125B 칩셋 [30627] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-PCIE-EX25",
+      "내용": "회사에서 사용하려 구매했어요~"
+    },
+    {
+      "source_model": "LS-PCIE-EX25",
+      "내용": "회사에서 사용하려 구매했어요~\n빠른 배송으로 잘 받았습니다",
+      "관련내용": "사무실에서 사용하려고 구매했어요"
+    },
+    {
+      "source_model": "LS-PCIE-EX25",
+      "내용": "사무실에서 사용하려고 구매했어요"
+    },
+    {
+      "source_model": "LS-PCIE-EX25",
+      "내용": "빠른배송 랜카드도 잘 작동합니다"
+    },
+    {
+      "source_model": "LS-PCIE-EX25",
+      "내용": "잘받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-PCIE-EX25",
+      "내용": "메인보드 기본 랜카드로 기가가 아닌 랜카드 쓰다가 이 제품을 설치해서 써보니 속도가 정말 달라지네요.",
+      "관련내용": "드디어 인터넷이 제 속도가 나오네요. ㅠㅠ\n메인보드 갈면서 메인보드 새거니까 랜포트도 당연히 좋은거겠지 했는데 너무 속도가 안나와서 인터넷 기사님까지 불러서 물어봤더니 메인보드에 달려있던 랜카드 속도가 원래 느린거였더라구요.. \n교체했더니 정상적인 속도가 뜨네요~"
+    },
+    {
+      "source_model": "LS-PCIE-EX25",
+      "내용": "드디어 인터넷이 제 속도가 나오네요. ㅠㅠ\n메인보드 갈면서 메인보드 새거니까 랜포트도 당연히 좋은거겠지 했는데 너무 속도가 안나와서 인터넷 기사님까지 불러서 물어봤더니 메인보드에 달려있던 랜카드 속도가 원래 느린거였더라구요.. \n교체했더니 정상적인 속도가 뜨네요~"
+    },
+    {
+      "source_model": "LS-PCIE-EX25",
+      "내용": "윈도우10입니다 인식 잘되며 속도 저하없이 쭉쭉 잘뽑아주네요"
+    },
+    {
+      "source_model": "LS-PCIE-EX25",
+      "내용": "반기가 기준, I사 2.5Gbps 칩셋대비, 보다 대역폭을 일정하게 안정적으로 유지시켜주는 점, WOL 지원하는 점, 기판 색상이 블랙으로 깔끔하게 구성된 점 등.\n아쉬운게 있다면 기판 경계면 들뜸 등 마감상태."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-PCIE-EX25",
+      "id": 213169794,
+      "date": "2022-03-31 07:34",
+      "answerDate": "2022-03-31 10:52",
+      "user": "yj****",
+      "productName": "랜스타 LS-PCIE-EX25 PCIE 2.5Gbps 유선랜카드 티밍 지원 리얼텍 칩셋",
+      "question": "원도우11도 지원 하나요??",
+      "answer": "안녕하세요 랜스타 입니다.\n\n윈도우11 지원합니다."
+    },
+    {
+      "source_model": "LS-PCIE-EX25",
+      "id": 500318467,
+      "date": "2022-10-29 12:09",
+      "answerDate": "2022-10-31 09:12",
+      "user": "cksd******",
+      "productName": "랜스타 LS-PCIE-EX25 PCIE 2.5Gbps 유선랜카드 티밍 지원 리얼텍 칩셋",
+      "question": "랜스타 홈페이지에 이 제품 드라이버가 어디 있죠? ㅠㅠ\n윈도우11용 찾고 있는데 안보이네요",
+      "answer": "안녕하세요 랜스타 입니다\n\n해당 랜카드 제품은 별도의 드라이버가 없는 제품으로 메인보드 연결후 바로 사용 가능합니다"
+    },
+    {
+      "source_model": "LS-PCIE-EX25",
+      "id": 528056534,
+      "date": "2023-05-04 21:25",
+      "answerDate": "2023-05-08 10:12",
+      "user": "s2****",
+      "productName": "랜스타 LS-PCIE-EX25 PCIE 2.5Gbps 유선랜카드 티밍 지원 리얼텍 칩셋",
+      "question": "드라이브는 따로설치하는게있나요?\n설치한다면 cd말고 다운받을수있는곳이 있나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품의 경우 별도 드라이버가 필요 없는 제품으로서, 메인보드 연결 후 바로 사용 가능하십니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-PCIE-EX25",
+      "chatUrl": "1uF7z",
+      "dateIso": "2023-09-19T07:30:59.284Z",
+      "name": "우주정복",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-expres\n(추가 문의) 네 고객님, '서울특별시 용산구 청파로 113-12 (전자타운상가) B동 405호 라인업시스템 정광규 차장' 앞으로 보내주시면 확인 후 안내 도와드리겠습니다. <<-- 택배 발송되었습니다. 8월28일에 보\n(추가 문의) 위의 랜카드 양산장비에 사용중입니다. 랜카드 와 카메라와 1:1 다이렉트로 연결하여 사용중입니다. 케이블 cat.6 사용 속도가 100M 가 나오는데 해결방안이 있을까요????\n(추가 문의) 의료기기 양산장비에 적용하려고 하는데 이런 증상이 15대중 5개면 너무 많은듯하여. 고객사에서 카드를 바꿔야 하는지 문의가 와서요. 나머지 반품이야기도 나오는상태라서요.",
+      "answer": "네 고객님, 문의 주신 부분 확인하였습니다. 자사의 경우 주로 인터넷 환경에서 해당 제품을 이용하다 보니, 카메라 등 의료기기 양산 장비와 사용하시는 환경에서는 일부 호환성 문제가 발생하는 것으로 보입니다. 말씀 주신 것처럼 지속적으로 불량이 발생할 경우 추후 문제를\n\n네 고객님, 최신 드라이버 말씀 주신 링크가 맞습니다. 저희가 추가로 메일 보내드릴 필요는 없어보입니다. 우선 고객님께서 주신 문의와 같은 경우는 기존에 받아본 이력이 없는 문의입니다. 따라서 일단 최신 드라이버 설치 후에도 동일한 증상이 발생할 경우, 저희에게 불량\n\n고객님 그리고 아래 내용 추가로 확인 부탁드립니다. 1) 현재 사용하시는 카메라 기종이 무엇일까요? 해당 제품과 호환성 문제일 수도 있으니 확인 부탁드립니다. 2) 공유기와, 인터넷 상품도 모두 2.5G를 지원하고 잇는지 확인 부탁드립니다. 네 고객님, 혹시 3개 테",
+      "turn_count": 26,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "우선 2개분은 보내주시면 될듯합니다. 나머지 물량은 고객사와 이야기 해봐야 할듯합니다."
+        },
+        {
+          "role": "agent",
+          "text": "고객님, 그냥 제품을 사용하실 계획이신지 반품하실 것인지 말씀 부탁드립니다.\n반품 진행해주실 경우 저희 측에서 물건을 보내드리지 않아도 되는 상황이라, 확인차 여쭤봅니다."
+        },
+        {
+          "role": "customer",
+          "text": "서울시 금천구 가산디지털2로 67 에이스하이엔드 7차 1802호 해달미디텍앞 으로 보내주시면 됩니다.. 감사합니다."
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 문의 주신 부분 확인하였습니다.\n\n자사의 경우 주로 인터넷 환경에서 해당 제품을 이용하다 보니, 카메라 등 의료기기 양산 장비와 사용하시는 환경에서는 일부 호환성 문제가 발생하는 것으로 보입니다. 말씀 주신 것처럼 지속적으로 불량이 발생할 경우 추후 문제를"
+        },
+        {
+          "role": "customer",
+          "text": "의료기기 양산장비에 적용하려고 하는데 이런 증상이 15대중 5개면 너무 많은듯하여. 고객사에서 카드를 바꿔야 하는지 문의가 와서요. 나머지 반품이야기도 나오는상태라서요."
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "네 맞습니다."
+        },
+        {
+          "role": "agent",
+          "text": "새카드로 교체하신 이후에는 해당 새카드는 지속적으로 문제 없이 작동하신다는 말씀이실까요?"
+        },
+        {
+          "role": "customer",
+          "text": "80개 구매하여 현재 15대 테스트중 총 5개나 나온상태로 새카드로 교체하면 현재 정상작동이 됩니다."
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "자체 테스트는 이상이 없으신가요?? 동일증상으로 또 발생해서요... 위의 증상 발생 후 다른 새카드로 교체하면 정상작동 합니다."
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 오래 기다려주셔서 감사합니다.\n\n보내주신 테스트 제품 2개의 경우 내부에선 정상적으로 작동하였습니다.\n다만 해당 제품 외부 환경에 따라 영향을 많이 받는 제품으로서, 고객님의 환경에선 호환성 여부 등으로 인하여 정상 작동하지 않을 수 있습니다.\n\n우선 기존"
+        },
+        {
+          "role": "customer",
+          "text": "랜카드가 2,5G인데 100M로 작동하여 우선 2개 테스트 요청으로 보내드렸습니다."
+        },
+        {
+          "role": "agent",
+          "text": "네 확인 후 안내 드리겠습니다. 잠시만 기다려 주십시오."
+        },
+        {
+          "role": "customer",
+          "text": "네 고객님, '서울특별시 용산구 청파로 113-12 (전자타운상가) B동 405호 라인업시스템 정광규 차장' 앞으로 보내주시면 확인 후 안내 도와드리겠습니다. <<-- 택배 발송되었습니다. 8월28일에 보"
+        },
+        {
+          "role": "agent",
+          "text": "어떤 문제가 있으신지 말씀 부탁드립니다."
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "fan_size_mm": null,
+      "rpm_max": null,
+      "cooling_target": []
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45",
+    "connectivity.directional": "Full-Duplex 지원",
+    "connectivity.port_count": "2.5G 랜포트가 생성됩니다",
+    "power.power_mode": "PCI-Express Bus Power",
+    "form_physical.has_case": "발열 방지용 방열판 내장",
+    "certification.kc": "국립전파연구원 인증 획득 (인증번호: R-R-LUS-EX2500)"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:04",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

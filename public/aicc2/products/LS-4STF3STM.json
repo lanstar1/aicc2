@@ -1,0 +1,134 @@
+{
+  "model_no": "LS-4STF3STM",
+  "product_name": "LAN Star 스테레오 변환 젠더 3.5ST/F(4극) to 3.5ST/M(3극)",
+  "category": [
+    "컨버터",
+    "젠더",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "3.5mm 4극 Female 단자를 3.5mm 3극 Male 단자로 변환",
+    "SLR 카메라, 데스크탑 등 3극 단자만 지원하는 기기에서 4극 신호를 변환하여 사용 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "입력 단자": "3.5mm 스테레오 4극 Female",
+    "출력 단자": "3.5mm 스테레오 3극 Male",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음"
+  },
+  "compatibility": [
+    "SLR 카메라 (3극 단자 기기)",
+    "데스크탑 (3극 단자 기기)",
+    "3극 단자만을 사용하는 기기 일반"
+  ],
+  "package_contents": [
+    "LS-4STF3STM 스테레오 변환 젠더 본체"
+  ],
+  "usage_instructions": "4극 신호를 사용하는 기기의 케이블을 Female(4극) 단자에 연결하고, Male(3극) 단자를 3극 단자만 지원하는 기기(SLR 카메라, 데스크탑 등)에 삽입하여 사용.",
+  "cautions": [
+    "본 제품은 헤드셋 연결을 지원하지 않습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-4STF3STM",
+      "품목코드": "GEN-오디영028",
+      "품목명": "[LANstar] 4극 스테레오 to 3극 스테레오 젠더 [30416]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-4STF3STM",
+      "내용": "마이크. 변환 잘되고 싸게 잘 샀네요"
+    },
+    {
+      "source_model": "LS-4STF3STM",
+      "내용": "너무 좋습니다!!!"
+    },
+    {
+      "source_model": "LS-4STF3STM",
+      "내용": "4개 구입했는데 다 안됩니다.\n호환성에 어떤 제약이 있나본데요.. 알수가 없네요"
+    },
+    {
+      "source_model": "LS-4STF3STM",
+      "내용": "불량인 것 같습니다\n끼우면 사운드가 아예 안나고 안끼우면 한쪽이라도 나네요"
+    },
+    {
+      "source_model": "LS-4STF3STM",
+      "내용": "보내주신 제품 잘 받았습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "3.5mm"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5mm 스테레오 4극 Female",
+    "connectivity.output_signals": "3.5mm 스테레오 3극 Male",
+    "connectivity.directional": "4극 Female 단자를 3.5mm 3극 Male 단자로 변환",
+    "power.power_mode": "스테레오 변환 젠더",
+    "form_physical.has_case": "LAN Star 스테레오 변환 젠더",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "audio_video.max_resolution": "스테레오 변환 젠더",
+    "audio_video.hdr_support": "스테레오 변환 젠더",
+    "audio_video.hdcp_version": "스테레오 변환 젠더",
+    "audio_video.audio_pass": "스테레오 변환 젠더",
+    "family.conversion_direction": "4극 Female 단자를 3.5mm 3극 Male 단자로 변환",
+    "family.requires_external_power": "스테레오 변환 젠더"
+  },
+  "feature_extracted_at": "2026-04-23T03:07:40",
+  "feature_schema_version": "1.0.0"
+}

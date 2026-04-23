@@ -1,0 +1,301 @@
+{
+  "model_no": "LS-C5U305BK",
+  "product_name": "LAN Star CAT.5E UTP 통신공사용 박스케이블 (단선/CCA/24AWG) 305M",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP"
+  ],
+  "key_features": [
+    "CAT.5E UTP 규격",
+    "단선(Solid) 케이블 구조",
+    "전송 속도 1Gbps",
+    "대역폭 100MHz",
+    "CCA(Copper Clad Aluminum) 재질 – 알루미늄 코어 외부에 구리를 씌운 구조",
+    "4Pair Twisted 구조로 신호 간섭 방지",
+    "FLUKE 테스트 통과",
+    "SGS 인증 및 RoHS 인증 획득",
+    "305M 박스 단위 공급, 필요한 길이만큼 절단 사용 가능",
+    "Grey/Black/Blue/Red/Yellow/Green 6가지 색상 라인업",
+    "박스 내부 케이블 정렬로 꼬임 없이 사용 가능",
+    "플라스틱 캡을 통해 원하는 길이만큼 인출 가능",
+    "소재·부품·장비 전문기업확인서 보유 (2022.11.29 취득, 한국산업기술평가관리원)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "라인업시스템(주) / 랜스타 정품 인증 제품",
+    "CAT 5E 규격",
+    "UTP 방식",
+    "HIGH QUALITY / GIGABIT SPEED",
+    "통신공사용",
+    "305M 롤 단위 제공"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.5E UTP",
+    "전송 속도": "1Gbps",
+    "대역폭": "100MHz",
+    "케이블 길이": "305m",
+    "심선 규격": "24AWG",
+    "케이블 소재": "CCA (Copper Clad Aluminum)",
+    "케이블 구조": "단선(Solid), 4Pair Twisted",
+    "외경": "4.5 ± 0.2mm",
+    "작동 온도": "80℃ (섭씨)",
+    "케이블 색상": "Grey, Black, Blue, Red, Yellow, Green",
+    "박스 외형 치수": "345mm x 210mm x 347mm (가로 x 폭 x 세로, 근사치)",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음",
+    "인증": "FLUKE TEST 통과, SGS 인증, RoHS 인증",
+    "FLUKE TEST 기준": "약 83m 기준",
+    "규격": "CAT 5E",
+    "케이블 타입": "UTP",
+    "길이": "305M",
+    "용도": "통신공사용"
+  },
+  "compatibility": [
+    "CAT.5E 전용 일반 컨넥터 (LSN-CAT5E-UTP50, 투명)",
+    "CAT.5E 전용 일반 컨넥터 (LSN-CAT5E-UTP50BL, 블루)",
+    "CAT.5E 전용 패스 컨넥터 (LSN-5EPASS-UTP, 투명)",
+    "CAT.5E 전용 고급 컨넥터 50p 금도금 핀 (LS-C5K, 투명)",
+    "각부트 (LSN-BOOT-COVER, 8가지 색상)",
+    "통부트 (LSN-BOOT-OPEN, 9가지 색상)",
+    "락부트 (LSN-BOOT-LOCK, 8가지 색상)",
+    "EZ 플러그 랜툴 (LS-68RP-EZ)",
+    "EZ 플러그 랜툴 (LS-68PN)",
+    "EZ 플러그 랜 (LS-68P)",
+    "자동스트리퍼 AUTO (LS-ASTR)",
+    "케이블탈피기·스트리퍼 (LS-STR-R10)",
+    "CAT 5E Ethernet 규격 호환"
+  ],
+  "package_contents": [
+    "CAT.5E UTP 박스케이블 305M (컨넥터 미포함, 박스 포장)",
+    "CAT 5E UTP 랜케이블 305M 롤"
+  ],
+  "usage_instructions": "1) 제작할 길이만큼 케이블을 절단한다. 2) 스트리퍼를 이용하여 케이블 피복을 탈피한다. 3) 부트(Boot)를 케이블에 결합한다. 4) 케이블 핀배열(Direct 또는 Cross)에 맞게 페어를 정렬한다. 5) 컨넥터(패스 또는 일반 컨넥터 사용 가능)를 결합한다. 6) 랜툴을 이용하여 케이블 컷팅 및 컨넥터 압착을 진행한다. 7) 처음 결합해둔 부트를 컨넥터에 결합하면 작업 완료. ※ 최대 성능을 위해 제작 시 100m를 초과하지 않도록 권장. ※ FLUKE 테스트 기준은 약 83m.",
+  "cautions": [
+    "본 제품은 컨넥터가 결합되지 않은 상태로 출고되므로 구매자가 직접 컨넥터를 연결하여 사용해야 한다.",
+    "최대 전송 속도로 사용하려면 케이블 제작 시 100m를 초과하지 않도록 권장한다.",
+    "FLUKE 테스트 기준은 약 83m이므로 케이블 제작 시 참고해야 한다.",
+    "단선(Solid) 케이블은 연선에 비해 단단하며, 구부리면 파손될 가능성이 높으므로 내부 배선·고정 배선 등 이동이 없는 환경에 사용해야 한다.",
+    "옥외(아웃도어) 환경에는 이중 피복의 옥외용 케이블을 별도 구매하여 사용해야 한다.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있다.",
+    "당일출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일은 제외된다.",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-C5U305BK",
+      "품목코드": "CAB-U5박165",
+      "품목명": "[LANstar] Cat.5E UTP 305M 케이블 Black 색상 [LSC002]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "CCTV공사나 네트워크 작업할때에도 좋아요",
+      "관련내용": "CCTV공사에 사용하고 있습니다.\n가성비 좋은 제품이고 문제 없이 잘사용하고 있습니다"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "CCTV공사에 사용하고 있습니다.\n가성비 좋은 제품이고 문제 없이 잘사용하고 있습니다",
+      "관련내용": "CCTV공사 및 랜작업에도 좋아요"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "CCTV공사에 사용하고 있습니다.\n가성비 좋은 제품이고 문제 없이 잘사용하고 있습니다"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "제품 좋네요 잘 쓰고 있습니다.",
+      "관련내용": "배송 빠르고 좋네요"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "배송 빠르고 좋네요"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "플질 좋고 잘 쓰고 있습니다",
+      "관련내용": "빠른 배송 감사합니다. 물건 상태 좋아요."
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "CCTV공사 및 랜작업에도 좋아요"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "LS에 비해 일반적인 구성에는 전혀 문제 없고 가성비 좋네요",
+      "관련내용": "가성비 최고 랜스타 cat.5 utp"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "빠르게 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "빠른 배송 감사합니다. 물건 상태 좋아요."
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "언제든지 믿고쓰는 제품입니다. 감사합니다",
+      "관련내용": "CCTV공사,  랜공시에도 최고입니다."
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "늘 사용하고 있는 제품입니다.\n믿고 사용할만한 제품입니다"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "정 규격이에요. 사용하고 많이 남았어요. 두고두고 써야겠어요"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "이번에는 옥외UTP케이블의 외피가 좀 부드러워진듯 하네요. 포설작업하기도 더 편해진것 같아요",
+      "관련내용": "늘사용하는 제품이고 가성비. 최고 입니다"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "CCTV공사,  랜공시에도 최고입니다."
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "가성비 최고 랜스타 cat.5 utp"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "늘사용하는 제품이고 가성비. 최고 입니다"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "가성비 최고이고요 여러현장에서 사용중인데 한번도 문제가 없어요",
+      "관련내용": "언제나 즐겨 사용하고 있습니다.\nCCTV공사나 랜 작업할때에도 전혀 문제없는 제품입니다"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "언제나 즐겨 사용하고 있습니다.\nCCTV공사나 랜 작업할때에도 전혀 문제없는 제품입니다"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "구내 네트웍용으로 사용중이고 비싼케이블 살필요 전혀 없습니다.",
+      "관련내용": "CCTV용으로 사용하시면 좋아요.\n케이블이 부드러워요. RJ45찍기가 쉽지는 않지만 성능은 문제없어요"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "CCTV용으로 사용하시면 좋아요.\n케이블이 부드러워요. RJ45찍기가 쉽지는 않지만 성능은 문제없어요"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "배송 빠르고 좋아요",
+      "관련내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-C5U305BK",
+      "내용": "가성비는 좋아요.\n찍어보면 심선이 얇아서 딱딱하지 않고 휘어집니다. 유의해서 찍으시면 품질은 문제 없습니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-C5U305BK",
+      "chatUrl": "3E3p2",
+      "dateIso": "2024-06-21T06:09:11.598Z",
+      "name": "넌두",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "안녕하세요.\nLS-C5U305BK 하고 LS-5UTP-305MG차이점 알고싶어서 문의 드립니다.",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-C5U305BK(1000PIX)_STOP1": "LAN Star\nUP\nHIGHQUALITY/GGA SPEED\n통신공사용 랜케이블\nCAT\nCAT SE ETHERNET CABLE\nCAT\n5E\n5E\nUTP\n305M"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "PVC"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        305
+      ],
+      "color_options": [
+        "Grey",
+        "Black",
+        "Blue",
+        "Red",
+        "Yellow",
+        "Green"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": "단선(solid)",
+      "awg": 24,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "CAT.5E UTP 통신공사용",
+    "connectivity.output_signals": "CAT.5E UTP 통신공사용",
+    "connectivity.directional": "CAT.5E UTP 통신공사용",
+    "form_physical.has_case": "305M 박스 단위 공급",
+    "form_physical.material": "케이블 피복을 탈피한다",
+    "form_physical.length_options_meters": "305M 박스 단위 공급",
+    "form_physical.color_options": "Grey/Black/Blue/Red/Yellow/Green 6가지 색상",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "certification.rohs": "RoHS 인증 획득",
+    "family.cat_category": "CAT.5E UTP 규격",
+    "family.shielding": "UTP 방식",
+    "family.conductor": "단선(Solid) 케이블 구조",
+    "family.awg": "심선 규격: 24AWG",
+    "family.pair_count": "4Pair Twisted 구조",
+    "family.flame_rating": "케이블 피복을 탈피한다"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:55",
+  "feature_schema_version": "1.0.0"
+}

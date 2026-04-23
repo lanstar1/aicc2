@@ -1,0 +1,117 @@
+{
+  "model_no": "LS-ARST",
+  "product_name": "휴대용 자동감김 AV 연장 케이블 (3.5st/M - 3.5st/F)",
+  "category": [
+    "오디오케이블",
+    "AV케이블",
+    "자동감김케이블"
+  ],
+  "key_features": [
+    "자동감김(릴) 방식 케이블",
+    "3.5mm 스테레오 수(M) - 3.5mm 스테레오 암(F) 연장 구성",
+    "버튼 조작으로 케이블 자동 되감기 가능",
+    "휴대용 설계",
+    "3.5st/M - 3.5st/M 양방향 동일 단자 구성",
+    "버튼 누름으로 케이블 자동 수납 가능"
+  ],
+  "specifications": {
+    "케이블 길이": "1m",
+    "커넥터 타입": "3.5st/M - 3.5st/F",
+    "케이블 방식": "자동감김(릴)",
+    "커넥터 타입 (양쪽)": "3.5st/M"
+  },
+  "compatibility": [
+    "3.5mm 스테레오 잭 지원 기기",
+    "3.5mm 스테레오 단자(3.5st) 지원 기기"
+  ],
+  "package_contents": [
+    "휴대용 자동감김 AV 연장 케이블 (3.5st/M - 3.5st/F) 1개",
+    "휴대용 자동감김 AV 케이블 (3.5st/M - 3.5st/M) 1개"
+  ],
+  "usage_instructions": "케이블 사용 시 반드시 양쪽 선을 동시에 당겨서 인출한다. 케이블을 되감을 때는 버튼을 누른다. 버튼을 눌러도 되감기지 않을 경우, 두 선을 약간 당겼다가 다시 버튼을 누른다.",
+  "cautions": [
+    "반드시 양쪽 선을 동시에 당겨야 하며, 한 선만 당길 경우 고장의 원인이 될 수 있습니다.",
+    "구입 시 사양을 반드시 확인하십시오.",
+    "제품 불량을 제외한 사유로 인한 반품 택배비는 고객 부담입니다.",
+    "제품의 색상 및 형태 등의 사양은 제조사의 사정에 따라 달라질 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-ARST-3.5MM",
+      "품목코드": "CAB-자동릴006",
+      "품목명": "[LANstar] 자동감김케이블 , AV케이블, 3.5ST M／M,,1M[10659]",
+      "variant_suffix": "-3.5MM",
+      "source": "excel"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-ARST-3.5MM": "휴대용 자동감김 AV 케이블 (3.5st/M - 3.5st/M)\n길이 : 1m\n3.5st/M-3.5st/M\n* 읽어주세요!!\n• 자동감김형 3.5st/M - 3.5st/M케이블\n반드시 양쪽 선을 동시에 당겨야 합니다. 한 선만 당길시 고장의 원인이 될 수 있습니다.\n선을 원상태로 하시려면 버튼을 누르시면 됩니다.\n안될 경우 두 선을 약간 당겼다 다시 버튼을 누르시면 됩니다.\n· 구입시 사양을 반드시 확인하십시요.\n제품 불량을 제외한 사유로 인한 반품 택배비는 고객 부담입니다.\n제품의 색상 및 형태 등의 사양은 제조사의 사정에 따라 달라질 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "3.5mm"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5mm 스테레오 수(M)",
+    "connectivity.output_signals": "3.5mm 스테레오 암(F)",
+    "connectivity.directional": "3.5st/M - 3.5st/M 양방향 동일 단자",
+    "power.power_mode": "무전원",
+    "form_physical.has_case": "자동감김(릴) 방식 케이블",
+    "form_physical.length_meters": "1m",
+    "audio_video.audio_pass": "AV 연장 케이블",
+    "control_switching.has_physical_button": "버튼 조작으로 케이블 자동 되감기",
+    "family.optical_core": "케이블",
+    "family.ethernet_channel": "케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:10",
+  "feature_schema_version": "1.0.0"
+}

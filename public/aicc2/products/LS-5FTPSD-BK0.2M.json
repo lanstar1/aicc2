@@ -1,0 +1,160 @@
+{
+  "model_no": "LS-5FTPSD-BK0.2M",
+  "product_name": "LANStar CAT.5E FTP 랜 연장 판넬형 케이블 (M/F)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-FTP",
+    "익스텐더",
+    "커넥터",
+    "분배판넬"
+  ],
+  "key_features": [
+    "CAT.5E FTP 4P 트위스트 페어 연선(Twist Pair Stranded) 구조",
+    "알루미늄 은박 쉴드로 외부 노이즈 및 전자파 차단, 데이터 손실 최소화",
+    "접지선 내장으로 데이터 전송 간 손실율 최소화",
+    "4페어 구성(1페어당 100MHz, 총 400MHz) 전송 방식",
+    "판넬형 커넥터(F) + 일반형 커넥터(M) 구성으로 나사 고정 후 안전 사용 가능",
+    "허브랙/서버랙, 전자교탁, 서버, PC 및 산업용 장비의 LAN 포트를 외부로 깔끔하게 고정·노출 가능",
+    "RoHS 인증",
+    "안전 전송 거리 100m"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.5E FTP",
+    "커넥터 타입": "M(수) / F(암), 판넬형",
+    "제품 길이": "0.5m (0.2m / 0.5m / 1m / 2m / 3m / 5m 라인업)",
+    "전송 속도": "150MHz / 550Mbps",
+    "안전 전송 거리": "100m",
+    "케이블 구조": "4Pair FTP, 알루미늄 은박(Al/Mylar) 쉴드, 접지선(어스선) 내장, PE 절연, PVC/LSZH 피복",
+    "심선 구조": "연선(Stranded), 꼬임 페어(Twist Pair)",
+    "모델명": "LS-SFTPSD-BK0.5M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "허브랙 / 서버랙",
+    "전자교탁",
+    "서버",
+    "PC",
+    "산업용 장비",
+    "LAN 포트 탑재 각종 개발 제품",
+    "CAT.5E FTP 규격 네트워크 장비"
+  ],
+  "package_contents": [
+    "CAT.5E FTP 랜 연장 판넬형 케이블 본체 1개 (M/F)",
+    "고정용 나사 (포함)"
+  ],
+  "usage_instructions": "CAT.5E 판넬형 케이블을 장비에 장착 후, 케이블이 흔들리지 않도록 포함된 나사로 고정한 뒤 연장하여 사용합니다. 설치 전 상세 치수를 확인하고 구매하십시오.",
+  "cautions": [
+    "케이블을 나사로 고정한 후 사용하지 않으면 접속 불량 및 손상이 발생할 수 있습니다.",
+    "설치 시 상세 치수를 확인 후 구매하십시오.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-5FTPSD-BK0.2M",
+      "품목코드": "CAB-U5S006",
+      "품목명": "[LANstar] 랜연장케이블 , CAT.5E FTP, 판넬형 SCREW. Open, 0.2M-검정[10848] (250개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-5FTPSD-BK0.2M",
+      "내용": "빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-5FTPSD-BK0.2M",
+      "내용": "다음에도 구매의사 있습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄",
+        "PVC",
+        "PE"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.2,
+        0.5,
+        1,
+        2,
+        3,
+        5
+      ],
+      "color_options": [
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "FTP",
+      "conductor": "연선(stranded)",
+      "awg": null,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "CAT.5E FTP 랜 연장 판넬형 케이블 (M/F)",
+    "connectivity.output_signals": "CAT.5E FTP 랜 연장 판넬형 케이블 (M/F)",
+    "connectivity.directional": "랜 연장 판넬형 케이블",
+    "connectivity.port_count": "M(수) / F(암)",
+    "form_physical.has_case": "판넬형 커넥터(F) + 일반형 커넥터(M) 구성",
+    "form_physical.material": "알루미늄 은박 쉴드",
+    "form_physical.material[1]": "PE 절연, PVC/LSZH 피복",
+    "form_physical.material[2]": "PE 절연, PVC/LSZH 피복",
+    "form_physical.length_options_meters": "0.5m (0.2m / 0.5m / 1m / 2m / 3m / 5m 라인업)",
+    "form_physical.color_options": "LS-SFTPSD-BK0.5M",
+    "certification.rohs": "RoHS 인증",
+    "family.cat_category": "CAT.5E FTP",
+    "family.shielding": "CAT.5E FTP",
+    "family.conductor": "연선(Stranded)",
+    "family.pair_count": "4P 트위스트 페어",
+    "family.flame_rating": "PVC/LSZH 피복"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:18",
+  "feature_schema_version": "1.0.0"
+}

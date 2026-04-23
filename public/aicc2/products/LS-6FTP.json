@@ -1,0 +1,414 @@
+{
+  "model_no": "LS-6FTP",
+  "product_name": "LANStar CAT.6 FTP 단선 100M 박스 케이블 (Grey)",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-FTP"
+  ],
+  "key_features": [
+    "CAT.6 FTP 규격, 최대 1Gbps(1,000Mbps) 전송속도 지원",
+    "대역폭 250MHz, TIA/EIA-568 규정 규격",
+    "단선(Solid) 구조로 내구성이 강하며 내부 배선 및 고정 전선 설치에 적합",
+    "CCA(Copper Clad Aluminum) 구조: 알루미늄 코어 외부에 구리 피복, 경량·고전도성",
+    "알루미늄 차폐막(FTP) 및 꼬임 방식으로 노이즈 방지",
+    "24AWG 미국전선규격(American Wire Gage) 적용, 간섭이 적고 안정적인 데이터 전송",
+    "케이블 양쪽 끝 RJ45 커넥터 결합",
+    "100M 박스 형태 제공",
+    "RoHS COMPLIANT(EU 특정위험물질 사용제한 지침 준수)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.6",
+    "케이블 타입": "FTP",
+    "최대 전송속도": "1,000Mbps",
+    "대역폭": "250MHz",
+    "도체 구조": "단선(Solid)",
+    "도체 재질": "CCA(Copper Clad Aluminum)",
+    "전선 규격": "24AWG",
+    "케이블 길이": "100M",
+    "커넥터": "RJ45 (양쪽 결합)",
+    "색상": "Grey",
+    "차폐 방식": "알루미늄 차폐막 + 구리 접지선",
+    "용도": "통신공사용, 내부 배선, 고정 전선 설치",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "CAT.5E 하위 호환",
+    "CAT.6 표준 장비 (전산망, 일반 서버)",
+    "10Mbps / 100Mbps / 1,000Mbps 네트워크 환경",
+    "RJ45 표준 커넥터 사용 기기",
+    "다이렉트 케이블 핀배열 568B-568B",
+    "크로스 케이블 핀배열 568B-568A"
+  ],
+  "package_contents": [
+    "CAT.6 FTP 단선 LAN 케이블 100M (박스, Grey)",
+    "양쪽 RJ45 커넥터 결합 상태로 제공"
+  ],
+  "usage_instructions": "통신공사용 내부 배선 및 고정 전선 설치에 적합합니다. 단선(Solid) 케이블이므로 구부리거나 반복적으로 이동하는 환경에는 적합하지 않으며 고정 배선에 사용하십시오. 다이렉트 연결 시 568B-568B 핀배열, 크로스 연결 시 568B-568A 핀배열을 따르십시오.",
+  "cautions": [
+    "단선(Solid) 케이블로 구부리면 파손될 가능성이 높으므로 이동하거나 노출이 많은 환경에는 사용하지 마십시오.",
+    "CCA 구조로 순수 구리 케이블 대비 전기 전도성에 차이가 있을 수 있습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품 및 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-6FTP-100MG",
+      "품목코드": "CAB-F6박001",
+      "품목명": "[LANstar] CAT.6케이블, FTP, 100M [10119] (4개)",
+      "variant_suffix": "-100MG",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "제품 잘받았습니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "좋은 제품 잘 받았습니다.  감사합니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "항상 만족하며 사용중입니다",
+      "관련내용": "좋은 제품 빠르게 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "매우 만족하며 썼네요~",
+      "관련내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "좋은 제품 빠르게 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "품질이야 최고죠 배송빨라 좋아요"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "배송이 빠르고 포장도 꼼꼼합니다~"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "사장님 친절하시고 배송 빠릅니다^^"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "저렴히 잘 샀어요~좋아요~"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "배송이 빠르고 제품이 좋습니다"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "저렴한 가격에 잘사용중입니다"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "배송 빠르네요. 100미터선 잭으로 작업되어 있네요. 내부 선이 가는것이 조금 아쉽네요."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "저렴하게 구매해서  잘  사용하고 있습니다.",
+      "관련내용": "ls 전선은 너무 비싸서 가정내에서 사용하는 짧은 거리는 중국제품도 문제없을 거 같아서 구매했습니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "ls 전선은 너무 비싸서 가정내에서 사용하는 짧은 거리는 중국제품도 문제없을 거 같아서 구매했습니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "배송빠르고 제품 만족합니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "CCTV 카메라 설치하려고 합니다. 안정성 때문에 5보다는 CAT.6가 더 좋지 않을까 해서 구입해 보았습니다.\n빠른 배송에 가격도 싸고 이 제품 좋습니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "간단하게 사용하기위해 적당한 길이입니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "불량 제품 없이 항상 잘 사용하고 있는 곳입니다.",
+      "관련내용": "잘 사용하겠습니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "잘 사용중에 있습니다.",
+      "관련내용": "마침 가지고 있던 재고들을 다 사용해서 구매하였는데 배송이 빨라서 좋아요~"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "잘 사용하겠습니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "가격 저렴하고 배송도 빠르고 졸아요.",
+      "관련내용": "배송도 빠르고 좋아요."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "마침 가지고 있던 재고들을 다 사용해서 구매하였는데 배송이 빨라서 좋아요~"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "많이 필요 없는 사람들이 합리적으로 쓸수 있는 100m 단위 판매 좋아요. 품질도 괜찬은것 같습니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "국내 제조 제품의 경우 가격이 너무 차이가 나서cat6를 경험 하기에는 너무 부담되고\n정형화된 케이블 중국의 기술이 큰 차이 없다 판단되어 OEM제품 이지만 믿고 구매하고,\n제품 받아보니 좋네요\nK*에 기가인터넷 신청하러 갑니다"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "빠른 배송감사합니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "배송빠르고 가격저렴하고 좋아요"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "배송도 빠르고 좋아요."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "배송 상품 모두 만족합니다/\n많은양이 필요없어서 포장도 100m라서 적당히 좋아요"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "빠른 배송 감사합니다",
+      "관련내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "꼼꼼하게 포장해서 주셨고, 박스가 있으니까 사용하기 더 좋네요 ^^ 잘쓰고 있습니다! 넉넉한 케이블~ 나이스!",
+      "관련내용": "배송이 꼼꼼하고, 좋은 상품을 저렴하게 파시네요..! 배송도 빠르고 감사합니다^^ 많이 파세요!"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "배송이 꼼꼼하고, 좋은 상품을 저렴하게 파시네요..! 배송도 빠르고 감사합니다^^ 많이 파세요!"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "빠른배송이고좋습니다!"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "내용": "너무 좋습니다 선굵기부터 달라요\n퀄리티 높고 만족합니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-6FTP-100MG",
+      "id": 514861548,
+      "date": "2023-02-04 22:11",
+      "answerDate": "2023-02-06 09:36",
+      "user": "beyo******",
+      "productName": "랜스타 LS-6FTP-100MG CAT.6케이블 FTP 100M",
+      "question": "안녕하세요 해당 제품 잘라서 사용하려면\n어떤 rj45커넥터사용하면 좋을지 랜스타에서 판매중이신 제품혹은 다른제품이라도\n추천해주시면 감사하겠습니다.\n그리고 상세제원이 표기가 안되어있는데 23awg인가요24awg인가요?\n감사합니다",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n해당 제품의 콘넥터는, 일반 콘넥터 LSN-CAT6-STP(https://smartstore.naver.com/lineup/products/7976071353), 통과형 EZ 콘넥터 LSN-6PASS-STP(https://smartstore.naver.com/lineup/products/6187865941)\n\n두 가지 제품이 있으며, 케이블의 두께는 24AWG인 점 참고 부탁드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "id": 514895974,
+      "date": "2023-02-05 12:51",
+      "answerDate": "2023-02-06 09:42",
+      "user": "beyo******",
+      "productName": "랜스타 LS-6FTP-100MG CAT.6케이블 FTP 100M",
+      "question": "판매중인 상품중에서 커넥터와 함께 사용할 랜툴도 추천해주시면 감사하겠습니다",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n일반 랜툴 모델명 LS-68R, LS-468R 등 스마트스토어 검색에 \"랜툴\"이라고 검색하시면 여러 제품 등이 나오며, 용도에 맞는 툴로 선택하시면 됩니다.\n\n통과형 EZ 콘넥터를 사용하시는 경우, LS-68P, LS-68PN, LS-68RP-EZ 세 가지 제품 중 용도에 맞는 제품 선택하여 구매 부탁드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "id": 528258840,
+      "date": "2023-05-07 15:07",
+      "answerDate": "2023-05-08 15:50",
+      "user": "rt****",
+      "productName": "랜스타 LS-6FTP-100MG CAT.6케이블 FTP 100M",
+      "question": "시골 농막용cctv설치할려는데 인터넷거리가 100미터 되는데 문제없을까요?\n그리고 단자물려서 판매가능할까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n땅속에 포설하여 작업하는 경우가 아니시라면, 100M를 통으로 사용하실 경우 문제가 생길 수 있어 옥외용 케이블을 추천드립니다.\n저희 랜스타에서 판매 중인 옥외용 케이블 제품 페이지 링크를 함께 첨부해 드리겠습니다.\n(https://smartstore.naver.com/lineup/search?q=%EC%98%A5%EC%99%B8%EC%9A%A9%20%EC%BC%80%EC%9D%B4%EB%B8%94)\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "id": 528552638,
+      "date": "2023-05-09 08:30",
+      "answerDate": "2023-05-09 09:09",
+      "user": "rt****",
+      "productName": "랜스타 LS-6FTP-100MG CAT.6케이블 FTP 100M",
+      "question": "옥외용 케이블 알려주신 주소 클릭이 힘들고  찾기 힘들던데 검색어를 뭐라고 하면 나오나요??\n옥외용 케이블 50미터 2개 rj45단자(다이렉트)있는거 추천좀 해주세요 톡톡으로 부탁드립니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n먼저 추천 드린 옥외용 제품의 경우 스마트스토어에서 'LS-5UTP-OD300M', 'LS-6UTP-OD300M' 검색해보시면 자세한 내용을 확인하실 수 있습니다.\n다만 말씀 주신 것처럼 50M 제품은 현재 따로 판매하고 있지 않은 점 말씀 드립니다. 톡톡의 경우 저희가 고객님에게 먼저 진행할 수가 없어, 저희에게 톡톡 남겨주시면 응대 도와드리도록 하겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "id": 555173801,
+      "date": "2023-11-16 13:26",
+      "answerDate": "2023-11-16 13:41",
+      "user": "ujs2***",
+      "productName": "랜스타 LS-6FTP-100MG CAT.6케이블 FTP 100M",
+      "question": "Cat 6. FTP (LS-6SFTP) , Cat6. SFTP (LS-6FTP) 전선 굵기(직경)  어떻게 되나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n두 제품 모두 심선의 굵기는 24AWG입니다. 혹시 케이블 본품의 직경 정보가 필요하신 상황이실까요?\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "id": 555177450,
+      "date": "2023-11-16 13:43",
+      "answerDate": "2023-11-16 13:57",
+      "user": "ujs2***",
+      "productName": "랜스타 LS-6FTP-100MG CAT.6케이블 FTP 100M",
+      "question": "본품의 직경을 알고 싶어요",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n아래에 제품의 직경 정보 안내드립니다.\n\nLS-6SFTP 직경: 6mm\nLS-6FTP 직경: 5.6mm\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "id": 557076983,
+      "date": "2023-11-29 09:10",
+      "answerDate": "2023-11-29 09:20",
+      "user": "mini*****",
+      "productName": "랜스타 LS-6FTP-100MG CAT.6케이블 FTP 100M",
+      "question": "안녕하세요 cat 6ftp 구매하려고 하는데 선을 잘라서 다시 제작 할 때 일반적인 플라스틱 으로 된 RJ45로 연결하면 되는건가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 문의 주신 제품은 실드선이 포함되어 있는 케이블이기 때문에, 플라스틱이 아닌 금속 커넥터를 사용하는 케이블입니다.\n다만 굳이 접지를 사용하지 않으신다면, 플라스틱 커넥터를 사용해주셔도 됩니다.\n\n플라스틱 커넥터만 이용하여 작업하실 경우에는 'LS-6UTP-100MG' 해당 제품을 이용해주시는 것이 더 적합할 것으로 보입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "id": 588216051,
+      "date": "2024-07-10 11:44",
+      "answerDate": "2024-07-10 15:02",
+      "user": "ra****",
+      "productName": "랜스타 LS-6FTP-100MG CAT.6케이블 FTP 100M",
+      "question": "연선 인가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n문의주신 제품의 경우 단선 케이블인 제품입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "id": 611826320,
+      "date": "2024-12-31 09:03",
+      "answerDate": "2024-12-31 10:00",
+      "user": "ts****",
+      "productName": "랜스타 LS-6FTP-100MG CAT.6케이블 FTP 100M",
+      "question": "해당제품이 양쪽 rj45 물려있고 단선이 맞는거죠?\n\n집 내부 배선 하려고 하는데 rj45 자르고 도비하고 다시 찝을려고요",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n양쪽 RJ45 맞으며, 단선입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-6FTP-100MG",
+      "chatUrl": "2iRwT",
+      "dateIso": "2023-10-05T08:10:14.782Z",
+      "name": "희동이",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "케이블재고 들어오면 톡해주세요",
+      "answer": "미답변"
+    },
+    {
+      "source_model": "LS-6FTP-100MG",
+      "chatUrl": "2iRwT",
+      "dateIso": "2023-10-05T08:10:14.782Z",
+      "name": "희동이",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "전체 상품 주문 취소 했습니다.",
+      "answer": "미답변"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄",
+        "구리",
+        "PVC"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        100
+      ],
+      "color_options": [
+        "Grey"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "FTP",
+      "conductor": "단선(solid)",
+      "awg": 24,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 커넥터 결합",
+    "connectivity.output_signals": "RJ45 커넥터 결합",
+    "connectivity.directional": "N/A",
+    "form_physical.has_case": "100M 박스 형태 제공",
+    "form_physical.material": "알루미늄 차폐막(FTP) 및 꼬임",
+    "form_physical.length_options_meters": "100M 박스 형태 제공",
+    "form_physical.color_options": "색상: Grey",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.cat_category": "CAT.6 FTP 규격",
+    "family.shielding": "알루미늄 차폐막(FTP)",
+    "family.conductor": "단선(Solid) 구조",
+    "family.awg": "24AWG 미국전선규격"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:29",
+  "feature_schema_version": "1.0.0"
+}

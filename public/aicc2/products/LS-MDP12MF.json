@@ -1,0 +1,141 @@
+{
+  "model_no": "LS-MDP12MF",
+  "product_name": "Mini DisplayPort 1.2 케이블 (M/F)",
+  "category": [
+    "DisplayPort",
+    "익스텐더",
+    "사운드카드"
+  ],
+  "key_features": [
+    "DisplayPort 1.2 규격 지원, 최대 21.6Gbps 대역폭",
+    "4K2K(3840x2160) @60Hz 초고해상도 지원",
+    "Full HD 1080p, 2560x1600, 3D 입체영상 지원",
+    "디지털 음성 전송 지원 (2채널 스테레오, 5.1채널, 7.1채널)",
+    "채널당 3Gbps 데이터 전송률 지원",
+    "별도 외부전원 불필요 (무전원 동작)",
+    "금도금 커넥터 적용으로 산화 방지 및 신호손실 최소화",
+    "화면 복제(Mirror Mode) 및 영상 확장(Extender Mode) 지원",
+    "화면 회전 기능 지원",
+    "커넥터 보호캡 포함",
+    "자체 테스트 완료",
+    "RoHS 규격 준수",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 타입": "Mini DP (Male) / Mini DP (Female)",
+    "DisplayPort 버전": "1.2",
+    "최대 대역폭": "21.6Gbps",
+    "채널당 전송률": "3Gbps",
+    "최대 해상도": "3840x2160 (4K2K) @60Hz",
+    "전압": "30V",
+    "케이블 길이": "1M",
+    "작동 온도": "0~80°C",
+    "케이블 규격": "AWM STYLE 20276, 80°C, 30V VW-1",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "Mini DisplayPort 탑재 데스크탑 PC",
+    "Mini DisplayPort 탑재 노트북",
+    "DisplayPort 입력 지원 TV 및 모니터",
+    "DisplayPort 1.1 / 1.2 규격 기기",
+    "DTS-HD, Dolby TrueHD 지원 기기",
+    "HD DVD, Blu-ray Disc 지원 기기"
+  ],
+  "package_contents": [
+    "Mini DisplayPort 1.2 케이블 (M/F) 1M",
+    "커넥터 보호캡"
+  ],
+  "usage_instructions": "Mini DisplayPort가 장착된 PC 또는 노트북의 Mini DP 포트에 Male 단자를 연결하고, DisplayPort 입력을 지원하는 TV 또는 모니터에 Female 단자를 연결합니다. 별도의 외부전원 없이 동작하며, 화면 복제(Mirror Mode) 또는 화면 확장(Extender Mode)으로 사용할 수 있습니다.",
+  "cautions": [
+    "표준 DP 케이블에서 20번 핀(DP_PWR)은 사용되지 않는 더미핀입니다.",
+    "두 장치의 DP_PWR 핀(20번 핀)을 케이블로 직접 연결할 경우, 양 장치 간 전압 차이(오차 ±10%)로 인해 단락(쇼트) 발생 및 기기 손상 우려가 있습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MDP12MF-1M",
+      "품목코드": "CAB-젠DP061",
+      "품목명": "[LANstar] Mini DisplayPort 1.2 연장케이블 1m [10789]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DisplayPort"
+      ],
+      "output_signals": [
+        "DisplayPort"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "DP1.2",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Mini DisplayPort 1.2 케이블 (M/F)",
+    "connectivity.output_signals": "Mini DisplayPort 1.2 케이블 (M/F)",
+    "connectivity.directional": "Mini DP (Male) / Mini DP (Female)",
+    "power.power_mode": "별도 외부전원 불필요 (무전원 동작)",
+    "power.charging_support": "별도 외부전원 불필요 (무전원 동작)",
+    "form_physical.material": "금도금 커넥터 적용으로 산화 방지",
+    "form_physical.length_meters": "케이블 길이: 1M",
+    "certification.kc": "인증번호: 해당없음",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "4K2K(3840x2160) @60Hz 초고해상도 지원",
+    "audio_video.audio_pass": "디지털 음성 전송 지원",
+    "family.dp_version": "DisplayPort 1.2 규격 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:31",
+  "feature_schema_version": "1.0.0"
+}

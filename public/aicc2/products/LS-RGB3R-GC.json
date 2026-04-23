@@ -1,0 +1,126 @@
+{
+  "model_no": "LS-RGB3R-GC",
+  "product_name": "RGB 컴포넌트 케이블 (고급 DVD 모니터 케이블 / High DVD Monitor Cable)",
+  "category": [
+    "젠더",
+    "커넥터",
+    "RCA케이블",
+    "DVD관련"
+  ],
+  "key_features": [
+    "PC의 RGB(D-SUB) 출력단자와 TV의 컴포넌트(빨강, 파랑, 초록) 입력단자를 연결하는 케이블",
+    "Gold Type 커넥터로 화질 전송력 우수",
+    "고화질 영상신호 전송 지원",
+    "견고한 품질과 우수한 디자인",
+    "DVDP와 프로젝터의 D-SUB 연결 또는 HD 카드에서 HDTV 연결 용도로 사용 가능"
+  ],
+  "specifications": {
+    "커넥터 타입": "D-SUB 15p Male / 3 RCA Male",
+    "커넥터 도금": "Gold Type",
+    "PC 연결단자": "RGB (D-SUB) 출력단자",
+    "TV 연결단자": "컴포넌트 (빨강, 파랑, 초록) 입력단자",
+    "신호 방향": "단방향 (PC 출력 → TV 입력)"
+  },
+  "compatibility": [
+    "RGB(D-SUB) 출력단자를 갖춘 데스크탑 또는 노트북 (컴포넌트 신호 변환 기능 지원 그래픽카드 필수)",
+    "컴포넌트(빨강, 파랑, 초록) 입력단자를 갖춘 TV 또는 디스플레이 기기",
+    "D-SUB 연결을 지원하는 HD 프로젝터",
+    "HD 카드에서 HDTV 연결 환경"
+  ],
+  "package_contents": [
+    "RGB 컴포넌트 케이블 (D-SUB 15p Male - 3 RCA Male) 1개"
+  ],
+  "usage_instructions": "PC(데스크탑 또는 노트북)의 RGB(D-SUB) 출력단자에 D-SUB 15p 커넥터를 연결하고, TV 또는 디스플레이 기기의 컴포넌트(빨강, 파랑, 초록) 입력단자에 3 RCA 커넥터를 연결하여 사용. 반드시 RGB 단자는 PC의 출력단자에, 컴포넌트 단자는 디스플레이 기기의 입력단자에 연결할 것.",
+  "cautions": [
+    "사용 전 데스크탑 또는 노트북의 그래픽 카드가 RGB 단자에서 컴포넌트 신호로 변환하는 기능을 지원하는지 반드시 확인할 것 (그래픽 카드사에 문의)",
+    "RGB 단자가 있다고 해서 자동으로 지원되지 않으며, 컴포넌트 신호 변환 추가 기능이 없으면 케이블 사용 불가",
+    "TV의 컴포넌트(빨강, 파랑, 초록) 단자와 컴포지트(흰색, 빨강, 노랑) 단자는 단자 모양이 동일하더라도 쓰임이 다르므로 반드시 구분하여 확인할 것",
+    "이 케이블은 양방향을 지원하지 않으므로, 반드시 PC 출력 → 디스플레이 기기 입력 방향으로만 연결할 것",
+    "그래픽카드에서 지원 가능한 제품에서만 사용 가능하며, 단순 케이블 변환만으로는 영상 출력이 지원되지 않음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RGB3R-GC",
+      "품목코드": "CAB-영기타050",
+      "품목명": "[LANstar] RGB／3R젠더케이블 , HDB15／M-3RCA／F, 0.15M[10313]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "D-SUB",
+        "RCA"
+      ],
+      "output_signals": [
+        "D-SUB",
+        "RCA"
+      ],
+      "directional": "일방향"
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": null,
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "D-SUB 15p Male",
+      "connector_type_b": "3 RCA Male",
+      "gender": "M-M",
+      "pin_count": 15
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "D-SUB 15p Male / 3 RCA Male",
+    "connectivity.output_signals": "D-SUB 15p Male / 3 RCA Male",
+    "connectivity.directional": "단방향 (PC 출력 → TV 입력)",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.material": "Gold Type 커넥터",
+    "audio_video.hdcp_version": "N/A",
+    "control_switching.has_remote": "무전원",
+    "control_switching.has_hotkey": "무전원",
+    "control_switching.has_physical_button": "무전원",
+    "control_switching.has_mouse_switching": "무전원",
+    "control_switching.has_auto_scan": "무전원",
+    "control_switching.has_app_control": "무전원",
+    "family.connector_type_a": "D-SUB 15p Male",
+    "family.connector_type_b": "3 RCA Male",
+    "family.gender": "D-SUB 15p Male / 3 RCA Male",
+    "family.pin_count": "D-SUB 15p Male"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:41",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,141 @@
+{
+  "model_no": "LS-GEN-15MM2",
+  "product_name": "D-SUB 15PIN M/M 2열 젠더",
+  "category": [
+    "젠더"
+  ],
+  "key_features": [
+    "D-SUB 15PIN 수(M) - 수(M) 구성의 2열 젠더",
+    "15PIN 2열 형태 (3열 RGB/VGA와 다른 규격)",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "낱개 판매 제품"
+  ],
+  "specifications": {
+    "커넥터 타입": "D-SUB 15PIN Male - D-SUB 15PIN Male",
+    "핀 배열": "2열",
+    "가로(A)": "38.5mm",
+    "세로(B)": "25.5mm",
+    "높이(C)": "5.5mm",
+    "폭(D)": "12.5mm",
+    "길이(E)": "34mm",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음"
+  },
+  "compatibility": [
+    "D-SUB 15PIN 2열 포트 사용 기기",
+    "RGB(VGA) 3열 15PIN 포트와는 호환 불가"
+  ],
+  "package_contents": [
+    "D-SUB 15PIN M/M 2열 젠더 본체 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "본 제품은 15PIN 2열 형태의 젠더로, 일반적인 15PIN 3열(모니터 케이블, RGB/VGA 포트)과는 다른 형태이므로 구매 전 반드시 확인 필요",
+    "일반적인 RGB(VGA) 배열과는 사용 불가",
+    "낱개 판매 제품으로 구매 시 원하는 수량을 직접 선택해야 함",
+    "제조사 사정에 따라 제품의 색상·형태 등 사양은 예고 없이 변경될 수 있음",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GEN-15MM2",
+      "품목코드": "GEN-모니터017",
+      "품목명": "[LANstar] D-SUB 15핀 M/M 2열 젠더 [30595]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-GEN-15MM2",
+      "내용": "저렴하게 편하게 쓰고 있습니다"
+    },
+    {
+      "source_model": "LS-GEN-15MM2",
+      "내용": "저렴하게 잘사서 쓰고있습니다"
+    },
+    {
+      "source_model": "LS-GEN-15MM2",
+      "내용": "빠르고 싸게 구매한듯"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Serial(DB9)"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "D-SUB 15PIN Male",
+      "connector_type_b": "D-SUB 15PIN Male",
+      "gender": "M-M",
+      "pin_count": 15
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "D-SUB 15PIN 수(M)",
+    "connectivity.output_signals": "D-SUB 15PIN 수(M)",
+    "connectivity.directional": "D-SUB 15PIN 수(M) - 수(M) 구성",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "D-SUB 15PIN M/M 2열 젠더",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "audio_video.max_resolution": "D-SUB 15PIN",
+    "audio_video.hdr_support": "D-SUB 15PIN",
+    "audio_video.hdcp_version": "D-SUB 15PIN",
+    "audio_video.audio_pass": "D-SUB 15PIN",
+    "control_switching.has_remote": "젠더",
+    "control_switching.has_hotkey": "젠더",
+    "control_switching.has_physical_button": "젠더",
+    "control_switching.has_mouse_switching": "젠더",
+    "control_switching.has_auto_scan": "젠더",
+    "control_switching.has_app_control": "젠더",
+    "family.connector_type_a": "D-SUB 15PIN Male",
+    "family.connector_type_b": "D-SUB 15PIN Male",
+    "family.gender": "수(M) - 수(M)",
+    "family.pin_count": "15PIN"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:07",
+  "feature_schema_version": "1.0.0"
+}

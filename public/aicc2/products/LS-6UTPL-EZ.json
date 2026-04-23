@@ -1,0 +1,279 @@
+{
+  "model_no": "LS-6UTPL-EZ",
+  "product_name": "CAT.6 UTP 관통형 EZ 컨넥터 (이지컨넥터)",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "커넥터"
+  ],
+  "key_features": [
+    "CAT.6 규격 완벽 지원 (250MHz 대역폭, 1Gbps 전송속도, 1000BASE-TX)",
+    "관통형 일자배열 구조로 배선이 컨넥터를 통과하여 올바른 연결 여부를 직관적으로 확인 가능, 불량률 현저히 감소",
+    "3Prongs(3팁) 방식 채택으로 기존 2팁 대비 데이터 손실 및 전송속도 저하 문제 개선",
+    "15 금도금 핀 처리로 신호 손실률 최소화 및 안정적인 신호 연결",
+    "락부트 포함 1SET 구성",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "지원규격": "CAT.6 UTP",
+    "전송속도": "1Gbps",
+    "대역폭": "250MHz",
+    "표준": "1000BASE-TX",
+    "호환 케이블 두께": "24AWG",
+    "핀 도금": "15 금도금",
+    "핀 방식": "3Prongs (3팁)",
+    "구성수량": "EZ 플러그 100ea + 락부트 100ea",
+    "판매 색상": "파란색 단일",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "해당없음"
+  },
+  "compatibility": [
+    "CAT.6 UTP 케이블 (24AWG)",
+    "CAT.6 UTP 랜케이블 (LS-6UTP-300MGN, LS-6UTP-300MBN, LS-6UTP-300MP, LS-6UTP-300MBK, LS-6UTP-300MY, LS-6UTP-300MR)",
+    "EZ플러그 전용 랜툴 (LS-68P, LS-68PN, LS-68RP-EZ)",
+    "랜 테스터기 (LS-468TS, LS-468TSN)",
+    "케이블 탈피기 (DL-STR-R10)",
+    "TIA 568B / TIA 568A 배선 표준"
+  ],
+  "package_contents": [
+    "EZ 플러그(관통형 EZ 컨넥터) 100ea",
+    "락부트 100ea"
+  ],
+  "usage_instructions": "1단계: 작업할 케이블에 락부트를 먼저 연결. 2단계: 케이블 탈피 후 배열도(TIA 568B 등)에 맞게 선 정렬. 3단계: 관통형 EZ 컨넥터에 케이블 결합. 4단계: 처음에 연결했던 락부트와 컨넥터 결합(컨넥터 압착 전에 반드시 락부트와 결합). 5~6단계: 랜툴을 통해 컨넥터 압착 및 컷팅 진행(랜스타 랜툴 사용 시 압착·컷팅 동시 작업 가능). 7단계: 완성.",
+  "cautions": [
+    "컨넥터 압착 전에 반드시 락부트와 컨넥터를 먼저 결합할 것",
+    "판매 제품은 파란색 단일 컨넥터 세트만 판매하며, 제품 이미지의 다양한 색상은 이해를 돕기 위한 사진임",
+    "제조사 사정에 따라 제품의 색상·형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있음",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-6UTPL-EZ",
+      "품목코드": "NNO-콘넥터121",
+      "품목명": "[LANstar] Cat.6 UTP 관통형 EZ 커넥터 , 락부트 포함 (100개입) [30710] (24각)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "잘 사용하고 있습니다.",
+      "관련내용": "써보니 정말 좋아요,~^^*"
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "써보니 정말 좋아요,~^^*"
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "가격도 저렴하고 품질도 좋습니다.",
+      "관련내용": "사용하기 편하고 가격도 좋습니다."
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "투명이라 이쁘고 좋습니다.",
+      "관련내용": "부트포함이라 좋았습니다."
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "사용하기 편하고 가격도 좋습니다."
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "부트포함이라 좋았습니다."
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "배송 빠르게 잘 받앗어여"
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "좋은 제품입니다\n만족합니다\n추천합니다",
+      "관련내용": "가성비 좋은 제품입니다\n만족합니다"
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "가성비 좋은 제품입니다\n만족합니다"
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "집에서 원하는대로 랜선길이 조절해서 사용하니 너무 좋네요."
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "사무실에서 사용하려 구매하였습니다. 좋네요~ 감사합니다."
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "배송 빠르고 좋았어요."
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "잘 사용 하였습니다",
+      "관련내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "배송 빠르고, 만족합니다"
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "좋아요 많이 파세요"
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "내용": "잘사용하겠습니다. 번창하세요 랜스타"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "id": 523019578,
+      "date": "2023-03-31 11:01",
+      "answerDate": "2023-03-31 11:40",
+      "user": "jm****",
+      "productName": "랜스타 LS-6UTPL-EZ CAT.6 UTP 관통형 EZ 컨넥터 락부트 포함",
+      "question": "일반 랜툴로 제작해서\n수동으로 남은 선을 컷팅해도 될까요?\n꼭 전용 랜툴이 필요한지요?",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n일반 랜툴로 제작 후 수동으로 컷팅 가능하나, 앞면이 깔끔하게 컷팅되지 않을 경우 커넥터 체결 시 정상적으로 체결되지 않을 수 있는 점 참고 부탁드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "id": 593853599,
+      "date": "2024-08-23 15:41",
+      "answerDate": "2024-08-23 16:07",
+      "user": "jung******",
+      "productName": "랜스타 LS-6UTPL-EZ CAT.6 UTP 관통형 EZ 컨넥터 락부트 포함",
+      "question": "\"랜스타 LS-6UTPL-EZ CAT.6 UTP 관통형 EZ 컨넥터\" 로\nCAT 5E 랜 케이블에 사용해도 되나요?\n사용해보니 정상적으로 연결은 됩니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n문의주신 제품의 경우 24AWG까지 호환 가능하여 24AWG 사용해주시는 경우 연결 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-6UTPL-EZ",
+      "id": 598424298,
+      "date": "2024-09-27 15:28",
+      "answerDate": "2024-09-27 15:57",
+      "user": "sunk*****",
+      "productName": "랜스타 LS-6UTPL-EZ CAT.6 UTP 관통형 EZ 컨넥터 락부트 포함",
+      "question": "락부트만 구매 가능한가요?\nhttps://smartstore.naver.com/lineup/products/6095778750\n이 제품에 깔맞춤으로 하고 싶어서요.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n문의 주신 제품에 있는 락부트만은 구매가 불가하시며 아래 링크의 락부트들 구매 부탁드립니다.\nhttps://smartstore.naver.com/lineup/search?q=%EB%9D%BD%EB%B6%80%ED%8A%B8\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "_absorbed_fragments": {
+    "LS-6UTPL-EZ-AD": {
+      "product_name": "LANStar CAT.6 UTP 제작케이블 및 EZ 플러그 전용 랜툴 / 테스터기 연관상품 라인업",
+      "category": "네트워크 케이블 / 랜툴 / 테스터기",
+      "key_features": [
+        "CAT.6 UTP 제작케이블 300M 다색상 라인업 제공",
+        "1Gbps / 250MHz 지원",
+        "EZ 플러그 전용 랜툴 (8P8C, 6P6C 겸용)",
+        "기어 방식 EZ 플러그 전용 랜툴 지원",
+        "UTP/STP 겸용 분리형 랜케이블 테스터기 포함"
+      ],
+      "specifications": {
+        "케이블 규격": "CAT.6 UTP",
+        "케이블 길이": "300M",
+        "케이블 전송속도": "1Gbps",
+        "케이블 주파수": "250MHz",
+        "케이블 색상": "Grey, Blue, Purple, Black, Yellow, Red",
+        "케이블 모델번호": "LS-6UTP-300MGN, LS-6UTP-300MBN, LS-6UTP-300MP, LS-6UTP-300MBK, LS-6UTP-300MY, LS-6UTP-300MR",
+        "랜툴 모델번호": "LS-68P, LS-68PN, LS-68RP-EZ",
+        "랜툴 지원 커넥터": "8P8C, 6P6C 겸용 / EZ 플러그",
+        "랜툴 방식": "일반(Blue), 일반(Yellow), 기어 방식",
+        "테스터기 모델번호": "DL-STR-R10, LS-468TS, LS-468TSN",
+        "테스터기 지원 케이블": "UTP, STP 겸용",
+        "테스터기 형태": "분리형"
+      },
+      "compatibility": [
+        "CAT.6 UTP 케이블",
+        "EZ 플러그",
+        "8P8C 커넥터",
+        "6P6C 커넥터",
+        "UTP 케이블 (테스터기)",
+        "STP 케이블 (테스터기)"
+      ],
+      "package_contents": [
+        "CAT.6 UTP 제작케이블 300M (색상별 개별 판매)",
+        "EZ 플러그 전용 랜툴 (모델별 개별 판매)",
+        "랜케이블 테스터기 (모델별 개별 판매)"
+      ],
+      "source_files": [
+        "LS-6UTPL-EZ-AD.json"
+      ]
+    }
+  },
+  "_variant_raw_texts": {
+    "LS-6UTPL-EZ-AD": "LANStarⓇ\nⓇ\n연관상품\nCAT.6 UTP 제작케이블\nLS-6UTP-300MGN\nLS-6UTP-300MBN\nLS-6UTP-300MP\nLS-6UTP-300MBK\nCAT.6 UTP/30\nCAT.6 UTP /300M\nCAT.6 UTP /300\nCAT.6 UTP/30\n1Gbps/250MHz/ Grey\n1Gbps/250MHz / Blue\n1Gbps/250MHz/Purple\n1Gbps/250MHz / Black\n10899\n30521\n30522\n30565\nLS-6UTP-300MY\nLS-6UTP-300MR\nCAT.6 UTP/\nCAT, 6 UTP/300M\n1Gbps/250MHz/Yellow\n1Gbps/250MHz/Red\n30566\n30567\nEZ 플러그 전용 랜툴\nLS-68P\nLS-68PN\nLS-68RP-EZ\n8P8C, 6P6C 겸용/ EZ 플러그\n8P8C, 6P6C 겸용 / EZ 플러그\n기어 방식 / EZ 플러그\n/Blue/60124\n/Yellow/30499\n전용 랜툴/20188\n탈피기 / 랜 테스터기\n6303\n1 LANStar\nLANstar\nDL-STR-R10\nLS-468TS\nLS-468TSN\nYellow / 40127\n랜케이블테스터기\nUTP,STP 겸용 / 분리형/40124\n랜케이블 테스터기\nUTP,STP 겸용 / 분리형 / 30364"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "파란색"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": null,
+      "awg": 24,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "15 금도금 핀 처리",
+    "form_physical.color_options": "판매 색상: 파란색 단일",
+    "certification.kc": "KC 인증번호: 해당없음",
+    "family.cat_category": "CAT.6 규격 완벽 지원",
+    "family.shielding": "CAT.6 UTP",
+    "family.awg": "호환 케이블 두께: 24AWG"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:39",
+  "feature_schema_version": "1.0.0"
+}

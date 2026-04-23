@@ -1,0 +1,111 @@
+{
+  "model_no": "LS-HDGC-AFDM-0.15M",
+  "product_name": "LANStar HDMI 젠더 케이블 (HDMI A Female - Micro HDMI Male)",
+  "category": [
+    "HDMI케이블",
+    "젠더"
+  ],
+  "key_features": [
+    "4K@60Hz 지원: Full HD 1080p 대비 4배 높은 해상도(4K2K UHD) 구현",
+    "초당 60프레임(60Hz) 재생으로 매끄러운 영상 구현",
+    "Full HD 및 최대 해상도 4096×2160 지원",
+    "3D 영상 지원",
+    "Ethernet 지원",
+    "Micro HDMI 단자 금도금(Gold Plated) 처리",
+    "LANStar 4K2K 테스트 완료 제품"
+  ],
+  "specifications": {
+    "커넥터 A (한쪽)": "HDMI 19핀 A타입 Female (암)",
+    "커넥터 B (반대쪽)": "Micro HDMI (D타입) Male (수)",
+    "케이블 길이": "0.15M",
+    "최대 해상도": "4096×2160",
+    "재생 프레임": "60Hz (60fps)",
+    "도금": "Micro HDMI Gold Plated",
+    "모델명": "LS-HDMI-AFDM",
+    "제조국/원산지": "Made in China",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI A(Female) 포트를 갖춘 기기",
+    "Micro HDMI(Male) 포트를 갖춘 기기",
+    "4K2K UHD(Ultra High Definition) 지원 기기",
+    "3D 지원 기기",
+    "Ethernet 지원 HDMI 기기"
+  ],
+  "package_contents": [
+    "HDMI 젠더 케이블 (HDMI A Female - Micro HDMI Male) 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "구매 전 기기의 HDMI 단자 종류(HDMI A / Micro HDMI 등)를 반드시 확인하십시오.",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 의거하여 보상합니다.",
+    "AS 및 소비자 상담: 070-7018-3386"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Micro-HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Micro HDMI (D타입) Male (수)",
+    "connectivity.output_signals": "HDMI 19핀 A타입 Female (암)",
+    "connectivity.directional": "HDMI 젠더 케이블",
+    "form_physical.material": "Micro HDMI 단자 금도금(Gold Plated)",
+    "form_physical.length_meters": "케이블 길이: 0.15M",
+    "audio_video.max_resolution": "4K@60Hz 지원",
+    "family.ethernet_channel": "Ethernet 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:03",
+  "feature_schema_version": "1.0.0"
+}

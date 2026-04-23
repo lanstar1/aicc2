@@ -1,0 +1,130 @@
+{
+  "model_no": "LSP-SRGB-15MM",
+  "product_name": "SEMI RGB 모니터 케이블 (RGB3+4, HDB 15P/M-HDB 15P/M)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "7core 케이블 구성: 3RGB + 4core + Shield",
+    "2중 차폐 처리 (알루미늄 은박 + 망사 Shield)",
+    "노이즈 필터 장착으로 외부 간섭 최소화",
+    "RoHS(특정위험물질 사용제한) 규격 준수",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 타입": "HDB 15P Male - HDB 15P Male (RGB 15핀)",
+    "케이블 길이": "1.8M / 3M / 5M",
+    "케이블 구성": "3RGB + 4core + Shield (총 7core)",
+    "차폐 방식": "2중 차폐 (알루미늄 은박 + 망사 Shield)",
+    "모델명(1.8M)": "LSP-SRGB-15MM-1.8M",
+    "모델명(3M)": "LSP-SRGB-15MM-3M",
+    "모델명(5M)": "LSP-SRGB-15MM-5M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "RoHS 적합": "Compliant"
+  },
+  "compatibility": [
+    "RGB(VGA) 15핀 인터페이스를 사용하는 모니터",
+    "RGB(VGA) 15핀 출력을 지원하는 PC 및 그래픽카드"
+  ],
+  "package_contents": [
+    "SEMI RGB 모니터 케이블 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "9번 핀은 예비핀으로 사용되지 않으며, 케이블에 따라 비어있는 경우가 있으나 제품 이상이 아니므로 반품 또는 교환 사유가 되지 않습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "품질보증기준: 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상.",
+    "AS 및 소비자상담: 라인업시스템(주)",
+    "구매/배송/반품 문의: 판매처(쇼핑몰 하단 참조)"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-SRGB-15MM-1.8M",
+      "품목코드": "PCA-SRG001",
+      "품목명": "[◆Lanstar-Plus] SEMI RGB모니터케이블 , HDB15P M/M, 1.8M [70022](60개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-SRGB-15MM-3M",
+      "품목코드": "PCA-SRG002",
+      "품목명": "[◆Lanstar-Plus] SEMI RGB모니터케이블 , HDB15P M/M, 3M [70023](50개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-SRGB-15MM-5M",
+      "품목코드": "PCA-SRG003",
+      "품목명": "[◆Lanstar-Plus] SEMI RGB모니터케이블 , HDB15P M/M, 5M [70024](40개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "양방향"
+    },
+    "form_physical": {
+      "material": [
+        "알루미늄"
+      ],
+      "length_options_meters": [
+        1.8,
+        3.0,
+        5.0
+      ]
+    },
+    "certification": {
+      "rohs": true
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDB 15P Male - HDB 15P Male (RGB 15핀)",
+    "connectivity.output_signals": "HDB 15P Male - HDB 15P Male (RGB 15핀)",
+    "connectivity.directional": "HDB 15P Male - HDB 15P Male",
+    "form_physical.material": "알루미늄 은박",
+    "form_physical.length_options_meters": "1.8M / 3M / 5M",
+    "certification.rohs": "RoHS(특정위험물질 사용제한) 규격 준수",
+    "audio_video.max_resolution": "모니터 케이블",
+    "audio_video.hdr_support": "모니터 케이블",
+    "audio_video.hdcp_version": "모니터 케이블",
+    "audio_video.audio_pass": "모니터 케이블",
+    "power.power_mode": "모니터 케이블",
+    "power.charging_support": "모니터 케이블",
+    "control_switching.has_remote": "모니터 케이블",
+    "control_switching.has_hotkey": "모니터 케이블",
+    "control_switching.has_physical_button": "모니터 케이블",
+    "control_switching.has_mouse_switching": "모니터 케이블",
+    "control_switching.has_auto_scan": "모니터 케이블",
+    "control_switching.has_app_control": "모니터 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:51",
+  "feature_schema_version": "1.0.0"
+}

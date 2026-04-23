@@ -1,0 +1,568 @@
+{
+  "model_no": "LS-CCTP",
+  "product_name": "HD CCTV Cable with Power 고화질 영상 파워케이블",
+  "category": [
+    "커넥터",
+    "CCTV파워"
+  ],
+  "key_features": [
+    "영상(동축)과 전원 케이블이 일체되어 설치 용이 및 부대비용 절감",
+    "메가픽셀 구현을 위한 HD-SDI 설치 시에도 완벽 호환 가능",
+    "별도의 끝단작업 불필요",
+    "BNC 커넥터를 통한 영상 전달로 노이즈 없는 HD 고화질 동영상 전송",
+    "메가픽셀 구현을 위한 HD-SDI 설치 시 완벽 호환 가능",
+    "CCTV와 HD DVR을 케이블로 연결만 하면 누구나 쉽게 설치 가능",
+    "RoHS 준수 제품 (납, 수은, 카드뮴 등 중금속 미사용)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "영상(동축)과 전원 케이블이 일체형으로 설치 용이 및 부대비용 절감",
+    "별도의 끝단 작업 불필요",
+    "CCTV와 HD DVR을 케이블 연결만으로 누구나 쉽게 설치 가능",
+    "RoHS 규격 준수 (납, 수은, 카드뮴 등 중금속 미사용)",
+    "영상(동축)과 전원 케이블이 일체되어 설치 용이 및 부대비용 절감효과",
+    "BNC/M + DC5521/M to BNC/M + DC5521/F 커넥터 구성",
+    "RoHS 준수 제품 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "고해상 HD 카메라 영상을 손실 없이 지원하는 파워 동축 전원 케이블",
+    "영상(동축)과 전원 케이블이 일체형으로 설치가 편리하며 인건비 및 부대비용 절감 효과",
+    "끝단 작업이 별도로 필요 없음 (5M~50M 제품 기준)",
+    "디지털(HD-SDI·CVI·AHD·TVI) 및 아날로그(SD) 카메라 호환",
+    "BNC M/M + Power M/F 커넥터 구성",
+    "100% ROHS 규격 준수",
+    "100% Open·Short·Miswire 테스트 완료",
+    "흑색(블랙) 및 백색(화이트) 색상 선택 가능 (5M~30M)",
+    "아날로그 영상 전송에 최적화",
+    "RoHS(특정 유해물질 사용 제한) 준수",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "영상(동축)과 전원 케이블이 일체형으로 설치가 편하며 인건비 및 부대비용 절감 효과",
+    "끝단 작업이 별도로 필요 없음 (완성형 제품 기준)",
+    "5m / 10m / 15m / 20m / 30m / 40m / 50m 길이 선택 가능",
+    "색상: 블랙 / 화이트 선택 가능",
+    "100m / 200m 제작용 케이블(끝단 미처리) 별도 제공",
+    "100% RoHS 준수"
+  ],
+  "specifications": {
+    "커넥터 구성": "BNC/M + DC5521/M to BNC/M + DC5521/F / BNC/M + DC5521/M (카메라측) to BNC/M + DC5521/F (DVR/전원측)",
+    "DC 커넥터 외경(입력측)": "5mm",
+    "DC 커넥터 내경(입력측)": "2.4mm",
+    "DC 커넥터 외경(출력측)": "7.6mm",
+    "DC 커넥터 내경(출력측)": "5.3mm",
+    "케이블 외경(참고)": "7.3mm, 5.6mm, 10.2mm",
+    "길이 라인업": "5M(LS-CCTP-5ML), 10M(LS-CCTP-10ML), 15M(LS-CCTP-15ML), 20M(LS-CCTP-20ML), 30M(LS-CCTP-30ML) / 5M (LS-CCTP-5ML), 10M (LS-CCTP-10ML), 15M (LS-CCTP-15ML), 20M (LS-CCTP-20ML), 30M (LS-CCTP-30ML)",
+    "전체 길이 범위": "5000~30000mm / 5000mm ~ 30000mm",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입",
+    "환경 인증": "RoHS COMPLIANT",
+    "품질 인증": "ISO 9001:2008",
+    "DC 커넥터 외경(카메라 전원 입력)": "5mm",
+    "DC 커넥터 내경(카메라 전원 입력)": "2.4mm",
+    "DC 커넥터 외경(DVR 전원)": "7.6mm",
+    "DC 커넥터 내경(DVR 전원)": "5.3mm",
+    "케이블 외경1": "5.6mm",
+    "케이블 외경2": "7.3mm",
+    "케이블 외경3": "10.2mm",
+    "제품 길이 라인업": "5M(LS-CCTP-5ML), 10M(LS-CCTP-10ML), 15M(LS-CCTP-15ML), 20M(LS-CCTP-20ML), 30M(LS-CCTP-30ML)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "DC 커넥터 외경(카메라측 입력)": "5mm",
+    "DC 커넥터 내경(카메라측 입력)": "2.4mm",
+    "DC 커넥터 외경(전원측)": "7.6mm",
+    "DC 커넥터 내경(전원측)": "5.3mm",
+    "케이블 길이 라인업": "5M (LS-CCTP-5ML), 10M (LS-CCTP-10ML), 15M (LS-CCTP-15ML), 20M (LS-CCTP-20ML), 30M (LS-CCTP-30ML) / 5M, 10M, 15M, 20M, 30M",
+    "케이블 외경 치수(참고)": "7.3mm, 5.6mm, 10.2mm",
+    "품질보증 기준": "공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "DC 커넥터 외경(카메라측)": "5mm",
+    "DC 커넥터 내경(카메라측)": "2.4mm",
+    "케이블 단면 치수": "7.3mm x 5.6mm x 10.2mm",
+    "품질인증": "ISO 9001:2008",
+    "환경인증": "RoHS COMPLIANT",
+    "케이블 외경(대)": "10.2mm",
+    "케이블 외경(중)": "7.3mm",
+    "케이블 외경(소)": "5.6mm",
+    "케이블 종류": "동축(Coaxial) + DC 전원 케이블 일체형",
+    "임피던스": "75 OHM",
+    "외부 피복 외경(동축)": "OD 3.5mm PVC BLACK",
+    "외부 피복 외경(전원)": "OD 5.0mm PVC BLACK",
+    "차폐1": "AL/P FOIL",
+    "차폐2": "80+0.12 ALMG",
+    "동축 내심 절연": "φ3.0 FPE",
+    "동축 내심 도체": "0.65 CCS",
+    "전원 케이블 절연": "φ1.2mm PVC (black, red)",
+    "전원 케이블 도체": "2×28/0.1m Cu",
+    "영상 커넥터": "BNC PLUG (Nickel plating) × 2PCS",
+    "전원 커넥터(잭)": "5521 DC Jack (Nickel plating) × 1PCS",
+    "전원 커넥터(플러그)": "5521 DC Plug (Nickel plating) × 1PCS",
+    "몰드 재질": "PVC 45P (yellow 1×8g, red 1×8g)",
+    "포장 방식": "PE BAG",
+    "색상": "블랙, 화이트",
+    "길이 옵션": "5M, 10M, 15M, 20M, 30M, 40M, 50M (완제품) / 100M, 200M (제작용 케이블)",
+    "제조사·수입사": "라인업시스템(주)",
+    "DC 커넥터 외경(전원 공급)": "7.6mm",
+    "DC 커넥터 내경(전원 공급)": "5.3mm",
+    "케이블 외경": "7.3mm (상단) / 5.6mm (하단) / 전체 폭 10.2mm",
+    "케이블 전체 길이 범위": "5000mm ~ 30000mm",
+    "케이블 외경(OD)": "3.5mm (PVC BLACK) / 5.0mm (PVC BLACK)",
+    "도체(Conductor)": "0.65 CCS (동축) / 2×28/0.1mm Cu (전원)",
+    "절연(Insulation)": "3.0 FPE (동축) / 2×1.2mm PVC black·red (전원)",
+    "차폐1(Shielding1)": "AL/P FOIL",
+    "차폐2(Shielding2)": "80×0.12 ALMG",
+    "커넥터 도금": "Nickel plating",
+    "BNC 플러그 수량": "2PCS",
+    "DC JACK(5521) 수량": "1PCS",
+    "DC PLUG(5521) 수량": "1PCS",
+    "포장": "PE BAG",
+    "케이블 색상": "블랙, 화이트",
+    "길이 라인업(완성형)": "5m, 10m, 15m, 20m, 30m, 40m, 50m",
+    "길이 라인업(제작용)": "100m, 200m"
+  },
+  "compatibility": [
+    "CCTV 카메라 (BNC 영상 출력, DC5521 전원 입력)",
+    "HD DVR (BNC 영상 입력)",
+    "HD-SDI 카메라 시스템",
+    "전원 아답터 12V 2A (DC5521 규격)",
+    "HD CCTV 카메라 (BNC 영상 출력)",
+    "HD-SDI (High Definition Serial Digital Interface) 카메라 및 시스템",
+    "DC5521 규격 전원 커넥터 기기",
+    "HD-SDI 카메라 및 시스템",
+    "DC5521 규격 전원 어댑터 (12V 2A)",
+    "HD-SDI 카메라 (BNC 케이블 기반)",
+    "DC5521 전원 아답터 (12V 2A)",
+    "DC5521 전원 커넥터 사용 기기 (12V 2A 전원아답터)",
+    "HD-SDI 200만화소 카메라: 5M만 호환(O), 10M~50M 미호환(X)",
+    "CVI 200만화소 카메라: 5M~50M 전 길이 호환(O)",
+    "AHD 200만화소 카메라: 5M~50M 전 길이 호환(O)",
+    "TVI 200만화소 카메라: 5M~50M 전 길이 호환(O) (30M 일부 OCR 불명확)",
+    "SD 아날로그 52만화소 이하 카메라: 5M~50M 전 길이 호환(O)",
+    "BNC 단자를 사용하는 DVR 카드 및 BNC 장비",
+    "전원 아답터 12V 2A (별매)",
+    "HD-SDI 200만화소 (5M 블랙만 지원, 나머지 길이 미지원)",
+    "CVI 200만화소",
+    "AHD 200만화소",
+    "TVI 200만화소",
+    "아날로그 SD 52만화소 이하",
+    "HD DVR",
+    "DC 5521 규격 전원 아답터 (12V 2A, 별매)",
+    "HD-SDI 200만화소 (5m 블랙 모델만 지원, 나머지 길이 미지원)",
+    "SD 아날로그 52만화소 이하",
+    "CCTV 카메라 (BNC 연결)",
+    "12V 2A 전원 어댑터 (별매)"
+  ],
+  "package_contents": [
+    "HD CCTV 영상 파워케이블 본체 (해당 길이 1개)",
+    "※ 전원 아답터(12V 2A)는 별매",
+    "HD CCTV 영상 파워케이블 본체 (영상+전원 일체형)",
+    "HD CCTV 고화질 영상 파워케이블 본체 1개",
+    "전원 어댑터(12V 2A)는 별매",
+    "HD CCTV CABLE with Power (영상+전원 일체형 케이블) 1개",
+    "HD CCTV 영상·전원 일체형 케이블 1개 (선택 길이에 따라 5M / 10M / 15M / 20M / 30M 중 1종)",
+    "※ 전원아답터(12V 2A)는 별매",
+    "CCTV HD 동축+전원 일체형 케이블 본체 (선택 길이)",
+    "BNC PLUG (Nickel plating) × 2개 (케이블 양 끝 영상 단자)",
+    "5521 DC Jack (Nickel plating) × 1개 (전원 입력 단자)",
+    "5521 DC Plug (Nickel plating) × 1개 (전원 출력 단자)",
+    "HD CCTV 동축+전원 일체형 케이블 1개 (선택 길이/색상에 따라 모델 상이)",
+    "전원 아답터 미포함 (별매)",
+    "CCTV HD 동축+전원 일체형 케이블 본체 (선택 길이/색상)",
+    "BNC PLUG × 2PCS (양쪽 끝, 완성형 제품)",
+    "5521 DC JACK × 1PCS (완성형 제품)",
+    "5521 DC PLUG × 1PCS (완성형 제품)"
+  ],
+  "usage_instructions": "CCTV 카메라의 BNC 영상 단자와 DC5521 전원 단자에 케이블 한쪽 끝(M측)을 연결하고, 반대쪽 BNC를 DVR 영상 입력에, DC5521/F 단자에 전원 아답터(12V 2A, 별매)를 연결하면 설치 완료.",
+  "cautions": [
+    "전원 아답터(12V 2A)는 별매이므로 별도 구매 필요",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "RoHS 규정 준수 제품으로 납, 수은, 카드뮴 등 중금속 미사용"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-CCTP-5M",
+      "품목코드": "CAB-BNC039",
+      "품목명": "[LANstar] HD Power 고화질 동축케이블, 5M, RG59 BNC M/M, Power M/F [10145] (50개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-CCTP-10M",
+      "품목코드": "CAB-BNC040",
+      "품목명": "[LANstar] HD Power 고화질 동축케이블, 10M, RG59 BNC M/M, Power M/F[10146] (30개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-CCTP-15M",
+      "품목코드": "CAB-BNC041",
+      "품목명": "[LANstar] HD Power 고화질 동축케이블, 15M, RG59 BNC M/M, Power M/F[10147] (20개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-CCTP-20M",
+      "품목코드": "CAB-BNC042",
+      "품목명": "[LANstar] HD Power 고화질 동축케이블, 20M, RG59 BNC M/M, Power M/F[10148] (16개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-CCTP-30M",
+      "품목코드": "CAB-BNC043",
+      "품목명": "[LANstar] HD Power 고화질 동축케이블, 30M, RG59 BNC M/M, Power M/F [10149] (12개)",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-CCTP-40M",
+      "품목코드": "CAB-BNC044",
+      "품목명": "[LANstar] HD Power 고화질 동축케이블, 40M, RG59 BNC M/M, Power M/F[10150] (10개)",
+      "variant_suffix": "-40M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-CCTP-50M",
+      "품목코드": "CAB-BNC045",
+      "품목명": "[LANstar] HD Power 고화질 동축케이블, 50M. RG59 BNC M/M, Power M/F[10151] (10개)",
+      "variant_suffix": "-50M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-CCTP-10M",
+      "내용": "만족하며 사용중입니다",
+      "관련내용": "배송도 빠르고 제품도 만족해요"
+    },
+    {
+      "source_model": "LS-CCTP-10M",
+      "내용": "배송도 빠르고 제품도 만족해요"
+    },
+    {
+      "source_model": "LS-CCTP-50M",
+      "내용": "회사에서 쓰려고 샀습니다. 좋네요"
+    },
+    {
+      "source_model": "LS-CCTP-5M",
+      "내용": "회사에서 쓰려고 주문했습니다. 좋네요"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-CCTP",
+      "chatUrl": "1u2lE",
+      "dateIso": "2023-08-09T06:51:19.270Z",
+      "name": "elke****",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "문의드립니다 케이블을 이걸사서 사용했는데 안되서요 혹시 이케이블은 안되는걸까요? 벽면 유선잭과 bnc로 딱 맞긴한데...\n(추가 문의) 아 그리고 혹시 아답터가 콘센트쪽이 파란불이었다가 기기를 연결하면 빨간색으로 바뀝니다 이게 맞는건가요?\n(추가 문의) 아답터는 잘 받았는데요 혹시 여기에 맞는 sdi케이블 부탁드려도 될까요?\n(추가 문의) 입금했습니다 입금자명은 위종훈입니다",
+      "answer": "해당 상품 추가상품에 구성되어있는 아답터 별도 판매 도와드리고자 합니다. 금액은 3,000원이며 배송비 2,500원 포함하여 5,500원 아래 계좌로 입금해주시면 발송 도와드리겠\n\n네, 고객님. 감사합니다. 운송장번호 안내드리겠습니다. [로젠 36059809435]",
+      "turn_count": 7,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "아 그리고 혹시 아답터가 콘센트쪽이 파란불이었다가 기기를 연결하면 빨간색으로 바뀝니다 이게 맞는건가요?"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "문의드립니다 케이블을 이걸사서 사용했는데 안되서요 혹시 이케이블은 안되는걸까요? 벽면 유선잭과 bnc로 딱 맞긴한데..."
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "아답터는 잘 받았는데요 혹시 여기에 맞는 sdi케이블 부탁드려도 될까요?"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님. 감사합니다. 운송장번호 안내드리겠습니다. [로젠 36059809435]\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님. 감사합니다. 운송장번호 안내드리겠습니다. [로젠 36059809435]\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신"
+        },
+        {
+          "role": "customer",
+          "text": "입금했습니다 입금자명은 위종훈입니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 상품 추가상품에 구성되어있는 아답터 별도 판매 도와드리고자 합니다.\n금액은 3,000원이며 배송비 2,500원 포함하여 5,500원 아래 계좌로 입금해주시면 발송 도와드리겠"
+        },
+        {
+          "role": "customer",
+          "text": "아답터 문의드립니다"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-CCTP",
+      "chatUrl": "2ifGq",
+      "dateIso": "2023-06-27T03:47:11.661000",
+      "name": "sang****",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "저 이제품을 centralamc 아이디로구매해서 오늘테스트해보았는데요 \n구형내시경장비 에서 의료용모니터로연결되는 sdi 동축케이블을 sdi in hdmi out converter연결하고 티비 hdmi포트에꽂았는데 작동이안되는데요 뭐가문제인지혹시 조언좀 구할수있을까요?\n(추가 문의) 컨버터에서 작동되는게확인된케이블이면 구형내시경장비에서만작동되면해결될거같아서요ㅎ 내시경은 sd hd sdi output을지원한다고는써있어요\n(추가 문의) 16년된 내시경장비에서 sonypvm 14L2md라는 의료용 모니터로 sdi동축케이블연결되있는데 기존연결로 작동은잘되는 상태입니다\n(추가 문의) 혹시 컨버터에호환되는 sd 나 hd sdi케이블 추천좀해주실수있을카요?",
+      "answer": "자사 스마트스토어 내 'LS-CCTP-' 계열의 케이블을 연결해야 사용 가능합니다. 해당 제품 링크와 함께 안내드립니다. https://smartstore.naver.com/lineup/search?q=LS-CCTP- 랜스타 제품 이용 중\n\n구형 장비의 경우 호환상 문제가 발생할 수 있습니다. 말씀 주신 제품의 경우 자사에서 똑같은 환경에서 특정 케이블로 테스트를 진행해볼 수 없고, 진행하기도 힘든 상황이기 때문에 정확한 답변을 드리기 힘든 상황입니다. 이러한 경우 불편하시겠지만 직접 케이블을 구매하시어 연결 뒤 확인해보시는 방법 밖에 없을 것 같습니다.\n\n네 고객님, 잠시만 기다려 주십시오. 확인 후 안내드리겠습니다.",
+      "turn_count": 11,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "넵 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\n자사 스마트스토어 내 'LS-CCTP-' 계열의 케이블을 연결해야 사용 가능합니다. 해당 제품 링크와 함께 안내드립니다.\nhttps://smartstore.naver.com/lineup/search?q=LS-CCTP-\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. 랜스타 제품 이용 중"
+        },
+        {
+          "role": "customer",
+          "text": "컨버터에서 작동되는게확인된케이블이면 구형내시경장비에서만작동되면해결될거같아서요ㅎ 내시경은 sd hd sdi output을지원한다고는써있어요"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 잠시만 기다려 주십시오. 확인 후 안내드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "혹시 컨버터에호환되는 sd 나 hd sdi케이블 추천좀해주실수있을카요?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n구형 장비의 경우 호환상 문제가 발생할 수 있습니다. 말씀 주신 제품의 경우 자사에서 똑같은 환경에서 특정 케이블로 테스트를 진행해볼 수 없고, 진행하기도 힘든 상황이기 때문에 정확한 답변을 드리기 힘든 상황입니다. 이러한 경우 불편하시겠지만 직접 케이블을 구매하시어 연결 뒤 확인해보시는 방법 밖에 없을 것 같습니다."
+        },
+        {
+          "role": "customer",
+          "text": "아 혹시 케이블은 hd sdi동축케이블검색해서아무거나사보면될까요?"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "의료장비는 특수 sdi캐이블을쓰는걸까요?"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-CCTP",
+      "chatUrl": "2lNAF",
+      "dateIso": "2023-06-15T08:12:41.715000",
+      "name": "khu0605",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "기존 TV는 동축케이블 연결이었는데 바꾼건 HDMI케이블로만 연결되어서요\n(추가 문의) 보내주신 링크는 단순 동축케이블인거 같은데요\n(추가 문의) 동축케이블을 HDMI로 연결하고싶은데\n(추가 문의) 컨버터가 동축이랑 연결되는건 없나요",
+      "answer": "LS-CCTP 케이블 제품 링크와 함께 안내드리니 자세한 내용 확인 부탁드립니다. https://smartstore.naver.com/lineup/search?q=LS-CCTP 교환의 경우, 제품 및 제품 포장의 훼손이 없는 경우 가능하여 상태 확인 부탁드립니다.\n\n유선 응대 진행하였습니다. 아래 해당 역할 가능한 구매 제품과 참고하실만한 유튜브 링크 전달 드립니다. 혹시 해당 내용 관련하여 추가로 궁금하신 사항 있으시면 톡톡 남겨주시거나, 070-4099-4984로 연락 주시면 최대한 빠르게 응대 도와드리겠습니다.\n\nhttps://smartstore.naver.com/lineup/products/6204804363",
+      "turn_count": 15,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "01094592605 입니다"
+        },
+        {
+          "role": "agent",
+          "text": "https://youtu.be/D13SU61Oung"
+        },
+        {
+          "role": "customer",
+          "text": "저게 LS-CCTP케이블인가요?"
+        },
+        {
+          "role": "agent",
+          "text": "https://smartstore.naver.com/lineup/products/6204804363"
+        },
+        {
+          "role": "customer",
+          "text": "컨버터가 동축이랑 연결되는건 없나요"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n유선 응대 진행하였습니다. 아래 해당 역할 가능한 구매 제품과 참고하실만한 유튜브 링크 전달 드립니다.\n혹시 해당 내용 관련하여 추가로 궁금하신 사항 있으시면 톡톡 남겨주시거나, 070-4099-4984로 연락 주시면 최대한 빠르게 응대 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "저희가 두차례 구매해주신 아이디에 안내된 번호로 연락 드렸으나 연락이 되지 않아 톡톡 남겨드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "보내주신 링크는 단순 동축케이블인거 같은데요"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n혹시 유선 응대를 도와드리고자 하는데 연락 가능하신 번호 있으실까요?"
+        },
+        {
+          "role": "customer",
+          "text": "기존 TV는 동축케이블 연결이었는데 바꾼건 HDMI케이블로만 연결되어서요"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님. 자사 제품 중에는 해당 타입의 컨버터는 없어 안내드리기 어려운 점 참고 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "컨버터가 필요하다고 들어서요"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\nLS-CCTP 케이블 제품 링크와 함께 안내드리니 자세한 내용 확인 부탁드립니다.\nhttps://smartstore.naver.com/lineup/search?q=LS-CCTP \n교환의 경우, 제품 및 제품 포장의 훼손이 없는 경우 가능하여 상태 확인 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수"
+        },
+        {
+          "role": "customer",
+          "text": "동축케이블을 HDMI로 연결하고싶은데"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-CCTP-M": "LAN Star\nⓇ\n고해상 HD 카메라 영상을 손실없이 지원하는\nCCTV 파워 동축 전원 케이블\n영상+전원 일체형 케이블\nBNC M/M Power M/F\n5m / 10m / 15m / 20m / 30m / 40m / 50m\n전원\n영상\n영상\n전원\n• 영상(동축)과 전원 케이블이 일체형으로 설치가 편하며\n인건비 및 부대비용 절감효과가 있습니다.\n● 끝단 작업이 별도로 필요치 않습니다.\n디지털\n아날로그\n제품명\nHD-SDI\nCVI\nAHD\nTVI\nSD\n200만화소 200만화소 200만화소 200만화소 52만이하\nCCTV HD 동축+전원 케이블/일체형 5M(블랙)\nㅇ O O O ㅇ\nCCTV HD 동축+전원 케이블/일체형 10M(블랙) X\nO\nO O O\nCCTV HD 동축+전원 케이블/일체형 15M(블랙)\nX\nO O ○ O\nCCTV HD 동축+전원 케이블/일체형 20M(블랙) X\nO\nO\nO O\nCCTV HD 동축+전원 케이블/일체형 30M(블랙) X\nO\nO\nCCTV HD 동축+전원 케이블/일체형 40M(블랙)\nX\n•\nO\n0 O\nCCTV HD 동축+전원 케이블/일체형 50M(블랙) X\nO\nO O O\nCCTV HD 동축+전원 케이블/일체형 5M(화이트) X\nO\nO O O\nCCTV HD 동축+전원 케이블/일체형 10M(화이트) X\nO\nㅇ\nCCTV HD 동축+전원 케이블/일체형 15M(화이트) X\nO\nO O ㅇ\nCCTV HD 동축+전원 케이블/일체형 20M(화이트) X\nㅇ O O O\nCCTV HD 동축+전원 케이블/일체형 30M(화이트)\nX\nO\nO\nO ㅇ\n100m/200m (제작용 케이블)\nㅇ\n100m, 200m 제작용 케이블은 끝단처리가 되어 있지 않습니다.\n연결단자는 별도 구매하시기 바랍니다.\nCCTV 카메라, BNC 장비와 연결\nBNC 장비를 사용하는 DVR 카드 또는 장비에 연결하여 CCTV의 영상을 전달받고\n전원 단자(빨강)에 전원아답터를 연결하여 전원을 보충할 수 있습니다.\n이제는 CCTV 설치가 어렵지 않습니다!\nCCTV용 영상+전원케이블만 있으면 누구나 쉽게 설치가 가능합니다.\nCCTV와 DVR카드 케이블로 연결만 해주면 됩니다.\n전원아답터\n(12V 2A)\n※ 아답터 별매 가능\n10-00-0\nCCTV\n카메라\nDVR 카드\n(BNC 장비)\nBNC PLUG\nwww\nnonk\n_PRINTING: HD CCTV COAXIAL CABLE with POWER, 75 OHM <LANstar>\nDC PLUG\nTH\n4\n6\nL +50mm\n7\nMOULDEDS\nPVC 45P yellow\n1*8g\n6\nMOULDED2\nPVC 45P red\n1*8g\n5\nMOULDED1\nPVC 45P red\n1*8g\n4\nCABLE\nCOAXIAL+DC CABLE\nBlack\nL\n3\nCONNECTRORS 3 BNC PLUG Nickel plating\n2PCS\n2\n1PCS\nCONNECTRORS 2 5521 DC jack Nickel plating\n|CONNECTRORS 1 5521 DC plug Nickel plating\n1\n1PCS\nNO.\nPARTS NAME\nSPECIFICATION STANDARD\nQTY\nSPECIFICATION\nOD: +3.5mm PVC BLACK\nOD:5.0m PVC BLACK\nShielding1:AL/P FOIL\nInsulation: +3.OFPE\nInsulation: 21.2mm PVC (black. red)\nConductor: 0.65CCS\nShielding2:80+0. 12ALMG\nConductor:2*28/0. 1mCu\nWIRING DIAGRAM\nyellow C\nBNC PLUG\nyellow\nred\nred\n5521DC JACK\n5521DC PLUG\n1. TESTING: 100% OPEN AND SHORT AND MISWIRE TEST.\n2. PACKIN: PE BAG.\n3. 100% ROHS COMPLIANT.\n\n\nWIRING DIAGRAM\nyellow\nBNC PLUG\n| yellow\nred\nred\n5521DC JACK\n5521DC PLUG\n1. TESTING: 100% OPEN AND SHORT AND MISWIRE TEST.\n2. PACKIN: PE BAG.\n3. 100% ROHS COMPLIANT.\nBNC 케이블 만들기 (제작 케이블용)\n1\n2\n3\n깔끔하게 선 정리\n내심 5mm 절단\n수축튜브를 꽂은 후\n케이블의 피복 탈피\n4\n5\n6\nBNC Tool로 조여주기\n내심에 잭을 끼운 후\nBNC Tool로 고정\n(LS-HT-301C)\n콘넥터 꽂기\n(LS-CON-RG6-5C2C)\n7\n8\n9\n라이터로 수축튜브 조이기\n전원케이블 피복 벗겨내기\n전원케이블에 전원연결 후\n절연테이프로 마무리\nLANStar\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCCTV HD 동축 전원 케이블\nLANSStar\n®\n모\nn\n델\n명\nLS-CCTP-5M/ LS-CCTP-10M\nLS-CCTP-15M/LS-CCTP-20M\nLS-CCTP-30M/LS-CCTP-40M\nLS-CCTP-50M\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주)\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-CCTP-ML": "LAN\nⓇ\ntar\nHD CCTV CABLE with Power\n고화질 영상 파워케이블\nBNC/M + DC5521/M to BNC/M + DC5521/F\n5M LS-CCTP-5ML\nIOM) LS-CCTP-10ML 15M) LS-CCTP-15ML\n20M LS-CCTP-20ML 30M LS-CCTP-30ML\nHD CCTV 영상케이블\nCCTV 카메라 전원 (입력)\n외경:5mm / 내경:2.4mm\nCCTV 카메라 비디오 (출력)\nDVR 비디오(입력)\nDC 전원\n외경:7.6mm / 내경:5.3mm\n01: 영상(동축)과 전원 케이블이 일체되어 설치 용이\n부대비용 절감효과\n02\n아날로그 영상 전송에 최적화\n03\n별도의 끝단작업 불필요\n디지털\n아날로그\n제품명\nHD-SDI CVI\nAHD\nTVI\nSD\n200만화소 200만화소 200만화소 200만화소 52만이하\nCCTV HD 동축+전원 케이블/일체형 5M(블랙)\n0\nO\nO\nO O\nCCTV HD 동축+전원 케이블/일체형 10M(블랙)\nX\nO\nO O O\nCCTV HD 동축+전원 케이블/일체형 15M(블랙)\nX\nO ㅇ O ㅇ\nCCTV HD 동축+전원 케이블/일체형 20M(블랙)\nX\nO\nO\nO\nO\nCCTV HD 동축+전원 케이블/일체형 30M(블랙) X\nO\nO\nO\nO\nCCTV HD 동축+전원 케이블/일체형 40M(블랙) X\nO\nO\nO O\nCCTV HD 동축+전원 케이블/일체형 50M(블랙) X\nO O O O\nCCTV HD 동축+전원 케이블/일체형 5M(화이트) X\nO\nO\nO\nO\nCCTV HD 동축+전원 케이블/일체형 10M(화이트) X\nO\nO O O\nCCTV HD 동축+전원 케이블/일체형 15M(화이트) X\nO\nO\nO O\nCCTV HD 동축+전원 케이블/일체형 20M(화이트) X\n○ O\nO\nO\nCCTV HD 동축+전원 케이블/일체형 30M(화이트) X\nO\nO\nO O\n손 쉬운 CCTV 설치\nCCTV와 HD DVR을 케이블로 연결만 해주면 누구나 쉽게 설치\n....D\nCCTV\nCOUND\nNAD *****\n\n\nCONNNNNNNND\nCCTV\nMININD\nOOOOOOON\n전원아답터 (12V 2A)\n※ 아답터 별매\nDVR\nPRODUCT SIZE\n5000~30000mm\n7.3mm\n牛\n5.6mm\n10.2mm\nLS-CCTP-5ML5M\nLS-CCTP-10ML 10M|\nLS-CCTP-15ML 15M\nCOD\nLS-CCTP-20ML 20M\nLS-CCTP-30ML 30M\nLANStar\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\n고화질 영상 파워 케이블\nLANG\n®\nStar\n모\n델\n명\nLS-CCTP-5ML/LS-CCTP-10ML\nLS-CCTP-15ML/LS-CCTP-20ML\nLS-CCTP-30ML\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주)\n*구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-CCTP-XXM": "LANStar\n고해상 HD 카메라 영상을 손실없이 지원하는\nCCTV 파워 동축 전원 케이블\n영상+전원 일체형 케이블\nBNC M/M Power M/F\n5m / 10m / 15m / 20m / 30m / 40m / 50m\n전원\n영상\n영상\n전원\n• 영상(동축)과 전원 케이블이 일체형으로 설치가 편하며\n인건비 및 부대비용 절감효과가 있습니다.\n•끝단 작업이 별도로 필요치 않습니다.\n디지털\n아날로그\n제품명\nHD-SDI\nCVI\nAHD\nTVI\nSD\n200만화소 200만화소 200만화소 200만화소 52만이하\nCCTV HD 동축+전원 케이블/일체형 5M(블랙)\nㅇ O O O ㅇ\nCCTV HD 동축+전원 케이블/일체형 10M(블랙)\nX\nO\nO O O\nCCTV HD 동축+전원 케이블/일체형 15M(블랙)\nX\nO O ○ O\nCCTV HD 동축+전원 케이블/일체형 20M(블랙) X\nO\nO\nO O\nCCTV HD 동축+전원 케이블/일체형 30M(블랙) X\nO\nO\nCCTV HD 동축+전원 케이블/일체형 40M(블랙)\nX\n•\nO\n0 O\nCCTV HD 동축+전원 케이블/일체형 50M(블랙) X\nO\nO O O\nCCTV HD 동축+전원 케이블/일체형 5M(화이트) X\nO\nO O O\nCCTV HD 동축+전원 케이블/일체형 10M(화이트) X\nO\nㅇ\nCCTV HD 동축+전원 케이블/일체형 15M(화이트) X\nO\nO O ㅇ\nCCTV HD 동축+전원 케이블/일체형 20M(화이트) X\n0\nO O O\nCCTV HD 동축+전원 케이블/일체형 30M(화이트)\nX\nO\nO\nO O\n100m / 200m (제작용 케이블)\nㅇ\n100m, 200m 제작용 케이블은 끝단처리가 되어 있지 않습니다.\n연결단자는 별도 구매하시기 바랍니다.\nCCTV 카메라, BNC 장비와 연결\nBNC 장비를 사용하는 DVR 카드 또는 장비에 연결하여 CCTV의 영상을 전달받고\n전원 단자(빨강)에 전원아답터를 연결하여 전원을 보충할 수 있습니다.\n이제는 CCTV 설치가 어렵지 않습니다!\nCCTV용 영상+전원케이블만 있으면 누구나 쉽게 설치가 가능합니다.\nCCTV와 DVR카드 케이블로 연결만 해주면 됩니다.\n전원아답터\n(12V 2A)\n※ 아답터 별매 가능\n00-0-0-0\nCCTV\n카메라\nDVR 카드\n(BNC 장비)\nBNC PLUG\nwww\nnonk\n_PRINTING: HD CCTY COAXIAL CABLE with POWER, 75 OHM <LANstar>\nDC PLUG\nTH=\n4\n6\nL ±50mm\n7\nMOULDEDS\nPVC 45P yellow\n1*8g\n6\nMOULDED2\nPVC 45P red\n1*8g\n5\nMOULDED1\nPVC 45P red\n1*8g\n4\nCABLE\nCOAXIAL+DC CABLE\nBlack\nL\n3\nCONNECTRORS 3 BNC PLUG Nickel plating\n2PCS\n2\n1PCS\nCONNECTRORS 2 5521 DC jack Nickel plating\n|CONNECTRORS 1 5521 DC plug Nickel plating\n1\n1PCS\nNO.\nPARTS NAME\nSPECIFICATION STANDARD\nQTY\nSPECIFICATION\nOD: +3.5mm PVC BLACK\nOD:5.0m PVC BLACK\nShieldingl:AL/P FOIL\nInsulation: +3.OFPE\nInsulation: 2*1.2m PVC (black.red)\nConductor: 0.65CCS\nShielding2:80+0. 12ALMG\n\\Conductor:2*28/0.1mCu\nWIRING DIAGRAM\nyellow C\nBNC PLUG\nyellow\nred\nred\n5521DC JACK\n5521DC PLUG\n1. TESTING: 100% OPEN AND SHORT AND MISWIRE TEST.\n2. PACKIN: PE BAG.\n3. 100% RoHS COMPLIANT.\n\n\nWIRING DIAGRAM\nBNC PLUG\nyellow\nyellow\nred\nred\n5521DC JACK\n5521DC PLUG\n1. TESTING: 100% OPEN AND SHORT AND MISWIRE TEST.\n2. PACKIN: PE BAG.\n3. 100% ROHS COMPLIANT.\nBNC 케이블 만들기 (제작 케이블용)\n1\n2\n3\n깔끔하게 선 정리\n내심 5mm 절단\n수축튜브를 꽂은 후\n케이블의 피복 탈피\n4\n5\n6\nBNC Tool로 조여주기\n내심에 잭을 끼운 후\nBNC Tool로 고정\n(LS-HT-301C)\n콘넥터 꽂기\n(LS-CON-RG6-5C2C)\n7\n8\n9\n라이터로 수축튜브 조이기\n전원케이블 피복 벗겨내기\n전원케이블에 전원연결 후\n절연테이프로 마무리\nLAN Star\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCCTV HD 동축 전원 케이블\nLAN Sta\nStar\n모\n델\n명\nLS-CCTP-5M/LS-CCTP-10M\nLS-CCTP-15M/LS-CCTP-20M\nLS-CCTP-30M/LS-CCTP-40M\nLS-CCTP-50M\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주)\n*구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "BNC",
+        "DC5521"
+      ],
+      "output_signals": [
+        "BNC",
+        "DC5521"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        5,
+        10,
+        15,
+        20,
+        30
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": null,
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "BNC/M + DC5521/M",
+      "connector_type_b": "BNC/M + DC5521/F",
+      "gender": "M-F",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "BNC/M + DC5521/M to BNC/M + DC5521/F",
+    "connectivity.output_signals": "BNC/M + DC5521/M to BNC/M + DC5521/F",
+    "connectivity.directional": "영상(동축)과 전원 케이블이 일체형",
+    "power.power_mode": "전원 아답터(12V 2A, 별매)를 연결",
+    "power.charging_support": "전원 아답터(12V 2A, 별매)를 연결",
+    "form_physical.length_options_meters": "5M(LS-CCTP-5ML), 10M(LS-CCTP-10ML), 15M(LS-CCTP-15ML), 20M(LS-CCTP-20ML), 30M(LS-CCTP-30ML)",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "고화질 영상 파워케이블",
+    "family.connector_type_a": "BNC/M + DC5521/M",
+    "family.connector_type_b": "BNC/M + DC5521/F",
+    "family.gender": "BNC/M + DC5521/M to BNC/M + DC5521/F"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:06",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 3,
+    "category_breakdown": {
+      "usage": 3
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

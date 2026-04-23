@@ -1,0 +1,137 @@
+{
+  "model_no": "LS-SMCKIT-1M",
+  "product_name": "스마트폰 차량용 USB 충전기 + USB Micro B 충전/통신케이블 세트 (Mini Car Charger + USB Micro B Cable)",
+  "category": [
+    "젠더"
+  ],
+  "key_features": [
+    "Apple 공식 인증 브랜드 LANStar 제품",
+    "차량용 USB 미니충전기와 USB Micro B 충전/통신케이블 동봉 구성",
+    "승용차 시거잭 연결 후 스마트폰 쾌속 충전 지원",
+    "USB 충전/통신케이블 분리 사용 시 PC·노트북 연결하여 충전 및 데이터통신 가능",
+    "마이크로 B 5핀 단자 적용으로 별도 젠더 불필요",
+    "컴팩트한 사이즈로 휴대 간편",
+    "차량용 USB 미니충전기는 아이폰·아이패드·아이팟 등 USB 포트 사용 휴대용 기기와 호환",
+    "연결 시 USB 미니충전기 빨간 LED 점등으로 연결 상태 확인 가능",
+    "12V/24V 차량 전원 입력 지원"
+  ],
+  "specifications": {
+    "모델명": "SYD168",
+    "브랜드": "LANStar",
+    "입력 전압": "12V / 24V",
+    "출력": "5.0V, 1000mA (5V 1A)",
+    "USB 규격": "USB 2.0",
+    "케이블 커넥터": "USB A타입 - Micro B 5핀",
+    "케이블 길이": "1M",
+    "인증": "CE, FC, RoHS Compliant",
+    "제조국": "중국 (Made in China)"
+  },
+  "compatibility": [
+    "마이크로 B 5핀 단자 적용 스마트폰 전반",
+    "삼성 갤럭시A (SHW-M100S)",
+    "삼성 갤럭시S (SHW-M110S)",
+    "삼성 갤럭시U (SHW-M130L)",
+    "삼성 갤럭시K (SHW-M130K)",
+    "LG 인사이트 (LG-KU2000)",
+    "LG 안드로원 (LG-KH5200)",
+    "LG 옵티머스원 (LG-KU3700)",
+    "HTC HD2",
+    "HTC 디자이어 (Desire)",
+    "HTC 디자이어팝 (DesirePop)",
+    "HTC 레전드 (Legend)",
+    "HTC 넥서스원 (NexusOne)",
+    "BlackBerry BOLD 9700",
+    "Motorola 모토로이 (XT720)",
+    "Motorola 모토쿼티 (A853)",
+    "Motorola 모토글램 (XT800W)",
+    "Nokia X6",
+    "iPhone, iPod, iPad (차량용 USB 미니충전기 단독 사용 시)",
+    "디지털카메라, MP3 플레이어, 게임기 등 USB 포트 사용 휴대용 기기",
+    "PC 및 노트북 (케이블 분리 사용 시 데이터통신 및 충전)"
+  ],
+  "package_contents": [
+    "차량용 USB 미니충전기 (시거잭용) 1개",
+    "USB Micro B 충전/통신케이블 1M 1개"
+  ],
+  "usage_instructions": "1. 차량 시동(ACC ON) 후 시거잭 위치를 확인한다. 2. 차량용 USB 미니충전기를 시거잭에 끝까지 밀어 넣는다. 3. 연결되면 USB 미니충전기에 빨간불이 점등된다. 4. 충전케이블의 USB 단자를 차량용 USB 미니충전기에 연결한다. 5. 충전케이블의 마이크로 B 단자를 스마트폰에 연결하면 충전이 시작된다. 6. 배터리 충전 완료 후 케이블을 분리한다. [분리 사용] USB 충전/통신케이블은 PC·노트북에 연결하여 충전 및 데이터통신 가능. 차량용 USB 미니충전기는 가정용 USB 충전기와 함께 아이폰·아이패드·아이팟 및 기타 휴대용 기기 충전에 활용 가능.",
+  "cautions": [
+    "스마트폰 모두가 마이크로 B 단자를 사용하지 않으므로 구매 전 단자 모양을 반드시 확인할 것",
+    "제품을 임의로 분해할 경우 교환 및 환급이 불가함"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "USB-Micro"
+      ],
+      "output_signals": [
+        "USB-A",
+        "USB-Micro"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        1
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "USB A타입",
+      "connector_type_b": "Micro B 5핀",
+      "gender": "M-M",
+      "pin_count": 5
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A타입 - Micro B 5핀",
+    "connectivity.output_signals": "USB A타입 - Micro B 5핀",
+    "connectivity.directional": "충전 및 데이터통신 가능",
+    "power.power_mode": "차량용 USB 미니충전기",
+    "power.charging_support": "스마트폰 쾌속 충전 지원",
+    "form_physical.has_case": "차량용 USB 미니충전기",
+    "form_physical.length_options_meters": "케이블 길이: 1M",
+    "certification.rohs": "RoHS Compliant",
+    "certification.fcc": "FC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.connector_type_a": "USB A타입",
+    "family.connector_type_b": "Micro B 5핀",
+    "family.gender": "USB A타입 - Micro B 5핀",
+    "family.pin_count": "Micro B 5핀"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:35",
+  "feature_schema_version": "1.0.0"
+}

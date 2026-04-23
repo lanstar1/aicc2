@@ -1,0 +1,142 @@
+{
+  "model_no": "LS-IPUAR",
+  "product_name": "LANStar 휴대가 편리한 데이터 전송 & 충전 자동감김 케이블 (CHARGE&SYNC iPod&iPhone&iPad AUTO REEL CABLE)",
+  "category": [
+    "USB케이블",
+    "USB2.0",
+    "커넥터",
+    "자동감김케이블"
+  ],
+  "key_features": [
+    "Apple 공식 인증 제품 (MFi Program 통과 정품)",
+    "자동감김(Auto Reel) 타입으로 휴대 용이",
+    "USB 2.0 지원으로 빠르고 안정적인 데이터 전송 및 충전 가능",
+    "Small Connector 채택으로 범퍼/케이스 완벽 지원",
+    "컴퓨터/노트북, 차량용 시가잭, USB 전원 어댑터 연결 지원",
+    "생산물 책임 보험 가입",
+    "신속한 A/S 1:1 교환 보상",
+    "RoHS 인증 제품 (유해물질 사용 제한 규격 준수)",
+    "랜스타 상표등록 제품 (등록 제 0514743 호)",
+    "케이블 길이 0.8M"
+  ],
+  "specifications": {
+    "케이블 길이": "0.8M",
+    "USB 규격": "USB 2.0",
+    "커넥터 타입": "Small Connector (30핀 Apple 커넥터)",
+    "감김 방식": "자동감김(Auto Reel)",
+    "인증": "Apple MFi 인증, RoHS 인증, 상표등록 제 0514743 호",
+    "Product ID": "102355-0065",
+    "제조/유통사": "라인업시스템㈜ (LANStar 브랜드, 1993년 설립)",
+    "A/S 무상 기간": "구매일로부터 1년"
+  },
+  "compatibility": [
+    "iPod nano 1세대",
+    "iPod nano 2세대 (aluminum)",
+    "iPod nano 3세대 (Video)",
+    "iPod nano 4세대 (Video)",
+    "iPod nano 5세대 (Video)",
+    "iPod nano 5세대 (Video camera)",
+    "iPod nano 6세대",
+    "iPod mini",
+    "iPod (5세대, Video)",
+    "iPod Touch 1세대",
+    "iPod Touch 2세대",
+    "iPod Touch 3세대",
+    "iPod Touch 4세대",
+    "iPod Classic 80GB",
+    "iPod Classic 160GB (2007)",
+    "iPod Classic 120GB",
+    "iPod Classic 160GB (2009)",
+    "iPhone 3G",
+    "iPhone 3GS",
+    "iPhone 4",
+    "iPad",
+    "iPad 2"
+  ],
+  "package_contents": [
+    "자동감김 USB 데이터/충전 케이블 (LS-IPUAR-0.8M) 1개"
+  ],
+  "usage_instructions": "iPod/iPhone/iPad의 커넥터 단자에 케이블 한쪽을 연결하고, 반대쪽 USB 단자를 컴퓨터/노트북, 차량용 시가잭 또는 USB 전원 어댑터에 연결하여 데이터 전송 및 충전에 사용합니다. 사용 시 자동감김 케이블의 양쪽 선을 동시에 당겨서 사용하십시오.",
+  "cautions": [
+    "반드시 양쪽 선을 동시에 당겨서 사용하세요. 한쪽만 당길 시 고장의 원인이 될 수 있습니다.",
+    "구매 전에 호환 가능한 모델인지 호환 리스트를 확인 후 구매하시기 바랍니다.",
+    "저가/비공식 케이블 사용으로 인한 기기 고장·파손에 주의하세요. 본 제품은 Apple 공식 인증 정품입니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-IPUAR-0.8M",
+      "품목코드": "CAB-APP213",
+      "품목명": "애플자동감김 통신케이블, USB A／M-iPod30／M, 0.8M",
+      "variant_suffix": "-0.8M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "내장케이블"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 0.8,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 단자를 컴퓨터/노트북, 차량용 시가잭 또는 USB 전원 어댑터에 연결",
+    "connectivity.output_signals": "케이블 한쪽을 연결",
+    "connectivity.directional": "데이터 전송 및 충전",
+    "power.power_mode": "USB 전원 어댑터 연결 지원",
+    "power.charging_support": "충전 자동감김 케이블",
+    "form_physical.length_meters": "케이블 길이 0.8M",
+    "certification.rohs": "RoHS 인증 제품",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.usb_version": "USB 2.0 지원",
+    "family.charging_only": "데이터 전송 및 충전",
+    "family.data_only": "데이터 전송 및 충전"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:52",
+  "feature_schema_version": "1.0.0"
+}

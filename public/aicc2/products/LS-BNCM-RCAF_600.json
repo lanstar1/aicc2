@@ -1,0 +1,44 @@
+{
+  "model_no": "LS-BNCM-RCAF_600",
+  "product_name": "LAN Star",
+  "category": [
+    "기타"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "usage_instructions": null,
+  "cautions": [],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "BNC"
+      ],
+      "output_signals": [
+        "RCA"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "무전원"
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "니켈도금"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "BNC(M)",
+    "connectivity.output_signals": "RCA(F)",
+    "connectivity.directional": "BNC(M) to RCA(F) 변환젠더",
+    "power.power_mode": "무전원",
+    "form_physical.has_case": "변환젠더",
+    "form_physical.material": "니켈도금"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:33",
+  "feature_schema_version": "1.0.0"
+}

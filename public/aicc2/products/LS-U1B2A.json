@@ -1,0 +1,118 @@
+{
+  "model_no": "LS-U1B2A",
+  "product_name": "LANStar 고급형 USB 수동 선택기 (1:2)",
+  "category": [
+    "USB선택기"
+  ],
+  "key_features": [
+    "1:2 USB 수동 선택기로 하나의 USB 장치를 여러 대의 PC에서 선택하여 사용하거나, 한 대의 PC에서 여러 USB 장치를 선택하여 사용 가능",
+    "수동 선택기 방식으로 별도의 회로나 DATA 처리 기능 없이 By Pass 역할 수행",
+    "양방향 통신 및 역방향 연결 사용 가능",
+    "One-touch 기능으로 동작",
+    "UP-DOWN 방식의 고품질 스위치 사용으로 편리한 조작",
+    "호환성이 뛰어나며 전환 및 선택이 간편하고 반응속도가 빠름",
+    "사용 중 특성을 타거나 장애 없음",
+    "2개 단자에서 동시 출력이 아닌 선택된 포트만 출력",
+    "전시장, 컴퓨터 및 모니터 판매점, 상황실, 회의실 등 다양한 용도로 사용 가능",
+    "공간 및 비용 절감 효과"
+  ],
+  "specifications": {
+    "크기": "약 11.5 × 7.5 × 2.9 cm (최대변 기준)",
+    "포트 구성 (A단자)": "USB A형 / Female × 2",
+    "포트 구성 (B단자)": "USB B형 / Female × 1",
+    "선택 방식": "수동 (Manual), UP-DOWN 스위치",
+    "전환 방식": "One-touch",
+    "통신 방향": "양방향 및 역방향 지원"
+  },
+  "compatibility": [
+    "USB 장치 전반 (프린터, 허브, 디지털 카메라 등)",
+    "Windows PC"
+  ],
+  "package_contents": [],
+  "usage_instructions": "1. 하나의 USB 장치를 여러 PC에서 선택하여 사용하는 방법: USB 장치를 B단자에 연결하고 A, B 포트 중 사용할 PC를 스위치로 선택한다. 2. 하나의 PC에서 여러 USB 장치를 선택하여 사용하는 방법: PC 본체를 A단자에 연결하고 A, B 포트 중 사용할 USB 장치를 스위치로 선택한다.",
+  "cautions": [
+    "노이즈 및 화질 저하를 줄이기 위해 쉴드(Shield) 처리된 USB 케이블 사용을 권장",
+    "2개 단자에서 동시 출력되는 것이 아닌 선택된 포트만 출력됨"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-U1B2A",
+      "품목코드": "USB-선택기002",
+      "품목명": "[LANstar] USB수동선택기 2：1 (60개)[30081]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "USB-B"
+      ],
+      "output_signals": [
+        "USB-A",
+        "USB-B"
+      ],
+      "directional": "양방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "selector_type": "수동",
+      "input_count": 1,
+      "output_count": 2,
+      "interfaces": [
+        "USB"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A형 / Female × 2",
+    "connectivity.output_signals": "USB B형 / Female × 1",
+    "connectivity.directional": "양방향 통신 및 역방향 연결 사용 가능",
+    "connectivity.port_count": "USB A형 / Female × 2",
+    "power.power_mode": "별도의 회로나 DATA 처리 기능 없이 By Pass 역할 수행",
+    "power.charging_support": "별도의 회로나 DATA 처리 기능 없이 By Pass 역할 수행",
+    "form_physical.has_case": "LANStar 고급형 USB 수동 선택기 (1:2)",
+    "control_switching.has_physical_button": "UP-DOWN 방식의 고품질 스위치 사용",
+    "family.selector_type": "USB 수동 선택기",
+    "family.input_count": "1:2 USB 수동 선택기",
+    "family.output_count": "1:2 USB 수동 선택기",
+    "family.interfaces": "USB 수동 선택기"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:24",
+  "feature_schema_version": "1.0.0"
+}

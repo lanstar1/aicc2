@@ -1,0 +1,129 @@
+{
+  "model_no": "LS-DPMF-S",
+  "product_name": "디스플레이포트 케이블 판넬형 (DP Male / DP Female + Screw)",
+  "category": [
+    "DisplayPort",
+    "분배판넬"
+  ],
+  "key_features": [
+    "DP(Male) to DP(Female) 판넬 고정형 연장 케이블",
+    "한쪽 단자가 Screw 타입으로 나사 고정 가능",
+    "4K×2K(3840×2160) UHD @ 60Hz 지원",
+    "3D 및 Full HD 1080p 해상도 지원",
+    "28AWG 규격 케이블로 데이터 전송 시 간섭이 적음",
+    "RoHS 인증 준수 (납·수은·카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "Dolby TrueHD, DTS-HD Master Audio 등 고품질 오디오 지원 명시"
+  ],
+  "specifications": {
+    "단자규격": "DP/M - DP/F",
+    "지원해상도": "4K×2K @ 60Hz (3840×2160)",
+    "AWG": "28AWG",
+    "케이블길이": "0.5M / 1M / 2M",
+    "소비전력 최대": "DC 30V",
+    "작동온도": "섭씨 80도",
+    "색상": "Black",
+    "커넥터타입": "판넬타입 (Pannel Type)",
+    "제조국": "중국 (China)",
+    "모델별 제품코드": "0.5M: LS-DPMF-S0.5M, 1M: LS-DPMF-S1M, 2M: LS-DPMF-S2M",
+    "커넥터 외경(케이블측)": "7.3mm",
+    "판넬 고정부 치수 참고": "36mm × 28mm × 23mm × 54mm × 16mm × 5mm × 11mm (상세 사이즈는 제품 이미지 참조)"
+  },
+  "compatibility": [
+    "DisplayPort 포트가 장착된 PC",
+    "DisplayPort 포트가 장착된 노트북",
+    "DisplayPort 지원 대형 모니터 및 디스플레이 장치",
+    "4K UHD(Ultra High Definition) 디스플레이",
+    "Full HD 1080p 디스플레이",
+    "HD 720p 디스플레이",
+    "1440P 디스플레이",
+    "Blu-ray Disc 재생 기기 (오디오 포맷 호환)"
+  ],
+  "package_contents": [
+    "DP 케이블 본체 1개",
+    "나사 2개",
+    "커넥터 마개 1개"
+  ],
+  "usage_instructions": "디스플레이 포트 분리 방법: 화살표 방향으로 버튼(고정핀)을 누르면 고정핀이 내려가며 케이블을 쉽게 분리할 수 있습니다. 설치 전 설치 장소와 제품 치수가 맞는지 상세 사이즈를 반드시 확인하고 구매하시기 바랍니다.",
+  "cautions": [
+    "설치할 곳과 제품이 맞는지 상세 사이즈를 확인하고 구매하시기 바랍니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DisplayPort"
+      ],
+      "output_signals": [
+        "DisplayPort"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1.0,
+        2.0
+      ],
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": null,
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DP(Male) to DP(Female)",
+    "connectivity.output_signals": "DP(Male) to DP(Female)",
+    "connectivity.directional": "DP(Male) to DP(Female)",
+    "form_physical.length_options_meters": "0.5M / 1M / 2M",
+    "form_physical.color_options": "Black",
+    "certification.rohs": "RoHS 인증 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "4K×2K(3840×2160) UHD @ 60Hz 지원",
+    "audio_video.audio_pass": "Dolby TrueHD, DTS-HD Master Audio 등 고품질 오디오 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:42",
+  "feature_schema_version": "1.0.0"
+}

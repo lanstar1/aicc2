@@ -1,0 +1,148 @@
+{
+  "model_no": "LSP-GIC-FED4",
+  "product_name": "CAT.6A/CAT.7 STP Inline 커플러 박스 (8P8C RJ45 IDC 블록타입)",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "랜케이블-FTP",
+    "랜케이블-STP",
+    "커플러",
+    "UTP포트"
+  ],
+  "key_features": [
+    "CAT.6A / CAT.7 STP(FTP) 규격 지원",
+    "10/100/1000/10000Mbps 전송속도 지원",
+    "568A(Cross)와 568B(Direct) 배열 모두 가능",
+    "손상된 케이블을 잘라 커플러 박스 모듈에 끼워 사용 가능",
+    "기존 케이블 연장 가능",
+    "RJ45 8P8C IDC 블록타입",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "생산물배상책임보험 1억원 가입 (현대해상화재보험)"
+  ],
+  "specifications": {
+    "모델명": "LSP-GIC-FED4",
+    "품명": "CAT.6A/CAT.7 STP Inline 커플러 박스",
+    "커넥터 타입": "RJ45 8P8C STP(FTP)",
+    "전송속도": "10/100/1000/10000Mbps",
+    "크기(WxDxH)": "84x37x23mm",
+    "인증번호": "MSIP-RTI-LUS-LS-CAT7",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "배선 배열": "568A(Cross), 568B(Direct)"
+  },
+  "compatibility": [
+    "CAT.6A STP/FTP 케이블",
+    "CAT.7 STP/FTP 케이블",
+    "RJ45 8P8C 규격",
+    "펀치툴 LS-HT-314B 사용 권장"
+  ],
+  "package_contents": [
+    "커플러 박스 본체",
+    "고정클립",
+    "나사",
+    "양면테이프"
+  ],
+  "usage_instructions": "1. 피복을 벗긴 랜 케이블의 선들을 커플러 박스 안 모듈 홈에 A 혹은 B 배열대로 끼워준다. 2. 펀치툴(LS-HT-314B)로 랜선을 홈 깊숙이 끼워준다. 3. 커플러 박스 밖으로 나와 있는 랜선들을 잘라준다. 4. 커플러 박스 뚜껑을 씌우면 완성.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "구매/배송/반품 관련 문의는 판매처(쇼핑몰 하단 참조)로 문의하세요.",
+    "AS 및 소비자 상담은 라인업시스템(주)으로 문의하세요."
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-GIC-FED4",
+      "품목코드": "NEO-커플러062",
+      "품목명": "[◆Lanstar-Plus] STP CAT.6A Inline커플러 Block BOX, , Black [40555]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-GIC-FED4",
+      "내용": "빠른배송으로 잘 사용했습니다"
+    },
+    {
+      "source_model": "LSP-GIC-FED4",
+      "내용": "내구성 좋아 보여요 테스트 해볼게요 잘 끄겠습니다"
+    },
+    {
+      "source_model": "LSP-GIC-FED4",
+      "내용": "항상 잘 사용 하고 있습니다. ~잘 받았습니다. 배송 서비스 만족합니다. 재 구매 의사 있습니다"
+    },
+    {
+      "source_model": "LSP-GIC-FED4",
+      "내용": "좋은제품 저렴하고 좋아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "STP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 8P8C IDC 블록타입",
+    "connectivity.output_signals": "RJ45 8P8C IDC 블록타입",
+    "connectivity.directional": "손상된 케이블을 잘라 커플러 박스 모듈에 끼워 사용 가능",
+    "connectivity.port_count": "커플러 박스 모듈에 끼워 사용 가능",
+    "form_physical.has_case": "커플러 박스 뚜껑을 씌우면 완성",
+    "certification.kc": "MSIP-RTI-LUS-LS-CAT7",
+    "certification.rohs": "RoHS 규정 준수",
+    "family.cat_category": "CAT.6A / CAT.7 STP(FTP) 규격 지원",
+    "family.shielding": "STP(FTP) 규격 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:45",
+  "feature_schema_version": "1.0.0"
+}

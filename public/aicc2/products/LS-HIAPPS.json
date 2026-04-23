@@ -1,0 +1,137 @@
+{
+  "model_no": "LS-HIAPPS",
+  "product_name": "LANStar 고속충전 데이터 애플 아이폰 케이블 USB A/M-8Pin/M 1M",
+  "category": [
+    "아이폰케이블"
+  ],
+  "key_features": [
+    "패브릭 소재를 땋아서 만든 케이블로 줄꼬임 없고 유연하여 단선 위험 감소",
+    "콘넥터와 케이블 이음 부분에 완충장치를 추가한 단선방지 설계",
+    "일반 케이블 대비 2배 빠른 충전속도 지원 (충전기 성능에 따라 상이)",
+    "5V 2A 전원 어댑터 기준 아이폰 6 연결 시 측정 전류값 0.97A (오차범위 ±0.05)",
+    "2mm 단차 콘넥터 적용으로 두꺼운 폰 케이스와도 결합 가능 (골드메탈 모델 해당)",
+    "고급 알루미늄 콘넥터로 내구성 강화",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "RoHS, FCC, CE, ISO 9001:2008 인증"
+  ],
+  "specifications": {
+    "커넥터": "라이트닝 8핀(애플 아이폰) / USB A Male",
+    "최대 전류": "2.1A",
+    "기능": "충전 및 데이터전송",
+    "케이블 길이": "1M (1000mm)",
+    "색상": "골드메탈 (LS-HIAPPG-1M), 실버메탈 (LS-HIAPPS-1M)",
+    "케이블 소재": "패브릭(브레이드)",
+    "콘넥터 소재": "알루미늄",
+    "콘넥터 단차": "2mm 단차 (골드메탈 모델), 단차 없는 일반형 (실버메탈 모델)",
+    "USB A Male 크기": "11.1mm x 6.6mm (단면 기준)",
+    "8Pin Male 크기": "3.5mm x 7.2mm x 11mm (단면 기준)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증": "RoHS COMPLIANT, FCC, CE, ISO 9001:2008"
+  },
+  "compatibility": [
+    "애플 아이폰 (라이트닝 8핀 단자 지원 기기)",
+    "USB A 타입 전원 어댑터 및 PC"
+  ],
+  "package_contents": [
+    "고속충전 데이터 애플 아이폰 케이블 1M (색상 선택: 골드메탈 또는 실버메탈)"
+  ],
+  "usage_instructions": "USB A 단자를 전원 어댑터 또는 PC에 연결하고, 8핀 단자를 아이폰에 연결하여 충전 및 데이터 전송에 사용. 5V 2A 이상 지원 어댑터 사용 시 고속충전 효과를 기대할 수 있음.",
+  "cautions": [
+    "충전기의 성능에 따라 충전 속도는 달라질 수 있음",
+    "메탈실버(LS-HIAPPS-1M) 색상은 단차가 없는 일반형 콘넥터이므로 두꺼운 케이스와의 결합 여부를 사전 확인 필요",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익이 발생할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 (AS 소비자상담: 070-7018-3386)"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HIAPPS-1M",
+      "품목코드": "CAB-모바일025",
+      "품목명": "[LANstar] 고속충전 데이터 애플8핀/아이폰 , Silver cable-실버메탈 A/M-라이트닝 1M[10854]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Lightning"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "알루미늄",
+        "패브릭"
+      ],
+      "length_meters": 1.0,
+      "length_options_meters": null,
+      "color_options": [
+        "골드메탈",
+        "실버메탈"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A/M-8Pin/M",
+    "connectivity.output_signals": "8Pin/M",
+    "connectivity.directional": "충전 및 데이터전송",
+    "power.power_mode": "USB A 단자를 전원 어댑터 또는 PC에 연결",
+    "power.charging_support": "고속충전 데이터",
+    "form_physical.material": "패브릭 소재를 땋아서 만든 케이블",
+    "form_physical.length_meters": "케이블 길이: 1M",
+    "form_physical.color_options": "색상: 골드메탈 (LS-HIAPPG-1M), 실버메탈",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.hdmi_version": "N/A",
+    "family.dp_version": "N/A",
+    "family.dvi_type": "N/A",
+    "family.optical_core": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:39",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,164 @@
+{
+  "model_no": "LS-USB3.0-FFS0.2M",
+  "product_name": "USB 3.0 케이블 판넬형 (USB A Female - USB A Female with Screw)",
+  "category": [
+    "USB케이블",
+    "USB3.0",
+    "USB2.0",
+    "커넥터",
+    "분배판넬"
+  ],
+  "key_features": [
+    "양쪽 모두 USB A타입 암(Female) 커넥터 구성의 연장 케이블",
+    "한쪽 단자가 Screw 타입으로 나사 고정 가능한 판넬 마운트 지원",
+    "USB 3.0 규격 지원, 최대 5Gbps 전송속도 (USB 2.0 대비 약 10배)",
+    "28AWG 규격 케이블 사용으로 데이터 전송 시 간섭 최소화",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "단자규격": "USB A/F - USB A/F",
+    "전송속도": "5Gbps",
+    "AWG": "28AWG",
+    "케이블길이": "0.2M (200mm)",
+    "소비전력 최대": "DC 30V",
+    "작동온도": "0~80°C",
+    "색상": "Black",
+    "타입": "판넬형 (Panel Type)",
+    "고정방식": "Screw 타입 나사 고정",
+    "제조국": "중국 (China)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "USB 3.0 (SuperSpeed, 5Gbps)",
+    "USB 2.0 (Hi-Speed, 480Mbps) 하위 호환",
+    "USB 1.1 하위 호환"
+  ],
+  "package_contents": [
+    "USB 3.0 케이블 (판넬형) 1개",
+    "나사 2개"
+  ],
+  "usage_instructions": "Screw 타입 단자를 판넬에 삽입한 후 동봉된 나사 2개로 고정하여 설치. 양쪽 USB A Female 단자에 USB A Male 커넥터를 연결하여 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익이 발생할 수 있음",
+    "작동온도 범위(0~80°C) 외에서 사용 금지",
+    "소비전력 최대 DC 30V 초과 사용 금지"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB3.0-FFS0.2M",
+      "품목코드": "CAB-U연장085",
+      "품목명": "[LANstar] USB3.0 판넬형 연장 케이블 연장 A/F-A/FScrew, Black, 0.2M [10944](200개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-USB3.0-FFS0.2M",
+      "내용": "빠르게 잘 받았습니다."
+    },
+    {
+      "source_model": "LS-USB3.0-FFS0.2M",
+      "내용": "늘 구매하는 제품입니다."
+    },
+    {
+      "source_model": "LS-USB3.0-FFS0.2M",
+      "내용": "늘 사용하는 케이블입니다."
+    },
+    {
+      "source_model": "LS-USB3.0-FFS0.2M",
+      "내용": "매번 주문하는 제품입니다."
+    },
+    {
+      "source_model": "LS-USB3.0-FFS0.2M",
+      "내용": "늘 구매하는 제품입니다."
+    },
+    {
+      "source_model": "LS-USB3.0-FFS0.2M",
+      "내용": "잘 쓰고 있습니다.",
+      "관련내용": "늘 주문하는 제품입니다."
+    },
+    {
+      "source_model": "LS-USB3.0-FFS0.2M",
+      "내용": "늘 구매하는 케이블 입니다."
+    },
+    {
+      "source_model": "LS-USB3.0-FFS0.2M",
+      "내용": "늘 주문하는 제품입니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A타입 암(Female) 커넥터",
+    "connectivity.output_signals": "USB A타입 암(Female) 커넥터",
+    "connectivity.directional": "연장 케이블",
+    "power.power_mode": "DC 30V",
+    "form_physical.length_meters": "0.2M (200mm)",
+    "form_physical.color_options": "Black",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.kc": "인증번호: 해당없음",
+    "family.usb_version": "USB 3.0 규격 지원",
+    "family.transfer_speed_gbps": "최대 5Gbps 전송속도",
+    "family.charging_only": "데이터 전송 시 간섭 최소화",
+    "family.data_only": "데이터 전송 시 간섭 최소화"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:44",
+  "feature_schema_version": "1.0.0"
+}

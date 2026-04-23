@@ -1,0 +1,166 @@
+{
+  "model_no": "LS-C6G-UTPDS-0.5M",
+  "product_name": "LANstar CAT.6 UTP 다이렉트 랜케이블",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "랜케이블"
+  ],
+  "key_features": [
+    "CAT.6 규격, 최대 1Gbps(1,000Mbps) 전송속도 지원",
+    "250MHz 대역폭 (CAT.5 대비 2.5배)",
+    "TIA/EIA-568 규정 규격 준수",
+    "십자형 차단막(개재) 적용으로 케이블 간 간섭 최소화 및 전송속도 향상",
+    "UTP(Unshielded Twisted Pair) 꼬임 방식으로 노이즈 방지",
+    "연선(Stranded) 구조 — 단선 대비 유연하여 설치 용이, 잡음·감쇄 현저히 적음",
+    "50μ 금도금 커넥터 적용으로 산화 방지 및 신호손실 최소화",
+    "FLUKE DTX-1800 테스트 통과 (반사손실·삽입손실·NEXT·PS NEXT·ACR-F·PS ACR-F 전 항목 PASS)",
+    "RoHS 규정 준수 (수은·카드뮴 등 중금속 미사용)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "다이렉트 케이블 핀배열(568B-568B) 적용",
+    "그레이·옐로우·블루·레드 4가지 색상으로 용도 구별 가능",
+    "0.5M Solid 타입(단선), 1M 이상 Stranded 타입(연선) 구성"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.6",
+    "케이블 타입": "UTP (Unshielded Twisted Pair)",
+    "전송방식": "다이렉트 (Direct)",
+    "최대 전송속도": "1Gbps (1,000Mbps)",
+    "대역폭": "250MHz",
+    "지원 전송속도": "10Mbps / 100Mbps / 1,000Mbps",
+    "도체 구조": "0.5M: Solid(단선), 1M 이상: Stranded(연선)",
+    "도체 규격": "24AWG",
+    "커넥터": "8P8C RJ45, 금도금(50μ)",
+    "핀배열": "568B-568B (다이렉트)",
+    "피복 재질": "PVC / LSZH",
+    "절연 재질": "PE",
+    "색상": "그레이(Grey), 옐로우(Yellow), 블루(Blue), 레드(Red)",
+    "길이 (그레이)": "0.5M, 1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M, 50M",
+    "길이 (옐로우)": "2M, 3M, 5M, 10M",
+    "길이 (블루)": "2M, 3M, 5M, 10M",
+    "길이 (레드)": "2M, 3M, 5M, 10M",
+    "제품 전체 길이 범위": "500mm ~ 50,000mm",
+    "커넥터 폭": "11.6mm",
+    "커넥터 높이": "6.4mm",
+    "케이블 외경": "5.5mm (추정 — 도면 수치)",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "규격 인증": "TIA/EIA-568, RoHS Compliant, ISO 9001:2008, FLUKE TEST PASS",
+    "보험": "현대해상화재 생산물배상책임보험 1억원",
+    "AS 연락처": "070-7018-3386"
+  },
+  "compatibility": [
+    "CAT.6 표준 8P8C RJ45 포트를 갖춘 네트워크 스위치, 허브",
+    "CAT.6 표준 8P8C RJ45 포트를 갖춘 유선 공유기(라우터)",
+    "CAT.6 표준 8P8C RJ45 포트를 갖춘 PC, 노트북, NAS, 서버",
+    "10Mbps / 100Mbps / 1,000Mbps(1Gbps) 이더넷 환경",
+    "CAT.5 / CAT.5E 포트와도 하위 호환(해당 규격 속도로 동작)",
+    "TIA/EIA-568 규격 준수 네트워크 장비"
+  ],
+  "package_contents": [
+    "CAT.6 UTP 다이렉트 랜케이블 1개"
+  ],
+  "usage_instructions": "1. 케이블 양 끝 RJ45 커넥터를 네트워크 장비(PC, 공유기, 스위치 등)의 RJ45 포트에 꽂는다. 2. 다이렉트 케이블이므로 568B-568B 핀배열로 제작되어 있으며, PC↔스위치/공유기 연결에 사용한다(PC↔PC 직접 연결 시에는 크로스 케이블 사용). 3. 연선(Stranded) 구조이므로 구부리거나 배선하기 용이하다. 4. 색상별로 용도를 구분하여 사용하면 케이블 관리가 편리하다.",
+  "cautions": [
+    "본 제품은 다이렉트(Direct) 케이블로, PC와 PC를 직접 연결하는 크로스(Cross) 용도로는 사용할 수 없음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "0.5M 및 1M 그레이 모델은 Solid(단선) 타입이므로 반복적인 굽힘·이동 환경에는 부적합할 수 있음",
+    "라인업시스템(주)의 동의 없이 제품 콘텐츠를 무단 복제·이용 시 불이익이 발생할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC",
+        "PE",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1,
+        2,
+        3,
+        5,
+        7,
+        10,
+        15,
+        20,
+        30,
+        50
+      ],
+      "color_options": [
+        "그레이",
+        "옐로우",
+        "블루",
+        "레드"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": "하이브리드",
+      "awg": 24,
+      "pair_count": null,
+      "flame_rating": "하이브리드",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 커넥터를 네트워크 장비",
+    "connectivity.output_signals": "RJ45 포트에 꽂는다",
+    "connectivity.directional": "PC↔스위치/공유기 연결에 사용",
+    "form_physical.material": "피복 재질: PVC / LSZH",
+    "form_physical.length_options_meters": "길이 (그레이): 0.5M, 1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M, 50M",
+    "form_physical.color_options": "그레이·옐로우·블루·레드 4가지 색상",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.cat_category": "CAT.6 규격",
+    "family.shielding": "UTP(Unshielded Twisted Pair)",
+    "family.conductor": "0.5M Solid 타입(단선), 1M 이상 Stranded 타입(연선)",
+    "family.awg": "도체 규격: 24AWG",
+    "family.flame_rating": "피복 재질: PVC / LSZH"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:58",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,150 @@
+{
+  "model_no": "LS-PCIE-RAID",
+  "product_name": "PCI-Express 2.5\" SSD/HDD SATA 3.0 2Port Card",
+  "category": [
+    "HDD관련",
+    "시리얼카드"
+  ],
+  "key_features": [
+    "PCI-Express 슬롯을 통해 2.5\" SSD/HDD 2개 동시 장착 가능",
+    "Marvell 88SE9230 칩셋 사용으로 호환성과 안정성 극대화",
+    "PCI-Express X4 V2.0 규격 사용 (x4 / x8 / x16 슬롯 장착 가능)",
+    "Serial ATA III(SATA 3.0) 지원, 최대 6Gbps 전송속도",
+    "NCQ(Native Command Queue) 지원으로 하드디스크 성능 최적화",
+    "Hot Plug & Hot Swap 지원",
+    "RAID 기능 지원: RAID0, RAID1, HyperDuo",
+    "별도 설치 과정 없이 장착 후 바로 사용 가능",
+    "Windows 11 지원",
+    "KC 인증 획득 제품 (인증번호: R-R-LUS-LS-PCIE-RAID)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "버스 슬롯": "PCI-Express X4 V2.0 / Serial ATA Specification 3.1",
+    "칩셋": "Marvell 88SE9230",
+    "인터페이스": "2 × 2.5\" SSD/HDD 인터페이스",
+    "기능": "RAID: RAID0, RAID1, HyperDuo / NCQ(Native Command Queue) / Hot Plug / Hot Swap",
+    "지원 O.S": "Windows XP / Vista / 7 / 8 / Server 2003 / Server 2008 R2 / 10 / 11, Linux 2.6.x and above",
+    "SATA 전송속도": "최대 6Gbps (SATA III), 하위 버전 호환 (SATA I 1.5Gbps, SATA II 3Gbps)",
+    "무게": "약 148g",
+    "제품 크기": "120mm × 167mm × 18mm (가로 × 세로 × 높이, 108mm 포함 치수 병기)",
+    "KC 인증번호": "R-R-LUS-LS-PCIE-RAID",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "PCI-Express x4 슬롯",
+    "PCI-Express x8 슬롯",
+    "PCI-Express x16 슬롯",
+    "2.5\" SSD/HDD (SATA 인터페이스)",
+    "SATA I (1.5Gbps)",
+    "SATA II (3Gbps)",
+    "SATA III (6Gbps)",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8",
+    "Windows 10",
+    "Windows 11",
+    "Windows Server 2003",
+    "Windows Server 2008 R2",
+    "Linux 2.6.x and above"
+  ],
+  "package_contents": [
+    "LS-PCIE-RAID 본체 1ea",
+    "고정나사 8ea",
+    "드라이버 설치 CD 1ea"
+  ],
+  "usage_instructions": "1. 2.5\" SSD/HDD를 제품 슬롯에 맞춰 밀어 넣어 결합한다. 2. 결합한 제품을 뒤집어 하드 결합부에 나사를 조여 고정한다. 3. 결합한 제품을 메인보드의 PCI-Express 슬롯에 연결한다. 4. 장치관리자를 통해 제품이 정상 인식되었는지 확인한다. 5. 볼륨이 생성되어 있지 않은 경우, 내 컴퓨터 > 관리 > 디스크 관리로 이동하여 할당되지 않은 디스크를 우클릭 후 '새 단순 볼륨'을 선택하고 마법사에 따라 볼륨을 생성한다. 두 개의 디스크 모두 동일하게 진행한다.",
+  "cautions": [
+    "본 제품은 보조 하드 용도이며, OS 부팅 용도로는 사용이 어렵습니다.",
+    "최대 SATA III 속도(6Gbps)를 이용하려면 메인보드 및 SSD/HDD 역시 SATA III 인터페이스를 지원해야 합니다.",
+    "x1 PCI-Express 슬롯에는 장착이 불가합니다.",
+    "제조사의 사정에 따라 제품의 색상, 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-RAID",
+      "품목코드": "USB-PCI261",
+      "품목명": "[LANstar] PCIe 2.5 SSD/HDD SATA3.0 카드, 2포트 [30500] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-PCIE-RAID",
+      "id": 227042235,
+      "date": "2022-07-05 19:40",
+      "answerDate": "2022-07-06 08:57",
+      "user": "le****",
+      "productName": "랜스타 LS-PCIE-RAID PCI-E 2.5 SSD/HDD 2포트 SATA3.0 카드",
+      "question": "윈도우10이나 윈도우11에도 작동할까요?",
+      "answer": "안녕하세요 랜스타입니다.\n\n윈도우 10에서는 정상 작동하나, 윈도우 11에서는 드라이버가 별도로 필요하지 않은 제품으로 정상적으로 작동할 것으로 예상되지만, 호환성 여부를 체크해봐야 합니다.\n\n감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "PCI-Express"
+      ],
+      "output_signals": [
+        "SATA"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "storage_interface": "SATA",
+      "drive_size": "2.5\""
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "PCI-Express 슬롯을 통해",
+    "connectivity.output_signals": "Serial ATA III(SATA 3.0) 지원",
+    "connectivity.directional": "Serial ATA III(SATA 3.0) 지원",
+    "connectivity.port_count": "2Port Card",
+    "power.power_mode": "PCI-Express 슬롯을 통해",
+    "certification.kc": "KC 인증 획득 제품",
+    "family.storage_interface": "Serial ATA III(SATA 3.0) 지원",
+    "family.drive_size": "2.5\" SSD/HDD"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:12",
+  "feature_schema_version": "1.0.0"
+}

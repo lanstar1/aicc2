@@ -1,0 +1,222 @@
+{
+  "model_no": "LS-NV31N",
+  "product_name": "LANStar NVMe M.2 외장 SSD 케이스 (M.2 SSD Enclosure)",
+  "category": [
+    "랜케이블-CAT6A",
+    "USB케이블",
+    "USB-C",
+    "HDD관련"
+  ],
+  "key_features": [
+    "USB 3.1 Type-C 인터페이스, 최대 10Gbps 데이터 전송 속도 지원",
+    "M.2 NVMe 'M' Key 타입 SSD 전용 케이스",
+    "2230 / 2242 / 2260 / 2280 네 가지 SSD 크기 모두 장착 가능",
+    "케이블 일체형 구조(케이블 길이 약 9cm)로 휴대성 우수",
+    "Plug & Play 방식 지원, 별도 전원 불필요",
+    "동작 표시 LED 내장으로 연결 상태 육안 확인 가능",
+    "UASP 및 TRIM 지원",
+    "알루미늄 재질 슬림 디자인",
+    "Windows / Mac OS / Linux 운영체제 호환",
+    "국립전파연구원 KC 인증 취득, 현대해상화재 생산물배상책임보험(1억원) 가입"
+  ],
+  "specifications": {
+    "입력 인터페이스": "USB 3.1 Type-C",
+    "최대 전송 속도": "10Gbps (USB 2.0 / 1.1 하위 호환 지원)",
+    "지원 SSD 규격": "M.2 NVMe (M Key)",
+    "지원 SSD 크기": "2230 / 2242 / 2260 / 2280",
+    "UASP 지원": "지원",
+    "TRIM 지원": "지원",
+    "지원 OS": "Windows / Mac OS / Linux",
+    "크기": "115 x 40 x 16 mm",
+    "케이블 길이": "약 9cm",
+    "무게": "약 48g (케이블 포함)",
+    "재질": "알루미늄",
+    "KC 인증번호": "R-REI-LUS-LS-M2SATA-CASE",
+    "제조국": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "M.2 NVMe SSD 'M' Key 타입 (2230 / 2242 / 2260 / 2280)",
+    "USB 3.1 Type-C 포트 탑재 기기",
+    "USB 3.0 포트 탑재 기기 (하위 호환)",
+    "USB 2.0 / 1.1 포트 탑재 기기 (하위 호환)",
+    "Windows OS",
+    "Mac OS",
+    "Linux OS"
+  ],
+  "package_contents": [
+    "M.2 NVMe SSD 외장 케이스 (LS-NV31N) 본체",
+    "Manual (사용 설명서)"
+  ],
+  "usage_instructions": "1. NVMe M.2 SSD와 LS-NV31N을 준비한다. 2. 제품 아래쪽 화살표 방향으로 밀어 SSD 결합부를 분리한다. 3. 'M' Key 타입 NVMe M.2 SSD를 결합부에 연결한다. 4. SSD 끝과 홈을 고정용 고무로 고정한다. 5. SSD가 연결된 결합부를 본체에 다시 결합한다. 6. USB 3.1 Type-C 포트에 연결하면 사용 완료. ※ 처음 사용 시 새 하드디스크 볼륨 설정 필요: 바탕화면 > 내 컴퓨터 우클릭 > 관리 > 디스크 관리 > 할당되지 않은 디스크 우클릭 > 새 단순 볼륨 선택 > 볼륨 만들기 마법사 진행 후 사용.",
+  "cautions": [
+    "M.2 mSATA SSD와 M.2 NVMe SSD는 서로 다른 슬롯을 사용하는 다른 방식의 SSD이므로, 구매 전 소유한 SSD의 형태를 반드시 확인할 것.",
+    "본 제품은 M.2 NVMe 'M' Key 타입 규격만 지원하며, 'B' Key 및 'B+M' Key 타입은 지원하지 않음.",
+    "M.2 mSATA 방식 외장 케이스가 필요한 경우 랜마트 홈페이지에서 상품번호 '60093' (LS-M2SATA-CASE) 검색 후 구매.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음.",
+    "본 제품 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있음.",
+    "AS 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-NV31N",
+      "품목코드": "COM-외장형567",
+      "품목명": "[LANstar] NVMe M.2 외장 SSD케이스 [30441] (186개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-NV31N",
+      "내용": "성능도 좋고 작지만 좋아요",
+      "관련내용": "가성비가 좋은 제품입니다."
+    },
+    {
+      "source_model": "LS-NV31N",
+      "내용": "잘 받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-NV31N",
+      "내용": "심플하고 사용하기 편합니다."
+    },
+    {
+      "source_model": "LS-NV31N",
+      "내용": "참좋습니다 성능우수하고 작동 잘되네요"
+    },
+    {
+      "source_model": "LS-NV31N",
+      "내용": "잘 사용하고 있습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-NV31N",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-NV31N",
+      "내용": "설치쉽고 인식잘되고 좋습니다. 노는 SSD 장착해서 외장으로 쓰기좋네요. 감사합니다."
+    },
+    {
+      "source_model": "LS-NV31N",
+      "내용": "가성비가 좋은 제품입니다."
+    },
+    {
+      "source_model": "LS-NV31N",
+      "내용": "배송 빠르고 휴대하기 편안하네요. 무엇보다 연결 선이 붙어있어 따로 챙길 필요가 없네요. 다만 저 연결선이 끊어지면 어찌해야할지...가 조금 걱정이긴 하나.. 여튼 만족 합니다."
+    },
+    {
+      "source_model": "LS-NV31N",
+      "내용": "남는 ssd 외장하드로 간편하게 쓸 수 있어서 좋아요~~^^"
+    },
+    {
+      "source_model": "LS-NV31N",
+      "내용": "깔끔합니다..다만 단가를 좀더 올리더라도 좀더 고급지면 좋을듯합니다."
+    },
+    {
+      "source_model": "LS-NV31N",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-NV31N",
+      "내용": "배송이 매우 빠릅니다"
+    },
+    {
+      "source_model": "LS-NV31N",
+      "내용": "배송이 좀 늦은거 빼고는 제품은 좋아요",
+      "관련내용": "견고하고 다자인도 좋아요"
+    },
+    {
+      "source_model": "LS-NV31N",
+      "내용": "견고하고 다자인도 좋아요"
+    },
+    {
+      "source_model": "LS-NV31N",
+      "내용": "크기도 작고 &hellip; 스스드가 나가서 제대로 쓰진 못 했디만 언잰간 쓰겟됴 ㅜㅜ"
+    },
+    {
+      "source_model": "LS-NV31N",
+      "내용": "깔끔한 디자인 너무 마음에 드네요~"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-NV31N",
+      "id": 207855712,
+      "date": "2022-02-24 16:21",
+      "answerDate": "2022-02-25 10:20",
+      "user": "reen******",
+      "productName": "랜스타 LS-NV31N USB3.1 C타입 M.2 NVMe 외장 SSD케이스 케이블일체형",
+      "question": "Xpg by adata 모델인데 외장하드 케이스\n추천좀 해주셔요 \nM.2 2280 sx6000np 256gb 입니다",
+      "answer": "안녕하세요 랜스타 입니다.\n\n해당 케이스는 m2 NVMe 타입이기 때문에 사용하시는 모델이 NVMe를 지원하면 사용 가능합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-C"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 Type-C 인터페이스",
+    "connectivity.output_signals": "USB 3.1 Type-C 포트에 연결하면",
+    "connectivity.directional": "USB 3.1 Type-C 인터페이스",
+    "power.power_mode": "별도 전원 불필요",
+    "form_physical.has_case": "외장 SSD 케이스",
+    "form_physical.material": "알루미늄 재질 슬림 디자인",
+    "certification.kc": "KC 인증 취득"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:19",
+  "feature_schema_version": "1.0.0"
+}

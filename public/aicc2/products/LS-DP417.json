@@ -1,0 +1,137 @@
+{
+  "model_no": "LS-DP417",
+  "product_name": "LANStar DisplayPort 더미플러그 (가상 디스플레이 에뮬레이터)",
+  "category": [
+    "DisplayPort",
+    "커넥터"
+  ],
+  "key_features": [
+    "모니터 없이 모니터가 연결된 것처럼 PC에 인식시키는 가상 DisplayPort 에뮬레이터",
+    "원격 데스크톱 및 가상화폐 채굴용 GPU(그래픽카드) 완벽 지원",
+    "DisplayPort 1.2 규격 지원, 최대 4K@17Hz(3840x2160) UHD 해상도 출력 가능",
+    "800x600부터 3840x2160(4K UHD)까지 다양한 해상도 지원",
+    "Windows, Linux, Mac OS 등 다양한 운영체제 지원",
+    "별도 전원 불필요(무전원) 및 Plug&Play 지원 — 소프트웨어 설치 없이 즉시 사용 가능",
+    "컴팩트한 사이즈로 좁은 공간에서도 손쉽게 사용 가능",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "모델명": "LS-DP417",
+    "지원 규격": "DisplayPort 1.2",
+    "최대 해상도": "3840x2160 (4K UHD) @ 17Hz",
+    "지원 해상도 범위": "800x600 ~ 3840x2160 (4K UHD)",
+    "전원 방식": "무전원 (별도 전원 불필요)",
+    "설치 방식": "Plug&Play (소프트웨어 설치 불필요)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "해당없음",
+    "크기(외형 참고치)": "33.5mm x 22.5mm x 16.5mm (주요 치수 기준)",
+    "보험": "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "DisplayPort 1.2 포트를 갖춘 PC/데스크톱",
+    "원격 데스크톱 환경",
+    "가상화폐 채굴용 GPU(그래픽카드)",
+    "맥 미니(Mac mini)",
+    "Windows 운영체제",
+    "Linux 운영체제",
+    "Mac OS 운영체제"
+  ],
+  "package_contents": [
+    "DisplayPort 더미플러그 (LS-DP417) 본체"
+  ],
+  "usage_instructions": "PC 또는 그래픽카드의 DisplayPort 포트에 더미플러그를 꽂으면 별도의 소프트웨어 설치나 전원 연결 없이 즉시 가상 모니터로 인식됩니다. 원격 데스크톱 접속 또는 채굴기 운용 시 모니터 없이도 정상적으로 GPU가 동작합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단 참조)로 문의하세요."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DP417",
+      "품목코드": "CAB-젠DP258",
+      "품목명": "[LANstar] DisplayPort 더미 플러그 4K 17Hz [30459] (300개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DP417",
+      "내용": "랜스타 디스플레이포트 가상 GPU 더미 플러그 잘동작합니다."
+    },
+    {
+      "source_model": "LS-DP417",
+      "내용": "별도의 설치 없이 바로 되어 매우 좋다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DisplayPort"
+      ],
+      "output_signals": [
+        "N/A"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "DP1.2",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DisplayPort 포트에 더미플러그를 꽂으면",
+    "connectivity.output_signals": "가상 DisplayPort 에뮬레이터",
+    "connectivity.directional": "가상 DisplayPort 에뮬레이터",
+    "power.power_mode": "별도 전원 불필요(무전원)",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "더미플러그",
+    "audio_video.max_resolution": "최대 4K@17Hz(3840x2160) UHD 해상도",
+    "audio_video.hdcp_version": "가상 디스플레이 에뮬레이터",
+    "audio_video.audio_pass": "가상 디스플레이 에뮬레이터",
+    "family.dp_version": "DisplayPort 1.2 규격 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:42",
+  "feature_schema_version": "1.0.0"
+}

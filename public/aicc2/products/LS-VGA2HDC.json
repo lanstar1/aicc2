@@ -1,0 +1,134 @@
+{
+  "model_no": "LS-VGA2HDC",
+  "product_name": "VGA + Audio to HDMI 컨버터",
+  "category": [
+    "VGA",
+    "컨버터"
+  ],
+  "key_features": [
+    "VGA 신호를 HDMI 신호로 변환",
+    "오디오 출력 지원 (VGA + Audio to HDMI)",
+    "Full HD 1080p 고해상도 지원",
+    "USB 포트를 통한 전원 공급 및 음성 송출 (별도 전원 어댑터 불필요)",
+    "별도 드라이버 설치 없이 빠른 설치 가능",
+    "Windows 11 지원"
+  ],
+  "specifications": {
+    "모델명": "LS-VGA2HDC",
+    "영상입력신호": "0.45-1.1 volts(p-p)",
+    "DDC입력신호": "5 volts p-p (TTL)",
+    "수직주파수범위": "50/60Hz",
+    "대역폭영상증폭기": "1.65Gbps/165MHz",
+    "소비전력 최대": "1.85W",
+    "크기": "80x12x55mm (VGA, USB 선길이: 약 12cm)",
+    "무게": "98g",
+    "작동온도/보관온도": "섭씨 0~70도 / 섭씨 -10~80도",
+    "작동습도/보관습도": "10~85% / 5~95%",
+    "지원해상도": "1920x1080, 1680x1050, 1600x1200, 1600x900, 1440x900, 1400x1050, 1366x768, 1280x1024, 1280x960, 1280x800, 1280x600, 1152x864, 1024x768, 800x600",
+    "인증서번호": "MSIP-REI-LUS-VGA2HD",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "VGA 출력 단자를 보유한 데스크탑 PC",
+    "VGA 출력 단자를 보유한 노트북",
+    "Mac Mini (VGA 단자 보유 모델)",
+    "HDMI 입력 단자를 보유한 TV",
+    "HDMI 입력 단자를 보유한 모니터",
+    "HDMI 입력 단자를 보유한 프로젝터",
+    "Windows 11"
+  ],
+  "package_contents": [
+    "LS-VGA2HDC 본체 (VGA 입력단자, USB 전원/오디오 단자, HDMI 출력단자 일체형)",
+    "HDMI 케이블 (별도 구매)"
+  ],
+  "usage_instructions": "1. 컨버터의 VGA 입력단자를 PC/노트북의 VGA 포트에 연결합니다. 2. USB 단자를 PC의 USB 포트(뒷면 권장)에 연결하여 전원 및 오디오를 공급합니다. 3. HDMI 케이블(별도 구매)로 컨버터의 HDMI 출력단자와 TV/모니터/프로젝터의 HDMI 입력단자를 연결합니다. 4. 디스플레이 장치의 외부입력을 HDMI로 선택합니다. 5. PC 장치관리자 > 사운드, 비디오 및 게임 컨트롤러에서 'C-Media USB Headphone Set'으로 인식되는지 확인합니다.",
+  "cautions": [
+    "VGA 장비에서 HDMI 디스플레이로 출력만 가능하며, 반대 방향(HDMI → VGA)으로는 작동하지 않습니다.",
+    "VGA 해상도는 HDTV 해상도와 동일하지 않으므로 VGA 출력 시 출력 가능한 해상도를 설정해야 합니다.",
+    "사운드가 인식되지 않아 장치관리자 기타장치에 느낌표가 표시되는 경우, USB 단자를 PC 앞면이 아닌 뒷면에 연결하십시오.",
+    "정상 작동을 위해 장치관리자 > 사운드, 비디오 및 게임 컨트롤러에 'C-Media USB Headphone Set'으로 인식되어야 합니다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-VGA2HDC",
+      "품목코드": "INT-HDS027",
+      "품목명": "[LANstar] VGA TO HDMI 컨버터 케이블 타입 (오디오지원) 0.12M[30099] (40개) ★★할인제외★★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA",
+        "USB-A"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "VGA 입력단자를 PC/노트북의 VGA 포트에 연결합니다",
+    "connectivity.input_signals[1]": "USB 단자를 PC의 USB 포트(뒷면 권장)에 연결",
+    "connectivity.output_signals": "HDMI 출력단자와 TV/모니터/프로젝터의 HDMI 입력단자를 연결합니다",
+    "connectivity.directional": "VGA 신호를 HDMI 신호로 변환",
+    "power.power_mode": "USB 포트를 통한 전원 공급",
+    "form_physical.has_case": "크기: 80x12x55mm",
+    "certification.kc": "인증서번호: MSIP-REI-LUS-VGA2HD",
+    "audio_video.max_resolution": "Full HD 1080p 고해상도 지원",
+    "audio_video.audio_pass": "오디오 출력 지원 (VGA + Audio to HDMI)",
+    "family.optical_core": "VGA + Audio to HDMI 컨버터",
+    "family.ethernet_channel": "VGA + Audio to HDMI 컨버터"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:17",
+  "feature_schema_version": "1.0.0"
+}

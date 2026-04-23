@@ -1,0 +1,137 @@
+{
+  "model_no": "LS-HDMI-AD14",
+  "product_name": "LAN Star HDMI to Micro HDMI 1.4 케이블",
+  "category": [
+    "HDMI케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "HDMI 1.4 규격 지원 (4K2K 4096x2160 @60Hz)",
+    "Full HD 1080p 대비 4배 고해상도 4K UHD 화질 지원",
+    "3D 영상 지원",
+    "전송 속도(대역폭) 10.2Gbps",
+    "24K 금도금 커넥터로 우수한 전송률 제공",
+    "ARC(Audio Return Channel) 지원 - 별도 케이블 없이 TV 사운드 전송",
+    "HEC(HDMI Ethernet Channel) 지원 - 별도 랜 케이블 없이 네트워크 접속 및 양방향 통신",
+    "3개의 확장 색역(YCC601 / Adobe RGB / Adobe YCC601) 지원으로 풍부한 색감",
+    "돌비 TrueHD 오디오 비트스트림 지원",
+    "DTS-HD Master Audio 지원",
+    "RoHS 규격 준수 (납·수은·카드뮴 등 중금속 미사용)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "HDMI 단자": "HDMI 19P/M - Micro HDMI 19P/M",
+    "HDMI 출력 해상도": "4Kx2K (4096x2160) @60Hz",
+    "전송 속도(대역폭)": "10.2Gbps",
+    "케이블 길이": "1.5M, 3M, 5M",
+    "소비전력": "최대 DC 300V/5s",
+    "작동 온도": "섭씨 80도",
+    "커넥터 도금": "24K 금도금",
+    "HDMI 버전": "1.4",
+    "제조국": "중국 (China)"
+  },
+  "compatibility": [
+    "HDMI A Type 단자를 가진 TV, PC 모니터 등 디스플레이 기기",
+    "Micro HDMI D Type 단자를 가진 태블릿 PC",
+    "Micro HDMI D Type 단자를 가진 디지털 카메라",
+    "Micro HDMI D Type 단자를 가진 캠코더",
+    "Micro HDMI D Type 단자를 가진 스마트폰",
+    "Micro HDMI D Type 단자를 가진 휴대폰",
+    "HDMI 1.4 규격 지원 기기",
+    "Blu-ray Disc 플레이어",
+    "HD DVD 플레이어",
+    "IPTV, DLNA, UPnP 지원 기기"
+  ],
+  "package_contents": [
+    "HDMI to Micro HDMI 1.4 케이블 1개 (선택 길이: 1.5M / 3M / 5M)"
+  ],
+  "usage_instructions": "HDMI A Type 단자(TV, 모니터 등)와 Micro HDMI D Type 단자(스마트폰, 태블릿, 디지털카메라, 캠코더 등) 기기를 케이블로 연결하여 HD 비디오 및 고해상도 사진 등 콘텐츠를 대형 디스플레이로 출력. 미러링 기능을 지원하는 기기는 연결 즉시 TV로 출력되며, 미러링 기능이 없는 기기는 별도의 TV 출력 설정이 필요함.",
+  "cautions": [
+    "이 케이블은 충전 및 데이터 전송용이 아닌 영상 전송 전용 케이블입니다.",
+    "구매 전 사용 기기의 단자 규격(Micro HDMI D Type 여부)을 반드시 확인하세요.",
+    "미러링 기능이 없는 기기는 별도의 TV 출력 작업이 필요합니다.",
+    "사용 기기마다 최대 지원 해상도가 다를 수 있습니다.",
+    "Micro HDMI 단자와 Micro USB 단자를 모두 가진 스마트폰 사용 시 단자를 혼동하여 잘못 연결하지 않도록 주의하세요.",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "Micro-HDMI"
+      ],
+      "output_signals": [
+        "HDMI",
+        "Micro-HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1.5,
+        3.0,
+        5.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "HDMI1.4",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19P/M - Micro HDMI 19P/M",
+    "connectivity.output_signals": "HDMI 19P/M - Micro HDMI 19P/M",
+    "connectivity.directional": "HEC(HDMI Ethernet Channel) 지원 - 별도 랜 케이블 없이 네트워크 접속 및 양방향 통신",
+    "power.power_mode": "소비전력: 최대 DC 300V/5s",
+    "form_physical.material": "24K 금도금 커넥터",
+    "form_physical.length_options_meters": "케이블 길이: 1.5M, 3M, 5M",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "4K2K 4096x2160 @60Hz",
+    "audio_video.audio_pass": "ARC(Audio Return Channel) 지원",
+    "family.hdmi_version": "HDMI 1.4 규격 지원",
+    "family.optical_core": "HDMI 1.4 규격 지원",
+    "family.ethernet_channel": "HEC(HDMI Ethernet Channel) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:07",
+  "feature_schema_version": "1.0.0"
+}

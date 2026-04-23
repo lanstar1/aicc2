@@ -1,0 +1,184 @@
+{
+  "model_no": "LS-PCIE",
+  "product_name": "SATA PCI Express Card (LS-PCIE-MSATA)",
+  "category": [
+    "HDD관련"
+  ],
+  "key_features": [
+    "26mm, 50mm mSATA SSD 완벽 호환 지원",
+    "Mini SATA(mSATA) SSD 또는 SATA SSD를 캐시 메모리로 사용하여 시스템 HDD 속도를 SSD 수준으로 업그레이드",
+    "PCI Express 3.0 x4 규격 준수 — 4배속, 8배속, 16배속 슬롯 모두 장착 가능",
+    "SATA III(6Gbps) 인터페이스 지원",
+    "핫스왑(Hot-Swap) 기능 지원 — PC 전원을 끄지 않고 연결 및 제거 가능",
+    "프로그램 설정에 따라 SSD를 드라이브 또는 캐시로 선택 사용 가능",
+    "Windows 11 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "KC·FCC·CE 인증 및 RoHS 준수, ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "인터페이스": "PCI Express 3.0 x4, Serial ATA 3",
+    "커넥터": "Mini SATA(mSATA) 슬롯 + SATA 7핀",
+    "지원 디스크": "26mm, 50mm mSATA SSD",
+    "전송 속도": "최대 SATA3 6Gbps",
+    "입력 전원": "PCI Express 12V",
+    "재질": "PCB",
+    "크기(PCB)": "63 x 75 mm",
+    "무게": "37g",
+    "인증 번호": "MSIP-REI-LUS-LS-PCIE-MSATA",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "26mm mSATA SSD",
+    "50mm mSATA SSD",
+    "SATA SSD (캐시 메모리 용도)",
+    "PCI Express 4배속(x4) 슬롯",
+    "PCI Express 8배속(x8) 슬롯",
+    "PCI Express 16배속(x16) 슬롯",
+    "Windows 11"
+  ],
+  "package_contents": [
+    "SATA 컨버터 (PCI Express 카드 본체)",
+    "드라이버 CD",
+    "LP 브라켓",
+    "사용자 메뉴얼(User Manual)"
+  ],
+  "usage_instructions": "PCI Express 슬롯(x4/x8/x16)에 카드를 장착한 후 mSATA SSD 또는 SATA SSD를 연결한다. 드라이버 CD로 드라이버를 설치하고, 프로그램 설정을 통해 SSD를 독립 드라이브 또는 HDD 캐시 메모리로 선택하여 사용한다. 핫스왑 기능을 지원하므로 PC 전원을 끄지 않고 SSD 연결 및 제거가 가능하다.",
+  "cautions": [
+    "M.2(NGFF) SSD는 제품 구성에 포함되지 않으며 별도 구매 필요",
+    "mSATA SSD는 별도 구매 필요",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품(LAN Star® 라인업시스템(주) 콘텐츠)을 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-MSATA",
+      "품목코드": "USB-PCI208",
+      "품목명": "[LANstar] Msata To SATA PCI-E Express 카드, 미니가이드, Sata 케이블 포함 [30160] (100개)",
+      "variant_suffix": "-MSATA",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-PCIE-MSATA",
+      "내용": "가격대비 가성비좋습니다. 하지만 처음이라 \n꼽기가 어려웠네요. 그것빼곤 인식잘되고 좋아요. \n감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-MSATA",
+      "내용": "Ga p67a보드가 sata2는 전혀인식 못해서 hdd추가 장착을 못했는데 해결되었습니다.\n아쉬운건 sata3출력이 하나더  있었으면\n좋을것 같네요"
+    },
+    {
+      "source_model": "LS-PCIE-MSATA",
+      "내용": "잘 도착했습니다. 파손없이"
+    },
+    {
+      "source_model": "LS-PCIE-MSATA",
+      "내용": "가성비 좋고 최고입니다.\n재구매인데 또 구매하겠습니다."
+    },
+    {
+      "source_model": "LS-PCIE-MSATA",
+      "내용": "가성비 최고네요\n인식잘하고 빠릅니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-PCIE-M2SATAN",
+      "chatUrl": "1Hrs2",
+      "dateIso": "2024-03-11T05:27:05.650Z",
+      "name": "Allcarss",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "답변에 감사드립니다. 네... 제품이 없다니 아쉽네요.... 보드는 B150M-DS3H 기가바이트 입니다 보드는 약7년된 기가바이트 입니다.nvme 슬롯이 보드에 1개만 잇습니다...",
+      "answer": "네 고객님, 그럼 상담 종료하도록 하겠습니다. 감사합니다.",
+      "turn_count": 1,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "답변에 감사드립니다. 네... 제품이 없다니 아쉽네요.... 보드는 B150M-DS3H 기가바이트 입니다 보드는 약7년된 기가바이트 입니다.nvme 슬롯이 보드에 1개만 잇습니다..."
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 그럼 상담 종료하도록 하겠습니다.\n추후 문의 사항 있으실 경우 언제든지 말씀 주십시오.\n\n감사합니다."
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "SATA"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [],
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "storage_interface": "SATA",
+      "drive_size": "M.2"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "SATA III(6Gbps) 인터페이스 지원",
+    "connectivity.directional": "N/A",
+    "power.power_mode": "PCI Express 12V",
+    "power.charging_support": "false",
+    "form_physical.has_case": "false",
+    "certification.kc": "KC·FCC·CE 인증",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "KC·FCC·CE 인증",
+    "certification.ce": "KC·FCC·CE 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.storage_interface": "SATA III(6Gbps) 인터페이스 지원",
+    "family.drive_size": "26mm, 50mm mSATA SSD"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:27",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

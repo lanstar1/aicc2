@@ -1,0 +1,125 @@
+{
+  "model_no": "LS-POEC",
+  "product_name": "LANStar POE 전원 테스터기 (케이블 분리형)",
+  "category": [
+    "랜케이블",
+    "네트워크공구"
+  ],
+  "key_features": [
+    "원거리 설치된 POE 장비의 전원 공급 상태를 사전 점검하는 측정기",
+    "Typ A(12V~36V) 및 Typ B(45V~78V) 두 가지 전압 범위 지원",
+    "케이블 분리형 구조로 원거리 끝단 테스트 가능",
+    "28AWG 규격 랜케이블 사용으로 데이터 전송 시 간섭이 적음",
+    "RoHS 규정 준수 제품",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 타입": "RJ45 Female / RJ45 Male - RJ45 Male (케이블)",
+    "작동 전압": "Typ A: 12V~36V / Typ B: 45V~78V",
+    "작동 전류": "10mA 이하",
+    "절연 전압": "1500V AC 이상",
+    "크기": "80×25×24mm (H×W×D)",
+    "케이블 길이": "130mm",
+    "케이블 규격": "28AWG",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "품질 인증": "ISO 9001:2008, RoHS Compliant"
+  },
+  "compatibility": [
+    "POE 지원 네트워크 장비",
+    "RJ45 포트를 갖춘 POE 스위치 및 인젝터",
+    "Typ A 방식 POE 장비 (12V~36V)",
+    "Typ B 방식 POE 장비 (45V~78V)"
+  ],
+  "package_contents": [
+    "POE 전원 테스터기 본체 (RJ45 Female)",
+    "테스터기 연결 케이블 (RJ45 Male - RJ45 Male, 28AWG)"
+  ],
+  "usage_instructions": "1. POE 장비에 랜선 및 전원을 연결한다. 2. POE 장비가 정상 작동하는지 확인한 후 POE 테스터기를 각 포트에 연결하여 Typ A 또는 Typ B에서 전원값을 확인한다. 3. POE 장비와 원거리에 연결한 케이블의 끝단에 테스터기를 연결하여 전원값을 확인하고, 앞서 측정한 값과 일치하면 테스트가 완료된다. 4. Typ A(12~36V) 또는 Typ B(45~78V) LED가 점등 또는 점멸되면 표시된 측정값을 확인할 수 있다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리",
+    "AS 소비자 상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-POEC",
+      "품목코드": "NEO-테스터071",
+      "품목명": "[LANstar] POE 전원 테스터기, 케이블 분리형, LS-POEC, (20개)[40517]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        0.13
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": null,
+      "shielding": null,
+      "conductor": null,
+      "awg": 28,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 Female / RJ45 Male",
+    "connectivity.output_signals": "RJ45 Female / RJ45 Male",
+    "connectivity.directional": "원거리 끝단 테스트 가능",
+    "form_physical.has_case": "80×25×24mm (H×W×D)",
+    "form_physical.length_options_meters": "케이블 길이: 130mm",
+    "certification.rohs": "RoHS 규정 준수 제품",
+    "certification.iso9001": "ISO 9001:2008",
+    "family.awg": "28AWG 규격 랜케이블",
+    "family.poe_support": "POE 전원 테스터기"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:29",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,135 @@
+{
+  "model_no": "LS-U31-CM2MIN",
+  "product_name": "USB 2.0 Type C 케이블 (C/M - Mini 5P/M) 1M",
+  "category": [
+    "USB케이블",
+    "USB-C",
+    "USB2.0",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 2.0 규격, 최대 480Mbps 전송속도 지원",
+    "USB 1.1 대비 40배 빠른 데이터 전송 속도",
+    "Type C 커넥터는 위아래 구분 없이 연결 가능 (방향 무관)",
+    "애플 맥북 USB Type C 포트와 완벽 호환",
+    "구글 크롬북 USB Type C 포트 지원",
+    "RoHS 및 UL 인증 획득",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "케이블 길이 1M, 블랙 색상"
+  ],
+  "specifications": {
+    "케이블 타입": "USB 2.0 C/M - Mini 5P/M",
+    "전송속도": "480Mbps",
+    "전선규격": "28AWG",
+    "길이": "1M (1000mm)",
+    "전원": "30V",
+    "작동온도": "0°C ~ 80°C",
+    "색상": "Black",
+    "원산지": "중국 (China)",
+    "인증": "RoHS, UL, ISO 9001:2008",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "애플 맥북 (USB Type C 포트 탑재 모델)",
+    "구글 크롬북 (USB Type C 포트 탑재 모델)",
+    "USB 2.0 Type C 포트 지원 기기",
+    "USB 2.0 Mini 5Pin 포트 지원 기기",
+    "USB 1.0 / 1.1 하위 버전 호환"
+  ],
+  "package_contents": [
+    "USB 2.0 Type C 케이블 (C/M - Mini 5P/M) 1M × 1개"
+  ],
+  "usage_instructions": "USB Type C 커넥터를 기기의 Type C 포트에 방향 구분 없이 삽입하고, 반대쪽 Mini 5Pin 커넥터를 Mini 5P 포트 기기에 연결하여 데이터 전송 또는 충전에 사용합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품 및 콘텐츠를 당사(라인업시스템(주)) 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 070-7018-3386 / www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-U31-CM2MIN-1M",
+      "품목코드": "CAB-U31008",
+      "품목명": "[LANstar] [USB 3.1] 케이블 USB 3.1 C/M-2.0 MINI 5P/M 1M Black [10760]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-U31-CM2MIN-1M",
+      "내용": "카오디오에 DAC 연결하여 사용중인데 무난히 사용할수있어 좋네요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-Mini"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": null,
+      "data_only": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Type C 커넥터",
+    "connectivity.output_signals": "Mini 5P/M",
+    "connectivity.directional": "방향 무관",
+    "power.power_mode": "USB Type C 포트",
+    "power.charging_support": "충전에 사용합니다",
+    "form_physical.length_meters": "케이블 길이 1M",
+    "form_physical.color_options": "블랙 색상",
+    "certification.rohs": "RoHS 및 UL 인증 획득",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.usb_version": "USB 2.0 규격",
+    "family.transfer_speed_gbps": "최대 480Mbps 전송속도 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:31",
+  "feature_schema_version": "1.0.0"
+}

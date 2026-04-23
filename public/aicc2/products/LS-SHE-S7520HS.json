@@ -1,0 +1,94 @@
+{
+  "model_no": "LS-SHE-S7520HS",
+  "product_name": "서버랙용 선반 Short Type (Shelf, Black)",
+  "category": [
+    "서버랙"
+  ],
+  "key_features": [
+    "짧은 길이(깊이)의 랙 선반으로 기본 사이즈보다 활용도가 큼",
+    "블랙 색상"
+  ],
+  "specifications": {
+    "색상": "Black",
+    "타입": "Short Type",
+    "폭": "472mm",
+    "깊이": "350mm"
+  },
+  "compatibility": [
+    "LS-750HS",
+    "LS-2000HS"
+  ],
+  "package_contents": [],
+  "usage_instructions": null,
+  "cautions": [],
+  "variants": [
+    {
+      "model_no": "LS-SHE-S7520HS",
+      "품목코드": "NEO-랙선반022",
+      "품목명": "[LANstar] 랙선반(Short타입), 472(W)x350(D), 검정, For LS-750HS~2000HS[50045]-->대체상품 50027",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "rack_unit": null,
+      "mount_type": null,
+      "depth_mm": 350,
+      "width_mm": 472,
+      "height_mm": null,
+      "has_door": null,
+      "has_lock": null,
+      "has_fan": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.color_options": "블랙 색상",
+    "family.depth_mm": "깊이\": \"350mm",
+    "family.width_mm": "폭\": \"472mm"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:26",
+  "feature_schema_version": "1.0.0"
+}

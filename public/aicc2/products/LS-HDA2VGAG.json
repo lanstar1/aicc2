@@ -1,0 +1,142 @@
+{
+  "model_no": "LS-HDA2VGAG",
+  "product_name": "LANStar HDMI to VGA 컨버터 (오디오 지원형, 무전원/젠더타입)",
+  "category": [
+    "VGA",
+    "컨버터",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "HDMI 신호를 VGA(RGB)로 변환하여 TV, 모니터, 프로젝터로 출력",
+    "Plug & Play 방식 – 별도 드라이버 설치 불필요",
+    "무전원 방식 – 별도 전원 연결 불필요",
+    "내장 오디오 케이블을 통해 Stereo 오디오 출력 지원",
+    "1080P Full HD 3D 지원 (@60Hz)",
+    "HDCP(High-bandwidth Digital Content Protection) 지원",
+    "소켓타입 컴팩트 디자인으로 휴대 및 보관 용이",
+    "가정, 회의실, 강의실, 병원 등 다양한 환경에서 사용 가능"
+  ],
+  "specifications": {
+    "입력 단자": "HDMI",
+    "출력 단자": "VGA(RGB)",
+    "오디오 출력": "Stereo (3.5mm 오디오 포트)",
+    "최대 해상도": "1920x1080 (1080P Full HD)",
+    "3D 지원": "지원 (@60Hz)",
+    "HDCP 지원": "지원",
+    "전원 방식": "무전원 (버스 파워)",
+    "케이블 길이": "48cm",
+    "제품 크기(추정)": "20mm x 48mm x 24mm",
+    "인증번호": "KCC-REI-LUS-LS-PAD2VGA",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "안전규격인증": "KC, FCC, CE",
+    "품질경영시스템": "ISO 9001:2008",
+    "환경규격": "RoHS COMPLIANT",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "HDMI 출력을 지원하는 노트북",
+    "HDMI 출력을 지원하는 데스크탑 PC",
+    "HDMI 출력을 지원하는 콘솔 게임기",
+    "HDMI 출력을 지원하는 DVD 플레이어",
+    "HDMI 출력을 지원하는 셋톱박스",
+    "VGA 입력을 지원하는 모니터",
+    "VGA 입력을 지원하는 TV",
+    "VGA 입력을 지원하는 빔 프로젝터"
+  ],
+  "package_contents": [
+    "HDMI to VGA 컨버터 본체 (LS-HDA2VGAG) 1개",
+    "내장 오디오 케이블 1개"
+  ],
+  "usage_instructions": "1) HDMI 단자(입력)를 소스 기기(노트북, PC, 게임기 등)의 HDMI 포트에 연결합니다. 2) VGA 단자(출력)를 RGB 케이블(별도 구매)을 통해 모니터, TV, 빔프로젝터 등의 VGA 포트에 연결합니다. 3) 오디오 출력이 필요한 경우 내장 오디오 케이블을 스피커 또는 모니터의 오디오 포트에 연결합니다. 4) Plug & Play 방식으로 별도 드라이버 설치 없이 사용 가능하며, 무전원 방식이므로 별도 전원 연결이 필요하지 않습니다.",
+  "cautions": [
+    "입력(HDMI)과 출력(VGA)을 반대로 사용할 수 없습니다 – 단방향 변환 전용 제품입니다.",
+    "RGB(VGA) 케이블은 별도 구매가 필요합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있습니다.",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "VGA",
+        "3.5mm"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.48,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 단자(입력)",
+    "connectivity.output_signals": "VGA(RGB)로 변환하여 TV, 모니터, 프로젝터로 출력",
+    "connectivity.directional": "HDMI 신호를 VGA(RGB)로 변환",
+    "power.power_mode": "무전원 방식",
+    "power.charging_support": "무전원 방식",
+    "form_physical.has_case": "소켓타입 컴팩트 디자인",
+    "form_physical.length_meters": "케이블 길이: 48cm",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "1080P Full HD",
+    "audio_video.hdcp_version": "HDCP(High-bandwidth Digital Content Protection) 지원",
+    "audio_video.audio_pass": "내장 오디오 케이블을 통해 Stereo 오디오 출력 지원",
+    "control_switching.has_remote": "Plug & Play 방식",
+    "control_switching.has_hotkey": "Plug & Play 방식",
+    "control_switching.has_physical_button": "Plug & Play 방식",
+    "control_switching.has_mouse_switching": "Plug & Play 방식",
+    "control_switching.has_auto_scan": "Plug & Play 방식",
+    "control_switching.has_app_control": "Plug & Play 방식",
+    "family.optical_core": "HDMI to VGA 컨버터",
+    "family.ethernet_channel": "HDMI to VGA 컨버터"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:02",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,124 @@
+{
+  "model_no": "LS-PCI-1394",
+  "product_name": "LAN Star PCI 데스크탑용 1394 Card (3+1 Port)",
+  "category": [
+    "1394케이블"
+  ],
+  "key_features": [
+    "대만산 VIA 칩셋(VT6307) 탑재",
+    "100/200/400 Mbps 전송속도 지원",
+    "IEEE 1394 / 1394A 규격 지원",
+    "Windows 98, 2000, ME, XP, Vista, 7 운영체제 지원",
+    "PCI 및 PCI EXPRESS 인터페이스 지원",
+    "LP(로우프로파일) 브라켓 포함"
+  ],
+  "specifications": {
+    "인터페이스": "PCI / PCI EXPRESS",
+    "포트 구성": "3+1 Port",
+    "칩셋": "VIA VT6307",
+    "칩셋 원산지": "대만 (Taiwan)",
+    "전송속도": "100/200/400 Mbps",
+    "지원 규격": "IEEE 1394 / 1394A",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증서번호": "KCC-REI-LUS-LS-PCI-1394",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "Windows 98",
+    "Windows 2000",
+    "Windows ME",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "IEEE 1394",
+    "IEEE 1394A",
+    "PCI 슬롯 데스크탑 PC",
+    "PCI EXPRESS 슬롯 데스크탑 PC"
+  ],
+  "package_contents": [
+    "LAN Star 인터페이스 카드 (1394 카드 본체)",
+    "LP(로우프로파일) 브라켓",
+    "미니가이드",
+    "1394 케이블 (4핀/6핀)",
+    "설치 드라이버 CD",
+    "사용설명서"
+  ],
+  "usage_instructions": "카드를 PC의 PCI 또는 PCI EXPRESS 슬롯에 장착 후, 드라이버 CD를 이용해 드라이버를 설치하세요. 정상 설치 시 장치관리자 > IEEE 1394 버스 호스트 컨트롤러 항목에 'VIA OHCI Compliant IEEE 1394 Host Controller'가 표시되어야 합니다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCI-1394",
+      "품목코드": "USB-PCI003",
+      "품목명": "[LANstar] PCI 1394카드 1394 3＋1Port VT6306 미니가이드[30049]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "IEEE1394-4P",
+        "IEEE1394-6P"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "IEEE 1394 / 1394A 규격 지원",
+    "connectivity.port_count": "3+1 Port",
+    "power.power_mode": "카드를 PC의 PCI 또는 PCI EXPRESS 슬롯에 장착",
+    "power.charging_support": "false",
+    "form_physical.has_case": "LAN Star PCI 데스크탑용 1394 Card",
+    "certification.kc": "KCC-REI-LUS-LS-PCI-1394"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:56",
+  "feature_schema_version": "1.0.0"
+}

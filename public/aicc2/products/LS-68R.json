@@ -1,0 +1,159 @@
+{
+  "model_no": "LS-68R",
+  "product_name": "LANStar LS-68R 랜툴 (커터/스트리퍼 일체형)",
+  "category": [
+    "커넥터",
+    "네트워크공구",
+    "탈피기",
+    "LAN공구"
+  ],
+  "key_features": [
+    "커터, 스트리퍼, 랜툴 3가지 기능 일체형",
+    "미끄럼 방지 러버 재질 투톤 컬러 그립",
+    "중탄소강 소재 바디로 강력한 내구성 및 내마모성",
+    "기어 구조로 적은 힘으로 플러그 압착 작업 가능",
+    "전면 스트리퍼(케이블 탈피) 및 후면 커터 내장으로 별도 공구 불필요",
+    "8P8C(RJ-45), 6P6C(RJ-12), 6P4C(RJ-11) 플러그 작업 가능"
+  ],
+  "specifications": {
+    "바디 소재": "중탄소강",
+    "그립 소재": "러버 (투톤 컬러)",
+    "스트리퍼 위치": "전면",
+    "커터 위치": "후면",
+    "릴리즈 레버": "있음"
+  },
+  "compatibility": [
+    "8P8C (RJ-45) 플러그",
+    "6P6C (RJ-12) 플러그",
+    "6P4C (RJ-11) 플러그",
+    "플랫 케이블",
+    "UTP 케이블"
+  ],
+  "package_contents": [
+    "LS-68R 랜툴 본체"
+  ],
+  "usage_instructions": "전면 스트리퍼로 케이블 피복을 탈피하고, 플러그를 랜툴에 삽입 후 압착 작업을 수행한다. 후면 커터로 라인 절단이 가능하다. 핸들을 완전히 누르지 않아 손잡이가 열리지 않고 걸렸을 경우, 릴리즈 레버를 돌려 오픈한다.",
+  "cautions": [
+    "핸들을 완전히 누르지 않으면 손잡이가 중간에 걸려 오픈되지 않을 수 있으며, 이 경우 릴리즈 레버를 돌려 해제할 것"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-68R",
+      "품목코드": "NEO-LAN054",
+      "품목명": "[LANstar] TOOL공구 , 6／8P용, 기어형 보급형 NEW [40111] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-68R",
+      "내용": "빠른 배송 감사합니다 파이팅~~",
+      "관련내용": "빠른 배송 감사합니다 파이팅~"
+    },
+    {
+      "source_model": "LS-68R",
+      "내용": "빠른 배송 감사합니다 파이팅~"
+    },
+    {
+      "source_model": "LS-68R",
+      "내용": "배송도 빠르고 물건도 좋아요"
+    },
+    {
+      "source_model": "LS-68R",
+      "내용": "양손으로 꽉 눌러주고, 그래도 체결이 잘 안되면 한 번 더 꽉 눌러주면 됨."
+    },
+    {
+      "source_model": "LS-68R",
+      "내용": "찝고나면 커넥터가 좀 휘는데 작동은 잘 됩니다. 이런 제품이 원래 그런건지 이 제품만 그런건지 잘 모르겠네요"
+    },
+    {
+      "source_model": "LS-68R",
+      "내용": "대만제라 아주 좋습니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-68R",
+      "chatUrl": "37Ipm",
+      "dateIso": "2025-10-30T04:58:13.350Z",
+      "name": "호이앙",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "감사합니다. 확인했습니다. 내부 문서 처리후 실제 주문드릴 때 견적서에 있는 연락처로 사전연락드리겠습니다.",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸",
+        "러버"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": null,
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.directional": "N/A",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "LANStar LS-68R 랜툴",
+    "form_physical.material": "중탄소강 소재 바디로 강력한 내구성",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.gender": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:28",
+  "feature_schema_version": "1.0.0"
+}

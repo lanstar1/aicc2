@@ -1,0 +1,203 @@
+{
+  "model_no": "LS-AS203N",
+  "product_name": "LANStar HDMI 2.0 SWITCHER 3x1 (HDMI 1:3 선택기)",
+  "category": [
+    "HDMI선택기"
+  ],
+  "key_features": [
+    "3개의 HDMI 입력 소스를 1개의 디스플레이 장치에 연결하여 선택 출력",
+    "4K@60Hz (3840x2160) UHD 해상도 지원",
+    "HDMI 2.0 규격 지원",
+    "HDCP 2.2 지원 (영상 저작권 보호)",
+    "3D 영상 포맷 지원",
+    "4K HDR Pass-Through 지원",
+    "YUV 4:4:4 크로마서브샘플링 지원",
+    "돌비 비전(Dolby Vision) 지원",
+    "돌비 애트모스(Dolby Atmos) 지원",
+    "리모콘으로 입력 소스 선택 가능 (1번/2번/3번 Input)",
+    "Plug&Play 지원 (별도 드라이버 설치 불필요)",
+    "Hot Swap 지원 (PC 전원 켜진 상태에서 연결/해제 가능)",
+    "메탈 하우징 재질",
+    "제품 뒷면 열 배출 구멍으로 발열 효과적 처리",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-AS203N)",
+    "RoHS, FCC, CE 인증"
+  ],
+  "specifications": {
+    "입력단자": "HDMI 3 Port",
+    "출력단자": "HDMI 1 Port",
+    "해상도": "4K@60Hz UHD (3840x2160)",
+    "대역폭": "340MHz",
+    "입력전원": "DC 5V 1A",
+    "동작온도": "-15°C ~ 55°C",
+    "습도": "5% ~ 90%",
+    "재질": "메탈 하우징",
+    "무게": "약 235g",
+    "크기(가로x세로x높이)": "10cm x 7.8cm x 2.2cm",
+    "HDMI 버전": "2.0",
+    "HDCP 버전": "2.2",
+    "제조국": "중국 (China)",
+    "KC 인증번호": "R-R-LUS-LS-AS203N",
+    "아답터 안전인증번호": "HU10653-12001B"
+  },
+  "compatibility": [
+    "HDMI 입력 기기: 콘솔(Console), 노트북(Notebook), 데스크탑(Desktop), 셋톱박스(Set-top Box), DVD 플레이어",
+    "HDMI 출력 기기: TV, 모니터(Monitor), 빔 프로젝터(Beam Projector)",
+    "HDMI 2.0 규격",
+    "HDCP 2.2 규격",
+    "4K UHD 해상도 디스플레이",
+    "3D 디스플레이",
+    "돌비 비전(Dolby Vision) 지원 기기",
+    "돌비 애트모스(Dolby Atmos) 지원 기기",
+    "설치 환경: 가정, 회사, 상황실, 영화관, 종교 활동, 강의실 등"
+  ],
+  "package_contents": [
+    "HDMI Switch 본체 (LS-AS203N) 1개",
+    "Remote Control (리모콘) 1개",
+    "DC 5V 1A 아답터 1개"
+  ],
+  "usage_instructions": "1. HDMI 입력 기기(콘솔, 노트북, 데스크탑 등)를 본체의 HDMI IN1 / IN2 / IN3 포트에 각각 연결한다. 2. 출력 디스플레이 기기(TV, 모니터, 빔프로젝터 등)를 HDMI OUT 포트에 연결한다. 3. DC 5V 1A 아답터를 연결하여 전원을 공급한다. 4. 본체의 SELECT 버튼 또는 리모콘의 ①②③ 버튼을 눌러 원하는 입력 소스(1번/2번/3번)를 선택한다. 5. Plug&Play 방식으로 별도 드라이버 설치 없이 즉시 사용 가능하며, Hot Swap을 지원하여 PC 전원이 켜진 상태에서도 자유롭게 연결/해제할 수 있다. 6. 돌비 비전, 돌비 애트모스 등 HDR 기능을 정상 사용하려면 소스 기기와 출력 디스플레이 기기 모두 해당 기능을 지원해야 한다.",
+  "cautions": [
+    "돌비 비전(Dolby Vision), 돌비 애트모스(Dolby Atmos) 등 특수 기능은 소스(Source) 기기와 출력 디스플레이 기기 모두에서 해당 기능을 지원해야 정상 사용 가능합니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "구매/배송/반품은 판매처(쇼핑몰 하단 참조)를 통해 문의하세요."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-AS203N",
+      "품목코드": "INT-HDS166",
+      "품목명": "[LANstar] HDMI 2.0 선택기 1:3 , 4K 60hz [30356](20개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-AS203N",
+      "내용": "생각 의외로 변환되는 시간이 빠르게 동작되서 만족합니다. 좋은제품이에요"
+    },
+    {
+      "source_model": "LS-AS203N",
+      "내용": "디자인..리모컨 다 좋아요.\n\n단지..화면 넘어갈때 4초 정도 걸립니다"
+    },
+    {
+      "source_model": "LS-AS203N",
+      "내용": "감사합니다. 잘받았습니다. 많이 파세요"
+    },
+    {
+      "source_model": "LS-AS203N",
+      "내용": "만족합니다만족합니다"
+    },
+    {
+      "source_model": "LS-AS203N",
+      "내용": "사용하기 편리하고 \n자동이라 좋네요~"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-AS203N",
+      "id": 579404197,
+      "date": "2024-05-05 23:21",
+      "answerDate": "2024-05-07 09:41",
+      "user": "inma***",
+      "productName": "랜스타 LS-AS203N HDMI2.0 선택기 3:1 4K UHD 60Hz HDR 지원",
+      "question": "혹시..\n리모컨 포함이죠?\n구성품 사진엔 없네요\n\n1번에서2,3번으로 넘어갈때 화면 변경속도가 몇초정도 될까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n상세 페이지 구성품에 리모컨 사진이 있으며, 포함되어 있습니다.\n해당 제품은 심리스 기능이 없기 때문에 사용하시는 모니터에 따라 전환시간이 다르지만, 대략 3~6초 소요됩니다.\n심리스 기능이 있는 제품은 아래와 같습니다.\nLS-HDM204N (4K), LS-HDM204 (FHD)\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": true,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "selector_type": "수동",
+      "input_count": 3,
+      "output_count": 1,
+      "interfaces": [
+        "HDMI"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3개의 HDMI 입력 소스를",
+    "connectivity.output_signals": "1개의 디스플레이 장치에 연결하여 선택 출력",
+    "connectivity.directional": "3개의 HDMI 입력 소스를 1개의 디스플레이 장치에 연결하여 선택 출력",
+    "connectivity.port_count": "입력단자\": \"HDMI 3 Port\", \"출력단자\": \"HDMI 1 Port",
+    "power.power_mode": "DC 5V 1A 아답터를 연결하여 전원을 공급한다",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "메탈 하우징 재질",
+    "form_physical.material": "메탈 하우징 재질",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "certification.rohs": "RoHS, FCC, CE 인증",
+    "certification.iso9001": "null",
+    "certification.fcc": "RoHS, FCC, CE 인증",
+    "certification.ce": "RoHS, FCC, CE 인증",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "4K@60Hz (3840x2160) UHD 해상도 지원",
+    "audio_video.hdr_support": "4K HDR Pass-Through 지원",
+    "audio_video.hdcp_version": "HDCP 2.2 지원",
+    "audio_video.audio_pass": "돌비 애트모스(Dolby Atmos) 지원",
+    "control_switching.has_remote": "리모콘으로 입력 소스 선택 가능",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "본체의 SELECT 버튼 또는 리모콘의 ①②③ 버튼을 눌러",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.selector_type": "HDMI 1:3 선택기",
+    "family.input_count": "3개의 HDMI 입력 소스를",
+    "family.output_count": "1개의 디스플레이 장치에 연결",
+    "family.interfaces": "HDMI 2.0 SWITCHER"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:15",
+  "feature_schema_version": "1.0.0"
+}

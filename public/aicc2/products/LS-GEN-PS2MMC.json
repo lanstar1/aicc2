@@ -1,0 +1,148 @@
+{
+  "model_no": "LS-GEN-PS2MMC",
+  "product_name": "LAN Star PS2 변환젠더 PS2/M-PS2/M",
+  "category": [
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "양쪽 모두 PS2(Male) 타입 커넥터로 구성된 젠더",
+    "PS2 6P(Male) - PS2 6P(Male) 구성",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "6핀(DIN6P) Male to 6핀(DIN6P) Male PS2 케이블",
+    "케이블 6가닥 구성 및 차폐 처리로 노이즈 보호",
+    "KVM 스위치, PC 공유기 등에서 키보드·마우스 연결 용도",
+    "RoHS 규격 준수 (납·수은·카드뮴 등 중금속 사용 금지)",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 타입": "PS2 6P(Male) - PS2 6P(Male) / DIN6P(Male) - DIN6P(Male)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "RoHS": "COMPLIANT",
+    "ISO 인증": "ISO 9001:2008",
+    "핀 수": "6핀",
+    "케이블 길이": "0.15M",
+    "차폐 처리": "있음",
+    "RoHS 준수": "ROHS COMPLIANT",
+    "품질 인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "PS2(Male) 타입 커넥터 사용 기기",
+    "KVM 스위치",
+    "PC 공유기",
+    "PS2 키보드",
+    "PS2 마우스"
+  ],
+  "package_contents": [
+    "PS2 변환젠더 (PS2/M-PS2/M) 1개",
+    "PS2 젠더 케이블 (DIN6P Male - DIN6P Male, 0.15M) 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "유통 과정상 제품의 모양이나 색상은 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 소비자상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GEN-PS2MMC-0.15M",
+      "품목코드": "CAB-PS2010",
+      "품목명": "[LANstar] PS2 케이블 , DIN6P/M-DIN6P/M, 0.15M[20118]",
+      "variant_suffix": "-0.15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-GEN-PS2MMC",
+      "품목코드": "GEN-PS2004",
+      "품목명": "[LANstar] 키보드젠더Changer , PS2／M - PS2／M[20062]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-GEN-PS2MMC-0.15M": "LANG\nStar\nPS2 젠더 케이블\nDIN6P/M-DIN6P/M\n|LS-GEN-PS2MMC-0.15M|\n2\n0.15M\n6핀 PS2 케이블이란?\nKVM 스위치, PC 공유기 등에서 키보드와 마우스 연결 시에 주로 사용합니다.\n6핀/6핀 PS2 케이블\n6pin to 6pin serial\n케이블은 6가닥으로 되어 있으며, 차폐처리가 되어 있어서 데이터 전송시\n노이즈로부터 보호가 됩니다.\nDIN6P(Male)\nDIN6P(Male)\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\nLANSStor® 라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nPS2 젠더 케이블\nⓇ\n모\n델\n명\nLS-GEN-PS2MMC-0.15M\nLAN StarNyStar®\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "PS/2"
+      ],
+      "output_signals": [
+        "PS/2"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "PS2 6P(Male) - PS2 6P(Male)",
+    "connectivity.output_signals": "PS2 6P(Male) - PS2 6P(Male)",
+    "connectivity.directional": "양쪽 모두 PS2(Male) 타입 커넥터",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "젠더",
+    "form_physical.length_meters": "케이블 길이: 0.15M",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.conversion_direction": "양쪽 모두 PS2(Male) 타입 커넥터",
+    "family.requires_external_power": "무전원"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:15",
+  "feature_schema_version": "1.0.0"
+}

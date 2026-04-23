@@ -1,0 +1,156 @@
+{
+  "model_no": "LS-1000HQ",
+  "product_name": "LS-1000HQ(20U) 허브랙",
+  "category": [
+    "허브랙"
+  ],
+  "key_features": [
+    "20U 랙 마운트 캐비닛",
+    "외형 치수 1020(H) x 600(D) x 600(W) mm",
+    "무게 57.5kg"
+  ],
+  "specifications": {
+    "높이": "1020mm",
+    "깊이": "600mm",
+    "너비": "600mm",
+    "무게": "57.5kg",
+    "랙 유닛": "20U"
+  },
+  "compatibility": [],
+  "package_contents": [
+    "LS-1000HQ 본체 1ea",
+    "랙 고정 다리 4ea",
+    "허브랙 열쇠 4ea",
+    "케이지너트 20개",
+    "볼트 20개"
+  ],
+  "usage_instructions": null,
+  "cautions": [],
+  "variants": [
+    {
+      "model_no": "LS-1000HQ",
+      "품목코드": "NEO-허브랙092",
+      "품목명": "[LANstar] 고급형 허브랙 1000*600*600mm (H*D*W) Black [20U][55065]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-1000HQ",
+      "chatUrl": "1Wm2W",
+      "dateIso": "2023-12-11T02:45:21.074Z",
+      "name": "lty0****",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "안녕하세요. 허브랙 LS-1000HB (블랙 / 아이보리) 3개 주문하려고 하는데,\n(추가 문의) 감사합니다. 확인 부탁드려요.",
+      "answer": "성함 / 연락처 말씀 주시면 별도 유선 연락 드릴 수 있도록 하겠습니다.",
+      "turn_count": 4,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "감사합니다. 확인 부탁드려요."
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "네.. 010-9563-1090 이태영입니다."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n성함 / 연락처 말씀 주시면 별도 유선 연락 드릴 수 있도록 하겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "재고 가능한가요?"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요. 허브랙 LS-1000HB (블랙 / 아이보리) 3개 주문하려고 하는데,"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "rack_unit": 20,
+      "mount_type": "standing",
+      "depth_mm": 600,
+      "width_mm": 600,
+      "height_mm": 1020,
+      "has_door": null,
+      "has_lock": null,
+      "has_fan": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "허브랙",
+    "family.rack_unit": "20U 랙 마운트 캐비닛",
+    "family.mount_type": "허브랙",
+    "family.depth_mm": "600(D)",
+    "family.width_mm": "600(W)",
+    "family.height_mm": "1020(H)"
+  },
+  "feature_extracted_at": "2026-04-23T03:00:20",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "compatibility": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

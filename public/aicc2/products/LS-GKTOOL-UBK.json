@@ -1,0 +1,128 @@
+{
+  "model_no": "LS-GKTOOL-UBK",
+  "product_name": "LANStar Tooless 모듈러 콘넥터 CAT.6A/7 UTP RJ45 8P8C",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "랜케이블-UTP",
+    "커넥터",
+    "LAN공구"
+  ],
+  "key_features": [
+    "별도의 장비 없이 랜 커넥터 제작이 가능한 Tooless 방식",
+    "구성품인 부트, 케이블 타이와 조립 시 랜선이 빠지지 않는 높은 결합력",
+    "단선과 연선 공용 사용 가능",
+    "배선캡에서 케이블의 꼬임을 유지하여 성능과 지속성 향상",
+    "최대 9mm 두께의 랜 케이블까지 제작 가능",
+    "최대 10Gbps(10,000Mbps) 속도 지원",
+    "RoHS 규격 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 규격": "RJ45 8P8C UTP",
+    "지원 CAT": "CAT.6A / CAT.7",
+    "전송 속도": "10Mbps / 100Mbps / 1000Mbps / 10Gbps",
+    "대역폭": "500MHz (CAT.6A) / 600MHz (CAT.7)",
+    "최대 케이블 외경(OD)": "9mm",
+    "커넥터 길이": "78mm",
+    "커넥터 폭": "16mm",
+    "커넥터 높이": "13mm",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "배선 배열": "T568A (크로스), T568B (다이렉트)"
+  },
+  "compatibility": [
+    "CAT.6A UTP 케이블",
+    "CAT.7 UTP 케이블",
+    "단선(Solid) 케이블",
+    "연선(Stranded) 케이블",
+    "최대 외경 9mm 이하 랜 케이블",
+    "TIA/EIA-568 규격",
+    "ISO/IEC 11801 Class 규격"
+  ],
+  "package_contents": [
+    "UTP 커넥터 (RJ45 8P8C)",
+    "부트",
+    "콘넥터 마개",
+    "배선캡",
+    "케이블 타이"
+  ],
+  "usage_instructions": "1. 부트 끝을 랜선 두께(OD)에 맞게 잘라낸다. 2. 피복을 벗겨낸 랜 케이블에 부트를 끼워넣는다. 3. 배선캡에 랜선들을 색깔별(T568A 또는 T568B 배열)로 끼워넣는다. 4. 배선캡 밖으로 나온 랜선들을 잘라 정리한다. 5. 커넥터 덮개를 열어 배선캡을 끼워넣는다. 6. 동봉된 케이블 타이로 랜선을 묶어준다. 7. 커넥터 부트를 끼워 완성한다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GKTOOL-UBK",
+      "품목코드": "NEO-콘넥터100",
+      "품목명": "[LANstar] Tooless 콘넥터,CAT.6A,/CAT.7 UTP 10G [40600]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "UTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "커넥터 덮개를 열어 배선캡을 끼워넣는다",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.cat_category": "CAT.6A / CAT.7",
+    "family.shielding": "UTP RJ45 8P8C"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:15",
+  "feature_schema_version": "1.0.0"
+}

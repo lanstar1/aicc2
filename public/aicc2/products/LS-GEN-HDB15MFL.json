@@ -1,0 +1,130 @@
+{
+  "model_no": "LS-GEN-HDB15MFL",
+  "product_name": "LANStar RGB 젠더 15핀 ㄱ자 90도 꺾임 (HDB15/M-HDB15P/F)",
+  "category": [
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "HDB15P/M 타입과 HDB15P/F 타입 커넥터가 ㄱ자(90도) 형으로 구성된 젠더",
+    "좁은 공간에서 케이블이 꽂히지 않을 때 사용 가능",
+    "컴퓨터와 영상기기 연결 시 사용 (연장 시 RGB 케이블 사용)",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 구성": "HDB15P(Male) - HDB15P(Female), 3열",
+    "형태": "ㄱ자 90도 꺾임",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDB15P(Male) 타입 커넥터 연결 기기",
+    "HDB15P(Female) 타입 커넥터 연결 기기",
+    "D-SUB 15핀 RGB 포트를 사용하는 컴퓨터 및 영상기기"
+  ],
+  "package_contents": [
+    "RGB 젠더 ㄱ자 90도 꺾임 M/F (LS-GEN-HDB15MFL) 본체",
+    "고정나사"
+  ],
+  "usage_instructions": "컴퓨터 또는 영상기기의 D-SUB RGB 포트에 연결하여 사용. 공간이 좁아 일반 케이블 연결이 어려울 때 본 젠더를 먼저 포트에 장착 후 RGB 케이블을 연결하여 사용.",
+  "cautions": [
+    "유통 과정상 제품의 모양이 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 문의, 구매/배송/반품은 판매처(쇼핑몰 하단 참조) 문의"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GEN-HDB15MFL",
+      "품목코드": "GEN-모니터006",
+      "품목명": "[LANstar] 젠더Changer , HDB15P M／F, 3열, 90도 꺽임[20040][500개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-GEN-HDB15MFL",
+      "내용": "가격도 저렴하고 물품도 사진상의 설명과 동일합니다"
+    },
+    {
+      "source_model": "LS-GEN-HDB15MFL",
+      "내용": "좋은제품 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "HDB15P Male",
+      "connector_type_b": "HDB15P Female",
+      "gender": "M-F",
+      "pin_count": 15
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "D-SUB RGB 포트에 연결",
+    "connectivity.output_signals": "D-SUB RGB 포트에 연결",
+    "connectivity.directional": "HDB15P/M 타입과 HDB15P/F 타입",
+    "connectivity.port_count": "HDB15P/M 타입과 HDB15P/F 타입",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "젠더",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "RGB 젠더",
+    "audio_video.audio_pass": "RGB 젠더",
+    "family.connector_type_a": "HDB15P(Male)",
+    "family.connector_type_b": "HDB15P(Female)",
+    "family.gender": "HDB15P(Male) - HDB15P(Female)",
+    "family.pin_count": "15핀"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:11",
+  "feature_schema_version": "1.0.0"
+}

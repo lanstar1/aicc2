@@ -1,0 +1,261 @@
+{
+  "model_no": "LS-MDP192",
+  "product_name": "미니 디스플레이 포트 to HDMI 컨버터 케이블 (Mini DP 컨버터)",
+  "category": [
+    "DisplayPort",
+    "컨버터"
+  ],
+  "key_features": [
+    "Mini DisplayPort(수) → HDMI(암) 신호 변환 지원",
+    "DisplayPort 1.2 버전 지원, 최대 21.6Gbps 대역폭",
+    "4K*2K (3840x2160) @30Hz 초고해상도 지원",
+    "Full HD 1920x1080 및 2560x1600 해상도 지원",
+    "3D 입체영상 지원",
+    "디지털 음성 전송 지원: 2채널 스테레오, 5.1채널, 7.1채널 입체음향",
+    "채널당 3Gbps 데이터 전송률",
+    "별도 전원 연결 불필요 (버스 파워)",
+    "미러 모드(복제 기능) 지원 - 동영상·사진 대형화면 확대, 화면 회전 가능",
+    "RoHS 환경 규격 준수, KC·FCC·CE 안전규격 인증",
+    "Mini DisplayPort 1.2 → HDMI 변환 지원",
+    "최대 대역폭 21.6Gbps (DP 1.2 기준)",
+    "2M·3M 제품: 최대 4K@30Hz (3840×2160) 해상도 지원",
+    "5M 제품: 최대 1080P FHD(1920×1080)까지만 지원",
+    "디지털 음성 전송 지원 (2채널 스테레오 / 5.1채널 / 7.1채널)",
+    "별도 외부 전원 불필요 (무전원 동작)",
+    "채널당 3Gbps 데이터 전송률 지원",
+    "금도금 커넥터로 산화 방지 및 신호 손실 최소화",
+    "미러 모드(복제 기능) 및 확장 모드(extender mode) 지원",
+    "커넥터 보호캡 포함",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "입력 단자": "Mini DisplayPort (Male)",
+    "출력 단자": "HDMI (Female)",
+    "DisplayPort 버전": "DP 1.2",
+    "최대 대역폭": "21.6Gbps",
+    "채널당 전송률": "3Gbps",
+    "최대 해상도": "4K*2K (3840x2160) @30Hz",
+    "지원 해상도": "4K*2K (3840x2160) @30Hz, 2560x1600, 1920x1080 (Full HD), HD 720P",
+    "3D 지원": "지원",
+    "오디오 지원": "2채널 스테레오, 5.1채널, 7.1채널 입체음향",
+    "전원": "별도 전원 불필요",
+    "케이블 길이": "180mm (0.18M) / 2M (LS-MDP192-2M), 3M (LS-MDP192-3M), 5M (LS-MDP192-5M)",
+    "색상": "White",
+    "인증": "KC, FCC, CE, RoHS / CE, E324703",
+    "KC 인증번호": "MSIP-REI-LUS-LS-MDP19",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "커넥터 타입": "Mini DisplayPort Male / HDMI Male",
+    "DP 버전": "DisplayPort 1.2",
+    "지원 해상도 (2M·3M)": "최대 3840×2160 (4K×2K) @30Hz, 2560×1600, 1920×1080 (Full HD), 1440P, 720P",
+    "지원 해상도 (5M)": "최대 1920×1080 (1080P FHD)",
+    "음성 출력": "2채널 스테레오, 5.1채널, 7.1채널",
+    "전압": "30V",
+    "작동 온도": "0~80℃",
+    "커넥터 도금": "금도금",
+    "전원 방식": "무전원 (별도 외부 전원 불필요)",
+    "케이블 규격": "AWM STYLE 20276, 80°C, 30V, VW-1",
+    "제조사·수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "HDMI Male 커넥터 크기": "가로 13.9mm × 세로 4.5mm × 높이 7.5mm (근사치)",
+    "Mini DisplayPort Male 커넥터 크기": "가로 21.3mm × 세로 4.5mm × 높이 7.1mm (근사치)",
+    "케이블 길이 범위": "2000~5000mm"
+  },
+  "compatibility": [
+    "Mini DisplayPort 장착 데스크탑 PC",
+    "Mini DisplayPort 장착 노트북",
+    "Macbook (New Mini Display Port)",
+    "HDMI 입력 지원 TV",
+    "HDMI 입력 지원 모니터/디스플레이",
+    "DisplayPort 1.2 규격 호환 기기",
+    "Mini DisplayPort 탑재 데스크탑 PC",
+    "Mini DisplayPort 탑재 노트북",
+    "HDMI 입력 지원 모니터·TV·프로젝터 등 대형 화면 기기",
+    "DisplayPort 1.2 규격",
+    "HDMI 규격 (4K UHD, Full HD, 1440P, 720P)",
+    "Dolby TrueHD, DTS-HD Master Audio 등 멀티채널 오디오 지원 기기",
+    "Blu-ray Disc, HD DVD 재생 기기"
+  ],
+  "package_contents": [
+    "Mini DP to HDMI 컨버터 케이블 (LS-MDP192) 1개",
+    "Mini DisplayPort to HDMI 컨버터 케이블 1개 (선택 길이: 2M / 3M / 5M)",
+    "커넥터 보호캡 (Mini DisplayPort 측, HDMI 측 각 1개)"
+  ],
+  "usage_instructions": "Mini DisplayPort 단자가 있는 PC, 노트북, 맥북 등의 Mini DisplayPort 포트에 케이블의 Mini DisplayPort(수) 단자를 연결하고, 반대쪽 HDMI(암) 단자에 HDMI 케이블을 연결하여 TV 등 대형 디스플레이에 연결합니다. 별도 전원 연결 없이 신호 변환이 이루어집니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "4K*2K 해상도는 @30Hz로 동작하며, 출력 기기의 HDMI 버전 및 지원 해상도에 따라 실제 출력이 제한될 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MDP192-2M",
+      "품목코드": "CAB-젠DP040",
+      "품목명": "[LANstar] 신호변환기, Mini 디스플레이 to HDMI, 4K*2K 30Hz, 2M[10779] (110개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-MDP192-3M",
+      "품목코드": "CAB-젠DP041",
+      "품목명": "[LANstar] 신호변환기, Mini 디스플레이 to HDMI, 4K*2K 30Hz, 3M[10780] (80개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-MDP192-5M",
+      "품목코드": "CAB-젠DP042",
+      "품목명": "[LANstar] 신호변환기, Mini 디스플레이 to HDMI, 4K*2K 30Hz, 5M (50개) [10781]",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-MDP192-2M",
+      "내용": "필요하다고는 생각해서 찾아보다가 원하는 제품이 있어 구매하여 만족하며 사용중입니다!"
+    },
+    {
+      "source_model": "LS-MDP192-5M",
+      "내용": "길이가 길어서 걱정했는데 아주 잘 되네요."
+    },
+    {
+      "source_model": "LS-MDP192-5M",
+      "내용": "좋은 상품 빠르게 잘 받았습니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-MDP192-3M",
+      "chatUrl": "2Lqb3",
+      "dateIso": "2025-04-14T04:34:36.575Z",
+      "name": "구야구야",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "이 상품 사서 쓰는 중인데요\n잘 되다가 안되더라구요",
+      "answer": "자사와 해당 구매처 상담공간이 달라 아래 링크에서 말씀 부탁드립니다. talk.naver.com/W4QWIB\n\n정확한 안내를 위해 아래 내용 확인 후 톡톡 부탁드립니다. 성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "자사와 해당 구매처 상담공간이 달라 아래 링크에서 말씀 부탁드립니다.\n\ntalk.naver.com/W4QWIB\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가"
+        },
+        {
+          "role": "customer",
+          "text": "권윤희/010-9723-0429/G마켓/오늘 재구매(동일상품25년4월13일)/LS-MDP192-3M"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인 후 톡톡 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)"
+        },
+        {
+          "role": "customer",
+          "text": "이 상품 사서 쓰는 중인데요\n잘 되다가 안되더라구요"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-MDP192-M": "LANStar®\nP DisplayPort Mini\n전원, 영상과 음성 지원\nMini DisplayPort 1.2 컨버터 케이블\nDP 1.2 TO HDMI\n4K*2K\n3D\nD Display\nPort\n30Hz\n1.2\nFULL HD\n2M LS-MDP192-2M\n3M LS-MDP192-3M\n5M LS-MDP192-5M\nMini Display Port 컨버터 케이블은?\n미니 디스플레이 포트가 장착된 PC나 노트북 같은 작은 화면의 영상\n이나 음성을 대형화면에서 볼 수 있도록 지원하는 케이블입니다\nP DisplayPort 7.2\n4K•2K @30Hz\nP\n25\n20\n21.6 GBPS\nDP 1.2 버전은 최대 21.6Gbps의 대역폭을\n보유하고 있어 DVI나 HDMI보다 높은\n전송률을 보이므로 1920x1080의 풀HD급,\n2560x16000|L+ 3840x2160(4K*2K)\n같은 초고해상도의 화면, 그리고 3D 입체영상\n의 구현도 가능합니다.\n또한 디지털 음성도 하나의 케이블로 전달해\n2채널 스테레오 음성은 기본으로 5.1채널이나\n7.1채널의 입체음향의 전송도 가능합니다.\n15\n10-\n10.8 GBPS\n5\nDP 1.1\nDP 1.2\nVersion\n※ 안내사항 ※\n2M, 3M 제품은 정상적으로 4K@30Hz의 해상도가 지원되지만\n5M 제품은 1080P FHD까지의 해상도만 지원됩니다.\n제품 구매시 참고하여 주시기 바랍니다.\nTM\nHDMI\nHIGH-DEFINITION MULTIMEDIA INTERFACE\n4K\nULTRA HD\n4K2K UHD(Ultra High Definition) 해상도는 기존의\nFull HD 1080p보다 4배 높은 고해상도 화질을 표현하여\n얼굴의 솜털까지 볼 수 있는 실물에 가까운\n생생한 화질을 제공하는게 특징입니다\n(5M 1080P FHD까지만 제공)\n3D\nFULL HD\nFULL)\n4Kx2K (3840x2160)\nHDMI 2.0\n\n\n3D\nFULL H\nFULL)\nHD\n4Kx2K (3840x2160)\nHDMI 2.0\nHIGH DEFINITION MULTIMEDIA INTERFACE\nHDMI3 1440P\nHDMI 1.2 FULL HD 1080P\nHD 720P\nDO DOLBY\nHD DVD\nBlu-ray Disc\nTRUEHD\nD\ndts HD\nMaster Audio\n無전원\n별도의 외부전원 없이\n동작됩니다\n3Gbps\n채널당 3Gbps의 데이터\n전송률을 지원합니다\n금도금\n콘넥터\n도급\n금도금 콘넥터라 산화가\n일어나지 않아 신호손실이\n적습니다\n복제 기능\nmirror mode\n동영상과 사진을 큰 화면에서 확대하여\n볼 수 있으며, 화면 회전도 가능합니다\nR\n회전 미러링\n영상 확장 모드\nextender mode\n제품 연결\nsystem connection\n151-\nCADE\n\n\n제품 연결\nsystem connection\n155-\nAn\n데스크탑 PC\n노트북\nMini DisplayPort (Male)\nHDMI (Male)\nPRODUCT SIZE\n2000~5000mm\n21.3mm\n11.4mm\n7.1mm\n13.9mm\n↓\n4.5mm\n7.5mm\n<HDMI Male>\n4.5mm\n<Mini DisplayPort Male>\nLS-MDP192-2M 2M\nLS-MDP192-3M 3M\nLS-MDP192-5M 5M\nDisplayPort\nE324703\nI\nAWM\nSTYLE\n20276\n80°C\n30V\nVW-1\nCE\n콘넥터 보호캡\n콘넥터 보호캡\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n콘넥터타입 Mini DP(Male) / HDMI (Male)\n전\n압 30V\n길\n이 2M / 3M / 5M\n작동온도 0~80℃\n상품정보\n품\n명\nMini DisplayPort 컨버터 케이블\nLANSStar®\n모\n델\n명\nLS-MDP192-2M/LS-MDP192-3M\nLS-MDP192-5M\n이\nス\n버\nㅎ\n해다어으\n\n\n상품정보\n품\n명\nMini DisplayPort 컨버터 케이블\nLANSta\n모\n델\n명\nStar\nLS-MDP192-2M/LS-MDP192-3M\nLS-MDP192-5M\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\nゼロ\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Mini DisplayPort"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": 0.18,
+      "length_options_meters": [
+        2,
+        3,
+        5
+      ],
+      "color_options": [
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": "DP1.2",
+      "dvi_type": null,
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Mini DisplayPort(수)",
+    "connectivity.output_signals": "HDMI(암)",
+    "connectivity.directional": "Mini DisplayPort(수) → HDMI(암) 신호 변환",
+    "power.power_mode": "별도 전원 연결 불필요 (버스 파워)",
+    "form_physical.material": "금도금 커넥터",
+    "form_physical.length_meters": "180mm (0.18M)",
+    "form_physical.length_options_meters": "2M·3M 제품: 최대 4K@30Hz",
+    "form_physical.color_options": "색상: White",
+    "certification.kc": "KC·FCC·CE 안전규격 인증",
+    "certification.rohs": "RoHS 환경 규격 준수",
+    "certification.fcc": "KC·FCC·CE 안전규격 인증",
+    "certification.ce": "KC·FCC·CE 안전규격 인증",
+    "audio_video.max_resolution": "4K*2K (3840x2160) @30Hz",
+    "audio_video.audio_pass": "디지털 음성 전송 지원",
+    "family.dp_version": "DisplayPort 1.2 버전 지원",
+    "family.optical_core": "Mini DisplayPort to HDMI 컨버터 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:32",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

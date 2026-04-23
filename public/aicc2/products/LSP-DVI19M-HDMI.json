@@ -1,0 +1,144 @@
+{
+  "model_no": "LSP-DVI19M-HDMI",
+  "product_name": "LANstar plus DVI-HDMI 케이블 (DVI 18+1(M) - HDMI 19(M))",
+  "category": [
+    "HDMI케이블",
+    "DVI",
+    "컨버터",
+    "커넥터"
+  ],
+  "key_features": [
+    "DVI-D Single Link(18+1핀) to HDMI(19핀) 변환 케이블",
+    "디지털 신호 전송 전용 (아날로그 RGB 미지원)",
+    "Full HD 해상도 1920×1200 지원",
+    "금도금 커넥터로 신호 손실 최소화",
+    "RoHS(유해물질 사용제한) 규격 준수",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 A": "DVI-D 18+1핀 (Male)",
+    "커넥터 B": "HDMI 19핀 (Male)",
+    "케이블 타입": "DVI-D Single Link",
+    "지원 해상도": "최대 1920×1200 (Full HD)",
+    "커넥터 도금": "금도금",
+    "길이 옵션": "1.8M, 3M, 5M",
+    "모델명 (1.8M)": "LSP-DVI19M-HDMI-1.8M",
+    "모델명 (3M)": "LSP-DVI19M-HDMI-3M",
+    "모델명 (5M)": "LSP-DVI19M-HDMI-5M",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주), 한국아이티판매협동조합",
+    "RoHS": "Compliant",
+    "인증번호": "상세페이지 참조"
+  },
+  "compatibility": [
+    "DVI-D Single Link 출력 지원 기기 (PC, 그래픽카드 등)",
+    "HDMI 입력 지원 기기 (프로젝터, 셋톱박스, 모니터, TV 등)"
+  ],
+  "package_contents": [
+    "DVI-HDMI 케이블 1개"
+  ],
+  "usage_instructions": "DVI-D 18+1핀(M) 단자를 DVI-D 출력 기기에 연결하고, HDMI 19핀(M) 단자를 HDMI 입력 기기에 연결하여 사용. 주로 프로젝터 및 셋톱박스 연결에 사용.",
+  "cautions": [
+    "DVI-D Single Link 케이블로 디지털 신호만 전송하며, 아날로그 RGB 신호는 전송되지 않습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "본 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상."
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-DVI19M-HDMI-1.8M",
+      "품목코드": "PCA-HDD001",
+      "품목명": "[◆Lanstar-Plus] DVI-HDMI 케이블 , DVI18+1/M- HDMI 19/M, Black 1.8M [70025](70개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-DVI19M-HDMI-3M",
+      "품목코드": "PCA-HDD002",
+      "품목명": "[◆Lanstar-Plus] DVI-HDMI 케이블 , DVI18+1/M- HDMI 19/M, Black 3M [70026](32개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-DVI19M-HDMI-5M",
+      "품목코드": "PCA-HDD003",
+      "품목명": "[◆Lanstar-Plus] DVI-HDMI 케이블 , DVI18+1/M- HDMI 19/M, Black 5M [70027] (24개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DVI-D"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1.8,
+        3.0,
+        5.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "DVI-D Single",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DVI-D 18+1핀 (Male)",
+    "connectivity.output_signals": "HDMI 19핀 (Male)",
+    "connectivity.directional": "DVI-HDMI 케이블",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.material": "금도금 커넥터",
+    "form_physical.length_options_meters": "1.8M, 3M, 5M",
+    "certification.rohs": "RoHS(유해물질 사용제한) 규격 준수",
+    "audio_video.max_resolution": "Full HD 해상도 1920×1200 지원",
+    "audio_video.audio_pass": "디지털 신호 전송 전용 (아날로그 RGB 미지원)",
+    "family.dvi_type": "DVI-D Single Link(18+1핀)"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:28",
+  "feature_schema_version": "1.0.0"
+}

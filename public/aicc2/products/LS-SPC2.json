@@ -1,0 +1,149 @@
+{
+  "model_no": "LS-SPC2",
+  "product_name": "LANStar 데스크탑 파워 스위치 컨트롤러",
+  "category": [
+    "USB2.0",
+    "LED램프"
+  ],
+  "key_features": [
+    "LED 표시등을 통해 PC 전원 상태 확인 가능",
+    "USB 2.0 포트 2개 내장 (최대 전송속도 480Mbps)",
+    "Audio 1포트 및 Microphone 1포트 내장",
+    "원터치 작동으로 전원/리셋 버튼 조작 가능",
+    "3M 스티커로 책상이나 벽면에 고정 가능",
+    "외부 케이블은 HDMI 단자 연결방식으로 간편 연결",
+    "내부 케이블은 메인보드 연결 후 PC 브라켓에 고정 가능",
+    "수납형 컴퓨터 책상, PC방 등 PC 본체가 숨겨진 환경에 적합"
+  ],
+  "specifications": {
+    "제품명": "데스크탑 파워 스위치 컨트롤러",
+    "모델명": "LS-SPC2",
+    "인증번호": "R-R-LUS-LS-SPW",
+    "외부 단자": "Power Button x1, Reset Button x1, USB2.0 x2, Audio x1, Microphone x1",
+    "메인보드 연결": "USB, HD AUDIO, POWER SW, RESET SW, POWER LED +, POWER LED -",
+    "PC 본체 외부 케이블 길이": "약 1m",
+    "PC 본체 내부 케이블 길이": "약 30cm",
+    "무게": "118g",
+    "지름": "87mm",
+    "높이": "34mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "USB 2.0 규격 (최대 전송속도 480Mbps)",
+    "메인보드 HD AUDIO 단자",
+    "메인보드 USB1/USB2 단자",
+    "메인보드 POWER SW 단자",
+    "메인보드 RESET SW 단자",
+    "메인보드 POWER LED +/- 단자",
+    "PC 본체 LP 브라켓"
+  ],
+  "package_contents": [
+    "데스크탑 파워 스위치 컨트롤러 본체 (LS-SPC2)",
+    "메인보드 연결 케이블 (약 30cm)",
+    "PC 본체 연결 케이블 (약 1m)",
+    "HD AUDIO 아답터",
+    "3M 스티커 (제품 하단 부착)"
+  ],
+  "usage_instructions": "1. 내부 케이블(약 30cm)을 메인보드의 HD AUDIO, USB, POWER SW, RESET SW, POWER LED+, POWER LED- 단자에 각각 연결한다. AUDIO 단자는 제공된 HD AUDIO 아답터에 먼저 연결한 후 메인보드 AUDIO 단자에 연결한다. 2. 내부 케이블을 PC 본체 뒤쪽 LP 브라켓에 고정한다. 3. 외부 케이블(약 1m)을 HDMI 단자 연결방식으로 본체 브라켓 연결부와 스위치 컨트롤러 본체에 연결한다. 4. 제품 하단의 3M 스티커를 이용해 원하는 위치(책상 또는 벽면)에 고정한다. 5. 전원 버튼을 누르면 LED 표시등이 점등되어 PC 전원 상태를 확인할 수 있다.",
+  "cautions": [
+    "USB 2.0 규격으로 최대 전송속도 480Mbps까지만 지원됨",
+    "HD AUDIO 아답터를 반드시 사용하여 AUDIO 단자를 메인보드에 연결할 것",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SPC2",
+      "품목코드": "CAB-잡자재444",
+      "품목명": "[LANstar] 데스크탑 스마트 파워 스위치 컨트롤러 1M [20331] (34개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "3.5mm",
+        "내장케이블"
+      ],
+      "output_signals": [
+        "USB-A",
+        "3.5mm",
+        "내장케이블"
+      ],
+      "directional": "양방향",
+      "port_count": 6
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        0.3
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 2.0 포트 2개 내장",
+    "connectivity.output_signals": "USB 2.0 포트 2개 내장",
+    "connectivity.directional": "USB 2.0 포트 2개 내장",
+    "connectivity.port_count": "USB2.0 x2, Audio x1, Microphone x1",
+    "power.power_mode": "USB, HD AUDIO, POWER SW, RESET SW, POWER LED +, POWER LED -",
+    "power.charging_support": "USB 2.0 포트 2개 내장",
+    "form_physical.has_case": "LANStar 데스크탑 파워 스위치 컨트롤러",
+    "form_physical.material": "플라스틱",
+    "form_physical.length_options_meters": "PC 본체 외부 케이블 길이: 약 1m",
+    "certification.kc": "인증번호: R-R-LUS-LS-SPW",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "Audio 1포트 및 Microphone 1포트 내장",
+    "control_switching.has_physical_button": "원터치 작동으로 전원/리셋 버튼 조작 가능",
+    "family.usb_version": "USB 2.0 포트 2개 내장",
+    "family.transfer_speed_gbps": "최대 전송속도 480Mbps",
+    "family.charging_only": "USB 2.0 포트 2개 내장",
+    "family.data_only": "USB 2.0 포트 2개 내장"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:43",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,237 @@
+{
+  "model_no": "LS-DP29",
+  "product_name": "LANStar DisplayPort to DVI 컨버터 (DP/M-DVI 24+5P/F)",
+  "category": [
+    "DVI",
+    "DisplayPort",
+    "컨버터"
+  ],
+  "key_features": [
+    "별도 전원 불필요 (무전원 구동)",
+    "영상 및 음성 신호 지원",
+    "DisplayPort 1.1a 규격 지원 (최대 대역폭 10.8Gbps)",
+    "최대 해상도 1920x1200@60Hz (Full HD급) 지원",
+    "3D 입체영상 구현 지원",
+    "DPCP(디스플레이포트 콘텐츠 보호) 지원",
+    "HDCP(고대역 디지털 콘텐츠 보호) 지원",
+    "Sleep mode(Suspend mode) 지원",
+    "RoHS 규격 준수",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "KC 인증 획득 (국립전파연구원)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "DisplayPort(Male)를 DVI 24+1pin(Male)으로 변환하는 컨버터 케이블",
+    "DisplayPort 1.1 버전 지원, 최대 10.8Gbps 대역폭",
+    "최대 해상도 1920x1200 @60Hz 풀HD급 지원",
+    "3D 입체영상 구현 가능",
+    "디스플레이포트 콘텐츠 보호(DPCP) 및 고대역 디지털 콘텐츠 보호(HDCP) 지원",
+    "별도의 외부전원 없이 동작",
+    "채널당 3Gbps 데이터 전송 지원",
+    "금도금 커넥터로 산화 방지 및 신호손실 최소화",
+    "복제 기능(Mirror Mode) 및 영상 확장 모드(Extender Mode) 지원",
+    "화면 회전 기능 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "DisplayPort(Male)에서 DVI 24+1핀(Male)으로 변환하는 컨버터 케이블",
+    "최대 해상도 1920x1200 @60Hz (Full HD) 지원",
+    "별도의 외부 전원 불필요",
+    "금도금 커넥터 적용으로 산화 방지 및 신호 손실 최소화",
+    "복제(Mirror) 모드 및 영상 확장(Extender) 모드 지원"
+  ],
+  "specifications": {
+    "입력 인터페이스": "DisplayPort 1.1a (Male)",
+    "출력 인터페이스": "DVI-I 24+5P (Female)",
+    "최대 해상도": "1920x1200@60Hz / 1920x1200 @60Hz",
+    "전송 대역폭": "최대 10.8Gbps",
+    "전원 방식": "무전원 (버스 파워)",
+    "케이블 길이": "0.2M",
+    "색상": "BLACK",
+    "제품 크기": "250mm x 45mm x 45mm (본체), 커넥터부 45mm x 20mm x 9.5mm x 15mm",
+    "인증번호": "KCC-REI-LUS-LS-MDP19 / 해당없음",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "커넥터 타입": "DP Male / DVI 24+1 Male / DisplayPort Male / DVI 24+1 Male",
+    "DisplayPort 버전": "1.1",
+    "최대 대역폭": "10.8Gbps",
+    "채널당 전송속도": "3Gbps",
+    "전압": "30V",
+    "길이": "2M / 3M / 5M",
+    "작동온도": "0~80°C",
+    "커넥터 도금": "금도금",
+    "케이블 규격": "AWM STYLE 20276, 80°C, 30V, VW-1",
+    "작동 온도": "0~80°C",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "DisplayPort 출력 단자를 갖춘 PC, 노트북",
+    "DVI 입력 단자를 갖춘 모니터",
+    "DVI 입력 단자를 갖춘 TV",
+    "DVI 입력 단자를 갖춘 프로젝터",
+    "DisplayPort 1.1a 규격",
+    "DVI-I 24+5P 규격",
+    "HDCP 지원 기기",
+    "해상도: Full HD 1920x1200 / 1080p / HD 1280x720 / SD 720x480",
+    "DisplayPort 포트 탑재 데스크탑 PC",
+    "DisplayPort 포트 탑재 노트북",
+    "DVI 24+1pin 입력 지원 모니터 및 대형 디스플레이",
+    "DisplayPort 1.1 규격 호환 기기",
+    "DVI 24+1 입력 지원 모니터/디스플레이"
+  ],
+  "package_contents": [
+    "DisplayPort to DVI 컨버터 본체 1개 (DVI 케이블 별도 구매)",
+    "DisplayPort to DVI 컨버터 케이블 (2M 또는 3M 또는 5M 중 선택)",
+    "커넥터 보호캡 (DisplayPort 측)",
+    "커넥터 보호캡 (DVI 측)",
+    "DisplayPort 컨버터 케이블 본체 (DP Male to DVI 24+1 Male) 1개",
+    "커넥터 보호캡 (DisplayPort 측) 1개",
+    "커넥터 보호캡 (DVI 측) 1개"
+  ],
+  "usage_instructions": "1. 컨버터의 DisplayPort(Male) 단자를 PC 또는 노트북의 DisplayPort 출력 포트에 연결합니다. 2. 별도 구매한 DVI 케이블을 컨버터의 DVI(Female) 단자에 연결합니다. 3. DVI 케이블의 반대쪽을 모니터, TV 또는 프로젝터의 DVI 단자에 연결합니다. 4. DisplayPort 커넥터 분리 시: 고정핀 버튼을 화살표 방향으로 누르면 고정핀이 내려가 쉽게 분리됩니다.",
+  "cautions": [
+    "DVI 케이블은 별도 구매가 필요합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DP29",
+      "품목코드": "CAB-젠DP021",
+      "품목명": "[LANstar] 신호변환기, 디스플레이포트 DP to DVI, 0.2M [30045] (120개)",
+      "variant_suffix": "",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP29-2M",
+      "품목코드": "CAB-젠DP052",
+      "품목명": "[LANstar] 신호변환기, 디스플레이 to DVI, 2M [10773] (80개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP29-3M",
+      "품목코드": "CAB-젠DP053",
+      "품목명": "[LANstar] 신호변환기, 디스플레이 to DVI, 3M [10774] (50개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP29-5M",
+      "품목코드": "CAB-젠DP054",
+      "품목명": "[LANstar] 신호변환기, 디스플레이 to DVI, 5M [10775] (40개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DP29",
+      "내용": "잘썼습니다 감사합니다."
+    },
+    {
+      "source_model": "LS-DP29-2M",
+      "내용": "실물과 동일 합니다~~"
+    },
+    {
+      "source_model": "LS-DP29-2M",
+      "내용": "너무 좋습니다 추천합니다"
+    },
+    {
+      "source_model": "LS-DP29-2M",
+      "내용": "빠른 배송에 감사드리며 저렴하게 구매하였습니다."
+    },
+    {
+      "source_model": "LS-DP29-3M",
+      "내용": "배송 빠르게 잘받았습니다,"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-DP29-M": "LANStar®\nD DisplayPort\n전원, 영상과 음성지원\nDisplayPort 컨버터 케이블\nDP TO DVI\nSD\nD Display\nPort\n1.1\nFULL HD\n2M LS-DP29-2M\n3M LS-DP29-3M\n5M LS-DP29-5M\nDisplayPort 컨버터 케이블은?\n디스플레이 포트가 장착된 PC나 노트북 같은 작은 화면의 영상\n이나 음성을 대형화면에서 볼 수 있도록 지원하는 케이블입니다\nD DisplayPort Z.Z\n1920*1200 @60Hz\n0\nDP 1.1버전은 최대 10.8Gbps의 대역폭을 보유하고 있어 DVI나 HDMI보다 높은\n전송률을 보이므로 1920x1200의 풀HD급 초고해상도의 화면, 그리고 3D 입체영상의\n구현도 가능합니다.\n디스플레이포트 콘텐츠 보호(DPCP) 뿐만 아니라 고대역 디지털 콘텐츠 보호(HDCP)도\n지원합니다.\n별도의 외부전원 없이\n전원\nTHERE\n3Gbps\n채널당 3Gbps의 데이터\n저소르으 지원하니다\n금도금\n금도금 콘넥터라 산화가\n일어나지 않아 신호손실이\n적습니다\n복제 기능\nmirror mode\n동영상과 사진을 큰 화면에서 확대하여\n볼 수 있으며, 화면 회전도 가능합니다\n\n\nmirror mode\n동영상과 사진을 큰 화면에서 확대하여\n볼 수 있으며, 화면 회전도 가능합니다\nR\n회전 미러링\n+\n영상 확장 모드\nextender mode\n제품 연결\nsystem connection\n데스크탑 PC\n노트북\nDisplayPort (Male)\nDVI 24+1pin (Male)\nPRODUCT SIZE\n2000~5000mm\n42.6mm\nfoun\n20.3mm\n7.1mm\n25.5mm\n8.9mm\n4.7mm\n<DVI 24+1pin Male>\n↑\n16mm 이\n<DisplayPort Male>\n디스플레이 포트 분리 방법\n고정핀\n화살표 방향으로 버튼을 누릅니다\n고정핀이 내려가서 쉽게 빠집니다.\n\n\n화살표 방향으로 버튼을 누릅니다\n고정핀이 내려가서 쉽게 빠집니다\nOoo\nLS-DP29-2M 2M\nLS-DP29-3M 3M\nLS-DP29-5M 5M\nDisplayPort\nCable\nAWM\nSTYLE\n20276\n80°C\n30V\nVW-1\n콘넥터 보호캡\n콘넥터 보호캡\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n콘넥터타입\nDP(Male) / DVI 24+1(Male)\n전\n압\n30V\n길\n이\n2M/3M/5M\n작동온도\n0~80°C\n상품정보\n품\n명\nDisplayPort 컨버터 케이블\nLAN StaStar\nⓇ\n모\n델\n명\nLS-DP29-2M / LS-DP29-3M\nLS-DP29-5M\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLAN STO\nⓇ\nStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.",
+    "LS-DP29-XXM": "LANSStar\nD DisplayPort\n전원, 영상과 음성 지원\nDisplayPort 컨버터 케이블\nDP TO DVI\nSD\nD Display\nPort\n1.1\nFULL HD\n2M LS-DP29-2M\n3M LS-DP29-3M\n(5M LS-DP29-5M\nDisplayPort 컨버터 케이블은?\n디스플레이 포트가 장착된 PC나 노트북 같은 작은 화면의 영상\n이나 음성을 대형화면에서 볼 수 있도록 지원하는 케이블입니다\nD DisplayPort Z.Z\n1920*1200 @60Hz\n0\nDP 1.1버전은 최대 10.8Gbps의 대역폭을 보유하고 있어 DVI나 HDMI보다 높은\n전송률을 보이므로 1920x1200의 풀HD급 초고해상도의 화면, 그리고 3D 입체영상의\n구현도 가능합니다.\n디스플레이포트 콘텐츠 보호(DPCP) 뿐만 아니라 고대역 디지털 콘텐츠 보호(HDCP)도\n지원합니다.\n별도의 외부전원 없이\n전원\n도자UL\n3Gbps\n채널당 3Gbps의 데이터\n저소르으 지원하니다.\n금도금\n넥ㅌ\n금도금 콘넥터라 산화가\n일어나지 않아 신호손실이\n적습니다\n복제 기능\nmirror mode\n동영상과 사진을 큰 화면에서 확대하여\n볼 수 있으며, 화면 회전도 가능합니다\n\n\nmirror mode\n동영상과 사진을 큰 화면에서 확대하여\n볼 수 있으며, 화면 회전도 가능합니다\nR\n회전 미러링\n+\n영상 확장 모드\nextender mode\n제품 연결\nsystem connection\n데스크탑 PC\n노트북\nDisplayPort (Male)\nDVI 24+1pin (Male)\nPRODUCT SIZE\n2000~5000mm\n42.6mm\n| 00000\n20.3mm\n7.1mm\n25.5mm\n8.9mm\n4.7mm\n<DVI 24+1pin Male>\n↑\n16mm 이\n<DisplayPort Male>\n디스플레이 포트 분리 방법\n고정핀\n화살표 방향으로 버튼을 누릅니다\n고정핀이 내려가서 쉽게 빠집니다.\n\n\n화살표 방향으로 버튼을 누릅니다\n고정핀이 내려가서 쉽게 빠집니다\nOoo\nLS-DP29-2M 2M\nLS-DP29-3M 3M\nLS-DP29-5M 5M\nDisplayPort\nCable\nAWM\nSTYLE\n20276\n80°C\n30V\nVW-1\n콘넥터 보호캡\n콘넥터 보호캡\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n콘넥터타입\nDP(Male) / DVI 24+1(Male)\n전\n압\n30V\n길\n이\n2M/3M/5M\n작동온도\n0~80°C\n상품정보\n품\n명\nDisplayPort 컨버터 케이블\nLANSStar\n모\n델\n명\nLS-DP29-2M / LS-DP29-3M\nLS-DP29-5M\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DisplayPort"
+      ],
+      "output_signals": [
+        "DVI-I"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": 0.2,
+      "length_options_meters": [
+        2,
+        3,
+        5
+      ],
+      "color_options": [
+        "BLACK"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1920x1200@60Hz",
+      "hdr_support": null,
+      "hdcp_version": "HDCP",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "DP1.1a",
+      "dvi_type": "DVI-I 24+5P",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DisplayPort(Male)",
+    "connectivity.output_signals": "DVI-I 24+5P (Female)",
+    "connectivity.directional": "DisplayPort(Male)를 DVI 24+1pin(Male)으로 변환",
+    "power.power_mode": "별도 전원 불필요 (무전원 구동)",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "제품 크기: 250mm x 45mm x 45mm (본체)",
+    "form_physical.material": "금도금 커넥터",
+    "form_physical.length_meters": "케이블 길이: 0.2M",
+    "form_physical.length_options_meters": "길이: 2M / 3M / 5M",
+    "form_physical.color_options": "색상: BLACK",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "최대 해상도 1920x1200@60Hz",
+    "audio_video.hdcp_version": "HDCP(고대역 디지털 콘텐츠 보호) 지원",
+    "audio_video.audio_pass": "영상 및 음성 신호 지원",
+    "family.dp_version": "DisplayPort 1.1a 규격 지원",
+    "family.dvi_type": "DVI-I 24+5P (Female)",
+    "family.optical_core": "DisplayPort to DVI 컨버터",
+    "family.ethernet_channel": "DisplayPort to DVI 컨버터"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:44",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,150 @@
+{
+  "model_no": "LSP-VGA2HD",
+  "product_name": "LAN Star VGA to HDMI 컨버터 (오디오 지원)",
+  "category": [
+    "VGA",
+    "컨버터"
+  ],
+  "key_features": [
+    "아날로그 VGA 비디오 및 오디오 신호를 디지털 HDMI 신호로 변환 출력",
+    "최대 1920x1080 Full HD 해상도 지원",
+    "1080P Full HD 3D 영상 지원",
+    "오디오 입력 단자(스테레오) 지원으로 음성 신호 동시 변환",
+    "USB 5V/1A 전원 공급 방식",
+    "HDCP(고대역 디지털 콘텐츠 보호) 지원",
+    "소형(MINI) 경량 휴대형 디자인",
+    "KC, FCC, CE 안전규격 인증 획득",
+    "RoHS 규정 준수 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "입력 단자": "VGA, 오디오(스테레오)",
+    "출력 단자": "HDMI",
+    "최대 해상도": "1920x1080 (Full HD 1080p)",
+    "지원 해상도": "1920x1080, 1280x720, 720x480",
+    "3D 지원": "1080P Full HD 3D 지원",
+    "전원 공급": "USB 5V / 1A",
+    "케이블 길이": "48cm",
+    "제품 크기": "55mm x 20mm x 61mm",
+    "인증번호": "MSIP-REI-LUS-LS-VGA2HD",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증 규격": "KC, FCC, CE, RoHS, ISO 9001:2008"
+  },
+  "compatibility": [
+    "VGA 출력 지원 노트북",
+    "VGA 출력 지원 데스크탑 PC",
+    "DVD 플레이어 (VGA 출력)",
+    "각종 콘솔 기기 (VGA 출력)",
+    "HDMI 입력 지원 TV",
+    "HDMI 입력 지원 모니터",
+    "HDMI 입력 지원 프로젝터"
+  ],
+  "package_contents": [
+    "VGA to HDMI 컨버터 본체 (LSP-VGA2HD)",
+    "USB 전원 공급 케이블",
+    "사용자 매뉴얼"
+  ],
+  "usage_instructions": "1) 컨버터의 VGA 입력 단자에 PC/노트북의 VGA 케이블을 연결합니다. 2) 오디오 입력 단자에 스테레오(오디오) 케이블을 연결합니다. 3) HDMI 출력 단자에 HDMI 케이블을 연결하여 TV, 모니터, 프로젝터 등에 연결합니다. 4) USB 전원 공급 케이블을 USB 포트에 연결하여 전원을 공급합니다(필수). ※ HDMI 케이블, RGB(VGA) 케이블, 스테레오(오디오) 케이블은 별도 구매 필요.",
+  "cautions": [
+    "HDMI 케이블, RGB(VGA) 케이블, 스테레오(오디오) 케이블은 별도 구매 필요",
+    "USB 전원 공급 케이블 연결은 필수 사항",
+    "전원 사양: 5V / 1A 준수",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품 및 콘텐츠 무단 복제 및 이용 시 불이익 발생 가능",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-VGA2HD",
+      "품목코드": "INT-HDS116",
+      "품목명": "[◆Lanstar-Plus] VGA TO HDMI 컨버터, 오디오지원[60120] (200개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-VGA2HD",
+      "내용": "잘받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LSP-VGA2HD",
+      "내용": "음 다른 원인 일수도 있지만 변환을 거치기 때문인지 초기 부팅 화면이 디스플레이 안되고 os 부팅 화면부터 보이는 단점이 있는것 같습니다 나머지는 만족합니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA",
+        "3.5mm",
+        "USB-A"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.48,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "VGA 입력 단자에 PC/노트북의 VGA 케이블을 연결합니다. 2) 오디오 입력 단자에 스테레오(오디오) 케이블을 연결합니다. 4) USB 전원 공급 케이블을 USB 포트에 연결하여 전원을 공급합니다",
+    "connectivity.output_signals": "HDMI 출력 단자에 HDMI 케이블을 연결하여 TV, 모니터, 프로젝터 등에 연결합니다.",
+    "connectivity.directional": "VGA to HDMI 컨버터",
+    "power.power_mode": "USB 5V/1A 전원 공급 방식",
+    "form_physical.has_case": "소형(MINI) 경량 휴대형 디자인",
+    "form_physical.length_meters": "케이블 길이: 48cm",
+    "certification.kc": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.rohs": "RoHS 규정 준수 제품",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.ce": "KC, FCC, CE 안전규격 인증 획득",
+    "audio_video.max_resolution": "최대 1920x1080 Full HD 해상도 지원",
+    "audio_video.hdcp_version": "HDCP(고대역 디지털 콘텐츠 보호) 지원",
+    "audio_video.audio_pass": "오디오 입력 단자(스테레오) 지원으로 음성 신호 동시 변환",
+    "family.optical_core": "VGA to HDMI 컨버터"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:56",
+  "feature_schema_version": "1.0.0"
+}

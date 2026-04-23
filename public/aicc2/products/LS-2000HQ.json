@@ -1,0 +1,115 @@
+{
+  "model_no": "LS-2000HQ",
+  "product_name": "LS-2000HQ 허브랙 (42U)",
+  "category": [
+    "허브랙"
+  ],
+  "key_features": [
+    "42U 랙 캐비닛",
+    "높이 2000mm, 깊이 800mm, 폭 600mm 규격",
+    "무게 107kg"
+  ],
+  "specifications": {
+    "모델명": "LS-2000HQ",
+    "U수": "42U",
+    "높이(H)": "2000mm",
+    "깊이(D)": "800mm",
+    "폭(W)": "600mm",
+    "무게": "107kg"
+  },
+  "compatibility": [],
+  "package_contents": [
+    "LS-2000HQ 랙 본체 1ea",
+    "랙 고정 다리 4ea",
+    "허브랙 열쇠 4ea",
+    "케이지너트, 볼트 각 40개 1SET"
+  ],
+  "usage_instructions": null,
+  "cautions": [],
+  "variants": [
+    {
+      "model_no": "LS-2000HQ",
+      "품목코드": "NEO-허브랙096",
+      "품목명": "[LANstar] 고급형 허브랙 2000*800*600mm (H*D*W) Black [42U][55069]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-2000HQ",
+      "내용": "보안때문에 설치 사진은 못찍었지만ㅜ\n처음에 조금 해메다가 어렵지않게 금방 설치 잘 했습니다. ㅎㅎ묵직하고 튼튼해요.\n선반 설치 후 발송 추가금 옵션 있으면 좋겠어요ㅜㅜ(제가 못봤을지도)"
+    },
+    {
+      "source_model": "LS-2000HQ",
+      "내용": "배송일자에 시간까지 잘 맞춰주셔서 공사 잘 끝났습니다. 허브랙은 여기서 계속 구매하려합니다.",
+      "관련내용": "배송지가 달라서 사진을 찍을수가 없어요\n영수증 첨부요~~\n배송 날짜 시간 요청했는데 답변도 친절하고\n좋았습니다"
+    },
+    {
+      "source_model": "LS-2000HQ",
+      "내용": "배송지가 달라서 사진을 찍을수가 없어요\n영수증 첨부요~~\n배송 날짜 시간 요청했는데 답변도 친절하고\n좋았습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": null,
+      "port_count": null
+    },
+    "power": {
+      "power_mode": null,
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": null,
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "rack_unit": 42,
+      "mount_type": "standing",
+      "depth_mm": 800,
+      "width_mm": 600,
+      "height_mm": 2000,
+      "has_door": null,
+      "has_lock": null,
+      "has_fan": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "랙 캐비닛",
+    "family.rack_unit": "42U 랙 캐비닛",
+    "family.mount_type": "허브랙",
+    "family.depth_mm": "깊이 800mm",
+    "family.width_mm": "폭 600mm",
+    "family.height_mm": "높이 2000mm"
+  },
+  "feature_extracted_at": "2026-04-23T03:06:28",
+  "feature_schema_version": "1.0.0"
+}

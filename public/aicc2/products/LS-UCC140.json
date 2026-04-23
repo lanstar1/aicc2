@@ -1,0 +1,136 @@
+{
+  "model_no": "LS-UCC140",
+  "product_name": "LANStar USB Type-C 2 in 1 140W 고속충전 듀얼 케이블",
+  "category": [
+    "USB케이블",
+    "USB-C",
+    "USB2.0"
+  ],
+  "key_features": [
+    "최대 140W(PD3.1 EPR, 28V/5A) 고출력 충전 지원",
+    "Type-C 기기 2대 동시 PD 고속충전 유지",
+    "스마트 파워 매니지먼트 시스템 내장 (기기별 전력 자동 감지·조절)",
+    "최대 480Mbps 데이터 전송 지원 (USB 2.0 수준)",
+    "패브릭 외피 고내구성 케이블",
+    "굽힘 10,000회 / 인장 5kg / 낙하 1.2m / 삽입·분리 10,000회 내구 테스트 통과",
+    "140W 풀로드 테스트 시 온도 50°C 이하 유지",
+    "과전류 보호(OCP), 과온 보호(OTP), 단락 보호(SCP) 내장",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "최대 출력": "140W (C1 또는 C2 단독 사용 시)",
+    "지원 프로토콜": "PD3.1 / PD3.0 / PD2.0",
+    "데이터 전송 속도": "최대 480Mbps (USB 2.0 수준)",
+    "케이블 총 길이": "120cm (메인 라인 약 90cm + 브랜치 라인 약 30cm)",
+    "커넥터 타입": "USB Type-C to Type-C (2 in 1)",
+    "외피 소재": "패브릭",
+    "보호 기능": "과전류 보호(OCP), 과온 보호(OTP), 단락 보호(SCP)",
+    "내구 테스트": "굽힘 10,000회, 인장 5kg, 낙하 1.2m, 삽입·분리 10,000회 전 항목 Qualified",
+    "풀로드 온도": "50°C 이하 (140W 풀로드 테스트 기준)",
+    "제조국": "중국 (China)",
+    "제조사·수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "USB Type-C 포트 및 PD 충전 지원 기기",
+    "노트북 (맥북, 고성능 노트북 등 PD 충전 지원 모델)",
+    "태블릿 (아이패드 등 PD 충전 지원 모델)",
+    "스마트폰 (갤럭시 S24FE, PD 지원 Android·iOS 기기)",
+    "무선 이어폰 (USB Type-C PD 지원 모델)",
+    "닌텐도 스위치 (USB Type-C PD 지원)",
+    "Apple, Samsung, Xiaomi, Huawei, OnePlus 등 다양한 브랜드 호환 확인",
+    "PD3.1 EPR 지원 140W급 어댑터 권장 (최대 출력 사용 시)"
+  ],
+  "package_contents": [
+    "USB C to C 2 in 1 고속충전 케이블 (LS-UCC140) 1개"
+  ],
+  "usage_instructions": "어댑터에 메인 라인(약 90cm)의 커넥터를 연결한 후, 브랜치 라인(약 30cm) 2개의 커넥터를 충전할 기기 각각에 연결하여 사용. 최대 140W 출력 사용 시 PD3.1 EPR 지원 140W급 어댑터 사용 권장. 두 기기의 총 전력 합이 140W를 초과하지 않는 범위 내에서 동시 고속충전 가능.",
+  "cautions": [
+    "동시 충전 시 두 기기의 총 전력 합이 140W를 초과하지 않아야 정상적으로 고속충전 가능",
+    "최대 출력(140W) 사용 시 PD3.1 EPR 지원 140W급 어댑터 사용 권장",
+    "65W 어댑터 사용 시 총 출력이 65W로 제한되어 두 기기 동시 고속충전이 어려울 수 있음",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처 제품은 A/S 불가",
+    "제조사 사정에 따라 색상 및 형태 등 사양이 예고 없이 변경될 수 있음",
+    "본 제품 콘텐츠 무단 복제 및 이용 시 불이익 발생 가능",
+    "당일출고는 오후 4시 이전 결제완료 건 기준, 토·일·공휴일 제외 평일에 한함",
+    "택배사 사정에 따라 배송기간이 길어질 수 있음 (평균 1~2일 소요)"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UCC140",
+      "품목코드": "CAB-U31551",
+      "품목명": "[LANstar] USB C to C 2 in 1 케이블, 140W 지원 [30961]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-C"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": true,
+      "pd_watts": 140
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "패브릭"
+      ],
+      "length_meters": 1.2,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "커넥터 타입: USB Type-C to Type-C",
+    "connectivity.output_signals": "커넥터 타입: USB Type-C to Type-C",
+    "connectivity.directional": "Type-C 기기 2대 동시 PD 고속충전 유지",
+    "connectivity.port_count": "Type-C 기기 2대 동시 PD 고속충전 유지",
+    "power.charging_support": "140W 고속충전 듀얼 케이블",
+    "power.pd_watts": "최대 140W(PD3.1 EPR, 28V/5A) 고출력 충전 지원",
+    "form_physical.material": "패브릭 외피 고내구성 케이블",
+    "form_physical.length_meters": "케이블 총 길이: 120cm",
+    "family.usb_version": "최대 480Mbps 데이터 전송 지원 (USB 2.0 수준)",
+    "family.transfer_speed_gbps": "최대 480Mbps 데이터 전송 지원 (USB 2.0 수준)",
+    "family.charging_only": "최대 480Mbps 데이터 전송 지원",
+    "family.data_only": "최대 140W(PD3.1 EPR, 28V/5A) 고출력 충전 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:58",
+  "feature_schema_version": "1.0.0"
+}

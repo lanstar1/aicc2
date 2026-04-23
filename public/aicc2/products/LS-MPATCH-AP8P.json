@@ -1,0 +1,137 @@
+{
+  "model_no": "LS-MPATCH-AP8P",
+  "product_name": "LAN Star 스마트폰 무선충전패드 (iPhone 8Pin)",
+  "category": [
+    "커넥터",
+    "무선충전",
+    "아이폰케이블"
+  ],
+  "key_features": [
+    "케이블 없이 무선으로 스마트폰 충전 가능",
+    "가볍고 컴팩트한 사이즈로 휴대 및 이동 편리",
+    "iPhone 8Pin 커넥터 연결 방식",
+    "Qi 표준 규격 송신기 호환",
+    "Tb884 또는 WPC 표준 규격 지원 제품 권장",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 인증 / ISO 9001:2008 품질경영시스템 적용",
+    "CE, FC, RoHS 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-MPATCH-AP8P",
+    "커넥터 타입": "iPhone 8Pin",
+    "Input": "DC 5V / 1A (Self-adaptation)",
+    "Output (수신 전압)": "DC 5V / 800mA",
+    "Output (패드 표기)": "1000mA",
+    "패드 크기": "72mm x 44mm",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증": "CE, FC, RoHS, ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "iPhone 7",
+    "iPhone 7 Plus",
+    "iPhone 6 Plus",
+    "iPhone 6",
+    "iPhone 6S",
+    "iPhone 5",
+    "iPhone 5S",
+    "iPhone 5C",
+    "iPhone 5SE",
+    "Qi 표준 규격 무선충전 송신기",
+    "Tb884 표준 규격 지원 무선충전기",
+    "WPC 표준 규격 지원 무선충전기"
+  ],
+  "package_contents": [
+    "스마트폰 무선충전 수신 패드 (iPhone 8Pin) 1개"
+  ],
+  "usage_instructions": "1) iPhone의 8Pin 포트에 무선충전 수신 패드를 연결한다. 2) 무선충전기(별도 구매, 권장 모델: LS-HCS-9) 위에 스마트폰을 올려놓으면 충전이 시작된다. 3) 별도의 충전 케이블 및 플러그 불필요. 4) 휴대 시 기기에 연결된 패드를 케이스 안에 함께 넣어 보관 가능.",
+  "cautions": [
+    "무선충전기는 별도 구매 필요 (권장 모델: LS-HCS-9)",
+    "Tb884 또는 WPC 표준 규격을 지원하는 무선충전기 사용 권장",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MPATCH-AP8P",
+      "품목코드": "CAB-APP615",
+      "품목명": "[LANstar] 아이폰용 애플 8핀용 무선 충전 패치 [60086]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "무선"
+      ],
+      "output_signals": [
+        "무선"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "iPhone 8Pin",
+      "connector_type_b": "무선충전패드",
+      "gender": "M-F",
+      "pin_count": 8
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "케이블 없이 무선으로 스마트폰 충전",
+    "connectivity.output_signals": "케이블 없이 무선으로 스마트폰 충전",
+    "connectivity.directional": "무선충전 수신 패드를 연결한다",
+    "power.power_mode": "Input: DC 5V / 1A (Self-adaptation)",
+    "power.charging_support": "무선으로 스마트폰 충전 가능",
+    "certification.rohs": "RoHS 인증",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "certification.fcc": "FC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.connector_type_a": "iPhone 8Pin 커넥터",
+    "family.connector_type_b": "무선충전패드",
+    "family.gender": "iPhone의 8Pin 포트에 무선충전 수신 패드를 연결한다",
+    "family.pin_count": "iPhone 8Pin"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:43",
+  "feature_schema_version": "1.0.0"
+}

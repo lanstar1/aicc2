@@ -1,0 +1,175 @@
+{
+  "model_no": "LS-DVI29G-FF",
+  "product_name": "DVI 젠더 F/F (DVI-I Dual Link 24+5 암/암)",
+  "category": [
+    "DVI",
+    "젠더"
+  ],
+  "key_features": [
+    "DVI-I Dual Link 24+5핀 암/암(F/F) 젠더",
+    "24핀 DVI 듀얼 케이블에 긴 핀 위아래로 5핀이 추가된 구조",
+    "디지털 + 아날로그 출력 동시 지원"
+  ],
+  "specifications": {
+    "품명": "DVI젠더",
+    "모델명": "LS-DV129G-FF",
+    "커넥터 타입": "DVI-I Dual Link 24+5 암/암(F/F)",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "DVI-I Dual Link (24+5핀) 포트",
+    "디지털 신호 출력 지원 기기",
+    "아날로그 신호 출력 지원 기기"
+  ],
+  "package_contents": [
+    "DVI-I 암/암 젠더 1개"
+  ],
+  "usage_instructions": "연결 전 DVI 포트 모양을 반드시 확인하세요. DVI-I Dual Link(24+5핀) 포트에 맞는 경우에만 사용 가능합니다.",
+  "cautions": [
+    "사용 전 DVI 포트 모양(DVI-I Single Link, DVI-D Single Link, DVI-A, DVI-I Dual Link, DVI-D Dual Link 등)을 반드시 확인하세요.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DVI29G-FF",
+      "품목코드": "GEN-HDI005",
+      "품목명": "[LANstar] DVI젠더, DVI 24＋5, F／F, Gold[20107]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-DVI29G-FF",
+      "chatUrl": "2Ir4n",
+      "dateIso": "2023-11-17T01:37:39.841Z",
+      "name": "인천l미미냥",
+      "isTechnical": true,
+      "category": "install",
+      "modelConfidence": "high",
+      "question": "LS-DVI29G-FF 이상품에\n[LANStar] DVI-D 싱글 케이블, LS-DVI19M-1.8M [1.8m]\n\n연결해서 사용할수있나요 ?\n(추가 문의) LS-DVI29G-FF 이상품에\n [LANStar] DVI-D 싱글 케이블, LS-DVI19M-1.8M [1.8m]\n(추가 문의) 둘다 DVI-D 싱글로 사용해야된다는거죠 ?",
+      "answer": "네 고객님. 젠더 양쪽에 연결할 케이블을 같은 규격(싱글-싱글 / 듀얼-듀얼)으로 연결해야 합니다.\n\n다만, 양쪽에 연결하는 케이블이 같은 규격일 경우에 사용이 가능한 점 참고하여 주시기 바랍니다.",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 알겠습니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님. 젠더 양쪽에 연결할 케이블을 같은 규격(싱글-싱글 / 듀얼-듀얼)으로 연결해야 합니다."
+        },
+        {
+          "role": "customer",
+          "text": "둘다 DVI-D 싱글로 사용해야된다는거죠 ?"
+        },
+        {
+          "role": "agent",
+          "text": "다만, 양쪽에 연결하는 케이블이 같은 규격일 경우에 사용이 가능한 점 참고하여 주시기 바랍니다."
+        },
+        {
+          "role": "customer",
+          "text": "LS-DVI29G-FF 이상품에\n[LANStar] DVI-D 싱글 케이블, LS-DVI19M-1.8M [1.8m]\n\n연결해서 사용할수있나요 ?"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "연결해서 사용할수있나요 ?"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "LS-DVI29G-FF 이상품에\n [LANStar] DVI-D 싱글 케이블, LS-DVI19M-1.8M [1.8m]"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DVI-I"
+      ],
+      "output_signals": [
+        "DVI-I"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "DVI-I Dual",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DVI-I Dual Link 24+5 암/암(F/F)",
+    "connectivity.output_signals": "DVI-I Dual Link 24+5 암/암(F/F)",
+    "connectivity.directional": "DVI 젠더 F/F",
+    "power.power_mode": "DVI 젠더",
+    "form_physical.has_case": "DVI 젠더 F/F",
+    "audio_video.max_resolution": "DVI 젠더",
+    "audio_video.hdr_support": "DVI 젠더",
+    "audio_video.hdcp_version": "DVI 젠더",
+    "audio_video.audio_pass": "DVI 젠더",
+    "family.dvi_type": "DVI-I Dual Link 24+5 암/암(F/F)"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:48",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "install": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "model_no": "LS-HDMI-MT-HMM",
+  "product_name": "LANSStar HDMI 2.0 메탈 케이블 19P M/M",
+  "category": [
+    "HDMI케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "4K2K(4096x2160) @60Hz 초고해상도 지원 (Full HD 1080p 대비 4배 고해상도)",
+    "HDMI 2.0 규격 지원 (18Gbps 전송속도/대역폭)",
+    "24K 금도금 커넥터 적용으로 우수한 전송률 확보",
+    "3D 영상 지원",
+    "HDR(High Dynamic Range) Video 지원",
+    "21:9 화면비율(시네마스코프) 지원",
+    "ARC(Audio Return Channel) 지원 - 별도 케이블 없이 TV 사운드 전송",
+    "HEC(HDMI Ethernet Channel) 지원 - 별도 랜케이블 없이 네트워크 접속 및 양방향 통신",
+    "풍부한 색감 지원: sYCC601, Adobe RGB, Adobe YCC601 컬러 영역 추가",
+    "다중 스트림 오디오 지원",
+    "RoHS 규격 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "HDMI 단자": "HDMI 19P M/M",
+    "HDMI 해상도": "4Kx2K(4096x2160) @60Hz",
+    "전송속도(대역폭)": "18Gbps",
+    "케이블 길이": "1.5M, 3M, 5M, 10M",
+    "소비전력": "최대 DC 300V/5s",
+    "작동온도": "섭씨 80도",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "모델명 (1.5M)": "LS-HDMI-MT-HMM-1.5M",
+    "모델명 (3M)": "LS-HDMI-MT-HMM-3M",
+    "모델명 (5M)": "LS-HDMI-MT-HMM-5M",
+    "모델명 (10M)": "LS-HDMI-MT-HMM-10M"
+  },
+  "compatibility": [
+    "TV",
+    "PC 모니터",
+    "노트북",
+    "블루레이 플레이어",
+    "게임기",
+    "프로젝터",
+    "셋톱박스",
+    "HDMI 2.0 지원 기기",
+    "HDMI 1.4 이하 하위 버전 기기 (하위 호환)",
+    "4K UHD 방송 수신 기기",
+    "IPTV, DLNA, UPnP 지원 기기",
+    "돌비 TrueHD, DTS-HD Master Audio 지원 기기",
+    "Blu-ray 플레이어",
+    "HD DVD"
+  ],
+  "package_contents": [
+    "HDMI 2.0 메탈 케이블 19P M/M (선택 길이: 1.5M / 3M / 5M / 10M 중 1개)"
+  ],
+  "usage_instructions": "HDMI 19P 커넥터를 TV·PC 모니터 등 디스플레이 기기의 HDMI 포트에 한쪽을 연결하고, 반대쪽을 노트북·블루레이 플레이어·게임기·프로젝터·셋톱박스 등 소스 기기의 HDMI 포트에 연결하여 사용합니다. ARC 기능 사용 시 별도 오디오 케이블 없이 TV 사운드를 AV 기기로 전송할 수 있으며, HEC 기능 사용 시 별도 랜케이블 없이 네트워크에 접속할 수 있습니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "구매·배송·반품은 판매처(쇼핑몰 하단 참조)를 통해 진행하십시오."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1.5,
+        3.0,
+        5.0,
+        10.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": true,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "HDMI2.0",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19P M/M",
+    "connectivity.output_signals": "HDMI 19P M/M",
+    "connectivity.directional": "HEC(HDMI Ethernet Channel) 지원 - 별도 랜케이블 없이 네트워크 접속 및 양방향 통신",
+    "power.power_mode": "무전원",
+    "form_physical.has_case": "메탈 케이블",
+    "form_physical.material": "24K 금도금 커넥터",
+    "form_physical.length_options_meters": "1.5M, 3M, 5M, 10M",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "4K2K(4096x2160) @60Hz",
+    "audio_video.hdr_support": "HDR(High Dynamic Range) Video 지원",
+    "audio_video.audio_pass": "ARC(Audio Return Channel) 지원",
+    "family.hdmi_version": "HDMI 2.0 규격 지원",
+    "family.ethernet_channel": "HEC(HDMI Ethernet Channel) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:16",
+  "feature_schema_version": "1.0.0"
+}

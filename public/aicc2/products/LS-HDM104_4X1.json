@@ -1,0 +1,150 @@
+{
+  "model_no": "LS-HDM104_4X1",
+  "product_name": "LANStar HDMI 4x1 Quad Multi-Viewer 화면분할기 (LS-HDM104)",
+  "category": [
+    "HDMI멀티뷰어"
+  ],
+  "key_features": [
+    "4개의 HDMI 입력소스를 1개의 모니터로 출력 (4in 1out)",
+    "5가지 화면 분할 모드 지원 (Mode 01~05)",
+    "Seamless 기능 지원으로 딜레이 없이 화면 전환 가능",
+    "리모컨 및 제품 전면 버튼으로 비디오·오디오 모드 변경 가능",
+    "Full HD 1080p 지원, HDMI 1.3a, HDCP 1.2 지원",
+    "3D 지원, HDMI Signal Retiming with Cascading 지원",
+    "오디오 포맷: PCM2, 5.1CH, 7.1CH, Dolby 5.1, DTS 5.1 지원",
+    "KC, FCC, CE 안전규격 인증 획득, 국립전파연구원 인증 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "HDMI 해상도": "1080P, 720P, 1080i (HDMI 1.3a, HDCP 1.2)",
+    "입력 포트": "4포트 HDMI 입력",
+    "출력 포트": "1포트 HDMI 출력",
+    "전원 어댑터": "DC 12V / 2A (KC인증번호: HU10653-12001B)",
+    "데이터 전송 속도": "3.4Gbps",
+    "출력 케이블 최대 길이": "최대 15m (1080p, 26AWG)",
+    "입력 케이블 최대 길이": "최대 15m (1080p, 26AWG)",
+    "오디오 포맷": "PCM2, 5.1CH, 7.1CH, Dolby 5.1, DTS 5.1",
+    "크기 (W x H x L)": "90mm x 23mm x 190mm",
+    "HDCP 지원": "지원",
+    "3D 지원": "지원",
+    "인증번호": "MSIP-REI-LUS-LS-AS204",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "LCD 모니터",
+    "디지털 TV",
+    "블루레이 플레이어",
+    "게임기",
+    "프로젝터",
+    "HDMI 단자를 가진 디지털 기기",
+    "DVI 단자 기기 (DVI-HDMI 케이블 또는 DVI 젠더 별도 구매 필요, 이 경우 음성 미지원)"
+  ],
+  "package_contents": [
+    "HDMI 4x1 Quad Multi-Viewer 본체 (LS-HDM104)",
+    "전원 어댑터 DC 12V/2A (어댑터 인증번호: HU10653-120018)",
+    "한글 매뉴얼",
+    "리모컨"
+  ],
+  "usage_instructions": "제품 후면의 HDMI IN1~IN4 단자에 최대 4개의 HDMI 소스 기기를 연결하고, HDMI OUT 단자에 모니터 또는 TV를 연결한다. DC/12V 단자에 12V 2A 어댑터를 연결하여 전원을 공급한다. 전면의 POWER 버튼으로 전원을 켠 후, 전면의 VIDEO 버튼 또는 리모컨으로 5가지 화면 분할 모드(Mode 01~05) 중 원하는 모드를 선택한다. AUDIO 버튼 또는 리모컨으로 원하는 오디오 소스를 선택할 수 있다. IR 단자는 리모컨 수신부이다.",
+  "cautions": [
+    "본 기기는 셋톱박스, 인터넷 TV와 연결 시 작동하지 않습니다. 일시적으로 작동할 수 있으나 방송 송출사에서 신호 차단 시 다시 작동하지 않습니다.",
+    "DVI 단자를 가진 제품과 연결 시 DVI-HDMI 케이블(별도 구매) 또는 DVI 젠더(별도 구매)를 이용해야 하며, 이 경우 음성은 지원하지 않으므로 별도의 스테레오 케이블(M/M)을 기기와 연결해야 합니다.",
+    "Seamless 기능을 지원하지 않는 환경에서는 화면 전환 시 약 1~2초 정도 딜레이가 발생할 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "LANStar 라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다. A/S 및 소비자상담: www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 5
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": "HDCP1.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "input_count": 4,
+      "output_count": 1,
+      "mode": [
+        "멀티뷰어",
+        "스위치"
+      ],
+      "cascade_support": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "4개의 HDMI 입력소스를",
+    "connectivity.output_signals": "1개의 모니터로 출력 (4in 1out)",
+    "connectivity.directional": "4개의 HDMI 입력소스를 1개의 모니터로 출력",
+    "connectivity.port_count": "4in 1out",
+    "power.power_mode": "DC 12V / 2A 어댑터",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "제품 전면 버튼",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.rohs": "null",
+    "certification.iso9001": "null",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.ce": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "Full HD 1080p 지원",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "HDCP 1.2 지원",
+    "audio_video.audio_pass": "오디오 포맷: PCM2, 5.1CH, 7.1CH, Dolby 5.1, DTS 5.1 지원",
+    "control_switching.has_remote": "리모컨 및 제품 전면 버튼으로",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "제품 전면 버튼으로",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.input_count": "4개의 HDMI 입력소스를",
+    "family.output_count": "1개의 모니터로 출력",
+    "family.mode": "Quad Multi-Viewer 화면분할기",
+    "family.cascade_support": "HDMI Signal Retiming with Cascading 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:06",
+  "feature_schema_version": "1.0.0"
+}

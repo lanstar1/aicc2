@@ -1,0 +1,118 @@
+{
+  "model_no": "LS-AVG-SVHS-FF",
+  "product_name": "LAN Star AV 변환젠더 SVHS/F-SVHS/F",
+  "category": [
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "양쪽 모두 SVHS(Female) 타입 커넥터로 구성된 젠더",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 타입": "SVHS(Female) - SVHS(Female)",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "라인업시스템(주) 070-7018-3386"
+  },
+  "compatibility": [
+    "SVHS(Female) 규격 기기"
+  ],
+  "package_contents": [
+    "AV 변환젠더 SVHS/F-SVHS/F 본체"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "유통과정상 제품의 모양이 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "당사의 동의 없이 제품 및 콘텐츠를 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-AVG-SVHS-FF",
+      "품목코드": "GEN-오디영009",
+      "품목명": "[LANstar] AV젠더Changer , SVHS 4P F／F[20026]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "SVHS"
+      ],
+      "output_signals": [
+        "SVHS"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "SVHS(Female) 타입 커넥터",
+    "connectivity.output_signals": "SVHS(Female) 타입 커넥터",
+    "connectivity.directional": "양쪽 모두 SVHS(Female) 타입 커넥터",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "젠더",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "AV 변환젠더",
+    "audio_video.hdr_support": "AV 변환젠더",
+    "audio_video.hdcp_version": "AV 변환젠더",
+    "audio_video.audio_pass": "AV 변환젠더",
+    "control_switching.has_remote": "젠더",
+    "control_switching.has_hotkey": "젠더",
+    "control_switching.has_physical_button": "젠더",
+    "control_switching.has_mouse_switching": "젠더",
+    "control_switching.has_auto_scan": "젠더",
+    "control_switching.has_app_control": "젠더",
+    "family.conversion_direction": "양쪽 모두 SVHS(Female) 타입 커넥터",
+    "family.requires_external_power": "무전원"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:28",
+  "feature_schema_version": "1.0.0"
+}

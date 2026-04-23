@@ -1,0 +1,137 @@
+{
+  "model_no": "LS-2U4UIDBD",
+  "product_name": "LANStar 허브랙 슬라이드 서랍장",
+  "category": [
+    "허브랙",
+    "랙서랍장"
+  ],
+  "key_features": [
+    "19인치 표준 허브랙 전용 슬라이드 서랍장",
+    "열쇠 잠금 기능 제공 (열쇠 2개 기본 포함)",
+    "슬라이드 방식으로 장비 접근 및 유지보수 용이",
+    "케이지 너트&볼트 방식으로 간편 설치",
+    "후면 가이드 길이 조절 가능 (최대 깊이 43.5cm)",
+    "고품질 금속 소재 + 파우더 코팅 처리로 내구성 및 방청성 우수",
+    "경량 장비 보관 최적화, 깊이 350mm 설계",
+    "아이보리/블랙 2가지 색상 선택 가능",
+    "2U 및 4U 두 가지 높이 모델 제공",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "외부 너비(W)": "478mm",
+    "외부 깊이(D)": "350mm",
+    "2U 높이": "2U",
+    "4U 높이": "4U",
+    "2U 수납 공간": "405(W) x 345(D) x 68(H) mm",
+    "4U 수납 공간": "405(W) x 345(D) x 158(H) mm",
+    "가이드 결합 최대 깊이": "43.5cm",
+    "색상": "아이보리, 블랙",
+    "소재": "고품질 금속, 파우더 코팅 처리",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "모델명 (2U 아이보리)": "LS-2UID",
+    "모델명 (2U 블랙)": "LS-2UBD",
+    "모델명 (4U 아이보리)": "LS-4UID",
+    "모델명 (4U 블랙)": "LS-4UBD"
+  },
+  "compatibility": [
+    "19인치 표준 규격 허브랙 전 제품",
+    "LS-300H, LS-300HB",
+    "LS-300HR",
+    "LS-500H, LS-500HB",
+    "LS-750H, LS-750HB",
+    "LS-1000H, LS-1000HB",
+    "LS-1200H, LS-1200HB",
+    "LS-1600H, LS-1600HB",
+    "LS-1800H, LS-1800HB",
+    "LS-2000H, LS-2000HB",
+    "19인치 표준 규격 서버랙 (전면부 결합만 가능)"
+  ],
+  "package_contents": [
+    "서랍장 본체 1개 (모델에 따라 2U 또는 4U, 아이보리 또는 블랙)",
+    "전면 가이드 2개",
+    "후면 가이드 2개",
+    "케이지 너트&볼트 8개",
+    "가이드 결합용 나사 16개",
+    "여분 나사 8개",
+    "열쇠 2개"
+  ],
+  "usage_instructions": "1. 서랍장 앞면 양쪽에 전면 가이드를 결합한다. 2. 후면 가이드를 결합한다 (깊이가 깊은 허브랙·서버랙의 경우 후면 가이드 결합 생략 가능). 3. 케이지 너트를 랙에 먼저 삽입한 후 볼트를 이용해 서랍장을 고정한다. 4. 서랍장 후면부를 랙과 연결한다 (후면 연결이 어려울 경우 전면부만 연결 가능). 5. 결합 완료 후 서랍장을 열어 물건을 수납한다. 6. 열쇠로 시건 장치를 잠가 안전하게 보관한다. 설치 시 +자 드라이버만 필요하며, 2명 이상 작업 권장.",
+  "cautions": [
+    "랙 깊이가 깊은 서버랙의 경우 전면부만 결합하여 사용해야 하며, 이 경우 무거운 장비 보관 시 가이드가 휘어질 수 있으므로 경량 장비만 보관할 것",
+    "전면부만 결합하여 사용할 경우 무거운 장비 보관 금지",
+    "열쇠는 최초 2개 제공되며 분실에 주의할 것",
+    "설치 시 서랍장 무게로 인해 혼자 결합이 버거울 수 있으므로 2명 이상 작업 권장",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처의 제품은 A/S를 받을 수 없음",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양이 예고 없이 변경될 수 있음",
+    "오후 4시 이전 결제 완료 건에 한해 당일 출고 (토·일·공휴일 제외, 평일 기준), 택배사 사정에 따라 배송기간이 길어질 수 있음"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "아이보리",
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "rack_unit": null,
+      "mount_type": "N/A",
+      "depth_mm": 350,
+      "width_mm": 478,
+      "height_mm": null,
+      "has_door": null,
+      "has_lock": true,
+      "has_fan": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "LANStar 허브랙 슬라이드 서랍장",
+    "form_physical.material": "고품질 금속 소재 + 파우더 코팅",
+    "form_physical.color_options": "아이보리/블랙 2가지 색상 선택 가능",
+    "family.depth_mm": "외부 깊이(D): 350mm",
+    "family.width_mm": "외부 너비(W): 478mm",
+    "family.has_lock": "열쇠 잠금 기능 제공 (열쇠 2개 기본 포함)"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:17",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,143 @@
+{
+  "model_no": "LS-SPC6-WP",
+  "product_name": "LAN Star CAT.6 FTP 옥외용 방수 랜케이블 (Waterproof Outdoor Industrial LAN Cable)",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-FTP",
+    "랜케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "IP67 등급 방수·방진 인증 (15cm~1m 침수 보호)",
+    "CAT.6 FTP 규격 지원, 최대 1000Mbps(1Gbps) / 250MHz 대역폭",
+    "26AWG 연선 구조, 알루미늄 쉴드 + 십자형 필터로 전자파 차폐",
+    "산화·녹에 강한 50μ 금도금 핀 적용 최고급 모듈러 플러그(8P8C RJ45)",
+    "미사용 시 마개로 커넥터 보호 가능",
+    "UL 인증, RoHS 준수, ISO 9001:2008 품질경영시스템",
+    "대만(Taiwan) 생산",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.6 FTP (Foil Screened Twisted Pair)",
+    "전송 속도": "10/100/1000Mbps (최대 1Gbps)",
+    "대역폭": "250MHz",
+    "AWG": "26AWG",
+    "도체 구조": "연선 0.16mm - 7가닥",
+    "도체 저항": "0.134 Ω/m",
+    "허용 전류": "0.378A",
+    "쉴드": "알루미늄 쉴드",
+    "필터": "십자형 필터",
+    "피복": "PE절연",
+    "커넥터": "8P8C RJ45, 50μ 금도금 핀",
+    "방수·방진 등급": "IP67",
+    "케이블 길이 라인업": "5M (LS-SPC6-WP5M), 10M (LS-SPC6-WP10M)",
+    "전체 길이 범위(제품 사이즈)": "5000~10000mm",
+    "커넥터 외경(참고)": "23.53mm / 25.89mm / 30.89mm",
+    "표준 규격": "TIA/EIA-568",
+    "원산지": "대만 (Taiwan)",
+    "제조사": "라인업시스템(주)",
+    "인증": "UL, RoHS COMPLIANT, ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "CAT.6 FTP 규격 호환 네트워크 장비",
+    "옥외용 방수 벽부착형 플레이트 (별도 구매)",
+    "옥외용 방수 커플러 (별도 구매)",
+    "10/100/1000Mbps 네트워크 (기가비트 이더넷)",
+    "TIA/EIA-568 규정 준수 장비"
+  ],
+  "package_contents": [
+    "옥외용 방수 랜케이블 CAT.6 FTP (선택 길이: 5M 또는 10M)",
+    "커넥터 보호용 마개 (케이블에 부착)"
+  ],
+  "usage_instructions": "1) 벽에 부착된 옥외용 방수 커플러(별도 구매)에 옥외용 방수 케이블을 꽂습니다. 2) 케이블에 달려 있는 커버를 돌려 커플러에 장착합니다. 3) 미사용 시에는 케이블에 달려 있는 마개로 커넥터를 닫아 외부 오염으로부터 보호합니다. ※ 완전한 방수·방진 효과를 위해 옥외용 방수 벽부착형 플레이트 및 커플러(별도 구매)와 함께 사용하세요.",
+  "cautions": [
+    "옥외용 방수 벽부착형 플레이트 및 커플러는 별도 구매 품목입니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상합니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "PE",
+        "금도금",
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        5,
+        10
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "FTP",
+      "conductor": "연선(stranded)",
+      "awg": 26,
+      "pair_count": null,
+      "flame_rating": "PVC",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "8P8C RJ45",
+    "connectivity.output_signals": "8P8C RJ45",
+    "connectivity.directional": "LAN Star CAT.6 FTP 옥외용 방수 랜케이블",
+    "form_physical.has_case": "미사용 시 마개로 커넥터 보호 가능",
+    "form_physical.material": "PE절연",
+    "form_physical.material.1": "50μ 금도금 핀",
+    "form_physical.material.2": "알루미늄 쉴드",
+    "form_physical.length_options_meters": "5M (LS-SPC6-WP5M), 10M (LS-SPC6-WP10M)",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템",
+    "family.cat_category": "CAT.6 FTP 규격 지원",
+    "family.shielding": "CAT.6 FTP 규격 지원",
+    "family.conductor": "26AWG 연선 구조",
+    "family.awg": "26AWG",
+    "family.flame_rating": "PE절연"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:44",
+  "feature_schema_version": "1.0.0"
+}

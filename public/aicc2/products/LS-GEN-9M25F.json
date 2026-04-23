@@ -1,0 +1,136 @@
+{
+  "model_no": "LS-GEN-9M25F",
+  "product_name": "LANStar 시리얼 젠더 DB9P/M-DB25P/F",
+  "category": [
+    "젠더",
+    "커넥터",
+    "시리얼브라켓",
+    "시리얼카드"
+  ],
+  "key_features": [
+    "DB9P(Male)과 DB25P(Female) 타입 커넥터로 구성된 시리얼 젠더",
+    "2열 D-SUB 구조",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 구성": "DB9P(Male) / DB25P(Female)",
+    "핀 배열": "2열",
+    "모델명": "LS-GEN-9M25F",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "RoHS 준수": "준수",
+    "ISO 인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "DB9P(Male) 포트 보유 기기",
+    "DB25P(Female) 포트 보유 기기",
+    "D-SUB 시리얼 인터페이스 장치"
+  ],
+  "package_contents": [
+    "시리얼 젠더 DB9P/M-DB25P/F 본체 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "유통 과정상 제품의 모양이나 색상은 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품은 판매처(쇼핑몰 하단 참조)를 통해 진행하세요."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GEN-9M25F",
+      "품목코드": "GEN-시리얼002",
+      "품목명": "[LANstar] 젠더Changer , DB9P／M-DB25／F[20080]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-GEN-9M25F",
+      "내용": "배송이 신속하고 물품이 정확히 잘 배송되었어요\n좋네요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Serial(DB9)"
+      ],
+      "output_signals": [
+        "Serial(DB25)"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무관",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "DB9P Male",
+      "connector_type_b": "DB25P Female",
+      "gender": "M-F",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DB9P(Male)",
+    "connectivity.output_signals": "DB25P(Female)",
+    "connectivity.directional": "DB9P(Male)과 DB25P(Female) 타입 커넥터",
+    "connectivity.port_count": "DB9P(Male)과 DB25P(Female) 타입 커넥터",
+    "power.power_mode": "시리얼 젠더",
+    "power.charging_support": "시리얼 젠더",
+    "form_physical.has_case": "시리얼 젠더",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "시리얼 젠더",
+    "audio_video.hdr_support": "시리얼 젠더",
+    "audio_video.hdcp_version": "시리얼 젠더",
+    "audio_video.audio_pass": "시리얼 젠더",
+    "control_switching.has_remote": "시리얼 젠더",
+    "control_switching.has_hotkey": "시리얼 젠더",
+    "control_switching.has_physical_button": "시리얼 젠더",
+    "control_switching.has_mouse_switching": "시리얼 젠더",
+    "control_switching.has_auto_scan": "시리얼 젠더",
+    "control_switching.has_app_control": "시리얼 젠더",
+    "family.connector_type_a": "DB9P(Male)",
+    "family.connector_type_b": "DB25P(Female)",
+    "family.gender": "DB9P(Male)과 DB25P(Female)"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:07",
+  "feature_schema_version": "1.0.0"
+}

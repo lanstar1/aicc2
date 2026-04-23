@@ -1,0 +1,132 @@
+{
+  "model_no": "LS-M850",
+  "product_name": "LANStar Tooless 모듈러 콘넥터 CAT.8 FTP RJ45 8P8C",
+  "category": [
+    "랜케이블-CAT8",
+    "랜케이블-FTP",
+    "커넥터",
+    "LAN공구"
+  ],
+  "key_features": [
+    "별도의 도구 없이 랜 커넥터 제작이 가능한 Tooless 방식",
+    "CAT.8 규격 지원 - 최대 40Gbps(40,000Mbps) 전송속도",
+    "2,000MHz 대역폭 지원",
+    "RJ45 8P8C FTP 타입",
+    "구성품인 부트(고정장치)·케이블 타이와 조립 시 높은 결합력으로 랜선이 빠지지 않음",
+    "단선과 연선 공용 사용 가능",
+    "배선캡에서 케이블의 꼬임을 유지하여 성능과 지속성 향상",
+    "최대 6~8.5mm 두께의 랜 케이블 제작 가능",
+    "T568B(다이렉트) 및 T568A(크로스) 배선 지원"
+  ],
+  "specifications": {
+    "규격": "CAT.8 FTP",
+    "커넥터 타입": "RJ45 8P8C",
+    "전송속도": "최대 40Gbps (40,000Mbps)",
+    "대역폭": "2,000MHz",
+    "호환 케이블 외경": "6~8.5mm",
+    "배선 방식": "T568B(다이렉트), T568A(크로스)",
+    "인증번호": "R-R-LUS-LS-M850",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "안전규격 인증": "KC, FCC, CE",
+    "환경규격": "RoHS COMPLIANT",
+    "품질경영시스템": "ISO 9001:2008",
+    "생산물배상책임보험": "현대해상화재 1억원 가입"
+  },
+  "compatibility": [
+    "CAT.8 FTP/SSTP 랜 케이블",
+    "CAT.7 랜 케이블",
+    "CAT.6A 랜 케이블",
+    "CAT.6 랜 케이블",
+    "CAT.5/CAT.5E 랜 케이블",
+    "단선 및 연선 케이블 공용",
+    "외경 6~8.5mm 랜 케이블",
+    "TIA/EIA-568B 규정 규격 준수 장비"
+  ],
+  "package_contents": [
+    "FTP 콘넥터 (RJ45 8P8C)",
+    "배선캡",
+    "고정장치 (부트)",
+    "접지 스티커",
+    "콘넥터 마개"
+  ],
+  "usage_instructions": "1. CAT.8 케이블을 준비한 뒤 3cm 가량 피복을 벗긴다. 2. 피복을 벗겨낸 랜케이블에 커넥터 고정장치를 넣는다. 3. 노이즈 방지 쉴드를 정리해 접지 스티커로 고정한다. 4. 케이블을 색깔별로 정리한다. 5. 배선캡 표시에 따라 케이블을 끼운다(T568B 또는 T568A 배열 참조). 6. 배선캡 아래쪽도 색깔에 맞춰 끼운다. 7. 배선캡 바깥으로 튀어나온 선들을 정리한다. 8. 연결된 배선캡을 콘넥터에 끼워 넣는다. 9. 콘넥터를 손으로 압착한다. 10. 콘넥터에 고정장치를 연결하면 완성.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "RoHS 규정에 따라 납·수은·카드뮴 등 중금속 사용 제한 제품임",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-M850",
+      "품목코드": "NEO-콘넥터116",
+      "품목명": "[LANstar] Tooless 모듈러 콘넥터,CAT.8 FTP, 40G [60133]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT8",
+      "shielding": "FTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "certification.kc": "KC, FCC, CE",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "KC, FCC, CE",
+    "certification.ce": "KC, FCC, CE",
+    "family.cat_category": "CAT.8 규격 지원",
+    "family.shielding": "FTP 타입"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:21",
+  "feature_schema_version": "1.0.0"
+}

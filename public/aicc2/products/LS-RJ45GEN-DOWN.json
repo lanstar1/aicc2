@@ -1,0 +1,144 @@
+{
+  "model_no": "LS-RJ45GEN-DOWN",
+  "product_name": "LANStar RJ45 연장 90° 꺾임 젠더 (하향)",
+  "category": [
+    "랜케이블",
+    "젠더"
+  ],
+  "key_features": [
+    "RJ45 수(Male) - 암(Female) 구조의 랜 연장 꺾임 젠더",
+    "90° 하향 꺾임 형태로 랜케이블을 아래쪽으로 연결 가능",
+    "1Gbps 속도 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 구성": "RJ45 Male - RJ45 Female",
+    "꺾임 방향": "90° 하향",
+    "지원 속도": "1Gbps",
+    "무게": "약 17g",
+    "치수": "18.5 x 21.5 x 20 x 13.5 x 18.5 mm (각부 치수)",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "KC 인증번호": "해당없음"
+  },
+  "compatibility": [
+    "RJ45 규격 랜 포트 및 랜케이블",
+    "1Gbps 이더넷 환경"
+  ],
+  "package_contents": [
+    "RJ45 랜연장 90° 하향 꺾임 젠더 본체 1개"
+  ],
+  "usage_instructions": "본체의 RJ45 포트에 Male 단자를 연결하고, Female 단자에 랜케이블을 연결하면 케이블이 아래쪽(하향 90°)으로 꺾여 정리됩니다.",
+  "cautions": [
+    "본 제품은 90° 하향 꺾임 형태입니다. 구매 전 꺾임 방향을 반드시 확인하시기 바랍니다.",
+    "제조사 사정에 따라 제품의 색상, 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RJ45GEN-DOWN",
+      "품목코드": "GEN-RJ4002",
+      "품목명": "[LANstar] RJ45 랜 연장 90도 꺾임 젠더, 하향 [30695]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-RJ45GEN-DOWN",
+      "내용": "배송도 빠르고 원하는 제품이 왔네요 잘 쓰겟습니다"
+    },
+    {
+      "source_model": "LS-RJ45GEN-DOWN",
+      "내용": "필요하다고는 생각해서 찾아보다가 원하는 제품이 있어 구매하여 만족하며 사용중입니다!"
+    },
+    {
+      "source_model": "LS-RJ45GEN-DOWN",
+      "내용": "빠르니까 응 나만 쓸거야 응 나만 쓸거야"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 수(Male) - 암(Female) 구조",
+    "connectivity.output_signals": "RJ45 수(Male) - 암(Female) 구조",
+    "connectivity.directional": "RJ45 수(Male) - 암(Female) 구조",
+    "connectivity.port_count": "RJ45 수(Male) - 암(Female) 구조",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "LANStar RJ45 연장 90° 꺾임 젠더",
+    "certification.kc": "KC 인증번호: 해당없음",
+    "audio_video.max_resolution": "1Gbps 속도 지원",
+    "audio_video.hdr_support": "1Gbps 속도 지원",
+    "audio_video.hdcp_version": "1Gbps 속도 지원",
+    "audio_video.audio_pass": "1Gbps 속도 지원",
+    "control_switching.has_remote": "LANStar RJ45 연장 90° 꺾임 젠더",
+    "control_switching.has_hotkey": "LANStar RJ45 연장 90° 꺾임 젠더",
+    "control_switching.has_physical_button": "LANStar RJ45 연장 90° 꺾임 젠더",
+    "control_switching.has_mouse_switching": "LANStar RJ45 연장 90° 꺾임 젠더",
+    "control_switching.has_auto_scan": "LANStar RJ45 연장 90° 꺾임 젠더",
+    "control_switching.has_app_control": "LANStar RJ45 연장 90° 꺾임 젠더",
+    "family.cat_category": "1Gbps 속도 지원",
+    "family.shielding": "1Gbps 속도 지원",
+    "family.conductor": "1Gbps 속도 지원",
+    "family.flame_rating": "1Gbps 속도 지원",
+    "family.poe_support": "1Gbps 속도 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:43",
+  "feature_schema_version": "1.0.0"
+}

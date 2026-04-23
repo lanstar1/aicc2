@@ -1,0 +1,118 @@
+{
+  "model_no": "LS-DSTAND",
+  "product_name": "LANStar 데스크탑 컴퓨터 본체 이동식 스탠드",
+  "category": [
+    "데스크스탠드"
+  ],
+  "key_features": [
+    "바닥의 열, 습기, 먼지로부터 PC를 안전하게 보호",
+    "4개의 바퀴 장착으로 이동이 매우 편리",
+    "미끄럼 방지 고무 패드(고정 패드) 4개 장착으로 고정 가능",
+    "나비너트 2개 조절로 폭 조절 가능 (소형: 16.5~27cm / 대형: 17.5~30.5cm)",
+    "정전기 및 미끄럼 방지 패드 적용",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "폭 조절 범위(소형)": "16.5cm ~ 27cm",
+    "폭 조절 범위(대형)": "17.5cm ~ 30.5cm",
+    "거치 가능 본체 넓이(소형)": "16.5cm ~ 27cm",
+    "거치 가능 본체 넓이(대형)": "17.5cm ~ 30.5cm",
+    "제품 사이즈 가로(소형)": "23.6cm ~ 33cm",
+    "제품 사이즈 가로(대형)": "25cm ~ 38.5cm",
+    "제품 사이즈 높이(소형)": "15.5cm",
+    "제품 사이즈 높이(대형)": "14.5cm",
+    "제품 사이즈 깊이": "29.5cm",
+    "바퀴 수": "4개",
+    "고정 패드 수": "4개",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "일반 데스크탑 PC 본체 전용",
+    "본체 폭 최소 15cm ~ 최대 30.5cm 범위의 다양한 크기 PC 본체 호환"
+  ],
+  "package_contents": [
+    "LS-DSTAND 이동식 스탠드 본체",
+    "정전기 및 미끄럼 방지 패드",
+    "나비너트 2개 (폭 조절용)"
+  ],
+  "usage_instructions": "본체 아래쪽에 있는 2개의 나비너트를 조절하여 거치할 PC 본체의 폭에 맞게 스탠드 폭을 조정한 후 PC 본체를 올려놓는다. 이동 시에는 바퀴를 이용하고, 고정 시에는 고정 패드(미끄럼 방지 고무 패드)를 사용한다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "일반 데스크탑 PC 전용 제품으로 다른 용도로 사용 금지"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DSTAND",
+      "품목코드": "MON-거치대112",
+      "품목명": "[LANstar] 데스크탑 컴퓨터 본체 이동식 스탠드 [20262] (20개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "mount_interface": "Freeform",
+      "weight_capacity_kg": null,
+      "tilt": false,
+      "swivel": false,
+      "height_adjustable": false
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "LANStar 데스크탑 컴퓨터 본체 이동식 스탠드",
+    "form_physical.material": "플라스틱",
+    "certification.kc": "인증번호: 해당없음",
+    "family.mount_interface": "PC 본체를 올려놓는다.",
+    "family.tilt": "이동식 스탠드",
+    "family.swivel": "4개의 바퀴 장착으로 이동이 매우 편리",
+    "family.height_adjustable": "폭 조절 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:44",
+  "feature_schema_version": "1.0.0"
+}

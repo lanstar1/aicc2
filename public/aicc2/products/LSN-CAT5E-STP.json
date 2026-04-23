@@ -1,0 +1,214 @@
+{
+  "model_no": "LSN-CAT5E-STP",
+  "product_name": "CAT.5E STP 일반 컨넥터 (100개입)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-STP"
+  ],
+  "key_features": [
+    "1Gbps 최대 전송속도 지원",
+    "100MHz 대역폭 지원",
+    "3k 금도금 핀 적용",
+    "3발형(3Prongs) 핀 모양으로 랜 케이블 작업 시 오류 최소화",
+    "STP 전용 컨넥터"
+  ],
+  "specifications": {
+    "컨넥터 규격": "CAT.5E STP",
+    "전송 속도": "1Gbps",
+    "대역폭": "100MHz",
+    "호환 케이블 두께": "24AWG",
+    "핀 도금": "3k 금도금",
+    "핀 형태": "3Prongs (3발형)",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "해당없음"
+  },
+  "compatibility": [
+    "CAT.5E STP 케이블 (LS-5SFTP-B300M, LS-5FTP-300MG, LS-5SFTP-300M, LS-FTP-300MSTG)",
+    "부트(Boot): LSN-BOOT-OPEN-(각부트, 8가지 색상), LSN-BOOT-COVER-(통부트, 8가지 색상), LSN-BOOT-LOCK-(락부트, 9가지 색상)",
+    "랜툴: LS-468R (기어형), LS-68R (기어형)",
+    "스트리퍼: LS-ASTR (자동스트리퍼 AUTO), LS-STR-R10 (케이블 탈피기)"
+  ],
+  "package_contents": [
+    "CAT.5E STP 컨넥터 100개"
+  ],
+  "usage_instructions": "1단계: 제작할 길이만큼 케이블을 자른 후 스트리퍼로 케이블 피복 탈피. 2단계: 부트를 케이블에 결합. 3단계: 케이블 핀배열(Direct/Cross)에 맞게 페어를 정렬. 4단계: 랜툴을 이용하여 컨넥터 압착 진행. 5단계: 처음 결합해둔 부트를 컨넥터에 결합하여 작업 완료.",
+  "cautions": [
+    "오후 4시 이전 결제완료 주문건에 한해 당일출고 (토·일·공휴일 제외, 평일 기준).",
+    "택배사 사정에 따라 배송기간이 길어질 수 있으며 평균 1~2일 소요.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없음.",
+    "정품 여부 확인 후 구매 권장; 정품은 제조사 기준 A/S 서비스 제공.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음.",
+    "본 제품은 현대해상화재 생산물배상책임보험(1억원)에 가입되어 있어 문제 발생 시 보상 가능.",
+    "품질 보증 기준: 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제·이용 시 불이익이 발생할 수 있음."
+  ],
+  "variants": [
+    {
+      "model_no": "LSN-CAT5E-STP",
+      "품목코드": "NNO-콘넥터005",
+      "품목명": "[LANstar] 모듈러콘넥터 , RJ-45, CAT.5E STP, 15u, 8P8C (60개)[40632]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSN-CAT5E-STP",
+      "내용": "만족하며 잘 사용 하고 있습니다."
+    },
+    {
+      "source_model": "LSN-CAT5E-STP",
+      "내용": "항상 구매하는 제품입니다.\n불량이 없어서 만족하며 사용합니다.\n배송도 늘 빨라서 좋습니다."
+    },
+    {
+      "source_model": "LSN-CAT5E-STP",
+      "내용": "배송이 빨라서 좋아요."
+    },
+    {
+      "source_model": "LSN-CAT5E-STP",
+      "내용": "빠른배송 및 제품 좋아요"
+    },
+    {
+      "source_model": "LSN-CAT5E-STP",
+      "내용": "좋습니다\n대체로 만족"
+    },
+    {
+      "source_model": "LSN-CAT5E-STP",
+      "내용": "두번째 구매 라 300개샀어요 그냥 편하고 고장잘안나요"
+    },
+    {
+      "source_model": "LSN-CAT5E-STP",
+      "내용": "잘 됩니다 \n싸거 사지 말고 이거 사세요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LSN-CAT5E-STP",
+      "id": 170821299,
+      "date": "2021-06-16 18:36",
+      "answerDate": "2021-06-17 10:26",
+      "user": "zoom*******",
+      "productName": "RJ45 모듈러콘넥터 CAT5E STP 15U 8P8C LSN-CAT5E-STP",
+      "question": "안녕하세요 \n금일 배송 받았는데 수량을 100개짜리 두개 주문했는데 1개만 왔어요\n보내주신 것도 100개가 아니고 99개 들어있습니다.\n급해서 주문한건데...\n확인하시고 빠른 배송 부탁드립니다",
+      "answer": "안녕하세요 랜스타 입니다\n\n제품사용에 불편을드려 죄송합니다\n\n금일 재 출고 해드렸습니다"
+    },
+    {
+      "source_model": "LSN-CAT5E-STP",
+      "id": 650144979,
+      "date": "2025-11-07 22:53",
+      "answerDate": "2025-11-10 10:24",
+      "user": "anis****",
+      "productName": "RJ45 모듈러콘넥터 CAT5E STP 15U 8P8C LSN-CAT5E-STP",
+      "question": "혹시 https://m.smartstore.naver.com/lineup/products/11239212530 ftp 이곳에서 판매하는 ftp 케이블로  제작 사용가능한가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n네 해당 케이블로 사용 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다"
+    },
+    {
+      "source_model": "LSN-CAT5E-STP",
+      "id": 652378447,
+      "date": "2025-11-24 17:10",
+      "answerDate": "2025-11-25 09:37",
+      "user": "whju******",
+      "productName": "RJ45 모듈러콘넥터 CAT5E STP 15U 8P8C LSN-CAT5E-STP",
+      "question": "이상품 관통형인가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n관통형 커넥터가 아닌 막혀있는 일반형 커넥터입니다. 관통형의 모델은 LSN-5EPASS-UTP 입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LSN-CAT5E-STP",
+      "chatUrl": "389tX",
+      "dateIso": "2025-11-20T06:04:16.373Z",
+      "name": "p531****",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "접속플러그는 CAT.5E FTP 전용을 사용해야되는지 아니면 일반 플러그를 사용해도 되는지요",
+      "answer": "이 상품에 대해 무엇이 궁금하세요? 안녕하세요. 고객님. 랜스타입니다.\n\n해당케이블 구매 하시면 됩니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠"
+    },
+    {
+      "source_model": "LSN-CAT5E-STP",
+      "chatUrl": "389tX",
+      "dateIso": "2025-11-20T06:04:16.373Z",
+      "name": "p531****",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "LS-FTP-100MSTG 를 엘레베이타 LCD 전광판에 연결할려는데 엘레베이타 승강로에 적합한지요",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    },
+    {
+      "source_model": "LSN-CAT5E-STP",
+      "chatUrl": "389tX",
+      "dateIso": "2025-11-20T06:04:16.373Z",
+      "name": "p531****",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "랜스타 CAT5E FTP 연선 랜케이블 통신공사 박스케이블 LS-FTP-100MSTG 엘레베이터 승강로 T케이블에 묶어 사용할려하는데 본제품 사용하면 되나요.  100M 22,00",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "STP",
+      "conductor": null,
+      "awg": 24,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "3k 금도금 핀 적용",
+    "certification.kc": "KC 인증번호: 해당없음",
+    "family.cat_category": "CAT.5E STP",
+    "family.shielding": "STP 전용 컨넥터",
+    "family.awg": "24AWG"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:11",
+  "feature_schema_version": "1.0.0"
+}

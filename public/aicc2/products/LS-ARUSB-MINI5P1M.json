@@ -1,0 +1,97 @@
+{
+  "model_no": "LS-ARUSB-MINI5P1M",
+  "product_name": "휴대용 자동감김 미니 5P 케이블 (A/M - Mini 5P/M)",
+  "category": [
+    "자동감김케이블"
+  ],
+  "key_features": [
+    "자동감김(릴) 방식 케이블",
+    "USB A/M - Mini 5P/M 타입",
+    "길이 1m",
+    "버튼 방식 자동 감김 수납"
+  ],
+  "specifications": {
+    "길이": "1m",
+    "커넥터": "USB A/M - Mini 5P/M"
+  },
+  "compatibility": [
+    "USB A 타입 호스트 기기",
+    "Mini USB 5핀(Mini 5P) 기기"
+  ],
+  "package_contents": [
+    "자동감김 USB A/M - Mini 5P/M 케이블 1개"
+  ],
+  "usage_instructions": "케이블을 사용할 때는 반드시 양쪽 선을 동시에 당겨야 합니다. 케이블을 수납할 때는 버튼을 누르면 자동으로 감깁니다. 버튼을 눌러도 감기지 않을 경우 두 선을 약간 당겼다가 다시 버튼을 누르면 됩니다.",
+  "cautions": [
+    "반드시 양쪽 선을 동시에 당겨야 하며, 한 선만 당길 경우 고장의 원인이 될 수 있습니다.",
+    "구입 시 사양을 반드시 확인하십시오.",
+    "제품 불량을 제외한 사유로 인한 반품 택배비는 고객 부담입니다.",
+    "제품의 색상 및 형태 등의 사양은 제조사의 사정에 따라 달라질 수 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-Mini"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": null,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A/M",
+    "connectivity.output_signals": "Mini 5P/M",
+    "connectivity.directional": "케이블",
+    "power.power_mode": "USB A/M - Mini 5P/M",
+    "power.charging_support": "Mini 5P",
+    "form_physical.has_case": "자동감김(릴) 방식 케이블",
+    "form_physical.length_meters": "길이 1m",
+    "control_switching.has_physical_button": "버튼 방식 자동 감김 수납"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:11",
+  "feature_schema_version": "1.0.0"
+}

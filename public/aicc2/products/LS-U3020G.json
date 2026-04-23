@@ -1,0 +1,136 @@
+{
+  "model_no": "LS-U3020G",
+  "product_name": "USB 3.0 20Pin to USB 2.0 9Pin 변환 젠더",
+  "category": [
+    "USB케이블",
+    "USB3.0",
+    "USB2.0",
+    "컨버터",
+    "젠더"
+  ],
+  "key_features": [
+    "USB 3.0 20Pin(수)을 USB 2.0 9Pin(암)으로 변환",
+    "USB 2.0 최대 속도 480Mbps 지원",
+    "USB 3.0 속도 미지원 (USB 2.0 속도로 동작)",
+    "USB 3.0을 지원하지 않는 메인보드에서 USB 3.0 제품 사용 가능",
+    "젠더 케이블 길이 약 15cm",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터(Male)": "USB 3.0 20Pin 수(Male)",
+    "커넥터(Female)": "USB 2.0 9Pin 암(Female)",
+    "지원 속도": "USB 2.0 480Mbps",
+    "케이블 길이": "약 15cm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "해당없음"
+  },
+  "compatibility": [
+    "USB 2.0 9Pin 헤더를 갖춘 메인보드",
+    "USB 3.0 20Pin 커넥터를 사용하는 PC 케이스 전면 패널 브라켓",
+    "USB 3.0 20Pin 인터페이스를 사용하는 USB 3.0 제품"
+  ],
+  "package_contents": [
+    "USB 3.0 20Pin to USB 2.0 9Pin 변환 젠더 1개"
+  ],
+  "usage_instructions": "USB 3.0 제품(예: PC 케이스 전면 패널 브라켓)의 USB 3.0 20Pin 커넥터를 변환 젠더의 Male(수) 단자에 연결한 뒤, 변환 젠더의 Female(암) 단자를 메인보드의 USB 2.0 9Pin 포트에 결합하면 USB 2.0으로 변환되어 사용 가능합니다.",
+  "cautions": [
+    "USB 3.0 속도(SuperSpeed)는 지원되지 않으며, USB 2.0 최대 속도(480Mbps)로만 동작합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-U3020G",
+      "품목코드": "GEN-USB133",
+      "품목명": "[LANstar] USB3.0 20pin to USB2.0 9pin 변환 케이블 [30469] (1,000개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-U3020G",
+      "내용": "제품도 저렴하면서 잘동작하고 배송도 빠릅니다"
+    },
+    {
+      "source_model": "LS-U3020G",
+      "내용": "가성비 좋고 최고입니다.\n재구매인데 또 구매하겠습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "PVC"
+      ],
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 20Pin(수)",
+    "connectivity.output_signals": "USB 2.0 9Pin(암)",
+    "connectivity.directional": "변환 젠더",
+    "power.power_mode": "USB 3.0 20Pin to USB 2.0 9Pin 변환 젠더",
+    "power.charging_support": "USB 2.0 최대 속도 480Mbps 지원",
+    "form_physical.has_case": "젠더 케이블",
+    "form_physical.material": "PVC",
+    "form_physical.length_meters": "케이블 길이 약 15cm",
+    "certification.kc": "KC 인증번호: 해당없음",
+    "audio_video.max_resolution": "USB 3.0 20Pin to USB 2.0 9Pin 변환 젠더",
+    "audio_video.hdcp_version": "USB 3.0 20Pin to USB 2.0 9Pin 변환 젠더",
+    "audio_video.audio_pass": "USB 3.0 20Pin to USB 2.0 9Pin 변환 젠더",
+    "family.usb_version": "USB 2.0 480Mbps",
+    "family.transfer_speed_gbps": "480Mbps",
+    "family.charging_only": "USB 2.0 최대 속도 480Mbps 지원",
+    "family.data_only": "USB 2.0 최대 속도 480Mbps 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:26",
+  "feature_schema_version": "1.0.0"
+}

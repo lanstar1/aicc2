@@ -1,0 +1,172 @@
+{
+  "model_no": "LS-HMS402-UHD",
+  "product_name": "LANStar HDMI 매트릭스 분배기 4:2 (HDMI Splitter 4in 2out)",
+  "category": [
+    "HDMI분배기",
+    "HDMI선택기",
+    "HDMI매트릭스",
+    "HDMI광케이블"
+  ],
+  "key_features": [
+    "4K UHD(4096x2160) @30Hz 영상 및 음성 동시 출력 지원",
+    "4포트 HDMI 입력 / 2포트 HDMI 출력 (4x2 매트릭스 구성)",
+    "스위치 A/B 및 리모컨으로 입/출력 포트 개별 선택 가능",
+    "스위치 A 5초 장누름으로 5.1 또는 2.1 음향채널 전환",
+    "S/PDIF 옵티컬(광) 출력 단자 및 스테레오 R/L 오디오 출력 단자 제공",
+    "데이지 체인(Daisy Chain) 방식으로 다단 연결 및 확장 지원",
+    "HDCP(고대역 디지털 콘텐츠 보호) 지원",
+    "3D 및 Full HD 1080p 지원",
+    "DTS-HD, Dolby TrueHD, LPCM 7.1 등 다양한 오디오 포맷 지원",
+    "리모컨 기본 제공 (CR2025 건전지 포함)",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "국립전파연구원 인증(KC) 획득 제품"
+  ],
+  "specifications": {
+    "HDMI 해상도": "4K*2K (4096x2160) @30Hz, 2160i/p, 1080i/p, 720i/p, 576i/p, 480i/p",
+    "입력 포트": "HDMI 4포트",
+    "출력 포트": "HDMI 2포트",
+    "대역폭": "340MHz",
+    "데이터 전송 속도": "3.4Gbps",
+    "출력 케이블 최대 거리": "최대 15m (1080p, 26AWG)",
+    "입력 케이블 최대 거리": "최대 10m (1080p, 26AWG)",
+    "오디오 포맷": "DTS-HD, Dolby TrueHD, LPCM 7.1, AC3, DTS, DSD",
+    "오디오 출력 단자": "S/PDIF 옵티컬(광) 출력, 스테레오 R/L 출력",
+    "HDCP 지원": "지원",
+    "3D 지원": "지원",
+    "제품 크기": "200 x 25 x 70mm (W x H x L)",
+    "전원": "DC 5V / 2A",
+    "인증번호": "KCC-REI-LS-HMS204",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "안전규격": "KC, FCC, CE, RoHS",
+    "품질경영시스템": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "LCD 모니터",
+    "디지털 TV",
+    "블루레이 플레이어",
+    "게임기",
+    "프로젝터",
+    "HDMI 단자를 가진 디지털 기기 전반",
+    "DVI 단자 기기 (DVI-HDMI 케이블 또는 DVI 젠더 별도 구매 필요, 이 경우 음성 미지원)",
+    "HDMI 1.4 규격 지원 기기"
+  ],
+  "package_contents": [
+    "HDMI 매트릭스 분배기 본체 (LS-HMS402-UHD)",
+    "전원 어댑터 DC 5V/2A",
+    "리모컨 (CR2025 건전지 포함)",
+    "한글 매뉴얼"
+  ],
+  "usage_instructions": "1. HDMI 입력 포트(IN1~IN4)에 소스 기기를 연결하고, 출력 포트(OUT A, OUT B)에 디스플레이 장치를 연결한다. 2. 전원 어댑터(DC 5V/2A)를 연결하여 전원을 켠다. 3. 본체의 스위치 A/B 또는 리모컨의 OUT A/OUT B 버튼으로 각 출력에 연결할 입력 소스를 선택한다. 4. 스위치 A를 5초간 눌러 5.1 또는 2.1 음향채널을 선택할 수 있다. 5. 데이지 체인 방식으로 여러 대의 분배기를 연결하여 확장 사용 가능하며, 케이블 길이와 성능에 따라 연장 가능 여부가 달라진다.",
+  "cautions": [
+    "본 기기는 셋톱박스, 인터넷 TV와 연결 시 작동하지 않는다. 일시적으로 작동할 수 있으나 방송 송출사에서 신호 차단 시 다시 작동하지 않는다.",
+    "DVI 단자 기기와 연결 시 DVI-HDMI 케이블(별도 구매) 또는 DVI 젠더(별도 구매)를 사용해야 하며, 이 경우 음성은 지원하지 않으므로 별도의 스테레오 케이블(M/M)을 기기와 연결해야 한다.",
+    "데이지 체인 연결 시 케이블 길이와 성능에 따라 연장 가능 여부가 달라진다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있다.",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결기준에 따라 보상받을 수 있다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HMS402-UHD",
+      "품목코드": "INT-HDS078",
+      "품목명": "[LANstar] HDMI 매트릭스 입력 4P 출력 2Port, 4K*2K@30Hz 지원[30158]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI",
+        "Optical",
+        "RCA"
+      ],
+      "directional": "양방향",
+      "port_count": 6
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "input_count": 4,
+      "output_count": 2,
+      "mode": [
+        "매트릭스",
+        "분배"
+      ],
+      "cascade_support": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "4포트 HDMI 입력",
+    "connectivity.output_signals": "2포트 HDMI 출력",
+    "connectivity.directional": "4x2 매트릭스 구성",
+    "connectivity.port_count": "4포트 HDMI 입력 / 2포트 HDMI 출력",
+    "power.power_mode": "전원 어댑터(DC 5V/2A)를 연결",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "제품 크기",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "국립전파연구원 인증(KC) 획득",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "4K UHD(4096x2160) @30Hz",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "HDCP(고대역 디지털 콘텐츠 보호) 지원",
+    "audio_video.audio_pass": "음성 동시 출력 지원",
+    "control_switching.has_remote": "리모컨 기본 제공",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "본체의 스위치 A/B",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.input_count": "4포트 HDMI 입력",
+    "family.output_count": "2포트 HDMI 출력",
+    "family.mode": "HDMI 매트릭스 분배기",
+    "family.cascade_support": "데이지 체인(Daisy Chain) 방식으로 다단 연결"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:42",
+  "feature_schema_version": "1.0.0"
+}

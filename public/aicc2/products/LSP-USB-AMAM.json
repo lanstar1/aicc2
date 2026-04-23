@@ -1,0 +1,133 @@
+{
+  "model_no": "LSP-USB-AMAM",
+  "product_name": "LANstar plus USB 2.0 케이블 A/M-A/M",
+  "category": [
+    "USB케이블",
+    "USB2.0"
+  ],
+  "key_features": [
+    "USB 2.0 규격 지원, 최대 480Mbps 전송속도 (USB 1.1 대비 40배 빠름)",
+    "USB A Male - USB A Male 양방향 동일 단자 구성",
+    "USB 1.0 / 1.1 하위 버전 호환",
+    "RoHS 준수 (납, 수은, 카드뮴 등 유해 중금속 사용 제한)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "규격": "USB 2.0 (HI-SPEED)",
+    "최대 전송속도": "480Mb/s",
+    "충전 전압": "100mA",
+    "커넥터 유형": "USB A Male - USB A Male",
+    "길이 옵션": "1.8M, 3M, 5M",
+    "모델명 (1.8M)": "LSP-USB-AMAM-1.8M",
+    "모델명 (3M)": "LSP-USB-AMAM-3M",
+    "모델명 (5M)": "LSP-USB-AMAM-5M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "RoHS 적합 여부": "RoHS Compliant"
+  },
+  "compatibility": [
+    "USB 2.0 (HI-SPEED) 규격 기기",
+    "USB 1.1 (FULL SPEED) 규격 기기 (하위 호환)",
+    "USB 1.0 (LOW SPEED) 규격 기기 (하위 호환)",
+    "USB A 단자를 가진 기기 간 연결"
+  ],
+  "package_contents": [
+    "USB 2.0 A/M-A/M 케이블 1개"
+  ],
+  "usage_instructions": "USB A 단자를 가진 두 기기에 각각 케이블의 USB A Male 커넥터를 연결하여 사용합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "구매/배송/반품 관련 문의는 판매처(쇼핑몰 하단 참조)로 문의하세요.",
+    "AS 및 소비자 상담: 라인업시스템(주)"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-USB-AMAM-1.8M",
+      "품목코드": "PCA-UAA001",
+      "품목명": "[◆Lanstar-Plus] USB 2.0케이블 , A/M-A/M, 1.8M [70035](200개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-USB-AMAM-3M",
+      "품목코드": "PCA-UAA002",
+      "품목명": "[◆Lanstar-Plus] USB 2.0케이블 , A/M-A/M, 3M [70036](100개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-USB-AMAM-5M",
+      "품목코드": "PCA-UAA003",
+      "품목명": "[◆Lanstar-Plus] USB 2.0케이블 , A/M-A/M, 5M [70037](50개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_options_meters": [
+        1.8,
+        3,
+        5
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A Male - USB A Male",
+    "connectivity.output_signals": "USB A Male - USB A Male",
+    "connectivity.directional": "양방향 동일 단자 구성",
+    "power.power_mode": "충전 전압: 100mA",
+    "power.charging_support": "충전 전압: 100mA",
+    "form_physical.length_options_meters": "길이 옵션: 1.8M, 3M, 5M",
+    "certification.rohs": "RoHS 준수",
+    "audio_video.max_resolution": "USB 2.0 케이블",
+    "audio_video.hdcp_version": "USB 2.0 케이블",
+    "family.usb_version": "USB 2.0 규격 지원",
+    "family.transfer_speed_gbps": "최대 480Mbps 전송속도",
+    "family.charging_only": "USB 2.0 규격 지원, 최대 480Mbps 전송속도",
+    "family.data_only": "USB 2.0 규격 지원, 최대 480Mbps 전송속도"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:52",
+  "feature_schema_version": "1.0.0"
+}

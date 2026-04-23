@@ -1,0 +1,126 @@
+{
+  "model_no": "LS-BOOGIE-8.5N",
+  "product_name": "LANStar 전자칠판 8.5형 LCD Writing Tablet",
+  "category": [
+    "전자칠판"
+  ],
+  "key_features": [
+    "종이 없이 필기, 계산, 그리기 가능한 전자 메모패드",
+    "원클릭 삭제 버튼으로 필기 내용 한 번에 삭제 가능",
+    "동전 배터리(CR2016 3V) 하나로 저전력 장시간 사용",
+    "두께 4.7mm, 무게 113g의 얇고 가벼운 디자인",
+    "펜 미사용 시 손가락으로도 필기 가능",
+    "종이·잉크 불필요한 친환경 제품",
+    "청각장애인 필담용, 도서관 등 조용한 공간 대화용으로 활용 가능",
+    "업무 메모, 회의보드, 그림보드, 공부노트, 레시피 보드 등 다양한 활용",
+    "어린이 제품 안전 인증 통과 (FITI시험연구원)",
+    "홍보용 실크 로고 인쇄 가능 (별도 문의)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "시력 보호 설계로 눈이 편안한 디스플레이"
+  ],
+  "specifications": {
+    "화면 크기": "8.5형",
+    "무게": "113g",
+    "두께": "4.7mm",
+    "전체 크기": "220mm x 175mm",
+    "필기 영역": "125mm x 140mm",
+    "배터리 규격": "CR2016 3V (동전 배터리)",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "OEM 제조업체": "BOR ELECTRONIC CO., LTD",
+    "KC 인증번호": "MSIP-REI-LUS-LS-BOOGIE-12N",
+    "어린이 안전 인증번호": "CB065R0185-7001",
+    "안전 인증 기관": "FITI시험연구원",
+    "안전확인 신고번호": "경기김포-100",
+    "안전 인증 기준": "완구 (부속서 6), 비작동완구, 어린 학생용 완구 (8세 이상), 기타완구, 플라스틱제",
+    "국제 인증": "KC, FCC, CE",
+    "RoHS": "RoHS COMPLIANT",
+    "품질경영시스템": "ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "스타일러스 펜 (동봉)",
+    "손가락 필기 지원",
+    "CR2016 3V 동전 배터리"
+  ],
+  "package_contents": [
+    "전자칠판 본체 (8.5형)",
+    "스타일러스 펜"
+  ],
+  "usage_instructions": "삭제 버튼을 눌러 필기 내용을 한 번에 지울 수 있습니다. 펜이 없을 경우 손가락으로도 필기가 가능합니다. 동전 배터리(CR2016 3V)를 배터리 트레이에 삽입하여 사용합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "홍보용 실크 인쇄 요청 시 별도 문의 필요합니다.",
+    "어린이 안전 인증 기준상 8세 이상 어린 학생용 완구로 분류됩니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-BOOGIE-8.5N",
+      "품목코드": "COM-악세사174",
+      "품목명": "[LANstar] 전자칠판 8.5인치 LCD노트/전자 메모패드 [60077]★★할인제외★★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "배터리",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "power.power_mode": "동전 배터리(CR2016 3V) 하나로",
+    "power.charging_support": "동전 배터리(CR2016 3V) 하나로",
+    "form_physical.has_case": "두께 4.7mm, 무게 113g의 얇고 가벼운 디자인",
+    "form_physical.material": "플라스틱제",
+    "certification.kc": "KC 인증번호",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "KC, FCC, CE",
+    "certification.ce": "KC, FCC, CE",
+    "control_switching.has_physical_button": "원클릭 삭제 버튼으로 필기 내용 한 번에 삭제 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:36",
+  "feature_schema_version": "1.0.0"
+}

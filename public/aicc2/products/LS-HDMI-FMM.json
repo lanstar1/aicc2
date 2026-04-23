@@ -1,0 +1,203 @@
+{
+  "model_no": "LS-HDMI-FMM",
+  "product_name": "LANstar HDMI Flat Cable (평면형 HDMI 케이블) Ver 1.3b",
+  "category": [
+    "HDMI케이블"
+  ],
+  "key_features": [
+    "케이블 하나로 음성과 영상을 동시에 전달",
+    "HDMI 1.3b 버전 지원 - 최대 48비트(281조 색상) Deep Color 표현",
+    "기존 1.2버전(24비트, 1700만 색상) 대비 확장된 색상 팔레트 제공",
+    "일반 케이블 대비 4배 이상의 화질 차이",
+    "평면형(Flat) 구조로 공간 활용 및 신호 간섭 영향 최소화",
+    "원형 HDMI 대비 신호선 분리로 노이즈 및 신호 손실 감소",
+    "금도금 처리된 커넥터로 신호 손실 및 저항 방지",
+    "데이터 보호를 위한 알루미늄 쉴드 적용",
+    "케이블 간 노이즈 차단용 응축 필터 적용",
+    "최대 지원 해상도 4K*2K 60Hz",
+    "TrueHD 및 DTS-HD Master Audio 비트스트림 지원",
+    "FCC 및 CE 인증 획득",
+    "최대 신호 대역폭 340MHz, TMDS 대역폭 10.2Gbit/s"
+  ],
+  "specifications": {
+    "버전": "V1.3b",
+    "형태": "평면형(Flat)",
+    "길이": "1.5m, 3m, 5m",
+    "입력부": "HDMI",
+    "출력부": "HDMI",
+    "최대지원 해상도": "4K*2K 60Hz",
+    "HDMI 단자 크기": "약 14mm x 4mm",
+    "최대 색상 깊이": "48비트 (281조 색상)",
+    "최대 신호 대역폭": "340MHz",
+    "최대 TMDS 대역폭": "10.2Gbit/s",
+    "최대 비디오 대역폭": "8.16Gbit/s",
+    "최대 오디오 대역폭": "36.86Mbit/s",
+    "단일 링크 최대 해상도(24bpp)": "2560x1600p60",
+    "커넥터 처리": "금도금",
+    "쉴드": "알루미늄 쉴드",
+    "AWM 규격": "AWM 20276",
+    "내열 온도": "80°C",
+    "전압": "30V",
+    "난연 등급": "VW-1",
+    "재질(외피)": "PU",
+    "인증": "FCC, CE",
+    "Deep Color 지원": "Yes",
+    "XVYCC 지원": "Yes",
+    "Auto lip-sync 지원": "Yes",
+    "TrueHD 비트스트림 지원": "Yes",
+    "DTS-HD Master Audio 비트스트림 지원": "Yes",
+    "8채널/192kHz/24비트 오디오 지원": "Yes",
+    "DVD-A 지원": "Yes",
+    "SACD(DSD) 지원": "Yes",
+    "CEC 지원": "Yes",
+    "RGB": "Yes",
+    "YCbCr": "Yes"
+  },
+  "compatibility": [
+    "셋탑박스(Set-Top Box)",
+    "DVD 플레이어",
+    "Blu-ray Disc 플레이어",
+    "HDTV / 디지털 TV",
+    "PC / 그래픽카드",
+    "비디오 게임 콘솔 (PlayStation, Xbox 360)",
+    "AV 리시버",
+    "컴퓨터 모니터",
+    "HDMI 단자 탑재 영상기기 및 디스플레이기기 전반"
+  ],
+  "package_contents": [
+    "LANstar HDMI Flat Cable (평면형 케이블) 1개"
+  ],
+  "usage_instructions": "사용할 기기에 HDMI 단자(약 14mm x 4mm)가 있는지 반드시 확인 후 구매 및 연결하세요. 영상기기(DVD 플레이어, 셋탑박스 등)의 HDMI 단자와 디스플레이기기(HDTV, 모니터 등)의 HDMI 단자를 본 케이블로 연결하면 음성과 영상이 동시에 전달됩니다.",
+  "cautions": [
+    "사용할 기기에 HDMI 단자가 있는지 반드시 확인하고 구매하세요.",
+    "케이블 표면에 인쇄된 'HDMI 1.3b' 표기를 확인하여 정품 여부를 확인하세요.",
+    "본 제품은 HDMI 1.3b 버전으로, 사용 기기의 HDMI 버전 호환 여부를 확인하세요."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMI-FMM-1.5M",
+      "품목코드": "CAB-HDF001",
+      "품목명": "[LANstar] HDMI평면1.4케이블 , Flat HDMI 19P M／M, 4K 60Hz, 1.5M[10229]",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-FMM-3M",
+      "품목코드": "CAB-HDF002",
+      "품목명": "[LANstar] HDMI평면1.4케이블 , Flat HDMI 19P M／M, 4K 60Hz, 3M[10230]",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-FMM-5M",
+      "품목코드": "CAB-HDF003",
+      "품목명": "[LANstar] HDMI평면1.4케이블 , Flat HDMI 19P M／M, 4K 30Hz, 5M[10231]",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HDMI-FMM-1",
+      "id": 529403062,
+      "date": "2023-05-15 09:28",
+      "answerDate": "2023-05-15 10:17",
+      "user": "hanc********",
+      "productName": "랜스타 LS-HDMI-FMM-1.5M HDMI1.3 평면케이블 1.5M 4K 60Hz지원",
+      "question": "단종계획이 있나요??",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n해당 제품은 현 재고 50개로, 재고 소진 후 단종 예정입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n\n빠르고 성실한 답변으로 고객님의 문제를 해결해 드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-FMM-1",
+      "id": 529430820,
+      "date": "2023-05-15 10:34",
+      "answerDate": "2023-05-15 10:46",
+      "user": "hanc********",
+      "productName": "랜스타 LS-HDMI-FMM-1.5M HDMI1.3 평면케이블 1.5M 4K 60Hz지원",
+      "question": "혹시 대량 주문하면 \n양산 진행이 가능 할까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n원하시는 대량 구매 수량 말씀 주시면 내부 협의하여 안내 드리겠습니다.\n추가로 보다 더 원활한 상담을 위해 톡톡을 주시면 유선 응대 드릴 수 있도록 하겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금",
+        "알루미늄",
+        "PU"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1.5,
+        3,
+        5
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "HDMI1.3b",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "입력부: HDMI",
+    "connectivity.output_signals": "출력부: HDMI",
+    "connectivity.directional": "HDMI 단자와 디스플레이기기(HDTV, 모니터 등)의 HDMI 단자를 본 케이블로 연결하면 음성과 영상이 동시에 전달됩니다.",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.material": "금도금 처리된 커넥터",
+    "form_physical.material[1]": "알루미늄 쉴드 적용",
+    "form_physical.material[2]": "재질(외피): PU",
+    "form_physical.length_options_meters": "길이: 1.5m, 3m, 5m",
+    "certification.fcc": "FCC 및 CE 인증 획득",
+    "certification.ce": "FCC 및 CE 인증 획득",
+    "audio_video.max_resolution": "최대 지원 해상도 4K*2K 60Hz",
+    "audio_video.audio_pass": "케이블 하나로 음성과 영상을 동시에 전달",
+    "family.hdmi_version": "HDMI 1.3b 버전 지원",
+    "family.dp_version": "N/A",
+    "family.dvi_type": "N/A",
+    "family.optical_core": "알루미늄 쉴드 적용"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:12",
+  "feature_schema_version": "1.0.0"
+}

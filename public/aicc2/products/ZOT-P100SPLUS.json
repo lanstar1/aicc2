@@ -1,0 +1,120 @@
+{
+  "model_no": "ZOT-P100SPLUS",
+  "product_name": "ZOT P100S+ 프린터서버 (1Parallel, 콘넥터형)",
+  "category": [
+    "랜케이블-UTP"
+  ],
+  "key_features": [
+    "Internet을 통한 원격 프린팅 지원",
+    "초미니, SOHO용 고속 프린터서버",
+    "1 Ethernet UTP Port & 1 Parallel Port",
+    "ARM7 칩 사용으로 제품 안정성 증진 및 초고속 프린팅 가능 (80MHz)",
+    "10/100Mbps Ethernet network speed",
+    "IEEE 1284 Centronics Port 지원",
+    "DHCP client 지원",
+    "10/100Mbps Auto-sensing",
+    "Multi-Network Protocol 지원"
+  ],
+  "specifications": {
+    "프린터 포트": "One IEEE 1284 bi-directional parallel port",
+    "네트워크 포트": "One speed-sensing 10/100Mbps port, RJ-45, IEEE 802.3 Ethernet 및 IEEE 802.3u Fast Ethernet 규격",
+    "네트워크 프로토콜": "TCP/IP, IPX/SPX, NetBEUI",
+    "크기": "W 58mm x D 55mm x H 22mm",
+    "작동 온도": "0 to 40°C",
+    "작동 습도": "최대 90%",
+    "CPU": "ARM7 (80MHz)",
+    "인증번호": "E-E014-05-3078",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "Windows NT / 2000 / 2003",
+    "Windows 98 / ME / XP (XP 서비스팩2에서는 방화벽 해제 후 사용 가능)",
+    "Windows Vista 32bit",
+    "Windows 7 (Standard TCP/IP 방식)",
+    "NetWare",
+    "Unix",
+    "Mac OS",
+    "LPD/IPP 프로토콜 지원 환경",
+    "PCL 및 PostScript 방식 프린터"
+  ],
+  "package_contents": [
+    "P100S+ 프린터서버 본체"
+  ],
+  "usage_instructions": "Setup Wizard CD를 이용해 소프트웨어를 설치하면 자동으로 마법사(Wizard)가 실행되어 로컬 네트워크 내 프린터서버를 설정할 수 있음. 수동 설치(Manual Installation) 및 문서(Documentation) 옵션도 제공됨.",
+  "cautions": [
+    "프린터의 인쇄 언어에 따라 프린터서버와 호환되지 않을 수 있으므로, 구매 전 반드시 프린터 호환 여부를 먼저 확인하시기 바랍니다.",
+    "PCL 및 PostScript 방식의 프린터만 지원되며, GDI 방식은 지원되지 않습니다.",
+    "Windows XP 서비스팩2 환경에서는 방화벽 해제 후 사용 가능합니다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45",
+        "Parallel(DB25)"
+      ],
+      "output_signals": [
+        "RJ45",
+        "Parallel(DB25)"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": null,
+      "shielding": null,
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "1 Ethernet UTP Port & 1 Parallel Port",
+    "connectivity.output_signals": "1 Ethernet UTP Port & 1 Parallel Port",
+    "connectivity.directional": "IEEE 1284 bi-directional parallel port",
+    "connectivity.port_count": "1 Ethernet UTP Port & 1 Parallel Port",
+    "power.power_mode": "어댑터",
+    "form_physical.has_case": "W 58mm x D 55mm x H 22mm",
+    "certification.kc": "인증번호: E-E014-05-3078"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:56",
+  "feature_schema_version": "1.0.0"
+}

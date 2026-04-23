@@ -1,0 +1,139 @@
+{
+  "model_no": "LS-PRT11",
+  "product_name": "LAN Star USB 2.0 프린터 케이블 36핀 (USB to 36P/F) LS-PRT11 1.8M",
+  "category": [
+    "USB2.0",
+    "컨버터"
+  ],
+  "key_features": [
+    "USB 2.0 to 36핀(Centronics) Female 변환 케이블",
+    "길이 1.8M",
+    "10/100 Mbps 지원 (USB 1.1 하위버전 호환)",
+    "No IRQ I/O address, DMA",
+    "Bus Power 방식",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 규격 준수",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "국내 프린터 85~90% 호환 가능"
+  ],
+  "specifications": {
+    "인터페이스": "USB 2.0 to 36핀(Centronics) Female Parallel",
+    "전송속도": "10/100 Mbps (USB 1.1 하위버전 호환)",
+    "케이블 길이": "1.8M",
+    "전원 방식": "Bus Power",
+    "IRQ/DMA": "No IRQ I/O address, DMA",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "호환 OS": "Windows 8, MAC OS 8.6 이상"
+  },
+  "compatibility": [
+    "Windows 8",
+    "MAC OS 8.6 이상",
+    "국내 프린터 85~90% 호환 (제조사·모델에 따라 미인식 가능)",
+    "PRT11 / PRT25 호환",
+    "USB 1.1 하위버전 호환"
+  ],
+  "package_contents": [
+    "USB to 36핀/F Parallel 케이블",
+    "드라이버 CD (제조사 사정에 따라 CD 및 케이블 색상 차이 있을 수 있음)"
+  ],
+  "usage_instructions": "1. 기기를 연결하면 자동 인식됩니다.\n2. 내 컴퓨터 우클릭 > 속성 > 하드웨어 탭 > 장치관리자 진입 후, '범용 직렬 버스 컨트롤러' 항목에서 'USB 인쇄 지원'이 추가되어 있으면 정상 연결 상태입니다.\n3. 출력이 안 될 경우: 제어판 > 프린터 및 팩스 > 사용할 프린터 우클릭 > 속성 > 포트 탭으로 이동 > USB001(환경에 따라 USB002, USB003 등)에 체크 후 적용 버튼을 누르면 연결됩니다.\n※ 프린터 드라이버를 미리 설치하고, 프린터가 온라인(사용함) 상태인지 확인하세요.",
+  "cautions": [
+    "본 제품은 산업용 장비의 통신 목적으로 사용할 수 없습니다.",
+    "산업용 목적으로 구매 후 환불은 불가합니다.",
+    "프린터 전용으로만 사용하는 제품입니다.",
+    "프로그램 Lock 장치와는 호환되지 않습니다.",
+    "호환 여부는 직접 연결 테스트 외에 확인 방법이 없으며, 미호환 시 반품·환불 처리되나 택배비는 고객 부담입니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "품질 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PRT11",
+      "품목코드": "USB-프린터001",
+      "품목명": "[LANstar] USB 2.0 TO 36P/M 컨버터 1.8M(30개)[30037]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Parallel(DB25)"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 1.8,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.1,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 2.0 to 36핀(Centronics) Female",
+    "connectivity.output_signals": "USB 2.0 to 36핀(Centronics) Female Parallel",
+    "connectivity.directional": "USB 2.0 to 36핀(Centronics) Female 변환 케이블",
+    "power.power_mode": "Bus Power 방식",
+    "power.charging_support": "USB 2.0 프린터 케이블",
+    "form_physical.length_meters": "길이 1.8M",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "USB 2.0 프린터 케이블",
+    "audio_video.hdr_support": "USB 2.0 프린터 케이블",
+    "audio_video.hdcp_version": "USB 2.0 프린터 케이블",
+    "audio_video.audio_pass": "USB 2.0 프린터 케이블",
+    "control_switching.has_remote": "USB 2.0 프린터 케이블",
+    "control_switching.has_hotkey": "USB 2.0 프린터 케이블",
+    "control_switching.has_physical_button": "USB 2.0 프린터 케이블",
+    "control_switching.has_mouse_switching": "USB 2.0 프린터 케이블",
+    "control_switching.has_auto_scan": "USB 2.0 프린터 케이블",
+    "control_switching.has_app_control": "USB 2.0 프린터 케이블",
+    "family.usb_version": "USB 2.0 to 36핀(Centronics) Female",
+    "family.transfer_speed_gbps": "10/100 Mbps 지원",
+    "family.charging_only": "USB 2.0 프린터 케이블",
+    "family.data_only": "USB 2.0 프린터 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:33",
+  "feature_schema_version": "1.0.0"
+}

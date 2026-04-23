@@ -1,0 +1,151 @@
+{
+  "model_no": "LS-USB204P",
+  "product_name": "USB 2.0 4Port 허브 (LS-USB204P)",
+  "category": [
+    "USB허브",
+    "USB2.0"
+  ],
+  "key_features": [
+    "최대 127대까지 확장 가능",
+    "USB 2.0 최대 480Mbps 고속 데이터 전송 속도 지원",
+    "USB 2.0 및 USB 1.1 규격 호환 (USB 1.1 최대 12Mbps, USB 2.0 최대 480Mbps)",
+    "FE1.1 칩셋 사용으로 빠르고 안정적인 동작",
+    "Plug & Play 자동 설치 지원 (Windows 98SE 제외, 수동 설치 필요)",
+    "초소형 제품으로 휴대 간편",
+    "고휘도 LED 탑재",
+    "고급스러운 컬러와 Stylish한 디자인 (실버, 블랙)"
+  ],
+  "specifications": {
+    "인증번호": "LUS-USB204PN",
+    "모델명": "LS-USB204P-BN / LS-USB204P-SN",
+    "전송 속도": "USB 2.0 최대 480Mbps / USB 1.1 최대 12Mbps",
+    "포트 수": "4 Port",
+    "USB 규격": "USB 2.0 (USB 1.1 하위 호환)",
+    "칩셋": "FE1.1",
+    "색상": "블랙, 실버",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "DC 어댑터 정격 입력 전압": "100V~240V 50/60Hz",
+    "DC 어댑터 정격 출력 전압": "5V DC 1000mA",
+    "DC 어댑터 커넥터 직경": "외경 3.5mm / 내경 1.8mm"
+  },
+  "compatibility": [
+    "USB 2.0",
+    "USB 1.1",
+    "Windows 98SE (수동 설치)",
+    "Windows 98 / 2000 / XP / Vista / 7 / 8",
+    "Mac OS",
+    "Linux",
+    "USB 마우스",
+    "프린터",
+    "PC카메라 (웹캠)",
+    "스캐너",
+    "조이스틱",
+    "MP3",
+    "키보드",
+    "USB 모뎀",
+    "USB 랜카드",
+    "USB 휴대폰 충전기",
+    "USB 외장하드 / CD-ROM",
+    "USB 메모리 카드 리더기",
+    "디지털카메라",
+    "스마트폰",
+    "게임기"
+  ],
+  "package_contents": [
+    "USB 2.0 4Port Hub 본체 (블랙 또는 실버)",
+    "Mini 5P 케이블 50cm",
+    "DC 5V 충전기 (별도 구매)"
+  ],
+  "usage_instructions": "Plug & Play 방식으로 PC에 연결 시 자동 설치됩니다. Windows 98 / 2000 / XP / Vista / 7 / 8 및 Mac OS, Linux에서 자동 설치를 지원합니다. 단, Windows 98SE에서는 수동 설치가 필요합니다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "DC 5V 충전기는 별도 구매 항목입니다.",
+    "Windows 98SE에서는 자동 설치가 지원되지 않으며 수동 설치가 필요합니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "실버",
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "port_count": 4,
+      "usb_version": "USB2.0",
+      "ethernet_speed_mbps": null,
+      "has_sd_reader": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 2.0 4Port 허브",
+    "connectivity.output_signals": "USB 2.0 4Port 허브",
+    "connectivity.directional": "USB 2.0 최대 480Mbps 고속 데이터 전송",
+    "connectivity.port_count": "4 Port",
+    "power.power_mode": "DC 어댑터 정격 입력 전압",
+    "power.charging_support": "USB 2.0 4Port 허브",
+    "form_physical.has_case": "초소형 제품으로 휴대 간편",
+    "form_physical.color_options": "실버, 블랙",
+    "certification.kc": "인증번호: LUS-USB204PN",
+    "audio_video.max_resolution": "USB 2.0 4Port 허브",
+    "audio_video.hdr_support": "USB 2.0 4Port 허브",
+    "audio_video.hdcp_version": "USB 2.0 4Port 허브",
+    "audio_video.audio_pass": "USB 2.0 4Port 허브",
+    "control_switching.has_remote": "USB 2.0 4Port 허브",
+    "control_switching.has_hotkey": "USB 2.0 4Port 허브",
+    "control_switching.has_physical_button": "USB 2.0 4Port 허브",
+    "control_switching.has_mouse_switching": "USB 2.0 4Port 허브",
+    "control_switching.has_auto_scan": "USB 2.0 4Port 허브",
+    "control_switching.has_app_control": "USB 2.0 4Port 허브",
+    "family.port_count": "4 Port",
+    "family.usb_version": "USB 2.0",
+    "family.ethernet_speed_mbps": "USB 2.0 4Port 허브",
+    "family.has_sd_reader": "USB 2.0 4Port 허브"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:38",
+  "feature_schema_version": "1.0.0"
+}

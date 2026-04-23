@@ -1,0 +1,222 @@
+{
+  "model_no": "LS-5FTPSD-BK1M",
+  "product_name": "LANStar CAT.5E FTP 랜 연장 판넬형 케이블 (M/F)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-FTP",
+    "커넥터",
+    "분배판넬"
+  ],
+  "key_features": [
+    "CAT.5E FTP 4P 트위스트 페어 연선(Twist Pair Stranded) 케이블",
+    "알루미늄 은박(Al/Mylar) 쉴드로 선을 감싸 외부 노이즈·전자파 차단 및 데이터 손실 최소화",
+    "접지선 내장으로 외부 간섭으로부터 데이터 전송 손실율 최소화",
+    "4페어 구성(1페어당 100MHz, 총 400MHz) 연선으로 유연성 우수, 움직이는 장치에 적합",
+    "판넬형 커넥터(나사 고정 방식)로 LAN 포트를 외부에 안정적으로 고정·노출 가능",
+    "허브랙/서버랙, 전자교탁, 서버, PC 및 산업용 장비 등에 데이터 손실 없이 LAN 포트 확장 가능",
+    "RoHS 인증 제품"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.5E FTP",
+    "케이블 구조": "4P Twist Pair Stranded (연선)",
+    "쉴드 방식": "FTP (Foiled Twisted Pair) - 알루미늄 은박(Al/Mylar) 테이프 쉴드 + 어스선",
+    "커넥터 구성": "판넬형 커넥터 암(F) + 일반형 커넥터 수(M)",
+    "제품 길이": "1m (라인업: 0.2m / 0.5m / 1m / 2m / 3m / 5m)",
+    "데이터 전송 속도": "150MHz / 550Mbps",
+    "안전 전송 거리": "100m",
+    "피복 재질": "PVC/LSZH",
+    "절연 재질": "PE",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "허브랙 / 서버랙",
+    "전자교탁",
+    "서버",
+    "PC",
+    "산업용 장비",
+    "CAT.5E 규격 LAN 포트 탑재 각종 기기"
+  ],
+  "package_contents": [
+    "CAT.5E FTP 판넬형 랜 연장 케이블 본체 (M/F) 1개",
+    "고정용 나사 (포함)"
+  ],
+  "usage_instructions": "CAT.5E 판넬형 케이블을 설치 시, 케이블이 흔들리지 않도록 나사로 고정한 후 연장하여 사용합니다. 설치 전 상세 치수를 확인하고 구매하시기 바랍니다.",
+  "cautions": [
+    "설치 전 상세 치수를 반드시 확인 후 구매하시기 바랍니다.",
+    "케이블 고정 시 나사를 사용하여 흔들리지 않도록 고정한 후 사용하십시오.",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-5FTPSD-BK1M",
+      "품목코드": "CAB-U5S008",
+      "품목명": "[LANstar] 랜연장 판넬형 케이블, CAT.5E FTP, Open Screw, 1M 검정 [10126] (160개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-5FTPSD-BK1M",
+      "내용": "빠른 배송과 버퍼 감사합니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-5FTPSD-BK1M",
+      "내용": "빠른 발송 감사합니다."
+    },
+    {
+      "source_model": "LS-5FTPSD-BK1M",
+      "내용": "빠른 배송 및 처리 감사합니다"
+    },
+    {
+      "source_model": "LS-5FTPSD-BK1M",
+      "내용": "항상 빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-5FTPSD-BK1M",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-5FTPSD-BK1M",
+      "내용": "아주 빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-5FTPSD-BK1M",
+      "내용": "빠르고 정확한 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-5FTPSD-BK1M",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-5FTPSD-BK1M",
+      "내용": "좋아요 추천합니다 굿"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-5FTPSD-BK1M",
+      "chatUrl": "2ee75",
+      "dateIso": "2026-04-01T06:38:13.356Z",
+      "name": "스피드",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하세요? \nLS-5FTPSD-BK1M 260개\nLS-USB30-S1M 130개\n재고있나요?\n재고있으면 할인쿠폰 부탁드립니다^^",
+      "answer": "말씀해주신 두 제품 재고 가능하여 7% 할인 쿠폰 발급 도와드렸습니다.",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "말씀이 없으셔서 랜스타 쇼핑몰로 주문하였습니다.\n주문번호 2604011531090540"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n말씀해주신 두 제품 재고 가능하여 7% 할인 쿠폰 발급 도와드렸습니다."
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요? \nLS-5FTPSD-BK1M 260개\nLS-USB30-S1M 130개\n재고있나요?\n재고있으면 할인쿠폰 부탁드립니다^^"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n2월 중순 입고 예정이십니다."
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "PVC",
+        "PE",
+        "알루미늄"
+      ],
+      "length_meters": 1,
+      "length_options_meters": [
+        0.2,
+        0.5,
+        1,
+        2,
+        3,
+        5
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "FTP",
+      "conductor": "연선(stranded)",
+      "awg": null,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "LAN 포트 확장 가능",
+    "connectivity.output_signals": "LAN 포트 확장 가능",
+    "connectivity.directional": "LAN 포트 확장 가능",
+    "form_physical.material": "알루미늄 은박(Al/Mylar) 쉴드",
+    "form_physical.material.1": "피복 재질: PVC/LSZH",
+    "form_physical.material.2": "절연 재질: PE",
+    "form_physical.length_meters": "제품 길이: 1m",
+    "form_physical.length_options_meters": "라인업: 0.2m / 0.5m / 1m / 2m / 3m / 5m",
+    "certification.rohs": "RoHS 인증 제품",
+    "family.cat_category": "CAT.5E FTP",
+    "family.shielding": "FTP (Foiled Twisted Pair)",
+    "family.conductor": "연선(Twist Pair Stranded) 케이블",
+    "family.pair_count": "4페어 구성",
+    "family.flame_rating": "피복 재질: PVC/LSZH"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:17",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "model_no": "LS-MC50B",
+  "product_name": "[LANstar] 매직 케이블 5M , 25mm 블랙 [30486] (40개)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-MC50B",
+      "품목코드": "COM-악세0003",
+      "품목명": "[LANstar] 매직 케이블 5M , 25mm 블랙 [30486] (40개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-MC50B",
+      "내용": "티비 셋톱박스 바꾸고 선정리 깔끔하게 했습니다. 인테리어 다시 한것같은 사양입니다",
+      "관련내용": "전선정리가 정말 깔끔하고 보기좋게 됬어요"
+    },
+    {
+      "source_model": "LS-MC50B",
+      "내용": "전선정리가 정말 깔끔하고 보기좋게 됬어요"
+    },
+    {
+      "source_model": "LS-MC50B",
+      "내용": "처음에 캐이블 넣는 방법을 몰라 애먹었는데 잘되엇네요\n이쁘게 잘정리가 되었습니다"
+    },
+    {
+      "source_model": "LS-MC50B",
+      "내용": "쓰기편해요 빠른배송 좋아요"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-MC50B",
+      "chatUrl": "EhJV",
+      "dateIso": "2023-12-12T05:09:06.043Z",
+      "name": "푸우",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "그럼 블랙을 받으려면 나머지 제품들도 다음주까지 기다려야하는거죠?\n(추가 문의) 그럼 나머지 제품 먼저 보내주시겠어요?\n(추가 문의) 혹시 블랙은 물량이 언제쯤 들어올까요?",
+      "answer": "금일 [LS-MC50B] 제품 1개 발송 도와드렸습니다. 기다려 주셔서 감사합니다. 운송장 번호는 확인 되는 대로 톡톡으로 안내드리겠습니다.\n\n네 고객님. 금일 매직케이블 블랙 제외하여 나머지 제품 발송 도와드리겠습니다. 네이버 시스템 상에서는 모든 제품이 발송 처리되지만, 차주에 블랙 색상 1개 발송 시 따로 톡톡으로\n\n고객님, 원하시는 방법으로 도와드릴 수 있습니다. 다른 제품 먼저 받아보시면, 금일 출고 도와드릴 수 있으며, 블랙 입고 후 같이 받아보길 원하시면 그렇게 도와드릴 수 있습니다.",
+      "turn_count": 6,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "감사합니다^^"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n금일 [LS-MC50B] 제품 1개 발송 도와드렸습니다. 기다려 주셔서 감사합니다. 운송장 번호는 확인 되는 대로 톡톡으로 안내드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "저도 감사해요^^"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님. 금일 매직케이블 블랙 제외하여 나머지 제품 발송 도와드리겠습니다. 네이버 시스템 상에서는 모든 제품이 발송 처리되지만, 차주에 블랙 색상 1개 발송 시 따로 톡톡으로"
+        },
+        {
+          "role": "customer",
+          "text": "그럼 나머지 제품 먼저 보내주시겠어요?"
+        },
+        {
+          "role": "agent",
+          "text": "고객님, 원하시는 방법으로 도와드릴 수 있습니다.\n\n다른 제품 먼저 받아보시면, 금일 출고 도와드릴 수 있으며,\n블랙 입고 후 같이 받아보길 원하시면 그렇게 도와드릴 수 있습니다."
+        },
+        {
+          "role": "customer",
+          "text": "그럼 블랙을 받으려면 나머지 제품들도 다음주까지 기다려야하는거죠?"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 다음주 정도에 해당 제품 입고될 것으로 보입니다.\n원활한 제품 구매에 불편을 드려 죄송합니다."
+        },
+        {
+          "role": "customer",
+          "text": "LS-MC50B 입니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n정확환 확인을 위해 모델명 말씀 주시면 안내 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "혹시 블랙은 물량이 언제쯤 들어올까요?"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 5,
+      "length_options_meters": null,
+      "color_options": [
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.length_meters": "매직 케이블 5M",
+    "form_physical.color_options": "블랙"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:27",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

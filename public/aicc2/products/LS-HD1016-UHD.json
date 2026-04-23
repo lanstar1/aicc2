@@ -1,0 +1,144 @@
+{
+  "model_no": "LS-HD1016-UHD",
+  "product_name": "LANStar HDMI 분배기 1:16 (HDMI Splitter 1in 16out)",
+  "category": [
+    "HDMI분배기"
+  ],
+  "key_features": [
+    "하나의 4K UHD HDMI 소스를 최대 16대의 모니터에 동시 출력",
+    "4K@30Hz (4096x2160) 울트라 HD 해상도 지원",
+    "3D 및 Full HD 1080p 지원",
+    "HDCP(고대역 디지털 콘텐츠 보호) 지원",
+    "데이지 체인(Daisy Chain) 방식 지원으로 다양한 연결 및 확장 가능",
+    "오디오 포맷 DTS-HD, Dolby-True-HD, LPCM7.1, AC3, DTS, DSD 지원",
+    "HDMI Signal Retiming with Cascading 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 제품 (KC 인증번호: KCC-REI-LS-HD1016)"
+  ],
+  "specifications": {
+    "HDMI 해상도": "4K*2K (4096x2160) @30Hz, 2160i/p, 1080i/p, 720i/p, 576i/p, 480i/p",
+    "입력 포트": "HDMI 1포트",
+    "출력 포트": "HDMI 16포트",
+    "대역폭": "340MHz",
+    "데이터 전송 속도": "3.4Gbps",
+    "출력 케이블 최대 거리": "15m (1080p, 26AWG)",
+    "입력 케이블 최대 거리": "10m (1080p, 26AWG)",
+    "HDCP 지원": "지원",
+    "3D 지원": "지원",
+    "오디오 포맷": "DTS-HD, Dolby-True-HD, LPCM7.1, AC3, DTS, DSD",
+    "크기 (W x H x L)": "460 x 40 x 150mm",
+    "전원": "DC 12V",
+    "전원 어댑터": "DC12V/2A (어댑터 인증번호: HU10653-120018)",
+    "인증": "KC (KCC-REI-LS-HD1016), FCC, CE, RoHS",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "LCD 모니터",
+    "디지털TV",
+    "블루레이 플레이어",
+    "게임기",
+    "프로젝터",
+    "HDMI 단자를 가진 디지털 기기",
+    "DVI 단자 기기 (DVI-HDMI 케이블 또는 DVI 젠더 별도 구매 필요, 음성 미지원)",
+    "HDMI 1.4 규격"
+  ],
+  "package_contents": [
+    "HDMI 분배기 본체 (LS-HD1016-UHD)",
+    "전원 어댑터 DC12V/2A",
+    "한글 매뉴얼"
+  ],
+  "usage_instructions": "1개의 HDMI 소스 기기를 본체 HDMI 입력 포트에 연결하고, 최대 16대의 디스플레이 장치를 HDMI 출력 포트에 연결하여 동시에 4K 영상 및 음성을 출력합니다. 데이지 체인 방식으로 추가 연장 연결도 가능합니다 (케이블 길이 및 성능에 따라 연장 가능 여부 상이). DVI 단자 기기 연결 시 DVI-HDMI 케이블 또는 DVI 젠더(별도 구매)를 사용하고, 음성은 별도 스테레오 케이블(M/M)로 연결해야 합니다.",
+  "cautions": [
+    "본 기기는 셋톱박스, 인터넷 TV와 연결 시 작동하지 않습니다. 일시적으로 작동할 수 있으나 방송 송출사에서 신호 차단 시 다시 작동하지 않습니다.",
+    "DVI 단자 연결 시 음성은 지원하지 않으며, 별도의 스테레오 케이블(M/M)로 기기와 연결해야 합니다.",
+    "데이지 체인 연장 시 케이블 길이와 성능에 따라 연장 가능 여부가 달라집니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HD1016-UHD",
+      "품목코드": "INT-HDS105",
+      "품목명": "[LANstar] HDMI 분배기 1 : 16 분배기 4K 2K 30Hz [30177]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 17
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "input_count": 1,
+      "output_count": 16,
+      "mode": [
+        "분배"
+      ],
+      "cascade_support": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 1포트",
+    "connectivity.output_signals": "HDMI 16포트",
+    "connectivity.directional": "16대의 모니터에 동시 출력",
+    "connectivity.port_count": "HDMI 1포트, HDMI 16포트",
+    "power.power_mode": "전원 어댑터: DC12V/2A",
+    "certification.kc": "국립전파연구원 인증 제품 (KC 인증번호",
+    "certification.rohs": "RoHS",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "4K@30Hz (4096x2160) 울트라 HD",
+    "audio_video.hdcp_version": "HDCP(고대역 디지털 콘텐츠 보호) 지원",
+    "audio_video.audio_pass": "오디오 포맷 DTS-HD, Dolby-True-HD",
+    "family.input_count": "HDMI 1포트",
+    "family.output_count": "HDMI 16포트",
+    "family.mode": "HDMI 분배기 1:16",
+    "family.cascade_support": "데이지 체인(Daisy Chain) 방식 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:42",
+  "feature_schema_version": "1.0.0"
+}

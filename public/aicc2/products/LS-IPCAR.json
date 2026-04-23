@@ -1,0 +1,131 @@
+{
+  "model_no": "LS-IPCAR",
+  "product_name": "LANStar iPod & iPhone 차량용 시가잭 충전 케이블 (CIGAR CABLE)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "12V/24V 모든 차량에서 사용 가능한 차량용 충전 케이블",
+    "iPod & iPhone 전용 충전 케이블",
+    "과충전 방지 기능 내장 (퓨즈 내장, 과전류·과열 시 자동 전류 차단)",
+    "꼬임 방지 코일 타입 케이블",
+    "Apple 공식 MFi 인증 제품 (Made for iPod / Made for iPhone)",
+    "RoHS 인증 제품 (유해물질 사용 제한 규격 준수)",
+    "생산물 책임 보험 가입",
+    "신속한 A/S 1:1 교환 보상",
+    "케이블 길이 1.5M"
+  ],
+  "specifications": {
+    "제품 ID": "102355-0066",
+    "모델명": "LS-IPCAR-1.5M",
+    "케이블 길이": "1.5M",
+    "지원 전압": "12V / 24V",
+    "연결 방식": "차량용 시가잭",
+    "과충전 방지": "퓨즈 내장 (과전류·과열 시 자동 전류 차단)",
+    "케이블 타입": "코일 타입",
+    "인증": "Apple MFi 인증 (Made for iPod, Made for iPhone), RoHS 인증",
+    "Apple 테스트 인증일": "21 December 2009",
+    "브랜드": "LANStar (랜스타)",
+    "제조사": "라인업시스템㈜",
+    "브랜드 설립연도": "1993년"
+  },
+  "compatibility": [
+    "iPod 5세대 (Video)",
+    "iPod nano 1세대",
+    "iPod nano 2세대 (aluminum)",
+    "iPod nano 3세대 (Video)",
+    "iPod nano 4세대 (Video)",
+    "iPod nano 5세대 (Video camera)",
+    "iPod nano 6세대",
+    "iPod Mini",
+    "iPod Classic 80GB",
+    "iPod Classic 160GB (2007)",
+    "iPod Classic 120GB",
+    "iPod Classic 160GB (2009)",
+    "iPod Touch 1세대",
+    "iPod Touch 2세대",
+    "iPod Touch 3세대",
+    "iPod Touch 4세대",
+    "iPhone 3G",
+    "iPhone 3Gs",
+    "iPhone 4"
+  ],
+  "package_contents": [
+    "차량용 시가잭 충전 케이블 (LS-IPCAR-1.5M) 1개"
+  ],
+  "usage_instructions": "차량용 시가잭 소켓에 제품을 연결한 후, iPod 또는 iPhone을 케이블에 연결하여 충전합니다. 12V/24V 모든 차량에서 사용 가능합니다.",
+  "cautions": [
+    "구매 전 호환 가능한 모델인지 반드시 확인 후 구매하시기 바랍니다.",
+    "본 제품은 Apple 공식 MFi 인증 제품이며, Apple은 본 기기의 작동 또는 안전·규정 기준 준수에 대해 책임을 지지 않습니다.",
+    "무상 A/S 기간은 구매일로부터 1년입니다.",
+    "초기 불량 시 고객센터 또는 판매점에서 1:1 교체가 가능합니다.",
+    "A/S 발생 시 고객센터 방문 또는 택배(옐로우캡택배)를 이용할 수 있으며, 접수 후 새 제품으로 선발송 처리됩니다.",
+    "본 컨텐츠를 저작권 허락 없이 무단 복사·도용·변형·배포·타용도 전환 시 민·형사상 책임을 부담할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-IPCAR-1.5M",
+      "품목코드": "CAB-APP012",
+      "품목명": "[LANstar] 애플충전케이블, Car to 30P／M, 1.5M, 1A",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": 1.5,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "iPod & iPhone 전용 충전 케이블",
+    "connectivity.directional": "충전 케이블",
+    "power.power_mode": "차량용 시가잭",
+    "power.charging_support": "충전 케이블",
+    "form_physical.length_meters": "케이블 길이 1.5M",
+    "certification.rohs": "RoHS 인증 제품",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:50",
+  "feature_schema_version": "1.0.0"
+}

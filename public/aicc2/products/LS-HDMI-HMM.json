@@ -1,0 +1,1053 @@
+{
+  "model_no": "LS-HDMI-HMM",
+  "product_name": "LANStar HDMI 2.0 케이블 19P M/M",
+  "category": [
+    "HDMI케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "HDMI 2.0 규격 지원 (4K UHD 방송 시청 필수)",
+    "4K2K(4096x2160) @60Hz 고해상도 지원",
+    "최대 18Gbps 전송 대역폭",
+    "24K 금도금 커넥터로 우수한 전송률 제공",
+    "3D 영상 지원",
+    "HDR(High Dynamic Range) 비디오 지원",
+    "21:9 화면비율(시네마스코프) 지원",
+    "ARC(Audio Return Channel) 지원 — 별도 케이블 없이 TV 사운드 전송",
+    "HEC(HDMI Ethernet Channel) 지원 — 별도 랜케이블 없이 네트워크 접속 및 양방향 통신",
+    "풍부한 색감: sYCC601 / Adobe RGB / Adobe YCC601 컬러 영역 추가 지원",
+    "RoHS 규정 준수(납·수은·카드뮴 등 중금속 미사용)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억 원 가입",
+    "HDMI 2.0 표준 지원 (최대 대역폭 18Gbps)",
+    "4K@60Hz 해상도 지원 (3840x2160)",
+    "1080P@120Hz 지원",
+    "영상 및 음성 신호 동시 전송",
+    "HDR10, HLG 지원 (10비트 이상 색 깊이)",
+    "최대 32채널 오디오, 샘플링 레이트 최대 1536kHz",
+    "Deep Color 최대 48비트 지원",
+    "YUV 4:4:4 / 4:2:2 / 4:2:0(4K) 크로마 서브샘플링 지원",
+    "ARC(Audio Return Channel) 지원",
+    "HEC(HDMI Ethernet Channel) 지원",
+    "CEC(Consumer Electronics Control) 지원",
+    "HDCP(복제 방지) 지원",
+    "3D 영상 전송 지원",
+    "2중 알루미늄 차폐 + 편조차폐 구조로 노이즈 최소화",
+    "Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS, DTS-HD, LPCM 등 다양한 오디오 포맷 지원",
+    "HDMI 1.4 하위 호환 지원",
+    "21:9 와이드 화면비 지원",
+    "컨넥터 보호캡 제공",
+    "소재·부품·장비 전문기업확인서 취득 (2022.11.29)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "라인업시스템(주) / 랜스타 정품 인증 제품"
+  ],
+  "specifications": {
+    "커넥터 구성": "HDMI 19P M/M",
+    "HDMI 버전": "2.0",
+    "최대 해상도": "4K2K (4096x2160) @60Hz",
+    "전송 대역폭": "18Gbps",
+    "케이블 길이 옵션": "0.15M, 0.3M, 1M, 1.5M, 2M, 3M, 5M, 7M, 10M, 15M, 20M",
+    "소비전력 최대": "DC 300V/5s",
+    "작동온도": "80°C",
+    "커넥터 도금": "24K 금도금",
+    "케이블 직경(0.3~10M)": "4mm (케이블 본체)",
+    "커넥터 폭(0.3~10M)": "19.6mm",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증": "상세페이지 참조",
+    "HDMI 규격": "HDMI 19P A/M - A/M",
+    "해상도": "4K@60Hz / 1080P@120Hz",
+    "최대 대역폭": "18Gbps",
+    "Deep Color": "최대 48비트",
+    "오디오 채널": "최대 32채널",
+    "오디오 샘플링 레이트": "최대 1536kHz",
+    "HDR": "HDR10, HLG",
+    "YUV": "4:4:4, 4:2:2, 4:2:0(4K)",
+    "소비 전력": "DC 300V/5s",
+    "케이블 직경 (0.15M~7M)": "8.3mm",
+    "케이블 직경 (10M~20M)": "9.5mm",
+    "심선 (0.15M~7M)": "26AWG",
+    "심선 (10M~20M)": "24AWG",
+    "차폐 구조": "2중 알루미늄 차폐 + 편조차폐(Braid)",
+    "외피 재질": "PVC",
+    "절연층 재질": "FPE, PE",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "TV",
+    "PC 모니터",
+    "노트북",
+    "블루레이 플레이어",
+    "게임기",
+    "프로젝터",
+    "셋톱박스",
+    "HDMI 2.0 지원 기기",
+    "HDMI 1.4 이하 하위 버전 기기(하위 호환)",
+    "IPTV, DLNA, UPnP 기반 네트워크 기기",
+    "HDMI 2.0 포트 지원 기기",
+    "HDMI 1.4 포트 지원 기기 (하위 호환, 1.4 버전 기능만 사용 가능)",
+    "모니터",
+    "PC / 노트북",
+    "게임 콘솔 (PS5, XBOX, 닌텐도 등)",
+    "AV 리시버",
+    "사운드바",
+    "DSLR / 미러리스 카메라 / 캠코더",
+    "HDMI 캡처 카드",
+    "3D TV"
+  ],
+  "package_contents": [
+    "HDMI 2.0 케이블 19P M/M (선택 길이 1개)",
+    "HDMI 2.0 A/M-A/M 케이블 (선택 길이에 따라 1개)",
+    "컨넥터 보호캡"
+  ],
+  "usage_instructions": "HDMI 19P M 커넥터를 TV·모니터 등 디스플레이 기기의 HDMI 포트에, 반대쪽 커넥터를 노트북·블루레이 플레이어·게임기·프로젝터·셋톱박스 등 소스 기기의 HDMI 포트에 연결하여 사용합니다. ARC 기능은 TV와 AV 기기 간 별도 케이블 없이 음성 신호를 전송하며, HEC 기능은 별도 랜케이블 없이 네트워크 접속이 가능합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMI-HMM-0.3M",
+      "품목코드": "CAB-HDM963",
+      "품목명": "[LANstar] HDMI 2.0 케이블 ,19P M／M, Black, 4K*2K 60Hz, 0.3M (250개) [11028]",
+      "variant_suffix": "-0.3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-HMM-1M",
+      "품목코드": "CAB-HDM964",
+      "품목명": "[LANstar] HDMI 2.0 케이블 ,19P M／M, Black, 4K*2K 60Hz, 1M (170개) [11029]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-HMM-2M",
+      "품목코드": "CAB-HDM965",
+      "품목명": "[LANstar] HDMI 2.0 케이블 ,19P M／M, Black, 4K*2K 60Hz, 2M (90개) [11031]",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-HMM-3M",
+      "품목코드": "CAB-HDM966",
+      "품목명": "[LANstar] HDMI 2.0 케이블 ,19P M／M, Black, 4K*2K 60Hz, 3M (80개) [11032]",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-HMM-5M",
+      "품목코드": "CAB-HDM967",
+      "품목명": "[LANstar] HDMI 2.0 케이블 ,19P M／M, Black, 4K*2K 60Hz, 5M (50개) [11033]",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-HMM-7M",
+      "품목코드": "CAB-HDM968",
+      "품목명": "[LANstar] HDMI 2.0 케이블 ,19P M／M, Black, 4K*2K 60Hz, 7M [11034] (24개)",
+      "variant_suffix": "-7M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-HMM-10M",
+      "품목코드": "CAB-HDM969",
+      "품목명": "[LANstar] HDMI 2.0 케이블 ,19P M／M, Black, 4K*2K 60Hz, 10M [18068] (22개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-HMM-1.5M",
+      "품목코드": "CAB-HDM970",
+      "품목명": "[LANstar] HDMI 2.0 케이블 ,19P M／M, Black, 4K*2K 60Hz, 1.5M (120개) [11030]",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-HMM-15M",
+      "품목코드": "CAB-HDM996",
+      "품목명": "[LANstar] HDMI 2.0 케이블 ,19P M／M, Black, 4K*2K 60Hz, 15M [18069](14개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-HMM-20M",
+      "품목코드": "CAB-HDM997",
+      "품목명": "[LANstar] HDMI 2.0 케이블 ,19P M／M, Black, 4K*2K 60Hz, 20M [18070](8개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-HMM-0.15M",
+      "품목코드": "CAB-HMM002",
+      "품목명": "[LANstar] HDMI 2.0 케이블 ,19P M／M, Black, 4K*2K 60Hz, 0.15M [11027](300개)",
+      "variant_suffix": "-0.15M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "양많고 제게 딱 필요한 제품입니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "양많고 제게 딱 필요한 제품입니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "너무나 맘에 들어요 이동식 티비에 강추"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "시중 중 제일 짧은거 같아요 맘에 들어여! 이동식 티비에 좋아요!"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "잘쓰도록하겠습니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다 \n구매확정이 늦어서 죄송해요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "적극추천 합니다. 배송이 빠릅니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "감사합니다. 잘 도착했네요...",
+      "관련내용": "잘 쓰겠습니다..."
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "감사합니다. 잘 도착했네요..."
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "생각보다 짧지만 제가 잘못 계산했네요 영상은 잘 나옵니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "잘 쓰겠습니다..."
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "짧은 케이블들 필요했는데 좋네요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "짧은 케이블들 필요했는데 좋네요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "잘받았읍니다 좋아요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "잘받았읍니다  안방tv연결했는데 잘되네요ㆍ7m라 슬림케이블이 아니라서 문틈에 좀 끼네요ㆍ아무튼 잘 나옵니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "잘받았습니다 잘쓸께요 ~^^"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "연결을못해 애먹엇지만.어찌어찌해\n연결하니 잘나오고 좋아요\nhdmi2개필요하더군요..ㅠ"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 좋아요. 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "~~~~만족해요~~~"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠흔 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "써보고 좋아서 재주문했습니나 배송도 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "길이별로 고를수 있어서 좋아요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "상품 좋아요~~잘사용하겠습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "이제 정리만 하면 될 거 같아욥!"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "도착하자 마자 사용해봤는데 아주 잘되네요!!"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "만족합니다. 듀얼모니터 사용하니 좋아요~~"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "듀얼모니터 사용하려고 구매했습니다 만족합니다^^\n배송도 주문 다음날 도착하니 좋아요~"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다 \n항상 만족하고 있어요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "거실티비를 연결해서 안방티비틀었는데 잘나오네요."
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "가성비로는 제일인 것 같습니다. 초반에는 연결안되서 당황했는 데 써보니 이만큼 가성비는 없네요. 솔직히 더 비싼 케이블이랑 다른 거 모르겠어요",
+      "관련내용": "잘 됩니다 빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "가성비로는 제일인 것 같습니다. 초반에는 연결안되서 당황했는 데 써보니 이만큼 가성비는 없네요. 솔직히 더 비싼 케이블이랑 다른 거 모르겠어요",
+      "관련내용": "이것도 같이 산 dvi 젠더처럼 되는 컴퓨터가 있고 안되는 컴퓨터가 있네요... 맥북 새로 사서 연결하려고 산건데 맥북이랑 다른 데스크탑은 인식이 안되고 구형 데스크탑에는 되네요... 같이 산 1.5m는 되는 데 이건 안되네요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "잘 됩니다 빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "이것도 같이 산 dvi 젠더처럼 되는 컴퓨터가 있고 안되는 컴퓨터가 있네요... 맥북 새로 사서 연결하려고 산건데 맥북이랑 다른 데스크탑은 인식이 안되고 구형 데스크탑에는 되네요... 같이 산 1.5m는 되는 데 이건 안되네요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "연결잘되고 배송빨리와서 잘쓰고잇어요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "작동이 잘 됩니다. 선이 엄청 두꺼워요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송  감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "배송빠르고 좋습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "튼튼하고 안전한 것 같아서 추천드립니다!"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "감사합니다! 제품 잘 받았습니다! 배송도 매우 빠른 편이고요. 제품 상태도 아주 마음에 드네요. 잘 쓰겠습니다! 다시 필요하게 되면 또 구입할게요! 많이파세요!!"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "잘받았습니다~~👍👍"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "이상없이 잘 연결됩니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송  깔끔포장 좋아요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "배송도 빠르고 좋습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "포장이 깔끙하고 배송이 빠릅니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송감사합니다 잘쓰겠습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "포장상태양호하고 배송도 빨라요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "저렴하고 빠른배송 좋아요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "저렴하고 좋습니다 !!!!!"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "저렴한가격에 빠른배송 좋아요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "잘받았습니다  감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "다른회사 10m에서 인식안되던게 랜스타로 해결했어요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "배송이 빨라서 맘에들어요."
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "감사합니다\n잘받았습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "잘받았습니다 늦게 확정해서 죄송합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "화면연결이 아주 잘 되서  좋아요!"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "잘 사용하고 있어요 감사합니다",
+      "관련내용": "너무 좋네요 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "제품좋아요 많이 파세요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "너무 좋네요 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "맘에 듭니다. 사용편하고 속도 좋아요",
+      "관련내용": "아직 사용해보진 않앗지만 좋아 보여요!"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "가성비좋아요. 특별히 고해상도 게임을 돌리는 분이 아니라면 추천할만한 상품이에요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "배송이 빨라서 좋았습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른 배송과 저렴한 가격 좋습니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "여유 있는 길이에 저렴해서 좋습니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "오 역시 좋습니다. 잘 쓰고 있어요!"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "아직 사용해보진 않앗지만 좋아 보여요!"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "감사합니다 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "케이블 이 좋네요~~~"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "긴것이 맘에 듭니다\n딱이요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "만족합니다 만족합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "배송도 빠르고 상품도 좋아요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "아주 만족합니다!!"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송이 좋았습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "별문제 없이 아직 잘 사용중입니다...",
+      "관련내용": "예전엔 중간에 증폭기가 달렸는데 15m도 증폭기 없이 잘 되네여..."
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "택배비가 더 큰...물건은 좋아요~~~~~~~"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "예비용으로 긴 것도 샀어요 짱짱~"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "컴퓨터 본체도 책상 위에 올려놓고 쓰려고 샀어요 짱~"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "데스크탑하고 보조모니터가 멀리 떨어져있어서 걱정이었는데 착한 가격에 해결했어요 빠른 발송 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른 배송 진짜진짜 감사합니다~~~!!!!^^"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "예전엔 중간에 증폭기가 달렸는데 15m도 증폭기 없이 잘 되네여..."
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른배송 만족합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "유용하게 잘 사용하겠습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "가격 저렴하게 잘샀어요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "제품이 좋아요 잘 쓰고 있습니다.",
+      "관련내용": "잘쓰고 있습니다. 품질이 좋습니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "잘쓰고 있습니다. 품질이 좋습니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "감사합니다 잘 쓸게요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른 배송과 탁월한 가성비"
+    },
+    {
+      "source_model": "LS-HDMI-HMM",
+      "내용": "빠른 배송과 탁월한 가성비"
+    },
+    {
+      "source_model": "LS-HDMI-HMM-0.15M",
+      "내용": "좋네요......."
+    },
+    {
+      "source_model": "LS-HDMI-HMM-0.3M",
+      "내용": "좋아요  설치도쉽고"
+    },
+    {
+      "source_model": "LS-HDMI-HMM-0.3M",
+      "내용": "최소가격에최대효과입니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM-0.3M",
+      "내용": "길이도 적당하고 좋아요",
+      "관련내용": "라인이 적당한 길이에 두꺼워서 오래 쓸 수 있을 것 같아요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM-0.3M",
+      "내용": "라인이 적당한 길이에 두꺼워서 오래 쓸 수 있을 것 같아요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM-0.3M",
+      "내용": "마트보다 싸게 잘샀어요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM-10M",
+      "내용": "케이블 종류별로 있어서 잘 샀습니다 배송도 빠르고 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM-10M",
+      "내용": "생각보다 두껍네요 ㅎㅎ 디음엔 얇은거로"
+    },
+    {
+      "source_model": "LS-HDMI-HMM-10M",
+      "내용": "빠른 배송 좋은 품질",
+      "관련내용": "빠른 배송 좋은 품질"
+    },
+    {
+      "source_model": "LS-HDMI-HMM-10M",
+      "내용": "빠른 배송 좋은 품질"
+    },
+    {
+      "source_model": "LS-HDMI-HMM-10M",
+      "내용": "좋습니다! 이제 정리만 하면 됩니다!!"
+    },
+    {
+      "source_model": "LS-HDMI-HMM-10M",
+      "내용": "튼튼하고 케이블 두껍고 좋아요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM-15M",
+      "내용": "배송 빠릅니다. 많이 파세요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM-15M",
+      "내용": "아주 좋아요 베리굿"
+    },
+    {
+      "source_model": "LS-HDMI-HMM-15M",
+      "내용": "선이길어서 딜레이 걱정했는데 그런거 전혀없어요"
+    },
+    {
+      "source_model": "LS-HDMI-HMM-1M",
+      "내용": "필요한거 싸게 잘 샀습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMM-1M",
+      "내용": "잘 받았습니다 배송도 빠르고 잘 받았습니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HDMI-HMM",
+      "chatUrl": "qE66",
+      "dateIso": "2024-11-25T04:40:15.857Z",
+      "name": "니카",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "아 c포트 연장하는건 어려운거예요?\nhdmi는 길긴한데 너무 지저분해서 c포트로하려했는데ㅜㅜ\n어쩔수없네요ㅜㅜ\n(추가 문의) 안녕하세요 \n요거 구입했는데요.\n노트북에 연결하니 선이 좀 짧아서요",
+      "answer": "c포트 연장보다는 hdmi케이블을 교체하는것을 추천드립니다. LS-HDMI-HMM 시리즈로 추가상품에 걸려있는 제품입니다. 빠르고\n\n빠르게 배송해드릴게요! 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "agent",
+          "text": "네 고객님, 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+        },
+        {
+          "role": "customer",
+          "text": "아 c포트 연장하는건 어려운거예요?\nhdmi는 길긴한데 너무 지저분해서 c포트로하려했는데ㅜㅜ\n어쩔수없네요ㅜㅜ"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\nc포트 연장보다는 hdmi케이블을 교체하는것을 추천드립니다.\nLS-HDMI-HMM 시리즈로 추가상품에 걸려있는 제품입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요 \n요거 구입했는데요.\n노트북에 연결하니 선이 좀 짧아서요"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다. [배송도착예정] 주문하신 상품이 오늘 도착예정입니다~ [배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요! [배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다! [발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HDMI-HMM-10M",
+      "chatUrl": "39iyo",
+      "dateIso": "2024-03-27T00:33:08.899Z",
+      "name": "보석상자",
+      "isTechnical": true,
+      "category": "install",
+      "modelConfidence": "high",
+      "question": "연장케이블 연결 안 했을 때는 영상과 음향이 나오고요. 연장케이블 연결하면 안 나와서요.\n(추가 문의) 기존 hdmi 케이블 두께는 8mm 정도고요. 주문한 제품은 6mm 정도 입니다.\n(추가 문의) 일반케이블(LS-HDMI-HMM-10M)만 사용했을 때는 잘 나와서요.\n(추가 문의) 연결했을 때 신호가 안 잡혀서요. 다른 제품의 연장케이블 있을까요?",
+      "answer": "일반 케이블과 연장하여 사용하실때는 최대 10m까지만 추천드립니다. 10m 이상으로 연결을 하실 경우 칩셋 케이블 사용을 추천드립니다. 자사\n\n저희측에서 동일한 케이블을 사용하여 제품을 연결해본 결과, 제품 정상적으로 연결되는 것으로 확인되었습니다. 고객님께서 참고하실 수 있도록 제\n\nhttps://smartstore.naver.com/lineup/products/6098961426",
+      "turn_count": 14,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "일반케이블(LS-HDMI-HMM-10M)만 사용했을 때는 잘 나와서요."
+        },
+        {
+          "role": "agent",
+          "text": "https://smartstore.naver.com/lineup/products/6098961426"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n일반 케이블과 연장하여 사용하실때는 최대 10m까지만 추천드립니다.\n10m 이상으로 연결을 하실 경우 칩셋 케이블 사용을 추천드립니다.\n자사"
+        },
+        {
+          "role": "customer",
+          "text": "연장케이블 사용했을 때 입니다."
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 일반케이블 10M 와 연장케이블 5M 이용하여 연장하신걸까요?"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "[이미지]"
+        },
+        {
+          "role": "customer",
+          "text": "네"
+        },
+        {
+          "role": "agent",
+          "text": "[이미지]"
+        },
+        {
+          "role": "customer",
+          "text": "연장케이블 연결 안 했을 때는 영상과 음향이 나오고요. 연장케이블 연결하면 안 나와서요."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n저희측에서 동일한 케이블을 사용하여 제품을 연결해본 결과, 제품 정상적으로 연결되는 것으로 확인되었습니다. \n고객님께서 참고하실 수 있도록 제"
+        },
+        {
+          "role": "customer",
+          "text": "연결했을 때 신호가 안 잡혀서요. 다른 제품의 연장케이블 있을까요?"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        },
+        {
+          "role": "customer",
+          "text": "오른쪽이 오늘 받은 연장케이블 입니다"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HDMI-HMM-1M",
+      "chatUrl": "2xKkM",
+      "dateIso": "2024-03-20T02:42:04.560Z",
+      "name": "뭐랄까",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "안녕하세요 4개를 주문해서 총 1개를 뜯어서 노트북에 사용불가능하다는걸 인지했는데 환불요청하려고하는데... 환불칸에는 전체 환불밖에 없더라고여 어떻게 진행해야할까요??? 4개다 환\n(추가 문의) 혹시 배송비 판매자 부담으로 반품처리한 후 제품 1개와 3000원의 추가 상품으로 결제 처리하는 건 어려울까요???\n(추가 문의) 환불금액이 총 49000원이라서 그 금액을 구매하고 전체 환불을 받는걸로 이야기를 해서 그렇게 진행을 했는데\n(추가 문의) 반품처리하면서 6000원과 제품을 하나 더 구매하면서 1개 가격 + 배송비 3000원이 드는거 같아서요",
+      "answer": "고객님 우선 다시 반품 요청 가능하실까요? 내용을 정리하면 아래와 같습니다. 1. 전체 반품 처리 시 고객님께서 지불해주셔야 할 리스트 - 처음 배송비 3,000원 + LS-UC\n\n네 고객님, 해당 내용 인지하고 있습니다. 받아보신 제품 확인이 필요합니다. LS-HDMI-HMM-1M 제품만 받으신게 아니라, LS-UC202 제품도 받으셨다는 말씀이실까요?\n\n네 다시 반품 요청 진행 부탁드리며, 추후 제품 도착 후 처리할 때 다시 톡톡으로 안내 도와드리겠습니다. 반품 요청 후 제품이 정상적으로 수거될 수 있도록, 수령하신 곳에 준비 부",
+      "turn_count": 31,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "넵 감사합니다!!"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 그럼 상담 종료하도록 하겠습니다.\n감사합니다."
+        },
+        {
+          "role": "customer",
+          "text": "그럼 그냥 사용해도 괜찮을까여?"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 그렇게 진행 부탁드립니다.\n당황스럽게 해드려 죄송합니다.\n\n추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜"
+        },
+        {
+          "role": "customer",
+          "text": "아니요 hdmi 제품만 2개 받았습니다."
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 확인하였습니다.\n\n혹시 해당 제품 수거를 원하실까요?\n자사에서 협의와 다르게 실수로 보내드린 건이어서, 원하실 경우 별도 수거가 아닌 사용하셔도 되시어 확인 요청 드립"
+        },
+        {
+          "role": "customer",
+          "text": "제품을 보내주셨다는 이야기입니다."
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 해당 내용 인지하고 있습니다.\n받아보신 제품 확인이 필요합니다.\n\nLS-HDMI-HMM-1M 제품만 받으신게 아니라, LS-UC202 제품도 받으셨다는 말씀이실까요?"
+        },
+        {
+          "role": "customer",
+          "text": "환불금액이 총 49000원이라서 그 금액을 구매하고 전체 환불을 받는걸로 이야기를 해서 그렇게 진행을 했는데"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\nLS-UC202 제품이 아닌, LS-HDMi-HMM-1M 제품만 받아보셨다는 말씀이실까요?"
+        },
+        {
+          "role": "customer",
+          "text": "제가 환불을 해서"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "환불금액때문에 주문한 hdmi 케이블이 도착을해서요...."
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "환불조치는 완료가되었는데..."
+        },
+        {
+          "role": "agent",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HDMI-HMM-1M",
+      "chatUrl": "3ss6C",
+      "dateIso": "2023-12-11T07:52:40.059Z",
+      "name": "시연맘",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "LS-HDMI 1M*2시킨게 USB-1M*2개로 왔습니다",
+      "answer": "네 고객님, 2개 주문하신 수량 모두 잘못 왔다는 말씀이실까요?",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "LS-HDMI 1M*2시킨게 USB-1M*2개로 왔습니다"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "네"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 2개 주문하신 수량 모두 잘못 왔다는 말씀이실까요?"
+        },
+        {
+          "role": "customer",
+          "text": "USB-1M터로 잘못왔습니다"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "LS-HDMI 1M*2시킨게"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        },
+        {
+          "role": "customer",
+          "text": "물품이 주문한것과 틀립니다"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-HDMI-HMM-NEW": "LAN Star\n4K\nULTRAHD\nHDMI2.0 A/M-A/M 케이블\n4K@60Hz / 영상, 음성 신호 동시 전송\n케이블 제품 분류표\n모델No.\n모델명\n길이\n직경\n심선\n11027\nLS-HDMI-HMM-0.15M\n0.15M\n11028\nLS-HDMI-HMM-0.3M\n0.3M\n11029\nLS-HDMI-HMM-IM\nIM\nΣ\n11030\nLS-HDMI-HMM-1.5M\n1.5M\n11031\nLS-HDMI-HMM-2M\n2M\nNo\n8.3mm\n26AWG\n11032\nLS-HDMI-HMM-3M\n3M\n11033\nLS-HDMI-HMM-5M\n5M\n11034\nLS-HDMI-HMM-7M\nIM\n18068\nLS-HDMI-HMM-10M\n10M\n18069\nLS-HDMI-HMM-15M\n15M\n18070\nLS-HDMI-HMM-20M\n20M\n9.5mm\n24AWG\nHigh Definition Multi-media Interface\nHDMI2.0 표준\n고화질 영상과 고품질 오디오를 하나의 케이블로 동시에 전송할 수 있는\n디지털 인터페이스 표준입니다. TV, 모니터, 컴퓨터, 게임 콘솔, 블루레이 플레이어,\nAV 리시버 등 다양한 장치에서 표준으로 사용되는 연결 방식입니다.\n영상과 오디오 통합 전송\nHDMI는 하나의 케이블로 영상과 오디오 신호를 동시에 전송, 추가 오디오 케이블 없이도\n간단하게 연결이 가능합니다. 이는 복잡한 연결 작업을 줄여 설치가 용이하게 해줍니다.\n고화질 및 고음질 지원\nHDMI는 4K 및 HDR과 같은 고화질 해상도와 다채널 오디오를 지원하여, TV, 모니터,\n사운드 시스템 등에서 높은 품질의 시청 환경을 제공합니다.\n최신 HDMI 표준은 Dolby Atmos, DTS 같은 몰입형 사운드 기술도 지원하여\n영화관 수준의 음향 경험을 가능하게 합니다.\n디지털 신호 전송\nHDMI는 디지털 신호를 전송하여, 아날로그 케이블에 비해 노이즈와 신호 손실이 적습니다.\n이를 통해 더 깨끗하고 선명한 화질\n음질을 보장합니다.\n\n\n디지털 신호 전송\nHDMI는 디지털 신호를 전송하여, 아날로그 케이블에 비해 노이즈와 신호 손실이 적습니다.\n이를 통해 더 깨끗하고 선명한 화질과 음질을 보장합니다.\n데이터 보호 및 복제방지(HDCP)\nHDCP(High-bandwidth Digital Content Protection)라는 복제 방지 기술을 지원하여,\n저작권 보호된 콘텐츠가 무단으로 복제되지 않도록 합니다.\n이로 인해 블루레이 영화와 같은 콘텐츠의 품질을 유지하면서 안전하게 재생할 수 있습니다.\n단일 연결로 편리한 사용\n단일 HDMI 포트를 이용해 다양한 기기(게임 콘솔, PC, 셋톱박스 등)를 손쉽게 연결할 수 있어,\n별도의 설정 없이 빠르게 사용할 수 있습니다.\n● HDMI CEC(Consumer Electronics Control)를 지원하는 경우 TV 리모컨 하나로\n여러 HDMI 연결 기기들을 제어할 수 있어 편리합니다.\n향후 확장성 및 호환성\nHDMI는 이전 버전 호환성이 보장되어, 이전 버전의 기기와도 호환이 가능합니다.\nTV, 모니터, 게임기, 노트북 등 다양한 기기에서 폭넓게 표준으로 사용되고 있어 확장성도 높습니다.\n4K@60Hz 해상도\n4K 해상도와 60Hz 주사율을 지원해,\nHDMI 1.4보다 2배 빠른 프레임 속도로\n고해상도 콘텐츠를 전송할 수 있습니다.\n4K\n3840*2160\n2K\n2560 1440\n1080P\nMyo\n1920*1080\nVO\nWO\n4K HDR\n10비트 이상 색 깊이와 HDR 지원으로 더욱 풍부한 색상 표현이 가능하며,\n색상이 더 자연스럽게 표현됩니다.\n\n\nSDR\nHDR 10\n우리 눈은 약 4만 단계(nit)의 명암대비를\n인식할 수 있는데, SDR에서 일반 TV 영상은\n최대 100단계의 명암단계를\n구분할 수 있습니다. SDR은 명암대비의\n한계 때문에 선명한 영상을 감상하기 어렵습니다.\n기존 SDR의 100단계(nit)보다 10배인\n1000단계(nit)의 명암까지 나타낼 수 있는\nHDR 기술은 아주 어두운 부분에서\n아주 밝은 부분까지 명암대비 영상을\n나타낼 수 있어 선명하고 현실감 있는\n영상을 감상할 수 있습니다.\nHDMI 2.0에서 HDR을 사용하는 장점\n▶HDR10은 HDR 포맷 중 가장 널리 사용되는 표준으로, 10비트 색 깊이와 최대 1000니트 밝기를\n지원합니다.\n▶ 고정된 메타데이터를 사용하여 영상 전체의 밝기와 명암 정보를 한 번 설정하고, 모든 장면에서\n동일하게 적용합니다.\n▶ 대부분의 4K UHD TV와 스트리밍 서비스에서 지원하며, HDMI 2.0 연결을 통해\n밝은 부분은 더 밝게, 어두운 부분은 더 깊이 있게 표현할 수 있습니다.\n케이블 구조\n2중 알루미늄 차폐 + 편조차폐\n외부의 PVC 외피와 차폐층(Braid 편조차폐와 알루미늄 차폐)이 외부 간섭을 막고,\n절연층과 전도체가 내부 신호 전송을 담당하여 고품질 신호를 전달합니다.\n알루미늄 차폐\n절연층\n(Insulation) 접지선\n(Drain Wire)\n전도체\n(Conductor)\n알루미늄 차폐\n편조차폐\nPVC 자켓\n전도체(Conductor)\nHDMI의 디지털 신호(영상, 음성)를 실제로 전달하며, 여러 쌍으로 나뉘어 있어\n멀티채널 신호를 전송할 수 있습니다.\n● 절연층(Insulation)\nFPE, PE 재질로 구성되며 전도체를 감싸 전류가 흐르는 도선 간의 간섭을 방지하고,\n열 발생을 줄여줍니다.\n● 접지선(Drain Wire)\n각 차폐층의 접지 역할을 하며, 노이즈를 효과적으로 제거하여 신호를 안정적으로 전달하고,\n일반적으로 케이블을 연결하는 장치의 접지와 연결되어 외부 간섭을 분산시킵니다.\nHDMI 2.0\nHDMI2.0 케이블은 HDMI1.4 케이블에 비해 더 높은 해상도, 주사율, 색 표현 및\n오디오 품질 부분에서 향상된 버전의 케이블입니다.\nHDMI1.4\nHDMI2.0\n대역폭\n최대 10.2Gbps\n최대 18Gbps\n\n\nVIII.4 이에 미에 그 다음, 수시험,\n天\n오디오 품질 부분에서 향상된 버전의 케이블입니다.\nHDMI1.4\nHDMI2.0\n대역폭\n최대 10.2Gbps\n최대 18Gbps\n최대 해상도 및 주사율\n4K@30Hz\n4K@60Hz\nHDR 지원\n일부 지원\nHDR10, HLG 지원\n오디오 채널\n최대 8채널\n최대 32채널\n오디오 샘플링 레이트\n*ICH 192kHz\nICH 1536kHz\nARC\n지원\n지원\nHEC\n지원\n지원\nCEC\n지원\n지원\n3D 영상\n지원\n지원\n크로마서브샘플링\n4:4:4 / 4:2:2\n4:4:4 / 4:2:2/4:2:0(4K)\nDynamic Auto Lip-Sync\n지원\n지원\n오디오 포맷\nDolby Digital, DTS\nDolby TrueHD, DTS-HD\nSRC\nDⱭ\nDOLBY\ndts\n다양한 오디오 포맷\nDolby, DTS, LPCM, ARC 등 다양한 오디오 포맷을 지원합니다.\nDolby 오디오 포맷\n• Dolby Digital\n5.1채널 서라운드 사운드를 지원하는 표준 디지털 오디오 포맷입니다. 대부분의 DVD,\n스트리밍 콘텐츠, 케이블 방송에서 널리 사용됩니다.\n• Dolby Digital Plus\nDolby Digital의 개선 버전으로, 7.1채널 서라운드 사운드를 지원하며, 기존보다 더 높은\n비트레이트로 고품질의 오디오를 제공하며, 스트리밍 서비스나 HD 방송에서 많이 사용됩니다.\n• Dolby TrueHD\n무손실 오디오 포맷으로, CD 수준의 고음질 오디오를 제공하며, 주로 블루레이 디스크와 같은\n고해상도 콘텐츠에서 사용되며, 원음에 가까운 사운드를 제공하는 것이 특징입니다.\nDTS(Digital Theater System) 시리즈\n• DTS Digital Surround\n5.1채널 서라운드 사운드를 지원하며, Dolby Digital과 유사한 표준 포맷입니다.\nDVD와 블루레이 디스크에서 많이 사용됩니다.\n• DTS-HD High Resolution Audio\n고해상도 멀티채널 오디오로, 7.1채널까지 확장 가능하며, 블루레이와 HD DVD에 주로 사용됩니다.\n• DTS-HD Master Audio\n무손실 포맷으로, 최대 7.1채널을 지원하여 영화나 음악에서 원음에 가까운 사운드를 제공합니다.\n● DTS\n객체 기반의 3D 오디오 포맷으로, Dolby Atmos와 유사하게 입체적이고 몰입감 있는 사운드를 구현합니다.\nLPCM(Linear Pulse Code Modulation)\n무소식 QI 포맷으로 주로 스테레오 (2채널) 또는 멀티채널 (최대 8채널) 형식으로 전달됩니다\n\n\n● DTS\n객체 기반의 3D 오디오 포맷으로, Dolby Atmos와 유사하게 입체적이고 몰입감 있는 사운드를 구현합니다.\nLPCM(Linear Pulse Code Modulation)\n무손실 오디오 포맷으로, 주로 스테레오 (2채널) 또는 멀티채널 (최대 8채널) 형식으로 전달됩니다.\n고해상도 오디오를 그대로 전달할 수 있어 블루레이, 게임기, 고음질 음악 스트리밍에서 사용되며,\nHDMI를 통해 최대 24비트 깊이, 192kHz 샘플링의 고음질 오디오를 전송할 수 있습니다.\nARC(Audio Return Channel)\nHDMI 케이블을 통해 오디오를 양방향으로 전송할 수 있는 기능으로, 설치를 간소화하고\n고음질 오디오 전송을 가능하게 합니다. 이를 통해 TV와 사운드바, AV 리시버 간에 간편하게\n오디오를 연결하고 제어할 수 있어 홈 엔터테인먼트 시스템의 사용성을 크게 향상시킵니다.\nHDMI2.0 케이블이 지원하는 다른 기능은?\nsonic\nHEC(HDMI Ethernet Channel)\nHDMI 케이블을 통해 인터넷 연결을 공유할 수 있는\n기능으로, HEC 기능을 사용하면 HDMI로 연결된\n장치들이 별도의 이더넷 케이블 없이도 하나의\n인터넷 연결을 공유할 수 있습니다.\nCEC(Consumer Electronics Control)\nHDMI를 통해 연결된 여러 기기들을 하나의\nㅇ\n리모컨으로 제어할 수 있도록 해주는 기능으로,\nTV와 연결된 사운드바, 블루레이 플레이어,\n게임 콘솔 등의 HDMI 장치를\n표준으로 들을때\nwww\nTV 리모컨 하나로 제어할 수 있습니다.\n게임모드\nHDCP 지원\n콘텐츠의 저작권을 보호하기 위해 암호화를\n적용하여 불법 복제를 방지하는 기술로,\n케이블 뿐만 아니라 HDMI를 연결하는\n장비에서도 HDCP를 지원해야 제대로\n작동합니다.\n21:9 와이드 화면비\nCLEAGUE\n영화, 게임, 프리젠테이션 등 다양한 디스플레이\n20\nBONOR\n환경에서 사용할 수 있으며,\n21:9 와이드 화면비를 통해 더 넓은 시야각과\n몰입감을 제공합니다.\nHDMI 케이블 사용처는?\nHDMI 케이블은 다양한 가전기기와 디지털 장치에서 널리 사용됩니다.\n특히 엔터테인먼트, 업무, 교육, 게임 등 여러 환경에서 필수적인 연결 방식으로 자리 잡고 있습니다.\nECCOOC\n셋탑박스\nPC&ELIEI\n게임 콘솔 연결\n셋탑박스와 TV, 모니터 사이를\nHDMI 케이블로 연결하여\n디스플레이 출력\nPC와 모니터 사이를\nHDMI 케이블로 연결하여\nPC 화면출력\nPS5, XBOX, 닌텐도 등\n콘솔 게임기를 TV 모니터에\n연결하여 출력시 사용\n\n\n셋탑박스\nPC&ELIEI\n게임 콘솔 연결\n셋탑박스와 TV, 모니터 사이를\nHDMI 케이블로 연결하여\n디스플레이 출력\nPC와 모니터 사이를\nHDMI 케이블로 연결하여\nPC 화면 출력\nPS5, XBOX, 닌텐도 등\n콘솔 게임기를 TV나 모니터에\n연결하여 출력시 사용\nEVERYBODY HAVE A SEAT\n홈시어터\n스트리밍\n카메라 및 캠코더\n사운드바, AV 리시버 등을\n이용하여 홈시어터 구성시\nARC 기능을 통해 홈시어터\n환경 구성\n유튜브나 트위치 등의 플랫폼에서\n실시간 스트리밍 및 녹화에 사용되며,\nHDMI 캡처 카드를 통해\n고화질의 콘텐츠를 방송\nDSLR, 미러리스, 캠코더에서\nHDMI 출력을 통해 모니터, TV,\n캡처 장치에 영상을 전송.\n실시간으로 출력 및 송출 가능\nPRODUCT DETAIL\n19PIN A/M\nHDMI 19PIN\nA/M-A/M 컨넥터\n컨넥터 보호캡\n제품 출고시 컨넥터\n보호캡으로 컨넥터 보호\n견고한 마감 처리\n케이블 피복 보호\nPRODUCT SIZE\n9mm\nA\nHOMI\n36mm\n45mm\n36mm\n45mm\nAAAL\nP8880\n0.15M\n0.3M\nPIN OUT\nIM\n1.5M\nCN1\nCN2\n2M\nWhite\n1\n1\n3M\nBlue\nRed\n3\n3\n5M\nTransparent white\n5\n5\nIM\nWhite\n4\n4\n10M\nBlue\nGreen\n6\n6\n15M\nTransparent white\n2\n2\n20M\nWhite\n7\n7\nBlue\nBlue\n9\n9\nTransparent white\n11\n11\nWhite\n10\n10\nHAAAT\n= 2\nDAAAL\nBlue\nWhite\n12\n12\nTransparent white\n\n\nRed\n3\n3\n5M\nTransparent white\n5\n5\n7M\nWhite\n4\n4\n10M\nBlue\nGreen\n6\n6\n15M\nTransparent white\n2\n2\n20M\nWhite\n7\n7\nBlue\nBlue\n9\n9\nTransparent white\n11\n11\nWhite\n10\n10\n1 20\nBlue\nWhite\n12\n12\nTransparent white\n8\n8\nWhite\n14\n14\nBlue\nGold\n19\n19\nTransparent white\n17\n17\n13\nIWCH\n15\n31568\n16\n▼\n18\nDRAIN\nSHELL\nSHELL\n18mm\nSPECIFICATION\nHDMI 규격\nHDMI 19P A/M - A/M\n해상도\n4K@60Hz/1080P@120Hz\n최대 대역폭\n18Gbps\nDeep Color\n최대 48비트\n오디오 채널\n최대 32채널\n오디오 샘플링\n*ICH 1536kHz\nHDR\nHDR10, HLG\nYUV\n4:4:44:2:2 4:2:0\n소비 전력\nDC 300V/5s\nFAQ\n자주 물어보시는 질문\nQ. 120Hz 주사율로 재생 가능한가요?\n1080P Full HD로 출력할 경우 120Hz 주사율로 출력 가능합니다.\n단, 4K 해상도로 출력할 경우 최대 60Hz 주사율로 출력 가능합니다.\nQ. eARC(Enhanced ARC) 기능도 지원하나요?\neARC 기능은 HDMI2.1 이상 케이블에서 지원 가능한 기능입니다.\nHDMI2.0 케이블은 ARC 기능까지만 지원합니다.\nQ. HDMI 1.4포트에서 사용 가능한가요?\nHDMI는 기본적으로 하위 버전을 호환합니다. HDMI 1.4포트에서 사용 가능합니다.\n단, 1.4 포트에서 사용시 HDMI1.4 버전 기능만 사용할 수 있습니다. (해상도, 사운드 기능)\nQ. 3D 영상도 출력 가능한가요?\nHDMI 2.0 케이블은 3D 콘텐츠 전송을 지원합니다.\n따라서 3D TV나 블루레이 플레이어와 연결하여 3D 영상을 즐길 수 있습니다.\nQ. 노이즈 차단 기능이 있나요?\n알루미늄 포일과 브레이드 차폐층이 있어 외부 전자기파(EMI)로부터 신호를 보호하여\n노이즈 간섭을 최소화합니다. 안정적인 신호 전송이 가능합니다.\n\n\nQ. 노이즈 차단 기능이 있나요?\n알루미늄 포일과 브레이드 차폐층이 있어 외부 전자기파(EMI)로부터 신호를 보호하여\n노이즈 간섭을 최소화합니다. 안정적인 신호 전송이 가능합니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n상품 도착\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n(평균 1~2일소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n전문기업확인서\n소재·부품·장비 전문기업확인서\nSTAVASTI\nNAU\nARASIN\n평가관리원\n기\n신문기업인을 확인합니다\n산업통산자원부 시행 제도\nKelt\nBAZE\n2022.11.29 취득\n한국산업기술평가관\n32\n라인업시스템(주) 정품 인증\n***\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상품 정보\n품\n명\nHDMI2.0 케이블\nLS-HDMI-HMM-0.15M\nLANStar\nLS-HDMI-HMM-0.3M\nLS-HDMI-HMM-IM\nLS-HDMI-HMM-1.5M\nLS-HDMI-HMM-2M\n모\n명\nLS-HDMI-HMM-3M\nLS-HDMI-HMM-5M\nLS-HDMI-HMM-7M\nLS-HDMI-HMM-10M\nOMI-I\nLS-HDMI-HMM-20M\n\n\nLS\nDMI-HMM-1.5M\nLS-HDMI-HMM-2M\n모델\n명\nLS-HDMI-HMM-3M\nLS-HDMI-HMM-5M\nLS-HDMI-HMM-7M\nLS-HDMI-HMM-10M\nLS-HDMI-HMM-15M\nLS-HDMI-HMM-20M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질 보증 기 준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\nLANSStar\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.15,
+        0.3,
+        1,
+        1.5,
+        2,
+        3,
+        5,
+        7,
+        10,
+        15,
+        20
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": true,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "HDMI2.0",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": null,
+      "ethernet_channel": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19P M 커넥터를 TV·모니터",
+    "connectivity.output_signals": "HDMI 19P M 커넥터를 TV·모니터",
+    "connectivity.directional": "HEC(HDMI Ethernet Channel) 지원 — 별도 랜케이블 없이 네트워크 접속 및 양방향 통신",
+    "form_physical.material": "24K 금도금 커넥터로 우수한 전송률 제공",
+    "form_physical.length_options_meters": "0.15M, 0.3M, 1M, 1.5M, 2M, 3M, 5M, 7M, 10M, 15M, 20M",
+    "certification.rohs": "RoHS 규정 준수(납·수은·카드뮴 등 중금속 미사용)",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "4K2K(4096x2160) @60Hz 고해상도 지원",
+    "audio_video.hdr_support": "HDR(High Dynamic Range) 비디오 지원",
+    "audio_video.audio_pass": "ARC(Audio Return Channel) 지원",
+    "family.hdmi_version": "HDMI 2.0 규격 지원",
+    "family.ethernet_channel": "HEC(HDMI Ethernet Channel) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:15",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 4,
+    "category_breakdown": {
+      "usage": 3,
+      "install": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

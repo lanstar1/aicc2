@@ -1,0 +1,107 @@
+{
+  "model_no": "LS-IRT250",
+  "product_name": "LANStar 휴대용 인터넷 TV&RADIO 플레이어 LS-IRT250 (PORTABLE Worldwide Internet TV&RADIO PLAYER)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "20,000여개의 라디오 채널 지원",
+    "5,000여개의 TV 채널 지원",
+    "16개국 언어 지원 (아랍어, 이탈리아어, 중국어 간체, 중국어 번체, 일본어, 한국어, 네덜란드어, 노르웨이어, 영어, 포르투갈어, 프랑스어, 러시아어, 독일어, 스페인어, 그리스어, 태국어)",
+    "Plug&Play 자동인식 방식 – 별도 설치 불필요, USB 단자 장착 즉시 사용 가능",
+    "녹음 및 녹화 기능 지원",
+    "예약 기능 지원",
+    "360° 스윙캡 방식 설계 – 캡 분실 염려 없음, 단자 오염 최소화",
+    "USB 2.0 표준 A-type 커넥터 사용 – USB 1.1 및 2.0 모두 호환",
+    "언어, 장르, 지역별 채널 선택 가능",
+    "자동 업데이트 지원",
+    "휴대용 소형 디자인"
+  ],
+  "specifications": {
+    "CPU": "Intel Pentium III 700 이상",
+    "메모리": "256MB 이상",
+    "해상도": "VGA / 1024x768",
+    "USB": "USB 2.0 (USB 1.1 호환 가능)",
+    "웹브라우저": "Internet Explorer 6 이상",
+    "운영체제": "Windows XP SP2, Windows Vista",
+    "Windows Media Player": "9 시리즈 이상",
+    "네트워크_라디오": "ADSL 1Mbps 이상 권장",
+    "네트워크_TV": "ADSL 2Mbps 이상 권장",
+    "하드디스크": "10MB 이상",
+    "크기": "46×16×9mm (WxHxD)",
+    "무게": "10±0.2g"
+  },
+  "compatibility": [
+    "USB 2.0",
+    "USB 1.1 (호환 가능)",
+    "Windows XP SP2",
+    "Windows Vista",
+    "Internet Explorer 6 이상",
+    "Windows Media Player 9 시리즈 이상"
+  ],
+  "package_contents": [],
+  "usage_instructions": "USB 단자에 LS-IRT250을 장착하기만 하면 특별한 설치 없이 바로 사용 가능한 Plug&Play 자동인식 방식. 언어, 장르, 지역 등을 취향에 따라 선택하여 인터넷 TV 및 라디오 채널을 이용할 수 있으며, 예약 기능을 통해 원하는 시간에 방송 수신 가능.",
+  "cautions": [
+    "라디오 시청 시 ADSL 1Mbps 이상 네트워크 환경 권장",
+    "TV 시청 시 ADSL 2Mbps 이상 네트워크 환경 권장",
+    "운영체제는 Windows XP SP2 또는 Windows Vista에서만 동작(원본 기준)"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [],
+      "color_options": []
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1024x768",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 2.0 표준 A-type 커넥터 사용",
+    "connectivity.directional": "N/A",
+    "power.power_mode": "USB 단자 장착 즉시 사용 가능",
+    "power.charging_support": "null",
+    "form_physical.has_case": "360° 스윙캡 방식 설계",
+    "audio_video.max_resolution": "해상도: VGA / 1024x768",
+    "audio_video.audio_pass": "인터넷 TV&RADIO 플레이어",
+    "audio_video.hdcp_version": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:52",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,206 @@
+{
+  "model_no": "LS-EX4G",
+  "product_name": "PCI-Express 인텔 4포트 기가비트 랜카드 (LAN Star LS-EX4G)",
+  "category": [
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "Intel 82571GB 칩셋 탑재로 안정적이고 호환성 높은 4포트 기가비트 지원",
+    "10/100/1000Mbps 전송속도 지원",
+    "IEEE802.3 이더넷 표준 규격 준수 (IEEE802.3ab, IEEE802.3u, IEEE802.3, IEEE802.3x Flow Control, IEEE802.19 VLAN)",
+    "PCI-Express x1 슬롯 규격 사용 (x1/x4/x8/x16 슬롯 모두 장착 가능)",
+    "4개의 이더넷 포트를 통한 망분리 지원 (인트라넷, 내부망, 외부망, 기타 회선 등 분리 사용 가능)",
+    "대형 방열판 부착으로 안정적인 쿨링 시스템 제공",
+    "IPv4, IPv6 프로토콜 지원",
+    "Windows 7/8/8.1/10/11 및 Linux, FreeBSD, VMWare ESXi, Windows Server 계열 OS 지원",
+    "국립전파연구원 인증 획득 (인증번호: R-R-LUS-LS-EX4G)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "슬롯": "PCI-Express x1",
+    "인터페이스": "4 x RJ45 Copper",
+    "칩셋": "Intel JL82571GB",
+    "전송 속도": "10/100/1000Mbps",
+    "Topology": "Complies with IEEE802.3ab, IEEE802.3u, IEEE802.3, IEEE802.3x Flow Control, IEEE802.19 VLAN, supports IPv4, IPv6 protocols",
+    "지원 OS": "FreeBSD, Linux, VMWare ESXi, Win7, Win8, Win8.1, Win10, Win11, Win-Server2008, Win-Server2012, Win-Server2016",
+    "제품 무게": "약 104g",
+    "크기 (가로)": "133mm",
+    "크기 (세로)": "120mm",
+    "크기 (높이)": "55mm",
+    "크기 (두께)": "19mm",
+    "인증번호": "R-R-LUS-LS-EX4G",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "PCI-Express x1 슬롯 장착 가능",
+    "PCI-Express x4 슬롯 장착 가능",
+    "PCI-Express x8 슬롯 장착 가능",
+    "PCI-Express x16 슬롯 장착 가능",
+    "데스크탑 PC",
+    "슬림 PC (슬림 PC 브라켓 포함)",
+    "Windows 7 / 8 / 8.1 / 10 / 11",
+    "Windows Server 2008 / 2012 / 2016",
+    "Linux",
+    "FreeBSD",
+    "VMWare ESXi"
+  ],
+  "package_contents": [
+    "4포트 PCIE 랜카드 본체",
+    "설치 CD 드라이버",
+    "슬림 PC 브라켓",
+    "매뉴얼 (Quick Install Guide)"
+  ],
+  "usage_instructions": "1. 제품을 메인보드의 PCI-Express 슬롯에 장착한다. 2. OS 부팅 후 장치 관리자의 네트워크 어댑터 항목에서 'Intel(R) PRO/1000 PT Dual Port Server Connection' 항목이 정상 인식되는지 확인한다. 3. 랜 케이블 연결 전에는 '네트워크 케이블 언플러그됨' 상태로 표시되며, 랜 케이블을 정상 연결하면 해당 포트의 네트워크가 활성화된다. 4. 필요 시 설치 CD의 드라이버를 설치한다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-EX4G",
+      "품목코드": "USB-PCI288",
+      "품목명": "[LANstar] 인텔 4port PCIe 기가 랜 카드, Intel JL82571GB [30714] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-EX4G",
+      "내용": "잘사용하고 있습니다.",
+      "관련내용": "역시 랜스타 믿고 구매해서 잘 사용하고 있습니다."
+    },
+    {
+      "source_model": "LS-EX4G",
+      "내용": "역시 랜스타 믿고 구매해서 잘 사용하고 있습니다."
+    },
+    {
+      "source_model": "LS-EX4G",
+      "내용": "빠른배송 감사합니다!"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-EX4G",
+      "id": 543379590,
+      "date": "2023-08-24 14:15",
+      "answerDate": "2023-08-24 14:20",
+      "user": "geni*****",
+      "productName": "랜스타 LS-EX4G 인텔 4포트 PCIe 기가 랜카드",
+      "question": "안녕하세요~~\n\n제품 재고 문의 드립니다.\n\n50개 정도 구입 진행을 하려 하고 있습니다..\n\n혹시 재고 수량이 가능할까요??\n\n답변 부탁 드리겠습니다.\n\n감사합니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품의 경우 다음주 입고 예정에 있습니다.\n금일 구매 진행해주시면, 입고 날짜에 맞춰 출고 도와드리겠습니다.\n\n추가 문의사항 있으실 경우 톡톡으로 언제든지 편하게 말씀 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-EX4G",
+      "id": 543414449,
+      "date": "2023-08-24 17:39",
+      "answerDate": "2023-08-24 17:54",
+      "user": "geni*****",
+      "productName": "랜스타 LS-EX4G 인텔 4포트 PCIe 기가 랜카드",
+      "question": "조금 전 재고 문의 드렸습니다만..\n\n혹시 현재 재고 수량은 얼마정도 될까요??\n\n15개 정도가 급한 상황이고..\n\n나머지는 며칠 뒤에 받아도 됩니다만..\n\n확인 부탁 드리겠습니다.\n\n감사합니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품 현재 재고는 0개입니다.\n원활한 제품 사용에 불편을 드려 죄송합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-EX4G",
+      "chatUrl": "2DGqr",
+      "dateIso": "2026-01-09T07:45:23.921Z",
+      "name": "푸르른",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "송구스럽지만 지금 주문 했는데 오늘 발송 가능할까요 ?",
+      "answer": "주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!\n\n네. 고객님. 이해해주셔서 감사합니다.",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "감사합니다!"
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        },
+        {
+          "role": "customer",
+          "text": "송구스럽지만 지금 주문 했는데 오늘 발송 가능할까요 ?"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n이해해주셔서 감사합니다."
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [],
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 1000,
+      "chipset": "Intel JL82571GB"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "4 x RJ45 Copper",
+    "connectivity.port_count": "4포트 기가비트",
+    "certification.kc": "국립전파연구원 인증 획득",
+    "family.bus_interface": "PCI-Express x1 슬롯",
+    "family.speed_mbps": "10/100/1000Mbps 전송속도",
+    "family.chipset": "Intel 82571GB 칩셋 탑재"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:58",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "compatibility": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "model_no": "LS-HDMI-HMF",
+  "product_name": "LANStar HDMI 2.0 연장 케이블 19P M/F",
+  "category": [
+    "HDMI케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "HDMI 2.0 규격 지원, 최대 18Gbps 전송속도",
+    "4K Ultra HD (4096x2160) @60Hz 해상도 지원",
+    "21:9 화면비율(시네마스코프) 지원",
+    "3D 입체영상 지원",
+    "24K 금도금 커넥터 적용",
+    "3개의 확장 컬러 영역 지원 (sYCC601 / Adobe RGB / Adobe YCC601)",
+    "32채널 멀티채널 오디오 지원 (1536kHz 샘플링, 최대 4명 동시 멀티스트림)",
+    "ARC(Audio Return Channel) 지원 - 별도 케이블 없이 TV 사운드 전송",
+    "HEC(HDMI Ethernet Channel) 지원 - 별도 랜케이블 없이 네트워크 접속",
+    "HDCP 2.2v 영상저작권 보호 기술 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 준수, KC·FCC·CE 안전규격 인증"
+  ],
+  "specifications": {
+    "HDMI 단자": "HDMI 19P M - 19P F",
+    "HDMI 해상도": "4K@60Hz 지원 (4096x2160, 1920x1080, 1280x720)",
+    "전송속도(대역폭)": "18Gbps",
+    "케이블 길이": "0.15M / 1M / 2M / 3M / 5M",
+    "소비전력 최대": "DC 300V/5s",
+    "작동온도": "섭씨 80도",
+    "커넥터 도금": "24K 금도금",
+    "HDMI 버전": "2.0",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "안전규격 인증": "KC, FCC, CE",
+    "환경규격": "RoHS COMPLIANT",
+    "품질경영시스템": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "HDMI 2.0 지원 디스플레이 및 소스 기기",
+    "4K UHD TV (삼성, LG 등 HDMI 탑재 제품)",
+    "Blu-ray 플레이어 / HD DVD 플레이어",
+    "3D 지원 HDMI 기기",
+    "ARC 지원 TV 및 AV 기기",
+    "HEC(HDMI Ethernet Channel) 지원 기기",
+    "HDCP 2.2v 지원 콘텐츠 재생 기기",
+    "IPTV, DLNA, UPnP 기반 네트워크 기기",
+    "Dolby TrueHD / DTS-HD Master Audio 지원 기기"
+  ],
+  "package_contents": [
+    "HDMI 2.0 연장 케이블 (M/F) × 1 (선택 길이: 0.15M / 1M / 2M / 3M / 5M 중 1종)"
+  ],
+  "usage_instructions": "HDMI 소스 기기의 HDMI 출력 포트에 수(M) 단자를 연결하고, 연장할 기기 또는 케이블의 HDMI 단자에 암(F) 단자를 연결하여 사용합니다. 별도 랜케이블 없이 HEC를 통한 네트워크 연결이 가능합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "구매/배송/반품 문의: 판매처(쇼핑몰 하단 참조)"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMI-HMF-0.15M",
+      "품목코드": "CAB-HD2002",
+      "품목명": "[LANstar] HDMI 2.0 연장 케이블 0.15M , 4K 60Hz [20203] (300개)",
+      "variant_suffix": "-0.15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-HMF-1M",
+      "품목코드": "CAB-HD2003",
+      "품목명": "[LANstar] HDMI 2.0 연장 케이블 1M , 4K 60Hz [20204] (170개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-HMF-2M",
+      "품목코드": "CAB-HD2004",
+      "품목명": "[LANstar] HDMI 2.0 연장 케이블 2M , 4K 60Hz [20205] (90개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-HMF-3M",
+      "품목코드": "CAB-HD2005",
+      "품목명": "[LANstar] HDMI 2.0 연장 케이블 3M , 4K 60Hz [20206](80개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-HMF-5M",
+      "품목코드": "CAB-HD2006",
+      "품목명": "[LANstar] HDMI 2.0 연장 케이블 5M , 4K 60Hz [20207](50개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "아주 좋습니다 딱 맞네요"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "폴드5하고 갤럭시 24에서 잘 작동하네요"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "괜찮네요 만족한니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "일단 방문 수령할 수 있어 너무 좋았어요. 매장을 옮겨서 비록 잠깐 엇갈렸지만 친절하고 빠른 대처로 쉽게 구입할 수 있었어요. 다음에도 또 구매할게요..ㅎㅎ"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "저렴한 가격에 좋은제품 잘구매했고 연결 잘됩니다 감사합니다 ^^"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "저렴한 가격에 좋은제품 잘구매했고 연결 잘됩니다 감사합니다 ^^"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "아이패드 화면을 티비에 띄우기 위해 샀습니다. 행사 진행용으로 필요해서 긴 연장선을 샀는데 화면이 잘 나오네요. 처음에 불량품이 왔는데 빠르게 조치를 취해 주셔서 아무런 문제가 없었습니다. 문제는 발생할 수 있지만 그 대응에서 업체의 신뢰도를 판단할 수 있는데 만족스러운 대응이어서 더 기분이 좋네요. 앞으로도 이 업체를 이용할 생각입니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "라인 연결 시 오류가 자주 발생함 720 1080 왔다 갔다 함.",
+      "관련내용": "빠른배송 너무 좋습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "잘 받았습니다~!!"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "빠른배송 너무 좋습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "너무 편해요 티비 아무데도 둬도 선 깔끔하게 볼 수 있어요"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "배송 빠르게ㅡ왔네요"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "잘사용합니다 조아요"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "배송이 빨랐어요ㅇㅇㅇ"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "잘 작동합니다. 호환도 잘 되고 사용하기 좋아요"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "저렴하게 구매해서 잘쓰고 있습니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "좋은상품 빠르게 받았네요"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "긴 케이블을 티비에 꽂아두기는 지저분하고, 매번 케이블을 꽂았다 뺐다 하자니 벽에 머리를 박고 낑낑거리는게 짜증나서 구입했습니다. 선이 짧아 티비에 꽂아둬도 안보여서 깔끔하고, 필요할땐 젠더만 잡고 긴케이블을 연결하니 편해요."
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "종종 구매하고 있습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "싼가격에 구입했어요!~"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "제품 깔끔하고 좋네요. 번창하세요"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "한달 이상 사용중인데 잘 쓰고 있습니다",
+      "관련내용": "영상 전송 잘 됩니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "영상 전송 잘 됩니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "내용": "생각한데로 잘 도착해서 잘사용하기 시작했네요~~\n고맙습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-0.15M",
+      "내용": "싸고 배송 빨라련 자루작동해연"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-0.15M",
+      "내용": "급히 필요했는데 빠르게 배송해주셔서 감사합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-0.15M",
+      "내용": "금색 hdmi옆에 당당하게 서있는 연장선.. 아주 유용합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-0.15M",
+      "내용": "배송도 빠르고 사이즈도 적당해서 좋아요"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-0.15M",
+      "내용": "잘 쓰고 있습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF-0.15M",
+      "내용": "아주좋습니다 셋탑연결에썼어요"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-0.15M",
+      "내용": "제품 좋네요 잘 구매했습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-0.15M",
+      "내용": "빨리옵니다 좋습니다~"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-1M",
+      "내용": "선정리 대충 끝냈습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-1M",
+      "내용": "빠른배송 좋은제품입니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-1M",
+      "내용": "만족합니다 만족합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-1M",
+      "내용": "듀얼 모니터를 세팅하면서\n추가된 모니터를 왼쪽에 배치하려고 구입했고\n만족합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-1M",
+      "내용": "한 참 찾던겁니다 너무 좋아요"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-1M",
+      "내용": "케이블이 굵고 튼튼해요~\n HDMI 연장하려고 샀는데 잘 됩니다 ~\n빠른 배송도 너무 감사하드려요~"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-2M",
+      "내용": "HDMI 연결케이블 사용하는데 영상에 문제가 있거나 끊김이 없어 좋습니다.",
+      "관련내용": "배송이 빨라서좋았어요.\n제품도 마음에 듭니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF-2M",
+      "내용": "선정리 대충 끝냈습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-2M",
+      "내용": "배송이 빨라서좋았어요.\n제품도 마음에 듭니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF-2M",
+      "내용": "빠른배송감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF-3M",
+      "내용": "제가 원하는 작은 커넥터 사양이어서 좋았습니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF-5M",
+      "내용": "제가 원하는 작은 커넥터 사양이어서 좋았습니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF-5M",
+      "내용": "좋은제품 저렴하게 \n구입했습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-5M",
+      "내용": "빠른 배송 좋았습니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-5M",
+      "내용": "본체를 따로 사지 않아도 연장케이블 별도 구매 할 수 있어 매우 좋습니다. 연결도 잘 되고 가격도 저렴하고 만족합니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF-5M",
+      "내용": "Tv연결에 사용함..괜춘함"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HDMI-HMF",
+      "id": 193275148,
+      "date": "2021-11-22 09:10",
+      "answerDate": "2021-11-23 13:44",
+      "user": "mk****",
+      "productName": "랜스타 HDMI2.0 4K 60Hz 연장 케이블 정품 LS-HDMI-HMF",
+      "question": "선 상태 좀 알고싶습니다..\n선이 잘 꺽이는지(연선) 알고 싶어요. 단자부위가 좁아서 선이 딱딱하면 단자가 망가질듯 해서요.",
+      "answer": "안녕하세요 랜스타 입니다\n\n어느정도 의 유연함을 찾으시는지는 모르겠으나\n\n제품자체가 말려서 포장되어 있어 무리는 없을듯 합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF",
+      "id": 548096639,
+      "date": "2023-09-26 08:42",
+      "answerDate": "2023-09-26 09:13",
+      "user": "hoho****",
+      "productName": "랜스타 HDMI2.0 4K 60Hz 연장 케이블 정품 LS-HDMI-HMF",
+      "question": "내일도 영업하시나요?? 오늘 결제하면 내일 방문해서 수령할 수 있을까요??",
+      "answer": "안녕하세요, 고객님. 랜스타입니다.\n\n제품마다 재고를 두고 있는 사무실이 상이하여 방문 예정이신 장소와 구매 수량에 따라 말씀 드릴 수 있을 것 같습니다. 랜스타 톡톡을 통해 답변 주시면 확인하여 방문 수령에 관하여 안내드릴 수 있도록 하겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해 드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF-5M",
+      "id": 242710457,
+      "date": "2022-10-26 18:35",
+      "answerDate": "2022-10-27 10:54",
+      "user": "epip******",
+      "productName": "랜스타 LS-HDMI-HMF-5M HDMI 2.0 연장케이블 5M 4K 60Hz 지원",
+      "question": "안녕하세요! 지난 주에 이 제품을 구매했는데요\n영상은 아주 잘 나오는데 소리가 이상해요.\n전기신호음에 가까운 잡음이 심합니다.\n한 쪽은 노트북 c타입 포트에 연결해서 그런 걸까요? \n그런 게 아니라면 제품 불량이어서 환불받을 수 있는 건가요?",
+      "answer": "안녕하세요 랜스타 입니다\n\n잡음 관련해서는 끝쪽에 추가 연결되는 케이블연결도 문제가 될수 있습니다\n\nHDMI케이블 연결하여 다시 출력 해보시기 바라며 동일하다면\n\n불량으로 환불 가능 합니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-0",
+      "id": 506453136,
+      "date": "2022-12-09 09:54",
+      "answerDate": "2022-12-09 14:52",
+      "user": "disk******",
+      "productName": "랜스타 LS-HDMI-HMF-0.15M HDMI 2.0 연장 케이블 0.15M",
+      "question": "오늘은 발송되는거죠?",
+      "answer": "안녕하세요 랜스타 입니다\n\n금일 출고 예정 입니다"
+    },
+    {
+      "source_model": "LS-HDMI-HMF-2M",
+      "id": 524279469,
+      "date": "2023-04-09 21:22",
+      "answerDate": "2023-04-10 08:52",
+      "user": "ski2***",
+      "productName": "랜스타 LS-HDMI-HMF-2M HDMI 2.0 연장케이블 2M 4K 60Hz 지원",
+      "question": "안녕하세요 사장님 이 케이블 구입한것 호환문제로 취소 된것 아닌가요? 전화로 통화 했었는데요. 환불이 된거 아니지요? 물건이 왔네요? 랜스타에서 수거 신청 해주신면 반송드리겠습니다 개봉안했습니다 감사합니다",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n현재 수거 접수 완료하였으니 기사님 방문 시 택배 그대로 전달해주시면 감사하겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-HMF-2M",
+      "id": 655885161,
+      "date": "2025-12-19 18:09",
+      "answerDate": "2025-12-22 14:10",
+      "user": "zshb***",
+      "productName": "랜스타 LS-HDMI-HMF-2M HDMI 2.0 연장케이블 2M 4K 60Hz 지원",
+      "question": "안녕하세요?? 해당 케이블 25개 정도 구매할려고 하는데 길이가 2M 제품이 2900 원에 판매중인게 맞을까요???",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n네. 맞습니다!\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HDMI-HMF-3M",
+      "chatUrl": "3xGI2",
+      "dateIso": "2024-04-05T07:00:05.842Z",
+      "name": "solobluegray",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "구매 했는데.,\n오늘 발송되나요?\n(추가 문의) 그럼 오늘 발송이 되는 거죠?",
+      "answer": "주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!",
+      "turn_count": 4,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "그럼 오늘 발송이 되는 거죠?"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "대체품으로 보내주세요"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "궁금합니다! 수고하세요.,"
+        },
+        {
+          "role": "agent",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        },
+        {
+          "role": "customer",
+          "text": "구매 했는데.,\n오늘 발송되나요?"
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HDMI-HMF-1M",
+      "chatUrl": "2xzuP",
+      "dateIso": "2023-10-04T02:49:30.573Z",
+      "name": "Grimggun",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하세요.1M LS-HDMI-HMF-1M 단품 한개 구입하려하는데 내일 용산 전자상가 사무실로 방문해도 될까요?? 사무실이 근처라서요\n(추가 문의) 네 감사합니다 결제하고 점심시간 피해서 방문하도록 하겠습니다~ 편안한 하루보내세요~~ ^_______^\n(추가 문의) 안녕하세요 위치가 어디인가요?? 전자타운인데 번호가 없어서 앞에서 있습니다\n(추가 문의) 일보고 다시 둘를께요 방문수령 예정인데 몇호인지 알려주세요~",
+      "answer": "네 고객님, 4층에 도착하셔서 구매 원하시는 모델명 말씀 주시는 것이 더 원활한 수령이 가능하시오니 참고 부탁드립니다. 명절 전이라 오후 업무 조기 종료 가능성이 있어 가급적이면 오전 중에 방문 부탁드리겠습니다. 감사합니다.\n\n해당 건 용산 전자상가 사무실에서 현장 결제도 가능하시오니, 편하실 때 방문해주셔서 현장 구매해주시면 감사하겠습니다. 점심시간 12~1시를 제외하고 오후 4시 이전에 방문 부탁드립니다.",
+      "turn_count": 4,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "안녕하세요 위치가 어디인가요?? 전자타운인데 번호가 없어서 앞에서 있습니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 4층에 도착하셔서 구매 원하시는 모델명 말씀 주시는 것이 더 원활한 수령이 가능하시오니 참고 부탁드립니다.\n명절 전이라 오후 업무 조기 종료 가능성이 있어 가급적이면 오전 중에 방문 부탁드리겠습니다.\n\n감사합니다."
+        },
+        {
+          "role": "customer",
+          "text": "네 감사합니다 결제하고 점심시간 피해서 방문하도록 하겠습니다~ 편안한 하루보내세요~~ ^_______^"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 건 용산 전자상가 사무실에서 현장 결제도 가능하시오니, 편하실 때 방문해주셔서 현장 구매해주시면 감사하겠습니다.\n점심시간 12~1시를 제외하고 오후 4시 이전에 방문 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜..."
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요.1M LS-HDMI-HMF-1M 단품 한개 구입하려하는데 내일 용산 전자상가 사무실로 방문해도 될까요?? 사무실이 근처라서요"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "일보고 다시 둘를께요 방문수령 예정인데 몇호인지 알려주세요~"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.15,
+        1,
+        2,
+        3,
+        5
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "HDMI2.0",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19P M - 19P F",
+    "connectivity.output_signals": "HDMI 19P M - 19P F",
+    "connectivity.directional": "HDMI 2.0 연장 케이블",
+    "power.power_mode": "무전원",
+    "form_physical.material": "24K 금도금 커넥터 적용",
+    "form_physical.length_options_meters": "0.15M / 1M / 2M / 3M / 5M",
+    "certification.kc": "KC·FCC·CE 안전규격 인증",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "KC·FCC·CE 안전규격 인증",
+    "certification.ce": "KC·FCC·CE 안전규격 인증",
+    "audio_video.max_resolution": "4K Ultra HD (4096x2160) @60Hz",
+    "audio_video.hdcp_version": "HDCP 2.2v 영상저작권 보호 기술 지원",
+    "audio_video.audio_pass": "ARC(Audio Return Channel) 지원",
+    "family.hdmi_version": "HDMI 2.0 규격 지원",
+    "family.ethernet_channel": "HEC(HDMI Ethernet Channel) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:13",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 2,
+    "category_breakdown": {
+      "compatibility": 1,
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

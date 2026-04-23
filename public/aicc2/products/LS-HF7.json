@@ -1,0 +1,425 @@
+{
+  "model_no": "LS-HF7",
+  "product_name": "LAN Star HIGH-FLEX CAT.6A/7 SFTP 산업용 랜 케이블",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-FTP",
+    "랜케이블-SFTP"
+  ],
+  "key_features": [
+    "CAT.6A/7 S-FTP 규격, 10GBASE-T 지원",
+    "최대 전송속도 10Gbps",
+    "500MHz 대역폭",
+    "26AWG 연선(Stranded) 구조로 유연성 우수",
+    "S/FTP 이중차폐 구조(알루미늄 호일 + 편조차폐)로 외부 신호간섭 최소화",
+    "TPE(열가소성 엘라스토머) 친환경 소재 외피 적용",
+    "순수 구리(Bare Copper) 심선 사용으로 높은 데이터 전송률",
+    "50µ 금도금 커넥터로 신호손실 최소화",
+    "튼튼한 스프링 구조 커넥터로 내구성 강화",
+    "견고한 마감처리 및 커넥터+부트 일체형으로 커넥터 보호",
+    "RoHS 인증, CE 인증, FLUKE TEST 통과",
+    "소재·부품·장비 전문기업 확인서 보유(2022.11.29 취득, 한국산업기술평가관리원)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "엘리베이터, 공장, 컨베이어 벨트, 로봇, 가정 등 다양한 환경에 적용 가능",
+    "오후 4시 이전 결제 완료 시 당일 출고(평일 기준)"
+  ],
+  "specifications": {
+    "규격": "CAT.6A / CAT.7",
+    "전송속도": "최대 10Gbps",
+    "대역폭": "500MHz",
+    "심선": "26AWG",
+    "커넥터": "50µ Gold Plated Pin (RJ-45)",
+    "케이블 직경(OD)": "6.0 ± 0.2mm",
+    "외피 재질": "TPE (Thermo Plastic Elastomer)",
+    "케이블 구조": "S/FTP (Screened Foiled Twisted Pair), 4페어 연선, 알루미늄 호일 + 편조차폐 이중차폐",
+    "심선 재질": "Bare Copper (순수 구리)",
+    "색상": "Black",
+    "케이블 길이 라인업": "0.5m, 1m, 2m, 3m, 5m, 7m, 10m, 15m, 20m, 30m, 50m",
+    "제조국": "중국 (China)",
+    "KC 인증": "해당없음",
+    "인증": "RoHS, CE, FLUKE TEST PASS",
+    "제조사 / 수입사": "라인업시스템(주)",
+    "브랜드": "LANStar (랜스타)",
+    "PIN OUT (T568B 기준)": "Pin1: WHITE/ORANGE, Pin2: ORANGE, Pin3: WHITE/GREEN, Pin4: BLUE, Pin5: WHITE/BLUE, Pin6: GREEN, Pin7: WHITE/BROWN, Pin8: BROWN",
+    "커넥터 크기(참고)": "전체길이 약 139mm (부트 포함), 커넥터부 약 28mm x 11mm, 부트 약 40mm x 14mm"
+  },
+  "compatibility": [
+    "CAT.6A 규격 호환 장비",
+    "CAT.7 규격 호환 장비",
+    "10GBASE-T 지원 네트워크 장비",
+    "1000BASE-T / 1000BASE-TX 하위 호환",
+    "RJ-45 포트 탑재 스위치, 라우터, NIC 등 일반 네트워크 장비",
+    "엘리베이터 배선 환경",
+    "공장 및 산업용 배선 환경",
+    "컨베이어 벨트 주변 배선",
+    "로봇 배선",
+    "가정용 네트워크 배선"
+  ],
+  "package_contents": [
+    "CAT.6A/7 SFTP 산업용 랜 케이블 (선택 길이 1개)"
+  ],
+  "usage_instructions": "RJ-45 포트에 커넥터를 삽입하여 사용. 연선 구조로 유연성이 높아 엘리베이터, 로봇, 컨베이어 벨트 등 이동·굴곡이 많은 환경에 설치 적합. 구매 시 공식 랜스타 정품 인증 배너가 등록된 판매처 확인 필요.",
+  "cautions": [
+    "KC 인증 해당없음 제품임을 확인 후 구매할 것",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처의 제품은 정품이 아니며 A/S 불가",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준",
+    "택배사 사정에 따라 배송기간이 길어질 수 있음(평균 1~2일 소요)",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상, A/S 문의: www.LANstar.co.kr",
+    "당사 동의 없이 제품 관련 콘텐츠 무단 복제 및 이용 금지"
+  ],
+  "variants": [],
+  "reviews": [
+    {
+      "source_model": "LS-HF7",
+      "내용": "끊김없이 속도도 잘 나오고 최고입니다!",
+      "관련내용": "배송도 빠르고 좋아요!\n저번에 여기에서 DP케이블 샀는데 가성비가 너무 좋아서 만족했는데 마침 랜선이랑 DP케이블이 필요해서 구매했습니다.\n케이블이 부드럽고 불량도 없어서 완전 만족합니다!"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "편리하게 구매했어요~~",
+      "관련내용": "편리하게 구매했어요~~"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "편리하게 구매했어요~~"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "튼튼하고, 저렴하고, 우연하고\n좀 더 유연했으면 하지만 괜찮은것 같아요"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "저렴하고, 튼튼하고, 유연하지만 조금 더 유연했으면 햏어요\n음향 케이블로 사용 합니다"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "정직한 품질 정직한 가격"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "배송도 빠르고 좋아요!\n저번에 여기에서 DP케이블 샀는데 가성비가 너무 좋아서 만족했는데 마침 랜선이랑 DP케이블이 필요해서 구매했습니다.\n케이블이 부드럽고 불량도 없어서 완전 만족합니다!"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "편리하게 구매했어요~~"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "편리하게 구매했어요~~",
+      "관련내용": "편리하게 잘 구매했어요~"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "편리하게 구매했어요 배송도 빨라요"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "잘받았습니다 감사합니다",
+      "관련내용": "잘받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "배송이 빠르고 좋습니다.",
+      "관련내용": "배송이 빠르고 좋습니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "잘받았습니다 감사합니다",
+      "관련내용": "잘받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "잘받았습니다 감사합니다",
+      "관련내용": "잘받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "잘받았습니다 감사합니다",
+      "관련내용": "잘받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "빠른배송으로 잘 사용했습니다"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "배송이 빠르고 좋습니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "잘받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "잘받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "잘받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "잘받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "편리하게 잘 구매했어요~"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "배송도 좋고 품질도 좋네요",
+      "관련내용": "커넥터도 탄탄하고 케이블도 부드러워서 종네요"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "아주 만족스럽습니다. 길이가 매우 긴데 안정적으로 통신됨을 확인하였습니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "사용해 보니 잘 통신됨을 확인하였습니다. 좋습니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "커넥터도 탄탄하고 케이블도 부드러워서 종네요"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "아직 사용전인데 잘 되겠죠\n플러그쪽 파손 방지 부트가 좀 단단한 재질이면 좋을거 같아요"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "잘쓰고 있어요 다음에 또 사러 올게요",
+      "관련내용": "잘쓰고 있어요 배송도 빠르고 좋네요"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "잘쓰고 있어요 망가지면 또 사러 올게요",
+      "관련내용": "잘 쓰고 있어요 배송도 빨라서 좋네요"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "잘쓰고 있어요 배송도 빠르고 좋네요"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "잘 쓰고 있어요 배송도 빨라서 좋네요"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "선이 짱짱하고 앞에 RJ부분이 좋음\n튼튼함",
+      "관련내용": "상태가 좋고 짱짱합니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "프로젝트 진행에 사용 했습니다.\n7e치고는 선이 얇아서 좋고 탄력이 짱짱하더라구요 ㅋㅋㅋ 좋음",
+      "관련내용": "상태가 좋고 짱짱합니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "빠른배송에 좋습니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "빠른배송에 좋습니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "빠른배송에 좋습니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "연성이라기엔 딱딱합니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "상태가 좋고 짱짱합니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "상태가 좋고 짱짱합니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "아무문제없이 잘됨니다~",
+      "관련내용": "너무나 잘쓰고있습니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "너무나 잘쓰고있습니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "좋아요.감사합니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "좋아요.감사합니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "좋아요.감사합니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "좋아요.감사합니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "배송 빠르고 작동도 잘되고 편하네요!"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "배송도 빠르고 잘휘어서 어디든 설치하기 편한것같아요!"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "거실에서 pc와 공유기에 쓰려고 삽니다 3미터는 짧아서 5미터짜리로!"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "짧을까봐 길이 별로 샀습니다 잘 구부러지고 좋네요"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "플스와 연결 하려 짧은거 샀는데 길이가 너무 딱 맞았네요 ㅋ"
+    },
+    {
+      "source_model": "LS-HF7",
+      "내용": "인터넷 속도를 아주 잘 뽑아주고\n깔끔하게 세팅이가능해서 아주 굿굿"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HF7",
+      "id": 563241661,
+      "date": "2024-01-10 16:04",
+      "answerDate": "2024-01-10 16:13",
+      "user": "hkh7***",
+      "productName": "랜스타 CAT.6 CAT.7 SFTP 연선 인터넷 연결 랜 케이블 미터별 0.5 - 50M (LS-HF7)",
+      "question": "안녕하세요 담당자님 저는 석영산업 구매담당자 하도경이라고 합니다. 랜케이블에 대해서 문의를 좀 드릴려고 합니다. 영업 담당자 연락처를 알 수 있을까요? 연선 랜 케이블 완제품 말고 케이블에 대해서 구매가 가능한지 문의 드릴려고 합니다. 내용 확인하시면 답변 부탁드립니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 문의 주신 것을 살펴보면 아래 제품을 제안 드릴 수 있을 것으로 보입니다.\nLS-SSTP-CAT.6A-300M 해당 모델명을 검색해보신 뒤 살펴보시길 바랍니다.\n\n추가로 저희에게 톡톡을 남겨주시면 필요하신 정보 관련하여 안내 드릴 수 있도록 하겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HF7",
+      "id": 629160819,
+      "date": "2025-05-22 20:26",
+      "answerDate": "2025-05-23 10:47",
+      "user": "cjon******",
+      "productName": "랜스타 CAT.6 CAT.7 SFTP 연선 인터넷 연결 랜 케이블 미터별 0.5 - 50M (LS-HF7)",
+      "question": "안녕하세요\n중속 케이블베어에 사용해도 \n가능한 가동케이블인가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품 연선재질 + TPE 피복이기에 케이블베어에 적합한 케이블입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "_absorbed_fragments": {
+    "LS-HF7-GIF": {
+      "product_name": "산업용 TPE 랜케이블",
+      "category": "산업용 랜케이블",
+      "key_features": [
+        "TPE 재질의 부드럽고 유연한 케이블",
+        "생산 공장에서 1,000만회 이상 U자형 테스트 완료",
+        "뛰어난 내구성과 유연성",
+        "엘리베이터, 공장 등 산업 환경에 적합"
+      ],
+      "specifications": {
+        "재질": "TPE",
+        "내구성 테스트": "U자형 테스트 1,000만회 이상 완료"
+      },
+      "compatibility": [
+        "엘리베이터",
+        "공장 등 산업 환경"
+      ],
+      "source_files": [
+        "LS-HF7-GIF.json"
+      ]
+    }
+  },
+  "_variant_raw_texts": {
+    "LS-HF7-GIF": "1,000만회 테스트 완료\n생산공장 테스트 완료!\nTPE 재질로 제작된 부드럽고 유연한 케이블로 엘리베이터, 공장 등에서 사용되는\n산업용 랜케이블입니다. 생산 공장에서 \"1,000만회 이상 U자형 테스트를 완료하여\n뛰어난 내구성과 유연성을 자랑합니다.\n90%\n120"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "TPE",
+        "구리",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1.0,
+        2.0,
+        3.0,
+        5.0,
+        7.0,
+        10.0,
+        15.0,
+        20.0,
+        30.0,
+        50.0
+      ],
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": false,
+      "fcc": false,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "SFTP",
+      "conductor": "연선(stranded)",
+      "awg": 26,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "TPE(열가소성 엘라스토머) 친환경 소재 외피",
+    "form_physical.length_options_meters": "0.5m, 1m, 2m, 3m, 5m, 7m, 10m, 15m, 20m, 30m, 50m",
+    "form_physical.color_options": "색상: Black",
+    "certification.kc": "KC 인증: 해당없음",
+    "certification.rohs": "RoHS 인증",
+    "certification.ce": "CE 인증",
+    "family.cat_category": "CAT.6A/7 S-FTP 규격",
+    "family.shielding": "S/FTP 이중차폐 구조",
+    "family.conductor": "26AWG 연선(Stranded) 구조",
+    "family.awg": "26AWG 연선(Stranded) 구조",
+    "family.pair_count": "4페어 연선",
+    "family.flame_rating": "TPE(열가소성 엘라스토머) 친환경 소재 외피"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:38",
+  "feature_schema_version": "1.0.0"
+}

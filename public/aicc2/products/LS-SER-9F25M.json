@@ -1,0 +1,137 @@
+{
+  "model_no": "LS-SER-9F25M",
+  "product_name": "LANStar NULL모뎀 9-25P 시리얼 변환 케이블 (DB9 Female to DB25 Male)",
+  "category": [
+    "컨버터",
+    "시리얼브라켓",
+    "시리얼카드"
+  ],
+  "key_features": [
+    "시리얼 9핀(DB9 Female)을 25핀(DB25 Male)으로 변환하는 케이블",
+    "케이블 길이 1.8M",
+    "NULL모뎀 배열 지원",
+    "정격전압 300V, 작동온도 0~80°C",
+    "RoHS(EU 특정위험물질 사용제한 지침) 준수 — 납, 수은, 카드뮴 등 중금속 사용 금지",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "커넥터 타입": "DB9P Female - DB25P Male",
+    "케이블 길이": "1800mm (1.8M)",
+    "정격전압": "300V",
+    "작동온도": "0~80°C",
+    "케이블 직경": "4mm",
+    "9핀 커넥터 너비": "32.9mm",
+    "9핀 커넥터 높이": "16mm",
+    "25핀 커넥터 너비": "55mm",
+    "25핀 커넥터 높이": "40mm",
+    "환경규격": "RoHS Compliant",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "DB9 (9핀) 시리얼 포트 보유 기기",
+    "DB25 (25핀) 시리얼 포트 보유 기기",
+    "RS-232 시리얼 인터페이스 규격 기기"
+  ],
+  "package_contents": [
+    "NULL모뎀 9-25P 시리얼 변환 케이블 (LS-SER-9F25M-1.8M) 1개"
+  ],
+  "usage_instructions": "DB9 Female 커넥터를 9핀 시리얼 포트에, DB25 Male 커넥터를 25핀 시리얼 포트에 연결하여 사용.",
+  "cautions": [
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있음",
+    "AS 소비자상담 전화: 070-7018-3386",
+    "RoHS 규정에 따라 납, 수은, 카드뮴 등 중금속을 사용하지 않은 제품임"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SER-9F25M-1.8M",
+      "품목코드": "CAB-시리N001",
+      "품목명": "[LANstar] 시리얼케이블 DB9P/F-25P/M, 9핀-25핀 1.8M [10766] (100개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-SER-9F25M-1",
+      "id": 581558355,
+      "date": "2024-05-21 14:48",
+      "answerDate": "2024-05-21 15:13",
+      "user": "skym*****",
+      "productName": "랜스타 LS-SER-9F25M-1.8M 시리얼 케이블 DB9P/F-25P/M 9핀-25핀",
+      "question": "안녕하세요 수고 많으십니다 재고 4개 주문하였는데 발송이 가능할까요? 없으면 취소하려고 합니다!",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품 현재 재고 품절 상태로, 4개 출고 처리가 힘드실 것으로 보입니다.\n저희 측에서 취소 처리 도와드릴까요?\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Serial(DB9)"
+      ],
+      "output_signals": [
+        "Serial(DB25)"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 1.8,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DB9 Female 커넥터를 9핀 시리얼 포트에",
+    "connectivity.output_signals": "DB25 Male 커넥터를 25핀 시리얼 포트에",
+    "connectivity.directional": "NULL모뎀 배열 지원",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "DB9P Female - DB25P Male",
+    "form_physical.length_meters": "케이블 길이 1.8M",
+    "certification.rohs": "RoHS(EU 특정위험물질 사용제한 지침) 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "family.conversion_direction": "NULL모뎀 배열 지원",
+    "family.requires_external_power": "무전원"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:15",
+  "feature_schema_version": "1.0.0"
+}

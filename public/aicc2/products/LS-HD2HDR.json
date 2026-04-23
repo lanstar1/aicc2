@@ -1,0 +1,148 @@
+{
+  "model_no": "LS-HD2HDR",
+  "product_name": "LANStar HDMI De-Embedder 4K HDR+ ARC HDMI to HDMI + Audio Converter",
+  "category": [
+    "광케이블",
+    "HDMI광케이블",
+    "컨버터",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "4K@60Hz Ultra HD 해상도 지원 (4096x2160)",
+    "4K HDR(High Dynamic Range) 지원 - SDR 대비 10배(1000nit) 명암 표현",
+    "YUV 4:4:4 크로마 서브샘플링 지원",
+    "3가지 오디오 출력 방식 지원: 광오디오(Optical), 동축(Coaxial), 3.5mm 스테레오(3.5ST)",
+    "ARC(Audio Return Channel) 지원",
+    "HDCP 2.2 지원",
+    "3D 영상 포맷 지원",
+    "21:9 와이드 화면 비율 지원",
+    "EDID 설정 기능 4가지 제공 (DIP 스위치)",
+    "KC 인증 및 현대해상화재 생산물배상책임보험(1억원) 가입 제품"
+  ],
+  "specifications": {
+    "INPUT": "HDMI, DC 5V",
+    "OUTPUT": "HDMI, Optical, Coaxial, R/L",
+    "해상도": "4K@60Hz, 4K HDR, YUV 4:4:4",
+    "입력전원": "DC 5V 1A",
+    "주사율": "600MHz",
+    "전송속도": "6Gbps",
+    "작동온도": "-10°C ~ 55°C",
+    "크기": "67 x 88 x 24 (mm)",
+    "무게": "약 103g",
+    "KC 인증번호": "R-R-LUS-LS-HD2HDAN",
+    "아답터 인증번호": "HU10653-12001B",
+    "제조국": "중국 (China)"
+  },
+  "compatibility": [
+    "HDMI 2.0a 규격 기기",
+    "4K@60Hz 지원 디스플레이",
+    "HDCP 2.2 지원 기기",
+    "광오디오(Optical) 입력 지원 오디오 기기",
+    "동축(Coaxial) 입력 지원 오디오 기기",
+    "3.5mm 스테레오 입력 지원 이어폰/헤드셋",
+    "ARC 지원 TV 및 AV 기기",
+    "3D 영상 지원 디스플레이",
+    "HDMI 국제 표준 규격 26AWG 케이블"
+  ],
+  "package_contents": [
+    "LS-HD2HDR 본체",
+    "DC 5V 1A 아답터",
+    "사용자 설명서 (USER MANUAL)"
+  ],
+  "usage_instructions": "HDMI 입력 기기를 HDMI IN 포트에 연결하고, HDMI OUT 포트에 디스플레이(모니터/TV)를 연결합니다. 오디오는 광오디오(Optical), 동축(Coaxial), 3.5mm 스테레오(3.5ST) 중 원하는 방식으로 오디오 기기에 연결합니다. DC 5V 1A 아답터로 전원을 공급합니다. EDID 설정은 본체의 DIP 스위치로 조정하며, 00X(Copy HDMI out EDID), 01X(3D 4K@60Hz 2ch), 10X(3D 4K@30Hz 5.1ch), 11X(2D 1080P 5.1ch) 4가지 모드 중 선택합니다.",
+  "cautions": [
+    "4K@60Hz 해상도 유지를 위한 케이블 길이: Input 최대 3m, Output 최대 5m (HDMI 국제 표준 규격 26AWG 기준)",
+    "1080p@60Hz 해상도 유지를 위한 케이블 길이: Input 최대 8m, Output 최대 8m (HDMI 국제 표준 규격 26AWG 기준)",
+    "Input 또는 Output 케이블 길이가 8m를 초과할 경우 해상도가 현저히 낮아질 수 있으므로 연결 시 케이블 길이에 유의",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "제품 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr",
+    "제조사/수입사: 라인업시스템(주)"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HD2HDR",
+      "품목코드": "INT-HD선152",
+      "품목명": "[LANstar] HDMI 2.0 to HDMI 2.0 HDR + 3포트 오디오(Optical, Coaxial, 3.5mm stereo) [30445](20개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HD2HDR",
+      "내용": "기능도 많고 ps5용으로 구매하였습나다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "DC 5V"
+      ],
+      "output_signals": [
+        "HDMI",
+        "Optical",
+        "Coaxial",
+        "3.5mm"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": true,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": null,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "INPUT: HDMI, DC 5V",
+    "connectivity.output_signals": "OUTPUT: HDMI, Optical, Coaxial, R/L",
+    "connectivity.directional": "HDMI to HDMI + Audio Converter",
+    "power.power_mode": "DC 5V 1A 아답터로 전원을 공급합니다",
+    "audio_video.max_resolution": "4K@60Hz Ultra HD 해상도 지원",
+    "audio_video.hdr_support": "4K HDR(High Dynamic Range) 지원",
+    "audio_video.hdcp_version": "HDCP 2.2 지원",
+    "audio_video.audio_pass": "ARC(Audio Return Channel) 지원",
+    "certification.kc": "KC 인증 및 현대해상화재 생산물배상책임보험"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:55",
+  "feature_schema_version": "1.0.0"
+}

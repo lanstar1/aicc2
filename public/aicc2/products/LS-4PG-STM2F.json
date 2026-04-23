@@ -1,0 +1,136 @@
+{
+  "model_no": "LS-4PG-STM2F",
+  "product_name": "LAN Star AV 스테레오 연장 케이블 3.5st(M)-2×3.5st(F)",
+  "category": [
+    "컨버터",
+    "오디오케이블",
+    "AV케이블"
+  ],
+  "key_features": [
+    "3.5mm 스테레오 Male 단자 1개를 Female 단자 2개로 분배하는 Y형 케이블",
+    "컴퓨터·MP3·스마트폰·스마트패드 등의 음성 단자에 이어폰/헤드셋 2개를 동시 연결 가능",
+    "스마트폰에 범퍼/케이스 장착 시에도 문제 없이 연결 가능한 슬림 설계",
+    "RoHS 인증 친환경 제품 (생산물 배상 책임 보험 가입)",
+    "케이블 길이 15cm(0.15M)"
+  ],
+  "specifications": {
+    "모델명": "LSM-4PG-STM",
+    "길이": "15cm (0.15M)",
+    "커넥터 규격": "3.5mm 스테레오 (Stereo)",
+    "단자 구성": "3.5st Male × 1 / 3.5st Female × 2",
+    "인증": "RoHS Compliant"
+  },
+  "compatibility": [
+    "PC / 컴퓨터 / 노트북 (3.5mm 음성 단자)",
+    "MP3 플레이어",
+    "스마트폰 (3.5mm 단자 탑재 기기)",
+    "스마트패드 / 태블릿 (3.5mm 단자 탑재 기기)",
+    "이어폰 (3.5mm 스테레오)",
+    "헤드셋 (3.5mm 스테레오)",
+    "스피커 (3.5mm 스테레오)",
+    "애플 제품 iPod / iPhone / iPad (마이크 기능 지원)"
+  ],
+  "package_contents": [
+    "AV 스테레오 연장 케이블 LSM-4PG-STM × 1"
+  ],
+  "usage_instructions": "3.5st(M) 단자를 PC·MP3·스마트폰 등의 음성 출력 단자에 연결하고, 2개의 3.5st(F) 단자에 각각 이어폰 또는 헤드셋·스피커를 연결하여 소리를 분배 사용한다. 컴퓨터/노트북에 스피커와 헤드셋을 동시에 연결해두면 매번 교체하는 번거로움을 줄일 수 있다.",
+  "cautions": [
+    "이어폰의 마이크 기능은 애플 제품(iPod, iPhone, iPad)에서만 지원됩니다.",
+    "스마트폰에 범퍼/케이스를 장착한 경우 일반 케이블은 삽입이 어려울 수 있으나, 본 제품은 장착 가능합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-4PG-STM2F-015M",
+      "품목코드": "CAB-모젠케003",
+      "품목명": "[LANstar] 모바일 변환케이블, 3.5ST/M-2*ST/F, 4극 애플용, 0.15M[10647]★★할인제외★★",
+      "variant_suffix": "-015M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "3.5mm"
+      ],
+      "directional": "일방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": false,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5st(M) 단자를 PC·MP3·스마트폰",
+    "connectivity.output_signals": "2개의 3.5st(F) 단자에 각각 이어폰",
+    "connectivity.directional": "Male 단자 1개를 Female 단자 2개로 분배하는 Y형 케이블",
+    "connectivity.port_count": "Male 단자 1개를 Female 단자 2개로 분배",
+    "power.power_mode": "무전원",
+    "power.charging_support": "충전 언급 없음",
+    "power.pd_watts": "PD 충전 언급 없음",
+    "form_physical.has_case": "케이블 제품",
+    "form_physical.material": "재질 언급 없음",
+    "form_physical.length_meters": "케이블 길이 15cm(0.15M)",
+    "form_physical.length_options_meters": "단일 길이 제품",
+    "form_physical.color_options": "색상 언급 없음",
+    "certification.kc": "KC 인증 언급 없음",
+    "certification.rohs": "RoHS 인증 친환경 제품",
+    "certification.iso9001": "ISO9001 언급 없음",
+    "certification.fcc": "FCC 언급 없음",
+    "certification.ce": "CE 언급 없음",
+    "certification.netflix": "Netflix 인증 언급 없음",
+    "audio_video.max_resolution": "오디오 케이블",
+    "audio_video.hdr_support": "오디오 케이블",
+    "audio_video.hdcp_version": "오디오 케이블",
+    "audio_video.audio_pass": "소리를 분배 사용한다.",
+    "control_switching.has_remote": "리모콘 언급 없음",
+    "control_switching.has_hotkey": "핫키 언급 없음",
+    "control_switching.has_physical_button": "물리 버튼 언급 없음",
+    "control_switching.has_mouse_switching": "마우스 전환 언급 없음",
+    "control_switching.has_auto_scan": "자동 전환 언급 없음",
+    "control_switching.has_app_control": "앱 제어 언급 없음",
+    "family.conversion_direction": "Male 단자 1개를 Female 단자 2개로 분배",
+    "family.requires_external_power": "전원 언급 없음",
+    "family.chipset": "칩셋 언급 없음"
+  },
+  "feature_extracted_at": "2026-04-23T03:07:24",
+  "feature_schema_version": "1.0.0"
+}

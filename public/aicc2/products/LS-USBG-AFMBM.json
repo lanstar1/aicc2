@@ -1,0 +1,108 @@
+{
+  "model_no": "LS-USBG-AFMBM",
+  "product_name": "휴대용 OTG 젠더 (USB A Type Female - B Type Micro Male)",
+  "category": [
+    "젠더"
+  ],
+  "key_features": [
+    "OTG(On The Go) 기능으로 PC 없이 저장장치와 스마트폰 사이 자료 이동 가능",
+    "USB 메모리 및 외부 저장장치의 이미지, 영상 등의 자료를 안드로이드 폰에서 직접 열람 가능",
+    "외부 기기를 마이크로 5핀 단자로 연결하여 사용"
+  ],
+  "specifications": {
+    "커넥터 A (Female)": "USB 2.0 A Type (Female)",
+    "커넥터 B (Male)": "마이크로 5핀 (Micro USB B Type Male)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증서번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386",
+    "브랜드": "LANStar"
+  },
+  "compatibility": [
+    "마이크로 5핀(Micro USB) 단자를 갖춘 안드로이드 스마트폰",
+    "USB 2.0 A Type 인터페이스의 USB 메모리 및 외부 저장장치"
+  ],
+  "package_contents": [
+    "휴대용 OTG 젠더 (LS-USBG-AFMBM) 1개"
+  ],
+  "usage_instructions": "마이크로 5핀 단자를 안드로이드 스마트폰에 연결하고, USB A Type Female 포트에 USB 메모리 또는 외부 저장장치를 삽입하면 폰에서 해당 저장장치의 자료를 확인할 수 있습니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USBG-AFMBM",
+      "품목코드": "GEN-USB024",
+      "품목명": "[LANstar] USB젠더Changer ,OTG 기능, A／F-MICRO B／M[10667]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "USB 2.0 A Type",
+      "connector_type_b": "마이크로 5핀 (Micro USB B Type)",
+      "gender": "M-F",
+      "pin_count": 5
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A Type Female",
+    "connectivity.output_signals": "마이크로 5핀 (Micro USB B Type Male)",
+    "connectivity.directional": "OTG(On The Go) 기능으로 PC 없이 저장장치와 스마트폰 사이 자료 이동 가능",
+    "power.power_mode": "OTG(On The Go) 기능으로 PC 없이",
+    "form_physical.has_case": "젠더",
+    "family.connector_type_a": "USB 2.0 A Type (Female)",
+    "family.connector_type_b": "마이크로 5핀 (Micro USB B Type Male)",
+    "family.gender": "Female - Male",
+    "family.pin_count": "마이크로 5핀"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:00",
+  "feature_schema_version": "1.0.0"
+}

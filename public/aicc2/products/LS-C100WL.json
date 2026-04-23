@@ -1,0 +1,197 @@
+{
+  "model_no": "LS-C100WL",
+  "product_name": "USB C to C 90° 꺾임 PD 100W 고속충전 케이블 (LANStar)",
+  "category": [
+    "USB케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "최대 100W PD 고속 충전 지원",
+    "90° 꺾임 형태 커넥터 (게임 플레이 시 간섭 최소화)",
+    "480Mbps 데이터 전송 속도 지원 (USB Gen1/Gen2 아님)",
+    "패브릭 소재 케이블 (최대 70kg 인장 강도, 꼬임·단선 방지)",
+    "E-Marker 칩 내장 (20V 5A 안정적 최대 전력 공급)",
+    "1m / 2m 두 가지 길이 선택 가능"
+  ],
+  "specifications": {
+    "모델명": "LS-C100WL-1M (1m), LS-C100WL-2M (2m)",
+    "제품번호": "30772 (1m), 30773 (2m)",
+    "INPUT": "USB Type-C",
+    "OUTPUT": "USB Type-C",
+    "전력": "100W",
+    "데이터 전송속도": "480Mbps",
+    "색상": "Black",
+    "길이": "1m / 2m",
+    "소재": "패브릭",
+    "인장강도": "최대 70kg",
+    "E-Marker": "20V 5A",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "해당없음",
+    "패키지 박스 사이즈": "1m·2m 동일 (170mm × 150mm × 20mm 참고)",
+    "소재부품장비 전문기업확인서 취득일": "2022.11.29"
+  },
+  "compatibility": [
+    "PD 지원 어댑터 (ANKER, Apple 등 100W PD 지원 어댑터 필수)",
+    "Apple MacBook (USB Type-C)",
+    "Apple iPad Pro (1~5세대)",
+    "PD 충전 지원 보조배터리",
+    "Lenovo ThinkPad X1 Series",
+    "HP Spectre Series",
+    "Samsung Galaxy S23 / S22 / S21 / S20 / Fold / Z Flip (USB Type-C 단자 및 PD 충전 지원 확인 필수)",
+    "Samsung Galaxy Tab FE / A7 등 (USB Type-C 단자 및 PD 충전 지원 확인 필수)",
+    "차량용 PD 충전 어댑터",
+    "USB Type-C 지원 기기 전반"
+  ],
+  "package_contents": [
+    "USB C to C 90° 꺾임 고속충전 케이블 1개 (1m 또는 2m)"
+  ],
+  "usage_instructions": "100W PD 지원 어댑터에 케이블을 연결하여 사용. 90° 꺾임 커넥터를 기기에 연결하면 충전과 동시에 게임 등 활동 시 케이블 간섭이 줄어듦. 가정, 사무실, 학교, 차량 등 다양한 환경에서 사용 가능.",
+  "cautions": [
+    "100W 충전을 위해서는 반드시 100W PD 지원 어댑터 사용 필수",
+    "본 케이블은 USB Gen1/Gen2 케이블이 아니므로 데이터 전송속도는 최대 480Mbps로 제한됨",
+    "Samsung 기기 사용 시 USB Type-C 단자 및 PD 충전 지원 여부 반드시 확인 필요",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처 제품은 정품이 아니며 A/S 불가",
+    "당일출고는 오후 4시 이전 결제완료 건에 한하며, 토·일·공휴일 제외 평일 기준",
+    "택배사 사정에 따라 배송기간이 길어질 수 있음 (평균 1~2일 소요)",
+    "제조사 사정에 따라 색상 및 형태 등 사양이 예고 없이 변경될 수 있음",
+    "생산물배상책임보험 가입 (현대해상화재, 1억원) — 문제 발생 시 보상 가능",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-C100WL-1M",
+      "품목코드": "CAB-APP953",
+      "품목명": "[LANstar] USB Type C 100W 고속충전 케이블 90도,ㄱ자꺽임 1M [30772](100개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-C100WL-2M",
+      "품목코드": "CAB-APP954",
+      "품목명": "[LANstar] USB Type C 100W 고속충전 케이블 90도,ㄱ자꺽임 2M [30773](100개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-C100WL",
+      "내용": "속도도 빠르고 견고해서 좋습니다.",
+      "관련내용": "두번째 구입입니다.\n지인에게 줄려고 구입했습니다."
+    },
+    {
+      "source_model": "LS-C100WL",
+      "내용": "속도 그리고 튼튼해서 좋습니다.\n잘 사용하고 있습니다.",
+      "관련내용": "성능 좋고 튼튼하고 좋습니다."
+    },
+    {
+      "source_model": "LS-C100WL",
+      "내용": "두번째 구입입니다.\n지인에게 줄려고 구입했습니다."
+    },
+    {
+      "source_model": "LS-C100WL",
+      "내용": "성능 좋고 튼튼하고 좋습니다."
+    },
+    {
+      "source_model": "LS-C100WL",
+      "내용": "아주 잘 쓰고 있습니다",
+      "관련내용": "빠르게 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-C100WL",
+      "내용": "빠르게 잘 받았습니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-C100WL",
+      "id": 642722611,
+      "date": "2025-09-11 11:25",
+      "answerDate": "2025-09-11 13:35",
+      "user": "skym*****",
+      "productName": "CtoC 타입 고속충전케이블 PD 100W 충전 ㄱ자, 90도 1M, 2M (LS-C100WL)",
+      "question": "안녕하세요 2 m 재 고있나요 ?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품 단종으로 2m는 재고가 없습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-C"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": 100
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "패브릭"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        2
+      ],
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "INPUT: USB Type-C",
+    "connectivity.output_signals": "OUTPUT: USB Type-C",
+    "connectivity.directional": "USB C to C",
+    "power.power_mode": "PD 100W 고속충전",
+    "power.charging_support": "PD 100W 고속충전",
+    "power.pd_watts": "최대 100W PD 고속 충전 지원",
+    "form_physical.material": "패브릭 소재 케이블",
+    "form_physical.length_options_meters": "1m / 2m 두 가지 길이 선택 가능",
+    "form_physical.color_options": "색상: Black",
+    "certification.kc": "KC 인증번호: 해당없음",
+    "audio_video.max_resolution": "480Mbps 데이터 전송 속도 지원",
+    "audio_video.hdcp_version": "480Mbps 데이터 전송 속도 지원",
+    "family.usb_version": "480Mbps 데이터 전송 속도 지원",
+    "family.transfer_speed_gbps": "480Mbps 데이터 전송 속도 지원",
+    "family.charging_only": "480Mbps 데이터 전송 속도 지원",
+    "family.data_only": "480Mbps 데이터 전송 속도 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:51",
+  "feature_schema_version": "1.0.0"
+}

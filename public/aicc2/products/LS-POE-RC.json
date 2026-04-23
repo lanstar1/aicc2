@@ -1,0 +1,303 @@
+{
+  "model_no": "LS-POE-RC",
+  "product_name": "POE 패시브 아답터 케이블 세트 (Power over Ethernet M/F Passive Adapter Cable)",
+  "category": [
+    "HDMI분배기",
+    "전원아답터"
+  ],
+  "key_features": [
+    "단일 이더넷 케이블을 통해 데이터와 전원을 동시에 전송 가능",
+    "별도의 전원 연결이 필요 없어 설치 편의성 향상",
+    "외부 연결 장치의 필요성을 줄여 설치 비용 50% 절감 가능",
+    "패시브 PoE 방식 지원 (인젝터/스플리터 구성)",
+    "케이블 길이 20cm의 소형 어댑터 케이블",
+    "Male/Female 커넥터 구성으로 Power IN/OUT 연결 지원"
+  ],
+  "specifications": {
+    "모델명": "LS-POE-RC-0.2MS",
+    "전원": "DC 5.5V",
+    "케이블 길이": "20cm",
+    "Power IN 커넥터": "DC 5.5V, 외경 5.5mm, 내경 2.1mm",
+    "Power OUT 커넥터": "외경 5.5mm, 내경 2.1mm",
+    "작동온도": "섭씨 80도",
+    "커넥터 타입": "Male / Female",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "패시브 PoE 인젝터",
+    "패시브 PoE 스플리터",
+    "DC 5.5V / 외경 5.5mm / 내경 2.1mm 규격 전원 커넥터 사용 기기",
+    "이더넷(Ethernet) 네트워크 환경"
+  ],
+  "package_contents": [
+    "POE 패시브 아답터 케이블 (M/F, 20cm) 1개"
+  ],
+  "usage_instructions": "패시브 PoE 인젝터의 랜 포트와 연결하여 데이터와 전원을 단일 이더넷 케이블로 전송하고, 반대편 패시브 PoE 스플리터를 통해 데이터와 전원을 분리하여 연결 장치에 공급하는 방식으로 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "본 제품 및 콘텐츠를 라인업시스템(주)의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 소비자 상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-POE-RC-0.2MS",
+      "품목코드": "NEO-콘넥터077",
+      "품목명": "[LANstar] POE 패시브 아답터 케이블 0.2M 1set [10721] (250개)",
+      "variant_suffix": "-0.2MS",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "ㆍ ㆍㆍㆍㆍㆍ, , , ,"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "써야되는데 잘모르겠어요",
+      "관련내용": "연결해보고싶습니다 방법을 알려주세요"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "연결해보고싶습니다 방법을 알려주세요"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "상품받자마자 급한대로 SK 인터넷 공유기의 전원을 빼서 POE 연결 테스트하니 잘 동작해서 좋습니다\n전원부 모양이 다른기기의 전원아답터와 호환이 잘될지 의문이지만 지금은 만족합니다"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "연결까지는되었으나 전원연결은 실패하네요"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "두개 사서 한개 사용하고 예비용으로 두고있어요"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "두개사서 하나 사용하고 하난 예비용으로 두고있어요"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "원래 선정리를 못하는 구조 였는데 이 케이블 덕분에 깔끔해졌습니다~~"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "우선 빠르고 정확한 배송 칭찬합니다\n포장 상태도 깔끔하고 흡집하나 없이\n잘왔습니다 설치 해보는 중인데\n잘 사용 하겠습니다"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "너무좋아요너무좋아요"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "배송잘받았고 잘쓰고있어요"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "단자함에 전원이없어 이 잭으로 연결해서 사용했습니다 두번째 구매인데 배송도 빠르고 정확합니다"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "배송 빠르고 좋아요굿"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "단자에 콘센트가 없어 슬퍼했는데 한줄기의 빛이 보였습니다"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "빨리왔어요상품이좋아요"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "다이렉트로 랜선만 하나 연결해서 테스트 해보면 정상작동하는데\n벽타고 단자함 지나오면 kt 모뎀 전원은 들어오는데 정상동작은 안하네요..\n전압테스터 돌려봤는데 정상이라 전압때문은 아닌거 같고... 뭔가 저희 집 문제인듯 합니다\n언젠가 또 쓸거 같아 쟁여뒀습니다"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "제품 좋습니다 잘 사용할께요"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "인터넷 기사가 와가지고는 하는말이 단자함에 전기가 없으니 전기업자 불러서 전기공사 하라고 권유했었는데,이걸로 바로 해결했습니다. 정말 감사합니다."
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "전원 콘겐트가 없는 곳에 곤유기나 허브, 혹은 IPTV 연결시에 굉장히 유용합니다.\n저는 단자함에 전원이 없어서 구매했는데 아주 잘 작동합니다. 매우 만족스럽습니다.",
+      "관련내용": "POE 아주 잘 됩니다.\n저렴하고 기능 좋고 배송 빠르고 좋습니다."
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "집안의 인터넷단자함에 스위칭허브를 넣으면서 전원공급이 필요해 구매하게 되었습니다.\n전원과 데이터 모두 잘 공급되고 작동되어서 무척 만족스럽습니다.\n현관 입구에 IPTV 설치할 예정인데 그곳에도 사용하면 좋을 것 같습니다.",
+      "관련내용": "아파트 단자함을 통해 내부망을 정리하려하는데, 아무래도 공유기와 스위치의 전원을 끌어오는게 힘들것 같아서 POE 패시브 아답타로 전원을 연결하려 구매했습니다.\n테스트 삼아 연결해보았는데 랜케이블로 전원 공급이 문제없이 잘 되네요.\n이제... 꽉차있는 무거운 원목 옷장만 들어내고 그 뒤의 단자함을 정리하기만 하면 되는데...\n음.. 하긴 해야 하는데..."
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "좋은 물건 잘 받았습니다~수고하세요~"
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "POE 아주 잘 됩니다.\n저렴하고 기능 좋고 배송 빠르고 좋습니다."
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "아파트 단자함을 통해 내부망을 정리하려하는데, 아무래도 공유기와 스위치의 전원을 끌어오는게 힘들것 같아서 POE 패시브 아답타로 전원을 연결하려 구매했습니다.\n테스트 삼아 연결해보았는데 랜케이블로 전원 공급이 문제없이 잘 되네요.\n이제... 꽉차있는 무거운 원목 옷장만 들어내고 그 뒤의 단자함을 정리하기만 하면 되는데...\n음.. 하긴 해야 하는데..."
+    },
+    {
+      "source_model": "LS-POE-RC-0.2MS",
+      "내용": "퀄리티 괘안해요~~~잘 사용하고 있습니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-POE-RC-0",
+      "id": 522277937,
+      "date": "2023-03-27 07:53",
+      "answerDate": "2023-03-27 09:35",
+      "user": "bl****",
+      "productName": "랜스타 LS-POE-RC-0.2MS POE 패시브 아답터 케이블 0.2M 1set",
+      "question": "1.이 제품을 이용하면 인터넷 속도는 최대 얼마까지 보장되나요?\n\n2.상품 설명에서 \"전원 DC 5.5V\"라고 나오는게 무슨 뜻인가요?\n\n3.다음 스펙의 어댑터를 이 제품에 연결하면 작동에 이상이 없을까요?\n정격입력: AC100-240V 50/60Hz 0.2A\n정격출력: DC 9V 0.8A\n\n4.과전압/과전류 보호 기능이 있나요?",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n1.해당 제품은 CAT.5E 또는 CAT.6 케이블을 권장드리며, 해당 규격의 최대 속도는 1GBps입니다.\n\n2. 해당 제품은 정격 전원 DC 5.5V의 아답터만 지원하며, 해당 전압에 적합하지 않은 어댑터를 사용할 경우, 정상 작동하지 않거나 제품이 고장날 가능성이 있습니다.\n\n따라서 3번에 문의 주신 어댑터는 사용이 불가하며, 5.5V 규격, 커넥터 크기 외경 5.5mm, 내경 2.1mm 크기의 어댑터를 반드시 사용 부탁드리겠습니다.\n\n4번 문의의 경우 해당 기능이 확인되지 않으며, 규격에 맞지 않는 어댑터를 사용하실 경우 제품이 고장날 가능성이 있으니 주의하여 사용 부탁드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-POE-RC-0",
+      "id": 538836254,
+      "date": "2023-07-20 16:06",
+      "answerDate": "2023-07-20 16:59",
+      "user": "pjin*****",
+      "productName": "랜스타 LS-POE-RC-0.2MS POE 패시브 아답터 케이블 0.2M 1set",
+      "question": "암/수 모두 랜케이블이 1G 지원하나요?\n\n4pair로 랜선 연결후에\n\n2pair - date (1,2,3,6) / 2pair - power(4,5,7,8)로 쏴준후에\n\n하단에 H6005-igmp에다가 파워랑, 데이터 모두 넣은후 1G 속도 나오는지 궁금합니다. (H6005-igmp는 기가라이트 지원)\n\niptime 제품은 giga-lite지원하기때문에 가능할 것 같은데,\npoe 어댑터가 지원하는지 궁금합니다.",
+      "answer": "안녕하세요, 고객님. 랜스타입니다.\n\n문의하신 제품은 100Mbps 속도를 지원하여 1G 속도는 불가능한 점 참고 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해 드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-POE-RC-0",
+      "id": 538836987,
+      "date": "2023-07-20 16:11",
+      "answerDate": "2023-07-20 16:55",
+      "user": "pjin*****",
+      "productName": "랜스타 LS-POE-RC-0.2MS POE 패시브 아답터 케이블 0.2M 1set",
+      "question": "https://www.youtube.com/watch?v=CUXIuQV3ejE\n영상보고 왔습니다.\n\n영상에서는 iptime v508 제품에 poe 연결해서 사용하는데요.\n전압이 v5.5라고 적혀있는데, 영상속에서는 v9 / 0.5A  어댑터로 사용하는데 문제 없나요?",
+      "answer": "안녕하세요, 고객님. 랜스타입니다.\n\n제품의 안전한 사용과 성능 유지를 위해 전압과 일치하는 어댑터를 사용하셔야 합니다. 만약 전압이 일치하지 않는 제품을 사용할 시 제품에 손상이 생길 수 있으며, 고장이 발생할 수 있습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해 드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-POE-RC-0",
+      "id": 549535536,
+      "date": "2023-10-10 09:06",
+      "answerDate": "2023-10-10 09:35",
+      "user": "horo******",
+      "productName": "랜스타 LS-POE-RC-0.2MS POE 패시브 아답터 케이블 0.2M 1set",
+      "question": "혹시 제품 보내시기 전에 검수하고 보내셨을까요?\n벽단자 통해서 꼽았더니 안되서 너무 멀어서 그런가 해서 poe 암수 직접 연결해서 했는데 안되네요.\n소비전력 문제인가 싶기도 해서 확인요청드립니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n아래 내용 확인 부탁드립니다.\n\n1) 해당 제품을 연결하여 사용하시는 최대 길이는 100M 이내여야 합니다.\n2) 5v 아답터 사용을 권장하고 12v 아답터 연결 시 신호가 50M 이내로 떨어질 수 있습니다.\n3) poe 케이블을 여분의 랜케이블로 연결 해주신 뒤에 작동 여부를 확인 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-POE-RC-0",
+      "id": 549745513,
+      "date": "2023-10-10 23:32",
+      "answerDate": "2023-10-11 08:56",
+      "user": "horo******",
+      "productName": "랜스타 LS-POE-RC-0.2MS POE 패시브 아답터 케이블 0.2M 1set",
+      "question": "직결은 안되는거였군요.\n확인해서 작업했습니다.\n친절한 안내 감사드립니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n고객님의 문제가 해결되셔서 다행입니다.\n제품 사용 중에 궁금한 사항 있으시면 언제든지 문의 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-POE-RC-0",
+      "id": 617429761,
+      "date": "2025-02-12 21:12",
+      "answerDate": "2025-02-13 09:39",
+      "user": "myse****",
+      "productName": "랜스타 LS-POE-RC-0.2MS POE 패시브 아답터 케이블 0.2M 1set",
+      "question": "5V 2A 사용가능할까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n사용 가능하십니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-POE-RC-0",
+      "id": 628926382,
+      "date": "2025-05-21 09:24",
+      "answerDate": "2025-05-21 17:28",
+      "user": "69my****",
+      "productName": "랜스타 LS-POE-RC-0.2MS POE 패시브 아답터 케이블 0.2M 1set",
+      "question": "공유기의 전원어답터 정격출력에 DC 12V === 2.0A 표기되어 있는데 사용가능할까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n12V 2A라면 사용 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "PoE",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "input_count": null,
+      "output_count": null,
+      "mode": null,
+      "cascade_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "단일 이더넷 케이블을 통해",
+    "connectivity.output_signals": "단일 이더넷 케이블로 전송",
+    "connectivity.directional": "데이터와 전원을 동시에 전송",
+    "power.power_mode": "POE 패시브 아답터 케이블 세트",
+    "power.charging_support": "전원 연결이 필요 없어",
+    "form_physical.length_meters": "케이블 길이 20cm",
+    "certification.kc": "인증번호: 해당없음",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.input_count": "N/A",
+    "family.output_count": "N/A",
+    "family.mode": "N/A",
+    "family.cascade_support": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:26",
+  "feature_schema_version": "1.0.0"
+}

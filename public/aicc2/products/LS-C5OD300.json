@@ -1,0 +1,489 @@
+{
+  "model_no": "LS-C5OD300",
+  "product_name": "LANSStar CAT.5E UTP 옥외용 박스케이블 단선(SOLID) 300M",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP"
+  ],
+  "key_features": [
+    "CAT.5E UTP 규격 옥외용 케이블",
+    "단선(SOLID) 구조 / CCA(Copper Clad Aluminum) 심선",
+    "1Gbps 전송속도 / 100MHz 대역폭",
+    "LDPE 소재 이중 외피(내부·외부 2겹)로 옥외 설치에 적합",
+    "CAT.5E UTP 4PAIR 꼬임 구조로 신호 간섭 방지",
+    "FLUKE 테스트 통과 / SGS 인증 / RoHS 인증",
+    "박스형 포장으로 필요한 길이만큼 인출하여 사용 가능 (꼬임 방지 구조)",
+    "컨넥터 미결합 상태로 출고 (별도 제작 필요)",
+    "소재·부품·장비 전문기업확인서 보유 (2022.11.29 취득)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "모델명": "LS-C5OD300",
+    "케이블 규격": "CAT.5E UTP",
+    "전송 속도": "1Gbps",
+    "대역폭": "100MHz",
+    "케이블 길이": "300m",
+    "색상": "Black(검정색)",
+    "심선 규격": "24AWG",
+    "외경": "6.0±0.2mm",
+    "케이블 소재(외피)": "LDPE (Low-density polyethylene)",
+    "절연체 소재": "HD-PE",
+    "심선 구조": "단선(SOLID) / CCA(Copper Clad Aluminum)",
+    "작동 온도": "섭씨 80℃",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "해당없음",
+    "박스 외형 치수": "345mm × 347mm × 210mm",
+    "인증": "FLUKE TEST 통과, SGS 인증, RoHS 인증"
+  },
+  "compatibility": [
+    "CAT.5E 전용 일반 컨넥터 투명 (LSN-CAT5E-UTP50)",
+    "CAT.5E 전용 일반 컨넥터 블루 (LSN-CAT5E-UTP50BL)",
+    "CAT.5E 전용 패스 컨넥터 투명 (LSN-5EPASS-UTP)",
+    "부트 각부트 (LSN-BOOT-COVER, 8가지 색상)",
+    "부트 통부트 (LSN-BOOT-LOCK, 8가지 색상)",
+    "부트 락부트 (LSN-BOOT-OPEN, 9가지 색상)",
+    "EZ 플러그 랜툴 (LS-68P)",
+    "EZ 플러그 랜툴 (LS-68PN)",
+    "EZ 플러그 랜툴 (LS-68RP-EZ)",
+    "자동 스트리퍼 AUTO (LS-STR-R10)",
+    "케이블 탈피기 스트리퍼 (LS-ASTR)"
+  ],
+  "package_contents": [
+    "CAT.5E UTP 옥외용 박스케이블 300m (컨넥터 미포함)"
+  ],
+  "usage_instructions": "1) 제작할 길이만큼 케이블을 박스에서 인출한 뒤 절단한다. 2) 스트리퍼를 이용하여 케이블 피복을 탈피한다. 3) 부트를 케이블에 먼저 결합한다. 4) 케이블 핀배열(Direct/Cross)에 맞게 페어를 정렬한다. 5) 컨넥터(패스 또는 일반 컨넥터 사용 가능)를 결합한다. 6) 랜툴을 이용하여 케이블 컷팅 및 컨넥터 압착을 진행한다. 7) 처음 결합해둔 부트를 컨넥터 쪽으로 밀어 결합하면 작업 완료. ※ 본 제품은 컨넥터가 결합되지 않은 상태로 출고되므로 구매자가 직접 제작해야 한다.",
+  "cautions": [
+    "본 제품은 컨넥터 미결합 상태로 출고되며, 컨넥터는 구매자가 직접 연결해야 한다.",
+    "FLUKE TEST는 약 83m(제품 안내사항 기준) / 약 80m(FAQ 기준) 기준으로 통과한 제품이므로, 케이블 제작 시 80m를 넘지 않도록 주의한다.",
+    "100m 초과 구간에서는 속도 저하가 발생할 수 있다.",
+    "단선(SOLID) 케이블은 구부리면 파손될 가능성이 있으므로 취급에 주의한다.",
+    "단선 케이블은 내부 고정 배선에 적합하며, 이동하거나 노출이 많은 곳에는 연선 케이블 사용을 권장한다.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처의 제품은 정품이 아니며 A/S를 받을 수 없다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있다.",
+    "당일출고는 평일 오후 4시 이전 결제완료 건에 한하며, 토·일·공휴일 및 택배사 사정에 따라 배송기간이 달라질 수 있다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-C5OD300",
+      "품목코드": "CAB-U5박166",
+      "품목명": "[LANstar] Cat.5E UTP 305M 옥외용 케이블 Black 색상 [LSC006][2개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "주름관작업시 매우만족 \n꼬임이없음"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "외피가 단단해서 충격에 강합니다",
+      "관련내용": "실외작업시 외피변형이 없고 충격에강합니다"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "늘 믿고 사용하고 있습니다.\n요즘들어 아쉬운점은 풀링할때 케이블이 박스안에서 꼬인다는점입니다"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "잘사용 하고있어요. \n생각보다 많이 좋아요",
+      "관련내용": "잘사용 하고있어요 \n번창하세요"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "실외작업시 외피변형이 없고 충격에강합니다"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "빠른배송 감사합니다. 잘쓸께요",
+      "관련내용": "잘못 보냈으면 빨리 처리 해야지 너무 처리가 늦어요"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "잘사용 하고있어요 \n번창하세요"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "CCTV외부 공사할때 사용하시면 됩니다",
+      "관련내용": "CCTV공사에 사용하고 있습니다.\n가성비 좋은 제품이고 문제 없이 잘사용하고 있습니다"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "배송빠르고 만족합니다",
+      "관련내용": "배송빠르고만족합니다"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "내구성을 파악하기에는 아직 짧은 기간이지만 아직 만족합니다",
+      "관련내용": "배송 빠르고 성능 이상 없네요"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "빠른배송 감사감사......"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "잘못 보냈으면 빨리 처리 해야지 너무 처리가 늦어요"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "배송빠르고만족합니다"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "배송 빠르고 성능 이상 없네요"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "CCTV공사에 사용하고 있습니다.\n가성비 좋은 제품이고 문제 없이 잘사용하고 있습니다",
+      "관련내용": "CCTV작업시 옥외용으로 사용중입니다.\n아직까지 하자는 없습니다. 좋은제품 앞으로도 부탁드립니다"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "CCTV공사에 사용하고 있습니다.\n가성비 좋은 제품이고 문제 없이 잘사용하고 있습니다"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "좋아요. 배송도 빨라요.",
+      "관련내용": "좋아요. 배송도 빨라요."
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "좋아요. 배송도 빨라요."
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "저렴하고배송빠름니다."
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "CCTV작업시 옥외용으로 사용중입니다.\n아직까지 하자는 없습니다. 좋은제품 앞으로도 부탁드립니다"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "CCTV공사할때 사용중인데 가성비 훌륭한 제품입니다.",
+      "관련내용": "늘 사용하는 제품이라 믿고 잘쓰고 있습니다."
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "잘쓰겠습니다 \n번창하세요"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "옥외용은 처음 구매해보는데 실내용하고 두께차이가 와닿진 않네요. 케이블관안에 잘 들어갈거같아요"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "만족합니다. 좋습니다.",
+      "관련내용": "제품 가성비가 매우 좋습니다. 적극 추천합니다."
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "미터 표시도 잘되구\n올해 여름 햇빛에  단선될까 걱정했는데\n지금까지 CCTV 통신을 Poe포트에서 잘 주고 받고 있네요 ^^",
+      "관련내용": "옥외 케이블이라 300m 주문했어요\n혹시라도 나중에 문제 생기면 케이블 따로 \n포설 생각했는데  제품만져보니  그럴일이 없을듯 ㅋ\n통신상태 양호 합니다!!"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "옥외 케이블이라 300m 주문했어요\n혹시라도 나중에 문제 생기면 케이블 따로 \n포설 생각했는데  제품만져보니  그럴일이 없을듯 ㅋ\n통신상태 양호 합니다!!"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "제품 가성비가 매우 좋습니다. 적극 추천합니다."
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "CCTV 설치했습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "늘 사용하는 제품이라 믿고 잘쓰고 있습니다."
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "가볍고 생각보다 튼튼하네요\n야외에서 사용하는데 속도도 잘나와요"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "배송이 매우 빠릅니다. 잘 사용하겠습니다~"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "가성비 최고이고 현장에서 계속사용중인데 단한번도 문제가 없어요",
+      "관련내용": "언제나 즐겨 사용하고 있습니다.\nCCTV공사나 랜 작업할때에도 전혀 문제없는 제품입니다"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "언제나 즐겨 사용하고 있습니다.\nCCTV공사나 랜 작업할때에도 전혀 문제없는 제품입니다"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "피복 까기 힘들지만 그 만큼 틈튼하다는 거겠죠 ㅎㅎ",
+      "관련내용": "목장 외부 카메라 공사때 사용했는데 품질이 좋아요 !!! 두번째 구매입니다."
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "잘받았습니다 잘동작합니다"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "외피가 좀 딱딱한거 말고는 흠잡을데가 전혀 없어요.CCtv용으로는 딱입니다",
+      "관련내용": "가성비 좋고 품질도 좋아요.네트웍용 보다는 CCTV용으로 적합합니다."
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "늘 사용하는 제품이라 품질과 가격도 좋아요"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "아주좋아요아주좋아요"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "설치 잘 했습니다~~"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "목장 외부 카메라 공사때 사용했는데 품질이 좋아요 !!! 두번째 구매입니다."
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "가성비 좋고 품질도 좋아요.네트웍용 보다는 CCTV용으로 적합합니다."
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "이이 가격에 이정도 구성이면 훌륭한 제품입니다"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "일번랜선우로 cctv 케이블로 사용즁이었는데 세월흐르니 선도삭고 노이즈가 생겨 실외용우로 바뀨니 넘흐 조우네요~~노이주도 안생기고요  좋아욤"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "아주주 좋아요 멀리도 가고 쓸만해요"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "설치현장에서잘썼어요~"
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "내용": "배송이늦어요 ~그래도 대박나세요~"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-C5OD300",
+      "id": 578117367,
+      "date": "2024-04-25 15:05",
+      "answerDate": "2024-04-25 15:11",
+      "user": "7202****",
+      "productName": "랜스타 옥외 UTP CAT5E HDPE 24AWG 300M 랜케이블 LS-C5OD300",
+      "question": "LS-C5OD300제품에 대한 Data sheet를 받고 싶습니다.\n제품 사용을 위해 업체에 관련 정보를 제공하여야 하기 때문입니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인하시어 톡톡 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~) \n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "id": 662784989,
+      "date": "2026-02-10 22:57",
+      "answerDate": "2026-02-11 17:26",
+      "user": "10****",
+      "productName": "랜스타 옥외 UTP CAT5E HDPE 24AWG 300M 랜케이블 LS-C5OD300",
+      "question": "안녕하세요? 싱글자켓인가요?  이중피복인가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품은 옥외용 제품으로서 이중피복입니다. \n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "id": 670151045,
+      "date": "2026-04-10 09:18",
+      "answerDate": "2026-04-13 15:58",
+      "user": "eprn****",
+      "productName": "랜스타 옥외 UTP CAT5E HDPE 24AWG 300M 랜케이블 LS-C5OD300",
+      "question": "실내용과 다른점이 피복두께인가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n실내용과 차이점 안내드립니다.\n1. 피복 재질 & 내구성\n- 옥외용(LS-C5OD300): HDPE(고밀도 폴리에틸렌) 사용으로 자외선, 습기, 온도 변화에 강함\n- 실내용: 일반 PVC 피복으로 실내 환경에만 최적화\n2. 환경 저항성\n- 옥외용: 극한의 온도(-30°C~+60°C), 자외선, 습도, 강우에 견디도록 설계\n- 실내용: 안정된 실내 환경 기준\n3. 외부 피복 구조\n- 옥외용: 2층 구조로 외부/내부 피복이 분리되어 더 강한 보호\n- 실내용: 단층 구조\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-C5OD300",
+      "id": 670152201,
+      "date": "2026-04-10 09:23",
+      "answerDate": "2026-04-13 16:04",
+      "user": "eprn****",
+      "productName": "랜스타 옥외 UTP CAT5E HDPE 24AWG 300M 랜케이블 LS-C5OD300",
+      "question": "이제품이 케이블 겉면이 딱딱한제품인가요?예전에 나무 원통에 롤로 되어있던 제품인가해서요.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n말씀해주신것처럼 해당 제품의 경우 이전 제품인 나무 원통에 롤로되어 있던 제품에서 바뀐 제품입니다.\n겉면이 딱딱한 제품맞습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-C5OD300",
+      "chatUrl": "1oLEu",
+      "dateIso": "2024-03-28T04:50:42.570Z",
+      "name": "베르상",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "30m 가서 nvr 및 인터넷 공유기 설치하려는데요\n\n랜선이 너무 가기 그래서 집에서 공장 간격간 간편하게 광케이블 하고자 하는데\n\n문의합니다\n(추가 문의) C6 카테고리6 제품으로 구매하고싶은데요\n\n빠른답변부탁합니댜\n(추가 문의) 어떻게 해야할지 몰라서 문의후 스토어에서 구매 참조하려고요\n(추가 문의) 넉넉잡아 50m 되면 더 좋구요\n\n센터잡으면 더 좋긴한데",
+      "answer": "LS-7NSTPD-50M 다음주 화요일, 12월 14일에 입고될 예정입니다. 주문 주시면 당일에 맞춰 출고 도와드리겠습니다. 정직한 가격과\n\n다만 현재 50M 길이의 경우 품절 상태로 이번달 말에 입고될 예정입니다. 현재 30M까지 구매 가능하십니다.\n\nhttps://smartstore.naver.com/lineup/products/6611344094",
+      "turn_count": 18,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "나오면 연락주세요 ㅎㅎ"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "6 지금 구매않되나요"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "신제품 5카테고리에 신품6도있네요"
+        },
+        {
+          "role": "agent",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        },
+        {
+          "role": "customer",
+          "text": "C6 카테고리6 제품으로 구매하고싶은데요\n\n빠른답변부탁합니댜"
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        },
+        {
+          "role": "customer",
+          "text": "이거 신제품인거같은데요"
+        },
+        {
+          "role": "agent",
+          "text": "고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하"
+        },
+        {
+          "role": "customer",
+          "text": "LS-C5OD300"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 카테고리 6 제품의 경우 현재 구매 불가합니다.\n5월 초 입고 예정입니다.\n\n원활한 제품 구매에 불편을 드려 죄송합니다."
+        },
+        {
+          "role": "customer",
+          "text": "옥외용 랜케이블이요"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다>\n\n기존 신제품이 아닌, 다른 제품 추천을 원하시는 것일까요?"
+        },
+        {
+          "role": "customer",
+          "text": "네 유선연락주세요"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "PE"
+      ],
+      "length_meters": 300,
+      "length_options_meters": null,
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": "단선(solid)",
+      "awg": 24,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.directional": "N/A",
+    "power.power_mode": "N/A",
+    "power.charging_support": "false",
+    "form_physical.has_case": "박스형 포장",
+    "form_physical.material": "LDPE 소재 이중 외피",
+    "form_physical.length_meters": "300M",
+    "form_physical.color_options": "Black(검정색)",
+    "certification.kc": "KC 인증번호: 해당없음",
+    "certification.rohs": "RoHS 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.cat_category": "CAT.5E UTP 규격",
+    "family.shielding": "CAT.5E UTP 규격",
+    "family.conductor": "단선(SOLID) 구조",
+    "family.awg": "24AWG",
+    "family.pair_count": "4PAIR 꼬임 구조",
+    "family.flame_rating": "LDPE 소재 이중 외피"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:55",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

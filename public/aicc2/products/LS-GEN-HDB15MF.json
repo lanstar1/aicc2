@@ -1,0 +1,111 @@
+{
+  "model_no": "LS-GEN-HDB15MF",
+  "product_name": "LAN Star 시리얼 연장젠더 15핀 (HDB15P/M - HDB15P/F)",
+  "category": [
+    "젠더",
+    "커넥터",
+    "시리얼카드"
+  ],
+  "key_features": [
+    "HDB15P/M(Male) 타입과 HDB15P/F(Female) 타입 커넥터로 구성된 젠더",
+    "3열 HDB15 핀 구성",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 타입": "HDB15P/M (Male) - HDB15P/F (Female)",
+    "핀 수": "15핀",
+    "핀 배열": "3열",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "RoHS": "COMPLIANT",
+    "ISO 인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "HDB15P Male 커넥터 장치",
+    "HDB15P Female 커넥터 장치",
+    "D-SUB 15핀 인터페이스 기기"
+  ],
+  "package_contents": [
+    "시리얼 젠더 15핀 M/F (LS-GEN-HDB15MF) 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "유통과정상 제품의 모양이 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단 참조)로 문의하세요."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-GEN-HDB15MF",
+      "품목코드": "GEN-모니터003",
+      "품목명": "[LANstar] 젠더Changer , HDB15P M／F, 3열[20077]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "HDB15P/M",
+      "connector_type_b": "HDB15P/F",
+      "gender": "M-F",
+      "pin_count": 15
+    }
+  },
+  "feature_evidence": {
+    "connectivity.directional": "HDB15P/M - HDB15P/F",
+    "form_physical.has_case": "젠더",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.connector_type_a": "HDB15P/M (Male)",
+    "family.connector_type_b": "HDB15P/F (Female)",
+    "family.gender": "HDB15P/M (Male) - HDB15P/F (Female)",
+    "family.pin_count": "15핀"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:11",
+  "feature_schema_version": "1.0.0"
+}

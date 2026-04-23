@@ -1,0 +1,116 @@
+{
+  "model_no": "LS-EXP-PX1394",
+  "product_name": "LANStar Express Card IEEE 1394a 2포트 카드 (6pin 2port)",
+  "category": [
+    "1394케이블"
+  ],
+  "key_features": [
+    "자동인식 기능: 노트북 Express Card 슬롯 장착 시 별도 드라이버 설치 없이 1394 포트 확장",
+    "6핀(6pin) 단자 2포트 구성",
+    "NEC 칩셋 내장으로 높은 호환성 및 안정성 제공",
+    "Express Card 34/54 인터페이스 호환, Express V1.0a 규격",
+    "전원 부족 대비 별도 전원 연결 가능한 전원 포트 탑재"
+  ],
+  "specifications": {
+    "모델명": "LS-EXP-PX1394",
+    "용도": "노트북용 1394 어댑터",
+    "칩셋": "NEC",
+    "인터페이스": "EXPRESS 카드",
+    "작동온도": "20~45°C",
+    "작동습도": "20~80% RH",
+    "작동전압": "3.3V (+/-5%)",
+    "크기": "34x117x20mm",
+    "지원OS": "Window 2000/XP/Server2003/VISTA, MAC OS X 이상",
+    "인증번호": "KCC-REI-LUS-LS-EXP-PX1394",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "Express Card 34 인터페이스",
+    "Express Card 54 인터페이스",
+    "Express V1.0a 규격",
+    "Windows 2000",
+    "Windows XP",
+    "Windows Server 2003",
+    "Windows VISTA",
+    "MAC OS 8.6",
+    "MAC OS 9.x",
+    "MAC OS 10.1.2 이상 (MAC OS X 이상)"
+  ],
+  "package_contents": [
+    "EXPRESS 1394 카드",
+    "Video Studio 8.0 CD",
+    "사용설명서",
+    "1394 케이블 (4pin male - 6pin male)"
+  ],
+  "usage_instructions": "노트북의 Express Card 슬롯에 카드를 장착하면 별도의 드라이버 설치 없이 OS에서 자동인식되어 1394 포트를 확장할 수 있습니다. 전원이 부족할 경우 제품 옆면의 전원 포트에 별도 전원을 연결하여 사용합니다.",
+  "cautions": [
+    "6핀(6pin) 단자는 USB 단자와 다른 규격이므로 구입 시 혼동하지 않도록 주의하세요.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "IEEE1394-6P"
+      ],
+      "output_signals": [
+        "IEEE1394-6P"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "6핀(6pin) 단자 2포트 구성",
+    "connectivity.output_signals": "6핀(6pin) 단자 2포트 구성",
+    "connectivity.directional": "1394 포트 확장",
+    "connectivity.port_count": "2포트 구성",
+    "power.power_mode": "전원 부족 대비 별도 전원 연결 가능한 전원 포트 탑재",
+    "certification.kc": "KCC-REI-LUS-LS-EXP-PX1394"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:02",
+  "feature_schema_version": "1.0.0"
+}

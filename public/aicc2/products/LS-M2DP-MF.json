@@ -1,0 +1,196 @@
+{
+  "model_no": "LS-M2DP-MF",
+  "product_name": "LANStar DisplayPort 변환 케이블 (Mini DP Male to DP Female)",
+  "category": [
+    "DisplayPort",
+    "컨버터"
+  ],
+  "key_features": [
+    "Mini DisplayPort(Male)를 DisplayPort(Female)로 변환하는 케이블(컨버터)",
+    "DisplayPort 1.2 규격 지원, 최대 대역폭 21.6Gbps",
+    "4K2K(3840x2160) @60Hz 초고해상도 지원",
+    "3D 입체영상 지원",
+    "Full HD(1920x1080), 2560x1600 해상도 지원",
+    "디지털 음성 전송 지원 (2채널 스테레오, 5.1채널, 7.1채널 입체음향)",
+    "HDCP(High-bandwidth Digital Content Protection) 지원",
+    "Sleep mode(Suspend mode) 지원",
+    "미러(Mirror) 모드 및 화면 회전 기능 지원",
+    "RoHS 인증 준수",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "모델명": "LS-M2DP-MF-0.2M",
+    "케이블 길이": "0.2M (200mm)",
+    "커넥터 (소스)": "Mini DisplayPort Male",
+    "커넥터 (출력)": "DisplayPort Female",
+    "DisplayPort 버전": "1.2",
+    "최대 대역폭": "21.6Gbps",
+    "최대 해상도": "3840x2160 (4K2K UHD) @60Hz",
+    "지원 해상도": "HD 720P, Full HD 1080P, 1440P, 4K2K(3840x2160)",
+    "3D 지원": "지원",
+    "음성 지원": "2채널 스테레오, 5.1채널, 7.1채널 입체음향",
+    "HDCP 지원": "지원",
+    "Sleep mode 지원": "지원",
+    "색상": "White",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "Mini DisplayPort Male 커넥터 폭": "8.3mm",
+    "Mini DisplayPort Male 커넥터 높이": "4.8mm",
+    "DisplayPort Female 커넥터 폭": "12mm",
+    "DisplayPort Female 커넥터 높이": "11.6mm",
+    "커넥터 단면 공통 치수": "24.9mm x 52mm (헤드부)",
+    "AS 소비자상담": "라인업시스템(주) 070-7018-3386"
+  },
+  "compatibility": [
+    "Mini DisplayPort 단자가 장착된 PC 및 노트북",
+    "MacBook",
+    "MacBook Pro",
+    "MacBook Air",
+    "Mac Mini",
+    "iMac",
+    "Mini DisplayPort를 지원하는 그래픽카드",
+    "DisplayPort 입력 단자가 있는 TV 및 모니터"
+  ],
+  "package_contents": [
+    "Mini DisplayPort(Male) to DisplayPort(Female) 변환 케이블 1개 (0.2M)"
+  ],
+  "usage_instructions": "Mini DisplayPort 단자가 있는 PC, 노트북, 맥북 등의 소스 기기에 Mini DisplayPort(Male) 단자를 연결하고, DisplayPort 입력 단자가 있는 TV 또는 모니터에 DisplayPort(Female) 단자를 연결합니다. TV 및 모니터는 별도 구매가 필요하며, DP 케이블도 별도 구매가 필요할 수 있습니다.",
+  "cautions": [
+    "구매 전 제품(소스 기기)에 Mini DisplayPort 단자가 있는지 반드시 확인 후 구매하십시오.",
+    "TV 및 모니터, DP 케이블은 별도 구매 품목입니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-M2DP-MF-0.2M",
+      "품목코드": "CAB-젠DP009",
+      "품목명": "[LANstar] 디스플레이 Port 변환 케이블, Mini DP(M)-DP(F), 4K*2K 60Hz 0.2M[20113]",
+      "variant_suffix": "-0.2M",
+      "source": "excel"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-M2DP-MF-0",
+      "chatUrl": "2vlmV",
+      "dateIso": "2023-12-14T05:11:34.565Z",
+      "name": "hurds02",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "[Web발신]\n안녕하세요, 고객님., 랜스타입니다.\n주문하신 [LS-M2DP-MF-0.2M] 제품이 단종 제품으로, 재고가 없는 상황입니다. 제품 구매에 불편을 드려 죄송합니다.",
+      "answer": "해당 제품 제외하여 금일 발송 도와드리겠습니다. 양해해 주셔서 감사합니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "확인 감사합니다^^꾸벅"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다. 해당 제품 제외하여 금일 발송 도와드리겠습니다. 양해해 주셔서 감사합니다."
+        },
+        {
+          "role": "customer",
+          "text": "[Web발신]\n안녕하세요, 고객님., 랜스타입니다.\n주문하신 [LS-M2DP-MF-0.2M] 제품이 단종 제품으로, 재고가 없는 상황입니다. 제품 구매에 불편을 드려 죄송합니다."
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "배송 문의"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Mini DisplayPort"
+      ],
+      "output_signals": [
+        "DisplayPort"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": [
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": "HDCP1.4",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "DP1.2",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Mini DisplayPort(Male)를 DisplayPort(Female)",
+    "connectivity.output_signals": "Mini DisplayPort(Male)를 DisplayPort(Female)",
+    "connectivity.directional": "Mini DisplayPort(Male)를 DisplayPort(Female)로 변환하는 케이블",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "Mini DisplayPort Male 커넥터 폭",
+    "form_physical.length_meters": "0.2M (200mm)",
+    "form_physical.color_options": "색상: White",
+    "certification.rohs": "RoHS 인증 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "4K2K(3840x2160) @60Hz 초고해상도 지원",
+    "audio_video.hdcp_version": "HDCP(High-bandwidth Digital Content Protection) 지원",
+    "audio_video.audio_pass": "디지털 음성 전송 지원",
+    "family.dp_version": "DisplayPort 1.2 규격 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:25",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

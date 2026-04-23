@@ -1,0 +1,122 @@
+{
+  "model_no": "LS-CBD",
+  "product_name": "LANSStar 케이블 번들러 (Cable Bundler)",
+  "category": [
+    "랜케이블",
+    "케이블정리",
+    "벨크로타이"
+  ],
+  "key_features": [
+    "복잡하게 정리되지 못한 케이블에 결합하여 케이블 정리를 돕는 보조 기구",
+    "간편한 연결 과정을 통해 사용 가능",
+    "벨크로타이 결합 방식으로 케이블 고정 지원",
+    "케이블 홈 24개 제공으로 다수 케이블 동시 정리 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "케이블 홈 수": "24ea",
+    "케이블 두께": "22~26AWG (랜케이블 기준)",
+    "크기": "61 x 61 x 21 (mm)",
+    "무게": "약 19g",
+    "재질": "플라스틱",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "KC 인증번호": "해당없음"
+  },
+  "compatibility": [
+    "22~26AWG 케이블 (랜케이블 기준)"
+  ],
+  "package_contents": [
+    "케이블 번들러 본체",
+    "벨크로타이"
+  ],
+  "usage_instructions": "1. 제품에 결합된 벨크로타이를 분리한다. 2. 색상, 용도, 케이블 종류 등 작업자 환경에 맞게 케이블을 분리하여 케이블 홈에 결합한다. 3. 분리했던 벨크로타이를 다시 결합하여 케이블이 빠지지 않도록 고정한다. 4. 케이블 번들러를 정리가 필요한 방향(화살표 방향)으로 밀어가며 케이블을 정리한다.",
+  "cautions": [
+    "본 제품은 케이블 고정용 제품이 아닌 케이블 정리를 돕기 위한 보조 도구입니다.",
+    "케이블 고정이 필요한 경우 별도의 케이블 고정용 연관 상품을 이용하시기 바랍니다.",
+    "제조사 사정에 따라 제품의 색상, 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-CBD",
+      "품목코드": "COM-악세0007",
+      "품목명": "[LANstar] 랜케이블 정리기, 케이블 번들러 , 주황색 [30702] (200개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-CBD",
+      "내용": "벨크로 달린모델은 못봤는데 랜스타에선 찾을수있어서 좋았습니다.\n\n서버작업할때 요기나게 쓸수있을것같네요"
+    },
+    {
+      "source_model": "LS-CBD",
+      "내용": "케이블 정리하기 편합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": 22,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "케이블 번들러",
+    "form_physical.material": "재질: 플라스틱",
+    "certification.kc": "KC 인증번호: 해당없음",
+    "family.awg": "22~26AWG (랜케이블 기준)"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:06",
+  "feature_schema_version": "1.0.0"
+}

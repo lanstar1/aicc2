@@ -1,0 +1,164 @@
+{
+  "model_no": "LS-HMS404",
+  "product_name": "LANStar 4K HDMI Matrix 4x4 (LS-HMS404)",
+  "category": [
+    "HDMI선택기",
+    "HDMI매트릭스"
+  ],
+  "key_features": [
+    "4x4 매트릭스 구성: 4개 입력 소스를 동시에 4개 디스플레이로 출력 가능",
+    "4K UHD(3840x2160 @ 30Hz) 해상도 지원 (HDMI 1.4 포트)",
+    "3D 비디오 포맷 및 해상도 지원",
+    "EDID 수동 설정 지원: DIP 스위치로 해상도 조절 (8가지 프리셋)",
+    "HDCP(High-bandwidth Digital Content Protection) 지원",
+    "3가지 화면 선택 방법: 리모컨(IR), RS232(제어 PC 연결), 전면부 수동 버튼",
+    "LCD를 통해 현재 화면 구성 확인 가능",
+    "다양한 화면 구성 지원: 단일 소스 전체 출력 / 분할 출력 / 개별 매핑 출력",
+    "전면부 IR 수신 포트 탑재",
+    "RS232 포트를 통한 소프트웨어 화면 전환 지원"
+  ],
+  "specifications": {
+    "해상도": "4K @ 30Hz / 3840x2160, 1920x1080, 1280x720 지원",
+    "입력": "HDMI 4포트",
+    "출력": "HDMI 4포트",
+    "전원": "DC 12V 2A",
+    "작동 온도": "0~70℃",
+    "보관 온도": "-40~85℃",
+    "제품 크기": "30.7(W) x 18.4(H) x 3.5(D) cm",
+    "인증번호": "R-REI-LUS-LS-HMS404",
+    "안전인증번호(어댑터)": "HU10653-12001A",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "디지털 TV",
+    "PC 데스크탑",
+    "노트북",
+    "빔 프로젝터",
+    "셋톱박스",
+    "게임기",
+    "DVD 플레이어",
+    "HDMI 사용 기기 전반",
+    "HDMI 1.4 규격",
+    "HDCP 규격",
+    "3D 비디오 포맷",
+    "DVI (EDID 호환)",
+    "Display Port (EDID 호환)"
+  ],
+  "package_contents": [
+    "HDMI 4x4 매트릭스 본체 (LS-HMS404) 1개",
+    "리모컨(Remote Control) 1개",
+    "DC 12V 2A 어댑터 1개",
+    "IR 거리 확장 케이블 1개",
+    "User Manual 1개"
+  ],
+  "usage_instructions": "1. 입력 장치(PC, 셋톱박스, DVD 플레이어, 게임기 등) 최대 4대를 HDMI 입력 포트에 연결한다. 2. 출력 장치(모니터, TV, 빔 프로젝터 등) 최대 4대를 HDMI 출력 포트에 연결한다. 3. DC 12V 2A 어댑터로 전원을 공급한다. 4. 화면 선택은 세 가지 방법 중 선택하여 사용한다: (a) 전면부 OUTPUT 버튼을 눌러 수동 선택 — LCD로 현재 구성 확인 가능, (b) 전면부 IR 수신 포트를 통해 리모컨으로 선택, (c) 전면부 RS232 포트에 제어 PC를 연결하고 소프트웨어로 화면 전환. 5. EDID 설정이 필요한 경우, 후면 DIP 스위치(4핀)를 조작하여 원하는 해상도/오디오 프리셋을 선택한다(8가지 설정 지원: 3D 4K@30Hz 2CH / 3D 1080P stereo 2CH / 2D 1080P stereo 2CH / 2D 1080I stereo 2CH / 2D 1080P 5.1CH / 2D 1080P 7.1CH / 3D 1080P stereo 2CH / 2D 1080P DVI).",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "RoHS 준수 제품으로 납, 수은, 카드뮴 등 중금속 사용이 제한된 친환경 제품입니다.",
+    "국립전파연구원 인증 획득 제품입니다 (인증번호: R-REI-LUS-LS-HMS404)."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HMS404",
+      "품목코드": "INT-HDS131",
+      "품목명": "[LANstar] HDMI 매트릭스, 4:4, 입력 4P 출력 4P, 4K 2K 30Hz지원[20150]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": 8
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": true
+    },
+    "family": {
+      "selector_type": "양방향",
+      "input_count": 4,
+      "output_count": 4,
+      "interfaces": [
+        "HDMI"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 4포트",
+    "connectivity.output_signals": "HDMI 4포트",
+    "connectivity.directional": "4x4 매트릭스 구성",
+    "connectivity.port_count": "HDMI 4포트, HDMI 4포트",
+    "power.power_mode": "DC 12V 2A 어댑터로 전원을 공급한다",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "제품 크기",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "R-REI-LUS-LS-HMS404",
+    "certification.rohs": "null",
+    "certification.iso9001": "null",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "4K UHD(3840x2160 @ 30Hz)",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "HDCP(High-bandwidth Digital Content Protection) 지원",
+    "audio_video.audio_pass": "EDID 수동 설정 지원: DIP 스위치로 해상도 조절 (8가지 프리셋)",
+    "control_switching.has_remote": "리모컨(IR)",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "전면부 수동 버튼",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "RS232 포트를 통한 소프트웨어 화면 전환 지원",
+    "family.selector_type": "4x4 매트릭스 구성",
+    "family.input_count": "4개 입력 소스를",
+    "family.output_count": "4개 디스플레이로 출력",
+    "family.interfaces": "HDMI 4포트"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:44",
+  "feature_schema_version": "1.0.0"
+}

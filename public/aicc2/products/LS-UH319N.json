@@ -1,0 +1,138 @@
+{
+  "model_no": "LS-UH319N",
+  "product_name": "LANStar USB 3.0 to HDMI Converter",
+  "category": [
+    "USB3.0",
+    "컨버터"
+  ],
+  "key_features": [
+    "USB 3.0 포트의 입력신호를 HDMI 출력기기로 변환",
+    "1080P@60Hz Full HD 해상도 지원",
+    "영상 및 음성 동시 지원",
+    "USB 3.0 SuperSpeed 최대 전송속도 5Gbps 지원",
+    "화면 복제 및 화면 확장 모드 지원",
+    "PC 시스템에서 최대 6대의 디스플레이 동시 사용 가능 (각 USB 3.0 포트에 개별 연결 시)",
+    "Hot Swap 및 Plug & Play 지원 (최초 드라이버 설치 후)"
+  ],
+  "specifications": {
+    "모델명": "LS-UH319N",
+    "입력 포트": "USB 3.0 A Male",
+    "출력 포트": "HDMI 1Port",
+    "해상도": "1080P@60Hz Full HD",
+    "재질": "ABS",
+    "색상": "Black",
+    "크기": "51 x 44 x 15 mm",
+    "케이블 길이": "약 20cm",
+    "무게": "약 34g",
+    "KC 인증번호": "MSIP-REI-LUS-LS-UH319",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "USB 3.0 포트를 갖춘 PC, 노트북",
+    "HDMI 입력을 지원하는 TV, 모니터, 빔프로젝터",
+    "USB 2.0 하위 버전 호환 (전송속도 제한)",
+    "USB 1.1 하위 버전 호환 (전송속도 제한)"
+  ],
+  "package_contents": [
+    "USB 3.0 to HDMI 컨버터 본체 (LS-UH319N)"
+  ],
+  "usage_instructions": "1. 제품을 PC 또는 노트북의 USB 3.0 포트에 연결하면 USB 드라이브가 활성화됩니다. 2. USB 드라이브 경로로 이동하여 'MSDisplay_Multi Dev_v1.0.1.5' 설치 파일을 실행하여 드라이버를 설치합니다. 3. 설치 완료 후 장치관리자의 [사운드, 비디오 및 게임 컨트롤러] > [USB2.0 Speaker] 항목을 통해 정상 설치를 확인합니다. 4. 이후부터는 Hot Swap(자유로운 연결/해제) 및 Plug & Play(자동 인식) 기능을 사용할 수 있습니다. ※ 최초 연결 시 드라이버 설치 필수. HDMI 케이블은 별도 준비 필요.",
+  "cautions": [
+    "최초 연결 시 드라이버 설치가 반드시 필요합니다.",
+    "HDMI 케이블은 구성품에 포함되어 있지 않으므로 별도 준비가 필요합니다.",
+    "제조사 사정에 따라 제품의 색상, 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품은 현대해상화재 생산물배상책임보험(1억원)에 가입되어 있습니다.",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UH319N",
+      "품목코드": "COM-외장형569",
+      "품목명": "[LANstar] USB3.0 HDMI 컨버터 [30453] (100개)--단종--",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-UH319N",
+      "내용": "연결 잘되고 좋아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 A Male",
+    "connectivity.output_signals": "HDMI 1Port",
+    "connectivity.directional": "USB 3.0 to HDMI Converter",
+    "connectivity.port_count": "HDMI 1Port",
+    "power.power_mode": "USB 3.0 포트의 입력신호를",
+    "form_physical.has_case": "크기: 51 x 44 x 15 mm",
+    "form_physical.material": "재질: ABS",
+    "form_physical.length_meters": "케이블 길이: 약 20cm",
+    "form_physical.color_options": "색상: Black",
+    "certification.kc": "KC 인증번호: MSIP-REI-LUS-LS-UH319",
+    "audio_video.max_resolution": "1080P@60Hz Full HD 해상도 지원",
+    "audio_video.audio_pass": "영상 및 음성 동시 지원",
+    "family.usb_version": "USB 3.0 SuperSpeed",
+    "family.transfer_speed_gbps": "최대 전송속도 5Gbps 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:13",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,196 @@
+{
+  "model_no": "LS-BZ-KTWHZ",
+  "product_name": "판넬형 Plate (흰색)",
+  "category": [
+    "키스톤잭",
+    "커플러",
+    "분배판넬",
+    "서버랙",
+    "허브랙",
+    "LAN공구"
+  ],
+  "key_features": [
+    "키오스크, 서버랙, 허브랙 등에 장착하는 전문가용 판넬형 Plate",
+    "키스톤잭 고정 및 공업용/전문가용으로 활용 가능",
+    "표준형 크기로 제작되어 다양한 종류의 키스톤잭/커플러 장착 가능",
+    "1포트 키스톤잭 장착 지원"
+  ],
+  "specifications": {
+    "색상": "흰색",
+    "포트 수": "1포트",
+    "원산지": "Made in Taiwan",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "HDMI 커플러/키스톤",
+    "LAN FTP Inline 커플러",
+    "ST 광 키스톤 모듈",
+    "RCA 키스톤 모듈",
+    "BNC 키스톤 모듈",
+    "LAN 키스톤 모듈 (Slim형)",
+    "LAN 키스톤 모듈",
+    "키오스크",
+    "서버랙",
+    "허브랙"
+  ],
+  "package_contents": [
+    "판넬형 Plate 본체 (흰색) 1개"
+  ],
+  "usage_instructions": "서버랙, 허브랙, 키오스크 등의 표준 패널 슬롯에 장착 후, 원하는 키스톤잭 또는 커플러를 판넬 포트에 끼워 고정하여 사용.",
+  "cautions": [
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 의거하여 보상.",
+    "장착 가능한 키스톤잭/커플러 종류를 사전에 확인 후 사용할 것."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-BZ-KTWHZ",
+      "품목코드": "NEO-아울렛068",
+      "품목명": "[LANstar] 판넬용 Plate, 키스톤 가이드 흰색 대만산[40093]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-BZ-KTWHZ",
+      "chatUrl": "1BcBi",
+      "dateIso": "2023-10-27T04:21:44.197Z",
+      "name": "세진티엔에스",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "키스톤 가이드 LS-BZ-KTWHZ\n624개 구매하려합니다\n(추가 문의) 키스톤가이드\n200개 구매 하려하는데 재고가 안되나요~?\n(추가 문의) 키스톤잭 630개정도 구매하려 단가조정 가능한가요~?\n(추가 문의) 카드구매 하면 어떤식으로 결제를 해야되나요",
+      "answer": "기존 구매해주셨던 'LS-BZ-KTWHZ' 재고 가능하시어, 구매 진행해주시면 출고 도와드리겠습니다.\n\n네 고객님, 해당 알림받기 진행해주신 네이버 아이디 말씀 부탁드립니다. https://smartstore.naver.com/lineup 네 고객님, 그럼 아래 방법 하나만 진행 부\n\n할인 적용 도와드릴까요? https://smartstore.naver.com/lineup/products/6141609730?site_preference=device&NaPm=ct",
+      "turn_count": 19,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "키스톤가이드\n200개 구매 하려하는데 재고가 안되나요~?"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다. [배송도착예정] 주문하신 상품이 오늘 도착예정입니다~ [배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요! [배송시작] 주문하신 상품이 택배사에 도착"
+        },
+        {
+          "role": "customer",
+          "text": "50개 주문할께요"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n기존 구매해주셨던 'LS-BZ-KTWHZ' 재고 가능하시어, 구매 진행해주시면 출고 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만"
+        },
+        {
+          "role": "customer",
+          "text": "키스톤 가이드 20개 구매 가능한가요~?"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~ [배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요! [배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입"
+        },
+        {
+          "role": "customer",
+          "text": "A/S 문의"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요! [배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다! [발송준비] 고객님, 랜스타에서 주문해주셔서 감"
+        },
+        {
+          "role": "customer",
+          "text": "감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 주문 건 확인하였습니다.\n자사에서는 오늘 빠르게 출고 도와드릴 예정이며, 빠르면 내일 제품 받아보실 수 있을 것으로 보입니다.\n\n다만 택배사의 사정에 따라 달라질 수"
+        },
+        {
+          "role": "customer",
+          "text": "결제 했는데 내일 받을수 있나요~?"
+        },
+        {
+          "role": "agent",
+          "text": "저희가 이미 쿠폰을 발급해드린 상태이기 때문에, 이전처럼 결제 단계에 적용해주시면 됩니다. 고객님."
+        },
+        {
+          "role": "customer",
+          "text": "5%할인은 어떻게 받죠~?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 지난 금요일 문의 주신 LS-BZ-KTWHZ 제품에 관하여 5% 우수고객 할인쿠폰 발급 도와드렸습니다.\n해당 쿠폰 적용하시어 결제해주시면"
+        },
+        {
+          "role": "customer",
+          "text": "네 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 재고 현재 보유하고 있어 구매 가능합니다만, 금일 영업시간이 종료되었습니다.\n월요일 오전에 연락 드려도 괜찮으실까요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "흰색"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.port_count": "1포트 키스톤잭 장착 지원",
+    "form_physical.color_options": "색상: 흰색"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:50",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "model_no": "LS-ISR-54R",
+  "product_name": "Stereo 광 커플러 & 키스톤 모듈 (Female-Female)",
+  "category": [
+    "키스톤잭",
+    "커플러",
+    "분배판넬",
+    "오디오케이블",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "Stereo 광 표준형 크기 Female-Female 타입",
+    "일반 표준형 크기로 제작",
+    "커플러 입구 표준형 크기로 다양한 아울렛, 판넬 등에 장착 가능"
+  ],
+  "specifications": {
+    "모델명": "LS-ISR-54R",
+    "치수(단위:mm)": "32.0 x 14.6",
+    "제조국/원산지": "Made in Taiwan",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "랙장착형 블링크 판넬 (LS-PLKP-24BK, 24포트)",
+    "Blank 아울렛 박스 (LS-BK-14R/24R/44R/64R/84R, 1구/2구/3구/4구/6구)",
+    "벽부착용 아울렛 PLATE (OUTLET-WP1P/2P/3P/4P/6P, 1구~6구)",
+    "판넬용 PLATE (LS-BZ-KTWHZ)"
+  ],
+  "package_contents": [
+    "ST 광 커플러/키스톤 모듈 (LS-ISR-54R)"
+  ],
+  "usage_instructions": "표준형 크기의 커플러 입구를 이용하여 아울렛 박스, 랙장착형 블링크 판넬, 벽부착용 플레이트 등 다양한 종류의 아울렛 및 판넬에 장착하여 사용",
+  "cautions": [
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 의거하여 보상"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Optical"
+      ],
+      "output_signals": [
+        "Optical"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "무전원"
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Stereo 광 표준형 크기 Female-Female 타입",
+    "connectivity.output_signals": "Stereo 광 표준형 크기 Female-Female 타입",
+    "connectivity.directional": "Female-Female 타입",
+    "power.power_mode": "무전원",
+    "form_physical.has_case": "Stereo 광 커플러 & 키스톤 모듈",
+    "audio_video.audio_pass": "Stereo 광"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:54",
+  "feature_schema_version": "1.0.0"
+}

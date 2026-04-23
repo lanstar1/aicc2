@@ -1,0 +1,164 @@
+{
+  "model_no": "LS-HDMI-FIBER-N",
+  "product_name": "HDMI KVM Fiber Extender Over IP (HDMI 광 거리연장기 / KVM)",
+  "category": [
+    "광케이블",
+    "HDMI-KVM",
+    "HDMI광케이블",
+    "KVM익스텐더",
+    "KVM",
+    "익스텐더"
+  ],
+  "key_features": [
+    "최대 1080P@60Hz FHD 해상도 지원",
+    "싱글모드 LC 광케이블을 통해 최대 20km 거리 신호 전송",
+    "KVM 지원: 수신기(RX) USB 포트를 통해 키보드·마우스 원격 사용 가능",
+    "HDCP(고대역폭 디지털 콘텐츠 보호) 지원",
+    "Plug & Play: 별도 설치 없이 연결 즉시 사용 가능",
+    "IR 센서 지원: 최대 20km 원격에서 소스 기기 리모콘 제어 가능",
+    "1:1 및 1:N 연결 방식 지원 (광허브 활용 시 다중 수신기 연결 가능)",
+    "송신기(TX) HDMI Loop Out(모니터링) 포트 제공",
+    "광섬유 파장 1310nm/1550nm 양방향 지원",
+    "KC 인증 획득 제품 (인증번호: R-R-LUS-LS-HDMI-FIBER)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득)"
+  ],
+  "specifications": {
+    "HDMI INPUT": "1080P@60Hz / 720P / 480P",
+    "HDMI OUTPUT": "1080P@60Hz / 720P / 480P",
+    "광섬유 파장(Optical Fiber Wavelength)": "1310nm/1550nm, 1550nm/1310nm",
+    "최대 전력소비": "TX: 4W / RX: 3W",
+    "최대 전송 거리": "20km",
+    "전원": "DC 5V 1A (송신기·수신기 양쪽 모두 연결 필수)",
+    "작동 온도": "0°C - 45°C",
+    "습도": "5% ~ 90%",
+    "크기": "163 x 86 x 24 (mm), 송신기·수신기 동일",
+    "무게": "송신기: 약 540g / 수신기: 약 450g",
+    "재질": "Metal",
+    "KC 인증번호": "R-R-LUS-LS-HDMI-FIBER",
+    "아답터 인증번호": "HU10999-18001A",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 출력 지원 데스크탑·노트북 (소스 기기)",
+    "HDMI 입력 지원 TV·모니터·빔프로젝터 (디스플레이 기기)",
+    "싱글모드 LC 광케이블",
+    "USB 키보드·마우스 (KVM 기능)",
+    "HDCP 지원 기기 (HDCP 미지원 기기에서는 사용 불가)",
+    "IR 센서가 있는 소스 입력 기기 (리모콘 원격 제어)"
+  ],
+  "package_contents": [
+    "HDMI 광 거리연장기 송신기(Transmitter) 1ea",
+    "HDMI 광 거리연장기 수신기(Receiver) 1ea",
+    "IR 센서 2ea",
+    "싱글 LC 모듈 2pcs (TX 전용·RX 전용 각 1pcs)",
+    "DC 5V 1A 전원 어댑터 2pcs",
+    "Manual 1부"
+  ],
+  "usage_instructions": "1. 소스 기기(PC 등)의 HDMI 출력을 송신기(TX) HDMI IN 포트에 연결하고, USB 포트에 USB 케이블을 연결한다. 2. 싱글모드 LC 광케이블로 송신기(TX)와 수신기(RX)를 연결한다 (LC 모듈 색상 확인: TX=파랑, RX=노랑). 3. 수신기(RX) HDMI OUT 포트를 디스플레이 기기에 연결하고, USB 포트에 키보드·마우스를 연결한다. 4. 송신기·수신기 양쪽에 DC 5V 1A 전원 어댑터를 각각 연결한다. 5. Plug & Play로 별도 드라이버 설치 없이 즉시 사용 가능하다. 6. IR 기능 사용 시: 리모콘을 수신기(RX)에 연결된 IR 수신기 방향으로 조작하면, IR 신호가 송신기를 거쳐 소스 기기로 전달된다. 7. 1:N 연결 시 광허브를 활용하여 다수의 수신기에 동일 화면 출력이 가능하다. ※ HDMI 케이블, USB 케이블, LC 광케이블은 제품에 포함되어 있지 않으므로 별도 구매 필요.",
+  "cautions": [
+    "HDMI 케이블, USB 케이블, LC 광케이블은 제품에 포함되어 있지 않으므로 별도 구매 필요",
+    "LC 모듈 색상을 반드시 확인할 것: TX(파랑), RX(노랑)로 구분되어 있음",
+    "HDCP를 지원하지 않는 기기에서는 사용 불가",
+    "최대 전송 거리 20km는 이론상 수치이며, 사용 환경에 따라 실제 전송 거리가 짧아질 수 있음",
+    "최대 전송 거리는 국산 광케이블 기준이며, 일부 중국산 광케이블 품질에 따라 지원 거리가 짧아지거나 화면 출력이 지원되지 않을 수 있음",
+    "송신기·수신기 양쪽 모두 DC 5V 1A 전원 어댑터를 연결해야 동작함",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처의 제품은 A/S를 받을 수 없음",
+    "당일 출고는 오후 4시 이전 결제 완료 건 기준이며, 토·일·공휴일 제외 평일에 한함",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있음",
+    "제조사 사정에 따라 제품 색상·형태 등 사양은 예고 없이 변경될 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMI-FIBER-N",
+      "품목코드": "INT-HDS284",
+      "품목명": "[LANstar] HDMI 광 거리연장기 20km지원 [30724] (10개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDMI-FIBER-N",
+      "내용": "좋은상품 저렴하게 잘 구매했습니다"
+    },
+    {
+      "source_model": "LS-HDMI-FIBER-N",
+      "내용": "끊김없고 100미터 이상에서 잘 사용됩니다\n공연장에서 사용중인데 안정적이네요 추천합니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "USB-A"
+      ],
+      "output_signals": [
+        "HDMI",
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": true,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 출력을 송신기(TX) HDMI IN 포트에 연결하고, USB 포트에 USB 케이블을 연결한다",
+    "connectivity.output_signals": "수신기(RX) HDMI OUT 포트를 디스플레이 기기에 연결하고, USB 포트에 키보드·마우스를 연결한다",
+    "connectivity.directional": "광섬유 파장 1310nm/1550nm 양방향 지원",
+    "power.power_mode": "DC 5V 1A (송신기·수신기 양쪽 모두 연결 필수)",
+    "power.charging_support": "최대 전력소비: TX: 4W / RX: 3W",
+    "form_physical.has_case": "크기: 163 x 86 x 24 (mm)",
+    "form_physical.material": "재질: Metal",
+    "audio_video.max_resolution": "최대 1080P@60Hz FHD 해상도 지원",
+    "audio_video.hdcp_version": "HDCP(고대역폭 디지털 콘텐츠 보호) 지원",
+    "control_switching.has_remote": "IR 센서 지원: 최대 20km 원격에서 소스 기기 리모콘 제어 가능",
+    "certification.kc": "KC 인증 획득 제품",
+    "family.optical_core": "싱글모드 LC 광케이블을 통해 최대 20km 거리 신호 전송"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:12",
+  "feature_schema_version": "1.0.0"
+}

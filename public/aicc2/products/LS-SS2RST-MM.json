@@ -1,0 +1,108 @@
+{
+  "model_no": "LS-SS2RST-MM",
+  "product_name": "2RCA 통합 콤비케이블 (S-Video + 스테레오 RCA)",
+  "category": [
+    "RCA케이블"
+  ],
+  "key_features": [
+    "S-Video 영상 신호와 스테레오 음향 신호를 동시에 연결 가능한 통합 콤비케이블",
+    "PC와 TV 간 연결 지원",
+    "다양한 길이 옵션 제공 (1.5m ~ 30m)"
+  ],
+  "specifications": {
+    "제품명": "2RCA 통합케이블",
+    "모델명": "LS-SS2RST",
+    "브랜드": "LANStar",
+    "제품 길이": "1.5m, 3m, 5m, 10m, 15m, 20m, 30m",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "S-Video(SVHS) 영상 출력 단자를 갖춘 PC",
+    "S-Video(SVHS) 영상 입력 단자를 갖춘 TV",
+    "RCA 스테레오 음향 입력 단자를 갖춘 TV"
+  ],
+  "package_contents": [
+    "2RCA 통합 콤비케이블 본체 1개"
+  ],
+  "usage_instructions": "PC의 S-Video 출력 단자와 TV의 S-Video 입력 단자를 케이블로 연결하고, RCA 음향 단자를 PC 스테레오 출력과 TV 음향 입력에 각각 연결하여 사용한다.",
+  "cautions": [
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있음"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RCA",
+        "S-Video"
+      ],
+      "output_signals": [
+        "RCA",
+        "S-Video"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        1.5,
+        3.0,
+        5.0,
+        10.0,
+        15.0,
+        20.0,
+        30.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "S-Video 영상 신호와 스테레오 음향 신호를",
+    "connectivity.output_signals": "S-Video 영상 신호와 스테레오 음향 신호를",
+    "connectivity.directional": "PC와 TV 간 연결 지원",
+    "power.power_mode": "무전원",
+    "form_physical.length_options_meters": "1.5m, 3m, 5m, 10m, 15m, 20m, 30m",
+    "audio_video.audio_pass": "스테레오 음향 신호를 동시에 연결",
+    "family.optical_core": "S-Video 영상 신호와 스테레오 음향 신호를"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:43",
+  "feature_schema_version": "1.0.0"
+}

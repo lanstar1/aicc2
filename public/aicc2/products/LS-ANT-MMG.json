@@ -1,0 +1,241 @@
+{
+  "model_no": "LS-ANT-MMG",
+  "product_name": "LANStar 안테나 케이블 (RF)",
+  "category": [
+    "안테나케이블"
+  ],
+  "key_features": [
+    "디지털 HDTV 방송신호, 셋톱박스, VTR과 TV 연결용 TV 동축 케이블",
+    "화질손실 없이 장거리 전송에서도 선명한 고화질 영상 전송 가능",
+    "신호감쇄율이 가장 적은 75Ω 케이블 사용",
+    "3C-2U HIGH QUALITY COAXIAL CABLE, 75 OHM 규격",
+    "RoHS 인증 준수 (납, 수은 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "디지털 HDTV 방송신호, 셋톱박스, VTR과 TV 연결에 사용되는 TV 동축케이블",
+    "화질 손실 없이 장거리 전송 시에도 선명한 고화질 영상 전송 가능",
+    "신호 감쇄율이 가장 적은 75Ω 케이블 사용",
+    "CCTV 동축케이블 및 HDTV에서 선명한 TV 화질 구현",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "임피던스": "75 Ω / 75 OHM",
+    "케이블 규격": "3C-2U / 3C-2U 동축케이블",
+    "사용 가능 길이": "2M, 3M, 5M, 10M, 15M, 20M, 30M",
+    "모델명 (2M)": "LS-ANT-MMG-2M",
+    "모델명 (3M)": "LS-ANT-MMG-3M",
+    "모델명 (5M)": "LS-ANT-MMG-5M",
+    "모델명 (10M)": "LS-ANT-MMG-10M",
+    "모델명 (15M)": "LS-ANT-MMG-15M",
+    "모델명 (20M)": "LS-ANT-MMG-20M",
+    "모델명 (30M)": "LS-ANT-MMG-30M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "RoHS": "COMPLIANT",
+    "ISO 인증": "ISO 9001:2008",
+    "품명": "안테나 케이블(RF)",
+    "브랜드": "LANstar",
+    "모델별 길이": "2M, 3M, 5M, 10M, 15M, 20M, 30M",
+    "품질경영시스템": "ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "디지털 HDTV",
+    "셋톱박스",
+    "VTR",
+    "TV",
+    "CCTV 동축 케이블 연결 기기",
+    "CCTV 동축 케이블 시스템"
+  ],
+  "package_contents": [
+    "안테나 케이블 (RF) 본체 (선택 길이에 따라 1개)",
+    "안테나 케이블(RF) 본체 (선택 길이에 따라 2M/3M/5M/10M/15M/20M/30M 중 1종)"
+  ],
+  "usage_instructions": "디지털 HDTV 방송신호 수신 또는 셋톱박스, VTR과 TV 연결 시 본 케이블을 안테나 단자에 연결하여 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됨",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단) 참조"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-ANT-MMG-2M",
+      "품목코드": "CAB-안테나001",
+      "품목명": "[LANstar] 안테나케이블 , RF M／M, 75오옴, 2M[10513] (110개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ANT-MMG-5M",
+      "품목코드": "CAB-안테나002",
+      "품목명": "[LANstar] 안테나케이블 , RF M／M, 75오옴, 5M[10515] (60개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ANT-MMG-10M",
+      "품목코드": "CAB-안테나003",
+      "품목명": "[LANstar] 안테나케이블 , RF M／M, 75오옴, 10M[10516] (40개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ANT-MMG-15M",
+      "품목코드": "CAB-안테나004",
+      "품목명": "[LANstar] 안테나케이블 , RF M／M, 75오옴, 15M[10517] (36개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ANT-MMG-20M",
+      "품목코드": "CAB-안테나005",
+      "품목명": "[LANstar] 안테나케이블 , RF M／M, 75오옴, 20M[10518] (30개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ANT-MMG-30M",
+      "품목코드": "CAB-안테나007",
+      "품목명": "[LANstar] 안테나케이블 , RF M／M, 75오옴, 30M[10519] (16개)",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ANT-MMG-3M",
+      "품목코드": "CAB-안테나008",
+      "품목명": "[LANstar] 안테나케이블 , RF M／M, 75오옴, 3M[10514] (100개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-ANT-MMG",
+      "내용": "저렴한 가격에 잘 샀습니다. 연결도 잘 되네요. 고맙습니다."
+    },
+    {
+      "source_model": "LS-ANT-MMG",
+      "내용": "저렴한 가격에 잘 샀습니다. 연결도 잘 되네요. 고맙습니다."
+    },
+    {
+      "source_model": "LS-ANT-MMG",
+      "내용": "저렴한 가격에 잘 샀습니다. 연결도 잘 되네요. 고맙습니다."
+    },
+    {
+      "source_model": "LS-ANT-MMG",
+      "내용": "저렴한 가격에 잘 샀습니다. 연결도 잘 되네요. 고맙습니다."
+    },
+    {
+      "source_model": "LS-ANT-MMG",
+      "내용": "상품 좋습니다.\nTV도 잘 나옵니다."
+    },
+    {
+      "source_model": "LS-ANT-MMG",
+      "내용": "굿국 딱 맞아서 좋네요"
+    },
+    {
+      "source_model": "LS-ANT-MMG",
+      "내용": "잘받았습니다~배송빠르게 잘받았어요"
+    },
+    {
+      "source_model": "LS-ANT-MMG",
+      "내용": "가격대비 마음에 듭니다",
+      "관련내용": "가격대비 정말 만족합니다"
+    },
+    {
+      "source_model": "LS-ANT-MMG",
+      "내용": "가격대비 정말 만족합니다"
+    },
+    {
+      "source_model": "LS-ANT-MMG",
+      "내용": "좋아요~~~~~~~~^^",
+      "관련내용": "좋아요~~~~~~~^^~~"
+    },
+    {
+      "source_model": "LS-ANT-MMG",
+      "내용": "좋아요~~~~~~~^^~~"
+    },
+    {
+      "source_model": "LS-ANT-MMG-15M",
+      "내용": "아주 맘에 듭니다 굿입니다"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-ANT-MMG-XXM": "LAN\ntar\nANTENNA CABLE\n안테나 케이블(RF)\n2M 3M 5M 10M 15M 20M 30M\n고화질 TV 안테나 케이블\n디지털 HDTV 방송신호, 셋톱박스, VTR과 TV 연결시에\n사용되는 케이블(TV동축케이블)로 화질손실 없이 장거리\n전송시에도 선명한 고화질의 영상을 즐기실 수 있습니다.\nCCTV 동축 케이블 및 HDTV에서 선명한 TV화질을 얻기위해\n신호감쇄율이 가장 적은 752 케이블을 사용합니다.\nPRODUCT IMAGE\n<LANstar> 3C - 2U HIGH QUALITY COAXIAL CABELE, 25 OHM\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nR.\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은,\n중금속 사용을 금지합니다.\nLANSStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명 안테나 케이블(RF)\nLANStar\n모\n델\n명\nLS-ANT-MMG-2M/LS-ANT-MMG-3M\nLS-ANT-MMG-5M/LS-ANT-MMG-10M\nLS-ANT-MMG-15M/LS-ANT-MMG-20M\nLS-ANT-MMG-30M\n인증번호 상세페이지 참조\n제조국/원산지 중국 (China)\n제조사/수입사\n라이언 시스테 (2)\n\n\n품\n명 안테나 케이블(RF)\nLANStar\n모델명\nLS-ANT-MMG-2M/LS-ANT-MMG-3M\nLS-ANT-MMG-5M/LS-ANT-MMG-10M\nLS-ANT-MMG-15M/LS-ANT-MMG-20M\nLS-ANT-MMG-30M\n인증번호 상세페이지 참조\n제조국/원산지 중국 (China)\n제조사/수입사 라인업시스템(주)\nAS 소비자상담 라인업시스템(주) 070-7018-3386\n구매/배송/반품 판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질보증기준 공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RF"
+      ],
+      "output_signals": [
+        "RF"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무관",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [
+        2,
+        3,
+        5,
+        10,
+        15,
+        20,
+        30
+      ],
+      "color_options": []
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "TV 동축 케이블",
+    "connectivity.output_signals": "TV 동축 케이블",
+    "connectivity.directional": "TV 동축 케이블",
+    "form_physical.length_options_meters": "2M, 3M, 5M, 10M, 15M, 20M, 30M",
+    "certification.rohs": "RoHS 인증 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.audio_pass": "고화질 영상 전송 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:06",
+  "feature_schema_version": "1.0.0"
+}

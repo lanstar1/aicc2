@@ -1,0 +1,160 @@
+{
+  "model_no": "LS-5SFTP-B300M",
+  "product_name": "LANStar CAT.5E SFTP 단선 랜케이블 파랑 300M",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-SFTP",
+    "랜케이블"
+  ],
+  "key_features": [
+    "CAT.5E SFTP(Shielded Foiled Twisted Pair) 구조로 노이즈 방지에 탁월",
+    "편조쉴드가 전체 케이블을 감싸고 알루미늄 은박과 비닐막으로 이중 차폐",
+    "접지용 쉴드 접지선 내장으로 옥외 배선 및 공장 배선에 적합",
+    "단선(Solid) 구조로 외부 간섭이 적고 데이터 전송이 안정적",
+    "24AWG 미국전선규격 적용으로 잡음이 적고 안정적인 전송 가능",
+    "High Quality Copper(고순도 구리) 사용으로 빠른 전도율",
+    "꼬임(Twisted Pair) 방식으로 전자기유도 및 노이즈 방지",
+    "4Pair/8Core 구성",
+    "RoHS 친환경 소재 사용",
+    "라인업시스템(주) 정품"
+  ],
+  "specifications": {
+    "카테고리 등급": "CAT.5E",
+    "케이블 타입": "SFTP (Shielded Foiled Twisted Pair)",
+    "선 종류": "단선 (Solid)",
+    "색상": "파랑",
+    "길이": "300M",
+    "전선 규격": "24AWG",
+    "구성": "4Pair/8Core",
+    "피복 재질": "PVC/LSZH",
+    "절연 재질": "PE",
+    "차폐 구조": "알루미늄 차폐막(Al.Mylar 테이프), 노이즈 방지 비닐막, 편조쉴드(노이즈방지쉴드), 쉴드 접지선",
+    "데이터 전송속도": "150MHz / 550Mbps",
+    "원산지/제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증": "RoHS Compliant",
+    "A/S 문의": "www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "CAT.5E 표준 네트워크 장비",
+    "8P8C RJ45 커넥터",
+    "공장 배선 환경",
+    "옥외 배선 환경(접지용 선 내장)",
+    "일반 사무실 및 가정 배선"
+  ],
+  "package_contents": [
+    "CAT.5E SFTP 단선 랜케이블 파랑 300M (Roll/BOA)"
+  ],
+  "usage_instructions": "공장배선 및 옥외 배선 시 접지용 쉴드 접지선을 접지에 연결하여 사용. 단선 구조이므로 고정 배선에 적합하며, 꺾임이 반복되는 환경보다는 고정 설치 환경에 사용 권장.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "단선(Solid) 케이블이므로 반복적인 굴곡이 발생하는 환경에는 연선(Stranded) 제품 사용 권장",
+    "인증번호는 상세페이지 참조"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-5SFTP-B300M",
+      "품목코드": "CAB-F5박017",
+      "품목명": "[LANstar] GigaLAN케이블 , CAT.5E SFTP, BLUE, 300M, BOA [10977](2개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-5SFTP-B300M",
+      "내용": "300M라 여유롭게 공사했습니다. 추천합니다."
+    },
+    {
+      "source_model": "LS-5SFTP-B300M",
+      "내용": "좋은 제품입니다. 재구매 의사 있습니다",
+      "관련내용": "빠른배송 감사합니다. 잘쓸께요"
+    },
+    {
+      "source_model": "LS-5SFTP-B300M",
+      "내용": "박스가 파손되어있네요. 케이블 한번 구매하면 꽤 오래 사용하는데 사용할 때마다 생각 날듯... 가격은 좋아요. 배송은 빠릅니다."
+    },
+    {
+      "source_model": "LS-5SFTP-B300M",
+      "내용": "빠른배송 감사합니다. 잘쓸께요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC",
+        "PE",
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        300
+      ],
+      "color_options": [
+        "파랑"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "SFTP",
+      "conductor": "단선(solid)",
+      "awg": 24,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "LANStar CAT.5E SFTP 단선 랜케이블",
+    "form_physical.material": "피복 재질: PVC/LSZH",
+    "form_physical.material.1": "절연 재질: PE",
+    "form_physical.material.2": "알루미늄 차폐막(Al.Mylar 테이프)",
+    "form_physical.length_options_meters.0": "길이: 300M",
+    "form_physical.color_options.0": "색상: 파랑",
+    "certification.rohs": "RoHS 친환경 소재 사용",
+    "family.cat_category": "CAT.5E SFTP",
+    "family.shielding": "SFTP(Shielded Foiled Twisted Pair) 구조",
+    "family.conductor": "단선(Solid) 구조",
+    "family.awg": "24AWG 미국전선규격 적용",
+    "family.pair_count": "4Pair/8Core 구성",
+    "family.flame_rating": "피복 재질: PVC/LSZH"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:22",
+  "feature_schema_version": "1.0.0"
+}

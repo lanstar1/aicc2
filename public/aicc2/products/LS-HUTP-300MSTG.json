@@ -1,0 +1,133 @@
+{
+  "model_no": "LS-HUTP-300MSTG",
+  "product_name": "LANStar CAT.5E UTP 랜케이블 연선 300M",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP",
+    "랜케이블"
+  ],
+  "key_features": [
+    "CAT.5E UTP 연선(Stranded) 타입으로 단선 대비 유연하여 설치 용이",
+    "최대 400Mbps 전송속도, 100MHz 대역폭 지원 (TIA/EIA-568 규격)",
+    "26AWG 규격 심선으로 데이터 전송 시 간섭 최소화",
+    "일반 저가형 대비 구리 함량이 높아 빠른 전도율 및 데이터 손실 감소",
+    "Twisted Pair(꼬임방식) 구조로 노이즈 방지",
+    "4Pair/8Core 전선 구성, UTP(비차폐) 타입",
+    "연선 케이블로 잡음 및 감쇄현상이 현저히 적음",
+    "친환경 소재(RoHS 준수) 사용",
+    "300M 드럼(Box) 형태 제공"
+  ],
+  "specifications": {
+    "케이블 타입": "CAT.5E UTP (Unshield Twisted Pair)",
+    "케이블 구조": "연선(Stranded)",
+    "대역폭": "100MHz",
+    "전송속도": "100~400Mbps",
+    "심선 규격": "26AWG",
+    "코어 구성": "4Pair / 8Core",
+    "길이": "300M",
+    "피복 재질": "PVC/LSZH",
+    "절연 재질": "PE",
+    "준수 규격": "TIA/EIA-568",
+    "인증": "RoHS Compliant",
+    "제조국": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "CAT.5E 규격 호환 네트워크 장비",
+    "사무실 및 가정용 랜 배선",
+    "100Mbps / 400Mbps 네트워크 환경",
+    "8P8C RJ45 커넥터 호환",
+    "TIA/EIA-568 규격 준수 장비"
+  ],
+  "package_contents": [
+    "CAT.5E UTP 랜케이블 연선 300M (LS-HUTP-300MSTG)"
+  ],
+  "usage_instructions": "연선 케이블로 단선 대비 유연하여 구부림이 많은 배선 환경에 적합합니다. 다이렉트 배선 시 양단 568B 핀배열을 사용하고, 크로스 배선 시 한쪽은 568B, 반대쪽은 568A 핀배열을 적용하세요. 사무실 및 가정 내 일반 랜 배선용으로 사용하며, 옥외 배선이 필요한 경우 FTP 또는 옥외용 방수 케이블 사용을 권장합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품은 사무실 및 가정 실내 배선용이며, 옥외 배선에는 적합하지 않습니다.",
+    "AWG 수치가 클수록 심선이 가늘어 잡음이 증가하고 전송 안정성이 낮아질 수 있으므로 규격 확인 후 사용하세요.",
+    "본 제품은 라인업시스템(주) 정품이며, 무단 복제 및 모방 제품 사용 시 불이익이 발생할 수 있습니다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 070-7018-3386"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "PVC",
+        "PE"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        300
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": false,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": "연선(stranded)",
+      "awg": 26,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "랜케이블",
+    "connectivity.output_signals": "랜케이블",
+    "connectivity.directional": "양방향",
+    "form_physical.has_case": "300M 드럼(Box) 형태",
+    "form_physical.material": "피복 재질: PVC/LSZH, 절연 재질: PE",
+    "form_physical.length_options_meters": "300M 드럼(Box) 형태",
+    "certification.rohs": "RoHS 준수",
+    "family.cat_category": "CAT.5E UTP",
+    "family.shielding": "UTP (Unshield Twisted Pair)",
+    "family.conductor": "연선(Stranded) 타입",
+    "family.awg": "26AWG 규격 심선",
+    "family.pair_count": "4Pair/8Core 전선 구성",
+    "family.flame_rating": "피복 재질: PVC/LSZH"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:49",
+  "feature_schema_version": "1.0.0"
+}

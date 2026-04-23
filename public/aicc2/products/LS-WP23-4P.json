@@ -1,0 +1,107 @@
+{
+  "model_no": "LS-WP23-4P",
+  "product_name": "삽입형 아울렛 Wall Plate LS-WP23-4P",
+  "category": [
+    "키스톤잭",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "4포트 삽입형 아울렛 (Wall Plate)",
+    "벽부착형 Back Box와 함께 사용 가능 (별도 구매)",
+    "키스톤잭 모듈 장착 방식",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "포트 수": "4포트",
+    "가로 크기": "114mm",
+    "세로 크기": "69mm",
+    "두께": "6.2mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조"
+  },
+  "compatibility": [
+    "벽부착형 Back Box LS-OUTLET-WP24",
+    "키스톤잭 모듈"
+  ],
+  "package_contents": [
+    "삽입형 아울렛 Wall Plate (LS-WP23-4P) 본체",
+    "이름표 2개",
+    "이름표 커버 2개",
+    "볼트 2개"
+  ],
+  "usage_instructions": "벽부착형 Back Box(LS-OUTLET-WP24, 별도 구매)에 키스톤잭 모듈을 장착한 후 Wall Plate를 결합하여 벽면에 설치하는 방식.",
+  "cautions": [
+    "벽부착형 Back Box(LS-OUTLET-WP24)는 별도 구매 필요.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리.",
+    "AS 소비자상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-WP23-4P",
+      "품목코드": "NEO-아울렛012",
+      "품목명": "[LANstar] 삽입형아웃렛 , Wall plate 4port[40073]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.port_count": "4포트 삽입형 아울렛",
+    "connectivity.directional": "N/A",
+    "power.power_mode": "N/A",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.cat_category": "N/A",
+    "family.shielding": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:35",
+  "feature_schema_version": "1.0.0"
+}

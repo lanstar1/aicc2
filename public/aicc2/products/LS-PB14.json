@@ -1,0 +1,90 @@
+{
+  "model_no": "LS-PB14",
+  "product_name": "[LANstar] 키스톤 모듈 통합 포인트 박스 4포트 [30524](20개)",
+  "category": [
+    "키스톤잭"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-PB14",
+      "품목코드": "NEO-아울렛156",
+      "품목명": "[LANstar] 키스톤 모듈 통합 포인트 박스 4포트 [30524](20개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-PB14",
+      "내용": "용도에 너무 적합합니다\n현장 요구 사항을 충족하고 있습니다"
+    },
+    {
+      "source_model": "LS-PB14",
+      "내용": "제품 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-PB14",
+      "내용": "정리 깔끔하게 됩니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": null,
+      "shielding": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.port_count": "4포트",
+    "connectivity.directional": "N/A",
+    "power.power_mode": "N/A",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "form_physical.has_case": "포인트 박스"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:30",
+  "feature_schema_version": "1.0.0"
+}

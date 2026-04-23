@@ -1,0 +1,110 @@
+{
+  "model_no": "LS-COPY7",
+  "product_name": "USB 링크케이블 Easy Copy (HIGH SPEED PC DATA COPY CABLE)",
+  "category": [
+    "USB케이블"
+  ],
+  "key_features": [
+    "케이블 연결만으로 자동 동작 (별도 드라이버 설치 불필요)",
+    "소프트웨어 내장으로 CD 없이 자동 실행",
+    "연결 PC의 CD-ROM 원격 사용 가능",
+    "연결 PC의 멀티미디어 파일 원격 실행 가능",
+    "PC 간 운영체제가 달라도 양방향 통신 가능",
+    "고휘도 LED 장착으로 연결 상태 한눈에 확인",
+    "USB 2.0 Hi-Speed 지원"
+  ],
+  "specifications": {
+    "인터페이스": "USB 2.0 Hi-Speed",
+    "내장 소프트웨어": "EasySuite",
+    "LED": "고휘도 양방향 LED",
+    "인증번호": "LUS-LS-COPY7",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "브랜드": "LANStar",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "Windows 2000",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "USB 2.0 포트 탑재 PC/넷북/미니노트북",
+    "Windows 98 이하 미지원"
+  ],
+  "package_contents": [
+    "USB PC 데이터 전송 케이블 (LS-COPY7) 본체 (EasySuite 소프트웨어 내장)"
+  ],
+  "usage_instructions": "1. 각 PC의 USB 포트에 PC 데이터 전송 케이블을 연결한다. 2. 자동으로 설치되며 EasySuite 프로그램이 실행된다. 3. Remote Host 칸에는 상대방 PC, Local Host 칸에는 자신의 PC 내용이 표시된다. 4. 이동할 파일 및 폴더를 선택한 후 드래그하여 상대방 PC의 폴더에 옮기면 전송된다. 5. 작업 종료 후 프로그램 닫기를 클릭하면 종료되며, 재실행 시 케이블을 다시 연결하거나 내 컴퓨터에서 EasySuite를 더블클릭한다.",
+  "cautions": [
+    "Windows 98 이하 운영체제는 지원하지 않습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-COPY7",
+      "품목코드": "USB-리피터005",
+      "품목명": "[LANstar] USB링크케이블 Easy Copy 1.8M(100개)[30030]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "버스파워"
+    },
+    "form_physical": {
+      "has_case": true,
+      "color_options": [
+        "null"
+      ]
+    },
+    "certification": {
+      "kc": true
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 포트에 PC 데이터 전송 케이블을 연결한다",
+    "connectivity.output_signals": "USB 포트에 PC 데이터 전송 케이블을 연결한다",
+    "connectivity.directional": "PC 간 운영체제가 달라도 양방향 통신 가능",
+    "power.power_mode": "케이블 연결만으로 자동 동작",
+    "form_physical.has_case": "USB 링크케이블 Easy Copy",
+    "certification.kc": "인증번호: LUS-LS-COPY7",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.usb_version": "USB 2.0 Hi-Speed 지원",
+    "family.transfer_speed_gbps": "USB 2.0 Hi-Speed 지원",
+    "family.charging_only": "PC 데이터 전송 케이블",
+    "family.data_only": "PC 데이터 전송 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:14",
+  "feature_schema_version": "1.0.0"
+}

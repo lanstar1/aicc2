@@ -1,0 +1,136 @@
+{
+  "model_no": "LSP-EC-BLANK-W",
+  "product_name": "블랭크 키스톤잭 Dust Cap (White)",
+  "category": [
+    "키스톤잭",
+    "분배판넬",
+    "멀티탭",
+    "서버랙",
+    "허브랙",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "사용하지 않는 키스톤잭 포트를 막는 블랭크 더스트캡",
+    "흰색(White) 색상",
+    "벽부착형 Wall Plate 및 Outlet 백박스 장착 호환",
+    "허브랙·서버랙 전용 마운트 판넬 장착 호환",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "품명": "블랭크 키스톤잭, Dust Cap",
+    "모델명": "LSP-EC-BLANK-W",
+    "색상": "흰색 (White)",
+    "제조국/원산지": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "치수(mm)": "14.6 x 16.1 x 8 / 19.17 x 17 x 19.8"
+  },
+  "compatibility": [
+    "벽부착형 Wall Plate (키스톤잭 규격)",
+    "Outlet 백박스",
+    "허브랙 전용 마운트 판넬",
+    "서버랙 전용 마운트 판넬",
+    "키스톤잭 규격 표준 마운트 판넬"
+  ],
+  "package_contents": [
+    "블랭크 키스톤잭 Dust Cap (White) 1개"
+  ],
+  "usage_instructions": "허브랙, 서버랙 마운트 판넬 또는 벽면 플레이트(Wall Plate)의 사용하지 않는 빈 포트에 끼워 먼지 유입을 차단합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-EC-BLANK-W",
+      "품목코드": "GEN-USB118",
+      "품목명": "[◆Lanstar-Plus] 블랭크 키스톤잭 , Dust Cap, White [20320] (1,000개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-EC-BLANK-W",
+      "내용": "딱 맞네요 좋습미다."
+    },
+    {
+      "source_model": "LSP-EC-BLANK-W",
+      "내용": "배송 빠르네요. 제품 문제없이 잘장착됩니다. 만족합니다."
+    },
+    {
+      "source_model": "LSP-EC-BLANK-W",
+      "내용": "이쁘게 딱 잘 맞습니다 깔끔하네요"
+    },
+    {
+      "source_model": "LSP-EC-BLANK-W",
+      "내용": "무사히 잘 받았습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "흰색"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "블랭크 키스톤잭 Dust Cap",
+    "form_physical.material": "블랭크 키스톤잭 Dust Cap",
+    "form_physical.color_options": "흰색(White) 색상",
+    "certification.kc": "인증번호: 해당없음",
+    "connectivity.directional": "사용하지 않는 키스톤잭 포트를 막는",
+    "power.power_mode": "사용하지 않는 키스톤잭 포트를 막는",
+    "audio_video.max_resolution": "사용하지 않는 키스톤잭 포트를 막는",
+    "audio_video.hdcp_version": "사용하지 않는 키스톤잭 포트를 막는",
+    "family.cat_category": "블랭크 키스톤잭 Dust Cap",
+    "family.shielding": "블랭크 키스톤잭 Dust Cap"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:29",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,120 @@
+{
+  "model_no": "LSN-CON44",
+  "product_name": "전화선 콘넥터 RJ11 4P4C",
+  "category": [
+    "커넥터"
+  ],
+  "key_features": [
+    "RJ11 규격 4핀 금도금 투명 전화선 플러그",
+    "금도금 처리로 내구성 향상",
+    "플러그 핀 2팁 구조로 견고한 고정",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 미사용)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "규격": "RJ11, 4P4C",
+    "핀 수": "4핀",
+    "도금": "금도금",
+    "색상": "투명",
+    "가로(W)": "6.6mm",
+    "세로(D)": "8.3mm",
+    "높이(H)": "12.4mm",
+    "수량": "1BOX (100개입)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조"
+  },
+  "compatibility": [
+    "RJ11 규격 호환 기기",
+    "4P4C 모듈러 규격 호환 기기"
+  ],
+  "package_contents": [
+    "RJ11 4P4C 모듈러 콘넥터 100개 (1BOX)"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LSN-CON44",
+      "품목코드": "NNO-콘넥터001",
+      "품목명": "[LANstar] 모듈러콘넥터 , RJ-11, 전화모뎀, 4P4C 100개입 [40627] (200개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSN-CON44",
+      "내용": "좋아요 좋아요 좋아요 좋아요 좋아요 좋아요 좋아요 좋아요 좋아요 좋아요 좋아요 좋아요 좋아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "투명"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "RJ11 4P4C",
+      "connector_type_b": null,
+      "gender": "M-M",
+      "pin_count": 4
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "금도금 처리로 내구성 향상",
+    "form_physical.color_options": "색상: 투명",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.connector_type_a": "RJ11 규격 4핀 금도금 투명 전화선 플러그",
+    "family.gender": "전화선 플러그",
+    "family.pin_count": "4핀"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:18",
+  "feature_schema_version": "1.0.0"
+}

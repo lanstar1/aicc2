@@ -1,0 +1,112 @@
+{
+  "model_no": "LS-TG-0.5G",
+  "product_name": "주사기타입 써멀 구리스 0.5g",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "주사기 타입으로 도포가 편리하고 보관이 쉬움",
+    "열전도 효율성을 높이는 써멀 구리스",
+    "냄새 없음, 비부식성, 비전기전도성",
+    "응고·묽어짐·변형 없이 안정적인 도포액 유지",
+    "트랜지스터, 써머스터, 히트싱크, 파워리지스터, 다이오드, 반도체소자, 열전도모체, 라디에이터 등 다용도 방열 작용",
+    "RoHS 준수 제품",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "용량": "0.5g",
+    "열전도율": ">3.05W/m-k",
+    "열저항": "<0.073°C-in/W",
+    "사용온도": "-55°C ~ 180°C",
+    "크기(참고)": "10mm x 129mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "CPU 쿨러",
+    "VGA / 그래픽카드",
+    "LED",
+    "칩셋",
+    "트랜지스터",
+    "써머스터",
+    "히트싱크",
+    "파워리지스터",
+    "다이오드",
+    "반도체소자",
+    "열전도모체",
+    "라디에이터",
+    "열전도가 필요한 모든 방열장치"
+  ],
+  "package_contents": [
+    "주사기타입 써멀 구리스 0.5g 1개"
+  ],
+  "usage_instructions": "1) 기존에 발라져 있던 써멀구리스를 휴지 등으로 닦아내어 제거한 뒤, 발열 위치에 써멀구리스를 새로 짜내어 소량 도포한다. 2) 일반 카드나 두꺼운 종이로 써멀구리스가 최대한 얇고 고르게 도포되도록 문질러준다. 이때 구리스가 흘러넘치지 않도록 모서리에서 약 1~2mm 정도는 구리스를 바르지 않는 것이 좋다.",
+  "cautions": [
+    "보관 시 완전히 밀폐되도록 뚜껑을 닫아 실온에 보관할 것",
+    "열전도 구리스는 지정된 용도 외의 다른 용도로 사용하지 말 것",
+    "먹거나 피부·눈에 접촉되지 않도록 주의할 것",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-TG-0.5G",
+      "품목코드": "COM-악세사188",
+      "품목명": "[LANstar] 써멀 구리스 주사기 타입 0.5g[60097]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "주사기 타입으로 도포가 편리하고 보관이 쉬움",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:20",
+  "feature_schema_version": "1.0.0"
+}

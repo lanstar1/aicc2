@@ -1,0 +1,513 @@
+{
+  "model_no": "LS-HD2SD",
+  "product_name": "LANStar HDMI to SDI 변환 컨버터",
+  "category": [
+    "컨버터",
+    "오디오케이블",
+    "CCTV파워"
+  ],
+  "key_features": [
+    "HDMI 신호를 SD-SDI / HD-SDI / 3G-SDI 신호로 변환",
+    "SD-SDI / HD-SDI / 3G-SDI 3가지 규격 모두 지원",
+    "8채널 48kHz 오디오 신호 지원",
+    "동축 케이블(BNC타입) 하나로 영상·음성 동시 전송",
+    "Plug & Play 지원 – 별도 설치 없이 5V 전원 공급만으로 사용 가능",
+    "3G-SDI 최대 해상도 1080P FHD 지원",
+    "동축 케이블을 통해 최대 100m 거리 연장 가능",
+    "생산물배상책임보험 가입 (현대해상화재, 1억원)",
+    "국립전파연구원 인증 획득 (인증번호: R-R-LUS-LS-HD2SD)",
+    "RoHS 준수, KC·FCC·CE 안전규격 인증",
+    "ISO 9001:2008 품질경영시스템 적용"
+  ],
+  "specifications": {
+    "입력 인터페이스": "HDMI",
+    "출력 인터페이스": "SDI (BNC타입 동축 케이블)",
+    "지원 SDI 규격": "SD-SDI / HD-SDI / 3G-SDI",
+    "SD-SDI 해상도": "960x486i",
+    "SD-SDI 전송속도": "270Mb/s",
+    "SD-SDI 관련규격": "SMPTE 295M",
+    "SD-SDI 주파수": "270Mbps",
+    "SD-SDI Data 종류": "4:2:2",
+    "HD-SDI 해상도": "1080@60i/30P",
+    "HD-SDI 전송속도": "1.485Gb/s",
+    "HD-SDI 관련규격": "SMPTE 292M",
+    "HD-SDI 주파수": "1.5Gbps",
+    "HD-SDI Data 종류": "4:2:2",
+    "3G-SDI 해상도": "1080@60P (Full HD)",
+    "3G-SDI 전송속도": "2.97Gb/s",
+    "3G-SDI 관련규격": "SMPTE 424M",
+    "3G-SDI 주파수": "3Gbps",
+    "3G-SDI Data 종류": "4:2:2 / 4:4:4",
+    "오디오": "8Ch 48kHz",
+    "전원 입력": "5V (USB 전원 케이블 사용), 지원 범위 5V~12V",
+    "최대 전송 거리": "100m (동축 케이블 기준)",
+    "제품 크기": "가로 8cm x 세로 4.3cm x 높이 2.3cm",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "R-R-LUS-LS-HD2SD",
+    "브랜드": "LANStar"
+  },
+  "compatibility": [
+    "HDMI 소스기기: PC, 셋탑박스, 캠코더 등",
+    "SDI 인터페이스 지원 Display 기기",
+    "방송/스튜디오 장비",
+    "CCTV 시스템",
+    "상황실 모니터링 시스템",
+    "SD-SDI 규격 (SMPTE 295M)",
+    "HD-SDI 규격 (SMPTE 292M)",
+    "3G-SDI 규격 (SMPTE 424M)"
+  ],
+  "package_contents": [
+    "LS-HD2SD 본체 (MINI 3G HDMI to SDI Converter)",
+    "USB 전원 케이블",
+    "User Manual"
+  ],
+  "usage_instructions": "1. HDMI 소스기기(PC, 셋탑박스, 캠코더 등)와 LS-HD2SD의 HDMI INPUT 포트를 HDMI 케이블로 연결한다. 2. LS-HD2SD의 SDI OUTPUT 포트와 SDI 지원 Display 기기를 동축 케이블(BNC타입)로 연결한다. 3. USB 전원 케이블을 통해 5V 전원을 공급한다(어댑터는 별도 구매 필요). 4. Plug & Play 방식으로 별도 드라이버 설치 없이 자동으로 작동한다. 동축 케이블을 이용하여 최대 100m까지 거리를 연장하여 사용할 수 있다.",
+  "cautions": [
+    "USB 전원 케이블만 제공되며, 어댑터는 별도 구매 필요",
+    "전원 입력은 5V 공급 필요 (지원 범위 5V~12V)",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HD2SD",
+      "품목코드": "INT-DVR105",
+      "품목명": "[LANstar] HDMI TO SDI 변환 컨버터 / CCTV, DVR 컨버터 [20214] (65개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "잘받았습니다 감사합니다",
+      "관련내용": "잘받았습니다 감사합니다!"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "사용방법도 쉬워서 좋아요"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "잘받았습니다 감사합니다!"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "잘 사용 중입니다.",
+      "관련내용": "빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "가성비 좋구요\n고장 안나고 튼튼해여"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "연결잘되네요 사용법도 어렵지 않구요",
+      "관련내용": "잘쓰겠습니다   감사합니다"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "방문수령 하겟습니다\n감사합니다"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "잘쓰겠습니다   감사합니다"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "귀사의 많은 발전을 기원 드립니다."
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "저렴하지만 기본에 충실한거 같아요..",
+      "관련내용": "저렴하게 구입해서 잘 사용했어요^^"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "저렴하게 구입해서 잘 사용했어요^^"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "아직 사용전이지만 만족합니다"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "잘 사용하고 있어요 감사합니다",
+      "관련내용": "잘 받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "잘 받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "가성비 좋습니다 잘 작동해요"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "처음사는건데 잘되길!!\n배송빠르고 포장도 좋습니다!!"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "배송이 너무 빨라서 좋았어요 감사합니다"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "좋아요 괜찮아요 쓸만해요"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "잘 사용할게요  아직 사용 전이지"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "작동 잘됩니다. 8시간정도 사용해도 문제가 없네요"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "오자마자 리뷰\n일단싸고배송빠르고 \n테스트는 내일"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "잘쓰겠습니다~~~~~"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "내용": "4k 제품도 생겼으면 합니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HD2SD",
+      "id": 241825261,
+      "date": "2022-10-20 20:02",
+      "answerDate": "2022-10-21 12:46",
+      "user": "wb****",
+      "productName": "랜스타 LS-HD2SD HDMI TO SDI 컨버터 8채널 48kHz 1080P 지원",
+      "question": "입력받는 장치가 1080i까지\n지원하는데 이 컨버터로 연결해도 될까요?",
+      "answer": "안녕하세요 랜스타 입니다\n\n사용하셔도 됩니다"
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "id": 511038430,
+      "date": "2023-01-08 18:43",
+      "answerDate": "2023-01-09 09:43",
+      "user": "as****",
+      "productName": "랜스타 LS-HD2SD HDMI TO SDI 컨버터 8채널 48kHz 1080P 지원",
+      "question": "옛날티비인데요 동축 케이블 연결잭뿐이없는데 이게사용가능한가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n현재 연결 방식이 자세히 나와있지 않아 설명이 어렵습니다\nSD신호를 HDMI로 받고 싶다면 SD2HD 제품을\nHDMI신호를 SD로 받고 싶다면 HD2SD 제품을 구매 하시면 됩니다\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "id": 540251039,
+      "date": "2023-08-01 09:03",
+      "answerDate": "2023-08-01 10:56",
+      "user": "kjk8******",
+      "productName": "랜스타 LS-HD2SD HDMI TO SDI 컨버터 8채널 48kHz 1080P 지원",
+      "question": "부모님집 티비 시청을 아파트자체 유선방송을\n시청중입니다  아파트벽 안테나 꽃이 동축케이블\n이용하는데요 .\n티비가 고장나 새로 구입해야 하는데  요즘티비는\n동축케이블을 이용을 못하나봐요\n이제품 구입해  HDMI 연결해 볼수 있나요?",
+      "answer": "안녕하세요, 고객님. 랜스타입니다.\n\n말씀 주신 대로 해당 제품으로 사용 가능한 점 안내드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해 드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "id": 564878147,
+      "date": "2024-01-22 17:02",
+      "answerDate": "2024-01-22 17:51",
+      "user": "euro****",
+      "productName": "랜스타 LS-HD2SD HDMI TO SDI 컨버터 8채널 48kHz 1080P 지원",
+      "question": "혹시 케이블TV 5옴 동축케이블에도 작동이 될까요? \n(답변을 보았지만 도움이 안되네요..7옴 케이블 말고 5옴 케이블에서도 전송이 되냐는 질문 이었습니다)",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품의 경우 안테나 케이블을 연결해서 사용하는 용도의 제품이 아닙니다.\nTV 수신카드를 찾으신다면, 'HD-100' 제품을 검색하시어 살펴보시는 것을 추천 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "id": 570386275,
+      "date": "2024-03-02 20:17",
+      "answerDate": "2024-03-04 13:39",
+      "user": "dmdr******",
+      "productName": "랜스타 LS-HD2SD HDMI TO SDI 컨버터 8채널 48kHz 1080P 지원",
+      "question": "영상출력 장비가 DVI 1280 x 768 해상도인데\nhdmi로 연결후에 sdi 출력 제한 없나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n우선 젠더 이용하시어 사용하시는 것에는 문제가 없을 것으로 보입니다.\n다만 고객님과 동일한 환경에서 저희 측에서 Test는 불가하기 때문에 '신호 변환하여 출력 시 정상 작동 여부'는 직접 연결 외에 확답 드릴 수 없는 점 양해 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HD2SD",
+      "chatUrl": "xcJz",
+      "dateIso": "2025-02-04T07:46:36.437Z",
+      "name": "yeop****",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "PC 그래픽카드에서 HDMI에서 교회 영상 분배기가 SDI신호를 사용해서 위 상품을 구매하였습니다..\n\n그런데 현재 비디오케이블만 있고 BNC케이블이 없어서 가지고있는 BNC젠더를...\n(추가 문의) 그래서 젠더 때문인지 싶어 문의드립니다",
+      "answer": "정확한 확인을 위해 몇가지 확인 부탁드립니다. 1. 입력이 HDMI 출력이 SDI인지 확인 부탁드립니다. 2. 전원 연결 되었는지 확인 부탁드...\n\n정확한 안내를 위해 아래 내용 확인 부탁드립니다. 성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)\n\n네. 고객님. 위 요청드린 세가지 확인 가능하실까요?",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "그래서 젠더 때문인지 싶어 문의드립니다"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n위 요청드린 세가지 확인 가능하실까요?"
+        },
+        {
+          "role": "customer",
+          "text": "PC 그래픽카드에서 HDMI에서 교회 영상 분배기가 SDI신호를 사용해서 위 상품을 구매하였습니다..\n\n그런데 현재 비디오케이블만 있고 BNC케이블이 없어서 가지고있는 BNC젠더를..."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 확인을 위해 몇가지 확인 부탁드립니다.\n1. 입력이 HDMI 출력이 SDI인지 확인 부탁드립니다.\n2. 전원 연결 되었는지 확인 부탁드..."
+        },
+        {
+          "role": "customer",
+          "text": "답이 늦어 죄송합니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "chatUrl": "3Q9B5",
+      "dateIso": "2023-12-29T00:54:12.258Z",
+      "name": "김봉령",
+      "isTechnical": true,
+      "category": "shipping",
+      "modelConfidence": "high",
+      "question": "교환요청 할려합니다.\nSDI to HDMI가 아닌\nHDMI to SDI로 가능 할까요?\n(추가 문의) 어떤 식으로 진행 해야하나요?",
+      "answer": "네 고객님. 해당 주문 건에 대해 '교환 요청'을 클릭해주신 후에, 제품을 포장하여 문 앞에 놓아 주시면 됩니다. 추후에 저희 측으로 제품 도착하고 제품 상태를 검수한 후에, 교환\n\n보내주신 제품이 도착하여 제품 검수를 마쳤습니다. 금일 LS-HD2SD 제품 4개 발송 도와드리겠습니다.\n\n제품 및 포장에 훼손이 없다면, 교환 가능합니다. 제품 4개 모두 교환 진행을 원하시는 것 맞으실까요?",
+      "turn_count": 7,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 감사합니다 😊"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "네 알겠습니다."
+        },
+        {
+          "role": "agent",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        },
+        {
+          "role": "customer",
+          "text": "어떤 식으로 진행 해야하나요?"
+        },
+        {
+          "role": "agent",
+          "text": "[배송안내] 고객님, 교환요청하신 상품의 배송이 시작되었습니다. 궁금한 내용이 있으시면 언제든 문의주세요."
+        },
+        {
+          "role": "customer",
+          "text": "넹"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\n보내주신 제품이 도착하여 제품 검수를 마쳤습니다. 금일 LS-HD2SD 제품 4개 발송 도와드리겠습니다. \n\n정직한 가격과 품질로 고객님을 더"
+        },
+        {
+          "role": "customer",
+          "text": "아니면 반품하려구요. ㅠ"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님. 해당 주문 건에 대해 '교환 요청'을 클릭해주신 후에, 제품을 포장하여 문 앞에 놓아 주시면 됩니다. 추후에 저희 측으로 제품 도착하고 제품 상태를 검수한 후에, 교환"
+        },
+        {
+          "role": "customer",
+          "text": "교환요청 할려합니다.\nSDI to HDMI가 아닌\nHDMI to SDI로 가능 할까요?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\n제품 및 포장에 훼손이 없다면, 교환 가능합니다. 제품 4개 모두 교환 진행을 원하시는 것 맞으실까요?"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HD2SD",
+      "chatUrl": "3hLqR",
+      "dateIso": "2023-06-26T02:22:21.066000",
+      "name": "ANikka",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "안녕하세요 보내주신 제품 잘받았습니다.\n하지만 여전히 저희 dvr에는 영상화면이 나오질 않네요 \n\n체크해본 점 :\nhdmi 입력 신호 문제 체크 :\n컴퓨터를 3대정도 교체하면서 테스트 해봤습니다. \n데스크탑 2대 : 해상도 1024*768, 1280*1024, 1920*1080\n노트북 1대 : 해상도 1920*1080, 1280*1024\n\n출력 BNC케이블\n(추가 문의) https://www.coupang.com/vp/products/5614629949?vendorItemId=81862175491&landingType=USED_DETAIL&sourceType=MyCoupang_my_orders_list_product_title\n(추가 문의) 안녕하세요 판매점인 쿠팡으로 나오는데요? 아무리 찾아봐도 쿠팡에서 구매한걸로 나오네요 상세페이지에는 랜스타로 되어있구요\n(추가 문의) 다후와dvr이 혹시 문제인건가 싶어 가게에있는 요즘나오는 애니뷰 dvr에 연결도 해봤습니다 그런데 두개다 안나오더라구요",
+      "answer": "유선 통화 완료하였습니다. 반품의 경우 쿠팡 담당자가 다시 확인하여 진행할 수 있도록 하겠습니다. 명확한 도움을 드리지 못해 죄송합니다. 추가적으로 한 말씀만 더 여쭙자면, DVR기기가 SDI 신호 입력 받는 곳에 정상적으로 연결된 것은 맞는지만 체크해보시면 좋을 것 같습니다.\n\n아래 두가지 내용 확인해주시면 보다 더 정확히 안내 도와드리겠습니다. 1. 제품명을 알려주세요. LS-??로 시작되는 상품명입니다. 2. 어디서 구매하셨는지와 언제 구매하신 제품인지 말씀 부탁드립니다.\n\n네 고객님, 그럼 저희가 반품해주셨던 물건 주소지로 다시 발송 도와드리겠습니다. 번거롭게 해드려 죄송하며, 아래 수령 가능하신 주소 확인 부탁드립니다. 김현수 010 9007 7611 경기도 부천시 조마루로 385번길 122 1521호",
+      "turn_count": 37,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 맞습니다. 부탁드립니다 감사합니다."
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 금일 발송 도와드리겠습니다.\n\n고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다"
+        },
+        {
+          "role": "customer",
+          "text": "물건을 가지고 있어야 한다고 하네요"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 그럼 저희가 반품해주셨던 물건 주소지로 다시 발송 도와드리겠습니다.\n번거롭게 해드려 죄송하며, 아래 수령 가능하신 주소 확인 부탁드립니다.\n\n김현수\n010 9007 7611\n경기도 부천시 조마루로 385번길 122 1521호"
+        },
+        {
+          "role": "customer",
+          "text": "https://www.coupang.com/vp/products/5614629949?vendorItemId=81862175491&landingType=USED_DETAIL&sourceType=MyCoupang_my_orders_list_product_title"
+        },
+        {
+          "role": "agent",
+          "text": "고객님 쿠팡고객센터와 유선 연락 후 필요하신 부분 있으시면 언제든지 해당 톡톡으로 말씀 주십시오. 최대한 빠르게 응대 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 회수 진행한 물건 모두 정상적으로 잘 도착하였습니다.\n\n말씀 드린 것처럼 쿠팡에서 구매해주신 거래처 말씀 주시면 저희가 반품 처리 될 수 있도록 조치하겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n유선 통화 완료하였습니다. 반품의 경우 쿠팡 담당자가 다시 확인하여 진행할 수 있도록 하겠습니다.\n명확한 도움을 드리지 못해 죄송합니다. \n\n추가적으로 한 말씀만 더 여쭙자면, DVR기기가 SDI 신호 입력 받는 곳에 정상적으로 연결된 것은 맞는지만 체크해보시면 좋을 것 같습니다.\n\n정직한 가격과 품질로 고객님을 더욱"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요 판매점인 쿠팡으로 나오는데요? 아무리 찾아봐도 쿠팡에서 구매한걸로 나오네요 상세페이지에는 랜스타로 되어있구요"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n우선 제품 사용에 불편을 드려 죄송합니다. 배송 과정에서 실수가 있었던 것 같습니다.\n담당자가 확인 후 유선 연락 드릴 수 있도록 하겠습니다. 잠시만 기다려 주십시오."
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요\n혹시 반품이 언제쯤 진행이되는지알수있을까요?"
+        },
+        {
+          "role": "agent",
+          "text": "고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요 보내주신 제품 잘받았습니다.\n하지만 여전히 저희 dvr에는 영상화면이 나오질 않네요 \n\n체크해본 점 :\nhdmi 입력 신호 문제 체크 :\n컴퓨터를 3대정도 교체하면서 테스트 해봤습니다. \n데스크탑 2대 : 해상도 1024*768, 1280*1024, 1920*1080\n노트북 1대 : 해상도 1920*1080, 1280*1024\n\n출력 BNC케이블"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님. 금일 새제품 발송 도와드렸습니다. 추가로, 기존 제품의 수거가 원활히 진행될 수 있도록 포장하여 문 앞에 놔주시면 감사하겠습니다."
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "BNC"
+      ],
+      "directional": "단방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": true,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 신호를",
+    "connectivity.output_signals": "SDI (BNC타입 동축 케이블)",
+    "connectivity.directional": "HDMI to SDI 변환",
+    "power.power_mode": "5V 전원 공급만으로 사용 가능",
+    "power.charging_support": "null",
+    "form_physical.has_case": "제품 크기",
+    "certification.kc": "KC·FCC·CE 안전규격 인증",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "certification.fcc": "KC·FCC·CE 안전규격 인증",
+    "certification.ce": "KC·FCC·CE 안전규격 인증",
+    "audio_video.max_resolution": "1080P FHD 지원",
+    "audio_video.audio_pass": "8채널 48kHz 오디오 신호 지원",
+    "family.conversion_direction": "HDMI to SDI 변환",
+    "family.requires_external_power": "5V 전원 공급만으로 사용 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:55",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 3,
+    "category_breakdown": {
+      "usage": 2,
+      "shipping": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

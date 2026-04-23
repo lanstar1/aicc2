@@ -1,0 +1,114 @@
+{
+  "model_no": "LS-SATA3L",
+  "product_name": "SATA3 6Gbps 일자 / ㄱ자 클립케이블",
+  "category": [
+    "커넥터",
+    "HDD관련"
+  ],
+  "key_features": [
+    "6.0Gb/s 대역폭 지원",
+    "핫플러그 기능 지원",
+    "SATA2 대비 2배 전송 속도",
+    "NCQ(Native Command Queuing) 지원",
+    "한쪽이 ㄱ형 커넥터로 메인보드 및 하드디스크 연결 편의성 향상",
+    "금속 고리 장착으로 커넥터 이탈 방지"
+  ],
+  "specifications": {
+    "인터페이스": "SATA3 6Gb/s",
+    "최대 전송 속도": "6.0Gb/s",
+    "일자 클립형 케이블 길이": "50cm",
+    "ㄱ자 클립형 케이블 길이": "40cm",
+    "커넥터 타입": "일자 / ㄱ자(기역자)",
+    "잠금 방식": "금속 고리 클립"
+  },
+  "compatibility": [
+    "SATA3 (Gen 3, 6Gb/s) 규격 장치",
+    "SATA2 (Gen 2, 3Gb/s) 규격 장치",
+    "SATA1 (Gen 1, 1.5Gb/s) 규격 장치",
+    "SATA 지원 메인보드",
+    "SATA 지원 하드디스크(HDD) / SSD"
+  ],
+  "package_contents": [
+    "SATA3 일자 클립형 케이블 50cm",
+    "SATA3 ㄱ자(기역자) 클립형 케이블 40cm"
+  ],
+  "usage_instructions": "메인보드 또는 하드디스크의 SATA 포트에 커넥터를 삽입하여 연결. ㄱ자 커넥터 방향을 공간에 맞게 선택하여 사용. 금속 고리 클립으로 고정하여 이탈 방지.",
+  "cautions": [
+    "커넥터 연결 시 방향을 확인하고 무리한 힘을 가하지 않도록 주의",
+    "금속 고리 클립을 이용해 안전하게 결합 후 사용"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SATA3L-0.4M",
+      "품목코드": "CAB-SAT034",
+      "품목명": "[LANstar] SATA3 케이블 플랫타입 LOCK ㄱ자 40CM [6b/S]/[10701]",
+      "variant_suffix": "-0.4M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-SATA3L-0.4M",
+      "내용": "기존 하드디스크를 옮기기 위해 구매했습니다. ㄱ자 커넥터라서 연결성이 좋았습니다."
+    },
+    {
+      "source_model": "LS-SATA3L-0.4M",
+      "내용": "몇 주간 hdd사용하면서 에러 없었어요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "SATA"
+      ],
+      "output_signals": [
+        "SATA"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "N/A"
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "금속고리"
+      ],
+      "length_options_meters": [
+        0.5,
+        0.4
+      ]
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "SATA",
+      "connector_type_b": "SATA",
+      "gender": "M-M"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "SATA3 6Gbps",
+    "connectivity.output_signals": "SATA3 6Gbps",
+    "connectivity.directional": "SATA3 6Gbps",
+    "form_physical.material": "금속 고리 장착",
+    "form_physical.length_options_meters": "일자 클립형 케이블 길이: 50cm",
+    "family.connector_type_a": "SATA3 6Gbps",
+    "family.connector_type_b": "SATA3 6Gbps",
+    "family.gender": "SATA 포트에 커넥터를 삽입하여 연결"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:58",
+  "feature_schema_version": "1.0.0"
+}

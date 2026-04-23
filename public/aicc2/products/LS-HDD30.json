@@ -1,0 +1,171 @@
+{
+  "model_no": "LS-HDD30",
+  "product_name": "USB3.0 to 2.5\" HDD/SSD SATA 투명 케이스",
+  "category": [
+    "USB3.0",
+    "USB2.0",
+    "HDD관련"
+  ],
+  "key_features": [
+    "SATA III 규격 지원 (최대 6Gbps)",
+    "USB 3.0 연결 방식으로 최대 5Gbps 전송속도 지원",
+    "USB 1.1, USB 2.0 하위 버전 호환",
+    "SATA I, SATA II 하위 버전 디바이스 호환",
+    "2.5인치 HDD/SSD 전용 (1.8인치, 3.5인치 미지원)",
+    "복잡한 조립 없이 케이스 상·하 오픈 후 결합하는 간단한 구조",
+    "Plug & Play 지원",
+    "USB Bus Power (별도 전원 불필요)",
+    "동작 LED(Blue) 탑재",
+    "ABS 반투명 재질",
+    "PC, 노트북, 콘솔 등 다양한 기기와 호환",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 준수, KC·FCC·CE 인증, ISO 9001:2008 품질경영시스템"
+  ],
+  "specifications": {
+    "인터페이스": "USB 3.0",
+    "전송속도": "5Gbps",
+    "하드디스크 규격": "SATA I/II/III, 2.5\" HDD / SSD",
+    "전원": "USB Bus Power",
+    "지원 OS": "Windows XP/7/8/8.1/10, Mac 9.1/10",
+    "동작 LED": "Blue Color",
+    "재질": "ABS 반투명",
+    "제품 크기": "129mm x 74mm x 16mm",
+    "케이블 길이": "약 15cm",
+    "인증번호": "R-REI-LUS-LS-M2SATA-CASE",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "2.5인치 SATA I HDD/SSD",
+    "2.5인치 SATA II HDD/SSD",
+    "2.5인치 SATA III HDD/SSD",
+    "USB 1.1 포트",
+    "USB 2.0 포트",
+    "USB 3.0 포트",
+    "Windows XP",
+    "Windows 7",
+    "Windows 8",
+    "Windows 8.1",
+    "Windows 10",
+    "Mac OS 9.1/10",
+    "PC, 노트북, 콘솔"
+  ],
+  "package_contents": [
+    "USB3.0 외장하드 케이스 (하드 케이스 본체)",
+    "USB3.0 모듈",
+    "사용자 매뉴얼 (User Manual)"
+  ],
+  "usage_instructions": "1. 투명 하드 케이스 윗부분을 열어준다. 2. 분리형 어댑터 모듈을 연결한다. 3. 케이스 아래쪽을 열어준다. 4. 2.5인치 HDD/SSD를 SATA 단자에 연결한다. 5. 하드디스크 연결 후 아래쪽을 닫아준다. 6. PC에 USB 3.0 케이블로 연결하여 사용한다. [새 하드디스크 볼륨 설정] 1. HDD/SSD를 제품과 결합 후 PC에 연결한다. 2. 바탕화면 > 내 컴퓨터 우클릭 > '관리' 클릭. 3. '디스크 관리' 항목 클릭. 4. 할당되지 않은 디스크 확인 후 우클릭 > '새 단순 볼륨' 선택. 5. 볼륨 만들기 마법사에 따라 진행. 6. 볼륨 크기를 지정한다. 7. 설정 완료 후 새 볼륨이 생성되어 사용 가능.",
+  "cautions": [
+    "본 제품은 2.5인치 하드디스크 규격만 지원하므로 구매 전 하드디스크 규격을 반드시 확인할 것 (1.8인치, 3.5인치 미지원)",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "새 하드디스크 사용 시 볼륨 설정(초기화) 과정이 필요함",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDD30",
+      "품목코드": "COM-외장형518",
+      "품목명": "[LANstar] USB3.0 to 2.5형 SSD, HDD SATA 투명 하드 케이스 [20257]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDD30",
+      "내용": "신속정확 배송, 감사합니다."
+    },
+    {
+      "source_model": "LS-HDD30",
+      "내용": "크기도 가격도 적당해서 구형 보드에서 쓸만합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "SATA"
+      ],
+      "output_signals": [
+        "USB-A",
+        "SATA"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 연결 방식으로",
+    "connectivity.output_signals": "USB 3.0 연결 방식으로",
+    "connectivity.directional": "USB 3.0 연결 방식으로",
+    "power.power_mode": "USB Bus Power (별도 전원 불필요)",
+    "power.charging_support": "USB Bus Power (별도 전원 불필요)",
+    "form_physical.has_case": "투명 케이스",
+    "form_physical.material": "ABS 반투명 재질",
+    "form_physical.length_meters": "케이블 길이: 약 15cm",
+    "certification.kc": "KC·FCC·CE 인증",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템",
+    "certification.fcc": "KC·FCC·CE 인증",
+    "certification.ce": "KC·FCC·CE 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.usb_version": "USB 3.0 연결 방식으로",
+    "family.transfer_speed_gbps": "최대 5Gbps 전송속도 지원",
+    "family.charging_only": "USB Bus Power (별도 전원 불필요)",
+    "family.data_only": "USB3.0 to 2.5\" HDD/SSD SATA 투명 케이스"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:00",
+  "feature_schema_version": "1.0.0"
+}

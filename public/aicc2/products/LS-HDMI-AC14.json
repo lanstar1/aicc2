@@ -1,0 +1,157 @@
+{
+  "model_no": "LS-HDMI-AC14",
+  "product_name": "HDMI to Mini HDMI 1.4 케이블",
+  "category": [
+    "HDMI케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "4K2K(4096x2160) @60Hz 고화질 해상도 지원 (Full HD 1080p 대비 4배 고해상도)",
+    "HDMI 1.4 규격 지원 (4K UHD 방송 시청 필수)",
+    "3D 영상 지원",
+    "24K 금도금 커넥터로 우수한 전송률 제공",
+    "전송속도(대역폭) 10.2Gbps",
+    "ARC(Audio Return Channel) 지원 - TV와 AV기기 간 별도 케이블 없이 음성신호 전송",
+    "HEC(HDMI Ethernet Channel) 지원 - 별도 랜케이블 없이 네트워크 접속 및 초고속 양방향 통신(IPTV, DLNA, UPnP) 구현",
+    "3개의 확장 색역(sYCC601 / Adobe RGB / Adobe YCC601) 지원으로 풍부한 색감 제공",
+    "RoHS 인증(유해물질 사용 제한) 준수",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "HDMI 단자": "HDMI 19P/M - Mini HDMI 19P/M",
+    "HDMI 출력": "4Kx2K(4096x2160) @60Hz 지원",
+    "전송속도(대역폭)": "10.2Gbps",
+    "케이블 길이": "1.5M / 3M / 5M",
+    "소비전력": "최대 DC 300V/5s",
+    "작동온도": "섭씨 80도",
+    "HDMI 버전": "1.4",
+    "커넥터 도금": "24K 금도금",
+    "HDMI 단자 크기": "약 14 x 4mm",
+    "Mini HDMI 단자 크기": "약 10 x 2mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "태블릿PC (Mini HDMI 단자 탑재 기기)",
+    "디지털카메라 (Mini HDMI 단자 탑재 기기)",
+    "캠코더 (Mini HDMI 단자 탑재 기기)",
+    "스마트폰 (Mini HDMI 단자 탑재 기기)",
+    "TV (표준 HDMI 단자)",
+    "PC 모니터 (표준 HDMI 단자)",
+    "HDMI 1.4 규격 지원 기기",
+    "Blu-ray 플레이어 (Dolby TrueHD, DTS-HD Master Audio 지원)",
+    "HD DVD"
+  ],
+  "package_contents": [
+    "HDMI to Mini HDMI 1.4 케이블 (선택 길이: 1.5M / 3M / 5M)"
+  ],
+  "usage_instructions": "1. 사용할 기기에 HDMI 단자가 있는지 확인하세요. 2. 연결 기기의 단자가 일반 HDMI 규격인지 Mini HDMI 규격인지 반드시 확인하세요. 3. HDMI 19P/M 단자를 TV 또는 PC 모니터에 연결하고, Mini HDMI 19P/M 단자를 태블릿PC·디지털카메라·캠코더·스마트폰 등 소형 기기에 연결하여 사용하세요.",
+  "cautions": [
+    "사용 기기에 HDMI 단자 유무를 반드시 확인하세요.",
+    "일반 HDMI 규격과 Mini HDMI 규격을 반드시 구분하여 구매하세요.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상합니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매·배송·반품 문의는 판매처(쇼핑몰 하단 참조)로 문의하세요."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMI-AC14-1.5M",
+      "품목코드": "CAB-HDN001",
+      "품목명": "[LANstar] HDMI미니1.4케이블 , A／M-C／M, Mini, 4K*2K 60Hz, 1.5M (120개) [10239]",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-AC14-3M",
+      "품목코드": "CAB-HDN002",
+      "품목명": "[LANstar] HDMI미니1.4케이블 , A／M-C／M, Mini, 4K*2K 60Hz, 3M (70개) [10240]★단종★ 대체품 20336",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-AC14-5M",
+      "품목코드": "CAB-HDN003",
+      "품목명": "[LANstar] HDMI미니1.4케이블 , A／M-C／M, Mini, 4K*2K 60Hz, 5M (50개) [10241]★단종★ 대체품 20337",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1.5,
+        3.0,
+        5.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "HDMI1.4",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19P/M - Mini HDMI 19P/M",
+    "connectivity.output_signals": "HDMI 19P/M - Mini HDMI 19P/M",
+    "connectivity.directional": "HEC(HDMI Ethernet Channel) 지원 - 별도 랜케이블 없이 네트워크 접속 및 초고속 양방향 통신",
+    "power.power_mode": "무전원",
+    "form_physical.material": "24K 금도금 커넥터",
+    "form_physical.length_options_meters": "1.5M / 3M / 5M",
+    "certification.rohs": "RoHS 인증(유해물질 사용 제한) 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "4K2K(4096x2160) @60Hz 고화질 해상도 지원",
+    "audio_video.audio_pass": "ARC(Audio Return Channel) 지원",
+    "family.hdmi_version": "HDMI 1.4 규격 지원",
+    "family.ethernet_channel": "HEC(HDMI Ethernet Channel) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:12",
+  "feature_schema_version": "1.0.0"
+}

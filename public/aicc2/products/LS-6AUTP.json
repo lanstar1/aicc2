@@ -1,0 +1,550 @@
+{
+  "model_no": "LS-6AUTP",
+  "product_name": "CAT.6A UTP Slim Direct Ethernet Cable (White)",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-UTP"
+  ],
+  "key_features": [
+    "CAT.6A UTP 규격, 최대 10Gbps 전송속도 지원 (10GBASE-T)",
+    "500MHz 대역폭 지원",
+    "Ultra Slim 설계: 외경 OD 2.8±0.2mm, 32AWG 심선",
+    "연선(Stranded) 구조로 유연성이 높아 설치 용이",
+    "순수 구리(Bare Copper, 100% Copper) 심선 사용으로 높은 데이터 전송률",
+    "4페어 꼬임(Twisted) 구조, PVC 재킷",
+    "LSZH(Low Smoke Zero Halogen) 난연 케이블 적용 — 저연기·무할로겐",
+    "RJ45 8P8C Blue 커넥터",
+    "FLUKE DTX-1800 테스트 통과 (PASS)",
+    "RoHS 인증 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.6A UTP",
+    "전송속도": "최대 10Gbps",
+    "대역폭": "500MHz",
+    "심선(AWG)": "32AWG",
+    "심선 재질": "100% Bare Copper (순수 구리)",
+    "케이블 구조": "4Pair Twisted Pair (U/UTP), 연선(Stranded)",
+    "커넥터": "RJ45, 8P8C, Blue Connector",
+    "외경(OD)": "OD 2.8±0.2mm",
+    "재질(자켓)": "PVC",
+    "난연 규격": "LSZH (Low Smoke Zero Halogen)",
+    "커넥터 핀아웃": "T568B (CN1=CN2: 1-White/Orange, 2-Orange, 3-White/Green, 4-Blue, 5-White/Blue, 6-Green, 7-White/Brown, 8-Brown)",
+    "커넥터 길이": "11mm",
+    "플러그 전체 길이": "26mm",
+    "색상": "White (케이블), Blue (커넥터)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "해당없음",
+    "RoHS": "COMPLIANT",
+    "품질보증": "공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  },
+  "compatibility": [
+    "10GBASE-T",
+    "1000BASE-T",
+    "1000BASE-TX",
+    "100BASE-TX",
+    "100BASE-T4",
+    "100VG-AnyLAN",
+    "10BASE-T",
+    "ATM-25",
+    "ATM-51",
+    "ATM-155",
+    "TR-16 Active",
+    "TR-16 Passive",
+    "TIA Cat 6A Channel 규격 준수"
+  ],
+  "package_contents": [
+    "CAT.6A UTP Slim 랜 케이블 (모델별 길이 1개)"
+  ],
+  "usage_instructions": "연선(Stranded) 구조로 유연성이 높아 설치가 용이합니다. RJ45 커넥터를 네트워크 장비 포트에 연결하여 사용합니다. LSZH 재질로 환기가 원활하지 않은 공간 및 공공장소에도 사용 가능합니다. 슬림 케이블(OD 2.8mm)로 좁은 공간에서도 공간 활용이 유리합니다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품의 상세 이미지 및 콘텐츠는 라인업시스템(주)의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "구매·배송·반품은 판매처(쇼핑몰 하단) 참조"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-6AUTP-0.5M",
+      "품목코드": "CAB-S7T013",
+      "품목명": "[LANstar] Cat.6A UTP 슬림 랜 케이블 0.5m [30605] (500개)",
+      "variant_suffix": "-0.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6AUTP-1M",
+      "품목코드": "CAB-S7T014",
+      "품목명": "[LANstar] Cat.6A UTP 슬림 랜 케이블 1m [30606] (300개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6AUTP-2M",
+      "품목코드": "CAB-S7T015",
+      "품목명": "[LANstar] Cat.6A UTP 슬림 랜 케이블 2m [30607] (250개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6AUTP-3M",
+      "품목코드": "CAB-S7T016",
+      "품목명": "[LANstar] Cat.6A UTP 슬림 랜 케이블 3m [30608] (170개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6AUTP-5M",
+      "품목코드": "CAB-S7T017",
+      "품목명": "[LANstar] Cat.6A UTP 슬림 랜 케이블 5m [30609] (120개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6AUTP-10M",
+      "품목코드": "CAB-S7T018",
+      "품목명": "[LANstar] Cat.6A UTP 슬림 랜 케이블 10m [30610] (80개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6AUTP-15M",
+      "품목코드": "CAB-S7T019",
+      "품목명": "[LANstar] Cat.6A UTP 슬림 랜 케이블 15m [30611] (70개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6AUTP-20M",
+      "품목코드": "CAB-S7T020",
+      "품목명": "[LANstar] Cat.6A UTP 슬림 랜 케이블 20m [30612] (60개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-6AUTP",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-6AUTP",
+      "내용": "좋아요 잘 사용했습니다",
+      "관련내용": "좋아요 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-6AUTP",
+      "내용": "깔끔하고 좋습니다!"
+    },
+    {
+      "source_model": "LS-6AUTP",
+      "내용": "선이 얇아서 쓰기 아주 편해요"
+    },
+    {
+      "source_model": "LS-6AUTP",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-6AUTP",
+      "내용": "얇고 맘에듭니다\n 많이파세요"
+    },
+    {
+      "source_model": "LS-6AUTP",
+      "내용": "좋아요 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "배송 빠르게 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "하얗고 얇아서 좀 귀엽네요 ㅋ"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "상품 잘 받았습니다."
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "친절하고 자세하게 안내해주시고 배송 빨라요"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "좋습니다 좋습니다 아주",
+      "관련내용": "가성비좋습니다굿입니다"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "가성비좋습니다굿입니다"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "잘 쓰고 있습니다.\n아주 좋아요"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "선이 생각했던것 보다 훨씬 얇아서 이게 정말 잘 작동할지 의문이네요... 좋은 제품이라고 하니깐 믿고 써보겠습니다...^^"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "좋은 물건 잘 받았습니다~수고하세요~"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "배송 빠르고 좋아요 ㅎ"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "어지러웠던 공유기 케이블 정리가 아주 깔끔해졌습니다."
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "잘 받았습니다~\n잘 쓰겠습니다~~!"
+    },
+    {
+      "source_model": "LS-6AUTP-0.5M",
+      "내용": "배송빠르고 좋습니다 생각보다 짧아서 좀 긴걸 섞어서 살껄 그랬어요"
+    },
+    {
+      "source_model": "LS-6AUTP-10M",
+      "내용": "얇은선으로 방구석까지 끌어와 시공했네요 속도도 잘나오고 좋아요"
+    },
+    {
+      "source_model": "LS-6AUTP-10M",
+      "내용": "빠른 배송 좋은 품질이에요"
+    },
+    {
+      "source_model": "LS-6AUTP-10M",
+      "내용": "빠른배송 좋아요 잘쓸께요"
+    },
+    {
+      "source_model": "LS-6AUTP-10M",
+      "내용": "묶음배송 안되어서 좀 늦게 받았네요 얇아서 확실히 좋긴하네오 일단달아봐야겠어요 ㅎ"
+    },
+    {
+      "source_model": "LS-6AUTP-15M",
+      "내용": "깔끔하고 배송빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-6AUTP-1M",
+      "내용": "빠른 배송 정확한 제품 감사합니다."
+    },
+    {
+      "source_model": "LS-6AUTP-1M",
+      "내용": "가성비좋습니다굿입니다"
+    },
+    {
+      "source_model": "LS-6AUTP-1M",
+      "내용": "잘 쓰고 있습니다.\n아주 좋아요"
+    },
+    {
+      "source_model": "LS-6AUTP-1M",
+      "내용": "선이 생각했던것 보다 훨씬 얇아서 이게 정말 잘 작동할지 의문이네요... 좋은 제품이라고 하니깐 믿고 써보겠습니다...^^"
+    },
+    {
+      "source_model": "LS-6AUTP-1M",
+      "내용": "빠른 배송으로 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-6AUTP-1M",
+      "내용": "아주 잘 작동합니다~!"
+    },
+    {
+      "source_model": "LS-6AUTP-1M",
+      "내용": "좋은데 단자가 접촉이 잘안되는 경우가 있고 생각보다 유연하진 않아요"
+    },
+    {
+      "source_model": "LS-6AUTP-20M",
+      "내용": "배송도 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-6AUTP-2M",
+      "내용": "빠른 배송 정확한 제품 감사합니다."
+    },
+    {
+      "source_model": "LS-6AUTP-2M",
+      "내용": "빠른 배송에 만족 합니다.\n 사용함메 불편함이 없어요."
+    },
+    {
+      "source_model": "LS-6AUTP-2M",
+      "내용": "잘 쓰겠습니다 감사합니다."
+    },
+    {
+      "source_model": "LS-6AUTP-2M",
+      "내용": "상품 잘 받았습니다."
+    },
+    {
+      "source_model": "LS-6AUTP-2M",
+      "내용": "친절하고 자세하게 안내해주시고 배송 빨라요"
+    },
+    {
+      "source_model": "LS-6AUTP-2M",
+      "내용": "얇고 마감이 잘 되어 있습니다."
+    },
+    {
+      "source_model": "LS-6AUTP-2M",
+      "내용": "항상 쓰는 제품입니다 슬림해서 좋아요"
+    },
+    {
+      "source_model": "LS-6AUTP-2M",
+      "내용": "선이 생각했던것 보다 훨씬 얇아서 이게 정말 잘 작동할지 의문이네요... 좋은 제품이라고 하니깐 믿고 써보겠습니다...^^"
+    },
+    {
+      "source_model": "LS-6AUTP-2M",
+      "내용": "만족하고 있습니다."
+    },
+    {
+      "source_model": "LS-6AUTP-2M",
+      "내용": "빠른 배송으로 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-6AUTP-2M",
+      "내용": "얇고 좋은데 단자가 접촉 불량이 좀 있어요"
+    },
+    {
+      "source_model": "LS-6AUTP-2M",
+      "내용": "케이블선이 얇아서 선 정리가 너무 편합니다."
+    },
+    {
+      "source_model": "LS-6AUTP-2M",
+      "내용": "배송 빠르고 제품 좋습니다"
+    },
+    {
+      "source_model": "LS-6AUTP-2M",
+      "내용": "잘 받았습니다~\n잘 쓰겠습니다~~"
+    },
+    {
+      "source_model": "LS-6AUTP-3M",
+      "내용": "상품에 매우 만족 합니다."
+    },
+    {
+      "source_model": "LS-6AUTP-3M",
+      "내용": "상품 잘 받았습니다."
+    },
+    {
+      "source_model": "LS-6AUTP-3M",
+      "내용": "빠른 배송 좋은 품질이에요"
+    },
+    {
+      "source_model": "LS-6AUTP-3M",
+      "내용": "저렴하게 잘 샀네요."
+    },
+    {
+      "source_model": "LS-6AUTP-3M",
+      "내용": "선이 생각했던것 보다 훨씬 얇아서 이게 정말 잘 작동할지 의문이네요... 좋은 제품이라고 하니깐 믿고 써보겠습니다...^^"
+    },
+    {
+      "source_model": "LS-6AUTP-3M",
+      "내용": "만족하고 있습니다."
+    },
+    {
+      "source_model": "LS-6AUTP-3M",
+      "내용": "생각보다 깜찍하고 좋습니다."
+    },
+    {
+      "source_model": "LS-6AUTP-5M",
+      "내용": "빠른 배송 정확한 제품 감사합니다."
+    },
+    {
+      "source_model": "LS-6AUTP-5M",
+      "내용": "빠른 배송 좋은 품질이에요"
+    },
+    {
+      "source_model": "LS-6AUTP-5M",
+      "내용": "아기가 잡아땡겨도 안빠져요"
+    },
+    {
+      "source_model": "LS-6AUTP-5M",
+      "내용": "선이 생각했던것 보다 훨씬 얇아서 이게 정말 잘 작동할지 의문이네요... 좋은 제품이라고 하니깐 믿고 써보겠습니다...^^"
+    },
+    {
+      "source_model": "LS-6AUTP-5M",
+      "내용": "만족하고 있습니다."
+    },
+    {
+      "source_model": "LS-6AUTP-5M",
+      "내용": "좋은 물건 잘 받았습니다~수고하세요~"
+    },
+    {
+      "source_model": "LS-6AUTP-5M",
+      "내용": "길이가 좀 긴게 필요한데 휴대성도 중요해서 구매했는데 속도도 안정적이고 정말 용도에 딱 맞게 구매해서 만족스럽네요",
+      "관련내용": "배송 빠르고 슬림해서 휴대해서 사용하기 정말 편해요"
+    },
+    {
+      "source_model": "LS-6AUTP-5M",
+      "내용": "배송 빠르고 슬림해서 휴대해서 사용하기 정말 편해요"
+    },
+    {
+      "source_model": "LS-6AUTP-5M",
+      "내용": "아주 잘 작동합니다~!"
+    },
+    {
+      "source_model": "LS-6AUTP-5M",
+      "내용": "잘 받았습니다~~~~"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-6AUTP-3M",
+      "id": 544140466,
+      "date": "2023-08-30 11:33",
+      "answerDate": "2023-08-30 11:53",
+      "user": "neop*****",
+      "productName": "랜스타 Cat.6A UTP 슬림 랜 케이블 3m LS-6AUTP-3M",
+      "question": "급해서그런데 오늘꼭좀발송부탁드립니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n유선 통화 완료하였습니다. 5m 제품으로 대체 출고 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-6AUTP-10M",
+      "chatUrl": "1mimI",
+      "dateIso": "2025-10-16T04:17:26.140Z",
+      "name": "호골산",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "안녕하세요\n교환 진행중인 물품은 언제오나요?",
+      "answer": "3월 이후 9월에도 주문주신 것으로 확인되는데 해당 건은 정상적으로 받아보신 걸까요?",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n금일 출고 예정입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요\n교환 진행중인 물품은 언제오나요?"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~ [배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요! [배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입"
+        },
+        {
+          "role": "customer",
+          "text": "네 9월 10개는 정상입니다"
+        },
+        {
+          "role": "agent",
+          "text": "3월 이후 9월에도 주문주신 것으로 확인되는데 해당 건은 정상적으로 받아보신 걸까요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "PVC",
+        "구리"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "White",
+        "Blue"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "UTP",
+      "conductor": "연선(stranded)",
+      "awg": 32,
+      "pair_count": 4,
+      "flame_rating": "LSZH",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 8P8C Blue 커넥터",
+    "connectivity.output_signals": "RJ45 8P8C Blue 커넥터",
+    "connectivity.directional": "CAT.6A UTP 규격, 최대 10Gbps 전송속도",
+    "form_physical.material": "순수 구리(Bare Copper, 100% Copper) 심선",
+    "form_physical.material[1]": "PVC 재킷",
+    "form_physical.color_options": "색상: White (케이블), Blue (커넥터)",
+    "form_physical.color_options[1]": "색상: White (케이블), Blue (커넥터)",
+    "certification.kc": "KC 인증번호: 해당없음",
+    "certification.rohs": "RoHS 인증 제품",
+    "family.cat_category": "CAT.6A UTP 규격",
+    "family.shielding": "CAT.6A UTP 규격",
+    "family.conductor": "연선(Stranded) 구조",
+    "family.awg": "32AWG 심선",
+    "family.pair_count": "4페어 꼬임(Twisted) 구조",
+    "family.flame_rating": "LSZH(Low Smoke Zero Halogen) 난연 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:29",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "compatibility": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

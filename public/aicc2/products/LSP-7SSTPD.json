@@ -1,0 +1,457 @@
+{
+  "model_no": "LSP-7SSTPD",
+  "product_name": "LANstar plus CAT 7 S/FTP Direct LAN Cable",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "랜케이블-FTP",
+    "랜케이블-SFTP",
+    "랜케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "CAT.7 S/FTP 규격, 최대 10Gbps 전송속도 지원",
+    "600MHz 대역폭 지원",
+    "26AWG 심선 사용으로 잡음이 적고 안정적인 전송",
+    "50μ Gold Plated PIN RJ45(8P8C) 커넥터 적용",
+    "4페어 꼬임구조(Twisted Pair) + 알루미늄 호일 + 차폐 쉴드 + PVC 자켓 구성",
+    "순수 구리(Bare Copper) 심선 사용으로 높은 데이터 전송률",
+    "연선(Stranded Cable) 구조로 유연하며 설치 용이",
+    "LSZH 난연 케이블: 낮은 연기 및 독성·산성 가스 미발생",
+    "RoHS 인증 제품",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.7 S/FTP",
+    "전송속도": "최대 10Gbps",
+    "대역폭": "600MHz",
+    "심선": "26AWG",
+    "커넥터": "RJ45, 8P8C, 50μ Gold Plated PIN",
+    "길이": "1m, 2m, 3m, 5m, 10m",
+    "직경": "OD 6.0±0.2mm",
+    "재질": "PVC",
+    "구조": "S/FTP, 4Pair Twisted Pair, 알루미늄 호일, 차폐 쉴드, PVC 자켓",
+    "심선 소재": "Bare Copper (순수 구리)",
+    "난연 규격": "LSZH (Low Smoke Zero Halogen)",
+    "인증": "RoHS COMPLIANT",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음",
+    "모델명 (1m)": "LSP-7SSTPD-1MG",
+    "모델명 (2m)": "LSP-7SSTPD-2MG",
+    "모델명 (3m)": "LSP-7SSTPD-3MG",
+    "모델명 (5m)": "LSP-7SSTPD-5MG",
+    "모델명 (10m)": "LSP-7SSTPD-10MG",
+    "제품 길이 범위": "1000~10000mm",
+    "커넥터 폭": "11.5mm",
+    "커넥터 높이": "6.5mm"
+  },
+  "compatibility": [
+    "10GBASE-T (최대 10Gbps)",
+    "1000BASE-TX",
+    "1000BASE-T",
+    "CAT.7 규격 호환 장비",
+    "CAT.6A 규격 호환 장비",
+    "RJ45(8P8C) 포트를 갖춘 모든 네트워크 장비"
+  ],
+  "package_contents": [
+    "CAT.7 S/FTP Direct LAN Cable (선택 길이 1종)"
+  ],
+  "usage_instructions": "연선(Stranded Cable) 구조로 유연하게 휘어지므로 설치가 용이합니다. RJ45 커넥터를 네트워크 장비의 RJ45 포트에 연결하여 사용하십시오. 공공장소 또는 환기가 원활하지 않은 지역에도 LSZH 난연 케이블로 사용 가능합니다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상, 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "구매/배송/반품은 판매처(쇼핑몰 하단 참조)를 통해 문의하십시오."
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-7SSTPD-1MG",
+      "품목코드": "CAB-SS7180",
+      "품목명": "[◆LANstar-Plus] Cat.7 S/FTP 랜케이블, 1m [30654] (140개)",
+      "variant_suffix": "-1MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-7SSTPD-2MG",
+      "품목코드": "CAB-SS7181",
+      "품목명": "[◆LANstar-Plus] Cat.7 S/FTP 랜케이블, 2m [30655] (90개)",
+      "variant_suffix": "-2MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-7SSTPD-3MG",
+      "품목코드": "CAB-SS7182",
+      "품목명": "[◆LANstar-Plus] Cat.7 S/FTP 랜케이블, 3m [30656] (70개)",
+      "variant_suffix": "-3MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-7SSTPD-5MG",
+      "품목코드": "CAB-SS7183",
+      "품목명": "[◆LANstar-Plus] Cat.7 S/FTP 랜케이블, 5m [30657] (50개)",
+      "variant_suffix": "-5MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-7SSTPD-10MG",
+      "품목코드": "CAB-SS7184",
+      "품목명": "[◆LANstar-Plus] Cat.7 S/FTP 랜케이블, 10m [30658] (32개)",
+      "variant_suffix": "-10MG",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-7SSTPD-10MG",
+      "내용": "선이 짱짱하고 설치하였을때 좋습니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-10MG",
+      "내용": "배송 빠르고 좋습니다.",
+      "관련내용": "배송이 빠르고 좋습니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-10MG",
+      "내용": "배송이 빠르고 좋습니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-10MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-10MG",
+      "내용": "속도 잘나오고 아주 좋아요"
+    },
+    {
+      "source_model": "LSP-7SSTPD-1MG",
+      "내용": "믿고 쓰는 랜스타 \n사진은 따로 안찍어요"
+    },
+    {
+      "source_model": "LSP-7SSTPD-1MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-1MG",
+      "내용": "유튜브 채널 보고 주문 했습니다! 타 업체 대비 비교적 좋은 품질에 가격이 좀더 저렴합니다 잘쓰겠습니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-1MG",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-1MG",
+      "내용": "서브러 들고다니고있어요."
+    },
+    {
+      "source_model": "LSP-7SSTPD-1MG",
+      "내용": "한 달 이상 결착이 잘 되어있습니다.",
+      "관련내용": "안전하게 잘 도착했습니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-1MG",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-1MG",
+      "내용": "안전하게 잘 도착했습니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-1MG",
+      "내용": "인터넷  속도  안정적입니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-1MG",
+      "내용": "아주 좋아요 2번째 구매입니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-1MG",
+      "내용": "좋아요오오오옹옹요어"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "에러 없이 잘 쓰고 있습니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "배송 빠르고 좋습니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "빠른배송 좋은 제품입니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "빠른 배송과 깔끔한 포장이었습니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "가성비 좋습니다 ~~"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "항상 주문합니다. 좋습니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "에러없고 좋습니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "좋습니다 좋습니다 좋습니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "빠른 배송과 대처 좋습니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "빠른배송 가성비 좋아요 재구매해요"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "항상 대량구매하고 있습니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "유튜브 채널 보고 주문 했습니다! 타 업체 대비 비교적 좋은 품질에 가격이 좀더 저렴합니다 잘쓰겠습니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "항상 주문하고 있습니다. 가성비 좋습니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "매번 주문합니다  가성비 좋아요"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "가성비좋고 배송빠름"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "가성비 좋고 항상 구매합니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "대량구매 자주합니다. 좋습니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "매번 주문합니다 ^^"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "또 주문해서 사용합니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "써보고 불량없어서  다시 구매"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "기존에 쓰던 검증된 제품"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "여러개를  구매했는데  잘쓰고 있어요."
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "상세페이지의 이점등을 확인하여 구매했습니다\n가정집이라 기본utp랑 큰 차이는 없지만 조금이나마 손실률을 줄이고자 구매했습니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-2MG",
+      "내용": "배송도 빠르고 제품도 좋았습니다ㅎㅎ"
+    },
+    {
+      "source_model": "LSP-7SSTPD-3MG",
+      "내용": "빠른 배송 감사 합"
+    },
+    {
+      "source_model": "LSP-7SSTPD-3MG",
+      "내용": "다양한 상품이 있어서 좋습니다. 내부는 연선인데 외부피복때문에 부드럽진 않습니다. 튼튼하고 좋아요"
+    },
+    {
+      "source_model": "LSP-7SSTPD-3MG",
+      "내용": "좋아요 배솟빨라요."
+    },
+    {
+      "source_model": "LSP-7SSTPD-3MG",
+      "내용": "한 달 동안 전혀 이상 없이 잘 쓰고 있습니다.",
+      "관련내용": "마감도 좋아보이고 튼튼해보여서 마음에 듭니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-3MG",
+      "내용": "마감도 좋아보이고 튼튼해보여서 마음에 듭니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-3MG",
+      "내용": "튼튼하고  속도  안정적  입니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-3MG",
+      "내용": "저렴하고 빠른 배송 좋아요"
+    },
+    {
+      "source_model": "LSP-7SSTPD-3MG",
+      "내용": "아주 좋아요 2번째 구매입니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-3MG",
+      "내용": "배송이 빠르고 좋아요"
+    },
+    {
+      "source_model": "LSP-7SSTPD-5MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-5MG",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-5MG",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-5MG",
+      "내용": "잘됩니다 오래전 샀던것과 같은제품이네요",
+      "관련내용": "배송 빠르고 제품 튼튼하고 원래 쓰고있던거라 같은걸로 추가구매했습니다\n단거리 차이없다해도 든든함에 투자~"
+    },
+    {
+      "source_model": "LSP-7SSTPD-5MG",
+      "내용": "배송 빠르고 제품 튼튼하고 원래 쓰고있던거라 같은걸로 추가구매했습니다\n단거리 차이없다해도 든든함에 투자~"
+    },
+    {
+      "source_model": "LSP-7SSTPD-5MG",
+      "내용": "연결하는데 아무런 문제없고 속도도 잘 나옵니다."
+    },
+    {
+      "source_model": "LSP-7SSTPD-5MG",
+      "내용": "속도도 빠르고 , 배송도 빨라 좋았어요"
+    },
+    {
+      "source_model": "LSP-7SSTPD-5MG",
+      "내용": "방 구조를 바꾸면서 연장했는데 이상없이 잘 됩니다"
+    },
+    {
+      "source_model": "LSP-7SSTPD-5MG",
+      "내용": "빠른 배송 감사합니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LSP-7SSTPD-10MG",
+      "id": 616672730,
+      "date": "2025-02-07 11:28",
+      "answerDate": "2025-02-07 13:50",
+      "user": "jmle*****",
+      "productName": "랜스타플러스 LSP-7SSTPD-10MG CAT.7 S/FTP 랜케이블 10M Gray",
+      "question": "안녕하세요 얼마전에 구매해서 현재 인도 출장와있는데 30m용 랜선을 반으로 잘라 사용할려고 하니 랜테스터시 불량이네요\n혹시 핀맵좀 알수있을까요?\n압착기툴과 커넥터는 랜스타에서 판매하는것으로 같이 구매해서 왔습니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 10m 케이블 구매 내역만 확인되어 정확한 안내를 위해 아래 내용 확인 후 톡톡 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "PVC",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        2,
+        3,
+        5,
+        10
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "SFTP",
+      "conductor": "연선(stranded)",
+      "awg": 26,
+      "pair_count": 4,
+      "flame_rating": "LSZH",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45(8P8C) 커넥터 적용",
+    "connectivity.output_signals": "RJ45 커넥터를 네트워크 장비의 RJ45 포트에",
+    "connectivity.directional": "LAN Cable",
+    "form_physical.material": "PVC 자켓 구성",
+    "form_physical.material.1": "50μ Gold Plated PIN RJ45",
+    "form_physical.length_options_meters": "1m, 2m, 3m, 5m, 10m",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "certification.rohs": "RoHS 인증 제품",
+    "family.cat_category": "CAT.7 S/FTP 규격",
+    "family.shielding": "CAT.7 S/FTP",
+    "family.conductor": "연선(Stranded Cable) 구조",
+    "family.awg": "26AWG 심선 사용",
+    "family.pair_count": "4페어 꼬임구조(Twisted Pair)",
+    "family.flame_rating": "LSZH 난연 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:24",
+  "feature_schema_version": "1.0.0"
+}

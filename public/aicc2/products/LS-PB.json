@@ -1,0 +1,267 @@
+{
+  "model_no": "LS-PB",
+  "product_name": "LANStar 키스톤 모듈 포인트 박스 (Keystone Module Point Box)",
+  "category": [
+    "키스톤잭",
+    "커플러"
+  ],
+  "key_features": [
+    "키스톤잭, 키스톤형 커플러 등 키스톤 모듈 장착 가능",
+    "바닥, 천장면, 벽면 등 다양한 면에 고정 설치 가능",
+    "앞면 힌지 커버 방식(둥근 너트 해제 후 뚜껑을 위로 젖혀 개방)",
+    "뒷면 4개 나사 탈부착 방식(십자 드라이버 사용)",
+    "제품 바닥 4개 나사홀 제공 – 앙카·나사로 바닥·벽·천장 고정 가능",
+    "견고한 스틸 재질(검정색) – 실내·실외 폭넓게 사용 가능",
+    "케이블 통로 위아래 스펀지 부착으로 케이블 보호(전면·후면 동일)",
+    "키스톤잭·키스톤형 커플러의 위아래 고정 가이드 내장",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "4포트 모델명": "LS-PB14",
+    "4포트 포트수": "4포트",
+    "4포트 무게": "922g",
+    "4포트 치수(mm)": "240.6 x 115 x 63 (가로 x 세로 x 높이 추정, 단위 mm)",
+    "6포트 모델명": "LS-PB16",
+    "6포트 포트수": "6포트",
+    "6포트 무게": "1197g",
+    "6포트 치수(mm)": "240.6 x 157 x 105 (가로 x 세로 x 높이 추정, 단위 mm)",
+    "8포트 모델명": "LS-PB18",
+    "8포트 포트수": "8포트",
+    "8포트 무게": "1664g",
+    "8포트 치수(mm)": "240 x 230 x 147 (가로 x 세로 x 높이 추정, 단위 mm)",
+    "재질": "스틸",
+    "색상": "검정색",
+    "KC 인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "키스톤잭 (Keystone Jack)",
+    "키스톤형 커플러 (Keystone Coupler)"
+  ],
+  "package_contents": [
+    "키스톤 모듈 포인트 박스 본체",
+    "힌지 커버",
+    "고정용 나사(뒷면 4ea)"
+  ],
+  "usage_instructions": "1. 둥근 너트를 풀어 앞면을 개방한다. 2. 십자 드라이버로 뒷면 나사 4개를 풀어 뒷면을 개방한다. 3. 앞·뒷면에 사용할 키스톤잭 또는 키스톤형 커플러와 케이블을 연결한다. 4. 케이블 타이로 케이블을 고정하고 케이블 홀을 통해 케이블을 밖으로 빼낸 뒤 나사로 고정한다(앞쪽도 동일하게 진행). 5. 사용 환경(바닥·벽·천장 등)에 따라 제품 바닥의 4개 홀에 앙카·나사를 이용해 박스를 고정하면 설치 완료.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상·형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됨",
+    "구매·배송·반품은 판매처(쇼핑몰 하단 참조)를 통해 진행"
+  ],
+  "variants": [],
+  "_absorbed_fragments": {
+    "LS-PB-CL36": {
+      "product_name": "LANStar 휴대용 클라우드 손난로 보조배터리 겸용",
+      "category": "손난로 / 보조배터리",
+      "key_features": [
+        "손난로와 보조배터리 기능을 하나로 결합",
+        "3단계 온도 조절 가능 (35-40°C / 45-50°C / 55-60°C)",
+        "컴팩트한 클라우드 디자인 (94.5 x 67 x 38.2mm)",
+        "3600mAh 용량 배터리 내장",
+        "5V 2A 기준 약 2시간 완충",
+        "USB 단자를 통해 PC, 노트북, 전원 어댑터 등 어디서나 충전 가능",
+        "상태표시 LED로 배터리 충전 상태 확인 가능",
+        "과전류 방지 / 과충전 방지 / 방전 제어 / 과열 보호 기능 내장",
+        "현대해상화재 생산물배상책임보험 1억원 가입",
+        "KC 전파안전 및 전기안전 인증 획득",
+        "화이트 / 핑크 / 블루 3가지 색상 제공"
+      ],
+      "specifications": {
+        "재질": "ABS / PP / 알루미늄",
+        "용량": "3600mAh",
+        "입력": "5V 2A",
+        "출력": "5V 2A",
+        "발열출력": "7~10W",
+        "발열온도": "40~60도 (3단계 선택)",
+        "제품크기": "94.5 x 67 x 38.2mm",
+        "제품중량": "125g",
+        "색상": "화이트, 핑크, 블루",
+        "모델명_화이트": "LS-PB-CL36W",
+        "모델명_핑크": "LS-PB-CL36P",
+        "모델명_블루": "LS-PB-CL36B",
+        "제조국": "중국 (China)",
+        "제조사_수입사": "라인업시스템(주)",
+        "KC_전파안전_인증번호": "MSIP-REI-LUS-LS-PB-CL36W",
+        "KC_전기안전_인증번호": "XU101030-17004A",
+        "온도단계_BLUE_LED": "35-40°C, 약 6시간 사용",
+        "온도단계_GREEN_LED": "45-50°C, 약 4시간 사용",
+        "온도단계_RED_LED": "55-60°C, 약 2시간 사용"
+      },
+      "compatibility": [
+        "마이크로 USB 5핀 케이블 연결 기기",
+        "스마트폰 (USB 케이블을 통한 보조배터리 충전)",
+        "PC / 노트북 USB 포트 (충전)",
+        "5V 2A 전원 어댑터 (충전)"
+      ],
+      "package_contents": [
+        "휴대용 클라우드 손난로 본체",
+        "USB 충전 케이블",
+        "파우치 (고온 사용 시 권장)"
+      ],
+      "source_files": [
+        "LS-PB-CL36.json"
+      ]
+    },
+    "LS-PB-KEYSTONE": {
+      "product_name": "LANstar / LANstar Plus 키스톤잭 모듈 및 키스톤형 커플러 시리즈",
+      "category": "키스톤잭 모듈 / 키스톤형 커플러 / 기타 키스톤잭",
+      "key_features": [
+        "CAT.5E / CAT.6 / CAT.6A 등 다양한 규격 지원",
+        "UTP / STP / FTP 타입 구분 제공",
+        "8P8C 커넥터 구조",
+        "UL 인증 제품",
+        "Slim 타입 및 I-Type, Tooless 타입 등 다양한 설치 방식 지원",
+        "LED 모듈 타입 제공 (CAT.6 UTP/STP, CAT.6A UTP/STP)",
+        "TOL-KTVNZ-78 펀치툴과 호환 (해당 모델)",
+        "CAT.6 10/100/1000Mbps 전송속도 지원",
+        "CAT.6A 10Gbps 전송속도 지원",
+        "Tooless 타입은 별도의 툴 없이 제작 가능",
+        "HDMI, USB2.0, USB3.0, SC/LC 광케이블, BNC, RCA, 안테나, 스테레오, 바인딩, HOLE, BLANK 등 다양한 기타 키스톤잭 라인업 보유",
+        "흰색, 파랑, 빨강, 노랑, 메탈 등 다양한 색상 제공"
+      ],
+      "specifications": {
+        "지원_규격": "CAT.5E, CAT.6, CAT.6A",
+        "커넥터_타입": "8P8C",
+        "생산지_LANstar": "대만산",
+        "생산지_LANstarPlus_키스톤잭": "대만산",
+        "생산지_LANstarPlus_커플러및기타": "중국산",
+        "인증": "UL인증",
+        "CAT5E_전송속도": "명시 없음",
+        "CAT6_전송속도": "10/100/1000Mbps",
+        "CAT6A_전송속도": "10Gbps",
+        "설치타입": "Slim 타입, I-Type, Tooless 타입",
+        "케이블_타입": "UTP, STP, FTP",
+        "색상_키스톤잭모듈": "흰색, 파랑, 빨강, 노랑, 메탈",
+        "색상_커플러및기타": "흰색, 파랑, 빨강, 노랑, 메탈",
+        "Tooless_CAT6_모델": "LS-6KTVM-F1MT",
+        "Tooless_CAT6A_모델": "LS-GKTVM-F1MT",
+        "LED모듈_CAT6_UTP모델": "LSP-6KTVM-UWLED [20290]",
+        "LED모듈_CAT6_STP모델": "LSP-6KTVM-SMLED [20291]",
+        "LED모듈_CAT6A_UTP모델": "LSP-GKTVM-UWLED [20292]",
+        "LED모듈_CAT6A_STP모델": "LSP-GKTVM-SMLED [20293]",
+        "IType_CAT5E_UTP모델": "LSP-EKTVM-U1WT [40539]",
+        "IType_CAT5E_STP모델": "LSP-EKTVM-F1MT [40542]",
+        "IType_CAT6_UTP모델": "LSP-6KTVM-U1WT [40540]",
+        "IType_CAT6_STP모델": "LSP-6KTVM-F1MT [40541]",
+        "IType_CAT6A_UTP모델": "LSP-GKTVM-U1WT [40543]",
+        "IType_CAT6A_STP모델": "LSP-GKTVM-F1MT [40544]",
+        "키스톤형커플러_CAT5E_UTP흰색": "LS-EIC-UKW [40515]",
+        "키스톤형커플러_CAT6_FTP메탈": "LS-6IC-FKTMT [40097]",
+        "키스톤형커플러_CAT6A_UTP파랑": "LS-6IC-UKBL [40526]",
+        "키스톤형커플러_CAT6A_UTP빨강": "LS-6IC-UKRD [40516]",
+        "키스톤형커플러_CAT6A_UTP노랑": "LS-6IC-UKYL [40514]",
+        "키스톤형커플러_CAT6A_UTP흰색": "LS-6IC-UKW [40098]",
+        "키스톤형커플러_CAT6A_STP흰색_GIC": "LS-GIC-FKTMT",
+        "LSP커플러_CAT5E_UTP흰색": "LSP-EIC-UKW [20294], I-Type",
+        "LSP커플러_CAT5E_STP흰색": "LSP-EIC-FKTMT [20297], 잭 타입",
+        "LSP커플러_CAT6_UTP흰색": "LSP-6IC-UKW [20295], 잭 타입",
+        "LSP커플러_CAT6_STP흰색": "LSP-6IC-FKTMT [20298], 잭 타입",
+        "LSP커플러_CAT6A_STP흰색": "LSP-GIC-FKTMT [20299], 잭 타입",
+        "기타_바인딩키스톤잭": "LSP-EC-BIND [20323], F/F 흰색, 스피커 케이블 연결",
+        "기타_안테나키스톤잭_RF": "LSP-EC-F [20322], R/F-R/F 흰색, 안테나 케이블 연결",
+        "기타_HOLE키스톤잭": "LSP-EC-HOLE-W [20321], 흰색, 사용하지 않는 포트 차단",
+        "기타_RCA키스톤잭": "LSP-EC-RCA [20311], RCA/F-RCA/F 흰색, RCA 케이블 연결",
+        "기타_BLANK키스톤잭": "LSP-EC-BLANK-W [20320], 흰색, Dust Cap",
+        "기타_USB30커플러": "LSP-EC-USB3A [20319], A/F-A/F 흰색, USB3.0 케이블 연결",
+        "기타_USB20키스톤잭": "LSP-EC-USB2A [20318], A/F-A/F 흰색, USB2.0 케이블 연결",
+        "기타_USB30_90도": "LSP-USB3B-AFFL [70064], A/F-A/F 90도 꺾임",
+        "기타_HDMI케이블타입": "LSP-EC-HC15 [20317], HDMI/F-HDMI/F 흰색, 0.15M",
+        "기타_HDMI키스톤잭": "LSP-EC-HDMI [20316], HDMI/F-HDMI/F 흰색",
+        "기타_SC커플러": "LSP-EC-SC [20314], SC/F-SC/F 흰색, SC 광케이블 연결",
+        "기타_LC커플러": "LSP-EC-LC [20315], LC/F-LC/F 흰색, LC 광케이블 연결",
+        "기타_BNC커플러": "LSP-EC-BNC [20313], BNC/F-BNC/F 흰색, 동축케이블 연결",
+        "기타_스테레오커플러": "LSP-EC-ST [20312], 3.5 ST/F-ST/F 흰색, ST 케이블 연결"
+      },
+      "compatibility": [
+        "TOL-KTVNZ-78 펀치툴 (CAT.5E Slim 타입 및 CAT.6 Slim 타입 해당 모델)",
+        "CAT.5E UTP/STP 케이블",
+        "CAT.6 UTP/STP/FTP 케이블",
+        "CAT.6A UTP/STP 케이블",
+        "스피커 케이블 (LSP-EC-BIND)",
+        "안테나 케이블 RF (LSP-EC-F)",
+        "RCA 케이블 (LSP-EC-RCA)",
+        "USB2.0 케이블 (LSP-EC-USB2A)",
+        "USB3.0 케이블 (LSP-EC-USB3A, LSP-USB3B-AFFL)",
+        "HDMI 케이블 (LSP-EC-HC15, LSP-EC-HDMI)",
+        "SC 광케이블 (LSP-EC-SC)",
+        "LC 광케이블 (LSP-EC-LC)",
+        "동축케이블 BNC (LSP-EC-BNC)",
+        "3.5mm 스테레오 케이블 (LSP-EC-ST)"
+      ],
+      "package_contents": [
+        "키스톤잭 모듈 본체 (해당 모델)",
+        "케이블 고정 클립 포함 (Tooless 타입: LS-6KTVM-F1MT, LS-GKTVM-F1MT)"
+      ],
+      "source_files": [
+        "LS-PB-KEYSTONE.json"
+      ]
+    }
+  },
+  "_variant_raw_texts": {
+    "LS-PB-CL36": "LANStar\nⓇ\n휴대용 클라우드 손난로\n보조배터리 겸용\n:)\n[\n손만 따듯하게 하는 손난로 NO\n손난로+보조배터리 기능이 하나에\n]\n손안에 들어오는 컴팩트한 사이즈의 귀여운 클라우드 손난로\n추운겨울 주머니 속에 쏙 넣고 다니세요!\n손안에 따듯함이 가득\n꽁꽁 얼어붙은 손을 따듯하게 녹여줄 클라우드 손난로\n소중한 사람들에게 선물하세요\n널 따듯하게\n지켜줄께\n휴대용 클라우드 손난로\n보조배터리 겸용\no y e\nWHITE\nA\nPINK\nBLUE\n\n\nBLUE\n제품 사용법\n버튼 설명\n온도표시 LED\n온도변환 버튼\n상태표시 LED\n전원 ON/OFF USB포트 (마이크로 5핀)\n손난로 사용하려면\n1. 전원 버튼을 ON()으로 설정합니다.\n2. 온도변환 버튼(M)을 이용하여 온도를 설정하여 사용하세요.\nBLUE LED\n35-40°\n약 6시간 사용\nGLEEN LED\n45-50°\n약 4시간 사용\nRED LED\n55-60°\n약 2시간 사용\n보조배터리로 사용하려면\n1. 제품에 동봉된 USB 케이블을 USB포트에 연결합니다.\n2. 충전하려는 스마트폰에 USB 케이블을 연결합니다.\n11:44\n시청자일 목요일\n항공을\n1. 고온(RED LED) 사용시 동봉된 파우치에 넣어 사용하시길 권장합니다.\n2. 유아, 어린이, 피부가 약하신 분은 사용시 주의하세요.\n3. 충전시 동봉된 케이블을 사용하세요.\n4. 손난로 기능과 보조배터리 기능은 동시에 사용할 수 없습니다.\n5. 사용하지 않을때는 반드시 전원을 꺼주세요.\n\n\n5. 사용하지 않을때는 반드시 전원을 꺼주세요..\nPULL\n3\nEnter\n3.\nPgDn\n2\n완충되면\n확인된다구\nDel\n0\nIns\npedeapl\n2시간이면 완충되는 클라우드 손난로\nUSB 단자만 있으면 어디서나 충전\n]\n충전 케이블이 제공되어 PC,노트북, 전원 아답터에 연결하여\n어디서나 자유롭게 충전하여 재사용이 가능합니다.\n5V 2A 기준 충전 시간이며, 5V 2A 이하의 전원 아답터나\nPC, 노트북에 연결하여 충전할시 충전시간이 늘어날 수 있습니다.\n\"\n상태표시 LED로 확인할 수 있어요!\n꺼짐 외장배터리 방전/손난로 충전중이 아님\n빨간등이 빠르게 깜빡임 외장배터리 충전 낮음\n● 빨간등이 느리게 깜빡임 외장배터리 충전 중간 / 손난로 충전중\n- 파란등 켜짐 외장배터리 전력 50% 이상 / 손난로 충전완료\n- 빨간등 켜짐 외장배터리 전력 50% 이하\n*\n휴대용 클라우드 손난로\n보조배터리 겸용\n\n\nHi\n도,\nFOR\nBlend\n작으니까\n나두 데려가쥬\n휴대용 클라우드 손난로\n보조배터리 겸용\n재질\nABS / PP / 알루미늄\n용량\n3600mAh\n입력\n5V 2A\n출력\n5V 2A\n발열출력\n7~10W\n* 발열온도\n40~60도 (3단계 선택)\n제품크기\n94.5 x 67 x38.2mm\n제품중량\n125g\n색상\n화이트/핑크 / 블루\n과전류 방지/과충전 방지/방전 제어/과열 보호\n제품 패키지 이미지\n:)\n※保握手使用説明\nH 현대해상화재보험\nHALFWAKEHOLHEL10\n\n\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nCR\nRoHS & FC CE\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substances)는 EU에서 발표한 특정위험물질\n사용제한 지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은,\n카드뮴 등 중금속 사용을 금지합니다.\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE를\n인증마크로 사용합니다.\nK\n본 제품은 국립전파연구원 인증을 획득한\n믿을 수 있는 안전한 제품입니다.\n전파안전 인증번호 MSIP-REI-LUS-LS-PB-CL36W\n전기안전 인증번호 XU101030-17004A\nLAN Star\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\n휴대용 클라우드 손난로\nⓇ\n모델명\nLANStar\nLS-PB-CL36W (화이트)\nLS-PB-CL36P (핑크)\nLS-PB-CL36B (블루)\n인증번호\nKC 전파안전 MSIP-REI-LUS-LS-PB-CL36W\nKC 전기안전 XU101030-17004A\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-PB-KEYSTONE": "LANG\nⓇ\nNStarⓇ\n연관상품\n키스톤잭 모듈\nwww\nLS-EKTVM-U1WH\nLS-EKTVM-U1BL\nLS-EKTVM-U1RD\nLS-EKTVM-U1YL\nCAT.5E 키스톤잭 모듈, 흰색\n8P8C 대만산, UL인증, Slim 타입,\nTOL-KTVNZ-78 펀치들과 호환\nCAT.5E 키스톤잭 모듈, 파랑\n8P8C 대만산, UL인증, Slim 타입,\nTOL-KTVNZ-78 펀치들과 호환\nCAT.5E 키스톤잭 모듈, 빨강\n8P8C 대만산, UL인증, Slim타입,\nTOL-KTVNZ-78 펀치들과 호환\nCAT.5E 키스톤잭 모듈, 노랑\n8P8C 대만산, UL인증, Slim타입,\nTOL-KTVNZ-78 펀치들과 호환\nLS-6KTVM-U1WH\nLS-6KTVM-U1BL\nLS-6KTVM-U1RD\nLS-6KTVM-U1YL\nCAT.6 키스톤잭 모듈, 노랑\nCAT.6 키스톤잭 모듈, 흰색\n8P8C 대만산, UL인증, Slim 타입,\nTOL-KTVNZ-78 펀치들과 호환,\n10/100/1000Mbps 전송속도\nCAT.6 키스톤잭 모듈, 파랑\n8P8C 대만산, UL인증, Slim 타입,\nTOL-KTVNZ-78 펀치들과 호환,\n10/100/1000Mbps 전송속도\nCAT.6 키스톤잭 모듈, 빨강\n8P8C 대만산, UL인증, Slim타입,\nTOL-KTVNZ-78 펀치들과 호환,\n10/100/1000Mbps 전송속도\n8P8C 대만산, UL인증, Slim타입,\nTOL-KTVNZ-78 펀치들과 호환,\n10/100/1000Mbps 전송속도\nLANSStar®\nLS-6KTVM-F1MT\nLS-GKTVM-F1MT\nCAT.6 Tooless 키스톤잭\n모듈, 메탈, 케이블고정클립 포함,\n10/100/1000Mbps 전송속도\n별도의 둘없이 제작 가능\nCAT.6A Tooless 키스톤잭\n모듈, 메탈, 케이블고정클립 포함,\n10Gbps 전송속도\n별도의 없이 제작 가능\nLCALS\nCATSA\nLSP-6KTVM-UWLED\nLSP-6KTVM-SMLED\nLSP-GKTVM-UWLED\nLSP-GKTVM-SMLED\nCAT.6 UTP 키스톤잭 LED 모듈,\n흰색, 8P8C 대만산, UL인증,\nTooless [20290]\nCAT.6 STP 키스톤잭 LED 모듈,\n흰색, 8P8C 대만산, UL인증,\nTooless [20291]\nCAT.6A UTP 키스톤잭 LED 모듈,\n흰색, 8P8C 대만산, UL인증,\nTooless 20292]\nCAT. 6A STP 키스톤잭 LED 모듈,\n흰색, 8P8C 대만산, UL인증,\nTooless [202931\nLSP-6KTVM-U1WT\nLSP-6KTVM-F1MT\nLSP-GKTVM-U1WT\nLSP-GKTVM-F1MT\nCAT.6 UTP 키스톤잭 모듈,\n흰색, 8P8C 대만산, UL인증,\nI-Type [40540]\nCAT.6 STP 키스톤잭 모듈,\n메탈, 8P8C 대만산, UL인증,\nCAT.6A UTP 키스톤잭 모듈,\n흰색, 8P8C 대만산, UL인증,\nCAT. 6A STP 키스톤잭 모듈,\n메탈, 8P8C 대만산, UL인증,\nI-Type [40544]\nI-Type [40543]\nI-Type [40541]\nLANstar®\nplus+\nLSP-EKTVM-U1WT\nLSP-EKTVM-F1MT\nCAT.5E UTP 키스톤잭 모듈,\n흰색, 8P8C 대만산, UL인증,\nI-Type [40539]\nCAT.5E STP 키스톤잭 모듈,\n메탈, 8P8C 대만산, UL인증,\nI-Type [40542]\n키스톤형 커플러\nLS-EIC-UKW\nLS-6IC-FKTMT\nLS-6IC-UKBL\nLS-6IC-UKRD\nCAT.5E UTP 키스톤형 커플러,\nCAT.6 FTP 키스톤형 커플러\nCAT.6A UTP 키스톤형 커플러,\nCAT. 6A UTP 키스톤형 커플러,\n\n\nLS-EIC-UKW\nLS-6IC-FKTMT\nLS-6IC-UKBL\nLS-6IC-UKRD\nCAT.5E UTP 키스톤형 커플러,\n흰색, 8P8C 대만산, UL인증,\nCAT.6 FTP 키스톤형 커플러\n메탈, 8P8C 대만산, UL인증,\nCAT.6A UTP 키스톤형 커플러,\n파랑색, 8P8C 대만산, UL인증,\nCAT. 6A UTP 키스톤형 커플러,\n빨강색, 8P8C 대만산, UL인증,\n1:1 [40515]\n[40097]\n1:1 [40526]\n1:1 [40516]\nLS-6IC-UKYL\nLS-6IC-UKW\nLS-GIC-FKTMT\nCAT.6A UTP 키스톤형 커플러,\n노랑색, 8P8C 대만산, UL인증,\nCAT.6A UTP 키스톤형 커플러,\n흰색, 8P8C 대만산, UL인증,\nCAT.6A UTP 키스톤형 커플러,\n흰색, 8P8C 대만산, UL인증,\nI-Type [40541]\n1:1 [40514]\n1:1 [40098]\nLSP-EIC-UKW\nLSP-EIC-FKTMT\nLSP-6IC-UKW\nLSP-6IC-FKTMT\nCAT.5E UTP 키스톤형 커플러\n흰색, 8P8C 중국산, UL인증,\nI-Type [20294]\nCAT.5E STP 키스톤형 커플러\n흰색, 8P8C 중국산, UL인증,\n잭 타입 [20297]\nCAT.6 UTP 키스톤형 커플러\n흰색, 8P8C 중국산, UL인증,\n잭 타입 [20295]\nCAT.6 STP 키스톤형 커플러\n흰색, 8P8C 중국산, UL인증,\n잭 타입 [20298]\nLSP-GIC-FKTMT\nCAT.6A STP 키스톤형 커플러\n흰색, 8P8C 중국산, UL인증,\n잭 타입 [20299]\n기타 키스톤잭 모듈\nLSP-EC-BIND\nLSP-EC-F\nLSP-EC-HOLE-W\nLSP-EC-RCA\nHOLE 키스톤잭, 흰색,\n바인딩 키스톤잭, F/F, 흰색,\n스피커 케이블 연결, 중국산\n안테나 키스톤잭, R/FR/F, 흰색,\n안테나 케이블 연결, 중국산\n사용하지 않는 포트 차단, 중국산\n안테나 키스톤잭, RCA/F-RCA/F,\n흰색, RCA 케이블 연결, 중국산\n[20311]\n[20323]\n[20322]\n[20321]\n20\nLSP-EC-BLANK-W\nLSP-EC-USB3A\nLSP-EC-USB2A\nLSP-USB3B-AFFL\nBLANK 키스톤잭, 흰색,\nUSB3.0 키스톤 커플러, 흰색,\nUSB3.0 키스톤잭, A/F-A/F, 흰색,\nUSB3.0 케이블 연결, 중국산\n[20319]\nDust Cap, 중국산\n[20320]\nUSB2.0 키스톤잭, A/FA/F, 흰색,\nUSB2.0 케이블 연결, 중국산\n[20318]\nA/FA/F, 90도 꺾임, 중국산\n[70064]\nLSP-EC-HC15\nLSP-EC-HDMI\nLSP-EC-SC\nLSP-EC-LC\nHDMI 케이블타입 키스톤잭,\nHDMI/F-HDMI/F, 흰색, 중국산\n0.15M [20317]\nHDMI 키스톤잭, HDMI 케이블\n연결 HDMI/F-HDMI/F, 흰색,\n중국산 [20316]\nSC 키스톤 커플러, SC/F-SC/F\nSC 광케이블 연결, 흰색, 중국산,\nLC 키스톤 커플러, LC/FLC/F,\nLC 광케이블 연결, 흰색, 중국산,\n[20314]\n[20315]\nLSP-EC-BNC\nLSP-EC-ST\nBNC 키스톤 커플러,\n_BNC/F-BNC/F, 동축케이블 연결\n스테레오 키스톤 커플러,\n3.5 ST/F-ST/F, ST 케이블 연결\n\n\nLSP-EC-BNC\nLSP-EC-ST\nBNC 키스톤 커플러,\nBNC/F-BNC/F, 동축케이블 연결\n흰색, 중국산 [20313]\n스테레오 키스톤 커플러,\n3.5 ST/F-ST/F, ST 케이블 연결\n흰색, 중국산 [20312]"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "검정색"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "power.power_mode": "무전원",
+    "form_physical.has_case": "키스톤 모듈 포인트 박스",
+    "form_physical.material": "견고한 스틸 재질",
+    "form_physical.color_options": "검정색",
+    "certification.kc": "KC 인증번호: 해당없음"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:56",
+  "feature_schema_version": "1.0.0"
+}

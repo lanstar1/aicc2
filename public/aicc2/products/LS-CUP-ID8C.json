@@ -1,0 +1,152 @@
+{
+  "model_no": "LS-CUP-ID8C",
+  "product_name": "CAT.5E 고급형 커플러 I형 RJ45 8P8C 1:1",
+  "category": [
+    "랜케이블-CAT5E",
+    "커플러",
+    "LAN공구"
+  ],
+  "key_features": [
+    "RJ45 8P8C 1:1 타입 단자 구성",
+    "기존 LAN 케이블 연장 용도로 사용 가능",
+    "케이블 타입은 수작업으로 제작되어 완성도를 높임",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 KC 인증 획득 (인증번호 T-A71-05-0095)",
+    "RoHS 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 적용"
+  ],
+  "specifications": {
+    "커넥터 타입": "RJ45 8P8C",
+    "연결 방식": "1:1 (F/F, I형)",
+    "지원 규격": "CAT.5E",
+    "인증번호": "T-A71-05-0095",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "안전 인증": "KC",
+    "환경 규격": "RoHS COMPLIANT",
+    "품질 규격": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "RJ45 8P8C CAT.5E UTP 케이블",
+    "표준 RJ45 커넥터 장착 기기"
+  ],
+  "package_contents": [
+    "CAT.5E 고급형 커플러 I형 (LS-CUP-ID8C) 본체"
+  ],
+  "usage_instructions": "기존 LAN 케이블의 길이가 짧거나 책상 위치가 변경된 경우, 본 커플러의 양쪽 포트에 각 케이블의 RJ45 커넥터를 삽입하여 케이블을 연장 연결한다. 공사 시 여유분으로 휴대하며 편리하게 사용할 수 있다.",
+  "cautions": [
+    "유통 과정상 제품의 모양이나 색상은 조금씩 달라질 수 있음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-CUP-ID8C",
+      "품목코드": "NEO-커플러003",
+      "품목명": "[LANstar] 커플러 I형 RJ-45 CAT.5E 8P8C 1：1 고급형-★★선타입★★ [40028] (1,000개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-CUP-ID8C",
+      "내용": "감사합니다.아주만족합니다."
+    },
+    {
+      "source_model": "LS-CUP-ID8C",
+      "내용": "빠른배송 좋은품질제품 감사드립니다."
+    },
+    {
+      "source_model": "LS-CUP-ID8C",
+      "내용": "빠른배송감사합니다.잘쓸게요."
+    },
+    {
+      "source_model": "LS-CUP-ID8C",
+      "내용": "좋은제품 저렴하고 좋아요"
+    },
+    {
+      "source_model": "LS-CUP-ID8C",
+      "내용": "연결하기 좋아요 잘쓸게요"
+    },
+    {
+      "source_model": "LS-CUP-ID8C",
+      "내용": "랜스타 LS-CUP-ID8C 1:1 커플러 I형 만족합니다."
+    },
+    {
+      "source_model": "LS-CUP-ID8C",
+      "내용": "랜선 연장하는데 쉽게 할 수 있어요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": 4,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 8P8C 1:1 타입 단자 구성",
+    "connectivity.output_signals": "RJ45 8P8C 1:1 타입 단자 구성",
+    "connectivity.directional": "기존 LAN 케이블 연장 용도로 사용 가능",
+    "connectivity.port_count": "본 커플러의 양쪽 포트에",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "family.cat_category": "CAT.5E",
+    "family.pair_count": "8P8C"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:16",
+  "feature_schema_version": "1.0.0"
+}

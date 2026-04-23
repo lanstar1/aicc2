@@ -1,0 +1,229 @@
+{
+  "model_no": "LSP-HDMI",
+  "product_name": "LANstar plus HDMI 케이블 19P M/M (HDMI 19P(M)-HDMI 19P(M))",
+  "category": [
+    "랜케이블",
+    "HDMI케이블",
+    "커넥터",
+    "AV케이블"
+  ],
+  "key_features": [
+    "HDMI 1.4 규격 지원 (4K@30Hz, 4K UHD 방송 시청 가능)",
+    "4K2K(4096x2160) Ultra HD 고화질 해상도 지원 — Full HD 1080p 대비 4배 고해상도",
+    "24K 금도금 커넥터 채택으로 우수한 전송률 제공",
+    "ARC(Audio Return Channel) 지원 — TV와 AV기기 간 별도 케이블 없이 음성신호 전송",
+    "HEC(HDMI Ethernet Channel) 지원 — 별도 랜케이블 없이 네트워크 접속 및 양방향 통신, IPTV/DLNA/UPnP 구현",
+    "3개 확장 색역(sYCC601 / Adobe RGB / Adobe YCC601) 지원으로 풍부하고 자연스러운 컬러 표현",
+    "30AWG 규격의 얇은 케이블로 설치 용이",
+    "3D 영상 지원",
+    "돌비 TrueHD, DTS-HD Master Audio, Blu-ray Disc 오디오 지원",
+    "RoHS(특정 유해물질 사용 제한) 준수 제품",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터": "HDMI 19P(M) - HDMI 19P(M)",
+    "HDMI 버전": "1.4",
+    "지원 해상도": "4K2K (4096x2160), 4K@30Hz, Full HD 1080p, HD 720p, 1440p",
+    "케이블 길이": "0.5M, 1M, 1.8M, 3M",
+    "커넥터 도금": "24K 금도금",
+    "전선 규격": "30AWG (American Wire Gauge)",
+    "커넥터 외형 치수": "19mm x 14mm (커넥터부), 케이블 직경 약 5.5mm / 4.5mm",
+    "색역 지원": "sYCC601 color, Adobe RGB color, Adobe YCC601 color",
+    "오디오 지원": "8채널 LPCM 192kHz 24비트, 돌비 TrueHD, DTS-HD Master Audio, Blu-ray/HD-DVD 오디오 최대 해상도",
+    "기타 기능": "CEC(기기간 컨트롤 링크), ARC(오디오 리턴 채널), HEC(HDMI 이더넷 채널), 자동 립싱크, 3D 지원",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "RoHS": "준수 (Compliant)"
+  },
+  "compatibility": [
+    "TV",
+    "PC 모니터",
+    "노트북",
+    "Blu-ray 플레이어",
+    "게임기",
+    "셋톱박스",
+    "HD-DVD 플레이어",
+    "HDMI 1.4 지원 기기",
+    "IPTV / DLNA / UPnP 지원 네트워크 기기"
+  ],
+  "package_contents": [
+    "HDMI 케이블 1개 (선택 길이: 0.5M / 1M / 1.8M / 3M)"
+  ],
+  "usage_instructions": "HDMI 19P(M) 커넥터를 TV·PC 모니터 등 출력 기기와 노트북·Blu-ray 플레이어·게임기·셋톱박스 등 소스 기기의 HDMI 포트에 각각 연결하여 사용합니다. HEC 기능 사용 시 별도 랜케이블 없이 네트워크에 접속할 수 있으며, ARC 기능 사용 시 TV 사운드를 HDMI 케이블 한 가닥으로 AV기기에 전송할 수 있습니다. 30AWG 규격의 얇은 케이블로 배선 설치가 용이합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-HDMI-0.5M",
+      "품목코드": "PAC-HDM001",
+      "품목명": "[◆Lanstar-Plus] HDMI 1.4케이블 ,19P M／M, Black, 4K*2K 60Hz, 0.5M(200개) [70065] ★★단종★★",
+      "variant_suffix": "-0.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-HDMI-1M",
+      "품목코드": "PAC-HDM002",
+      "품목명": "[◆Lanstar-Plus] HDMI 1.4케이블 ,19P M／M, Black, 4K*2K 60Hz, 1M(150개)[70066] ★★단종★★",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-HDMI-1.8M",
+      "품목코드": "PAC-HDM003",
+      "품목명": "[◆Lanstar-Plus] HDMI 1.4케이블 ,19P M／M, Black, 4K*2K 30Hz, 1.8M(125개)[70067] ★★단종★★",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-HDMI-3M",
+      "품목코드": "PAC-HDM004",
+      "품목명": "[◆Lanstar-Plus] HDMI 1.4케이블 ,19P M／M, Black, 4K*2K 30Hz, 3M(100개)[70068] ★★단종★★",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    }
+  ],
+  "_absorbed_fragments": {
+    "LSP-HDMI-M_60HZ": {
+      "product_name": "LANstar plus 4K UHD@60Hz HDMI 케이블 19P M/M",
+      "category": "HDMI 케이블",
+      "key_features": [
+        "4K UHD@60Hz 지원 (해상도 4096x2160)",
+        "HDMI 1.4 규격 지원",
+        "24K 금도금 커넥터 적용으로 우수한 전송률",
+        "ARC(Audio Return Channel) 지원 - 별도 케이블 없이 TV 사운드 전송",
+        "HEC(HDMI Ethernet Channel) 지원 - 별도 랜케이블 없이 네트워크 접속 및 양방향 통신",
+        "3D 영상 지원",
+        "Deep Color 지원",
+        "xvYCC 지원으로 풍부한 색감 (sYCC601 / Adobe RGB / Adobe YCC601)",
+        "돌비 TrueHD 오디오 비트스트림 지원",
+        "블루레이/HD-DVD 오디오 최대 해상도 지원",
+        "30AWG 규격의 얇은 굵기로 설치 용이",
+        "RoHS 인증 (특정 유해물질 사용 제한)",
+        "현대해상화재보험 생산물배상책임보험 1억원 가입"
+      ],
+      "specifications": {
+        "커넥터 형태": "HDMI 19P(M) - HDMI 19P(M)",
+        "지원 해상도": "4K UHD (4096x2160) @60Hz",
+        "HDMI 버전": "1.4",
+        "전선 규격": "30AWG (American Wire Gauge)",
+        "커넥터 도금": "24K 금도금",
+        "케이블 길이 라인업": "0.5M, 1M, 1.8M, 3M",
+        "모델명 (0.5M)": "LSP-HDMI-0.5M",
+        "모델명 (1M)": "LSP-HDMI-1M",
+        "모델명 (1.8M)": "LSP-HDMI-1.8M",
+        "모델명 (3M)": "LSP-HDMI-3M",
+        "커넥터 폭": "19mm",
+        "케이블 외경": "5.5mm",
+        "커넥터 높이": "4.5mm",
+        "커넥터 길이": "14mm",
+        "제조국": "중국 (China)",
+        "제조사/수입사": "라인업시스템(주)",
+        "인증번호": "해당없음",
+        "RoHS 적합 여부": "RoHS Compliant"
+      },
+      "compatibility": [
+        "TV (HDMI 1.4 포트 탑재 기기)",
+        "PC 모니터",
+        "노트북",
+        "블루레이 플레이어",
+        "게임기",
+        "셋톱박스",
+        "IPTV 단말기",
+        "DLNA/UPnP 지원 기기",
+        "HD-DVD 플레이어",
+        "HDMI 1.4 규격 기기"
+      ],
+      "package_contents": [
+        "HDMI 케이블 19P M/M (선택 길이: 0.5M / 1M / 1.8M / 3M 중 1개)"
+      ],
+      "source_files": [
+        "LSP-HDMI-M_60HZ.json"
+      ]
+    }
+  },
+  "_variant_raw_texts": {
+    "LSP-HDMI-M_60HZ": "LANstarⓇ\nplus*\n4K\nUHD@60Hz\nHDMI™\nHIGH-DEFINITION MULTIMEDIA INTERFACE\nHDMI 19P(M)-HDMI 19P(M)\n0.5M\n1M\nM\n1.8M 3M\n0.5M LSP-HDMI-0.5M\n1M LSP-HDMI-1M\n1.8M LSP-HDMI-1.8M\n3M LSP-HDMI-3M\nTM\nHDMI\nHIGH-DEFINITION MULTIMEDIA INTERFACE\n4K@60Hz\nULTRA HD\n4K2K 고화질 해상도는 기존의 Full HD 1080p보다\n4배 높은 고해상도 화질을 표현하여\n얼굴의 솜털까지 볼 수 있는 실물에 가까운\n생생한 화질을 제공하는게 특징입니다.\n3D\nFULL HD\nFULL)\n4KX2K (4096x2160)\nHDMI 1.4\nHD\nHIGH DEFINITION MULTIMEDIA INTERFACE\nHDMI 1.3 1440P\nHDMI 1.2 FULL HD 1080P\nHD 720P\nDO DOLBY\n6) HDDVD\ndts-HD\nTRUEHD\nBlu-ray Disc\nMaster Audio\n\n\ndts-HD\nDODOLBY® 6) HD DVD\nTRUEHD\nBlu-rayDisc -\nMaster Audio\n4K UHD 방송시청에 필수인\nHDMI 1.4 지원\n우수한 전송률의\n24K 금도금 콘넥터\n풍부한 색감으로 더욱 현실감 있는 색채\n3개의 칼라 영역(sYCC601 color/Adobe RGB color/Adobe YCC601 color)이\n추가되면서 더욱 풍부하고 자연스러운 컬러감을 자랑합니다.\n기존 버전보다 선명하고 뛰어난 화질감을 느낄 수 있습니다.\nHDMI 1.3버전\nHDMI 1.4버전\nHDMI 버전표\nHDMI version\n1ver\n1.1ver 1.2ver 1.3ver 1.4ver\nsRGB\nO\nO\nO\n1010\nYCbCr 4:2:2/4:4:4\nO\nO\nO\n8채널 LPCM, 192kHz, 24비트 오디오 지원\nooooo\nO\n블루레이/HD-DVD 오디오의 최대 해상도 지원\nO\n기기간 컨트롤 링크 (CEC)\nO\nO\nDVD 오디오 지원\nX\nO\nSACD (DSD) 지원\nX\nX\nX\nDeep color\nX\nx\nX\n0 0 0 0 0 0 0 0 0 0 0 0 0 0 00\nXVYCC\nx\nX\n○\nX\n자동 립싱크\nX\nX\nX\nO\n돌비 TrueHD 오디오 비트스트림 지원\nX\nX\nO\nX\nUpdated list of CEC commands\nX\nX\nX\nO\nHDMI 3D 지원\nX\nx\nx\n×\n이더넷채널\nx\nX\nX\nX\n오디오 리턴 채널\nX\nX\nX\n×\n4K 해상도 지원 (30fps / 60fps)\nX\nX\nX\nx\n오디오 리턴 채널\n(Audio Return Channel)\nTV와 AV기기 간에 별도의 케이블이 없이도\n선명하고 쾌적한 음성신호를 전송합니다.\n\n\n9:35\nHD\nHDMI 케이블을 통해 TV 사운드를 재생하는 ARC(Audio Return Channel) 지원\nHEC 지원\n(HDMI Ethernet Channal)\nHDMI 1.4 케이블은 별도의 랜케이블 없이 네트워크에 접속해\n초고속 양방향 통신 및 IP 기반 응용기술(IPTV, DLNA, UPnp)을\n구현할 수 있습니다.\nHDMI®\nHIGH SPEED\nwith ETHERNET\n19P/M\nINTERNET\nTV, PC 모니터 등에 연결\ne\n노트북, 블루레이 플레이어, 게임기\n셋톱박스 등에 연결\n19P/M\n000200\nRTD\nBlu-ray 플레이어\n노트북\nv\nvd\n게임기\n셋톱박스\n30AWG (American Wire Gage)\n미국전선규격 American Wire Gage\nHDMI 1.4 케이블은 30AWG 규격의 얇은 굵기로 설치가 매우 쉽습니다.\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 클수록 가느다란 내심을 가지고 있으며\n얇게 설계되어 케이블 설치공사에 적합합니다.\n40\n얇은 케이블\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nPRODUCT SIZE\n\n\n40\n얇은 케이블\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nPRODUCT SIZE\n0.5-3M\n19mm\n000\n5,5mm\n4.5mm\n14mm\nPRODUCT IMAGE\n0\n19P Male\nHIGH\nSPEED\nHDMI\nCABLE\nWITH\nETHERNET\nLANStaus\nHOM HO 05m\n0.5M LSP-HDMI-0.5M\nPREMIUM\nQUALITY\nLANStaus\nHOMIO 1m\n1M LSP-HDMI-1M\nRe\nPREMIUM\nLANStalus\nHDMI PO 1.8m\n0\na\n1.8M LSP-HDMI-1.8M\nPREMIUM\nBANStar\nplus\nHDMI O\n3m\n3M LSP-HDMI-3M\nROHS\nRestriction of Hazardous Substances\n\n\nROHS\nRestriction of Hazardous Substances\nRoHS(Restriction of Hazardous Substances)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등 중금속\n사용을 금지합니다.\nROHS\nCompliant\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nLANstar\nplus+\n• 제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n•\n• 라인업시스템(주)에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nHDMI 케이블 19P M/M\n®\nLANstar\nplus\n모\n델\n명\nLSP-HDMI-0.5M/LSP-HDMI-1M\nLSP-HDMI-1.8M/LSP-HDMI-3M\n인증번\n호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1.0,
+        1.8,
+        3.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": 30,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19P M/M (HDMI 19P(M)-HDMI 19P(M))",
+    "connectivity.output_signals": "HDMI 19P M/M (HDMI 19P(M)-HDMI 19P(M))",
+    "connectivity.directional": "HEC(HDMI Ethernet Channel) 지원 — 별도 랜케이블 없이 네트워크 접속 및 양방향 통신",
+    "power.power_mode": "무전원",
+    "certification.rohs": "RoHS(특정 유해물질 사용 제한) 준수 제품",
+    "audio_video.max_resolution": "4K@30Hz",
+    "audio_video.audio_pass": "ARC(Audio Return Channel) 지원 — TV와 AV기기 간 별도 케이블 없이 음성신호 전송",
+    "form_physical.material": "24K 금도금 커넥터 채택",
+    "form_physical.length_options_meters": "0.5M, 1M, 1.8M, 3M",
+    "family.awg": "30AWG 규격의 얇은 케이블",
+    "family.poe_support": "HEC(HDMI Ethernet Channel) 지원 — 별도 랜케이블 없이 네트워크 접속 및 양방향 통신"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:49",
+  "feature_schema_version": "1.0.0"
+}

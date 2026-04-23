@@ -1,0 +1,75 @@
+{
+  "model_no": "LS-7SD-BK2M",
+  "product_name": "[LANstar] 랜연장 판넬형 케이블, CAT.7 S/FTP, Screw, 연장 M-F 2M 검정 [11070][80개]",
+  "category": [
+    "랜케이블-CAT7",
+    "랜케이블-FTP",
+    "랜케이블-SFTP",
+    "분배판넬"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-7SD-BK2M",
+      "품목코드": "CAB-S7S005",
+      "품목명": "[LANstar] 랜연장 판넬형 케이블, CAT.7 S/FTP, Screw, 연장 M-F 2M 검정 [11070][80개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-7SD-BK2M",
+      "내용": "제품 배송이 빠르고 포장도 깔끔하네요"
+    },
+    {
+      "source_model": "LS-7SD-BK2M",
+      "내용": "잘 사용하겠습니다. 감사합니다"
+    },
+    {
+      "source_model": "LS-7SD-BK2M",
+      "내용": "단자함에 있는 랜선을 연장하려고 커플러+랜선 따로 사려다 이거로 구매해봤어요. 같이 구매한 테스터로 바로 테스트해보니 다 정상이네요 ㅋ"
+    },
+    {
+      "source_model": "LS-7SD-BK2M",
+      "내용": "만족합니다 재구매의사있음"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향"
+    },
+    "form_physical": {
+      "length_meters": 2,
+      "color_options": [
+        "검정"
+      ]
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "SFTP",
+      "conductor": "연선(stranded)"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "랜연장 판넬형 케이블",
+    "connectivity.output_signals": "랜연장 판넬형 케이블",
+    "connectivity.directional": "랜연장 판넬형 케이블",
+    "form_physical.length_meters": "2M",
+    "form_physical.color_options": "검정",
+    "family.cat_category": "CAT.7",
+    "family.shielding": "S/FTP",
+    "family.conductor": "연장 M-F"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:42",
+  "feature_schema_version": "1.0.0"
+}

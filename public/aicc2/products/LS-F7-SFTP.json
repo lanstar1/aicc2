@@ -1,0 +1,252 @@
+{
+  "model_no": "LS-F7-SFTP",
+  "product_name": "LANStar CAT.7 FTP 다이렉트 평면 랜케이블 (FLAT CABLE)",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "랜케이블-FTP",
+    "랜케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "평면(FLAT) 구조로 카펫 아래, 좁은 공간에 설치 가능한 언더카펫 케이블",
+    "CAT.7 규격, 10Gbps 전송 대역폭 지원",
+    "CAT.5 대비 10배 이상 빠른 전송속도",
+    "50μ 금도금 커넥터로 산화 방지, 높은 전도율 및 신호 손실 최소화",
+    "연선(Stranded) 케이블로 단선 대비 유연성이 높아 설치 용이",
+    "알루미늄 쉴드(FTP) 적용으로 외부 노이즈 차단",
+    "래치커버 적용 커넥터",
+    "난연 소재 적용",
+    "다이렉트 케이블 핀배열(568B-568B) 적용"
+  ],
+  "specifications": {
+    "규격": "CAT.7 FTP",
+    "전송속도": "10Gbps",
+    "케이블 타입": "평면(FLAT), 연선",
+    "색상": "흰색",
+    "케이블 단면 크기": "2x8mm",
+    "AWG": "30AWG",
+    "커넥터": "8P8C RJ45",
+    "금도금 두께": "50μ",
+    "쉴드": "알루미늄(2차 절연체)",
+    "도체": "구리",
+    "1차 절연체": "PVC",
+    "난연": "적용",
+    "핀배열(다이렉트)": "568B-568B",
+    "핀배열(크로스)": "568B-568A",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "모델명": "LS-F7-SFTP",
+    "인증번호": "상세페이지 참조",
+    "길이 라인업": "1M, 2M, 3M, 5M, 10M, 15M, 20M"
+  },
+  "compatibility": [
+    "CAT.7 호환 네트워크 장비",
+    "CAT.6 호환 네트워크 장비",
+    "CAT.5 호환 네트워크 장비",
+    "8P8C RJ45 포트 지원 기기",
+    "10Gbps 지원 스위치/라우터/NIC"
+  ],
+  "package_contents": [
+    "CAT.7 FTP 다이렉트 평면 랜케이블 (선택 길이 1개)"
+  ],
+  "usage_instructions": "평면(FLAT) 구조이므로 카펫 아래나 좁은 공간에 깔아서 사용 가능합니다. 연선 케이블로 유연성이 높아 설치가 용이합니다. 커넥터는 다이렉트 핀배열(568B-568B) 기준이며, 양쪽 RJ45 커넥터를 네트워크 장비의 RJ45 포트에 연결하여 사용합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-F7-SFTP-1M",
+      "품목코드": "CAB-U7F001",
+      "품목명": "[LANstar] FTP평면케이블, CAT.7 DIRECT, 1M, White, 금도금 [10137] (150개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F7-SFTP-2M",
+      "품목코드": "CAB-U7F002",
+      "품목명": "[LANstar] FTP평면케이블, CAT.7 DIRECT, 2M, White, 금도금 [10138] (120개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F7-SFTP-3M",
+      "품목코드": "CAB-U7F003",
+      "품목명": "[LANstar] FTP평면케이블, CAT.7 DIRECT, 3M, White, 금도금 [10139] (100개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F7-SFTP-5M",
+      "품목코드": "CAB-U7F004",
+      "품목명": "[LANstar] FTP평면케이블, CAT.7 DIRECT, 5M, White, 금도금 [10140] (70개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F7-SFTP-10M",
+      "품목코드": "CAB-U7F005",
+      "품목명": "[LANstar] FTP평면케이블, CAT.7 DIRECT, 10M, White, 금도금 [10141] (30개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F7-SFTP-15M",
+      "품목코드": "CAB-U7F006",
+      "품목명": "[LANstar] FTP평면케이블, CAT.7 DIRECT, 15M, White, 금도금 [10703] (25개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F7-SFTP-20M",
+      "품목코드": "CAB-U7F007",
+      "품목명": "[LANstar] FTP평면케이블, CAT.7 DIRECT, 20M, White, 금도금 [10704] (20개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-F7-SFTP",
+      "내용": "10미터 시켰는데  15미터 오다니 흠"
+    },
+    {
+      "source_model": "LS-F7-SFTP",
+      "내용": "잘 꼬이지는 않지만 다소 불편합니다."
+    },
+    {
+      "source_model": "LS-F7-SFTP",
+      "내용": "그럭저럭 쓸만합니다."
+    },
+    {
+      "source_model": "LS-F7-SFTP",
+      "내용": "생각보다 덜 풀랙스하네요."
+    },
+    {
+      "source_model": "LS-F7-SFTP",
+      "내용": "사용하기 편리하네요",
+      "관련내용": "잘 받았어요\n불량 없고 좋네요~"
+    },
+    {
+      "source_model": "LS-F7-SFTP",
+      "내용": "사용하기 편리하네요",
+      "관련내용": "잘 받았어요~~\n불량없고 좋네요~"
+    },
+    {
+      "source_model": "LS-F7-SFTP",
+      "내용": "생각보단 두께가 있네요 엄청 얇은정도는 아닙니다.\n그래서 내구성은 좋아보입니다 좋은물건입니다\n추천합니다"
+    },
+    {
+      "source_model": "LS-F7-SFTP",
+      "내용": "잘 받았어요\n불량 없고 좋네요~"
+    },
+    {
+      "source_model": "LS-F7-SFTP",
+      "내용": "잘 받았어요~~\n불량없고 좋네요~"
+    },
+    {
+      "source_model": "LS-F7-SFTP",
+      "내용": "깔끔해서 보관하기도 사용하기 좋아요"
+    },
+    {
+      "source_model": "LS-F7-SFTP",
+      "내용": "잘 받았습니다~ 상품 좋아요~"
+    },
+    {
+      "source_model": "LS-F7-SFTP",
+      "내용": "ㄱ가격도 저렴하니 좋아요"
+    },
+    {
+      "source_model": "LS-F7-SFTP-2M",
+      "내용": "이젠  cat 7의  시대이죠."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "PVC",
+        "구리",
+        "알루미늄",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        2,
+        3,
+        5,
+        10,
+        15,
+        20
+      ],
+      "color_options": [
+        "흰색"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "FTP",
+      "conductor": "연선(stranded)",
+      "awg": 30,
+      "pair_count": null,
+      "flame_rating": "PVC",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 커넥터를 네트워크 장비의 RJ45 포트",
+    "connectivity.output_signals": "RJ45 커넥터를 네트워크 장비의 RJ45 포트",
+    "connectivity.directional": "다이렉트 케이블 핀배열(568B-568B)",
+    "form_physical.material": "PVC, 구리, 알루미늄 쉴드, 금도금 커넥터",
+    "form_physical.length_options_meters": "1M, 2M, 3M, 5M, 10M, 15M, 20M",
+    "form_physical.color_options": "흰색",
+    "family.cat_category": "CAT.7 규격",
+    "family.shielding": "알루미늄 쉴드(FTP) 적용",
+    "family.conductor": "연선(Stranded) 케이블",
+    "family.awg": "30AWG",
+    "family.flame_rating": "난연 소재 적용"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:10",
+  "feature_schema_version": "1.0.0"
+}

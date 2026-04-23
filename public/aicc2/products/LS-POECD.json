@@ -1,0 +1,149 @@
+{
+  "model_no": "LS-POECD",
+  "product_name": "LANStar PoE+ 1Gbps 듀얼 랜카드 (LS-POECD)",
+  "category": [
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "PCI-Express 1.0 x4 Bus Slot 인터페이스",
+    "Intel JL82576EB 칩셋 탑재",
+    "RJ45 2포트 지원 (PoE+ 듀얼 포트)",
+    "랜포트를 통해 이더넷과 전원 동시 공급 (PoE)",
+    "IEEE 802.3af/at PoE 표준 지원 (PoE+ 최대 30W, 44~57VDC)",
+    "IEEE 802.3ab / 802.3u / 802.3 표준 지원",
+    "10/100/1000Mbps 전송 속도 지원",
+    "망분리 기능 지원 (업무망·인터넷망 동시 사용 가능)",
+    "방열판(Heatsink) 탑재로 발열 억제 및 성능 저하 방지",
+    "슬림 PC 전용 브라켓 기본 포함",
+    "국립전파연구원 KC 인증 획득 (R-R-LUS-LS-POECD)",
+    "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "Bus Slot": "PCI-Express X4",
+    "인터페이스": "RJ45 x2",
+    "전송 속도": "10/100/1000Mbps",
+    "칩셋": "Intel JL82576EB",
+    "PoE 표준": "IEEE 802.3af / at (PoE+ 30W, 44~57VDC)",
+    "이더넷 표준": "IEEE 802.3ab, 802.3u, 802.3",
+    "운영 체제": "Windows 7/8/10/11, FreeBSD, Linux, VMWare ESXi",
+    "미지원 OS": "Windows XP",
+    "제품 크기": "160mm x 56mm",
+    "제품 무게": "약 169g",
+    "KC 인증 번호": "R-R-LUS-LS-POECD",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "드라이버 버전": "Version 18.3"
+  },
+  "compatibility": [
+    "PCI-Express x4 슬롯 (4배속 사용)",
+    "PCI-Express x8 슬롯 (사용 가능)",
+    "PCI-Express x16 슬롯 (사용 가능)",
+    "PCI-Express x1 슬롯 (사용 불가)",
+    "IEEE 802.3af PoE 장비 (최대 15W)",
+    "IEEE 802.3at PoE+ 장비 (최대 30W)",
+    "IP 카메라, PTZ 카메라, 네트워크 카메라",
+    "VoIP 전화기 / IP 전화기",
+    "무선 AP (Wireless AP)",
+    "IP 공유기",
+    "LED 전등",
+    "도어폰",
+    "스마트 홈 기기",
+    "저전력 PC",
+    "슬림 PC (전용 브라켓 사용 시)",
+    "Windows 7, Windows 8, Windows 10, Windows 11",
+    "FreeBSD, Linux, VMWare ESXi",
+    "Intel 82540, 82545, 82546, 82571, 82573, 82574, 82575, 82576, 82580, 82583 계열 드라이버"
+  ],
+  "package_contents": [
+    "PCIE PoE+ 듀얼 랜카드 본체 (LS-POECD)",
+    "슬림 PC 전용 브라켓",
+    "드라이버 설치 CD",
+    "매뉴얼"
+  ],
+  "usage_instructions": "1. PC 전원을 완전히 끈 상태에서 메인보드의 PCI-Express x4/x8/x16 슬롯에 카드를 장착한다. 2. PC를 부팅하면 Windows 10/11의 경우 드라이버가 자동 설치된다. 자동 설치가 되지 않을 경우 동봉된 CD로 수동 설치한다. 3. 설치 후 장치관리자 > 네트워크 어댑터에서 'Intel(R) 82576 Gigabit Dual Port Network Connection' 항목 2개가 표시되는지 확인한다. 4. 제어판 > 네트워크 및 인터넷 > 네트워크 연결에서 이더넷8·이더넷9 포트 연결 상태를 확인한다. 5. 슬림 PC 사용 시 기본 브라켓을 제거하고 동봉된 슬림 PC 전용 브라켓으로 교체 후 장착한다.",
+  "cautions": [
+    "Windows XP는 지원하지 않으므로 사용 불가",
+    "PCI-Express x1 슬롯에는 장착 불가",
+    "PC 전원이 OFF된 상태에서 카드를 장착해야 함",
+    "일반 랜카드 용도로만 구매 시 비효율적 (PoE 전용 제품으로 일반 랜카드 대비 고가)",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처 제품은 정품이 아니며 A/S 불가",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있음 (평균 1~2일 소요)"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-POECD",
+      "품목코드": "POE-PCI002",
+      "품목명": "[LANstar] PCIe 인텔 82576 PoE+ 듀얼 랜카드 [30824] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "PoE",
+      "charging_support": false,
+      "pd_watts": 30
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 1000,
+      "chipset": "Intel JL82576EB"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 2포트 지원",
+    "connectivity.output_signals": "RJ45 2포트 지원",
+    "connectivity.directional": "10/100/1000Mbps 전송 속도 지원",
+    "connectivity.port_count": "RJ45 2포트 지원",
+    "power.power_mode": "랜포트를 통해 이더넷과 전원 동시 공급 (PoE)",
+    "power.pd_watts": "PoE+ 최대 30W",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "family.bus_interface": "PCI-Express 1.0 x4 Bus Slot 인터페이스",
+    "family.speed_mbps": "10/100/1000Mbps 전송 속도 지원",
+    "family.chipset": "Intel JL82576EB 칩셋 탑재"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:30",
+  "feature_schema_version": "1.0.0"
+}

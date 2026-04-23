@@ -1,0 +1,135 @@
+{
+  "model_no": "LS-STG-3.5F",
+  "product_name": "LAN Star AV 변환젠더 3.5ST/F-6.3ST/M",
+  "category": [
+    "컨버터",
+    "젠더",
+    "커넥터",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "3.5mm 스테레오(Female) 단자를 6.3mm 스테레오(Male) 단자로 변환",
+    "3.5ST(F) 타입과 6.3ST(M) 타입 커넥터로 구성",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 유해물질 사용 제한 규정 준수",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "커넥터_A": "3.5ST Female",
+    "커넥터_B": "6.3ST Male",
+    "신호_타입": "스테레오",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "3.5mm 스테레오 단자 기기",
+    "6.3mm 스테레오 단자 기기"
+  ],
+  "package_contents": [
+    "AV 변환젠더 3.5ST/F-6.3ST/M 본체 1개"
+  ],
+  "usage_instructions": "3.5mm 스테레오 단자를 6.3mm 스테레오 단자로 변환할 때 사용합니다. 3.5ST(Female) 측에 3.5mm 플러그를 연결하고, 6.3ST(Male) 측을 6.3mm 단자에 삽입하여 사용합니다.",
+  "cautions": [
+    "유통 과정상 제품의 모양이 조금씩 달라질 수 있습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-STG-3.5F-6.3M",
+      "품목코드": "GEN-오디음004",
+      "품목명": "[LANstar] AV젠더Changer , 3.5ST／F-6.3(5.5)ST／M[20019] (1,000개)",
+      "variant_suffix": "-6.3M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "6.35mm"
+      ],
+      "directional": "단방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5mm 스테레오(Female) 단자를",
+    "connectivity.output_signals": "6.3mm 스테레오(Male) 단자로 변환",
+    "connectivity.directional": "3.5mm 스테레오 단자를 6.3mm 스테레오 단자로 변환",
+    "connectivity.port_count": "3.5ST(F) 타입과 6.3ST(M) 타입 커넥터로 구성",
+    "power.power_mode": "무전원",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "LAN Star AV 변환젠더",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "null",
+    "certification.rohs": "RoHS 유해물질 사용 제한 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "null",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "3.5mm 스테레오(Female) 단자를 6.3mm 스테레오(Male) 단자로 변환",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.conversion_direction": "3.5mm 스테레오 단자를 6.3mm 스테레오 단자로 변환",
+    "family.requires_external_power": "null",
+    "family.chipset": "null"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:15",
+  "feature_schema_version": "1.0.0"
+}

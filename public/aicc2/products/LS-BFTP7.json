@@ -1,0 +1,227 @@
+{
+  "model_no": "LS-BFTP7",
+  "product_name": "LANStar CAT.6A FTP SLIM 벤더블 케이블 (다이렉트 슬림 랜 케이블 / 연선 / Bendable)",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-FTP",
+    "커넥터"
+  ],
+  "key_features": [
+    "CAT.6A FTP 규격, 최대 10Gbps 전송속도 및 500MHz 대역폭 지원",
+    "슬림 벤더블(Bendable) 설계: 외경 4.0±0.1mm, 유연하고 반복 굴곡에 강함",
+    "연선(7가닥) 구조로 단선 위험 감소 및 내구성 우수",
+    "FTP 구조: 각 페어 알루미늄 차폐막 적용으로 EMI/신호 간섭 최소화",
+    "쇼트 플러그(Short Plug) 적용: 일반 커넥터보다 짧아 고밀도 장비 및 협소 공간에 적합",
+    "3μ 금도금 + 3Prongs 핀 커넥터로 신호 전송 오류 최소화",
+    "내부 절연체 TPE, 외피 PVC 자켓 사용",
+    "케이블 길이별 FLUKE 테스트 전 모델 PASS 완료",
+    "말아 보관해도 탄성 유지, 휴대 및 보관 용이",
+    "32AWG 심선으로 PoE 전력 전달 가능 (고전력 PoE++ 사용 시 길이 주의)",
+    "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "규격": "CAT.6A SLIM U/FTP",
+    "전송속도": "10Gbps",
+    "대역폭": "500MHz",
+    "심선": "32AWG",
+    "커넥터": "3μ Gold Plated Pin (3Prongs, Short Plug)",
+    "재질": "(7/0.08BC*1P+AL)*4PCS+D(7/0.08BC)+TPE",
+    "내부 절연체": "TPE",
+    "외피": "PVC 자켓",
+    "직경(OD)": "4.0 ± 0.1mm",
+    "케이블 타입": "연선(Stranded)",
+    "심선 소재": "BC (Bare Copper, 순수 구리)",
+    "차폐 구조": "FTP (Foiled Twisted Pair) - 각 페어 알루미늄 차폐막 + Drain Wire",
+    "지원 규격": "10GBASE-T",
+    "케이블 길이 라인업": "0.5M, 1M, 1.5M, 2M, 3M, 5M, 7M, 10M, 15M, 20M",
+    "모델번호(상품번호)": "30897(0.5M), 30898(1M), 30899(1.5M), 30900(2M), 30901(3M), 30902(5M), 30903(7M), 30904(10M), 30905(15M), 30906(20M)",
+    "핀아웃(T568B)": "1:WHITE/ORANGE, 2:ORANGE, 3:WHITE/GREEN, 4:BLUE, 5:WHITE/BLUE, 6:GREEN, 7:WHITE/BROWN, 8:BROWN",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "표준 RJ45 포트 호환 (정규 규격 RJ45 커넥터)",
+    "10GBASE-T 네트워크 장비",
+    "1000BASE-T / 1000BASE-TX 네트워크 장비",
+    "PoE 지원 장비 (고전력 PoE++ 사용 시 길이 주의)",
+    "랙, 네트워크 패널, 서버룸, 모니터암 등 고밀도 설치 환경",
+    "CAT.6A 규격 호환 스위치, 허브, 공유기, NIC 등"
+  ],
+  "package_contents": [
+    "CAT.6A FTP SLIM 벤더블 랜 케이블 1개 (선택 길이에 따라 0.5M~20M)"
+  ],
+  "usage_instructions": "표준 RJ45 포트에 연결하여 사용. 유연한 벤더블 구조로 랙 내부, 벽 코너, 모니터 뒤 등 협소한 공간에서도 자유롭게 배선 가능. 말아서 보관해도 탄성이 유지됨. 고전력 PoE++ 사용 시 케이블 길이에 주의.",
+  "cautions": [
+    "고전력 PoE++ 사용 시 케이블 길이에 주의가 필요합니다.",
+    "당일출고는 오후 4시 이전 결제완료 건에 한하며, 토·일·공휴일 제외 평일 기준입니다. 택배사 사정에 따라 배송기간이 길어질 수 있습니다.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되지 않은 판매처 제품은 정품이 아니며 A/S를 받을 수 없습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-BFTP7-0.5M",
+      "품목코드": "CAB-SS7269",
+      "품목명": "[LANstar] Cat.6A U/FTP 벤더블 케이블, 0.5m [30897](400개)",
+      "variant_suffix": "-0.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-BFTP7-1M",
+      "품목코드": "CAB-SS7270",
+      "품목명": "[LANstar] Cat.6A U/FTP 벤더블 케이블, 1m [30898](250개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-BFTP7-1.5M",
+      "품목코드": "CAB-SS7271",
+      "품목명": "[LANstar] Cat.6A U/FTP 벤더블 케이블, 1.5m [30899](250개)",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-BFTP7-2M",
+      "품목코드": "CAB-SS7272",
+      "품목명": "[LANstar] Cat.6A U/FTP 벤더블 케이블, 2m [30900](200개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-BFTP7-3M",
+      "품목코드": "CAB-SS7273",
+      "품목명": "[LANstar] Cat.6A U/FTP 벤더블 케이블, 3m [30901](150개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-BFTP7-5M",
+      "품목코드": "CAB-SS7274",
+      "품목명": "[LANstar] Cat.6A U/FTP 벤더블 케이블, 5m [30902](100개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-BFTP7-7M",
+      "품목코드": "CAB-SS7275",
+      "품목명": "[LANstar] Cat.6A U/FTP 벤더블 케이블, 7m [30903](80개)",
+      "variant_suffix": "-7M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-BFTP7-10M",
+      "품목코드": "CAB-SS7276",
+      "품목명": "[LANstar] Cat.6A U/FTP 벤더블 케이블, 10m [30904](60개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-BFTP7-15M",
+      "품목코드": "CAB-SS7277",
+      "품목명": "[LANstar] Cat.6A U/FTP 벤더블 케이블, 15m [30905](40개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-BFTP7-20M",
+      "품목코드": "CAB-SS7278",
+      "품목명": "[LANstar] Cat.6A U/FTP 벤더블 케이블, 20m [30906](40개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "알루미늄",
+        "PVC",
+        "TPE",
+        "금도금",
+        "구리"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1.0,
+        1.5,
+        2.0,
+        3.0,
+        5.0,
+        7.0,
+        10.0,
+        15.0,
+        20.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "FTP",
+      "conductor": "연선(stranded)",
+      "awg": 32,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "표준 RJ45 포트에 연결하여 사용",
+    "connectivity.output_signals": "표준 RJ45 포트에 연결하여 사용",
+    "connectivity.directional": "CAT.6A FTP 규격, 최대 10Gbps 전송속도",
+    "form_physical.material": "각 페어 알루미늄 차폐막 적용",
+    "form_physical.material[1]": "외피 PVC 자켓 사용",
+    "form_physical.material[2]": "내부 절연체 TPE",
+    "form_physical.material[3]": "3μ 금도금 + 3Prongs 핀 커넥터",
+    "form_physical.material[4]": "BC (Bare Copper, 순수 구리)",
+    "form_physical.length_options_meters": "0.5M, 1M, 1.5M, 2M, 3M, 5M, 7M, 10M, 15M, 20M",
+    "family.cat_category": "CAT.6A FTP 규격",
+    "family.shielding": "FTP 구조: 각 페어 알루미늄 차폐막 적용",
+    "family.conductor": "연선(7가닥) 구조로 단선 위험 감소",
+    "family.awg": "32AWG 심선으로 PoE 전력 전달 가능",
+    "family.pair_count": "(7/0.08BC*1P+AL)*4PCS",
+    "family.flame_rating": "외피 PVC 자켓 사용",
+    "family.poe_support": "32AWG 심선으로 PoE 전력 전달 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:32",
+  "feature_schema_version": "1.0.0"
+}

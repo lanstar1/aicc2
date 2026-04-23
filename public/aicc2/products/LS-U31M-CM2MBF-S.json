@@ -1,0 +1,139 @@
+{
+  "model_no": "LS-U31M-CM2MBF-S",
+  "product_name": "LANStar USB 3.1 Type C 젠더 (C/M - 2.0 Micro B/F) 메탈",
+  "category": [
+    "USB-C",
+    "USB2.0",
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 3.1 Type C Male to USB 2.0 Micro B Female 변환 젠더",
+    "데이터 전송 및 충전 기능 지원",
+    "Type C 커넥터는 위아래 방향 구분 없이 연결 가능",
+    "Silver Metal 커넥터 재질",
+    "기존 USB 포트 대비 3분의 1 크기의 Type C 포트로 외장기기 연결 및 빠른 데이터 전송·충전 가능",
+    "구글 크롬북 USB 포트 지원",
+    "애플 맥북과 호환",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 준수 및 ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "커넥터 구성": "USB 3.1 Type C Male / USB 2.0 Micro B Female",
+    "재질": "Silver Metal Connector",
+    "전체 길이": "28.5mm",
+    "Type C 커넥터 너비": "8.2mm",
+    "Type C 커넥터 높이": "2.4mm",
+    "Micro B 커넥터 너비": "10.2mm",
+    "Micro B 커넥터 두께": "7.6mm",
+    "기타 치수1": "7.7mm",
+    "기타 치수2": "3mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "A/S 소비자상담": "070-7018-3386",
+    "A/S 문의 웹사이트": "www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "애플 맥북 (Apple MacBook)",
+    "구글 크롬북 (Google Chromebook)",
+    "넥서스 5X (Nexus 5X)",
+    "넥서스 6P (Nexus 6P)",
+    "샤오미 Mi4C",
+    "LeTV Le 1 Pro",
+    "LeTV Le 1s"
+  ],
+  "package_contents": [
+    "USB 3.1 Type C 젠더 (LS-U31M-CM2MBF-S) 본체 1개"
+  ],
+  "usage_instructions": "USB 3.1 Type C Male 단자를 Type C 포트가 있는 기기에 연결하고, USB 2.0 Micro B Female 단자에 Micro B 케이블을 꽂아 사용합니다. Type C 커넥터는 위아래 방향 구분 없이 연결 가능합니다.",
+  "cautions": [
+    "본 젠더는 삼성 갤럭시 S8과 호환되지 않습니다. 갤럭시 S8과 호환되는 모델 LS-U31M-CM2MBF-68을 구입하시기 바랍니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "RoHS 지침에 따라 납, 수은, 카드뮴 등 중금속 사용이 제한된 제품입니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-U31M-CM2MBF-S",
+      "품목코드": "CAB-U31017",
+      "품목명": "[LANstar] [USB 3.1] 변환젠더, USB 3.1 C/M-Micro B/F, 실버Metal-S[30124]★★할인제외★★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금속"
+      ],
+      "length_meters": 0.0285,
+      "length_options_meters": null,
+      "color_options": [
+        "Silver"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.1Gen1",
+      "transfer_speed_gbps": null,
+      "charging_only": null,
+      "data_only": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 Type C Male",
+    "connectivity.output_signals": "USB 2.0 Micro B Female",
+    "connectivity.directional": "데이터 전송 및 충전 기능 지원",
+    "power.power_mode": "데이터 전송 및 충전 기능 지원",
+    "power.charging_support": "데이터 전송 및 충전 기능 지원",
+    "form_physical.has_case": "메탈",
+    "form_physical.material": "Silver Metal 커넥터 재질",
+    "form_physical.length_meters": "전체 길이\": \"28.5mm",
+    "form_physical.color_options": "Silver Metal 커넥터 재질",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.usb_version": "USB 3.1 Type C Male"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:46",
+  "feature_schema_version": "1.0.0"
+}

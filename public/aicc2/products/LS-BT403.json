@@ -1,0 +1,167 @@
+{
+  "model_no": "LS-BT403",
+  "product_name": "LANStar 블루투스 CSR 4.0 USB 동글",
+  "category": [
+    "블루투스동글"
+  ],
+  "key_features": [
+    "블루투스 CSR 4.0 칩셋 사용",
+    "최대 15M 무선 거리 지원",
+    "블루투스 4.0 저전력 시스템 (소비전력 1.5~2mW, 블루투스 3.0 대비 최대 90% 절감)",
+    "스마트레디(Bluetooth Smart Ready) 지원",
+    "APT-X 고음질 무선 음성전송 코덱 지원",
+    "CSR HARMONY 소프트웨어 제공",
+    "다양한 블루투스 프로파일 지원",
+    "Windows 11 지원",
+    "전송속도 최대 3Mbps",
+    "국립전파연구원 인증 제품 (인증번호: MSIP-CRM-aTa-BT403)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS, FCC, CE, KC 안전규격 인증"
+  ],
+  "specifications": {
+    "블루투스 버전": "Bluetooth CSR 4.0",
+    "작동 무선주파수": "2.4GHz ~ 2.483GHz",
+    "전송속도": "3Mbps",
+    "지원거리": "최대 15m",
+    "지원 OS": "Windows XP / VISTA / Win 7, 8, 8.1, 10, 11",
+    "크기": "23mm x 14mm x 5mm (W x D x H)",
+    "블루투스 프로파일 지원": "HID, A2DP, AVCTP, AVRCP, OPP, SPP, DUN, FTP, AG, AVRCP, FAX, HEADSET, IM, IT, NA, HCRP",
+    "인증번호": "MSIP-CRM-aTa-BT403",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "Windows XP",
+    "Windows VISTA",
+    "Windows 7",
+    "Windows 8",
+    "Windows 8.1",
+    "Windows 10",
+    "Windows 11",
+    "Bluetooth Smart Ready 기기",
+    "APT-X 지원 기기",
+    "블루투스 헤드폰/이어폰/헤드셋",
+    "스마트폰",
+    "태블릿 PC"
+  ],
+  "package_contents": [
+    "블루투스 CSR 4.0 USB 동글 (LS-BT403)",
+    "드라이버 CD (CSR HARMONY 소프트웨어 포함)"
+  ],
+  "usage_instructions": "1. 제품 연결 전 드라이버 CD를 먼저 설치. CD-ROM이 없는 경우 랜마트 홈페이지(www.lanmart.co.kr)에서 드라이버 다운로드. 단, Windows 10/11 사용자는 기본 블루투스 메뉴로 설정 가능하므로 CD 별도 설치 불필요(설치 시 페어링 오류 가능). 2. 설치 파일 폴더의 SETUP.EXE를 더블 클릭. 3. 설치 언어 선택 후 [확인] - [다음] 클릭. 4. 사용권 계약서 동의 후 [다음] - [다음] - [다음] 클릭하여 소프트웨어 설치. 5. 설치 완료 후 PC 재부팅. 6. 재부팅 후 LS-BT403 장착 후 [장치관리자]에서 정상 설치 여부 확인(CSR Bluetooth Device 항목 확인). 7. CSR HARMONY 소프트웨어 실행 후 스마트폰·태블릿 PC 등의 블루투스를 활성화하여 무선 연결. 8. [장치추가] 클릭 후 [오디오/비디오 장치] 등 원하는 장치 유형 선택하여 페어링.",
+  "cautions": [
+    "블루투스 연결이 원활하지 않을 경우 제품을 PC에서 분리 후 재연결하고, LS-BT403과 스마트폰·태블릿 PC 등의 기기를 다시 페어링하시기 바랍니다.",
+    "연결할 장치의 블루투스 기능이 활성화되어 있는지 확인하시기 바랍니다.",
+    "많은 양의 데이터를 전송할 경우 연결된 장치에 따라 낮은 속도로 전송될 수 있습니다.",
+    "블루투스 기기는 무선신호의 특성상 거리가 멀거나 장애물·벽 등의 영향으로 무선 연결이 불안정해지거나 연결되지 않을 수 있습니다.",
+    "본 제품은 무선신호를 사용하기 때문에 주변 환경에 따라 무선 간섭을 받을 수 있습니다.",
+    "스마트폰과 블루투스 기기를 연결한 이력이 있다면, 스마트폰에서 블루투스 연결 정보를 삭제하고 블루투스 기기(이어폰, 헤드셋 등)를 초기화한 뒤 LS-BT403 연결을 시도하시기 바랍니다.",
+    "Windows 10, 11 사용자는 기본 블루투스 메뉴를 통해 설정이 가능하므로 동봉된 프로그램 CD를 따로 설치하지 않아도 됩니다. (프로그램 설치 시 페어링이 제대로 안될 수 있습니다.)",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-BT403",
+      "품목코드": "USB-응용제087",
+      "품목명": "[LANstar] USB 블루투스 4.0 동글 [60106]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-BT403",
+      "내용": "오류없이 너무너무 잘쓰고 있어요,,,진즉에 샀어야 하는 필수템,,,"
+    },
+    {
+      "source_model": "LS-BT403",
+      "내용": "가격대비 쓸만합니다"
+    },
+    {
+      "source_model": "LS-BT403",
+      "내용": "매우만족합니다~~^^",
+      "관련내용": "매우만족합니다~~^^"
+    },
+    {
+      "source_model": "LS-BT403",
+      "내용": "매우만족합니다~~^^"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Bluetooth"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": true
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 동글",
+    "connectivity.output_signals": "블루투스 CSR 4.0",
+    "connectivity.directional": "전송속도 최대 3Mbps",
+    "power.power_mode": "USB 동글",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "USB 동글",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "KC 안전규격 인증",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "null",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "null",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "APT-X 고음질 무선 음성전송 코덱 지원",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "CSR HARMONY 소프트웨어 제공"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:52",
+  "feature_schema_version": "1.0.0"
+}

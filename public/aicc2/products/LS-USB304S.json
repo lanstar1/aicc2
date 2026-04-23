@@ -1,0 +1,103 @@
+{
+  "model_no": "LS-USB304S",
+  "product_name": "[LANstar] USB허브 , USB3.0 4Port. Silver,무전원/전원추가가능 LS-USB304S [30136]",
+  "category": [
+    "USB허브",
+    "USB3.0"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-USB304S",
+      "품목코드": "USB-HB무122",
+      "품목명": "[LANstar] USB허브 , USB3.0 4Port. Silver,무전원/전원추가가능 LS-USB304S [30136]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-USB304S",
+      "내용": "상품 잘 받았습니다.",
+      "관련내용": "잘 받았고 만족스럽습니다."
+    },
+    {
+      "source_model": "LS-USB304S",
+      "내용": "잘 받았고 만족스럽습니다."
+    },
+    {
+      "source_model": "LS-USB304S",
+      "내용": "배송 빠르고 아주 좋아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "Silver"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "port_count": 4,
+      "usb_version": "USB3.0",
+      "ethernet_speed_mbps": null,
+      "has_sd_reader": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB3.0 4Port",
+    "connectivity.output_signals": "USB3.0 4Port",
+    "connectivity.directional": "USB허브",
+    "connectivity.port_count": "4Port",
+    "power.power_mode": "무전원/전원추가가능",
+    "form_physical.has_case": "USB허브",
+    "form_physical.color_options": "Silver",
+    "family.port_count": "4Port",
+    "family.usb_version": "USB3.0"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:43",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,129 @@
+{
+  "model_no": "LS-RLIGHT2",
+  "product_name": "링 라이트 스마트폰 거치대",
+  "category": [
+    "USB케이블",
+    "노트북거치대",
+    "배터리관련",
+    "스마트폰거치대"
+  ],
+  "key_features": [
+    "국제표준규격 1/4 나사홀 채택으로 삼각대 거치 가능",
+    "USB 연결 방식 (건전지 불필요) - 보조배터리, 어댑터, 데스크탑, 노트북 등 폭넓게 호환",
+    "원형램프와 USB 케이블 일체형 (분리 불가)",
+    "플렉서블 거치대 구조로 자유로운 각도 조절 가능",
+    "리모트 컨트롤러로 전원, 밝기 조절, 색상 변경 간편 조작",
+    "셀카 촬영, 라이브 스트리밍, 메이크업 조명, 제품 촬영 등 다용도 활용",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "모델명": "LS-RLIGHT",
+    "제품명": "링 라이트 스마트폰 거치대",
+    "원형램프 외경(A)": "25.5cm",
+    "원형램프 외경(B)": "26cm",
+    "원형램프 두께(C)": "2.5cm",
+    "원형램프 프레임 두께": "3.2cm",
+    "USB 케이블 길이": "약 2M",
+    "간이삼각대 높이": "18.5cm",
+    "간이삼각대 상단 직경": "3cm",
+    "간이삼각대 하단 직경": "3cm",
+    "간이삼각대 다리 길이": "8cm, 11cm, 24cm, 6cm, 8.5cm (각 부위 참조)",
+    "휴대폰 거치대 최소 넓이": "6cm",
+    "휴대폰 거치대 최대 넓이": "8.5cm",
+    "볼헤드 마운트 크기": "5cm x 2.8cm",
+    "나사홀 규격": "1/4 국제표준규격",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "해당없음",
+    "브랜드": "LANStar"
+  },
+  "compatibility": [
+    "보조배터리 (USB 연결)",
+    "USB 어댑터",
+    "데스크탑 (USB 연결)",
+    "노트북 (USB 연결)",
+    "1/4 규격 삼각대 (별도 구매 필요)"
+  ],
+  "package_contents": [
+    "원형 링 라이트 (USB 케이블 일체형)",
+    "간이 삼각대",
+    "볼헤드 마운트",
+    "휴대폰 거치대",
+    "리모트 컨트롤러"
+  ],
+  "usage_instructions": "1. 원형램프와 볼헤드 마운트를 결합한다. 2. 간이삼각대와 볼헤드 마운트를 결합한다. 3. 삼각대와 연결한 부분을 고정한다. 4. 원형램프에 휴대폰 거치대를 연결한다. 5. USB 케이블 연결 후 리모트 컨트롤러로 전원, 밝기, 색상을 조작한다. 6. 조명을 이용하여 촬영한다.",
+  "cautions": [
+    "삼각대는 별도 구매 제품입니다.",
+    "원형램프와 USB 케이블은 일체형으로 램프와 케이블을 분리할 수 없습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품(콘텐츠 포함)을 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        2
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": null,
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 연결 방식",
+    "power.power_mode": "USB 연결 방식 (건전지 불필요)",
+    "power.charging_support": "USB 연결 방식 (건전지 불필요)",
+    "form_physical.has_case": "원형램프와 USB 케이블 일체형",
+    "form_physical.length_options_meters": "USB 케이블 길이: 약 2M",
+    "certification.kc": "KC 인증번호: 해당없음",
+    "control_switching.has_remote": "리모트 컨트롤러로 전원, 밝기 조절, 색상 변경 간편 조작",
+    "family.charging_only": "셀카 촬영, 라이브 스트리밍, 메이크업 조명, 제품 촬영 등 다용도 활용",
+    "family.data_only": "셀카 촬영, 라이브 스트리밍, 메이크업 조명, 제품 촬영 등 다용도 활용"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:54",
+  "feature_schema_version": "1.0.0"
+}

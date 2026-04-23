@@ -1,0 +1,214 @@
+{
+  "model_no": "LSN-CAT6A-STP",
+  "product_name": "CAT.6A STP 컨넥터 + 부트 세트 (LS-SSTP-CAT.6A-300M 전용)",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-STP"
+  ],
+  "key_features": [
+    "10Gbps 최대 전송속도 지원",
+    "500MHz 대역폭 지원",
+    "50µ 금도금 핀 적용",
+    "3발형(3Prongs) 핀 모양으로 랜 케이블 작업 시 오류 최소화",
+    "LS-SSTP-CAT.6A-300M 전용 컨넥터 세트",
+    "T568B 표준(다이렉트) 배열 지원",
+    "컨넥터 + 부트 + 가이드 100개 구성"
+  ],
+  "specifications": {
+    "컨넥터 규격": "CAT.6A STP",
+    "전송 속도": "10Gbps",
+    "대역폭": "500MHz",
+    "호환 케이블 두께": "27AWG",
+    "핀 도금": "50µ 금도금",
+    "핀 형태": "3Prongs(3발형)",
+    "배선 표준": "T568B (다이렉트)",
+    "제조국/원산지": "중국 (China)",
+    "KC 인증번호": "해당없음"
+  },
+  "compatibility": [
+    "LS-SSTP-CAT.6A-300M (Grey) 300M 박스케이블 전용",
+    "랜툴 LS-68R (기어형)",
+    "랜툴 LS-468R (기어형)",
+    "자동 스트리퍼 LS-ASTR",
+    "케이블 탈피기/스트리퍼 LS-STR-R10"
+  ],
+  "package_contents": [
+    "CAT.6A STP 컨넥터 100개",
+    "부트(투명) 100개",
+    "가이드 100개"
+  ],
+  "usage_instructions": "1. 제작할 길이만큼 케이블을 자른 후 스트리퍼로 케이블 피복을 탈피한다. 2. 케이블에 부트를 결합한다. 3. T568B 핀 배열(또는 Cross)에 맞게 가이드에 페어를 결합하고, 가이드 밖으로 튀어나온 페어를 정렬하여 배선을 정리한다. 4. 주황색 페어(흰주/주황)가 가장 왼쪽이 되도록 컨넥터에 결합한다. 5. 부트와 컨넥터를 결합한 뒤 랜툴로 컨넥터를 압착하여 작업을 완료한다.",
+  "cautions": [
+    "본 제품은 LS-SSTP-CAT.6A-300M 전용 컨넥터이며 다른 케이블과의 호환성은 보장되지 않음",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "당일출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준임",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LSN-CAT6A-STP",
+      "품목코드": "NNO-콘넥터138",
+      "품목명": "[LANstar] CAT.6A STP 컨넥터 (LS-SSTP-CAT.6A-300M 전용 컨넥터) [30833]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSN-CAT6A-STP",
+      "내용": "잘 사용하고있습니다."
+    },
+    {
+      "source_model": "LSN-CAT6A-STP",
+      "내용": "튼튼하고 아주 만족합니다~^^"
+    },
+    {
+      "source_model": "LSN-CAT6A-STP",
+      "내용": "빠른 배송 감사합니다!"
+    },
+    {
+      "source_model": "LSN-CAT6A-STP",
+      "내용": "제품의 품질이 정말로 좋습니다 가성비 좋아요",
+      "관련내용": "배송도 빠르고 제품 품질이 마음에 듭니다"
+    },
+    {
+      "source_model": "LSN-CAT6A-STP",
+      "내용": "업무용으로 잘 사용했습니다~",
+      "관련내용": "잘 쓰고 있습닌다~~"
+    },
+    {
+      "source_model": "LSN-CAT6A-STP",
+      "내용": "랜스타 제품이라 믿고 씁니다.",
+      "관련내용": "가격싸고 품질도 좋습니다."
+    },
+    {
+      "source_model": "LSN-CAT6A-STP",
+      "내용": "가격싸고 품질도 좋습니다."
+    },
+    {
+      "source_model": "LSN-CAT6A-STP",
+      "내용": "배송도 빠르고 제품 품질이 마음에 듭니다"
+    },
+    {
+      "source_model": "LSN-CAT6A-STP",
+      "내용": "잘 쓰고 있습닌다~~"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LSN-CAT6A-STP",
+      "chatUrl": "2fAUp",
+      "dateIso": "2025-03-25T00:04:42.601Z",
+      "name": "고고존",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "일반용 케이블과 어떤부분이 차이가 나는건지? 또 케이블 작업을 할때 어려운 부분은 있는지 궁금합니다.\n(추가 문의) CAT6 전용 랜커넥터를 쓰면 되느가요? 아니면 전용제품이 따로 있나요?",
+      "answer": "랜선 제작 시 호환되는 전용 컨넥터가 있어야 합니다. 랜스타",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "CAT6 전용 랜커넥터를 쓰면 되느가요? 아니면 전용제품이 따로 있나요?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n랜선 제작 시 호환되는 전용 컨넥터가 있어야 합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타"
+        },
+        {
+          "role": "customer",
+          "text": "A/S 문의"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n랜선 제작 시 호환되는 전용 컨넥터가 있어야 합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타"
+        },
+        {
+          "role": "customer",
+          "text": "일반용 케이블과 어떤부분이 차이가 나는건지? 또 케이블 작업을 할때 어려운 부분은 있는지 궁금합니다."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "N/A"
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "STP",
+      "conductor": null,
+      "awg": 27,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "컨넥터 규격\": \"CAT.6A STP",
+    "connectivity.output_signals": "컨넥터 규격\": \"CAT.6A STP",
+    "form_physical.material": "50µ 금도금 핀 적용",
+    "certification.kc": "KC 인증번호\": \"해당없음",
+    "family.cat_category": "CAT.6A STP 컨넥터",
+    "family.shielding": "CAT.6A STP 컨넥터",
+    "family.awg": "호환 케이블 두께\": \"27AWG"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:19",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "compatibility": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "model_no": "LS-HMS402N",
+  "product_name": "LAN Star HDMI 2.0 4x2 Matrix 다운스케일 지원 (LS-HMS402N)",
+  "category": [
+    "HDMI매트릭스",
+    "컨버터"
+  ],
+  "key_features": [
+    "HDMI 4입력 2출력(4x2) 매트릭스 지원",
+    "최대 4K@60Hz UHD(3840x2160) 해상도 출력 지원",
+    "다운스케일 지원: 4K 입력 신호를 1080P@60Hz로 변환 출력 가능",
+    "HDR(High Dynamic Range) 지원 - SDR 대비 10배(1000nit) 명암 표현",
+    "YUV 4:4:4 크로마 서브샘플링 지원",
+    "HDMI 2.0 지원 (1.3/1.4 하위 버전 호환)",
+    "HDCP 2.2 지원 (영상 저작권 보호)",
+    "3D 디스플레이 지원",
+    "Dual-way 오디오 및 ARC(Audio Return Channel) 지원",
+    "오디오 출력: Toslink(광), Coaxial(동축), 3.5mm Stereo 각 2포트",
+    "Splitter/Matrix 두 가지 영상 출력 모드 지원",
+    "리모콘으로 손쉬운 화면 전환 가능",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-HMS402N)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "입력 포트": "HDMI 4포트",
+    "출력 포트": "HDMI 2포트, Toslink 2포트, Coaxial 2포트, 3.5ST 2포트",
+    "지원 해상도": "480p, 576p, 720p, 1080p, 4K@30Hz, 4K@60Hz",
+    "다운스케일 최대 해상도": "1080P@60Hz",
+    "전원": "DC 5V 2A 아답터",
+    "작동 온도": "0°C ~ 70°C",
+    "습도": "5% ~ 90%",
+    "크기": "210 x 66 x 26.5 (mm)",
+    "무게": "약 348g",
+    "재질": "Metal",
+    "HDMI 버전": "2.0 (1.3/1.4 하위 버전 호환)",
+    "HDCP 버전": "2.2",
+    "KC 인증번호": "R-R-LUS-LS-HMS402N",
+    "아답터 인증번호": "HU10681-16012A",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 입력 소스: 콘솔, 노트북, 데스크탑, 셋톱박스, DVD 플레이어",
+    "HDMI 출력 기기: TV, 모니터, 빔 프로젝터",
+    "오디오 출력 기기: 스피커(Coaxial/Toslink), 헤드셋/이어폰(3.5mm Stereo)",
+    "HDMI 1.3 / 1.4 하위 버전 호환",
+    "HDCP 2.2 지원 기기",
+    "4K 디스플레이 및 Full HD(1080P) 디스플레이 동시 혼용 사용 가능",
+    "3D 디스플레이 지원 기기",
+    "YUV 4:4:4 / 4:2:2 / 4:2:0 크로마 서브샘플링 지원 기기"
+  ],
+  "package_contents": [
+    "매트릭스 본체",
+    "매뉴얼(Quick Start Guide)",
+    "리모콘",
+    "DC 5V 아답터"
+  ],
+  "usage_instructions": "리모콘의 전원 버튼으로 매트릭스를 켜고, 입력 소스 선택 버튼(1~4)으로 A/B 출력 포트에 각각 원하는 입력 소스를 지정한다. Splitter 모드(동일 신호 분배) 또는 Matrix 모드(출력별 독립 소스 선택)를 선택하여 사용할 수 있다. ARC ON/OFF 버튼으로 A/B 출력 포트의 ARC 기능을 개별 제어하고, 오디오 채널 선택 버튼으로 2CH 또는 5.1CH(PASS)를 선택한다. MUTE 버튼으로 음성을 끌 수 있으며, 출력 포트별 전원 ON/OFF도 리모콘으로 제어 가능하다. 다운스케일 기능은 자동으로 적용되어 4K 입력 신호를 1080P 디스플레이에도 별도 조작 없이 출력할 수 있다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품(라인업시스템(주) 제작 상품 및 콘텐츠)을 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr / 전화 053-213-1907",
+    "작동 온도 범위(0°C~70°C) 및 습도 범위(5%~90%) 내에서 사용할 것",
+    "전원은 반드시 DC 5V 2A 아답터 사용"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HMS402N",
+      "품목코드": "INT-HDS204",
+      "품목명": "[LANstar] HDMI 4:2 매트릭스, 4K/60hz [30572] (20개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HMS402N",
+      "내용": "좋은상품 감사합니다~~\n다음에 재구매하도록 하겠습니다\n대박나세요~~"
+    },
+    {
+      "source_model": "LS-HMS402N",
+      "내용": "매트릭스 처음 사용해봤는데 전환도 빠르고 플스 닌텐도 컴퓨터 왔다갔다 쓰기 너무 좋았어요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HMS402N",
+      "id": 573802562,
+      "date": "2024-03-26 01:08",
+      "answerDate": "2024-03-26 09:09",
+      "user": "youp*****",
+      "productName": "랜스타 LS-HMS402N HDMI2.0 4:2 매트릭스 다운스케일 지원 4K60Hz",
+      "question": "현제 구성도\n\n4:2 분배기 \n\n1번 ps5. 2번 닌텐도 스위치 3번 호메틱스 셋탑 4번 pc 4:2 \n\n(분배기 출력 1번)  \n\n티비 hdmi 1번 입력 출력\n\n (분배기 출력2번)\n\n프로젝터 hdmi 1번 입력 \n\n4:2 분배기의 arc 기능 오프\n\n티비의 arc hdmi 케이블이\n\n야마하 리시버 arc hdmi out 1번\n\n빔 프로젝터에서 arc hdmi 케이블이 \n\n야마하 리시버 arc hdmi out 2번에 입력\n\n(여기서 문제 발생)!!!\n\n\n야마하 리시버의 hdmi의 1번 2번 출력이\n\n둘다 오프 상태로 바뀜\n\n사운드 입력 없음 표시 \n\n티비 리모컨과 프로첵터 리모컨 볼륨을\n\n누르면 리시버의 볼륨은 \n\n업다운 동작함 \n\n음성 신호만 없음 으로 나옴 \n\n4:2 분배기 제거후 \n\n소스를 티비와 프로젝터에 개별로 \n\n입력 시키면 리시버 arc로 정상 작동함 \n\n인증 받은 hdmi 케이블 여러 종류로 테스트\n\n(인증&비인증 케이블 10가지 이상)\n\n수십번 셋팅 변경해 봤는데 \n\n오디오 신호없음 이네요 \n\n답답하네요 답변 기다리겠습니다 \n\nps:요약\n\n야마하 리시버 최대 해상도가 \n\n1080p까지만 지원함\n\n이것 때문에 4:2 4k 셀렉터 구매 \n\n(4k 가 필요)\n\n4:2 셀렉터에 소스 기기 연결후 \n\n4:2 셀렉터\n\n1번 출력에 \n\n티비 외부입력 hdmi 1번에 입력\n\n2번 출력에 \n\n빔프로젝터 외부입력 hdmi 1번에 입력\n\n(둘다 4k 해상도)\n\n구동시\n\n야마하 리시버 에서 arc 신호 없음",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인하시어 톡톡 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~) \n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HMS402N",
+      "id": 573843923,
+      "date": "2024-03-26 10:38",
+      "answerDate": "2024-03-26 10:46",
+      "user": "youp*****",
+      "productName": "랜스타 LS-HMS402N HDMI2.0 4:2 매트릭스 다운스케일 지원 4K60Hz",
+      "question": "판매자안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인하시어 톡톡 부탁드립니다.\n성함 오승준 / 연락처 01091623443 / 구매처(사이트) 쿠팡/ 구매날짜24 3/22 / 구매한 모델명 (LS-~)hms402n 블랙",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n자사의 경우 랜스타 스마트스토어와 거래처 문의 상담 공간이 다릅니다.\n거래처 문의의 경우 아래 전달 드린 링크에서 다시 진행 부탁드립니다.\n\ntalk.naver.com/W4QWIB\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HMS402N",
+      "id": 613321048,
+      "date": "2025-01-11 21:14",
+      "answerDate": "2025-01-13 10:28",
+      "user": "uncl******",
+      "productName": "랜스타 LS-HMS402N HDMI2.0 4:2 매트릭스 다운스케일 지원 4K60Hz",
+      "question": "게임컴 송출컴 내장캡쳐보드 투컴 설치중인데요\n매트릭스를 사야하나요... 선택기를 사야하나요?ㅠ",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n투컴 세팅에서 어떻게 사용하실건지에 따라서 구매포인트가 달라집니다. \n보통 투컴 송출은 캡쳐보드만 있으면 됩니다. 구매에 참고 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HMS402N",
+      "id": 646910428,
+      "date": "2025-10-16 09:19",
+      "answerDate": "2025-10-16 17:49",
+      "user": "2223***",
+      "productName": "랜스타 LS-HMS402N HDMI2.0 4:2 매트릭스 다운스케일 지원 4K60Hz",
+      "question": "이 제품 잘 사용중인데요... 리모컨이 고장이 나서 리모컨만 따로 구입할 수 없을까요 ?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인 후 톡톡 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HMS402N",
+      "chatUrl": "PnA6",
+      "dateIso": "2023-09-25T04:57:18.213Z",
+      "name": "mymm****",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "안녕하세요 이제품 혹시 arc기능 지원하나요?",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    },
+    {
+      "source_model": "LS-HMS402N",
+      "chatUrl": "dfdAo",
+      "dateIso": "2025-10-17T00:28:30.870Z",
+      "name": "222",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "이형식 /  010-7317-2318 / 네이버쇼핑(근호컴) / 2024년 5월 26일 구매 / LS-HMS402N 4_2 HDMI 매트릭스 스위치",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI",
+        "Optical",
+        "Coaxial",
+        "3.5mm"
+      ],
+      "directional": "양방향",
+      "port_count": 12
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": true,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "input_count": 4,
+      "output_count": 2,
+      "mode": [
+        "매트릭스",
+        "분배"
+      ],
+      "cascade_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 4입력",
+    "connectivity.output_signals": "HDMI 2포트, Toslink 2포트, Coaxial 2포트, 3.5ST 2포트",
+    "connectivity.directional": "Dual-way 오디오 및 ARC(Audio Return Channel) 지원",
+    "connectivity.port_count": "HDMI 4포트, Toslink 2포트, Coaxial 2포트, 3.5ST 2포트",
+    "power.power_mode": "DC 5V 2A 아답터",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "재질: Metal",
+    "form_physical.material": "재질: Metal",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "null",
+    "certification.iso9001": "null",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "4K@60Hz UHD(3840x2160) 해상도 출력 지원",
+    "audio_video.hdr_support": "HDR(High Dynamic Range) 지원",
+    "audio_video.hdcp_version": "HDCP 2.2 지원",
+    "audio_video.audio_pass": "Dual-way 오디오 및 ARC(Audio Return Channel) 지원",
+    "control_switching.has_remote": "리모콘으로 손쉬운 화면 전환 가능",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.input_count": "HDMI 4입력",
+    "family.output_count": "2출력",
+    "family.mode": "Splitter/Matrix 두 가지 영상 출력 모드 지원",
+    "family.cascade_support": "null"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:42",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,169 @@
+{
+  "model_no": "LS-EX51CH",
+  "product_name": "LANStar PCI-Express 사운드카드 LS-EX51CH",
+  "category": [
+    "사운드카드"
+  ],
+  "key_features": [
+    "PCI-Express(PCIe 1x) 슬롯 인터페이스 사용",
+    "CMI8738 칩셋 및 asmedia ASM1083 칩셋 탑재",
+    "2Ch(2.1Ch), 4Ch 아날로그 스피커 채널 지원",
+    "2채널 사운드를 4채널로 확장하는 기능 지원",
+    "신호 대 잡음비(SNR) 100dB",
+    "고조파 왜율(THD) -85dB(재생) / -90dB(녹음)",
+    "메인보드 내장 사운드카드 고장 시 대체 사용 가능",
+    "RoHS 준수, ISO 9001:2008 품질경영시스템 인증",
+    "KC 인증 획득 (인증번호 R-REI-LUS-LS-USOUND-71)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "버스 타입": "PCIe 1x",
+    "칩셋": "CMI8738, asmedia ASM1083",
+    "샘플링": "16bit",
+    "출력 채널": "2Ch(2.1Ch), 4Ch",
+    "신호 대 잡음비(SNR)": "100dB",
+    "고조파 왜율(THD)": "-85dB(재생) / -90dB(녹음)",
+    "커넥터": "Mic-in, Line-in, F-out(Front out), R-out(Rear out), Center/Bass(사용 불가)",
+    "제품 크기": "가로 12cm x 세로 6.3cm (기판 기준, 브라켓 포함 높이 약 9.4cm)",
+    "제조국": "중국 (China)",
+    "인증번호": "R-REI-LUS-LS-USOUND-71",
+    "제조사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "PCIe 1x 슬롯이 있는 데스크탑 메인보드",
+    "Windows XP",
+    "Windows Vista",
+    "Windows Me",
+    "Windows 7 (32/64bit)",
+    "Windows 8 (32/64bit)",
+    "Windows 10 (32/64bit)",
+    "Windows 2000",
+    "Windows 2003",
+    "DOS",
+    "Linux",
+    "슬림 PC (슬림 PC용 가이드 브라켓 포함)"
+  ],
+  "package_contents": [
+    "LS-EX51CH 사운드카드 본체",
+    "드라이버 설치 CD",
+    "슬림 PC용 가이드(브라켓)"
+  ],
+  "usage_instructions": "1. 사운드카드를 메인보드의 PCIe 슬롯에 장착한다. 2. PC를 부팅하면 장치 관리자에 '멀티미디어 오디오 컨트롤러'로 인식되며 드라이버는 자동 설치되지 않는다. 3. 동봉된 CD를 삽입하고 CD 드라이브 내 드라이버 폴더로 이동한다. 운영체제별 폴더(예: 8738-Win10, 8738-Vist-Win7-32, 8738-Vist-Win7-64, 8738-WIN8, WinXP 등)가 구분되어 있다. 4. 사용 중인 운영체제에 맞는 폴더로 진입한 후 'Setup' 실행 파일을 실행하여 드라이버를 설치한다. 5. 설치 완료 후 PC를 재부팅한다. 6. 재부팅 후 장치 관리자에서 '사운드, 비디오 및 게임 컨트롤러' 항목에 'C-Media PCI Audio Device'가 정상 등록되었는지 확인한다.",
+  "cautions": [
+    "제품의 노란색 단자(Center/Bass)는 사용할 수 없는 포트이므로 연결하지 않도록 주의",
+    "드라이버 CD 삽입 시 자동 설치가 되지 않으므로 수동으로 운영체제에 맞는 폴더의 Setup을 실행해야 함",
+    "드라이버 설치 완료 후 반드시 재부팅 필요",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "본 제품 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-EX51CH",
+      "품목코드": "AVO-사운드036",
+      "품목명": "[LANstar] PCI-express 사운드카드, 5.1채널 3D 스테레오 서라운드, CMI8738칩셋 [20174] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-EX51CH",
+      "내용": "내장 사운드가 작동이 안돼 구매하게 되었습니다. 음질은 썩 좋은것 같지는 않네요."
+    },
+    {
+      "source_model": "LS-EX51CH",
+      "내용": "잘되요 만족합니다 감사요"
+    },
+    {
+      "source_model": "LS-EX51CH",
+      "내용": "잘 사용하고 있습니다. 안전배송감사하고 많이파세요.^^",
+      "관련내용": "안전배송 감사합니다. 사용 잘 할게요.^^"
+    },
+    {
+      "source_model": "LS-EX51CH",
+      "내용": "윈도우10 드라이버가 없긴한데 그래도 일부 호환되니 스피커 버리기아까워서 구매함"
+    },
+    {
+      "source_model": "LS-EX51CH",
+      "내용": "안전배송 감사합니다. 사용 잘 할게요.^^"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-EX51CH",
+      "id": 96514188,
+      "date": "2019-12-03 15:10",
+      "answerDate": "2019-12-03 17:45",
+      "user": "nd****",
+      "productName": "PCI-express 사운드카드, 5.1채널 3D 스테레오 서라운드 LS-EX51CH",
+      "question": "요새  윈10전용 메인보드들에서 호환 돼나요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n해당 모델은 윈10에서 호환 가능합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "3.5mm"
+      ],
+      "directional": "양방향",
+      "port_count": 5
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": null,
+      "chipset": "CMI8738, asmedia ASM1083"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Mic-in, Line-in",
+    "connectivity.output_signals": "F-out(Front out), R-out(Rear out)",
+    "connectivity.directional": "재생) / -90dB(녹음)",
+    "connectivity.port_count": "Mic-in, Line-in, F-out(Front out), R-out(Rear out), Center/Bass",
+    "form_physical.has_case": "제품 크기: 가로 12cm x 세로 6.3cm (기판 기준, 브라켓 포함 높이 약 9.4cm)",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.audio_pass": "2Ch(2.1Ch), 4Ch 아날로그 스피커 채널 지원",
+    "family.bus_interface": "PCI-Express(PCIe 1x) 슬롯 인터페이스 사용",
+    "family.chipset": "CMI8738 칩셋 및 asmedia ASM1083 칩셋 탑재"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:58",
+  "feature_schema_version": "1.0.0"
+}

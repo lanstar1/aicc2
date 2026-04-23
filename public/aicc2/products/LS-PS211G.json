@@ -1,0 +1,126 @@
+{
+  "model_no": "LS-PS211G",
+  "product_name": "LANStar USB TO PS/2 Y GENDER 컨버터 (LS-PS211G)",
+  "category": [
+    "컨버터",
+    "젠더"
+  ],
+  "key_features": [
+    "USB 포트에 꽂아 PS/2 방식의 입력장치(키보드, 마우스)를 지원하는 젠더 방식 컨버터",
+    "Plug & Play 지원 (별도 드라이버 설치 불필요, 자동 실행)",
+    "USB(M) → PS/2(F) 변환 지원",
+    "Stylish Design / Compact Size"
+  ],
+  "specifications": {
+    "인터페이스": "USB 2.0",
+    "커넥터": "USB (M) / PS/2 (F)",
+    "전원": "USB HOST POWER",
+    "높이": "6.5cm",
+    "폭": "5.0cm",
+    "두께": "3.0cm",
+    "인증번호": "LUS-LS-PS211G",
+    "제조국/원산지": "중국",
+    "제조자/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Mac OS X 10.4.8 이상",
+    "Linux",
+    "PS/2 키보드",
+    "PS/2 마우스"
+  ],
+  "package_contents": [
+    "USB TO PS/2 Y GENDER 본체 (LS-PS211G) 1개"
+  ],
+  "usage_instructions": "USB(M) 단자를 PC 본체 USB 포트에 연결하고, PS/2(F) 단자에 PS/2 키보드 또는 마우스를 연결한다. Plug & Play 방식으로 자동 인식되어 별도 드라이버 설치 없이 사용 가능하다.",
+  "cautions": [
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자분쟁해결 기준에 의거하여 보상 처리됨",
+    "A/S 및 소비자 상담: 라인업시스템(주) / 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PS211G",
+      "품목코드": "USB-PS2008",
+      "품목명": "[LANstar] USB TO PS2 Y 젠더 [30101] ★★할인제외★★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "PS/2"
+      ],
+      "directional": "일방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB(M)",
+    "connectivity.output_signals": "PS/2(F)",
+    "connectivity.directional": "USB(M) → PS/2(F) 변환 지원",
+    "connectivity.port_count": "PS/2 방식의 입력장치(키보드, 마우스)",
+    "power.power_mode": "USB HOST POWER",
+    "power.charging_support": "USB HOST POWER",
+    "form_physical.has_case": "Stylish Design / Compact Size",
+    "certification.kc": "인증번호: LUS-LS-PS211G",
+    "audio_video.max_resolution": "PS/2 방식의 입력장치",
+    "audio_video.hdr_support": "PS/2 방식의 입력장치",
+    "audio_video.hdcp_version": "PS/2 방식의 입력장치",
+    "audio_video.audio_pass": "PS/2 방식의 입력장치",
+    "control_switching.has_remote": "Plug & Play 지원",
+    "control_switching.has_hotkey": "Plug & Play 지원",
+    "control_switching.has_physical_button": "Plug & Play 지원",
+    "control_switching.has_mouse_switching": "Plug & Play 지원",
+    "control_switching.has_auto_scan": "Plug & Play 지원",
+    "control_switching.has_app_control": "Plug & Play 지원",
+    "family.conversion_direction": "USB(M) → PS/2(F) 변환 지원",
+    "family.requires_external_power": "USB HOST POWER"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:34",
+  "feature_schema_version": "1.0.0"
+}

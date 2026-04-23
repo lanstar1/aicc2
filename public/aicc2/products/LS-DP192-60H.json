@@ -1,0 +1,255 @@
+{
+  "model_no": "LS-DP192-60H",
+  "product_name": "디스플레이 포트 to HDMI 컨버터 케이블 (Mini DP 컨버터)",
+  "category": [
+    "DisplayPort",
+    "컨버터"
+  ],
+  "key_features": [
+    "DisplayPort(Mini DP) 입력을 HDMI 출력으로 변환하는 신호변환 컨버터",
+    "DP 1.2 버전 지원, 최대 21.6Gbps 대역폭",
+    "4K*2K (3840x2160) @60Hz 초고해상도 지원",
+    "3D 입체영상 지원",
+    "풀HD(1920x1080) 및 2560x1600 해상도 지원",
+    "디지털 음성 전송 지원: 2채널 스테레오, 5.1채널, 7.1채널 입체음향",
+    "별도 전원 연결 불필요 (버스파워)",
+    "채널당 3Gbps 데이터 전송률",
+    "미러(복제) 모드 및 화면 회전 기능 지원",
+    "RoHS 준수, KC/FCC/CE 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-MDP192-60H",
+    "입력 커넥터": "DisplayPort (Male)",
+    "출력 커넥터": "HDMI (Female)",
+    "DP 버전": "DisplayPort 1.2",
+    "최대 대역폭": "21.6Gbps",
+    "채널당 전송률": "3Gbps",
+    "최대 해상도": "3840x2160 (4K*2K) @60Hz",
+    "지원 해상도": "3840x2160(4K*2K), 2560x1600, 1920x1080(Full HD), 1440P, 720P",
+    "오디오 지원": "2채널 스테레오, 5.1채널, 7.1채널 입체음향, Dolby TrueHD, DTS-HD Master Audio",
+    "3D 지원": "지원",
+    "케이블 길이": "0.2M (200mm)",
+    "제품 색상": "BLACK",
+    "전원 공급": "별도 전원 불필요 (신호변환 컨버터)",
+    "케이블 전체 길이": "200mm",
+    "커넥터 크기 (DP Male)": "44mm x 20mm x 8mm (추정 단면 포함)",
+    "커넥터 크기 (HDMI Female)": "44mm x 14.8mm",
+    "인증번호": "MSIP-REI-LUS-LS-MDP19",
+    "인증 규격": "KC, FCC, CE, RoHS",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "DisplayPort(DP) 출력 포트가 있는 데스크탑 PC",
+    "Mini DisplayPort 출력 포트가 있는 노트북",
+    "HDMI 입력 포트가 있는 TV",
+    "HDMI 입력 포트가 있는 모니터/대형 디스플레이",
+    "DisplayPort 1.2 규격",
+    "HDMI 규격 (HDMI 1.2~2.0)",
+    "Blu-ray Disc, HD DVD 오디오 포맷"
+  ],
+  "package_contents": [
+    "디스플레이 포트 to HDMI 컨버터 케이블 (LS-MDP192-60H) 1개"
+  ],
+  "usage_instructions": "DisplayPort(Male) 단자를 PC 또는 노트북의 DP 포트에 연결하고, HDMI(Female) 단자에 HDMI 케이블을 연결하여 TV 등 대형 디스플레이에 연결합니다. 별도 전원 연결은 불필요합니다. DisplayPort 커넥터 분리 시에는 고정핀 버튼을 화살표 방향으로 누르면 고정핀이 내려가 쉽게 분리됩니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "DisplayPort 커넥터 분리 시 고정핀 버튼을 반드시 누른 후 분리하십시오.",
+    "RoHS 지침에 따라 납, 수은, 카드뮴 등 중금속 사용이 제한된 제품입니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DP192-60H-2M",
+      "품목코드": "CAB-젠DP142",
+      "품목명": "[LANstar] 디스플레이포트 to HDMI, 4K*2K 60Hz, 2M [11013] (80개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP192-60H-3M",
+      "품목코드": "CAB-젠DP143",
+      "품목명": "[LANstar] 디스플레이포트 to HDMI, 4K*2K 60Hz, 3M [11014] (60개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP192-60H-5M",
+      "품목코드": "CAB-젠DP144",
+      "품목명": "[LANstar] 디스플레이포트 to HDMI, 4K*2K 60Hz, 5M [11015] (40개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP192-60H-1M",
+      "품목코드": "CAB-젠DP277",
+      "품목명": "[LANstar] 디스플레이포트 to HDMI, 4K*2K 60Hz, 1M [30563](120개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-DP192-60H-1.5M",
+      "품목코드": "CAB-젠DP278",
+      "품목명": "[LANstar] 디스플레이포트 to HDMI, 4K*2K 60Hz, 1.5M [30564](100개)",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DP192-60H-1.5M",
+      "내용": "타 기기 쓰다가 처음 써봤는데 괜찮은거 같아요!"
+    },
+    {
+      "source_model": "LS-DP192-60H-1.5M",
+      "내용": "배송도 빠르고 상품이 좋아요."
+    },
+    {
+      "source_model": "LS-DP192-60H-1M",
+      "내용": "좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요좋아요"
+    },
+    {
+      "source_model": "LS-DP192-60H-1M",
+      "내용": "있는데.... 못찾아서 또 샀어요...\n근데 배송 중에 찾아버려서 일단 서랍에 킵!"
+    },
+    {
+      "source_model": "LS-DP192-60H-2M",
+      "내용": "실물과 동일 합니다~~"
+    },
+    {
+      "source_model": "LS-DP192-60H-2M",
+      "내용": "HDMI 포트 모자라서 구입했는데 화면 잘 나오네요"
+    },
+    {
+      "source_model": "LS-DP192-60H-3M",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-DP192-60H-3M",
+      "내용": "fhd 모니터에 연결하려는데 색감이 좀 이상하네요."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-DP192-60H",
+      "chatUrl": "2maHw",
+      "dateIso": "2024-08-28T06:58:19.587Z",
+      "name": "최여집",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "안녕하세요 문의사항 있어 연락드립니다.\n본체 입력장치1에 HD IN1 2개&usb 1개\n이렇게 있는데, 본체마다 HDMI선 2개, usb1개가 다 꽂혀야 하나요?\n\n본체가 2개이면",
+      "answer": "PC 1대마다 2대의 HDMI 케이블 총 4개를 연결하셔야 듀얼 모니터 사용이 가능하십니다. 1대의 모니터를 사용하신다면 LS-HD2KVM 제품을 사용하시면 됩니다.\n\n감사합니다. https://smartstore.naver.com/lineup/products/5890099255",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 감사합니다."
+        },
+        {
+          "role": "agent",
+          "text": "정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다. https://smartstore.naver.com/lineup/products/5890099255"
+        },
+        {
+          "role": "customer",
+          "text": "감사합니다."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\nPC 1대마다 2대의 HDMI 케이블 총 4개를 연결하셔야 듀얼 모니터 사용이 가능하십니다.\n1대의 모니터를 사용하신다면 LS-HD2KVM 제품을 사용하시면 됩니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요 문의사항 있어 연락드립니다.\n본체 입력장치1에 HD IN1 2개&usb 1개\n이렇게 있는데, 본체마다 HDMI선 2개, usb1개가 다 꽂혀야 하나요?\n\n본체가 2개이면"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DisplayPort"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": [
+        "BLACK"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": "DP1.2",
+      "dvi_type": null,
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DisplayPort(Mini DP) 입력을",
+    "connectivity.output_signals": "HDMI 출력으로 변환하는",
+    "connectivity.directional": "DisplayPort(Mini DP) 입력을 HDMI 출력으로 변환하는",
+    "power.power_mode": "별도 전원 연결 불필요 (버스파워)",
+    "power.charging_support": "별도 전원 연결 불필요 (버스파워)",
+    "form_physical.has_case": "DisplayPort(Male) 단자를 PC 또는 노트북의 DP 포트에 연결하고, HDMI(Female) 단자에 HDMI 케이블을 연결하여 TV 등 대형 디스플레이에 연결합니다.",
+    "form_physical.length_meters": "케이블 길이: 0.2M (200mm)",
+    "form_physical.color_options": "제품 색상: BLACK",
+    "certification.kc": "KC/FCC/CE 인증",
+    "certification.rohs": "RoHS 준수",
+    "certification.fcc": "KC/FCC/CE 인증",
+    "certification.ce": "KC/FCC/CE 인증",
+    "audio_video.max_resolution": "4K*2K (3840x2160) @60Hz 초고해상도 지원",
+    "audio_video.audio_pass": "디지털 음성 전송 지원: 2채널 스테레오, 5.1채널, 7.1채널 입체음향",
+    "family.dp_version": "DP 1.2 버전 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:43",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

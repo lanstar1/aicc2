@@ -1,0 +1,158 @@
+{
+  "model_no": "LS-F850N",
+  "product_name": "LAN Star CAT.8 FTP Tooless 키스톤잭 모듈",
+  "category": [
+    "랜케이블-CAT8",
+    "랜케이블-FTP",
+    "랜케이블",
+    "키스톤잭",
+    "LAN공구"
+  ],
+  "key_features": [
+    "랜툴 없이 키스톤잭 모듈 제작이 가능한 Tooless 방식",
+    "구성품 조립 시 높은 결합력으로 랜선이 빠지지 않음",
+    "단선/연선 모두 사용 가능",
+    "배선캡을 통해 케이블 꼬임을 유지하여 랜케이블 성능 유지",
+    "CAT.8 랜케이블 두께에 모두 제작 가능",
+    "40GBASE-T 지원, 최대 40Gbps 전송속도",
+    "2000MHz 대역폭 지원",
+    "FTP(폴리드 트위스티드 페어) 쉴드 구조"
+  ],
+  "specifications": {
+    "규격": "CAT.8 FTP",
+    "커넥터 타입": "RJ45 8P8C 1형",
+    "최대 전송속도": "40Gbps",
+    "대역폭": "2000MHz",
+    "지원 규격": "40GBASE-T",
+    "호환 케이블 지름": "최대 10mm",
+    "모듈 치수": "32mm x 21mm x 16mm (추정 외형 기준, 도면 수치: 32mm, 21mm, 16mm, 11.5mm, 12mm, 9mm, 30mm, 8mm)",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "R-R-LUS-LS-M850",
+    "안전규격인증": "KC, FCC, CE",
+    "품질경영시스템": "ISO 9001:2008",
+    "환경규격": "RoHS COMPLIANT",
+    "생산물배상책임보험": "현대해상화재보험 1억원 가입"
+  },
+  "compatibility": [
+    "CAT.8 FTP 랜케이블",
+    "40GBASE-T 네트워크 장비",
+    "RJ45 8P8C 인터페이스 장비",
+    "단선 케이블",
+    "연선 케이블",
+    "케이블 지름 최대 10mm"
+  ],
+  "package_contents": [
+    "키스톤잭 모듈 본체",
+    "배선캡",
+    "링(케이블 결합용)",
+    "커버"
+  ],
+  "usage_instructions": "1. 키스톤잭 모듈, 랜케이블, 스트리퍼, 가위 등 작업 도구를 준비한다. 2. 스트리퍼를 이용해 케이블 피복을 약 3cm 정도 벗겨낸다. 3. 케이블에 링과 커버를 결합한다. 4. 노이즈 방지 쉴드를 정리하여 테이프로 감아 고정한다. 5. 키스톤잭 모듈 안의 배선캡을 꺼내 구멍에 색깔별로 선을 넣는다. 6. 배선캡 안내에 따라 색깔별로 홈에 맞춰 끼운다. 7. 배선캡 밖으로 튀어나온 선을 정리한 뒤 키스톤잭 모듈에 결합한다. 8. 처음에 연결해둔 링을 키스톤잭 모듈에 밀어넣으면 작업 완료.",
+  "cautions": [
+    "본 제품은 랜툴 없이 제작하는 Tooless 방식이므로 별도의 랜툴 구매 불필요",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 문의: www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-F850N",
+      "품목코드": "NEO-콘넥터137",
+      "품목명": "[LANstar] Cat.8 FTP 키스톤잭 ,Tooless , 40Gbps [20339](500개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-F850N",
+      "내용": "좋네요좋아요! 잚슬게요"
+    },
+    {
+      "source_model": "LS-F850N",
+      "내용": "랜스타 유튜버님 보고 따라서 교체했는데\n최초 건물에 들어오는 랜선 속도에 따라 속도가 이미 결정된다는데... 뭐가 맞는건지 궁금하네요ㅋㅋ\n암튼 전 교체 잘했어요~^^"
+    },
+    {
+      "source_model": "LS-F850N",
+      "내용": "아직 케이블 작업은 하지 않았지만.\nCAT8 케이블을 필요한 길이로 재단해서 쓰기에 좋겠네요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT8",
+      "shielding": "FTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 8P8C 1형",
+    "connectivity.output_signals": "RJ45 8P8C 1형",
+    "connectivity.directional": "40Gbps 전송속도",
+    "connectivity.port_count": "키스톤잭 모듈",
+    "power.power_mode": "N/A",
+    "power.charging_support": "N/A",
+    "form_physical.has_case": "키스톤잭 모듈",
+    "form_physical.material": "플라스틱",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "family.cat_category": "CAT.8",
+    "family.shielding": "FTP(폴리드 트위스티드 페어) 쉴드 구조"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:10",
+  "feature_schema_version": "1.0.0"
+}

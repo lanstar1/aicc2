@@ -1,0 +1,658 @@
+{
+  "model_no": "LS-HD21",
+  "product_name": "LANStar HDMI 2.1 케이블 Ultra High Speed",
+  "category": [
+    "HDMI케이블"
+  ],
+  "key_features": [
+    "8K@60Hz(7680x4320) 및 4K@120Hz 해상도 지원",
+    "1080P@240Hz 해상도 지원",
+    "최대 48Gbps 데이터 전송 속도 (HDMI 2.0 대비 약 2.5배)",
+    "Dynamic HDR 지원 (1000단계 명암, SDR 대비 10배)",
+    "VRR(Variable Refresh Rate) 지원으로 게임 끊김 현상 제거",
+    "eARC(enhanced Audio Return Channel) 지원 - Dolby Atmos, DTS:X 포맷 호환",
+    "21:9 와이드 화면 비율 지원",
+    "3D 비디오 포맷 지원",
+    "QMS(고속 미디어 스위칭) 지원",
+    "QFT(고속 프레임 전송) 지원",
+    "ALLM(짧은 자동 대기 시간) 지원",
+    "HDMI Forum ATC(Authorized Testing Center) 공식 인증",
+    "RoHS 인증",
+    "Gold Plated 커넥터",
+    "케이블 길이에 따른 해상도 변화 없음 (전 모델 동일 8K@60Hz 출력 가능)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "해상도": "8K@60Hz / 4K@120Hz / 1080P@240Hz, 4:4:4 12bit",
+    "전송속도": "48Gbps",
+    "케이블 길이": "1m / 1.5m / 2m / 3m / 5m",
+    "AWG_1m": "30AWG",
+    "AWG_1.5m": "30AWG",
+    "AWG_2m": "30AWG",
+    "AWG_3m": "28AWG",
+    "AWG_5m": "26AWG",
+    "소비전력": "DC 300V / 5s",
+    "작동온도": "0°C - 80°C",
+    "색상": "Black",
+    "재질": "ABS",
+    "커넥터": "Gold Plated",
+    "커넥터 규격 A단 직경": "25mm",
+    "커넥터 규격 B단 직경": "35mm",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증": "HDMI Forum ATC 공식인증, RoHS 인증",
+    "모델명_1m": "LS-HD21-1M",
+    "모델명_1.5m": "LS-HD21-1.5M",
+    "모델명_2m": "LS-HD21-2M",
+    "모델명_3m": "LS-HD21-3M",
+    "모델명_5m": "LS-HD21-5M"
+  },
+  "compatibility": [
+    "HDMI 2.1 지원 기기",
+    "HDMI 2.0 지원 기기 (하위 호환)",
+    "8K UHD 디스플레이",
+    "4K UHD 디스플레이",
+    "Full HD(1080P) 디스플레이",
+    "21:9 와이드 모니터",
+    "16:9 모니터",
+    "3D 디스플레이",
+    "VRR 지원 게임 기기",
+    "eARC 지원 오디오 기기",
+    "Dolby Atmos 지원 기기",
+    "DTS:X 지원 기기",
+    "삼성(Samsung) TV (이미지 내 로고 확인)"
+  ],
+  "package_contents": [
+    "HDMI 2.1 케이블 1개 (선택 길이: 1m / 1.5m / 2m / 3m / 5m 중 1종)"
+  ],
+  "usage_instructions": "HDMI 2.1 포트가 있는 소스 기기(PC, 게임기 등)와 디스플레이(TV, 모니터 등)의 HDMI 포트에 각각 연결하여 사용. 케이블 길이에 따라 AWG(심선 굵기)가 다르므로 설치 환경에 맞는 길이를 선택. 오후 4시 이전 결제 완료 시 당일출고(평일 기준, 평균 1~2일 소요).",
+  "cautions": [
+    "3m 및 5m 케이블은 1m/1.5m/2m 케이블과 심선(AWG) 두께가 다르므로 구매 전 케이블 길이별 두께를 반드시 확인할 것.",
+    "당일출고는 토·일·공휴일을 제외한 평일 기준이며, 택배사 사정에 따라 배송기간이 길어질 수 있음.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니므로 A/S 불가.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 무단 복제 및 이용 시 불이익이 발생할 수 있음.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HD21-1M",
+      "품목코드": "CAB-HD2047",
+      "품목명": "[LANstar] HDMI 2.1 케이블 1m [30426] (120개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HD21-1.5M",
+      "품목코드": "CAB-HD2048",
+      "품목명": "[LANstar] HDMI 2.1 케이블 1.5m [30427] (100개)",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HD21-2M",
+      "품목코드": "CAB-HD2049",
+      "품목명": "[LANstar] HDMI 2.1 케이블 2m [30428](80개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HD21-3M",
+      "품목코드": "CAB-HD2050",
+      "품목명": "[LANstar] HDMI 2.1 케이블 3m [30429] (60개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HD21-5M",
+      "품목코드": "CAB-HD2051",
+      "품목명": "[LANstar] HDMI 2.1 케이블 5m [30430] (30개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HD21",
+      "내용": "잘 쓰고 있어요~~"
+    },
+    {
+      "source_model": "LS-HD21-1.5M",
+      "내용": "잘쓰겠습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-HD21-1.5M",
+      "내용": "잘쓸게요 많이파세요"
+    },
+    {
+      "source_model": "LS-HD21-1.5M",
+      "내용": "케이블이 잘 작동해요"
+    },
+    {
+      "source_model": "LS-HD21-1.5M",
+      "내용": "비싼거랑 차이가 없을 정도로 좋네요\n4k120hz 돌비애트모스 등등 모든 기능 완벽 지원 잘됩니다"
+    },
+    {
+      "source_model": "LS-HD21-1.5M",
+      "내용": "좋아요 성능도 좋고 배송도 빨라요~~"
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "잘연결됩니다. . 가성비가 좋아요"
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "하자 없고 잘됩니다",
+      "관련내용": "기능이상없음 하자 없음"
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "기능이상없음 하자 없음"
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "역시 믿고쓰는 까나레 💕"
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "개별포장이라 좋아요. 아직 사용 전이라 불량 아니길 빌어요."
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "잘사용하고있음 이상없음",
+      "관련내용": "싼값에 잘 연결됩니다"
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "잘 사용하겠습니다 ㅎ ㅎ"
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "싼값에 잘 연결됩니다"
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "품질 배송 모두 만족합니다"
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "아주 좋은 상품입니다.",
+      "관련내용": "사용하기 좋은 사이즈입니다."
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "사용하기 좋은 사이즈입니다."
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "굳이 비싼거 안써도  xsx ps5 사운드바 사용에는 아주 뛰어나네요~♡"
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "배송 빠르고 인식 잘합니다."
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "이상없이 잘 쓰고 엤습니다"
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "케이블이 고급입니다. 앞으로도 랜스타"
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "제품이 좋고 배송도 빨랐습니다"
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "가성비 좋습니다\n다이소껀 2미터밖에 없어서 샀는데\n덕분에 더 깔끔하게 정리했어요"
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "선이 두껍워서 단자 방향 바꾸기도 힘드네요. 2.1버전이라 그런건지.. 제품은 나쁘지 않은데..\n판매자가 일처리가 동네 구멍가게 보다도 못한 수준이라 별점은 많이 못드립니다."
+    },
+    {
+      "source_model": "LS-HD21-1M",
+      "내용": "엑박 플스 자동으로 잘인식하네요 : )"
+    },
+    {
+      "source_model": "LS-HD21-2M",
+      "내용": "HDMI 케이블 매우 중요함."
+    },
+    {
+      "source_model": "LS-HD21-2M",
+      "내용": "좋으네요  거리가 꽤 되는데도 깔끔한 영상이네요"
+    },
+    {
+      "source_model": "LS-HD21-2M",
+      "내용": "배송도 빠르고 제품 품질도 좋아 자주 구입합니다. 강추합니다. ^^"
+    },
+    {
+      "source_model": "LS-HD21-2M",
+      "내용": "포장배송 모두 만족합니다."
+    },
+    {
+      "source_model": "LS-HD21-2M",
+      "내용": "잘받았습니다. 케이블  예비용으로 구매해놨어요~"
+    },
+    {
+      "source_model": "LS-HD21-2M",
+      "내용": "PS5에 잘 작동하고 좋습니다"
+    },
+    {
+      "source_model": "LS-HD21-2M",
+      "내용": "가격대비 성능이나 마감이 좋아요"
+    },
+    {
+      "source_model": "LS-HD21-2M",
+      "내용": "케이블이 잘 작동함"
+    },
+    {
+      "source_model": "LS-HD21-2M",
+      "내용": "만족해요 감사합니다"
+    },
+    {
+      "source_model": "LS-HD21-2M",
+      "내용": "좋아요좋아요좋아요좋아요좋아요좋아요"
+    },
+    {
+      "source_model": "LS-HD21-2M",
+      "내용": "저렴한 가격에 배송도 빨리와서 좋았습니다.\n\n2.1 버전이라니 어는 정도 성능을 보여줄지 기대되네요.\n\n오늘 설치시엔 일단 2.0으로 인식되던데 좀 더 공부를 해봐야할 것 같습니다.\n\n번창하세요~^^"
+    },
+    {
+      "source_model": "LS-HD21-2M",
+      "내용": "가격도 저렴하고 연결 잘되네요"
+    },
+    {
+      "source_model": "LS-HD21-2M",
+      "내용": "랜스타 케이블이 좋은것같아요"
+    },
+    {
+      "source_model": "LS-HD21-2M",
+      "내용": "작동 잘되네요 잘쓸게요 많이 파세요"
+    },
+    {
+      "source_model": "LS-HD21-3M",
+      "내용": "배송이 정말 총알입니다. ^^ 랜스타 제품이야 계속 사용하고 있어서 믿고 구입합니다.~"
+    },
+    {
+      "source_model": "LS-HD21-3M",
+      "내용": "길이도 선택할 수 있게 구매가능해서 좋습니당"
+    },
+    {
+      "source_model": "LS-HD21-3M",
+      "내용": "분배기에 HDMI라인 같이 사용하는데 좋아요!\n아주 만족합니다 ^^"
+    },
+    {
+      "source_model": "LS-HD21-3M",
+      "내용": "아주 좋은 상품입니다.",
+      "관련내용": "사용하기 좋은 사이즈입니다. \n모두 다 랜스타~ 최고!"
+    },
+    {
+      "source_model": "LS-HD21-3M",
+      "내용": "사용하기 좋은 사이즈입니다. \n모두 다 랜스타~ 최고!"
+    },
+    {
+      "source_model": "LS-HD21-3M",
+      "내용": "좋아요 최고에요 굿굿굿"
+    },
+    {
+      "source_model": "LS-HD21-3M",
+      "내용": "빠른데 무난함 가격값이"
+    },
+    {
+      "source_model": "LS-HD21-3M",
+      "내용": "고화질로도 연결 잘 됩니다."
+    },
+    {
+      "source_model": "LS-HD21-5M",
+      "내용": "하자없고 잘 됩니다",
+      "관련내용": "기능이상없음 하자 없음"
+    },
+    {
+      "source_model": "LS-HD21-5M",
+      "내용": "기능이상없음 하자 없음"
+    },
+    {
+      "source_model": "LS-HD21-5M",
+      "내용": "배송도 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-HD21-5M",
+      "내용": "함께 구매한 케이블인데 연결도 좋네요"
+    },
+    {
+      "source_model": "LS-HD21-5M",
+      "내용": "노트북 연결할때 쓰려고 긴걸로 샀어요!\n길어서 편하고 좋아요!"
+    },
+    {
+      "source_model": "LS-HD21-5M",
+      "내용": "부모님께서 잘쓰신다고 합니다"
+    },
+    {
+      "source_model": "LS-HD21-5M",
+      "내용": "괜찮은 상품인듯 합니다 ^^"
+    },
+    {
+      "source_model": "LS-HD21-5M",
+      "내용": "괜찮은 상품인듯 합니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HD21-1M",
+      "id": 591775467,
+      "date": "2024-08-07 15:55",
+      "answerDate": "2024-08-08 09:06",
+      "user": "ggg5***",
+      "productName": "랜스타 HDMI 2.1 케이블 공식인증 완료 8K 60Hz 48Gbps (LS-HD21-1M)",
+      "question": "HDCP 지원하나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n문의주신 케이블의 경우 HDCP 2.2 지원하는 제품입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HD21",
+      "id": 670827282,
+      "date": "2026-04-15 14:42",
+      "answerDate": "2026-04-15 17:21",
+      "user": "yjh_*******",
+      "productName": "랜스타 HDMI 2.1 케이블 8K 60Hz 48Gbps LS-HD21 1m, 1개",
+      "question": "안녕하세요 ^^ 방금 제품을 수령했습니다. 근데 주문한 옵션과 전혀 다른 수량과 옵션이 왔습니다. 3M는 아예 안오고 1M 3개 2M 3개 3M 3개로 주문했는데 1M 4개 2M 6개가 왔습니다. 3M가 없어서 따로 없어서 그런건지 잘못된 배송인지 체크 부탁드립니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n네이버 톡톡으로 내용 전달 주시면 확인 후 안내 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HD21-1M",
+      "chatUrl": "3dYtR",
+      "dateIso": "2026-01-05T06:48:21.556Z",
+      "name": "임남영",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "로젠택배\n송장번호\n91827718732\n(추가 문의) 사진은없습니다이미설치했습니다ㆍㆍㆍ",
+      "answer": "배송 받아보신 제품 사진 또는 운송장 번호 전달 가능하실까요?\n\n고객님. 받아보신 제품 사진 부탁드립니다.",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "사진은없습니다이미설치했습니다ㆍㆍㆍ"
+        },
+        {
+          "role": "agent",
+          "text": "고객님.\n\n받아보신 제품 사진 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "로젠택배\n송장번호\n91827718732"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다. 배송 받아보신 제품 사진 또는 운송장 번호 전달 가능하실까요?"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HD21",
+      "chatUrl": "19Xy3",
+      "dateIso": "2024-10-22T08:24:44.775Z",
+      "name": "HUCK",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "테스트 케이블\n\n코드웨이 HDMI 2.1V 케이블 2m\n\nXBOX X HDMI 번들 2M 케이블 \n\n닌텐도 스위치 번들 HDMI 2M 케이블\n\n랜스타 HDMI 2.1V 1M 케이\n(추가 문의) 어댑터도 교체 해서 연결 해보고 , XBOX, 스위치 케이블로도 변경해서 연결 해봤는데 출력이 안됩니다 .. 해상도 ,hz 낮춰서도 해봤습니다 .\n(추가 문의) 다른 포트에서 확인 해보겠습니다 .리모컨은 전원만 작동 되고 1-5버튼이 눌러도 작동이 안됩니다\n(추가 문의) PC,XBOX, 닌텐도 스위치 3개를 연결해서 테스트 해봤는데 PC만 출력이 안되네요 ..",
+      "answer": "문의 주신 LS-AS502N 제품의 경우 4k 120hz 제공합니다. 상세페이지에서 자세한 확인 가능하시니 참고 부탁드립니다. 정직한 가격과\n\n네. 고객님. 교환 요청 주시면, 금일 새제품 출고 도와드리겠습니다. 다만, 고객님 사용 환경 호환성의 문제로 새제품에서도 같은 증상이 나타나 반품을 원하실 경우 왕복 배송비 6\n\n네 고객님, 고객님의 사용 환경마다 다르기 때문에 동일한 상황에 비추어 설명 드리긴 힘들지만 대부분의 문의가 저희 기술 지원팀 응대 후 해결이 되고 있습니다. 만약 해결이 안되는",
+      "turn_count": 48,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "넵 감사합니다 ~"
+        },
+        {
+          "role": "agent",
+          "text": "[배송안내] 고객님, 교환요청하신 상품의 배송이 시작되었습니다. 궁금한 내용이 있으시면 언제든 문의주세요."
+        },
+        {
+          "role": "customer",
+          "text": "감사합니다 !"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n자사에 정상적으로 회수되어 기존에 출고되었던 송장번호로 재배송 처리 도와드렸습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있"
+        },
+        {
+          "role": "customer",
+          "text": "교환 신청 했습니다 ~"
+        },
+        {
+          "role": "agent",
+          "text": "고객님.\n\n금일 새제품 출고 되어 아래에 송장번호 남겨드립니다.\n[로젠 39247559293]\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜"
+        },
+        {
+          "role": "customer",
+          "text": "넵 알겠습니다 !"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n원활하게 수거될 수 있도록 준비 부탁드립니다.\n금일 새제품 출고 후 송장번호 남겨드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "내일 바로 받고 싶어서 ..."
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n교환 요청 주시면, 금일 새제품 출고 도와드리겠습니다.\n다만, 고객님 사용 환경 호환성의 문제로 새제품에서도 같은 증상이 나타나 반품을 원하실 경우\n왕복 배송비 6"
+        },
+        {
+          "role": "customer",
+          "text": "혹시 반품 하고 재구매도 가능할까요 ?"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n아직 구매확정전으로 교환 신청 부탁드립니다.\n원활하게 수거될 수 있도록 준비 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "넵 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n스위치 교차 테스트를 통해 포트 불량이 아닌 것은 확인되었지만, 동일한 증상으로 고객님 사용 환경 호환성의 문제로 의심됩니다. \n교환 시에도 같은 증상이 나타날 수"
+        },
+        {
+          "role": "customer",
+          "text": "네 그렇게 해주시면 감사하겠습니다~~"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n기술지원팀 확인 후 답변 도와드리겠습니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HD21-1",
+      "chatUrl": "1hhYR",
+      "dateIso": "2024-09-23T01:44:30.282Z",
+      "name": "려니",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "네. 고객님.\n\n제품 회수 확인 되어 반품 처리 도와드렸습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부\n(추가 문의) 안녕하세요. 고객님. 랜스타입니다.\n\n자사에 LS-HD21-1.5M가 회수되지 않아 해당 케이블은 사용하시는 걸까요? 네 고객님, 제품 도착 전으로 보여 제품 수령하신 후 수거 되\n(추가 문의) 안녕하세요. 고객님. 랜스타입니다.\n\n현재 반품 요청 주신 것으로 보입니다.\n제품 수령하신 곳에 잘 수거될 수 있도록 준비 부탁드립니다.\n\n제품 개봉하셨을까요?\n(추가 문의) 안녕하세요. 고객님. 랜스타입니다.\n\n무엇을 도와드릴까요?",
+      "answer": "주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네. 고객님.\n\n제품 회수 확인 되어 반품 처리 도와드렸습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n자사에 LS-HD21-1.5M가 회수되지 않아 해당 케이블은 사용하시는 걸까요? 네 고객님, 제품 도착 전으로 보여 제품 수령하신 후 수거 되"
+        },
+        {
+          "role": "agent",
+          "text": "아뇨 받은 그대로 보냈어요"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 반품 요청 주신 것으로 보입니다.\n제품 수령하신 곳에 잘 수거될 수 있도록 준비 부탁드립니다.\n\n제품 개봉하셨을까요?"
+        },
+        {
+          "role": "agent",
+          "text": "아뇨 아직 안받았습니다"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n무엇을 도와드릴까요?"
+        },
+        {
+          "role": "agent",
+          "text": "반품요청합니다"
+        },
+        {
+          "role": "customer",
+          "text": "반품 문의"
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HD21-2M",
+      "chatUrl": "7w177",
+      "dateIso": "2024-01-09T07:51:03.407Z",
+      "name": "꾸앙앙뿡",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "전원 버튼 눌러도 반응없습니다",
+      "answer": "고객님, 금일 발송 운송장번호 남겨드립니다. [로젠 37240902683] 랜스타 제품 이용 중",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "고객님, 금일 발송 운송장번호 남겨드립니다. [로젠 37240902683]\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. 랜스타 제품 이용 중"
+        },
+        {
+          "role": "customer",
+          "text": "전원 버튼 눌러도 반응없습니다"
+        },
+        {
+          "role": "agent",
+          "text": "고객님, 금일 발송 운송장번호 남겨드립니다. [로젠 37240902683]\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. 랜스타 제품 이용 중"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "고객님, 금일 발송 운송장번호 남겨드립니다. [로젠 37240902683]\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. 랜스타 제품 이용 중"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "ABS",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        1.5,
+        2,
+        3,
+        5
+      ],
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "8K@60",
+      "hdr_support": true,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "HDMI2.1",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 2.1 포트가 있는 소스 기기",
+    "connectivity.output_signals": "HDMI 포트에 각각 연결하여 사용",
+    "connectivity.directional": "HDMI 2.1 포트가 있는 소스 기기",
+    "power.power_mode": "DC 300V / 5s",
+    "power.charging_support": "DC 300V / 5s",
+    "form_physical.has_case": "재질: ABS",
+    "form_physical.material": "ABS",
+    "form_physical.length_options_meters": "1m / 1.5m / 2m / 3m / 5m",
+    "form_physical.color_options": "색상: Black",
+    "certification.rohs": "RoHS 인증",
+    "audio_video.max_resolution": "8K@60Hz(7680x4320) 및 4K@120Hz",
+    "audio_video.hdr_support": "Dynamic HDR 지원",
+    "audio_video.audio_pass": "eARC(enhanced Audio Return Channel) 지원",
+    "family.hdmi_version": "LANStar HDMI 2.1 케이블",
+    "family.optical_core": "LANStar HDMI 2.1 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:52",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 4,
+    "category_breakdown": {
+      "compatibility": 1,
+      "troubleshoot": 1,
+      "usage": 2
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

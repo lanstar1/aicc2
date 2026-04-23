@@ -1,0 +1,253 @@
+{
+  "model_no": "LS-USB3.0-AMBM",
+  "product_name": "LAN Star NStarⓇ USB 3.0 A-B형 케이블 (A/M-B/M)",
+  "category": [
+    "USB케이블",
+    "USB3.0",
+    "USB2.0"
+  ],
+  "key_features": [
+    "USB 3.0 SuperSpeed 5Gbps 전송속도 지원 (USB 2.0 대비 10배 이상 빠름)",
+    "USB 2.0 대비 약 2배 향상된 전원 공급 (500mA → 900mA)",
+    "25GB 동영상 기준 USB 2.0 약 14분 → USB 3.0 약 70초 전송 가능",
+    "슬림모드·저전력모드 등 전력 관리 기능 개선",
+    "RoHS 규정 준수 (납·수은·카드뮴 등 중금속 사용 제한)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "1M / 1.8M / 3M / 5M 4가지 길이 선택 가능",
+    "USB 3.0 SUPERSPEED 지원, 최대 5Gbps 데이터 전송 속도",
+    "USB 2.0(480Mbps) 대비 약 10배 빠른 전송 속도 제공",
+    "최대 900mA 전력 공급 지원 (USB 2.0의 500mA 대비 향상)",
+    "USB 2.0 및 USB 1.1 하위 호환성 지원 (듀얼 버스)",
+    "Full Duplex(동시 양방향) 데이터 전송 지원",
+    "3중 차폐 구조(편조차폐 + 알루미늄 차폐 + 드레인 와이어)로 EMI 차단",
+    "플러그 앤 플레이 지원, 별도 드라이버 설치 불필요",
+    "28AWG 4쌍 전선 구조",
+    "PVC 자켓 및 충전재(Stuffing) 적용으로 물리적 보호",
+    "1m / 1.8m / 3m / 5m 총 4가지 길이 라인업",
+    "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득)"
+  ],
+  "specifications": {
+    "규격": "USB 3.0 / USB3.0 A/M - B/M",
+    "커넥터 형태": "A/M (USB A형 Male) - B/M (USB B형 Male)",
+    "전송속도": "5Gbps",
+    "충전 전류": "900mA",
+    "케이블 길이": "1M, 1.8M, 3M, 5M",
+    "모델명_1M": "LS-USB3.0-AMBM-1M",
+    "모델명_1.8M": "LS-USB3.0-AMBM-1.8M",
+    "모델명_3M": "LS-USB3.0-AMBM-3M",
+    "모델명_5M": "LS-USB3.0-AMBM-5M",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "환경인증": "RoHS COMPLIANT",
+    "품질인증": "ISO 9001:2008",
+    "전송_속도": "최대 5Gbps",
+    "전력_공급": "최대 900mA",
+    "심선": "28AWG",
+    "직경": "OD 5.8±0.1mm",
+    "길이_라인업": "1m / 1.8m / 3m / 5m",
+    "A단_커넥터_크기": "가로 15.5mm, 세로 8mm, 길이 35mm (하우징 47mm)",
+    "B단_커넥터_크기": "가로 13mm, 길이 35mm (하우징 47mm~51mm, 길이별 상이)",
+    "케이블_구조": "PVC 자켓, 편조차폐, 알루미늄 차폐, STUFFING(충전재), DRAIN WIRE",
+    "핀배열_AM_핀1": "RED",
+    "핀배열_AM_핀2": "WHITE",
+    "핀배열_AM_핀3": "GREEN",
+    "핀배열_AM_핀4": "BLACK",
+    "핀배열_AM_핀5": "PURPLE",
+    "핀배열_AM_핀6": "ORANGE",
+    "핀배열_AM_핀7": "DRAIN WIRE",
+    "핀배열_AM_핀8": "YELLOW",
+    "핀배열_AM_핀9": "BLUE",
+    "핀배열_쉘": "BRAID+DRAIN",
+    "제조사_수입사": "라인업시스템(주)",
+    "AS_센터": "www.LANstar.co.kr",
+    "모델번호_1m": "LS-USB3.0-AMBM-1M (10360)",
+    "모델번호_1.8m": "LS-USB3.0-AMBM-1.8M (10361)",
+    "모델번호_3m": "LS-USB3.0-AMBM-3M (10362)",
+    "모델번호_5m": "LS-USB3.0-AMBM-5M (10363)",
+    "USB버전별_실제전송속도_USB2.0": "30MB/s 내외 (이론 480Mbps=58MB/s)",
+    "USB버전별_실제전송속도_USB3.0": "400MB/s 내외 (이론 5Gbps=600MB/s)",
+    "USB버전별_실제전송속도_USB3.1": "850MB/s 내외 (이론 10Gbps=1200MB/s)",
+    "USB버전별_실제전송속도_USB3.2": "2100MB/s 내외 (이론 20Gbps=2400MB/s)"
+  },
+  "compatibility": [
+    "USB 3.0 (SuperSpeed) 지원 기기",
+    "USB 2.0 (HI-SPEED) 하위 호환",
+    "USB 1.1 하위 호환",
+    "USB 3.0 B형 단자를 사용하는 기기 (프린터, 외장 하드 등)",
+    "USB 3.0 지원 PC / 데스크탑 / 노트북 (A타입 포트)",
+    "USB B타입 포트를 사용하는 외장 하드 드라이브",
+    "USB B타입 포트를 사용하는 프린터",
+    "USB B타입 포트를 사용하는 스캐너",
+    "USB B타입 포트를 사용하는 오디오 인터페이스",
+    "USB B타입 포트를 사용하는 NAS(네트워크 저장장치)",
+    "USB B타입 포트를 사용하는 의료 장비",
+    "USB B타입 포트를 사용하는 산업용 장비",
+    "USB 2.0 하위 호환 (속도는 USB 2.0 수준으로 제한)",
+    "USB 1.1 하위 호환 (속도는 USB 1.1 수준으로 제한)"
+  ],
+  "package_contents": [
+    "USB 3.0 A-B형 케이블 1개",
+    "USB3.0 A/M-B/M 케이블 1개 (선택 길이: 1m / 1.8m / 3m / 5m)"
+  ],
+  "usage_instructions": "USB A형 Male 단자를 호스트(PC 등)의 USB 포트에, USB 3.0 B형 Male 단자를 기기의 USB 3.0 B형 포트에 연결하여 사용. USB 3.0 B형 단자는 기존 일반 USB B형 단자와 모양이 다르므로 반드시 기기의 단자 형태를 확인 후 연결할 것.",
+  "cautions": [
+    "USB 3.0 케이블의 B형 단자는 기존 USB 일반 B형 단자와 모양이 다름. 연결 전 반드시 단자 모양 확인 필요.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단 참조)로 문의."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB3.0-AMBM-1.8M",
+      "품목코드": "CAB-US3004",
+      "품목명": "[LANstar] [[USB 3.0]] 케이블 , A／M-B／M, 1.8M[10361] (130개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB3.0-AMBM-3M",
+      "품목코드": "CAB-US3005",
+      "품목명": "[LANstar] [[USB 3.0]] 케이블 , A／M-B／M, 3M[10362] (80개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB3.0-AMBM-5M",
+      "품목코드": "CAB-US3006",
+      "품목명": "[LANstar] [[USB 3.0]] 케이블 , A／M-B／M, 5M[10363](60개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB3.0-AMBM-1M",
+      "품목코드": "CAB-US3011",
+      "품목명": "[LANstar] [[USB 3.0]] 케이블 , A／M-B／M, 1M[10360] (180개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-USB3.0-AMBM-1.8M",
+      "내용": "잘 받았어요 잘쓸게요"
+    },
+    {
+      "source_model": "LS-USB3.0-AMBM-1.8M",
+      "내용": "배송도 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-USB3.0-AMBM-1.8M",
+      "내용": "빠른 배송 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-USB3.0-AMBM-1.8M",
+      "내용": "만족스럽게 잘 사용하고 있습니다"
+    },
+    {
+      "source_model": "LS-USB3.0-AMBM-1.8M",
+      "내용": "급하게 필요했는데 빠른 배송으로 잘 받았어요"
+    },
+    {
+      "source_model": "LS-USB3.0-AMBM-1M",
+      "내용": "내구성 좋고, 도중에 끊김도 없고요 잘 쓰고 있습니다.",
+      "관련내용": "감사합니다. 잘 쓰겠습니다~"
+    },
+    {
+      "source_model": "LS-USB3.0-AMBM-1M",
+      "내용": "감사합니다. 잘 쓰겠습니다~"
+    },
+    {
+      "source_model": "LS-USB3.0-AMBM-3M",
+      "내용": "선정리 대충 끝냈습니다"
+    },
+    {
+      "source_model": "LS-USB3.0-AMBM-3M",
+      "내용": "하루만에 배송왔어요!"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-USB3.0-AMBM-NEW": "SUPERSPEED\nLAN Star\nCERTIFIED\nUSB\nUSB3.0 A/M-B/M 케이블\nUSB3.0 SUPERSPEED\n케이블 제품 분류표\n모델No.\n모델명\n길이\n직경\n심선\n10360\nLS-USB3.0-AMBM-IM\nIM\n10361\nLS-USB3.0-AMBM-1.8M\n1.8M\n5.8±0.1mm\n28AWG\n10362\nLS-USB3.0-AMBM-3M\n3M\n10363\nLS-USB3.0-AMBM-5M\n5M\nUSB 3.0 SUPERSPEED!\nUSB3.0 표준 규격\nUSB3.0 표준 규격은 USB 인터페이스의 3번째 주요 버전으로,\n기존 USB2.0 규격에 비해 데이터 전송 속도와 성능이 크게 향상되었습니다.\n빠른 데이터 전송 속도\nUSB 3.0은 최대 5Gbps의 데이터 전송 속도를 지원하여, USB 2.0(480Mbps)에 비해\n약 10배 빠른 전송 속도를 제공합니다. 이를 통해 대용량 파일이나 고해상도 비디오 등의\n전송 시간이 크게 단축됩니다.\n높은 전력 공급\nUSB 3.0은 최대 900mA의 전류를 지원하므로, USB 2.0의 500mA보다 더 높은\n전력 공급이 가능합니다. 따라서 전력을 더 많이 소비하는 장치들도 안정적으로 사용할 수 있습니다.\n듀얼 버스 지원(하위 호환성)\nUSB 2.0 및 USB 1.1 장치와의 하위 호환성을 유지하므로, 기존 USB 포트와 연결해도\n사용할 수 있습니다. 그러나 연결된 장치나 포트가 USB 3.0이 아닐 경우 속도가 그에 맞게 제한됩니다.\n강화된 차폐 구조\n차폐(Shielding) 구조가 더 강화되어 외부 전자기 간섭(EMI)으로부터 데이터를 보호하고,\n안정적인 연결을 제공합니다. 이를 통해 전송 중 오류나 신호 손실을 최소화할 수 있습니다.\n동시 양방향 데이터 전송 (Full Duplex)\nUSB 3.0은 양방향으로 동시에 데이터를 전송할 수 있는 Full Duplex 방식입니다.\n이는 이전 버전의 USB(USB2.0)의 단방향 전송 방식에 비해 훨씬 효율적입니다.\n플러그 앤 플레이 기능\n대부분의 운영 체제에서 플러그 앤 플레이를 지원하여, 드라이버 설치 없이도 USB 3.0 장치를\n\n\nUSB 3.0은 양방향으로 동시에 데이터를 전송할 수 있는 Full Duplex 방식입니다.\n이는 이전 버전의 USB(USB2.0)의 단방향 전송 방식에 비해 훨씬 효율적입니다.\n플러그 앤 플레이 기능\n대부분의 운영 체제에서 플러그 앤 플레이를 지원하여, 드라이버 설치 없이도 USB 3.0 장치를\n빠르게 인식하고 사용할 수 있습니다.\nUSB3.0 A/M-B/M\nPC, 노트북과 USB 장치 사이에 연결하여 사용할 수 있습니다.\nUSB A/M(Male)\nPC, 노트북 등에 사용\n데스크탑\n노트북\nUSB B/M(Male)\nUSB B타입을 사용하는\nUSB 장치에서 사용\n외장하드\n프린터\n스캐너\n오디오 인터페이스\nNAS\n의료 장비\n산업용 장비\nUSB3.0 A/M-B/M 케이블 주의사항\nUSB 3.0 A/M - B/M 케이블은 한쪽(A/M)은 호스트(컴퓨터 등)에,\n다른 쪽(B/M)은 장치(프린터, 외장 하드 등)에 연결하도록 설계되었습니다.\n잘못 연결할 경우 장치가 인식되지 않거나 작동이 불안정할 수 있습니다.\n케이블 연결시 컨넥터를 올바르게 연결하여 사용하시기 바랍니다.\n5Gbps 전송속도\n최대 5Gbps 전송속도를 지원합니다.\n일반적으로 USB 전송 속도는 사용자의 PC\n환경 및 여러 복합적인 요소로 인해\n이론적 전송 속도와 실제 전송 속도간의 차이가\n발생합니다.\nUSB 버전\n이론적 속도\n실제 전송 속도\nUSB 2.0\n480Mbps (=58MB/s)\n30MB/s LH2\nUSB 3.0\n5Gbps (=600MB/s)\n400MB/s 내외\nUSB 3.1\n10Gbps (=1200MB/s)\n850MB/s 내외\nUSB 3.2\n20Gbps (=2400MB/s)\n2100MB/s 내외\n\n\nUSB 3.0\n5Gbps (=600MB/s)\n400MB/s 내외\nUSB 3.1\n10Gbps (=1200MB/s)\n850MB/s 내외\nUSB 3.2\n20Gbps (=2400MB/s)\n2100MB/s 내외\nUSB3.0 케이블 구조\n4쌍의 28AWG 전선이 각각 데이터와 전력을 전송하며\n3중으로 이루어진 차폐 구조를 통해\n전자기 간섭으로부터 보호됩니다.\nPVC 자켓\n편조차폐\n▶ STUFFING\n충전재로, 케이블 내부에서 공간을 메우고,\n전선의 움직임을 줄이며,\n물리적인 충격으로부터\n보호하는 역할\n알루미늄 차폐\n알루미늄 차폐\nSTUFFING\nDRAIN WIRE\nSTUFFING\nUSB3.0 A/B 케이블 어디서 사용할까요?\nUSB 3.0 AM-BM 케이블은 컴퓨터(호스트)와 데이터를 주고받는\n외부 장치를 연결할 때 사용할 수 있습니다.\n외장 하드 드라이브 연결\n프린터 및 스캐너\n오디오 인터페이스\n컴퓨터와 외장 하드 드라이브를\n연결할 때 자주 사용\n고해상도 프린터나 스캐너와\n같은 장치에서 연결시 사용\nUSB B포트를 사용하는\n오디오 인터페이스에서\n오디오 데이터 전송\nSynology\n산업용 장비\nNAS 장치\nUSB B타입 포트를 갖춘\n산업용 장비에서 고속 데이터\n전송을 위해 사용\n네트워크 저장장치(NAS)에서도\n데이터를 빠르게 백업하거나\n전송하기 위해 사용\nPRODUCT SIZE\n15.5mm\n<A/M (Male) >\n8mm\n35mm\n47mm\n47mm\n<B/M (Male)>\n\n\n35mm\n47mm\n47mm\n<B/M (Male)>\n13mm\nIM\n35mm\n1.8M\n51mm\n3M\n5M\nPIN OUT\nP1 USB 3.0 AM\nP2 USB 3.0 BM\nCOLOR\n1\n1\nRED\n2\n2\nWHITE\n3\n3\nGREEN\n4\n4\nBLACK\n51mm\n5\n8\nPURPLE\n6\n9\nORANGE\n7\n7\nDRAIN WIRE\n8\n5\nYELLOW\n9\n6\nBLUE\nBRAID+DRAIN\n10mm\nSHELL\nSHELL\nSPECIFICATION\n규격\nUSB3.0 A/M - B/M\n전송 속도\n최대 5Gbps\n전력 공급\n최대 900mA\n호환\nUSB2.0, USB1.1 등 하위버전 호환\n심선\n28AWG\n길이\n1m/1.8m/3m/5m\n직경\nOD 5.8±0.1mm\nFAQ\n자주 물어보시는 질문\nQ. USB3.0 전송 속도를 지원하나요?\nSUPERSPEED를 지원하며, 5Gbps의 빠른 데이터 전송이 가능합니다.\n하지만 연결하는 장치와 포트가 USB 3.0을 지원해야 최대 성능을 낼 수 있습니다.\nQ. 케이블이 플러그 앤 플레이를 지원하나요?\n네, USB 3.0 케이블은 일반적으로 플러그 앤 플레이를 지원하며,\n별도의 드라이버 설치 없이 대부분의 운영 체제에서 자동으로 인식됩니다.\nQ. 전력을 공급하거나 장치를 충전할 수 있나요?\n기본적으로 데이터 전송용으로 설계되었지만, 저전력 장치 충전도 가능합니다.\n그러나 외장 하드와 같이 고전력을 요구하는 장치에는 별도 전원 공급이 필요할 수 있습니다.\nQ. 무거운 장치에도 견고하게 연결할 수 있나요?\n단단한 커넥터와 내구성 있는 재질로 제작되어, 무거운 장치에도 안정적으로\n연결할 수 있습니다. 자주 뽑고 꽂아도 견고하게 사용할 수 있도록 설계되었습니다.\n\n\n그러나 외장 하드와 같이 고전력을 요구하는 장치에는 별도 전원 공급이 필요할 수 있습니다.\nQ. 무거운 장치에도 견고하게 연결할 수 있나요?\n단단한 커넥터와 내구성 있는 재질로 제작되어, 무거운 장치에도 안정적으로\n연결할 수 있습니다. 자주 뽑고 꽂아도 견고하게 사용할 수 있도록 설계되었습니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n전문기업확인서\n소재부품 장비 전문기업인\nAca\nATA 2222\n가관리원\n기\n14\n신문기업인을 확인합니다\n산업통산자원부 시행 제도\nKelt\n2120\n2022.11.29 취득\n한국산업기술평가관한민국\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상 품 정 보\n품\n명\nUSB3.0 A/M-B/M 케이블\nLS-USB3.0-AMBM-IM\nLANStar\nLS-USB3.0-AMBM-1.8M\n모\n델\n명\nLS-USB3.0-AMBM-3M\nLS-USB3.0-AMBM-5M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\n\n\nLANStar\nLS-USB3.0-AMBM-1.8M\n모\n델\n명\nLS-USB3.0-AMBM-3M\nLS-USB3.0-AMBM-5M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질 보증 기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANSStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-B"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "PVC"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        1.8,
+        3,
+        5
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "A/M (USB A형 Male)",
+    "connectivity.output_signals": "B/M (USB B형 Male)",
+    "connectivity.directional": "Full Duplex(동시 양방향) 데이터 전송",
+    "power.power_mode": "900mA 전원 공급",
+    "power.charging_support": "900mA 전원 공급",
+    "form_physical.material": "PVC 자켓",
+    "form_physical.length_options_meters": "1M / 1.8M / 3M / 5M 4가지 길이",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.usb_version": "USB 3.0 SuperSpeed",
+    "family.transfer_speed_gbps": "5Gbps 전송속도 지원",
+    "family.charging_only": "데이터 전송 속도",
+    "family.data_only": "데이터 전송 속도"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:41",
+  "feature_schema_version": "1.0.0"
+}

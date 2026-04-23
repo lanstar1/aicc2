@@ -1,0 +1,495 @@
+{
+  "model_no": "LS-HD202N",
+  "product_name": "HDMI 1:2 분배기 (HDMI 4K UHD 1:2 Splitter)",
+  "category": [
+    "HDMI분배기"
+  ],
+  "key_features": [
+    "하나의 HDMI 입력소스로 2개의 디스플레이 장치에 동일한 화면 출력",
+    "최대 4K@60Hz (3840x2160) UHD 해상도 지원",
+    "HDMI 2.0 규격 지원",
+    "HDCP 2.2 지원 (고해상도 콘텐츠 저작권 보호)",
+    "3D 비디오 포맷 및 해상도 지원",
+    "4K HDR Pass-Through 지원",
+    "돌비 비전(Dolby Vision) 및 돌비 애트모스(Dolby Atmos) 지원 (소스·출력 기기 모두 지원 필요)",
+    "YUV 4:4:4 크로마 서브샘플링 지원",
+    "Plug&Play 및 Hot Swap 기능 지원 (별도 드라이버 설치 불필요)",
+    "대역폭 340MHz",
+    "메탈 하우징",
+    "인증번호 R-R-LUS-LS-HD202N (국립전파연구원 인증)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC, FCC, CE, RoHS 인증"
+  ],
+  "specifications": {
+    "입력단자": "HDMI 1 Port",
+    "출력단자": "HDMI 2 Port",
+    "해상도": "4K@60Hz UHD (3840x2160)",
+    "대역폭": "340MHz",
+    "입력전원": "DC 5V 1A",
+    "동작온도": "-15°C ~ 55°C",
+    "습도": "5% ~ 90%",
+    "재질": "메탈 하우징",
+    "무게": "약 137g",
+    "크기": "127mm x 52mm x 20mm",
+    "HDMI 버전": "2.0",
+    "HDCP 버전": "2.2",
+    "인증번호": "R-R-LUS-LS-HD202N",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "아답터 안전인증번호": "HU10999-18001A"
+  },
+  "compatibility": [
+    "HDMI 입력 소스: 콘솔(Console), 노트북(Notebook), 데스크탑(Desktop), 셋톱박스(Set top Box), DVD 플레이어(DVD Player)",
+    "HDMI 출력 디스플레이: TV, 모니터(Monitor), 빔 프로젝터(Beam Projector)",
+    "HDMI 2.0 규격",
+    "HDMI 1.4 규격 (하위 호환)",
+    "HDCP 2.2",
+    "3D 디스플레이",
+    "4K HDR (High Dynamic Range)",
+    "돌비 비전(Dolby Vision) - 소스 및 출력 기기 모두 지원 시",
+    "돌비 애트모스(Dolby Atmos) - 소스 및 출력 기기 모두 지원 시",
+    "YUV(YCbCr) 4:4:4, 4:2:2, 4:2:0 크로마 서브샘플링",
+    "sRGB",
+    "블루레이, HD-DVD, DVD 오디오",
+    "SACD(DSD)",
+    "Deep Color",
+    "xvYCC",
+    "LPCM 8채널, 192kHz, 24비트 오디오",
+    "돌비 TrueHD 오디오 비트스트림",
+    "CEC(기기간 컨트롤 링크)",
+    "이더넷 채널",
+    "오디오 리턴 채널"
+  ],
+  "package_contents": [
+    "HDMI 4K 1X2 Splitter 본체 (LS-HD202N) 1개",
+    "DC 5V 1A 어댑터 1개 (아답터 안전인증번호: HU10999-18001A)"
+  ],
+  "usage_instructions": "1. HDMI 입력 포트(INPUT)에 소스 기기(콘솔, 노트북, 데스크탑, 셋톱박스, DVD 플레이어 등)를 HDMI 케이블로 연결합니다. 2. HDMI 출력 포트(OUTPUT1, OUTPUT2)에 디스플레이 기기(TV, 모니터, 빔 프로젝터 등)를 각각 HDMI 케이블로 연결합니다. 3. DC 5V 1A 어댑터를 연결하여 전원을 공급합니다. 4. 별도의 드라이버 설치 없이 Plug&Play로 바로 사용 가능합니다. 5. PC 전원이 켜진 상태에서도 Hot Swap(연결/해제)이 가능합니다. 6. 돌비 비전, 돌비 애트모스 등 일부 기능은 소스 기기와 출력 디스플레이 기기 모두 해당 기능을 지원해야 정상 사용 가능합니다. 7. 가정, 학원, 회사, 공연장, 전시장, 은행, 강의, 종교 활동, 방송사, 심포지엄 등 다양한 환경에서 사용 가능합니다.",
+  "cautions": [
+    "돌비 비전(Dolby Vision), 돌비 애트모스(Dolby Atmos) 등 특정 기능은 소스(Source) 기기와 출력 디스플레이 기기 모두 해당 기능을 지원해야 정상 사용이 가능합니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HD202N",
+      "품목코드": "INT-HDS164",
+      "품목명": "[LANstar] HDMI 2.0 분배기 1:2 , 4K 60hz [30350](40개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HD202N",
+      "내용": "연결이안됨 ㅠ 나중에ㅜ다시 도전"
+    },
+    {
+      "source_model": "LS-HD202N",
+      "내용": "다른 곳에서 낚여서 쓸모없는거 샀는데 이건 제대로 4K 60Hz 지원한다고 되어있네요. 우선 tv에 꽂아보려합니다."
+    },
+    {
+      "source_model": "LS-HD202N",
+      "내용": "생각보다 크네여~ 잘쓸께여"
+    },
+    {
+      "source_model": "LS-HD202N",
+      "내용": "제품 배송 빠르고 포장 깔끔하고 좋아요"
+    },
+    {
+      "source_model": "LS-HD202N",
+      "내용": "온라인 생중계를 현장에서 함께 보기 위해서 구매 했습니다. 원하던 대로 잘 나오네요~ 좋아요~"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HD202N",
+      "id": 230246311,
+      "date": "2022-07-29 09:35",
+      "answerDate": "2022-07-29 11:10",
+      "user": "outs*******",
+      "productName": "랜스타 LS-HD202N HDMI2.0 분배기 1:2 타입 4K UHD 60Hz 지원",
+      "question": "패쓰쓰루 기능 지원되는지 문의 드립니다. \n돌비 애트모스 사운드바를 이용하고 있는데 \n아래 순으로 연결할수 밖에 없어서요 ㅠ\n\nㅇ 소스기기 > 분배기 > tv(패스스루 지원) > 사운드바",
+      "answer": "안녕하세요 랜스타 입니다.\n\n해당 장비는 소스기기 > 분배기 > 사운드바 > TV로 연결해야 돌비 비전 및 돌비 애트모스 사용이 가능하며 각 장비 간에 연결 길이가 되도록 짧아야 합니다.\n사운드바가 패스스루 기능이 없다면 지원 안될 수 있습니다."
+    },
+    {
+      "source_model": "LS-HD202N",
+      "id": 524432507,
+      "date": "2023-04-10 15:12",
+      "answerDate": "2023-04-10 15:18",
+      "user": "ant9***",
+      "productName": "랜스타 LS-HD202N HDMI2.0 분배기 1:2 타입 4K UHD 60Hz 지원",
+      "question": "현재 RTX 3090을 사용하고 있습니다.\nHDMI포트는 1개이고 DP포트는 3개입니다.\n먼저 상황을 설명드리자면 모니터 6개를 사용할 계획입니다.\n편의상 모니터 1,2,3,4,5,6이라고 하겠습니다\n평상시에는 모니터 1,2,3을 사용하다가 게임을 할때는 모니터 4,5,6으로 전환해서 사용하고 싶습니다.\n분배기와 모니터 사이에는 HDMI to HDMI 선으로 연결을 하면 되는데 분배기와 그래픽카드 사이에 DP to HDMI선으로 연결해도 동작을 할까요?\n모니터 스펙의 경우에는 QHD 240hz 모니터로 4K 60hz를 지원하면 QHD 240hz도 지원이 가능합니다.\n또한 현재 쓰고있는 DP 분배기의 경우에는 드라이버 문제로 인해 3090에서는 작동이 되지 않았는데 이 제품이나 아님 다른 제품의 경우 지원이 확실히 되는지 궁금합니다.\n또한 전환 버튼이 상품 이미지에서는 보이지 않는데 리모컨으로 전환하는건지 궁금합니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n문의 주신 내용 잘 살펴보았습니다. 다만 해당 답변으로 말씀 드리기엔 한계적인 부분이 있어, 네이버톡톡 혹은 유선 상담을 도와드리고자 합니다. 우선 톡톡으로 연락을 주시면 최대한 빠르게 고객님의 궁금사항을 해결해드릴 수 있도록 하겠습니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-HD202N",
+      "id": 587694509,
+      "date": "2024-07-06 12:10",
+      "answerDate": "2024-07-08 09:22",
+      "user": "pshs****",
+      "productName": "랜스타 LS-HD202N HDMI2.0 분배기 1:2 타입 4K UHD 60Hz 지원",
+      "question": "노트북에서 모니터 2개로 확장하려는 이 제품으로 가능할까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n문의주신 분배기 제품은 확장모드로 사용할 수 없습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HD202N",
+      "chatUrl": "1ynot",
+      "dateIso": "2026-04-20T07:23:52.272Z",
+      "name": "H60",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "패스스루 기능이 없는데 듀얼모니터에 둘다 화면 송출이 가능한가요? 듀얼모니터에 둘다 띄우려면 (닌텐도창,obs창) 분배기가 필요한거죠?",
+      "answer": "네 고객님, 닌텐도스위치에 분배기연결후 분배기에서 나오는 HDMI 2개의 신호를 하나는 모니터, 하나는 캡쳐보드에 연결하여 사용하면 모니터 하나는 게임화면, 모니터하나는 PC화면",
+      "turn_count": 1,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "패스스루 기능이 없는데 듀얼모니터에 둘다 화면 송출이 가능한가요? 듀얼모니터에 둘다 띄우려면 (닌텐도창,obs창) 분배기가 필요한거죠?"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 닌텐도스위치에 분배기연결후 분배기에서 나오는 HDMI 2개의 신호를 하나는 모니터, 하나는 캡쳐보드에 연결하여 사용하면 모니터 하나는 게임화면, 모니터하나는 PC화면"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HD202N",
+      "chatUrl": "5bQ9c",
+      "dateIso": "2025-05-21T04:02:12.645Z",
+      "name": "Bererere",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "노트북 한대에 모니터 두대 연결해서 사용중인데 모니터 검색이안됩니다 . 모니터 한개씩 다른 멀티포트 통해서는 검색이 되거든요.\n(추가 문의) 아 그렇군요.. 답변감사합니다.. 그러면 랜스타 분배기 추천해주실만한게 있을까요?",
+      "answer": "선택기는 입력포트가 2개 모니터가 1개 입니다. 분배기 구매해야하는데 선택기로 잘못 구매 한걸로 보입니다.",
+      "turn_count": 4,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "감사합니다."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\nLS-HD202N 추천드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하"
+        },
+        {
+          "role": "customer",
+          "text": "아 그렇군요.. 답변감사합니다.. 그러면 랜스타 분배기 추천해주실만한게 있을까요?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n선택기는 입력포트가 2개 모니터가 1개 입니다. 분배기 구매해야하는데 선택기로 잘못 구매 한걸로 보입니다.\n\n정직한 가격과 품질로 고객님을 더"
+        },
+        {
+          "role": "customer",
+          "text": "노트북 한대에 모니터 두대 연결해서 사용중인데 모니터 검색이안됩니다 . 모니터 한개씩 다른 멀티포트 통해서는 검색이 되거든요."
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "판매자 문의"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HD202N",
+      "chatUrl": "KUnl",
+      "dateIso": "2024-10-14T00:03:00.664Z",
+      "name": "Youngick",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "202N 한개는 주문서상 묶음배송이 아니고 별도 주문이 들어간 제품입니다. 그런데 묶음으로 보내셨나요? 나머지 제품들 이랑 같이 온 박스에는 들어있지 않았던데요\n(추가 문의) 박스는 하나만 수령했는데 실제 박스 내에는 제가 주문한 제품이 하나만 들어있습니다. Hdmi 1:2 분배기입니다\n(추가 문의) 배송이 언제되는거죠? 일요일에 필요한거라 늦어도 토요일에 받을 수 있도록 목요일에 주문한건데\n(추가 문의) 그리고 배송이 묶음처리된거면 배송비는 환불해주셔야 하는 것 아닌가요?",
+      "answer": "네. 고객님. 안내에 착오가 있었던 것으로 보입니다. LS-HD202N의 경우 따로 배송 될 예정입니다. 누락 여부 배송팀 확인 후 운송장번호 안내 도와드리겠습니다. 혼란을 드려\n\n네. 고객님. 해당 건 묶음 배송으로 주문주신 LS-HD202N / 1개 LS-HT-314B / 1개 LS-HD202N / 1개 LS-HD208N / 1개 9V 배터리 / 1개\n\n네. 고객님. 원활한 수령에 불편을 드려 죄송합니다. 금일 출고 되어 아래에 송장번호 남겨드립니다. 토요일 수령 가능하실 것으로 예상됩니다. [로젠 39197443806]",
+      "turn_count": 19,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "일단 확인 했습니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 추가로 문의사항 있으실 경우 언제든지 말씀 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편"
+        },
+        {
+          "role": "customer",
+          "text": "아직 발송이 안된거면 사용 불가하다는 것으로 보이는데요"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n원활한 수령에 불편을 드려 죄송합니다.\n금일 출고 되어 아래에 송장번호 남겨드립니다.\n토요일 수령 가능하실 것으로 예상됩니다.\n[로젠 39197443806]"
+        },
+        {
+          "role": "customer",
+          "text": "배송이 언제되는거죠? 일요일에 필요한거라 늦어도 토요일에 받을 수 있도록 목요일에 주문한건데"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n안내에 착오가 있었던 것으로 보입니다.\nLS-HD202N의 경우 따로 배송 될 예정입니다.\n누락 여부 배송팀 확인 후 운송장번호 안내 도와드리겠습니다.\n혼란을 드려"
+        },
+        {
+          "role": "customer",
+          "text": "그리고 배송이 묶음처리된거면 배송비는 환불해주셔야 하는 것 아닌가요?"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n주문서 상 따로 구매해주셨으나 배송지가 동일하여 배송팀에서 함께 출고된 것으로 보입니다.\n배송팀 확인 후 안내 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "이렇게 한박스만 와있었습니다"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n해당 건 묶음 배송으로 주문주신\nLS-HD202N / 1개\nLS-HT-314B / 1개\nLS-HD202N / 1개\nLS-HD208N / 1개\n9V 배터리 / 1개"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n추가 문의 사항이 있으실 경우 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타"
+        },
+        {
+          "role": "customer",
+          "text": "202N 한개는 주문서상 묶음배송이 아니고 별도 주문이 들어간 제품입니다. 그런데 묶음으로 보내셨나요? 나머지 제품들 이랑 같이 온 박스에는 들어있지 않았던데요"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n확인 되셨을까요?"
+        },
+        {
+          "role": "customer",
+          "text": "박스는 하나만 수령했는데 실제 박스 내에는 제가 주문한 제품이 하나만 들어있습니다. Hdmi 1:2 분배기입니다"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n운송장 조회 결과 배송 완료로 해당 구역 담당 기사님과 통화해보셔야할 것으로 보입니다.\n아래에 기사님 번호 남겨드립니다.\n김아람 010-5134-0218"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HD202N",
+      "chatUrl": "2NmuG",
+      "dateIso": "2024-08-05T05:00:18.022Z",
+      "name": "비전",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "문자로 보내주신 계좌로 배송비 입금 드렸습니다만 아직 반송되지 않고 문앞에 일주일 째 있습니다. 반송 부탁드립니다.\n(추가 문의) 송영호라는 이름으로 배송비 입금했습니다\n(추가 문의) 네, 확인했습니다. 감사합니다.",
+      "answer": "현재 반품 요청 주신 것으로 보아 기사님께서 별도 연락이 가셨을 것으로 보이는데 수거가 안되셨을까요? 이는 네이버에서 자동으로 수거가 진행되는\n\n주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네, 확인했습니다. 감사합니다."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 반품 요청 주신 것으로 보아 기사님께서 별도 연락이 가셨을 것으로 보이는데 수거가 안되셨을까요?\n이는 네이버에서 자동으로 수거가 진행되는"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "7월 25일에요"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "송영호라는 이름으로 배송비 입금했습니다"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "문자로 보내주신 계좌로 배송비 입금 드렸습니다만 아직 반송되지 않고 문앞에 일주일 째 있습니다. 반송 부탁드립니다."
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-HD202N",
+      "chatUrl": "22tqb",
+      "dateIso": "2023-12-21T04:46:01.562Z",
+      "name": "yang****",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "랜스타 2채널 분배기는 다른제품보다 비싸고 큰거같은데 이제품의 특장점을 알고싶습니다\n(추가 문의) hdmi선이 15m 입니다 출력에 문제 없을까여\n(추가 문의) 같은 랜스타꺼인데.. 더 좋은건가요",
+      "answer": "분배기는 종류에 따라 편차가 큽니다. 1. 버전 - HDMI 버전에 따라 최대 해상도 지원이 달라집니다. 2. 전원 유/무 - 무전원의 경우 제\n\n주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "같은 랜스타꺼인데.. 더 좋은건가요"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "랜스타 2채널 분배기는 다른제품보다 비싸고 큰거같은데 이제품의 특장점을 알고싶습니다"
+        },
+        {
+          "role": "agent",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        },
+        {
+          "role": "customer",
+          "text": "판매자 문의"
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        },
+        {
+          "role": "customer",
+          "text": "hdmi선이 15m 입니다 출력에 문제 없을까여"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n분배기는 종류에 따라 편차가 큽니다.\n1. 버전 - HDMI 버전에 따라 최대 해상도 지원이 달라집니다.\n2. 전원 유/무 - 무전원의 경우 제"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": true,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "input_count": 1,
+      "output_count": 2,
+      "mode": [
+        "분배"
+      ],
+      "cascade_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 1 Port",
+    "connectivity.output_signals": "HDMI 2 Port",
+    "connectivity.directional": "하나의 HDMI 입력소스로 2개의 디스플레이 장치에 동일한 화면 출력",
+    "connectivity.port_count": "HDMI 1 Port, HDMI 2 Port",
+    "power.power_mode": "DC 5V 1A 어댑터를 연결하여 전원을 공급합니다",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "메탈 하우징",
+    "form_physical.material": "메탈 하우징",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "null",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "최대 4K@60Hz (3840x2160) UHD 해상도 지원",
+    "audio_video.hdr_support": "4K HDR Pass-Through 지원",
+    "audio_video.hdcp_version": "HDCP 2.2 지원",
+    "audio_video.audio_pass": "돌비 애트모스(Dolby Atmos) 지원",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.input_count": "HDMI 1 Port",
+    "family.output_count": "HDMI 2 Port",
+    "family.mode": "HDMI 1:2 분배기",
+    "family.cascade_support": "null"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:50",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 5,
+    "category_breakdown": {
+      "compatibility": 2,
+      "troubleshoot": 3
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

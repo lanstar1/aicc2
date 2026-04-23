@@ -1,0 +1,108 @@
+{
+  "model_no": "LS-PS2-SC4P",
+  "product_name": "PS2 SCREW 판넬 케이블",
+  "category": [
+    "커넥터",
+    "분배판넬"
+  ],
+  "key_features": [
+    "PS2 키보드 커넥터(F)와 4핀 메인보드 커넥터(M)를 연결하는 판넬 케이블",
+    "스크류(SCREW) 체결 방식 지원",
+    "케이블 길이 0.5M"
+  ],
+  "specifications": {
+    "모델명": "LS-PS2-SC4P-0.5M",
+    "품명": "PS2 SCREW 판넬 케이블",
+    "케이블 길이": "0.5M",
+    "커넥터 A": "PS2 키보드 커넥터 (F)",
+    "커넥터 B": "4핀 메인보드 커넥터 (M)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증서번호": "해당없음",
+    "브랜드": "LANStar"
+  },
+  "compatibility": [
+    "PS2 키보드 인터페이스",
+    "4핀 메인보드 PS2 헤더"
+  ],
+  "package_contents": [
+    "PS2 SCREW 판넬 케이블 (LS-PS2-SC4P-0.5M) 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상해드립니다.",
+    "AS 소비자상담: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PS2-SC4P-1M",
+      "품목코드": "CAB-PS2013",
+      "품목명": "[LANstar] PS2 SCREW 케이블 , DIN6P／F-Power 4P, 1M[10537]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "PS/2"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": 0.5,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "PS2 키보드 커넥터 (F)",
+      "connector_type_b": "4핀 메인보드 커넥터 (M)",
+      "gender": "M-F",
+      "pin_count": 4
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "PS2 키보드 커넥터(F)",
+    "form_physical.length_meters": "케이블 길이 0.5M",
+    "certification.kc": "인증서번호: 해당없음",
+    "family.connector_type_a": "PS2 키보드 커넥터 (F)",
+    "family.connector_type_b": "4핀 메인보드 커넥터 (M)",
+    "family.gender": "PS2 키보드 커넥터(F)와 4핀 메인보드 커넥터(M)",
+    "family.pin_count": "4핀 메인보드 커넥터(M)"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:33",
+  "feature_schema_version": "1.0.0"
+}

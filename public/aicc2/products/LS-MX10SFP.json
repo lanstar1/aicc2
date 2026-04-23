@@ -1,0 +1,167 @@
+{
+  "model_no": "LS-MX10SFP",
+  "product_name": "LANStar 10Gbps SFP28 듀얼 랜카드 (PCI-Express SFP28 DUAL 10Gbps Card)",
+  "category": [
+    "랜케이블-CAT6A",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "PCI-Express x8 v3.0 Bus Slot 지원 (x8, x16 슬롯 장착 가능)",
+    "SFP28 듀얼 인터페이스 (포트 2개)",
+    "최대 10Gbps 전송 속도 지원",
+    "Mellanox ConnectX-4 칩셋 탑재",
+    "SFP28 멀티모드 및 싱글모드 지원 (SR/LR)",
+    "대형 방열판으로 효과적인 열 발산",
+    "FreeBSD, Linux, VMware ESXi, Windows 7/8/10/11 지원 (Mac OS 미지원)",
+    "Plug & Play 지원 (별도 드라이버 설치 과정 없이 자동 인식)",
+    "슬림 PC용 로우 프로파일 브라켓 포함",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-MX10SFP)",
+    "라인업시스템(주) / 랜스타 정품 수입·유통 제품",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "BUS_SLOT": "PCIe x8 v3.0 with 8.0GT/s",
+    "칩셋": "Mellanox ConnectX-4",
+    "인터페이스": "SFP28 x2",
+    "토폴로지": "IEEE 802.3: 10GBASE-SR, 10GBASE-LR, IEEE 802.3ad, IEEE 802.3Q VLANS, IEEE 802.3p, IEEE 802.3 2005, flow control support",
+    "기능": "IPMI Pass-through via SMBus or NC-SI, WoL, PXE remote boot, iSCSI Boot, VLAN filtering",
+    "지원_OS": "FreeBSD, Linux, VMware ESXi, Windows 7/8/10/11 (Mac OS 미지원)",
+    "크기": "146 x 51 x 20 mm",
+    "무게": "약 140g",
+    "KC_인증번호": "R-R-LUS-LS-MX10SFP",
+    "제조국": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "PCI-Express x8 슬롯",
+    "PCI-Express x16 슬롯",
+    "SFP28 SR (Short Range, 멀티모드 광섬유, 최대 100m~400m)",
+    "SFP28 LR (Long Range, 싱글모드 광섬유, 최대 10km 이상)",
+    "SFP28 AOC Patch Cord",
+    "SFP28 DAC Patch Cord",
+    "SFP 모듈 (하위 호환, 동일 폼팩터 SFP/SFP+ 모듈 10G 속도로 사용 가능)",
+    "FreeBSD",
+    "Linux",
+    "VMware ESXi",
+    "Windows 7 / 8 / 10 / 11"
+  ],
+  "package_contents": [
+    "PCIe SFP28 10G 듀얼 랜카드 본체 (LS-MX10SFP)",
+    "슬림 PC용 브라켓 (로우 프로파일)",
+    "매뉴얼 (Quick Install Guide)",
+    "드라이버 설치 CD"
+  ],
+  "usage_instructions": "1. PC 전원을 끈 상태에서 메인보드의 PCIe x8 또는 x16 슬롯에 카드를 장착한다. 2. PC 전원을 켜면 운영체제가 자동으로 카드를 인식하고 드라이버를 설치한다(Plug & Play). 3. 드라이버가 자동 설치되지 않을 경우 동봉된 CD를 이용해 OS에 맞는 드라이버를 수동 설치한다. 4. SFP28 모듈 및 패치코드는 별도 구매 후 카드의 SFP28 포트에 연결하여 사용한다.",
+  "cautions": [
+    "SFP28 광 모듈은 제품에 포함되어 있지 않으며 별도 구매가 필요합니다.",
+    "SFP28 모듈 및 패치코드(AOC, DAC)는 별도 구매 제품입니다.",
+    "Mac OS는 지원하지 않습니다.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일은 제외한 평일 기준입니다. 택배사 사정에 따라 배송기간이 길어질 수 있습니다.",
+    "본 제품은 LS-MX25SFP 대비 제조사에서 10G로 속도 제한이 적용된 제품입니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MX10SFP",
+      "품목코드": "PCI-SFP002",
+      "품목명": "[LANstar] PCIe SFP28 듀얼 10G 서버랜카드 Mellanox (ConnectX-4) 칩셋 [30866]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "SFP28"
+      ],
+      "output_signals": [
+        "SFP28"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "SFP28 듀얼 인터페이스",
+    "connectivity.output_signals": "SFP28 듀얼 인터페이스",
+    "connectivity.directional": "최대 10Gbps 전송 속도 지원",
+    "connectivity.port_count": "SFP28 듀얼 인터페이스 (포트 2개)",
+    "power.power_mode": "PCI-Express x8 v3.0 Bus Slot 지원",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "대형 방열판으로 효과적인 열 발산",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "certification.rohs": "null",
+    "certification.iso9001": "null",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "null",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.cat_category": "null",
+    "family.shielding": "null",
+    "family.conductor": "null",
+    "family.awg": "null",
+    "family.pair_count": "null",
+    "family.flame_rating": "null",
+    "family.poe_support": "null"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:03",
+  "feature_schema_version": "1.0.0"
+}

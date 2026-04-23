@@ -1,0 +1,133 @@
+{
+  "model_no": "LS-FR",
+  "product_name": "LANStar 아로마 휴대용 미니선풍기",
+  "category": [
+    "커넥터",
+    "휴대용선풍기"
+  ],
+  "key_features": [
+    "120° 회전각 지원",
+    "플러그 인 방식 즉시 충전 및 사용 (사무실, 야외 사용 가능)",
+    "촉점식 전력 공급 (화살표를 전원부와 일직선 정렬 후 연결)",
+    "회전 받침대 지원 (받침대에 꽂은 뒤 버튼으로 회전)",
+    "하나의 버튼으로 5단계 바람세기 조절",
+    "곡선형 정방향 유도 커버로 바람 응집 극대화",
+    "저소음 설계 (송풍 기술 결합 날개)",
+    "아로마 디퓨저 기능 (뒷면 디퓨저 박스에 아로마 디퓨저 삽입)",
+    "2000mAh 대용량 배터리 내장",
+    "단계별 LED 표시",
+    "색상: 화이트(LS-FRW), 네이비(LS-FRN)"
+  ],
+  "specifications": {
+    "모델명": "LS-FRW(White) / LS-FRN(Navy)",
+    "재질": "PP / PCB / Hardware",
+    "배터리 전압": "3.7V",
+    "배터리 용량": "2000mAh",
+    "정격 전압": "DC 5V / 1000mA",
+    "출력 파워": "4.5W",
+    "단계별 세부사항_1단계": "4.5V, 2100rpm, 260mA, 1.0W",
+    "단계별 세부사항_2단계": "6.0V, 2600rpm, 500mA, 1.85W",
+    "단계별 세부사항_3단계": "6.7V, 2800rpm, 660mA, 2.5W",
+    "단계별 세부사항_4단계": "7.4V, 3000rpm, 840mA, 3.1W",
+    "단계별 세부사항_5단계": "8.3V, 3200rpm, 1030mA, 3.9W",
+    "사이즈": "106 x 86 x 230 (mm)",
+    "무게": "284g",
+    "색상": "White(흰색), Navy(남색)",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "KC 전파안전 인증번호": "R-R-LUS-LS-FMW",
+    "KC 전기안전 인증번호": "XU101401-18001A"
+  },
+  "compatibility": [
+    "DC 5V / 1000mA USB 전원 입력 지원",
+    "KC 전파안전 인증 (국립전파연구원)",
+    "KC 전기안전 인증",
+    "FCC 인증",
+    "CE 인증",
+    "RoHS 규격 준수",
+    "ISO 9001:2008 품질경영시스템"
+  ],
+  "package_contents": [
+    "휴대용 미니선풍기 본체",
+    "회전 받침대",
+    "아로마 디퓨저"
+  ],
+  "usage_instructions": "1. 받침대 사용: 선풍기를 받침대에 꽂은 뒤 회전 버튼을 눌러 120° 범위 내 회전 가능. 2. 전원 연결: 화살표가 전원부와 일직선이 되도록 정렬한 후 촉점식으로 연결. USB 전원 입력 단자를 통해 플러그 인 방식으로 즉시 사용 가능. 3. 바람세기 조절: 작동 스위치(버튼 1개)를 눌러 1~5단계 풍속 순환 조절. 4. 아로마 기능: 선풍기 뒷면 디퓨저 박스를 열고 동봉된 아로마 디퓨저를 삽입한 후 잠금.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "화살표가 전원부와 일직선으로 위치했을 때 연결할 것",
+    "본 제품은 현대해상화재 생산물배상책임보험(1억원) 가입 제품으로 문제 발생 시 보상 가능",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "라인업시스템(주)의 동의 없이 상품 및 콘텐츠 무단 복제·이용 금지",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "배터리",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "PP",
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "White",
+        "Navy"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": null,
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 전원 입력 단자를 통해",
+    "power.power_mode": "2000mAh 대용량 배터리 내장",
+    "power.charging_support": "플러그 인 방식 즉시 충전 및 사용",
+    "form_physical.has_case": "LANStar 아로마 휴대용 미니선풍기",
+    "form_physical.material": "재질\": \"PP / PCB / Hardware",
+    "form_physical.color_options": "색상: 화이트(LS-FRW), 네이비(LS-FRN)",
+    "certification.kc": "KC 전파안전 인증번호\": \"R-R-LUS-LS-FMW",
+    "control_switching.has_physical_button": "하나의 버튼으로 5단계 바람세기 조절"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:01",
+  "feature_schema_version": "1.0.0"
+}

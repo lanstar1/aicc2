@@ -1,0 +1,141 @@
+{
+  "model_no": "LSP-USB3B-AFFL",
+  "product_name": "USB 3.0 키스톤 커플러 90도 (USB 3.0 A/F-A/F 90도)",
+  "category": [
+    "USB3.0",
+    "USB2.0",
+    "키스톤잭",
+    "커플러",
+    "분배판넬",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "두 개의 USB 3.0 단자가 90도 꺾임 형태로 달려있는 키스톤형 커플러",
+    "USB 3.0 규격 지원, 최대 5Gbps 전송속도",
+    "USB 2.0 대비 10배 빠른 전송속도",
+    "삽입형 아울렛(1구, 2구, 4구, 6구) 및 블랭크 패치판넬(24포트) 장착 가능",
+    "RoHS 인증 준수 (유해물질 사용 제한)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "인터페이스": "USB 3.0 A/F - A/F",
+    "형태": "90도 꺾임형 키스톤 타입",
+    "최대 전송속도": "5Gbps",
+    "USB 규격": "USB 3.0 (SUPERSPEED)",
+    "커넥터 타입": "Female - Female",
+    "제품 치수 (mm)": "길이 37.25, 폭 19.41, 높이 18.93, 단자부 9.6 x 9.6, 기타 17.11",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증": "RoHS Compliant",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "USB 3.0 장치",
+    "USB 2.0 장치 (하위 호환)",
+    "USB 1.1 장치 (하위 호환)",
+    "삽입형 아울렛 1구",
+    "삽입형 아울렛 2구",
+    "삽입형 아울렛 4구",
+    "삽입형 아울렛 6구",
+    "블랭크 패치판넬 24포트"
+  ],
+  "package_contents": [
+    "USB 3.0 키스톤 커플러 90도 (LSP-USB3B-AFFL) 본체 1개"
+  ],
+  "usage_instructions": "키스톤 타입 커플러로 삽입형 아울렛(1구/2구/4구/6구) 또는 블랭크 패치판넬(24포트)에 장착하여 사용. 양쪽 USB 3.0 Female 단자에 각각 USB 케이블을 연결하여 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "한국아이티판매협동조합에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 문의: www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-USB3B-AFFL",
+      "품목코드": "GEN-USB089",
+      "품목명": "[LANstar] ◆Plus-USB3.0 키스톤 커플러 Changer A/F-A/F 90도, White [70064] (600개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-USB3B-AFFL",
+      "내용": "랜스타 제품 잘받았습니다"
+    },
+    {
+      "source_model": "LSP-USB3B-AFFL",
+      "내용": "랜스타 제품 잘 받아보았습니다"
+    },
+    {
+      "source_model": "LSP-USB3B-AFFL",
+      "내용": "랜스타플러스 USB3.0 키스톤 커플러 A/F-A/F 90"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 A/F - A/F",
+    "connectivity.output_signals": "USB 3.0 A/F - A/F",
+    "connectivity.directional": "두 개의 USB 3.0 단자가",
+    "connectivity.port_count": "두 개의 USB 3.0 단자가",
+    "form_physical.has_case": "키스톤형 커플러",
+    "certification.rohs": "RoHS 인증 준수",
+    "family.usb_version": "USB 3.0 규격 지원",
+    "family.transfer_speed_gbps": "최대 5Gbps 전송속도",
+    "family.charging_only": "USB 3.0 키스톤 커플러",
+    "family.data_only": "USB 3.0 키스톤 커플러"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:52",
+  "feature_schema_version": "1.0.0"
+}

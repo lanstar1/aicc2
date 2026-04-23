@@ -1,0 +1,133 @@
+{
+  "model_no": "LS-HDMI-GNM14",
+  "product_name": "LANStar HDMI Cable Green Metal Ver 1.4",
+  "category": [
+    "HDMI케이블",
+    "HDMI광케이블",
+    "RCA케이블",
+    "오디오케이블",
+    "AV케이블"
+  ],
+  "key_features": [
+    "4K@60Hz 지원: 4K2K UHD(Ultra High Definition) 해상도로 Full HD 1080p 대비 4배 높은 고해상도 화질 제공, 초당 60프레임 재생으로 매끄러운 영상 구현",
+    "3D 입체 영상 지원: 3D 비디오 포맷과 해상도의 통일된 규격 지원으로 3D 홈시어터 및 3D 게임에 활용 가능",
+    "HDMI 1.4 버전: Full HD 1080p 해상도 최대 4배에 이르는 영화관급 해상도(4096x2160) 지원",
+    "HEC(HDMI Ethernet Channel) 지원: 별도의 이더넷 케이블 없이 하나의 HDMI 케이블로 IP 기반 주변기기와의 통신 및 이더넷 신호 공유 가능",
+    "ARC(Audio Return Channel) 지원: 오디오 업스트림 기능으로 별도의 AV/RCA/광 케이블 없이 TV와 AV기기 간 최적의 음향 신호 전달",
+    "Additional Color Spaces 지원: sYCC601, Adobe RGB, Adobe YCC601 3개의 칼라 영역 추가로 풍부하고 자연스러운 색감 구현"
+  ],
+  "specifications": {
+    "HDMI 버전": "Ver 1.4",
+    "최대 해상도": "4K2K (4096x2160) @ 60Hz",
+    "지원 해상도": "SD 480p, HD 720p, Full HD 1080p, 1440p, 4Kx2K (4096x2160)",
+    "이더넷 채널": "HEC(HDMI Ethernet Channel) 지원",
+    "오디오 리턴 채널": "ARC(Audio Return Channel) 지원",
+    "추가 색공간": "sYCC601 color, Adobe RGB color, Adobe YCC601 color",
+    "3D 지원": "지원",
+    "커넥터 소재": "Green Metal"
+  },
+  "compatibility": [
+    "HDMI 1.4 지원 기기",
+    "4K UHD TV",
+    "3D TV",
+    "홈시어터 AV 리시버",
+    "IP 기반 이더넷 연결 멀티미디어 기기",
+    "돌비 디지털 5.1 채널 지원 TV 및 리시버"
+  ],
+  "package_contents": [
+    "LANStar HDMI Cable Green Metal Ver 1.4 × 1"
+  ],
+  "usage_instructions": "HDMI 1.4 지원 기기에 본 케이블을 연결하면 4K 영상, 3D 영상, HEC(이더넷 공유), ARC(오디오 리턴) 기능을 별도 케이블 없이 원스톱으로 사용할 수 있습니다. ARC 기능 사용 시 TV와 리시버를 본 케이블로 연결하면 별도의 AV/RCA/광 케이블 없이 오디오 신호 전달이 가능합니다. HEC 기능 사용 시 하나의 기기에만 이더넷 케이블을 연결하면 연결된 모든 기기가 이더넷 신호를 공유할 수 있습니다.",
+  "cautions": [
+    "제품 품질 향상으로 인해 제품의 디자인이 다소 변경될 수 있으니 주문 전 참고 바랍니다.",
+    "HEC 및 ARC 기능은 HDMI 1.4를 지원하는 기기와 케이블을 함께 사용해야 정상 동작합니다.",
+    "HDMI 1.3 버전 이하 기기에서는 HEC, ARC, Additional Color Spaces 등 1.4 전용 기능이 지원되지 않습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMI-GNM14-1.5M",
+      "품목코드": "CAB-HDM477",
+      "품목명": "[LANstar] HDMI 1.4(2.0)케이블 그린메탈, 4K*2K 60Hz, 1.5M [10743] (120개)",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-GNM14-3M",
+      "품목코드": "CAB-HDM485",
+      "품목명": "[LANstar] HDMI 1.4(2.0)케이블 그린메탈, 4K*2K 60Hz, 3M [10744]",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "Green"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "HDMI1.4",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI Cable",
+    "connectivity.output_signals": "HDMI Cable",
+    "connectivity.directional": "하나의 HDMI 케이블로",
+    "power.power_mode": "별도의 이더넷 케이블 없이",
+    "form_physical.material": "Green Metal",
+    "form_physical.color_options": "Green Metal",
+    "audio_video.max_resolution": "4K2K (4096x2160) @ 60Hz",
+    "audio_video.audio_pass": "ARC(Audio Return Channel) 지원",
+    "family.hdmi_version": "HDMI 1.4 버전",
+    "family.ethernet_channel": "HEC(HDMI Ethernet Channel) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:11",
+  "feature_schema_version": "1.0.0"
+}

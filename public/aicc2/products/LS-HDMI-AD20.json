@@ -1,0 +1,320 @@
+{
+  "model_no": "LS-HDMI-AD20",
+  "product_name": "LANStar HDMI to Micro HDMI 2.0 케이블",
+  "category": [
+    "HDMI케이블"
+  ],
+  "key_features": [
+    "HDMI 2.0 규격 지원, 최대 18Gbps 전송 대역폭",
+    "4K Ultra HD (4096x2160) @ 60Hz 지원",
+    "21:9 시네마스코프 화면비율 지원",
+    "3D 입체영상 지원",
+    "32채널 멀티채널 오디오 지원 (1536kHz 샘플링, 최대 4명 동시 멀티스트림)",
+    "24K 금도금 커넥터 적용",
+    "오디오 리턴 채널(ARC) 지원",
+    "HDCP 2.2 영상저작권 보호 기술 지원",
+    "HEC(HDMI Ethernet Channel) 지원 - 별도 랜케이블 없이 네트워크 접속 가능",
+    "IPTV, DLNA, UPnP 등 IP 기반 응용기술 구현 가능",
+    "돌비 TrueHD, DTS-HD Master Audio 오디오 비트스트림 지원",
+    "3개의 컬러 영역(sYCC601 / Adobe RGB / Adobe YCC601) 지원으로 풍부한 색감",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC, FCC, CE 안전규격 인증, RoHS 준수, ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "커넥터 타입": "HDMI 19P/M - Micro HDMI 19P/M",
+    "지원 해상도": "4K@60Hz (4096x2160), 1920x1080, 1280x720",
+    "전송속도(대역폭)": "18Gbps",
+    "케이블 길이": "1M / 1.5M / 2M / 3M / 5M",
+    "소비전력 최대": "DC 300V/5s",
+    "작동온도": "섭씨 80도",
+    "오디오 채널": "32채널",
+    "오디오 샘플링": "1536kHz",
+    "HDMI 버전": "2.0",
+    "커넥터 도금": "24K 금도금",
+    "인증": "KC, FCC, CE, RoHS, ISO 9001:2008",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 2.0 지원 기기",
+    "HDMI 1.4 이하 버전 기기 (하위 호환)",
+    "Micro HDMI 단자 탑재 기기 (삼성 등 스마트폰·태블릿·카메라류)",
+    "4K UHD TV",
+    "블루레이 플레이어 / HD-DVD 플레이어",
+    "3D 지원 디스플레이 및 영상기기",
+    "ARC 지원 AV 기기 및 TV",
+    "IPTV, DLNA, UPnP 지원 네트워크 기기",
+    "LG, SAMSUNG 등 주요 브랜드 HDMI 기기"
+  ],
+  "package_contents": [
+    "HDMI to Micro HDMI 2.0 케이블 1개"
+  ],
+  "usage_instructions": "HDMI 단자(표준 19핀)를 TV·모니터 등 디스플레이 기기에, Micro HDMI 단자(19핀)를 스마트폰·태블릿·카메라 등 소스 기기에 연결하여 사용. 별도 랜케이블 없이 HEC를 통해 네트워크 접속 가능. ARC 지원 기기 연결 시 별도 오디오 케이블 없이 TV 사운드 전송 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담은 랜스타 A/S센터(www.LANstar.co.kr) 이용",
+    "구매·배송·반품은 판매처(쇼핑몰 하단 참조)를 통해 진행"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMI-AD20-1M",
+      "품목코드": "CAB-HD2007",
+      "품목명": "[LANstar] HDMI to Micro HDMI 2.0 케이블 1m , 4K 60Hz [20208](200개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-AD20-1.5M",
+      "품목코드": "CAB-HD2008",
+      "품목명": "[LANstar] HDMI to Micro HDMI 2.0 케이블 1.5m , 4K 60Hz [20209](180개)",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-AD20-2M",
+      "품목코드": "CAB-HD2009",
+      "품목명": "[LANstar] HDMI to Micro HDMI 2.0 케이블 2m , 4K 60Hz [20210](100개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-AD20-3M",
+      "품목코드": "CAB-HD2010",
+      "품목명": "[LANstar] HDMI to Micro HDMI 2.0 케이블 3m , 4K 60Hz [20211](90개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-AD20-5M",
+      "품목코드": "CAB-HD2011",
+      "품목명": "[LANstar] HDMI to Micro HDMI 2.0 케이블 5m , 4K 60Hz [20212](60개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDMI-AD20",
+      "내용": "배송 빠르고 좋습니다."
+    },
+    {
+      "source_model": "LS-HDMI-AD20",
+      "내용": "너무 좋습니다^^~~"
+    },
+    {
+      "source_model": "LS-HDMI-AD20",
+      "내용": "정상적으로 잘 작동합니다"
+    },
+    {
+      "source_model": "LS-HDMI-AD20",
+      "내용": "가격 괜찮고 좋습니다"
+    },
+    {
+      "source_model": "LS-HDMI-AD20",
+      "내용": "선이 짱짱하고좋지만 너무 꽈배기로되있어서 ㅠㅠ  조큼아쉽습니다"
+    },
+    {
+      "source_model": "LS-HDMI-AD20",
+      "내용": "많이 파시고 언제나 건강하세요"
+    },
+    {
+      "source_model": "LS-HDMI-AD20",
+      "내용": "배송 빠르고 제품 좋았습니다\n제가 잘못 구매했지만 언젠가는 쓰일 장비들이라 그냥 구매확정합니다."
+    },
+    {
+      "source_model": "LS-HDMI-AD20",
+      "내용": "배송 빠르고 제품 좋았습니다.\n제가 잘못 구입을 했네요.\n제 잘못이라 그냥 두고 쓸려고 합니다.\n영상 관련 장비나 부품은 언젠가는 쓰이기 때문에.."
+    },
+    {
+      "source_model": "LS-HDMI-AD20",
+      "내용": "잘 부셔지는 친구라 넉넉히 주문했습니다."
+    },
+    {
+      "source_model": "LS-HDMI-AD20",
+      "내용": "배송빠르고 상품 질이 좋습니다"
+    },
+    {
+      "source_model": "LS-HDMI-AD20-1M",
+      "내용": "라즈베리파이에 연결하려샀는데 잘 왔네요"
+    },
+    {
+      "source_model": "LS-HDMI-AD20-1M",
+      "내용": "배송빠르고 만족합니다",
+      "관련내용": "배송빠르고 만족합니다"
+    },
+    {
+      "source_model": "LS-HDMI-AD20-1M",
+      "내용": "배송빠르고 만족합니다"
+    },
+    {
+      "source_model": "LS-HDMI-AD20-1M",
+      "내용": "Dslr사용하느라 구입했는데 유용하게 쓰고 있어요",
+      "관련내용": "소니카메라에 쓰려고 샀네요"
+    },
+    {
+      "source_model": "LS-HDMI-AD20-1M",
+      "내용": "소니카메라에 쓰려고 샀네요"
+    },
+    {
+      "source_model": "LS-HDMI-AD20-2M",
+      "내용": "잘  받았습니다&hellip;."
+    },
+    {
+      "source_model": "LS-HDMI-AD20-2M",
+      "내용": "빠른배송 감사합니다!"
+    },
+    {
+      "source_model": "LS-HDMI-AD20-2M",
+      "내용": "디자인도 깔끔하고 연결도 잘되네요 컴퓨터에 dp포트가 없어서 필요했는데 아주 좋습니다~"
+    },
+    {
+      "source_model": "LS-HDMI-AD20-3M",
+      "내용": "잘받았습니다 재구매할께요"
+    },
+    {
+      "source_model": "LS-HDMI-AD20-5M",
+      "내용": "저렴히 잘산것 같아요. 좋습니다"
+    },
+    {
+      "source_model": "LS-HDMI-AD20-5M",
+      "내용": "랜선이 아주 튼튼하고 좋습니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HDMI-AD20-2M",
+      "id": 508017473,
+      "date": "2022-12-19 11:34",
+      "answerDate": "2022-12-19 12:40",
+      "user": "ms****",
+      "productName": "랜스타 LS-HDMI-AD20-2M HDMI to Micro HDMI 2.0 케이블 2M",
+      "question": "선의 두께가 몇mm 입니까?\nMicro HDMI to HDMI 케이블 슬림 버전이\n랜스타에 있는거 같은데\nV1.4 만 있는건가요?\nV2.0 버전은 없는지요?",
+      "answer": "안녕하세요 랜스타입니다.\n해당 제품은 2.0 버전이며, 슬림 케이블류는 아닌 점 참고 부탁드립니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-AD20-2M",
+      "id": 508040176,
+      "date": "2022-12-19 12:52",
+      "answerDate": "2022-12-19 14:52",
+      "user": "ms****",
+      "productName": "랜스타 LS-HDMI-AD20-2M HDMI to Micro HDMI 2.0 케이블 2M",
+      "question": "선두께 물어 봤는데...알려주세요",
+      "answer": "안녕하세요 랜스타 입니다\n\n선두께는 5mm 입니다"
+    },
+    {
+      "source_model": "LS-HDMI-AD20",
+      "id": 508047185,
+      "date": "2022-12-19 13:16",
+      "answerDate": "2022-12-19 14:52",
+      "user": "ms****",
+      "productName": "랜스타 HDMI to Micro HDMI 2.0 4K 케이블 정품 LS-HDMI-AD20",
+      "question": "선 두께가 몇mm 인가요?",
+      "answer": "안녕하세요 랜스타 입니다\n\n선두께는 5mm 입니다"
+    },
+    {
+      "source_model": "LS-HDMI-AD20",
+      "id": 510818365,
+      "date": "2023-01-06 12:04",
+      "answerDate": "2023-01-06 13:24",
+      "user": "jjj3***",
+      "productName": "랜스타 HDMI to Micro HDMI 2.0 4K 케이블 정품 LS-HDMI-AD20",
+      "question": "안녕하세요..한쪽은 HDMI반대쪽은c타입으로 핸폰에있는 영상을 HDMI쪽으로 볼려고 하는데  이상품을 구매하면되는건지요? 아님 다른제품을 구매하여야하는건지요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\nhttps://smartstore.naver.com/lineup/products/4863867987\n해당 제품 구매 하시면 됩니다\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDMI-AD20",
+      "id": 518986709,
+      "date": "2023-03-04 12:49",
+      "answerDate": "2023-03-06 09:26",
+      "user": "sksm*******",
+      "productName": "랜스타 HDMI to Micro HDMI 2.0 4K 케이블 정품 LS-HDMI-AD20",
+      "question": "안녕하세요. 이 제품 방향성이 정말 hdmi 에서 micro hdmi 로 맞나요. 입력hdmi-->micro hdmi출력 이렇게 맞는지요.",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n해당 케이블은 HDMI 규격의 케이블로 양방향 지원이 가능합니다.\n따라서 고객님께서 말씀 주신 것처럼 입력 hdmi > 출력 micro hdmi 출력 가능한 점 안내 말씀 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "Micro HDMI"
+      ],
+      "output_signals": [
+        "HDMI",
+        "Micro HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        1.5,
+        2,
+        3,
+        5
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": false,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "HDMI2.0",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19P/M - Micro HDMI 19P/M",
+    "connectivity.output_signals": "HDMI 19P/M - Micro HDMI 19P/M",
+    "connectivity.directional": "HDMI to Micro HDMI 2.0 케이블",
+    "power.power_mode": "무전원",
+    "form_physical.material": "24K 금도금 커넥터 적용",
+    "form_physical.length_options_meters": "1M / 1.5M / 2M / 3M / 5M",
+    "certification.kc": "KC, FCC, CE 안전규격 인증",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증",
+    "certification.ce": "KC, FCC, CE 안전규격 인증",
+    "audio_video.max_resolution": "4K Ultra HD (4096x2160) @ 60Hz 지원",
+    "audio_video.hdcp_version": "HDCP 2.2 영상저작권 보호 기술 지원",
+    "audio_video.audio_pass": "오디오 리턴 채널(ARC) 지원",
+    "family.hdmi_version": "HDMI 2.0 규격 지원",
+    "family.ethernet_channel": "HEC(HDMI Ethernet Channel) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:11",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,161 @@
+{
+  "model_no": "LS-USB304B",
+  "product_name": "LANStar 무전원 / 스위치버튼형 USB 3.0 허브 4포트",
+  "category": [
+    "USB허브",
+    "USB3.0",
+    "USB2.0",
+    "전원아답터",
+    "스위치허브"
+  ],
+  "key_features": [
+    "USB 3.0 규격 5Gbps 전송속도 (USB 2.0 대비 10배, USB 1.1 대비 40배)",
+    "USB 포트별 개별 전원 스위치 버튼으로 기기별 전원 공급/차단 가능",
+    "포트별 LED 표시등 (전원 공급 시 파랑 LED 점등, 차단 시 소등)",
+    "별도 소프트웨어 불필요한 Plug & Play 무전원 방식",
+    "DC 5V/1A 보조전원 어댑터 연결 지원 (별도 구매, 모델명: LS-AD5V1A-HUB)",
+    "거치대 형태 받침대 설계로 공간활용도 높음 및 휴대성 우수",
+    "USB 2.0, 1.1 하위 버전 기기와 하위 호환",
+    "Windows, Mac OS X, Linux 등 폭넓은 OS 호환성",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "KC, FCC, CE 안전규격 인증 및 국립전파연구원 인증 획득",
+    "RoHS 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-USB304B (블랙), LS-USB304S (실버)",
+    "전송속도": "5Gbps (USB 3.0)",
+    "포트 수": "4포트",
+    "운영체제": "Windows 10, Mac OS, Linux",
+    "전원 방식": "무전원 (버스 파워), DC 5V/1A 외부 어댑터 연결 가능 (별도 구매)",
+    "크기": "90 × 65 × 25mm (L × W × H)",
+    "색상": "블랙, 실버",
+    "인증번호": "MSIP-REI-LUS-LS-USB314",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "USB 3.0 지원 PC 또는 Mac",
+    "USB 2.0 기기 (하위 호환)",
+    "USB 1.1 기기 (하위 호환)",
+    "데스크탑",
+    "노트북",
+    "게임기",
+    "프린터기",
+    "외장하드",
+    "카메라",
+    "웹캠",
+    "스마트폰",
+    "Windows OS",
+    "Mac OS X",
+    "Linux"
+  ],
+  "package_contents": [
+    "USB 3.0 허브 본체",
+    "USB 3.0 케이블 (A/M - Micro B/M, 0.8m)",
+    "한글 매뉴얼"
+  ],
+  "usage_instructions": "별도 소프트웨어 설치 없이 USB 케이블로 PC 또는 Mac에 연결하면 바로 사용 가능(Plug & Play). 각 포트의 전원 스위치 버튼으로 연결된 기기의 전원을 개별 공급하거나 차단할 수 있음. 더 안정적인 전원이 필요한 경우 별도 구매한 DC 5V/1A 전원 어댑터(모델명: LS-AD5V1A-HUB)를 보조전원 단자에 연결하여 사용.",
+  "cautions": [
+    "보조 전원 어댑터(LS-AD5V1A-HUB)는 별도 구매 필요",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주) 제작 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단 참조)로 문의"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB304B",
+      "품목코드": "USB-HB무123",
+      "품목명": "[LANstar] USB허브 , USB3.0 4Port. Black,무전원/전원추가가능 LS-USB304B(150개) [30137]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-USB304B",
+      "내용": "빠른 발송에 감사드립니다."
+    },
+    {
+      "source_model": "LS-USB304B",
+      "내용": "선이 쫌 짧지만 잘 작동합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "블랙",
+        "실버"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "port_count": 4,
+      "usb_version": "USB3.0",
+      "ethernet_speed_mbps": null,
+      "has_sd_reader": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 허브 4포트",
+    "connectivity.output_signals": "USB 3.0 허브 4포트",
+    "connectivity.directional": "USB 3.0 허브 4포트",
+    "connectivity.port_count": "4포트",
+    "power.power_mode": "무전원 / 스위치버튼형 USB 3.0 허브",
+    "power.charging_support": "DC 5V/1A 보조전원 어댑터 연결 지원",
+    "form_physical.has_case": "거치대 형태 받침대 설계",
+    "form_physical.color_options": "LS-USB304B (블랙), LS-USB304S (실버)",
+    "certification.kc": "KC, FCC, CE 안전규격 인증",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증",
+    "certification.ce": "KC, FCC, CE 안전규격 인증",
+    "control_switching.has_physical_button": "USB 포트별 개별 전원 스위치 버튼",
+    "family.port_count": "4포트",
+    "family.usb_version": "USB 3.0 규격 5Gbps 전송속도"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:44",
+  "feature_schema_version": "1.0.0"
+}

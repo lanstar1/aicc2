@@ -1,0 +1,133 @@
+{
+  "model_no": "LS-500PCM",
+  "product_name": "LANStar PCMCIA LAN Card (LS-500PCM)",
+  "category": [
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "노트북에 유선랜 포트가 없을 경우 유선랜 포트를 추가하는 장비",
+    "10/100Mbps 전송 속도 지원",
+    "Full Duplex 지원",
+    "Hot-Swap 지원",
+    "32bit PCMCIA Card Bus Type",
+    "RTL8139 Chipset 사용으로 간편한 설치 및 안정적인 데이터 전송",
+    "Low power supply / Adapt Card bus PC card"
+  ],
+  "specifications": {
+    "인터페이스": "32bit PCMCIA Card Bus",
+    "전송 속도": "10/100Mbps",
+    "칩셋": "RTL8139",
+    "Full Duplex": "지원",
+    "Hot-Swap": "지원",
+    "지원 OS": "Windows 95/98/ME/NT/2000/XP, Linux",
+    "16bit 지원 여부": "미지원 (32bit 방식 이상만 지원)",
+    "인증서 번호": "E-G900-01-3879",
+    "제조국/원산지": "중국",
+    "제조자/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "Windows 95",
+    "Windows 98/98SE",
+    "Windows ME",
+    "Windows NT",
+    "Windows 2000",
+    "Windows XP",
+    "Linux",
+    "32bit Card Bus 슬롯 탑재 노트북 (16bit PCMCIA 슬롯 미지원)"
+  ],
+  "package_contents": [
+    "PCMCIA LAN 카드 (LS-500PCM)",
+    "드라이버 CD",
+    "사용설명서"
+  ],
+  "usage_instructions": "【Windows 98SE/ME 설치】1. 노트북 전원을 끈다. 2. 노트북에 CardBus를 장착하고 전원을 켠다. 3. '새 하드웨어 추가 마법사'가 실행되면 '다음'을 클릭한다. 4. '드라이버의 목록을 만든 후 드라이버를 선택'을 체크한다. 5. CD를 넣은 후 CD 안의 8139LAN → WIN98 폴더를 지정한다. 6. Windows 98SE/ME CD를 넣은 후 CD 안의 'Win98' 폴더를 지정하여 마무리한다. ※ '새 하드웨어 추가 마법사'가 실행되지 않을 경우 장치관리자에서 수동 설치(새 하드웨어 검색 또는 드라이버 업데이트)를 진행한다. 【Windows 2000/XP 설치】1. 노트북 전원을 끈다. 2. 노트북에 CardBus를 장착하고 전원을 켠다. 3. 노트북이 켜지며 제품을 자동 인식한다. ※ 자동 인식이 안 될 경우 장치관리자에서 수동 설치(새 하드웨어 검색 또는 드라이버 업데이트)를 진행한다.",
+  "cautions": [
+    "16bit PCMCIA 슬롯은 지원하지 않으며, 32bit Card Bus 방식 이상만 지원합니다.",
+    "제공되는 드라이버 CD는 통합 드라이버 CD로 구성되어 있습니다.",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자분쟁해결 기준에 의거하여 보상합니다.",
+    "A/S 및 소비자 상담: 라인업시스템(주) / 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-500PCM",
+      "품목코드": "USB-PCM001",
+      "품목명": "[LANstar] PCMCIA랜카드 RJ45 10／100M 1Port[30054] ★★할인제외★★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "bus_interface": "PCMCIA",
+      "speed_mbps": 100,
+      "chipset": "RTL8139"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "유선랜 포트를 추가하는 장비",
+    "connectivity.output_signals": "유선랜 포트를 추가하는 장비",
+    "connectivity.directional": "10/100Mbps 전송 속도 지원",
+    "power.power_mode": "Low power supply",
+    "power.charging_support": "Low power supply",
+    "form_physical.has_case": "노트북에 CardBus를 장착",
+    "certification.kc": "인증서 번호: E-G900-01-3879",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.bus_interface": "32bit PCMCIA Card Bus Type",
+    "family.speed_mbps": "10/100Mbps 전송 속도 지원",
+    "family.chipset": "RTL8139 Chipset 사용"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:19",
+  "feature_schema_version": "1.0.0"
+}

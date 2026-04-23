@@ -1,0 +1,136 @@
+{
+  "model_no": "LS-RGB3R-MM",
+  "product_name": "RGB 컴포넌트 케이블 (고급 DVD 모니터 케이블)",
+  "category": [
+    "커넥터",
+    "RCA케이블",
+    "DVD관련"
+  ],
+  "key_features": [
+    "PC의 RGB(D-SUB) 출력단자와 TV의 컴포넌트(빨강, 파랑, 초록) 입력단자를 연결하는 케이블",
+    "Gold Type 커넥터로 화질 전송력 우수",
+    "고화질 영상신호 전송 지원",
+    "견고한 품질과 우수한 디자인",
+    "DVDP와 프로젝터의 D-SUB 연결 또는 HD 카드에서 HDTV 연결 용도로 사용 가능"
+  ],
+  "specifications": {
+    "커넥터 구성": "D-SUB 15p Male / 3 RCA Male",
+    "커넥터 타입": "Gold Type",
+    "신호 방향": "단방향 (RGB 출력 → 컴포넌트 입력)",
+    "컴포넌트 단자 색상": "빨강, 파랑, 초록"
+  },
+  "compatibility": [
+    "PC(데스크탑/노트북) RGB(D-SUB) 출력단자 — 단, 컴포넌트 신호 변환 기능이 있는 그래픽 카드에 한함",
+    "TV 컴포넌트(빨강, 파랑, 초록) 입력단자",
+    "HD 프로젝터(D-SUB 입력 지원 모델)",
+    "HDTV(HD 카드 연결 시)",
+    "DVDP(D-SUB 연결 지원 모델)"
+  ],
+  "package_contents": [
+    "RGB 컴포넌트 케이블 (D-SUB 15p Male ↔ 3 RCA Male) 1개"
+  ],
+  "usage_instructions": "PC(RGB D-SUB 출력단자)에 D-SUB 15p 커넥터를 연결하고, TV 또는 디스플레이 기기의 컴포넌트(빨강·파랑·초록) 입력단자에 3 RCA 커넥터를 각각 연결한다. 반드시 RGB 단자는 PC 출력측에, 컴포넌트 단자는 디스플레이 기기 입력측에 연결해야 한다.",
+  "cautions": [
+    "데스크탑 또는 노트북의 RGB 단자에서 컴포넌트 신호로 변환하는 기능이 그래픽 카드에 있는지 반드시 사전 확인 필요 (그래픽 카드사에 확인). RGB 단자가 있다고 해서 자동으로 지원되는 것이 아님.",
+    "해당 변환 기능이 없는 경우 케이블 사용이 전혀 불가능함.",
+    "TV에 컴포넌트(빨강, 파랑, 초록) 단자가 있는지 반드시 확인. 컴포지트(흰색, 빨강, 노랑) 단자와 모양이 유사하나 쓰임이 다르므로 단자 모양만 보고 구매하지 말 것.",
+    "이 케이블은 양방향을 지원하지 않음. 반드시 RGB가 PC 출력단자, 컴포넌트가 디스플레이 기기 입력단자에 연결되어야 함.",
+    "단순 케이블 변환만으로 영상 출력이 지원되지 않음. 그래픽 카드에서 지원 가능한 환경에서만 사용 가능."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RGB3R-MM-1.5M",
+      "품목코드": "CAB-영기타051",
+      "품목명": "[LANstar] RGB／3R케이블 , HDB15P／M-3RCA／M, 1.5M[10306]",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB3R-MM-3M",
+      "품목코드": "CAB-영기타052",
+      "품목명": "[LANstar] RGB／3R케이블 , HDB15P／M-3RCA／M, 3M[10307]",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB3R-MM-5M",
+      "품목코드": "CAB-영기타053",
+      "품목명": "[LANstar] RGB／3R케이블 , HDB15P／M-3RCA／M, 5M[10308]",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB3R-MM-10M",
+      "품목코드": "CAB-영기타054",
+      "품목명": "[LANstar] RGB／3R케이블 , HDB15P／M-3RCA／M, 10M[10309]",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB3R-MM-15M",
+      "품목코드": "CAB-영기타055",
+      "품목명": "[LANstar] RGB／3R케이블 , HDB15P／M-3RCA／M, 15M [10310]",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB3R-MM-20M",
+      "품목코드": "CAB-영기타056",
+      "품목명": "[LANstar] RGB／3R케이블 , HDB15P／M-3RCA／M, 20M[10311]",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-RGB3R-MM-30M",
+      "품목코드": "CAB-영기타057",
+      "품목명": "[LANstar] RGB／3R케이블 , HDB15P／M-3RCA／M, 30M[10312]",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "D-SUB 15p"
+      ],
+      "output_signals": [
+        "RCA"
+      ],
+      "directional": "일방향"
+    },
+    "power": {
+      "power_mode": "무전원"
+    },
+    "form_physical": {
+      "material": [
+        "금도금"
+      ]
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "family": {
+      "connector_type_a": "D-SUB 15p Male",
+      "connector_type_b": "3 RCA Male",
+      "gender": "M-M"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "PC의 RGB(D-SUB) 출력단자와",
+    "connectivity.output_signals": "TV의 컴포넌트(빨강, 파랑, 초록) 입력단자를 연결하는 케이블",
+    "connectivity.directional": "단방향 (RGB 출력 → 컴포넌트 입력)",
+    "power.power_mode": "무전원",
+    "form_physical.material": "Gold Type 커넥터",
+    "audio_video.max_resolution": "고화질 영상신호 전송 지원",
+    "audio_video.hdr_support": "고화질 영상신호 전송 지원",
+    "audio_video.audio_pass": "고화질 영상신호 전송 지원",
+    "family.connector_type_a": "D-SUB 15p Male",
+    "family.connector_type_b": "3 RCA Male",
+    "family.gender": "D-SUB 15p Male / 3 RCA Male"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:40",
+  "feature_schema_version": "1.0.0"
+}

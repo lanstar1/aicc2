@@ -1,0 +1,114 @@
+{
+  "model_no": "LS-TC128",
+  "product_name": "LANStar 써멀 컴파운드 LS-TC128 (3.9g)",
+  "category": [
+    "방열판"
+  ],
+  "key_features": [
+    "12.8W/m-K 고열전도율로 CPU, GPU 등 각종 칩의 발열을 효과적으로 쿨링",
+    "전기 비전도성(전기 전도성 없음)으로 안전한 사용 가능",
+    "최적의 점도(172,000mPa-s)로 도포 편의성 제공",
+    "주사기 타입으로 정밀 도포 가능",
+    "오버클럭, 게이밍, 스트리머 등 하이엔드 유저를 위한 고급형 서멀 컴파운드",
+    "최소의 열저항과 최고의 열전도율",
+    "나노복합 소재(Nanocomposite) 기반 써멀 그리스",
+    "넓은 작동 온도 범위: -60°C ~ 250°C"
+  ],
+  "specifications": {
+    "열전도율": "12.8W/m-K",
+    "구리스 색상": "Grey",
+    "구리스 점성": "172,000mPa-s",
+    "구리스 밀도": "3.42g/cm³",
+    "작동 온도": "-60 ~ 250°C",
+    "구리스 용량": "3.9g",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "CPU (인텔, AMD 등 각종 프로세서)",
+    "GPU (그래픽카드 칩셋)",
+    "각종 발열 칩셋과 쿨러 사이 적용 가능"
+  ],
+  "package_contents": [
+    "써멀 컴파운드 3.9g 주사기 타입 1ea",
+    "도포 주걱 1ea"
+  ],
+  "usage_instructions": "CPU, GPU 등 발열 칩셋과 쿨러 사이에 써멀 컴파운드를 도포하여 사용. 주사기 타입으로 원하는 양만큼 정밀 도포 가능하며, 동봉된 도포 주걱을 활용하여 균일하게 펴 바를 수 있음.",
+  "cautions": [
+    "어린이의 손에 닿지 않는 곳에 보관할 것",
+    "피부와 눈에 접촉되지 않도록 주의할 것. 접촉 시 세제를 이용하여 깨끗이 씻고, 이상이 있을 시 의사의 조치를 받을 것",
+    "입으로 삼키지 않도록 주의할 것. 삼켰을 경우 즉시 의사의 조치를 받을 것",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-TC128",
+      "품목코드": "COM-악세사223",
+      "품목명": "[LANstar] 써멀컴파운드 12.8W/m-K 열전도율 , 3.9g [30372]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "Grey"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "fan_size_mm": null,
+      "rpm_max": null,
+      "cooling_target": [
+        "CPU",
+        "GPU",
+        "기타"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "주사기 타입으로 정밀 도포 가능",
+    "form_physical.color_options": "구리스 색상: Grey",
+    "certification.kc": "인증번호: 해당없음",
+    "family.cooling_target": "CPU, GPU 등 각종 칩의 발열을 효과적으로 쿨링"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:18",
+  "feature_schema_version": "1.0.0"
+}

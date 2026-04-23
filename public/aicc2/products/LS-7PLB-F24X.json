@@ -1,0 +1,236 @@
+{
+  "model_no": "LS-7PLB-F24X",
+  "product_name": "LANStar CAT.6A STP 24포트 패치판넬",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-STP",
+    "분배판넬",
+    "서버랙",
+    "허브랙"
+  ],
+  "key_features": [
+    "CAT.6A STP 규격 지원",
+    "최대 10Gbps 전송속도 지원",
+    "500MHz 대역폭 지원",
+    "10GBASE-T 지원",
+    "19인치 표준랙(허브랙/서버랙) 장착 가능",
+    "접지 케이블 및 케이블 고정고리 제공으로 안정적 사용",
+    "FLUKE 테스트 통과 제품",
+    "RoHS 인증 제품",
+    "KC 인증 획득 (인증번호: R-R-LUS-LS-7PLB-F24X)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "24포트 / 1U / 블랙 컬러"
+  ],
+  "specifications": {
+    "규격": "CAT.6A STP",
+    "전송속도": "최대 10Gbps",
+    "대역폭": "500MHz",
+    "포트 수": "24포트",
+    "랙 유닛": "1U",
+    "랙 규격": "19인치 표준랙",
+    "색상": "블랙",
+    "재질": "Metal(SPCC)",
+    "판넬 덮개 재질": "알루미늄",
+    "작동 온도": "-40°C ~ 70°C",
+    "제품 크기(W x D x H)": "482mm x 115.4mm x 44mm",
+    "KC 인증번호": "R-R-LUS-LS-7PLB-F24X",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "CAT.6A STP 케이블",
+    "10GBASE-T",
+    "19인치 표준랙 (허브랙, 서버랙)",
+    "T568A 배선 방식",
+    "T568B 배선 방식"
+  ],
+  "package_contents": [
+    "24포트 패치판넬 CAT6A 1개",
+    "케이지 볼트 4pcs",
+    "케이지 너트 4pcs",
+    "케이블 고정 가이드 12pcs",
+    "가이드 고정 나사 12pcs",
+    "케이블타이 24pcs"
+  ],
+  "usage_instructions": "1. 패치판넬 덮개를 열고 케이블 연결을 준비한다. 2. 케이블 핀 배열에 맞게(Direct/Cross, T568A 또는 T568B) 케이블을 연결한다. 3. 밖으로 나온 여분의 선을 잘라 정리한다. 4. 케이블 연결 후 케이블 고정고리와 나사를 결합하여 케이블을 고정한다(접지선은 케이블과 함께 고정고리로 설치). 5. 패치판넬 후면부 케이블 고정부와 케이블타이를 이용하여 케이블을 한 번 더 고정한다. 6. 패치판넬 덮개를 덮고 나사로 고정하면 설치 완료.",
+  "cautions": [
+    "패치판넬 덮개 포트 쪽이 부분적으로 막혀 있을 수 있으며, 펜치나 가위 등을 통해 막힌 포트 제거가 가능하니 참고할 것.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "품질 보증: 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-7PLB-F24X",
+      "품목코드": "NEO-패치판053",
+      "품목명": "[LANstar] CAT.6A 패치판넬 24포트 STP 10G 대만산 [30679] (10개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-7PLB-F24X",
+      "내용": "배송빠르고 좋습니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-7PLB-F24X",
+      "chatUrl": "7RejV",
+      "dateIso": "2023-11-15T08:02:33.405Z",
+      "name": "김경록",
+      "isTechnical": true,
+      "category": "install",
+      "modelConfidence": "high",
+      "question": "감사합니다. 추가상품에 전면 거치 선반이랑 후면거치 선반에 대한 이미지가 없는데 무엇일까요?\n추가상품 4번 5번 2가지입니다\n(추가 문의) 설명 감사합니다.\n서버랙 추가상품에서 패치판넬에 cat7은 없는걸까요?\n(추가 문의) 차후 10gb 설치를 하신다고해서 문의해보니 7로 작업해야한다고해서요\n(추가 문의) 안녕하세요 서버랙이랑 허브랙이랑 차이가 무엇일까요?",
+      "answer": "허브랙과 서버랙의 경우 19인치 규격은 동일하나, 서버랙의 경우 깊이가 더 깊게 나옵니다. 거치시 그 부분을 참고해주시면 구매에 도움이 될 것으로 보입니다. 랜스타 제\n\nhttps://smartstore.naver.com/lineup/products/7702341995\n\n말씀 드린 제품, 추가 상품 2.패치판넬 3번째에 안내 드리고 있습니다.",
+      "turn_count": 7,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "이 제품 아이보리나 화이트는 없나요?"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "판매자 문의"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "감사합니다!"
+        },
+        {
+          "role": "agent",
+          "text": "https://smartstore.naver.com/lineup/products/7702341995"
+        },
+        {
+          "role": "customer",
+          "text": "감사합니다. 추가상품에 전면 거치 선반이랑 후면거치 선반에 대한 이미지가 없는데 무엇일까요?\n추가상품 4번 5번 2가지입니다"
+        },
+        {
+          "role": "agent",
+          "text": "말씀 드린 제품, 추가 상품 2.패치판넬 3번째에 안내 드리고 있습니다."
+        },
+        {
+          "role": "customer",
+          "text": "차후 10gb 설치를 하신다고해서 문의해보니 7로 작업해야한다고해서요"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "설명 감사합니다.\n서버랙 추가상품에서 패치판넬에 cat7은 없는걸까요?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n허브랙과 서버랙의 경우 19인치 규격은 동일하나, 서버랙의 경우 깊이가 더 깊게 나옵니다.\n거치시 그 부분을 참고해주시면 구매에 도움이 될 것으로 보입니다.\n\n고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요 서버랙이랑 허브랙이랑 차이가 무엇일까요?"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 24
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸",
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "STP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "케이블 연결",
+    "connectivity.output_signals": "케이블 연결",
+    "connectivity.directional": "N/A",
+    "connectivity.port_count": "24포트",
+    "power.power_mode": "N/A",
+    "power.charging_support": "N/A",
+    "form_physical.has_case": "패치판넬 덮개를 열고",
+    "form_physical.material": "Metal(SPCC), 알루미늄",
+    "form_physical.color_options": "블랙 컬러",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "RoHS 인증 제품",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.cat_category": "CAT.6A",
+    "family.shielding": "STP"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:41",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "install": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

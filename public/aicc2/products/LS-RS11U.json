@@ -1,0 +1,153 @@
+{
+  "model_no": "LS-RS11U",
+  "product_name": "LAN Star USB to RS232 컨버터 (USB to 시리얼 컨버터)",
+  "category": [
+    "컨버터",
+    "시리얼카드"
+  ],
+  "key_features": [
+    "USB 단자를 통해 RS232 규격의 시리얼 장치(모뎀, PDA, GPS, 내비게이션, 카드결제 단말기 등)와 연결 가능",
+    "Prolific Technology PL2303 최신 칩셋 내장으로 RS232 장치와 높은 호환성",
+    "양방향/단방향 통신 지원, 최대 1Mbps 전송속도",
+    "Plug & Play 지원 - 별도 프로그램 설치 없이 연결 즉시 사용 가능",
+    "9Pin(M) RS232 시리얼 단자 탑재",
+    "RoHS 준수, KC/FCC/CE 안전규격 인증"
+  ],
+  "specifications": {
+    "칩셋": "Prolific Technology PL2303",
+    "최대 전송속도": "1Mbps",
+    "통신 방식": "양방향/단방향",
+    "시리얼 단자": "9Pin D-Sub (Male, RS232)",
+    "USB 단자": "USB (M/F)",
+    "Pin 1": "Data Carrier Detect (DCD)",
+    "Pin 2": "Received Data (RXD)",
+    "Pin 3": "Transmit Data (TXD)",
+    "Pin 4": "Data Terminal Ready (DTR)",
+    "Pin 5": "Ground (GND)",
+    "Pin 6": "Data Set Ready (DSR)",
+    "Pin 7": "Request To Send (RTS)",
+    "Pin 8": "Clear To Send (CTS)",
+    "Pin 9": "Ring Indicator (RI)",
+    "인증번호": "LUS-LS-RS11U",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "Windows 98",
+    "Windows 2000",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 10",
+    "Mac OS X (8.6 이상)",
+    "Linux",
+    "RS232 규격 시리얼 장치 (모뎀, PDA, GPS, 내비게이션, 카드결제 단말기 등)"
+  ],
+  "package_contents": [
+    "USB RS11U 컨버터",
+    "RS11U 케이블",
+    "드라이버 CD"
+  ],
+  "usage_instructions": "USB 단자를 컴퓨터에 연결하면 Plug & Play로 자동 인식됩니다. 장치 관리자에서 느낌표(!)가 표시될 경우 제품에 동봉된 드라이버 CD로 드라이버를 설치하세요. 정상 인식 시 장치 관리자에서 'USB Serial Port(COM#)'로 표시됩니다.",
+  "cautions": [
+    "장치 관리자에서 느낌표(!)가 표시되면 제품에 동봉된 CD로 드라이버를 설치하세요.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "RoHS 준수 제품으로, 납·수은·카드뮴 등 중금속 사용이 제한된 환경 규격을 충족합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RS11U",
+      "품목코드": "USB-시리얼001",
+      "품목명": "[LANstar] USB 1.1 시리얼 컨버터[30011] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-RS11U",
+      "내용": "뽁뽁이를 또 쓸수 있을정도로 아낌없이 넣어주셨네요~ ㅎㅎ 불량이 없었으면 좋겠습니다 ㅎㅎ"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": "Prolific Technology PL2303"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 단자를 통해",
+    "connectivity.output_signals": "RS232 규격의 시리얼 장치",
+    "connectivity.directional": "양방향/단방향 통신 지원",
+    "connectivity.port_count": "USB 단자를 통해 RS232 규격",
+    "power.power_mode": "Plug & Play 지원 - 별도 프로그램 설치 없이",
+    "power.charging_support": "USB to RS232 컨버터",
+    "form_physical.has_case": "LAN Star USB to RS232 컨버터",
+    "certification.kc": "KC/FCC/CE 안전규격 인증",
+    "certification.rohs": "RoHS 준수",
+    "certification.fcc": "FCC/CE 안전규격 인증",
+    "certification.ce": "CE 안전규격 인증",
+    "audio_video.max_resolution": "USB to RS232 컨버터",
+    "audio_video.hdcp_version": "USB to RS232 컨버터",
+    "audio_video.audio_pass": "USB to RS232 컨버터",
+    "control_switching.has_remote": "USB to RS232 컨버터",
+    "control_switching.has_hotkey": "USB to RS232 컨버터",
+    "control_switching.has_physical_button": "USB to RS232 컨버터",
+    "control_switching.has_mouse_switching": "USB to RS232 컨버터",
+    "control_switching.has_auto_scan": "USB to RS232 컨버터",
+    "control_switching.has_app_control": "USB to RS232 컨버터",
+    "family.conversion_direction": "양방향/단방향 통신 지원",
+    "family.requires_external_power": "Plug & Play 지원 - 별도 프로그램 설치 없이",
+    "family.chipset": "Prolific Technology PL2303 최신 칩셋 내장"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:46",
+  "feature_schema_version": "1.0.0"
+}

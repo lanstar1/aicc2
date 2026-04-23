@@ -1,0 +1,179 @@
+{
+  "model_no": "LSP-EIC",
+  "product_name": "CAT.5E Inline 키스톤잭 모듈 (8P8C RJ45 L형)",
+  "category": [
+    "랜케이블-CAT5E",
+    "키스톤잭",
+    "멀티탭",
+    "UTP포트",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "400Mbps 전송속도 지원",
+    "별도의 압착 Tool 없이 케이블 선 장착 가능 (Toolless)",
+    "1개의 모듈에서 568A(Cross)와 568B(Direct) 배열 모두 지원",
+    "케이블 선을 보호하는 분리덮개 적용 신형 모듈",
+    "벽부착형 Plate Outlet 공박스에 장착하여 사용 가능",
+    "RoHS 인증 (특정 유해물질 사용 제한)",
+    "국립전파연구원 인증 획득 (인증번호: T-A71005-0095)",
+    "UL 인증 (미국 공식 인증기관)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "색상: 화이트(LSP-EIC-UKWT), 블랙(LSP-EIC-UKBK)"
+  ],
+  "specifications": {
+    "규격": "CAT.5E",
+    "커넥터 타입": "8P8C RJ45 L형",
+    "전송속도": "400Mbps",
+    "배선 배열": "568A(Cross), 568B(Direct) 모두 지원",
+    "색상": "화이트, 블랙",
+    "모델명(화이트)": "LSP-EIC-UKWT",
+    "모델명(블랙)": "LSP-EIC-UKBK",
+    "인증번호": "T-A71005-0095",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "RoHS 인증": "해당",
+    "UL 인증": "해당",
+    "국립전파연구원 인증": "해당",
+    "생산물배상책임보험": "현대해상화재 1억원 가입"
+  },
+  "compatibility": [
+    "벽부착형 Plate (삽입형 아울렛, 1port~6port, 별도구매)",
+    "Outlet 공박스 (1port~다수port, 별도구매)",
+    "CAT.5E UTP 케이블"
+  ],
+  "package_contents": [
+    "CAT.5E Inline 키스톤잭 모듈 본체",
+    "분리덮개"
+  ],
+  "usage_instructions": "1. 스트리퍼로 케이블 피복을 적당한 길이로 벗겨낸다. 2. 피복이 제거되어 드러난 케이블 선을 적당한 길이로 잘라낸다. 3. 케이블 선을 568A 또는 568B 배열대로 각각의 홈에 끼워 넣는다. 4. 모듈 밖으로 나온 케이블 선을 잘라낸다. 5. 덮개를 씌워 완성한다. 완성된 모듈은 벽부착형 Plate(삽입형 아울렛)와 결합하여 콘센트처럼 사용하거나, Outlet 공박스에 넣어 바닥에 놓고 이용할 수 있다.",
+  "cautions": [
+    "벽부착형 Plate(삽입형 아울렛, 1port~6port)는 별도 구매 필요",
+    "Outlet 공박스는 별도 구매 필요",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "AS 및 소비자 상담: 라인업시스템(주)",
+    "품질 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [],
+  "_absorbed_fragments": {
+    "LSP-EIC-UK": {
+      "product_name": "CAT.5E Inline 키스톤잭 모듈 8P8C RJ45 L형",
+      "category": "네트워크 배선 부품 / 키스톤잭 모듈",
+      "key_features": [
+        "400Mbps 전송속도 지원",
+        "별도의 압축 Tool 없이도 케이블 선 장착 가능",
+        "1개의 모듈에서 568A(Cross)와 568B(Direct) 배열 모두 가능",
+        "케이블 선을 보호하는 분리덮개 적용 신형 모듈",
+        "벽부착형 Plate나 Outlet 공박스에 장착하여 사용 가능",
+        "RoHS 인증 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+        "현대해상화재 생산물배상책임보험 1억원 가입"
+      ],
+      "specifications": {
+        "규격": "CAT.5E",
+        "커넥터 타입": "8P8C RJ45 L형",
+        "전송속도": "400Mbps",
+        "배선 배열": "568A(Cross), 568B(Direct) 모두 지원",
+        "색상": "화이트(LSP-EIC-UKWT), 블랙(LSP-EIC-UKBK)",
+        "모델명(화이트)": "LSP-EIC-UKWT",
+        "모델명(블랙)": "LSP-EIC-UKBK",
+        "인증": "RoHS Compliant",
+        "인증번호": "해당없음",
+        "제조국/원산지": "중국 (China)",
+        "제조사/수입사": "라인업시스템(주), 한국아이티판매협동조합",
+        "AS 소비자상담": "라인업시스템(주), 한국아이티판매협동조합",
+        "품질보증기준": "공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+      },
+      "compatibility": [
+        "벽부착형 Plate (삽입형 아울렛, 1port~6port, 별도구매)",
+        "Outlet 공박스 (1port~port, 별도구매)"
+      ],
+      "package_contents": [
+        "CAT.5E Inline 키스톤잭 모듈 본체 (분리덮개 포함)"
+      ],
+      "source_files": [
+        "LSP-EIC-UK.json"
+      ]
+    }
+  },
+  "_variant_raw_texts": {
+    "LSP-EIC-UK": "LANstarⓇ\nplus+\nCAT.5E\nInline 키스톤잭 모듈\n8P8C RJ45 L형\n1/2/514\nLOGINO\nSHO\n화이트 LSP-EIC-UKWT\n블랙 LSP-EIC-UKBK\nCAT.5E 키스톤잭 Keystone Jack\n400Mbps 전송속도 지원\n별도의 압축 Tool 없이도 케이블 선 장착 가능\n1개의 모듈에서 568A(Cross)와 568B(Direct) 배열 모두 가능\n케이블 선을 보호하는 분리덮개의 신형 모듈\n벽부착형 Plate나 Outlet 공박스에 장착하여 사용\n키스톤잭 모듈 제작방법\n.............\n●●●●●●●●●●\nLAN star\nam\n1. 스트리퍼로 케이블 피복을 적당한\n'길이로 벗겨냅니다.\n2. 피복이 제거되어 드러난 케이블 선을\n적당한 길이로 잘라냅니다.\n3. 케이블 선을 A 혹은 B 배열대로\n각각의 홈에 끼워줍니다.\n4. 모듈 밖으로 나온 케이블 선을\n잘라줍니다.\n5. 덮개를 씌워 완성합니다.\nInline 키스톤잭 모듈 활용\n\n\nㅏ\n0\n벽면에 장착하여 사용 가능\n벽부착형 plalte와 결합하여 콘센트처럼 이용할 수 있습니다.\n벽부착형 Plate\n※벽부착형 Plate(삽입형 아울렛) : 별도구매, 1port-6port\n아울렛 공박스와 결합해 돌출형으로 사용\n아울렛 공박스에 넣어 바닥에 놓고 이용할 수 있습니다.\nOutlet 공박스\nで\n※Outlet 공박스 : 별도구매, 1port-port\nROHS\nRestriction of Hazardous Substances\nRoHS(Restriction of Hazardous Substances)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등 중금속\n사용을 금지합니다.\nPRO\nROHS\nCompliant\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nLANstar,\nplus+\n•\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n• 한국아이티판매협동조합에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.5E Inline 키스톤잭 모듈\n모\n델\n명\nLSP-EIC-UKWT/LSP-EIC-UKBK\nLANstar\nplus\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주), 한국아이티판매협동조합\nAS 소비자상담\n라인업시스템(주), 한국아이티판매협동조합\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\n\n\n제조사/수입사\n라인업시스템(주), 한국아이티판매협동조합\nAS 소비자상담\n라인업시스템(주), 한국아이티판매협동조합\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLAN\nNStar\n자매품\nLANstar\nplus\nLANstar\nplus\nCATS\nLS-KT-5EU4\nLS-KT-5EU4N\nLSP-EKTVM-U1WT\nLSP-EKTVM-F1MT\nCAT.5E Tooless 키스톤잭,\n흰색, 별도의 둘없이 쉽게\n제작 가능\nCAT.5E UTP Tooless 키스톤잭\n흰색, 대만산, 별도의 없이\n쉽게 제작 가능\nCAT.5E UTP Tooless 키스톤잭\n모듈, 흰색, RJ45 8P8C 1형\n400Mbps 전송속도 지원\nCAT.5E UTP Tooless 키스톤잭\n모듈, 메탈, RJ45 8P8C\n400Mbps 전송속도 지원\nLS-EKTVB-N12\nLS-EKTVB-N13\nLS-EKTVM-U1WH\nLS-EKTVM-U1BL\nCAT.5E 키스톤잭 모듈,\n빨강, 8P8C 대만산\nCAT.5E 키스톤잭 모듈,\n녹색, 8P8C, 대만산\nCAT.5E 키스톤잭 모듈, 흰색,\n8P8C 대만산, UL인증, Slim타입,\nTOL-KTVNZ-78 펀치들과 호환\nCAT.5E 키스톤잭 모듈, 파랑,\n8P8C 대만산, UL인증, Slim타입,\nTOL-KTVNZ-78 펀치불과 호환\nLANstar\nplus\nLANstar\nplus\nLS-EKTVM-U1RD\nLSP-EIC-UKWT\nLSP-EIC-UKBK\nLS-WPK8DS-C5E\nCAT.5E 키스톤잭 모듈, 빨강,\n8P8C 대만산, UL인증, Slim타입,\nTOL-KTVNZ-78 펀치들과 호환\nCAT.5E Inline 키스톤잭 모듈,\n흰색, 8P8C RJ45 L형\n400Mbps 전송속도 지원\nCAT.5E Inline 키스톤잭 모듈,\n검정, 8P8C RJ45 L형\n400Mbps 전송속도 지원\nCAT.5E STP 옥외용 방수\n키스톤잭, IP67 방수등급,\n8P8C RJ45, UL인증, 대만산\nCAT.5E 잠금형\n키스톤잭 모듈,\n8P8C, Slim타입,\nROHS인증,\n10/100Mbps,\n잠금키 별매\n(LS-KEY-M8P)\nCAT.6 잠금형\n키스톤잭 모듈,\n8P8C, Slim타입,\nROHS인증,\n1000Mbps,\n잠금키 별매\n(LS-KEY-M8P)\nLS-EKTVMK-U1RD\nLS-6KTVMK-U1RD\nLS-EKTVMK-U1YL\nLS-6KTVMK-U1YL\n빨강\n노랑\n초록\n파랑\n흰색\nLS-EKTVMK-U1GN\n빨강\n노랑\n초록\n파랑\n흰색\nLS-6KTVMK-U1GN\nLS-EKTVMK-U1BL\nLS-6KTVMK-U1YL\nLS-EKTVMK-U1WH\nLS-6KTVMK-U1WH\nLS-6KTVM-U1WH\nLS-6KTVM-U1BL\nLS-6KTVM-U1RD\nLS-6KTVM-U1YL\nCAT.6 키스톤잭 모듈, 흰색, CAT.6 키스톤잭 모듈, 파랑, CAT.6 키스톤잭 모듈, 빨강,\n8P8C 대만산, UL인증, Slim타입, 8P8C 대만산, UL인증, Slim타입, 8P8C 대만산, UL인증, Slim타입,\nTOL-KTVNZ-78 펀치툴과 호환, TOL-KTVNZ-78 펀치툴과 호환, TOL-KTVNZ-78 펀치툴과 호환,\n10/100/1000Mbps 전송속도 10/100/1000Mbps 전송속도 10/100/1000Mbps 전송속도\nCAT.6 키스톤잭 모듈, 노랑,\n8P8C 대만산, UL인증, Slim타입,\nTOL-KTVNZ-78 펀치툴과 호환,\n10/100/1000Mbps 전송속도\nLANstar\nplus\nCAT.6\nLS-KT-6U4\nLS-KT-6U4N\nLS-6KTVM-F1MT\nLSP-6KTVM-F1MT\nCAT.6 Tooless 키스톤잭 모듈,\n흰색, 타이, 간편둘,\n별도의 툴 없이 쉽게 제작 가능\nCAT.6 UTP Tooless 키스톤잭\n신형 모듈, 흰색, 일체형 덮개,\n10/100/1000Mbps.\n별도의 틀 없이 쉽게 제작 가능\nCAT.6 FTP Tooless 키스톤잭\n모듈, 메탈, 케이블고정클립 포함,\n10/100/1000Mbps 전송속도\n툴없이 제작 가능\nCAT.6 STP Tooless 키스톤잭\n모듈, 메탈, RJ45 8P8C 1\n10/100/1000Mbps 전송속도\nLANstar\nplus\nLANstar\nplus\nLANstar\nplus\nA\nLSP-6KTVM-U1WT\nLSP-6IC-UKWT\nLSP-6IC-UKBK\nLS-WPK8DS-C6\nCAT.6 UTP Tooless 키스톤잭\n모듈, 흰색, 8P8C RJ45 1형\n10/100/1000Mbps 전송속도\nCAT.6 Inline 키스톤잭 모듈,\n흰색, 8P8C RJ45 L형,\n10/100/1000Mbps 전송속도\nCAT.6 Inline 키스톤잭 모듈,\n검정, 8P8C RJ45 L형\n10/100/1000Mbps 전송속도\nCAT.6 STP 옥외용 방수\n키스톤잭, IP67 방수등급,\n8P8C RJ45, UL인증, 대만산\nLANstar\nLANStar\nplus\n성물\n85\nNIN\n\n\n10/100/1000Mbps 전송속도\n10/100/1000Mbps 전송속도\n10/100/1000Mbps 전송속도\n8P8C RJ45, UL인증, 대만산\nLANstar\nplus\nLANstar'\nplus\n생물\n삼성\nXIN\nLSP-GKTVM-U1WT\nLSP-GKTVM-F1MT\nLS-BZ-KTWHZ\nLS-BZ-KTBKZ\nCAT.6A/CAT.7 UTP Tooless CAT.6A/CAT.7 UTP Tooless 판넬형 플레이트, 흰색,\n키스톤잭 모듈, 흰색, 8P8C RJ45 키스톤잭 모듈, 메탈, 8P8C RJ45 키스톤잭 장착 가능, 1포트,\n형, 10Gbps(10000Mbps) 형, 10Gbps(10000Mbps) 대만산,공업용/전문가용\n전송속도 지원\n전송속도 지원\n판넬형 플레이트, 검정,\n키스톤잭 장착 가능, 1포트,\n대만산,공업용/전문가용\nLS-KEY-M8P\nTOL-KTVNZ-78\nCAT.5E/CAT.6 잠금형\n키스톤잭 모듈, 커플러 잠금키,\n8P8C, Slim타입, ROHS인증\n제작용 키스톤잭 펀치 툴,\n슬림 키스톤잭 전용, 대만산,\n8개 전선 한번에 절단\nLANStar\nⓇ"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "화이트",
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": 4,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "8P8C RJ45 L형",
+    "connectivity.output_signals": "8P8C RJ45 L형",
+    "connectivity.directional": "568A(Cross)와 568B(Direct) 배열 모두 지원",
+    "connectivity.port_count": "1개의 모듈",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "분리덮개 적용 신형 모듈",
+    "form_physical.material": "분리덮개 적용 신형 모듈",
+    "form_physical.color_options": "색상: 화이트(LSP-EIC-UKWT), 블랙(LSP-EIC-UKBK)",
+    "certification.kc": "국립전파연구원 인증 획득",
+    "certification.rohs": "RoHS 인증",
+    "family.cat_category": "CAT.5E",
+    "family.conductor": "케이블 선을 568A 또는 568B 배열대로",
+    "family.pair_count": "8P8C RJ45",
+    "family.poe_support": "400Mbps 전송속도 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:44",
+  "feature_schema_version": "1.0.0"
+}

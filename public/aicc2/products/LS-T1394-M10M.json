@@ -1,0 +1,90 @@
+{
+  "model_no": "LS-T1394-M10M",
+  "product_name": "1394 Cable (4P/M - 4P/M)",
+  "category": [
+    "커넥터",
+    "1394케이블"
+  ],
+  "key_features": [
+    "IEEE 1394 규격 준수 고속 시리얼 인터페이스 케이블",
+    "플러그 앤 플레이(Plug & Play) 지원",
+    "핫 플러깅(Hot Plugging) 지원",
+    "최대 400 Mbps 전송 속도 지원",
+    "USB 대비 33배 빠른 전송 속도",
+    "4핀 수(4P/M) - 4핀 수(4P/M) 구성"
+  ],
+  "specifications": {
+    "규격": "IEEE 1394",
+    "최대 전송 속도": "400 Mbps",
+    "커넥터 타입": "4P/M - 4P/M",
+    "인터페이스 종류": "고속 시리얼 인터페이스"
+  },
+  "compatibility": [
+    "IEEE 1394 규격 지원 기기",
+    "디지털 캠코더"
+  ],
+  "package_contents": [
+    "1394 케이블 (4P/M - 4P/M) 1개"
+  ],
+  "usage_instructions": "디지털 캠코더와 디지털 캠코더를 연결할 때 사용",
+  "cautions": [],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "IEEE1394-4P"
+      ],
+      "output_signals": [
+        "IEEE1394-4P"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "N/A"
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "IEEE1394-4P Male",
+      "connector_type_b": "IEEE1394-4P Male",
+      "gender": "M-M",
+      "pin_count": 4
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "4핀 수(4P/M) - 4핀 수(4P/M) 구성",
+    "connectivity.output_signals": "4핀 수(4P/M) - 4핀 수(4P/M) 구성",
+    "connectivity.directional": "IEEE 1394 규격 준수 고속 시리얼 인터페이스 케이블",
+    "form_physical.has_case": "1394 Cable (4P/M - 4P/M)",
+    "family.connector_type_a": "4핀 수(4P/M) - 4핀 수(4P/M) 구성",
+    "family.connector_type_b": "4핀 수(4P/M) - 4핀 수(4P/M) 구성",
+    "family.gender": "4핀 수(4P/M) - 4핀 수(4P/M) 구성",
+    "family.pin_count": "4핀 수(4P/M) - 4핀 수(4P/M) 구성"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:17",
+  "feature_schema_version": "1.0.0"
+}

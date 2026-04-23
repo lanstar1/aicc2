@@ -1,0 +1,679 @@
+{
+  "model_no": "LS-RG2KVM",
+  "product_name": "LANStar KVM RGB USB 스위치 (2:1)",
+  "category": [
+    "KVM스위치",
+    "KVM",
+    "USB허브",
+    "스위치허브"
+  ],
+  "key_features": [
+    "하나의 키보드/모니터/마우스로 2대의 PC 제어 가능",
+    "SELECT 버튼으로 손쉽게 PC 전환 가능",
+    "Plug&Play 지원 - 별도 드라이버 설치 불필요",
+    "Hot Swap 기능 지원 - 컴퓨터 전원이 켜진 상태에서 탈부착 가능",
+    "USB CONSOLE 포트에 키보드/마우스 외 프린터, USB메모리, USB 허브 등 연결 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 획득 (인증번호 R-R-LUS-LS-RG2KVM)"
+  ],
+  "specifications": {
+    "모델명": "LS-RG2KVM",
+    "제품명": "KVM RGB USB 스위치(2:1)",
+    "연결 방식": "RGB(VGA) + USB B타입",
+    "USB 규격": "USB 2.0",
+    "포트 구성": "PC 입력 2포트(PC1, PC2), USB CONSOLE 1포트",
+    "제품 크기": "10.2cm x 7.2cm x 2.3cm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "R-R-LUS-LS-RG2KVM",
+    "안전규격인증": "KC, FCC, CE",
+    "품질규격": "ISO 9001:2008, RoHS COMPLIANT",
+    "AS 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "RGB(VGA) 모니터",
+    "USB 2.0 인터페이스 PC",
+    "USB 키보드 / 마우스",
+    "USB 프린터",
+    "USB 메모리",
+    "USB 허브",
+    "UNIX, LINUX, BSD 운영체제"
+  ],
+  "package_contents": [
+    "KVM RGB USB 스위치 본체 (LS-RG2KVM) 1개",
+    "※ RGB 케이블 별도 구매",
+    "※ USB B타입 케이블(프린터 케이블, A/M-B/M) 별도 구매",
+    "※ USB 케이블 별도 구매"
+  ],
+  "usage_instructions": "1. PC1과 PC2 각각에 RGB(VGA) 케이블과 USB B타입 케이블(A/M-B/M)을 KVM 스위치의 PC1, PC2 포트에 연결한다. 2. 모니터는 KVM 스위치의 출력 Display 포트에 연결한다. 3. 키보드, 마우스(및 기타 USB 장치)는 USB CONSOLE 포트에 연결한다. 4. 본체의 PC 전환 버튼(SELECT)을 눌러 제어할 PC를 전환한다. 드라이버 설치 불필요, Hot Swap 지원.",
+  "cautions": [
+    "케이블(RGB 케이블, USB B타입 케이블, USB 케이블)은 별도 구매 필요",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RG2KVM",
+      "품목코드": "INT-KV수114",
+      "품목명": "[LANstar] KVM RGB USB 스위치(2:1) , PC 2대 연결 , 3포트 USB 허브 [20244] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "홈서버로 잘 사용하고 있습니다ㅎㅎ"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "빠른 배송 감사합니다.",
+      "관련내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "잘 사용하고 있습니다. 수고 하세요~!",
+      "관련내용": "작동 잘 하네요. 잘 쓰겠습니다..."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "컴퓨터 두대쓰는데 전환이 빨라져서 좋네요!!",
+      "관련내용": "작동잘되고 빠르네요"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "작동 잘 하네요. 잘 쓰겠습니다..."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "작동잘되고 빠르네요"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "만족합니다감사합니다"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "아날로그식 스위치 전환 방식이라 고장이 없어요 전원선도 필요없고 가격도 싸고 본체 2개을 하나로 엮는데는 딱 안성맞춤"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "사용 한달간 이상없이 잘 작동하네요",
+      "관련내용": "회사컴퓨터와 개인노트북을 하나의 키보드 마우스로 가능한 마법 저렴하게 해결"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "회사컴퓨터와 개인노트북을 하나의 키보드 마우스로 가능한 마법 저렴하게 해결"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "RGB 사용상 문제 있지만 좋은 제품 입니다.\n컴퓨터 2대를 오가며 키보드와 마우스를 공유 할수 있으니 편리하게 사용 가능 합니다.",
+      "관련내용": "마우스와 키보드 공유가 잘되서 좋아요.....VGA 모니터 공유는 DP to VGA를 사용해보니 잘되네요"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "마우스와 키보드 공유가 잘되서 좋아요.....VGA 모니터 공유는 DP to VGA를 사용해보니 잘되네요"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "신기합니다 ! 1번 2번 컴퓨터 움직이기 좋아요 ."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "빠른배송 좋아요~~!!"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "작동 잘되고 사용이 편해요"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "좋아요 괜찮아요~~~",
+      "관련내용": "배송빠르고 좋습니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "가성비 좋게 사용합니다.",
+      "관련내용": "가성비 좋게 잘 사용합니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "배송도 빠르고, 잘 쓰고 있어요"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "좋아요.배송도빠르고. 제품도. 만족합니다",
+      "관련내용": "너무 만족합니다\n 따따봉"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "좋아요 잘작동하고~~",
+      "관련내용": "잘받았어요 배송빠르고"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "가성비 좋게 잘 사용합니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "배송빠르고 좋습니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "잘받았어요 배송빠르고"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "영상은 잘 되나, 키보드 마우스는 안 되네요..."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "너무 만족합니다\n 따따봉"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "편리하게 쓰고 있습니다"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "좋아요 편리하게 잘쓰고있어요",
+      "관련내용": "잘받았습니다. 고맙습니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "가격대비 성능이 괜찮아요"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "잘받았습니다. 고맙습니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "아주 유용하게 잘쓰고있습니다.",
+      "관련내용": "잘받았어요 배송빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "잘받았어요 배송빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "작동잘되고 좋아요 추매할예정입니다.",
+      "관련내용": "감사합니다. 잘받았어요"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "매우 잘사용하고있습니다.\n이거 사시는분은 케이블은 따로 사야되용"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "3개째 사는거 아시죠.. 주변에서 많이들 물어보시네요.. 좋은 알릴 의무가 있음"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "포장도 사용도 매우만족합니다"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "가성비짱 아주 좋습니다.."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "감사합니다. 잘받았어요"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "모니터한대로 두대피씨 쓰려고 구매했는데 \n한대는 안되고 되는피씨는 해상도가 너무 구리게 낭ᆢ네요\nUsb는 해봐야 알겠지만 어쨌는 모니터는실패요"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "케이블 별도를 놓쳤다... b타입 구하기가 힘든데 다른타입으로 만들면 좋읗것같음..당일. 이마트 다이소가서도 못구함"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "아주 잘 됩니다. 특히 xp와 11이라 걱정을 조금 했는데 괜한 걱정을.. 단지 선이 조금 너저분한거만 뺀다면 아주 좋습니다. 프로그램 특성상 xp에서 되는거와 11에서 되는게 나뉘어져 있어서 이런 선택을 하게되었네요.. 키보드 마우스도 잘 먹히고 버튼 하나로 왔다갔다 하는게 신세계이긴 합니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "아직 사용안하는데 좋을것 같습니다",
+      "관련내용": "좋아요 편해요 컴 2대를 1하나로 사용 사용이 쉬워요"
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "내용": "좋아요 편해요 컴 2대를 1하나로 사용 사용이 쉬워요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-RG2KVM",
+      "id": 206487218,
+      "date": "2022-02-16 11:19",
+      "answerDate": "2022-02-16 13:09",
+      "user": "sunk***",
+      "productName": "랜스타 LS-RG2KVM RGB USB KVM 스위치 2:1 타입 1080P 지원",
+      "question": "본체 2대를 연결할 때 키보드와 마우스는 하나로 사용할 수가 있는거죠? 현재 무선키보드를 사용중인데 분배기에 연결하여 사용이 가능한지요~",
+      "answer": "안녕하세요 랜스타 입니다.\n\n본체 2대 연결 시 각각의 본체에 USB 케이블을 연결하면 하나의 무선 키보드로 본체 2대 사용 가능합니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "id": 210143863,
+      "date": "2022-03-11 14:58",
+      "answerDate": "2022-03-11 15:53",
+      "user": "akck***",
+      "productName": "랜스타 LS-RG2KVM RGB USB KVM 스위치 2:1 타입 1080P 지원",
+      "question": "Usb b타입은 별매인가요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\nUSB B 타입 케이블은 별매입니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "id": 217820500,
+      "date": "2022-05-01 12:24",
+      "answerDate": "2022-05-02 18:16",
+      "user": "bg****",
+      "productName": "랜스타 LS-RG2KVM RGB USB KVM 스위치 2:1 타입 1080P 지원",
+      "question": "작동 안됩니다. 교환 부탁합니다.",
+      "answer": "안녕하세요 랜스타 입니다.\n\n어떻게 작동이 안되는지 구체적으로 영상이나 사진으로 보내주시면 확인 후 교환 해드리겠습니다.\nlanmart86@naver.com 메일로 부탁드립니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "id": 530036628,
+      "date": "2023-05-18 16:24",
+      "answerDate": "2023-05-18 17:04",
+      "user": "nsch****",
+      "productName": "랜스타 LS-RG2KVM RGB USB KVM 스위치 2:1 타입 1080P 지원",
+      "question": "구매할때 구성품은 본체 하나인가요? usb선이나 d-sub선은 별도 구매 이지요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n구성품은 본체 1개로, 고객님의 필요에 맞게 케이블 별도 구매하셔서 사용하시면 됩니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해 드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "id": 534018036,
+      "date": "2023-06-16 10:16",
+      "answerDate": "2023-06-16 13:58",
+      "user": "rlat*******",
+      "productName": "랜스타 LS-RG2KVM RGB USB KVM 스위치 2:1 타입 1080P 지원",
+      "question": "케이블 꽂아도 아무 반응없네요;\n케이블 연결확인이라고뜨네요\n각각 케이블 연동유무 확인했는데요",
+      "answer": "안녕하세요, 고객님. 랜스타입니다.\n\nUSB 케이블을 통해 모든 PC를 연결해야 PC 제어가 가능합니다. 본체와 본체가 연결되었는지 확인 부탁드립니다. 추가 문의 사항은 언제든지 톡톡으로 문의 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해 드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "id": 569598524,
+      "date": "2024-02-26 09:21",
+      "answerDate": "2024-02-26 11:38",
+      "user": "na****",
+      "productName": "랜스타 LS-RG2KVM RGB USB KVM 스위치 2:1 타입 1080P 지원",
+      "question": "마우스의 멀티펑션키(뒤로가기 등) 도 작동 가능한가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n문의 주신 내용처럼 마우스 멀티펑션키 작동 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "id": 570273296,
+      "date": "2024-03-01 11:17",
+      "answerDate": "2024-03-05 10:23",
+      "user": "mir0***",
+      "productName": "랜스타 LS-RG2KVM RGB USB KVM 스위치 2:1 타입 1080P 지원",
+      "question": "1. PC1 :  DVI = 안됨\n2. PC2 : RGB = 잘됨\n2번  PC2는 잘 작동됩니다.\n1번 PC1에 DVI TO RGB cable 사용해서 연결했는데 동작이 안됩니다.\n무슨문제 인가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n말씀 주신 부분으로 살펴보면, 케이블이 별도 방향성이 있는 케이블이라 안되는 것인지 아니면 불량인 것인지 확인이 필요한 것으로 보입니다.\n작동 안되는 포트에 RGB 케이블을 다이렉트로 연결하여 포트는 정상인지 확인이 먼저 필요합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "id": 572135351,
+      "date": "2024-03-14 06:25",
+      "answerDate": "2024-03-14 08:55",
+      "user": "mir0***",
+      "productName": "랜스타 LS-RG2KVM RGB USB KVM 스위치 2:1 타입 1080P 지원",
+      "question": "답변 감사합니다.\n말씀 하신대로 1번에도 노트북의 RGB이용하여 RGB TYPE연결하였는데 잘 됬어요\n그러므로 1번 2번 다 RGB는 됬던거로 기억 합니다.\n케이블도 DVI===> RGB(모니터쪽)를 구매하여 방향 확인 했는데 안되서요.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 문의 주시려는 내용이 정확히 확인이 안되는 것으로 보입니다.\n저희에게 기술 문의 원하시는 내용을 톡톡으로 남겨 주시면 확인 후 답변 드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "id": 578602932,
+      "date": "2024-04-29 15:57",
+      "answerDate": "2024-04-29 16:44",
+      "user": "rh****",
+      "productName": "랜스타 LS-RG2KVM RGB USB KVM 스위치 2:1 타입 1080P 지원",
+      "question": "1. 모니터 상관없이 노트북2대에서 마우스, 키보드 만 왔다갔다 할 수 있는건가요?\n2. 데이터 공유는 안되는거죠?\n3.단축키 지원가능한거죠?\n4.드라이버 설치해야하나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n1. 화면변환도 가능합니다.\n2. 데이터 공유는 지원하지 않습니다.\n3. 컴퓨터마다 사용하는 단축기가 있다면 지원하지 않습니다.\n4. 드라이버 설치 필요 없습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "id": 580416220,
+      "date": "2024-05-13 10:45",
+      "answerDate": "2024-05-13 13:38",
+      "user": "hsk3*****",
+      "productName": "랜스타 LS-RG2KVM RGB USB KVM 스위치 2:1 타입 1080P 지원",
+      "question": "호기심 때문에 유에스비 케이불 이랑 주문 했어요  부탁합니다 !",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 주문 주신 건 확인 되었으며, 금일 출고 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "id": 603759242,
+      "date": "2024-11-05 16:49",
+      "answerDate": "2024-11-06 10:17",
+      "user": "viva****",
+      "productName": "랜스타 LS-RG2KVM RGB USB KVM 스위치 2:1 타입 1080P 지원",
+      "question": "사운드는 공유 어떻게 하나요",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\nRGB신호는 소리 공유가 되지 않아 불가합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "id": 662749301,
+      "date": "2026-02-10 17:38",
+      "answerDate": "2026-02-11 10:01",
+      "user": "tony********",
+      "productName": "랜스타 LS-RG2KVM RGB USB KVM 스위치 2:1 타입 1080P 지원",
+      "question": "서울용산인데 퀵비 알수있을까요? 용산 남영동 입니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n7천원~1만 5천원 사이로 예상됩니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "id": 662834846,
+      "date": "2026-02-11 10:24",
+      "answerDate": "2026-02-11 13:43",
+      "user": "tony********",
+      "productName": "랜스타 LS-RG2KVM RGB USB KVM 스위치 2:1 타입 1080P 지원",
+      "question": "톡톡 답변 없으셔서 여기에도 남깁니다 정확한 주소가 서울시 용산구 원효로 90길 11 업무동 18층인데 정확한 비용 알수있을까요??",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n톡톡 및 유선으로 안내 도와드렸습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-RG2KVM",
+      "chatUrl": "dEBIU",
+      "dateIso": "2025-06-26T08:41:43.483Z",
+      "name": "포타부",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "해당 스위치 활용해서 키보드,마우스만 연결하여 두 대의 PC를 오가며 잘 썼었는데 금일 갑자기 usb 인식을 못하고 먹통이 되었습니다.\n(추가 문의) usb-b 케이블이 꽂혀있으면 빨간 불은 들어오는데 다른 usb 작동은 아무것도 되지 않네요\n(추가 문의) 말씀하신건 모두 해봤는데 포트불량은 아닌 것 같습니다",
+      "answer": "고객님. USB케이블 교환 및 양쪽 포트 바꿔서 케이블과 포트의 불량여부 확인 및 컴퓨터의 다른 USB포트에 연결해서 확인 부탁드립니다.\n\n자세하게 고객님 사용 환경 및 상황 설명 주시면 기술지원팀 확인 후 안내 도와드리겠습니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "말씀하신건 모두 해봤는데 포트불량은 아닌 것 같습니다"
+        },
+        {
+          "role": "agent",
+          "text": "고객님.\n\nUSB케이블 교환 및 양쪽 포트 바꿔서 케이블과 포트의 불량여부 확인 및 컴퓨터의 다른 USB포트에 연결해서 확인 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "usb-b 케이블이 꽂혀있으면 빨간 불은 들어오는데 다른 usb 작동은 아무것도 되지 않네요"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "해당 스위치 활용해서 키보드,마우스만 연결하여 두 대의 PC를 오가며 잘 썼었는데 금일 갑자기 usb 인식을 못하고 먹통이 되었습니다."
+        },
+        {
+          "role": "agent",
+          "text": "자세하게 고객님 사용 환경 및 상황 설명 주시면 기술지원팀 확인 후 안내 도와드리겠습니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "chatUrl": "rwGt",
+      "dateIso": "2024-04-17T01:21:50.229Z",
+      "name": "namo****",
+      "isTechnical": true,
+      "category": "shipping",
+      "modelConfidence": "high",
+      "question": "보낸사람이름은 조형남 입니다",
+      "answer": "고객님 임의로 보내주신 경우 저희 측에서 확인하여 처리가 불가합니다. 어디로 보내주셨을까요? 저희가 안내 해드린 이후에 보내주셔야 합니다.\n\n네 고객님, 확인하였습니다. 담당 부서에 전달해놓도록 하겠습니다.",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "보낸사람이름은 조형남 입니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 확인하였습니다.\n담당 부서에 전달해놓도록 하겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "이리로보냈습니다"
+        },
+        {
+          "role": "agent",
+          "text": "고객님 임의로 보내주신 경우 저희 측에서 확인하여 처리가 불가합니다.\n어디로 보내주셨을까요?\n\n저희가 안내 해드린 이후에 보내주셔야 합니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "chatUrl": "aCNVO",
+      "dateIso": "2024-01-17T00:07:13.141Z",
+      "name": "Zero",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "어차피 여유분을 한개 더 구매하려고 하는데요...그게 택배로 오면 반품하는 방식으로 보내볼까도 생각해봤네요\n(추가 문의) 로젠택배 기사님이 수거해가지 않아서 어떡해야되나...하고 있었네요..아마도 시골이라서 그런듯 합니다;;\n(추가 문의) 네 잘알겠습니다. 수고하세요~",
+      "answer": "네, 고객님. 시간이 되실 때 편하신 방법으로, 안내 드린 것처럼 저희 측으로 제품 보내주시면 확인 후 안내 도와드리겠습니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "어차피 여유분을 한개 더 구매하려고 하는데요...그게 택배로 오면 반품하는 방식으로 보내볼까도 생각해봤네요"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님. 시간이 되실 때 편하신 방법으로, 안내 드린 것처럼 저희 측으로 제품 보내주시면 확인 후 안내 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "로젠택배 기사님이 수거해가지 않아서 어떡해야되나...하고 있었네요..아마도 시골이라서 그런듯 합니다;;"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님. 시간이 되실 때 편하신 방법으로, 안내 드린 것처럼 저희 측으로 제품 보내주시면 확인 후 안내 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "네 잘알겠습니다. 수고하세요~"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님. 시간이 되실 때 편하신 방법으로, 안내 드린 것처럼 저희 측으로 제품 보내주시면 확인 후 안내 도와드리겠습니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-RG2KVM",
+      "chatUrl": "Dudh",
+      "dateIso": "2023-09-21T05:01:40.060Z",
+      "name": "역시",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "네, 감사합니다. 안그래도 여쭤보려했습니다.\n외부입력을 조정하니 모니터가 나오긴했는데 화질이 너무 안좋네요. 어리어리하고 마치 잉크젯 글씨를 물 뭍은 손으로 찌..익 그은것처럼 번지네요ㅠ. rgb케이블이라서 그런가요\n(추가 문의) 컴1은 윈7 컴2 윈10 모니터 1개로 두대 본체를 운용하려고 합니다. 모니터 RGB잭을 스위치 머리부분에 끼웠구요, 스위치 좌우 RGB잭은 2대 본체에 연결했습니다. 그리고 USB A포트도 각각 연결했구요...버튼\n(추가 문의) 안녕하세요, 다른 사이트에서 랜스타 KVMRG2KVM을 구매했습니다. 제대로 연결은 했는데 모니터출력이 안나오네요. 구매한지 꽤 된거라 그냥 새걸로 사려하다보니 기왕이면 랜스타몰에서 구입하려고 합니다. 그런데 현재\n(추가 문의) 네, HDMI 지원용으로 재구매했습니다. 안되면 반품할때 택배비만 부담하면 된다는 말씀이죠? 제대로 되길 빕니다..감사합니다.",
+      "answer": "구매하신 제품 모델명이 'LS-RG2KVM' 맞으실까요? 사용 원하시는 환경과 기능에 대해 말씀 부탁드립니다. 동일 제품이 아닐 경우 호환성 문제로 또 다시 안될 가능성이 있어 정확한 안내가 힘들 것으로 보입니다.\n\n네 고객님. 모니터의 외부입력이 RGB로 설정되어 있는지 확인 부탁드립니다. 모니터의 외부입력이 HDMI 또는 DVI로 설정되어 있을 경우 출력이 되지 않을 수 있습니다.\n\n네 고객님, 고객님의 사용하시는 환경을 정확하게 구현할 수 없기 때문에 현재 상황으로는 정확하게 안내 드리기 힘듭니다. 이 부분 양해 부탁드리며, 구매 후 반품의 경우에는 택배 배송비 발생할 수 있는 점 참고 부탁드립니다.",
+      "turn_count": 13,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네, HDMI 지원용으로 재구매했습니다. 안되면 반품할때 택배비만 부담하면 된다는 말씀이죠? 제대로 되길 빕니다..감사합니다."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요? 네 고객님, 고객님의 사용하시는 환경을 정확하게 구현할 수 없기 때문에 현재 상황으로는 정확하게 안내 드리기 힘듭니다.\n이 부분 양해 부탁드리며, 구매 후 반품의 경우에는 택배 배송비 발생할 수 있는 점 참고 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "네, 감사합니다. 안그래도 여쭤보려했습니다.\n외부입력을 조정하니 모니터가 나오긴했는데 화질이 너무 안좋네요. 어리어리하고 마치 잉크젯 글씨를 물 뭍은 손으로 찌..익 그은것처럼 번지네요ㅠ. rgb케이블이라서 그런가요"
+        },
+        {
+          "role": "agent",
+          "text": "네 확인하였습니다. 고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁"
+        },
+        {
+          "role": "customer",
+          "text": "네. 방법은 제가 찾아보겠습니다. 그래도 안되면 다른걸로 주문하겠습니다. 감사합니다."
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "모니터 외부입력 설정은 모니터 메뉴에서 하는건가요?"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님. 모니터의 외부입력이 RGB로 설정되어 있는지 확인 부탁드립니다. 모니터의 외부입력이 HDMI 또는 DVI로 설정되어 있을 경우 출력이 되지 않을 수 있습니다."
+        },
+        {
+          "role": "customer",
+          "text": "네...이렇게 말씀이라도 해주셔야 기다리죠..ㅠㅠ 기다리겠습니다."
+        },
+        {
+          "role": "agent",
+          "text": "현재, 내부 기술 담당자에게 말씀 주신 증상에 대해 전달하였습니다. 조금만 기다려 주시면 감사하겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "계시나요? 다른거 사도 되나요? 무슨 말씀을 해주셔야...다른 제품을 구매할지...기존 제품 문제가 뭔지 알거 아닙니까..."
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "답변 좀 주세요.....ㅠㅠ"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "어떤 부분을 체크해봐야 할까요? 제품불량이면 그냥 버리고 새로 사려구요..."
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA",
+        "USB-B"
+      ],
+      "output_signals": [
+        "VGA",
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": null,
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "pc_count": 2,
+      "video_interface": [
+        "VGA"
+      ],
+      "switching_methods": [
+        "physical_button"
+      ],
+      "keyboard_type": "USB",
+      "usb_peripheral_ports": 1,
+      "cable_built_in": false,
+      "hub_built_in": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RGB(VGA) + USB B타입",
+    "connectivity.output_signals": "모니터는 KVM 스위치의 출력 Display 포트에 연결한다. 3. 키보드, 마우스(및 기타 USB 장치)는 USB CONSOLE 포트에 연결한다.",
+    "connectivity.directional": "2대의 PC 제어 가능",
+    "connectivity.port_count": "PC 입력 2포트(PC1, PC2), USB CONSOLE 1포트",
+    "power.power_mode": "Plug&Play 지원 - 별도 드라이버 설치 불필요",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "제품 크기",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "null",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "SELECT 버튼으로 손쉽게 PC 전환 가능",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.pc_count": "2대의 PC 제어 가능",
+    "family.video_interface": "RGB(VGA)",
+    "family.switching_methods": "SELECT 버튼으로 손쉽게 PC 전환 가능",
+    "family.keyboard_type": "USB CONSOLE 포트에 키보드/마우스",
+    "family.usb_peripheral_ports": "USB CONSOLE 1포트",
+    "family.cable_built_in": "null",
+    "family.hub_built_in": "USB CONSOLE 포트에 키보드/마우스 외 프린터, USB메모리, USB 허브 등 연결 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:41",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 4,
+    "category_breakdown": {
+      "usage": 2,
+      "shipping": 1,
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

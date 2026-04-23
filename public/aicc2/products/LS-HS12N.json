@@ -1,0 +1,233 @@
+{
+  "model_no": "LS-HS12N",
+  "product_name": "LANStar HDMI 양방향 수동 선택기",
+  "category": [
+    "HDMI선택기"
+  ],
+  "key_features": [
+    "HDMI 양방향 지원: 2대의 PC와 모니터 1대 연결, 또는 1대의 PC와 모니터 2대 연결 가능",
+    "4K@60Hz UHD(4096×2160) 해상도 지원",
+    "ONE-Touch 버튼 한 번으로 입출력 전환",
+    "별도 전원 공급 불필요 (무전원 방식)",
+    "최대 3m까지 안정적인 화질 유지",
+    "디지털 TV, 셋톱박스, 노트북, 빔 프로젝터, PC, 콘솔 등 HDMI 기기와 광범위한 호환성",
+    "현대해상화재 생산물배상책임보험 1억 원 가입",
+    "RoHS 규격 준수, ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "해상도": "4K@60Hz (4096×2160)",
+    "포트 구성": "HDMI 1, HDMI 2 (양방향)",
+    "전원 방식": "무전원 (별도 전원 공급 불필요)",
+    "최대 안정 전송 거리": "3m",
+    "제품 크기": "80mm × 60mm × 17mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증 번호": "해당없음",
+    "준수 규격": "RoHS COMPLIANT, ISO 9001:2008"
+  },
+  "compatibility": [
+    "디지털 TV",
+    "셋톱박스",
+    "노트북",
+    "빔 프로젝터",
+    "PC",
+    "콘솔",
+    "HDMI 단자를 가진 모든 Display 기기"
+  ],
+  "package_contents": [
+    "HDMI 수동선택기 (LS-HS12N) 본체"
+  ],
+  "usage_instructions": "① 2대의 PC와 모니터 1대를 연결하는 방식, 또는 1대의 PC와 모니터 2대를 연결하는 방식 중 하나를 선택하여 HDMI 케이블로 연결한다. ② 버튼을 한 번 눌러 원하는 입력/출력 포트로 전환한다. 별도 전원 연결은 필요하지 않다.",
+  "cautions": [
+    "PC 1대와 모니터 2대 연결 시, 선택한 모니터에서만 출력되며 동시 출력은 불가능합니다.",
+    "최대 안정 전송 거리는 3m이며, 거리가 멀어질수록 영상 손실이 발생할 수 있습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HS12N",
+      "품목코드": "INT-HD선136",
+      "품목명": "[LANstar] HDMI 수동선택기, 무전원, 버튼형1:2, 양방향지원 [20145] (60개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HS12N",
+      "id": 504381092,
+      "date": "2022-11-26 02:19",
+      "answerDate": "2022-11-28 14:44",
+      "user": "seon********",
+      "productName": "랜스타 LS-HS12N HDMI 양방향 선택기 2:1 4K2K 60Hz 지원 무전원 셀렉터",
+      "question": "상품문의드려요\n\n1. 오래전에 구입한 HDMI수동선택기(은색 플라스틱) 사용하는데요\n(랜스타 LS-LS12 랜수동선택기 랜섬웨어 차단 스위치 이제품과 모양이 똑같아요)\n현재는 판매를 안하는거 같은데 구할수 없을까요?\n\n\n2. LS-HS12C 와 LS-HS12N 의 차이점이 궁금하네요\n\n\n3. 오래전에 구입한건 버튼이 2개여서 1번 2번 누르게 되어있는데요\n요즘건 버튼이 1개이던데 이게 버튼 2개와 방식이 다를거 같은데 맞나요\n버튼 2개는 아날로그식으로 변경되는거 같고 버튼 1개는 디지털식로 변경되는\n그런 차이가 있을거 같은데 맞나요 (웬만하면 단순한 아날로그식이 오류가 없어서 좋아서요)",
+      "answer": "안녕하세요 랜스타 입니다\n\n두가지 다 버튼 한개 사용하며 ,\n\n해상도와 사용 가능한 케이블 m의 차이가 있습니다"
+    },
+    {
+      "source_model": "LS-HS12N",
+      "id": 504913654,
+      "date": "2022-11-30 05:02",
+      "answerDate": "2022-11-30 09:55",
+      "user": "seon********",
+      "productName": "랜스타 LS-HS12N HDMI 양방향 선택기 2:1 4K2K 60Hz 지원 무전원 셀렉터",
+      "question": "사장님 그럼 LS-LS12(단종된제품)과 LS-HS12N 작동방식이 동일한건가요?\nLS-LS12 상품 설명에는 By Pass 설명이 있는데 LS-HS12N도 동일한지 궁금합니다",
+      "answer": "안녕하세요 랜스타 입니다\n\n작동방식 동일 합니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HS12N",
+      "chatUrl": "nsX0",
+      "dateIso": "2023-12-19T01:20:48.888Z",
+      "name": "kcs4****",
+      "isTechnical": true,
+      "category": "shipping",
+      "modelConfidence": "high",
+      "question": "이거 컴퓨터에 연결했는데 두모니터 다 같은 화면밖에 안나옵니다 hdmi하나로 듀얼모니터처럼 쓰려고했는데 안되는겁니까? 만약 불가능하다면 반품하고 싶습니다\n(추가 문의) 혹시분배기중에서 아웃이 둘중하나만 출력+둘다출력 가능한게 있을까요?\n(추가 문의) 화질 다운되거나 주사율 떨어진다거나 그런문제도 없다는 말씀이죠?\n(추가 문의) 이런식으로 사용하고싶은데 가능할까요??",
+      "answer": "네 고객님. 해당 제품은 상세페이지 상단에 기재되어 있듯이, 2대의 디스플레이에 동일한 화면을 출력하는 분배기 제품입니다. 정상 제품 반품의 경우 왕복 배송비가 발생하며, 상품 박",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "이거 컴퓨터에 연결했는데 두모니터 다 같은 화면밖에 안나옵니다 hdmi하나로 듀얼모니터처럼 쓰려고했는데 안되는겁니까? 만약 불가능하다면 반품하고 싶습니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님. 해당 제품은 상세페이지 상단에 기재되어 있듯이, 2대의 디스플레이에 동일한 화면을 출력하는 분배기 제품입니다. 정상 제품 반품의 경우 왕복 배송비가 발생하며, 상품 박"
+        },
+        {
+          "role": "customer",
+          "text": "혹시분배기중에서 아웃이 둘중하나만 출력+둘다출력 가능한게 있을까요?"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "화질 다운되거나 주사율 떨어진다거나 그런문제도 없다는 말씀이죠?"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "이런식으로 사용하고싶은데 가능할까요??"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "selector_type": "양방향",
+      "input_count": null,
+      "output_count": null,
+      "interfaces": [
+        "HDMI"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 양방향 지원",
+    "connectivity.output_signals": "HDMI 양방향 지원",
+    "connectivity.directional": "HDMI 양방향 지원",
+    "connectivity.port_count": "HDMI 1, HDMI 2 (양방향)",
+    "power.power_mode": "별도 전원 공급 불필요 (무전원 방식)",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "제품 크기: 80mm × 60mm × 17mm",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "null",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "4K@60Hz UHD(4096×2160) 해상도 지원",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "ONE-Touch 버튼 한 번으로 입출력 전환",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.selector_type": "HDMI 양방향 수동 선택기",
+    "family.input_count": "null",
+    "family.output_count": "null",
+    "family.interfaces": "HDMI 양방향 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:47",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "shipping": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

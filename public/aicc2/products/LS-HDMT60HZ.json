@@ -1,0 +1,155 @@
+{
+  "model_no": "LS-HDMT60HZ",
+  "product_name": "LANStar HDMI 2.0 골드메탈 케이블 (LS-HDMT 시리즈)",
+  "category": [
+    "HDMI케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "4K2K@60Hz (3840x2160) UHD 해상도 지원",
+    "최대 18Gbps 데이터 전송 속도 지원 (HDMI 1.4의 10.2Gbps 대비 향상)",
+    "Gold Metal 커넥터 적용 고급 케이블",
+    "21:9 와이드 화면 비율(시네마스코프) 지원",
+    "3D 디스플레이 기능 지원",
+    "HDR(High Dynamic Range) 지원 - 명암비 1000단계(nit) 표현",
+    "32채널 멀티채널 오디오 및 1536kHz 오디오 샘플링 지원",
+    "영상과 음성 동시 전송",
+    "HDCP 2.2 영상 저작권 보호 기술 지원",
+    "HEC(HDMI Ethernet Channel) 지원 - 별도 랜케이블 불필요",
+    "ARC(Audio Return Channel) 지원",
+    "RoHS 인증 제품",
+    "KC, FCC, CE 안전규격 인증",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "케이블 길이 0.3M / 1M / 2M / 3M / 5M / 10M / 15M / 20M 선택 가능"
+  ],
+  "specifications": {
+    "HDMI 단자": "HDMI 19P/M - HDMI 19P/M",
+    "HDMI 해상도": "4K2K@60Hz 지원 (3840x2160)",
+    "전송속도(대역폭)": "18Gbps",
+    "케이블 길이": "0.3M / 1M / 2M / 3M / 5M / 10M / 15M / 20M",
+    "소비전력 최대": "DC 300V/5s",
+    "작동온도": "섭씨 80도",
+    "HDMI 버전": "HDMI 2.0",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "인증규격": "KC, FCC, CE, RoHS, ISO 9001:2008"
+  },
+  "compatibility": [
+    "HDMI 2.0 지원 기기",
+    "HDMI 1.4 지원 기기 (하위 호환)",
+    "4K UHD TV 및 모니터",
+    "3D 디스플레이 기기",
+    "21:9 와이드 비율 모니터",
+    "블루레이/HD-DVD 플레이어",
+    "AV 리시버 (ARC 지원 기기)",
+    "IPTV, DLNA, UPnP 지원 기기",
+    "LG TV (제품 이미지 내 LG 로고 확인)",
+    "YCbCr 4:2:2 / 4:4:4 지원 기기",
+    "Deep Color 지원 기기",
+    "xvYCC 지원 기기",
+    "돌비 TrueHD 오디오 비트스트림 지원 기기",
+    "HDCP 2.2 지원 기기"
+  ],
+  "package_contents": [
+    "HDMI 2.0 골드메탈 케이블 1개 (선택 길이에 따라 0.3M / 1M / 2M / 3M / 5M / 10M / 15M / 20M)",
+    "커넥터 보호캡"
+  ],
+  "usage_instructions": "HDMI 케이블 양쪽 커넥터를 영상 출력 기기(PC, 플레이어 등)와 디스플레이 기기(TV, 모니터 등)의 HDMI 포트에 각각 연결하여 사용. 별도의 랜케이블 없이 HEC(HDMI Ethernet Channel)를 통해 네트워크 접속 가능. ARC 기능을 통해 TV와 AV 기기 간 별도 케이블 없이 음성신호 전송 가능.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr",
+    "RoHS 지침에 따라 납, 수은, 카드뮴 등 중금속 사용 제한 제품임"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금",
+        "메탈"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.3,
+        1,
+        2,
+        3,
+        5,
+        10,
+        15,
+        20
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": true,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "HDMI2.0",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 단자: HDMI 19P/M",
+    "connectivity.output_signals": "HDMI 단자: HDMI 19P/M",
+    "connectivity.directional": "영상과 음성 동시 전송",
+    "power.power_mode": "무전원",
+    "form_physical.has_case": "Gold Metal 커넥터 적용",
+    "form_physical.material": "Gold Metal 커넥터 적용",
+    "form_physical.length_options_meters": "케이블 길이 0.3M / 1M / 2M / 3M / 5M / 10M / 15M / 20M",
+    "certification.kc": "KC, FCC, CE 안전규격 인증",
+    "certification.rohs": "RoHS 인증 제품",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증",
+    "certification.ce": "KC, FCC, CE 안전규격 인증",
+    "audio_video.max_resolution": "4K2K@60Hz (3840x2160) UHD 해상도 지원",
+    "audio_video.hdr_support": "HDR(High Dynamic Range) 지원",
+    "audio_video.hdcp_version": "HDCP 2.2 영상 저작권 보호 기술 지원",
+    "audio_video.audio_pass": "ARC(Audio Return Channel) 지원",
+    "family.hdmi_version": "HDMI 2.0",
+    "family.ethernet_channel": "HEC(HDMI Ethernet Channel) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:35",
+  "feature_schema_version": "1.0.0"
+}

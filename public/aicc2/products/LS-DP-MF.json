@@ -1,0 +1,127 @@
+{
+  "model_no": "LS-DP-MF",
+  "product_name": "DisplayPort 디스플레이포트 연장 케이블",
+  "category": [
+    "DisplayPort",
+    "익스텐더"
+  ],
+  "key_features": [
+    "디스플레이포트 Ver1.1a 규격 지원",
+    "최대 1.62Gbps 및 2.7Gbps 대역폭 지원",
+    "1,920×1,200 해상도 지원",
+    "HDMI 1.3a 규격 지원",
+    "Sleep mode(suspend mode) 지원",
+    "Multiple Streams(멀티 스트리밍) 지원",
+    "2채널 스테레오 및 5.1채널, 7.1채널 입체음향 지원",
+    "영상분배기 사용 시 복수의 모니터로 각각 다른 화면 출력 가능 (최대 4대)",
+    "DVI, VGA(RGB), HDMI 등 다양한 디스플레이 규격 지원",
+    "3중 차폐 쉴드(고밀도 편조쉴드, 알루미늄쉴드×2) 구성으로 노이즈 차단",
+    "초고속 양방향 데이터 전송 지원 (최대 7Gbps 대역폭)"
+  ],
+  "specifications": {
+    "인터페이스 규격": "DisplayPort Ver1.1a",
+    "지원 대역폭": "1.62Gbps, 2.7Gbps (최대 7Gbps)",
+    "지원 해상도": "1,920×1,200",
+    "HDMI 규격": "HDMI 1.3a",
+    "케이블 길이": "1M",
+    "커넥터 구성": "Display Port (M) - Display Port (F)",
+    "차폐 구조": "3중 차폐 쉴드 (고밀도 편조쉴드, 알루미늄쉴드, 알루미늄쉴드)",
+    "제조국/원산지": "중국",
+    "제조사/수입사": "라인업시스템(주)",
+    "A/S 소비자상담": "라인업시스템(주) / 070-7018-3386"
+  },
+  "compatibility": [
+    "DisplayPort 단자가 장착된 노트북 및 데스크탑 본체",
+    "DisplayPort 단자가 장착된 모니터",
+    "HDMI 1.3a 규격 디스플레이",
+    "DVI (싱글 링크 DVI, 듀얼 링크 DVI) 규격 디스플레이",
+    "VGA(RGB) 규격 디스플레이",
+    "멀티 펑크션 모니터",
+    "CRT 모니터 (변환 케이블 사용 시)"
+  ],
+  "package_contents": [
+    "DisplayPort 연장 케이블 (DP M - DP F, 1M) 1개"
+  ],
+  "usage_instructions": "DisplayPort 단자가 있는 본체 또는 노트북의 DP 포트에 케이블의 M(수) 커넥터를 연결하고, 반대쪽 F(암) 커넥터에 모니터 케이블을 연결하여 사용합니다. 케이블을 분리할 때는 커넥터의 화살표 버튼을 눌러 고정핀을 해제한 후 당겨서 뽑으세요.",
+  "cautions": [
+    "구매 전 본 제품을 연결할 기기에 DisplayPort 단자가 있는지 반드시 확인 후 구매하시기 바랍니다.",
+    "디스플레이포트 케이블을 분리할 때는 화살표 버튼을 눌러 고정핀을 해제한 후 뽑아야 합니다. 버튼을 누르지 않고 강제로 뽑으면 단자가 손상될 수 있습니다.",
+    "제조사 사정에 따라 커넥터의 모양이 임의 변경될 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 의거하여 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DP-MF-1M",
+      "품목코드": "CAB-젠DP113",
+      "품목명": "[10925]DP 1.1케이블, 디스플레이포트 연장케이블 M/F, 4K*2K/ 60HZ, Black, 1M(LANstar)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DisplayPort"
+      ],
+      "output_signals": [
+        "DisplayPort"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1440p",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "HDMI1.3a",
+      "dp_version": "DP1.1a",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DisplayPort 단자가 있는 본체",
+    "connectivity.output_signals": "모니터 케이블을 연결하여 사용합니다",
+    "connectivity.directional": "초고속 양방향 데이터 전송 지원",
+    "form_physical.length_meters": "케이블 길이: 1M",
+    "audio_video.max_resolution": "1,920×1,200 해상도 지원",
+    "audio_video.audio_pass": "2채널 스테레오 및 5.1채널, 7.1채널 입체음향 지원",
+    "family.hdmi_version": "HDMI 1.3a 규격 지원",
+    "family.dp_version": "DisplayPort Ver1.1a 규격 지원",
+    "family.optical_core": "3중 차폐 쉴드"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:38",
+  "feature_schema_version": "1.0.0"
+}

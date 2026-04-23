@@ -1,0 +1,141 @@
+{
+  "model_no": "LS-HDP4",
+  "product_name": "4채널 HD CCTV 비디오 리시버 패시브타입",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP",
+    "UTP포트",
+    "CCTV파워"
+  ],
+  "key_features": [
+    "HD-AHD / HD-TVI / HD-CVI 규격 CCTV 4대를 UTP 케이블 하나로 동시 수신 가능",
+    "패시브 방식으로 별도 전원 불필요",
+    "전송 거리: 규격 및 해상도에 따라 최소 250m ~ 최대 450m",
+    "RJ45 포트 및 터미널블록 두 가지 연결 방법 선택 가능",
+    "CAT.5E/6 UTP 케이블 사용",
+    "벽면, 책상, 바닥, 전면 등 원하는 위치에 고정 가능",
+    "아날로그 방식 카메라와도 호환 가능"
+  ],
+  "specifications": {
+    "채널 수": "4채널 (4CH)",
+    "전송 방식": "패시브(Passive) 방식",
+    "지원 규격": "HD-AHD, HD-TVI, HD-CVI",
+    "사용 케이블": "CAT.5E/6 UTP 케이블",
+    "연결 포트": "RJ45, 터미널블록",
+    "최대 전송 거리 (AHD 720P)": "320m",
+    "최대 전송 거리 (AHD 1080P)": "250m",
+    "최대 전송 거리 (HD-TVI 720P)": "250m",
+    "최대 전송 거리 (HD-TVI 1080P)": "250m",
+    "최대 전송 거리 (HD-CVI 720P)": "450m",
+    "최대 전송 거리 (HD-CVI 1080P)": "250m",
+    "제품 크기": "10.4cm x 5.2cm x 2.8cm",
+    "전원": "불필요 (패시브 방식)",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "인증 마크": "KC, FCC, CE, RoHS, ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "HD-AHD 카메라 (삼성테크원, 나다텔)",
+    "HD-TVI 카메라 (HIKVISION)",
+    "HD-CVI 카메라 (DAHUA)",
+    "아날로그 방식 CCTV 카메라",
+    "HD DVR 기기",
+    "CAT.5E/6 UTP 케이블",
+    "1CH 수신기 (각 채널별 연결)"
+  ],
+  "package_contents": [
+    "4CH 패시브 비디오 발룬 본체 (LS-HDP4) 1개",
+    "벽면 고정용 나사 (별도 구매 필요)"
+  ],
+  "usage_instructions": "1. CAT.5E/6 UTP 케이블을 RJ45 포트 또는 터미널블록 포트 중 설치 환경에 맞는 방법으로 연결한다. 2. 각 CH1~CH4 포트에 HD CCTV 카메라(1CH 수신기 경유)를 연결한다. 3. UTP 케이블 반대편은 HD DVR 기기에 연결한다. 4. 패시브 방식으로 별도 전원 연결 없이 사용 가능하다. 5. 필요 시 벽면, 책상, 바닥 등 원하는 위치에 나사로 고정한다(나사는 별도 구매).",
+  "cautions": [
+    "고정용 나사는 별도 구매 필요",
+    "전송 거리는 사용자의 설치 환경 및 케이블 상태에 따라 차이가 있을 수 있음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "RoHS 준수: 납, 수은, 카드뮴 등 중금속 사용 제한 지침 준수 제품"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDP4",
+      "품목코드": "INT-DVR099",
+      "품목명": "[LANstar] 4채널 HD CCTV 비디오 리시버, 패시브타입 [20166]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 포트 및 터미널블록",
+    "connectivity.directional": "UTP 케이블 하나로 동시 수신",
+    "connectivity.port_count": "4채널 (4CH)",
+    "power.power_mode": "패시브 방식으로 별도 전원 불필요",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "AHD 1080P",
+    "audio_video.hdcp_version": "N/A",
+    "family.cat_category": "CAT.5E/6 UTP 케이블 사용",
+    "family.shielding": "UTP 케이블",
+    "family.poe_support": "패시브 방식으로 별도 전원 불필요"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:35",
+  "feature_schema_version": "1.0.0"
+}

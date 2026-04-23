@@ -1,0 +1,232 @@
+{
+  "model_no": "LS-UTP5H",
+  "product_name": "LAN Star CAT.5E UTP 통신공사용 박스케이블 블랙 300M",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP"
+  ],
+  "key_features": [
+    "CAT.5E UTP 단선(Solid) 케이블, 100MHz 대역폭, 최대 1Gbps 전송속도 지원",
+    "1000BASE-T 규격 지원",
+    "24AWG 굵기 사용으로 잡음이 적고 안정적인 전송 가능",
+    "CCA(Copper Coated Aluminum) 소재: 알루미늄 코어 외부에 구리 피복, 일반 저가형 대비 구리 함유량 높음",
+    "4페어 트위스트(Twisted 4Pair) 구조 및 십자형 차단막으로 신호 간섭 방지",
+    "통신공사용 박스 케이블 형태(300M 권취)",
+    "FLUKE TEST PASS 인증(80M 기준, TIA Cat 5e Channel 기준 통과)",
+    "RoHS 준수(납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입(라인업시스템(주))",
+    "CAT.5E UTP 단선(Solid) 케이블, 300M 박스 타입",
+    "100MHz 대역폭 지원, 최대 1Gbps 전송속도 (1000BASE-T)",
+    "24AWG 사용으로 잡음이 적고 안정적인 전송 가능",
+    "CCA(Copper Coated Aluminum) 소재 – 일반 저가형 대비 구리 함유량 높음",
+    "4페어 트위스트 구조 + 십자형 차단막으로 신호 간섭 방지",
+    "FLUKE TEST PASS (80M 기준, TIA Cat 5e Channel, Headroom 8.4 dB)",
+    "RoHS 준수, ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 (제조사: 라인업시스템(주))"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.5E UTP",
+    "최대 전송속도": "1Gbps",
+    "대역폭": "100MHz",
+    "케이블 길이": "300M",
+    "케이블 소재": "CCA (Copper Coated Aluminum)",
+    "도체 규격": "24AWG",
+    "케이블 구조": "UTP 단선(Solid), Twisted 4Pair, PVC 외부 피복, PE 절연 / UTP 단선(Solid), 4페어 트위스트, 십자형 차단막, PVC 외부 피복, PE 절연",
+    "지원 규격": "1000BASE-T",
+    "작동온도": "섭씨 80도",
+    "제품 색상": "블랙",
+    "박스 크기": "380mm x 210mm x 370mm / 380mm x 210mm x 370mm (가로 x 세로 x 높이 추정)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증 번호": "해당없음",
+    "색상": "Grey"
+  },
+  "compatibility": [
+    "1000BASE-T",
+    "100BASE-TX",
+    "10BASE-T",
+    "100BASE-T4",
+    "ATM-25",
+    "ATM-51",
+    "ATM-155",
+    "100VG-AnyLan",
+    "TR-4",
+    "TR-16 Active",
+    "TR-16 Passive"
+  ],
+  "package_contents": [
+    "CAT.5E UTP 통신공사용 박스케이블 300M (블랙) x 1",
+    "CAT.5E UTP 통신공사용 박스케이블 300M (1개)"
+  ],
+  "usage_instructions": "다이렉트 케이블(568B-568B) 또는 크로스 케이블(568B-568A) 핀 배열로 제작하여 사용 가능. FLUKE TEST는 80M 기준이므로 80M 이하로 제작하여 사용 권장. 단선 케이블 특성상 고정 배선(통신공사용)에 적합하며, 이동이 잦은 환경에는 연선(Stranded) 케이블 사용 권장.",
+  "cautions": [
+    "FLUKE TEST는 80M 기준이므로 80M를 초과하여 제작 시 성능 보장 불가, 80M 이하로 제작 사용 권장",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "본 제품은 단선(Solid) 케이블로 통신공사용 고정 배선에 적합하며, 반복적인 굴곡·이동 환경에는 부적합",
+    "저항값 및 허용전류 수치는 구리(CU) 기준이며, CCA 소재 특성상 실제 값은 상이할 수 있음",
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UTP5H-300MG",
+      "품목코드": "CAB-U5박003",
+      "품목명": "[LANstar] 통신공사용 CAT.5E HUTP BOX 300M Grey [10111] (2개)",
+      "variant_suffix": "-300MG",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-UTP5H-300MBK",
+      "품목코드": "CAB-U5박045",
+      "품목명": "[LANstar] 통신공사용 CAT.5E High, 300M(305M), 검정[10112] (2개)",
+      "variant_suffix": "-300MBK",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-UTP5H-300MBK",
+      "내용": "상품이 좋아요 😀👍😀👍"
+    },
+    {
+      "source_model": "LS-UTP5H-300MBK",
+      "내용": "좋은상품 감사합니다~~\n다음에 재구매하도록 하겠습니다\n대박나세요~~"
+    },
+    {
+      "source_model": "LS-UTP5H-300MBK",
+      "내용": "케이블이 안에서 계속 꼬여서 진짜 욕 나옵니다."
+    },
+    {
+      "source_model": "LS-UTP5H-300MG",
+      "내용": "가성비로 무난한 현장에 사용하기에는 좋아요.",
+      "관련내용": "가성비 utp로 추천이요~ cctv배선으로 사용중인데 괜찮네요 ㅎㅎ"
+    },
+    {
+      "source_model": "LS-UTP5H-300MG",
+      "내용": "cctv포설시 가성비로 사용하기는 딱 좋네요~",
+      "관련내용": "가성비로 사용하기에는 좋은데 케이블 박스에서 뽑을때마다 걸리는 경우가 많이 생기네요 ㅎㅎ\nUTP 5E나 UTP6나 동일증상이 많이 있지만 브랜드 케이블드보다 저렴해서 계속 쓰고있네요~"
+    },
+    {
+      "source_model": "LS-UTP5H-300MG",
+      "내용": "가격은 좋은데 구리선이 얇아서 업체에서 지적사항이 나왔네요 ㅎㅎ",
+      "관련내용": "빠른배송 감사합니다~"
+    },
+    {
+      "source_model": "LS-UTP5H-300MG",
+      "내용": "가성비 utp로 추천이요~ cctv배선으로 사용중인데 괜찮네요 ㅎㅎ"
+    },
+    {
+      "source_model": "LS-UTP5H-300MG",
+      "내용": "가성비로 사용하기에는 좋은데 케이블 박스에서 뽑을때마다 걸리는 경우가 많이 생기네요 ㅎㅎ\nUTP 5E나 UTP6나 동일증상이 많이 있지만 브랜드 케이블드보다 저렴해서 계속 쓰고있네요~"
+    },
+    {
+      "source_model": "LS-UTP5H-300MG",
+      "내용": "빠른배송 감사합니다~"
+    },
+    {
+      "source_model": "LS-UTP5H-300MG",
+      "내용": "배송빠르고 좋아용 !"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-UTP5H-300MG",
+      "id": 172432442,
+      "date": "2021-06-28 22:12",
+      "answerDate": "2021-06-29 16:38",
+      "user": "hell****",
+      "productName": "통신공사용 CAT.5E HUTP BOX 300M Grey LS-UTP5H-300MG",
+      "question": "통신용으로 사용시 저가형과 어떤 부분이 차이가 날까요?\n둘다 24AWG 아닌가요?",
+      "answer": "안녕하세요 랜스타 입니다\n\n구리 함유량에 차이가 있습니다"
+    },
+    {
+      "source_model": "LS-UTP5H-300MBK",
+      "id": 670151686,
+      "date": "2026-04-10 09:20",
+      "answerDate": "2026-04-13 16:03",
+      "user": "eprn****",
+      "productName": "랜스타 통신공사용 랜케이블 CAT5E High 300M 검정 LS-UTP5H-300MBK",
+      "question": "통신공사용은 뭐가 더좋은가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n통신공사용 랜케이블은 일반 케이블 대비 아래와 같은 장점이 있습니다.\n\n- 순동(Pure Copper) 도체 사용으로 신호 품질이 우수하고 장거리 전송에 유리합니다\n- 난연 PVC 외피 적용으로 화재 안전성이 높습니다\n- 벽 매립, 천장 배선 등 건물 인입 공사에 적합합니다\n- 내구성이 뛰어나 장기간 안정적인 사용이 가능합니다\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-UTP5H-300MG": "LAN Star\nCAT.5E UTP 통신공사용 박스케이블\n저가형 일반 랜케이블보다 높은 구리함유량\nLS-UTP5H-300MG\nRLAN tar\nHigh Quality Copper\n통신공사용 랜케이블CAT.5E\nHigh Quality Copper\n트시공사와 케이블\nCAT.5E LAN Cable\n300M\nCAT.5E\n100MHz\n24AWG\nCAT.5E UTP 단선\n100MHz 대역폭\n안정성이 뛰어난\n24AWG 사용\nCAT.5E UTP CABLE\n1000BASE-T 지원\n1000BASE-T를 지원하는 CAT.5E 규격의 UTP 랜케이블로\n100MHz 대역폭을 지원하여 최대 1Gbps의 전송속도를 나타냅니다.\n케이블 비교\nCAT.5E\nCAT.6\nCAT.6A/CAT.7\nCAT.8\n대역폭\n100MHz\n250MHz\n500MHz/600MHz\n2000MHz\n전송속도\n1Gbps\n1Gbps\n10Gbps\n40Gbps\n규격\n1000BASE-T\n1000BASE-TX\n10GBASE-T\n40GBASE-T\nCABLE STRUCTURE\nCAT.5E UTP 단선 케이블로 제작용 박스 케이블입니다.\n신호간섭 방지를 위한 십자형 차단막과 트위스트 페어 구조로 이루어져 있습니다.\nPair\n\n\nPair\nTwisted 4Pair\n4페어 꼬임방식의 케이블로 노이즈를 방지합니다.\nPVC\n외부 피복\nPE 절연\nTwisted Pair\nSolid Cable\n단선(線) 케이블\n하나의 구리선으로 데이터 전송을 하여\n외부 간섭을 덜받아 안정적인 전송이 가능합니다.\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선\n여러 가닥의 구리선\n강화된 CCA 재질\nCopper Coated Aluminum\n알루미늄 코어 바깥 부분에 구리를 씌운 CCA 구조의 케이블로 CU 케이블에 비해\n가볍고, 순수 알루미늄에 비해 전기 전도성이 높으며 강도가 뛰어납니다.\n일반 저가형 케이블에 비해 구리 함유량이 높아\n통신공사용으로 적합한 케이블입니다.\n구리\n알루미늄\n\n\n구리\n알루미늄\n24AWG\nAmerican Wire Gauge\n케이블 내심의 굵기를 표시하는 단위로 AWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 전송에 적합합니다.\n40\n16\n설치가 용이하며\n저화질 전송에 적합\n설치가 까다로우나\n잡음이 적고\n안정적인 전송이 가능\nAWG\n직경(Inch)\n직경(mm)\n단면적(㎡)\n저항(요/m)\n허용전류(A)\n20\n20\n0.032\n0,812\n0,518\n0,0333\n4,5\n495\n21\n221\n0.0285\n0.723\n0.41\n0.042\n3.8\n222\n22\n0,0253\n0,644\n0,326\n0.053\n3,0\n223\n0,0226\n0,573\n0,258\n0.0668\n2,2\n24\n24\n0.0201\n0.511\n0,205\n0.0842\n0.588\n25\n0.0179\n0.455\n0,162\n0.106\n0.477\n26\n20\n0.0159\n0.405\n0.129\n0.134\n0.378\n22\n27\n0.0142\n0,361\n0.102\n0,169\n0,288\n28\n28\n0.0126\n0.321\n0.081\n0.213\n0,250\n29\n20\n0.0113\n0,286\n0.0642\n0.268\n0,212\n30\n30\n0.01\n0,255\n0.0509\n0,339\n0.147\n※ 저항값, 허용전류는 구리 기준입니다.\n랜 케이블 핀 배열도\n랜 케이블은 Direct 핀배열과 Cross 핀 배열로 연결할 수 있습니다.\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n주황/흰색\n1\n1 주황/흰색\n주황/흰색 1\n1 녹색/흰색\n주황 2\n2 주황\n주황 2\n2 녹색\n녹색/흰색 3\n3 녹색/흰색\n녹색/흰색 3\n3 주황/흰색\n\n\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 주황/흰색\n주황/흰색 1\n1 녹색/흰색\n주황/흰색 1\n주황 2\n2 주황\n주황 2\n2 녹색\n녹색/흰색 3\n3 녹색/흰색\n녹색/흰색 3\n3 주황/흰색\n청색\n4\n4 청색\n청색 4\n4 청색\n5 청색/흰색\n청색/흰색 5\n5 청색/흰색\n청색/흰색 5\n녹색 6\n6 녹색\n녹색 6\n6 주황\n7 갈색/흰색\n갈색/흰색 7\n7 갈색/흰색\n갈색/흰색 7\n갈색 8\n8 갈색\n갈색 8\n8 갈색\nFLUKE TEST PASS\nLW LINKWARE™PC\nCABLE TEST MANAGEMENT SOFTWARE\nCable ID: LS-CAT.5E-HUTP-80M\nDate/Time: 12/09/2021 02:44:27 PM\nHeadroom 8.4 dB (NEXT 36-45)\nTest Limit: TIA Cat 5e Channel\nCable Type: Cat 5e U/UTP\nNVP: 69.0%\nOperator: Your Name\nSoftware Version: 2.7700\nLimits Version: 1.9400\nCalibration Date:\nMain (Tester): 05/13/2015\nRemote (Tester): 05/13/2015\nTest Summary: PASS\nModel: DTX-1800\nMain S/N: 9890001\nRemote S/N: 9890002\nMain Adapter: DTX-CHA002\nRemote Adapter: DTX-CHA002\n263\n263 ft\n398\nLength (ft), Limit 328\nProp. Delay (ns), Limit 555\nDelay Skew (ns), Limit 50\nResistance (ohms)\n[Pair 45]\n[Pair 12]\n[Pair 12]\n[Pair 12]\n11\n23.6\nInsertion Loss (dB)\nWire Map (T568B)\nPASS\n3.4\nInsertion Loss Margin (dB)\nFrequency (MHz)\nLimit (dB)\n[Pair 12]\n[Pair 12]\n100.0\nPair 12\n24.0\nWorst Case Margin Worst Case Value\nMAIN\nSR\nMAIN\nSR\n75\n150\n225\n12-36\n45-78\nMHz\n36-45\n8.4\n9.4\n8.4\n45-78\n10.4\n64.0\n33.4\nNEXT (dB)\nPASS\nWorst Pair\nNEXT (dB)\nFreq. (MHz)\nLimit (dB)\nWorst Pair\nPS NEXT (dB)\nFreq. (MHz)\nLimit (dB)\nNEXT@Remote (dB)\n21.4\n41.5\n27.6\n39.6\n79.5\n31.8\n45\n45\n45\n12\n10.8\n2.5\n53.9\n9.6\n80.5\n12.5\n74.5\n9.6\n80.5\n28.7\n28.7\n29.3\n20\nMAIN\nSR\nMAIN\nSR\n75\n150\n225\n300\n150\n225\nMHz\nMHz\n78-12\n8.7\n12-78\n9.0\n78-12\n10.5\n12-78\n11.3\nACR-F (dB)\nACR-F @ Remote (dB)\n99.0\nPASS\nWorst Pair\nACR-F (dB)\nFreq. (MHz)\nLimit (dB)\nWorst Pair\nPS ACR-F (dB)\nFreq. (MHz)\nLimit (dB)\n33.3\n27.0\n33.3\n27.0\n99.0\n17.5\n17.5\n12\n12\n78\n11.1\n11.1\n78\n11.1\n98.3\n14.6\n33.3\n24.0\n12.0\n99.0\n14.5\n98.3\n14.6\nMAIN\nSR\nMAIN\nSR\n75\n150\n225\n300\n150\n225\n300\n36-45\n12-45\n45-78\nMHz\nMHz\n12-36\n108\n10.0\n27.6\n11.8\n79.5\nACR-NRemote (dB)\n21.4\nACR-N (dB)\nN/A\nWorst Pair\nACR-N (dB)\nFreq. (MHz)\nLimit (dB)\nWorst Pair\nPS ACR-N (dB)\nFreq. (MHz)\nLimit (dB)\n18.0\n90.5\n8.1\n31.0\n27.6\n10.6\n12\n12\n45\n45\n10.6\n11.1\n17.3\n12.9\n2.9\n90.5\n80.8\n2.5\n50.4\n0\n49.1\n5.1\n7.3\nMAIN\nSR\nMAIN\nSR\n225\n225\n36\n45\n36\n45\nMHz\nPASS\nWorst Pair\nRL (dB)\nFreq. (MHz)\nLimit (dB)\n8.8\n11.0\n5.7\n58 3\n5.7\n58 3\nRL (dB)\nRL @ Remote (dB)\n3.0\n74.5\n100\n17.0\n12.4\n11.3\n12.4\n100BASE-T4\nCompliant Network Standards\n10BASE-T\n100BASE-TXTOUBASE\n1000BASE-T\nATM-25\nATM-155\n100VG-AnyLan\nTR-16 Active\nTR-16 Passive\nالاموسا -\nATM-51\nTR-4\n%\n%\n79\n225\n300\n75\n150\n225\n300\nMHz\nMHz\nLinkWare™PC Version 9.6\nSite: NMS\nProject: DEFAULT\nUntitled1\nFLUKE\nnetworks.\nFLUKE TEST 안내사항\nFLUKE TEST는 80M 기준입니다. 80M까지 제작하여 사용하시길 권장드리며\n제품 구매시 참고하여 주시기 바랍니다.\nPRODUCT SIZE\n380mm\n210mm\nLAN tar\nHigh Quality Copper\n통신공사용 랜케이블CAT \n5E\nHigh Quality Copper\n토시공사용 케이블\nCAT.5E LAN Cable\n370mm\n18x\n300M\nSPECIFICATION\n케이블 규격\nCAT.5E UTP\n\n\nSPECIFICATION\n케이블 규격\nCAT.5E UTP\n최대전송속도\n1Gbps\n역폭\n100MHz\n대케\n케이블 길이\n300M\n케이블 소재\nCCA\n작동온도\n섭씨 80도\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nROHS\nCOMPLIANT\nMERTONIN\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\nLAN Star\n불이익을 당할 수 있습니다.\n상품 정보\n품\n명\nCAT.5E UTP 통신공사용 박스케이블, Grey\nLAN Star\n모\n델\n명\nLS-UTP5H-300MG\n인증 번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사 / 수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "PVC",
+        "PE"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        300
+      ],
+      "color_options": [
+        "블랙",
+        "Grey"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": "단선(solid)",
+      "awg": 24,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "통신공사용 박스 케이블 형태(300M 권취)",
+    "form_physical.material": "PVC 외부 피복, PE 절연",
+    "form_physical.length_options_meters": "300M 박스 타입",
+    "form_physical.color_options": "제품 색상: 블랙",
+    "certification.rohs": "RoHS 준수(납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.cat_category": "CAT.5E UTP 단선(Solid) 케이블",
+    "family.shielding": "CAT.5E UTP 단선(Solid) 케이블",
+    "family.conductor": "CAT.5E UTP 단선(Solid) 케이블",
+    "family.awg": "24AWG 굵기 사용으로 잡음이 적고",
+    "family.pair_count": "4페어 트위스트(Twisted 4Pair) 구조",
+    "family.flame_rating": "PVC 외부 피복, PE 절연"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:13",
+  "feature_schema_version": "1.0.0"
+}

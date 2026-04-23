@@ -1,0 +1,235 @@
+{
+  "model_no": "LS-UCHD4",
+  "product_name": "LANStar USB A/C to HDMI 4포트 컨버터 (LS-UCHD4)",
+  "category": [
+    "USB3.0",
+    "컨버터",
+    "멀티비전"
+  ],
+  "key_features": [
+    "USB 3.0 A타입 및 USB C타입 동시 호환",
+    "HDMI 출력 4포트 지원 (최대 4대 디스플레이 연결)",
+    "1080P@60Hz 해상도 출력 (4포트 모두 동일)",
+    "디스플레이 확장(Extend), 복제(Mirror), 회전(Windows 전용), 클램쉘(Mac/Windows) 모드 지원",
+    "Windows, Mac OS, Android, Chrome OS 등 다양한 운영체제 지원",
+    "드라이버 설치 방식 (디스플레이 알트 모드 미지원 기기에서도 사용 가능)",
+    "알루미늄 + ABS 재질 본체",
+    "DC 5V C타입 전원 케이블로 전원 공급",
+    "국립전파연구원 KC 인증 획득 (R-R-LUS-LS-UCHD4)",
+    "라인업시스템(주) / 랜스타 정품 수입·유통",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "입력": "USB 3.0 A포트 / USB C 포트 (USB A to C 변환 젠더 포함)",
+    "출력": "HDMI 4포트",
+    "USB 규격": "USB 3.0 (USB 3.1 Gen 1)",
+    "지원 해상도": "1080P@60Hz (확장/복제 모드 모두 동일)",
+    "전원": "DC 5V C타입 전원 케이블",
+    "작동 온도": "0°C - 60°C",
+    "크기": "116 x 90 x 12 (mm)",
+    "무게": "약 140g",
+    "케이블 길이": "약 20cm",
+    "재질": "알루미늄 + ABS",
+    "KC 인증번호": "R-R-LUS-LS-UCHD4",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "Windows 7 / 8 / 10 / 11 (PC, 노트북)",
+    "Mac OS 10.10 이상 (맥북, 썬더볼트3 지원 모델 포함)",
+    "Android 7.1 이상 (미러링 모드만 지원, 디스플레이 알트 모드 지원 기기)",
+    "Chrome OS",
+    "아이패드 (미러링 복제 모드만 지원)",
+    "스마트폰 Android (미러링 어플 필요, 복제 모드만 지원)",
+    "아이폰 미러링 미지원",
+    "삼성 덱스 미지원",
+    "USB 3.0 A타입 포트 (파란색 또는 SS 표시 포트)",
+    "USB C타입 포트 (USB A to C 변환 젠더 사용 가능)",
+    "연결 디스플레이: TV, 모니터, 빔 프로젝터"
+  ],
+  "package_contents": [
+    "USB A/C to HDMI 4포트 컨버터 본체 (LS-UCHD4)",
+    "USB A to C 변환 젠더",
+    "DC 5V A to C 전원 케이블"
+  ],
+  "usage_instructions": "1. 제품을 PC(노트북)에 연결하기 전에 반드시 드라이버를 먼저 설치해야 합니다. (Windows, Mac 모두 해당)\n2. 제품을 PC에 연결하면 CD 드라이브 장치(USB Display)가 여러 개 생성됩니다. 그 중 하나를 더블클릭하여 드라이버 설치를 진행하세요.\n3. USB A타입 연결 시 반드시 USB 3.0 포트(파란색 또는 SS 표시)에 연결해야 정상 출력됩니다. USB 2.0 포트 사용 시 정상 출력이 되지 않을 수 있습니다.\n4. USB C타입 연결 시 동봉된 USB A to C 변환 젠더를 사용하세요.\n5. 안정적인 출력을 위해 DC 5V 전원 케이블을 반드시 연결하세요.\n6. Windows 디스플레이 모드 전환: 키보드 'Windows' + 'P' 키로 PC 화면만 / 복제 / 확장 / 두 번째 화면만 중 선택.\n7. Windows 클램쉘 모드 활성화: 제어판 > 전원 옵션 > '덮개를 닫으면 수행할 작업'에서 배터리 사용 및 전원 사용 모두 '아무 것도 안 함'으로 변경 후, 'Windows' + 'P' 키로 '두 번째 화면만' 선택.\n8. Mac OS 디스플레이 모드 설정: 시스템 설정 > 디스플레이에서 확장 또는 복제 모드 선택 가능. Mac OS에서는 디스플레이 회전 모드 미지원.\n9. Android 스마트폰·태블릿 사용 시 안드로이드 미러링 어플(전용 어플 없음, 범용 미러링 어플 사용)을 설치하여 복제 모드로 사용.",
+  "cautions": [
+    "제품 사용 전 드라이버 설치 필수 (Windows, Mac 모두 해당). 드라이버 미설치 시 정상 작동 불가.",
+    "USB A타입 연결 시 반드시 USB 3.0 포트(파란색 또는 SS 표시)에 연결. USB 2.0 포트 연결 시 HDMI 출력이 정상적으로 되지 않을 수 있음.",
+    "전원(DC 5V C타입) 반드시 연결 필요. 미연결 시 안정적인 디스플레이 출력 불가.",
+    "HDCP 미지원으로 넷플릭스 등 HDCP 콘텐츠 송출 불가.",
+    "아이폰은 미러링을 지원하지 않음.",
+    "삼성 덱스 모드 미지원.",
+    "Android 스마트폰·태블릿은 복제(미러링) 모드만 지원. 안드로이드 미러링 어플 별도 설치 필요. 전용 어플은 없으며 범용 안드로이드 미러링 어플 사용.",
+    "디스플레이 회전 모드는 Windows 기반 PC 및 노트북에서만 지원. Mac OS 미지원.",
+    "스마트폰·태블릿의 4대 디스플레이 동시 출력은 복제 모드만 가능.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처 제품은 정품이 아니며 A/S 불가.",
+    "제조사 사정에 따라 제품 색상 및 사양이 예고 없이 변경될 수 있음.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UCHD4",
+      "품목코드": "COM-외장형734",
+      "품목명": "[LANstar] USB3.0 A/C to HDMI 4포트 컨버터 쿼드모니터, 멀티비전 [30883] (30개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-UCHD4",
+      "내용": "잘 사용하고 있습니다 ~"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-UCHD4",
+      "id": 634641477,
+      "date": "2025-07-09 14:28",
+      "answerDate": "2025-07-10 09:07",
+      "user": "lhb5***",
+      "productName": "노트북 모니터 4개 연결 맥북 4포트 컨버터 디스플레이 확장 복제 미러링 LS-UCHD4",
+      "question": "안녕하세요.\n제품 \"LS-UCHD4\" 과 관련하여 문의 드립니다.\n본 제품 상세정보 페이지를 보면 C타입 포트로 사용시 \"DP Altermate Mode\" 를 지원해야 사용이 가능하다고 안내되어 있는데요.\nA타입(USB3.0) 포트로 사용시 지원여부와 상관 없이 드라이버 설치 후 사용이 가능한가요?\n확인 부탁드립니다.\n감사합니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n지원해야 사용이 가능하십니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-UCHD4",
+      "chatUrl": "nk6O",
+      "dateIso": "2025-07-09T05:49:05.735Z",
+      "name": "Unitas BRYAN",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "죄송한데 DP포트가 뭔지몰라서요",
+      "answer": "노트북 모니터에 전부 DP포트가 있다면 사용가능합니다. 변환젠더 사용은 불가하며 DP신호로만 사용 가능합니다. 빠르고 성실한 답...\n\n네. 고객님. pc1대에 모니터 3대 이용하신다면 LS-UCHD4 추천드립니다.\n\nhttps://smartstore.naver.com/lineup/products/11432952988",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "알겠습니다. 감사합니가"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n3구는 없습니다."
+        },
+        {
+          "role": "customer",
+          "text": "이건 4구인데"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n확장도 가능하십니다."
+        },
+        {
+          "role": "customer",
+          "text": "복제로만 되어있어서"
+        },
+        {
+          "role": "agent",
+          "text": "https://smartstore.naver.com/lineup/products/11432952988"
+        },
+        {
+          "role": "customer",
+          "text": "링크부탁들여요"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\npc1대에 모니터 3대 이용하신다면 LS-UCHD4 추천드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "죄송한데 DP포트가 뭔지몰라서요"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n노트북 모니터에 전부 DP포트가 있다면 사용가능합니다. \n변환젠더 사용은 불가하며 DP신호로만 사용 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답..."
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "USB-C"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄",
+        "플라스틱"
+      ],
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 A포트 / USB C 포트",
+    "connectivity.output_signals": "HDMI 출력 4포트 지원",
+    "connectivity.directional": "HDMI 출력 4포트 지원",
+    "connectivity.port_count": "HDMI 출력 4포트 지원",
+    "power.power_mode": "DC 5V C타입 전원 케이블로 전원 공급",
+    "power.charging_support": "DC 5V C타입 전원 케이블로 전원 공급",
+    "form_physical.has_case": "알루미늄 + ABS 재질 본체",
+    "form_physical.material": "알루미늄 + ABS 재질 본체",
+    "form_physical.length_meters": "케이블 길이: 약 20cm",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "audio_video.max_resolution": "1080P@60Hz 해상도 출력",
+    "family.usb_version": "USB 3.0 A타입 및 USB C타입 동시 호환",
+    "family.charging_only": "USB 3.0 A/C to HDMI 4포트 컨버터",
+    "family.data_only": "USB 3.0 A/C to HDMI 4포트 컨버터"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:02",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

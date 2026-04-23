@@ -1,0 +1,135 @@
+{
+  "model_no": "LS-SMUM",
+  "product_name": "스마트폰 충전/통신케이블 (USB A/M to Micro B/M Cable)",
+  "category": [
+    "USB2.0",
+    "젠더"
+  ],
+  "key_features": [
+    "USB 2.0 규격 지원으로 쾌속 충전 및 데이터 전송 가능",
+    "USB A 타입 단자와 마이크로 B 5핀 단자 구성",
+    "PC, 노트북, USB 충전기(차량용/가정용) 모두 사용 가능",
+    "별도 젠더 없이 스마트폰에 바로 연결 가능",
+    "Apple 공식 인증 브랜드(LANstar)",
+    "케이블 길이 1.5M",
+    "무게 19g"
+  ],
+  "specifications": {
+    "USB 규격": "USB 2.0",
+    "커넥터 타입": "USB A Male to Micro B 5핀 Male",
+    "케이블 길이": "1.5M",
+    "무게": "19g",
+    "품명": "USB 2.0 케이블",
+    "모델명": "LS-SMUM-1.5MB",
+    "브랜드": "LAN Star",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "마이크로 B 5핀 단자 사용 스마트폰",
+    "삼성 갤럭시A (SHW-M100S)",
+    "삼성 갤럭시S (SHW-M110S)",
+    "삼성 갤럭시U (SHW-M130L)",
+    "삼성 갤럭시K (SHW-M130K)",
+    "삼성 Anycall 인사이트",
+    "LG CYON 안드로원 (LG-KU2000)",
+    "LG 옵티머스원 (LG-KH5200)",
+    "LG LG-KU3700",
+    "HTC HD2",
+    "HTC 디자이어 (Desire)",
+    "HTC 디자이어팝 (DesirePop)",
+    "HTC 레전드 (Legend)",
+    "HTC 넥서스원 (NexusOne)",
+    "BlackBerry BOLD 9700",
+    "Motorola 모토로이 (XT720)",
+    "Motorola 모토쿼티 (A853)",
+    "Motorola 모토글램 (XT800W)",
+    "Nokia X6",
+    "MP3 플레이어 (마이크로 B 5핀 단자 사용 기기)",
+    "게임기 (마이크로 B 5핀 단자 사용 기기)",
+    "디지털카메라 (마이크로 B 5핀 단자 사용 기기)",
+    "PC 및 노트북 USB 단자",
+    "차량용 USB 충전기",
+    "가정용 USB 충전기(어댑터)"
+  ],
+  "package_contents": [
+    "USB 2.0 충전/통신 케이블 (USB A Male to Micro B 5핀, 1.5M) 1개"
+  ],
+  "usage_instructions": "1. 컴퓨터, 노트북 또는 USB 충전기의 USB 잭에 케이블의 USB 2.0 단자를 연결합니다. 2. 케이블의 마이크로 B 5핀 단자를 스마트폰의 충전잭에 연결합니다. 3. 스마트폰 화면의 배터리 충전 표시를 확인하여 작동 여부를 점검합니다. 4. 케이블 연결 상태에서 데이터 통신 및 배터리 충전을 동시에 이용할 수 있습니다. 5. 작업 완료 후 케이블을 분리합니다. [차량용] 차량 시거잭에 장착된 USB 충전기에 케이블 USB 2.0 단자를 연결하여 사용합니다(시동 시 충전기 빨간불 점등). [가정용] 콘센트에 꽂힌 USB 충전기에 케이블 USB 2.0 단자를 연결하여 사용합니다(연결 시 파란불 점등).",
+  "cautions": [
+    "스마트폰 모두가 마이크로 B 단자를 사용하지 않으니 구매 전 단자 모양을 꼭 확인하시기 바랍니다.",
+    "제품을 임의로 분해할 경우 교환 및 환급이 불가합니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상해드립니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SMUM-1.5MB",
+      "품목코드": "CAB-USM007",
+      "품목명": "[LANstar] USB2.0 MICRO케이블 , A／M-MICRO B／M, 1.5M [10826] (Blister)",
+      "variant_suffix": "-1.5MB",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true
+    },
+    "form_physical": {
+      "has_case": false,
+      "length_meters": 1.5
+    },
+    "certification": {
+      "kc": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A 타입 단자와 마이크로 B 5핀 단자",
+    "connectivity.output_signals": "마이크로 B 5핀 단자",
+    "connectivity.directional": "데이터 통신 및 배터리 충전을 동시에 이용",
+    "power.power_mode": "USB 충전기(차량용/가정용) 모두 사용 가능",
+    "power.charging_support": "쾌속 충전 및 데이터 전송 가능",
+    "form_physical.has_case": "케이블 길이 1.5M",
+    "form_physical.length_meters": "케이블 길이 1.5M",
+    "certification.kc": "인증번호: 해당없음",
+    "audio_video.max_resolution": "USB 2.0 규격 지원",
+    "audio_video.hdcp_version": "USB 2.0 규격 지원",
+    "family.usb_version": "USB 2.0 규격 지원",
+    "family.transfer_speed_gbps": "USB 2.0 규격 지원",
+    "family.charging_only": "쾌속 충전 및 데이터 전송 가능",
+    "family.data_only": "쾌속 충전 및 데이터 전송 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:36",
+  "feature_schema_version": "1.0.0"
+}

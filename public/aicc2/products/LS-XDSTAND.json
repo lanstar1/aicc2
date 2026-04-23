@@ -1,0 +1,132 @@
+{
+  "model_no": "LS-XDSTAND",
+  "product_name": "DESKTOP 'X'형 이동식 스탠드",
+  "category": [
+    "데스크스탠드"
+  ],
+  "key_features": [
+    "바닥의 열, 습기, 먼지로부터 PC를 안전하게 보호",
+    "5개의 탈부착식 바퀴(고정식 레버 포함)로 자유로운 이동 및 고정 가능",
+    "미끄럼 방지용 고무 패드 4개 및 PC 본체 스크래치 방지용 고정 패드 4개 포함",
+    "최대 20kg 하중 지탱 가능",
+    "슬림 PC부터 빅타워 PC까지 다양한 본체 케이스와 호환"
+  ],
+  "specifications": {
+    "최대 거치 PC 케이스 사이즈": "25.5cm",
+    "최대 하중": "20kg",
+    "제품 높이(바퀴 미포함)": "7.8cm",
+    "제품 높이(바퀴 포함)": "12.2cm",
+    "제품 길이": "41cm",
+    "제품 폭": "4cm",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC인증번호": "해당없음",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "슬림 PC 본체",
+    "빅타워 PC 본체",
+    "본체 케이스 폭 최대 25.5cm 이하인 데스크탑 PC"
+  ],
+  "package_contents": [
+    "LS-XDSTAND 본체 1ea",
+    "바퀴 5ea",
+    "스크래치 방지용 고정 패드 4ea",
+    "미끄럼 방지용 고무 패드 4ea"
+  ],
+  "usage_instructions": "제품 하단의 5개 홈에 바퀴를 결합하여 장착. 이동 시 바퀴를 이용해 손쉽게 위치 변경 가능. 고정 시 바퀴의 레버를 아래쪽으로 내려 고정. PC 본체 거치 전 본체 사이즈가 최대 25.5cm 이하인지 확인 후 사용.",
+  "cautions": [
+    "거치 가능한 최대 PC 케이스 사이즈는 25.5cm이므로 구매 전 본체 사이즈를 반드시 확인",
+    "최대 하중 20kg 초과 사용 금지",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)의 동의 없이 상품 및 콘텐츠를 무단 복제·이용 시 불이익을 받을 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-XDSTAND",
+      "품목코드": "MON-거치대135",
+      "품목명": "[LANstar] 컴퓨터 본체 받침대 [30472] (20개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-XDSTAND",
+      "내용": "생각보다 튼튼합니다."
+    },
+    {
+      "source_model": "LS-XDSTAND",
+      "내용": "배송빠르고 좋습니다\n약간부실한거 같기도 하구요"
+    },
+    {
+      "source_model": "LS-XDSTAND",
+      "내용": "사이즈 적당합니다."
+    },
+    {
+      "source_model": "LS-XDSTAND",
+      "내용": "배송빠르네요~잘쓰겠습니다^^"
+    },
+    {
+      "source_model": "LS-XDSTAND",
+      "내용": "배송 잘 받았습니다 튼튼한거 같아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "mount_interface": "Freeform",
+      "weight_capacity_kg": 20,
+      "tilt": null,
+      "swivel": null,
+      "height_adjustable": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "PC를 안전하게 보호",
+    "certification.kc": "KC인증번호: 해당없음",
+    "family.mount_interface": "슬림 PC부터 빅타워 PC까지 다양한 본체 케이스와 호환",
+    "family.weight_capacity_kg": "최대 20kg 하중 지탱 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:43",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,286 @@
+{
+  "model_no": "LS-PCIE-EX1C",
+  "product_name": "PCI-Express 기가랜카드 (PCI-Express Gigabit Ethernet LAN Card)",
+  "category": [
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "Realtek RTL8111C 칩셋 탑재 – 최첨단 DSP 기술과 혼합 모드 신호 기술 채택",
+    "10/100/1000Mbps 기가비트 전송속도 지원",
+    "IEEE 802.3, 10BASE-T/100BASE-TX/1000BASE-T 표준규격 지원",
+    "IEEE 802.3Q VLAN 지원",
+    "IEEE 802.3az Energy Efficient Ethernet(EEE) 지원",
+    "PCI-Express x1 슬롯 규격 (PCI-Express 1.1 준수), 1/4/8/16배속 슬롯 모두 장착 가능",
+    "크로스오버 검출 및 자동 보정, 적응 균등화, 크로스 토크 취소, 에코 취소, 타이밍 복구, 오류 수정 기능 제공",
+    "Windows 11 지원 포함 다양한 OS 지원",
+    "슬림 PC용 브라켓 포함",
+    "국립전파연구원 인증 획득 (인증번호: R-R-LUS-EX1000TN)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "슬롯": "PCI-Express x1",
+    "인터페이스": "PCI Express X1",
+    "칩셋": "Realtek RTL8111C",
+    "전송속도": "10/100/1000Mbps",
+    "Topology": "IEEE 802.3, 10BASE-T/100BASE-TX/1000BASE-T",
+    "지원 표준": "IEEE 802.3z, IEEE 802.3Q VLANs, IEEE 802.3x, IEEE 1588, IEEE 802.3az (Energy Efficient Ethernet)",
+    "지원 OS": "Windows 98SE/ME/Server2000/XP/Server2003/Vista/Win7/Server2008/Win8/Win8.1/Win10/Win11, Linux",
+    "제품 크기": "40mm x 66mm x 118.5mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "R-R-LUS-EX1000TN"
+  },
+  "compatibility": [
+    "PCI-Express x1 슬롯 장착 가능",
+    "PCI-Express x4 슬롯 장착 가능",
+    "PCI-Express x8 슬롯 장착 가능",
+    "PCI-Express x16 슬롯 장착 가능",
+    "PCI-Express 1.1 규격 준수 메인보드",
+    "Windows 98SE/ME/Server2000/XP/Server2003/Vista/Win7/Server2008/Win8/Win8.1/Win10/Win11",
+    "Linux"
+  ],
+  "package_contents": [
+    "PCI-Express 기가랜카드 (LS-PCIE-EX1C) 본체",
+    "슬림 PC용 브라켓"
+  ],
+  "usage_instructions": "데스크탑 PC 메인보드의 PCI-Express 슬롯(x1/x4/x8/x16)에 본 카드를 장착하면 기가비트 랜포트가 생성되며, 컴퓨터 간 데이터 통신 및 인터넷 이용이 가능합니다. 가정, 회사, 서버실, PC방 등 다양한 환경에서 사용할 수 있습니다.",
+  "cautions": [
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담은 랜스타 A/S센터(www.LANstar.co.kr)로 문의하세요.",
+    "구매/배송/반품은 판매처(쇼핑몰 하단 참조)를 통해 진행하세요.",
+    "본 제품은 현대해상화재 생산물배상책임보험(1억원)에 가입되어 있어 문제 발생 시 보상을 받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-EX1C",
+      "품목코드": "USB-PCI269",
+      "품목명": "[LANstar] PCIE 기가 랜카드, RTL8111C [30597] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "필요해서 시켰는데 배송 빠르고 좋습니다"
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "제품 정상 동작하고 좋습니다."
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "성능 좋고 가성비도 만족 작동 잘되요"
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "다운로드 속도와 게임 렉 걸리고 인터넷 끊기고 이 문제를 랜가드 교체하니 저런 증상이 싹다 없어져서 기분이 넘 좋네요^^ 교체 설치하는거도 유튜브보고 따라하니 넘 쉽네요 굳이 그래픽카드 빼 필요없이 전 바로 꼽고 인터넷이 자동으로 잡히네요^^그럼 많이 파세요~"
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "네트웨크 잘됩니다 굿"
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "아주 잘됩니다. 기존 메인보드 문제로 100mb 나오던게 1gb 나오네요"
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "배송이 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "오자마자 설치해서 잘사용중입니다"
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "하루만에 배송 왔고 메인보드 랜이 오락가락 해서 주문한건데 인식 잘 됩니다."
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "PC에 꼭 필요한 랜카드인데 잘 되네요"
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "고장나서 바꿨느데 바로되네요 갑자기 인터넷이 끊기면 바꿔보세요"
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "상품 잘 받았습니다 아직 설치 전이라 상품 평은 못했습니다 수고하세요"
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "빠르게 배송 받아서 좋아요."
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "배송빠르고 제품이상없이 잘 사용하고 있습니다."
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "빠르고 정확한 배송 좋아요"
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "배송빠르고 제품에 만족합니다"
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "내용": "배송도 빠르고, 잘 작동합니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "id": 525298763,
+      "date": "2023-04-16 19:43",
+      "answerDate": "2023-04-17 08:54",
+      "user": "msty****",
+      "productName": "랜스타 LS-PCIE-EX1C PCI-E 기가 랜카드 리얼텍 RTL8111C 칩셋",
+      "question": "랜카드 연결하는 부위 규격이 달라도 설치 가능한가요?? 제품보다 꽂는 곳이 훨씬 넓던데",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n해당 제품은 PCI-Express 1x 규격을 사용하는 제품이며, 길이가 긴 PCI-Express 16x 규격의 슬롯에도 사용 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "id": 526716794,
+      "date": "2023-04-25 20:29",
+      "answerDate": "2023-04-26 09:19",
+      "user": "koto****",
+      "productName": "랜스타 LS-PCIE-EX1C PCI-E 기가 랜카드 리얼텍 RTL8111C 칩셋",
+      "question": "장착후 빨간불이 들어오는데 (드라이버설치완료)\n바이오스에서 설정필요한가오·?\nPci e 3.0/2.0 메인보드입니다",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n해당 제품의 경우 제품 차수에 따라서 점등되는 LED의 색이 다를 수 있으며, 정상적으로 인터넷이 연결된 경우 정상적으로 작동하는 것이니 확인 부탁드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "id": 527246459,
+      "date": "2023-04-29 14:09",
+      "answerDate": "2023-05-02 08:58",
+      "user": "john****",
+      "productName": "랜스타 LS-PCIE-EX1C PCI-E 기가 랜카드 리얼텍 RTL8111C 칩셋",
+      "question": "슬림형PC에도 가능한가요",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n해당 제품 슬림형 PC에서도 장착 가능하며, 번들 제공되는 슬림 브라켓으로 바꾸어 장착 가능한 점 안내 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "id": 533139542,
+      "date": "2023-06-10 15:37",
+      "answerDate": "2023-06-12 15:06",
+      "user": "20****",
+      "productName": "랜스타 LS-PCIE-EX1C PCI-E 기가 랜카드 리얼텍 RTL8111C 칩셋",
+      "question": "lg 500메가 인터넷 사용중인데 이제품 설치하면 인터넷속도 다 나오는 건가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n카드 연결하여 인터넷 속도 최대로 사용 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해 드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "id": 540959729,
+      "date": "2023-08-06 23:59",
+      "answerDate": "2023-08-07 09:24",
+      "user": "wonh*******",
+      "productName": "랜스타 LS-PCIE-EX1C PCI-E 기가 랜카드 리얼텍 RTL8111C 칩셋",
+      "question": "제가 PRIME Z370-A 제품 메인보드를 이용중인데 사용 할 수 있는건가용?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\nPCI-Express 1배속 카드이기 때문에 원하시는 환경에서 사용 가능하시다는 점 안내 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "id": 615515278,
+      "date": "2025-01-30 16:16",
+      "answerDate": "2025-01-31 10:56",
+      "user": "ghdt****",
+      "productName": "랜스타 LS-PCIE-EX1C PCI-E 기가 랜카드 리얼텍 RTL8111C 칩셋",
+      "question": "윈도우11도 지원되는거죠?\n드라이브는 혹시 cd로 잡아야 하나요?\nCd롬이 없는데 제조사에서 받아야 할까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n윈도우 11까지 사용 가능 하며 드라이버는 랜스타 홈페이지 기술자료실 or cd롬으로 설치 가능하십니다.\n아래에 링크 남겨드립니다.\nhttps://www.lanmart.co.kr/shop/board/view.php?id=lanstardownload&search[subject]=on&search[word]=ex1c&subSpeech=%B5%E5%B6%F3%C0%CC%B9%F6&no=194\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-PCIE-EX1C",
+      "chatUrl": "goum",
+      "dateIso": "2025-08-21T01:44:44.997Z",
+      "name": "miso****",
+      "isTechnical": true,
+      "category": "feature",
+      "modelConfidence": "high",
+      "question": "안녕하세요",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "N/A"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 1000,
+      "chipset": "Realtek RTL8111C"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "기가비트 랜포트가 생성",
+    "connectivity.directional": "데이터 통신 및 인터넷 이용",
+    "connectivity.port_count": "기가비트 랜포트가 생성",
+    "power.power_mode": "PCI-Express 슬롯",
+    "power.charging_support": "false",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "false",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "false",
+    "certification.kc": "국립전파연구원 인증 획득",
+    "control_switching.has_remote": "false",
+    "control_switching.has_hotkey": "false",
+    "control_switching.has_physical_button": "false",
+    "control_switching.has_mouse_switching": "false",
+    "control_switching.has_auto_scan": "false",
+    "control_switching.has_app_control": "false",
+    "form_physical.has_case": "슬림 PC용 브라켓 포함",
+    "family.bus_interface": "PCI-Express x1 슬롯 규격",
+    "family.speed_mbps": "10/100/1000Mbps 기가비트 전송속도",
+    "family.chipset": "Realtek RTL8111C 칩셋 탑재"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:03",
+  "feature_schema_version": "1.0.0"
+}

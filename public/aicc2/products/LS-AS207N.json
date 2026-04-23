@@ -1,0 +1,342 @@
+{
+  "model_no": "LS-AS207N",
+  "product_name": "LAN Star HDMI 2.0 선택기 7x1 (HDMI 1:7 Switch)",
+  "category": [
+    "HDMI선택기"
+  ],
+  "key_features": [
+    "7개의 HDMI 입력 소스를 하나의 디스플레이 장치에 연결하여 선택 출력 가능",
+    "HDMI 2.0 지원 (최대 4K@60Hz, 3840x2160 UHD 해상도)",
+    "HDCP 2.2 지원 (영상 저작권 보호 기술)",
+    "YUV 4:4:4 크로마 서브샘플링 지원",
+    "3D 영상 포맷 지원",
+    "4K HDR Pass-Through 지원",
+    "돌비 비전(Dolby Vision) 및 돌비 애트모스(Dolby Atmos) 지원 (소스·출력 기기 모두 지원 필요)",
+    "대역폭 340MHz",
+    "리모콘으로 1~7번 입력 선택 가능",
+    "Plug&Play 및 Hot Swap 지원 (별도 드라이버 설치 불필요)",
+    "메탈 하우징 재질",
+    "제품 뒷면 열 배출 구멍으로 발열 관리",
+    "KC, FCC, CE 안전규격 인증 획득",
+    "RoHS 인증 준수",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "입력단자": "HDMI 7Port",
+    "출력단자": "HDMI 1Port",
+    "해상도": "4K@60Hz UHD (3840x2160)",
+    "대역폭": "340MHz",
+    "입력전원": "DC 5V 1A",
+    "동작온도": "-15°C ~ 55°C",
+    "습도": "5% ~ 90%",
+    "재질": "메탈 하우징",
+    "무게": "약 235g",
+    "크기": "23cm x 7.8cm x 2.2cm",
+    "HDMI 버전": "HDMI 2.0",
+    "HDCP": "2.2",
+    "크로마 서브샘플링": "YUV 4:4:4",
+    "제조국": "중국 (China)",
+    "KC 인증번호": "R-R-LUS-LS-AS207N",
+    "아답터 안전인증번호": "HU10653-12001B"
+  },
+  "compatibility": [
+    "HDMI 2.0 규격 기기",
+    "HDCP 2.2 지원 기기",
+    "4K UHD TV, 모니터, 빔 프로젝터 (출력 기기)",
+    "콘솔(Console) 게임기 (입력 기기)",
+    "노트북(Notebook) (입력 기기)",
+    "데스크탑(Desktop) PC (입력 기기)",
+    "셋탑박스(Set Top Box) (입력 기기)",
+    "DVD Player (입력 기기)",
+    "스마트폰(SmartPhone) (입력 기기)",
+    "HD 카메라(HD Camera) (입력 기기)",
+    "미러링(Mirroring) 기기 (입력 기기)",
+    "3D 디스플레이 지원 기기",
+    "돌비 비전/돌비 애트모스 지원 기기 (소스 및 출력 기기 모두 지원 시 사용 가능)"
+  ],
+  "package_contents": [
+    "HDMI Switcher 7x1 본체 (LS-AS207N)",
+    "리모콘 (Remote Control)",
+    "DC 5V 1A 아답터 (아답터 안전인증번호: HU10653-12001B)"
+  ],
+  "usage_instructions": "1. HDMI 입력 기기(최대 7개)를 본체 IN1~IN7 포트에 연결한다. 2. 출력 디스플레이 기기(TV, 모니터, 빔 프로젝터 등)를 OUT 포트에 연결한다. 3. DC 5V 1A 아답터로 전원을 연결한다. 4. 본체 선택 버튼 또는 리모콘의 ①~⑦ 버튼을 눌러 원하는 입력 소스를 선택하여 출력한다. 별도의 드라이버 설치 없이 Plug&Play로 바로 사용 가능하며, PC 전원이 켜진 상태에서도 Hot Swap(자유로운 연결/해제)이 가능하다.",
+  "cautions": [
+    "돌비 비전, 돌비 애트모스 기능은 소스(Source) 기기와 출력 Display 기기 모두에서 해당 기능을 지원해야 정상적인 사용이 가능합니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-AS207N",
+      "품목코드": "INT-HDS168",
+      "품목명": "[LANstar] HDMI 2.0 선택기 1:7 , 4K 60hz [30373](20개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-AS207N",
+      "내용": "상품 아주 좋습니다.",
+      "관련내용": "상품 아주 좋습니다."
+    },
+    {
+      "source_model": "LS-AS207N",
+      "내용": "상품 아주 좋습니다."
+    },
+    {
+      "source_model": "LS-AS207N",
+      "내용": "가성비 매우 만족합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-AS207N",
+      "chatUrl": "12YEo",
+      "dateIso": "2024-03-25T01:32:36.292Z",
+      "name": "win3****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "랜스타 HDMI 2.1 케이블 공식인증 완료 8K 60Hz 48Gbps (LS-HD21-1M)\n(추가 문의) 랜스타 LS-AS207N HDMI2.0 선택기 7:1 4K UHD 60Hz HDR 지원오\n(추가 문의) 위 선택기만 반품처리 해 주세요 불량증상 : 5번포트 접속불능\n(추가 문의) 케이블이 아니고 선택기 입니다.",
+      "answer": "네 고객님, 유선으로 말씀드렸던 것처럼 수거 접수 도와드렸습니다. 자사 측에 제품 도착시 A/S 진행 후 다시 말씀 드리겠습니다. 제품 수령하신 곳에, 택배 기사님께서 잘 수거하실\n\n고객님께서 보내주신 제품이 자사에 정상적으로 도착하여 테스트 진행하였습니다. 말씀하신 증상에 대해 불량으로 확인되어 금일 반품 도와드리겠습니다\n\n구매해주신 제품들 중에 'LS-HD21-1M' 해당 케이블 하나만 반품 원하시는 것 맞으실까요?",
+      "turn_count": 11,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "위 선택기만 반품처리 해 주세요 불량증상 : 5번포트 접속불능"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        },
+        {
+          "role": "customer",
+          "text": "랜스타 LS-AS207N HDMI2.0 선택기 7:1 4K UHD 60Hz HDR 지원오"
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        },
+        {
+          "role": "customer",
+          "text": "케이블이 아니고 선택기 입니다."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n고객님께서 보내주신 제품이 자사에 정상적으로 도착하여 테스트 진행하였습니다. 말씀하신 증상에 대해 불량으로 확인되어 금일 반품 도와드리겠습니다"
+        },
+        {
+          "role": "customer",
+          "text": "예"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 유선으로 말씀드렸던 것처럼 수거 접수 도와드렸습니다.\n자사 측에 제품 도착시 A/S 진행 후 다시 말씀 드리겠습니다.\n제품 수령하신 곳에, 택배 기사님께서 잘 수거하실"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 해당 내용 담당 부서 전달 후 확인 후 안내 드리겠습니다.\n시간 소요될 수 있는 점 양해 부탁드립니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-AS207N",
+      "chatUrl": "3i0tv",
+      "dateIso": "2023-10-10T07:41:37.278Z",
+      "name": "jean****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "제가 전자기기를 잘 몰라서요\n일단 제가 원하는거는 티비에\nPs5 / 셋톱박스 / 크롬캐스트 / Led 조명 / 사운드바\n이렇게 5개를 연결해서 ...\n(추가 문의) 크롬캐스트랑 ps5두개 연결해서 사용중인데 플스를 완전히 끄지 않으면 크롬캐스트를 인식을 하지 못해요\n(추가 문의) LS-AS207N 으로는 사운드바와 led조명이 추가 사용이 가능한걸까요?!!\n(추가 문의) 그리고 전원을 다 끈 상태게서 크롬캐스트 리모콘을 눌러도 플스가 켜지네요 ㅜㅜ",
+      "answer": "hdmi 셀렉터의 경우 영상 장비만 연결하여 사용 가능합니다. 따라서 말씀 주신 LED 조명과 사운드바는 연결하여 사용 불가함을 안내 드립니다. 일단 5개를 연결하여 사용 가능하신 제품으로는 'LS-AS207N' 제품이 있으니 참...\n\n고객님, 고객 문의 확인하였습니다. 해당 주문 건은 구매확정되어 고객님께서 교환 요청하는 방법이 불가한 것으로 확인됩니다. 따라서, 저희가 직접 수거 접수하여 교환 절차를 진행해 드리겠습니다. 추후에 제품이 자사에 도착하는 대로 제품 테스트 진행하여 다시 톡톡으로 안내...\n\n네 고객님, 해당 제품의 경우 불량인지 아닌지 자사에서 Test를 진행해봐야 합니다. 자사에서 test하여 정상일 경우 호환성 문제일 수 있기 때문에 새제품 받아보셔도 안 될 가능성이 있습니다. 따라서 test 후에 다시 안내 드릴 수 있도록 하겠습니다.",
+      "turn_count": 19,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "반품 부탁드릴게요"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\n저희 측에서 고객님께서 말씀 주신 부분에 대해 테스트를 진행한 결과, A/S 담당자로부터 정상적으로 작동되었다고 전달 받았습니다. 따라서, 해당 증상의 경우 제품과 고객님께서 사용하시는 환경 간의 호환성 문제로 의심됩니다.\n또한,..."
+        },
+        {
+          "role": "customer",
+          "text": "언제쯤 받을수있나요"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\n현재 내부 A/S 담당자에게 테스트 결과에 대한 재요청을 드린 상태입니다. A/S 과정에서의 지연으로 인해 불편을 드려 정말 죄송합니다. \n연휴와 내부적으로 사무실 이전으로 인해 다수의 A/S 요청이 지연되고 있는 상황입니다. 고객..."
+        },
+        {
+          "role": "customer",
+          "text": "확인됬을까요 ㅠㅠㅠ"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\n현재 추석 연휴로 연휴와 맞물려 현재 A/S 요청 처리에 지연이 있습니다.\n내부 A/S 담당자에게 고객님의 제품과 테스트 내용 전달하여 빠른 시일 내에 다시 톡톡으로 안내드릴 수 있도록 하겠습니다. 불편을 드려 죄송합니다.\n정직한 ..."
+        },
+        {
+          "role": "customer",
+          "text": "제품 확인 언제가능할까요"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\n출고되었던 창고에 정상적으로 도착하여, 금일 제품 상태 확인을 위해 이동 중에 있습니다.\n불량 증상 확인 후에 다시 톡톡으로 안내드릴 수 있도록 하겠습니다. 조금만 기다려 주시면 감사하겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱..."
+        },
+        {
+          "role": "customer",
+          "text": "언제 수거하러 오시나요"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 해당 제품의 경우 불량인지 아닌지 자사에서 Test를 진행해봐야 합니다. 자사에서 test하여 정상일 경우 호환성 문제일 수 있기 때문에 새제품 받아보셔도 안 될 가능성이 있습니다. 따라서 test 후에 다시 안내 드릴 수 있도록 하겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "제품테스트 한 다음에나 물건 받을수 있는건가요"
+        },
+        {
+          "role": "agent",
+          "text": "고객님, 고객 문의 확인하였습니다. 해당 주문 건은 구매확정되어 고객님께서 교환 요청하는 방법이 불가한 것으로 확인됩니다. 따라서, 저희가 직접 수거 접수하여 교환 절차를 진행해 드리겠습니다. 추후에 제품이 자사에 도착하는 대로 제품 테스트 진행하여 다시 톡톡으로 안내..."
+        },
+        {
+          "role": "customer",
+          "text": "둘다입니다 ㅜㅠ"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\n두 가지 상황 중 어떤 상황이실까요?\n\n1) 두 제품을 연결했고, 전원이 켜있는 상태에서 크롬캐스트와 PS5 스위칭이 불가한 상황\n2) 크롬캐스트를 선택하는 선택기의 리모컨을 누르면 PS5가 선택되는 상황"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요 hdmi선택기 구매하고 잘 받았습니다"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 8
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": true,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "selector_type": "수동",
+      "input_count": 7,
+      "output_count": 1,
+      "interfaces": [
+        "HDMI"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "7개의 HDMI 입력 소스를",
+    "connectivity.output_signals": "하나의 디스플레이 장치에 연결하여 선택 출력",
+    "connectivity.directional": "선택 출력 가능",
+    "connectivity.port_count": "입력단자\": \"HDMI 7Port\", \"출력단자\": \"HDMI 1Port",
+    "power.power_mode": "DC 5V 1A 아답터로 전원을 연결한다",
+    "power.charging_support": "충전",
+    "form_physical.has_case": "메탈 하우징 재질",
+    "form_physical.material": "메탈 하우징 재질",
+    "certification.kc": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.rohs": "RoHS 인증 준수",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증 획획득",
+    "certification.ce": "KC, FCC, CE 안전규격 인증 획득",
+    "audio_video.max_resolution": "최대 4K@60Hz, 3840x2160 UHD 해상도",
+    "audio_video.hdr_support": "4K HDR Pass-Through 지원",
+    "audio_video.hdcp_version": "HDCP 2.2 지원",
+    "audio_video.audio_pass": "돌비 애트모스(Dolby Atmos) 지원",
+    "control_switching.has_remote": "리모콘으로 1~7번 입력 선택 가능",
+    "control_switching.has_physical_button": "본체 선택 버튼 또는 리모콘의 ①~⑦ 버튼을 눌러",
+    "family.selector_type": "선택 출력 가능",
+    "family.input_count": "7개의 HDMI 입력 소스를",
+    "family.output_count": "하나의 디스플레이 장치에",
+    "family.interfaces": "HDMI 2.0 선택기 7x1 (HDMI 1:7 Switch)"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:17",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 2,
+    "category_breakdown": {
+      "troubleshoot": 2
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

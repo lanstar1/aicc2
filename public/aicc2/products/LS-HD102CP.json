@@ -1,0 +1,152 @@
+{
+  "model_no": "LS-HD102CP",
+  "product_name": "HDMI 분배기 [2:1]",
+  "category": [
+    "HDMI분배기"
+  ],
+  "key_features": [
+    "하나의 HDMI 입력장치를 2대의 모니터·HDTV·프로젝터 등 디스플레이 장치에 동시 출력 분배",
+    "무전원 사용 가능 (케이블 길이 10M~20M 이상이거나 화면 흔들림 등 전원 부족 현상 시 Micro B 전원 케이블 사용 권장)",
+    "HDMI 1.4a / HDCP 1.2 호환",
+    "Full HD 1080p 지원 (1080p24fs/1080p/1080i/720p/576p/576i/480p/480i)",
+    "3D 영상·음성 Full HD 지원",
+    "HDCP(영상 저작권 보호 기술) 지원",
+    "데이터 전송 속도 6.75Gbps",
+    "오디오 포맷 지원: DTS-HD / True-HD / LPCM 7.1 / AC3 / DTS / DSD",
+    "총 길이 약 20CM (Pigtail 타입)"
+  ],
+  "specifications": {
+    "모델명": "LS-HD102CP",
+    "HDMI 버전": "HDMI 1.4a",
+    "HDCP 버전": "HDCP 1.2",
+    "지원 해상도": "1080p24fs, 1080p, 1080i, 720p, 576p, 576i, 480p, 480i",
+    "데이터 전송 속도": "6.75Gbps",
+    "지원 오디오 포맷": "DTS-HD, True-HD, LPCM 7.1, AC3, DTS, DSD",
+    "출력 케이블 거리": "20m (AWG24 HDMI 케이블)",
+    "입력 영상 신호": "5.0Volt P.P",
+    "최대 전류": "1,000mA",
+    "전원 어댑터 입력": "AC 100V-240V (50Hz/60Hz)",
+    "전원 어댑터 출력": "DC 5V",
+    "보조 전원 단자": "Micro USB",
+    "작동 온도 범위": "-15 ~ +55°C",
+    "작동 습도 범위": "5 ~ 90% RH (비결로 조건)",
+    "크기 (L×W×H)": "100×75×23.5mm",
+    "무게": "135g",
+    "총 케이블 길이": "약 20CM",
+    "제조국/원산지": "Made in China",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증서 번호": "KCC-REI-LUS-LS-HD102",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "BLU-RAY 플레이어",
+    "DVB-T (디지털 TV 수신기)",
+    "PS3 (플레이스테이션 3)",
+    "LCD TV",
+    "Plasma TV",
+    "X Box 360",
+    "노트북",
+    "DVD 플레이어",
+    "HDTV",
+    "모니터",
+    "프로젝터",
+    "3DTV",
+    "HDMI To Another 컨버터"
+  ],
+  "package_contents": [
+    "HDMI 분배기 본체 (Pigtail 타입, 총 길이 약 20CM)",
+    "보조 전원 케이블 Micro USB (별도 구매)"
+  ],
+  "usage_instructions": "HDMI 입력 단자(In)에 노트북·DVD·PS3 등 소스 기기를 연결하고, HDMI Out 1·Out 2 단자에 3DTV·HDTV·모니터 등 디스플레이 장치를 각각 연결하여 사용합니다. 무전원으로 사용 가능하나, 케이블 길이가 10M~20M 이상이거나 화면 흔들림·전원 부족 현상이 발생하는 경우 Micro B(Micro USB) 보조 전원 케이블(별도 구매)을 연결하면 안정적으로 사용할 수 있습니다.",
+  "cautions": [
+    "셋톱박스 및 인터넷 TV와 연결 시 제품 기기 및 리모콘이 작동하지 않습니다.",
+    "일시적으로 작동할 수 있으나 방송 출력사에서 신호 차단 시 다시 작동하지 않습니다.",
+    "케이블 길이가 10M~20M 이상이거나 화면 흔들림 등 전원 부족 현상이 발생하는 경우 Micro B 전원 케이블을 사용하여 안전하게 사용하십시오.",
+    "보조 전원(Micro USB 케이블)은 별도 구매입니다.",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 의거하여 보상합니다.",
+    "작동 온도 범위(-15~+55°C) 및 습도 범위(5~90% RH, 비결로 조건)를 준수하여 사용하십시오."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HD102CP",
+      "품목코드": "INT-HDS026",
+      "품목명": "[LANstar] HDMI 1.4V 1:2 분배기, Cable Type 3D지원(70개)[30098] (70개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": "HDCP1.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "input_count": 1,
+      "output_count": 2,
+      "mode": [
+        "분배"
+      ],
+      "cascade_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "하나의 HDMI 입력장치를",
+    "connectivity.output_signals": "2대의 모니터·HDTV·프로젝터 등 디스플레이 장치에 동시 출력 분배",
+    "connectivity.directional": "하나의 HDMI 입력장치를 2대의 모니터·HDTV·프로젝터 등 디스플레이 장치에 동시 출력 분배",
+    "connectivity.port_count": "HDMI 입력 단자(In)에 노트북·DVD·PS3 등 소스 기기를 연결하고, HDMI Out 1·Out 2 단자에",
+    "power.power_mode": "무전원 사용 가능 (케이블 길이 10M~20M 이상이거나 화면 흔들림 등 전원 부족 현상 시 Micro B 전원 케이블 사용 권장)",
+    "power.charging_support": "무전원 사용 가능 (케이블 길이 10M~20M 이상이거나 화면 흔들림 등 전원 부족 현상 시 Micro B 전원 케이블 사용 권장)",
+    "form_physical.has_case": "크기 (L×W×H): 100×75×23.5mm",
+    "form_physical.length_meters": "총 길이 약 20CM (Pigtail 타입)",
+    "certification.kc": "인증서 번호: KCC-REI-LUS-LS-HD102",
+    "audio_video.max_resolution": "Full HD 1080p 지원 (1080p24fs/1080p/1080i/720p/576p/576i/480p/480i)",
+    "audio_video.hdr_support": "3D 영상·음성 Full HD 지원",
+    "audio_video.hdcp_version": "HDCP 1.2 호환",
+    "audio_video.audio_pass": "오디오 포맷 지원: DTS-HD / True-HD / LPCM 7.1 / AC3 / DTS / DSD",
+    "family.input_count": "하나의 HDMI 입력장치를",
+    "family.output_count": "2대의 모니터·HDTV·프로젝터 등 디스플레이 장치에 동시 출력 분배",
+    "family.mode": "하나의 HDMI 입력장치를 2대의 모니터·HDTV·프로젝터 등 디스플레이 장치에 동시 출력 분배"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:46",
+  "feature_schema_version": "1.0.0"
+}

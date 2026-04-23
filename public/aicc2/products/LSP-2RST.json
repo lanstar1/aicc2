@@ -1,0 +1,142 @@
+{
+  "model_no": "LSP-2RST",
+  "product_name": "LANstar plus+ 3.5 스테레오 2RCA 케이블 (3.5ST(M)-2RCA(M))",
+  "category": [
+    "RCA케이블",
+    "오디오케이블",
+    "AV케이블"
+  ],
+  "key_features": [
+    "3.5mm 스테레오 단자에서 2RCA(좌/우 음성)으로 출력하는 스테레오 케이블",
+    "컴퓨터, MP3, 오디오 등을 앰프나 스피커와 같은 음향기기에 연결하여 음성 전달",
+    "RoHS(유해물질 사용제한) 규격 준수 - 납, 수은, 카드뮴 등 중금속 사용 금지",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 구성": "3.5ST Male - 2RCA Male",
+    "단자 상세": "3.5mm 스테레오(Male) 1개, RCA(Male) 2개(음성 좌/우)",
+    "제공 길이": "1.5M, 2M, 3M, 5M",
+    "모델명 목록": "LSP-2RST-1.5M / LSP-2RST-2M / LSP-2RST-3M / LSP-2RST-5M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "RoHS": "Compliant"
+  },
+  "compatibility": [
+    "3.5mm 스테레오 출력 단자를 가진 컴퓨터",
+    "MP3 플레이어",
+    "오디오 기기",
+    "RCA 입력 단자를 가진 앰프",
+    "RCA 입력 단자를 가진 스피커 등 음향기기"
+  ],
+  "package_contents": [
+    "3.5 스테레오 2RCA 케이블 1개"
+  ],
+  "usage_instructions": "3.5mm 스테레오 단자(Male)를 소스 기기(컴퓨터, MP3, 오디오 등)의 3.5mm 출력 단자에 연결하고, 2개의 RCA 단자(좌/우)를 앰프 또는 스피커의 RCA 입력 단자에 연결하여 사용합니다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 문의 / 구매·배송·반품은 판매처(쇼핑몰 하단 참조)"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-2RST-1.5M",
+      "품목코드": "PCA-S2R001",
+      "품목명": "[◆Lanstar-Plus] AV케이블 , 2RCA/M-3.5ST/M, 1.5M [70059](250개)",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-2RST-2M",
+      "품목코드": "PCA-S2R002",
+      "품목명": "[◆Lanstar-Plus] AV케이블 , 2RCA/M-3.5ST/M, 2M [70060](220개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-2RST-3M",
+      "품목코드": "PCA-S2R003",
+      "품목명": "[◆Lanstar-Plus] AV케이블 , 2RCA/M-3.5ST/M, 3M [70061](180개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-2RST-5M",
+      "품목코드": "PCA-S2R004",
+      "품목명": "[◆Lanstar-Plus] AV케이블 , 2RCA/M-3.5ST/M, 5M [70062](100개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "RCA"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        1.5,
+        2.0,
+        3.0,
+        5.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5mm 스테레오 단자",
+    "connectivity.output_signals": "2RCA(좌/우 음성)",
+    "connectivity.directional": "음성 전달",
+    "power.power_mode": "무전원",
+    "form_physical.length_options_meters": "1.5M, 2M, 3M, 5M",
+    "certification.rohs": "RoHS(유해물질 사용제한) 규격 준수",
+    "audio_video.audio_pass": "음성 전달",
+    "family.optical_core": "케이블",
+    "family.ethernet_channel": "케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:16",
+  "feature_schema_version": "1.0.0"
+}

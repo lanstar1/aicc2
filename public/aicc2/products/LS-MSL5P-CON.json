@@ -1,0 +1,125 @@
+{
+  "model_no": "LS-MSL5P-CON",
+  "product_name": "LANStar 자석 마이크로 5핀 케이블 콘넥터 (Micro 5Pin B/M)",
+  "category": [
+    "커넥터"
+  ],
+  "key_features": [
+    "자석 방식 마이크로 5핀 커넥터 단독 판매 제품 (케이블 본체 미포함)",
+    "충전 및 데이터 전송 지원",
+    "잦은 연결·분리 없이 사용 가능하여 커넥터 수명 연장",
+    "기기 포트에 장착 시 먼지 및 이물질 유입 차단",
+    "동봉된 U자형 제거기로 커넥터 탈거 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS, FCC, CE 인증 / ISO 9001:2008 품질경영시스템",
+    "삼성, LG, 소니, 모토로라 등 마이크로 5핀 단자 기기 호환"
+  ],
+  "specifications": {
+    "모델명": "LS-MSL5P-CON",
+    "제품명": "자석 마이크로 5핀 케이블 콘넥터",
+    "브랜드": "LANStar",
+    "커넥터 규격": "Micro 5Pin B/M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "안전·품질 인증": "RoHS COMPLIANT, FCC, CE, ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원",
+    "AS 소비자상담": "070-7018-3386 (라인업시스템)"
+  },
+  "compatibility": [
+    "마이크로 5핀(Micro 5Pin) 단자 탑재 기기",
+    "삼성 스마트폰 / 태블릿",
+    "LG 스마트폰 / 태블릿",
+    "소니(SONY) 스마트폰 / 태블릿",
+    "모토로라 스마트폰 / 태블릿",
+    "기타 마이크로 5핀 단자 탑재 스마트폰 및 태블릿 기기"
+  ],
+  "package_contents": [
+    "자석 마이크로 5핀 케이블 콘넥터 본체",
+    "U자형 콘넥터 제거기(동봉)"
+  ],
+  "usage_instructions": "1. 기기의 마이크로 5핀 포트에 자석 커넥터를 삽입하여 장착한다. 2. 자석케이블과 연결하여 충전 및 데이터 전송에 사용한다. 3. 기기와 케이블 분리 시 앞으로 당기지 말고 살짝 옆으로 들어 빼준다(자성에 의해 커넥터가 딸려나올 수 있음). 4. 커넥터 탈거가 필요할 경우 동봉된 제거기의 U자형 홈에 끼워 빼낸다. (자석케이블 본체는 별도 구매 필요)",
+  "cautions": [
+    "콘넥터 단독 판매 제품이며 케이블 본체는 포함되어 있지 않습니다.",
+    "자석케이블 본체는 별도 문의하여 구매하세요.",
+    "기기와 케이블 분리 시 앞으로 당기면 자성에 의해 콘넥터가 딸려나올 수 있으니 살짝 옆으로 들어 빼주세요.",
+    "콘넥터 탈거 시 반드시 동봉된 U자형 제거기를 사용하세요.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)의 상품 및 콘텐츠를 무단 복제·이용 시 불이익을 당할 수 있습니다.",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MSL5P-CON",
+      "품목코드": "CAB-모바일032",
+      "품목명": "[LANstar] 자석 충전케이블 삼성/LG 용 커넥터(단품) [60058]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-Micro"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": true
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "Micro 5Pin B/M",
+      "connector_type_b": null,
+      "gender": "M-M",
+      "pin_count": 5
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "마이크로 5핀 커넥터",
+    "connectivity.output_signals": "마이크로 5핀 커넥터",
+    "connectivity.directional": "충전 및 데이터 전송 지원",
+    "power.charging_support": "충전 및 데이터 전송 지원",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "family.connector_type_a": "Micro 5Pin B/M",
+    "family.gender": "Micro 5Pin B/M",
+    "family.pin_count": "마이크로 5핀"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:45",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,89 @@
+{
+  "model_no": "LS-RLIGHT1",
+  "product_name": "LED 링 라이트 (LED RING LIGHT)",
+  "category": [
+    "LED램프"
+  ],
+  "key_features": [
+    "1인 방송 및 셀프촬영 맞춤 LED 원형 램프",
+    "개인방송, 셀프촬영, 동영상촬영, 메이크업 조명 등 다양한 용도로 활용 가능",
+    "3가지 색상 LED 조명 지원 (주황색 / 주황+백색 / 백색)",
+    "밝기 조절 기능 지원",
+    "USB 전원 연결 방식",
+    "스마트폰 거치대 포함"
+  ],
+  "specifications": {
+    "LED 색상": "주황색 (3000K), 주황+백색 (4500K), 백색 (6000K)",
+    "색온도": "3000K, 4500K, 6000K",
+    "전원 방식": "USB 전원 연결",
+    "밝기 조절": "지원"
+  },
+  "compatibility": [
+    "스마트폰 (거치대 포함)"
+  ],
+  "package_contents": [
+    "LED 링 라이트 본체",
+    "스마트폰 거치대"
+  ],
+  "usage_instructions": "USB 전원에 연결 후, 3가지 색상(주황색/주황+백색/백색) 중 사용 환경에 맞는 조명을 선택하고 밝기를 조절하여 사용. 별도 조명 설치 없이 간편하게 밝고 화사한 조명 이용 가능.",
+  "cautions": [],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 전원 연결 방식",
+    "connectivity.directional": "LED 링 라이트 (LED RING LIGHT)",
+    "power.power_mode": "USB 전원 연결 방식",
+    "power.charging_support": "LED 링 라이트 (LED RING LIGHT)",
+    "form_physical.has_case": "LED 링 라이트 (LED RING LIGHT)",
+    "audio_video.max_resolution": "LED 링 라이트 (LED RING LIGHT)",
+    "audio_video.hdr_support": "LED 링 라이트 (LED RING LIGHT)",
+    "audio_video.hdcp_version": "LED 링 라이트 (LED RING LIGHT)",
+    "audio_video.audio_pass": "LED 링 라이트 (LED RING LIGHT)"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:45",
+  "feature_schema_version": "1.0.0"
+}

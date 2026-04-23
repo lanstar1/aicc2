@@ -1,0 +1,196 @@
+{
+  "model_no": "LS-5UTPAD",
+  "product_name": "LANstar 90° 꺽임형 랜케이블 CAT.5E UTP (벽설치용)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP",
+    "랜케이블",
+    "커넥터",
+    "케이블정리"
+  ],
+  "key_features": [
+    "90도 꺽임형 커넥터로 벽면 밀착 공간(침대·테이블 뒤 등 좁고 빠듯한 공간)에서 공간 활용 탁월",
+    "배선 정리 용이",
+    "CAT.5E UTP 규격, 미국 전자산업협회 EIA/TIA 568 규격 준수",
+    "친환경 RoHS 규격 준수 소재 사용",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "20년 전통 랜케이블 전문 브랜드 LANstar 제품",
+    "고급 케이블(기존 저가형과 차별화)",
+    "90도(ㄱ자) 꺾임형 커넥터로 벽면 밀착 공간에서 활용 가능",
+    "벽면에 붙은 테이블, 침대 등 좁고 빠듯한 공간의 배선 정리에 탁월",
+    "CAT.5E UTP 규격, EIA/TIA 568 표준 준수",
+    "친환경 소재 사용",
+    "20년 전통 랜케이블 브랜드 LANstar 제품",
+    "50µ 금도금 RJ45 커넥터 적용",
+    "연선(Stranded) 구조, 24AWG",
+    "90도 ㄱ자 꺾임형 커넥터로 벽면 밀착 공간에서 공간 활용 탁월",
+    "벽면에 붙은 테이블, 침대 등 좁고 빠듯한 공간에 적합",
+    "미국 전자산업협회 EIA/TIA 568 규격 준수",
+    "고급 케이블로 기존 저가형과 차별화",
+    "50µ 금도금 커넥터 적용",
+    "연선(Stranded) 구조"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.5E UTP",
+    "커넥터 타입": "8P8C RJ45, ㄱ자 90도 꺽임형 / 8P8C RJ45, ㄱ자 90도 꺾임형 / ㄱ자 90도 꺾임형, 8P8C RJ45",
+    "AWG": "24AWG",
+    "선 구조": "연선",
+    "전선 구성": "4 pair / 8core",
+    "데이터 전송속도": "100MHz / 1Gbps / 150 MHz / 550 Mbps",
+    "커넥터 도금": "해당 정보 없음 / 50µ 금도금",
+    "길이 옵션": "2M, 5M",
+    "모델명(2M)": "LS-5UTPAD-2M",
+    "모델명(5M)": "LS-5UTPAD-5M",
+    "색상": "회색",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "EIA/TIA 규격": "EIA/TIA 568",
+    "RoHS": "준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입",
+    "전송 표준": "EIA/TIA 568",
+    "도체 규격": "24AWG",
+    "케이블 구조": "연선 (Stranded) / UTP (Unshielded Twisted Pair), 4pair/8core",
+    "커넥터 구성": "M/M (양쪽 수)",
+    "환경 인증": "CROHS (친환경 소재)",
+    "케이블 종류": "연선 (Stranded)",
+    "도금": "50µ 금도금",
+    "길이": "2M, 5M",
+    "표준 규격": "EIA/TIA 568",
+    "데이터 전송속도 (CAT.5E)": "150 MHz / 550 Mbps"
+  },
+  "compatibility": [
+    "CAT.5E UTP 표준 규격 지원 네트워크 장비",
+    "EIA/TIA 568 규격 준수 장비",
+    "8P8C RJ45 포트 지원 기기 (공유기, 스위치, PC, NAS 등)",
+    "CAT.5E UTP 표준 호환 네트워크 장비",
+    "EIA/TIA 568 표준 준수 장비",
+    "8P8C RJ45 포트를 갖춘 공유기, 스위치, PC, 노트북 등",
+    "CAT.5E UTP 규격 호환 네트워크 장비",
+    "8P8C RJ45 포트 지원 기기 (공유기, 스위치, PC, 노트북 등)",
+    "벽설치용 환경"
+  ],
+  "package_contents": [
+    "90° 꺽임형 랜케이블 CAT.5E UTP (선택 길이: 2M 또는 5M) 1개",
+    "90도 꺾임형 CAT.5E UTP 랜케이블 1개 (2M 또는 5M)",
+    "90도 꺾임형 CAT.5E UTP 랜케이블 1개 (선택 길이: 2M 또는 5M)"
+  ],
+  "usage_instructions": "벽면에 붙어 있는 테이블 및 침대 등 좁고 빠듯한 공간의 기기 RJ45 포트에 90도 꺽임 커넥터를 꽂아 사용. 케이블이 벽면 방향으로 꺽여 공간을 확보하고 배선 정리가 용이해짐.",
+  "cautions": [
+    "본 제품은 CAT.5E UTP이며, 실내 벽설치용으로 설계됨 (옥외용 아님)",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "품질보증은 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-5UTPAD-2M",
+      "품목코드": "CAB-U5A001",
+      "품목명": "[LANstar] UTP케이블 , CAT.5E, ANGLE 꺽임콘넥터, 2M-Grey [10706] (170개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-5UTPAD-5M",
+      "품목코드": "CAB-U5A002",
+      "품목명": "[LANstar] UTP케이블 , CAT.5E, ANGLE 꺽임콘넥터, 5M-Grey [10707] (100개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-5UTPAD-2M",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-5UTPAD-5M",
+      "내용": "배송이 빠르고 품질이 좋아요."
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-5UTPAD-2M": "LANG\nⓇ\nNStarⓇ\nThe Network for you\n90 꺽임 랜케이블\nCAT.5E / UTP / 벽설치용\nCAT.5E UTP M/M\n길이 : 2M, 5M\n90' 꺽임형 랜케이블은,\n벽면에 붙어있는 테이블 및 침대 같은 좁고 빠듯한 공간에 꽂아 공간\n활용에 탁월하며, 배선 정리를 손쉽게 할 수 있습니다.\n90°꺽임형 랜케이블을 사용하여\n좁은 공간을 확보하세요!\n믿을 수 있는 랜케이블 기존 저가형과 차별화된 고급케이블\nSTRANDED, CAT5E UTP CABLE EIA/TIA 568, 045M\nCROHS\nCAT.5E UTP 케이블\n친환경 소재로\n만든 랜케이블\n미국 전자 산업협회가 정한\nEIA/TIA 568 7724\nR 4P LANstar\n20년 전통 랜케이블 회사\n“LANstar\" 로고\n▶ LAN케이블의 종류 및 구조\n*본 제품은\nCAT.5E UTP입니다.\nUTP (Unshield Twisted Pair)\nFTP (Foiled Twisted Pair)\nCAT. 5E\nCAT.6\nCAT. 5E\nCAT.6\n절면의 구리선미 전자기 절면의 구리선미 전자기 절면의 구리선미 전자기 절면의 구리선미 전자기\n유도를 줄이기 위해 서로 유도를 줄이기 위해 서로 유도를 줄이기 위해 서로 유도를 줄이기 위해 서로\n꼬여져 있는 케이블로 꼬여져 있는 케이블로 꼬여져 있는 케이블로 꼬여져 있는 케미블로\n4 pair / Bcore 전선과 4 pair / Score 전선과 4 pair / Score 전선과 4 pair / Bcore 전선과\n피복으로 구성되어 있습 피복으로 구성되어 있습 피복으로 구성되어 있습 피복으로 구성되어 있습\n니다.\n니다. 꼬며 있는 선과 선 니다. 알루미늄 은박미 니다. 꼬여 있는 선과 선\n사이에 차단용 십자 플라 선을 감싸고 있으며 접지 사이에 차단용 십자 플라\n|케이블구조\n스틱이 있어서 케이블 선미 별도로 있습니다. 스틱이 있어서 케이블\nPair 간의 간섭을 줄여서\nPair 간의 간섭을 줄여서\n전송 속도를 높여주는 역\n전송 속도를 높여주는 역\n할을 합니다.\n할을 합니다. 알루미늄\n은박이 선을 감싸고 있으\n며 접지용 선미 별도로\n있습니다.\n일반적인 랜케이블 초고속 네트워크맘이 공장배선용으로 많이\n이에 해당되며 사무실 구축된 환경에서 사용 사용되며, 접지용 선미\n주 사용처 및 가정배선용으로 사용 됩니다.\n내장되어 있어 옥외로\n됩니다.\n선미 지나갈때 사용하\n시면 좋습니다.\n접지 및 특수 환경에서의\n초고속 네트워크망이\n구축된 환경에서 사용\n됩니다.\nAl/Mylar 테이프\n테이프\n- 어스선 - PS 테이프\n어스-PS 테이프\nPE절연\n甘\nPE절연\n(Pair)\n(Pair)\n(Pair)\n(Pair)\n케이블\n구조도\nOO\n00 00\nOOXOO\n00\nOo.\n08 00\nOO\nOO\n8\n- PE절연\n-PE절연\nCPVC/LSZH십자형 CPVC/LSZH\n- PVC/LSZH 피복\n십자형 개재 PVC/LSZH 피복\n데이터\n전송속도\n150 MHz / 550Mbps\n250 MHz / 1Gbps\n150 MHz/550Mbps\n250 MHz / 1Gbps\nLAN Star\nⓇ\n자매품\nou FUTOR JONO\n\n\nLAN Star\nⓇ\n자매품\n0.5M LS-5UTPD-0.5MG\n10M\nLS-5UTPD-10MG\nCAT.5E UTP\n다이렉트, 회색,\n단선/연선,\n금도금 콘넥터,\n1M\nLS-5UTPD-1MG\n15M LS-5UTPD-15MG\n2M\nLS-5UTPD-2MG\n20M\nLS-5UTPD-20MG\n3M\nLS-5UTPD-3MG\n30M\nLS-5UTPD-30MG\n8P8C RJ45,\n26AWG,\nSolid 타입\n(0.5M/1M)\n5M\nLS-5UTPD-5MG\n50M LS-5UTPD-50MG\n7M\nLS-5UTPD-7MG\n1M\nLS-5UTPD-1MB\n15M\nLS-5UTPD-15MB\n2M\nLS-5UTPD-2MB\nCAT.5E UTP\n다이렉트, 파랑,\n연선, 50u.\n금도금 콘넥터,\n8P8C RJ45,\n20M LS-5UTPD-20MB\n30M LS-5UTPD-30MB\n3M\nLS-5UTPD-3MB\n5M\nLS-5UTPD-5MB\n26AWG\n7M\nLS-5UTPD-7MB\n10M LS-5UTPD-10MB\n2M\nLS-5UTPD-2MY\n20M\nLS-5UTPD-20MY\n3M\nLS-5UTPD-3MY\n30M\nLS-5UTPD-30MY\nCAT.5E UTP\n다이렉트, 노랑,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-5UTPD-5MY\n7M\nLS-5UTPD-7MY\n26AWG\n10M LS-5UTPD-10MY\n15M LS-5UTPD-15MY\n2M\nLS-5UTPD-2MR\n20M\nLS-5UTPD-20MR\n3M\nLS-5UTPD-3MR\n30M LS-5UTPD-30MR\nCAT.5E UTP\n다이렉트, 빨강,\n연선, 50u,\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-5UTPD-5MR\n7M\nLS-5UTPD-7MR\n26AWG\n10M\nLS-5UTPD-10MR\n15M LS-5UTPD-15MR\n1M\nLS-5STPD-1M\n20M\nLS-5STPD-20M\n2M\nLS-5STPD-2M\n30M\nLS-5STPD-30M\nCAT.5E FTP\n다이렉트, 연선,\n회색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n3M\nLS-5STPD-3M\n50M\nLS-5STPD-50M\n5M\nLS-5STPD-5M\n10M\nLS-5STPD-10M\n15M\nLS-5STPD-15M\nCAT.5E FTP\nCAT.5E UTP\n다이렉트, 연선,\n검정, 50u\n금도금 콘넥터,\n8P8C RJ45,\n크로스, 연선,\n녹색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\nCAT.5E UTP\n다이렉트, 연선,\n회색, 50u\nㄱ자 90도\n꺾임형, 8P8C\nRJ45, 24AWG\n26AWG\n2M\nLS-5UTPD-2MBK\n2M\nLS-5STPC-2M\n2M\nLS-5UTPAD-2M\n3M\nLS-5UTPD-3MBK\n3M\nLS-5STPC-3M\n5M\nLS-5UTPAD-5M\n5M\nLS-5UTPD-5MBK\n5M\nLS-5STPC-5M\n10M LS-5UTPD-10MBK\n10M\nLS-5STPC-10M\nCAT.5E FTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n26AWG,\nUL인증, 대만산,\n알루미늄 쉴드\nCAT.5E UTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n24AWG,\nUL인증, 대만산,\nCCTV 웹카메라\n공사용\n5M\nLS-SPCE-WP5M\n1M\nLS-WPCCTV-RJ45\n10M LS-SPCE-WP10M\nCAT5E LAN CABLE\n100M\nCAT.5E UTP\nBox, 단선,\n24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽콘넥터 있음,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nLor\n4137\nLS-5UTP-100MG\nLS-5UTP-100MR\n305M LS-5UTP-305MGE\n305M 빨강 LS-5UTP-305MR\n305MLS-5UTP-305MB\n305M 노랑 LS-5UTP-305MY\n305M LS-5UTP-305MGN\n100M 회색\n100M 빨강\n100M 파랑\n100M 노랑\nLS-5UTP-100MB\nLS-5UTP-100MY\nCAT.SE LAN CABLE\n100M\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽 콘넥터 없음.\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT. SE\nLavor\n305M 회색\nLS-5UTP-305MG\n100M LS-5UTP-100MGE\n100M LS-5UTP-100MBE\nCAT.SE LAN CABLE\n100M\n통신공사의 맨케이블\nCAT LAN Cable\nCAT.5E FTP\nBox, 연선,\n1,26AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\nCAT.5E FTP\nBox, 단선,\n24AWG\n미국전선규격,\n안정적인\n데이터 전송\nLor\n300M LS-FTP-300MSTG\n100M 회색\nLS-5FTP-100M\nUnShor\n통신공사업 면제이\nCAT SE LAN Cable\nG\nCAT.5E SFTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\nRoll 케이블,\n통신용 특화,\nRO/BOA\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n통신공사용,\n높은 구리 함량\nQ\n통신공사용 편이\n300M LS-UTP5H-300MBK\n300M (RO) LS-5SFTP-300MG\n300M (BOA) LS-5SFTP-300M\n300M (BOA) LS-5SFTP-B300M\n300MLS-UTP5H-300MG",
+    "LS-5UTPAD-5M": "LANG\nⓇ\nNStarⓇ\nThe Network for you\n90 꺽임 랜케이블\nCAT.5E / UTP / 벽설치용\nCAT.5E UTP M/M\n길이 : 2M, 5M\n90' 꺽임형 랜케이블은,\n벽면에 붙어있는 테이블 및 침대 같은 좁고 빠듯한 공간에 꽂아 공간\n활용에 탁월하며, 배선 정리를 손쉽게 할 수 있습니다.\n90°꺽임형 랜케이블을 사용하여\n좁은 공간을 확보하세요!\n믿을 수 있는 랜케이블 기존 저가형과 차별화된 고급케이블\nSTRANDED, CAT5E UTP CABLE EIA/TIA 568, 045M\nCROHS\nCAT.5E UTP 케이블\n친환경 소재로\n만든 랜케이블\n미국 전자 산업협회가 정한\nEIA/TIA 568 7724\nR 4P LANstar\n20년 전통 랜케이블 회사\n“LANstar\" 로고\n▶ LAN케이블의 종류 및 구조\n*본 제품은\nCAT.5E UTP입니다.\nUTP (Unshield Twisted Pair)\nFTP (Foiled Twisted Pair)\nCAT. 5E\nCAT.6\nCAT. 5E\nCAT.6\n절면의 구리선미 전자기 절면의 구리선미 전자기 절면의 구리선미 전자기 절면의 구리선미 전자기\n유도를 줄이기 위해 서로 유도를 줄이기 위해 서로 유도를 줄이기 위해 서로 유도를 줄이기 위해 서로\n꼬여져 있는 케이블로 꼬여져 있는 케이블로 꼬여져 있는 케이블로 꼬여져 있는 케미블로\n4 pair / Bcore 전선과 4 pair / Score 전선과 4 pair / Score 전선과 4 pair / Bcore 전선과\n피복으로 구성되어 있습 피복으로 구성되어 있습 피복으로 구성되어 있습 피복으로 구성되어 있습\n니다.\n니다. 꼬며 있는 선과 선 니다. 알루미늄 은박미 니다. 꼬여 있는 선과 선\n사이에 차단용 십자 플라 선을 감싸고 있으며 접지 사이에 차단용 십자 플라\n|케이블구조\n스틱이 있어서 케이블 선미 별도로 있습니다. 스틱이 있어서 케이블\nPair 간의 간섭을 줄여서\nPair 간의 간섭을 줄여서\n전송 속도를 높여주는 역\n전송 속도를 높여주는 역\n할을 합니다.\n할을 합니다. 알루미늄\n은박이 선을 감싸고 있으\n며 접지용 선미 별도로\n있습니다.\n일반적인 랜케이블 초고속 네트워크맘이 공장배선용으로 많이\n이에 해당되며 사무실 구축된 환경에서 사용 사용되며, 접지용 선미\n주 사용처 및 가정배선용으로 사용 됩니다.\n내장되어 있어 옥외로\n됩니다.\n선미 지나갈때 사용하\n시면 좋습니다.\n접지 및 특수 환경에서의\n초고속 네트워크망이\n구축된 환경에서 사용\n됩니다.\nAl/Mylar 테이프\n테이프\n- 어스선 - PS 테이프\n어스-PS 테이프\nPE절연\n甘\nPE절연\n(Pair)\n(Pair)\n(Pair)\n(Pair)\n케이블\n구조도\nOO\n00 00\nOOXOO\n00\nOo.\n08 00\nOO\nOO\n8\n- PE절연\n-PE절연\nCPVC/LSZH십자형 CPVC/LSZH\n- PVC/LSZH 피복\n십자형 개재 PVC/LSZH 피복\n데이터\n전송속도\n150 MHz / 550Mbps\n250 MHz / 1Gbps\n150 MHz/550Mbps\n250 MHz / 1Gbps\nLAN Star\nⓇ\n자매품\nou FUTOR JONO\n\n\nLAN Star\nⓇ\n자매품\n0.5M LS-5UTPD-0.5MG\n10M\nLS-5UTPD-10MG\nCAT.5E UTP\n다이렉트, 회색,\n단선/연선,\n금도금 콘넥터,\n1M\nLS-5UTPD-1MG\n15M LS-5UTPD-15MG\n2M\nLS-5UTPD-2MG\n20M\nLS-5UTPD-20MG\n3M\nLS-5UTPD-3MG\n30M\nLS-5UTPD-30MG\n8P8C RJ45,\n26AWG,\nSolid 타입\n(0.5M/1M)\n5M\nLS-5UTPD-5MG\n50M LS-5UTPD-50MG\n7M\nLS-5UTPD-7MG\n1M\nLS-5UTPD-1MB\n15M\nLS-5UTPD-15MB\n2M\nLS-5UTPD-2MB\nCAT.5E UTP\n다이렉트, 파랑,\n연선, 50u.\n금도금 콘넥터,\n8P8C RJ45,\n20M LS-5UTPD-20MB\n30M LS-5UTPD-30MB\n3M\nLS-5UTPD-3MB\n5M\nLS-5UTPD-5MB\n26AWG\n7M\nLS-5UTPD-7MB\n10M LS-5UTPD-10MB\n2M\nLS-5UTPD-2MY\n20M\nLS-5UTPD-20MY\n3M\nLS-5UTPD-3MY\n30M\nLS-5UTPD-30MY\nCAT.5E UTP\n다이렉트, 노랑,\n연선, 50u\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-5UTPD-5MY\n7M\nLS-5UTPD-7MY\n26AWG\n10M LS-5UTPD-10MY\n15M LS-5UTPD-15MY\n2M\nLS-5UTPD-2MR\n20M\nLS-5UTPD-20MR\n3M\nLS-5UTPD-3MR\n30M LS-5UTPD-30MR\nCAT.5E UTP\n다이렉트, 빨강,\n연선, 50u,\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-5UTPD-5MR\n7M\nLS-5UTPD-7MR\n26AWG\n10M\nLS-5UTPD-10MR\n15M LS-5UTPD-15MR\n1M\nLS-5STPD-1M\n20M\nLS-5STPD-20M\n2M\nLS-5STPD-2M\n30M\nLS-5STPD-30M\nCAT.5E FTP\n다이렉트, 연선,\n회색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n3M\nLS-5STPD-3M\n50M\nLS-5STPD-50M\n5M\nLS-5STPD-5M\n10M\nLS-5STPD-10M\n15M\nLS-5STPD-15M\nCAT.5E FTP\nCAT.5E UTP\n다이렉트, 연선,\n검정, 50u\n금도금 콘넥터,\n8P8C RJ45,\n크로스, 연선,\n녹색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\nCAT.5E UTP\n다이렉트, 연선,\n회색, 50u\nㄱ자 90도\n꺾임형, 8P8C\nRJ45, 24AWG\n26AWG\n2M\nLS-5UTPD-2MBK\n2M\nLS-5STPC-2M\n2M\nLS-5UTPAD-2M\n3M\nLS-5UTPD-3MBK\n3M\nLS-5STPC-3M\n5M\nLS-5UTPAD-5M\n5M\nLS-5UTPD-5MBK\n5M\nLS-5STPC-5M\n10M LS-5UTPD-10MBK\n10M\nLS-5STPC-10M\nCAT.5E FTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n26AWG,\nUL인증, 대만산,\n알루미늄 쉴드\nCAT.5E UTP\n옥외용 방수,\nIP67 방수등급,\n8P8C RJ45,\n24AWG,\nUL인증, 대만산,\nCCTV 웹카메라\n공사용\n5M\nLS-SPCE-WP5M\n1M\nLS-WPCCTV-RJ45\n10M LS-SPCE-WP10M\nCAT5E LAN CABLE\n100M\nCAT.5E UTP\nBox, 단선,\n24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽콘넥터 있음,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nLor\n4137\nLS-5UTP-100MG\nLS-5UTP-100MR\n305M LS-5UTP-305MGE\n305M 빨강 LS-5UTP-305MR\n305MLS-5UTP-305MB\n305M 노랑 LS-5UTP-305MY\n305M LS-5UTP-305MGN\n100M 회색\n100M 빨강\n100M 파랑\n100M 노랑\nLS-5UTP-100MB\nLS-5UTP-100MY\nCAT.SE LAN CABLE\n100M\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT.5E UTP\nBox, 단선,\n양쪽 콘넥터 없음.\n8core, 24AWG\n미국전선규격,\n안정적인\n데이터 전송\nCAT. SE\nLavor\n305M 회색\nLS-5UTP-305MG\n100M LS-5UTP-100MGE\n100M LS-5UTP-100MBE\nCAT.SE LAN CABLE\n100M\n통신공사의 맨케이블\nCAT LAN Cable\nCAT.5E FTP\nBox, 연선,\n1,26AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\nCAT.5E FTP\nBox, 단선,\n24AWG\n미국전선규격,\n안정적인\n데이터 전송\nLor\n300M LS-FTP-300MSTG\n100M 회색\nLS-5FTP-100M\nUnShor\n통신공사업 면제이\nCAT SE LAN Cable\nG\nCAT.5E SFTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\nRoll 케이블,\n통신용 특화,\nRO/BOA\nCAT.5E UTP\nBox, 단선,\n8core, 24AWG\n미국전선규격,\n통신공사용,\n높은 구리 함량\nQ\n통신공사용 편이\n300M LS-UTP5H-300MBK\n300M (RO) LS-5SFTP-300MG\n300M (BOA) LS-5SFTP-300M\n300M (BOA) LS-5SFTP-B300M\n300MLS-UTP5H-300MG"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        2,
+        5
+      ],
+      "color_options": [
+        "회색"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": "연선(stranded)",
+      "awg": 24,
+      "pair_count": 4,
+      "flame_rating": null,
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 포트에 90도 꺽임 커넥터를",
+    "connectivity.output_signals": "RJ45 포트에 90도 꺽임 커넥터를",
+    "connectivity.directional": "RJ45 포트에 90도 꺽임 커넥터를",
+    "form_physical.material": "50µ 금도금 RJ45 커넥터 적용",
+    "form_physical.length_options_meters": "길이 옵션: 2M, 5M",
+    "form_physical.color_options": "색상: 회색",
+    "certification.rohs": "친환경 RoHS 규격 준수 소재 사용",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.cat_category": "CAT.5E UTP 규격",
+    "family.shielding": "CAT.5E UTP 규격",
+    "family.conductor": "연선(Stranded) 구조",
+    "family.awg": "24AWG",
+    "family.pair_count": "4 pair / 8core"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:25",
+  "feature_schema_version": "1.0.0"
+}

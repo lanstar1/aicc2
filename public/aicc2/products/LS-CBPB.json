@@ -1,0 +1,106 @@
+{
+  "model_no": "LS-CBPB",
+  "product_name": "랜스타 캠핑 쓰레기통 (LANSTAR Camping Trash Can)",
+  "category": [
+    "캠핑용품"
+  ],
+  "key_features": [
+    "6개의 내부 고정 집게로 쓰레기 봉투를 견고하게 고정 (타사 저가형 4개 집게 제품과 차별화)",
+    "4개의 고강도 스틸 와이어 탑재로 뛰어난 탄성력 및 복원력, 반영구적 사용 가능",
+    "접이식 구조로 미사용 시 접어서 보관 가능, 2개의 고정 고리로 접힌 상태 유지",
+    "상단 2개의 손잡이로 이동 편리, 하단 고정용 고리로 핀 고정 사용 가능",
+    "방수 코팅 처리 원단으로 이물질 청소 및 관리 용이 (완전 방수 아님)",
+    "동일 색상 전용 파우치 무상 제공",
+    "캠핑 외 가정용 빨래통, 장난감 정리 바스켓, 분리수거통 등 다용도 활용 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "소재·부품·장비 전문기업 확인서 취득 (2022.11.29, 한국산업기술평가관리원)"
+  ],
+  "specifications": {
+    "모델명(베이지)": "LS-CBPBG",
+    "모델명(블랙)": "LS-CBPBK",
+    "색상": "베이지(BEIGE), 블랙(BLACK)",
+    "크기(높이)": "42cm",
+    "크기(직경)": "34cm",
+    "와이어": "고강도 스틸 와이어 4개",
+    "집게 수": "6개",
+    "원단": "방수 코팅 처리 원단 (완전 방수 아님)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "권장 봉투 용량": "20~40L 종량제 봉투"
+  },
+  "compatibility": [
+    "20~40L 종량제 봉투 (권장)",
+    "일반 봉투 사용 가능하나 너무 작은 봉투는 집게 고정 불가 및 봉투 찢어짐 가능성 있음"
+  ],
+  "package_contents": [
+    "캠핑 쓰레기통 본체 1개",
+    "동일 색상 전용 파우치 1개 (베이지 제품 → 베이지 파우치, 블랙 제품 → 블랙 파우치, 색상 변경 불가)"
+  ],
+  "usage_instructions": "1. 접힌 상태의 쓰레기통을 펼쳐 원통 모양으로 세운다. 2. 20~40L 종량제 봉투를 내부에 넣고 봉투 입구를 6개의 집게로 고정한다. 3. 상단 손잡이로 이동하거나, 하단 고정 고리에 핀을 박아 고정하여 사용한다. 4. 사용 후 봉투를 제거하고, 이물질은 휴지로 닦아낸다. 5. 미사용 시 제품을 접어 2개의 고정 고리로 고정한 뒤 전용 파우치에 넣어 보관한다.",
+  "cautions": [
+    "완전 방수 제품이 아니므로 물에 완전히 잠기거나 다량의 수분이 닿는 용도로는 사용 불가",
+    "물고기 보관 등 낚시 관련 용도에는 적합하지 않음",
+    "너무 작은 봉투 사용 시 6개의 집게로 고정 불가, 봉투가 무게를 견디지 못해 찢어질 가능성 있음",
+    "파우치 색상 변경 불가, 쓰레기통과 동일한 색상으로만 출고",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처 제품은 정품이 아니며 A/S 불가",
+    "당일 출고는 오후 4시 이전 결제 완료 건 기준, 토·일·공휴일 제외 평일만 해당하며 택배사 사정에 따라 배송 기간이 길어질 수 있음"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸",
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "베이지",
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "동일 색상 전용 파우치 무상 제공",
+    "form_physical.material": "고강도 스틸 와이어 4개",
+    "form_physical.color_options": "색상: 베이지(BEIGE), 블랙(BLACK)"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:04",
+  "feature_schema_version": "1.0.0"
+}

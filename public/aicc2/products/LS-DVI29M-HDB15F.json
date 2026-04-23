@@ -1,0 +1,132 @@
+{
+  "model_no": "LS-DVI29M-HDB15F",
+  "product_name": "LAN Star DVI 변환젠더 (DVI 24+5/M - HDB15P/F)",
+  "category": [
+    "DVI",
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "DVI 24+5M 타입과 HDB15P/F 타입 커넥터로 구성된 젠더",
+    "일반 모니터 케이블을 DVI 케이블에 사용 가능하도록 변환",
+    "신호 손실을 최소화하는 금도금 커넥터 적용",
+    "DVI-I 듀얼링크(24+5핀) 지원으로 디지털+아날로그 신호 전송 가능",
+    "RoHS 규격 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터_A": "DVI 24+5 Male (DVI-I Dual Link)",
+    "커넥터_B": "HDB15P Female",
+    "신호_전송": "디지털 + 아날로그",
+    "핀_구성": "24+5핀",
+    "커넥터_도금": "금도금",
+    "인증번호": "해당없음",
+    "제조국_원산지": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)",
+    "RoHS": "COMPLIANT",
+    "ISO": "9001:2008"
+  },
+  "compatibility": [
+    "DVI-I Dual Link 인터페이스 지원 기기",
+    "HDB15P(D-Sub 15핀) 인터페이스 지원 일반 모니터",
+    "DVI-I 24+5핀 커넥터 사용 케이블"
+  ],
+  "package_contents": [
+    "DVI 변환젠더 (LS-DVI29M-HDB15F) 본체 1개"
+  ],
+  "usage_instructions": "DVI 24+5M 단자를 DVI 케이블 또는 DVI 포트에 연결하고, HDB15P/F 단자에 일반 모니터 케이블(D-Sub)을 연결하여 사용.",
+  "cautions": [
+    "제품의 단자 크기와 모양을 반드시 확인 후 구매 및 사용할 것",
+    "유통 과정상 제품의 모양과 색상이 조금씩 달라질 수 있음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "본 제품(콘텐츠 포함)을 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DVI29M-HDB15F",
+      "품목코드": "GEN-HDI014",
+      "품목명": "[LANstar] DVI젠더 ,DVI 24＋5／M-HDB15P／F[20111]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DVI29M-HDB15F",
+      "내용": "좋은제품 빠른배송 친절한 설명 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DVI-I"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "DVI-I Dual",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DVI 24+5 Male (DVI-I Dual Link)",
+    "connectivity.output_signals": "HDB15P Female",
+    "connectivity.directional": "DVI-I 듀얼링크(24+5핀) 지원으로 디지털+아날로그 신호 전송 가능",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "DVI 변환젠더",
+    "form_physical.material": "금도금 커넥터 적용",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.dvi_type": "DVI-I 듀얼링크(24+5핀) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:49",
+  "feature_schema_version": "1.0.0"
+}

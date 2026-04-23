@@ -1,0 +1,320 @@
+{
+  "model_no": "LS-HD-CAPM",
+  "product_name": "LAN Star HDMI 외장 비디오 레코더 (HDMI VIDEO RECORDER)",
+  "category": [
+    "오디오케이블"
+  ],
+  "key_features": [
+    "1080P@60Hz 해상도로 Micro SD 카드에 영상 저장",
+    "3.5인치 컬러 LCD 스크린을 통해 실시간으로 녹화되는 화면 확인 가능",
+    "HDMI IN/OUT 포트를 통해 영상·음성 동시 전송",
+    "3.5mm 마이크 단자를 통해 녹화 중 음성 동시 녹음 가능",
+    "녹화 중 스크린샷(스냅샷) 기능 지원 (리모콘 캡처 버튼)",
+    "예약 녹화 기능 지원 (한 번 또는 매일, 러닝타임 10분·30분·1시간, 시작 시간 YY/MM/DD 설정)",
+    "녹화 중 일시정지 가능",
+    "내장형 스피커 및 내장형 배터리(3000mAh, 최대 2.5시간) 탑재",
+    "저장 파일 형식: H.264 MP4, 파일당 최대 3.8GB 저장 후 연속 새 파일 저장",
+    "다양한 언어 지원",
+    "국립전파연구원 KC 인증 획득",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "인터페이스": "USB 2.0",
+    "Video Input": "HDMI 1Port",
+    "Audio Input": "HDMI 1Port, 3.5mm 마이크",
+    "Video Output": "HDMI, 3.5인치 스크린",
+    "Audio Output": "HDMI, 스피커, 이어폰, 헤드셋",
+    "해상도": "720x480(60p), 720x576(50p), 1280x720p(60p), 1920x1080(50i), 1920x1080(60), 1920x1080(50p), 1920x1080(60p)",
+    "저장 파일 형식": "H.264 MP4, MAX 22Mbps@1080P60fps, 3.8GB/파일",
+    "전원": "5V2A, 3000mAh 내장형 배터리 (최대 2.5시간 지속)",
+    "사이즈": "150 x 66.5 x 23 (mm)",
+    "무게": "약 180g",
+    "KC 인증번호": "R-REI-LUS-LS-HD-CAPM",
+    "배터리 인증번호": "XU101503-19002C",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 출력 기기 (HDMI 1Port 입력 지원)",
+    "Micro SD 카드 (영상 저장 필수)",
+    "3.5mm 마이크 (외부 음성 녹음)",
+    "이어폰/헤드셋 (3.5mm 오디오 출력)"
+  ],
+  "package_contents": [
+    "LS-HD-CAPM 본체",
+    "Micro USB 충전 케이블",
+    "리모콘 (Remote Control)",
+    "매뉴얼 (User Manual)"
+  ],
+  "usage_instructions": "1) Micro SD 카드를 본체에 삽입한다 (카드 없으면 저장 불가). 2) HDMI 입력 포트에 영상 소스를 연결하고, 필요 시 HDMI 출력 포트로 외부 디스플레이에 연결한다. 3) 전원 스위치를 켠다. 4) 녹화 시작/정지 버튼 또는 리모콘으로 녹화를 제어한다. 5) 녹화 중 리모콘의 캡처 버튼으로 스크린샷을 찍을 수 있다. 6) 예약 녹화는 기기 설정에서 모드(한 번/매일), 러닝타임(10분/30분/1시간), 시작 시간(YY/MM/DD)을 지정하여 사용한다. 7) 3.5mm 마이크 단자에 마이크를 연결하면 녹화 중 음성을 동시에 녹음할 수 있다. 8) 녹화된 영상은 H.264 MP4 형식으로 저장되며, 파일당 최대 3.8GB 도달 시 새 파일로 연속 저장된다.",
+  "cautions": [
+    "본 제품은 휴대 전용으로, PC 모드 사용은 지원하지 않습니다.",
+    "Micro SD 카드가 삽입되어 있지 않으면 영상이 저장되지 않습니다.",
+    "내장 배터리 최대 지속 시간은 2.5시간입니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HD-CAPM",
+      "품목코드": "usb-응용제136",
+      "품목명": "[LANstar] HDMI 비디오 외장 레코더, FHD 60hz [30468] (40개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HD-CAPM",
+      "내용": "관절내시경 청구자료 사진 및 환자 설명용 영상 저장을 위해 구매하였는데\n\n화질도 깨끗하고 저장이 잘되는지 화면으로 확인도 가능하니 \n\n사용이 편리한것 같습니다."
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "내용": "배송도 빠르고 제품 좋아요. 그리고 생각보다 사용하기도 편하네요"
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "내용": "일단 함께쓰려던 기기들과 호완이 잘 안되네요.\nMicro SD카드가 고정이 안됩니다. 녹화도 글었네요; 다 뜯어버려 반품하기 뭐해서 그냥 장비가방에 한자리 차지합니다.\n근데 딴건 그렇고 SD카드 고정안되면 어쩌자는 건지 ;;"
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "내용": "배송은 엄청 빨랐습니다.\n\n연결Tip!!\n본체에서 모니터에 아웃되는 HDMI를 1:2 분배기로 뽑아서 모니터와 레코더에 꽃아주시면 아주 쉽게 설치도 가능하고 다른 설정 만질 필요가 없더라구요 ^ㅡ^\n\n글씨가 아주 많은 영상은 화질이 떨어질 수 있으니, 그 부분 어느정도 감안하시고 구매하시면 많은 도움이 될 것 같습니다!"
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "내용": "휴대용 동영상 캡처를 위해 산거라 가격대비 만족스럽습니다. (최초 기기의 볼륨 조절은 동영상 아무거나 생성뒤에 소리 줄이면 이후 종료시엔 기계 종료음을 없앨 수 있습니다.)"
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "내용": "생각보다 크고 가볍네요..뭔가 중국산 스럽긴 하지만 딱 찾던 기능이라 좋습ㄴ디ㅏ."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HD-CAPM",
+      "id": 163112875,
+      "date": "2021-04-23 23:39",
+      "answerDate": "2021-04-26 10:43",
+      "user": "jang********",
+      "productName": "랜스타 HDMI 비디오 외장 레코더 LS-HD-CAPM",
+      "question": "혹시 인터넷 강의 drm? 막히는 것도 원컴으로 가능한가요? 개인소장용으로 하력 요",
+      "answer": "안녕하세요 랜스타 입니다\n\n해당 내용으로는 사용 어려울듯 합니다"
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "id": 166707751,
+      "date": "2021-05-18 22:02",
+      "answerDate": "2021-05-20 11:04",
+      "user": "pr****",
+      "productName": "랜스타 HDMI 비디오 외장 레코더 LS-HD-CAPM",
+      "question": "DC/USB 충전 케이블을 통해 연속으로 녹화가 가능할까요?\n예를들면 4GB micro SD card를 1시간마다 교체를 했을 경우 최대 몇시간 녹화가 가능할까요?",
+      "answer": "안녕하세요 랜스타 입니다 \n\n해당 내용으로는 저희쪽에서도 아직 정보가 없는 관계로\n\n확인 후 답변 드려야 할듯 합니다"
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "id": 192273165,
+      "date": "2021-11-15 11:25",
+      "answerDate": "2021-11-15 13:53",
+      "user": "nora******",
+      "productName": "랜스타 HDMI 비디오 외장 레코더 LS-HD-CAPM",
+      "question": "안녕하세요. Sd 카드 최대 몇gb까지 인식 가능한가요? 예를 들어 1tb sd카드를 넣어도 1tb를 다 쓸수있나요? Sd카드는 회사 상관없이 아무 sd카드나 써도 괜찮은가요? 또 hdmi out을 연결하지 않아도 (hdmi in으로만 연결시켜도) 녹화가 가능하나요?",
+      "answer": "안녕하세요 랜스타입니다.\n\n해당 제품은 SDXC(최대 2TB)까지 지원 가능하나, 문의주신 해당 용량의 SD카드로 테스트해보지 못한 점 양해 말씀 부탁드리겠습니다.\n\nHDMI IN으로 연결하게 되면, 내장 디스플레이에 연결된 소스 영상이 표시되며, 우측의 녹화 버튼으로 녹화 가능합니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "id": 193827266,
+      "date": "2021-11-25 02:05",
+      "answerDate": "2021-11-25 10:38",
+      "user": "tlst*****",
+      "productName": "랜스타 HDMI 비디오 외장 레코더 LS-HD-CAPM",
+      "question": "sd 최대 몇기가 까지 지원하나요?\n\n60분짜리 녹화하면 용량이 어떻게 될까요?\n\npc랑 hdmi 연결하면 포터블 캡쳐보드 화면에 pc 화면이 똑같이 뜨나요?",
+      "answer": "안녕하세요 랜스타입니다.\n\nSD카드는 SDXC를 지원하여 이론상 최대 2TB까지 지원 가능하나, 최대 128GB 용량 사용을 권장드립니다.\n\n녹화 용량은 설정 해상도, 비트레이트, 프레임에 따라 같은 녹화 시간이라도 용량이 다를 수 있으며, 최대 3.8GB까지 녹화 가능합니다.\n\npc와 hdmi 연결 시 제품 디스플레이에 연결된 화면이 표시되며, 음성도 함께 지원되는 점 참고 부탁드리겠습니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "id": 193869636,
+      "date": "2021-11-25 10:51",
+      "answerDate": "2021-11-25 14:59",
+      "user": "tlst*****",
+      "productName": "랜스타 HDMI 비디오 외장 레코더 LS-HD-CAPM",
+      "question": "인강 녹화후 소지할 목적으로 쓸거라 \n\n영상의 80분 짜리가 40분에 3.8gb를 다 소진하면 \n남은 40분 영상을 자동으로  새로운 파일로 3.8기가를 채워서  녹화가 되는걸까요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n적어주신대로 3.8GB까지 저장되며 새로운 파일에 연속해서 저장됩니다."
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "id": 199750227,
+      "date": "2022-01-03 22:52",
+      "answerDate": "2022-01-04 09:30",
+      "user": "1u****",
+      "productName": "랜스타 HDMI 비디오 외장 레코더 LS-HD-CAPM",
+      "question": "혹시 인강도 녹화가 가능한가요?",
+      "answer": "안녕하세요 랜스타 입니다\n\n인터넷 강의 녹화 가능 합니다"
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "id": 201207270,
+      "date": "2022-01-12 16:52",
+      "answerDate": "2022-01-12 17:05",
+      "user": "youn*******",
+      "productName": "랜스타 HDMI 비디오 외장 레코더 LS-HD-CAPM",
+      "question": "찾던 제품이라 구매하고 싶네요 ^^\n\nH264 MP4로 저장되면 휴대폰에서도 볼수 있나요?\n혹시라도 법적인 문제? 규제는 없을까요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n해당 녹화 파일로 스마트폰에서 재생 가능합니다.\n개인 소장용 녹화는 법적인 문제가 없지만 저작권 있는 영상을 녹화해 상업적인 이득을 취할 경우 법적 문제가 생길 수 있으니 유의하시기 바랍니다."
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "id": 220741852,
+      "date": "2022-05-21 00:56",
+      "answerDate": "2022-05-23 09:54",
+      "user": "john******",
+      "productName": "랜스타 HDMI 비디오 외장 레코더 LS-HD-CAPM",
+      "question": "drm 또는 hdcp 같은 녹화방지가 설정된 kollus player에서 구동되는 인터넷 강의 영상도 녹화가 가능할까요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n해당 캡쳐보드 제품은 hdcp를 지원하며 넷플릭스 같은 OTT와 IPTV 프로그램 녹화가 가능합니다.\n\n문의하신 인터넷 강의 영상이 단순히 hdcp 녹화방지라면 녹화가 가능할것으로 보이지만 확답을 드리기는 어렵습니다."
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "id": 221034041,
+      "date": "2022-05-23 16:24",
+      "answerDate": "2022-05-23 17:27",
+      "user": "livi******",
+      "productName": "랜스타 HDMI 비디오 외장 레코더 LS-HD-CAPM",
+      "question": "안녕하세요\n인강도 녹화가 가능한가요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n문의하신 인터넷 강의 영상이 단순히 hdcp 녹화 방지라면 녹화가 가능할 것으로 보이지만 확답을 드리기는 어렵습니다."
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "id": 227853382,
+      "date": "2022-07-11 18:26",
+      "answerDate": "2022-07-12 12:55",
+      "user": "moon****",
+      "productName": "랜스타 HDMI 비디오 외장 레코더 LS-HD-CAPM",
+      "question": "kollus player 녹화 방지 걸린것도 가능한가요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n해당 제품은 넷플릭스나 iptv 녹화를 지원하지만 \n\n말씀해주신 특정 프로그램의 녹화 방지는 지원이 안될 수 있습니다."
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "id": 229508306,
+      "date": "2022-07-24 08:43",
+      "answerDate": "2022-07-25 09:00",
+      "user": "tina***",
+      "productName": "랜스타 HDMI 비디오 외장 레코더 LS-HD-CAPM",
+      "question": "막힌 인강에서도 녹화가능한가요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n녹화 방지 기술에 따라 녹화가 안될 수 있습니다."
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "id": 231337294,
+      "date": "2022-08-07 12:39",
+      "answerDate": "2022-08-08 09:20",
+      "user": "ytj1***",
+      "productName": "랜스타 HDMI 비디오 외장 레코더 LS-HD-CAPM",
+      "question": "안녕하세요 제품 구매하려고 하는데요 질문 드립니다\n\n1. 제품 광고에 PC모드는 지원하지 않습니다 가 무슨 뜻인지 모르겠는데요 PC로 보는 영상을 녹화 하려고 하는데 이 제품으로 가능한가요?\n\n2. 1회 녹화 시 가능한 최대 용량이나 시간이 어떻게 되는지요?\n\n3. 녹화한 파일 PC로 옮기는 건 가능한거죠?\n\n질문이 많아 죄송합니다..^^;\n답변 부탁드릴께요 \n수고하세요",
+      "answer": "안녕하세요 랜스타 입니다.\n\n1. 해당 제품은 휴대용 레코더로만 사용이 가능하며 PC와 연결하여 사용은 불가능합니다.\n\n2. 최대 3.8GB 저장되며 새로운 파일에 연속해서 저장됩니다.\n\n3. MICRO SD 카드로 저장하기 때문에 PC에 리더기 같은 제품으로 파일 이동이 가능합니다."
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "id": 231428171,
+      "date": "2022-08-08 09:45",
+      "answerDate": "2022-08-08 10:48",
+      "user": "ytj1***",
+      "productName": "랜스타 HDMI 비디오 외장 레코더 LS-HD-CAPM",
+      "question": "제품 재문의\n\n유튜브 영상에서 이 제품 컴퓨터 모니터에 연결해서\n\n모니터로 보고있는 영상을 녹화하는 것으로 보였는데\n\nPC로 재생하는 영상 모니터에 나올 때 연결해도 녹화가 불가능한 것인지요?",
+      "answer": "답변 드립니다.\n\n해당 제품은 PC 연결로 캡쳐보드에 HDMI IN 으로 연결 시 캡쳐보드 자체적으로 녹화가 가능합니다. \n먼저 말씀드리는 부분은 다른 USB 캡쳐보드 제품과는 연결 방식이 다르기 때문에 USB를 연결하여 캡쳐하는 방식으로의 사용은 불가능하다는 말씀드립니다."
+    },
+    {
+      "source_model": "LS-HD-CAPM",
+      "id": 234313725,
+      "date": "2022-08-29 13:50",
+      "answerDate": "2022-08-29 18:09",
+      "user": "trin****",
+      "productName": "랜스타 HDMI 비디오 외장 레코더 LS-HD-CAPM",
+      "question": "혹시 이 기기에 연결하면 스마트폰도 화면 녹화가 되는 건가요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n스마트폰(MHL) 연결도 녹화 가능합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HD-CAPM",
+      "chatUrl": "ddkO1",
+      "dateIso": "2025-04-18T00:36:22.276Z",
+      "name": "iamqov",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하세요 다름은 아니고 단종되 제품( 랜스타 LS-HD-CAPM HDMI 비디오 외장 레코더 FHD 60hz) 이와 유사한 제품이 있을까요?? 다른 브랜드 중에서는 없겠죠...?",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "3.5mm"
+      ],
+      "output_signals": [
+        "HDMI",
+        "3.5mm"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": null,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI IN/OUT 포트를 통해 영상·음성 동시 전송",
+    "connectivity.input_signals.1": "3.5mm 마이크 단자를 통해 녹화 중 음성 동시 녹음 가능",
+    "connectivity.output_signals": "HDMI IN/OUT 포트를 통해 영상·음성 동시 전송",
+    "connectivity.output_signals.1": "Audio Output: HDMI, 스피커, 이어폰, 헤드셋",
+    "connectivity.directional": "HDMI IN/OUT 포트를 통해 영상·음성 동시 전송",
+    "power.power_mode": "내장형 배터리(3000mAh, 최대 2.5시간) 탑재",
+    "form_physical.has_case": "LAN Star HDMI 외장 비디오 레코더",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "audio_video.max_resolution": "1080P@60Hz 해상도로 Micro SD 카드에 영상 저장",
+    "audio_video.audio_pass": "HDMI IN/OUT 포트를 통해 영상·음성 동시 전송",
+    "control_switching.has_remote": "녹화 중 스크린샷(스냅샷) 기능 지원 (리모콘 캡처 버튼)",
+    "control_switching.has_physical_button": "녹화 시작/정지 버튼 또는 리모콘으로 녹화를 제어한다"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:42",
+  "feature_schema_version": "1.0.0"
+}

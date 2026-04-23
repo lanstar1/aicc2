@@ -1,0 +1,142 @@
+{
+  "model_no": "LS-3R-5MM",
+  "product_name": "LAN Star 3RCA 고급형 M/M 케이블",
+  "category": [
+    "RCA케이블"
+  ],
+  "key_features": [
+    "영상신호와 음성신호(좌/우) 동시 전송 가능",
+    "PVC 재질, 5pi(두께) 고급형 케이블로 일반 RCA 케이블보다 두꺼움",
+    "신호 손실이 적은 장점",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "케이블 재질": "PVC",
+    "케이블 두께": "5pi",
+    "커넥터 타입": "3RCA MALE / 3RCA MALE (M/M)",
+    "모델명(3M)": "LS-3R-5MM-3M",
+    "모델명(10M)": "LS-3R-5MM-10M",
+    "KC 인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "TV",
+    "캠코더",
+    "VCR",
+    "DVD 플레이어",
+    "비디오 플레이어",
+    "오디오 앰프",
+    "스피커",
+    "레코드 플레이어",
+    "CD 플레이어"
+  ],
+  "package_contents": [
+    "3RCA 고급형 M/M 케이블 1개"
+  ],
+  "usage_instructions": "3RCA 케이블의 각 단자(비디오 영상신호, 오디오 음성신호 좌/우)를 출력 기기의 OUTPUT 단자와 입력 기기의 INPUT 단자에 색상에 맞게 연결하여 사용. TV, DVD 플레이어, 비디오 플레이어, 앰프, 스피커 등 다양한 AV 기기 간 연결에 활용 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상, 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-3R-5MM-3M",
+      "품목코드": "CAB-3R고002",
+      "품목명": "[LANstar] RCA케이블 , 3RCA M／M 3M 고급형[10412]",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-3R-5MM-5M",
+      "품목코드": "CAB-3R고003",
+      "품목명": "[LANstar] RCA케이블 , 3RCA M／M 5M 고급형[10413]",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-3R-5MM-10M",
+      "품목코드": "CAB-3R고004",
+      "품목명": "[LANstar] RCA케이블 , 3RCA M／M 10M 고급형 [10414]",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RCA"
+      ],
+      "output_signals": [
+        "RCA"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        3,
+        10
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "없음",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3RCA MALE",
+    "connectivity.output_signals": "3RCA MALE",
+    "connectivity.directional": "영상신호와 음성신호(좌/우) 동시 전송 가능",
+    "power.power_mode": "PVC 재질, 5pi(두께) 고급형 케이블",
+    "power.charging_support": "PVC 재질, 5pi(두께) 고급형 케이블",
+    "form_physical.material": "PVC 재질",
+    "form_physical.length_options_meters": "모델명(3M)",
+    "certification.kc": "KC 인증번호: 해당없음",
+    "audio_video.max_resolution": "3RCA 케이블의 각 단자(비디오 영상신호",
+    "audio_video.hdcp_version": "3RCA 케이블의 각 단자(비디오 영상신호",
+    "audio_video.audio_pass": "음성신호(좌/우) 동시 전송 가능",
+    "family.optical_core": "PVC 재질",
+    "family.ethernet_channel": "3RCA 케이블의 각 단자(비디오 영상신호"
+  },
+  "feature_extracted_at": "2026-04-23T03:06:56",
+  "feature_schema_version": "1.0.0"
+}

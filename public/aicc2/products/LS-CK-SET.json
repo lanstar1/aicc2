@@ -1,0 +1,109 @@
+{
+  "model_no": "LS-CK-SET",
+  "product_name": "USB Type-C 포트 잠금장치 스윙형 SET (락포트 키 1ea + 포트락 4ea)",
+  "category": [
+    "USB-C",
+    "커넥터",
+    "USB잠금장치"
+  ],
+  "key_features": [
+    "360° 양방향 회전 가능한 스윙형 잠금장치로 미사용 시 간소화하여 보관 용이",
+    "USB Type-C 포트를 물리적으로 직접 차단하여 바이러스 침투 및 데이터 유출 방지",
+    "방화벽·백신 프로그램 의존 없이 실천 가능한 간단한 보안 방법",
+    "서버실, 회사, 군부대, 개발부서 등 다양한 환경에서 사용 가능",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품",
+    "전용 추가 포트락(LS-CK-PORT, 10ea) 별도 구매 가능"
+  ],
+  "specifications": {
+    "구성": "잠금키 1개 / 포트락 4개",
+    "호환 커넥터": "USB Type-C 커넥터",
+    "색상": "Grey",
+    "크기": "111(71) x 15 x 11 (mm)",
+    "두께": "11mm",
+    "무게": "약 9g",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음",
+    "AS 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "USB Type-C 커넥터 탑재 기기 (노트북 등)"
+  ],
+  "package_contents": [
+    "잠금키(락포트 키) 1ea",
+    "USB Type-C 포트락 4ea"
+  ],
+  "usage_instructions": "1. 잠금키와 Type-C 포트락을 결합한 뒤 스위치를 위로 올린다. 2. 사용하지 않는 Type-C 포트에 포트락을 연결한다. 3. 잠금 완료. 해제 시에는 역순으로 진행: 스위치를 아래로 움직인 뒤 잠금키를 빼낸다.",
+  "cautions": [
+    "Type-C 포트를 막은 후 잠금키를 분실하지 않도록 주의",
+    "본 제품의 잠금키는 해당 포트락 모양에 맞게 제작된 전용 키로, 다른 유사 제품으로는 포트락을 커넥터에서 제거할 수 없음",
+    "사용자의 부주의로 발생한 제품 손상은 제조사가 책임지지 않음",
+    "제조사 사정에 따라 색상·형태 등 사양이 예고 없이 변경될 수 있음",
+    "추가 구매 포트락(LS-CK-PORT)은 LS-CK-SET 전용이며 잠금키 미포함(포트락 10ea만 구성)"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-CK-SET",
+      "품목코드": "NEO-부트류183",
+      "품목명": "[LANstar] USB Type C 포트 잠금장치1개 ,USB C타입 커넥터 4개 포함 세트/화이트 [30686]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "Grey"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": null,
+      "transfer_speed_gbps": null,
+      "charging_only": null,
+      "data_only": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.color_options": "색상: Grey",
+    "certification.kc": "KC 인증 번호: 해당없음"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:08",
+  "feature_schema_version": "1.0.0"
+}

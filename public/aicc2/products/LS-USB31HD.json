@@ -1,0 +1,141 @@
+{
+  "model_no": "LS-USB31HD",
+  "product_name": "LAN Star USB 3.1 Type C to HDMI 컨버터",
+  "category": [
+    "DisplayPort",
+    "USB-C",
+    "컨버터",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 3.1 Type-C 입력 → HDMI 출력 신호 변환",
+    "DisplayPort Alternate Mode 지원",
+    "4K UHD(3840x2160) 30Hz 해상도 출력 지원",
+    "앞·뒤 구분 없는 양면인식 Type-C 커넥터",
+    "무전원(버스파워) 방식으로 별도 전원 공급 불필요",
+    "삼성 DeX(Desktop Experience) 모드 지원",
+    "HDCP(고대역 디지털 콘텐츠 보호) 지원",
+    "스마트폰 미러링 지원",
+    "Plug and Play 지원",
+    "RoHS 규정 준수",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "입력 인터페이스": "USB 3.1 Type-C",
+    "출력 인터페이스": "HDMI",
+    "최대 출력 해상도": "4K UHD (3840x2160) 30Hz",
+    "전원 방식": "버스파워(Bus Power) – 별도 전원 불필요",
+    "신호 변환 방식": "DisplayPort Alternate Mode → HDMI",
+    "HDCP 지원": "지원",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "RoHS": "준수"
+  },
+  "compatibility": [
+    "DisplayPort Alternate Mode를 지원하는 USB Type-C 기기",
+    "Apple MacBook (USB Type-C 탑재 모델)",
+    "Google Chromebook (USB Type-C 탑재 모델)",
+    "USB Type-C 탑재 노트북",
+    "USB Type-C 탑재 스마트폰",
+    "USB Type-C 탑재 태블릿",
+    "Samsung Galaxy Note9",
+    "Samsung Galaxy Note8",
+    "Samsung Galaxy S10e",
+    "Samsung Galaxy S10",
+    "Samsung Galaxy S10+",
+    "Samsung Galaxy S9",
+    "Samsung Galaxy S9+",
+    "Samsung Galaxy S8",
+    "Samsung Galaxy S8+",
+    "Samsung Galaxy Tab S4"
+  ],
+  "package_contents": [
+    "USB 3.1 Type-C to HDMI 컨버터 본체 (LS-USB31HD) 1개"
+  ],
+  "usage_instructions": "USB 3.1 Type-C 단자가 있는 기기(맥북, 크롬북, 스마트폰, 태블릿 등)의 Type-C 포트에 컨버터를 연결(입력)하고, HDMI 케이블을 통해 디스플레이 장치에 연결(출력)합니다. 별도의 전원 공급 없이 버스파워만으로 작동하며, Plug and Play 방식으로 드라이버 설치 없이 사용 가능합니다. 삼성 DeX 모드 지원 기기는 Dex 패드 없이 DeX 모드를 사용할 수 있습니다.",
+  "cautions": [
+    "DisplayPort Alternate Mode를 지원하지 않는 USB Type-C 기기에서는 사용할 수 없습니다.",
+    "최대 출력 해상도는 4K UHD 30Hz이며, 60Hz는 지원되지 않습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB31HD",
+      "품목코드": "CAB-U31126",
+      "품목명": "[LANstar] USB3.1 Type C to HDMI 컨버터, 무전원/AlternateMode [20165]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 Type-C 입력",
+    "connectivity.output_signals": "HDMI 출력 신호 변환",
+    "connectivity.directional": "USB 3.1 Type-C 입력 → HDMI 출력",
+    "power.power_mode": "무전원(버스파워) 방식으로 별도 전원 공급 불필요",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "4K UHD(3840x2160) 30Hz 해상도 출력 지원",
+    "audio_video.hdcp_version": "HDCP(고대역 디지털 콘텐츠 보호) 지원",
+    "audio_video.audio_pass": "HDMI 출력 신호 변환"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:51",
+  "feature_schema_version": "1.0.0"
+}

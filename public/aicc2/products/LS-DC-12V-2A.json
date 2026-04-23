@@ -1,0 +1,119 @@
+{
+  "model_no": "LS-DC-12V-2A",
+  "product_name": "랜스타 DC 아답터 12V 2A",
+  "category": [
+    "USB선택기",
+    "USB케이블",
+    "USB3.0",
+    "전원아답터"
+  ],
+  "key_features": [
+    "랜스타 선택기/분배기/멀티비젼 전용 아답터",
+    "코드 일체형 구조",
+    "정격 출력 12V 2000mA",
+    "팁 사이즈 외경 5.5mm / 내경 2.1mm",
+    "케이블 길이 약 1.2m",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 규정 준수 (납·수은·카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "정격전압": "100-240V ~ 50/60Hz, 0.8A",
+    "정격출력": "12Vdc / 2000mA",
+    "팁 외경": "5.5mm",
+    "팁 내경": "2.1mm",
+    "케이블 길이": "약 1.2m",
+    "아답터 무게": "약 119g",
+    "아답터 인증번호": "HU10999-190048",
+    "안전인증번호": "HU10653-12001B",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "본체 크기": "29mm x 42mm x 70mm (추정 치수 표기 기준)"
+  },
+  "compatibility": [
+    "LS-MV109",
+    "LS-MV104",
+    "LS-HMS404",
+    "LS-HDM104",
+    "LS-HD1016-UHD",
+    "LS-USB3.0-SATA24",
+    "정격 출력 12V 2A 및 팁 사이즈(외경 5.5mm / 내경 2.1mm)가 동일한 타사 기기"
+  ],
+  "package_contents": [
+    "DC 아답터 (코드 일체형) 1개"
+  ],
+  "usage_instructions": "잭 모양과 아답터 규격(정격 출력 12V 2A, 팁 외경 5.5mm / 내경 2.1mm)이 동일하면 랜스타 제품 외 기기에도 사용 가능합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DC-12V-2A",
+      "품목코드": "TTA-DC어007",
+      "품목명": "DC아답터, 12V 2A , **LS-USB3.0-SATA 호환** [33033] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "무관"
+      ],
+      "output_signals": [
+        "무관"
+      ],
+      "directional": "N/A"
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": 1.2
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "selector_type": "N/A",
+      "input_count": null,
+      "output_count": null,
+      "interfaces": []
+    }
+  },
+  "feature_evidence": {
+    "power.power_mode": "랜스타 DC 아답터 12V 2A",
+    "form_physical.has_case": "코드 일체형 구조",
+    "form_physical.material": "아답터 무게: 약 119g",
+    "form_physical.length_meters": "케이블 길이 약 1.2m",
+    "certification.kc": "아답터 인증번호: HU10999-190048",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:22",
+  "feature_schema_version": "1.0.0"
+}

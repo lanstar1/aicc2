@@ -1,0 +1,112 @@
+{
+  "model_no": "LS-EXK",
+  "product_name": "EZ플러그 랜툴 교체형 칼날 (LS-68P 전용)",
+  "category": [
+    "커넥터"
+  ],
+  "key_features": [
+    "LS-68P EZ플러그 랜툴 전용 교체형 칼날",
+    "칼날 마모 시 칼날만 교체하여 새것처럼 재사용 가능",
+    "교체용 칼날 사용으로 작업 효율 향상",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 인증(EU 특정위험물질 사용제한 지침 준수)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-EXK",
+    "제품명": "EZ플러그 랜툴 교체형 칼날",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "LANStar LS-68P EZ플러그 랜툴 전용"
+  ],
+  "package_contents": [
+    "교체형 칼날 (LS-EXK)"
+  ],
+  "usage_instructions": "1. 칼날 부분의 (+)드라이버 나사를 제거한 후 기존 칼날을 제거한다. 2. 교체할 칼날을 홈에 맞춰 끼운다. 3. 드라이버를 이용해 나사를 조여주면 완성.",
+  "cautions": [
+    "LS-68P EZ플러그 랜툴 전용 부품으로 다른 제품에는 사용 불가",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)의 상품 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-EXK",
+      "품목코드": "NEO-LAN101",
+      "품목명": "[LANstar] EZ플러그 랜툴 교체형 칼날 (LS-68P 전용) [20149]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-EXK",
+      "chatUrl": "5BoiU",
+      "dateIso": "2025-11-26T02:26:38.476Z",
+      "name": "신원석",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "안녕하세요\n이 제품 교체형칼날은 LS-EXK 던데 호환 가능한걸까요?",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": null,
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "certification.rohs": "RoHS 인증(EU 특정위험물질 사용제한 지침 준수)",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:59",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,256 @@
+{
+  "model_no": "LS-CMG2",
+  "product_name": "LANStar USB 3.1 GEN2 Type-C 케이블 (LS-CMG2-1M)",
+  "category": [
+    "랜케이블-CAT6A",
+    "USB케이블",
+    "USB-C",
+    "USB3.0",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 3.1 Gen2 SUPERSPEED+ 규격으로 최대 10Gbps 데이터 전송 속도 지원",
+    "USB 3.0(5Gbps) 대비 약 2배 빠른 전송 속도",
+    "Type-C to Type-C (C/M to C/M) 커넥터 구성",
+    "Type-C 커넥터로 앞뒤 구분 없이 연결 가능",
+    "최대 3A 충전 전류 지원으로 고속 충전 가능",
+    "하위 버전 호환 지원 (USB 1.1 / 2.0 / 3.0)",
+    "RoHS 유해물질 사용 제한 규정 준수",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품",
+    "USB3.1 Gen2 규격 지원, 최대 10Gbps 데이터 전송 속도",
+    "PD 고속 충전 지원 (최대 60W, 20V 3A)",
+    "USB Type-C to Type-C 리버서블 디자인 (위아래 구분 없이 연결 가능)",
+    "USB-C Alt Mode 지원 시 4K/8K 영상 출력 가능",
+    "부드럽고 유연한 케이블 소재, 약 15,000회 이상 꺾임 테스트 통과",
+    "핀 배열이 외부에 위치하여 기존 USB 포트 대비 높은 내구성",
+    "노트북, 스마트폰, 태블릿, 콘솔, 모니터, 무선 이어폰 등 높은 호환성",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "라인업시스템(주) / 랜스타 정품 인증 제품"
+  ],
+  "specifications": {
+    "USB 규격": "USB 3.1 Gen2 (SUPERSPEED+)",
+    "최대 전송 속도": "10Gbps",
+    "최대 충전 전류": "3A",
+    "커넥터 타입": "Type-C (C/M to C/M)",
+    "케이블 길이": "1m",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "안전규격 인증": "KC, FCC, CE",
+    "환경 규격": "RoHS Compliant",
+    "규격": "USB3.1 Gen2",
+    "형태": "USB Type-C to Type-C",
+    "전송 속도": "10Gbps",
+    "PD 충전": "60W (20V 3A)",
+    "색상": "Black, White",
+    "길이": "Black: 1m, 2m, 3m / White: 1m",
+    "커넥터 직경": "12mm"
+  },
+  "compatibility": [
+    "USB 3.1 Type-C 포트 탑재 기기",
+    "USB 3.0 Type-C 포트 탑재 기기 (하위 호환)",
+    "USB 2.0 Type-C 포트 탑재 기기 (하위 호환)",
+    "노트북 (MacBook, Chromebook 등 Type-C 포트 보유 제품)",
+    "스마트폰 (Samsung, Nokia 등 Type-C 지원 기기)",
+    "태블릿 PC (Type-C 지원 기기)",
+    "기타 Type-C 포트를 보유한 모바일 기기",
+    "USB Type-C 포트를 사용하는 스마트폰",
+    "USB Type-C 포트를 사용하는 태블릿",
+    "USB Type-C 포트를 사용하는 노트북 (맥북 에어 정상 충전 가능)",
+    "USB Type-C 포트를 사용하는 무선 이어폰",
+    "USB Type-C 포트를 사용하는 콘솔 (Nintendo Switch 등)",
+    "USB Type-C 포트를 사용하는 모니터",
+    "썬더볼트 포트 (하위 호환, 속도 및 기능 제한 가능)",
+    "USB PD 지원 충전기"
+  ],
+  "package_contents": [
+    "USB 3.1 Gen2 Type-C 케이블 (LS-CMG2-1M) 1개",
+    "USB3.1 Gen2 C to C 케이블 1개"
+  ],
+  "usage_instructions": "Type-C 커넥터를 기기의 Type-C 포트에 연결하여 사용. Type-C 커넥터는 앞뒤 구분 없이 삽입 가능. 충전 및 데이터 전송 모두 지원.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "무단 복제 및 상표 도용 시 불이익을 당할 수 있음 (LANStar® 저작권 보호)",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr",
+    "구매/배송/반품은 판매처(쇼핑몰) 기준 적용"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-CMG2-1M",
+      "품목코드": "CAB-U31162",
+      "품목명": "[LANstar] Type C 케이블 USB 3.1 Gen 2 , 1M , Black [30374] (250개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-CMG2-2M",
+      "품목코드": "CAB-U31513",
+      "품목명": "[LANstar] Type C to C 케이블, 2M , USB 3.1 Gen 2 , Black [30891]",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-CMG2-3M",
+      "품목코드": "CAB-U31514",
+      "품목명": "[LANstar] Type C to C 케이블, 3M , USB 3.1 Gen 2 , Black [30892]",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-CMG2-1M",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-CMG2-1M",
+      "내용": "좋아요 좋아요 좋아요"
+    },
+    {
+      "source_model": "LS-CMG2-1M",
+      "내용": "아이폰용으로쓰려고 샀는데 빠르고좋네요 \n다음에 또사러올게요!!!!✌️"
+    },
+    {
+      "source_model": "LS-CMG2-2M",
+      "내용": "잘 작동합니다 길이도 길도 정리할수있는 짹찍이도 달려있내요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-CMG2-1M",
+      "id": 556483467,
+      "date": "2023-11-24 21:45",
+      "answerDate": "2023-11-27 10:53",
+      "user": "an****",
+      "productName": "랜스타 LS-CMG2-1M USB 3.1 Gen 2 Type-C 케이블 PD 충전 지원",
+      "question": "혹시 c to a 젠더는 없나요??",
+      "answer": "안녕하세요, 고객님. 랜스타입니다.\n\nC to A 젠더 암/수를 구별하여 말씀해 주시지 않아서 정확한 제품 안내가 어려운 점 양해 부탁드리며, 2가지 제품에 대한 안내를 드립니다.\n[LS-UA2C] 제품 링크: https://smartstore.naver.com/lineup/products/5329356430\n[LS-U30F-C31M-G] 제품 링크: https://smartstore.naver.com/lineup/products/5557183981\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-CMG2-1M",
+      "id": 566058769,
+      "date": "2024-01-30 17:56",
+      "answerDate": "2024-01-31 10:08",
+      "user": "923x***",
+      "productName": "랜스타 LS-CMG2-1M USB 3.1 Gen 2 Type-C 케이블 PD 충전 지원",
+      "question": "이거와 같이 쓸 대가리(?)라고 하나요?\n돼지코 달린 그거는 같이 안파나요??",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 말씀 주신 제품, 추가 상품으로 걸어두었습니다.\n보다 더 자세한 정보를 원하실 경우, 'LS-GAN65W' 해당 모델명 검색하시어 구매에 참고 부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-CMG2-1M-W",
+      "chatUrl": "ZjWG",
+      "dateIso": "2024-03-11T02:54:29.615Z",
+      "name": "표진원",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "제가 주문한 충전기에 c타입 케이블이 포함되어 오는거죠? 네 c 타입선은 반품할게요 그럼 스마트폰거치대는 제가 가지면 되고 충전기만 추가로 보내주시면 되겠네요 언제 받을수있을까요?...",
+      "answer": "네, 고객님. C타입 케이블 포함되어 있습니다. 주문주셨던 초고속 충전기 정상적으로 출고 도와드렸습니다. 아래에 운송장 번호 함께 남겨드립니다. [로젠 36315140175]",
+      "turn_count": 1,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "제가 주문한 충전기에 c타입 케이블이 포함되어 오는거죠? 네 c 타입선은 반품할게요 그럼 스마트폰거치대는 제가 가지면 되고 충전기만 추가로 보내주시면 되겠네요 언제 받을수있을까요?..."
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님. C타입 케이블 포함되어 있습니다.\n주문주셨던 초고속 충전기 정상적으로 출고 도와드렸습니다.\n아래에 운송장 번호 함께 남겨드립니다.\n[로젠 36315140175]"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-CMG2-NEW": "LANG\nStar\nUSB3.1 Gen2 C to C 케이블\nPD 고속 충전 / 10Gbps 전송 속도 지원\n케이블 제품 분류표\n모델No.\n모델명\n길이\n색상\n30374\nLS-CMG2-1M\n1M\nΣ\n30891\nLS-CMG2-2M\n2M\n대\nBlack\n30892\nLS-CMG2-3M\n3M\n30692\nLS-CMG2-1M-W\nIM\nΣ\nWhite\nUSB Type-C\n기존 USB-A, USB-B, Micro USB를 대체하며 충전, 데이터 전송, 영상 출력까지\n하나의 케이블로 가능하도록 설계된 차세대 표준 포트\n리버서블 디자인\nUSB-C는 위아래 구분 없이 꽂을 수 있어 편리하고, 모든 USB-C 포트와 케이블은\n같은 모양을 가지므로, 모든 장치 간 연결이 가능\n영상 출력 가능\nUSB-C Alt Mode 지원 시 노트북, 태블릿에서 모니터 연결이 가능하며,\n4K/8K의 해상도로 출력이 가능\n높은 호환성\n노트북, 스마트폰, 태블릿, 콘솔, 모니터 등 다양한 기기에서\n표준으로 채택되어 하나의 케이블을 통해 충전 + 데이터 전송 + 영상 출력 가능\n더 강한 내구성\n핀 배열이 중앙이 아닌 외부에 위치하여 파손 위험이 적어 기존 USB 포트에 비해\n내구성이 강함\nG\nㄷㄹ\nUSB Type-C\nUSB Type-A\n\n\n13\nUSB Type-C\nUSB Type-A\nUSB 3.1 Gen2\nSUPERSPEED+ / 10Gbps 전송 속도 지원\nUSB3.1 Gen2 규격을 지원하여 최대 10Gbps의 전송 속도를 지원합니다.\nFinder File Edit View Go Window\nUSB3.1 Gen2\n10Gbps\nUSB3.1 Genl\n5Gbps\nUSB2.0\n480Mbps\n10Gbps\n0\n19\n*******\n°\nO\nPD 충전 지원\n20V 3A / 60W 고속 충전\n충전시 최대 전압 20V, 3A의 전류를 지원하여\n최대 60W로 고속 충전이 가능한 PD 지원 케이블입니다.\nPD 충전을 지원하는 충전기와 함께 사용 시\n고속 충전을 사용할 수 있습니다.\ndragedesign\nPhotos et mage View Window Help\nDisk Speed Test\nREAD\nWRITE\nSTART\n13730\nA 4000\nIRODA\nAMOOCH\nMacBook Pro\n1908064770-4\nO\n2\n다양한 제품 호환\nUSB C타입 포트를 사용하는 스마트폰, 태블릿, 노트북, 무선 이어폰 등\n다양한 제품에서 사용할 수 있습니다.\n\n\nUSB C타입 포트를 사용하는 스마트폰, 태블릿, 노트북, 무선 이어폰 등\n다양한 제품에서 사용할 수 있습니다.\n9:41\n20 April\nㅗ\nDienstag, 15. Okt 14'C\n08:08\n08\nNINTENDO\nSWITCH\nSP-Site\nFoder Fle View Go Window Feb\nPRODUCT DETAIL\n부드러운 케이블\n케이블이 부드럽고 유연하여\n편리하게 사용 가능\n견고한 케이블\n부드러운 소재인 동시에\n내구성이 강한 케이블\n꺾여도 문제 X\n약 15,000회 이상의\n꺾임 테스트 진행\n\n\n꺾여도 문제 X\n약 15,000회 이상의\nn\n꺾임 테스트 진행\nPRODUCT SIZE\n12mm\n38\n32mm\nIM/2M / 3M\n(흰색은 1M 단일 제품)\nSPECIFICATION\n규격\nUSB3.1 Gen2\n형태\nUSB Type-C to Type-C\n전송 속도\n10Gbps\nPD\n60W (20V 3A)\n색상\nBlack, White\nBlack:1m, 2m, 3m\n길이\nWhite: 1m\nFAQ\n자주 물어보시는 질문\nQ. 초고속 충전도 지원하나요?\nPPS를 지원하는 고속 충전기와 함께 사용할 경우, 초고속 충전도 가능하나\n일반적으로 초고속 충전은 100W 전력을 지원해야 합니다.\nQ. 맥북도 고속 충전할 수 있나요?\n맥북 에어는 정상적으로 충전이 가능하나, 맥북 프로는 67~140W의 충전이 필요하여\n고속 충전을 지원하지 않습니다. 맥북 프로를 빠르게 충전하려면 100W(5A)\n지원 케이블을 사용하시기 바랍니다.\nQ. 차량에서도 고속 충전이 가능한가요?\n일반 차량의 시거잭을 이용할 경우 고속 충전이 어려울 수 있습니다.\n차량에서도 고속 충전을 하기 위해서는 USB PD를 지원하는 충전기와 함께\n사용하시기 바랍니다.\nQ. 썬더볼트 포트에서 사용해도 되나요?\n네. 일반적으로 썬더볼트는 하위 규격도 호환하기 때문에 사용할 수 있습니다.\n단, 썬더볼트 전용 케이블이 아니기 때문에 속도와 기능이 제한될 수 있습니다.\n썬더볼트 포트가 USB PD 충전을 지원할 경우에 고속 충전은 가능합니다.\nQ. 길이가 더 긴 케이블은 없나요?\n\n\n네. 일반적으로 썬더볼트는 하위 규격도 호환하기 때문에 사용할 수 있습니다.\n단, 썬더볼트 전용 케이블이 아니기 때문에 속도와 기능이 제한될 수 있습니다.\n썬더볼트 포트가 USB PD 충전을 지원할 경우에 고속 충전은 가능합니다.\nQ. 길이가 더 긴 케이블은 없나요?\n네. 길이가 길어질수록 속도 저하, 충전 성능 저하 등의 문제가 발생할 가능성이 큽니다.\n이론적으로 안정적으로 사용할 수 있는 길이는 최대 3M입니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\nㅎㅎ\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n전문기업확인서\n소재 부를 장비 전문기업화인서\n78 $147\nNAW\n2\nANNO 2023123-\n평가관리원\n기자\n신문기업인을 확신합니다.\n산업통산자원부 시행 제도\nKeit\nHUS12E\n2022.11.29 취득\n한국산업기술평가관\n比佢\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타\" 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상품정보\n품\n명\nUSB3.1 Gen2 C to C 케이블\nLAN Star\nLS-CMG2-IM (1M, Black)\nLS-CMG2-2M (2M, Black)\nLS-CMG2-3M (3M, Black)\n모\n델\n명\nLS-CMG2-1M-W (1M, White)\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\n\n\nLANStar\n모\n델\n명\nLS-CMG2-IM (IM, Black)\nLS-CMG2-2M (2M, Black)\nLS-CMG2-3M (3M, Black)\nLS-CMG2-IM-W (1M, White)\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질 보증 기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLAN Star\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-C"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": 60
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        2,
+        3
+      ],
+      "color_options": [
+        "Black",
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Type-C to Type-C (C/M to C/M)",
+    "connectivity.output_signals": "Type-C to Type-C (C/M to C/M)",
+    "connectivity.directional": "Type-C 커넥터로 앞뒤 구분 없이 연결 가능",
+    "power.power_mode": "최대 3A 충전 전류 지원",
+    "power.charging_support": "최대 3A 충전 전류 지원으로 고속 충전 가능",
+    "power.pd_watts": "PD 고속 충전 지원 (최대 60W, 20V 3A)",
+    "form_physical.length_options_meters": "길이: Black: 1m, 2m, 3m / White: 1m",
+    "form_physical.color_options": "색상: Black, White",
+    "certification.kc": "안전규격 인증: KC, FCC, CE",
+    "certification.rohs": "RoHS 유해물질 사용 제한 규정 준수",
+    "certification.fcc": "안전규격 인증: KC, FCC, CE",
+    "certification.ce": "안전규격 인증: KC, FCC, CE",
+    "audio_video.max_resolution": "USB-C Alt Mode 지원 시 4K/8K 영상 출력 가능",
+    "audio_video.audio_pass": "USB-C Alt Mode 지원 시 4K/8K 영상 출력 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:10",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

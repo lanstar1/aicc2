@@ -1,0 +1,3821 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>랜스타 AICC — 고객문의 AI 응대 시스템</title>
+<style>
+  /* ===== Design tokens — Apple/Amazon 톤 라이트 미니멀 ===== */
+  :root {
+    --bg:         #F5F5F7;   /* Apple base gray */
+    --surface:    #FFFFFF;
+    --surface-2:  #FBFBFD;
+    --elev-1:     #F2F4F7;
+    --elev-2:     #E8EBF0;
+    --elev-3:     #DADDE3;
+
+    --panel:      var(--surface);
+    --panel2:     var(--elev-2);
+    --accent2:    #1FA98A;
+
+    --border:      #E5E5EA;   /* Apple divider */
+    --border-2:    #D1D1D6;
+    --border-soft: rgba(0,0,0,.06);
+
+    --text:   #1D1D1F;        /* Apple near-black */
+    --text-2: #3A3A3C;
+    --muted:  #86868B;
+
+    --accent:      #0071E3;   /* Apple link blue */
+    --accent-2:    #0A84FF;   /* Apple system blue */
+    --accent-soft: rgba(0,113,227,.09);
+    --accent-ring: rgba(0,113,227,.22);
+
+    --success:      #0DAA6E;
+    --success-soft: rgba(13,170,110,.10);
+    --warn:         #B25E09;
+    --warn-soft:    rgba(178,94,9,.10);
+    --err:          #D8382F;
+    --err-soft:     rgba(216,56,47,.10);
+
+    --shadow-sm: 0 1px 2px rgba(16,24,40,.04);
+    --shadow-md: 0 2px 6px rgba(16,24,40,.05), 0 1px 3px rgba(16,24,40,.03);
+    --shadow-lg: 0 12px 36px rgba(16,24,40,.12), 0 2px 8px rgba(16,24,40,.06);
+
+    --radius-sm:   8px;
+    --radius-md:   10px;
+    --radius-lg:   14px;
+    --radius-pill: 999px;
+
+    --header-h: 54px;
+  }
+
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    height: 100%;
+    overflow: hidden;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", "Pretendard",
+      "Noto Sans KR", "Apple SD Gothic Neo", "Segoe UI", sans-serif;
+    font-size: 14px; line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+  ::-webkit-scrollbar { width: 10px; height: 10px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(60,60,67,.25); border-radius: 10px;
+    border: 2px solid transparent; background-clip: padding-box;
+  }
+  ::-webkit-scrollbar-thumb:hover { background: rgba(60,60,67,.45); border: 2px solid transparent; background-clip: padding-box; }
+
+  /* ===== Header ===== */
+  header {
+    height: var(--header-h);
+    padding: 0 20px;
+    background: rgba(255,255,255,.82);
+    backdrop-filter: saturate(180%) blur(18px);
+    -webkit-backdrop-filter: saturate(180%) blur(18px);
+    border-bottom: 1px solid var(--border);
+    display: flex; align-items: center; gap: 14px;
+    position: relative; z-index: 20;
+  }
+  header h1 {
+    margin: 0; font-size: 15px; font-weight: 600;
+    letter-spacing: -0.015em;
+    display: inline-flex; align-items: center; gap: 10px;
+    color: var(--text);
+  }
+  header h1::before {
+    content: ""; display: inline-block;
+    width: 9px; height: 9px; border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 0 3px rgba(0,113,227,.14);
+  }
+  header .sub {
+    color: var(--muted); font-size: 12px;
+    padding-left: 10px;
+    border-left: 1px solid var(--border);
+  }
+  .tab-bar {
+    display: inline-flex; gap: 2px;
+    margin-left: 8px;
+    padding: 3px;
+    background: var(--elev-1);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+  }
+  .tab-btn {
+    background: transparent; color: var(--text-2); border: none;
+    padding: 5px 13px; font-size: 12.5px; font-weight: 500;
+    width: auto; border-radius: 6px;
+    box-shadow: none; cursor: pointer;
+    transition: background .14s ease, color .14s ease;
+  }
+  .tab-btn:hover:not(.active) { background: #FFFFFF; color: var(--text); filter: none; }
+  .tab-btn.active {
+    background: #FFFFFF;
+    color: var(--text);
+    box-shadow: 0 1px 2px rgba(16,24,40,.06), 0 0 0 1px rgba(0,0,0,.04);
+    font-weight: 600;
+  }
+  header .spacer { flex: 1; }
+  .status {
+    color: var(--text-2); font-size: 12px;
+    display: inline-flex; align-items: center; gap: 7px;
+    padding: 4px 10px;
+    background: var(--elev-1);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-pill);
+  }
+  .status::before {
+    content: ""; width: 6px; height: 6px; border-radius: 50%;
+    background: var(--muted); flex-shrink: 0;
+  }
+  .status.ok  { color: var(--success); border-color: rgba(13,170,110,.35); background: var(--success-soft); }
+  .status.ok::before  { background: var(--success); box-shadow: 0 0 0 3px rgba(13,170,110,.18); }
+  .status.err { color: var(--err); border-color: rgba(216,56,47,.35); background: var(--err-soft); }
+  .status.err::before { background: var(--err); box-shadow: 0 0 0 3px rgba(216,56,47,.18); }
+  header button.secondary {
+    width: auto; padding: 6px 11px; font-size: 12px; font-weight: 500; min-height: 0;
+    background: var(--elev-1); color: var(--text);
+    border: 1px solid var(--border); box-shadow: none;
+  }
+  header button.secondary:hover { background: var(--elev-2); border-color: var(--border-2); filter: none; }
+
+  /* ===== Views (tab panels) ===== */
+  .view {
+    display: none;
+    height: calc(100vh - var(--header-h));
+  }
+  .view.active { display: grid; }
+
+  /* 톡톡문의 3-pane: 세션목록 | 채팅 | 제품 */
+  #view-chat {
+    grid-template-columns: 300px 1fr 340px;
+  }
+  /* 제품문의 2-pane: 이력 | 메인 */
+  #view-qna {
+    grid-template-columns: 300px 1fr;
+  }
+  @media (max-width: 1100px) {
+    #view-chat { grid-template-columns: 260px 1fr 300px; }
+  }
+  @media (max-width: 900px) {
+    #view-chat { grid-template-columns: 1fr; }
+    #view-qna  { grid-template-columns: 1fr; }
+    .side-sessions, .side-product, .side-qnahist { display: none; }
+  }
+
+  /* ===== Sidebars common ===== */
+  .pane {
+    background: var(--surface);
+    border-right: 1px solid var(--border);
+    display: flex; flex-direction: column;
+    min-height: 0;
+    overflow: hidden;
+  }
+  .pane.right { border-right: none; border-left: 1px solid var(--border); }
+  .pane-header {
+    padding: 12px 14px;
+    border-bottom: 1px solid var(--border);
+    display: flex; align-items: center; gap: 8px;
+    background: linear-gradient(180deg, var(--elev-1) 0%, var(--surface) 100%);
+  }
+  .pane-header h2 {
+    margin: 0;
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--text);
+    letter-spacing: -0.005em;
+    flex: 1;
+  }
+  .pane-header .count-pill {
+    font-size: 11px; color: var(--muted);
+    background: var(--elev-2);
+    padding: 2px 8px;
+    border-radius: var(--radius-pill);
+    border: 1px solid var(--border);
+  }
+  .pane-body {
+    flex: 1; min-height: 0;
+    overflow-y: auto;
+    padding: 8px 10px 14px;
+  }
+  .pane-actions {
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+    display: flex; gap: 6px;
+    background: var(--surface);
+  }
+  .pane-search-wrap {
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+  }
+  .pane-search-wrap input {
+    width: 100%;
+    font: inherit;
+    background: var(--elev-1);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 7px 10px;
+    font-size: 12.5px;
+  }
+  .pane-search-wrap input:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-ring);
+  }
+
+  /* ===== Forms ===== */
+  .field { margin-bottom: 12px; }
+  label {
+    display: block; font-size: 11px; font-weight: 700;
+    color: var(--text-2); margin-bottom: 6px;
+    letter-spacing: 0.04em; text-transform: uppercase;
+  }
+  input, textarea, select {
+    font: inherit;
+    background: var(--elev-1);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 9px 11px;
+    width: 100%;
+    transition: border-color .15s, box-shadow .15s, background .15s;
+  }
+  input::placeholder, textarea::placeholder { color: var(--muted); }
+  input:hover, textarea:hover, select:hover { border-color: var(--border-2); }
+  input:focus, textarea:focus, select:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-ring);
+    background: var(--surface-2);
+  }
+  textarea { resize: vertical; min-height: 110px; line-height: 1.55; }
+
+  /* ===== Buttons ===== */
+  button {
+    font: inherit; cursor: pointer;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    padding: 9px 16px;
+    border-radius: var(--radius-sm);
+    font-weight: 600;
+    width: 100%;
+    letter-spacing: -0.005em;
+    box-shadow: 0 1px 2px rgba(16,24,40,.06);
+    transition: background .14s ease, box-shadow .14s ease, transform .06s;
+  }
+  button:hover:not(:disabled) { background: var(--accent-2); box-shadow: 0 2px 6px rgba(0,113,227,.22); }
+  button:active:not(:disabled) { transform: translateY(1px); }
+  button:focus-visible { outline: none; box-shadow: 0 0 0 3px var(--accent-ring); }
+  button.secondary {
+    background: #FFFFFF; color: var(--text);
+    border: 1px solid var(--border); box-shadow: 0 1px 2px rgba(16,24,40,.04);
+  }
+  button.secondary:hover:not(:disabled) {
+    background: var(--elev-1); border-color: var(--border-2); box-shadow: 0 2px 4px rgba(16,24,40,.05);
+  }
+  button.danger {
+    background: var(--err); color: #fff;
+  }
+  button.danger:hover:not(:disabled) { background: #b92a22; }
+  button.ghost {
+    background: transparent; color: var(--text-2);
+    border: 1px solid var(--border); box-shadow: none;
+  }
+  button.ghost:hover:not(:disabled) {
+    background: var(--elev-1); border-color: var(--border-2); color: var(--text);
+  }
+  button:disabled { opacity: .5; cursor: not-allowed; }
+
+  /* ===== Session list item ===== */
+  .session-item {
+    padding: 10px 12px;
+    border-radius: var(--radius-sm);
+    margin-bottom: 4px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    position: relative;
+    transition: background .12s, border-color .12s;
+  }
+  .session-item:hover {
+    background: var(--elev-1);
+    border-color: var(--border);
+  }
+  .session-item.active {
+    background: var(--accent-soft);
+    border-color: var(--accent);
+  }
+  .session-item .si-top {
+    display: flex; align-items: baseline; gap: 6px; margin-bottom: 3px;
+  }
+  .session-item .si-name {
+    font-size: 13px; font-weight: 700; color: var(--text);
+    flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .session-item .si-time {
+    font-size: 10.5px; color: var(--muted); white-space: nowrap;
+  }
+  .session-item .si-model {
+    font-size: 10.5px; color: var(--accent-2);
+    font-weight: 600; margin-bottom: 3px;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .session-item .si-last {
+    font-size: 12px; color: var(--text-2); line-height: 1.45;
+    overflow: hidden; text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    max-height: 2.9em;
+  }
+  .session-item .si-badges {
+    margin-top: 4px; display: flex; gap: 4px; align-items: center;
+  }
+  .session-item .si-del {
+    position: absolute; top: 6px; right: 6px;
+    width: 20px; height: 20px; border-radius: 4px;
+    background: transparent; color: var(--muted);
+    border: none; padding: 0; font-size: 14px; line-height: 18px;
+    opacity: 0; transition: opacity .12s, background .12s, color .12s;
+    box-shadow: none;
+  }
+  .session-item:hover .si-del { opacity: 1; }
+  .session-item .si-del:hover { background: var(--err); color: #fff; }
+
+  /* Drag handle + drag states (공통) */
+  .si-drag {
+    position: absolute; top: 0; bottom: 0; left: 0;
+    width: 18px;
+    display: flex; align-items: center; justify-content: center;
+    color: var(--muted); font-size: 13px; line-height: 1;
+    cursor: grab; user-select: none;
+    opacity: 0; transition: opacity .12s, color .12s;
+  }
+  .si-drag:active { cursor: grabbing; }
+  .session-item:hover .si-drag,
+  .hist-item:hover    .si-drag { opacity: .8; }
+  .session-item .si-drag:hover,
+  .hist-item    .si-drag:hover { color: var(--text); opacity: 1; }
+  .session-item.dragging,
+  .hist-item.dragging    { opacity: .4; }
+  .session-item.drop-above::before,
+  .hist-item.drop-above::before {
+    content: ""; position: absolute; top: -2px; left: 4px; right: 4px;
+    height: 2px; background: var(--accent); border-radius: 2px;
+    box-shadow: 0 0 0 2px var(--accent-soft);
+  }
+  .session-item.drop-below::after,
+  .hist-item.drop-below::after {
+    content: ""; position: absolute; bottom: -2px; left: 4px; right: 4px;
+    height: 2px; background: var(--accent); border-radius: 2px;
+    box-shadow: 0 0 0 2px var(--accent-soft);
+  }
+  /* Add left padding so drag handle doesn't overlap content */
+  .session-item, .hist-item { padding-left: 22px; }
+  .empty-hint {
+    padding: 18px 14px;
+    text-align: center;
+    color: var(--muted);
+    font-size: 12px;
+    line-height: 1.7;
+  }
+
+  /* ===== Dropdown ===== */
+  .dropdown { position: relative; }
+  .dropdown-list {
+    position: absolute; top: calc(100% + 4px); left: 0; right: 0; z-index: 50;
+    background: var(--elev-1);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    max-height: 280px; overflow-y: auto;
+    box-shadow: var(--shadow-lg);
+    display: none;
+    padding: 4px;
+  }
+  .dropdown-item {
+    padding: 8px 10px; cursor: pointer;
+    border-radius: var(--radius-sm);
+    transition: background .1s;
+  }
+  .dropdown-item + .dropdown-item { margin-top: 1px; }
+  .dropdown-item:hover, .dropdown-item.active {
+    background: var(--accent-soft); color: var(--text);
+  }
+  .dropdown-item .code { font-weight: 700; font-size: 12.5px; color: var(--text); }
+  .dropdown-item .name { color: var(--muted); font-size: 11.5px; margin-top: 2px; }
+  .dropdown-item:hover .name, .dropdown-item.active .name { color: var(--text-2); }
+
+  /* ===== Product card (right panel) ===== */
+  .product-card {
+    background: linear-gradient(180deg, var(--elev-1) 0%, var(--surface-2) 100%);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 12px 14px;
+    margin-bottom: 12px;
+    box-shadow: var(--shadow-sm);
+  }
+  .product-card h3 {
+    margin: 0 0 4px; font-size: 14.5px; font-weight: 700;
+    color: var(--text); letter-spacing: -0.005em;
+  }
+  .product-card .meta { color: var(--text-2); font-size: 12px; line-height: 1.5; }
+
+  .tags { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 8px; }
+  .tag {
+    background: var(--accent-soft);
+    color: var(--accent);
+    padding: 2px 8px;
+    font-size: 10.5px;
+    font-weight: 600;
+    border-radius: var(--radius-pill);
+    border: 1px solid rgba(0,113,227,.22);
+  }
+
+  /* ===== Templates chips ===== */
+  .templates { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 4px; }
+  .template-btn {
+    width: auto;
+    background: var(--elev-1);
+    color: var(--accent);
+    border: 1px solid rgba(0,113,227,.22);
+    padding: 5px 10px; font-size: 11.5px; font-weight: 500;
+    border-radius: var(--radius-pill);
+    cursor: pointer;
+    box-shadow: none;
+    transition: background .12s, border-color .12s, color .12s;
+  }
+  .template-btn:hover {
+    background: var(--accent-soft);
+    border-color: var(--accent);
+    color: var(--text); filter: none;
+  }
+
+  /* ===== Answer box ===== */
+  .answer-box {
+    background: linear-gradient(180deg, var(--surface-2) 0%, var(--elev-1) 100%);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 18px 20px;
+    margin-bottom: 14px;
+    white-space: pre-wrap;
+    line-height: 1.65;
+    color: var(--text);
+    box-shadow: var(--shadow-sm);
+  }
+  .answer-box h3 {
+    margin: 0 0 10px;
+    color: var(--success);
+    font-size: 12.5px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .answer-box h3::before {
+    content: ""; width: 7px; height: 7px; border-radius: 50%;
+    background: var(--success);
+    box-shadow: 0 0 10px var(--success);
+  }
+  .citations {
+    margin-top: 14px; padding-top: 12px;
+    border-top: 1px dashed var(--border);
+    font-size: 12px; color: var(--text-2);
+  }
+  .citations ul { margin: 6px 0 0; padding-left: 20px; }
+  .citations li { margin-bottom: 3px; color: var(--text-2); }
+  .badge {
+    display: inline-flex; align-items: center;
+    padding: 2px 9px; font-size: 10.5px; font-weight: 700;
+    border-radius: var(--radius-pill);
+    margin-right: 5px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+  .badge.direct   { background: var(--success-soft); color: var(--success); border: 1px solid rgba(13,170,110,.3); }
+  .badge.inferred { background: var(--warn-soft);    color: var(--warn);    border: 1px solid rgba(178,94,9,.3); }
+  .badge.web      { background: var(--accent-soft);  color: var(--accent);  border: 1px solid rgba(0,113,227,.3); }
+
+  /* ===== [Phase1] Reasoning path ===== */
+  details.reasoning-path {
+    margin-top: 14px; padding: 10px 12px;
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    font-size: 12.5px;
+  }
+  details.reasoning-path > summary {
+    cursor: pointer; list-style: none; outline: none;
+    display: flex; align-items: center; gap: 10px;
+    color: var(--text-2);
+  }
+  details.reasoning-path > summary::-webkit-details-marker { display: none; }
+  details.reasoning-path > summary::before {
+    content: "▸"; color: var(--accent-2); font-size: 10px;
+    transition: transform .15s ease;
+  }
+  details.reasoning-path[open] > summary::before { transform: rotate(90deg); }
+  .rp-title { font-weight: 700; color: var(--text); letter-spacing: -0.01em; }
+  .rp-sub   { color: var(--muted); font-size: 11px; font-weight: 500; }
+  .rp-body  { margin-top: 10px; display: grid; gap: 10px; }
+  .rp-row   { display: grid; grid-template-columns: 92px 1fr; gap: 12px; align-items: start; }
+  .rp-label { color: var(--muted); font-size: 11px; font-weight: 600; padding-top: 3px; letter-spacing: .02em; }
+  .rp-chips { display: flex; flex-wrap: wrap; gap: 4px; align-items: center; }
+  .rp-chip {
+    display: inline-flex; align-items: center;
+    padding: 2px 8px; font-size: 11px; font-weight: 600;
+    border-radius: var(--radius-pill); letter-spacing: .02em;
+  }
+  .rp-want        { background: var(--accent-soft); color: var(--accent); border: 1px solid rgba(0,113,227,.28); }
+  .rp-avoid       { background: var(--warn-soft);   color: var(--warn);   border: 1px solid rgba(178,94,9,.28); }
+  .rp-matched     { background: var(--success-soft); color: var(--success); border: 1px solid rgba(13,170,110,.3); }
+  .rp-avoid-hit   { background: var(--err-soft);    color: var(--err);      border: 1px solid rgba(216,56,47,.3); }
+  .rp-empty { color: var(--muted); font-size: 11.5px; }
+  .rp-sep   { color: var(--border-2); margin: 0 2px; }
+  .rp-note {
+    padding: 6px 10px; background: var(--elev-1);
+    border-left: 2px solid var(--accent); border-radius: 4px;
+    color: var(--text-2); font-style: italic; font-size: 12px;
+  }
+  .rp-cands { display: grid; gap: 4px; }
+  .rp-cand  {
+    display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
+    padding: 6px 8px; border-radius: var(--radius-sm);
+    background: var(--elev-1); border: 1px solid var(--border-soft);
+    font-size: 11.5px;
+  }
+  .rp-cand.rp-top {
+    background: var(--success-soft);
+    border-color: rgba(13,170,110,.35);
+  }
+  .rp-cand-rank {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 18px; height: 18px; border-radius: 50%;
+    background: var(--elev-3); color: var(--text-2);
+    font-size: 10px; font-weight: 700;
+  }
+  .rp-cand.rp-top .rp-cand-rank { background: var(--success); color: #fff; }
+  .rp-cand-no   { font-weight: 700; color: var(--text); letter-spacing: .01em; }
+  .rp-cand-name { color: var(--muted); flex: 0 1 auto; }
+  .rp-cand-tags { display: inline-flex; flex-wrap: wrap; gap: 3px; margin-left: 4px; }
+  .rp-cand-bonus { margin-left: auto; color: var(--muted); font-size: 11px; }
+  .rp-bonus-pos  { color: var(--success); font-weight: 700; }
+  .rp-bonus-neg  { color: var(--err);     font-weight: 700; }
+  .rp-bonus-zero { color: var(--muted); }
+
+  /* ===== [Phase3] 피드백/AI 강화 ===== */
+  .fb-field { margin-top: 12px; }
+  .fb-field > label {
+    display:block; font-size:12px; color: var(--text-2);
+    margin-bottom:4px; font-weight:600;
+  }
+  .fb-field input, .fb-field textarea {
+    width:100%; box-sizing:border-box;
+    background: var(--elev-1); color: var(--text);
+    border:1px solid var(--border); border-radius: var(--radius-sm);
+    padding: 8px 10px; font-size: 12.5px; line-height: 1.5;
+    font-family: inherit;
+  }
+  .fb-field textarea { resize: vertical; min-height: 64px; }
+  .fb-field input:focus, .fb-field textarea:focus {
+    outline: 2px solid var(--accent); outline-offset: -1px; border-color: var(--accent);
+  }
+  .fb-chips { display:flex; flex-wrap:wrap; gap:4px; align-items:center; min-height: 24px; }
+  .fb-chip {
+    display:inline-flex; align-items:center; gap:4px;
+    padding: 3px 8px; font-size: 11px; border-radius: 999px;
+    background: var(--accent-soft); color: var(--accent);
+    border:1px solid rgba(0,113,227,.3);
+  }
+  .fb-chip button {
+    background: none; border: none; color: currentColor; cursor:pointer;
+    font-size: 12px; padding: 0 2px; line-height: 1; width: auto;
+  }
+  .fb-chip.fb-chip-cat { background: rgba(130,80,200,.08); color:#6c44c4; border-color: rgba(130,80,200,.28); }
+
+  .qa-actions { display:flex; gap:8px; flex-wrap:wrap; margin-top: 14px; padding-top:10px; border-top:1px dashed var(--border); }
+  .qa-actions button { width:auto; padding: 7px 14px; font-size: 12px; }
+  .qa-actions .reinforce-btn {
+    background: var(--accent-soft);
+    border:1px solid rgba(0,113,227,.35); color: var(--accent);
+    box-shadow: none;
+  }
+  .qa-actions .reinforce-btn:hover:not(:disabled) {
+    background: var(--accent); color: #fff;
+    border-color: var(--accent);
+  }
+
+  /* ===== [Phase3] AI 강화 관리자 탭 ===== */
+  #view-admin { display: none; }
+  #view-admin.active { display: grid; }
+  .admin-pane { display:grid; grid-template-columns: 320px 1fr; gap: 14px; height: 100%; }
+  .admin-list {
+    background: var(--surface); border:1px solid var(--border);
+    border-radius: var(--radius-md); padding: 10px; overflow-y:auto;
+  }
+  .admin-list-header {
+    display:flex; gap:6px; margin-bottom:10px; padding: 0 2px;
+  }
+  .admin-list-header .tab-mini {
+    flex:1; padding: 6px 0; font-size: 11.5px; text-align:center; cursor:pointer;
+    background: var(--elev-1); border:1px solid var(--border); color: var(--text-2);
+    border-radius: var(--radius-sm);
+  }
+  .admin-list-header .tab-mini.active {
+    background: var(--accent); color: #fff; border-color: var(--accent); font-weight: 700;
+  }
+  .admin-item {
+    padding: 10px; border:1px solid var(--border); border-radius: var(--radius-sm);
+    margin-bottom: 6px; cursor:pointer; background: var(--elev-1);
+  }
+  .admin-item:hover { border-color: var(--accent); }
+  .admin-item.selected { border-color: var(--accent); background: var(--accent-soft); }
+  .admin-item .ai-model { font-weight: 700; color: var(--text); font-size: 12px; }
+  .admin-item .ai-q { color: var(--text-2); font-size: 11.5px; margin-top:3px; line-height:1.4;
+    display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+  .admin-item .ai-meta { color: var(--muted); font-size: 10.5px; margin-top:4px; }
+  .admin-detail {
+    background: var(--surface); border:1px solid var(--border);
+    border-radius: var(--radius-md); padding: 18px 22px; overflow-y:auto;
+  }
+  .admin-empty { color: var(--muted); text-align:center; padding: 40px 20px; font-size:13px; }
+
+  /* ===== Modal ===== */
+  .modal-overlay {
+    position: fixed; inset: 0;
+    background: rgba(30,35,45,.35);
+    backdrop-filter: saturate(180%) blur(8px);
+    -webkit-backdrop-filter: saturate(180%) blur(8px);
+    display: none; justify-content: center; align-items: center; z-index: 100;
+  }
+  .modal-overlay.show { display: flex; animation: overlay-in .16s ease; }
+  @keyframes overlay-in { from { opacity: 0 } to { opacity: 1 } }
+  .modal {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 22px 24px;
+    max-width: 520px; width: 90%;
+    box-shadow: var(--shadow-lg);
+    animation: modal-in .18s ease;
+  }
+  @keyframes modal-in {
+    from { transform: translateY(6px) scale(.98); opacity: 0 }
+    to   { transform: translateY(0) scale(1); opacity: 1 }
+  }
+  .modal h2 {
+    margin: 0 0 8px; font-size: 16px; font-weight: 700;
+    letter-spacing: -0.01em; color: var(--text);
+  }
+  .modal p { color: var(--text-2); font-size: 13px; line-height: 1.6; }
+  .modal .apikey-input { font-family: "SF Mono", ui-monospace, Menlo, Consolas, monospace; }
+  .modal-actions { display: flex; gap: 8px; justify-content: flex-end; margin-top: 16px; }
+
+  .small { font-size: 11.5px; color: var(--muted); line-height: 1.55; }
+  hr { border: none; border-top: 1px solid var(--border); margin: 14px 0; }
+
+  .loader {
+    display: inline-block; width: 14px; height: 14px;
+    border: 2px solid rgba(0,0,0,.12);
+    border-top-color: var(--accent);
+    border-radius: 50%; animation: spin .7s linear infinite;
+    vertical-align: middle; margin-right: 6px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  details { margin-bottom: 6px; }
+  details summary {
+    cursor: pointer; color: var(--accent-2); font-size: 12px;
+    padding: 3px 0; user-select: none;
+  }
+  details summary:hover { color: var(--accent); }
+  pre {
+    background: var(--elev-1); padding: 10px; border-radius: var(--radius-sm);
+    overflow-x: auto; font-size: 11px; line-height: 1.5;
+    border: 1px solid var(--border);
+    font-family: "SF Mono", ui-monospace, Menlo, Consolas, monospace;
+    color: var(--text-2);
+  }
+
+  /* ===== Chat center pane ===== */
+  .chat-main {
+    display: flex; flex-direction: column;
+    min-height: 0;
+    background: var(--surface-2);
+  }
+  .chat-topbar {
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--border);
+    display: flex; align-items: center; gap: 10px;
+    background: linear-gradient(180deg, var(--elev-1) 0%, var(--surface-2) 100%);
+    flex-wrap: wrap;
+  }
+  .chat-topbar input.cust-name {
+    width: 180px;
+    padding: 7px 10px;
+    font-size: 13px;
+    font-weight: 600;
+  }
+  .chat-topbar .chat-sub {
+    flex: 1;
+    font-size: 12.5px;
+    color: var(--text-2);
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    min-width: 120px;
+  }
+  .chat-topbar .turn-pill {
+    font-size: 11px; color: var(--muted);
+    padding: 3px 9px;
+    background: var(--elev-1);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-pill);
+    white-space: nowrap;
+  }
+  .chat-messages {
+    flex: 1; min-height: 0;
+    overflow-y: auto;
+    padding: 16px 18px;
+    background: var(--surface-2);
+    scroll-behavior: smooth;
+  }
+  .chat-input-zone {
+    border-top: 1px solid var(--border);
+    background: var(--elev-1);
+  }
+  .chat-input-row {
+    padding: 10px 12px;
+    display: flex; gap: 8px; align-items: flex-end;
+  }
+  .chat-input-row textarea {
+    flex: 1;
+    min-height: 44px; max-height: 180px;
+    resize: none; line-height: 1.5;
+    background: var(--surface-2);
+    padding: 9px 11px;
+  }
+  .chat-input-row button {
+    width: auto; padding: 9px 18px; min-height: 38px;
+  }
+
+  .msg { margin-bottom: 14px; display: flex; gap: 9px; align-items: flex-start; }
+  .msg.user { flex-direction: row-reverse; }
+  .msg-bubble {
+    max-width: 78%;
+    padding: 10px 14px;
+    border-radius: var(--radius-md);
+    line-height: 1.6;
+    white-space: pre-wrap;
+    box-shadow: var(--shadow-sm);
+    word-wrap: break-word;
+  }
+  .msg.user .msg-bubble {
+    background: var(--accent);
+    color: #fff;
+    border-bottom-right-radius: 4px;
+  }
+  .msg.bot .msg-bubble {
+    background: var(--elev-2);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-bottom-left-radius: 4px;
+  }
+  .msg-role {
+    font-size: 10px; font-weight: 700;
+    padding: 6px 0; min-width: 38px; text-align: center;
+    letter-spacing: 0.06em; text-transform: uppercase;
+    color: var(--muted);
+  }
+  .msg.bot .msg-role  { color: var(--success); }
+  .msg.user .msg-role { color: var(--accent-2); }
+  .msg-meta {
+    font-size: 11px;
+    color: rgba(255,255,255,.85);
+    margin-top: 6px;
+    padding-top: 6px;
+    border-top: 1px dashed rgba(255,255,255,.35);
+  }
+  .msg.bot .msg-meta { color: var(--muted); border-top: 1px dashed var(--border-2); }
+  .banner {
+    padding: 8px 12px; border-radius: var(--radius-sm); margin-bottom: 10px;
+    font-size: 12.5px; display: flex; align-items: center; gap: 8px;
+    box-shadow: var(--shadow-sm);
+  }
+  .banner.handoff { background: var(--err-soft);    color: var(--err);    border: 1px solid rgba(216,56,47,.35); }
+  .banner.switch  { background: var(--accent-soft); color: var(--accent); border: 1px solid rgba(0,113,227,.35); }
+  .banner .banner-title { font-weight: 700; }
+  .banner button { width: auto; padding: 5px 10px; font-size: 11.5px; margin-left: auto; min-height: 0; }
+  .followup {
+    margin-top: 8px; padding: 9px 11px;
+    background: var(--success-soft);
+    border-left: 3px solid var(--success);
+    border-radius: var(--radius-sm);
+    font-size: 12.5px;
+    color: var(--text);
+    line-height: 1.5;
+  }
+
+  /* ===== Image attach ===== */
+  .img-attach {
+    border-top: 1px dashed var(--border);
+    padding: 8px 12px;
+    background: var(--surface-2);
+    transition: border-color .15s, background .15s;
+  }
+  .img-attach.drag-over {
+    background: var(--accent-soft);
+  }
+  .img-attach-row { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .img-attach-btn {
+    background: var(--elev-2); color: var(--text);
+    border: 1px solid var(--border); padding: 6px 12px; font-size: 11.5px; font-weight: 500;
+    width: auto; border-radius: var(--radius-sm);
+    box-shadow: none;
+  }
+  .img-attach-btn:hover:not(:disabled) { background: var(--elev-3); border-color: var(--border-2); filter: none; }
+  .img-attach-hint { font-size: 11px; color: var(--muted); flex: 1; line-height: 1.45; }
+
+  .img-preview-grid { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+  .img-preview {
+    position: relative; width: 60px; height: 60px;
+    border-radius: var(--radius-sm); overflow: hidden;
+    border: 1px solid var(--border); background: var(--bg);
+    box-shadow: var(--shadow-sm);
+  }
+  .img-preview img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .img-preview .remove {
+    position: absolute; top: 2px; right: 2px;
+    width: 18px; height: 18px; min-height: 0; border-radius: 50%;
+    background: rgba(0,0,0,.75); color: #fff;
+    border: none; padding: 0; cursor: pointer;
+    font-size: 12px; line-height: 16px; text-align: center;
+    box-shadow: 0 1px 4px rgba(0,0,0,.5);
+  }
+  .img-preview .remove:hover { background: var(--err); }
+  .img-preview .size {
+    position: absolute; bottom: 0; left: 0; right: 0;
+    background: linear-gradient(180deg, transparent 0%, rgba(0,0,0,.75) 100%);
+    color: #fff;
+    font-size: 9px; padding: 3px 2px 1px; text-align: center;
+  }
+
+  .msg-bubble .bubble-images { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 7px; }
+  .msg-bubble .bubble-images img {
+    max-width: 140px; max-height: 140px;
+    border-radius: var(--radius-sm); cursor: zoom-in;
+    border: 1px solid rgba(0,0,0,.08);
+    box-shadow: 0 1px 3px rgba(16,24,40,.15);
+    transition: transform .1s;
+  }
+  .msg-bubble .bubble-images img:hover { transform: scale(1.02); }
+
+  .lightbox {
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,.88);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    display: none; justify-content: center; align-items: center; z-index: 200;
+    cursor: zoom-out;
+  }
+  .lightbox.show { display: flex; animation: overlay-in .15s ease; }
+  .lightbox img {
+    max-width: 92vw; max-height: 92vh;
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-lg);
+  }
+
+  /* ===== QnA main pane ===== */
+  .qna-main {
+    display: flex; flex-direction: column;
+    min-height: 0;
+    overflow-y: auto;
+    padding: 18px 22px 28px;
+    background: var(--surface-2);
+  }
+  .qna-form {
+    background: var(--elev-1);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 14px 16px;
+    margin-bottom: 14px;
+    box-shadow: var(--shadow-sm);
+  }
+  .qna-form .row-inline {
+    display: grid;
+    grid-template-columns: 1fr 180px;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+  @media (max-width: 700px) {
+    .qna-form .row-inline { grid-template-columns: 1fr; }
+  }
+  .qna-meta-card {
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 10px 12px;
+    font-size: 12.5px;
+    color: var(--text-2);
+    line-height: 1.55;
+  }
+  .qna-meta-card b { color: var(--text); }
+
+  /* History item (QnA) */
+  .hist-item {
+    padding: 10px 12px;
+    border-radius: var(--radius-sm);
+    margin-bottom: 4px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    position: relative;
+    transition: background .12s, border-color .12s;
+  }
+  .hist-item:hover { background: var(--elev-1); border-color: var(--border); }
+  .hist-item.active { background: var(--accent-soft); border-color: var(--accent); }
+  .hist-item .hi-top {
+    display: flex; align-items: baseline; gap: 6px; margin-bottom: 3px;
+  }
+  .hist-item .hi-model {
+    font-size: 12px; font-weight: 700; color: var(--accent-2);
+    flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .hist-item .hi-time { font-size: 10.5px; color: var(--muted); white-space: nowrap; }
+  .hist-item .hi-cust { font-size: 11.5px; color: var(--text); margin-bottom: 3px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .hist-item .hi-q {
+    font-size: 12px; color: var(--text-2); line-height: 1.45;
+    overflow: hidden; text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    max-height: 2.9em;
+  }
+  .hist-item .si-del {
+    position: absolute; top: 6px; right: 6px;
+    width: 20px; height: 20px; border-radius: 4px;
+    background: transparent; color: var(--muted);
+    border: none; padding: 0; font-size: 14px; line-height: 18px;
+    opacity: 0; transition: opacity .12s, background .12s, color .12s;
+    box-shadow: none;
+  }
+  .hist-item:hover .si-del { opacity: 1; }
+  .hist-item .si-del:hover { background: var(--err); color: #fff; }
+
+  /* filter chips */
+  .filter-row {
+    display: flex; gap: 6px; padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+    flex-wrap: wrap;
+  }
+  .filter-chip {
+    width: auto;
+    padding: 4px 10px; font-size: 11px; font-weight: 600;
+    background: var(--elev-1); color: var(--text-2);
+    border: 1px solid var(--border); border-radius: var(--radius-pill);
+    box-shadow: none; cursor: pointer;
+    transition: background .1s, color .1s, border-color .1s;
+  }
+  .filter-chip:hover { background: var(--elev-2); color: var(--text); filter: none; }
+  .filter-chip.active {
+    background: var(--accent-soft); color: var(--accent-2);
+    border-color: var(--accent);
+  }
+
+  /* Prompt text for empty states */
+  .view-intro {
+    color: var(--muted);
+    margin: 0;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>랜스타 AICC</h1>
+  <span class="sub">고객문의 AI 응대</span>
+  <div class="tab-bar">
+    <button class="tab-btn active" id="tab-chat" data-tab="chat">💬 톡톡문의</button>
+    <button class="tab-btn" id="tab-qna" data-tab="qna">📝 문의관리</button>
+    <button class="tab-btn" id="tab-admin" data-tab="admin">🔬 AI 강화</button>
+  </div>
+  <div class="spacer"></div>
+  <span class="status" id="status">초기화 중...</span>
+  <button class="secondary" id="btn-settings" title="상담 멘트 설정">⚙️ 설정</button>
+  <button class="secondary" id="btn-apikey">API 키</button>
+</header>
+
+<!-- ========== 톡톡문의 3-pane view ========== -->
+<div id="view-chat" class="view active">
+
+  <!-- Left: 세션 리스트 -->
+  <aside class="pane side-sessions">
+    <div class="pane-header">
+      <h2>상담 세션</h2>
+      <span class="count-pill" id="chat-session-count">0</span>
+    </div>
+    <div class="pane-actions">
+      <button id="btn-new-chat">＋ 새 상담</button>
+    </div>
+    <div class="pane-search-wrap">
+      <input id="chat-session-search" placeholder="고객명·모델·내용 검색..." autocomplete="off">
+    </div>
+    <div class="pane-body" id="chat-session-list">
+      <div class="empty-hint">저장된 상담이 없습니다.<br>＋ 새 상담 으로 시작하세요.</div>
+    </div>
+  </aside>
+
+  <!-- Center: 채팅 영역 -->
+  <section class="chat-main">
+    <div class="chat-topbar">
+      <input class="cust-name" id="chat-cust-name" placeholder="고객명 (예: 홍길동)" autocomplete="off">
+      <div class="chat-sub" id="chat-meta">제품을 선택하면 대화를 시작할 수 있습니다.</div>
+      <span class="turn-pill" id="chat-turncount">0회</span>
+    </div>
+    <div class="chat-messages" id="chat-messages">
+      <div class="answer-box" style="color:var(--muted); margin:0">
+        <h3 style="color:var(--muted)">톡톡문의 모드</h3>
+        오른쪽 패널에서 제품을 선택 → 고객명을 입력 → 아래 입력창에 고객 메시지를 입력하세요.<br>
+        모든 상담 내역은 자동으로 서버에 저장되며 왼쪽 세션 리스트에서 언제든 다시 이어서 진행할 수 있습니다.
+      </div>
+    </div>
+    <div class="chat-input-zone">
+      <div class="chat-input-row">
+        <textarea id="chat-input" placeholder="고객 메시지 입력... (Shift+Enter: 줄바꿈, Enter: 전송)" disabled></textarea>
+        <button id="btn-chat-send" disabled>전송</button>
+      </div>
+      <div class="img-attach" id="chat-img-drop">
+        <div class="img-attach-row">
+          <button type="button" class="img-attach-btn" id="btn-chat-img" disabled>📷 이미지</button>
+          <span class="img-attach-hint">클릭·드래그·Ctrl+V (대화 중 언제든 첨부 가능)</span>
+        </div>
+        <input type="file" id="chat-img-input" accept="image/*" multiple style="display:none">
+        <div class="img-preview-grid" id="chat-img-preview"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Right: 제품 정보 패널 -->
+  <aside class="pane right side-product">
+    <div class="pane-header">
+      <h2>제품 정보</h2>
+    </div>
+    <div class="pane-body">
+      <div class="field">
+        <label>모델명 선택</label>
+        <div class="dropdown">
+          <input id="chat-model-search" type="search" placeholder="예: HD2KVM, CHWASH..." autocomplete="new-password" autocorrect="off" spellcheck="false" name="search_chat_abc123xyz" data-form-type="other" data-lpignore="true" data-1p-ignore="true" readonly>
+          <div id="chat-dropdown-list" class="dropdown-list"></div>
+        </div>
+      </div>
+      <div id="chat-selected-product">
+        <div class="small">제품을 선택하면 상세 정보가 표시됩니다.</div>
+      </div>
+      <div class="field" style="margin-top:8px">
+        <label>이 제품 과거 톡톡 상담 예시</label>
+        <div id="chat-talktalk-examples" class="small" style="color:var(--muted)">제품 선택 시 표시됩니다.</div>
+      </div>
+    </div>
+  </aside>
+</div>
+
+<!-- ========== 문의관리 2-pane view ========== -->
+<div id="view-qna" class="view">
+
+  <!-- Left: QnA 이력 -->
+  <aside class="pane side-qnahist">
+    <div class="pane-header">
+      <h2>문의 이력</h2>
+      <span class="count-pill" id="qna-hist-count">0</span>
+    </div>
+    <div class="pane-actions">
+      <button id="btn-new-qna">＋ 새 문의</button>
+    </div>
+    <div class="pane-search-wrap">
+      <input id="qna-hist-search" placeholder="고객명·모델·내용 검색..." autocomplete="off">
+    </div>
+    <div class="pane-body" id="qna-hist-list">
+      <div class="empty-hint">저장된 문의가 없습니다.<br>＋ 새 문의 로 시작하세요.</div>
+    </div>
+  </aside>
+
+  <!-- Right: QnA 작성/답변 -->
+  <main class="qna-main">
+    <div class="qna-form">
+      <div class="row-inline">
+        <div class="field" style="margin:0">
+          <label>1. 제품 모델명</label>
+          <div class="dropdown">
+            <input id="qna-model-search" type="search" placeholder="예: HD2KVM, CHWASH..." autocomplete="new-password" autocorrect="off" spellcheck="false" name="search_qna_abc123xyz" data-form-type="other" data-lpignore="true" data-1p-ignore="true" readonly>
+            <div id="qna-dropdown-list" class="dropdown-list"></div>
+          </div>
+        </div>
+        <div class="field" style="margin:0">
+          <label>고객명</label>
+          <input id="qna-cust-name" placeholder="예: 홍길동" autocomplete="off">
+        </div>
+      </div>
+      <div id="qna-selected-product" style="margin-bottom:10px"></div>
+
+      <div class="field">
+        <label>2. 고객 문의 내용</label>
+        <textarea id="qna-question" placeholder="고객이 남긴 문의 내용을 붙여넣으세요..."></textarea>
+      </div>
+
+      <div class="field" id="qna-templates-wrap" style="display:none">
+        <label>추천 질문 (카테고리 기준)</label>
+        <div id="qna-templates" class="templates"></div>
+      </div>
+
+      <div class="field">
+        <label>이미지 첨부 (선택)</label>
+        <div class="img-attach" id="qna-img-drop" style="border: 1.5px dashed var(--border-2); border-radius: var(--radius-sm); padding: 10px 12px; background: var(--surface-2);">
+          <div class="img-attach-row">
+            <button type="button" class="img-attach-btn" id="btn-qna-img">📷 이미지 선택</button>
+            <span class="img-attach-hint">제품/에러/설치 사진 (JPG/PNG/WebP, 최대 5장)</span>
+          </div>
+          <input type="file" id="qna-img-input" accept="image/*" multiple style="display:none">
+          <div class="img-preview-grid" id="qna-img-preview"></div>
+        </div>
+      </div>
+
+      <div style="display:flex; gap:8px; align-items:center">
+        <button id="btn-qna-answer" disabled style="width:auto; padding: 10px 20px">AI 답변 생성</button>
+        <span class="small" id="qna-hint">먼저 제품을 선택하세요.</span>
+      </div>
+    </div>
+
+    <div id="qna-answer-area">
+      <div class="answer-box" style="color:var(--muted)">
+        <h3 style="color:var(--muted)">문의관리 모드</h3>
+        왼쪽 리스트에서 과거 문의를 다시 열어볼 수 있고, 위에서 새 문의를 작성할 수 있습니다.<br>
+        AI 답변은 제품 OCR 데이터 + 과거 리뷰/QnA/톡톡 이력을 교차 검증하여 생성됩니다.<br>
+        답변은 서버에 자동 저장되며 언제든 이력에서 다시 열람 가능합니다.
+      </div>
+    </div>
+  </main>
+</div>
+
+<!-- [Phase3] AI 강화 관리자 뷰 -->
+<div id="view-admin" class="view">
+  <div class="admin-pane" style="width:100%">
+    <aside class="admin-list">
+      <div class="admin-list-header">
+        <div class="tab-mini active" data-fb-tab="pending">대기</div>
+        <div class="tab-mini" data-fb-tab="approved">승인됨</div>
+        <div class="tab-mini" data-fb-tab="rejected">반려됨</div>
+      </div>
+      <div class="pane-actions" style="padding:0 2px 8px">
+        <button id="btn-fb-refresh" class="secondary" style="width:100%; padding:6px 10px">↻ 새로고침</button>
+      </div>
+      <div id="admin-item-list">
+        <div class="admin-empty">불러오는 중...</div>
+      </div>
+    </aside>
+    <main class="admin-detail" id="admin-detail">
+      <div class="admin-empty">왼쪽에서 항목을 선택하세요.</div>
+    </main>
+  </div>
+</div>
+
+<!-- Image lightbox -->
+<div class="lightbox" id="lightbox"><img id="lightbox-img" src="" alt=""></div>
+
+<!-- [Phase3] AI 강화 제출 모달 -->
+<div class="modal-overlay" id="fb-modal">
+  <div class="modal" style="max-width: 680px">
+    <h2>이 상담으로 AI 강화</h2>
+    <p>이 문의·답변을 검토 대기열에 추가합니다. 관리자가 승인하면 이후 유사 질문에 대한 AI 답변의 근거(few-shot)로 사용됩니다. 답변은 제출 전에 자유롭게 수정하세요.</p>
+
+    <div class="fb-field">
+      <label>모델 / 카테고리</label>
+      <div style="display:flex; gap:8px; flex-wrap:wrap">
+        <input id="fb-model-no" placeholder="LS-XXXX" style="flex:0 1 180px">
+        <input id="fb-family" placeholder="가족명 (예: KVM, HDMI분배기)" style="flex:1 1 200px">
+      </div>
+      <div class="fb-chips" id="fb-categories" style="margin-top:6px"></div>
+    </div>
+
+    <div class="fb-field">
+      <label>고객 문의 (원문)</label>
+      <textarea id="fb-question" rows="3" placeholder="고객이 남긴 문의 내용"></textarea>
+    </div>
+
+    <div class="fb-field">
+      <label>모범 답변 (제출 전 자유 수정 가능)</label>
+      <textarea id="fb-answer" rows="6" placeholder="관리자가 참고할 모범 답변"></textarea>
+    </div>
+
+    <div class="fb-field">
+      <label>의도 태그 (feature tags)</label>
+      <div class="fb-chips" id="fb-intent-tags"></div>
+      <input id="fb-intent-add" placeholder="태그 추가 후 Enter (예: switching_control:hotkey)" style="margin-top:6px">
+    </div>
+
+    <div class="fb-field">
+      <label>비고 (상담사 메모)</label>
+      <textarea id="fb-notes" rows="2" placeholder="이 답변이 왜 좋은지, 주의점, 대체 모델 등"></textarea>
+    </div>
+
+    <div class="modal-actions">
+      <button class="secondary" id="btn-fb-cancel" style="width:auto">취소</button>
+      <button id="btn-fb-submit" style="width:auto">검토 대기열로 제출</button>
+    </div>
+    <p class="small" id="fb-status" style="margin-top:10px; min-height:14px"></p>
+  </div>
+</div>
+
+<!-- Settings Modal (상담 멘트 설정) -->
+<div class="modal-overlay" id="settings-modal">
+  <div class="modal" style="max-width: 560px;">
+    <h2>⚙️ 상담 멘트 설정</h2>
+    <p class="small" style="margin:0 0 12px">AI 상담사의 첫 인사말과 마무리 멘트를 설정합니다. 모든 설정은 이 브라우저에 저장됩니다.</p>
+
+    <div class="fb-field">
+      <label>첫 인사말 (AI가 상담 시작 시 사용)</label>
+      <textarea id="opt-opening" rows="2" placeholder="예: 고객님, 안녕하세요. 랜스타 AI상담사입니다. 무엇을 도와드릴까요?"></textarea>
+      <p class="small" style="margin-top:4px">비워두면 AI가 기본 인사말을 자동 생성합니다.</p>
+    </div>
+
+    <div class="fb-field">
+      <label>마무리 멘트 (단축키 입력 시 자동 삽입)</label>
+      <textarea id="opt-closing" rows="3" placeholder="예: 문의해 주셔서 감사합니다. 추가 문의사항 있으시면 언제든지 다시 연락 주세요. 즐거운 하루 보내세요!"></textarea>
+    </div>
+
+    <div class="fb-field">
+      <label>마무리 단축키</label>
+      <input type="text" id="opt-closing-trigger" placeholder="/마무리" style="width:180px">
+      <p class="small" style="margin-top:4px">입력창에 이 키워드를 입력(Enter 불필요)하면 저장된 마무리 멘트로 자동 치환됩니다.</p>
+    </div>
+
+    <div class="modal-actions">
+      <button class="secondary" id="btn-settings-reset" style="width:auto">초기화</button>
+      <button class="secondary" id="btn-settings-cancel" style="width:auto">취소</button>
+      <button id="btn-settings-save" style="width:auto">저장</button>
+    </div>
+    <p class="small" id="settings-status" style="margin-top:10px; min-height:14px"></p>
+  </div>
+</div>
+
+<!-- API Key Modal -->
+<div class="modal-overlay" id="apikey-modal">
+  <div class="modal">
+    <h2>Gemini API 키 설정</h2>
+    <p>Google AI Studio에서 발급받은 Gemini API 키를 입력하세요. 키는 브라우저에 저장되며 외부 서버로 전송되지 않습니다.</p>
+    <input type="password" id="apikey-input" class="apikey-input" placeholder="AIza... (Gemini API Key)">
+    <div class="modal-actions">
+      <button class="secondary" id="btn-apikey-clear" style="width:auto">삭제</button>
+      <button id="btn-apikey-save" style="width:auto">저장</button>
+    </div>
+    <p class="small" style="margin-top:12px">
+      키 발급: <a href="https://aistudio.google.com/app/apikey" target="_blank" style="color:var(--accent)">aistudio.google.com/app/apikey</a>
+    </p>
+  </div>
+</div>
+
+<script>
+// =====================================================
+// Configuration
+// =====================================================
+const MODEL = "gemini-3-flash-preview";
+const API_BASE = "https://generativelanguage.googleapis.com/v1beta/models";
+const LS_KEY = "lanstar_aicc_apikey";
+
+// Server persistence endpoint (blank.php with aicc_* actions)
+const AICC_API = "https://lanstar.co.kr/blank.php?key=ls2026tmp";
+
+const DATA = {
+  modelsIndex: null,
+  categoriesIndex: null,
+  templates: null,
+  featuresIndex: null,   // [Phase1] 1,588개 제품 features 경량 인덱스
+  approvedKb: null,      // [Phase3] blank.php?action=aicc_fb_kb 에서 불러온 승인 KB
+  productCache: new Map(),
+  selected: null,
+};
+
+// [Phase1] 고객 자연어 → canonical feature tag 매핑 사전 (phase2/intent_synonyms.json 축약판)
+const INTENT_SYNONYMS = {
+  switching_control: {
+    hotkey: ["핫키","단축키","키보드 단축","키보드로 전환","키보드만으로","Hot Key","Hotkey","Scroll Lock","Ctrl 두번","키보드 매크로"],
+    mouse_wheel: ["마우스로 전환","마우스 휠","마우스 버튼으로","휠 클릭","휠로","마우스 조작","마우스만으로"],
+    wired_remote: ["유선 리모콘","유선 리모트","리모컨 선","리모컨 케이블","원격 스위치","리모트 스위치"],
+    ir_remote: ["IR 리모콘","적외선 리모콘","무선 리모콘","리모콘","리모트 컨트롤"],
+    physical_button: ["버튼","본체 버튼","셀렉트 버튼","SELECT","누름 버튼","스위치 누름"],
+    auto_scan: ["자동 전환","오토 스캔","자동 감지","자동 순환"],
+    app: ["앱","스마트폰 앱","전용 SW","프로그램으로 제어"]
+  },
+  video_signal: {
+    "4K@60": ["4K 60헤르츠","4K 60hz","UHD 60","4K60"],
+    "4K@30": ["4K 30헤르츠","4K","UHD"],
+    "8K": ["8K","UHD 8K","8K60"],
+    hdr_support: ["HDR","HDR10","Dolby Vision","돌비 비전","하이 다이나믹 레인지"],
+    "hdcp2.2": ["HDCP 2.2","HDCP2.2","카피가드","저작권 보호 최신"],
+    audio_pass: ["ARC","eARC","오디오 패스","사운드 출력","소리 출력"]
+  },
+  power_mode: {
+    무전원: ["전원 필요없음","무전원","어댑터 필요없음","콘센트 안 꽂아도","플러그 없이","전원 선 없어도"],
+    버스파워: ["USB 전원","버스 파워","포트 전원","컴퓨터 전원으로"],
+    어댑터: ["별도 전원","어댑터 포함","전원 어댑터","외부 전원"],
+    PoC: ["PoC","랜 전원","케이블 전원","한쪽만 꽂아도"],
+    PoE: ["PoE","랜으로 전원","RJ45 전원"]
+  },
+  charging: {
+    pd_charging: ["PD 충전","PD 100W","고속 충전","영상 출력하면서 충전","충전 + 디스플레이"],
+    wireless_charging: ["무선충전","마그세이프","Qi","MagSafe","거치대 충전"]
+  },
+  cable_quality: {
+    shielded: ["쉴드","차폐","노이즈 차단","간섭 없음","FTP","STP","SFTP"],
+    unshielded: ["UTP","일반","저가","실내용"],
+    solid: ["단선","실내 배선용","벽체 배관용","고정 배선"],
+    stranded: ["연선","유연한","움직이는","패치코드","책상 위용"]
+  },
+  form_factor: {
+    built_in_cable: ["내장 케이블","일체형","케이블 포함","본체 케이블","따로 살 필요 없는"],
+    short_cable: ["짧은","30cm","50cm","1m 이하","휴대용"],
+    long_cable: ["긴","10m 이상","장거리","전시장","공장"],
+    flat_cable: ["플랫","납작한","카펫 아래","납작한 케이블"]
+  },
+  kvm_specific: {
+    pc_2: ["2포트","2대","듀얼","2PC"],
+    pc_4: ["4포트","4대","쿼드","4PC"],
+    pc_8: ["8포트","8대","8PC"],
+    usb_memory_slot: ["USB 메모리","공용 USB","파일 이동","USB 포트 따로"],
+    hub_built_in: ["허브","USB 포트","주변기기 공유","키보드 마우스 공유"]
+  }
+};
+
+// =====================================================
+// Utilities
+// =====================================================
+function $(id) { return document.getElementById(id); }
+function status(msg, type="") {
+  const el = $("status");
+  el.textContent = msg;
+  el.className = "status " + type;
+}
+function escapeHtml(s) {
+  return String(s||"").replace(/[<>&"']/g, c => ({
+    "<":"&lt;",">":"&gt;","&":"&amp;",'"':"&quot;","'":"&#39;"
+  }[c]));
+}
+function fmtRelTime(ts) {
+  if (!ts) return "";
+  const now = Date.now();
+  const t = typeof ts === "number" ? ts : new Date(ts).getTime();
+  if (isNaN(t)) return "";
+  const diff = now - t;
+  const s = Math.floor(diff / 1000);
+  if (s < 60) return "방금";
+  const m = Math.floor(s / 60);
+  if (m < 60) return m + "분 전";
+  const h = Math.floor(m / 60);
+  if (h < 24) return h + "시간 전";
+  const d = Math.floor(h / 24);
+  if (d < 7) return d + "일 전";
+  const dt = new Date(t);
+  return `${dt.getMonth()+1}/${dt.getDate()}`;
+}
+function debounce(fn, ms) {
+  let timer;
+  return function(...args) {
+    clearTimeout(timer);
+    timer = setTimeout(() => fn.apply(this, args), ms);
+  };
+}
+
+// =====================================================
+// Server persistence API (blank.php aicc_*)
+// =====================================================
+async function apiSaveSession(kind, payload) {
+  const url = `${AICC_API}&action=aicc_save&kind=${kind}`;
+  const r = await fetch(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(payload),
+  });
+  const data = await r.json().catch(() => ({}));
+  if (!r.ok || data.error) throw new Error(data.error || `save ${r.status}`);
+  return data;
+}
+async function apiListSessions(kind, limit=300) {
+  const url = `${AICC_API}&action=aicc_list&kind=${kind}&limit=${limit}&t=${Date.now()}`;
+  const r = await fetch(url, { cache: "no-cache" });
+  const data = await r.json().catch(() => ({}));
+  if (!r.ok || data.error) throw new Error(data.error || `list ${r.status}`);
+  return data.items || [];
+}
+async function apiLoadSession(kind, id) {
+  const url = `${AICC_API}&action=aicc_load&kind=${kind}&id=${encodeURIComponent(id)}&t=${Date.now()}`;
+  const r = await fetch(url, { cache: "no-cache" });
+  const data = await r.json().catch(() => ({}));
+  if (!r.ok || data.error) throw new Error(data.error || `load ${r.status}`);
+  return data;
+}
+async function apiDeleteSession(kind, id) {
+  const url = `${AICC_API}&action=aicc_delete&kind=${kind}&id=${encodeURIComponent(id)}&t=${Date.now()}`;
+  const r = await fetch(url);
+  const data = await r.json().catch(() => ({}));
+  if (!r.ok || data.error) throw new Error(data.error || `delete ${r.status}`);
+  return data;
+}
+
+// =====================================================
+// Image utilities (shared by both tabs)
+// =====================================================
+const IMG_MAX_DIM = 1024;
+const IMG_JPEG_QUALITY = 0.85;
+const IMG_MAX_PER_TURN = 5;
+const IMG_MAX_INPUT_MB = 15;
+const IMG_ACCEPT_MIME = ["image/jpeg","image/jpg","image/png","image/webp","image/heic","image/heif","image/gif"];
+
+async function processImage(file) {
+  if (!file) throw new Error("파일이 비었습니다.");
+  if (file.size > IMG_MAX_INPUT_MB * 1024 * 1024) {
+    throw new Error(`이미지가 너무 큽니다 (${(file.size/1024/1024).toFixed(1)}MB, 최대 ${IMG_MAX_INPUT_MB}MB).`);
+  }
+  const mime = (file.type || "").toLowerCase();
+  if (mime && !IMG_ACCEPT_MIME.includes(mime) && !mime.startsWith("image/")) {
+    throw new Error("이미지 파일만 지원합니다 (JPG/PNG/WebP).");
+  }
+  const dataUrl = await new Promise((ok, err) => {
+    const fr = new FileReader();
+    fr.onload = () => ok(fr.result);
+    fr.onerror = () => err(fr.error || new Error("파일 읽기 실패"));
+    fr.readAsDataURL(file);
+  });
+  const img = await new Promise((ok, err) => {
+    const el = new Image();
+    el.onload = () => ok(el);
+    el.onerror = () => err(new Error("이미지 디코드 실패"));
+    el.src = dataUrl;
+  });
+  const w0 = img.naturalWidth || img.width;
+  const h0 = img.naturalHeight || img.height;
+  const longest = Math.max(w0, h0);
+  const scale = longest > IMG_MAX_DIM ? IMG_MAX_DIM / longest : 1;
+  const w = Math.round(w0 * scale);
+  const h = Math.round(h0 * scale);
+  const canvas = document.createElement("canvas");
+  canvas.width = w; canvas.height = h;
+  const ctx = canvas.getContext("2d");
+  ctx.fillStyle = "#ffffff";
+  ctx.fillRect(0, 0, w, h);
+  ctx.drawImage(img, 0, 0, w, h);
+  const outDataUrl = canvas.toDataURL("image/jpeg", IMG_JPEG_QUALITY);
+  const b64 = outDataUrl.split(",")[1] || "";
+  const outSize = Math.round(b64.length * 3 / 4);
+  return {
+    dataUrl: outDataUrl, base64: b64, mime_type: "image/jpeg",
+    width: w, height: h, size: outSize,
+    origName: file.name || "image", origSize: file.size,
+  };
+}
+
+function makeImageAttacher(opts) {
+  const { dropEl, inputEl, previewEl, textareaEl, holder, renderFn, buttonEl } = opts;
+  function render() {
+    previewEl.innerHTML = holder.map((it, i) => `
+      <div class="img-preview" data-idx="${i}">
+        <img src="${it.dataUrl}" alt="">
+        <div class="size">${Math.round(it.size/1024)}KB</div>
+        <button type="button" class="remove" data-idx="${i}" title="제거">×</button>
+      </div>`).join("");
+    previewEl.querySelectorAll(".remove").forEach(b => {
+      b.addEventListener("click", (e) => {
+        e.stopPropagation();
+        const i = +b.dataset.idx;
+        holder.splice(i, 1);
+        render();
+      });
+    });
+    previewEl.querySelectorAll(".img-preview img").forEach(im => {
+      im.addEventListener("click", () => showLightbox(im.src));
+    });
+    if (renderFn) renderFn(holder.length);
+  }
+  async function addFiles(fileList) {
+    const files = Array.from(fileList || []).filter(f => f && (f.type||"").startsWith("image/"));
+    if (!files.length) return;
+    const remaining = IMG_MAX_PER_TURN - holder.length;
+    if (remaining <= 0) { status(`이미지는 최대 ${IMG_MAX_PER_TURN}장까지 첨부 가능`, "err"); return; }
+    const targets = files.slice(0, remaining);
+    for (const f of targets) {
+      try { holder.push(await processImage(f)); }
+      catch (e) { status("이미지 처리 실패: " + e.message, "err"); }
+    }
+    render();
+  }
+  if (buttonEl) buttonEl.addEventListener("click", () => inputEl.click());
+  inputEl.addEventListener("change", (e) => { addFiles(e.target.files); inputEl.value = ""; });
+  dropEl.addEventListener("dragover", (e) => { e.preventDefault(); dropEl.classList.add("drag-over"); });
+  dropEl.addEventListener("dragleave", () => dropEl.classList.remove("drag-over"));
+  dropEl.addEventListener("drop", (e) => {
+    e.preventDefault(); dropEl.classList.remove("drag-over");
+    if (e.dataTransfer?.files?.length) addFiles(e.dataTransfer.files);
+  });
+  if (textareaEl) {
+    textareaEl.addEventListener("paste", (e) => {
+      const items = e.clipboardData?.items || [];
+      const imgs = [];
+      for (const it of items) {
+        if (it.kind === "file" && (it.type||"").startsWith("image/")) {
+          const f = it.getAsFile();
+          if (f) imgs.push(f);
+        }
+      }
+      if (imgs.length) { e.preventDefault(); addFiles(imgs); }
+    });
+  }
+  return { render, addFiles, clear: () => { holder.length = 0; render(); } };
+}
+
+function showLightbox(src) { $("lightbox-img").src = src; $("lightbox").classList.add("show"); }
+$("lightbox").addEventListener("click", () => $("lightbox").classList.remove("show"));
+document.addEventListener("click", (e) => {
+  const t = e.target;
+  if (t && t.tagName === "IMG" && t.hasAttribute("data-lightbox")) showLightbox(t.src);
+});
+
+function buildPartsWithImages(textStr, images) {
+  const parts = [];
+  if (textStr != null && textStr !== "") parts.push({ text: textStr });
+  for (const im of (images || [])) {
+    parts.push({ inline_data: { mime_type: im.mime_type, data: im.base64 } });
+  }
+  return parts;
+}
+
+// =====================================================
+// Load indices
+// =====================================================
+async function loadIndices() {
+  status("인덱스 로딩 중...");
+  try {
+    const [idx, cats, tmpl, feat, kb] = await Promise.all([
+      fetch("models_index.json").then(r => r.json()),
+      fetch("categories_index.json").then(r => r.json()),
+      fetch("templates.json").then(r => r.json()),
+      // [Phase1] features_index.json 은 없어도 동작해야 함 (하위호환)
+      fetch("features_index.json").then(r => r.ok ? r.json() : null).catch(() => null),
+      // [Phase3] 승인 KB (blank.php 로 서빙) — 실패해도 계속
+      fetch(`${AICC_API}&action=aicc_fb_kb&t=${Date.now()}`).then(r => r.ok ? r.json() : null).catch(() => null),
+    ]);
+    DATA.modelsIndex = idx.models;
+    DATA.categoriesIndex = cats.categories;
+    DATA.templates = tmpl;
+    DATA.featuresIndex = feat && feat.m ? feat.m : null;
+    DATA.approvedKb = (kb && Array.isArray(kb.entries)) ? kb.entries : [];
+    const featCount = DATA.featuresIndex ? Object.keys(DATA.featuresIndex).length : 0;
+    const featBadge = featCount ? ` · 기능태그 ${featCount.toLocaleString()}` : "";
+    const kbBadge = DATA.approvedKb.length ? ` · 강화KB ${DATA.approvedKb.length}건` : "";
+    status(`준비 완료 · ${Object.keys(idx.models).length.toLocaleString()}개 제품 인덱싱${featBadge}${kbBadge}`, "ok");
+  } catch (e) {
+    status("로딩 실패: " + e.message, "err");
+    console.error(e);
+  }
+}
+
+// =====================================================
+// Model search dropdown (shared by both tabs)
+// =====================================================
+function filterModels(query) {
+  if (!DATA.modelsIndex) return [];
+  const q = query.trim().toUpperCase();
+  if (!q) return [];
+  const out = [];
+  for (const [stem, info] of Object.entries(DATA.modelsIndex)) {
+    const u = stem.toUpperCase();
+    const p = (info.product_name||"").toUpperCase();
+    let score = 0;
+    if (u === q) score = 100;
+    else if (u.startsWith(q)) score = 80;
+    else if (u.includes(q)) score = 60;
+    else if (p.includes(q)) score = 40;
+    if (!score && info.variant_models) {
+      for (const v of info.variant_models) {
+        if (v && v.toUpperCase().includes(q)) { score = 50; break; }
+      }
+    }
+    if (score) out.push({stem, info, score});
+  }
+  out.sort((a,b) => b.score - a.score || a.stem.localeCompare(b.stem));
+  return out.slice(0, 50);
+}
+
+// Bind one search input + dropdown list + onSelect callback
+function bindModelSearch(inputEl, listEl, onSelect) {
+  let debounceTimer = null;
+  let activeIdx = -1;
+  let matches = [];
+  function render() {
+    if (!matches.length) { listEl.style.display = "none"; return; }
+    listEl.innerHTML = matches.map((m, i) => `
+      <div class="dropdown-item ${i===activeIdx?'active':''}" data-stem="${m.stem}">
+        <div class="code">${m.stem}</div>
+        <div class="name">${escapeHtml((m.info.product_name||'').slice(0, 80))}</div>
+      </div>`).join("");
+    listEl.style.display = "block";
+    listEl.querySelectorAll(".dropdown-item").forEach(el => {
+      el.addEventListener("mousedown", (e) => {
+        e.preventDefault();
+        onSelect(el.dataset.stem);
+      });
+    });
+  }
+  inputEl.addEventListener("input", (e) => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+      activeIdx = -1;
+      matches = filterModels(e.target.value);
+      render();
+    }, 120);
+  });
+  inputEl.addEventListener("focus", () => { if (matches.length) render(); });
+  inputEl.addEventListener("blur", () => { setTimeout(() => listEl.style.display = "none", 150); });
+  let ime = false;
+  inputEl.addEventListener("compositionstart", () => { ime = true; });
+  inputEl.addEventListener("compositionend", () => { ime = false; });
+  inputEl.addEventListener("keydown", (e) => {
+    if (e.key === "ArrowDown") { activeIdx = Math.min(matches.length - 1, activeIdx + 1); render(); }
+    else if (e.key === "ArrowUp") { activeIdx = Math.max(0, activeIdx - 1); render(); }
+    else if (e.key === "Enter" && activeIdx >= 0) {
+      if (e.isComposing || e.keyCode === 229 || ime) return;  // IME 조합중 Enter 무시
+      e.preventDefault();
+      onSelect(matches[activeIdx].stem);
+    }
+  });
+}
+
+// =====================================================
+// Product load
+// =====================================================
+async function loadProduct(stem) {
+  if (DATA.productCache.has(stem)) return DATA.productCache.get(stem);
+  const r = await fetch(`products/${encodeURIComponent(stem)}.json`);
+  if (!r.ok) throw new Error(`제품 로딩 실패 (${stem})`);
+  const d = await r.json();
+  DATA.productCache.set(stem, d);
+  return d;
+}
+
+// Context-aware select: updates UI for the tab that invoked it
+async function selectModel(stem, context) {
+  // context: "chat" or "qna"
+  status("제품 로딩 중...");
+  try {
+    const p = await loadProduct(stem);
+    const prevStem = DATA.selected?.stem;
+    DATA.selected = { stem, data: p };
+
+    if (context === "chat") {
+      $("chat-model-search").value = stem;
+      $("chat-dropdown-list").style.display = "none";
+      renderChatSelectedProduct(p);
+      renderChatTalkTalkExamples(p);
+      if (prevStem !== stem) {
+        // If there is no active chat session, we just update context.
+        // If there IS an active session with same stem — continue.
+        // If active session has different stem — start a new one silently.
+        if (CHAT.activeId && CHAT.productStem && CHAT.productStem !== stem) {
+          startNewChatSession(false);
+        }
+        CHAT.productStem = stem;
+        CHAT.systemPrompt = ""; // will rebuild on next send
+      }
+      updateChatMeta();
+    } else if (context === "qna") {
+      $("qna-model-search").value = stem;
+      $("qna-dropdown-list").style.display = "none";
+      renderQnaSelectedProduct(p);
+      renderQnaTemplates(p);
+      $("btn-qna-answer").disabled = false;
+      $("qna-hint").textContent = "✓ 제품 선택됨. 고객 문의 입력 후 답변 생성 버튼을 누르세요.";
+    }
+    status(`선택됨: ${stem}`, "ok");
+  } catch (e) {
+    status(e.message, "err");
+  }
+}
+
+function renderChatSelectedProduct(p) {
+  const cats = (p.category || []).map(c => `<span class="tag">${escapeHtml(c)}</span>`).join("");
+  const stats = [];
+  if (p.key_features?.length) stats.push(`OCR ${p.key_features.length}`);
+  if (p.reviews?.length) stats.push(`리뷰 ${p.reviews.length}`);
+  if (p.qna?.length) stats.push(`QnA ${p.qna.length}`);
+  if (p.talktalk_qna?.length) stats.push(`톡톡 ${p.talktalk_qna.length}`);
+  if (p.variants?.length) stats.push(`variants ${p.variants.length}`);
+  $("chat-selected-product").innerHTML = `
+    <div class="product-card">
+      <h3>${escapeHtml(p.model_no || "")}</h3>
+      <div class="meta">${escapeHtml(p.product_name || "")}</div>
+      <div class="tags">${cats}</div>
+      <div class="small" style="margin-top:6px">${stats.join(" · ")}</div>
+    </div>
+  `;
+}
+function renderQnaSelectedProduct(p) {
+  const cats = (p.category || []).slice(0, 4).map(c => `<span class="tag">${escapeHtml(c)}</span>`).join("");
+  const stats = [];
+  if (p.key_features?.length) stats.push(`OCR ${p.key_features.length}`);
+  if (p.reviews?.length) stats.push(`리뷰 ${p.reviews.length}`);
+  if (p.qna?.length) stats.push(`QnA ${p.qna.length}`);
+  if (p.talktalk_qna?.length) stats.push(`톡톡 ${p.talktalk_qna.length}`);
+  $("qna-selected-product").innerHTML = `
+    <div class="qna-meta-card">
+      <b>${escapeHtml(p.model_no || "")}</b> — ${escapeHtml((p.product_name || "").slice(0, 80))}<br>
+      <span class="tags" style="margin-top:6px">${cats}</span>
+      <span class="small" style="margin-left:8px">${stats.join(" · ")}</span>
+    </div>
+  `;
+}
+function renderChatTalkTalkExamples(p) {
+  const tt = (p.talktalk_qna || []).slice(0, 3);
+  if (!tt.length) {
+    $("chat-talktalk-examples").innerHTML = '<i>이 제품의 과거 톡톡 상담 기록이 없습니다.</i>';
+    return;
+  }
+  $("chat-talktalk-examples").innerHTML = tt.map((t, i) =>
+    `<details style="margin-bottom:4px">
+       <summary style="font-size:11.5px">#${i+1} ${escapeHtml((t.question||"").slice(0,50))}</summary>
+       <div style="padding:6px 0 8px 12px; font-size:11px">
+         <b>Q:</b> ${escapeHtml((t.question||"").slice(0,180))}<br>
+         <b>A:</b> ${escapeHtml((t.answer||"").slice(0,220))}
+       </div>
+     </details>`
+  ).join("");
+}
+function renderQnaTemplates(p) {
+  const tmplSet = new Set();
+  (p.category || []).forEach(c => { (DATA.templates[c] || []).forEach(t => tmplSet.add(t)); });
+  (DATA.templates._common || []).forEach(t => tmplSet.add(t));
+  const arr = [...tmplSet].slice(0, 10);
+  if (!arr.length) { $("qna-templates-wrap").style.display = "none"; return; }
+  $("qna-templates-wrap").style.display = "block";
+  $("qna-templates").innerHTML = arr.map(t =>
+    `<button class="template-btn" data-t="${escapeHtml(t)}">${escapeHtml(t)}</button>`
+  ).join("");
+  $("qna-templates").querySelectorAll(".template-btn").forEach(el => {
+    el.addEventListener("click", () => {
+      $("qna-question").value = el.dataset.t;
+      $("qna-question").focus();
+    });
+  });
+}
+
+// =====================================================
+// [Phase1] Intent extraction — 고객 자연어 → canonical feature tags
+// =====================================================
+// Gemini에 짧은 프롬프트로 의도를 JSON 태그로 번역하게 함.
+// 실패 시 null 반환 — 기존 답변 플로우는 영향 없음.
+async function extractIntent(customerQ, selected, apikey) {
+  if (!customerQ || customerQ.trim().length < 2) return null;
+  if (!apikey) return null;
+  const selFeat = (DATA.featuresIndex && selected?.stem) ? DATA.featuresIndex[selected.stem] : null;
+  const prompt = `아래 고객 문의를 카탈로그 기능 태그로 번역하라.
+응답은 JSON만. 설명·코드블록 금지.
+
+[출력 스키마]
+{
+  "wants":       ["태그1","태그2", ...],        // 고객이 원하는 기능/속성
+  "avoid":       ["태그A", ...],                // 고객이 원치 않는 기능/속성
+  "intent_note": "<한 문장, 20자 이내 의도 요약>"
+}
+
+[규칙]
+- 태그는 가능한 한 canonical하게. 위 synonyms 사전에 나오는 키 이름을 우선 사용.
+- 명확한 근거가 없으면 wants/avoid는 빈 배열 [].
+- intent_note는 한국어 한 문장. 고객이 실제로 알고 싶은 핵심.
+
+[synonyms 사전]
+${JSON.stringify(INTENT_SYNONYMS, null, 2)}
+
+[선택된 제품 기능 요약]
+${selFeat ? JSON.stringify(selFeat).slice(0, 1500) : "(제품 features 없음)"}
+
+[고객 문의]
+"""
+${customerQ}
+"""
+
+JSON만 출력.`;
+  try {
+    const url = `${API_BASE}/${MODEL}:generateContent?key=${encodeURIComponent(apikey)}`;
+    const body = {
+      contents: [{ role: "user", parts: [{ text: prompt }] }],
+      generationConfig: {
+        temperature: 0.0,
+        maxOutputTokens: 800,
+        responseMimeType: "application/json",
+      },
+    };
+    const r = await fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
+    if (!r.ok) return null;
+    const data = await r.json();
+    const txt = data?.candidates?.[0]?.content?.parts?.[0]?.text || "";
+    let parsed = null;
+    try { parsed = JSON.parse(txt); }
+    catch(e) {
+      const m = txt.match(/\{[\s\S]*\}/);
+      if (m) { try { parsed = JSON.parse(m[0]); } catch {} }
+    }
+    if (!parsed) return null;
+    // 안전 검사 + 정규화
+    return {
+      wants: Array.isArray(parsed.wants) ? parsed.wants.slice(0, 12).filter(t => typeof t === "string") : [],
+      avoid: Array.isArray(parsed.avoid) ? parsed.avoid.slice(0, 8).filter(t => typeof t === "string") : [],
+      intent_note: (parsed.intent_note || "").toString().slice(0, 80),
+    };
+  } catch (e) {
+    console.warn("extractIntent failed:", e);
+    return null;
+  }
+}
+
+// [Phase1] 후보 features 필드에서 주어진 tag가 true/포함되는지 검사
+function candidateHasTag(features, tag) {
+  if (!features || !tag) return false;
+  const tagL = String(tag).toLowerCase();
+  // switching_methods / switching controls
+  const sw = features.fam?.switching_methods || [];
+  if (Array.isArray(sw) && sw.map(x => String(x).toLowerCase()).includes(tagL)) return true;
+  // control_switching.has_* flags
+  const ctl = features.ctl || {};
+  const flagMap = {
+    hotkey: "has_hotkey",
+    mouse_wheel: "has_mouse_switching",
+    physical_button: "has_physical_button",
+    wired_remote: "has_remote",
+    ir_remote: "has_remote",
+    auto_scan: "has_auto_scan",
+    app: "has_app_control",
+  };
+  if (flagMap[tagL] && ctl[flagMap[tagL]] === true) return true;
+  // power_mode
+  if (features.pwr?.power_mode && String(features.pwr.power_mode).toLowerCase() === tagL) return true;
+  // charging
+  if ((tagL === "pd_charging" || tagL === "pd") && features.pwr?.pd_wattage) return true;
+  if (tagL === "wireless_charging" && features.pwr?.wireless_charging === true) return true;
+  // video_signal
+  if (features.av?.max_resolution && String(features.av.max_resolution).toLowerCase().includes(tagL)) return true;
+  if (tagL === "hdr_support" && features.av?.hdr_support === true) return true;
+  if (tagL === "hdcp2.2" && String(features.av?.hdcp_version || "").toLowerCase().includes("2.2")) return true;
+  if (tagL === "audio_pass" && (features.av?.audio_pass === true || features.av?.arc === true)) return true;
+  // form
+  if (tagL === "built_in_cable" && features.fam?.cable_built_in === true) return true;
+  if (tagL === "hub_built_in" && features.fam?.hub_built_in === true) return true;
+  // kvm pc count
+  if (/^pc_\d+$/.test(tagL)) {
+    const n = +tagL.slice(3);
+    if (features.fam?.pc_count === n) return true;
+  }
+  // shield / cable quality
+  if (tagL === "shielded" && features.fam?.shielding) {
+    const s = String(features.fam.shielding).toLowerCase();
+    if (s !== "utp" && s !== "unshielded") return true;
+  }
+  return false;
+}
+
+// [Phase1] features 기준으로 후보를 의도에 맞춰 재정렬 + 태그 매칭 정보 부착
+function rerankByIntent(candidates, intent) {
+  if (!intent || (!intent.wants?.length && !intent.avoid?.length)) return candidates;
+  return candidates.map(c => {
+    const f = c.features_compact || null;
+    const matchedWants = (intent.wants || []).filter(t => candidateHasTag(f, t));
+    const hitAvoid     = (intent.avoid || []).filter(t => candidateHasTag(f, t));
+    const intentBonus  = matchedWants.length * 6 - hitAvoid.length * 9;
+    return { ...c, matched_wants: matchedWants, hit_avoid: hitAvoid, intent_bonus: intentBonus };
+  }).sort((a, b) =>
+    (b.intent_bonus || 0) - (a.intent_bonus || 0) ||
+    b.structure_score - a.structure_score ||
+    b.category_overlap - a.category_overlap ||
+    a.model_no.localeCompare(b.model_no)
+  );
+}
+
+// =====================================================
+// Structural fingerprint (PRESERVED)
+// =====================================================
+function parseStructure(info) {
+  const name = String(info.product_name || "").toUpperCase();
+  const catList = (info.category || info.categories || []).map(c => String(c).toUpperCase());
+  const featList = (info.key_features || info.brief_features || []);
+  const feats = featList.map(f => String(f)).join(" ").toUpperCase();
+  const specs = Object.entries(info.specifications || {}).map(([k,v]) => `${k}:${v}`).join(" ").toUpperCase();
+  const hay = name + " | " + catList.join(",") + " | " + feats + " | " + specs;
+
+  let portIn = null, portOut = null;
+  const matrix = name.match(/(?<![\d])(\d{1,2})\s*[X×:]\s*(\d{1,2})(?!\s*[:\d])/);
+  if (matrix) { portIn = +matrix[1]; portOut = +matrix[2]; }
+  if (portIn == null) { const p = hay.match(/(\d{1,2})\s*(?:포트|-?PORT)/); if (p) portIn = +p[1]; }
+  if (portIn == null) { const p = hay.match(/(\d{1,2})\s*(?:채널|\bCH\b)/); if (p) portIn = +p[1]; }
+  if (portIn == null) { const p = name.match(/\bLS[NP]?-[A-Z]*?(\d)[A-Z]*KVM/); if (p) portIn = +p[1]; }
+
+  let form = null;
+  if (/멀티뷰어|MULTI-?VIEWER|QUAD\s*VIEW|쿼드\s*뷰|화면\s*분할/.test(hay)) form = "multiviewer";
+  else if (/매트릭스|MATRIX/.test(hay)) form = "matrix";
+  else if (/분배기|SPLITTER|DISTRIBUTOR/.test(hay)) form = "splitter";
+  else if (/익스텐더|EXTENDER|연장기|리피터|REPEATER/.test(hay)) form = "extender";
+  else if (/컨버터|CONVERTER|변환/.test(hay)) form = "converter";
+  else if (/스위치|SWITCH|셀렉터|선택기|SELECTOR/.test(hay)) form = "switch";
+  else if (/허브|\bHUB\b/.test(hay)) form = "hub";
+
+  const isKVM = /KVM/.test(hay);
+  const ios = [];
+  if (/HDMI/.test(hay)) ios.push("HDMI");
+  if (/DISPLAY\s*PORT|\bDP\b/.test(hay)) ios.push("DP");
+  if (/\bDVI\b/.test(hay)) ios.push("DVI");
+  if (/\bVGA\b/.test(hay)) ios.push("VGA");
+  if (/USB[-\s]?C|TYPE[-\s]?C/.test(hay)) ios.push("USB-C");
+  if (/SDI/.test(hay)) ios.push("SDI");
+  if (/RJ[-\s]?45|이더넷|ETHERNET|\bLAN\b|CAT\s*[5-8]/.test(hay)) ios.push("LAN");
+
+  let res = null;
+  if (/\b8K\b/.test(hay)) res = "8K";
+  else if (/4K\s*@?\s*(?:60|120)/.test(hay)) res = "4K60";
+  else if (/\b4K\b|UHD/.test(hay)) res = "4K";
+  else if (/1080P|FHD|FULL\s*HD/.test(hay)) res = "FHD";
+
+  return { portIn, portOut, form, isKVM, ios, res };
+}
+function structureSimilarity(a, b) {
+  let score = 0;
+  if (a.portIn != null && b.portIn != null) {
+    if (a.portIn === b.portIn) score += 12;
+    else score -= Math.abs(a.portIn - b.portIn) * 4;
+  }
+  if (a.form && b.form) {
+    if (a.form === b.form) score += 12; else score -= 8;
+  } else if (a.form && !b.form) { score -= 2; }
+  if (a.isKVM === b.isKVM) score += 2; else score -= 3;
+  if (a.ios.length && b.ios.length) {
+    const overlap = a.ios.filter(x => b.ios.includes(x)).length;
+    score += overlap * 3;
+    if (overlap === 0) score -= 6;
+  }
+  const rank = { "FHD":1, "4K":2, "4K60":3, "8K":4 };
+  if (a.res && b.res) {
+    if (b.res === a.res) score += 1;
+    else if ((rank[b.res]||0) > (rank[a.res]||0)) score += 2;
+    else score -= 1;
+  }
+  return score;
+}
+
+async function getCandidates(selected, limit=15) {
+  const cats = selected.data.category || [];
+  const scores = new Map();
+  for (const c of cats) {
+    const models = DATA.categoriesIndex[c] || [];
+    for (const m of models) {
+      if (m === selected.stem) continue;
+      scores.set(m, (scores.get(m) || 0) + 1);
+    }
+  }
+  const selfStruct = parseStructure(selected.data);
+  const pool = [...scores.entries()].sort((a,b) => b[1] - a[1] || a[0].localeCompare(b[0])).slice(0, 80);
+  const enriched = pool.map(([m, score]) => {
+    const info = DATA.modelsIndex[m] || {};
+    const cStruct = parseStructure(info);
+    const sim = structureSimilarity(selfStruct, cStruct);
+    // [Phase1] features_index 에서 후보의 기능 태그 묶음을 같이 실어줌
+    const featC = (DATA.featuresIndex && DATA.featuresIndex[m]) || null;
+    return {
+      model_no: m,
+      product_name: info.product_name || "",
+      categories: info.category || [],
+      brief_features: info.brief_features || [],
+      category_overlap: score,
+      structure: cStruct,
+      structure_score: sim,
+      features_compact: featC,   // [Phase1] 경량 features (fam/con/pwr/av/ctl/phy)
+    };
+  });
+  enriched.sort((a,b) =>
+    b.structure_score - a.structure_score ||
+    b.category_overlap - a.category_overlap ||
+    a.model_no.localeCompare(b.model_no)
+  );
+  return enriched.slice(0, limit);
+}
+
+function buildVariantRawBlock(p) {
+  const vrt = p._variant_raw_texts || {};
+  const keys = Object.keys(vrt);
+  if (!keys.length) return "";
+  const seen = new Set();
+  const parts = [];
+  for (const k of keys) {
+    const txt = (vrt[k] || "").trim();
+    if (!txt) continue;
+    const sig = txt.slice(0, 500);
+    if (seen.has(sig)) continue;
+    seen.add(sig);
+    parts.push(`### ${k}\n${txt.slice(0, 3000)}`);
+  }
+  if (!parts.length) return "";
+  return `\n## 통합 전 원본 OCR raw_text (variant fragments)\n\n아래는 통합 과정에서 구조화 필드로 뽑히지 못한 원본 OCR 텍스트입니다. 고객이 묻는 절차/설정/사용법 등이 위 key_features나 usage_instructions에 없으면 여기서 먼저 찾으세요.\n\n${parts.join("\n\n")}\n`;
+}
+
+// =====================================================
+// QnA prompt (PRESERVED)
+// =====================================================
+// [Phase3] 승인 KB에서 현재 선택 제품·카테고리와 일치하는 few-shot 상위 N건 뽑기
+function pickApprovedKb(selected, maxN) {
+  const kb = DATA.approvedKb || [];
+  if (!kb.length) return [];
+  const p = selected?.data || {};
+  const selModel = (p.model_no || selected?.stem || "").toUpperCase();
+  const selCats = Array.isArray(p.category) ? p.category.map(s => String(s).toLowerCase()) : (p.category ? [String(p.category).toLowerCase()] : []);
+  const scored = kb.map(e => {
+    let s = 0;
+    const em = (e.model_no || "").toUpperCase();
+    if (em && selModel && em === selModel) s += 10;
+    else if (em && selModel && (em.split(/[-_]/)[0] === selModel.split(/[-_]/)[0])) s += 2;
+    const ecats = (e.categories || []).map(c => String(c).toLowerCase());
+    const overlap = ecats.filter(c => selCats.includes(c)).length;
+    s += overlap * 3;
+    if (e.family && selCats.length && selCats.some(c => c.includes(String(e.family).toLowerCase()) || String(e.family).toLowerCase().includes(c))) s += 2;
+    return { e, s };
+  }).filter(x => x.s > 0);
+  scored.sort((a, b) => b.s - a.s || ((b.e.approved_at || "") > (a.e.approved_at || "") ? 1 : -1));
+  return scored.slice(0, maxN || 3).map(x => ({
+    model_no: x.e.model_no, question: x.e.question, answer: x.e.answer,
+    intent_tags: x.e.intent_tags || [], approved_at: x.e.approved_at || "",
+  }));
+}
+
+function buildPrompt(selected, customerQ, candidates, imageCount, intent) {
+  const p = selected.data;
+  // [Phase1] 제품 기능 태그 (features) 도 프롬프트에 같이 제공
+  const pFeatures = p.features || null;
+  const pSummary = {
+    model_no: p.model_no, product_name: p.product_name, category: p.category,
+    key_features: p.key_features || [], specifications: p.specifications || {},
+    description: p.description || "", compatibility: p.compatibility || [],
+    package_contents: p.package_contents || [], usage_instructions: p.usage_instructions || "",
+    cautions: p.cautions || "",
+    variants: (p.variants || []).map(v => ({ model_no: v.model_no, variant_suffix: v.variant_suffix, 품목명: v["품목명"] || "", source: v.source })).slice(0, 20),
+  };
+  const reviews = (p.reviews || []).slice(0, 25).map(r => ({ q: (r.content || r.title || "").slice(0, 200), rating: r.rating, date: r.date }));
+  const qna = (p.qna || []).slice(0, 15).map(q => ({ question: (q.question || "").slice(0, 300), answer: (q.answer || "").slice(0, 500) }));
+  const talk = (p.talktalk_qna || []).slice(0, 15).map(t => ({ question: (t.question || "").slice(0, 300), answer: (t.answer || "").slice(0, 500), category: t.category, isTechnical: t.isTechnical }));
+  const variantRawBlock = buildVariantRawBlock(p);
+
+  // [Phase1] 의도 추출 결과 + 매칭 후보 요약 블록
+  const intentBlock = intent && (intent.wants?.length || intent.avoid?.length || intent.intent_note) ? `
+## 고객 의도 (사전 추출된 기능 태그)
+\`\`\`json
+${JSON.stringify(intent, null, 2)}
+\`\`\`
+- 이 태그 중 **선택 제품(features)이 충족하는 것**을 먼저 확인하여 근거로 인용하라 (citations의 field 에 feature 경로를 적어라, 예: "control_switching.has_hotkey").
+- 선택 제품이 충족하지 못하는 wants 가 있으면, 아래 후보 중 \`matched_wants\` 가 일치하는 제품을 alternative_products 로 우선 추천하라.
+- avoid 태그를 가진 후보는 추천하지 말 것.
+` : "";
+
+  // [Phase3] 승인 KB few-shot 블록 (선택 제품/카테고리 매칭 상위 3건)
+  const kbShots = pickApprovedKb(selected, 3);
+  const kbBlock = kbShots.length ? `
+## 검증된 과거 답변 예시 (관리자 승인 완료 · few-shot)
+다음은 같은/유사 제품군에서 관리자가 "모범 답변"으로 승인한 상담 사례입니다.
+톤·구조·상세도를 참고하되, 현재 질문과 제품 데이터에 맞게 재작성하라. 사례를 그대로 복사하지 말 것.
+\`\`\`json
+${JSON.stringify(kbShots, null, 2)}
+\`\`\`
+` : "";
+
+  return `
+당신은 랜스타(LANstar) 고객센터의 AI 상담사입니다. 아래 제품 데이터를 토대로 고객 문의에 답변합니다.
+
+## 답변 원칙 (우선순위 순)
+1. **1차 근거 — 제품 이미지 분석 (OCR)**: \`key_features\`, \`specifications\`, \`description\`, \`compatibility\`, \`package_contents\`, \`variants\` 는 제품 원본 상세 이미지에서 추출한 객관적·공식적 정보입니다.
+1-1. **기능 태그(features)** — 제품의 핵심 기능을 canonical tag 로 미리 정리한 것. 고객 질문을 태그로 번역해 바로 확인하라.
+2. **2차 근거 — 고객 데이터 교차 검증**: \`reviews\`, \`qna\`, \`talktalk_qna\`.
+3. **3차 — 없는 기능이면 대체 제품 추천**: 후보 목록의 structure 필드가 원본과 동일한 항목만 대상 (portIn/form/ios/isKVM). 구조 다른 추천 금지.
+4. **4차 — 추론 + Google Search**. 추론 시 [INFERRED] 표기.
+
+## 응답 형식 (JSON only)
+{
+  "answer": "<한국어 답변>",
+  "answer_type": "direct" | "inferred" | "mixed",
+  "citations": [{"type":"ocr|qna|talktalk|review|inference|web|image","field":"...","index":0,"quote":"..."}],
+  "alternative_products": [{"model_no":"LS-XXX","why":"..."}],
+  "confidence": "high|medium|low"
+}
+
+## 선택 제품
+\`\`\`json
+${JSON.stringify(pSummary, null, 2)}
+\`\`\`
+
+## 선택 제품 구조 시그니처
+\`\`\`json
+${JSON.stringify(parseStructure(p), null, 2)}
+\`\`\`
+
+## 선택 제품 기능 태그 (features)
+\`\`\`json
+${pFeatures ? JSON.stringify(pFeatures, null, 2) : "null (기능 태그 아직 추출 안 됨)"}
+\`\`\`
+${intentBlock}${kbBlock}
+## 리뷰 (25)
+\`\`\`json
+${JSON.stringify(reviews, null, 2)}
+\`\`\`
+
+## 스마트스토어 QnA (15)
+\`\`\`json
+${JSON.stringify(qna, null, 2)}
+\`\`\`
+
+## 톡톡 QnA (15)
+\`\`\`json
+${JSON.stringify(talk, null, 2)}
+\`\`\`
+
+${variantRawBlock}
+
+## 대체 후보 (구조 유사도 상위 15 — structure로 필터링)
+\`\`\`json
+${JSON.stringify(candidates, null, 2)}
+\`\`\`
+
+## 고객 문의
+"""
+${customerQ}
+"""
+${imageCount > 0 ? `
+## 첨부 이미지 지시 (${imageCount}장)
+- 이미지를 시각 분석 → 제품 데이터와 대조.
+- 다른 모델로 보이면 suggested_product_switch 제안.
+- citations에 {"type":"image","note":"..."} 로 인용.
+` : ""}
+반드시 JSON만 출력.
+`.trim();
+}
+
+// =====================================================
+// Chat prompt (PRESERVED)
+// =====================================================
+function buildChatSystemPrompt(selected, candidates) {
+  const p = selected.data;
+  const pSummary = {
+    model_no: p.model_no, product_name: p.product_name, category: p.category,
+    key_features: p.key_features || [], specifications: p.specifications || {},
+    description: p.description || "", compatibility: p.compatibility || [],
+    package_contents: p.package_contents || [], usage_instructions: p.usage_instructions || "",
+    cautions: p.cautions || "",
+    variants: (p.variants || []).map(v => ({ model_no: v.model_no, variant_suffix: v.variant_suffix, 품목명: v["품목명"] || "", source: v.source })).slice(0, 20),
+  };
+  const reviews = (p.reviews || []).slice(0, 20).map(r => ({ q: (r.content || r.title || "").slice(0, 200), rating: r.rating, date: r.date }));
+  const qna = (p.qna || []).slice(0, 12).map(q => ({ question: (q.question || "").slice(0, 300), answer: (q.answer || "").slice(0, 500) }));
+  const talk = (p.talktalk_qna || []).slice(0, 12).map(t => ({ question: (t.question || "").slice(0, 300), answer: (t.answer || "").slice(0, 500) }));
+  const variantRawBlock = buildVariantRawBlock(p);
+
+  return `
+당신은 랜스타(LANstar) 고객센터의 AI 톡톡 상담사입니다. **실시간 톡톡 채팅**으로 고객과 대화를 주고받으며 문제를 단계적으로 해결합니다.
+
+## 상담 원칙
+1. 1차 근거: key_features/specifications/usage_instructions/cautions/variants + variant_raw_texts
+2. 2차 근거: reviews/qna/talktalk_qna
+3. 3차: 기능 없으면 alternative_products. 대체 제품은 반드시 원본과 portIn/form/ios/isKVM 모두 일치.
+4. 4차: 추론 + Google Search. answer_type=inferred.
+
+## 톡톡 특유 행동
+- 단답 지양, 필요 시 follow_up_question.
+- 단계별 가이드(한 단계씩 → 응답 대기 → 다음).
+- 클레임/분노/환불 감지 시 needs_human_handoff.
+- 다른 제품 언급 시 suggested_product_switch.
+- 이미지 첨부 시 시각 관찰 → 제품 데이터 대조 → 필요 시 모델 확인 질문.
+
+## 응답 형식 (매 응답 JSON)
+{
+  "answer": "<한국어 답변, 톡톡 상담사 말투, 이모티콘 1개까지>",
+  "answer_type": "direct" | "inferred" | "mixed",
+  "follow_up_question": "<후속 질문 또는 null>",
+  "needs_human_handoff": null | {"priority":"urgent|high|normal","reason":"..."},
+  "suggested_product_switch": null | {"model_no":"LS-XXX","reason":"..."},
+  "citations": [{"type":"ocr|qna|talktalk|review|inference|web|image","field":"...","index":0,"quote":"..."}],
+  "alternative_products": [{"model_no":"...","why":"..."}],
+  "confidence": "high|medium|low"
+}
+
+## 제품 데이터
+\`\`\`json
+${JSON.stringify(pSummary, null, 2)}
+\`\`\`
+
+## 선택 제품 구조 시그니처
+\`\`\`json
+${JSON.stringify(parseStructure(selected.data), null, 2)}
+\`\`\`
+
+## 리뷰 (20)
+\`\`\`json
+${JSON.stringify(reviews, null, 2)}
+\`\`\`
+
+## 스마트스토어 QnA (12)
+\`\`\`json
+${JSON.stringify(qna, null, 2)}
+\`\`\`
+
+## 톡톡 QnA (12)
+\`\`\`json
+${JSON.stringify(talk, null, 2)}
+\`\`\`
+
+${variantRawBlock}
+
+## 대체 후보 (상위 15 — structure 필터 필수)
+\`\`\`json
+${JSON.stringify(candidates, null, 2)}
+\`\`\`
+
+매 응답은 반드시 JSON만 출력(마크다운·백틱 금지).
+`.trim();
+}
+
+// =====================================================
+// Gemini API calls (PRESERVED + 사용자 친화적 에러 메시지 + 429 자동 재시도)
+// =====================================================
+function friendlyGeminiError(status, raw) {
+  // Gemini API 상태코드별 한글 메시지
+  if (status === 429) {
+    return "⚠ AI 사용량 한도 초과 (429)\n"
+      + "잠시 후(약 1분) 다시 시도하거나, Google AI Studio에서 사용량/결제 설정을 확인해 주세요.\n"
+      + "무료 플랜은 분당/일일 요청 수가 제한됩니다. 사용량이 많다면 결제(billing) 활성화를 권장합니다.";
+  }
+  if (status === 400) {
+    return "⚠ 요청 오류 (400)\nAPI 키가 잘못되었거나 요청 형식에 문제가 있습니다.\n우측 상단 [API 키] 버튼에서 키를 다시 확인해 주세요.\n원문: " + (raw || "").slice(0, 200);
+  }
+  if (status === 401 || status === 403) {
+    return "⚠ 인증 오류 (" + status + ")\nAPI 키가 무효하거나 사용 권한이 없습니다.\nGoogle AI Studio(https://aistudio.google.com/apikey)에서 새 키를 발급받아 입력해 주세요.";
+  }
+  if (status >= 500) {
+    return "⚠ Gemini 서버 일시 오류 (" + status + ")\n잠시 후 다시 시도해 주세요.";
+  }
+  return "Gemini API " + status + ": " + (raw || "").slice(0, 200);
+}
+
+async function fetchGeminiWithRetry(url, body, maxRetry = 2) {
+  let lastErr = null;
+  for (let attempt = 0; attempt <= maxRetry; attempt++) {
+    const r = await fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
+    if (r.ok) return await r.json();
+    const raw = await r.text();
+    // 429, 503만 재시도 (지수 백오프)
+    if ((r.status === 429 || r.status === 503) && attempt < maxRetry) {
+      const waitMs = 2000 * Math.pow(2, attempt);  // 2s, 4s, 8s
+      status(`한도 초과, ${Math.round(waitMs/1000)}초 후 재시도 (${attempt+1}/${maxRetry})...`, "warn");
+      await new Promise(res => setTimeout(res, waitMs));
+      lastErr = { status: r.status, raw };
+      continue;
+    }
+    throw new Error(friendlyGeminiError(r.status, raw));
+  }
+  throw new Error(friendlyGeminiError(lastErr.status, lastErr.raw));
+}
+
+async function callGemini(prompt, apikey, images) {
+  const url = `${API_BASE}/${MODEL}:generateContent?key=${encodeURIComponent(apikey)}`;
+  const parts = buildPartsWithImages(prompt, images || []);
+  const hasImages = (images || []).length > 0;
+  const body = {
+    contents: [{ role: "user", parts: parts }],
+    ...(hasImages ? {} : { tools: [{ google_search: {} }] }),
+    generationConfig: { temperature: 0.3, topP: 0.95, maxOutputTokens: 4096, responseMimeType: "application/json" },
+  };
+  return await fetchGeminiWithRetry(url, body);
+}
+async function callGeminiChat(contents, apikey) {
+  const url = `${API_BASE}/${MODEL}:generateContent?key=${encodeURIComponent(apikey)}`;
+  const hasImages = contents.some(c => (c.parts || []).some(p => p.inline_data));
+  const body = {
+    contents: contents,
+    ...(hasImages ? {} : { tools: [{ google_search: {} }] }),
+    generationConfig: { temperature: 0.4, topP: 0.95, maxOutputTokens: 4096, responseMimeType: "application/json" },
+  };
+  return await fetchGeminiWithRetry(url, body);
+}
+function parseLLMResponse(apiResp) {
+  const txt = apiResp?.candidates?.[0]?.content?.parts?.[0]?.text || "";
+  let parsed = null;
+  try { parsed = JSON.parse(txt); }
+  catch(e) {
+    const m = txt.match(/\{[\s\S]*\}/);
+    if (m) { try { parsed = JSON.parse(m[0]); } catch {} }
+  }
+  const grounding = apiResp?.candidates?.[0]?.groundingMetadata || null;
+  return { parsed, grounding, raw: txt };
+}
+
+// =====================================================
+// CHAT state + session management
+// =====================================================
+const CHAT = {
+  activeId: null,
+  customerName: "",
+  productStem: null,
+  systemPrompt: "",
+  turns: [],        // [{role, text, images?}]
+  summary: "",
+  createdAt: null,
+  updatedAt: null,
+  tag: null,        // 'open' | 'handoff' | 'closed'
+};
+
+function newId() {
+  return "s_" + Date.now() + "_" + Math.random().toString(36).slice(2, 8);
+}
+
+// List cache
+const CHAT_SESSIONS = []; // array of metadata items
+const QNA_HISTORY = [];
+
+async function refreshChatList() {
+  try {
+    const items = await apiListSessions("chat");
+    CHAT_SESSIONS.length = 0;
+    CHAT_SESSIONS.push(...items);
+    renderChatSessionList();
+  } catch (e) {
+    console.warn("list chat failed:", e);
+    status("세션 리스트 로딩 실패: " + e.message, "err");
+  }
+}
+async function refreshQnaList() {
+  try {
+    const items = await apiListSessions("qna");
+    QNA_HISTORY.length = 0;
+    QNA_HISTORY.push(...items);
+    renderQnaHistoryList();
+  } catch (e) {
+    console.warn("list qna failed:", e);
+    status("이력 로딩 실패: " + e.message, "err");
+  }
+}
+
+// =====================================================
+// Custom order (drag-and-drop) — stored in localStorage
+// =====================================================
+function loadCustomOrder(key) {
+  try {
+    const raw = localStorage.getItem(key);
+    if (!raw) return [];
+    const arr = JSON.parse(raw);
+    return Array.isArray(arr) ? arr.filter(x => typeof x === "string") : [];
+  } catch (_) { return []; }
+}
+function saveCustomOrder(key, ids) {
+  try { localStorage.setItem(key, JSON.stringify(ids || [])); } catch (_) {}
+}
+function removeFromCustomOrder(key, id) {
+  const cur = loadCustomOrder(key);
+  if (!cur.length) return;
+  const next = cur.filter(x => x !== id);
+  if (next.length !== cur.length) saveCustomOrder(key, next);
+}
+/**
+ * Sort sessions: items listed in custom order come first (in that order),
+ * followed by remaining items sorted by updated_at desc (newest first).
+ */
+function applyCustomOrder(items, key) {
+  const order = loadCustomOrder(key);
+  if (!items?.length) return items || [];
+  if (!order.length) return [...items].sort((a,b) => (b.updated_at||0) - (a.updated_at||0));
+  const byId = new Map(items.map(s => [s.id, s]));
+  const picked = new Set();
+  const head = [];
+  for (const id of order) {
+    const it = byId.get(id);
+    if (it) { head.push(it); picked.add(id); }
+  }
+  const tail = items.filter(s => !picked.has(s.id))
+    .sort((a,b) => (b.updated_at||0) - (a.updated_at||0));
+  return head.concat(tail);
+}
+
+/**
+ * Attach HTML5 drag-and-drop reordering to a list container.
+ * - selector: CSS selector for draggable children (must each have data-id)
+ * - onReorder(orderedIds): called after a successful drop with the
+ *   new array of ids (in visual order top→bottom)
+ */
+function attachDragAndDrop(listEl, selector, onReorder) {
+  let dragId = null;
+  const clearDropHints = () => {
+    listEl.querySelectorAll(".drop-above, .drop-below").forEach(el =>
+      el.classList.remove("drop-above", "drop-below"));
+  };
+  listEl.querySelectorAll(selector).forEach(row => {
+    row.addEventListener("dragstart", (e) => {
+      dragId = row.dataset.id;
+      row.classList.add("dragging");
+      try {
+        e.dataTransfer.effectAllowed = "move";
+        e.dataTransfer.setData("text/plain", dragId);
+      } catch (_) {}
+    });
+    row.addEventListener("dragend", () => {
+      row.classList.remove("dragging");
+      clearDropHints();
+      dragId = null;
+    });
+    row.addEventListener("dragover", (e) => {
+      if (!dragId || dragId === row.dataset.id) return;
+      e.preventDefault();
+      try { e.dataTransfer.dropEffect = "move"; } catch (_) {}
+      const rect = row.getBoundingClientRect();
+      const above = (e.clientY - rect.top) < rect.height / 2;
+      clearDropHints();
+      row.classList.add(above ? "drop-above" : "drop-below");
+    });
+    row.addEventListener("dragleave", (e) => {
+      // Only clear if leaving the row entirely (not moving between children)
+      if (!row.contains(e.relatedTarget)) {
+        row.classList.remove("drop-above", "drop-below");
+      }
+    });
+    row.addEventListener("drop", (e) => {
+      e.preventDefault();
+      if (!dragId || dragId === row.dataset.id) { clearDropHints(); return; }
+      const rect = row.getBoundingClientRect();
+      const above = (e.clientY - rect.top) < rect.height / 2;
+      const targetId = row.dataset.id;
+      // Build new order from current DOM, moving dragId around targetId
+      const currentIds = Array.from(listEl.querySelectorAll(selector))
+        .map(el => el.dataset.id);
+      const without = currentIds.filter(id => id !== dragId);
+      const targetIdx = without.indexOf(targetId);
+      const insertAt = above ? targetIdx : targetIdx + 1;
+      without.splice(insertAt, 0, dragId);
+      clearDropHints();
+      if (typeof onReorder === "function") onReorder(without);
+    });
+  });
+}
+
+function renderChatSessionList() {
+  const filter = ($("chat-session-search").value || "").toLowerCase();
+  // Apply custom sort order first (drag-and-drop)
+  const sorted = applyCustomOrder(CHAT_SESSIONS, "aicc_chat_order_v1");
+  const filtered = !filter ? sorted : sorted.filter(s =>
+    (s.customer_name||"").toLowerCase().includes(filter) ||
+    (s.model_stem||"").toLowerCase().includes(filter) ||
+    (s.product_name||"").toLowerCase().includes(filter) ||
+    (s.last_message||"").toLowerCase().includes(filter)
+  );
+  $("chat-session-count").textContent = CHAT_SESSIONS.length;
+  const list = $("chat-session-list");
+  if (!filtered.length) {
+    list.innerHTML = CHAT_SESSIONS.length
+      ? '<div class="empty-hint">검색 결과가 없습니다.</div>'
+      : '<div class="empty-hint">저장된 상담이 없습니다.<br>＋ 새 상담 으로 시작하세요.</div>';
+    return;
+  }
+  list.innerHTML = filtered.map(s => {
+    const active = s.id === CHAT.activeId ? "active" : "";
+    const name = s.customer_name || "(이름없음)";
+    const model = s.model_stem || "";
+    const last = s.last_message || "";
+    const time = fmtRelTime(s.updated_at);
+    const turns = s.turn_count || 0;
+    return `
+      <div class="session-item ${active}" draggable="true" data-id="${escapeHtml(s.id)}">
+        <span class="si-drag" title="드래그하여 위치 변경">⋮⋮</span>
+        <div class="si-top">
+          <div class="si-name">${escapeHtml(name)}</div>
+          <div class="si-time">${escapeHtml(time)}</div>
+        </div>
+        <div class="si-model">${escapeHtml(model)} · ${turns}턴</div>
+        <div class="si-last">${escapeHtml(last)}</div>
+        <button class="si-del" data-del-id="${escapeHtml(s.id)}" title="삭제">×</button>
+      </div>
+    `;
+  }).join("");
+  list.querySelectorAll(".session-item").forEach(el => {
+    el.addEventListener("click", (e) => {
+      if (e.target.hasAttribute("data-del-id")) return;
+      openChatSession(el.dataset.id);
+    });
+  });
+  list.querySelectorAll("[data-del-id]").forEach(btn => {
+    btn.addEventListener("click", async (e) => {
+      e.stopPropagation();
+      if (!confirm("이 상담을 삭제하시겠습니까?")) return;
+      try {
+        await apiDeleteSession("chat", btn.dataset.delId);
+        if (CHAT.activeId === btn.dataset.delId) startNewChatSession(true);
+        removeFromCustomOrder("aicc_chat_order_v1", btn.dataset.delId);
+        await refreshChatList();
+        status("삭제됨", "ok");
+      } catch (e) { status("삭제 실패: " + e.message, "err"); }
+    });
+  });
+  attachDragAndDrop(list, ".session-item", (orderedIds) => {
+    saveCustomOrder("aicc_chat_order_v1", orderedIds);
+    renderChatSessionList();
+    status("순서 저장됨", "ok");
+  });
+}
+
+function renderQnaHistoryList() {
+  const filter = ($("qna-hist-search").value || "").toLowerCase();
+  const sorted = applyCustomOrder(QNA_HISTORY, "aicc_qna_order_v1");
+  const filtered = !filter ? sorted : sorted.filter(s =>
+    (s.customer_name||"").toLowerCase().includes(filter) ||
+    (s.model_stem||"").toLowerCase().includes(filter) ||
+    (s.product_name||"").toLowerCase().includes(filter) ||
+    (s.last_message||"").toLowerCase().includes(filter)
+  );
+  $("qna-hist-count").textContent = QNA_HISTORY.length;
+  const list = $("qna-hist-list");
+  if (!filtered.length) {
+    list.innerHTML = QNA_HISTORY.length
+      ? '<div class="empty-hint">검색 결과가 없습니다.</div>'
+      : '<div class="empty-hint">저장된 문의가 없습니다.<br>＋ 새 문의 로 시작하세요.</div>';
+    return;
+  }
+  list.innerHTML = filtered.map(s => {
+    const active = s.id === QNA.activeId ? "active" : "";
+    const model = s.model_stem || "";
+    const name = s.customer_name || "";
+    const q = s.last_message || "";
+    const time = fmtRelTime(s.updated_at);
+    return `
+      <div class="hist-item ${active}" draggable="true" data-id="${escapeHtml(s.id)}">
+        <span class="si-drag" title="드래그하여 위치 변경">⋮⋮</span>
+        <div class="hi-top">
+          <div class="hi-model">${escapeHtml(model)}</div>
+          <div class="hi-time">${escapeHtml(time)}</div>
+        </div>
+        ${name ? `<div class="hi-cust">👤 ${escapeHtml(name)}</div>` : ""}
+        <div class="hi-q">${escapeHtml(q)}</div>
+        <button class="si-del" data-del-id="${escapeHtml(s.id)}" title="삭제">×</button>
+      </div>
+    `;
+  }).join("");
+  list.querySelectorAll(".hist-item").forEach(el => {
+    el.addEventListener("click", (e) => {
+      if (e.target.hasAttribute("data-del-id")) return;
+      openQnaSession(el.dataset.id);
+    });
+  });
+  list.querySelectorAll("[data-del-id]").forEach(btn => {
+    btn.addEventListener("click", async (e) => {
+      e.stopPropagation();
+      if (!confirm("이 문의 기록을 삭제하시겠습니까?")) return;
+      try {
+        await apiDeleteSession("qna", btn.dataset.delId);
+        if (QNA.activeId === btn.dataset.delId) startNewQnaSession();
+        removeFromCustomOrder("aicc_qna_order_v1", btn.dataset.delId);
+        await refreshQnaList();
+        status("삭제됨", "ok");
+      } catch (e) { status("삭제 실패: " + e.message, "err"); }
+    });
+  });
+  attachDragAndDrop(list, ".hist-item", (orderedIds) => {
+    saveCustomOrder("aicc_qna_order_v1", orderedIds);
+    renderQnaHistoryList();
+    status("순서 저장됨", "ok");
+  });
+}
+
+// Debounced save
+const saveChatDebounced = debounce(saveCurrentChat, 800);
+
+async function saveCurrentChat() {
+  if (!CHAT.activeId) return;
+  if (!CHAT.turns.length) return; // nothing to save yet
+  const last = [...CHAT.turns].reverse().find(t => t.role === "user");
+  const lastMsg = (last?.text || "").slice(0, 120);
+  const userTurns = CHAT.turns.filter(t => t.role === "user").length;
+
+  // Store images as dataUrl for replay; cap at 6 per turn metadata to limit size
+  const turnsToStore = CHAT.turns.map(t => {
+    if (t.role !== "user") return { role: t.role, text: t.text };
+    const imgs = (t.images || []).slice(0, 3).map(im => ({
+      dataUrl: im.dataUrl, mime_type: im.mime_type, size: im.size,
+      width: im.width, height: im.height
+    }));
+    return { role: t.role, text: t.text, images: imgs };
+  });
+
+  const payload = {
+    id: CHAT.activeId,
+    customer_name: CHAT.customerName || "",
+    model_stem: CHAT.productStem || (DATA.selected?.stem || ""),
+    product_name: DATA.selected?.data?.product_name || "",
+    last_message: lastMsg,
+    turn_count: userTurns,
+    status: CHAT.tag || "open",
+    turns: turnsToStore,
+    summary: CHAT.summary || "",
+    systemPrompt: CHAT.systemPrompt || "",
+    created_at: CHAT.createdAt,
+    updated_at: Date.now(),
+  };
+  try {
+    await apiSaveSession("chat", payload);
+    CHAT.updatedAt = payload.updated_at;
+    const idx = CHAT_SESSIONS.findIndex(s => s.id === CHAT.activeId);
+    const meta = {
+      id: CHAT.activeId,
+      customer_name: payload.customer_name,
+      model_stem: payload.model_stem,
+      product_name: payload.product_name,
+      last_message: payload.last_message,
+      turn_count: payload.turn_count,
+      status: payload.status,
+      created_at: payload.created_at,
+      updated_at: payload.updated_at,
+    };
+    if (idx >= 0) CHAT_SESSIONS[idx] = meta;
+    else CHAT_SESSIONS.unshift(meta);
+    CHAT_SESSIONS.sort((a,b) => (b.updated_at||0) - (a.updated_at||0));
+    renderChatSessionList();
+  } catch (e) {
+    console.warn("save chat failed:", e);
+    status("상담 저장 실패 (로컬에만 유지): " + e.message, "err");
+  }
+}
+
+function startNewChatSession(silent) {
+  CHAT.activeId = newId();
+  CHAT.customerName = "";
+  CHAT.productStem = DATA.selected?.stem || null;
+  CHAT.systemPrompt = "";
+  CHAT.turns = [];
+  CHAT.summary = "";
+  CHAT.createdAt = Date.now();
+  CHAT.updatedAt = null;
+  CHAT.tag = "open";
+  $("chat-cust-name").value = "";
+  $("chat-messages").innerHTML = `
+    <div class="answer-box" style="color:var(--muted); margin:0">
+      <h3 style="color:var(--muted)">새 상담 시작</h3>
+      ${DATA.selected ? `<b>${escapeHtml(DATA.selected.stem)}</b> 기반 상담입니다. ` : "오른쪽 패널에서 제품을 선택한 뒤 "}
+      고객명을 입력하고 아래에 첫 메시지를 입력하세요.
+    </div>`;
+  chatAttacher.clear();
+  updateChatMeta();
+  renderChatSessionList();
+  if (!silent) status("새 상담 시작", "ok");
+}
+
+async function openChatSession(id) {
+  try {
+    status("상담 로딩 중...");
+    const s = await apiLoadSession("chat", id);
+    CHAT.activeId = s.id || id;
+    CHAT.customerName = s.customer_name || "";
+    CHAT.productStem = s.model_stem || null;
+    CHAT.systemPrompt = s.systemPrompt || "";
+    CHAT.turns = Array.isArray(s.turns) ? s.turns : [];
+    CHAT.summary = s.summary || "";
+    CHAT.createdAt = s.created_at || Date.now();
+    CHAT.updatedAt = s.updated_at || null;
+    CHAT.tag = s.status || "open";
+    $("chat-cust-name").value = CHAT.customerName;
+
+    // Load the product for the session (in the right panel)
+    if (CHAT.productStem) {
+      try {
+        await loadProduct(CHAT.productStem);
+        const prev = DATA.selected?.stem;
+        DATA.selected = { stem: CHAT.productStem, data: DATA.productCache.get(CHAT.productStem) };
+        $("chat-model-search").value = CHAT.productStem;
+        renderChatSelectedProduct(DATA.selected.data);
+        renderChatTalkTalkExamples(DATA.selected.data);
+      } catch (e) { console.warn("product reload failed:", e); }
+    }
+
+    // Re-render messages
+    const container = $("chat-messages");
+    container.innerHTML = "";
+    if (!CHAT.turns.length) {
+      container.innerHTML = `<div class="answer-box" style="color:var(--muted); margin:0"><h3 style="color:var(--muted)">빈 상담</h3>메시지를 입력해 시작하세요.</div>`;
+    } else {
+      for (const t of CHAT.turns) {
+        if (t.role === "user") renderUserMessage(t.text || "", t.images || []);
+        else renderRestoredBotMessage(t.text || "");
+      }
+    }
+    updateChatMeta();
+    renderChatSessionList();
+    status("상담 로드됨", "ok");
+  } catch (e) {
+    status("상담 로드 실패: " + e.message, "err");
+  }
+}
+
+// =====================================================
+// QNA state + session
+// =====================================================
+const QNA = {
+  activeId: null,
+  customerName: "",
+  productStem: null,
+  question: "",
+  images: [],           // latest submitted images (dataUrl only for re-render)
+  answer: null,         // full parsed answer
+  grounding: null,
+  intent: null,         // [Phase1] extracted intent tags
+  candidatesUsed: null, // [Phase1] re-ranked candidates for reasoning path
+  createdAt: null,
+  updatedAt: null,
+};
+
+function startNewQnaSession() {
+  QNA.activeId = newId();
+  QNA.customerName = "";
+  QNA.productStem = DATA.selected?.stem || null;
+  QNA.question = "";
+  QNA.images = [];
+  QNA.answer = null;
+  QNA.grounding = null;
+  QNA.intent = null;             // [Phase1]
+  QNA.candidatesUsed = null;     // [Phase1]
+  QNA.createdAt = Date.now();
+  QNA.updatedAt = null;
+  $("qna-cust-name").value = "";
+  $("qna-question").value = "";
+  $("qna-answer-area").innerHTML = `
+    <div class="answer-box" style="color:var(--muted)">
+      <h3 style="color:var(--muted)">새 문의 작성</h3>
+      위에서 제품·고객명·문의내용을 입력 후 <b>AI 답변 생성</b>을 눌러주세요.
+    </div>`;
+  qnaAttacher.clear();
+  renderQnaHistoryList();
+}
+
+async function saveCurrentQna() {
+  if (!QNA.activeId) return;
+  if (!QNA.question && !(QNA.answer?.answer)) return;
+
+  // keep only dataUrl for images (limited size)
+  const imgs = (QNA.images || []).slice(0, 5).map(im => ({
+    dataUrl: im.dataUrl, mime_type: im.mime_type, size: im.size,
+    width: im.width, height: im.height
+  }));
+  const payload = {
+    id: QNA.activeId,
+    customer_name: QNA.customerName || "",
+    model_stem: QNA.productStem || DATA.selected?.stem || "",
+    product_name: DATA.selected?.data?.product_name || "",
+    last_message: (QNA.question || "").slice(0, 120),
+    turn_count: 1,
+    status: "answered",
+    question: QNA.question,
+    images: imgs,
+    answer: QNA.answer,
+    grounding: QNA.grounding,
+    intent: QNA.intent || null,                              // [Phase1]
+    candidates_top5: (QNA.candidatesUsed || []).slice(0,5)    // [Phase1] 재현용 (근거 UI 복원)
+      .map(c => ({
+        model_no: c.model_no, product_name: c.product_name,
+        matched_wants: c.matched_wants, hit_avoid: c.hit_avoid,
+        intent_bonus: c.intent_bonus, structure_score: c.structure_score
+      })),
+    created_at: QNA.createdAt,
+    updated_at: Date.now(),
+  };
+  try {
+    await apiSaveSession("qna", payload);
+    QNA.updatedAt = payload.updated_at;
+    const idx = QNA_HISTORY.findIndex(s => s.id === QNA.activeId);
+    const meta = {
+      id: QNA.activeId,
+      customer_name: payload.customer_name,
+      model_stem: payload.model_stem,
+      product_name: payload.product_name,
+      last_message: payload.last_message,
+      turn_count: 1,
+      status: "answered",
+      created_at: payload.created_at,
+      updated_at: payload.updated_at,
+    };
+    if (idx >= 0) QNA_HISTORY[idx] = meta;
+    else QNA_HISTORY.unshift(meta);
+    QNA_HISTORY.sort((a,b) => (b.updated_at||0) - (a.updated_at||0));
+    renderQnaHistoryList();
+  } catch (e) {
+    console.warn("save qna failed:", e);
+    status("문의 저장 실패: " + e.message, "err");
+  }
+}
+
+async function openQnaSession(id) {
+  try {
+    status("문의 로딩 중...");
+    const s = await apiLoadSession("qna", id);
+    QNA.activeId = s.id || id;
+    QNA.customerName = s.customer_name || "";
+    QNA.productStem = s.model_stem || null;
+    QNA.question = s.question || "";
+    QNA.images = s.images || [];
+    QNA.answer = s.answer || null;
+    QNA.grounding = s.grounding || null;
+    QNA.intent = s.intent || null;                              // [Phase1]
+    QNA.candidatesUsed = s.candidates_top5 || null;             // [Phase1]
+    QNA.createdAt = s.created_at || Date.now();
+    QNA.updatedAt = s.updated_at || null;
+
+    $("qna-cust-name").value = QNA.customerName;
+    $("qna-question").value = QNA.question;
+
+    if (QNA.productStem) {
+      try {
+        await loadProduct(QNA.productStem);
+        DATA.selected = { stem: QNA.productStem, data: DATA.productCache.get(QNA.productStem) };
+        $("qna-model-search").value = QNA.productStem;
+        renderQnaSelectedProduct(DATA.selected.data);
+        renderQnaTemplates(DATA.selected.data);
+        $("btn-qna-answer").disabled = false;
+      } catch (e) { console.warn("product reload failed:", e); }
+    }
+
+    // Render answer area
+    if (QNA.answer) {
+      renderQnaAnswer(QNA.question, QNA.answer, QNA.grounding, QNA.images, QNA.intent, QNA.candidatesUsed);
+    } else {
+      $("qna-answer-area").innerHTML = `<div class="answer-box" style="color:var(--muted)"><h3 style="color:var(--muted)">기록된 문의</h3>아직 답변이 저장되지 않았습니다. 답변 생성 버튼을 눌러 새 답변을 생성할 수 있습니다.</div>`;
+    }
+    renderQnaHistoryList();
+    status("문의 로드됨", "ok");
+  } catch (e) {
+    status("문의 로드 실패: " + e.message, "err");
+  }
+}
+
+// =====================================================
+// Render messages
+// =====================================================
+function updateChatMeta() {
+  const sel = DATA.selected;
+  const btnImg = $("btn-chat-img");
+  if (!sel) {
+    $("chat-meta").textContent = "제품을 선택하면 대화를 시작할 수 있습니다.";
+    $("chat-turncount").textContent = "0회";
+    $("chat-input").disabled = true;
+    $("btn-chat-send").disabled = true;
+    if (btnImg) btnImg.disabled = true;
+    return;
+  }
+  const userTurns = CHAT.turns.filter(t => t.role === "user").length;
+  $("chat-meta").innerHTML = `<b>${escapeHtml(sel.stem)}</b> · ${escapeHtml((sel.data.product_name||"").slice(0,60))}`;
+  $("chat-turncount").textContent = userTurns + "회";
+  $("chat-input").disabled = false;
+  $("btn-chat-send").disabled = false;
+  if (btnImg) btnImg.disabled = false;
+}
+
+function renderUserMessage(text, images) {
+  const el = document.createElement("div");
+  el.className = "msg user";
+  const imgsHtml = (images && images.length) ? `
+    <div class="bubble-images">
+      ${images.map(im => `<img src="${im.dataUrl}" alt="첨부" data-lightbox>`).join("")}
+    </div>` : "";
+  const textHtml = text ? `<div>${escapeHtml(text)}</div>` : "";
+  el.innerHTML = `
+    <div class="msg-role">${escapeHtml(CHAT.customerName ? CHAT.customerName.slice(0,4) : "고객")}</div>
+    <div class="msg-bubble">${imgsHtml}${textHtml}</div>`;
+  $("chat-messages").appendChild(el);
+  $("chat-messages").scrollTop = $("chat-messages").scrollHeight;
+}
+
+function renderBotMessage(parsed, grounding) {
+  const el = document.createElement("div");
+  el.className = "msg bot";
+  const typeBadge = parsed?.answer_type === "direct"
+    ? '<span class="badge direct">직접</span>'
+    : parsed?.answer_type === "inferred"
+    ? '<span class="badge inferred">추론</span>'
+    : '<span class="badge inferred">혼합</span>';
+  const confBadge = parsed?.confidence === "high"
+    ? '<span class="badge direct">확신↑</span>'
+    : parsed?.confidence === "low"
+    ? '<span class="badge inferred">확신↓</span>'
+    : '<span class="badge inferred">확신○</span>';
+  const handoff = parsed?.needs_human_handoff;
+  const handoffBanner = handoff
+    ? `<div class="banner handoff"><span class="banner-title">⚠ 담당자 연결 권장</span> <span style="flex:1">${escapeHtml(handoff.reason||"")}</span> <span class="small">[${escapeHtml(handoff.priority||"normal")}]</span></div>`
+    : "";
+  const ps = parsed?.suggested_product_switch;
+  const switchBanner = ps && ps.model_no
+    ? `<div class="banner switch"><span class="banner-title">🔄 관련 제품 감지</span> <span style="flex:1">${escapeHtml(ps.model_no)} — ${escapeHtml(ps.reason||"")}</span><button class="secondary" data-switch="${escapeHtml(ps.model_no)}">이 제품으로 전환</button></div>`
+    : "";
+  const follow = parsed?.follow_up_question;
+  const followHtml = follow ? `<div class="followup">❓ ${escapeHtml(follow)}</div>` : "";
+  const citeCount = (parsed?.citations || []).length;
+  const webCount = (grounding?.groundingChunks || []).length;
+  el.innerHTML = `
+    <div class="msg-role">AI</div>
+    <div class="msg-bubble" style="flex:1">
+      <div style="margin-bottom:6px">${typeBadge}${confBadge}</div>
+      ${switchBanner}${handoffBanner}
+      <div>${escapeHtml(parsed?.answer || "(응답 없음)").replace(/\n/g, "<br>")}</div>
+      ${followHtml}
+      ${parsed?.alternative_products?.length ? `<div class="small" style="margin-top:8px"><b>대체 제품:</b> ${parsed.alternative_products.map(a => `${escapeHtml(a.model_no)}(${escapeHtml((a.why||"").slice(0,40))})`).join(", ")}</div>` : ""}
+      <div class="msg-meta">근거 ${citeCount} · 웹출처 ${webCount}
+        <details style="margin-top:4px"><summary>상세</summary>
+        <div style="margin-top:6px">${(parsed?.citations||[]).map(c => {
+          const label = {ocr:"OCR", qna:"스마트QnA", talktalk:"톡톡", review:"리뷰", inference:"추론", web:"웹", image:"이미지"}[c.type] || c.type;
+          const extra = c.field ? ` [${c.field}${c.index!==undefined?"#"+c.index:""}]` : (c.index!==undefined?` [#${c.index}]`:"");
+          return `<div>• <b>${label}${extra}</b> ${escapeHtml(((c.quote||c.note||c.url)||"").slice(0,120))}</div>`;
+        }).join("")}
+        ${(grounding?.groundingChunks||[]).map(c => `<div>• <b>Web</b> <a href="${escapeHtml(c.web?.uri||'#')}" target="_blank" style="color:var(--accent)">${escapeHtml((c.web?.title||c.web?.uri||'').slice(0,80))}</a></div>`).join("")}
+        </details>
+      </div>
+    </div>`;
+  $("chat-messages").appendChild(el);
+  el.querySelectorAll("[data-switch]").forEach(btn => {
+    btn.addEventListener("click", async () => {
+      const target = btn.dataset.switch;
+      if (!confirm(`${target} 제품으로 전환합니다. 현재 상담은 저장되고 새 상담이 시작됩니다.`)) return;
+      await saveCurrentChat();
+      await selectModel(target, "chat");
+      startNewChatSession(false);
+    });
+  });
+  $("chat-messages").scrollTop = $("chat-messages").scrollHeight;
+}
+
+// For restored sessions, bot messages are stored as plain text
+function renderRestoredBotMessage(text) {
+  const el = document.createElement("div");
+  el.className = "msg bot";
+  el.innerHTML = `
+    <div class="msg-role">AI</div>
+    <div class="msg-bubble" style="flex:1">
+      <div>${escapeHtml(text||"").replace(/\n/g, "<br>")}</div>
+    </div>`;
+  $("chat-messages").appendChild(el);
+  $("chat-messages").scrollTop = $("chat-messages").scrollHeight;
+}
+
+// =====================================================
+// Build Gemini contents for chat
+// =====================================================
+function buildChatContents(userMessage, newImages) {
+  const contents = [];
+  // [설정] 사용자 정의 첫 인사말 주입 — 첫 응답에만 강제
+  const opening = (loadUserPrefs().opening || "").trim();
+  const openingDirective = opening
+    ? `\n\n## ⭐ 첫 응답 인사말 (반드시 지킬 것)\n이 세션의 첫 AI 응답은 반드시 아래 문구로 "시작"한 다음, 고객 질문에 대한 답변을 이어서 작성하십시오. 문구는 토씨 하나 바꾸지 말고 정확히 그대로 포함하십시오:\n"""\n${opening}\n"""`
+    : "";
+  const systemHead = CHAT.systemPrompt + (CHAT.summary ? `\n\n## 이전 대화 요약\n${CHAT.summary}` : "");
+  const recentTurns = CHAT.turns.slice(-20);
+  const imgDirective = (imgs) => imgs && imgs.length
+    ? `\n\n[이번 메시지에 고객이 이미지 ${imgs.length}장을 첨부했습니다. 먼저 시각적 관찰을 정리한 뒤 제품 데이터와 대조하여 답변하세요.]`
+    : "";
+  if (recentTurns.length === 0) {
+    const text = systemHead + openingDirective + "\n\n[고객 첫 메시지]\n" + (userMessage || "(텍스트 없음)") + imgDirective(newImages);
+    contents.push({ role: "user", parts: buildPartsWithImages(text, newImages) });
+  } else {
+    let systemInjected = false;
+    for (const t of recentTurns) {
+      if (t.role === "user" && !systemInjected) {
+        const text = systemHead + "\n\n[고객 메시지]\n" + (t.text || "(텍스트 없음)") + imgDirective(t.images);
+        contents.push({ role: "user", parts: buildPartsWithImages(text, t.images) });
+        systemInjected = true;
+      } else if (t.role === "user") {
+        const text = (t.text || "(텍스트 없음)") + imgDirective(t.images);
+        contents.push({ role: "user", parts: buildPartsWithImages(text, t.images) });
+      } else {
+        contents.push({ role: "model", parts: [{ text: t.text }] });
+      }
+    }
+    const text = (userMessage || "(텍스트 없음)") + imgDirective(newImages);
+    contents.push({ role: "user", parts: buildPartsWithImages(text, newImages) });
+  }
+  return contents;
+}
+
+async function summarizeIfLong(apikey) {
+  const userTurns = CHAT.turns.filter(t => t.role === "user").length;
+  if (userTurns < 10 || CHAT.summary) return;
+  try {
+    const history = CHAT.turns.slice(0, -10).map(t => `[${t.role === "user" ? "고객" : "AI"}] ${t.text}`).join("\n");
+    const prompt = `다음 톡톡 상담 대화를 5줄 이내 한국어 요약으로 압축:\n\n${history}`;
+    const body = { contents: [{ role: "user", parts: [{ text: prompt }] }], generationConfig: { temperature: 0.2, maxOutputTokens: 512 } };
+    const url = `${API_BASE}/${MODEL}:generateContent?key=${encodeURIComponent(apikey)}`;
+    const r = await fetch(url, {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify(body)});
+    if (r.ok) {
+      const d = await r.json();
+      const txt = d?.candidates?.[0]?.content?.parts?.[0]?.text || "";
+      if (txt) {
+        CHAT.summary = txt.trim();
+        CHAT.turns = CHAT.turns.slice(-10);
+      }
+    }
+  } catch(e) { console.warn("summarize failed:", e); }
+}
+
+// =====================================================
+// Send chat message
+// =====================================================
+async function sendChatMessage() {
+  const apikey = localStorage.getItem(LS_KEY);
+  if (!apikey) { openApiKeyModal(); return; }
+  if (!DATA.selected) { status("제품을 먼저 선택하세요.", "err"); return; }
+  if (!CHAT.activeId) startNewChatSession(true);
+
+  const text = $("chat-input").value.trim();
+  const images = CHAT_IMAGES.slice();
+  if (!text && images.length === 0) return;
+
+  // Customer name pull
+  CHAT.customerName = ($("chat-cust-name").value || "").trim();
+  CHAT.productStem = DATA.selected.stem;
+
+  if (!CHAT.systemPrompt) {
+    const cands = await getCandidates(DATA.selected, 15);
+    CHAT.systemPrompt = buildChatSystemPrompt(DATA.selected, cands);
+  }
+
+  renderUserMessage(text, images);
+  $("chat-input").value = "";
+  chatAttacher.clear();
+
+  await summarizeIfLong(apikey);
+
+  const thinking = document.createElement("div");
+  thinking.className = "msg bot";
+  const imgSuffix = images.length ? ` <span class="small">(+이미지 ${images.length}장 분석)</span>` : "";
+  thinking.innerHTML = `<div class="msg-role">AI</div><div class="msg-bubble"><span class="loader"></span> 응답 생성 중...${imgSuffix}</div>`;
+  $("chat-messages").appendChild(thinking);
+  $("chat-messages").scrollTop = $("chat-messages").scrollHeight;
+
+  const t0 = performance.now();
+  try {
+    const contents = buildChatContents(text, images);
+    const apiResp = await callGeminiChat(contents, apikey);
+    const { parsed, grounding, raw } = parseLLMResponse(apiResp);
+    thinking.remove();
+    if (!parsed) throw new Error("응답 JSON 파싱 실패: " + raw.slice(0, 300));
+
+    CHAT.turns.push({ role: "user", text: text, images: images });
+    CHAT.turns.push({ role: "model", text: parsed.answer || raw });
+    if (parsed.needs_human_handoff) CHAT.tag = "handoff";
+    renderBotMessage(parsed, grounding);
+    updateChatMeta();
+    status(`응답 완료 · ${((performance.now()-t0)/1000).toFixed(1)}s${images.length?` · 이미지 ${images.length}장`:""}`, "ok");
+    saveChatDebounced();
+  } catch (e) {
+    console.error(e);
+    thinking.remove();
+    const errEl = document.createElement("div");
+    errEl.className = "msg bot";
+    errEl.innerHTML = `<div class="msg-role">AI</div><div class="msg-bubble" style="border:1px solid var(--err); color:var(--err)">오류: ${escapeHtml(e.message)}</div>`;
+    $("chat-messages").appendChild(errEl);
+    status("오류 발생", "err");
+  }
+}
+
+// =====================================================
+// QnA answer flow
+// =====================================================
+// [Phase1] 추론 경로 시각화: 질문 → 의도 태그 → 매칭 후보
+function renderReasoningPath(intent, candidates, selectedStem) {
+  if (!intent && !(candidates && candidates.length)) return "";
+  const wants = (intent?.wants || []).map(t =>
+    `<span class="rp-chip rp-want">${escapeHtml(t)}</span>`).join("");
+  const avoid = (intent?.avoid || []).map(t =>
+    `<span class="rp-chip rp-avoid">${escapeHtml(t)}</span>`).join("");
+  const intentNote = intent?.intent_note ? `<div class="rp-note">“${escapeHtml(intent.intent_note)}”</div>` : "";
+
+  const top = (candidates || []).slice(0, 5);
+  const matchedCount = top.filter(c => (c.matched_wants||[]).length > 0).length;
+  const candHtml = top.map((c, i) => {
+    const isFirst = i === 0;
+    const mw = (c.matched_wants||[]).map(t => `<span class="rp-chip rp-matched">✓ ${escapeHtml(t)}</span>`).join("");
+    const ha = (c.hit_avoid||[]).map(t => `<span class="rp-chip rp-avoid-hit">✗ ${escapeHtml(t)}</span>`).join("");
+    const bonus = typeof c.intent_bonus === "number" ? c.intent_bonus : 0;
+    const bonusBadge = bonus > 0 ? `<span class="rp-bonus-pos">+${bonus}</span>`
+                     : bonus < 0 ? `<span class="rp-bonus-neg">${bonus}</span>`
+                     : `<span class="rp-bonus-zero">0</span>`;
+    return `<div class="rp-cand ${isFirst?'rp-top':''}">
+      <span class="rp-cand-rank">${i+1}</span>
+      <span class="rp-cand-no">${escapeHtml(c.model_no||"")}</span>
+      <span class="rp-cand-name">${escapeHtml((c.product_name||"").slice(0, 40))}</span>
+      ${mw || ha ? `<span class="rp-cand-tags">${mw}${ha}</span>` : ""}
+      <span class="rp-cand-bonus">의도 ${bonusBadge}</span>
+    </div>`;
+  }).join("");
+
+  const intentAvailable = intent && (intent.wants?.length || intent.avoid?.length);
+  return `
+    <details class="reasoning-path" open>
+      <summary><span class="rp-title">🧭 추론 경로</span> <span class="rp-sub">고객 질문 → 의도 태그 → 후보 매칭</span></summary>
+      <div class="rp-body">
+        ${intentAvailable ? `
+          <div class="rp-row">
+            <div class="rp-label">핵심 의도</div>
+            <div class="rp-chips">
+              ${wants || '<span class="rp-empty">(wants 없음)</span>'}
+              ${avoid ? `<span class="rp-sep">·</span><span class="rp-empty">피해야 할:</span> ${avoid}` : ""}
+            </div>
+          </div>
+          ${intentNote}
+        ` : `<div class="rp-row"><div class="rp-empty">의도 추출 생략 (질문 없음 또는 비활성)</div></div>`}
+        ${top.length ? `
+          <div class="rp-row">
+            <div class="rp-label">후보 매칭 <span class="rp-sub">(상위 ${top.length}, ${matchedCount}개 일치)</span></div>
+            <div class="rp-cands">${candHtml}</div>
+          </div>
+        ` : ""}
+      </div>
+    </details>
+  `;
+}
+
+function renderQnaAnswer(question, parsed, grounding, attachedImages, intent, candidates) {
+  const confBadge = parsed?.confidence === "high"
+    ? '<span class="badge direct">확신도 높음</span>'
+    : parsed?.confidence === "low"
+    ? '<span class="badge inferred">확신도 낮음</span>'
+    : '<span class="badge inferred">확신도 보통</span>';
+  const typeBadge = parsed?.answer_type === "direct"
+    ? '<span class="badge direct">✓ 제품 데이터 직접 인용</span>'
+    : parsed?.answer_type === "inferred"
+    ? '<span class="badge inferred">⚠ 추론 기반 답변</span>'
+    : '<span class="badge inferred">혼합 (일부 추론)</span>';
+  const citationsHtml = (parsed?.citations || []).map(c => {
+    const badgeClass = c.type === "inference" || c.type === "web" ? "inferred" : "direct";
+    const label = { ocr: "OCR", qna: "스마트스토어 QnA", talktalk: "톡톡 대화", review: "고객 리뷰", inference: "추론", web: "웹 검색", image: "첨부 이미지" }[c.type] || c.type;
+    const extra = c.field ? ` [${c.field}${c.index!==undefined?`#${c.index}`:""}]` : (c.index!==undefined?` [#${c.index}]`:"");
+    const note = c.quote || c.note || c.url || "";
+    return `<li><span class="badge ${badgeClass}">${label}${extra}</span> ${escapeHtml((note||"").slice(0, 180))}</li>`;
+  }).join("");
+  const webChunks = grounding?.groundingChunks || [];
+  const webHtml = webChunks.map(c => {
+    const web = c.web || {};
+    return `<li><span class="badge web">Google Search</span> <a href="${escapeHtml(web.uri||'#')}" target="_blank" style="color:var(--accent)">${escapeHtml((web.title||web.uri||'').slice(0,90))}</a></li>`;
+  }).join("");
+  const altHtml = (parsed?.alternative_products || []).map(a =>
+    `<li><b>${escapeHtml(a.model_no)}</b> — ${escapeHtml(a.why || "")}</li>`
+  ).join("");
+  const imgsHtml = (attachedImages || []).length ? `
+    <div class="small" style="margin-bottom:8px">첨부한 이미지 (${attachedImages.length}장):</div>
+    <div class="bubble-images" style="margin-bottom:10px">
+      ${attachedImages.map(im => `<img src="${im.dataUrl}" alt="첨부" data-lightbox>`).join("")}
+    </div>` : "";
+  $("qna-answer-area").innerHTML = `
+    <div class="answer-box">
+      <h3>AI 답변</h3>
+      <div style="margin-bottom:10px">${typeBadge}${confBadge}</div>
+      <div class="small" style="margin-bottom:10px">
+        <b>문의자:</b> ${escapeHtml(QNA.customerName || "-")} ·
+        <b>모델:</b> ${escapeHtml(QNA.productStem || "-")}
+      </div>
+      <div class="small" style="margin-bottom:6px"><b>고객 문의</b></div>
+      <div style="margin-bottom:14px; padding: 10px 12px; background: var(--elev-1); border-radius: var(--radius-sm); border-left: 3px solid var(--accent)">${escapeHtml(question||"").replace(/\n/g,"<br>") || "<i>(이미지만 첨부)</i>"}</div>
+      ${imgsHtml}
+      <div>${escapeHtml(parsed?.answer || "(응답 파싱 실패)").replace(/\n/g,"<br>")}</div>
+      ${altHtml ? `<hr><b>대체 제품 추천</b><ul>${altHtml}</ul>` : ""}
+      ${renderReasoningPath(intent, candidates, QNA.productStem)}
+      <div class="citations">
+        <b>답변 근거</b>
+        <ul>${citationsHtml || "<li>근거 없음</li>"}</ul>
+        ${webHtml ? `<b>웹 검색 출처</b><ul>${webHtml}</ul>` : ""}
+      </div>
+      <details style="margin-top:10px">
+        <summary>원시 응답 보기 (디버그)</summary>
+        <pre>${escapeHtml(JSON.stringify(parsed, null, 2))}</pre>
+      </details>
+      <!-- [Phase3] AI 강화 피드백 -->
+      <div class="qa-actions">
+        <button class="reinforce-btn" id="btn-open-fb">🔬 이 상담으로 AI 강화</button>
+        <span class="small" style="color:var(--muted)">좋은 답변을 관리자 승인 대기열에 올려 이후 AI의 근거로 만듭니다.</span>
+      </div>
+    </div>
+  `;
+  // 버튼 핸들러는 innerHTML 재작성 후 다시 연결
+  const btnFb = document.getElementById("btn-open-fb");
+  if (btnFb) btnFb.addEventListener("click", () => openFeedbackModal(question, parsed, intent));
+}
+
+$("btn-qna-answer").addEventListener("click", async () => {
+  const apikey = localStorage.getItem(LS_KEY);
+  if (!apikey) { openApiKeyModal(); return; }
+  if (!DATA.selected) { status("제품을 먼저 선택하세요.", "err"); return; }
+  const q = $("qna-question").value.trim();
+  const imgs = QNA_IMAGES.slice();
+  if (!q && imgs.length === 0) { status("고객 문의 또는 이미지를 입력하세요.", "err"); return; }
+
+  if (!QNA.activeId) startNewQnaSession();
+  QNA.customerName = ($("qna-cust-name").value || "").trim();
+  QNA.productStem = DATA.selected.stem;
+  QNA.question = q;
+  QNA.images = imgs;
+
+  $("btn-qna-answer").disabled = true;
+  const imgBadge = imgs.length ? ` <span class="small">(+이미지 ${imgs.length}장 분석)</span>` : "";
+  $("qna-answer-area").innerHTML = `<div class="answer-box"><span class="loader"></span> AI가 제품 데이터${imgs.length?"·첨부 이미지":"·웹 자료"}를 분석 중입니다...${imgBadge}</div>`;
+  status("AI 분석 중...");
+  const t0 = performance.now();
+  try {
+    const effectiveQ = q || "(고객이 텍스트 없이 이미지만 첨부함. 이미지를 보고 무엇을 묻는지 먼저 추정하고 답하세요.)";
+    // [Phase1] 1단계: 고객 의도 태그 추출 (실패해도 답변 플로우는 계속)
+    let intent = null;
+    if (q) {
+      status("고객 의도 분석 중...");
+      intent = await extractIntent(effectiveQ, DATA.selected, apikey);
+    }
+    // [Phase1] 2단계: 후보 가져온 뒤, 의도 태그로 재정렬
+    let candidates = await getCandidates(DATA.selected, 15);
+    if (intent) {
+      candidates = rerankByIntent(candidates, intent);
+    }
+    status("AI 분석 중...");
+    const prompt = buildPrompt(DATA.selected, effectiveQ, candidates, imgs.length, intent);
+    const apiResp = await callGemini(prompt, apikey, imgs);
+    const { parsed, grounding, raw } = parseLLMResponse(apiResp);
+    if (!parsed) throw new Error("응답 JSON 파싱 실패. 원시 응답: " + raw.slice(0, 300));
+    QNA.answer = parsed;
+    QNA.grounding = grounding;
+    QNA.intent = intent;                 // [Phase1]
+    QNA.candidatesUsed = candidates;     // [Phase1]
+    renderQnaAnswer(q, parsed, grounding, imgs, intent, candidates);
+    status(`완료 · ${((performance.now()-t0)/1000).toFixed(1)}s${imgs.length?` · 이미지 ${imgs.length}장`:""}`, "ok");
+    await saveCurrentQna();
+    qnaAttacher.clear();
+  } catch (e) {
+    console.error(e);
+    $("qna-answer-area").innerHTML = `<div class="answer-box" style="border-color:var(--err)"><h3 style="color:var(--err)">오류</h3>${escapeHtml(e.message)}</div>`;
+    status("오류 발생", "err");
+  } finally {
+    $("btn-qna-answer").disabled = false;
+  }
+});
+
+// =====================================================
+// Tabs
+// =====================================================
+let currentTab = "chat";
+function switchTab(tab) {
+  currentTab = tab;
+  document.querySelectorAll(".tab-btn").forEach(b => b.classList.toggle("active", b.dataset.tab === tab));
+  document.querySelectorAll(".view").forEach(v => v.classList.remove("active"));
+  $(`view-${tab}`).classList.add("active");
+  // Refresh list when opening a tab
+  if (tab === "chat") refreshChatList();
+  else if (tab === "qna") refreshQnaList();
+  else if (tab === "admin") refreshFbList();
+}
+document.querySelectorAll(".tab-btn").forEach(b => {
+  b.addEventListener("click", () => switchTab(b.dataset.tab));
+});
+
+// =====================================================
+// [Phase3] AI 강화 — 피드백 제출 모달 + 관리자 검수 탭
+// =====================================================
+const FB = {
+  current: null,            // 모달 편집중 payload (id, question, answer, model_no, family, categories[], intent_tags[], notes)
+  adminTab: "pending",      // pending | approved | rejected
+  adminItems: [],
+  adminSelected: null,
+};
+
+// --- 태그 chip 렌더링 헬퍼 ---
+function fbRenderTagChips(containerId, list, cls, onRemove) {
+  const el = document.getElementById(containerId);
+  if (!el) return;
+  el.innerHTML = (list || []).map((t, i) =>
+    `<span class="fb-chip ${cls || ""}">${escapeHtml(t)}<button type="button" data-fb-chip-remove="${i}" aria-label="제거">×</button></span>`
+  ).join("") || '<span class="small" style="color:var(--muted)">(없음)</span>';
+  el.querySelectorAll("[data-fb-chip-remove]").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const idx = parseInt(btn.dataset.fbChipRemove, 10);
+      onRemove(idx);
+    });
+  });
+}
+
+function fbSyncModal() {
+  if (!FB.current) return;
+  $("fb-model-no").value = FB.current.model_no || "";
+  $("fb-family").value = FB.current.family || "";
+  $("fb-question").value = FB.current.question || "";
+  $("fb-answer").value = FB.current.answer || "";
+  $("fb-notes").value = FB.current.notes || "";
+  fbRenderTagChips("fb-categories", FB.current.categories, "fb-chip-cat", (i) => {
+    FB.current.categories.splice(i, 1); fbSyncModal();
+  });
+  fbRenderTagChips("fb-intent-tags", FB.current.intent_tags, "", (i) => {
+    FB.current.intent_tags.splice(i, 1); fbSyncModal();
+  });
+}
+
+function openFeedbackModal(question, parsed, intent) {
+  // QNA 상태에서 최대한 자동 채움
+  const selData = DATA.selected?.data || {};
+  const modelNo = selData.model_no || QNA.productStem || "";
+  const categories = Array.isArray(selData.category)
+    ? selData.category.slice()
+    : (selData.category ? [selData.category] : []);
+  // family 추측: category 첫 값을 기본으로
+  const family = categories[0] || "";
+  // intent.wants 를 intent_tags 로 프리필
+  const intentTags = (intent && Array.isArray(intent.wants)) ? intent.wants.slice() : [];
+
+  FB.current = {
+    id: "fb_" + Date.now() + "_" + Math.random().toString(36).slice(2, 8),
+    model_no: modelNo,
+    family: family,
+    categories: categories,
+    question: (question || "").trim(),
+    answer: (parsed?.answer || "").trim(),
+    intent_tags: intentTags,
+    notes: "",
+  };
+  fbSyncModal();
+  $("fb-status").textContent = "";
+  $("fb-modal").classList.add("show");
+  setTimeout(() => $("fb-answer").focus(), 50);
+}
+
+function closeFeedbackModal() {
+  $("fb-modal").classList.remove("show");
+  FB.current = null;
+}
+
+// 입력 → 상태 동기화 (script가 body 끝에 있으므로 DOM은 이미 준비됨)
+["fb-model-no","fb-family","fb-question","fb-answer","fb-notes"].forEach(id => {
+  const el = document.getElementById(id);
+  if (!el) return;
+  el.addEventListener("input", () => {
+    if (!FB.current) return;
+    const key = id.replace("fb-","").replace(/-/g,"_");
+    FB.current[key] = el.value;
+  });
+});
+
+// intent 태그 추가
+const fbAddInput = document.getElementById("fb-intent-add");
+if (fbAddInput) {
+  fbAddInput.addEventListener("keydown", (e) => {
+    if (e.key !== "Enter") return;
+    e.preventDefault();
+    if (!FB.current) return;
+    const v = fbAddInput.value.trim();
+    if (!v) return;
+    if (!FB.current.intent_tags.includes(v)) FB.current.intent_tags.push(v);
+    fbAddInput.value = "";
+    fbSyncModal();
+  });
+}
+{
+  const btnCancel = document.getElementById("btn-fb-cancel");
+  if (btnCancel) btnCancel.addEventListener("click", closeFeedbackModal);
+  const btnSubmit = document.getElementById("btn-fb-submit");
+  if (btnSubmit) btnSubmit.addEventListener("click", submitFeedback);
+  const modalOverlay = document.getElementById("fb-modal");
+  if (modalOverlay) {
+    modalOverlay.addEventListener("click", (e) => {
+      if (e.target === modalOverlay) closeFeedbackModal();
+    });
+  }
+}
+
+async function submitFeedback() {
+  if (!FB.current) return;
+  // 최소 검증
+  if (!FB.current.question || !FB.current.answer) {
+    $("fb-status").innerHTML = '<span style="color:var(--err)">고객 문의와 답변은 필수입니다.</span>';
+    return;
+  }
+  // 최신값 다시 한 번 흡수 (input 이벤트 놓친 경우 대비)
+  FB.current.model_no = $("fb-model-no").value.trim();
+  FB.current.family = $("fb-family").value.trim();
+  FB.current.question = $("fb-question").value.trim();
+  FB.current.answer = $("fb-answer").value.trim();
+  FB.current.notes = $("fb-notes").value.trim();
+
+  const btnSubmit = $("btn-fb-submit");
+  btnSubmit.disabled = true;
+  $("fb-status").innerHTML = '<span class="loader"></span> 제출 중...';
+
+  try {
+    const url = `${AICC_API}&action=aicc_fb_submit&t=${Date.now()}`;
+    const r = await fetch(url, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(FB.current),
+    });
+    const j = await r.json();
+    if (!j.success) throw new Error(j.error || "server refused");
+    $("fb-status").innerHTML = '<span style="color:var(--success)">✓ 제출 완료. 관리자 검토 후 승인됩니다.</span>';
+    status("AI 강화 제안이 접수되었습니다.", "ok");
+    setTimeout(closeFeedbackModal, 900);
+  } catch (e) {
+    $("fb-status").innerHTML = `<span style="color:var(--err)">제출 실패: ${escapeHtml(e.message)}</span>`;
+  } finally {
+    btnSubmit.disabled = false;
+  }
+}
+
+// ----- 관리자 검수 뷰 -----
+async function refreshFbList() {
+  const listEl = $("admin-item-list");
+  listEl.innerHTML = '<div class="admin-empty">불러오는 중...</div>';
+  try {
+    const url = `${AICC_API}&action=aicc_fb_list&status=${encodeURIComponent(FB.adminTab)}&t=${Date.now()}`;
+    const r = await fetch(url);
+    const j = await r.json();
+    FB.adminItems = j.items || [];
+    renderFbList();
+  } catch (e) {
+    listEl.innerHTML = `<div class="admin-empty" style="color:var(--err)">불러오기 실패: ${escapeHtml(e.message)}</div>`;
+  }
+}
+
+function renderFbList() {
+  const listEl = $("admin-item-list");
+  if (!FB.adminItems.length) {
+    listEl.innerHTML = `<div class="admin-empty">${
+      FB.adminTab === "pending" ? "대기 중인 항목이 없습니다." :
+      FB.adminTab === "approved" ? "승인된 항목이 없습니다." :
+      "반려된 항목이 없습니다."
+    }</div>`;
+    return;
+  }
+  listEl.innerHTML = FB.adminItems.map(it => {
+    const d = new Date(it.created_at || 0);
+    const ts = isFinite(d) ? `${d.getMonth()+1}/${d.getDate()} ${String(d.getHours()).padStart(2,"0")}:${String(d.getMinutes()).padStart(2,"0")}` : "-";
+    const selCls = (FB.adminSelected === it.id) ? "selected" : "";
+    return `<div class="admin-item ${selCls}" data-fb-open="${escapeHtml(it.id)}">
+      <div class="ai-model">${escapeHtml(it.model_no || "(모델 미지정)")}</div>
+      <div class="ai-q">${escapeHtml((it.question||"").slice(0, 140))}</div>
+      <div class="ai-meta">${ts} · ${escapeHtml(it.family || "")}</div>
+    </div>`;
+  }).join("");
+  listEl.querySelectorAll("[data-fb-open]").forEach(el => {
+    el.addEventListener("click", () => openFbDetail(el.dataset.fbOpen));
+  });
+}
+
+async function openFbDetail(id) {
+  FB.adminSelected = id;
+  renderFbList();
+  const detailEl = $("admin-detail");
+  detailEl.innerHTML = '<div class="admin-empty"><span class="loader"></span> 로딩 중...</div>';
+  try {
+    const url = `${AICC_API}&action=aicc_fb_get&id=${encodeURIComponent(id)}&t=${Date.now()}`;
+    const r = await fetch(url);
+    const j = await r.json();
+    // 서버는 단건 JSON을 그대로 echo 함 ({"id":..., "question":...}). error 키가 있으면 실패.
+    if (j && j.error) throw new Error(j.error);
+    if (!j || !j.id) throw new Error("not found");
+    renderFbDetail(j);
+  } catch (e) {
+    detailEl.innerHTML = `<div class="admin-empty" style="color:var(--err)">로딩 실패: ${escapeHtml(e.message)}</div>`;
+  }
+}
+
+function renderFbDetail(it) {
+  const detailEl = $("admin-detail");
+  const tagsHtml = (it.intent_tags || []).map(t =>
+    `<span class="fb-chip">${escapeHtml(t)}</span>`).join("") || '<span class="small" style="color:var(--muted)">(없음)</span>';
+  const catsHtml = (it.categories || []).map(c =>
+    `<span class="fb-chip fb-chip-cat">${escapeHtml(c)}</span>`).join("") || '<span class="small" style="color:var(--muted)">(없음)</span>';
+  const isPending = it.status === "pending";
+  const isApproved = it.status === "approved";
+  const statusBadge = {
+    pending: '<span class="badge inferred">대기</span>',
+    approved: '<span class="badge direct">승인됨</span>',
+    rejected: '<span class="badge" style="background:var(--err-soft); color:var(--err); border:1px solid rgba(216,56,47,.3)">반려됨</span>',
+  }[it.status] || "";
+  const created = it.created_at ? new Date(it.created_at).toLocaleString() : "-";
+  const approved = it.approved_at ? new Date(it.approved_at).toLocaleString() : "";
+
+  const actions = isPending
+    ? `<button class="secondary" id="btn-fb-reject" style="width:auto">반려</button>
+       <button id="btn-fb-approve" style="width:auto">승인하여 KB에 반영</button>`
+    : isApproved
+    ? `<button class="secondary" id="btn-fb-reject" style="width:auto">KB에서 제외 (반려로 이동)</button>
+       <button class="secondary" id="btn-fb-delete" style="width:auto; color:var(--err)">삭제</button>`
+    : `<button class="secondary" id="btn-fb-approve" style="width:auto">다시 승인</button>
+       <button class="secondary" id="btn-fb-delete" style="width:auto; color:var(--err)">삭제</button>`;
+
+  detailEl.innerHTML = `
+    <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:10px; margin-bottom:12px">
+      <div>
+        <h3 style="margin:0; font-size:16px">${escapeHtml(it.model_no || "(모델 미지정)")}</h3>
+        <div class="small" style="margin-top:4px">${statusBadge} · 제출 ${escapeHtml(created)}${approved ? " · 승인 " + escapeHtml(approved) : ""}</div>
+      </div>
+    </div>
+
+    <div class="fb-field"><label>가족 / 카테고리</label>
+      <div style="display:flex; gap:6px; align-items:center; flex-wrap:wrap">
+        <span class="fb-chip fb-chip-cat">${escapeHtml(it.family || "-")}</span>
+        ${catsHtml}
+      </div>
+    </div>
+
+    <div class="fb-field"><label>의도 태그</label><div class="fb-chips">${tagsHtml}</div></div>
+
+    <div class="fb-field"><label>고객 문의</label>
+      <div style="padding:10px 12px; background: var(--elev-1); border-radius: var(--radius-sm); border-left:3px solid var(--accent); font-size:12.5px; line-height:1.5; white-space:pre-wrap">${escapeHtml(it.question || "")}</div>
+    </div>
+
+    <div class="fb-field"><label>모범 답변</label>
+      <div style="padding:10px 12px; background: var(--elev-1); border-radius: var(--radius-sm); font-size:12.5px; line-height:1.55; white-space:pre-wrap">${escapeHtml(it.answer || "")}</div>
+    </div>
+
+    ${it.notes ? `<div class="fb-field"><label>비고</label><div class="small" style="white-space:pre-wrap">${escapeHtml(it.notes)}</div></div>` : ""}
+
+    <div class="modal-actions" style="margin-top:18px; justify-content:flex-end">${actions}</div>
+    <p class="small" id="fb-detail-status" style="margin-top:8px; min-height:14px"></p>
+  `;
+
+  const bApp = document.getElementById("btn-fb-approve");
+  const bRej = document.getElementById("btn-fb-reject");
+  const bDel = document.getElementById("btn-fb-delete");
+  if (bApp) bApp.addEventListener("click", () => fbAction("approve", it.id));
+  if (bRej) bRej.addEventListener("click", () => fbAction("reject", it.id));
+  if (bDel) bDel.addEventListener("click", () => {
+    if (confirm("정말 삭제하시겠습니까? KB에서도 제거됩니다.")) fbAction("delete", it.id);
+  });
+}
+
+async function fbAction(kind, id) {
+  const st = $("fb-detail-status");
+  if (st) st.innerHTML = '<span class="loader"></span> 처리 중...';
+  try {
+    const action = `aicc_fb_${kind}`;
+    const url = `${AICC_API}&action=${action}&id=${encodeURIComponent(id)}&t=${Date.now()}`;
+    const r = await fetch(url);
+    const j = await r.json();
+    if (!j.success) throw new Error(j.error || "server refused");
+    if (st) st.innerHTML = `<span style="color:var(--success)">✓ 처리 완료 (KB ${j.kb_entries ?? "?"}건)</span>`;
+    await refreshFbList();
+    $("admin-detail").innerHTML = '<div class="admin-empty">왼쪽에서 항목을 선택하세요.</div>';
+    FB.adminSelected = null;
+  } catch (e) {
+    if (st) st.innerHTML = `<span style="color:var(--err)">실패: ${escapeHtml(e.message)}</span>`;
+  }
+}
+
+// 서브 탭 전환 (script가 body 끝에 있으므로 DOM은 이미 준비됨)
+document.querySelectorAll('[data-fb-tab]').forEach(el => {
+  el.addEventListener("click", () => {
+    document.querySelectorAll('[data-fb-tab]').forEach(x => x.classList.remove("active"));
+    el.classList.add("active");
+    FB.adminTab = el.dataset.fbTab;
+    FB.adminSelected = null;
+    $("admin-detail").innerHTML = '<div class="admin-empty">왼쪽에서 항목을 선택하세요.</div>';
+    refreshFbList();
+  });
+});
+{
+  const btnR = document.getElementById("btn-fb-refresh");
+  if (btnR) btnR.addEventListener("click", refreshFbList);
+}
+
+// =====================================================
+// API key modal
+// =====================================================
+function openApiKeyModal() {
+  $("apikey-input").value = localStorage.getItem(LS_KEY) || "";
+  $("apikey-modal").classList.add("show");
+}
+$("btn-apikey").addEventListener("click", openApiKeyModal);
+$("btn-apikey-save").addEventListener("click", () => {
+  const v = $("apikey-input").value.trim();
+  if (v) localStorage.setItem(LS_KEY, v);
+  $("apikey-modal").classList.remove("show");
+  status("API 키 저장됨", "ok");
+});
+$("btn-apikey-clear").addEventListener("click", () => {
+  localStorage.removeItem(LS_KEY);
+  $("apikey-input").value = "";
+  status("API 키 삭제됨", "ok");
+});
+$("apikey-modal").addEventListener("click", (e) => {
+  if (e.target === $("apikey-modal")) $("apikey-modal").classList.remove("show");
+});
+
+// =====================================================
+// User preferences (상담 멘트 설정)
+// =====================================================
+const PREFS_KEY = "aicc_user_prefs_v1";
+const DEFAULT_CLOSING_TRIGGER = "/마무리";
+
+function loadUserPrefs() {
+  try {
+    const raw = localStorage.getItem(PREFS_KEY);
+    if (!raw) return { opening: "", closing: "", closingTrigger: DEFAULT_CLOSING_TRIGGER };
+    const p = JSON.parse(raw);
+    return {
+      opening: typeof p.opening === "string" ? p.opening : "",
+      closing: typeof p.closing === "string" ? p.closing : "",
+      closingTrigger: (typeof p.closingTrigger === "string" && p.closingTrigger.trim())
+        ? p.closingTrigger.trim() : DEFAULT_CLOSING_TRIGGER,
+    };
+  } catch (_) {
+    return { opening: "", closing: "", closingTrigger: DEFAULT_CLOSING_TRIGGER };
+  }
+}
+function saveUserPrefs(p) {
+  try { localStorage.setItem(PREFS_KEY, JSON.stringify(p || {})); } catch (_) {}
+}
+
+function openSettingsModal() {
+  const p = loadUserPrefs();
+  $("opt-opening").value = p.opening || "";
+  $("opt-closing").value = p.closing || "";
+  $("opt-closing-trigger").value = p.closingTrigger || DEFAULT_CLOSING_TRIGGER;
+  $("settings-status").textContent = "";
+  $("settings-modal").classList.add("show");
+  setTimeout(() => $("opt-opening").focus(), 30);
+}
+function closeSettingsModal() { $("settings-modal").classList.remove("show"); }
+
+$("btn-settings").addEventListener("click", openSettingsModal);
+$("btn-settings-cancel").addEventListener("click", closeSettingsModal);
+$("btn-settings-save").addEventListener("click", () => {
+  const opening = $("opt-opening").value.trim();
+  const closing = $("opt-closing").value.trim();
+  let trigger = $("opt-closing-trigger").value.trim() || DEFAULT_CLOSING_TRIGGER;
+  // Sanity: trigger must be 1~20 chars, no whitespace in middle
+  if (trigger.length > 40) trigger = trigger.slice(0, 40);
+  saveUserPrefs({ opening, closing, closingTrigger: trigger });
+  $("settings-status").textContent = "저장되었습니다. 새로운 상담부터 반영됩니다.";
+  $("settings-status").style.color = "var(--success)";
+  status("설정 저장됨", "ok");
+  setTimeout(closeSettingsModal, 700);
+});
+$("btn-settings-reset").addEventListener("click", () => {
+  if (!confirm("설정을 초기화할까요? (첫 인사말 · 마무리 멘트 · 단축키 모두 삭제)")) return;
+  saveUserPrefs({ opening: "", closing: "", closingTrigger: DEFAULT_CLOSING_TRIGGER });
+  $("opt-opening").value = "";
+  $("opt-closing").value = "";
+  $("opt-closing-trigger").value = DEFAULT_CLOSING_TRIGGER;
+  $("settings-status").textContent = "초기화 완료.";
+  $("settings-status").style.color = "var(--muted)";
+  status("설정 초기화됨", "ok");
+});
+$("settings-modal").addEventListener("click", (e) => {
+  if (e.target === $("settings-modal")) closeSettingsModal();
+});
+
+/**
+ * Closing shortcut: 채팅 입력창에서 단축키를 타이핑하면 즉시 저장된 마무리 멘트로 치환.
+ * - 단축키가 입력 텍스트의 어느 위치에든 나타나면 그 출현을 마무리 멘트로 바꿈.
+ * - IME 조합 완료 시점에도 재검사.
+ */
+function applyClosingShortcut(inputEl) {
+  if (!inputEl) return false;
+  const prefs = loadUserPrefs();
+  const trigger = prefs.closingTrigger || DEFAULT_CLOSING_TRIGGER;
+  const closing = prefs.closing || "";
+  if (!trigger || !closing) return false;
+  const cur = inputEl.value || "";
+  if (!cur.includes(trigger)) return false;
+  const next = cur.split(trigger).join(closing);
+  inputEl.value = next;
+  // Move cursor to end
+  try {
+    inputEl.selectionStart = inputEl.selectionEnd = next.length;
+  } catch (_) {}
+  // Trigger input event so any listeners (e.g. auto-resize) fire
+  inputEl.dispatchEvent(new Event("input", { bubbles: true }));
+  status("마무리 멘트 삽입됨", "ok");
+  return true;
+}
+
+// Hook both chat-input and qna-question so the shortcut works in either context
+(() => {
+  const targets = ["chat-input", "qna-question"];
+  for (const id of targets) {
+    const el = document.getElementById(id);
+    if (!el) continue;
+    el.addEventListener("input", () => applyClosingShortcut(el));
+    el.addEventListener("compositionend", () => applyClosingShortcut(el));
+  }
+})();
+
+// =====================================================
+// Wire UI
+// =====================================================
+const QNA_IMAGES = [];
+const CHAT_IMAGES = [];
+
+// Chat: model search
+bindModelSearch($("chat-model-search"), $("chat-dropdown-list"), (stem) => selectModel(stem, "chat"));
+// Qna: model search
+bindModelSearch($("qna-model-search"), $("qna-dropdown-list"), (stem) => selectModel(stem, "qna"));
+
+// Chat input send (IME-safe: 한글 조합중일 땐 Enter 무시)
+$("btn-chat-send").addEventListener("click", sendChatMessage);
+(() => {
+  const el = $("chat-input");
+  let composing = false;
+  el.addEventListener("compositionstart", () => { composing = true; });
+  el.addEventListener("compositionend", () => { composing = false; });
+  el.addEventListener("keydown", (e) => {
+    // IME 조합 중(한글)일 때는 Enter를 전송으로 해석하지 않음
+    // isComposing / keyCode 229 / composing flag 세 가지 모두 체크
+    if (e.key !== "Enter" || e.shiftKey) return;
+    if (e.isComposing || e.keyCode === 229 || composing) return;
+    e.preventDefault();
+    sendChatMessage();
+  });
+})();
+$("chat-cust-name").addEventListener("input", (e) => {
+  CHAT.customerName = e.target.value.trim();
+  saveChatDebounced();
+});
+$("qna-cust-name").addEventListener("input", (e) => {
+  QNA.customerName = e.target.value.trim();
+});
+
+// New session buttons
+$("btn-new-chat").addEventListener("click", () => startNewChatSession(false));
+$("btn-new-qna").addEventListener("click", () => { startNewQnaSession(); status("새 문의", "ok"); });
+
+// Search filters
+$("chat-session-search").addEventListener("input", renderChatSessionList);
+$("qna-hist-search").addEventListener("input", renderQnaHistoryList);
+
+// Image attachers
+const qnaAttacher = makeImageAttacher({
+  dropEl: $("qna-img-drop"), inputEl: $("qna-img-input"),
+  previewEl: $("qna-img-preview"), textareaEl: $("qna-question"),
+  buttonEl: $("btn-qna-img"), holder: QNA_IMAGES,
+});
+const chatAttacher = makeImageAttacher({
+  dropEl: $("chat-img-drop"), inputEl: $("chat-img-input"),
+  previewEl: $("chat-img-preview"), textareaEl: $("chat-input"),
+  buttonEl: $("btn-chat-img"), holder: CHAT_IMAGES,
+});
+
+// =====================================================
+// Init
+// =====================================================
+// === 브라우저 자동완성 완전 차단 ===
+// 크롬은 autocomplete="off"를 무시하므로 readonly 트릭 + 반복 청소를 조합한다
+const AUTOFILL_IDS = ["chat-model-search", "qna-model-search", "chat-cust-name", "qna-cust-name"];
+
+function clearBrowserAutofill() {
+  AUTOFILL_IDS.forEach(id => {
+    const el = document.getElementById(id);
+    if (el && el.value && !el.dataset.userTyped) el.value = "";
+  });
+}
+
+// readonly 트릭: 모델명 검색창은 로드 시 readonly → 사용자가 클릭/포커스하면 해제
+// 크롬은 readonly 상태인 필드에는 autofill을 하지 않음
+function setupReadonlyTrick() {
+  ["chat-model-search", "qna-model-search"].forEach(id => {
+    const el = document.getElementById(id);
+    if (!el) return;
+    // 포커스 시 readonly 해제
+    const unlock = () => {
+      el.removeAttribute("readonly");
+      el.value = "";  // 혹시 autofill이 먼저 들어갔다면 포커스 시점에 비움
+    };
+    el.addEventListener("focus", unlock, { once: false });
+    el.addEventListener("mousedown", unlock, { once: false });
+  });
+}
+
+// 초기 청소 (여러 차례: 크롬 autofill은 DOM 로드 후 지연 발생)
+setupReadonlyTrick();
+clearBrowserAutofill();
+[50, 150, 400, 800, 1500].forEach(ms => setTimeout(clearBrowserAutofill, ms));
+
+// 사용자가 실제 입력을 시작하면 유저 플래그
+AUTOFILL_IDS.forEach(id => {
+  const el = document.getElementById(id);
+  if (el) el.addEventListener("input", () => { el.dataset.userTyped = "1"; });
+});
+
+(async () => {
+  await loadIndices();
+  // Prepare empty sessions
+  startNewChatSession(true);
+  startNewQnaSession();
+  // Fetch lists in parallel
+  refreshChatList();
+  refreshQnaList();
+  if (!localStorage.getItem(LS_KEY)) {
+    setTimeout(() => openApiKeyModal(), 400);
+  }
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,145 @@
+{
+  "model_no": "LS-1800HC",
+  "product_name": "LANstar 허브랙 시리즈 LS-1800HC",
+  "category": [
+    "허브랙"
+  ],
+  "key_features": [
+    "국제규격(IEC, EIA) 표준화 설계",
+    "사용자를 고려한 세심한 디자인",
+    "안전 잠금 장치 (3단 잠금장치, 보조키 추가 제공)",
+    "제조물 책임 보험 가입",
+    "전면 고강도 강화 유리 도어로 기기 작동 상태 확인 가능",
+    "120mm 대형 쿨링팬 2개 장착으로 발열 효과적 해결",
+    "케이지 너트 타입으로 안전한 장비 지지 및 높이 표기",
+    "전자파 안전 인증 국산 6구 멀티탭 2개 제공",
+    "4면 에어벤트 홀로 공기 순환 최적화",
+    "전면/후면/좌측/우측 오픈 가능한 디자인",
+    "충격에 강한 바퀴 채용 및 고정락 제공",
+    "강화된 포장박스(모서리 강화) 적용",
+    "랜스타 정품 로고 부착(허브랙 문 상단)"
+  ],
+  "specifications": {
+    "모델명": "LS-1800HC (아이보리)",
+    "크기": "H1800 × D800 × W600mm (19인치 랙 표준)",
+    "유닛(UNIT)": "36U",
+    "도어_전면": "1개 (강화유리)",
+    "도어_후면": "1개 (스틸 개폐형)",
+    "도어_측면": "2개 (스틸 착탈식, 좌우)",
+    "팬(FAN)": "대형 쿨링팬 2개 (120 × 120mm)",
+    "멀티탭": "6구 접지 2개 (국산 인증제품)",
+    "선반": "37H",
+    "잠금장치": "3단 잠금장치 (보조키 추가 제공)",
+    "총중량(포장재 포함)": "93kg",
+    "실중량": "88kg",
+    "생산지": "Made in China Factory",
+    "제조사": "라인업시스템(주)",
+    "제조사 홈페이지": "http://www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "19인치 랙 표준 규격 장비",
+    "IEC 국제규격 호환",
+    "EIA 국제규격 호환"
+  ],
+  "package_contents": [
+    "허브랙 본체 (LS-1800HC)",
+    "열쇠 - 앞문용 2개",
+    "열쇠 - 뒷면용 2개",
+    "고정에 필요한 너트",
+    "국산 6구 멀티탭 2개"
+  ],
+  "usage_instructions": "앞/뒤/좌/우 도어를 개방하여 허브 및 주변기기 설치 및 변경 가능. 바퀴를 이용해 허브랙을 이동하고, 고정 시 고정락을 사용하여 움직임 없이 안전하게 고정. 뒷면 도어 오픈으로 허브 및 주변기기 뒷면을 분리 없이 확인 가능. 잠금장치로 관리자만 장비 제어 가능.",
+  "cautions": [
+    "관리자 외 장비 접근을 방지하기 위해 3단 잠금장치를 반드시 활용할 것",
+    "보조키 분실에 주의할 것",
+    "멀티탭은 국산 전자파 안전 인증 제품을 사용할 것",
+    "이동 후 반드시 고정락을 체결하여 허브랙이 움직이지 않도록 고정할 것"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "강화유리",
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "아이보리"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "rack_unit": 36,
+      "mount_type": "standing",
+      "depth_mm": 800,
+      "width_mm": 600,
+      "height_mm": 1800,
+      "has_door": true,
+      "has_lock": true,
+      "has_fan": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.directional": "N/A",
+    "power.power_mode": "N/A",
+    "power.charging_support": "null",
+    "form_physical.has_case": "LANstar 허브랙 시리즈",
+    "form_physical.material": "강화 유리 도어, 스틸 개폐형",
+    "form_physical.color_options": "LS-1800HC (아이보리)",
+    "certification.kc": "전자파 안전 인증 국산 6구 멀티탭",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.rack_unit": "36U",
+    "family.mount_type": "바퀴 채용",
+    "family.depth_mm": "D800mm",
+    "family.width_mm": "W600mm",
+    "family.height_mm": "H1800mm",
+    "family.has_door": "강화 유리 도어, 스틸 개폐형",
+    "family.has_lock": "안전 잠금 장치 (3단 잠금장치",
+    "family.has_fan": "대형 쿨링팬 2개 장착"
+  },
+  "feature_extracted_at": "2026-04-23T03:05:31",
+  "feature_schema_version": "1.0.0"
+}

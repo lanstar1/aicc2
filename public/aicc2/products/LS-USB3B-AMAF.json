@@ -1,0 +1,120 @@
+{
+  "model_no": "LS-USB3B-AMAF",
+  "product_name": "LAN Star USB 3.0 AM to AF 젠더",
+  "category": [
+    "USB3.0",
+    "USB2.0",
+    "컨버터"
+  ],
+  "key_features": [
+    "USB 3.0 A타입 Male(수)에서 USB 3.0 A타입 Female(암)로 변환하는 젠더",
+    "USB 3.0 Super Speed 최대 5.0Gbps 데이터 전송 속도 지원",
+    "USB 2.0 하위 호환 지원 (Low/Full/High Speed)",
+    "USB 3.0은 USB 2.0 대비 약 2배 전원 공급 향상 (최대 900mA), 별도 추가 전원 불필요",
+    "슬림모드, 저전력 모드 등 USB 3.0 전력 관리 기능 지원"
+  ],
+  "specifications": {
+    "커넥터 입력": "USB 3.0 A타입 Male (수)",
+    "커넥터 출력": "USB 3.0 A타입 Female (암)",
+    "USB 3.0 데이터 속도": "Super Speed (5.0Gbps)",
+    "USB 2.0 데이터 속도": "Low Speed (1.5Mbps), Full Speed (12Mbps), High Speed (480Mbps)",
+    "USB 3.0 데이터 신호": "SS-OUT 차등신호 1쌍, SS-IN 차등신호 1쌍",
+    "USB 2.0 데이터 신호": "차등 신호 1쌍",
+    "USB 3.0 케이블 구성": "4 wire: Super Speed (USB 3.0 데이터), 2 wire: DP/DM (USB 2.0 데이터), 3 wire: 전원 (Vbus/GND*2)",
+    "USB 2.0 케이블 구성": "2 wire: DP/DM (USB 2.0 데이터), 2 wire: 전원 (Vbus/GND)",
+    "USB 3.0 버스 프로토콜": "폴링 방식 사용 안함, 멀티 링크, 일시 중지/재연결",
+    "USB 2.0 버스 프로토콜": "폴링 방식 사용",
+    "최대 전원 공급 (USB 3.0)": "최대 900mA",
+    "최대 전원 공급 (USB 2.0)": "최대 500mA",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "USB 3.0 규격 기기",
+    "USB 2.0 규격 기기 (하위 호환)"
+  ],
+  "package_contents": [
+    "USB 3.0 AM to AF 젠더 본체 (LS-USB3B-AMAF)"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "품질 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB3B-AMAF",
+      "품목코드": "GEN-USB049",
+      "품목명": "[LANstar] USB3.0젠더 Changer A/M-A/F [20056]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 A타입 Male(수)",
+    "connectivity.output_signals": "USB 3.0 A타입 Female(암)",
+    "connectivity.directional": "USB 3.0 A타입 Male(수)에서 USB 3.0 A타입 Female(암)로 변환하는 젠더",
+    "power.power_mode": "별도 추가 전원 불필요",
+    "power.charging_support": "최대 900mA",
+    "form_physical.has_case": "젠더",
+    "family.usb_version": "USB 3.0",
+    "family.transfer_speed_gbps": "최대 5.0Gbps 데이터 전송 속도 지원",
+    "family.charging_only": "USB 3.0 Super Speed 최대 5.0Gbps 데이터 전송 속도 지원",
+    "family.data_only": "USB 3.0 Super Speed 최대 5.0Gbps 데이터 전송 속도 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:53",
+  "feature_schema_version": "1.0.0"
+}

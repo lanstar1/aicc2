@@ -1,0 +1,117 @@
+{
+  "model_no": "LS-PCIE-EX1000T",
+  "product_name": "LANStar PCI Express Interface Gigabit LAN Card (기가비트 랜카드, 슬림 PC 겸용)",
+  "category": [
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "10/100/1000M 데이터 속도 자동감지 기능 지원",
+    "MDI/MDIX 자동 지원",
+    "Wake on LAN(WOL) 지원",
+    "REALTEK 칩셋(RTL8111C) 사용",
+    "Single-lane(X1) PCI-Express 2.5Gbps 처리속도 지원",
+    "10/100/1000 IEEE 802.3 표준규격 지원",
+    "LED 내장",
+    "슬림PC용 LP 브라켓 포함으로 슬림 PC 겸용 가능",
+    "KCC 인증 획득 제품"
+  ],
+  "specifications": {
+    "인터페이스": "PCI Express 1.0a",
+    "지원 속도": "10/100/1000 Mbps",
+    "칩셋": "REALTEK RTL8111C",
+    "처리속도": "Single-lane(X1) PCI-Express 2.5Gbps",
+    "네트워크 표준": "IEEE 802.3",
+    "자동협상": "MDI/MDIX 자동 지원",
+    "WOL": "Wake on LAN 지원",
+    "LED": "내장",
+    "인증번호": "KCC-REM-LUS-LS-PCIE-EX1000",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "PCI Express 1.0a 슬롯 지원 데스크탑 PC",
+    "슬림 PC (LP 브라켓 사용)",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8"
+  ],
+  "package_contents": [
+    "PCI Express 기가비트 랜카드 (데스크탑용 인터페이스 카드)",
+    "슬림PC용 LP 브라켓"
+  ],
+  "usage_instructions": "1. 컴퓨터 전원을 끄고 안전을 위해 전원코드를 뽑는다. 2. 데스크탑 케이스 덮개를 열어 PCI-E 슬롯에 카드를 삽입하고 나사로 조여 고정한다. 3. 컴퓨터 케이스 덮개를 닫고 전원코드를 연결하여 컴퓨터를 켠다.",
+  "cautions": [
+    "구매 시 KCC 인증번호를 반드시 확인할 것",
+    "KCC(정보통신부 MIC) 인증을 받지 않은 유사품 주의",
+    "설치 전 반드시 컴퓨터 전원을 끄고 전원코드를 분리할 것",
+    "품질 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "구매/배송/반품은 판매처(쇼핑몰 하단) 참조"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-EX1000T",
+      "품목코드": "USB-PCI085",
+      "품목명": "[LANstar] PCI EXPRESS 기가랜카드 1Port, RTL8111C[30062] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [],
+      "directional": "N/A"
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 1000,
+      "chipset": "REALTEK RTL8111C"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "10/100/1000M 데이터 속도 자동감지",
+    "certification.kc": "KCC 인증 획득 제품",
+    "family.bus_interface": "PCI Express Interface",
+    "family.speed_mbps": "10/100/1000M 데이터 속도",
+    "family.chipset": "REALTEK 칩셋(RTL8111C) 사용"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:00",
+  "feature_schema_version": "1.0.0"
+}

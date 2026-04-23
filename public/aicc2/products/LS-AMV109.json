@@ -1,0 +1,237 @@
+{
+  "model_no": "LS-AMV109",
+  "product_name": "LAN Star HDMI 4K 3x3 Video Wall Controller & Player (HDMI 3x3 멀티비전)",
+  "category": [
+    "멀티비전"
+  ],
+  "key_features": [
+    "HDMI 입력 신호를 최대 9개의 디스플레이로 출력 가능한 3x3 멀티비전 제품",
+    "안드로이드 OS 내장으로 PC 연결 없이 USB 메모리, SD 카드를 통해 영상/사진 출력 가능",
+    "1x1/1x2/1x3/1x4/2x1/2x2/2x3/2x4/3x1/3x2/3x3/4x1/4x2/5x1 총 14가지 기본 출력 모드 지원",
+    "RS232 포트와 PC 연결 후 제품을 여러 개 연결하여 디스플레이를 확장하는 CASCADING MODE 지원 (예: 3x4, 4x4 구성)",
+    "각각의 출력 디스플레이는 최대 1080P@60Hz FHD 해상도 지원",
+    "HDMI 입력 해상도 최대 4K@30Hz 지원",
+    "리모콘을 통해 영상 출력 방식 변경 가능",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-AMV109)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "라인업시스템(주) / 랜스타 정식 수입·유통 정품",
+    "CASCADING MODE 지원"
+  ],
+  "specifications": {
+    "입력 포트": "HDMI 포트, DC 전원 1포트, RS232 1포트, USB 2포트",
+    "HDMI 입력 해상도": "4K@30Hz",
+    "HDMI 출력 해상도": "각각의 디스플레이 1920x1080 해상도 출력 (최대 1080P@60Hz)",
+    "입력 케이블 최대 길이": "최대 8M (HDMI 표준 규격 26AWG 기준)",
+    "출력 케이블 최대 길이": "최대 10M (HDMI 표준 규격 26AWG 기준)",
+    "전원 입력": "DC 12V 3A 전원 아답터",
+    "작동 온도": "-10°C ~ 45°C",
+    "크기": "306 x 184 x 35 (mm)",
+    "무게": "약 2.45kg",
+    "재질": "Metal",
+    "KC 인증번호": "R-R-LUS-LS-AMV109",
+    "아답터 인증번호": "HU101015-19002",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 출력 지원 기기: 콘솔, 노트북, 데스크탑, 셋톱박스, DVD 플레이어",
+    "USB 메모리 (USB 2.0, USB 3.0)",
+    "SD 카드",
+    "출력 디스플레이: TV, 모니터, 빔 프로젝터",
+    "HDMI 케이블 국제 표준 규격 26AWG",
+    "2x2 모드: 입력기기 3840x2160 해상도 지원 필요",
+    "3x3 모드: 입력기기 5760x3540 해상도 지원 필요",
+    "1x2 모드: 입력기기 3840x1080 해상도 지원 필요",
+    "2x1 모드: 입력기기 1920x2160 해상도 지원 필요",
+    "가로 모드(1xN): 입력기기 (1920xN)x1080 해상도 지원 필요",
+    "세로 모드(Nx1): 입력기기 1920x(1080xN) 해상도 지원 필요",
+    "RS232 포트를 통한 PC 연결 (CASCADING MODE용 프로그램 설치 필요)"
+  ],
+  "package_contents": [
+    "LS-AMV109 본체",
+    "Remote Control (리모콘)",
+    "DC 12V 3A 아답터",
+    "User Manual"
+  ],
+  "usage_instructions": "1. HDMI 입력 기기(PC, 노트북, 셋톱박스 등) 또는 USB 메모리/SD 카드를 본체에 연결한다. 2. HDMI 케이블로 본체 출력 포트와 디스플레이(TV, 모니터 등)를 연결한다. 3. DC 12V 3A 아답터로 전원을 공급한다. 4. 리모콘 또는 본체의 Switch Mode 버튼으로 원하는 출력 모드(1x1~5x1 등 14가지)를 선택한다. 5. 안드로이드 OS 내장 미디어 앱을 사용할 경우 Input switch로 내장 앱(Player)을 선택한 후 USB 또는 SD 카드의 콘텐츠를 재생한다. 6. CASCADING MODE 사용 시 RS232 포트와 PC를 연결하고 전용 프로그램 설치 후 복수의 본체를 연결하여 디스플레이를 확장한다. 7. 모드 초기화가 필요한 경우 본체의 RESET 버튼을 사용한다. 8. 전원을 껐다 켜면 종료 전 마지막으로 사용하던 모드로 자동 복귀된다.",
+  "cautions": [
+    "1x2 / 1x3 / 1x4 세로 모드 출력을 지원하지 않습니다. (가로 모드 출력만 가능)",
+    "각 디스플레이 배열 모드에 따른 해상도를 입력기기(PC, 노트북 등)에서 반드시 지원해야 정상적인 멀티비전 사용이 가능합니다.",
+    "HDMI 케이블 길이에 따라 해상도의 변화가 생길 수 있으므로 입력(최대 8m)/출력(최대 10m) 케이블 길이를 반드시 확인하십시오. (HDMI 케이블은 국제 표준 규격 26AWG 기준)",
+    "HDMI 입력 해상도는 최대 4K@30Hz이며, 출력은 각 디스플레이당 최대 1080P@60Hz입니다.",
+    "CASCADING MODE 사용 시 RS232 포트와 PC 연결 후 전용 프로그램 설치가 필요합니다.",
+    "당일출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일을 제외한 평일 기준입니다. 택배사 사정에 따라 배송기간이 길어질 수 있습니다.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "모드 초기화는 제품에 있는 RESET 버튼을 통해 가능합니다."
+  ],
+  "variants": [],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-AMV109",
+      "chatUrl": "3rCHy",
+      "dateIso": "2023-06-05T02:41:52.253000",
+      "name": "kbh5****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "네 아답터만 사용했는데 반품이 어려울까요?? 아답토만 별도로 판매하시는게 있다면 제가 구매해서 같이 반품드릴순없을까요??\n(추가 문의) 기존 기계가 파워선만 고장난거같아서 파워선만 사용했는데 본체랑 리모컨 반품 안될까요?\n(추가 문의) 6월1일 10시 47분 49초에 16000원 국민으로 입금했습니다.\n(추가 문의) 와 네네 그렇게 해주시면 감사하겠습니다",
+      "answer": "반품 접수하신 LS-AMV109 제품 잘 수거될 수 있도록 도와주셔서 금일 정상적으로 수거 완료하였습니다. 전에 톡톡에서 안내드린 대로 아답터 10,000원, 반품 배송비 6,000원 아래 계좌로 입금해 주시면 반품 완료 처리 도와드리겠습니다. 국민은행 066401-01-000150 라인업시스템(주) 궁금하신 사\n\n네, 고객님. 기존 주문 건 구매확정 후 반품 진행하여 제품 상태 확인 후에 아답터 10,000원, 반품 배송비 6,000원 저희 랜스타로 계좌이체 송금하는 방식으로 진행해드려도 괜찮으실까요? 내장되어 있는 아답터의 경우, 저희 랜스타에서 별도 판매하지 않은 제품이라 이렇게 처리를 해드려야 할 것 같습니다.\n\n[자동구매확정예정] 구매하신 상품이 5일 뒤 자동구매확정 예정입니다. 이미 상품을 수령하신 경우 구매확정 진행 부탁드리며, 미수령 상태인 경우 반드시 구매확정 연장하기를 선택해주세요.",
+      "turn_count": 12,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "감사합니다!"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 그럼 상담 종료하도록 하겠습니다. 감사합니다."
+        },
+        {
+          "role": "customer",
+          "text": "6월1일 10시 47분 49초에 16000원 국민으로 입금했습니다."
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님. 입금 확인하여 반품 완료 처리되었습니다. 감사합니다. \n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해 드리겠습니다. 감사합니다."
+        },
+        {
+          "role": "customer",
+          "text": "사장님 입금했는데 확인 된거 맞겠죠?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n반품 접수하신 LS-AMV109 제품 잘 수거될 수 있도록 도와주셔서 금일 정상적으로 수거 완료하였습니다. 전에 톡톡에서 안내드린 대로 아답터 10,000원, 반품 배송비 6,000원 아래 계좌로 입금해 주시면 반품 완료 처리 도와드리겠습니다.\n\n국민은행 066401-01-000150 라인업시스템(주) \n\n궁금하신 사"
+        },
+        {
+          "role": "customer",
+          "text": "넵!!"
+        },
+        {
+          "role": "agent",
+          "text": "구매 확정하신 후 반품 접수라 저희가 직접 반품 접수 진행해드리겠습니다. 제품 잘 수거될 수 있도록 확인 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "네 그럼 반품신청해도 되나요?"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님. 우선, 반품 접수 진행하여 제품 수거 후에 제품 및 포장 훼손하여 다시 연락드리겠습니다. 감사합니다."
+        },
+        {
+          "role": "customer",
+          "text": "와 네네 그렇게 해주시면 감사하겠습니다"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님. 기존 주문 건 구매확정 후 반품 진행하여 제품 상태 확인 후에 \n아답터 10,000원, 반품 배송비 6,000원 저희 랜스타로 계좌이체 송금하는 방식으로 진행해드려도 괜찮으실까요?\n내장되어 있는 아답터의 경우, 저희 랜스타에서 별도 판매하지 않은 제품이라 이렇게 처리를 해드려야 할 것 같습니다."
+        },
+        {
+          "role": "customer",
+          "text": "네 아답터만 사용했는데 반품이 어려울까요?? 아답토만 별도로 판매하시는게 있다면 제가 구매해서 같이 반품드릴순없을까요??"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n함께 제공되는 아답터를 제외하고 본체와 리모컨만 반품하시려는 걸까요? 모든 부품이 새 제품으로 완비되어 있지 않을 경우 재판매가 어려워 일부 반품이 어렵습니다, 고객님."
+        },
+        {
+          "role": "customer",
+          "text": "문의드립니다!"
+        },
+        {
+          "role": "agent",
+          "text": "[자동구매확정예정] 구매하신 상품이 5일 뒤 자동구매확정 예정입니다. 이미 상품을 수령하신 경우 구매확정 진행 부탁드리며, 미수령 상태인 경우 반드시 구매확정 연장하기를 선택해주세요."
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "USB-A",
+        "SD",
+        "Serial(DB9)"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "input_count": 1,
+      "output_count": 9,
+      "mode": [
+        "멀티비전"
+      ],
+      "cascade_support": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 입력 신호를",
+    "connectivity.input_signals[1]": "USB 메모리, SD 카드를 통해",
+    "connectivity.input_signals[2]": "USB 메모리, SD 카드를 통해",
+    "connectivity.input_signals[3]": "RS232 포트와 PC 연결 후",
+    "connectivity.output_signals": "9개의 디스플레이로 출력 가능한",
+    "power.power_mode": "DC 12V 3A 전원 아답터",
+    "form_physical.has_case": "LAN Star HDMI 4K 3x3 Video Wall Controller & Player",
+    "form_physical.material": "재질: Metal",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "audio_video.max_resolution": "HDMI 입력 해상도 최대 4K@30Hz 지원",
+    "control_switching.has_remote": "리모콘을 통해 영상 출력 방식 변경 가능",
+    "control_switching.has_physical_button": "본체의 Switch Mode 버튼으로",
+    "family.input_count": "HDMI 입력 신호를",
+    "family.output_count": "최대 9개의 디스플레이로 출력",
+    "family.mode": "3x3 멀티비전 제품",
+    "family.cascade_support": "CASCADING MODE 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:07",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

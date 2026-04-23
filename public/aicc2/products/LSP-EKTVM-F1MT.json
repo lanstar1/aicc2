@@ -1,0 +1,138 @@
+{
+  "model_no": "LSP-EKTVM-F1MT",
+  "product_name": "LANstar plus CAT.5E STP Tooless 키스톤잭 모듈 (8P8C RJ45형)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-STP",
+    "키스톤잭",
+    "멀티탭",
+    "UTP포트",
+    "아웃렛박스",
+    "LAN공구"
+  ],
+  "key_features": [
+    "400Mbps 전송속도 지원",
+    "별도의 압축 Tool 없이 케이블 선 장착 가능 (Tooless)",
+    "1개의 모듈에서 568A(Cross)와 568B(Direct) 배열 모두 가능",
+    "케이블 선을 보호하는 분리덮개 적용 신형 모듈",
+    "벽부착형 Plate나 Outlet 공박스에 장착하여 사용 가능",
+    "RoHS 인증 (특정위험물질 사용제한 준수)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "카테고리 등급": "CAT.5E",
+    "케이블 타입": "STP",
+    "커넥터 타입": "8P8C RJ45",
+    "전송속도": "400Mbps",
+    "배선 배열": "568A(Cross), 568B(Direct) 모두 지원",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주), 한국아이티판매협동조합",
+    "인증번호": "해당없음",
+    "품명": "CAT.5E STP 키스톤잭 모듈",
+    "RoHS 인증": "RoHS Compliant",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "벽부착형 Plate (삽입형 아울렛, 1port~6port, 별도구매)",
+    "Outlet 공박스 (1port~multi port, 별도구매)",
+    "CAT.5E STP 케이블"
+  ],
+  "package_contents": [
+    "모듈 본체",
+    "모듈 커버",
+    "케이블 타이"
+  ],
+  "usage_instructions": "1. 스트리퍼로 케이블 피복을 적당한 길이로 벗겨낸다. 2. 드러난 케이블 선을 적당한 길이로 잘라낸다. 3. 모듈러 커버에 케이블 선을 568A 또는 568B 배열대로 각각의 홈에 끼운다. 4. 케이블 선이 끼워진 모듈 위로 본체를 화살표 방향으로 끼운다. 5. 모듈 밖으로 나온 케이블 선을 잘라낸다. 6. 양쪽 케이블 선을 모두 잘라낸다. 7. 본체 양쪽 덮개를 씌워 완성한다. 8. 구성품인 케이블타이로 묶어 마무리한다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "벽부착형 Plate 및 Outlet 공박스는 별도 구매 필요",
+    "사진 속 시연 제품은 다를 수 있으나 제작 방법은 동일함",
+    "한국아이티판매협동조합에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-EKTVM-F1MT",
+      "품목코드": "NEO-키스톤077",
+      "품목명": "[◆Lanstar-Plus] STP CAT.5E, 8P8C, 키스톤잭 모듈, I-Type, Metal [40542] [500개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-EKTVM-F1MT",
+      "내용": "항상 잘 사용 하고 있습니다. ~잘 받았습니다. 배송 서비스 만족합니다. 재 구매 의사 있습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": false,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "STP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "8P8C RJ45형",
+    "connectivity.output_signals": "8P8C RJ45형",
+    "connectivity.directional": "568A(Cross)와 568B(Direct) 배열 모두 가능",
+    "connectivity.port_count": "1개의 모듈",
+    "form_physical.has_case": "분리덮개 적용 신형 모듈",
+    "form_physical.material": "모듈러 커버",
+    "certification.rohs": "RoHS 인증 (특정위험물질 사용제한 준수)",
+    "family.cat_category": "CAT.5E",
+    "family.shielding": "STP"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:43",
+  "feature_schema_version": "1.0.0"
+}

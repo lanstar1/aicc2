@@ -1,0 +1,331 @@
+{
+  "model_no": "LS-CAT7",
+  "product_name": "CAT.7 STP 모듈러콘넥터 (8P8C / Insert / 50p Silver / 단선)",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "랜케이블-FTP",
+    "랜케이블-STP",
+    "랜케이블-SFTP",
+    "랜케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "CAT.7(6A) SSTP 전용 커넥터",
+    "Insert 포함 제품 – Insert에 랜케이블 연결 후 커넥터에 삽입하는 방식",
+    "얼터네이트 구조 채택으로 수평구조 대비 전자파 간섭 최소화",
+    "50μ 3Prongs 금도금 핀 장착 – 전도율 높고 신호 손실 적음",
+    "케이블 두께 최대 23AWG 전용 (도체경 23AWG / 절연외경 1.5mm)",
+    "국립전파연구원 KC 인증 획득 (R-R-LUS-LS-EZ-750)",
+    "UL 인증 통과 제품 (Certificate Number UL-US-4508506-70909102-3)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "낱개 구매 가능",
+    "CAT.7 SSTP 단선(Solid) 구조로 외부 간섭이 적고 데이터 전송 안정성 우수",
+    "최대 10Gbps(10,000Mbps) 전송속도 지원",
+    "600MHz 광대역 전송 대역폭",
+    "23AWG 미국전선규격(American Wire Gage) 적용, 잡음이 적고 안정적인 전송",
+    "100% 고순도 구리(Best Copper) 사용, 통신공사용으로 적합",
+    "알루미늄 차폐막 및 쉴드선 적용으로 노이즈 방지(SSTP)",
+    "드럼 릴(Roll Type) 형태로 장거리 이동·임시 설치에 최적화",
+    "친환경 소재(RoHS 준수) 사용",
+    "한국기계전기전자시험연구원(KTC) 성능시험 통과",
+    "FLUKE DTX-1800 테스트 통과",
+    "ETL 인증(Intertek 4000478) 획득",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "공연장, 전시회, 기업 전산실, 데이터센터, 공공기관 통신 전산실, 야외 이동형 설치에 적합"
+  ],
+  "specifications": {
+    "지원규격": "CAT.7 / CAT.6A",
+    "전송속도": "10Gbps",
+    "대역폭": "600MHz",
+    "케이블두께": "23AWG",
+    "도체경": "23AWG",
+    "절연외경": "1.5mm",
+    "핀사양": "50μ 3Prongs 금도금",
+    "커넥터타입": "8P8C (RJ45)",
+    "케이블유형": "단선",
+    "색상": "Silver",
+    "KC인증번호": "R-R-LUS-LS-EZ-750",
+    "UL인증번호": "UL-US-4508506-70909102-3",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "케이블 규격": "CAT.7",
+    "케이블 타입": "SSTP (Shielded Shielded Twisted Pair)",
+    "선 종류": "단선 (Solid Cable)",
+    "최대 전송속도": "10Gbps",
+    "도체 규격": "23AWG (American Wire Gage)",
+    "구리 함량": "100% 고순도 구리 (Best Copper)",
+    "피복 재질": "PVC/LSZH",
+    "길이 및 무게 (50M)": "50M / 6kg",
+    "길이 및 무게 (80M)": "80M / 8kg",
+    "제품 크기": "40cm x 33cm x 22cm",
+    "모델명 (50M)": "LS-CAT7-50MR",
+    "모델명 (80M)": "LS-CAT7-80MR",
+    "커넥터 타입": "8P8C RJ45 (CAT.6A/CAT.7 SFTP Female)",
+    "케이블 형태": "Roll Type (F/F, 드럼 릴)",
+    "RoHS": "준수",
+    "ETL 인증": "Intertek 4000478",
+    "ISO 인증": "ISO 9001:2008",
+    "지원 전송속도 (하위 호환)": "10Mbps, 100Mbps, 1000Mbps, 10Gbps",
+    "핀 배열": "다이렉트 케이블 (568B-568B), 크로스 케이블 (568B-568A)"
+  },
+  "compatibility": [
+    "CAT.7 SSTP 케이블 (23AWG 단선)",
+    "CAT.6A SSTP 케이블 (23AWG 단선)",
+    "호환 케이블: LS-7SSTP-100MG",
+    "호환 케이블: LS-7SSTP-300MG",
+    "호환 케이블: LS-7SSTP-300MB",
+    "압착 공구: 랜스타 랜툴 LS-N3-750C (케이블 클립 타입, 8P8C)",
+    "TIA/EIA-568 규격 호환",
+    "ISO/IEC 11801 Class F (CAT.7) 호환",
+    "CAT.6A 기기 호환 (동일 10G 지원)",
+    "CAT.6 기기 하위 호환",
+    "CAT.5/CAT.5E 기기 하위 호환",
+    "10Mbps / 100Mbps / 1000Mbps / 10Gbps 네트워크 장비 호환",
+    "8P8C RJ45 포트 장비 호환"
+  ],
+  "package_contents": [
+    "CAT.7 STP 모듈러 커넥터 (LS-CAT7-750)",
+    "Insert (커넥터 내 삽입용 핀 고정 부품)",
+    "CAT.7 SSTP 단선 드럼 릴 랜케이블 (50M 또는 80M)",
+    "케이블 감기 손잡이",
+    "랜포트 Female 커넥터 (Dust Cover 장착)",
+    "※ CAT.6A(CAT.7) SFTP 커넥터 Female Dust Cover는 별도 구매"
+  ],
+  "usage_instructions": "1) 커넥터를 연결할 케이블과 부수장비(가위, 탈피기, 부트 등)를 준비한다. 2) 작업할 케이블에 부트를 삽입한다. 3) 탈피기를 이용하여 3~4cm 정도 피복을 벗겨낸다. 4) 8가닥의 선을 핀배열도(568B 또는 568A)에 맞게 Insert에 결합한다. 5) Insert를 모듈러 커넥터에 삽입·결합한다. 6) 랜 툴(LS-N3-750C)을 이용하여 커넥터를 압착한다. 7) BNC 툴을 이용하여 커넥터의 고정클립을 케이블에 고정한다. 8) 처음 삽입한 부트를 커넥터 쪽으로 밀어 넣어 결합하면 완성된다. ※ 핀배열: Direct 케이블(568B-568B), Cross 케이블(568B-568A) 지원.",
+  "cautions": [
+    "본 제품은 23AWG 단선 전용이며, 해당 규격 외 케이블 사용 시 정상 동작을 보장하지 않는다.",
+    "Insert를 먼저 케이블에 결합한 후 커넥터에 삽입하는 순서를 반드시 준수할 것.",
+    "압착 시 반드시 호환 랜툴(LS-N3-750C)을 사용할 것.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있다.",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리된다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-CAT7-50MR",
+      "품목코드": "CAB-S7T009",
+      "품목명": "[LANstar] CAT.6A/CA7.7 S/FTP LAN CABLE DRUM Reel 주황 50M [10902][1개]",
+      "variant_suffix": "-50MR",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-CAT7-80MR",
+      "품목코드": "CAB-S7T010",
+      "품목명": "[LANstar] CAT.6A/CAT.7 S/FTP LAN CABLE DRUM Reel 주황 80M [10903][1개]",
+      "variant_suffix": "-80MR",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-CAT7-50MR",
+      "내용": "연결도 잘되고 튼튼해서 좋았습니다."
+    },
+    {
+      "source_model": "LS-CAT7-50MR",
+      "내용": "감사합니다. 만족합니다.",
+      "관련내용": "만족합니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-50MR",
+      "내용": "만족합니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-50MR",
+      "내용": "회사 업무에 딱 맞는 조건이라 잘 사용하고 있습니다!",
+      "관련내용": "저희 회사에서 찾던 딱 맞는 제품이였는데.. 이번에 구매한 제품은 아쉽게도 릴 스탠드에서 릴이 빠져서...사용하는 것이 많이 불편했네요.. 지속적으로 주문 예정인데 추후에는 잘 검수해서 보내주시면 좋을 것 같아요! 이런 부분 외에는 정말이지 사용하기 편리하고 제품 퀄리티도 좋아요!"
+    },
+    {
+      "source_model": "LS-CAT7-50MR",
+      "내용": "회사에서 필요한 제품을 찾다가 딱 맞게 찾은 제품이라서 너무 잘 사용하고 있습니다~ ㅎ 앞으로도 많이 구매하겠습니다.",
+      "관련내용": "업무용으로 딱 필요한 제품이네요~ 잘 사용할께요~ 배송도 빨라서 좋아요!"
+    },
+    {
+      "source_model": "LS-CAT7-50MR",
+      "내용": "저희 회사에서 찾던 딱 맞는 제품이였는데.. 이번에 구매한 제품은 아쉽게도 릴 스탠드에서 릴이 빠져서...사용하는 것이 많이 불편했네요.. 지속적으로 주문 예정인데 추후에는 잘 검수해서 보내주시면 좋을 것 같아요! 이런 부분 외에는 정말이지 사용하기 편리하고 제품 퀄리티도 좋아요!"
+    },
+    {
+      "source_model": "LS-CAT7-50MR",
+      "내용": "업무용으로 딱 필요한 제품이네요~ 잘 사용할께요~ 배송도 빨라서 좋아요!"
+    },
+    {
+      "source_model": "LS-CAT7-50MR",
+      "내용": "빠르고 친절한 배송감사드립니다."
+    },
+    {
+      "source_model": "LS-CAT7-80MR",
+      "내용": "사진과 동일합니다."
+    },
+    {
+      "source_model": "LS-CAT7-80MR",
+      "내용": "공장/선박 등 부지가 넓은 곳에서 통신 환경을 구축해야하거나 할때 휴대성도 좋고 내구성도 좋아서 사용하기 딱 좋은 것 같습니다~ 하나하나 꼼꼼하게 만든게 딱!! 느껴집니다! 잘 사용하고 있어요~",
+      "관련내용": "80미터도 이제 구매 시작합니당~~ㅋ 제품 너무 좋아요~"
+    },
+    {
+      "source_model": "LS-CAT7-80MR",
+      "내용": "80미터도 이제 구매 시작합니당~~ㅋ 제품 너무 좋아요~"
+    },
+    {
+      "source_model": "LS-CAT7-80MR",
+      "내용": "일체형이라 무지하게 좋아요\n또사려구요"
+    },
+    {
+      "source_model": "LS-CAT7-80MR",
+      "내용": "랜선,드럼이 세트로 되어있어서 편리합니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-CAT7-80MR",
+      "id": 619318032,
+      "date": "2025-02-27 15:05",
+      "answerDate": "2025-02-27 15:57",
+      "user": "yzxc****",
+      "productName": "랜스타 LS-CAT7-80MR CAT.6A/CAT7 S/FTP LAN CABLE DRUM Reel 주황 80M",
+      "question": "파란색은 안나오나요??",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n네. 해당제품 주황색 단일 제품입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-CAT7-80MR",
+      "id": 625303665,
+      "date": "2025-04-19 12:19",
+      "answerDate": "2025-04-21 09:26",
+      "user": "bu****",
+      "productName": "랜스타 LS-CAT7-80MR CAT.6A/CAT7 S/FTP LAN CABLE DRUM Reel 주황 80M",
+      "question": "선이 뻑뻑하거나 그러진 않나요? 예전꺼 쓰던게 선이 뻑뻑해서 결국 오래 못 써서요. 이 제품은 어떤지 궁금합니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n문의주신 제품 단선(solid) 케이블이기에 연선에 비해 강성이있습니다. \n부드러운 케이블을 찾으신다면 연선(Stranded)케이블을 사용하셔야하지만 릴 케이블은 자주 풀었다 감아야 하기에 내구성으로 인하여 연선제품이 없습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-CAT7",
+      "chatUrl": "8aplt",
+      "dateIso": "2025-08-08T08:13:16.765Z",
+      "name": "일등가장",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "당사는 소프트웨어 개발회사인데 제공하는 서비스에 귀사의 랜선을 같이 포함해서 제공하고자 합니다. 현재로서는 PoC를 위해서 소수의 장비만 구매하여 여러곳에서 테스트를 진행하지만 추...\n(추가 문의) 추후 다시 문의를 드릴 수 있도록 하겠습니다.\n(추가 문의) LS-CAT7 80MR 이 제품입니다!",
+      "answer": "네. 고객님. 최소 구매 수량과 최대 구매 수량 혹은 구매 희망 수량 말씀 주시면 견적 전달 가능합니다.\n\n대량 구매의 기준은 품목마다 상이하여 일괄적으로 말씀드리기가 어렵습니다. 고객님께서 구매하시고자 하는 상품 말씀 주시면 안내 도와드리겠습니다.\n\n네. 고객님, 추후 문의 주시면 견적 맞춰 전달드릴 수 있도록 하겠습니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "추후 다시 문의를 드릴 수 있도록 하겠습니다."
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님,\n\n추후 문의 주시면 견적 맞춰 전달드릴 수 있도록 하겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "당사는 소프트웨어 개발회사인데 제공하는 서비스에 귀사의 랜선을 같이 포함해서 제공하고자 합니다. 현재로서는 PoC를 위해서 소수의 장비만 구매하여 여러곳에서 테스트를 진행하지만 추..."
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n최소 구매 수량과 최대 구매 수량 혹은 구매 희망 수량 말씀 주시면 견적 전달 가능합니다."
+        },
+        {
+          "role": "customer",
+          "text": "LS-CAT7 80MR 이 제품입니다!"
+        },
+        {
+          "role": "agent",
+          "text": "대량 구매의 기준은 품목마다 상이하여 일괄적으로 말씀드리기가 어렵습니다.\n고객님께서 구매하시고자 하는 상품 말씀 주시면 안내 도와드리겠습니다."
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-CAT7-MR": "LAN StarⓇ\n드럼 될\n장거리 이동형 랜케이블 10G\nCAT.7 SSTP 단선\n50M, 80M (Roll Type F/F)\nO\n50M LS-CAT7-50MR\n80M LS-CAT7-80MR\n고성능 초고속 10G전송속도!\n케이블 규격 CAT.5/CAT.5E\nCAT.6\nCAT.7\n전송속도\n100~400Mbps\n1Gbps\n10Gbps이상\n대역폭\n100MHz\n250MHz\n600MHz\n케이블 타입 UTP/FTP/SFTPUTP/FTP/SFTP\nUTP/SSTP\nCAT.7 케이블은?\nCAT.7 케이블은 CAT.6보다 10배인 최대 10Gbps(10,000Mbps)의 속도를\n지원하고 CAT.6의 2배의 전송대역인 600MHz의 대역폭을 가지는 TIA/EIA-568\n규정규격이며 10Mbps/100Mbps/1000Mbps/10Gbps의 전송이 가능합니다.\nCAT.6A와 CAT.7 은 같은 케이블인가요?\nCAT.6A와 CAT.7 모두 10G를 지원합니다.\nTIA/EIA-568 규격은 대역폭 500MHz를 CAT.6A라 하고 ISO/IEC 11801 Class\n규정에서는 600MHz를 CAT.7이라 기준을 정하였으나 두 기관간 명명문제이며\n결국 대역폭 외에 속도는 동일하므로 거의 같은 케이블이라 보시면 됩니다.\nCAT.7 SSTP LAN CABLE\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n알루미늄 차폐막\n- 알루미늄\n차폐막\n'노이즈방지\n쉴드선\n·쌍 (Pair)\n노이즈 방지 쉴드\n단선\n-PVC/LSZH 피복\n쉴드 접지선\n- 쉴드 접지선\nSolid Cable\n단선(線) 케이블\n선이 하나이므로 외부간섭을 덜 받아\n데이터 전송이 안정적입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n1 녹색/흰색\n주황/흰색 1\n주황 2\n1 주황/흰색\n2 주황\n3 녹색/흰색\n주황/흰색 1\n주황 2\nX\n2 녹색\n녹색/흰색\n3\n녹색/흰색 3\n3 주황/흰색\n\n\n인가락의 우디션 버디 기회의 우디션\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n1 주황/흰색\n2 주황\n3 녹색/흰색\n4 청색\n5 청색/흰색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\nXXIII\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n8 갈색\n청색/흰색 5\n청색/흰색 5\n6 녹색\n녹색 6\n갈색/흰색 7\n갈색 8\n녹색 6\n갈색/흰색 7\n7 갈색/흰색\n8 갈색\n갈색 8\n케이블 감기 손잡이\nCAT.6A(CAT.7)\nSFTP 콘넥터\nFemale\n(Dust Cover 별도구매)\n랜포트 Female\n(랜포트 Dust Cover 장착)\n: 여분의 랜선을 연결해야 할때 사용합니다.\n릴 케이블, 이런 곳에서 사용합니다!\nPLACE\n01\n공연장, 전시회 이벤트\nPLACE\n02\n기업체 전산실, 데이터센터\nPLACE\n03\n공공기관 통신 전산실\nPLACE\n04\n이동시설 응급복구 및\n야외행사용 이동형 랜 케이블\nCAT.7 SSTP LAN CABLE\n100%\nHIGH QUALITY\nBEST COPPER\n일반 저가형 케이블에 비해 구리 함량이 높아\n통신공사용으로 적합하며 빠른 전도율이 가능한 케이블입니다.\nI\nCAPLE10G SOLIO 100NCOPPER. <ROHS CLANstars!\nETL\n4000470.\nTHIST-PAIR\n4P.X238HG 5 STP\nLAN tar\n랜스타 정품으로 친환경 소재를 사용한 랜케이블입니다\n正品\n[미국전선규격 American Wire Gage]\n23AWG 규격의 굵기로 데이터 전송시 간섭이 적은\n우수한 품질의 랜케이블입니다.\n이 제품은 당사가 보증하는\n순정품입니다.\n\n\n통신공사용으로 적합하며 빠른 전도율이 가능한 케이블입니다.\nCAT? CARLE 10G.SOLID 100XCOPPER <ROHS <LANStar\nETL 4000478\nTHIST-PAIR 4P2ZANG S STP\nLAN tar\n랜스타 정품으로 친환경 소재를 사용한 랜케이블입니다\n正品\n[미국전선규격 American Wire Gage]\n23AWG 규격의 굵기로 데이터 전송시 간섭이 적은\n우수한 품질의 랜케이블입니다.\n이 제품은 당사가 보증하는\n'순정품입니다.\n23AWG (American Wire Gage)\n미국전선규격 American Wire Gage\n23AWG 규격의 굵기로 데이터 전송시 간섭이 적은 우수한 품질의 랜케이블입니다.\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nwww\nICTC PASS\n한국기계전기전자시험연구원\n한국기계전기전자시험연구원(KTC) 성능시험을 통과한 랜케이블\n시험성적서\n성적서 변호\n12015-07623\n회사명 :\n대표자 :\n주소 :\n라인업시스템(주)\n정정섭\n경기도 김포시 양촌읍 황금로 117 이젠아파트형공장 메가존 1층 103호\n1. 시료명:\n랜케이블 패치코드\n규격 및 형식: LS-7-SSTP (Cat.7, 10G)\n2. 성적서의 용도: 품질관리용\n3. 접수일자 : 2015.08.04\n4. 시험일자: 2015.08.14-2015.08.26\n의자 제시규격\n6. 시험결과: 붙임 시험결과 창조\n5. 시험방법:\n시험자: 오광훈\n오광온\n승인자: 김태오\n김태오\n2015년 08월 31일\nare\nKISH 한국기계전기전자시험연구원장\n원장의\nwwwowterer435-862 경기도 군포시 흥안대로27번길 22(금정동)\nTEL: 18997654, FAX: 031-455-7307\nAS10-05(2)\nPage 1\n1 of 10\n분류\n항목\n| 시험결과\n반사손실(Return Loss)\nPASS\n삽입손실(Insertion Loss); 감쇄(Attenuation)\nPASS\nPASS\n전기적 누화손실(NEXT: Near End Crosstalk Ratio)\n특성\n전력 누화손실(PS NEXT: Power Sum Near End Crosstalk Ratio)\nPASS\nACR-F(Attenuation to Crosstalk Ratio); ELFEXT\nPASS\nPS ACR-F(Power Sum Attenuation to Crosstalk Ratio); PSELFEXT\nPASS\nFLUKE.\n플루크 테스트를 통과한 제품입니다.\n(테스터기 : DTX-1800)\nLINKWARE\nCable IO: CAT6A SSTP 70.166C\nOperator: Your Name\nTest Lit Chat Class a\nCa Type Ca\nNYP 160%\non Case Man Won Case Value\nForg\nPLA\nPS NEXT\nworks\nACR\nDTX-1800\nCAMINA\nPERVISION\nmw\nSte Clent Name\nFLUKE\nnetwork\nPRODUCT SIZE\n\n\nPRODUCT SIZE\n40cm\n33cm\n22cm\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n케이블 규격\nCAT.7\n최대전송속도\n10Gbps\n대역\n폭\n600MHz\n길이(무게)\n50M (6kg)/80M (8kg)\nROHS\nFLUKE\nTEST\nEID\nCOMPLIANT\nPASS\nC\nUS\nLISTED\nIntertek\n4000478\nISO 9001:2008\n품질경영시스템\nLANStar\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\n장거리 이동형 드럼 릴 랜케이블\nⓇ\n모\n델\n명\nLS-CAT7-50MR / LS-CAT7-80MR\nLANG\nNotar\n인증번호\n해당없음\n首\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLAN Star®\nⓇ\n자매품\n0.5M\n10M\nLS-7UTPD-10M\nIM\n15M\nLS-7UTPD-15M\nCAT.7\n(CAT.6A) UTP\n다이렉트, 회색,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG, 난연\nLS-7UTPD-0.5M\nLS-7UTPD-1M\nLS-7UTPD-2M\nLS-7UTPD-3M\n20M\n30M\n2M\n3M\n5M\n7M\nLS-7UTPD-20M\nLS-7UTPD-30M\nLS-7UTPD-50M\nLS-7UTPD-5M\n50M\nLS-7UTPD-7M\n1M\nLS-7-SSTP-1MB\n15MLS-7-SSTP-15MB\n20M LS-7-SSTP-20MB\nCAT.7 SSTP\n다이렉트 슬림,\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n36AWG, 난연,\n4mm 초슬림\n2M\n3M\nF\nLS-7-SSTP-2MB\nLS-7-SSTP-3MB\nLS-7-SSTP-5MB\n5M\n7M\nLS-7-SSTP-7MB\n10M LS-7-SSTP-10MB\n1M\nLS-F7-SFTP-1M\n20M LS-F7-SFTP-20M\n2M\nLS-F7-SFTP-2M\nCAT.7 FTP\n다이렉트 평면,\n연선, 흰색,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG, 난연,\n알루미늄 쉴드\n3M LS-F7-SFTP-3M\n5M LS-F7-SFTP-5M\n10M LS-F7-SFTP-10M\n15MLS-F7-SFTP-15M\nCAT.7 UTP\nIM\nLS-F7-UTPD-1M\n20MLS-F7-UTPD-20M\n\n\n5M\nLS-7-SSTP-5MB\n8P8C RJ45,\n36AWG,\n4mm 초슬림\n7M\nLS-7-SSTP-7MB\n10M LS-7-SSTP-10MB\n1M\nLS-F7-SFTP-1M\n20M LS-F7-SFTP-20M\n2M\nLS-F7-SFTP-2M\n3M\nLS-F7-SFTP-3M\nCAT.7 FTP\n다이렉트 평면,\n연선, 흰색,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG, L\n알루미늄 쉴드\n5M\nLS-F7-SFTP-5M\n10M LS-F7-SFTP-10M\n15M LS-F7-SFTP-15M\n1M\nLS-F7-UTPD-1M 20M | LS-F7-UTPD-20M\nCAT.7 UTP\n기가슬림 평면,\n연선, 검정,\n8P8C RJ45,\n2M\nLS-F7-UTPD-2M\n3M\nLS-F7-UTPD-3M\n30AWG\n5M\nLS-F7-UTPD-5M\n10M LS-F7-UTPD-10M\n15M LS-F7-UTPD-15M\nCAT.7 SSTP\n2M\nLS-7NSTPD-2M\n30M LS-7NSTPD-30M\n3M\nLS-7NSTPD-3M\n50M LS-7NSTPD-50M\n5M\nLS-7NSTPD-5M\n다이렉트\n산업용 망사,\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\n10M\nLS-7NSTPD-10M\n15M LS-7NSTPD-15M\n20M LS-7NSTPD-20M\nCAT.7 SSTP\n다이렉트, 연선,\n흰색, 50u\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\n0.5M LS-7SSTPD-0.5MG 10M | LS-7SSTPD-10MG\n1M LS-7SSTPD-1MG 15M | LS-7SSTPD-15MG\n2M LS-7SSTPD-2MG 20M LS-7SSTPD-20MG\n3M LS-7SSTPD-3MG | 30M | LS-7SSTPD-30MG\n5M LS-7SSTPD-5MG | 50M | LS-7SSTPD-50MG\n7M LS-7SSTPD-7MG\nCAT.7 SSTP\n다이렉트, 연선,\n노랑, 50u.\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\nCAT.7 SSTP\n다이렉트, 연선,\n빨강, 50u.\n금도금 콘넥터,\n8P8C RJ45,\nCAT.7 SSTP\n다이렉트, 연선,\n화이트블루,\n50u. 난연,\n금도금 콘넥터,\n26AWG,\n8P8C RJ45,\n26AWG\n2M\nLS-7SSTPD-2MY\n2M\nLS-7SSTPD-2MR\n2M\nLS-7SSTPD-2MB\n3M\nLS-7SSTPD-3MY\n3M\nLS-7SSTPD-3MR\n3M\nLS-7SSTPD-3MB\n5M\nLS-7SSTPD-5MY\n5M\nLS-7SSTPD-5MR\n5M\nLS-7SSTPD-5MB\n7M\nLS-7SSTPD-7MY\n7M\nLS-7SSTPD-7MR\n7M\nLS-7SSTPD-7MB\n10M LS-7SSTPD-10MY\n10M LS-7SSTPD-10MR\n10M LS-7SSTPD-10MB\nCAT.6A UTP\nCAT.7 SSTP\n다이렉트 슬림,\n연선,흰색,\n금도금 콘넥터,\n8P8C RJ45,\n32AWG,\n2.8mm 초슬림\n단선, 주황,\n장거리 이동형\n드럼릴,\n8P8C RJ45,\n23AWG,\nETL 인증\nCAT.7 FTP\n자동감김,\n다이렉트, 오토릴,\n인터넷케이블,\n8P8C RJ45,\n금도금 콘넥터,\n10Gbps\n1M\nLS-6A-UTP-1MW\n50M\nLS-CAT7-50MR\n1.5M LS-CAT.7-RT1.5M\n2M\nLS-6A-UTP-2MW\n80M\nLS-CAT7-80MR\n3M\nLS-6A-UTP-3MW\n5M LS-6A-UTP-5MW\n10M LS-6A-UTP-10MW\nCAT.6A SSTP\nBox, 단선,\n연선, LSZH난연,\n27AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\nCAT.7 STP\n(CAT.6A)\nBox, 단선,\nL, 10Gbps,\n화이트블루,\n23AWG\n미국전선규격\n300M LS-SSTP-CAT.6A-300M\n300M\nLS-7SSTP-300MB\nCAT.7 STP\n(CAT.6A)\nBox, 단선,\nL, 10Gbps,\n¹,23AWG\n미국전선규격\n100M\nLS-7SSTP-100MG\nLANG\nStar®\n300M\nLS-7SSTP-300MG"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금",
+        "알루미늄",
+        "구리",
+        "PVC"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        50,
+        80
+      ],
+      "color_options": [
+        "Silver"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "SSTP",
+      "conductor": "단선(solid)",
+      "awg": 23,
+      "pair_count": null,
+      "flame_rating": "PVC",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "50μ 3Prongs 금도금 핀 장착",
+    "form_physical.material[1]": "알루미늄 차폐막",
+    "form_physical.material[2]": "100% 고순도 구리(Best Copper)",
+    "form_physical.material[3]": "피복 재질: PVC/LSZH",
+    "form_physical.length_options_meters": "길이 및 무게 (50M)",
+    "form_physical.color_options": "색상: Silver",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "certification.rohs": "친환경 소재(RoHS 준수) 사용",
+    "family.cat_category": "CAT.7(6A) SSTP 전용 커넥터",
+    "family.shielding": "CAT.7 SSTP 단선(Solid) 구조",
+    "family.conductor": "CAT.7 SSTP 단선(Solid) 구조",
+    "family.awg": "케이블 두께 최대 23AWG 전용",
+    "family.flame_rating": "피복 재질: PVC/LSZH"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:04",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

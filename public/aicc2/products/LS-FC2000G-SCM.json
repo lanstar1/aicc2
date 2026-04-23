@@ -1,0 +1,221 @@
+{
+  "model_no": "LS-FC2000G-SCM",
+  "product_name": "LANStar 광 이더넷 컨버터 10/100/1000Mbps SC 멀티모드 (10/100/1000 Base-T to 1000Base-SX/LX Ethernet Media Converter)",
+  "category": [
+    "랜케이블-UTP",
+    "광케이블",
+    "컨버터",
+    "광컨버터",
+    "UTP포트",
+    "미디어컨버터"
+  ],
+  "key_features": [
+    "최대 2km 광케이블 장거리 전송 지원",
+    "10/100/1000Mbps UTP(RJ45) 포트와 1000Base-SX/LX 광 포트 간 변환",
+    "SC 타입 멀티모드 광케이블 포트 탑재 (TX/RX 각 1개)",
+    "LED 표시등(TX 1000/100, LINK/ACT, FDX, PWR)으로 동작 상태 실시간 확인 가능",
+    "외부 전자기 간섭 차단 및 높은 보안성의 광케이블 사용",
+    "메탈 소재 하우징, 크기 170x130x32mm",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "KC·FCC·CE 인증 및 RoHS 적합, ISO 9001:2008 품질경영시스템 적용",
+    "국립전파연구원 인증 획득 (인증번호 R-R-LUS-LS-SFC2000G-SC)"
+  ],
+  "specifications": {
+    "인터페이스_UTP": "10/100/1000 Base-T (RJ45)",
+    "인터페이스_광": "1000Base-SX/LX, SC 타입 (멀티모드)",
+    "광케이블_종류": "멀티모드 (코어 직경 50μm 또는 62.5μm, 클래딩 직경 125μm)",
+    "최대전송거리": "~2km",
+    "전원": "DC 5V 2A (전원 아답터 포함, 아답터 인증번호: HU101081-20002A)",
+    "크기": "170 x 130 x 32 mm",
+    "색상": "어두운 쥐색",
+    "소재": "메탈",
+    "LED_표시등": "TX(1000), TX(100), LINK/ACT(1000), LINK/ACT(100), FDX, PWR",
+    "LED_TX1000_ON": "Fiber Optic Module 동작",
+    "LED_TX100_ON": "UTP 케이블 연결이 100Mbps 속도",
+    "LED_LINKACT1000_ON": "Fiber 케이블 연결이 상대측과 정상",
+    "LED_LINKACT1000_Blink": "FX포트로 데이터 전송중",
+    "LED_LINKACT100_ON": "UTP 케이블 연결이 상대측과 정상",
+    "LED_LINKACT100_Blink": "TX포트로 데이터 전송중",
+    "LED_FDX_ON": "Full Duplex 모드",
+    "LED_FDX_OFF": "Half Duplex 모드",
+    "LED_PWR_ON": "DC 전원이 정상",
+    "인증번호": "R-R-LUS-LS-SFC2000G-SC",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입",
+    "안전규격": "KC, FCC, CE, RoHS COMPLIANT, ISO 9001:2008"
+  },
+  "compatibility": [
+    "10/100/1000 Base-T UTP(RJ45) 네트워크 장비",
+    "1000Base-SX/LX 광 네트워크 장비",
+    "SC 타입 멀티모드 광케이블 (코어 직경 50μm 또는 62.5μm)",
+    "공유기 등 UTP 케이블 연결 장비"
+  ],
+  "package_contents": [
+    "LS-FC2000G-SCM 본체",
+    "전원 아답터 (DC 5V 2A, 인증번호: HU101081-20002A)"
+  ],
+  "usage_instructions": "공유기 등 UTP 장비를 RJ45 포트에 UTP 케이블로 연결하고, SC 타입 멀티모드 광케이블을 TX/RX 광 포트에 연결한다. 반대편에 동일한 광 이더넷 컨버터(LS-SFC2000G-SCM 등)를 설치하여 두 장비를 최대 2km 거리까지 광케이블로 연결한다. DC 5V 2A 전원 아답터를 연결하면 LED 표시등으로 동작 상태를 확인할 수 있다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 (A/S: 랜스타 A/S센터 www.LANstar.co.kr)"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-FC2000G-SCM",
+      "품목코드": "NET-광컨버102",
+      "품목명": "[LANstar] 광 미디어 컨버터/광 컨버터, 기가비트 10/100/1000Mbps 멀티모드 최대 2km [20187] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-FC2000G-SCM",
+      "내용": "잘 작동하고 있어요 저렴한 가격에 구입해서 사용 해보니 성능에 만족 합니다 많이 파세요 사장님"
+    },
+    {
+      "source_model": "LS-FC2000G-SCM",
+      "내용": "감사합니다. 잘 사용했습니다.",
+      "관련내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-FC2000G-SCM",
+      "내용": "감사합니다. 잘 사용했습니다.",
+      "관련내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-FC2000G-SCM",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-FC2000G-SCM",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-FC2000G-SCM",
+      "내용": "잘 사용하고 있습니다.",
+      "관련내용": "배송도 빠르고 잘 사용했습니다. 감사합니다"
+    },
+    {
+      "source_model": "LS-FC2000G-SCM",
+      "내용": "배송도 빠르고 잘 사용했습니다. 감사합니다"
+    },
+    {
+      "source_model": "LS-FC2000G-SCM",
+      "내용": "배송이 완전 빨리 왔어요\n필요했는데 잘 쓸게요"
+    },
+    {
+      "source_model": "LS-FC2000G-SCM",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-FC2000G-SCM",
+      "내용": "품질, 배송이 좋아요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-FC2000G-SCM",
+      "id": 89460591,
+      "date": "2019-09-17 00:14",
+      "answerDate": "2019-09-17 10:38",
+      "user": "dl****",
+      "productName": "광 미디어 컨버터/광 컨버터, 기가비트 LS-FC2000G-SCM",
+      "question": "수고많으십니다.\n광컨버터  A, B송수신하여 이용하는데 혹시\nA만가지고 사용하여 FDF 이용하여 B를 사용하지않고도 사용이가능한가요?",
+      "answer": "안녕하세요 랜스타 입니다\n\n일반적으로 광컨버터를 사용하시려면 A,B 타입 둘다 사용을 하셔야만 가능합니다.\n\n광분배함을 이용 하신다고 하셨는데 어떤 방식으로 하시는건지 구체적인 내용이 없어서 안내가 어렵습니다."
+    },
+    {
+      "source_model": "LS-FC2000G-SCM",
+      "id": 194601262,
+      "date": "2021-11-30 15:18",
+      "answerDate": "2021-11-30 15:34",
+      "user": "yulh****",
+      "productName": "랜스타 LS-FC2000G-SCM 광 이더넷 컨버터 멀티모드 SC타입 1000Mbps",
+      "question": "거리가 있는 건물에 인터넷을 연장하려고 하는데 질문이 있습니다.\n1. 이 제품이 두 개가 있어야 하는지?\n2. TX는 TX에 RX는 RX에 연결 후 LAN 선을 연결하면 바로 사용 가능한지?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n1. 상품 상세페이지에 안내 되어있으며 두 개가 있어야 합니다.\n2. 광 점퍼코드는 광 컨버터에 연결 시 서로 다른 색상의 커넥터로 연결해야만 LAN 선 연결이 정상 작동 합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45",
+        "Optical"
+      ],
+      "output_signals": [
+        "RJ45",
+        "Optical"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "어두운 쥐색"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "10/100/1000Mbps UTP(RJ45) 포트와 1000Base-SX/LX 광 포트",
+    "connectivity.output_signals": "10/100/1000Mbps UTP(RJ45) 포트와 1000Base-SX/LX 광 포트",
+    "connectivity.directional": "UTP(RJ45) 포트와 1000Base-SX/LX 광 포트 간 변환",
+    "power.power_mode": "DC 5V 2A (전원 아답터 포함",
+    "power.charging_support": "DC 5V 2A (전원 아답터 포함",
+    "form_physical.has_case": "메탈 소재 하우징",
+    "form_physical.material": "메탈 소재 하우징",
+    "form_physical.color_options": "어두운 쥐색",
+    "certification.kc": "KC·FCC·CE 인증 및 RoHS 적합",
+    "certification.rohs": "KC·FCC·CE 인증 및 RoHS 적합",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "certification.fcc": "KC·FCC·CE 인증 및 RoHS 적합",
+    "certification.ce": "KC·FCC·CE 인증 및 RoHS 적합",
+    "audio_video.max_resolution": "10/100/1000Mbps",
+    "audio_video.hdcp_version": "10/100/1000Mbps",
+    "family.poe_support": "10/100/1000Mbps UTP(RJ45) 포트"
+  },
+  "feature_extracted_at": "2026-04-23T03:12:58",
+  "feature_schema_version": "1.0.0"
+}

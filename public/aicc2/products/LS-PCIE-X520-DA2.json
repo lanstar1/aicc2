@@ -1,0 +1,130 @@
+{
+  "model_no": "LS-PCIE-X520-DA2",
+  "product_name": "PCI-Express Dual SFP+ 10G LAN Card",
+  "category": [
+    "랜케이블-CAT6A",
+    "광케이블"
+  ],
+  "key_features": [
+    "Intel X520-DA2 칩셋 사용",
+    "최대 10Gbps 전송속도 지원",
+    "2 x SFP+ (Optical) 인터페이스 (듀얼 포트)",
+    "PCI-Express x8 2.0 Bus Slot 사용 (x8, x16 슬롯 장착 가능)",
+    "IEEE 802.3ae 표준 지원",
+    "대형 방열판 내장으로 열발산 최적화",
+    "슬림 PC용 LP 브라켓 포함",
+    "Windows 11 지원",
+    "국립전파연구원 KC 인증 획득",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "Bus Slot": "PCI-Express 2.0 x8 (5.0GT/s)",
+    "칩셋": "Intel X520-DA2",
+    "인터페이스": "2x SFP+ (Optical)",
+    "Topology": "IEEE 802.3: 10GBASE-SR (E10G41BFSR, E10G42BFSR), 10GBASE-LR (E10G41BFLR), IEEE 802.3ad, IEEE 802.3Q VLANs, IEEE 802.3p, IEEE 802.3 2005, Flow Control Support",
+    "기능": "IPMI Pass-through via SMBus or NC-SI, WoL, PXE Remote Boot, iSCSI Boot, VLAN Filtering",
+    "지원 OS": "FreeBSD, Linux, VMWare ESXi, Windows 7 / 8 / 10 / 11",
+    "무게": "약 106g",
+    "제품 크기": "166mm x 120mm x 56mm (높이 18mm 포함)",
+    "KC 인증번호": "R-R-LUS-LS-PCIE-EX520",
+    "제조국": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "PCI-Express x8 슬롯 (사용 가능)",
+    "PCI-Express x16 슬롯 (사용 가능)",
+    "PCI-Express x1 슬롯 (사용 불가)",
+    "PCI-Express x4 슬롯 (사용 불가)",
+    "Windows 7 / 8 / 10 / 11",
+    "Linux",
+    "FreeBSD",
+    "VMWare ESXi"
+  ],
+  "package_contents": [
+    "PCIe 듀얼 SFP+ 카드 x1",
+    "슬림 PC LP 브라켓 x1",
+    "Manual (Quick Install Guide) x1",
+    "CD Driver x1"
+  ],
+  "usage_instructions": "PCI-Express x8 또는 x16 슬롯에 카드를 장착한 후, 해당 OS용 드라이버를 설치하여 사용합니다. SFP+ 광모듈은 별도 구매가 필요하며, SFP+ 포트에 광모듈 및 광케이블을 연결하여 네트워크를 구성합니다. 슬림 PC에 설치 시 동봉된 LP 브라켓으로 교체하여 장착합니다.",
+  "cautions": [
+    "본 제품에는 SFP+ 광모듈이 포함되어 있지 않습니다. 별도 구매 필요.",
+    "PCI-Express x1 및 x4 슬롯에는 장착하여 사용할 수 없습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품의 무단 복제 및 콘텐츠 이용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-X520-DA2",
+      "품목코드": "USB-PCI285",
+      "품목명": "[LANstar] PCIe 인텔 X520-DA2 듀얼포트 SFP+ 카드 [30693]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "SFP+"
+      ],
+      "output_signals": [
+        "SFP+"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "2 x SFP+ (Optical) 인터페이스",
+    "connectivity.output_signals": "2 x SFP+ (Optical) 인터페이스",
+    "connectivity.directional": "최대 10Gbps 전송속도 지원",
+    "connectivity.port_count": "2 x SFP+ (Optical) 인터페이스 (듀얼 포트)",
+    "form_physical.has_case": "대형 방열판 내장",
+    "certification.kc": "국립전파연구원 KC 인증 획득"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:12",
+  "feature_schema_version": "1.0.0"
+}

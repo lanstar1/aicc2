@@ -1,0 +1,122 @@
+{
+  "model_no": "LS-AP8PWG-1M",
+  "product_name": "LAN Star 애플 8핀 호환케이블 평면슬림케이블 A/M-8P/M 1m",
+  "category": [
+    "커넥터",
+    "아이폰케이블"
+  ],
+  "key_features": [
+    "애플 8핀 호환 케이블 (Made for iPod/iPhone/iPad 인증)",
+    "데이터 전송 및 전원 충전 지원",
+    "1M 평면(플랫) 슬림 케이블로 엉킴과 단선 방지",
+    "세련된 컬러의 메탈 커넥터 적용 (골드, 실버, 레드, 블루)",
+    "METAL + FLAT 설계"
+  ],
+  "specifications": {
+    "케이블 길이": "1m",
+    "케이블 타입": "평면(플랫) 슬림 케이블",
+    "커넥터": "USB A/M - 8핀 (8P/M)",
+    "색상": "메탈골드, 메탈실버, 메탈레드, 메탈블루",
+    "인증번호": "KCC-REI-LUS-LS-AP8P",
+    "자율안전확인신고필증번호": "KCC-REI-LUS-LS-APP",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LAN Star"
+  },
+  "compatibility": [
+    "iPhone 6",
+    "iPhone 6 Plus",
+    "iPhone 5",
+    "iPad Air",
+    "iPad Mini",
+    "iPod Touch 5세대",
+    "iPod Nano 7세대"
+  ],
+  "package_contents": [
+    "애플 8핀 호환케이블 1M 1개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상해드립니다.",
+    "AS 소비자상담: 070-7018-3386"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Lightning"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "메탈"
+      ],
+      "length_meters": 1,
+      "length_options_meters": null,
+      "color_options": [
+        "메탈골드",
+        "메탈실버",
+        "메탈레드",
+        "메탈블루"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "USB A/M",
+      "connector_type_b": "8핀 (8P/M)",
+      "gender": "M-M",
+      "pin_count": 8
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A/M",
+    "connectivity.output_signals": "애플 8핀 호환 케이블",
+    "connectivity.directional": "데이터 전송 및 전원 충전 지원",
+    "power.power_mode": "전원 충전 지원",
+    "power.charging_support": "전원 충전 지원",
+    "form_physical.material": "메탈 커넥터 적용",
+    "form_physical.length_meters": "1m",
+    "form_physical.color_options": "메탈골드, 메탈실버, 메탈레드, 메탈블루",
+    "certification.kc": "KCC-REI-LUS-LS-AP8P",
+    "family.connector_type_a": "USB A/M",
+    "family.connector_type_b": "8핀 (8P/M)",
+    "family.gender": "A/M-8P/M",
+    "family.pin_count": "8핀"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:06",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,138 @@
+{
+  "model_no": "LS-4248PCI",
+  "product_name": "LANStar RS422/RS485 PCI 2포트 시리얼 카드",
+  "category": [
+    "전원아답터",
+    "시리얼브라켓",
+    "시리얼카드"
+  ],
+  "key_features": [
+    "PCI 슬롯을 통해 RS422/RS485 시리얼 장비 사용 가능 (구형 PC 호환)",
+    "시리얼 2포트 생성 (DB9P 2포트)",
+    "RS422/RS485 선택 사용 가능 (터미널 블록 아답터 2개 제공)",
+    "터미널 블록 아답터 미사용 시 RS232 포트로 사용 가능",
+    "ASIX MCS9865CV-AA 칩셋 사용 (호환성 및 안정성 우수)",
+    "최대 전송 속도 38400bps at 600M / 9600bps at 1.2km",
+    "대역폭 75~128000bps, 시리얼 신호 자동 감지",
+    "국립전파연구원 인증 획득 (인증번호: R-R-LUS-LS-4248PCI)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "소재·부품·장비 전문기업확인서 보유 (2022.11.29 취득)"
+  ],
+  "specifications": {
+    "Bus Slot": "PCI Revision 2.1",
+    "인터페이스": "DB9P 2포트 (RS422, RS485 터미널블록 제공)",
+    "전송 속도": "38400bps at 600M / 9600bps at 1.2km",
+    "대역폭": "75~128000bps / 시리얼 신호 자동 감지",
+    "칩셋": "ASIX MCS9865CV-AA",
+    "RS422 Signal": "T/R+, T/R-, RXD+, RXD-, GND",
+    "RS485 Signal": "T/R+, T/R-, GND",
+    "동작 모드": "Asynchronous working, Point-to-Point, Point-to-More, Full duplex 4-line, Half duplex 2-line",
+    "카드 무게": "약 66g",
+    "터미널블록 결합 시 무게": "약 93g",
+    "카드 크기": "115.5mm x 70.22mm",
+    "터미널블록 아답터 크기": "30.75mm x 24.1mm",
+    "KC 인증번호": "R-R-LUS-LS-4248PCI",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "Windows 98",
+    "Windows ME",
+    "Windows 2000",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8",
+    "Windows 10",
+    "Windows 11",
+    "Linux",
+    "Mac OS",
+    "PCI Revision 2.1 Bus Slot 지원 메인보드"
+  ],
+  "package_contents": [
+    "시리얼 듀얼 포트 PCI 카드 1ea",
+    "터미널 블록 아답터 2ea",
+    "드라이버 설치 CD 1ea"
+  ],
+  "usage_instructions": "메인보드의 PCI 슬롯에 카드를 삽입하여 사용. RS422 또는 RS485 방식은 터미널 블록 아답터를 DB9P 포트에 연결하여 선택 사용. 터미널 블록 아답터 미사용 시 RS232 포트로 사용 가능. 드라이버 설치 CD를 이용해 드라이버 설치 후 사용.",
+  "cautions": [
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니며 A/S를 받을 수 없음",
+    "당일출고는 오후 4시 이전 결제 완료 건 기준이며, 토·일·공휴일 제외 평일 기준",
+    "택배사 사정에 따라 배송기간이 길어질 수 있음",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "품질 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-4248PCI",
+      "품목코드": "USB-PCI326",
+      "품목명": "[LANstar] PCI 2포트 RS-422/485 카드, MCS9865 [30806] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Serial(DB9)"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": 0.1155,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": null,
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "outlet_count": null,
+      "has_surge": null,
+      "has_switch": null,
+      "plug_standard": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DB9P 2포트",
+    "connectivity.output_signals": "DB9P 2포트",
+    "connectivity.directional": "Full duplex 4-line, Half duplex 2-line",
+    "connectivity.port_count": "2포트",
+    "power.power_mode": "PCI 슬롯을 통해",
+    "form_physical.has_case": "PCI 슬롯에 카드를 삽입",
+    "form_physical.length_meters": "카드 크기: 115.5mm x 70.22mm",
+    "certification.kc": "국립전파연구원 인증 획득"
+  },
+  "feature_extracted_at": "2026-04-23T03:07:20",
+  "feature_schema_version": "1.0.0"
+}

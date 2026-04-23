@@ -1,0 +1,136 @@
+{
+  "model_no": "LS-HDC2VGA",
+  "product_name": "Mini HDMI to VGA 컨버터",
+  "category": [
+    "VGA",
+    "컨버터",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "Mini HDMI(입력)를 VGA(출력)로 변환",
+    "1080P Full HD 고해상도 지원",
+    "HDMI 단자에서 전원공급 (별도 전원 불필요)",
+    "오디오 지원 (3.5mm 스테레오 단자)",
+    "노트북, 데스크탑, 게임기 등 다양한 소스 기기와 연결 가능",
+    "TV, 모니터, 빔 프로젝터 등 VGA 디스플레이 출력 지원"
+  ],
+  "specifications": {
+    "입력 단자": "Mini HDMI Type C (Male)",
+    "출력 단자": "VGA (Female)",
+    "HDMI 출력 해상도": "480P, 576P, 720P, 1080P",
+    "지원 해상도": "1920x1080, 1680x1050, 1600x1200, 1600x900, 1440x900, 1400x1050, 1366x768, 1280x1024, 1280x960, 1280x800, 1280x600, 1152x864, 1024x768, 800x600",
+    "오디오 출력": "3.5mm 스테레오 단자",
+    "전원 공급": "HDMI 단자 버스 파워 (무전원)",
+    "지원 운영체제": "WIN XP, Vista, WIN7(32/64bit), WIN8(32/64bit)",
+    "케이블 길이": "25cm",
+    "작동 온도": "섭씨 10~40도",
+    "보관 온도": "영하 15~85도",
+    "인증": "KC, FCC, CE, RoHS",
+    "인증 번호": "KCC-REI-LUS-LS-PAD2VGA",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "품질 인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "노트북 (Mini HDMI 단자 탑재 기기)",
+    "데스크탑 (Mini HDMI 단자 탑재 기기)",
+    "게임기 (Mini HDMI 단자 탑재 기기)",
+    "캠코더",
+    "DSLR",
+    "태블릿 PC",
+    "출력: TV (VGA 입력 지원)",
+    "출력: 모니터 (VGA 입력 지원)",
+    "출력: 빔 프로젝터 (VGA 입력 지원)"
+  ],
+  "package_contents": [
+    "Mini HDMI to VGA 컨버터 본체 (LS-HDC2VGA) 1개"
+  ],
+  "usage_instructions": "소스 기기(노트북, 게임기 등)의 Mini HDMI 단자에 컨버터의 Mini HDMI Male 커넥터를 연결하고, 컨버터의 VGA Female 단자에 VGA 케이블을 연결하여 TV, 모니터, 빔 프로젝터 등에 출력합니다. 오디오 출력이 필요한 경우 3.5mm 스테레오 케이블(별도 구매)을 연결하여 음성 출력합니다.",
+  "cautions": [
+    "3.5mm 스테레오 케이블은 별도 구매 필요",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주) 제작 상품 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결기준에 따라 보상",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDC2VGA",
+      "품목코드": "INT-HD선082",
+      "품목명": "[LANstar] Mini HDMI (C타입) TO VGA컨버터/영상/오디오지원 0.2M[30133]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "VGA",
+        "3.5mm"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.25,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Mini HDMI(입력)",
+    "connectivity.output_signals": "VGA(출력)",
+    "connectivity.directional": "Mini HDMI(입력)를 VGA(출력)로 변환",
+    "power.power_mode": "HDMI 단자에서 전원공급 (별도 전원 불필요)",
+    "form_physical.has_case": "컨버터의 Mini HDMI 단자에",
+    "form_physical.length_meters": "케이블 길이: 25cm",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "1080P Full HD 고해상도 지원",
+    "audio_video.audio_pass": "오디오 지원 (3.5mm 스테레오 단자)"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:59",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,131 @@
+{
+  "model_no": "LS-BNCF-RCAM",
+  "product_name": "BNC 커플러 BNC 변환젠더 BNC/F-1RCA/M",
+  "category": [
+    "컨버터",
+    "젠더",
+    "커넥터",
+    "커플러"
+  ],
+  "key_features": [
+    "BNC(F) 타입과 1RCA(M) 타입 커넥터로 구성된 젠더",
+    "1RCA/M 커플러 단자를 BNC/F 커플러 단자로 변환할 때 사용",
+    "RoHS(특정 유해물질 사용 제한) 규격 준수",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 구성": "BNC(Female) + 1RCA(Male)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "RoHS 준수": "해당 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "BNC(Female) 단자",
+    "1RCA(Male) 단자"
+  ],
+  "package_contents": [
+    "BNC 변환젠더 (LS-BNCF-RCAM) 본체 1개"
+  ],
+  "usage_instructions": "1RCA(M) 단자를 BNC(F) 단자로 변환이 필요할 때 사용. 1RCA(M) 측을 RCA 케이블에 연결하고 BNC(F) 측을 BNC 단자에 연결하여 사용.",
+  "cautions": [
+    "유통 과정상 제품의 모양이 조금씩 달라질 수 있음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품은 판매처(쇼핑몰 하단 참조) 문의"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-BNCF-RCAM",
+      "품목코드": "GEN-BNC006",
+      "품목명": "[LANstar] BNC커플러Changer , BNC／F-1RCA／M[20029]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-BNCF-RCAM",
+      "내용": "잘사용하고 있습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RCA"
+      ],
+      "output_signals": [
+        "BNC"
+      ],
+      "directional": "단방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "1RCA(M) 단자를 BNC(F) 단자로 변환",
+    "connectivity.output_signals": "BNC(F) 단자로 변환",
+    "connectivity.directional": "1RCA(M) 단자를 BNC(F) 단자로 변환",
+    "connectivity.port_count": "BNC(F) 타입과 1RCA(M) 타입 커넥터",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "BNC 커플러 BNC 변환젠더",
+    "certification.rohs": "RoHS(특정 유해물질 사용 제한) 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "1RCA(M) 단자를 BNC(F) 단자로 변환",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.conversion_direction": "1RCA(M) 단자를 BNC(F) 단자로 변환",
+    "family.requires_external_power": "무전원"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:35",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,148 @@
+{
+  "model_no": "LS-1394B",
+  "product_name": "LANstar IEEE 1394B 케이블 시리즈 (9P-4P / 9P-6P / 9P-9P)",
+  "category": [
+    "1394케이블"
+  ],
+  "key_features": [
+    "멀티미디어 데이터도 실시간 전송이 가능할 정도로 빠른 전송속도",
+    "1394B 4pin: 480Mbps, 1394B 9Pin(Bilingual): 800Mbps",
+    "디지털 신호를 그대로 사용해 데이터 손실이 적음",
+    "Plug and Play 지원",
+    "Hot Swapping 지원",
+    "800Mbps 고속 전송은 IEEE 1394B 9P-9P 연결 시에만 가능",
+    "RoHS 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "규격_9P-4P": "IEEE 1394B, 9P(Bilingual/Male) - 4P(Male)",
+    "전송속도_9P-4P": "480Mbps (4pin 측 기준)",
+    "길이_9P-4P": "1.5M, 3M",
+    "모델명_9P-4P": "LS-1394B-94-1.5M, LS-1394B-94-3M",
+    "규격_9P-6P": "IEEE 1394B, 9P(Bilingual/Male) - 6P(Male)",
+    "전송속도_9P-6P": "480Mbps (6pin 측 기준)",
+    "길이_9P-6P": "2M, 3M",
+    "모델명_9P-6P": "LS-1394B-96-2M, LS-1394B-96-3M",
+    "규격_9P-9P": "IEEE 1394B, 9P(Bilingual/Male) - 9P(Bilingual/Male)",
+    "전송속도_9P-9P": "800Mbps",
+    "길이_9P-9P": "2M, 3M, 5M",
+    "모델명_9P-9P": "LS-1394B-99-2M, LS-1394B-99-3M, LS-1394B-99-5M",
+    "인증번호": "해당없음",
+    "제조국_원산지": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)",
+    "커넥터_타입": "Bilingual 타입 (BETA 타입 아님)"
+  },
+  "compatibility": [
+    "IEEE 1394 지원 포트가 있는 디지털 캠코더",
+    "PCI 1394 카드",
+    "IEEE 1394B 9핀 Bilingual 타입 단자 지원 기기",
+    "IEEE 1394A Cable 4P (480Mbps)",
+    "IEEE 1394A Cable 6P (480Mbps)",
+    "IEEE 1394A Cable 8P (480Mbps)",
+    "IEEE 1394B Cable 9P Bilingual (800Mbps)",
+    "IEEE 1394B Cable 9P BETA (800Mbps, 일부 기기에서만 지원)"
+  ],
+  "package_contents": [
+    "IEEE 1394B 케이블 1개 (구매 모델에 따라 9P-4P / 9P-6P / 9P-9P 중 해당 사양)"
+  ],
+  "usage_instructions": "1394 지원 포트가 있는 디지털 캠코더와 PCI 1394 카드를 연결할 때 사용. IEEE 1394 카드의 9핀 Bilingual 단자에 케이블을 연결하여 사용. Plug and Play 및 Hot Swapping 지원으로 별도 드라이버 설치 없이 연결 가능.",
+  "cautions": [
+    "IEEE 1394B 9핀 단자라 하더라도 Bilingual 타입과 BETA 타입을 반드시 확인 후 구매할 것. LANstar 제품은 Bilingual 타입이며, BETA 타입은 일부 기기에서만 지원됨.",
+    "800Mbps 고속 전송은 IEEE 1394B 9P-9P 연결 시에만 가능하며, 9P-4P 또는 9P-6P 연결 시 최대 480Mbps.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "IEEE1394-4P",
+        "IEEE1394-6P"
+      ],
+      "output_signals": [
+        "IEEE1394-4P",
+        "IEEE1394-6P"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        1.5,
+        2,
+        3,
+        5
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals.0": "4P(Male)",
+    "connectivity.input_signals.1": "6P(Male)",
+    "connectivity.output_signals.0": "4P(Male)",
+    "connectivity.output_signals.1": "6P(Male)",
+    "connectivity.directional": "멀티미디어 데이터도 실시간 전송",
+    "power.power_mode": "LANstar IEEE 1394B 케이블",
+    "power.charging_support": "LANstar IEEE 1394B 케이블",
+    "form_physical.has_case": "LANstar IEEE 1394B 케이블",
+    "form_physical.length_options_meters": "1.5M, 3M",
+    "certification.kc": "인증번호: 해당없음",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "LANstar IEEE 1394B 케이블",
+    "audio_video.audio_pass": "멀티미디어 데이터도 실시간 전송",
+    "control_switching.has_remote": "LANstar IEEE 1394B 케이블",
+    "control_switching.has_hotkey": "LANstar IEEE 1394B 케이블",
+    "control_switching.has_physical_button": "LANstar IEEE 1394B 케이블",
+    "control_switching.has_mouse_switching": "LANstar IEEE 1394B 케이블",
+    "control_switching.has_auto_scan": "LANstar IEEE 1394B 케이블",
+    "control_switching.has_app_control": "LANstar IEEE 1394B 케이블",
+    "family.hdmi_version": "LANstar IEEE 1394B 케이블",
+    "family.dp_version": "LANstar IEEE 1394B 케이블",
+    "family.dvi_type": "LANstar IEEE 1394B 케이블",
+    "family.optical_core": "LANstar IEEE 1394B 케이블",
+    "family.ethernet_channel": "LANstar IEEE 1394B 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:02:50",
+  "feature_schema_version": "1.0.0"
+}

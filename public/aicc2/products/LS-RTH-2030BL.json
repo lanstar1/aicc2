@@ -1,0 +1,132 @@
+{
+  "model_no": "LS-RTH-2030BL",
+  "product_name": "매직테이프 링벨트 (MAGIC TAPE Ring Belt)",
+  "category": [
+    "케이블정리"
+  ],
+  "key_features": [
+    "링벨트(Ring Belt) 방식의 매직테이프로 케이블 정리 및 각종 선 묶음에 사용 가능",
+    "복잡한 케이블을 간단하게 정리 가능",
+    "각종 케이블을 꼬임 없이 보관 가능",
+    "탈부착 재질로 여러 번 반복 사용 가능",
+    "크기가 큰 제품을 고정할 때 유용",
+    "링벨트 여러 개를 연결하면 길이 연장이 가능하여 크거나 두꺼운 것도 묶을 수 있음",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "RoHS 인증(특정 위험물질 사용 제한) 및 ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "너비": "20mm",
+    "길이": "30cm",
+    "색상": "BLUE",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008",
+    "보험": "현대해상화재보험 생산물배상책임보험 1억원"
+  },
+  "compatibility": [],
+  "package_contents": [
+    "매직테이프 링벨트 5개 (5pcs)"
+  ],
+  "usage_instructions": "링벨트를 케이블이나 각종 선에 감아 고정하여 사용. 여러 개를 연결하면 길이가 연장되어 크거나 두꺼운 것도 묶을 수 있음. 탈부착이 가능하여 반복 사용 가능.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RTH-2030BL",
+      "품목코드": "COM-악세사147",
+      "품목명": "[LANstar] 매직테이프 링벨트 20mm x 30Cm 블루 5pcs(대만산) [60061]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-RTH-2030BL",
+      "내용": "배송도 빠르고 제품도 좋아요"
+    },
+    {
+      "source_model": "LS-RTH-2030BL",
+      "내용": "goods good"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 0.3,
+      "length_options_meters": null,
+      "color_options": [
+        "BLUE"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "N/A",
+    "connectivity.output_signals": "N/A",
+    "connectivity.directional": "N/A",
+    "connectivity.port_count": "N/A",
+    "power.power_mode": "N/A",
+    "power.charging_support": "N/A",
+    "power.pd_watts": "N/A",
+    "form_physical.has_case": "N/A",
+    "form_physical.material": "N/A",
+    "form_physical.length_meters": "길이\": \"30cm",
+    "form_physical.length_options_meters": "N/A",
+    "form_physical.color_options": "색상\": \"BLUE",
+    "certification.kc": "N/A",
+    "certification.rohs": "RoHS 인증",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "N/A",
+    "certification.ce": "N/A",
+    "certification.netflix": "N/A",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:54",
+  "feature_schema_version": "1.0.0"
+}

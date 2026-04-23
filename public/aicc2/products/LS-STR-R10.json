@@ -1,0 +1,164 @@
+{
+  "model_no": "LS-STR-R10",
+  "product_name": "[LANstar] 케이블탈피기 , 스트리퍼, 랜패치툴형 [40127]",
+  "category": [
+    "탈피기"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-STR-R10",
+      "품목코드": "NEO-잡공구003",
+      "품목명": "[LANstar] 케이블탈피기 , 스트리퍼, 랜패치툴형 [40127]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "꼭 필요한 제품이고 사용이 편리합니다"
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "조옷습니다. 아주 잘 사용했어요~"
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "저렴하게 잘샀어요 잘쓰고 있어요"
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "좋은제품 저렴하게 구입했습니다."
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "사용하기 편하고 좋습니다."
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "잘받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "배송도 빠르고 잘 쓰고 있어요"
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "집에서 단자함 통신사모뎀 -&gt; 거실 공유기 -&gt; 각 방의 랜 단자 -&gt; 컴퓨터, TV 등 으로 연결하기 위해 구매했는데 가성비 아이템으로 최고네요. 다만 랜툴 포장지가 깨진 것이 살짝 맘에 걸려서 4점이예요. 품질은 맘에 들어요."
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "물건 잘받았습니다."
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "빠르고 안전하게 왔습니다!!!"
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "좋아요 만족합니다 재구매의사있어요"
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "좋은 제품입니다\n만족합니다\n추천합니다",
+      "관련내용": "가성비 좋은 제품입니다\n만족합니다"
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "가성비 좋은 제품입니다\n만족합니다"
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "만족하네요 가격도 좋고 품질도 최고!!"
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "탈피기는 사용하다 잃어버리는 경우가 있어서구매합니다. 가격도 착하고."
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "UTP 탈피기는 다른거랑 비슷함"
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "깔끔하게 잘 포장되서 왔어요"
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "랜스타는 배송도 빠르고 제품도 믿을수 있습니다."
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "간폄라게 쓰기엔 딱입니다."
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "감사합니다 잘쓸께요~"
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "배송 빠르고 제품도 괜찮습니다."
+    },
+    {
+      "source_model": "LS-STR-R10",
+      "내용": "빠른 배송 감사합니다 잘 사용하겠습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "tool_type": [
+        "스트리퍼"
+      ],
+      "target_terminal": null
+    }
+  },
+  "feature_evidence": {
+    "family.tool_type": "스트리퍼"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:18",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,88 @@
+{
+  "model_no": "LS-6BX-U28A4",
+  "product_name": "[LANstar] 돌출형아웃렛 CAT.6 2port PCB 대만산 고급형[40070]",
+  "category": [
+    "랜케이블-CAT6",
+    "아웃렛박스"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-6BX-U28A4",
+      "품목코드": "NEO-아울렛009",
+      "품목명": "[LANstar] 돌출형아웃렛 CAT.6 2port PCB 대만산 고급형[40070]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-6BX-U28A4",
+      "내용": "잘받았습니다~~ 배송빨라요!\n배송빨라요!\n찾던제품인데 여기에서찾았어요 ㅎㅎ\n제품잘받았어요\n\n수고하세요~~!"
+    },
+    {
+      "source_model": "LS-6BX-U28A4",
+      "내용": "잘받았습니다!"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.port_count": "2port",
+    "family.cat_category": "CAT.6"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:28",
+  "feature_schema_version": "1.0.0"
+}

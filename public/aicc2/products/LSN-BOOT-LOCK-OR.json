@@ -1,0 +1,121 @@
+{
+  "model_no": "LSN-BOOT-LOCK-OR",
+  "product_name": "LANStar 락부트 LOCK 주황(Orange) 6mm",
+  "category": [
+    "커넥터"
+  ],
+  "key_features": [
+    "랜 케이블과 커넥터 연결부분 보호",
+    "케이블 꺾임 및 커넥터 lock 파손 방지",
+    "톱니 형태 연결 방식 (락부트 전용)",
+    "RoHS 준수 제품",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "색상": "주황(Orange)",
+    "크기": "6mm",
+    "수량": "100개입",
+    "타입": "Slim Type",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "RoHS": "준수(COMPLIANT)",
+    "품질경영시스템": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "케이블 통과형 커넥터 CAT.5E UTP 제품",
+    "케이블 통과형 커넥터 CAT.5E STP 제품",
+    "CAT.6 UTP 호환 불가",
+    "CAT.6 STP 호환 불가"
+  ],
+  "package_contents": [
+    "RJ45 락부트 Slim Type Orange 100개"
+  ],
+  "usage_instructions": "랜스타 부트는 5~8.5mm 크기가 있어 랜케이블 두께에 따라 다양하게 선택하여 사용할 수 있습니다.",
+  "cautions": [
+    "케이블 통과형 커넥터 제품 중 CAT.5E UTP, STP 제품만 호환되며 CAT.6 UTP, STP는 호환되지 않습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "LANStar 라인업시스템(주) 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LSN-BOOT-LOCK-OR",
+      "품목코드": "NNO-부트류056",
+      "품목명": "[LANstar] RJ45 LOCK BOOT, Slim type, 색상별 락부트, Orange(100개)[40652]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSN-BOOT-LOCK-OR",
+      "내용": "아주 빠른 배송 감사합니다\n락부트가 필요했었는데  이전에 일반 캡부트를 주문하여 ㅠㅠ\n잘 쓰겠습니다"
+    },
+    {
+      "source_model": "LSN-BOOT-LOCK-OR",
+      "내용": "이론게 있는지 이재서야 알다니 ㅠㅠ"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "주황(Orange)"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": null,
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "랜 케이블과 커넥터 연결부분 보호",
+    "form_physical.color_options": "색상: 주황(Orange)",
+    "certification.kc": "인증번호: 해당없음",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:01",
+  "feature_schema_version": "1.0.0"
+}

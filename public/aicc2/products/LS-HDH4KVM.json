@@ -1,0 +1,328 @@
+{
+  "model_no": "LS-HDH4KVM",
+  "product_name": "LAN Star HDMI 4:1 KVM 스위치",
+  "category": [
+    "HDMI-KVM",
+    "KVM스위치",
+    "KVM"
+  ],
+  "key_features": [
+    "모니터 1대로 PC 4대 출력",
+    "키보드/마우스 1대로 PC 4대 제어",
+    "리모트 스위치 컨트롤을 통한 간단한 PC 전환",
+    "다양한 핫키를 통해 여러 기능 사용(PC 전환, 오토 스캔, 자동 감지, 소리 제어 등)",
+    "4K@60Hz 해상도 지원",
+    "다양한 USB 장치 사용 가능",
+    "무설치 / Plug&Play",
+    "바닥·벽면 고정형 브라켓 지원",
+    "HDCP 지원",
+    "USB2.0 2포트 추가 제공(최대 480Mbps)",
+    "알루미늄 재질 본체"
+  ],
+  "specifications": {
+    "입력_포트": "HDMI 4포트, USB Type-B 4포트, 리모트 스위치 1포트",
+    "출력_포트": "HDMI 1포트, USB2.0 2포트, 키보드 1포트, 마우스 1포트",
+    "최대_해상도": "4K@60Hz",
+    "지원_컬러_포맷": "RGB 4:4:4, YUV 4:4:4, YUV 4:2:2",
+    "전원": "DC 5V 1A 전원 아답터",
+    "작동_온도": "0°C ~ 45°C",
+    "습도": "5% ~ 90%",
+    "크기": "214 x 100 x 24 mm (고정 브라켓 제외)",
+    "무게": "약 476g",
+    "재질": "알루미늄",
+    "HDMI_케이블_입출력_최대_길이": "최대 3M (국제 표준 규격 26AWG 기준)",
+    "KC_인증번호": "R-R-LUS-LS-HDH4KVM",
+    "제조국": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)",
+    "소재부품장비_전문기업확인서_취득일": "2022.11.29"
+  },
+  "compatibility": [
+    "Windows OS",
+    "Mac OS",
+    "HDMI 2.0",
+    "USB 2.0",
+    "유선 키보드/마우스",
+    "무선 키보드/마우스 (동글·블루투스 리시버, 호환성에 따라 일부 기종 사용 불가)",
+    "USB 메모리",
+    "블루투스 동글",
+    "프린터",
+    "USB 연결 스피커",
+    "HDCP 지원 디스플레이"
+  ],
+  "package_contents": [
+    "HDMI KVM 스위치 본체 1ea",
+    "리모트 스위치 컨트롤 1ea",
+    "DC 5V 1A 전원 아답터 1ea",
+    "리모트 스위치 연결 케이블 1ea (케이블 길이 약 1.3M)",
+    "HDMI 케이블 4ea (케이블 길이 약 1.5M)",
+    "USB A/M - B/M 케이블 4ea (케이블 길이 약 1.5M)"
+  ],
+  "usage_instructions": "1. PC별로 동일한 번호의 HDMI 입력 포트(HDMI IN1~4)와 USB 입력 포트(USB IN1~4)에 각각 케이블을 연결한다. 2. 키보드와 마우스는 본체 전용 포트에 연결한다. 3. DC 5V 1A 아답터로 전원을 공급한다. 4. PC 전환 방법: ① 본체 SELECT 버튼(1~4) 직접 누름, ② 리모트 스위치 컨트롤 사용, ③ 마우스 휠 더블 클릭 후 좌클릭(이전 PC, 4>3>2>1) 또는 우클릭(다음 PC, 1>2>3>4), ④ 키보드 오른쪽 Ctrl 두 번 입력 후 포트 번호(1~4) 입력 후 Enter. 5. 핫키 기능: 오토 스캔(Ctrl×2 > S > Enter), 소리 On/Off(Ctrl×2 > B > Enter), 자동감지 On/Off(Ctrl×2 > T > Enter), Reset(Ctrl×2 > R > Enter), 자동스캔 시간 조절(Ctrl×2 > S > 8~999 사이 숫자 > Enter), 핫키 변경(NumLock·Scroll Lock·왼쪽 Ctrl로 변경 가능). 6. 별도 드라이버 설치 없이 Plug&Play로 사용 가능.",
+  "cautions": [
+    "HDMI 케이블과 USB 케이블 모두 연결해야 정상적인 제품 사용이 가능하다.",
+    "1번 PC에는 반드시 1번 포트(HDMI, USB)를 연결해야 한다.",
+    "전력 소모가 큰 USB 제품(외장 하드 드라이브, USB 충전 허브, 고성능 웹캠, USB 조명 장치 등) 사용 시 정상 동작이 되지 않을 수 있다.",
+    "무선 제품은 호환성에 따라 사용이 불가할 수 있다.",
+    "HDMI 케이블 길이가 길어지면 출력 해상도 품질이 저하될 수 있으며, 입/출력 케이블 길이는 최대 3M(26AWG 기준)를 초과하지 않도록 한다.",
+    "4K@60Hz 출력을 위해 HDMI 2.0 규격 케이블을 사용해야 한다.",
+    "키보드/마우스는 전용 포트에 꽂아 사용할 것을 권장한다.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 A/S를 받을 수 없다.",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준이다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDH4KVM",
+      "품목코드": "INT-KV수168",
+      "품목명": "[LANstar] HDMI2.0 4K 60Hz 4:1 4포트 KVM 스위치, 핫키지원 [30860]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDH4KVM",
+      "내용": "단축키를 적극 활용하다보니 더 편하네요. 잘 사용하고있습니다!",
+      "관련내용": "설치후에 모니터 스위칭 잘되고 설정도 쉽습니다. 다만 매뉴얼과 박스의 구성품 정보가 실제와 다른건 옥의티입니다. HDMI 케이블은 4개가 맞다고 하네요."
+    },
+    {
+      "source_model": "LS-HDH4KVM",
+      "내용": "설치후에 모니터 스위칭 잘되고 설정도 쉽습니다. 다만 매뉴얼과 박스의 구성품 정보가 실제와 다른건 옥의티입니다. HDMI 케이블은 4개가 맞다고 하네요."
+    },
+    {
+      "source_model": "LS-HDH4KVM",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-HDH4KVM",
+      "내용": "스위치가 무게감른 있지만 좋아요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HDH4KVM",
+      "id": 611479296,
+      "date": "2024-12-27 19:13",
+      "answerDate": "2024-12-30 10:29",
+      "user": "love*******",
+      "productName": "KVM 스위치 4포트 최대 PC 4대 제어 핫키 4K 지원 (LS-HDH4KVM)",
+      "question": "KVM 스위치 4포트 제품에 [ PC 3대 + 모니터 1대 ] 연결해서 사용 가능할까요?\n\n아니면 반드시 PC 4대로 연결해야 하나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n문의주신 제품의 경우 최대 4포트까지 연결이 가능한 제품으로 문의주신 것처럼 PC 3대 + 모니터 1대에 연결하여 사용 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDH4KVM",
+      "id": 619190999,
+      "date": "2025-02-26 16:59",
+      "answerDate": "2025-02-27 09:02",
+      "user": "whit*******",
+      "productName": "KVM 스위치 4포트 최대 PC 4대 제어 핫키 4K 지원 (LS-HDH4KVM)",
+      "question": "연결 관련하여 문의 드립니다.\n\n안녕하세요.\n\n맥미니 4개 보유 중입니다.\n\n각각의 피씨에 모니터는 연결되어 있으나, 마우스와 키보드는 연결되어 있지 않습니다.\n\n이 제품을 구입하면 4대의 피씨에 키보드와 마우스만 연결되어 사용할수 있을까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당제품 사용해도되고, 좀 더 저렴한 LS-HD4KVM-N 제품도 추천 드립니다.\n문의주신제품은 핫키사용 가능하기에 좀 더 가격이 비쌉니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDH4KVM",
+      "id": 620619732,
+      "date": "2025-03-10 18:19",
+      "answerDate": "2025-03-11 12:26",
+      "user": "jeni***",
+      "productName": "KVM 스위치 4포트 최대 PC 4대 제어 핫키 4K 지원 (LS-HDH4KVM)",
+      "question": "키보드/마우스/모니터만 조절이 가능한가요? 오디오는 연결할수 있는 방법은 없나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\nHD2AE 제품 이용하여 kvm스위치의 모니터 연결 부분에 장착하여 영상/음성 분리하여 스피커 연결가능하다는 의미입니다.\n가장 간편한건 USB형태의 스피커를 연결하여 사용하는것을 추천드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDH4KVM",
+      "id": 623636844,
+      "date": "2025-04-04 19:07",
+      "answerDate": "2025-04-07 10:54",
+      "user": "zoro***",
+      "productName": "KVM 스위치 4포트 최대 PC 4대 제어 핫키 4K 지원 (LS-HDH4KVM)",
+      "question": "1,2,3 컴퓨터를 1컴퓨터 모니터에 연결해놓고\n1컴퓨터를 원격으로 다른 컴퓨터에서 들어가서 2번이나 3번컴퓨터를 움직일 수 있나요?\n\n다시 말해 사무실에 설치해놓고 집에서 1번컴퓨터로 원격 들어가서 집에서 화면 보면서  2번이나 3번을 움직일 수 있나요??",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\nKVM스위치 만으로는 해당 기능 사용이 어렵고 , 원격 프로그램 등의 추가적인 요소가 필요합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDH4KVM",
+      "id": 633644169,
+      "date": "2025-07-01 20:44",
+      "answerDate": "2025-07-02 16:37",
+      "user": "arin********",
+      "productName": "KVM 스위치 4포트 최대 PC 4대 제어 핫키 4K 지원 (LS-HDH4KVM)",
+      "question": "장착후 화면이 중간중간 깜빡이는데 이게 오토스캔 기능인가요? 오토스캔 기능 활성화라는게 있는데 비활성화 시키면 깜빡이는게 사라지는건가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n오토스캔 기능은 자동으로 연결된 입력기기를 순차적으로 표시하는 기능 입니다 .\n해당 증상은 출력 불량으로 보이는데 , 포트를 교환 하거나 , 케이블 교환 및 해상도를 낮춰서 정상출력여부를 확인 해봐야 합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDH4KVM",
+      "id": 638046482,
+      "date": "2025-08-05 16:56",
+      "answerDate": "2025-08-06 17:40",
+      "user": "1994*****",
+      "productName": "KVM 스위치 4포트 최대 PC 4대 제어 핫키 4K 지원 (LS-HDH4KVM)",
+      "question": "듀얼모니터를 사용 중인데요,\n데스크탑과 노트북을 왔다갔다하면서 듀얼로 쓰고 싶어서요.\n구성을 말씀드리면 모니터 2개 출력을 데스크탑에서 하거나, 노트북에서 하거나, 입니다.\n키보드와 마우스는 공용으로 사용하고 싶구요.\n그럼 2포트 말고 이걸 사는 게 맞을까요?\n이 제품으로 작동할까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n듀얼모니터 사용중이라면 ,LS-HD2KVM-D 제품을 사용하시면 됩니다. 다만 데스크탑, 노트북 모두 HDMI 포트 2개를 연결할 수 있는 환경인지 확인부탁드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-HDH4KVM",
+      "id": 640916870,
+      "date": "2025-08-27 23:33",
+      "answerDate": "2025-08-28 11:11",
+      "user": "arle********",
+      "productName": "KVM 스위치 4포트 최대 PC 4대 제어 핫키 4K 지원 (LS-HDH4KVM)",
+      "question": "Kvm스위치 구매는 처음이라 궁금한게있습니다, \n1번피시에 화면이 보이고있을때\n2,3,4피시는 hdmi가 연결되있다고 인식하나요 아니면 뽑혀있다고 인식하나요?\n즉 스위치 전환할때마다 새로 꽂았다고 뜨는지 아니면 계속꽂혀있는 상태로 인식하지만 단지 화면만 못보고있는것인지를 알고싶습니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n케이블을 연결하지 않으면 인식을 하지 않습니다. 화면을 보아야 한다면 해당 pc와 kvm을 hdmi로 연결 해주셔야 합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HDH4KVM",
+      "chatUrl": "eRyx2",
+      "dateIso": "2024-11-14T07:30:14.612Z",
+      "name": "카샤",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "usb2.0 이던데 .. 3.0과 무슨 차이인가요?",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    },
+    {
+      "source_model": "LS-HDH4KVM",
+      "chatUrl": "eRyx2",
+      "dateIso": "2024-11-14T07:30:14.612Z",
+      "name": "카샤",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "듀얼모니터인데..간혹 노트북이나 다른것도 연결하려고 4포트는 없나요?",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    },
+    {
+      "source_model": "LS-HDH4KVM",
+      "chatUrl": "eRyx2",
+      "dateIso": "2024-11-14T07:30:14.612Z",
+      "name": "카샤",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "이런 제품 처음구입이라서.. 오늘 구입하면 내일 도착이라고 하시는데요",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    },
+    {
+      "source_model": "LS-HDH4KVM",
+      "chatUrl": "46hRK",
+      "dateIso": "2025-03-26T02:45:52.117Z",
+      "name": "kimmy92",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "안녕하세요,\nLS-HDH4KVM 4대 구매하려고 합니다.\n4대 구매시 아래 구성품도 같이 출고 되는게 맞나요?\n-HDMI to HDMI cable 1.5M  16개\n-USB A t",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "USB-B"
+      ],
+      "output_signals": [
+        "HDMI",
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": true,
+      "has_physical_button": true,
+      "has_mouse_switching": true,
+      "has_auto_scan": true,
+      "has_app_control": null
+    },
+    "family": {
+      "pc_count": 4,
+      "video_interface": [
+        "HDMI"
+      ],
+      "switching_methods": [
+        "wired_remote",
+        "hotkey",
+        "physical_button",
+        "mouse_wheel",
+        "auto_scan"
+      ],
+      "keyboard_type": "USB",
+      "usb_peripheral_ports": 2,
+      "cable_built_in": false,
+      "hub_built_in": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 4포트, USB Type-B 4포트",
+    "connectivity.output_signals": "HDMI 1포트, USB2.0 2포트, 키보드 1포트, 마우스 1포트",
+    "connectivity.directional": "KVM 스위치",
+    "connectivity.port_count": "PC 4대 출력",
+    "power.power_mode": "DC 5V 1A 전원 아답터",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "알루미늄 재질 본체",
+    "form_physical.material": "알루미늄 재질 본체",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "KC_인증번호: R-R-LUS-LS-HDH4KVM",
+    "certification.rohs": "null",
+    "certification.iso9001": "null",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "4K@60Hz 해상도 지원",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "HDCP 지원",
+    "audio_video.audio_pass": "소리 제어",
+    "control_switching.has_remote": "리모트 스위치 컨트롤",
+    "control_switching.has_hotkey": "다양한 핫키",
+    "control_switching.has_physical_button": "본체 SELECT 버튼",
+    "control_switching.has_mouse_switching": "마우스 휠 더블 클릭",
+    "control_switching.has_auto_scan": "오토 스캔",
+    "control_switching.has_app_control": "null",
+    "family.pc_count": "PC 4대 출력",
+    "family.video_interface": "HDMI 4:1 KVM 스위치",
+    "family.switching_methods.wired_remote": "리모트 스위치 컨트롤",
+    "family.switching_methods.hotkey": "다양한 핫키",
+    "family.switching_methods.physical_button": "본체 SELECT 버튼",
+    "family.switching_methods.mouse_wheel": "마우스 휠 더블 클릭",
+    "family.switching_methods.auto_scan": "오토 스캔",
+    "family.keyboard_type": "키보드 1포트",
+    "family.usb_peripheral_ports": "USB2.0 2포트 추가 제공",
+    "family.cable_built_in": "null",
+    "family.hub_built_in": "USB2.0 2포트 추가 제공"
+  },
+  "feature_extracted_at": "2026-04-23T02:56:35",
+  "feature_schema_version": "1.0.0"
+}

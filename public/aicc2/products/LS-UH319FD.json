@@ -1,0 +1,264 @@
+{
+  "model_no": "LS-UH319FD",
+  "product_name": "LANStar USB3.0 to HDMI DisplayLink 컨버터",
+  "category": [
+    "USB3.0",
+    "컨버터"
+  ],
+  "key_features": [
+    "USB3.0 입력 → HDMI 출력 (USB 하위 버전 연결 가능)",
+    "최대 1080P@60Hz Full HD 해상도 출력",
+    "DisplayLink DL-3500 칩셋 기반 드라이버 방식 동작",
+    "디스플레이 복제(Mirror) 및 확장(Extend) 모드 지원",
+    "영상·음성(오디오) 신호 동시 전달",
+    "Windows 최대 6대, Mac OS 최대 4대 다중 디스플레이 지원",
+    "CPU/GPU 점유율이 낮아 시스템 리소스 부담 최소화",
+    "DP Alt Mode를 지원하지 않는 M1, M2 Mac 완벽 호환",
+    "알루미늄 소재, 발열 문제 개선",
+    "Windows / Mac / Chrome OS 호환"
+  ],
+  "specifications": {
+    "인터페이스": "USB3.0 to HDMI DisplayLink",
+    "INPUT": "USB3.0",
+    "OUTPUT": "HDMI",
+    "해상도": "1080P@60Hz",
+    "칩셋": "DisplayLink DL-3500",
+    "크기": "77 x 38 x 12 (mm)",
+    "무게": "40g",
+    "재질": "알루미늄",
+    "케이블 길이": "15cm",
+    "지원 OS": "Windows 11 / 10 / 8 / 7, Mac OS, Chrome OS"
+  },
+  "compatibility": [
+    "Windows 11 / 10 / 8 / 7",
+    "Mac OS (M1, M2 포함)",
+    "Chrome OS",
+    "USB3.0 포트 탑재 노트북, 데스크탑, 미니PC",
+    "USB2.0 포트 (해상도·반응속도 제한 있음)",
+    "전원 공급 가능한 Powered USB3.0 허브"
+  ],
+  "package_contents": [
+    "LS-UH319FD USB3.0 to HDMI DisplayLink 컨버터 본체"
+  ],
+  "usage_instructions": "1) Synaptics DisplayLink 드라이버 다운로드 및 설치 (https://www.synaptics.com/products/displaylink-graphics/downloads). Windows 10의 경우 제품 연결 시 자동 설치될 수 있으나, 미설치 시 수동 설치 필요. 2) 장치 관리자 > 디스플레이 어댑터 항목에서 'USB3.0 Display' 드라이버 생성 확인. 3) 제품의 USB3.0 단자를 PC에 연결하고 HDMI 단자를 모니터/TV/빔프로젝터에 연결 (입력·출력 방향 확인 필수). 4) Windows: '윈도우 키 + P'로 복제 또는 확장 모드 선택. 시스템 > 디스플레이에서 세부 설정 가능. 5) Mac: 드라이버 설치 후 '보안 및 개인 정보 보호 > 개인 정보 보호' 탭에서 DisplayLink Manager.app 접근 권한 허용. DisplayLink Manager 메뉴바에서 자동 실행 설정 후 디스플레이 메뉴에서 출력 모드 선택. 6) 오디오 출력 시 Windows [소리 설정]에서 해당 HDMI 장치를 출력 장치로 선택.",
+  "cautions": [
+    "입력(USB3.0)과 출력(HDMI) 방향이 고정되어 있으므로 반드시 올바른 방향으로 연결할 것.",
+    "USB3.0 포트 연결을 권장하며, USB2.0 연결 시 해상도 및 주사율이 저하될 수 있음.",
+    "DisplayLink 드라이버 설치가 필수이며, 드라이버 미설치 시 정상 동작하지 않음.",
+    "USB 허브 사용 시 반드시 전원 공급 가능한 Powered USB3.0 Hub를 사용할 것. 일반(비전원) 허브는 사용 비권장.",
+    "고사양 그래픽 처리 및 빠른 응답속도가 요구되는 게이밍 환경에는 적합하지 않음.",
+    "연결 후 화면이 깜빡일 경우 드라이버 충돌 또는 전력 부족이 원인일 수 있으므로 USB 포트를 변경하거나 최신 드라이버로 업데이트 할 것.",
+    "제조사 사정에 따라 제품 색상 및 사양은 예고 없이 변경될 수 있음.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처 제품은 A/S를 받을 수 없음.",
+    "Mac 사용 시 '보안 및 개인 정보 보호'에서 DisplayLink Manager.app 권한을 반드시 허용해야 정상 동작함."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UH319FD",
+      "품목코드": "com-외장형766",
+      "품목명": "[LANstar] USB3.0 to HDMI 디스플레이링크 컨버터 [30947]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "좋습니다 굿굿 !!"
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "화면도 잘 나오고 최고입니다!",
+      "관련내용": "화면 잘 나와요 최고입미다"
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "설치도 간단하고 동작도 잘됩니다.\n제품 단점은 아니지만 링크 작동하면 OTT는 시청이 안되네요 ㅠ",
+      "관련내용": "배송 엄청 빠릅니다.\n작동도 잘 하고요.\n맥북 M2 프로이고, 2개의 외장 모니터로 구성했습니다.\n아쉬운건 모니터 공유 프로그램으로 인식되어서 OTT 시청은 불가능하네요 ㅠ"
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "한딜째 쓰고있는데 \n연결 잘되고 좋네요 맥북 연결 잘돼요",
+      "관련내용": "맥북은 듀얼모니터 할려면 이거 필요한데\n정말 좋네요"
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "빠른배송과 설명과 같습니다"
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "한 대 사서 만족하고 한 대 더 사서 쓰고 있습니다."
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "리눅스에서도 잘 작동됩니다."
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "너무 조아요 감사합니다",
+      "관련내용": "너무 조아요 감사합니다"
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "화면 잘 나와요 최고입미다"
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "드디어 맥북과 모니터 2개와 아이패드로 강의+자료+캔버스+도구 화면 세팅으로 그림 강의를 들을 수가 있겠군요."
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "맥북은 듀얼모니터 할려면 이거 필요한데\n정말 좋네요"
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "배송 엄청 빠릅니다.\n작동도 잘 하고요.\n맥북 M2 프로이고, 2개의 외장 모니터로 구성했습니다.\n아쉬운건 모니터 공유 프로그램으로 인식되어서 OTT 시청은 불가능하네요 ㅠ"
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "너무 조아요 감사합니다"
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "잘 사용하고 있습니다"
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "한달이상 되었는데 잘나옵니다.\n문서,메신저창으로 쓰니 편합니다.",
+      "관련내용": "맥미니m4프로에서 모니터 한대 추가 하고싶어 구입하였습니다.\n작동을 잘됩니다. 딱 제가 원하는 수준의 문서 보는용의 보조모니터까지는 잘 수행합니다만, \n\n확실히 화질차이랑 레이턴시가 좀 생기긴하네요\n\n아무래도 중간 프로그램 통해서 임의로 확장하는 개념이다 보니 어쩔수 없는 부분이긴 합니다. \n\n한달정도 사용해보고 추가 내용 업데이트 하겠습니다."
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "좋아요 맥북프로 m2 16인치인데 2개만 디스플레이 지원하는데 모니터 3개도 잘돌아갑니다."
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "내용": "맥미니m4프로에서 모니터 한대 추가 하고싶어 구입하였습니다.\n작동을 잘됩니다. 딱 제가 원하는 수준의 문서 보는용의 보조모니터까지는 잘 수행합니다만, \n\n확실히 화질차이랑 레이턴시가 좀 생기긴하네요\n\n아무래도 중간 프로그램 통해서 임의로 확장하는 개념이다 보니 어쩔수 없는 부분이긴 합니다. \n\n한달정도 사용해보고 추가 내용 업데이트 하겠습니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-UH319FD",
+      "id": 655964543,
+      "date": "2025-12-20 21:43",
+      "answerDate": "2025-12-22 09:37",
+      "user": "bmki****",
+      "productName": "노트북 맥북 듀얼 모니터 연결 디스플레이링크 컨버터(LS-UH319FD)",
+      "question": "m3칩 맥북프로 입니다. 4k 모니터 2대 연결 가능할까요? 모니터 1개는 맥북hdmi에 바로 연결하고 추가 하나는 이걸로 연결하면 되는건지요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n네 이것으로 연결하면 되겠습니다. 이용 전 드라이버는 설치하셔야 하겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "id": 661007544,
+      "date": "2026-01-29 10:56",
+      "answerDate": "2026-01-29 17:33",
+      "user": "kokd****",
+      "productName": "노트북 맥북 듀얼 모니터 연결 디스플레이링크 컨버터(LS-UH319FD)",
+      "question": "윈도우에서 모니터 3개 연결하여 사용예정입니다.\n테스트용으로 다른 컨버터 사용해봤지만 정품칩셋 내장이 아닌지 윈도우 재부팅후 화면이 깜빡거리며 연결이 되지 않더군요\n\n이 제품은 displaylink정품 칩셋을 내장하고 있는지 여부와 \n내장 그래픽카드로 연동이 가능한지 궁금합니다.\n내장 그래픽카드 : intel uhd graphics 770",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n말씀해주신 증상으로는 제품 메인보드 불량으로 파악이 됩니다. 교환을 받아보셔야 할것 같습니다. \n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "id": 670470717,
+      "date": "2026-04-13 11:30",
+      "answerDate": "2026-04-13 16:06",
+      "user": "toma******",
+      "productName": "노트북 맥북 듀얼 모니터 연결 디스플레이링크 컨버터(LS-UH319FD)",
+      "question": "안녕하세요. 갤럭시북이랑 빔프로젝터 연결하려는데, 이 제품 가능할까요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\nUSB to HDMI DisplayLink 컨버터로, 갤럭시북과 빔프로젝터 연결에 사용 가능합니다.\n\n## 제품 특징\n\n- 입력: USB 포트 (갤럭시북의 USB 포트에 연결)\n- 출력: HDMI (빔프로젝터의 HDMI 입력단자에 연결)\n- 해상도: 1080P@60Hz 지원\n- 기능: DisplayLink 기술을 통해 화면 미러링 또는 확장 가능\n\n## 사용 시 참고사항\n\n1. 드라이버 설치 필요: 처음 사용 시 DisplayLink 드라이버를 설치하셔야 합니다.\n2. 호환성: 갤럭시북의 USB 포트(Type-A 또는 Type-C)에 맞게 연결하실 수 있습니다.\n3. 해상도: 1080P까지 지원하므로, 기본적인 프레젠테이션이나 영상 재생에는 충분합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-UH319FD",
+      "id": 671404751,
+      "date": "2026-04-20 15:05",
+      "answerDate": "2026-04-20 16:15",
+      "user": "1991*******",
+      "productName": "노트북 맥북 듀얼 모니터 연결 디스플레이링크 컨버터(LS-UH319FD)",
+      "question": "안녕하세요 데스크탑에  HDMI, DP 포트를 사용해 모니터 두 대를 연결하고  이 제품을 사용해서 한 대를 추가하려고 합니다.\n이 제품을 사용한 모니터 수직 전환이 가능한가요? 모니터를 세로로 쓰려고 합니다.",
+      "answer": "안녕하세요 고객님 랜스타 입니다\n문의 주신 내용대로 컴퓨터 디스플레이 설정 에서 화면 세로로 설정하여 사용 가능 합니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-UH319FD",
+      "chatUrl": "2ebQI",
+      "dateIso": "2026-04-16T02:35:49.230Z",
+      "name": "거울",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "LS-UH319FD를 구매하려면 LS-UH319-W도 클릭해야 하나요? 디스플레이를 1개더 연결하려고 디스플레이 링크지원하는 것을 찾았는데, 옵션에 노트북 1개 연결하려면 후자를 ...",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB3.0 입력",
+    "connectivity.output_signals": "HDMI 출력",
+    "connectivity.directional": "USB3.0 입력 → HDMI 출력",
+    "power.power_mode": "USB3.0 to HDMI DisplayLink 컨버터",
+    "form_physical.has_case": "알루미늄 소재, 발열 문제 개선",
+    "form_physical.material": "알루미늄 소재",
+    "form_physical.length_meters": "케이블 길이: 15cm",
+    "audio_video.max_resolution": "최대 1080P@60Hz Full HD 해상도 출력",
+    "audio_video.audio_pass": "영상·음성(오디오) 신호 동시 전달",
+    "family.usb_version": "USB3.0 to HDMI DisplayLink",
+    "family.charging_only": "USB3.0 to HDMI DisplayLink 컨버터",
+    "family.data_only": "USB3.0 to HDMI DisplayLink 컨버터"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:11",
+  "feature_schema_version": "1.0.0"
+}

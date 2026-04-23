@@ -1,0 +1,299 @@
+{
+  "model_no": "LS-ST-MM",
+  "product_name": "LANStar 3.5 스테레오 케이블 M/M (3.5ST M/M, 다크그레이)",
+  "category": [
+    "커넥터",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "3.5mm 스테레오 Male to Male 아날로그 음성 지원 케이블",
+    "신호 손실을 최소화하는 금도금 커넥터",
+    "케이블 두께 4pi",
+    "RoHS 인증 (EU 특정위험물질 사용제한 준수 — 납·수은·카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "0.5M ~ 30M 총 10가지 길이 라인업 제공",
+    "3.5mm 스테레오(Male) - 3.5mm 스테레오(Male) 구성",
+    "아날로그 음성 지원",
+    "신호 손실을 최소화하는 금도금 커넥터 적용",
+    "0.5M ~ 30M 총 10가지 길이 옵션 제공",
+    "RoHS 규격 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 규격": "3.5mm Stereo (Male) - 3.5mm Stereo (Male)",
+    "신호 방식": "아날로그 음성",
+    "케이블 두께": "4pi",
+    "커넥터 도금": "금도금",
+    "색상": "다크그레이",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "모델별 길이 및 모델명": "0.5M: LS-ST-MM-05M, 1M: LS-ST-MM-1M, 1.5M: LS-ST-MM-1.5M, 2M: LS-ST-MM-2M, 3M: LS-ST-MM-3M, 5M: LS-ST-MM-5M, 10M: LS-ST-MM-10M, 15M: LS-ST-MM-15M, 20M: LS-ST-MM-20M, 30M: LS-ST-MM-30M",
+    "인증번호": "상세페이지 참조",
+    "품질보증기준": "공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 소비자상담": "라인업시스템(주) 070-7018-3386",
+    "커넥터 타입": "3.5ST(Male) - 3.5ST(Male)",
+    "길이 옵션": "0.5M, 1M, 1.5M, 2M, 3M, 5M, 10M, 15M, 20M, 30M",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANStar"
+  },
+  "compatibility": [
+    "컴퓨터 사운드카드 출력 단자 (3.5mm)",
+    "스피커 (3.5mm AUX 입력)",
+    "MP3 플레이어",
+    "CD/DVD 플레이어",
+    "스마트폰 (3.5mm 단자)",
+    "AUX 단자 지원 기기",
+    "태블릿PC",
+    "TV (3.5mm 오디오 입력 / TV-Out)",
+    "노트북",
+    "게임기",
+    "캠코더",
+    "각종 음향기기 (3.5mm 스테레오 단자 지원 기기)",
+    "컴퓨터 사운드카드",
+    "스피커",
+    "스마트폰",
+    "PC",
+    "태블릿 PC",
+    "TV",
+    "오디오 기기"
+  ],
+  "package_contents": [
+    "3.5 스테레오 케이블 M/M 본체 1개",
+    "3.5 스테레오 케이블 M/M 1개 (선택한 길이에 해당)"
+  ],
+  "usage_instructions": "3.5mm 스테레오 단자가 있는 두 기기(예: 컴퓨터·MP3·오디오 → 스피커, 또는 컴퓨터·노트북 → TV)의 각 3.5mm 단자에 케이블 양쪽 커넥터를 연결하여 아날로그 음성을 전달합니다.",
+  "cautions": [
+    "연결되는 기기마다 사용하는 단자가 다르므로 반드시 확인 후 구매하시기 바랍니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "구매·배송·반품 문의는 판매처(쇼핑몰 하단) 참조."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-ST-MM-1.5M",
+      "품목코드": "CAB-STM001",
+      "품목명": "[LANstar] 스테레오케이블 , 3.5ST M／M 1.5M[10452] (330개)",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ST-MM-3M",
+      "품목코드": "CAB-STM002",
+      "품목명": "[LANstar] 스테레오케이블 , 3.5ST M／M 3M[10454] (250개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ST-MM-5M",
+      "품목코드": "CAB-STM003",
+      "품목명": "[LANstar] 스테레오케이블 , 3.5ST M／M 5M[10455] (180개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ST-MM-10M",
+      "품목코드": "CAB-STM004",
+      "품목명": "[LANstar] 스테레오케이블 , 3.5ST M／M 10M[10456] (100개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ST-MM-15M",
+      "품목코드": "CAB-STM005",
+      "품목명": "[LANstar] 스테레오케이블 , 3.5ST M／M 15M[10457] (80개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ST-MM-20M",
+      "품목코드": "CAB-STM006",
+      "품목명": "[LANstar] 스테레오케이블 , 3.5ST M／M 20M[10458] (60개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ST-MM-30M",
+      "품목코드": "CAB-STM007",
+      "품목명": "[LANstar] 스테레오케이블 , 3.5ST M／M 30M[10459] (50개)",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ST-MM-1M",
+      "품목코드": "CAB-STM017",
+      "품목명": "[LANstar] 스테레오케이블 , 3.5ST M／M 1M[10451] (500개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ST-MM-2M",
+      "품목코드": "CAB-STM018",
+      "품목명": "[LANstar] 스테레오케이블 , 3.5ST M／M 2M[10453] (300개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-ST-MM-0.5M",
+      "품목코드": "CAB-STM062",
+      "품목명": "[LANstar] 스테레오케이블 , 3.5ST M／M, 0.5M[10450] (500개)",
+      "variant_suffix": "-0.5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-ST-MM",
+      "내용": "배송도빠르고 잘되네요 잘쓰겠습니다"
+    },
+    {
+      "source_model": "LS-ST-MM-0.5M",
+      "내용": "항상 쓰는 곳입니다. 저렴하고 가성비가 괜찮아요"
+    },
+    {
+      "source_model": "LS-ST-MM-1.5M",
+      "내용": "소리 깨끗하게 잘 나오네요 \n감사합니다"
+    },
+    {
+      "source_model": "LS-ST-MM-1.5M",
+      "내용": "배송 빠르고 상품 좋아요"
+    },
+    {
+      "source_model": "LS-ST-MM-1.5M",
+      "내용": "노이즈 없이 잘 사용 중입니다.",
+      "관련내용": "좋은제품 저렴하게 주셔서 감사합니다."
+    },
+    {
+      "source_model": "LS-ST-MM-1.5M",
+      "내용": "좋은제품 저렴하게 주셔서 감사합니다."
+    },
+    {
+      "source_model": "LS-ST-MM-1.5M",
+      "내용": "배송 빠르고 좋아썽요"
+    },
+    {
+      "source_model": "LS-ST-MM-10M",
+      "내용": "저렴히 잘 구매한 제품입니다 길이가 넉넉해서 좋아요"
+    },
+    {
+      "source_model": "LS-ST-MM-1M",
+      "내용": "길이도 적당하고 소리도 좋아요\n가격도 좋아요"
+    },
+    {
+      "source_model": "LS-ST-MM-2M",
+      "내용": "잘 받았습니다. 수고하십시오."
+    },
+    {
+      "source_model": "LS-ST-MM-2M",
+      "내용": "깔끔한포장으로 배송해주셨습니다~"
+    },
+    {
+      "source_model": "LS-ST-MM-2M",
+      "내용": "감사합니다 담에 또 구입할께요"
+    },
+    {
+      "source_model": "LS-ST-MM-30M",
+      "내용": "좋은 제품 잘 받아서 사용하고있습니다 :)"
+    },
+    {
+      "source_model": "LS-ST-MM-3M",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-ST-MM-5M",
+      "내용": "저렴하고 빠르게 잘 받았습니다\n\n다음에 또 주문할게요"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-ST-MM-XXM": "LAN tar\n3.5 스테레오 케이블\n3.5ST M/M, 다크그레이\n(0.5M)\n1M 1.5M 2M 3M\n5M 10M 15M 20M 30M\n0.5M LS-ST-MM-05M\n1M LS-ST-MM-1M\n(1.5M LS-ST-MM-1.5M\n2M LS-ST-MM-2M\n3M LS-ST-MM-3M\n5M LS-ST-MM-5M\n10M LS-ST-MM-10M\n15M LS-ST-MM-15M\n20M LS-ST-MM-20M\n30M LS-ST-MM-30M\n3.5mm 스테레오 케이블\n가장 일반적인 규격의 3.5mm 오디오 케이블로 주로 컴퓨터의 사운드카드에서\n스피커 연결 용도로 많이 사용되며 MP3.CD/DVD 플레이어 · 스마트폰 ㆍAUX.\nPC·태블릿PC·TV·게임기 ·캠코더와 같은 각종 음향기기에서 사용되는 케이블입니다.\n3.5ST(M) -3.5ST(M) 케이블\n・3.5 Stereo(Male) -3.5 Stereo(Male)\n• 아날로그 음성지원\n•두께 : 4pi\n금도금 콘넥터\n신호 손실을 최소화하는\n금도금 콘넥터\n스테레오 케이블의 활용 예\n---\n3.5ST(M)\n3.5ST(M)\n컴퓨터 / MP3\n오디오\n스피커\n컴퓨터, MP3, 오디오 등을 스피커와 같은 음향기기에 연결하여 음성을 전달하는 케이블\n3.5ST(M)\n3.5ST(M)\n컴퓨터/노트북\nTV\n컴퓨터, 노트북 등을 TV에 연결하여 TV에 내장된 스피커로 음향을 내보내는 케이블 (TV-Out)\n※ 연결되는 기기마다 사용하는 단자가 다르므로 반드시 확인하고 구매하시기 바랍니다.\nPRODUCT IMAGE\n\n\nO\n})\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nR\nROHS\nCOMPLIANT\nCERTIFICATION\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANG\nStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\n3.5 스테레오 케이블 M/M\nLANStar\nLS-ST-MM-05M\nLS-ST-MM-1M\nLS-ST-MM-1.5M\nLS-ST-MM-2M\nLS-ST-MM-3M\n모델\n명\nLS-ST-MM-5M\nLS-ST-MM-10M\nLS-ST-MM-15M\nLS-ST-MM-20M\nLS-ST-MM-30M\n인증번호\n상세페이지 참조\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "3.5mm"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1,
+        1.5,
+        2,
+        3,
+        5,
+        10,
+        15,
+        20,
+        30
+      ],
+      "color_options": [
+        "다크그레이"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "3.5mm Stereo Male",
+      "connector_type_b": "3.5mm Stereo Male",
+      "gender": "M-M",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5mm 스테레오 Male to Male",
+    "connectivity.output_signals": "3.5mm 스테레오 Male to Male",
+    "connectivity.directional": "케이블 양쪽 커넥터를 연결하여",
+    "power.power_mode": "무전원",
+    "power.charging_support": "아날로그 음성 지원 케이블",
+    "form_physical.material": "금도금 커넥터",
+    "form_physical.length_options_meters": "0.5M ~ 30M 총 10가지 길이 라인업",
+    "form_physical.color_options": "다크그레이",
+    "certification.rohs": "RoHS 인증",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "아날로그 음성 지원",
+    "audio_video.hdr_support": "아날로그 음성 지원",
+    "audio_video.hdcp_version": "아날로그 음성 지원",
+    "audio_video.audio_pass": "아날로그 음성 지원 케이블",
+    "family.connector_type_a": "3.5mm Stereo (Male)",
+    "family.connector_type_b": "3.5mm Stereo (Male)",
+    "family.gender": "Male to Male"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:48",
+  "feature_schema_version": "1.0.0"
+}

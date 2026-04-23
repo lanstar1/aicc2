@@ -1,0 +1,108 @@
+{
+  "model_no": "LS-SMACU-AF",
+  "product_name": "LANStar 가정용 USB 충전기 (AC Power USB Adapter)",
+  "category": [
+    "USB2.0",
+    "젠더"
+  ],
+  "key_features": [
+    "Apple 공식 인증 브랜드",
+    "110V/220V 겸용 지원으로 가정 및 사무실 어디서나 사용 가능",
+    "PC 충전 대비 최대 3배 이상 빠른 초고속 충전 가능",
+    "USB 2.0 포트 탑재로 휴대용 기기와 높은 호환성",
+    "컴팩트한 사이즈로 휴대 간편",
+    "충전 및 데이터 통신 동시 지원",
+    "연결 시 파란색 LED 점등으로 동작 확인 가능",
+    "전기용품안전인증 취득 제품 (인증번호: HU10065-3010A)"
+  ],
+  "specifications": {
+    "입력 전압": "110V/220V",
+    "출력": "USB 5V 1000mA",
+    "USB 규격": "USB 2.0",
+    "전기용품안전인증번호": "HU10065-3010A",
+    "인증": "CE, FC"
+  },
+  "compatibility": [
+    "스마트폰 (마이크로 B 단자)",
+    "아이폰 (Apple 30핀 단자)",
+    "아이패드 (Apple 30핀 단자)",
+    "아이팟 (Apple 30핀 단자)",
+    "MP3",
+    "디지털카메라",
+    "게임기",
+    "USB 케이블을 사용하는 휴대용 기기 전반"
+  ],
+  "package_contents": [
+    "가정용 USB 충전기 본체"
+  ],
+  "usage_instructions": "1. 가정용 USB 충전기를 전기 콘센트에 꽂습니다. 충전기에 파란불이 점등됩니다. 2. 충전 케이블의 USB 단자를 충전기에 끝까지 밀어 넣습니다. 3. 충전 케이블의 다른 한쪽 단자(마이크로 B, 30핀 등)를 충전할 휴대용 기기에 연결합니다. 4. 초고속 충전이 시작됩니다. 5. 배터리 충전이 완료되면 케이블을 분리합니다.",
+  "cautions": [
+    "젖은 손으로 제품을 연결하지 마십시오. 감전의 우려가 있습니다.",
+    "제품을 임의로 분해할 경우 교환 및 환급이 불가합니다.",
+    "본 제품은 재정경제부 고시 소비자피해보상규정에 의거 교환 및 환불을 받을 수 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "무관"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": true
+    },
+    "form_physical": {
+      "has_case": true,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "무관",
+    "connectivity.output_signals": "USB 2.0 포트 탑재",
+    "connectivity.directional": "충전 및 데이터 통신 동시 지원",
+    "power.power_mode": "가정용 USB 충전기를 전기 콘센트에 꽂습니다",
+    "power.charging_support": "초고속 충전 가능",
+    "form_physical.has_case": "LANStar 가정용 USB 충전기",
+    "certification.kc": "전기용품안전인증 취득 제품",
+    "certification.fcc": "인증: CE, FC",
+    "certification.ce": "인증: CE, FC",
+    "family.usb_version": "USB 2.0 포트 탑재",
+    "family.charging_only": "충전 및 데이터 통신 동시 지원",
+    "family.data_only": "충전 및 데이터 통신 동시 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:33",
+  "feature_schema_version": "1.0.0"
+}

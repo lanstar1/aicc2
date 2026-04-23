@@ -1,0 +1,135 @@
+{
+  "model_no": "LS-5UTPC",
+  "product_name": "LANstar CAT.5E FTP 크로스 랜 케이블",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-FTP"
+  ],
+  "key_features": [
+    "CAT.5E FTP 규격: 최대 400Mbps 전송속도, 100MHz 대역폭 지원 (TIA/EIA-568 규정)",
+    "알루미늄 차폐막(Shield) 적용 Twisted Pair 구조로 노이즈 방지",
+    "십자형 Spacer 및 노이즈 방지 비닐막 내장",
+    "연선(Stranded) 케이블: 단선 대비 유연성 우수, 설치 용이, 잡음·감쇄 현저히 적음",
+    "크로스 케이블 핀배열 (568B → 568A): PC↔PC 등 동종 장비 직접 연결용",
+    "RoHS 준수: 납·수은·카드뮴 등 중금속 미사용",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "ISO 9001:2008 품질경영시스템 인증 제조사"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.5E",
+    "케이블 타입": "FTP (Foiled Twisted Pair)",
+    "대역폭": "100MHz",
+    "전송속도": "100~400Mbps",
+    "케이블 구조": "연선(Stranded), 4쌍(TWIST-PAIR 4P), 쌍당 7개 선",
+    "차폐 방식": "알루미늄 차폐막 + 십자형 Spacer + 노이즈 방지 비닐막",
+    "핀배열 (송신측)": "568B (주황/흰색-주황-녹색/흰색-청색-청색/흰색-녹색-갈색/흰색-갈색)",
+    "핀배열 (수신측)": "568A (녹색/흰색-녹색-주황/흰색-청색-청색/흰색-주황-갈색/흰색-갈색)",
+    "케이블 길이 옵션": "2M, 3M, 5M, 10M",
+    "모델명 (2M)": "LS-5STPC-2M",
+    "모델명 (3M)": "LS-5STPC-3M",
+    "모델명 (5M)": "LS-5STPC-5M",
+    "모델명 (10M)": "LS-5STPC-10M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008",
+    "인증번호": "상세페이지 참조"
+  },
+  "compatibility": [
+    "CAT.5E 규격 호환 장비 (100~400Mbps 사무용 환경)",
+    "동종 장비 간 직접 연결 (PC↔PC, 허브↔허브 등 크로스 연결 필요 기기)",
+    "TIA/EIA-568 규격 준수 네트워크 장비"
+  ],
+  "package_contents": [
+    "CAT.5E FTP 크로스 랜 케이블 1개 (선택 길이: 2M / 3M / 5M / 10M 중 1종)"
+  ],
+  "usage_instructions": "크로스 케이블로, 동종 장비(PC↔PC 등) 직접 연결 시 사용. 송신측 568B 핀배열, 수신측 568A 핀배열로 구성되어 있음. 연선 구조로 유연하게 배선 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품 문의: 판매처(쇼핑몰 하단 참조)"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        2,
+        3,
+        5,
+        10
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "FTP",
+      "conductor": "연선(stranded)",
+      "awg": null,
+      "pair_count": 4,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "랜 케이블",
+    "connectivity.output_signals": "랜 케이블",
+    "connectivity.directional": "크로스 케이블 핀배열 (568B → 568A): PC↔PC 등 동종 장비 직접 연결용",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.material": "알루미늄 차폐막(Shield) 적용",
+    "form_physical.length_options_meters": "2M, 3M, 5M, 10M",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.cat_category": "CAT.5E FTP 규격",
+    "family.shielding": "FTP (Foiled Twisted Pair)",
+    "family.conductor": "연선(Stranded) 케이블",
+    "family.pair_count": "4쌍(TWIST-PAIR 4P)"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:25",
+  "feature_schema_version": "1.0.0"
+}

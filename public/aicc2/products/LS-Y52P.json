@@ -1,0 +1,112 @@
+{
+  "model_no": "LS-Y52P",
+  "product_name": "PC 내부 POWER 케이블 (Y형 5.25인치(M) 1개/5.25인치(F) 2개)",
+  "category": [
+    "HDD관련"
+  ],
+  "key_features": [
+    "5.25인치(M) 1개에서 5.25인치(F) 2개로 분기되는 Y형 전원 케이블",
+    "하드(HDD) 전원 및 CD-ROM 전원 공급 용도",
+    "케이블 길이 0.2M(200mm)",
+    "12V / 5V / 7V 전압 지원",
+    "RoHS Compliant (특정유해물질 사용제한 준수)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 종류": "5.25(M) - 5.25(F) 2개",
+    "길이": "0.2M",
+    "작동온도": "0°C ~ 80°C",
+    "RoHS": "Compliant",
+    "품질인증": "ISO 9001:2008",
+    "커넥터 규격": "IDE 4pin",
+    "지원 전압": "12V, 5V, 7V"
+  },
+  "compatibility": [
+    "IDE 4pin (Male) 전원 커넥터를 사용하는 PC 파워서플라이",
+    "IDE 4pin (Female) 전원 커넥터를 사용하는 HDD(하드디스크)",
+    "IDE 4pin (Female) 전원 커넥터를 사용하는 CD-ROM 드라이브",
+    "5.25인치 IDE 전원 규격 장치"
+  ],
+  "package_contents": [
+    "PC 내부 POWER 케이블 (Y형, LS-Y52P) 1개"
+  ],
+  "usage_instructions": "PC 본체 내부에서 파워서플라이의 5.25인치 IDE 4pin (Male) 커넥터에 본 케이블을 연결하고, 분기된 5.25인치 IDE 4pin (Female) 2개를 HDD 또는 CD-ROM 등의 장치에 각각 연결하여 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리",
+    "AS 및 소비자 상담 전화: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-Y52P",
+      "품목코드": "CAB-내부파002",
+      "품목명": "[LANstar] PC파워케이블, IDE to IDE*2, 5.25／M - 5.25 *2／F, 0.2m [10752] ★할인제외★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "SATA"
+      ],
+      "output_signals": [
+        "SATA"
+      ],
+      "directional": "일방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "storage_interface": "SATA",
+      "drive_size": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "5.25인치(M) 1개",
+    "connectivity.output_signals": "5.25인치(F) 2개",
+    "connectivity.directional": "Y형 전원 케이블",
+    "connectivity.port_count": "5.25인치(M) 1개/5.25인치(F) 2개",
+    "form_physical.length_meters": "케이블 길이 0.2M(200mm)",
+    "certification.rohs": "RoHS Compliant",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.storage_interface": "하드(HDD) 전원 및 CD-ROM 전원 공급 용도"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:46",
+  "feature_schema_version": "1.0.0"
+}

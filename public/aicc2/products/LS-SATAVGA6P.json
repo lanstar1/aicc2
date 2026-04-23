@@ -1,0 +1,113 @@
+{
+  "model_no": "LS-SATAVGA6P",
+  "product_name": "LAN Star SATA 전원 케이블 (SATA to VGA 6Pin 변환 젠더)",
+  "category": [
+    "VGA",
+    "컨버터",
+    "커넥터"
+  ],
+  "key_features": [
+    "파워서플라이 SATA 전원 포트를 VGA 6Pin 전원으로 변환하는 젠더",
+    "중·고사양 그래픽 카드의 추가 전원 공급용 필수 제품",
+    "SATA 15Pin(male) → VGA 6Pin 커넥터 구성",
+    "그래픽 카드에 직접 연결 가능",
+    "RoHS 규격 준수 (납·수은·카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "입력 커넥터": "SATA 15Pin 전원단자 (male)",
+    "출력 커넥터": "VGA 6Pin 전원단자 (6-Pin connector)",
+    "케이블 길이": "0.2M",
+    "제조국": "중국 (China)",
+    "인증번호": "해당없음",
+    "RoHS": "COMPLIANT",
+    "품질인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "SATA 전원 포트를 갖춘 파워서플라이",
+    "VGA 6Pin 보조전원 단자를 사용하는 중·고사양 그래픽 카드"
+  ],
+  "package_contents": [
+    "SATA to VGA 6Pin 전원 변환 케이블 1개"
+  ],
+  "usage_instructions": "파워서플라이의 SATA 전원 포트에 본 케이블의 SATA 15Pin(male) 단자를 연결한 후, 반대편 VGA 6Pin 커넥터를 그래픽 카드의 보조전원 단자에 직접 연결하여 사용한다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됨",
+    "A/S 및 소비자 상담은 랜스타 A/S센터(www.LANstar.co.kr) 이용"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SATAVGA6P-0.2M",
+      "품목코드": "CAB-SAT106",
+      "품목명": "[LANstar]SATA전원케이블 SATA PCB to VAG 6P, SATA / M-VGA Power 6P 0.2M[11017]",
+      "variant_suffix": "-0.2M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "SATA"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "SATA 15Pin(male)",
+    "connectivity.output_signals": "VGA 6Pin 전원으로 변환",
+    "connectivity.directional": "SATA 전원 포트를 VGA 6Pin 전원으로 변환",
+    "form_physical.length_meters": "케이블 길이: 0.2M",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:00",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,136 @@
+{
+  "model_no": "LS-U31M-CM2MBF-GP",
+  "product_name": "LANStar USB 3.1 Type C 젠더 (OTG, 3.1 C/M - 2.0 Micro B/F, 메탈)",
+  "category": [
+    "USB-C",
+    "USB2.0",
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 3.1 Type C Male to USB 2.0 Micro B Female 변환 젠더",
+    "OTG 지원 – 데이터 전송 및 충전 기능",
+    "메탈 소재 하우징",
+    "Type C 커넥터는 위아래 방향 구분 없이 연결 가능",
+    "기존 USB 포트 대비 약 1/3 크기의 Type C 포트로 빠른 데이터 전송과 충전 지원",
+    "구글 크롬북 USB 포트 지원",
+    "애플 맥북과 호환",
+    "RoHS 준수 (유해물질 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 적용",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터_A": "USB 3.1 Type C Male",
+    "커넥터_B": "USB 2.0 Micro B Female",
+    "소재": "메탈",
+    "전체_길이": "28.5mm",
+    "Type_C_커넥터_폭": "8.2mm",
+    "Type_C_커넥터_높이": "2.4mm",
+    "Micro_B_커넥터_폭": "7.6mm",
+    "Micro_B_커넥터_높이": "3mm",
+    "본체_두께": "10.2mm",
+    "본체_폭": "7.7mm",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "AS_소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "구글 넥서스 5X",
+    "구글 넥서스 6P",
+    "샤오미 Mi4C",
+    "LeTV Le 1 Pro",
+    "LeTV Le 1s",
+    "애플 맥북 (MacBook)",
+    "구글 크롬북 (Chromebook)"
+  ],
+  "package_contents": [
+    "USB 3.1 Type C 젠더 (LS-U31M-CM2MBF-GP) 본체 1개"
+  ],
+  "usage_instructions": "USB 3.1 Type C Male 단자를 Type C 포트가 있는 기기에 연결하고, USB 2.0 Micro B Female 단자에 Micro B 케이블을 꽂아 데이터 전송 또는 충전에 사용합니다. Type C 커넥터는 방향 구분 없이 삽입 가능합니다. 별도의 드라이버 설치 없이 플러그 앤 플레이로 사용 가능합니다.",
+  "cautions": [
+    "해당 젠더는 삼성 갤럭시 S8과 호환되지 않습니다. 갤럭시 S8과 호환되는 제품은 LS-U31M-CM2MBF-68을 구입하시기 바랍니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "LANStar® 라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-U31M-CM2MBF-GP",
+      "품목코드": "CAB-U31023",
+      "품목명": "[LANstar] USB 3.1 C-Type OTG젠더 C/M-2.0 MicroB/F, 골드메탈 포장타입 [30143]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "메탈"
+      ],
+      "length_meters": 0.0285,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.1Gen1",
+      "transfer_speed_gbps": null,
+      "charging_only": null,
+      "data_only": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 Type C Male",
+    "connectivity.output_signals": "USB 2.0 Micro B Female",
+    "connectivity.directional": "데이터 전송 및 충전 기능",
+    "power.power_mode": "OTG 지원 – 데이터 전송 및 충전 기능",
+    "power.charging_support": "충전 기능",
+    "form_physical.has_case": "메탈 소재 하우징",
+    "form_physical.material": "메탈 소재 하우징",
+    "form_physical.length_meters": "전체_길이\": \"28.5mm",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "family.usb_version": "USB 3.1 Type C Male"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:51",
+  "feature_schema_version": "1.0.0"
+}

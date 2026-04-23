@@ -1,0 +1,139 @@
+{
+  "model_no": "LS-MDP192-60H",
+  "product_name": "미니 디스플레이 포트 to HDMI 컨버터 케이블 (Mini DP 컨버터)",
+  "category": [
+    "DisplayPort",
+    "컨버터"
+  ],
+  "key_features": [
+    "Mini DisplayPort(Mini DP) 또는 DisplayPort 출력 기기를 HDMI 입력 기기에 연결하는 신호 변환 컨버터",
+    "DisplayPort 1.2 버전 지원, 최대 21.6Gbps 대역폭",
+    "4K2K(3840x2160) @60Hz 초고해상도 지원",
+    "Full HD 1920x1080 및 2560x1600 해상도 지원",
+    "3D 입체영상 지원",
+    "디지털 음성 전송 지원: 2채널 스테레오, 5.1채널, 7.1채널 입체음향",
+    "별도 전원 연결 불필요 (버스 파워)",
+    "미러 모드(복제 기능) 지원 – 동영상·사진 대형 화면 확대, 화면 회전 가능",
+    "채널당 3Gbps 데이터 전송률",
+    "RoHS 준수, KC / FCC / CE 인증"
+  ],
+  "specifications": {
+    "커넥터(입력)": "Mini DisplayPort (Male)",
+    "커넥터(출력)": "HDMI (Female)",
+    "지원 DisplayPort 버전": "DP 1.2",
+    "최대 대역폭": "21.6Gbps",
+    "최대 해상도": "4K2K (3840x2160) @60Hz",
+    "지원 해상도": "1920x1080 (Full HD), 2560x1600, 3840x2160 (4K2K)",
+    "오디오 지원": "2채널 스테레오, 5.1채널, 7.1채널",
+    "케이블 길이": "200mm (0.2M)",
+    "제품 색상": "White",
+    "전원": "별도 전원 연결 불필요",
+    "제품 크기": "200mm x 44mm x 44mm (커넥터부 11mm x 8mm x 14.8mm)",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "MSIP-REI-LUS-LS-MDP19",
+    "인증 규격": "KC, FCC, CE, RoHS"
+  },
+  "compatibility": [
+    "Mini DisplayPort 탑재 데스크탑 PC",
+    "Mini DisplayPort 탑재 노트북",
+    "Apple Macbook (New Mini Display Port)",
+    "DisplayPort 탑재 PC",
+    "HDMI 입력 지원 TV, 모니터, 프로젝터 등"
+  ],
+  "package_contents": [
+    "Mini DP to HDMI 컨버터 케이블 (LS-MDP192-60H) 1개"
+  ],
+  "usage_instructions": "별도 전원 연결 없이 Mini DisplayPort(Male) 단자를 PC/노트북/맥북의 Mini DP 또는 DisplayPort 포트에 연결하고, HDMI(Female) 단자에 HDMI 케이블을 연결하여 TV 또는 대형 모니터에 연결합니다. 미러 모드(복제 기능)로 동영상·사진을 대형 화면에서 확대하여 볼 수 있으며 화면 회전도 가능합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품 이미지 및 콘텐츠의 무단 복제·사용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단 참조)를 이용하시기 바랍니다.",
+    "AS 및 소비자 상담: 라인업시스템(주)"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MDP192-60H",
+      "품목코드": "CAB-젠DP109",
+      "품목명": "[LANstar] Mini DP1.2, 4k*2k, 60Hz, 컨버터, Mini DP TO HDMI, 0.2M [30148]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DisplayPort",
+        "USB-C"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": [
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": "DP1.2",
+      "dvi_type": null,
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Mini DisplayPort(Mini DP) 또는 DisplayPort",
+    "connectivity.output_signals": "HDMI 입력 기기에 연결하는 신호 변환 컨버터",
+    "connectivity.directional": "신호 변환 컨버터",
+    "power.power_mode": "별도 전원 연결 불필요 (버스 파워)",
+    "form_physical.has_case": "제품 크기",
+    "form_physical.length_meters": "케이블 길이: 200mm (0.2M)",
+    "form_physical.color_options": "제품 색상: White",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS 준수",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "4K2K(3840x2160) @60Hz 초고해상도 지원",
+    "audio_video.audio_pass": "디지털 음성 전송 지원",
+    "family.dp_version": "DisplayPort 1.2 버전 지원",
+    "family.optical_core": "Mini DisplayPort to HDMI 컨버터 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:36",
+  "feature_schema_version": "1.0.0"
+}

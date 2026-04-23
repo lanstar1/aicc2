@@ -1,0 +1,150 @@
+{
+  "model_no": "LS-DVI25M-HDMI-AF",
+  "product_name": "LAN Star DVI 변환젠더 DVI 24+1/M - HDMI A/F",
+  "category": [
+    "HDMI케이블",
+    "DVI",
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "DVI 24+1핀 Male 타입과 HDMI A Female 타입 커넥터로 구성된 변환 젠더",
+    "HDMI 포트를 DVI 단자로 변환하여 사용 가능 (DVI 케이블 보유 시 HDMI 포트에 연결)",
+    "DVI-D(디지털) 연결 시 60Hz 지원",
+    "DVI-I(아날로그/디지털) 연결 시 30Hz 지원",
+    "신호 손실 최소화를 위한 금도금 커넥터 적용",
+    "DVI 단자 쪽 육각나사로 케이블 고정 가능",
+    "DVI-D 듀얼링크 지원 (24+1핀, 디지털 신호 전용)",
+    "RoHS 규정 준수 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 구성": "DVI 24+1핀 Male / HDMI A Female",
+    "DVI 타입": "DVI-D Dual Link",
+    "핀 수": "24+1핀",
+    "최대 주사율(DVI-D 디지털 연결)": "60Hz",
+    "최대 주사율(DVI-I 아날로그/디지털 연결)": "30Hz",
+    "커넥터 도금": "금도금",
+    "고정 방식": "DVI 단자 쪽 육각나사",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "품질 인증": "ISO 9001:2008, RoHS COMPLIANT"
+  },
+  "compatibility": [
+    "DVI-D (디지털) 포트 및 케이블",
+    "DVI-I (아날로그/디지털) 포트 및 케이블",
+    "HDMI A 타입 포트"
+  ],
+  "package_contents": [
+    "DVI 변환젠더 (DVI 24+1 Male - HDMI A Female) 1개"
+  ],
+  "usage_instructions": "HDMI 포트가 있는 기기에 본 젠더의 HDMI Female 단자를 연결하고, DVI 케이블을 DVI Male 단자에 연결하여 사용. DVI 단자 쪽 육각나사를 조여 케이블을 고정 가능.",
+  "cautions": [
+    "HDMI와 DVI는 디지털 신호 연결이므로 DVI 쪽 아날로그 단자는 연결되지 않음 (DVI 단자에 아날로그 연결용 4핀 홈 없음)",
+    "제품의 단자 크기와 모양을 반드시 확인 후 구매할 것",
+    "유통 과정상 제품의 모양이 조금씩 달라질 수 있음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DVI25M-HDMI-AF",
+      "품목코드": "GEN-HDI004",
+      "품목명": "[LANstar] DVI젠더 , DVI 24＋1／M-HDMI A／F, 4K*2K 60Hz [20106]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DVI25M-HDMI-AF",
+      "내용": "빠른 배송과 좋은 상품 감사합니다."
+    },
+    {
+      "source_model": "LS-DVI25M-HDMI-AF",
+      "내용": "질사용하고있습니다. 굿잡"
+    },
+    {
+      "source_model": "LS-DVI25M-HDMI-AF",
+      "내용": "특정 컴퓨터랑은 연결이 안되네요... 데스크탑 2대 맥북 1대있는 데 다른 거랑은 연결이 안되고 잘 안쓰는 구형 데스크탑에는 호완이 되네요... 쓰던 케이블이랑 바꿔서 그냥 쓰려고 합니다만 새로운 데스크탑에 연결하려고 새거 산건데 안되니까 아쉽네요ㅠ"
+    },
+    {
+      "source_model": "LS-DVI25M-HDMI-AF",
+      "내용": "좋은제품 빠른배송 친절한cs 너무 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DVI-D"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "DVI-D Dual",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DVI 24+1핀 Male 타입",
+    "connectivity.output_signals": "HDMI A Female 타입",
+    "connectivity.directional": "HDMI 포트를 DVI 단자로 변환하여 사용",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "변환 젠더",
+    "form_physical.material": "금도금 커넥터 적용",
+    "certification.rohs": "RoHS 규정 준수 제품",
+    "certification.iso9001": "ISO 9001:2008",
+    "audio_video.max_resolution": "DVI-D(디지털) 연결 시 60Hz 지원",
+    "audio_video.audio_pass": "DVI 변환젠더",
+    "family.dvi_type": "DVI-D 듀얼링크 지원 (24+1핀, 디지털 신호 전용)"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:47",
+  "feature_schema_version": "1.0.0"
+}

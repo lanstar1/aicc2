@@ -1,0 +1,387 @@
+{
+  "model_no": "LS-USB-AMAF",
+  "product_name": "LANStar USB 2.0 A/M-A/F 연장 케이블",
+  "category": [
+    "USB선택기",
+    "USB케이블",
+    "USB2.0",
+    "익스텐더"
+  ],
+  "key_features": [
+    "USB 2.0 Hi-Speed 규격 지원, 최대 480Mbps 데이터 전송속도",
+    "USB A Male → USB A Female 연장 케이블",
+    "알루미늄 포일 차폐 + 편조차폐 이중 차폐 구조로 외부 노이즈 차단",
+    "28AWG(데이터선) + 24AWG(전원선) 구성",
+    "0.15M / 0.5M / 1M / 1.8M / 3M / 5M / 10M 총 7가지 길이 선택 가능",
+    "USB 1.0 / 1.1 하위 버전 호환",
+    "PVC 외피(블랙) 적용으로 외부 물리적 손상 방지",
+    "소재·부품·장비 전문기업 확인서 취득(2022.11.29, 한국산업기술평가관리원)",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "라인업시스템(주) / 랜스타 정품 인증 제품",
+    "USB A Male → USB A Female 연장 케이블 구조",
+    "28AWG(데이터) + 24AWG(전원) 구성으로 안정적인 신호 전송",
+    "외경 4.5±0.1mm PVC(Black) 외피",
+    "0.15M / 0.5M / 1M / 1.8M / 3M / 5M / 10M 총 7가지 길이 라인업",
+    "키보드, 마우스, 프린터, 복합기, USB 허브 등 다양한 USB 기기 연장 사용 가능",
+    "소재·부품·장비 전문기업확인서 보유 (2022.11.29 취득, 한국산업기술평가관리원)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "USB 규격": "USB 2.0 (Hi-Speed)",
+    "단자 형태": "USB A Male → USB A Female",
+    "전송 속도": "최대 480Mbps",
+    "AWG": "28AWG X 1P (데이터), 24AWG 2C (전원)",
+    "차폐": "알루미늄 차폐 + 편조차폐 (이중 차폐)",
+    "외피 재질": "PVC / PVC (Black)",
+    "외피 색상": "Black",
+    "케이블 외경(OD)": "4.5 ± 0.1mm",
+    "길이": "0.15M, 0.5M, 1M, 1.8M, 3M, 5M, 10M / 0.15M / 0.5M / 1M / 1.8M / 3M / 5M / 10M",
+    "제조국": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)",
+    "모델명(길이별)": "LS-USB-AMAF-0.15M, LS-USB-AMAF-0.5M, LS-USB-AMAF-1M, LS-USB-AMAF-1.8M, LS-USB-AMAF-3M, LS-USB-AMAF-5M, LS-USB-AMAF-10M",
+    "품질보증기준": "공정거래위원회 고시 소비자 분쟁해결 기준",
+    "최대 전송속도": "480Mbps",
+    "외경": "OD 4.5±0.1mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "USB 2.0 포트 (Hi-Speed)",
+    "USB 1.1 포트 (Full Speed, 하위 호환)",
+    "USB 1.0 포트 (Low Speed, 하위 호환)",
+    "USB 3.0 포트 (하위 호환, 단 USB 2.0 속도로 동작)",
+    "키보드, 마우스 등 USB HID 장치",
+    "프린터, 복합기 등 USB 출력 장치",
+    "USB 허브",
+    "저전력 USB 장치 전반",
+    "USB 2.0 (Hi-Speed) 규격 기기",
+    "USB 1.0 (Low Speed) 규격 기기 (하위 호환)",
+    "USB 1.1 (Full Speed) 규격 기기 (하위 호환)",
+    "USB 3.0 포트 (하위 호환, 단 USB 2.0 성능으로 동작)",
+    "키보드",
+    "마우스",
+    "프린터",
+    "복합기",
+    "기타 저전력 USB 장치"
+  ],
+  "package_contents": [
+    "USB 2.0 A/M-A/F 연장 케이블 본체 1개",
+    "USB 2.0 A/M-A/F 케이블 1개"
+  ],
+  "usage_instructions": "USB A Male 커넥터를 PC 또는 충전기 등의 USB A 포트에 연결하고, USB A Female 커넥터에 연장이 필요한 USB 장치를 꽂아 사용합니다. 본체 뒷면 포트를 책상 위로 빼거나 좁은 공간에서 USB 장치를 쉽게 연결하는 용도로 활용할 수 있습니다. 별도의 드라이버 설치 없이 플러그 앤 플레이로 사용 가능합니다.",
+  "cautions": [
+    "USB 3.0 포트에 연결 시 하위 호환으로 동작하며 성능은 USB 2.0 기준(최대 480Mbps)으로 제한됩니다.",
+    "고전력 장치(외장 HDD 등) 연결 시 전력 공급이 부족할 수 있으므로 저전력 장치 연결에 적합합니다.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없습니다.",
+    "당일출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일을 제외한 평일 기준입니다.",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB-AMAF-0.5M",
+      "품목코드": "CAB-U연장001",
+      "품목명": "[LANstar] USB 2.0 연장케이블 AM-AF 0.5M [10331] (480개)",
+      "variant_suffix": "-0.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMAF-1M",
+      "품목코드": "CAB-U연장002",
+      "품목명": "[LANstar] USB 2.0 연장케이블 AM-AF 1M [10332] (300개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMAF-1.8M",
+      "품목코드": "CAB-U연장003",
+      "품목명": "[LANstar] USB 2.0 연장케이블 AM-AF 1.8M [10333] (220개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMAF-3M",
+      "품목코드": "CAB-U연장004",
+      "품목명": "[LANstar] USB 2.0 연장케이블 AM-AF 3M [10334] (140개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMAF-5M",
+      "품목코드": "CAB-U연장005",
+      "품목명": "[LANstar] USB 2.0 연장케이블 AM-AF 5M [10335] (90개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMAF-10M",
+      "품목코드": "CAB-U연장006",
+      "품목명": "[LANstar] USB 2.0 연장케이블 AM-AF 10M [10336] (60개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMAF-0.15M",
+      "품목코드": "CAB-U연장043",
+      "품목명": "[LANstar] USB 2.0 연장케이블 AM-AF 0.15M [10654] (1000개)",
+      "variant_suffix": "-0.15M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-USB-AMAF",
+      "내용": "장비 잘 연결되고 저렴해서 좋아요"
+    },
+    {
+      "source_model": "LS-USB-AMAF",
+      "내용": "가격 저렴하게 잘 사용하고 있습니다.\n장비도 잘 연결되고 문제 없어요."
+    },
+    {
+      "source_model": "LS-USB-AMAF",
+      "내용": "빠른 배송과 저렴한 가격으로 잘구매 했습니다."
+    },
+    {
+      "source_model": "LS-USB-AMAF",
+      "내용": "아주 좋은 상품입니다."
+    },
+    {
+      "source_model": "LS-USB-AMAF",
+      "내용": "아주 좋은 상품입니다."
+    },
+    {
+      "source_model": "LS-USB-AMAF",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-USB-AMAF",
+      "내용": "잘 작동되고 좋네요~ 닌텐도 연결을 위해 구매했는데 대만족입니다"
+    },
+    {
+      "source_model": "LS-USB-AMAF-0.5M",
+      "내용": "정상작동 잘됩니다 감사합니다"
+    },
+    {
+      "source_model": "LS-USB-AMAF-10M",
+      "내용": "잘 됩니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-USB-AMAF-1M",
+      "내용": "배송 빠르고 좋아요~~"
+    },
+    {
+      "source_model": "LS-USB-AMAF-1M",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-USB-AMAF-1M",
+      "내용": "저렴한 금액으로 빠르게 받았습니다."
+    },
+    {
+      "source_model": "LS-USB-AMAF-1M",
+      "내용": "좋아요~~~~~~~~"
+    },
+    {
+      "source_model": "LS-USB-AMAF-1M",
+      "내용": "원하던 제품 잘 구매했습니다~^^"
+    },
+    {
+      "source_model": "LS-USB-AMAF-1M",
+      "내용": "잘 사용하고 있고, 문제 없네요",
+      "관련내용": "가성비 좋고 택배도 잘 왔어요"
+    },
+    {
+      "source_model": "LS-USB-AMAF-1M",
+      "내용": "좋습니다 지문인식기 연장하려고 구매했는데 잘되네요ㅕ"
+    },
+    {
+      "source_model": "LS-USB-AMAF-1M",
+      "내용": "가성비 좋고 택배도 잘 왔어요"
+    },
+    {
+      "source_model": "LS-USB-AMAF-3M",
+      "내용": "빠른 배송 좋아요!!"
+    },
+    {
+      "source_model": "LS-USB-AMAF-3M",
+      "내용": "빠른 배송으로 잘받았습니다."
+    },
+    {
+      "source_model": "LS-USB-AMAF-3M",
+      "내용": "최고에요 잘쓰고있어용"
+    },
+    {
+      "source_model": "LS-USB-AMAF-3M",
+      "내용": "잘 받았습니다 잘 사용하겠습니다"
+    },
+    {
+      "source_model": "LS-USB-AMAF-3M",
+      "내용": "정말 쓰기 편하고 좋습니다!",
+      "관련내용": "너무 저렴하게 잘사서 좋습니다!"
+    },
+    {
+      "source_model": "LS-USB-AMAF-3M",
+      "내용": "너무 저렴하게 잘사서 좋습니다!"
+    },
+    {
+      "source_model": "LS-USB-AMAF-3M",
+      "내용": "좋습니다. 연결 잘 되고요. 감사합니다."
+    },
+    {
+      "source_model": "LS-USB-AMAF-5M",
+      "내용": "빠른배송 및 기존에 사용한거랑 같은걸로 구매했어요"
+    },
+    {
+      "source_model": "LS-USB-AMAF-5M",
+      "내용": "총알배송 배송이 빠르네요."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-USB-AMAF-1M",
+      "id": 525325913,
+      "date": "2023-04-17 00:54",
+      "answerDate": "2023-04-17 08:59",
+      "user": "kisk*****",
+      "productName": "랜스타 LS-USB-AMAF-1M USB2.0 연장케이블 A/M - A/F 1M",
+      "question": "차량 usb c 단자에서 본제품 am>af 을 am > 5핀 숫놈 케이블과 연결하여 미니공기청정기, 선풍기에 연결하려합니다.\n즉 데이터 전송은 전혀 필요없고 충전역할만 하면 되는데 사용가능할까요?\n추가로  차량 usb c단자에서 S-USB314B USB3.1 C/M USB3.0 4포트 허브 검정 제품에 본 케이블 am af 연결시 충전도 가능한지 궁금합니다",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n해당 제품 간단한 충전 용도로는 사용 가능하며, LS-USB314B 제품의 경우 충전 용도로 연결 시 전력이 부족하여 정상적으로 작동하지 않을 수 있는 점 안내 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-USB-AMAF-1M",
+      "chatUrl": "6rrM7",
+      "dateIso": "2024-05-10T05:11:47.714Z",
+      "name": "고경훈",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "파손품은 다시 보내드릴까요?\n아니면 폐기처리할까요?\n(추가 문의) 네 자체 폐기 처리하도록 하겠습니다\n(추가 문의) 네 1개만 처리해주시면 됩니다",
+      "answer": "교환 요청 주신 LS-USB-AMAF-1M USB2.0 중 1개만 회수 후 교환 진행드리면 될까요?\n\n파손품의 경우 번거로우시겠지만 폐기 처리 가능하실까요?\n\n궁금한 내용이 있으시면 언제든 문의주세요.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 자체 폐기 처리하도록 하겠습니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n파손품의 경우 번거로우시겠지만 폐기 처리 가능하실까요?"
+        },
+        {
+          "role": "customer",
+          "text": "파손품은 다시 보내드릴까요?\n아니면 폐기처리할까요?"
+        },
+        {
+          "role": "agent",
+          "text": "[배송안내] 고객님, 교환요청하신 상품의 배송이 시작되었습니다. 궁금한 내용이 있으시면 언제든 문의주세요."
+        },
+        {
+          "role": "customer",
+          "text": "네 1개만 처리해주시면 됩니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n교환 요청 주신 LS-USB-AMAF-1M USB2.0 중 1개만 회수 후 교환 진행드리면 될까요?"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-USB-AMAF-XXM": "LANStar\nUSB 2.0 A/M-A/F 케이블\n0.15M / 0.5M / 1M / 1.8M / 3M / 5M / 10M\nUSB2.0\n480Mbps\nA/M-A/F\nUSB2.0 HI-SPEED\n최대속도 480Mbps\nUSB 2.0 케이블\n지원\nUSB 2.0\nUSB 2.0 규격은 USB 1.1보다 약 40배 빠른 480Mbps의 전송속도로\n데이터를 전송할 수 있습니다.\nUSB A/M-A/F 케이블\nUSB 연장 케이블은 USB 인터페이스를 가진 장비의 케이블 길이를\n연장하는 용도로 사용되며 키보드, 마우스, 프린터, 복합기 등\n다양한 USB 기기들을 사용 환경에 맞게 연장하여 사용할 수 있습니다.\nAA\n480Mbps 전송속도\nUSB 2.0 HI-SPEED 규격으로 480Mbps의 데이터 전송속도를 지원합니다.\n\n\n480Mbps 전송속도\nUSB 2.0 HI-SPEED 480Mbpsºl GIOIE ✯LICH.\n500Mbps\n480\nMbps\n12\nMbps\n10Mbps\n1.5\nMbps\nUSB 1.0\nUSB 1.1\nUSB 2.0\nHI-SPEED\nUSB 로고\nCERTIFIED\nUSB\nCERTIFIED\nUSB\nCERTIFIED\nUSB\nUSB 2.0\nUSB 버전\nUSB 1.0\n(LOW SPEED)\nUSB 1.1\n(FULL SPEED)\n(HI-SPEED)\n하위버전 호환\nUSB 1.0\nUSB 1.1\n최대전송속도\n1.5Mbps\n12Mbps\n480Mbps\n충전 전압\n100m/A\n100m/A\n500m/A\n출시년도\n1995\n1998\n2001\nUSB 2.0 A/M -A/F\nUSB A/M - A/F 형태로 구성된 케이블입니다.\nUSB 2.0 A/M\nUSB 2.0 A/F\n28AWG\nAmerican Wire Gauge\n케이블 내심의 굵기를 표시하는 단위로 AWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 전송에 적합합니다.\nO\n\n\n40\n16\n설치가 용이하며\n저화질 전송에 적합\n설치가 까다로우나\n잡음이 적고\n안정적인 전송이 가능\nAWG\n직경(Inch)\n(mm)\n단면적(㎡)\n저항(2/m) 허용전류(A)\n20\n0.032\n0.812\n0.518\n0.0333\n4.5\n221\n21\n0.0285\n0.723\n0.41\n0.042\n3.8\n22\n22\n0.0253\n0.644\n0.326\n0.053\n3.0\n23\n23\n0.0226\n0.573\n0.258\n0.0668\n2.2\n224\n0.0201\n0.511\n0.205\n0.0842\n0.588\n25\n0.0179\n0.455\n0.162\n0.106\n0.477\n26\n26\n0.0159\n0.405\n0.129\n0.134\n0.378\n27\n27\n0.0142\n0.361\n0.102\n0.169\n0.288\n28\n0.0126\n0.321\n0.081\n0.213\n0.250\n29\n20\n0.0113\n0.286\n0.0642\n0.268\n0.212\n30\n0.01\n0.255\n0.0509\n0.339\n0.147\n케이블 구조\nOD 4.5±0.1mm\n● 도체(CONDUCTOR) : 전기 신호가 흐르는 구리선\n● 절연체(INSULATION) : 내부 전도체를 서로 절연시키는 절연 피복\n● 알루미늄 차폐 : 추가적인 차폐층으로, 데이터 전송선의 신호 간섭 방지\n● 편조차폐 : 금속선 편조 실드로, 데이터 전송선의 신호 간섭 방지\n● PVC 외피 : 외부 물리적 손상 방지 및 절연 역할\nPVC JACKET\n편조차폐\n알루미늄 차폐\n절연체\n도체\nPRODUCT SIZE\n0.15M/0.5M/1M/1.8M/3M/5M/10M\n12\n22\n1°1\n36\nHI:\n14\nPIN OUT\nP1\nF\nP2\n1\n1 RED\n2 WHITE\n-23 +\nXX\n3 GREEN\n4\n4 BLACK\n\n\n1\n1 RED\n2\n2 WHITE\nxox\n3\n3 GREEN\n4\n4 BLACK\nSPECIFICATION\nUSB 규격\nUSB 2.0 (Hi-Speed)\n단자 형태\nUSB A Male →USB A Female\n전송 속도\n최대 480Mbps\nAWG\n28AWG X 1P (데이터), 24AWG2C (전원)\n차폐\n알루미늄 차폐 +편조차폐 (이중 차폐)\n외피\nPVC(Black)\n길이\n0.15M / 0.5M / IM / 1.8M / 3M / 5M / 10M\nFAQ\n자주 물어보시는 질문\nQ. 이 케이블의 주된 용도가 무엇인가요?\nUSB 포트의 연장이 필요할 때 사용하는 케이블입니다.\n예) 본체 뒷면 포트를 책상 위로 빼거나, 좁은 공간에서 USB 장치를 쉽게 연결할 수\n있도록 합니다.\nQ. USB3.0 포트에 연결해서 사용해도 되나요?\n네. 하위 호환되므로 USB3.0 포트에 연결해서 사용할 수 있습니다.\n단, 성능은 USB2.0 기준으로 동작합니다.\nQ. USB 허브나 키보드, 마우스에 연결해도 되나요?\n네, USB 허브, 키보드, 마우스 등 저전력 장치 연결에 적합합니다.\nQ. 연장하면 신호 손실이 생기지 않나요?\n일정 길이 내에서는 문제없습니다.\n이 케이블은 알루미늄 포일 + 편조 이중 차폐 구조로 외부 노이즈를 효과적으로 차단하여\n안정적인 신호를 유지합니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n상품 도착\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n\n\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n소재·부품·장비\n전문기업확인서\n소재부품 장비 전문기업확인서\nSTANDARTI\nD\nKTA\n가관리원\n선호기업인을 확인합니다.\n산업통산자원부 시행 제도\nKeit\nU21129\n2022.11.29 취득\n한국산업기술평가관리국\nEXE\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH M 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상 품 정 보\n품\n명\nUSB2.0 A/M - A/F 케이블\nLS-USB-AMAF-0.15M\nLS-USB-AMAF-0.5M\nLS-USB-AMAF-IM\n모\n델\n명\nLS-USB-AMAF-1.8M\nLANG\nStar\nLS-USB-AMAF-3M\nLS-USB-AMAF-5M\nLS-USB-AMAF-10M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질보증기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLAN Star\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.15,
+        0.5,
+        1,
+        1.8,
+        3,
+        5,
+        10
+      ],
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "selector_type": "N/A",
+      "input_count": null,
+      "output_count": null,
+      "interfaces": [
+        "USB 2.0"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A Male 커넥터를 PC 또는 충전기",
+    "connectivity.output_signals": "USB A Female 커넥터에 연장이 필요한 USB 장치",
+    "connectivity.directional": "USB A Male → USB A Female 연장 케이블",
+    "power.power_mode": "24AWG(전원선) 구성",
+    "form_physical.has_case": "PVC 외피(블랙) 적용",
+    "form_physical.material": "PVC 외피(블랙) 적용",
+    "form_physical.length_options_meters": "0.15M / 0.5M / 1M / 1.8M / 3M / 5M / 10M",
+    "form_physical.color_options": "PVC 외피(블랙) 적용",
+    "audio_video.max_resolution": "USB 2.0 Hi-Speed 규격 지원",
+    "audio_video.hdr_support": "USB 2.0 Hi-Speed 규격 지원",
+    "audio_video.hdcp_version": "USB 2.0 Hi-Speed 규격 지원",
+    "audio_video.audio_pass": "USB 2.0 Hi-Speed 규격 지원",
+    "family.selector_type": "USB A Male → USB A Female 연장 케이블",
+    "family.interfaces": "USB 2.0 Hi-Speed 규격 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:28",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

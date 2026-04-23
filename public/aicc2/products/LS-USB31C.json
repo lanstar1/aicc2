@@ -1,0 +1,130 @@
+{
+  "model_no": "LS-USB31C",
+  "product_name": "USB 3.1 Gen1 Type C 케이블 컨버터 (USB 3.0 A/M to USB 3.1 C/F)",
+  "category": [
+    "USB허브",
+    "USB-C",
+    "USB3.0",
+    "USB2.0",
+    "컨버터"
+  ],
+  "key_features": [
+    "USB 3.1 Gen1 기반 SuperSpeed 5Gbps 전송속도 지원 (USB 2.0 대비 10배 빠름)",
+    "USB 3.0 A타입 Male → USB 3.1 C타입 Female 변환 지원",
+    "칩셋(Chipset) 내장 컨버터",
+    "전원 공급 최대 1500mA(USB 3.1) 지원으로 USB 허브·외장하드 등 안정적 사용 가능",
+    "데이터 전송 중 전원 부족으로 인한 장치 연결 끊김 현상 방지",
+    "RoHS 인증(유해물질 사용 제한) 준수",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "케이블 타입": "USB 3.1 C/F - 3.0 A/M",
+    "전송속도": "5Gbps",
+    "길이": "0.15M (150mm)",
+    "전원": "30V",
+    "작동온도": "0°C ~ 80°C",
+    "커넥터 A": "USB 3.0 A Type Male",
+    "커넥터 B": "USB 3.1 C Type Female",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "USB 3.1 (SuperSpeed+, 최대 10Gb/s) 하위 호환",
+    "USB 3.0 (SuperSpeed, 최대 5Gb/s)",
+    "USB 2.0 (Hi-Speed, 최대 480Mb/s)",
+    "USB 1.1",
+    "USB 3.1 Type C 포트 탑재 기기",
+    "USB 3.0 A타입 포트 탑재 기기",
+    "USB 허브 (별도 전원 필요 제품 포함)",
+    "외장하드"
+  ],
+  "package_contents": [
+    "USB 3.1 Type C 컨버터 케이블 (LS-USB31C) 0.15m 1개",
+    "콘넥터 보호캡"
+  ],
+  "usage_instructions": "USB 3.0 A타입 포트가 있는 기기에 케이블의 A/M 커넥터를 연결하고, USB 3.1 C타입 포트가 있는 기기에 C/F 커넥터를 연결하여 사용합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "RoHS 지침에 따라 납, 수은, 카드뮴 등 중금속 사용이 제한된 제품입니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB31C",
+      "품목코드": "CAB-U31014",
+      "품목명": "[LANstar] USB 3.1 C-Type CONVERTER , USB3.0 A/M TO 3.1 C/F, White, 0.15M[30122]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-C"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "port_count": null,
+      "usb_version": "USB3.1",
+      "ethernet_speed_mbps": null,
+      "has_sd_reader": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 A타입 Male",
+    "connectivity.output_signals": "USB 3.1 C타입 Female",
+    "connectivity.directional": "USB 3.0 A타입 Male → USB 3.1 C타입 Female 변환 지원",
+    "power.power_mode": "전원 공급 최대 1500mA(USB 3.1) 지원",
+    "power.charging_support": "전원 공급 최대 1500mA(USB 3.1) 지원",
+    "form_physical.has_case": "칩셋(Chipset) 내장 컨버터",
+    "form_physical.length_meters": "0.15M (150mm)",
+    "certification.rohs": "RoHS 인증(유해물질 사용 제한) 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "family.usb_version": "USB 3.1 Gen1 기반 SuperSpeed 5Gbps"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:51",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,111 @@
+{
+  "model_no": "LSN-BOOT-OPEN-R",
+  "product_name": "LANStar 각부트 OPEN 빨강(Red) 5mm",
+  "category": [
+    "커넥터"
+  ],
+  "key_features": [
+    "랜 케이블과 커넥터 연결 부분 보호",
+    "케이블 꺾임 및 커넥터 lock 파손 방지",
+    "톱니 형태 연결 방식 (락부트만 해당)",
+    "RoHS 인증 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "색상": "빨강 (Red)",
+    "크기": "5mm",
+    "수량": "100개입",
+    "제품 유형": "각부트 OPEN",
+    "모델명": "LSN-BOOT-OPEN-R",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "RoHS": "COMPLIANT",
+    "ISO": "9001:2008"
+  },
+  "compatibility": [
+    "5~8.5mm 두께의 랜케이블 (부트 라인업 전체 기준)",
+    "RJ-45 랜 커넥터"
+  ],
+  "package_contents": [
+    "각부트 OPEN Red(5mm) 100개"
+  ],
+  "usage_instructions": "랜스타 부트는 5~8.5mm 크기가 있어 랜케이블 두께에 따라 다양하게 선택하여 사용할 수 있습니다. 랜 케이블과 커넥터 연결 부분에 장착하여 케이블 꺾임 및 커넥터 파손을 방지합니다.",
+  "cautions": [
+    "유통과정상 제품의 모양이나 색상은 조금 달라질 수 있으며, 'LANSTAR' 로고 역시 변경될 수 있으나 전부 랜스타 정품 제품임.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음.",
+    "톱니 형태 연결 방식은 락부트 제품에만 해당됨."
+  ],
+  "variants": [
+    {
+      "model_no": "LSN-BOOT-OPEN-R",
+      "품목코드": "NNO-부트류011",
+      "품목명": "[LANstar] BOOT , 각부트 OPEN／RED(100개)[40637]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "빨강"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": null,
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "각부트 OPEN",
+    "form_physical.material": "랜스타 부트는 5~8.5mm 크기가",
+    "form_physical.color_options": "빨강(Red)",
+    "certification.rohs": "RoHS 인증 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:09",
+  "feature_schema_version": "1.0.0"
+}

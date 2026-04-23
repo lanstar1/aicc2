@@ -1,0 +1,257 @@
+{
+  "model_no": "LS-NF810",
+  "product_name": "랜스타 네트워크 멀티 테스터기 (NF-810)",
+  "category": [
+    "랜케이블-UTP",
+    "랜케이블-STP",
+    "랜케이블",
+    "네트워크공구",
+    "UTP포트"
+  ],
+  "key_features": [
+    "랜케이블(RJ45) 정상 유무, 단선, 쇼트, 다이렉트/크로스, UTP/STP 규격 테스트 가능",
+    "전화선(RJ11) 케이블 및 전화기 불량 유무 테스트 지원",
+    "PoE 스위치 포트 전원 공급 상태 확인 가능",
+    "WIREMAP 기능으로 9개 녹색 LED를 통해 테스트 결과 확인",
+    "TONE 신호 및 수신기 사운드 감지로 원거리 케이블 탐지 가능",
+    "이어폰 기본 제공으로 주변 소음 환경에서도 정확한 케이블 탐지 가능",
+    "Receiver LED 조명 기능으로 어두운 환경에서도 작업 가능",
+    "탐지 감도 조절 다이얼 지원",
+    "신호 전송 거리 최대 1km",
+    "학교 서버실, 가정 통신함, 기업 네트워크 유지보수, 키폰 공사 등에 활용 가능"
+  ],
+  "specifications": {
+    "전원": "9V 라미네이트 배터리",
+    "최대 전압": "60V",
+    "신호 전송 포맷": "Dual tone pulse",
+    "신호 전송 거리": "최대 1km",
+    "Wiremap 인터페이스": "RJ45",
+    "Wiremap 상태 표시": "9개 녹색 LED",
+    "EMITTER 스캔 인터페이스": "RJ45, RJ11",
+    "EMITTER 테스트 인터페이스": "RJ11",
+    "EMITTER 최대 동작 전류": "최대 70mA",
+    "EMITTER 크기": "123 x 45 x 27 (mm)",
+    "RECEIVER 최대 동작 전류": "최대 40mA",
+    "RECEIVER 크기": "204 x 45 x 28 (mm)",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음"
+  },
+  "compatibility": [
+    "RJ45 이더넷 케이블 (카테고리 무관, UTP/STP 모두 가능)",
+    "RJ11 전화선 케이블"
+  ],
+  "package_contents": [
+    "테스터기 송신기(EMITTER) 1개",
+    "테스터기 수신기(RECEIVER) 1개",
+    "이어폰 1개",
+    "연결 케이블 (RJ45, RJ11) 각 1개",
+    "테스트용 악어클립 케이블 (RJ11) 1개",
+    "배터리 2개 (송신기용, 수신기용 각 1개)",
+    "제품 파우치 1개"
+  ],
+  "usage_instructions": "1. 랜케이블 테스트: EMITTER의 RJ45 포트에 케이블을 연결하고 RECEIVER와 함께 사용하여 단선/쇼트/WIREMAP 등을 확인. 2. 전화선 테스트: EMITTER 다이얼을 'TONE'으로 맞추고 RJ11 포트에 전화선을 연결하여 전화기 및 케이블 불량 여부 확인. 3. PoE 테스트: PoE 스위치 포트에 연결 후 RECEIVER의 1, 2번 LED로 정상 전원 공급 여부 확인. 4. 원거리 케이블 탐지: EMITTER에서 TONE 신호 송출 후 RECEIVER의 사운드 감지 기능으로 케이블 위치 탐지. 주변 소음이 심할 경우 제공된 이어폰 사용 권장. 5. 어두운 환경: RECEIVER의 LED 조명 버튼을 활용하여 작업.",
+  "cautions": [
+    "본 제품은 케이블 탐지 및 불량 테스트 목적의 제품으로, 케이블 길이 측정 기능은 지원하지 않음",
+    "주변 소음이 심한 환경에서는 외부 소리만으로 케이블 식별이 어려울 수 있으므로 이어폰 사용 권장",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 A/S를 받을 수 없음",
+    "정품 여부 확인을 위해 구매 시 공식 인증 배너 확인 필요",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양이 예고 없이 변경될 수 있음",
+    "당사 동의 없이 상품 및 콘텐츠 무단 복제 및 이용 시 불이익이 발생할 수 있음",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준임"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-NF810",
+      "품목코드": "NEO-테스터142",
+      "품목명": "[LANstar] 네트워크 랜케이블 멀티 테스터기, POE, 케이블 스캔 [30825] (44개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-NF810",
+      "내용": "만족만족만족만족만족만족만족만족만족만족만족만족만족만족",
+      "관련내용": "탐지, 테스트 완전 굿굿굿"
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": "고장 없이 잘쓰고 있어요.",
+      "관련내용": "쓰던 제품이라 분실로 재구매"
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": "쓰던 제품이라 분실로 재구매"
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": "납품 건으로 주문했습니다.\n가격도 저렴하고 배송도 빠릅니다!",
+      "관련내용": "빠른 배송 감사합니다 잘 사용할게요!"
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": "탐지, 테스트 완전 굿굿굿"
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": "빠른 배송 감사합니다 잘 사용할게요!"
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": "항상 사용하지만 안정적이어서 좋습니다",
+      "관련내용": "주변에 전기전선 있으면 오탐지가 너무 심합니다"
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": "주변에 전기전선 있으면 오탐지가 너무 심합니다"
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": "아주 빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": ".........................................",
+      "관련내용": "......................................."
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": "......................................."
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": "작동하니 너무 편하고 좋더라고요",
+      "관련내용": "사용감도 좋고 성능이 마음에 들어요"
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": "사용감도 좋고 성능이 마음에 들어요"
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": "랜작업이 편해졌네요 작동잘하고 감지 잘합니다.",
+      "관련내용": "랜선작업하기가 더욱 편해집니다 구입하세요"
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": "랜선작업하기가 더욱 편해집니다 구입하세요"
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": "싸게샀어요 싸게샀어요 싸게샀어요 싸게샀어요 싸게샀어요 싸게샀어요 싸게샀어요",
+      "관련내용": "싸게샀어요 싸게샀어요 싸게샀어요 싸게샀어요 싸게샀어요 싸게샀어요"
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": "싸게샀어요 싸게샀어요 싸게샀어요 싸게샀어요 싸게샀어요 싸게샀어요"
+    },
+    {
+      "source_model": "LS-NF810",
+      "내용": "좋은제품을 구입하게되서 정말좋아요"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-NF810",
+      "chatUrl": "49kBR",
+      "dateIso": "2024-04-09T01:52:57.509Z",
+      "name": "헬무트",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "랜 멀티 테스터기 케이블 탐지기능이 PoE허브 처럼 전기도 흐르는 utp 탐지도 되나요? 일반 저가형 테스터기 같은경우 역전류 먹어서 고장나는데 탐지기능 있는 제품들은 괜찮을",
+      "answer": "해당 제품은 유도 대조기로 문의주신 POE 허브에 연결 또는 스위치에 연결되어 있다면 신호가 약해져 구분이 어려울 수 있습니다. 허브에 연결되\n\nhttps://smartstore.naver.com/lineup/products/10073237713",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "랜 멀티 테스터기 케이블 탐지기능이 PoE허브 처럼 전기도 흐르는 utp 탐지도 되나요? 일반 저가형 테스터기 같은경우 역전류 먹어서 고장나는데 탐지기능 있는 제품들은 괜찮을"
+        },
+        {
+          "role": "agent",
+          "text": "https://smartstore.naver.com/lineup/products/10073237713"
+        },
+        {
+          "role": "customer",
+          "text": "판매자 문의"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품은 유도 대조기로 문의주신 POE 허브에 연결 또는 스위치에 연결되어 있다면 신호가 약해져 구분이 어려울 수 있습니다.\n허브에 연결되"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45",
+        "RJ11"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "배터리",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [],
+      "color_options": []
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "랜케이블(RJ45) 정상 유무, 단선, 쇼트, 다이렉트/크로스, UTP/STP 규격 테스트 가능",
+    "power.power_mode": "9V 라미네이트 배터리",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "control_switching.has_physical_button": "탐지 감도 조절 다이얼 지원",
+    "family.poe_support": "PoE 스위치 포트 전원 공급 상태 확인 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:15",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "usage": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

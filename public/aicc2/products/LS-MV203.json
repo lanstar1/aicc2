@@ -1,0 +1,156 @@
+{
+  "model_no": "LS-MV203",
+  "product_name": "LANStar HDMI 4K 2X3 Video Wall Controller",
+  "category": [
+    "멀티비전"
+  ],
+  "key_features": [
+    "1x2 / 2x1 / 2x2 / 2x3 총 4가지 디스플레이 출력 모드 지원",
+    "각 출력 포트 최대 4K@30Hz 해상도 지원",
+    "리모콘을 통한 손쉬운 조작 가능",
+    "별도 프로그램 및 소프트웨어 설치 불필요 (Plug&Play)",
+    "상단 디스플레이 180° 회전 기능 지원 (베젤 최소화)",
+    "RS232 시리얼 포트 지원",
+    "광(Optical) 오디오 출력 지원",
+    "HDMI 입력 1포트, HDMI 출력 6포트",
+    "KC 인증 획득 (인증번호: R-R-LUS-LS-MV203)",
+    "캐스케이딩(Cascading) 모드 미지원",
+    "피벗(Pivot) 기능 미지원 (180° 회전만 지원)"
+  ],
+  "specifications": {
+    "입력 포트": "HDMI 1포트",
+    "출력 포트": "HDMI 6포트",
+    "최대 해상도": "4K@30Hz / 1080P@60Hz",
+    "HDMI 케이블 최대 길이 (입력)": "8m (26AWG 기준)",
+    "HDMI 케이블 최대 길이 (출력)": "10m (26AWG 기준)",
+    "전원": "12V DC 2A",
+    "크기": "252 x 104 x 23 (mm)",
+    "무게": "약 806g",
+    "재질": "메탈",
+    "동작 온도": "-10°C ~ 45°C",
+    "동작 습도": "5% ~ 90%",
+    "KC 인증번호": "R-R-LUS-LS-MV203",
+    "아답터 인증번호": "HU10999-19004B",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "HDMI 출력 소스 기기 (PC, 노트북 등)",
+    "HDMI 입력 디스플레이 (TV, 모니터) 최대 6대",
+    "1x2 모드: 입력기기 7680x2160 해상도 지원 필요",
+    "2x1 모드: 입력기기 3840x4320 해상도 지원 필요",
+    "2x2 모드: 입력기기 7680x4320 해상도 지원 필요",
+    "2x3 모드: 입력기기 7680x6480 해상도 지원 필요",
+    "HDMI 케이블 국제 표준 규격 26AWG",
+    "헤드셋/이어폰 및 외부 스피커 (오디오 출력 포트 통해 연결 가능)",
+    "광(Optical) 오디오 출력 기기"
+  ],
+  "package_contents": [
+    "2x3 멀티비전 본체 (LS-MV203)",
+    "Remote Control (리모콘)",
+    "12V 2A 전원 아답터 (인증번호: HU10999-19004B)",
+    "RS232 시리얼 포트 케이블",
+    "User Manual"
+  ],
+  "usage_instructions": "1. HDMI 소스 기기(PC, 노트북 등)를 본체 HDMI 입력 포트에 연결한다. 2. 디스플레이(TV, 모니터) 최대 6대를 본체 HDMI 출력 포트(1~6번)에 연결한다. 3. DC 12V 2A 전원 아답터를 연결하여 전원을 공급한다. 4. 리모콘 또는 본체 모드 변경 버튼을 이용해 1x2 / 2x1 / 2x2 / 2x3 중 원하는 출력 모드를 선택한다. 5. 2x2 또는 2x3 모드 사용 시 상단 디스플레이를 180° 회전하면 베젤을 줄일 수 있다. 6. 별도 소프트웨어 설치 없이 Plug&Play로 동작한다. 사용 디스플레이 배열에 따라 입력기기(PC 등)에서 해당 해상도를 지원해야 정상 출력 가능하다.",
+  "cautions": [
+    "HDMI 케이블 길이에 따라 해상도 저하가 발생할 수 있으므로 입력 최대 8m, 출력 최대 10m(26AWG 기준) 이내 사용 권장",
+    "4K@60Hz 해상도는 지원하지 않으며, 최대 4K@30Hz / 1080P@60Hz까지 지원",
+    "캐스케이딩(Cascading) 모드를 지원하지 않음",
+    "피벗(Pivot) 기능을 지원하지 않으며, 상단 디스플레이 180° 회전 기능만 지원",
+    "멀티비전 모드 정상 사용을 위해 입력기기가 해당 배열에 맞는 해상도를 지원해야 함",
+    "각 디스플레이는 3840x2160 해상도로 출력됨",
+    "정품 인증 배너가 없는 판매처의 제품은 A/S를 받을 수 없음",
+    "라인업시스템(주)/랜스타 정품 제품에 한해 제조사 기준 A/S 서비스 제공",
+    "TV, 모니터 자체 스피커가 없는 경우 별도 오디오 케이블 연결 필요",
+    "당일출고는 평일 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-MV203",
+      "품목코드": "INT-HDS301",
+      "품목명": "[LANstar] HDMI 2x3 멀티비전 월컨트롤러 [30784] (10개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 7
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": false
+    },
+    "family": {
+      "input_count": 1,
+      "output_count": 6,
+      "mode": [
+        "멀티비전"
+      ],
+      "cascade_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 입력 1포트",
+    "connectivity.output_signals": "HDMI 출력 6포트",
+    "connectivity.directional": "HDMI 입력 1포트, HDMI 출력 6포트",
+    "connectivity.port_count": "HDMI 입력 1포트, HDMI 출력 6포트",
+    "power.power_mode": "전원: 12V DC 2A",
+    "power.charging_support": "전원: 12V DC 2A",
+    "form_physical.has_case": "크기: 252 x 104 x 23 (mm)",
+    "form_physical.material": "재질: 메탈",
+    "certification.kc": "KC 인증 획득",
+    "audio_video.max_resolution": "최대 4K@30Hz 해상도 지원",
+    "audio_video.audio_pass": "광(Optical) 오디오 출력 지원",
+    "control_switching.has_remote": "리모콘을 통한 손쉬운 조작 가능",
+    "control_switching.has_physical_button": "본체 모드 변경 버튼을 이용해",
+    "control_switching.has_app_control": "별도 프로그램 및 소프트웨어 설치 불필요",
+    "family.input_count": "HDMI 입력 1포트",
+    "family.output_count": "HDMI 출력 6포트",
+    "family.mode": "LANStar HDMI 4K 2X3 Video Wall Controller",
+    "family.cascade_support": "캐스케이딩(Cascading) 모드 미지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:58",
+  "feature_schema_version": "1.0.0"
+}

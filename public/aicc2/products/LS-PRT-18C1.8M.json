@@ -1,0 +1,97 @@
+{
+  "model_no": "LS-PRT-18C1.8M",
+  "product_name": "프린터 케이블 18Core 1.8M",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "DB25(Male) - CENT36(Male) 연결 지원",
+    "18 Core 구성",
+    "케이블 길이 1.8M",
+    "정격전압 300V",
+    "작동온도 0~80°C",
+    "RoHS 규정 준수 (납·수은·카드뮴 등 중금속 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 타입": "DB25 / CENT36",
+    "전압": "300V",
+    "길이": "1.8M",
+    "작동온도": "0~80°C",
+    "코어 수": "18 Core"
+  },
+  "compatibility": [
+    "DB25(Male) 인터페이스 지원 컴퓨터",
+    "CENT36(Male) 인터페이스 지원 프린터"
+  ],
+  "package_contents": [
+    "프린터 케이블 18Core 1.8M (DB25-CENT36) 1개"
+  ],
+  "usage_instructions": "컴퓨터의 DB25 포트와 프린터의 CENT36 포트에 각각 연결하여 사용",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매·배송·반품 문의는 판매처(쇼핑몰) 이용"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Parallel(DB25)"
+      ],
+      "output_signals": [
+        "Parallel(DB25)"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 1.8,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DB25(Male) - CENT36(Male) 연결 지원",
+    "connectivity.output_signals": "DB25(Male) - CENT36(Male) 연결 지원",
+    "connectivity.directional": "DB25(Male) - CENT36(Male) 연결 지원",
+    "form_physical.length_meters": "케이블 길이 1.8M",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:29",
+  "feature_schema_version": "1.0.0"
+}

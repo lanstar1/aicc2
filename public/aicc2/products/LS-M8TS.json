@@ -1,0 +1,426 @@
+{
+  "model_no": "LS-M8TS",
+  "product_name": "LANStar HDMI 8x1 KVM 멀티뷰어 화면분할기",
+  "category": [
+    "HDMI-KVM",
+    "KVM",
+    "HDMI멀티뷰어"
+  ],
+  "key_features": [
+    "하나의 키보드, 마우스, 디스플레이 장치로 최대 8대 PC 조작",
+    "8대 입력 기기를 1대 디스플레이에서 출력 및 PC 8대 독립적인 프로그램 실행",
+    "핫키, 리모콘을 통한 손쉬운 디스플레이 모드 변경",
+    "최대 4K@30Hz 출력 해상도 지원",
+    "심리스(Seamless) 기능을 지원하여 빠르고 부드러운 화면 전환",
+    "16가지 디스플레이 출력 모드 지원",
+    "동시 사용 모드: 키보드 오른쪽 숫자패드 * + 0으로 8대 PC 동시 제어",
+    "트레블 모드: * + S로 8개 분할 화면에서 마우스 자유 이동",
+    "Windows, Linux, Mac OS, Android 다양한 OS 지원",
+    "RS232 포트 지원",
+    "국립전파연구원 KC 인증 획득 (R-R-LUS-LS-M8TS)",
+    "심리스(Seamless) 기능 지원으로 화면 전환 시 딜레이 없음",
+    "일반 멀티비전 제품 대비 화면 전환 속도 개선 (기존 제품은 약 1~2초 딜레이 발생)"
+  ],
+  "specifications": {
+    "입력 포트": "HDMI 8포트, USB-A 8포트, RS232",
+    "출력 포트": "HDMI 1포트, 키보드/마우스",
+    "Input 최대 해상도": "4K@30Hz",
+    "Output 최대 해상도": "4K@30Hz, 2560x1600, 2560x1440, 1080P",
+    "오디오 포맷": "PCM",
+    "최대 해상도 케이블 길이": "10M (In, Out 동일 / 26AWG HDMI 표준 케이블 규격)",
+    "전원": "DC 12V 1A 아답터",
+    "작동 온도": "-10°C ~ 55°C",
+    "크기": "226 x 103 x 25 (mm)",
+    "무게": "약 533g",
+    "KC 인증 번호": "R-R-LUS-LS-M8TS",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "심리스 기능 지원 여부": "지원",
+    "화면 전환 딜레이 (심리스 미지원 제품)": "약 1~2초",
+    "화면 전환 딜레이 (LS-M8TS)": "없음"
+  },
+  "compatibility": [
+    "Windows",
+    "Linux",
+    "Mac OS",
+    "Android",
+    "HDMI 지원 디스플레이",
+    "USB-A 포트 지원 PC (최대 8대)",
+    "RS232 지원 장치",
+    "26AWG HDMI 표준 케이블"
+  ],
+  "package_contents": [
+    "8x1 멀티뷰어 본체 x1",
+    "USB A-A 케이블 8ea (1.5m)",
+    "리모콘 x1",
+    "매뉴얼 x1",
+    "DC 12V 1A 아답터 x1",
+    "USB A - RS232 케이블 x1"
+  ],
+  "usage_instructions": "1. HDMI 입력 포트와 PC USB 입력 포트는 반드시 동일한 번호의 포트에 연결 (예: PC1 ↔ HDMI IN1). 2. 마우스와 키보드는 멀티뷰어 본체에 연결. 3. 마우스/키보드 입력 포트가 별도로 구분되어 있으므로 구분하여 연결. 4. 핫키 사용 시 각 PC와 USB 케이블이 정상적으로 연결되어야 함. 5. 키보드 오른쪽 숫자패드 * + F1~F8로 제어할 PC 선택. 6. * + 0으로 동시 사용 모드 활성화/비활성화. 7. * + S로 트레블 모드(마우스 자유 이동) 활성화. 8. * + 1~9, 방향키로 디스플레이 모드 변경. 9. * + F9: 마우스 고정 모드, * + F10: 마우스 자유 모드, * + F11: 소프트웨어 리셋. 10. 리모콘으로 출력 모드 변경 및 해상도 변경 가능.",
+  "cautions": [
+    "HDMI 입력 포트와 PC USB 입력 포트는 반드시 동일한 번호에 연결할 것 (예: HDMI IN1 ↔ PC IN1)",
+    "마우스와 키보드 입력 포트가 구분되어 있으므로 혼동하지 말 것",
+    "핫키 사용을 위해 각 PC와 USB 케이블이 반드시 정상 연결되어야 함",
+    "키보드와 마우스는 멀티뷰어 본체에 연결해야 함",
+    "PC 간 데이터 이동 기능은 지원하지 않음",
+    "매크로 프로그램은 설정된 PC 한 대에서만 동작하며 동시 실행 불가",
+    "마우스 자유 모드가 실행되지 않을 경우 * + F9를 눌러 마우스 고정 모드를 해제할 것",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처의 제품은 A/S 불가",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품은 단품 구성이며, 이미지 내 연출된 구성과 다를 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-M8TS",
+      "품목코드": "INT-HDS313",
+      "품목명": "[LANstar] 8x1 KVM HDMI멀티뷰어 화면분할기 [30809] (10개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-M8TS",
+      "내용": "항상 잘 사용 하고 있어요.",
+      "관련내용": "항상 잘 사용 하고 있어요."
+    },
+    {
+      "source_model": "LS-M8TS",
+      "내용": "항상 잘 사용 하고 있어요."
+    },
+    {
+      "source_model": "LS-M8TS",
+      "내용": "빠른 배송 감사합니다. 이상이 있는 줄 알아서 맡겼는데 상담도 친절하게 해주셔서 좋았습니다.",
+      "관련내용": "빠른 배송 감사합니다. 다음에도 필요하면 구입할게요!! :)"
+    },
+    {
+      "source_model": "LS-M8TS",
+      "내용": "배송도 빠르고 좋습니다.",
+      "관련내용": "견고하고 배송도 빨라 만족스럽습니다."
+    },
+    {
+      "source_model": "LS-M8TS",
+      "내용": "배송도 빠르고 좋습니다.",
+      "관련내용": "배송도빠르고좋습니다."
+    },
+    {
+      "source_model": "LS-M8TS",
+      "내용": "빠른 배송 감사합니다. 다음에도 필요하면 구입할게요!! :)"
+    },
+    {
+      "source_model": "LS-M8TS",
+      "내용": "배송도빠르고좋습니다."
+    },
+    {
+      "source_model": "LS-M8TS",
+      "내용": "견고하고 배송도 빨라 만족스럽습니다."
+    },
+    {
+      "source_model": "LS-M8TS",
+      "내용": "조만한 세대 더 구매할 생각"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-M8TS",
+      "id": 634130749,
+      "date": "2025-07-05 21:31",
+      "answerDate": "2025-07-07 09:07",
+      "user": "4765***",
+      "productName": "KVM 스위치 CCTV 모니터 HDMI 멀티뷰어 4K 화면분할기 (LS-M8TS)",
+      "question": "모니터는 큰게없어서 티비에 사용할까 싶은데 가능할까요?예를들어 50인치정도되는 티비에 hdmi 연결해서 사용이 될지 궁금하네요.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n사용 가능하십니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-M8TS",
+      "id": 644169485,
+      "date": "2025-09-22 16:48",
+      "answerDate": "2025-09-22 17:20",
+      "user": "viol*****",
+      "productName": "KVM 스위치 CCTV 모니터 HDMI 멀티뷰어 4K 화면분할기 (LS-M8TS)",
+      "question": "안녕하세요\ncctv 연결할수 있겠죠?  그리고 연결길이가 10m 라고 나와있는데요 이게 cctv녹화기에서 멀티뷰어 본체까지의 길이가 맞겠죠?  농장이라서 각각의 카메라와 녹화기사이 의 케이블길이는 길어서요(10~ 400m) \n cctv녹화기만 5대정도 연결예정입니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\nCCTV에 직접 연결은 불가하지만 pc에서의 cctv 관리 화면은 송출 가능합니다. 해당 제품은 증폭기가 아니기 때문에 먼거리를 보장하기 어렵습니다. 권장 길이는 5미터를 넘지 않도록 해주시면 되겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-M8TS",
+      "chatUrl": "5Gkq7",
+      "dateIso": "2024-12-04T07:37:13.737Z",
+      "name": "Pramson",
+      "isTechnical": true,
+      "category": "other",
+      "modelConfidence": "high",
+      "question": "유선상 말씀드린것처럼 반송을 진행하기 위해서 반송인수증 전달드립니다.\n\n[반품 수거 인수증]\n\n고객님, 반품 요청하신 상품 수거완료(회수) 되었\n(추가 문의) 구매이후 제품에 문제가 있어 반품처리를 했습니다. (회수일자 11/19) 일주일이 지난 이후 재 배송에 대한 언급 및 문자가 없어서 연락드립니다\n(추가 문의) 안녕하세요. 저희가 법인이라 비용별도 입금이 안되어서 카드결제로 해결할 수 있는 방법이 없을까요??\n(추가 문의) 배송비가 추가로 3000원이 드는데요... 일부는 환급해주시는 것 일까요??\n총 6000원",
+      "answer": "https://smartstore.naver.com/lineup/products/6162983722",
+      "turn_count": 8,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "2024120395427301 주문 완료했습니다. :)"
+        },
+        {
+          "role": "agent",
+          "text": "결제 후 말씀 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "배송비가 추가로 3000원이 드는데요... 일부는 환급해주시는 것 일까요??\n총 6000원"
+        },
+        {
+          "role": "agent",
+          "text": "https://smartstore.naver.com/lineup/products/6162983722"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요. 저희가 법인이라 비용별도 입금이 안되어서 카드결제로 해결할 수 있는 방법이 없을까요??"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        },
+        {
+          "role": "customer",
+          "text": "교환사유 : 키보드 마우스가 인식되지 않는 문제"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        },
+        {
+          "role": "customer",
+          "text": "유선상 말씀드린것처럼 반송을 진행하기 위해서 반송인수증 전달드립니다.\n\n[반품 수거 인수증]\n\n고객님, 반품 요청하신 상품 수거완료(회수) 되었"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        },
+        {
+          "role": "customer",
+          "text": "구매이후 제품에 문제가 있어 반품처리를 했습니다. (회수일자 11/19) 일주일이 지난 이후 재 배송에 대한 언급 및 문자가 없어서 연락드립니다"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        },
+        {
+          "role": "customer",
+          "text": "판매자 문의"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        },
+        {
+          "role": "customer",
+          "text": "반품 문의"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-M8TS",
+      "chatUrl": "5ETGA",
+      "dateIso": "2024-03-20T04:06:11.202Z",
+      "name": "성신",
+      "isTechnical": true,
+      "category": "install",
+      "modelConfidence": "high",
+      "question": "LS-M8TS 문의합니다.\n\n제품엔 마우스 키보드 각각 USB포트가 있던데...\n\n따로 구매해 놓은 무선 키보드마우스 세트 제품은 동글이 하나입니다.\n\n이런경우 아무 USB포트에\n(추가 문의) 안녕하세요.\nPC 6대 제어를 모니터 1대 키보드,마우스 1대로 컨트롤 하고자 하는데 적합한 제품 같은데 질문 있습니다.\n1. 50인치4K 모니터에 6대 PC의 화면을 출력할 예\n(추가 문의) 추가 질문입니다.\n\n제품과 - PC\n제품과 - 모니터\n제품과 - 유선(키보드,마우스)\n\n제한 거리가 있나요?\n(추가 문의) 네. 설치해보니 되더군요.\n\n그런데 *+F10 으로 마우스 경계없이 동작 기능이 안되네요",
+      "answer": "네 고객님, 핫키로 마우스 모드 설정 하신다는 말씀이 맞으실까요? 만약 해당 질문이 맞다면 핫키를 순서대로 눌러주셔야 정상적인 작동이 가능합니다.\n\n제품 - 모니터 / PC 연결은 HDMI 방식이기 때문에 10m 이내 설치를 권장 드립니다. 제품 - 키보드 / 마우스 연결 또한 10m 이내\n\n문의 주신 부분 답변 드리오니 아래 내용 확인 부탁드립니다. 1. 4K 30hz 지원 합니다. 2. 30hz에서는 마우스 움직임시 60hz보",
+      "turn_count": 21,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "진행해보고 추가 문의드리지요~"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중"
+        },
+        {
+          "role": "customer",
+          "text": "네"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 핫키로 마우스 모드 설정 하신다는 말씀이 맞으실까요?\n만약 해당 질문이 맞다면 핫키를 순서대로 눌러주셔야 정상적인 작동이 가능합니다."
+        },
+        {
+          "role": "customer",
+          "text": "구매 날짜는 일주일 전쯤 입니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 확인되었습니다.\n위 문의 주신 내용 확인 후 답변 드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "구매 모델은 LS-M8TS 입니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)"
+        },
+        {
+          "role": "customer",
+          "text": "실제 사용부서 담당자는 \n접니다. 연락처는 010 6697 2030 입니다"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "구매처는 네이버라고 합니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n말씀해주신 것 처럼 무선 동글이 이용하여 키보드, 마우스 세트로 사용 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는"
+        },
+        {
+          "role": "customer",
+          "text": "구매부서 담당자가 구매 했습니다\n최정임 010 4877 0951"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n제품 - 모니터 / PC 연결은 HDMI 방식이기 때문에 10m 이내 설치를 권장 드립니다.\n제품 - 키보드 / 마우스 연결 또한 10m 이내"
+        },
+        {
+          "role": "customer",
+          "text": "키보드로 F9 F10 화면 안되는데 어떤부분 살펴봐야하나요?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\nLS- 로 시작되는 모델명 말씀 부탁드립니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-M8TS",
+      "chatUrl": "ErfQ",
+      "dateIso": "2024-03-04T04:58:29.482Z",
+      "name": "조롱우롱기롱",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "안녕하세요 혹시 4컴이 아니라 8컴인 경우 4K 60hz 지원 가능인가요?",
+      "answer": "감사합니다. https://smartst",
+      "turn_count": 1,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "안녕하세요 혹시 4컴이 아니라 8컴인 경우 4K 60hz 지원 가능인가요?"
+        },
+        {
+          "role": "agent",
+          "text": "고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다. https://smartst"
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-M8TS-SEAMLESS": "심리스 기능 지원\nSEAMLESS MODE\n일반적인 멀티비전 제품들은 화면 전환시 약 1~2초 정도 딜레이가 발생하는데\nLS-M8TS는 심리스(Seamless) 기능을 지원하여 딜레이 없이 화면전환이 가능합니다.\n심리스 기능 지원 유무에 따른 화면 전환 속도 비교\n심리스 기능 지원\n심리스 기능 미지원"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI",
+        "USB-A",
+        "Serial(DB9)"
+      ],
+      "output_signals": [
+        "HDMI",
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 8
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": true,
+      "has_physical_button": null,
+      "has_mouse_switching": true,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "pc_count": 8,
+      "video_interface": [
+        "HDMI"
+      ],
+      "switching_methods": [
+        "hotkey",
+        "ir_remote",
+        "mouse_wheel"
+      ],
+      "keyboard_type": "USB",
+      "usb_peripheral_ports": 2,
+      "cable_built_in": false,
+      "hub_built_in": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 8포트, USB-A 8포트, RS232",
+    "connectivity.output_signals": "HDMI 1포트, 키보드/마우스",
+    "connectivity.directional": "하나의 키보드, 마우스, 디스플레이 장치로 최대 8대 PC 조작",
+    "connectivity.port_count": "8대 PC 조작",
+    "power.power_mode": "DC 12V 1A 아답터",
+    "power.charging_support": "null",
+    "audio_video.max_resolution": "최대 4K@30Hz 출력 해상도 지원",
+    "audio_video.audio_pass": "오디오 포맷: PCM",
+    "certification.kc": "KC 인증 획득",
+    "control_switching.has_remote": "리모콘을 통한 손쉬운",
+    "control_switching.has_hotkey": "핫키",
+    "control_switching.has_mouse_switching": "트레블 모드: * + S로 8개 분할 화면에서 마우스 자유 이동",
+    "family.pc_count": "최대 8대 PC 조작",
+    "family.video_interface": "HDMI 8x1 KVM",
+    "family.switching_methods": "핫키, 리모콘을 통한 손쉬운 디스플레이 모드 변경",
+    "family.keyboard_type": "키보드, 마우스",
+    "family.usb_peripheral_ports": "키보드/마우스",
+    "family.cable_built_in": "null"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:24",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 3,
+    "category_breakdown": {
+      "other": 1,
+      "install": 1,
+      "compatibility": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

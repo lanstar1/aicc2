@@ -1,0 +1,161 @@
+{
+  "model_no": "LSP-6KTVM-UWLED",
+  "product_name": "CAT.6 UTP Tooless LED 키스톤잭",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "키스톤잭",
+    "네트워크공구",
+    "LAN공구"
+  ],
+  "key_features": [
+    "CAT.6 규격, 1Gbps 전송속도 지원",
+    "별도의 압축 Tool 없이 제작 가능한 Tooless 제품",
+    "568A(Cross) / 568B(Direct) 배열 모두 지원",
+    "케이블 선을 보호하는 분리덮개 적용 신형 모듈",
+    "LED 기능으로 연결된 케이블을 테스터기를 통해 즉시 식별 가능",
+    "벽부착형 Plate, Outlet 공박스, 랙 장착형 마운트 판넬에 장착 가능",
+    "8P8C, 대만산, UL인증"
+  ],
+  "specifications": {
+    "규격": "CAT.6 UTP",
+    "전송속도": "1Gbps",
+    "핀배열": "568A(Cross), 568B(Direct)",
+    "커넥터": "8P8C",
+    "생산지": "대만",
+    "인증": "UL, KC (인증번호: LUS-LS-CAT6)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "치수(mm)": "전체 38.65 x 33.6, 주요부 21.6 x 19.33 x 16.5 외 다수",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "벽부착형 Wall Plate (플레이트)",
+    "돌출형 아울렛 공박스 (Blank Box / Mount Box)",
+    "19인치 표준형 랙 마운트 판넬",
+    "랜스타 LED 테스터기 (랜마트 40617) - LED 테스트 전용",
+    "568A / 568B 핀배열 랜 케이블"
+  ],
+  "package_contents": [
+    "키스톤잭 모듈",
+    "케이블타이",
+    "모듈 덮개"
+  ],
+  "usage_instructions": "1. 스트리퍼(랜마트 40127)로 케이블 피복을 벗긴다. 2. 키스톤잭 모듈을 준비한다. 3. 원하는 핀배열(Direct 568B / Cross 568A)에 맞춰 케이블을 연결하고 스트리퍼로 홈에 맞춰 눌러 넣는다. 4. 가위로 옆으로 튀어나온 선을 잘라 정리한다. 5. 미리 케이블에 삽입해 둔 모듈 덮개를 결합한다. 6. 키스톤잭 모듈을 소리가 날 때까지 꾹 눌러 결합한다. 7. 케이블 타이로 케이블과 키스톤잭 모듈을 고정한다.",
+  "cautions": [
+    "LED 테스트는 랜스타 LED 테스터기(랜마트 40617) 모델로만 측정 가능",
+    "랜스타 LED 테스터기는 별도 구매 제품임",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-6KTVM-UWLED",
+      "품목코드": "NEO-키스톤093",
+      "품목명": "[◆Lanstar-Plus] CAT.6 UTP LED 키스톤잭 , White, Tooless [20290] (500개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-6KTVM-UWLED",
+      "내용": "사제쿨러 처음 사용해보는데 인텔기본으로 주는것보가 훨씬 기능이나 외관상 보기좋아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "8P8C",
+    "connectivity.output_signals": "8P8C",
+    "connectivity.directional": "568A(Cross) / 568B(Direct) 배열 모두 지원",
+    "connectivity.port_count": "키스톤잭 모듈을 소리가 날 때까지 꾹 눌러 결합한다",
+    "power.power_mode": "별도의 압축 Tool 없이 제작 가능한 Tooless 제품",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "케이블 선을 보호하는 분리덮개 적용 신형 모듈",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "KC (인증번호: LUS-LS-CAT6)",
+    "certification.rohs": "null",
+    "certification.iso9001": "null",
+    "certification.fcc": "null",
+    "certification.ce": "null",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "null",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "null",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.cat_category": "CAT.6 규격",
+    "family.shielding": "UTP",
+    "family.conductor": "null",
+    "family.awg": "null",
+    "family.pair_count": "null",
+    "family.flame_rating": "null",
+    "family.poe_support": "null"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:24",
+  "feature_schema_version": "1.0.0"
+}

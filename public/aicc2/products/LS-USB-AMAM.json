@@ -1,0 +1,642 @@
+{
+  "model_no": "LS-USB-AMAM",
+  "product_name": "LANStar USB 2.0 A/M-A/M 케이블",
+  "category": [
+    "USB케이블",
+    "USB2.0",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 2.0 HI-SPEED 규격, 최대 480Mbps 데이터 전송속도 지원",
+    "USB A Male - USB A Male (A/M-A/M) 양방향 동일 커넥터 구성",
+    "이중 차폐 구조 (알루미늄 차폐 + 편조차폐)로 신호 간섭 방지",
+    "28AWG(데이터선) + 24AWG(전원선) 구성으로 안정적인 전송",
+    "외경 4.5±0.1mm, PVC 블랙 외피",
+    "0.15M / 1M / 1.8M / 3M / 5M / 10M 총 6가지 길이 선택 가능",
+    "USB 1.0 / 1.1 하위 버전 호환",
+    "오후 4시 이전 결제 완료 시 당일 출고 (평일 기준)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "라인업시스템(주) / 랜스타 정품 인증 제품",
+    "USB 2.0 HI-SPEED 규격 지원, 최대 480Mbps 데이터 전송속도",
+    "USB A Male - USB A Male (A/M-A/M) 양방향 동일 단자 구성",
+    "알루미늄 차폐 + 편조차폐 이중 차폐 구조로 신호 간섭 방지",
+    "28AWG(데이터) / 24AWG(전원) 내심 구성",
+    "OD 4.5±0.1mm, PVC 블랙 외피",
+    "0.15M / 1M / 1.8M / 3M / 5M / 10M 총 6가지 길이 라인업",
+    "라인업시스템(주) 정품 인증 제품, 현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "USB 규격": "USB 2.0 (Hi-Speed)",
+    "단자 형태": "USB A Male - USB A Male",
+    "전송 속도": "최대 480Mbps",
+    "AWG": "28AWG X 1P (데이터), 24AWG 2C (전원)",
+    "차폐": "알루미늄 차폐 + 편조차폐 (이중 차폐)",
+    "외피 재질": "PVC (Black)",
+    "외경": "OD 4.5±0.1mm",
+    "길이": "0.15M / 1M / 1.8M / 3M / 5M / 10M / 0.15M, 1M, 1.8M, 3M, 5M, 10M",
+    "모델명(0.15M)": "LS-USB-AMAM-0.15M",
+    "모델명(1M)": "LS-USB-AMAM-1M",
+    "모델명(1.8M)": "LS-USB-AMAM-1.8M",
+    "모델명(3M)": "LS-USB-AMAM-3M",
+    "모델명(5M)": "LS-USB-AMAM-5M",
+    "모델명(10M)": "LS-USB-AMAM-10M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "품명": "USB2.0 A/M-A/M 케이블",
+    "브랜드": "LANStar",
+    "AS 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr",
+    "품질보증기준": "공정거래위원회 고시 소비자 분쟁해결 기준",
+    "외경(OD)": "4.5±0.1mm",
+    "케이블 핀 배열": "1-RED, 2-WHITE, 3-GREEN, 4-BLACK (양쪽 동일)",
+    "제조국": "중국 (China)"
+  },
+  "compatibility": [
+    "USB 2.0 규격 장비",
+    "USB 1.0 (Low Speed) 하위 호환",
+    "USB 1.1 (Full Speed) 하위 호환",
+    "USB 3.0 포트 (단, USB 2.0 속도로 동작)",
+    "USB 인터페이스를 가진 장비와 PC 간 연결",
+    "펌웨어 업데이트용 장비",
+    "산업용 제어장치",
+    "개발용 디바이스",
+    "전시/쇼룸 장비",
+    "USB 2.0 (Hi-Speed) 규격 장치",
+    "USB 1.1 (Full Speed) 규격 장치",
+    "USB 1.0 (Low Speed) 규격 장치",
+    "USB 3.0 포트 (하위 호환, USB 2.0 성능으로 동작)"
+  ],
+  "package_contents": [
+    "USB 2.0 A/M-A/M 케이블 1개"
+  ],
+  "usage_instructions": "USB A Male 커넥터를 PC 또는 USB 장비의 USB A 포트에 각각 연결하여 사용합니다. 일반적으로 PC와 USB 장비 간 연결에 사용되며, 펌웨어 업데이트·산업용 제어장치·개발용 디바이스·전시/쇼룸 장비 연결 등 특수 목적에도 활용됩니다. USB 3.0 포트에 연결 시 하위 호환으로 사용 가능하나 속도는 USB 2.0 기준으로 동작합니다.",
+  "cautions": [
+    "PC와 PC를 직접 연결하면 안 됩니다. USB 브리지 회로가 없는 경우 두 장치 간 전력 충돌로 기기 손상 위험이 있습니다.",
+    "USB 3.0 포트에 연결 시 USB 2.0 속도(480Mbps)로만 동작합니다.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없습니다.",
+    "당일 출고는 오후 4시 이전 결제 완료 기준이며, 토·일·공휴일은 제외됩니다.",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB-AMAM-1.8M",
+      "품목코드": "CAB-UAA001",
+      "품목명": "[LANstar] USB 2.0 케이블 AM-AM 1.8M [10319] (220개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMAM-5M",
+      "품목코드": "CAB-UAA002",
+      "품목명": "[LANstar] USB 2.0 케이블 AM-AM 5M [10321] (90개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMAM-10M",
+      "품목코드": "CAB-UAA003",
+      "품목명": "[LANstar] USB 2.0 케이블 AM-AM 10M [10322] (60개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMAM-3M",
+      "품목코드": "CAB-UAA008",
+      "품목명": "[LANstar] USB 2.0 케이블 AM-AM 3M [10320] (140개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMAM-0.15M",
+      "품목코드": "CAB-UAA010",
+      "품목명": "[LANstar] USB 2.0 케이블 AM-AM 휴대용 0.15M [10318] (1000개)",
+      "variant_suffix": "-0.15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-USB-AMAM-1M",
+      "품목코드": "CAB-UAA017",
+      "품목명": "[LANstar] USB 2.0 케이블 AM-AM 1M [10812] (300개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-USB-AMAM-0.15M",
+      "내용": "길이 적당하고 딱 좋네요"
+    },
+    {
+      "source_model": "LS-USB-AMAM-0.15M",
+      "내용": "15cm 와 1m 중간 길이가 추가되면 참 좋을것 같아요~\n시킨 물건은 매우 잘 쓰고 있습니다 감사합니다~"
+    },
+    {
+      "source_model": "LS-USB-AMAM-1.8M",
+      "내용": "배송도 괜찮고 제품도 만족합니다."
+    },
+    {
+      "source_model": "LS-USB-AMAM-1.8M",
+      "내용": "배송도 빠르고 매우 만족합니다."
+    },
+    {
+      "source_model": "LS-USB-AMAM-1.8M",
+      "내용": "usb 빠르고좋아욬"
+    },
+    {
+      "source_model": "LS-USB-AMAM-1.8M",
+      "내용": "빠른 배송 항상 감사드립니다."
+    },
+    {
+      "source_model": "LS-USB-AMAM-1.8M",
+      "내용": "이제 정리만 하면 될 거 같아욥!"
+    },
+    {
+      "source_model": "LS-USB-AMAM-1.8M",
+      "내용": "빠른 배송 감사합니다. 길이도 넉넉합니다."
+    },
+    {
+      "source_model": "LS-USB-AMAM-1M",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-USB-AMAM-1M",
+      "내용": "좋아요 좋아오 좋아요"
+    },
+    {
+      "source_model": "LS-USB-AMAM-1M",
+      "내용": "빠른 배송 항상 감사드립니다."
+    },
+    {
+      "source_model": "LS-USB-AMAM-1M",
+      "내용": "길이 적당하고 딱 좋습니다."
+    },
+    {
+      "source_model": "LS-USB-AMAM-1M",
+      "내용": "모든게 다 좋았습니다."
+    },
+    {
+      "source_model": "LS-USB-AMAM-1M",
+      "내용": "배송. 총알이네요!!!"
+    },
+    {
+      "source_model": "LS-USB-AMAM-3M",
+      "내용": "저렴한 가격에 구매하여 잘 사용중입니다."
+    },
+    {
+      "source_model": "LS-USB-AMAM-3M",
+      "내용": "빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-USB-AMAM-3M",
+      "내용": "빠른배송 감사합니다 제품 간편해서 좋습니다 공간활용이 좋네요"
+    },
+    {
+      "source_model": "LS-USB-AMAM-5M",
+      "내용": "배송빨라요\n재구매 의사 있어요"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-USB-AMAM-1M",
+      "id": 573101344,
+      "date": "2024-03-20 17:38",
+      "answerDate": "2024-03-21 09:08",
+      "user": "wncj***",
+      "productName": "랜스타 LS-USB-AMAM-1M USB2.0 케이블 A/M - A/M 1M",
+      "question": "안녕하세요\n\n케이블 주문한 사람인데요 대량 주문 관련해 문의가 필요해 글 남깁니다.\n010-8743-1391 주천하 입니다",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n3월 25일, 다음주 월요일 연락 주시면 그에 맞춰 응대 도와드리겠습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-USB-AMAM-1M",
+      "id": 578538768,
+      "date": "2024-04-29 11:20",
+      "answerDate": "2024-04-29 11:35",
+      "user": "nave*******",
+      "productName": "랜스타 LS-USB-AMAM-1M USB2.0 케이블 A/M - A/M 1M",
+      "question": "안녕하세요.\n네이버페이 고객센터입니다.\n\n판매자님께 확인 요청할 내용이 있어 Q&A 남깁니다.\n\n​\n\n[주문정보]\n구매자명:  김대열\n주문번호:  2024041226645221\n상품주문번호: 2024041254553981\n​\n[요청사항]\n 구매자님 무상교환 처리 요청하여 판매자님께 확인요청드립니다.\n아래 내용 참고하시어 무상교환 처리가 가능할지 검토 후 답변부탁드리겠습니다.\n\n- 상세 사유:  오배송 / 주문한 상품과 다른게 배송 됨\n- 상품 위치:  구매자\n- 사용 여부:  n\n\n1) 무상 교환 가능시, 상품 수거접수 후 아래내용 답변요청\n- 수거 택배사:\n- 수거 예정일:\n- 수거 예약번호(반송장):\n\n2) 무상교환 불가시, 교환배송비 금액과 무상교환이 불가한 근거 사유가 무엇인지 답변요청\n3) 교환배송비를 지불하더라도 처리가 불가하다면, 근거 사유가 무엇인지 답변요청\n\n\n[민원처리기한] 2024년 4월 30일 12시까지\n\n​\n\n내용 확인 후, 민원처리 기한까지 답변 부탁 드리며,\n기한 내 요청드린 민원이 해결되지 않거나 답변이 없으면\n스마트스토어 이용약관 제21조(정산의 보류)에 따라 민원금액만큼 정산 지급보류 처리하겠습니다.\n\n\n확인 부탁 드립니다.\n감사합니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 고객과 톡톡으로 상담 진행하여 해결 완료하였습니다.\n기존 오배송 제품 수거하지 않기로 협의하였으며, 신규 제품 정상 출고 완료하였습니다.\n\n[로젠 38029832536]\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-USB-AMAM-1M",
+      "id": 578577191,
+      "date": "2024-04-29 14:00",
+      "answerDate": "2024-04-29 15:07",
+      "user": "nave*******",
+      "productName": "랜스타 LS-USB-AMAM-1M USB2.0 케이블 A/M - A/M 1M",
+      "question": "안녕하세요.\n네이버페이 고객센터입니다.\n\n판매자님께 확인 요청할 내용이 있어 Q&A 남깁니다.\n\n​\n\n[주문정보]\n구매자명:  김대열\n주문번호:  2024041226645221\n상품주문번호: 2024041254553981\n​\n[요청사항]\n하단의 답변 감사합니다.\n\n다만, 고객님의 주소지는 [전라남도 여수시]로 확인되나 재배송 송장번호 주소지 확인 시 동아산으로 배송이 완료 된 것으로 확인되는데요 구매자 측에서 전달 받으신 주소로 반송하신건지 추가 확인 부탁드립니다.\n\n\n[민원처리기한] 2024년 4월 30일 12시까지\n\n​\n\n내용 확인 후, 민원처리 기한까지 답변 부탁 드리며,\n기한 내 요청드린 민원이 해결되지 않거나 답변이 없으면\n스마트스토어 이용약관 제21조(정산의 보류)에 따라 민원금액만큼 정산 지급보류 처리하겠습니다.\n\n\n확인 부탁 드립니다.\n감사합니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n잘못된 주소지로 출고되어 금일 재출고 도와드렸습니다.\n[로젠 38041211224]\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-USB-AMAM",
+      "chatUrl": "dTE8s",
+      "dateIso": "2025-05-19T00:24:24.027Z",
+      "name": "서기영",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "USB to USB 포트 원래 미 포함인가요\n미포함이면 구매 했음해서요 2개",
+      "answer": "LS-USB-AMAM-길이M로 검색하셔서 구매 부탁드립니다. 아래에 1M 링크 남겨드립니다.\n\nhttps://smartstore.naver.com/lineup/products/6123261229\n\n주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!",
+      "turn_count": 12,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "USB to USB 포트 원래 미 포함인가요\n미포함이면 구매 했음해서요 2개"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "확인 되셨나요"
+        },
+        {
+          "role": "agent",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        },
+        {
+          "role": "customer",
+          "text": "하나만왔어요"
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        },
+        {
+          "role": "customer",
+          "text": "2개 구매했는데요"
+        },
+        {
+          "role": "agent",
+          "text": "https://smartstore.naver.com/lineup/products/6123261229"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "LS-USB-AMAM-길이M로 검색하셔서 구매 부탁드립니다.\n아래에 1M 링크 남겨드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n미포함으로 별도로 구매해주셔야 합니다."
+        },
+        {
+          "role": "customer",
+          "text": "물건이 하나만 왔어요"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-USB-AMAM-1M",
+      "chatUrl": "2jlku",
+      "dateIso": "2024-04-26T08:26:10.135Z",
+      "name": "번개도리",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "두개중 하나가 usb to usb가 아니라 다른제품이 왔다고 교환해달라고 사진첨부 했는데 며칠이 지나도 아무런 연락이 없으면 어떻게 해야하나요\n(추가 문의) 교환요청시 사진 첨부기능이 있길래 상품이 하나가 다른게 왔다고 교환요청을 했는데 며칠간 아무런 답변이 없었습니다\n(추가 문의) 교환해달라고 사진 첨부했습니다 사진 확인을 했으면 빠른 처리를 해줘셔야줘 며칠이 지났는데 아무런 처리가 안되나요\n(추가 문의) 부속 케이블이 없어서 추가구매할려고 합니다. hdmi 0.3m 하나와 usb am-am 2개 추가구매할께요",
+      "answer": "LS-USB-AMAM-1M 해당 건 2개 구매 중 1개가 다른 제품이 오셨다는 말씀이실까요? 위 내용으로 고객님에게 두 차례 여쭤보았으나, 답변 주시지 않으셨습니다. 잘못 받으신\n\nLS-USB-AMAM-1M 해당 건 2개 구매 중 1개가 다른 제품이 오셨다는 말씀이실까요? 확인 부탁드립니다.\n\nLS-USB-AMAM-1M 해당 건 2개 구매 중 1개가 다른 제품이 오셨을까요?",
+      "turn_count": 16,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 아마 그 사진 첨부는 저희 스마트스토어 측이 아닌 네이버 측으로 보내지신 것으로 보입니다.\n저희 측에서 사진 수신 받을 수 있는 방법은 해당 톡톡과 따로 메일 요청 드"
+        },
+        {
+          "role": "customer",
+          "text": "그럼 교환요청할때 사진 첨부를 했는데 못봤다는 거네요"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 확인하였습니다.\n금일 정상 제품으로 빠르게 출고 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 보내주신 사진 확인하였습니다.\n\n원활한 제품 수령에 불편을 드려 죄송합니다.\n저희 측에서 금일 정상 제품으로 빠르게 출고 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "하나는 보시면 양쪽 usb가아니라 한쪽이 달라요"
+        },
+        {
+          "role": "agent",
+          "text": "LS-USB-AMAM-1M 해당 건 2개 구매 중 1개가 다른 제품이 오셨다는 말씀이실까요?\n\n위 내용으로 고객님에게 두 차례 여쭤보았으나, 답변 주시지 않으셨습니다.\n잘못 받으신"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 보내주신 사진 확인하였습니다.\n\n원활한 제품 수령에 불편을 드려 죄송합니다.\n저희 측에서 금일 정상 제품으로 빠르게 출고 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "문믜글을 위로 올려보세요\n이 제품이 잘못왔다고 문의를 한거자나요"
+        },
+        {
+          "role": "agent",
+          "text": "LS-USB-AMAM-1M 해당 건 2개 구매 중 1개가 다른 제품이 오셨다는 말씀이실까요?\n\n위 내용으로 고객님에게 두 차례 여쭤보았으나, 답변 주시지 않으셨습니다.\n잘못 받으신"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 보내주신 사진 확인하였습니다.\n\n원활한 제품 수령에 불편을 드려 죄송합니다.\n저희 측에서 금일 정상 제품으로 빠르게 출고 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "판매자가 판매한걸 모른다는게 말이되나요"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 사진 캡처본이어서 확대하니 모델명이 보이지 않습니다.\n어떤 모델명이 각각 오셨는지 말씀 가능하실까요?"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-USB-AMAM-1M",
+      "chatUrl": "3dV9q",
+      "dateIso": "2023-12-28T01:58:29.376Z",
+      "name": "우주최강",
+      "isTechnical": true,
+      "category": "shipping",
+      "modelConfidence": "high",
+      "question": "네 1개만 왔어요 교환이라 한건 문의가 안보이길래 문의할려고...\n(추가 문의) 안녕하세요 주문한것중 usb커넥터 1개가 덜와서 문의 드립니다",
+      "answer": "네 고객님. 금일 LS-USB-AMAM-1M 제품 1개 발송 도와드리겠습니다. 교환 요청은 저희 측에서 철회 처리를 해드려도 괜찮으실까요?\n\n네 고객님. 교환 철회되었으며, 금일 제품 1개 발송 도와드리겠습니다. 원활한 제품 사용에 불편을 죄송합니다.\n\n요청하신 교환요청을 진행할 수가 없습니다. 관련해서 궁금한 내용이 있으시면 언제든 문의주세요.",
+      "turn_count": 4,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "걈사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하"
+        },
+        {
+          "role": "customer",
+          "text": "네 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님. 교환 철회되었으며, 금일 제품 1개 발송 도와드리겠습니다. 원활한 제품 사용에 불편을 죄송합니다."
+        },
+        {
+          "role": "customer",
+          "text": "네 1개만 왔어요 교환이라 한건 문의가 안보이길래 문의할려고..."
+        },
+        {
+          "role": "agent",
+          "text": "[교환안내] 고객님, 불편을 드려 죄송합니다.\n요청하신 교환요청을 진행할 수가 없습니다. 관련해서 궁금한 내용이 있으시면 언제든 문의주세요."
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요 주문한것중 usb커넥터 1개가 덜와서 문의 드립니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님. 금일 LS-USB-AMAM-1M 제품 1개 발송 도와드리겠습니다. 교환 요청은 저희 측에서 철회 처리를 해드려도 괜찮으실까요?"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-USB-AMAM-1",
+      "chatUrl": "w9cV",
+      "dateIso": "2023-11-24T04:23:45.654Z",
+      "name": "워리",
+      "isTechnical": true,
+      "category": "install",
+      "modelConfidence": "high",
+      "question": "안녕하세요. 제품 누락 관련하여 문의드립니다.\n제가 4가지 상품을 같이 주문했는데 [추가상품] LS-USB-AMAM-1.8M 2개가 포함되어 있지 않습니다. 확인부탁드려요.\n(추가 문의) 아 죄송합니다. 제가 합계를 안보고 별도로 봐서 따로 부과되는 것으로 착각했습니다.\n구매 진행하겠습니다. 죄송합니다ㅠㅠ\n(추가 문의) 네 발송하는데로 연락주세요. 감사합니다.",
+      "answer": "현재 각각의 제품 장바구니에 담아보니 배송비가 한 번만 부과됩니다. 혹시 이중 부과되는 내용 캡처 가능하실까요?",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 발송하는데로 연락주세요. 감사합니다."
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요. 제품 누락 관련하여 문의드립니다.\n제가 4가지 상품을 같이 주문했는데 [추가상품] LS-USB-AMAM-1.8M 2개가 포함되어 있지 않습니다. 확인부탁드려요."
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        },
+        {
+          "role": "customer",
+          "text": "아 죄송합니다. 제가 합계를 안보고 별도로 봐서 따로 부과되는 것으로 착각했습니다.\n구매 진행하겠습니다. 죄송합니다ㅠㅠ"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 각각의 제품 장바구니에 담아보니 배송비가 한 번만 부과됩니다.\n혹시 이중 부과되는 내용 캡처 가능하실까요?"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-USB-AMAM",
+      "chatUrl": "uJ1S",
+      "dateIso": "2023-10-23T02:10:03.538Z",
+      "name": "슈링",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "기기와 노트북간에는 usb am-am으로 연결해야하는건가요?\n(추가 문의) 키보드 마우스 인식이 안되는데 제품 불량인가요?",
+      "answer": "노트북 2대 모두 해당 제품과 USB 케이블로 연결해 주셔야 키보드, 마우스를 사용하실 수 있습니다. 또한, USB2.0과 3.0은 데이터",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 빠른 답변 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\n노트북 2대 모두 해당 제품과 USB 케이블로 연결해 주셔야 키보드, 마우스를 사용하실 수 있습니다.\n\n또한, USB2.0과 3.0은 데이터"
+        },
+        {
+          "role": "customer",
+          "text": "기기와 노트북간에는 usb am-am으로 연결해야하는건가요?"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        },
+        {
+          "role": "customer",
+          "text": "키보드 마우스 인식이 안되는데 제품 불량인가요?"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다. [배송도착예정] 주문하신 상품이 오늘 도착예정입니다~ [배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요! [배송시작] 주문하신 상품이 택배사에 도착"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-USB-AMAM-1",
+      "chatUrl": "2IUow",
+      "dateIso": "2023-10-16T06:37:05.347Z",
+      "name": "의리소년",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "안녕하세요\n지난주에 주문했는데\n주문당시 정신이없어 설명을 제대로 못보고 주문해서요ㅠㅠ\n모니터2대 연결할때도 usb까지 연결이 되야하는건가요?ㅜㅜ\n(추가 문의) 아 그렇군요!!\n혹시 USB 선 1.8m 짜리 2개만 별도로 구매 가능할까요? 선가격이랑 택배비용은 별도로 이체 해드리겠습니다\n(추가 문의) 아 주문했습니다ㅎ 안내감사합니다^^",
+      "answer": "네, 고객님. 원활한 주문 접수부터 출고까지의 절차를 위해 스마트스토어를 통해 주문해 주시면 될 것 같습니다. [LS-USB-AMAM-1.8M] 제품의 경우 별도로 판매하고 있는 상품입니다. 아래 제품 링크에서 원하시는 수량에 맞게 주문해 주시면, 신속히 확인하여 금일...\n\nUSB 연결은 주로 키보드와 마우스 같은 데이터 작동을 위한 것입니다. 모니터만 연결하시는 경우, USB 연결은 필요하지 않습니다. 랜스타 제품 이...",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "아 주문했습니다ㅎ 안내감사합니다^^"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님. 원활한 주문 접수부터 출고까지의 절차를 위해 스마트스토어를 통해 주문해 주시면 될 것 같습니다.\n[LS-USB-AMAM-1.8M] 제품의 경우 별도로 판매하고 있는 상품입니다. 아래 제품 링크에서 원하시는 수량에 맞게 주문해 주시면, 신속히 확인하여 금일..."
+        },
+        {
+          "role": "customer",
+          "text": "아 그렇군요!!\n혹시 USB 선 1.8m 짜리 2개만 별도로 구매 가능할까요? 선가격이랑 택배비용은 별도로 이체 해드리겠습니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요, 고객님. 랜스타입니다.\n\nUSB 연결은 주로 키보드와 마우스 같은 데이터 작동을 위한 것입니다. 모니터만 연결하시는 경우, USB 연결은 필요하지 않습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이..."
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요\n지난주에 주문했는데\n주문당시 정신이없어 설명을 제대로 못보고 주문해서요ㅠㅠ\n모니터2대 연결할때도 usb까지 연결이 되야하는건가요?ㅜㅜ"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다."
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-USB-AMAM-XXM": "LANS Star\nUSB 2.0 A/M-A/M 케이블\n0.15M / 1M / 1.8M / 3M / 5M / 10M\nUSB2.0\n480Mbps\nA/M-A/M\nUSB2.0 HI-SPEED\n최대속도 480Mbps\nUSB 2.0 케이블\n지원\nUSB 2.0\nUSB 2.0 규격은 USB 1.1보다 약 40배 빠른 480Mbps의 전송속도로\n데이터를 전송할 수 있습니다.\nUSB A/M-A/M 케이블\nUSB 2.0 케이블은 USB 인터페이스를 가진 장비와 장비를 연결하는\n케이블로, A/M - A/M 타입의 케이블입니다.\n일반적으로 PC와 USB 장비간의 연결을 위해 사용합니다.\n480Mbps 전송속도\nUSB 2.0 HI-SPEED 규격으로 480Mbps의 데이터 전송속도를 지원합니다.\n\n\n480Mbps 전송속도\nUSB 2.0 HI-SPEED 480Mbpsºl GIOIE ✯LICH.\n500Mbps\n480\nMbps\n12\nMbps\n10Mbps\n1.5\nMbps\nUSB 1.0\nUSB 1.1\nUSB 2.0\nHI-SPEED\nUSB 로고\nCERTIFIED\nUSB\nCERTIFIED\nUSB\nCERTIFIED\nUSB\nUSB 2.0\nUSB 버전\nUSB 1.0\n(LOW SPEED)\nUSB 1.1\n(FULL SPEED)\n(HI-SPEED)\n하위버전 호환\nUSB 1.0\nUSB 1.1\n최대전송속도\n1.5Mbps\n12Mbps\n480Mbps\n충전 전압\n100m/A\n100m/A\n500m/A\n출시년도\n1995\n1998\n2001\nUSB 2.0 A/M - A/M\nUSB A/M - A/M 형태로 구성된 케이블입니다.\nUSB 2.0 A/M\nUSB 2.0 A/M\n28AWG\nAmerican Wire Gauge\n케이블 내심의 굵기를 표시하는 단위로 AWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 전송에 적합합니다.\nO\n\n\n40\n16\n설치가 용이하며\n저화질 전송에 적합\n설치가 까다로우나\n잡음이 적고\n안정적인 전송이 가능\nAWG\n직경(Inch)\n(mm)\n단면적(㎡)\n저항(2/m) 허용전류(A)\n20\n0.032\n0.812\n0.518\n0.0333\n4.5\n221\n21\n0.0285\n0.723\n0.41\n0.042\n3.8\n22\n22\n0.0253\n0.644\n0.326\n0.053\n3.0\n23\n23\n0.0226\n0.573\n0.258\n0.0668\n2.2\n224\n0.0201\n0.511\n0.205\n0.0842\n0.588\n25\n0.0179\n0.455\n0.162\n0.106\n0.477\n26\n26\n0.0159\n0.405\n0.129\n0.134\n0.378\n27\n27\n0.0142\n0.361\n0.102\n0.169\n0.288\n28\n0.0126\n0.321\n0.081\n0.213\n0.250\n29\n20\n0.0113\n0.286\n0.0642\n0.268\n0.212\n30\n0.01\n0.255\n0.0509\n0.339\n0.147\n케이블 구조\nOD 4.5±0.1mm\n● 도체(CONDUCTOR) : 전기 신호가 흐르는 구리선\n● 절연체(INSULATION) : 내부 전도체를 서로 절연시키는 절연 피복\n● 알루미늄 차폐 : 추가적인 차폐층으로, 데이터 전송선의 신호 간섭 방지\n● 편조차폐 : 금속선 편조 실드로, 데이터 전송선의 신호 간섭 방지\n● PVC 외피 : 외부 물리적 손상 방지 및 절연 역할\nPVC JACKET\n편조차폐\n알루미늄 차폐\n절연체\n도체\nPRODUCT SIZE\n0.15M/1M/1.8M/3M/5M/10M\n☐\n☐\n12\n2\n□ □\n35\n☐\nPIN OUT\nF\nP1\nP2\n1\n1 RED\n2 WHITE\n-23 4\nXX\n3 GREEN\n4 BLACK\n\n\n1\n1 RED\n2\n2 WHITE\nxox\n3\n3 GREEN\n4\n4 BLACK\nSPECIFICATION\nUSB 규격\nUSB 2.0 (Hi-Speed)\n단자 형태\nUSB A Male USB A Male\n전송 속도\n최대 480Mbps\nAWG\n28AWG X 1P (데이터), 24AWG2C (전원)\n차폐\n알루미늄 차폐 +편조차폐 (이중 차폐)\n외피\nPVC(Black)\n길이\n0.15M / 1M / 1.8M / 3M / 5M / 10M\nFAQ\n자주 물어보시는 질문\nQ. PC와 PC를 직접 연결해도 되나요?\n안됩니다. USB A-A 케이블은 USB 브리지 회로가 없는 경우, 두 장치 간 전력 충돌로 인해\n기기 손상 위험이 있습니다.\n일반적으로 USB 장비와 PC를 연결할 때 사용하는 케이블입니다.\nQ. USB3.0 포트에 연결해서 사용해도 되나요?\n네. 하위 호환되므로 USB3.0 포트에 연결해서 사용할 수 있습니다.\n단, 성능은 USB2.0 기준으로 동작합니다.\nQ. 커넥터가 양쪽 모두 USB A 타입인 이유는 무엇인가요?\n특수한 장비(USB 장치 업데이트, USB 장비 설정, 테스트용 등)에서 사용하기 위한 구조입니다.\nQ. 이 케이블은 어떤 상황에서 쓰이나요?\n펌웨어 업데이트, 산업용 제어장치 연결, 개발용 디바이스, 전시/쇼룸 장비 연결 등\n특수 목적에서 사용됩니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n상품 도착\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\n\n\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\nAD\n소재·부품·장비\n전문기업확인서\n소재·부품 장비 전문기업확인서\nSipasan\nAVS\nKT\n평가관리원\n위기\n선호기업인을 확인합니다.\n산업통산자원부 시행 제도\nKeit\n86022 11 29\n2022.11.29 취득\n한국산업기술평가관\n3342\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상 품 정보\n품\n명\nUSB2.0 A/M-A/M 케이블\nLS-USB-AMAM-0.15M\nLS-USB-AMAM-IM\nLS-USB-AMAM-1.8M\n모\n델\n데\n명\nLS-USB-AMAM-3M\nLANStar\nLS-USB-AMAM-5M\nLS-USB-AMAM-10M\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질보증기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANSStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "PVC"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.15,
+        1,
+        1.8,
+        3,
+        5,
+        10
+      ],
+      "color_options": [
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A Male - USB A Male",
+    "connectivity.output_signals": "USB A Male - USB A Male",
+    "connectivity.directional": "양방향 동일 커넥터 구성",
+    "power.power_mode": "24AWG(전원선) 구성으로 안정적인 전송",
+    "power.charging_support": "24AWG(전원선) 구성으로 안정적인 전송",
+    "form_physical.material": "PVC 블랙 외피",
+    "form_physical.length_options_meters": "0.15M / 1M / 1.8M / 3M / 5M / 10M",
+    "form_physical.color_options": "PVC 블랙 외피",
+    "family.usb_version": "USB 2.0 HI-SPEED 규격",
+    "family.transfer_speed_gbps": "최대 480Mbps 데이터 전송속도 지원",
+    "family.charging_only": "최대 480Mbps 데이터 전송속도 지원",
+    "family.data_only": "28AWG(데이터선) + 24AWG(전원선) 구성"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:19",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 6,
+    "category_breakdown": {
+      "troubleshoot": 2,
+      "usage": 2,
+      "shipping": 1,
+      "install": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

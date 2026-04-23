@@ -1,0 +1,121 @@
+{
+  "model_no": "LS-I3RST",
+  "product_name": "LAN Star 3.5 STEREO-3RCA iPod & iPhone & iPad AV CABLE",
+  "category": [
+    "RCA케이블",
+    "오디오케이블",
+    "AV케이블"
+  ],
+  "key_features": [
+    "3.5mm 스테레오 단자와 3RCA 단자를 연결하는 음성+영상 케이블",
+    "iPod, iPhone, iPad, MP3 등을 TV에 연결하여 동영상 출력 가능",
+    "컴퓨터/노트북과 TV를 연결하여 음성+영상 전달 가능 (TV-OUT)",
+    "캠코더, PMP, 네비게이션 등과 TV 연결하여 동영상 출력 가능",
+    "Apple 공식 협력 브랜드",
+    "생산물 책임 보험 가입",
+    "ROHS 인증 제품"
+  ],
+  "specifications": {
+    "케이블 길이": "1.8M",
+    "단자 구성": "3.5mm 스테레오(4극) - 3RCA",
+    "RCA 색상 및 신호": "음성(L/흰색), 음성(R/빨강), 영상(노랑)",
+    "4극 단자 핀배열": "음성(L), 음성(R), 접지, 영상",
+    "상표등록번호": "제 0514743 호",
+    "상표권자": "라인업시스템(주)",
+    "환경인증": "RoHS Compliant"
+  },
+  "compatibility": [
+    "iPod",
+    "iPhone",
+    "iPad (30핀 DOCK 젠더 LS-IPDOCK-45P 별도 구매 필요)",
+    "MP3 플레이어",
+    "PMP",
+    "네비게이션",
+    "캠코더",
+    "컴퓨터/노트북",
+    "TV (3RCA 입력 지원 기기)"
+  ],
+  "package_contents": [
+    "3.5 STEREO-3RCA AV 케이블 (LS-I3RST-1.8M) 1개"
+  ],
+  "usage_instructions": "3.5mm 단자를 소스 기기(MP3, PMP, 네비게이션, 캠코더, 컴퓨터 등)에 연결하고, 3RCA 단자를 TV의 컴포지트 입력 단자에 연결한다. iPod/iPhone/iPad에서 영상을 출력하려면 반드시 30핀 DOCK 젠더(LS-IPDOCK-45P, 별도 구매)를 사용해야 한다. 일부 기기에서 음성/영상 배열이 달라 동작하지 않을 경우 컴포지트 배열을 바꾸어 사용한다.",
+  "cautions": [
+    "iPod, iPhone, iPad의 3.5mm 스테레오 단자는 영상 출력 기능이 없으므로 반드시 30핀 DOCK 젠더(LS-IPDOCK-45P)를 통해 영상을 출력해야 합니다.",
+    "사용하는 기기의 스테레오 단자가 4극을 지원하는지 반드시 확인하십시오.",
+    "일부 제품에서는 음성/영상 배열이 달라 동작이 되지 않을 수 있으나, 컴포지트 배열을 바꾸면 사용 가능합니다.",
+    "30핀 젠더는 별도 구매 필요합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-I3RST-1.8M",
+      "품목코드": "CAB-APP104",
+      "품목명": "애플용 AV케이블, 3.5ST 4P／M-3RCA／M, 1.8M[10448] (LANstar)(100개",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "RCA"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 1.8,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5mm 스테레오 단자와 3RCA 단자를",
+    "connectivity.output_signals": "3.5mm 스테레오 단자와 3RCA 단자를",
+    "connectivity.directional": "음성+영상 케이블",
+    "power.power_mode": "무전원",
+    "form_physical.length_meters": "케이블 길이\": \"1.8M",
+    "certification.rohs": "ROHS 인증 제품",
+    "audio_video.audio_pass": "음성+영상 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:49",
+  "feature_schema_version": "1.0.0"
+}

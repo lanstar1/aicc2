@@ -1,0 +1,130 @@
+{
+  "model_no": "LS-HD-TESTER19",
+  "product_name": "HDMI 분리형 테스터기 (HDMI/Mini HDMI 겸용)",
+  "category": [
+    "HDMI케이블"
+  ],
+  "key_features": [
+    "HDMI A Type 및 HDMI C Type(Mini HDMI) 동시 지원",
+    "분리형 구조(Master/Remote)로 케이블 단선·합선·접촉불량·배선오류 확인 가능",
+    "케이블 연결 시 자동으로 테스트 시작",
+    "19핀 및 쉴드 각각에 대해 LED로 정상 여부 표시",
+    "CONTINUITY / SWEEP 테스트 지원",
+    "Straight(정상), Open(단락), 순차 점등 3가지 테스트 결과 표시",
+    "모듈처럼 분리 사용 가능하여 휴대 및 사용성 탁월",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "테스트 케이블": "HDMI A Type / HDMI C Type(Mini)",
+    "작동 전압": "9V DC",
+    "크기": "102 x 94.5 x 27 mm",
+    "무게": "약 165g (배터리 포함)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "해당없음",
+    "A/S 문의": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "HDMI A Type 케이블",
+    "HDMI C Type (Mini HDMI) 케이블"
+  ],
+  "package_contents": [
+    "케이블 테스터기 Master (발신기)",
+    "케이블 테스터기 Remote (수신기)",
+    "9V 배터리 1개"
+  ],
+  "usage_instructions": "1. Master(발신기)와 Remote(수신기)를 분리하여 케이블 양쪽 끝에 각각 연결한다. 2. 스위치를 짧게 한 번 눌러 전원을 ON한다. 3. 케이블 연결 후 자동으로 테스트가 시작되며, 19핀 및 쉴드 LED 점등 상태로 정상 여부를 확인한다(모든 LED 점등: 정상, 특정 핀 LED 미점등: 해당 핀 단락). 4. 테스트 완료 후 스위치를 길게 한 번 눌러 전원을 끈다. 5. 장기간 미사용 시 배터리를 분리하여 보관한다. ※ 스위치 조작: 짧게 한 번(전원 OFF 상태) → 전원 ON / 짧게 한 번(전원 ON 상태) → 모드 변경 / 길게 한 번(전원 ON 상태) → 전원 OFF",
+  "cautions": [
+    "테스트 후 반드시 전원을 끈 후 보관할 것",
+    "장기간 사용하지 않을 시 건전지를 분리하여 보관할 것",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HD-TESTER19",
+      "품목코드": "NEO-테스터094",
+      "품목명": "[LANstar] HDMI 테스터기 분리형 RED [40626] (40개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HD-TESTER19",
+      "내용": "작동이 잘되는거같아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "배터리",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": true,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI A Type 및 HDMI C Type",
+    "connectivity.output_signals": "HDMI A Type 및 HDMI C Type",
+    "connectivity.directional": "분리형 구조(Master/Remote)로 케이블 단선·합선·접촉불량·배선오류 확인 가능",
+    "power.power_mode": "9V DC",
+    "form_physical.has_case": "분리형 구조(Master/Remote)",
+    "certification.kc": "KC 인증번호: 해당없음",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "control_switching.has_physical_button": "스위치를 짧게 한 번 눌러 전원을 ON한다",
+    "control_switching.has_auto_scan": "케이블 연결 시 자동으로 테스트 시작",
+    "family.hdmi_version": "N/A",
+    "family.dp_version": "N/A",
+    "family.dvi_type": "N/A",
+    "family.optical_core": "19핀 및 쉴드 각각에 대해 LED로 정상 여부 표시"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:42",
+  "feature_schema_version": "1.0.0"
+}

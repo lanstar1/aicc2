@@ -1,0 +1,118 @@
+{
+  "model_no": "LS-S91",
+  "product_name": "시리얼 브라켓 Slim 브라켓 1PORT",
+  "category": [
+    "시리얼브라켓"
+  ],
+  "key_features": [
+    "슬림 PC(Slim PC) 전용 시리얼 브라켓",
+    "LP(Low Profile) 브라켓 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "RoHS COMPLIANT(EU 특정위험물질 사용제한 지침 준수)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "품명": "시리얼 브라켓 Slim 브라켓 1PORT",
+    "모델명": "LS-S91",
+    "브랜드": "LANStar",
+    "제조사/수입사": "라인업시스템(주)",
+    "제조국/원산지": "중국 (China)",
+    "인증번호": "해당없음",
+    "환경규격": "RoHS COMPLIANT",
+    "품질인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "슬림 PC(Slim PC) 전용",
+    "LP(Low Profile) 브라켓 슬롯 장착 가능 시스템"
+  ],
+  "package_contents": [
+    "시리얼 브라켓 Slim 브라켓 1PORT (LS-S91) 본체"
+  ],
+  "usage_instructions": "슬림 PC에 시리얼 포트를 추가하려면 일반 PC용 시리얼 브라켓(LS-91P, LS-92P) 대신 슬림 PC 전용인 LS-S91을 사용하여 장착하세요.",
+  "cautions": [
+    "일반 PC용 시리얼 브라켓 1Port(LS-91P) 및 2Port(LS-92P)는 슬림 PC에 장착할 수 없습니다.",
+    "본 제품은 슬림 PC 전용이므로 일반(표준) PC에는 적합하지 않을 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-S91",
+      "품목코드": "INT-멀티기170",
+      "품목명": "[LANstar] 시리얼 브라켓 Slim 브라켓 1PORT [60132] (500개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Serial(DB9)"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "무관",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "스틸"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "port_count": 1,
+      "mount_style": "bracket"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "시리얼 브라켓",
+    "connectivity.output_signals": "시리얼 브라켓",
+    "connectivity.directional": "시리얼 브라켓",
+    "connectivity.port_count": "1PORT",
+    "power.power_mode": "시리얼 브라켓",
+    "power.charging_support": "시리얼 브라켓",
+    "form_physical.has_case": "브라켓",
+    "form_physical.material": "브라켓",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008",
+    "audio_video.max_resolution": "시리얼 브라켓",
+    "audio_video.hdcp_version": "시리얼 브라켓",
+    "family.port_count": "1PORT",
+    "family.mount_style": "브라켓"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:57",
+  "feature_schema_version": "1.0.0"
+}

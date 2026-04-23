@@ -1,0 +1,304 @@
+{
+  "model_no": "LS-T68BU",
+  "product_name": "LANStar 분리형 케이블 테스터기 (UTP/STP 겸용, RJ45/RJ11/USB(A/B)/BNC)",
+  "category": [
+    "랜케이블-UTP",
+    "랜케이블-STP",
+    "USB케이블",
+    "네트워크공구"
+  ],
+  "key_features": [
+    "분리형 구조: MASTER(케이블 테스터기)와 REMOTE(외부 리시버)로 구성되어 근거리 및 원거리 랜공사 현장에서 사용 가능",
+    "UTP/STP 겸용, RJ45/RJ11/USB(A/B)/BNC 4종 케이블 테스트 지원",
+    "9개의 LED 불빛으로 양쪽 테스터기에서 케이블 정상작동 여부 표시",
+    "테스트 버튼 한 번으로 자동 테스트 시작",
+    "MASTER 상단 숫자(C/1~8) LED로 케이블선과 핀 정상 여부 확인, 좌측 LED로 케이블 사양 표시",
+    "멜로디(삑~ 신호) 지원으로 어두운 장소에서도 테스트 가능",
+    "케이블 종류별 LED 점등 순서 상이 (RJ45: C/1-2-3-4-5-6-7-8, RJ11: 3-4, USB: C/1-2-3-4, BNC: C/1-2)",
+    "9V 건전지 포함",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 제품 (인증번호: R-R-LUS-LS-68WT)",
+    "KC, FCC, CE 안전규격 인증, ISO 9001:2008 품질경영시스템 인증",
+    "랜스타 LED 패치판넬(LS-6PLB-24P19LED) 전용 테스터기로 단선, 엉킴, 접지, 배선오류 확인 가능",
+    "측정 시 '삑~' 신호음 지원으로 어두운 장소에서도 테스트 가능",
+    "MASTER + REMOTE 분리형 구조로 근거리 및 원거리 케이블 정상/불량 여부 확인",
+    "RJ-45, RJ-11, USB(A/B), BNC 등 다양한 케이블 종류 테스트 지원",
+    "9개의 LED 불빛으로 케이블 정상 작동 여부 표시",
+    "테스터기(Master) 상단 숫자(C/1~8) LED로 케이블선 및 핀 상태 확인, 좌측 LED로 케이블 사양 표시",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "RoHS 및 ISO 9001:2008 인증"
+  ],
+  "specifications": {
+    "커넥터 종류": "RJ45, RJ11, USB(A/B), BNC",
+    "표준": "Token Ring, 10Base-T, 10Base-2, 258A, TIA-568A/568B",
+    "작동전압": "9V DC",
+    "크기(Master)": "160 x 85 x 26mm (H x W x D)",
+    "무게": "195g (Master) / 25g (Remote) / 195g / 25g",
+    "인증번호": "R-R-LUS-LS-68WT",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "크기": "160 x 85 x 26mm (H x W x D)",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008"
+  },
+  "compatibility": [
+    "RJ45 (Networking)",
+    "RJ11 (Phone System)",
+    "USB A/M - B/M",
+    "BNC 10Base-2 (Coaxial Cable)",
+    "UTP/STP 케이블",
+    "Token Ring",
+    "10Base-T",
+    "TIA-568A / TIA-568B",
+    "랜스타 LED 패치판넬 LS-6PLB-24P19LED",
+    "RJ-45 케이블",
+    "RJ-11 케이블",
+    "USB(A/B) 케이블",
+    "BNC 10BASE-2 케이블",
+    "TIA-568A/568B"
+  ],
+  "package_contents": [
+    "케이블 테스터기 MASTER",
+    "외부 리시버 REMOTE",
+    "터미네이터 (Terminator, BNC 테스트용)",
+    "휴대 케이스",
+    "건전지 (그린셀 1604G 6F22 / 9V)",
+    "영문 매뉴얼",
+    "케이블 테스터기 본체 (MASTER)",
+    "외부 리시버 (REMOTE)",
+    "터미네이터 (Terminator)",
+    "USB(A) 커넥터",
+    "USB(B) 커넥터",
+    "RJ11 커넥터",
+    "RJ45 커넥터",
+    "건전지 (그린셀 1604G 6F22 / 9V) 1개"
+  ],
+  "usage_instructions": "1. 테스트할 케이블을 MASTER와 REMOTE의 적절한 포트(RJ45, RJ11, USB A/B, BNC)에 연결한다. BNC 테스트 시 별도 첨부된 터미네이터를 사용한다. 2. 테스트 버튼을 누른다. 3. LED 램프에 불이 들어오며 '삑' 소리와 함께 결과가 출력된다. 4. LED 점등 순서가 정상 순서(RJ45: C/1-2-3-4-5-6-7-8, RJ11: 3-4, USB: C/1-2-3-4, BNC: C/1-2)와 일치하면 정상이다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-T68BU",
+      "품목코드": "NEO-테스터002",
+      "품목명": "[LANstar] 멀티테스터기 RJ11／45／BNC／USB[40125] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-T68BU",
+      "내용": "편하게 잘 쓰고 있어요."
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "잘받았습니다 \n사용하기편합니다"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "간단한 테스트는 엄청 빠릅니다"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "잘받았습니다!!!!"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "1년에 한번 사용할까 말까하지만 유튜브 보고  이런거 하나쯤 가지고 싶어서 구매했어요"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "구매후 조아서 하나 더 구매햇네요"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "저렴하지만 성능도좋은듯요",
+      "관련내용": "구체적으로 어떤문제가있는지 확인이 되서 좋습니다"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "매우 만족하고 잘 사용 중입니다 디자인 사용감 좋습니다 감사합니다~"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "구체적으로 어떤문제가있는지 확인이 되서 좋습니다"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "진작에 샀어야 했습니다. 현장에서 작업하는데 선이 끊겨있는지 도무지 모르겠더라구요 그래서 다시 라인깔고 반복하고.. 시간 무지 잡아먹었는데 이거 하나 있으니까 확인도 잘 되고 너무 좋습니다! 강추!"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "배송도빠르고 매우만족핮니다"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "USB 선도 체크할 수 있어서 좋아요~"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "포장은 꼼꼼한 느낌은 아니나\n이상없이 잘 배송되었습니다.\n회사에서 사용하는데 직접 테스트를 하는게 아니라서..\n빠른 배송에 만족합니다"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "다른건 다 좋은데, 배터리 부분만 개선하면 좋겠네요"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "배터리 추가 안했으면 큰일날 뻔..\n기존 배터리 방전된 채로 왔네요\n\n그리고 RJ11포트는 흠집이 있고\n\n아쉽습니다."
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "랜스타 LS-T68BU사용잘하고 있어요"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "덕분에 방송장비 고쳤네요",
+      "관련내용": "빠르네요 아주 좋아요 케이스가 있어서 편해요"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "빠르네요 아주 좋아요 케이스가 있어서 편해요"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "그냥 만족\n잘 동작합니다\n\n(추천해서 구매)"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "너무좋아요\n점펌썻는데 이거 쓰고 일하는시간이 2시간이 줄았어요"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "내구성은 만. 좋음면 가성비 갑"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "결선확인하는데 만족합니다.\n다만 크로스 결선시 어느선이 어디로 연결됬는지 확인은 안된니 참고 바랍니다."
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "써보니 빠르고 문제있는 부분도 확실하게 표시되고 해서 좋습니다. 가격도 괜찮구요.\n아쉬운 점은 배터리가 구하기 좀 어려운 \n9V밧데리라는 점-aa밧데리로 바꿔주면 좋겠다 생각이 들고 tv동선용 터미네이터는 벌써 분실을..\n이상입니다. 번창하세요."
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "오우, 결과값이 아주 빠르네요.\n보관팩이 있어 더 좋아요."
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "만족합니다....."
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "간편하게 사용하기 좋아요 ㅎㅎ"
+    },
+    {
+      "source_model": "LS-T68BU",
+      "내용": "좋아요  만족합니다 \n저렴하고 최고상품입니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-T68BU",
+      "id": 658549339,
+      "date": "2026-01-10 20:51",
+      "answerDate": "2026-01-12 16:33",
+      "user": "2021****",
+      "productName": "랜스타 LS-T68BU 멀티 랜 테스터기 RJ11／45／BNC／USB",
+      "question": "테스터기 ㅇ 눌러 스위치 on되는건 확인 했는데요 3~5초뒤 전원Off 되던데요 계속유지되게 못하나요?.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품은 전원을 계속 유지할수 없는 제품입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-T68BU-NEW": "Ⓡ\nLANG\ntar\nLED 패치판넬 전용 랜선오류 측정기\nLED 패치판넬 테스터기\nILS-T68BU-NEW]\nSC/12\nRJ-45RJ-11/USB\nBNC\n-X-SHORT\nCONNECTED\n25 OHU\nNON PARALLEL\n300KM\nNO CONNECTION\nNO TERMINATOR\nODORANE\nBATTERY GOOD\nBATTERY LOW\nLED 패치판넬 테스터기는?\n랜스타 LED 패치판넬(LS-6PLB-24P19LED)에 연결된 랜 케이블의 단선,\n엉킴, 접지, 배선오류 등을 확인하기 위한 전용 테스터기입니다.\n측정 시 신호음이 울려서 보다 정확한 테스트가 가능한 제품입니다.\n12\nLED 패치판넬 테스터기\n+\nCAT.6 LED 패치판넬\n(LS-6PLB-24P19LED)\n10\n09\nAAA\n17 18 19 20\nLANO\n9 10 11 12 13 14 15\n08\n1\n07\n06\n※ 테스터기 LS-T68BU-NEW 모델로만 측정이 가능합니다.\nLS-T68BU 모델은 작동하지 않으니 구매시 유의 바랍니다.\nCAT.6 LED 패치판넬과\nLED 패치판넬 테스터기 작동안내\n1 랜포트 장비에 연결된 랜케이블 중 A 케이블이 다른 공간에 있는\n'패치판넬의 몇번 포트에 연결되어 있는지 궁금한 상황입니다.\n케이블을 테스터기와 연결합니다.\n„ÁJÁÐÂÆÐµÂ„ÂªÂ¤ÂªÂ„Â¤ÂªÂTÄJÄªÁÐÃª per9400mg00190998099990 16090909090696909069696969\nPAGANDA PANAMA PAGANE\n<패치판넬 뒷면>\n------\n--1\n--------\n17 19 20 21 22 23 24\n<패치판넬 앞면>\n2 테스터기를 작동시키면 패치판넬 10번 포트 LED에 불이 들어와\nA 케이블이 10번 포트에 연결된 것을 알 수 있습니다.\n\n\n테스터기를 작동시키면 패치판넬 10번 포트 LED에 불이 들어와\nA 케이블이 10번 포트에 연결된 것을 알 수 있습니다.\nSTATION\nSAD JARAGO\n2\n9개의 LED 불빛이 양쪽 테스터기에서\n케이블의 정상작동 여부를 알려줍니다.\n2\n케이블 연결 후, 테스트 버튼을 누르면\n자동으로 테스트가 시작됩니다.\n3\n테스터기(Master) 상단의 숫자(C/1~8) LED는\n케이블선과 핀이 정상인지를 나타내고,\n좌측의 LED에서는 케이블 사양을 보여줍니다.\n4\n테스터 되는 케이블 종류\nRJ45, RJ11, USB(A/B), BNC\n멜로디 지원\n테스트 진행시 테스터기에서 삑~ 신호가 흘러나와 어두운 장소에서도\n쉽게 테스트를 할 수 있습니다.\nDC wwwwww\nwww/11-ww-\n삐익~\n케이블 종류별 테스트\n케이블 종류별로 LED 점등순서가 다릅니다.\n케이블 테스터기(MASTER)\n동맹공공4878\nCondition\nRJ-45/RJ-11/USB\nBNC\nSHORT\n-x-\nOHORT\nCONNECTED\n25 CHU\n•\nNON PARALLEL 50 OHM\nNO CONNECTION\nNO TERMINATOR\n● BATTERY GOOD\n외부 리시버 (REMOTE)\nI\n랜스타 LED 패치판넬 테스터기는 분리형으로 MASTER와 REMOTE로\n이루어져 있으며 근거리 및 원거리 에서 케이블의 정상/불량 여부를\n확인하여 주는 장비입니다.\n테스터기 동작 방법\nRJ45, RJ11, USB(A/B) 타입, BNC 10BASE-2\n케이블을 테스트 할 수 있습니다.\n적절한 포트에 제품을 연결합니다.\n(BNC를 테스트 할 경우 별도로 첨부된 터미네이터를\n사용하시면 됩니다.)\n\n\nRJ45, RJ11, USB(A/B) 타입, BNC 10BASE-2\n케이블을 테스트 할 수 있습니다.\n적절한 포트에 제품을 연결합니다.\n(BNC를 테스트 할 경우 별도로 첨부된 터미네이터를\n사용하시면 됩니다.)\n1\n2\n터미네이터\n테스트 버튼을 누릅니다.\n3\n4\nLED 램프에 불이 들어오며 '삑' 소리와\n함께 결과가 나옵니다.\n19111111IN\n콘넥터\n케이블 테스터기\nRJ45\nC/1-2-3-4-5-6-7-8--\nRJ11\n--3-4-\nUSB\nC/1-2-3-4-\nBNC\nC/1-2-\n※ 위 표에 있는 순서대로 LED가 동작시 정상입니다.\nRJ45\nRJ11\nUSB A/M-B/M\nBNC\n터미네이터\n|건전지 연결\n원 테스터\n\n\nLAN\nCE\n9V 건전지 포함\nPRODUCT SIZE\n85mm\n801234\n160mm\n● GOOD\nCOAXIAL CABLE\nXx\n26mm\n26mm\n68mm\n28mm\nPRODUCT PACKAGE\n휴대 케이스\n케이블 테스터기\nUSB(A)\nRJ11\nRJ45\nUSB (B).\nSIN1.CABLE TESTER\nRJ11 (Phone System).\nRJ45(Networking)\n4IN1 CABLE TESTER\n터미네이터 (Terminator)\nGP GREENCELL\nLa story\n건전지 (그린셀 1604G 6F22 / 9V)\n영문 매뉴얼\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nSPECIFICATION\n콘넥터종류\nRJ45, RJ11, USB(A/B), BNC\n丑\n준\nToken Ring, 10Base-T, 10Base-2\n258A, TIA-568A/568B\n작동전압\n9V DC\n크\n기\n160x85x26mm (H x W x D)\n무\n게\n195g/25g\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar\n®\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n\n\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLAN Star\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nLED 패치판넬 테스터기\nLANSStar\n모델\n명\nLS-T68BU-NEW\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45",
+        "RJ11",
+        "USB-A",
+        "USB-B",
+        "BNC"
+      ],
+      "output_signals": [
+        "RJ45",
+        "RJ11",
+        "USB-A",
+        "USB-B",
+        "BNC"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "배터"
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": true,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": null,
+      "shielding": null,
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45/RJ11/USB(A/B)/BNC 4종 케이블 테스트 지원",
+    "connectivity.output_signals": "RJ45/RJ11/USB(A/B)/BNC 4종 케이블 테스트 지원",
+    "connectivity.directional": "MASTER(케이블 테스터기)와 REMOTE(외부 리시버)로 구성",
+    "power.power_mode": "9V 건전지 포함",
+    "form_physical.has_case": "분리형 구조: MASTER(케이블 테스터기)와 REMOTE(외부 리시버)",
+    "certification.kc": "KC, FCC, CE 안전규격 인증",
+    "certification.rohs": "RoHS 및 ISO 9001:2008 인증",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증",
+    "certification.ce": "KC, FCC, CE 안전규격 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "control_switching.has_physical_button": "테스트 버튼 한 번으로 자동 테스트 시작",
+    "control_switching.has_auto_scan": "테스트 버튼 한 번으로 자동 테스트 시작"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:18",
+  "feature_schema_version": "1.0.0"
+}

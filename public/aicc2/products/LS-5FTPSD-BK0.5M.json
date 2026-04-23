@@ -1,0 +1,150 @@
+{
+  "model_no": "LS-5FTPSD-BK0.5M",
+  "product_name": "LANStar CAT.5E FTP 랜 연장 판넬형 케이블 (M/F)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-FTP",
+    "분배판넬"
+  ],
+  "key_features": [
+    "CAT.5E FTP 4P 트위스트 페어 연선(Twist Pair Stranded) 구조",
+    "알루미늄 은박 쉴드로 선을 감싸 데이터 손실 최소화",
+    "접지선 내장으로 외부 노이즈 및 전자파 차폐",
+    "4페어 구성(1페어당 100MHz, 총 400MHz) 전송 방식",
+    "여러 가닥의 가는 심선으로 유연성이 뛰어나 움직이는 장치에 적합",
+    "판넬형 나사 고정 방식으로 케이블을 흔들리지 않게 안전하게 고정 가능",
+    "허브랙/서버랙, 전자교탁, 서버, PC 및 산업용 장비의 LAN 포트를 외부로 깔끔하게 노출 가능",
+    "RoHS 인증 제품",
+    "안전 전송 거리 100m",
+    "데이터 전송 속도 150MHz / 550Mbps"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.5E FTP",
+    "케이블 구조": "4P Twist Pair Stranded",
+    "커넥터 구성": "M(수) / F(암) 판넬형",
+    "전송 주파수": "150MHz (4페어 기준 총 400MHz)",
+    "데이터 전송 속도": "550Mbps",
+    "안전 전송 거리": "100m",
+    "쉴드 방식": "알루미늄 은박(Al/Mylar 테이프) 쉴드 + 접지선",
+    "제품 길이": "0.5m (라인업: 0.2m / 0.5m / 1m / 2m / 3m / 5m)",
+    "제조국": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "품질보증기준": "공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  },
+  "compatibility": [
+    "허브랙 / 서버랙",
+    "전자교탁",
+    "서버",
+    "PC",
+    "산업용 장비",
+    "CAT.5E 규격 LAN 포트를 사용하는 각종 장비"
+  ],
+  "package_contents": [
+    "CAT.5E FTP 판넬형 랜 케이블 (M/F) 본체",
+    "고정용 나사 (제품에 포함)"
+  ],
+  "usage_instructions": "케이블을 허브랙, 서버랙, 전자교탁, 서버 등 장비에 장착 후 나사로 고정하여 흔들리지 않도록 고정한 뒤 연장하여 사용합니다. 설치 전 상세 치수를 확인하고 구매하시기 바랍니다.",
+  "cautions": [
+    "케이블을 나사로 고정한 후 연장하여 사용해야 안전하게 사용 가능합니다.",
+    "설치 시 상세 치수를 확인한 후 구매하시기 바랍니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-5FTPSD-BK0.5M",
+      "품목코드": "CAB-U5S007",
+      "품목명": "[LANstar] 랜연장 판넬형 케이블, CAT.5E FTP, Open Screw, 0.5M 검정 [10125] (200개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-5FTPSD-BK0.5M",
+      "내용": "빠르게\n배송해주셨습니다\n만족합니다 다음에도 필요하면 재주문할게여"
+    },
+    {
+      "source_model": "LS-5FTPSD-BK0.5M",
+      "내용": "빠른 배송 감사합니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.2,
+        0.5,
+        1,
+        2,
+        3,
+        5
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "FTP",
+      "conductor": "연선(stranded)",
+      "awg": null,
+      "pair_count": 4,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "LAN 포트를 외부로 깔끔하게 노출",
+    "connectivity.output_signals": "LAN 포트를 외부로 깔끔하게 노출",
+    "connectivity.directional": "LAN 연장 판넬형 케이블 (M/F)",
+    "form_physical.material": "알루미늄 은박 쉴드",
+    "form_physical.length_options_meters": "0.5m (라인업: 0.2m / 0.5m / 1m / 2m / 3m / 5m)",
+    "certification.rohs": "RoHS 인증 제품",
+    "family.cat_category": "CAT.5E FTP",
+    "family.shielding": "CAT.5E FTP",
+    "family.conductor": "연선(Twist Pair Stranded) 구조",
+    "family.pair_count": "4페어 구성"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:18",
+  "feature_schema_version": "1.0.0"
+}

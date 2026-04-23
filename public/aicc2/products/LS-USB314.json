@@ -1,0 +1,131 @@
+{
+  "model_no": "LS-USB314",
+  "product_name": "USB 3.1 Type C to USB 3.0 HUB (4포트)",
+  "category": [
+    "USB허브",
+    "USB-C",
+    "USB3.0",
+    "USB2.0",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 3.1 Type C 입력 → USB 3.0 4포트 출력 허브",
+    "5Gbps 고속 전송속도 (USB 3.0 SUPERSPEED)",
+    "USB Type C 커넥터: 위아래 방향 구분 없이 연결 가능",
+    "OTG(On-The-Go) 지원: 스마트폰·태블릿PC에서 마우스, 키보드, 외장 메모리 사용 가능",
+    "보조 전원 포트 탑재 (USB 2.0 Micro Type B Female)",
+    "애플 MacBook 및 구글 크롬북 USB-C 포트 호환",
+    "KC(국립전파연구원), FCC, CE 안전규격 인증 획득",
+    "RoHS 환경규격 준수",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "케이블타입": "USB 3.1 C/M - 3.0 A/F",
+    "전송속도": "5Gbps",
+    "길이": "20cm",
+    "전원": "30V",
+    "작동온도": "0°C ~ 80°C",
+    "포트수": "4포트",
+    "인증번호": "MSIP-REI-LUS-LS-USB314",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "USB 3.1 Type C 포트 탑재 기기",
+    "Apple MacBook (USB Type C 포트)",
+    "Google Chromebook (USB-C 포트)",
+    "USB-C 포트 지원 스마트폰 및 태블릿PC (OTG)",
+    "USB 3.0 장치",
+    "USB 2.0 장치 (하위 호환)",
+    "USB 1.1 장치 (하위 호환)"
+  ],
+  "package_contents": [
+    "USB 3.1 Type C to USB 3.0 HUB 본체 (LS-USB314)"
+  ],
+  "usage_instructions": "USB 3.1 Type C Male 커넥터를 PC, MacBook, 크롬북 등의 USB-C 포트에 연결하면 USB 3.0 Type A Female 포트 4개를 사용할 수 있습니다. OTG를 지원하는 스마트폰·태블릿PC에 연결하면 마우스, 키보드, 외장 메모리 등을 사용할 수 있습니다. 추가 전원 공급이 필요할 경우 보조 전원 포트(USB 2.0 Micro Type B Female)를 통해 전원을 연결하세요.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "보조 전원이 추가로 필요한 경우 USB 2.0 Micro Type B Female 포트를 이용하여 전원을 공급하세요.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB314",
+      "품목코드": "CAB-U31011",
+      "품목명": "[LANstar] [USB 3.1] HUB, USB 3.1 C/M- USB3.0 4Port, White[30118]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "일방향",
+      "port_count": 4
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "port_count": 4,
+      "usb_version": "USB3.0",
+      "ethernet_speed_mbps": null,
+      "has_sd_reader": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 Type C 입력",
+    "connectivity.output_signals": "USB 3.0 4포트 출력 허브",
+    "connectivity.directional": "USB 3.1 Type C 입력 → USB 3.0 4포트 출력 허브",
+    "connectivity.port_count": "4포트",
+    "power.power_mode": "보조 전원 포트 탑재",
+    "form_physical.has_case": "USB 3.1 Type C to USB 3.0 HUB",
+    "form_physical.length_meters": "길이: 20cm",
+    "certification.kc": "KC(국립전파연구원)",
+    "certification.rohs": "RoHS 환경규격 준수",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE 안전규격 인증 획득",
+    "family.port_count": "4포트",
+    "family.usb_version": "USB 3.0 SUPERSPEED"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:52",
+  "feature_schema_version": "1.0.0"
+}

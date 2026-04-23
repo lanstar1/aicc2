@@ -1,0 +1,102 @@
+{
+  "model_no": "LS-BPA-S2UB",
+  "product_name": "LANSStar 허브랙/서버랙용 블랭크 판넬 (Blank Panel, 2U, Black/Ivory)",
+  "category": [
+    "분배판넬",
+    "서버랙",
+    "허브랙"
+  ],
+  "key_features": [
+    "허브랙 및 서버랙용 블랭크 판넬",
+    "2U 규격 지원",
+    "블랙(Black) 및 아이보리(Ivory) 두 가지 색상 제공",
+    "랙 빈 슬롯을 덮어 먼지 유입 차단 및 공기 흐름 관리에 활용"
+  ],
+  "specifications": {
+    "규격": "2U",
+    "크기": "482(W) x 88(H) mm",
+    "색상": "Black, Ivory",
+    "브랜드": "LANSStar (랜스타)"
+  },
+  "compatibility": [
+    "허브랙 (Hub Rack)",
+    "서버랙 (Server Rack)",
+    "19인치 표준 랙 (482mm 너비 기준)"
+  ],
+  "package_contents": [
+    "블랭크 판넬 본체 (2U)"
+  ],
+  "usage_instructions": "허브랙 또는 서버랙의 빈 슬롯에 블랭크 판넬을 장착하여 사용. 1U/2U 등 규격에 맞는 판넬을 선택하여 랙 슬롯에 삽입 후 고정.",
+  "cautions": [],
+  "variants": [
+    {
+      "model_no": "LS-BPA-S2UB",
+      "품목코드": "NEO-판넬B004",
+      "품목명": "[LANstar] 브랭크판넬, 2U 검정 허브랙/서버랙용[50016] (25개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-BPA-S2UB",
+      "내용": "랙장  앞 공간 메움 용 으로 사용 하려고 주문 했습니다 잘 쓰겠 습니다~^^"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "Black",
+        "Ivory"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "port_count": null,
+      "mount_style": "bracket"
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "블랭크 판넬",
+    "form_physical.color_options": "블랙(Black) 및 아이보리(Ivory) 두 가지 색상",
+    "family.mount_style": "허브랙 및 서버랙용 블랭크 판넬"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:41",
+  "feature_schema_version": "1.0.0"
+}

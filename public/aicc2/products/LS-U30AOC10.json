@@ -1,0 +1,91 @@
+{
+  "model_no": "LS-U30AOC10",
+  "product_name": "[LANstar] USB3.0 AOC 연장 리피터 케이블 10m [30503](10개)",
+  "category": [
+    "USB케이블",
+    "USB3.0",
+    "리피터"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-U30AOC10",
+      "품목코드": "CAB-HDO051",
+      "품목명": "[LANstar] USB3.0 AOC 연장 리피터 케이블 10m [30503](10개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-U30AOC10",
+      "내용": "끊김없이 인식 잘 됩니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 10,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB3.0 AOC 연장 리피터 케이블",
+    "connectivity.output_signals": "USB3.0 AOC 연장 리피터 케이블",
+    "connectivity.directional": "연장 리피터 케이블",
+    "form_physical.length_meters": "케이블 10m",
+    "family.usb_version": "USB3.0",
+    "family.transfer_speed_gbps": "USB3.0",
+    "power.power_mode": "리피터 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:26",
+  "feature_schema_version": "1.0.0"
+}

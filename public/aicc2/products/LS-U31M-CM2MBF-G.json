@@ -1,0 +1,133 @@
+{
+  "model_no": "LS-U31M-CM2MBF-G",
+  "product_name": "LANStar USB 3.1 Type C 젠더 (C/M - 2.0 Micro B/F)",
+  "category": [
+    "USB-C",
+    "USB2.0",
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 3.1 Type C Male to USB 2.0 Micro B Female 변환 젠더",
+    "데이터 전송 및 충전 기능 지원",
+    "OTG(On-The-Go) 기능 지원",
+    "메탈 소재 커넥터 적용 (Gold Metal Connector)",
+    "USB Type C 커넥터는 위아래 방향 구분 없이 연결 가능",
+    "RoHS 유해물질 사용 제한 지침 준수",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "커넥터 구성": "USB 3.1 Type C Male / USB 2.0 Micro B Female",
+    "소재": "메탈",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "전체 길이": "28.5mm",
+    "Type C Male 너비": "8.2mm",
+    "Type C Male 높이": "2.4mm",
+    "Micro B Female 너비": "7.6mm",
+    "Micro B Female 높이": "3mm",
+    "본체 폭": "10.2mm",
+    "본체 높이": "7.7mm"
+  },
+  "compatibility": [
+    "구글 넥서스 5X",
+    "구글 넥서스 6P",
+    "샤오미 Mi4C",
+    "LeTV Le 1 Pro",
+    "LeTV Le 1s",
+    "애플 맥북 (MacBook)",
+    "구글 크롬북 (Chromebook)"
+  ],
+  "package_contents": [
+    "USB 3.1 Type C 젠더 본체 1개"
+  ],
+  "usage_instructions": "USB Type C 포트가 있는 기기에 Type C Male 단자를 연결하고, 반대쪽 USB 2.0 Micro B Female 단자에 Micro B 케이블을 연결하여 데이터 전송 또는 충전에 사용합니다. Type C 커넥터는 방향 구분 없이 삽입 가능합니다.",
+  "cautions": [
+    "본 젠더는 삼성 갤럭시 S8과 호환되지 않습니다. 갤럭시 S8 호환 제품은 LS-U31M-CM2MBF-68을 구입하시기 바랍니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 문의: www.LANstar.co.kr / 전화: 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-U31M-CM2MBF-G",
+      "품목코드": "CAB-U31016",
+      "품목명": "[LANstar] [USB 3.1] 변환젠더, USB 3.1 C/M-Micro B/F, 골드Metal-G[30123]★★단종★★->30154로 대체",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "메탈"
+      ],
+      "length_meters": 0.0285,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.1Gen1",
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 Type C Male",
+    "connectivity.output_signals": "USB 2.0 Micro B Female",
+    "connectivity.directional": "데이터 전송 및 충전 기능 지원",
+    "connectivity.port_count": "USB 3.1 Type C Male / USB 2.0 Micro B Female",
+    "power.charging_support": "데이터 전송 및 충전 기능 지원",
+    "form_physical.has_case": "LANStar USB 3.1 Type C 젠더",
+    "form_physical.material": "메탈 소재 커넥터 적용 (Gold Metal Connector)",
+    "form_physical.length_meters": "전체 길이\": \"28.5mm",
+    "certification.rohs": "RoHS 유해물질 사용 제한 지침 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.usb_version": "USB 3.1 Type C Male"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:43",
+  "feature_schema_version": "1.0.0"
+}

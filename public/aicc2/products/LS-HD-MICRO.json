@@ -1,0 +1,215 @@
+{
+  "model_no": "LS-HD-MICRO",
+  "product_name": "LANStar HDMI to Micro HDMI 1.4 Cable",
+  "category": [
+    "HDMI케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "4K2K (4096x2160) @60Hz 고해상도 지원 — 기존 Full HD 1080p 대비 4배 높은 해상도",
+    "HDMI 1.4 규격 지원 — 4K UHD 방송 시청 가능",
+    "3D 영상 지원",
+    "24K 금도금 커넥터로 우수한 전송률 제공",
+    "ARC(Audio Return Channel) 지원 — 별도 케이블 없이 TV 사운드 전송",
+    "HEC(HDMI Ethernet Channel) 지원 — 별도 랜케이블 없이 네트워크 접속 및 양방향 통신",
+    "풍부한 색감 지원 — YCC601, Adobe RGB, Adobe YCC601 3개 컬러 영역 추가",
+    "RoHS 규정 준수 — 납·수은·카드뮴 등 중금속 미사용",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "케이블 길이 1.5M / 3M / 5M 3종 라인업",
+    "HDMI A(Female) - Micro HDMI(Male) 변환 젠더 케이블",
+    "Micro HDMI 단자 금도금(Gold Plated) 처리",
+    "Ethernet 지원",
+    "3D 지원",
+    "Full HD 및 4K 해상도 지원 (최대 4096×2160)"
+  ],
+  "specifications": {
+    "HDMI 단자": "HDMI 19P/M - Micro HDMI 19P/M",
+    "HDMI 출력 해상도": "4Kx2K (4096x2160) @60Hz",
+    "전송속도(대역폭)": "10.2Gbps",
+    "케이블 길이": "1.5M / 3M / 5M / 0.15M",
+    "소비전력": "최대 DC 300V/5s",
+    "작동온도": "섭씨 80도",
+    "HDMI 버전": "1.4",
+    "커넥터 도금": "24K 금도금",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입",
+    "커넥터 A": "HDMI 19핀 A타입 Female (암)",
+    "커넥터 B": "Micro HDMI (D타입) Male (수)",
+    "금도금": "Micro HDMI 단자 Gold Plated",
+    "지원 해상도": "최대 4096×2160 (Full HD / 4K)",
+    "3D 지원": "지원",
+    "Ethernet 지원": "지원",
+    "제조국": "중국 (China)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "HDMI A Type 단자를 가진 TV, PC 모니터 등",
+    "Micro HDMI (HDMI D Type) 단자를 가진 태블릿 PC",
+    "Micro HDMI (HDMI D Type) 단자를 가진 디지털 카메라",
+    "Micro HDMI (HDMI D Type) 단자를 가진 캠코더",
+    "Micro HDMI (HDMI D Type) 단자를 가진 스마트폰·휴대폰",
+    "HDMI 1.4 이하 규격 기기",
+    "HDMI A 타입 포트 보유 기기",
+    "Micro HDMI (D타입) 포트 보유 기기"
+  ],
+  "package_contents": [
+    "HDMI to Micro HDMI 1.4 케이블 1개 (선택 길이: 1.5M / 3M / 5M)",
+    "HDMI 젠더 케이블 (HDMI A Female - Micro HDMI Male) × 1"
+  ],
+  "usage_instructions": "HDMI A Type 단자(TV, PC 모니터 등)와 Micro HDMI D Type 단자(태블릿 PC, 디지털 카메라, 캠코더, 스마트폰 등)를 본 케이블로 연결한다. 미러링 기능을 지원하는 기기는 연결 즉시 TV로 출력되며, 미러링 기능이 없는 기기는 별도의 TV 출력 설정이 필요하다.",
+  "cautions": [
+    "이 케이블은 충전/데이터 전송용이 아닌 영상 전송 전용 케이블입니다.",
+    "구매 전 사용 기기의 단자 규격(Micro HDMI D Type 여부)을 반드시 확인하세요.",
+    "미러링 기능이 없는 기기는 별도의 TV 출력 작업이 필요합니다.",
+    "사용 기기마다 최대 해상도가 달라 지원 해상도가 다를 수 있습니다.",
+    "Micro HDMI 단자와 Micro USB 단자를 모두 가진 스마트폰 사용 시 단자를 혼동하여 잘못 꽂지 않도록 주의하세요.",
+    "제조사 사정에 따라 제품 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HD-MICRO-1.5M",
+      "품목코드": "CAB-HDM426",
+      "품목명": "[LANstar] HDMI 마이크로케이블 , HDMI A／M-Micro D／M, 4K 60Hz, 1.5M[10242] (160개)",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HD-MICRO-3M",
+      "품목코드": "CAB-HDM435",
+      "품목명": "[LANstar] HDMI 마이크로케이블 , HDMI A／M-Micro D／M, 4K 60Hz, 3M[10243] (110개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HD-MICRO-0.15M",
+      "품목코드": "CAB-HDM481",
+      "품목명": "[LANstar] HDMI 마이크로젠더 HDMI AF-Micro DM 4K 60Hz, 0.15m [20103]",
+      "variant_suffix": "-0.15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HD-MICRO-5M",
+      "품목코드": "CAB-HDM501",
+      "품목명": "[LANstar] HDMI 마이크로케이블 , HDMI A／M-Micro D／M, 4K 60Hz, 5M (70개) [10244]",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HD-MICRO-3M",
+      "내용": "배송도 빠르고요. 포장도 잘되있어요~!\n감사합니다^^~"
+    }
+  ],
+  "_absorbed_fragments": {
+    "LS-HD-MICRO-0.15": {
+      "product_name": "HDMI 젠더 케이블 HDMI A(Female) - Micro HDMI(Male)",
+      "category": "HDMI 케이블/젠더",
+      "key_features": [
+        "HDMI A 타입 암(Female) to Micro HDMI 수(Male) 변환 젠더 케이블",
+        "Micro HDMI 단자 금도금(Gold Plated) 처리",
+        "Ethernet 지원",
+        "3D 지원",
+        "Full HD 지원 (최대 해상도 4096×2160)"
+      ],
+      "specifications": {
+        "커넥터 A": "HDMI 19핀 A타입 Female (암)",
+        "커넥터 B": "HDMI Micro D타입 Male (수)",
+        "케이블 길이": "0.15M",
+        "도금": "Gold Plated",
+        "최대 해상도": "4096×2160",
+        "제조국": "중국 (China)",
+        "제조사/수입사": "라인업시스템(주)",
+        "인증번호": "해당없음"
+      },
+      "compatibility": [
+        "HDMI A(Female) 포트 보유 기기",
+        "Micro HDMI(Male) 포트 보유 기기"
+      ],
+      "package_contents": [
+        "HDMI 젠더 케이블 (HDMI A Female - Micro HDMI Male) 1개"
+      ],
+      "source_files": [
+        "LS-HD-MICRO-0.15.json"
+      ]
+    }
+  },
+  "_variant_raw_texts": {
+    "LS-HD-MICRO-0.15": "LANSStar®Ⓡ\nThe Network for you\nHDMI 젠더 케이블\nHDMI A(Female)-Micro HDMI(Male)\n길이:0.15M\nHDMI 19 A/F - HDMI Micro D/M\nMicro HDMI Gold Plated\n•Etherne 지원\n• 3D 지원\n• Full HD (해상도4096×2160) 지원\n.\nHDMI(암)\nMicro HDMI(수)\n※ 구매 전 HDMI 단자를 확인해주십시오~\nHDMI(Female)\nD\nHDMI Micro(Male)\nCLOSE\n0\n상품정보\n품\n명\nHDMI 마이크로케이블\nLAN Star\n®\n모\n델명\nLS-HD-MICRO-0.15M\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-HD-MICRO-0.15M": "LANSStar®Ⓡ\nThe Network for you\nHDMI 젠더 케이블\nHDMI A(Female)-Micro HDMI(Male)\n길이:0.15M\nHDMI 19 A/F - HDMI Micro D/M\nMicro HDMI Gold Plated\n•Etherne 지원\n• 3D 지원\n• Full HD (해상도4096×2160) 지원\n.\nHDMI(암)\nMicro HDMI(수)\n※ 구매 전 HDMI 단자를 확인해주십시오~\nHDMI(Female)\nD\nHDMI Micro(Male)\nCLOSE\n0\n상품정보\n품\n명\nHDMI 마이크로케이블\nLAN Star\n®\n모\n델명\nLS-HD-MICRO-0.15M\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질 보증 기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "Micro HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        1.5,
+        3.0,
+        5.0,
+        0.15
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "HDMI1.4",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI A Type 단자(TV, PC 모니터 등)",
+    "connectivity.output_signals": "Micro HDMI D Type 단자(태블릿 PC",
+    "connectivity.directional": "HEC(HDMI Ethernet Channel) 지원 — 별도 랜케이블 없이 네트워크 접속 및 양방향 통신",
+    "form_physical.length_options_meters": "케이블 길이 1.5M / 3M / 5M 3종 라인업",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "audio_video.max_resolution": "4K2K (4096x2160) @60Hz 고해상도 지원",
+    "audio_video.audio_pass": "ARC(Audio Return Channel) 지원",
+    "family.hdmi_version": "HDMI 1.4 규격 지원",
+    "family.ethernet_channel": "HEC(HDMI Ethernet Channel) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:42",
+  "feature_schema_version": "1.0.0"
+}

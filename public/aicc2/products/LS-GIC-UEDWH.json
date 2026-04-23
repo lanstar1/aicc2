@@ -1,0 +1,138 @@
+{
+  "model_no": "LS-GIC-UEDWH",
+  "product_name": "CAT.6A UTP Inline 커플러",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-CAT6",
+    "랜케이블-CAT6A",
+    "랜케이블-UTP",
+    "커플러"
+  ],
+  "key_features": [
+    "CAT.6A UTP 1:1 인라인 커플러",
+    "10Gbps 전송 속도 지원 (10G-BASE / 500MHz)",
+    "CAT.5E, CAT.6 하위 케이블 호환",
+    "T568A(Cross) / T568B(Direct) 배열 모두 연결 가능",
+    "커플러 고정용 나사 포함",
+    "케이블 타이 고정용 홀 제공",
+    "RJ45 / 8P8C 1:1 형 연결",
+    "랜 케이블 길이가 짧거나 추가 연장 시 사용"
+  ],
+  "specifications": {
+    "규격": "CAT.6A UTP (하위 케이블 호환)",
+    "전송속도": "최대 10Gbps",
+    "대역폭": "500MHz",
+    "커넥터": "RJ45 / 8P8C",
+    "사이즈": "48 x 25.8 x 24.7 (mm)",
+    "무게": "약 34g",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "해당없음"
+  },
+  "compatibility": [
+    "CAT.6A UTP 케이블",
+    "CAT.6 UTP 케이블 (하위 호환)",
+    "CAT.5E UTP 케이블 (하위 호환)",
+    "T568A 배선 배열",
+    "T568B 배선 배열"
+  ],
+  "package_contents": [
+    "CAT.6A UTP Inline 커플러 본체 1ea",
+    "고정용 나사 1ea",
+    "케이블 타이 2ea"
+  ],
+  "usage_instructions": "1. 스트리퍼를 이용하여 CAT.6A UTP 케이블의 피복을 탈피한다. 2. 커플러 뚜껑에 나와 있는 배열 순서에 맞게 케이블을 연결한다. 3. 반대쪽도 동일하게 케이블을 연결한다. 4. 옆으로 나와 있는 선을 컷팅한 뒤 커플러 뚜껑을 닫고 나사를 조여 고정한다. 5. 케이블 타이를 이용하여 커플러와 연결한 랜 케이블을 고정한다 (케이블 타이 고정용 홀 이용).",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품입니다."
+  ],
+  "variants": [],
+  "reviews": [
+    {
+      "source_model": "LS-GIC-UEDWH",
+      "내용": "툴리스 커플러에 불만스러운 점이 있어서 이 제품을 주문했는데 아쉽습니다\n그 제품은 덮개로 덮기 전에 선이 고정이 안 되는 점이 불만이었는데 \n이 제품은 툴로 랜선을 밀어 넣어도 삐져나온 랜선을 정리할 때 고정이 안됐는지 인식 불량이 났습니다\n(랜선을 정리하기 전엔 정상으로 떴습니다)\n\n랜테스터기로 불량이 난 부분을 다시 힘있게 툴로 밀어 넣었더니 작동됐습니다만 저 이후로 뭔가 불안하더군요\n툴리스커플러는 그래도 덮개로 덮으면 단단히 고정된다는 느낌이 있어서 그 제품이 그나마 더 좋은 듯합니다\n그리고 마지막으로 나사를 조일 때 구멍이 작아서 어떻게 조이나 했는데 그냥 힘으로 갈아내는 방식밖에 없더군요\n잔해들이 박스 안에 존재할 것 같긴 해서\n이런 디테일적인 부분도 아쉬웠습니다"
+    },
+    {
+      "source_model": "LS-GIC-UEDWH",
+      "내용": "아무문제없이 잘됨니다~",
+      "관련내용": "너무나 잘쓰고있습니다."
+    },
+    {
+      "source_model": "LS-GIC-UEDWH",
+      "내용": "너무나 잘쓰고있습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "UTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 / 8P8C 1:1 형 연결",
+    "connectivity.output_signals": "RJ45 / 8P8C 1:1 형 연결",
+    "connectivity.directional": "1:1 인라인 커플러",
+    "connectivity.port_count": "1:1 인라인 커플러",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "커플러 뚜껑을 닫고 나사를 조여 고정한다",
+    "certification.kc": "KC 인증번호: 해당없음",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.cat_category": "CAT.6A UTP 1:1 인라인 커플러",
+    "family.shielding": "CAT.6A UTP 1:1 인라인 커플러"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:15",
+  "feature_schema_version": "1.0.0"
+}

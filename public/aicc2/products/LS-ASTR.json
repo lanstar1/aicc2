@@ -1,0 +1,229 @@
+{
+  "model_no": "LS-ASTR",
+  "product_name": "LANStar 케이블(전선) 자동 스트리퍼 탈피기 (AUTOMATIC CABLE STRIPPER & CRIMPER)",
+  "category": [
+    "탈피기"
+  ],
+  "key_features": [
+    "케이블 피복 탈피, 컷팅, 절연/비절연 단자 압착을 하나의 툴로 해결",
+    "스프링 구조 적용으로 적은 힘으로 손쉽게 케이블 탈피 가능",
+    "케이블 두께에 맞게 장력 조절 가능",
+    "미끄럼 방지 손잡이 적용",
+    "고탄력 스프링 구조",
+    "별도의 절단 도구 없이 툴의 절단 부위로 케이블 절단 가능",
+    "사용 가능 단자: R단자, Y단자, 슬리브"
+  ],
+  "specifications": {
+    "탈피 범위": "24~10AWG (0.2mm² ~ 6mm²)",
+    "크기": "204 x 100mm",
+    "무게": "약 353g",
+    "헤드 재질": "아연 합금",
+    "커터 헤드 재질": "Cr12MoV, 경도 HRC55-60",
+    "플라이어 재질": "A3 열처리",
+    "핸들 재질": "PP + TPR",
+    "절연 단자 압착 범위": "22~10AWG (0.5mm² ~ 6mm²)",
+    "비절연 단자 압착 범위 (대)": "12~10AWG (4mm² ~ 6mm²)",
+    "비절연 단자 압착 범위 (중)": "16~14AWG (1.5mm² ~ 2.5mm²)",
+    "비절연 단자 압착 범위 (소)": "22~18AWG (0.5mm² ~ 1mm²)",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "해당없음"
+  },
+  "compatibility": [
+    "케이블 내심 규격 AWG10~24 (0.2mm² ~ 6.0mm²)",
+    "절연 단자: 22~10AWG (0.5mm² ~ 6mm²)",
+    "비절연 단자: 12~10AWG (4mm² ~ 6mm²)",
+    "비절연 단자: 16~14AWG (1.5mm² ~ 2.5mm²)",
+    "비절연 단자: 22~18AWG (0.5mm² ~ 1mm²)",
+    "R단자, Y단자, 슬리브 단자"
+  ],
+  "package_contents": [
+    "LS-ASTR 케이블 자동 스트리퍼 탈피기 본체 1개"
+  ],
+  "usage_instructions": "1. 케이블 두께에 맞게 장력 조절부를 조절한다. 2. 케이블 탈피 시 케이블을 탈피부에 삽입 후 손잡이를 쥐어 피복을 탈피한다. 3. 케이블 절단 시 툴의 절단 부위(CUTTER)에 케이블을 위치시킨 후 절단한다. 4. 단자 압착 시 사용할 단자 규격(절연/비절연)에 맞는 압착 홈에 단자와 케이블을 삽입 후 손잡이를 쥐어 압착한다.",
+  "cautions": [
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은 판매처의 제품은 정품이 아니므로 A/S를 받을 수 없음",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-ASTR",
+      "품목코드": "NEO-LAN120",
+      "품목명": "[LANstar] 케이블 전선 자동 스트리퍼 탈피기 [30735][40개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-ASTR",
+      "내용": "전선 이외에는 랜 케이블에 사용하지 마세요. 안에 구리심 피복도 다 손상됩니다.",
+      "관련내용": "랜선용으로 사용하기에는 정말로 부적합 합니다.\n랜선 피복을 벗길 때 케이블 안의 심선까지 피복이 손상이 갑니다.\n일반 전기선에는 유용하나 랜 케이블에는 사용하지 마세요."
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "좋아요좋아요좋아요좋아요",
+      "관련내용": "좋아요좋아요좋아요좋아요"
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "좋아요좋아요좋아요좋아요"
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "랜선용으로 사용하기에는 정말로 부적합 합니다.\n랜선 피복을 벗길 때 케이블 안의 심선까지 피복이 손상이 갑니다.\n일반 전기선에는 유용하나 랜 케이블에는 사용하지 마세요."
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "그동안 스트리퍼만 사용하다 탈피기는 처음이네요. 기대됩니다."
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "잘 사용하고 있습니다"
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "잘 받았습니다 감사합니다",
+      "관련내용": "잘 받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "잘 받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "기대 이상으로 스트리퍼 성능이 좋아요"
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "그냥 칼 쓰다가 써보니 정말 좋습니다.",
+      "관련내용": "스트리퍼는 처음사보는데 잘됐음 좋겠네요."
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "잘 쓰고 있습니다.",
+      "관련내용": "사용하기 좋네요, 유투브 보고 구매했는데... 빨리 도착했어요... 번개 배송"
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "사장님 친절하시고 배송 빠릅니다^^"
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "스트리퍼는 처음사보는데 잘됐음 좋겠네요."
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "사용하기 좋네요, 유투브 보고 구매했는데... 빨리 도착했어요... 번개 배송"
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "받은 사람이 좋다고 하네요.",
+      "관련내용": "받은 사람이 좋다고 하네요."
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "받은 사람이 좋다고 하네요."
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "사용하기 편합니다~"
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "빠른배송감사합니다.잘쓸게요."
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "작업을 편하게 할 수 있을 것 같네요."
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "안쓴다 이유는 사봐라 싸다...",
+      "관련내용": "이게 뭔가 흉내를 내서 맹근거 같은데 utp는 적합하지 않은거 같다...ㅜㅜ"
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "이게 뭔가 흉내를 내서 맹근거 같은데 utp는 적합하지 않은거 같다...ㅜㅜ"
+    },
+    {
+      "source_model": "LS-ASTR",
+      "내용": "아주 만족합니다 GOOD~"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "아연다이캐스팅",
+        "스틸",
+        "PP",
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "tool_type": [
+        "스트리퍼",
+        "크림퍼",
+        "절단"
+      ],
+      "target_terminal": [
+        "기타"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.directional": "N/A",
+    "power.power_mode": "N/A",
+    "form_physical.has_case": "LANStar 케이블(전선) 자동 스트리퍼 탈피기",
+    "form_physical.material": "헤드 재질\": \"아연 합금\",\n      \"커터 헤드 재질\": \"Cr12MoV",
+    "certification.kc": "KC 인증번호\": \"해당없음",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.tool_type": "케이블 피복 탈피, 컷팅, 절연/비절연 단자 압착",
+    "family.target_terminal": "사용 가능 단자: R단자, Y단자, 슬리브"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:20",
+  "feature_schema_version": "1.0.0"
+}

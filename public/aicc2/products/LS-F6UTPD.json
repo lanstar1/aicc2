@@ -1,0 +1,815 @@
+{
+  "model_no": "LS-F6UTPD",
+  "product_name": "CAT.6 UTP 평면 랜케이블 (LANStar)",
+  "category": [
+    "랜케이블-CAT6",
+    "랜케이블-UTP",
+    "랜케이블"
+  ],
+  "key_features": [
+    "평면(FLAT) 구조로 카펫 아래, 좁은 공간 설치 가능 (언더카펫 평면 케이블)",
+    "1Gbps 전송속도 지원 (10/100/1000Mbps)",
+    "금도금 단자(50μ) 적용으로 산화 방지 및 높은 전도율, 신호손실 없음",
+    "연선(Stranded) 케이블로 단선 대비 유연하고 설치 용이",
+    "RJ45 8P8C 다이렉트(Direct) 배열",
+    "CAT.6 UTP 규격",
+    "케이블 두께 1.5x6mm 슬림 평면 설계"
+  ],
+  "specifications": {
+    "규격": "CAT.6 UTP",
+    "커넥터": "RJ45, 8P8C",
+    "배선방식": "다이렉트(Direct), 568B-568B",
+    "전송속도": "10/100/1000Mbps (최대 1Gbps)",
+    "전송대역폭": "500MHz",
+    "금도금두께": "50μ",
+    "케이블종류": "연선(Stranded)",
+    "도체": "구리",
+    "절연피복": "PVC",
+    "케이블두께": "1.5x6mm",
+    "전선규격": "32AWG",
+    "색상": "흰색",
+    "길이": "0.5M, 1M, 2M, 3M, 5M, 10M, 15M, 20M",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "모델명(전체라인업)": "LS-F6UTPD-0.5MW, LS-F6UTPD-1MW, LS-F6UTPD-2MW, LS-F6UTPD-3MW, LS-F6UTPD-5MW, LS-F6UTPD-10MW, LS-F6UTPD-15MW, LS-F6UTPD-20MW"
+  },
+  "compatibility": [
+    "CAT.6 표준 호환 네트워크 장비",
+    "10Mbps, 100Mbps, 1000Mbps(1Gbps) 네트워크 환경",
+    "RJ45 포트를 갖춘 공유기, 스위치, PC, NAS 등",
+    "568B 다이렉트 배열 표준 호환 장비"
+  ],
+  "package_contents": [
+    "CAT.6 UTP 평면 랜케이블 1개 (선택 길이)"
+  ],
+  "usage_instructions": "평면 구조이므로 카펫 아래 또는 문틈, 좁은 공간에 설치 가능. RJ45 커넥터를 네트워크 장비의 RJ45 포트에 연결하여 사용. 다이렉트 케이블(568B-568B)이므로 PC↔공유기/스위치 등 일반 연결에 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "크로스 케이블(568A-568B)이 아닌 다이렉트 케이블(568B-568B)이므로 용도에 맞게 선택 필요"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-F6UTPD-1MW",
+      "품목코드": "CAB-U6F017",
+      "품목명": "[LANstar] UTP평면케이블 , CAT.6 DIRECT 1M, WHITE(▷흰색◁)[10855](300개)",
+      "variant_suffix": "-1MW",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F6UTPD-2MW",
+      "품목코드": "CAB-U6F018",
+      "품목명": "[LANstar] UTP평면케이블 , CAT.6 DIRECT 2M, WHITE(▷흰색◁)[10856](300개)",
+      "variant_suffix": "-2MW",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F6UTPD-3MW",
+      "품목코드": "CAB-U6F019",
+      "품목명": "[LANstar] UTP평면케이블 , CAT.6 DIRECT 3M, WHITE(▷흰색◁)[10857](250개)",
+      "variant_suffix": "-3MW",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F6UTPD-5MW",
+      "품목코드": "CAB-U6F020",
+      "품목명": "[LANstar] UTP평면케이블 , CAT.6 DIRECT 5M, WHITE(▷흰색◁)[10858](200개)",
+      "variant_suffix": "-5MW",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F6UTPD-10MW",
+      "품목코드": "CAB-U6F021",
+      "품목명": "[LANstar] UTP평면케이블 , CAT.6 DIRECT 10M, WHITE(▷흰색◁)[10859](150개)",
+      "variant_suffix": "-10MW",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F6UTPD-15MW",
+      "품목코드": "CAB-U6F022",
+      "품목명": "[LANstar] UTP평면케이블 , CAT.6 DIRECT 15M, WHITE(▷흰색◁)[10860](70개)",
+      "variant_suffix": "-15MW",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F6UTPD-20MW",
+      "품목코드": "CAB-U6F023",
+      "품목명": "[LANstar] UTP평면케이블 , CAT.6 DIRECT 20M, WHITE(▷흰색◁)[10861](70개)",
+      "variant_suffix": "-20MW",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-F6UTPD-0.5MW",
+      "품목코드": "CAB-U6F034",
+      "품목명": "[LANstar] UTP평면케이블 , CAT.6 DIRECT 0.5M, WHITE(▷흰색◁)[11039] (500개)",
+      "variant_suffix": "-0.5MW",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "좋아요 많이파세요~~"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "선이 얇아서 정리하기 좋아요"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "젛아염~~ 선이 칼국수라 잘 휘어서 좋아욤"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "이쁘구여 선정리하기 편하네여"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "저렴하게 잘 구매했어요"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "빠른 배송이예요.  마음에 들어요."
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "길어서 유용하게 잘 씁니다"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "회색선이 맘에안들어서 찾아보다 발견했네요 ㅎ깔끔합니다"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "냄새 많이 납니다 선 잘 나갑니다"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "좋은 가격 좋은 가격 빠른 배송",
+      "관련내용": "좋은 품질 좋은 가격"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "방문등을 통과할때 납작해서 유용합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "침대 뒤로 랜선을 돌려야 해서 납작한걸로 샀어요. 배송은 이틀만에 왔구요."
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "좋은 품질 좋은 가격"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "늘 만들어쓰다가 벽플레이트 간격이 좁아서 플랫UTP가 딱 좋네요.\n연선 UTP는 단선이 잘되어 잘 안썼는데 기가비트 속도 잘 뽑아줍니다.\n다만 0.5m 1개가 잘 안물렸는지 인식도 늦고 100m 속도만 나오는 불량이 있네요.\n여유있게 주문해서 다행입니다."
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "늘 만들어쓰다가 벽플레이트 간격이 좁아서 플랫UTP가 딱 좋네요.\n연선 UTP는 단선이 잘되어 잘 안썼는데 기가비트 속도 잘 뽑아줍니다.\n다만 0.5m 1개가 잘 안물렸는지 인식도 늦고 100m 속도만 나오는 불량이 있네요.\n여유있게 주문해서 다행입니다."
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "늘 만들어쓰다가 벽플레이트 간격이 좁아서 플랫UTP가 딱 좋네요.\n연선 UTP는 단선이 잘되어 잘 안썼는데 기가비트 속도 잘 뽑아줍니다.\n다만 0.5m 1개가 잘 안물렸는지 인식도 늦고 100m 속도만 나오는 불량이 있네요.\n여유있게 주문해서 다행입니다."
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "ㄱㅅ........"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "매번 주문합니다 배송도빠르고좋아요"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "배송빠르고 좋고요\n동그랗게 말리는거라 지저분하지않아 좋습니다"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "탭에 연결해서 쓰려고 샀어요. 좋은데 넘 긴거로 샀네요;;"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "배송빠르고 저렴하고 좋네요. 근데 두개 시켯는데 하나는 밑이 터져있어요.. 중고는아닌거 같고 그냥 포장이 터졌거니 생각합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "속도 잘 나오고 플랫해서 히든시키기도 좋습니다.(가구 뒤로) \n케이블 경우 이정도변 되겠지하는 길이에서 그 다음 길이를 선택하면 딱 맞을거 같습니다(0.5 정도면 되겠다 싶으면 1미터로) \n주문하고 보니 선 길이들이 살짝살짝 아쉽네요"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "컴퓨터 레선으로 긴게하나 필요해서 급하게 산건데 \n잘쓰고 있습니다. 평면이라 잘 굽히고 아주 좋습니다."
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "내용": "상품은 잘 받았고 작동도 잘 됩니다 상품중에 주문조건과 다른0.5m 1개가 착오로 섞여잇네요 그냥쓰지만 보내실때 한번더 살펴주세요"
+    },
+    {
+      "source_model": "LS-F6UTPD-0.5MW",
+      "내용": "상품 잘 받았습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-0.5MW",
+      "내용": "품질좋고 가격도 좋아서 벌써 수천개 샀네요."
+    },
+    {
+      "source_model": "LS-F6UTPD-0.5MW",
+      "내용": "선정리 편해서 너무 좋아요"
+    },
+    {
+      "source_model": "LS-F6UTPD-0.5MW",
+      "내용": "빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-0.5MW",
+      "내용": "배송이 빠르고 정확하게 왔어요"
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "상품 잘 받았습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "아주 좋습니다~~\n\n좋아여~~"
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "저렴하게 필요한적품 구매하게되어 좋아요"
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "집안 공유기 위치 이동하려고 구매했는데 2개 모두 정상 작동하고 좋습니다"
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "ㅎㅎㅎ잘쓰겠습니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "10미터 거리도 잘 연결되고 좋아요"
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "선이 얇고 잘 구부러쟈서 좋아요"
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "인테리어하고 연결했는데 맘에 듭니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "잘사용중입니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "아직 뜯어보진않았는데 만족했으면.."
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "빨리와서 잘썼습니다"
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "긴 랜선이 필요하다면 나쁘지 않습니다.",
+      "관련내용": "적당한 속도 길이 만족"
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "배송도 빠르고 포장도 꼼꼼하고 좋습니다 ㅎㅎ"
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "상품 잘 받았습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "적당한 속도 길이 만족"
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "저렴한 물건 빠른배송 뛰어난 품질! 추천합닏ㄴ."
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-10MW",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-15MW",
+      "내용": "층간 창문간 연결위해 구매했는데 얇아서 창닫기도 가능해서 좋아요"
+    },
+    {
+      "source_model": "LS-F6UTPD-15MW",
+      "내용": "카테고리7 평면타입 선정리편하고 좋아요"
+    },
+    {
+      "source_model": "LS-F6UTPD-15MW",
+      "내용": "배송빠르고 좋습니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-15MW",
+      "내용": "문제없음 좋네요 정말로~^^"
+    },
+    {
+      "source_model": "LS-F6UTPD-15MW",
+      "내용": "속도 잘 나오고 얇아서 깔끔하게 정리되네요. 좋습니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-15MW",
+      "내용": "이상없이 잘. 작동합니다.\n많이파세요."
+    },
+    {
+      "source_model": "LS-F6UTPD-15MW",
+      "내용": "길이도 길고 좋아요."
+    },
+    {
+      "source_model": "LS-F6UTPD-15MW",
+      "내용": "잘 사용하고 있습니다"
+    },
+    {
+      "source_model": "LS-F6UTPD-15MW",
+      "내용": "배선이 벽에 감추기에 딱좋습니다",
+      "관련내용": "비도오는 날에 깔끔하개 비닐로 포잘"
+    },
+    {
+      "source_model": "LS-F6UTPD-15MW",
+      "내용": "비도오는 날에 깔끔하개 비닐로 포잘"
+    },
+    {
+      "source_model": "LS-F6UTPD-15MW",
+      "내용": "아주좋아요 연결 잘되요"
+    },
+    {
+      "source_model": "LS-F6UTPD-15MW",
+      "내용": "얇아서 너무 좋습니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-1MW",
+      "내용": "빠른 배송 정확한 제품 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-1MW",
+      "내용": "3100EA 진행 주문 빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-1MW",
+      "내용": "상품 잘 받았습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-F6UTPD-1MW",
+      "내용": "빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-1MW",
+      "내용": "재질 좋네요 다만 좀 더 긴 거 샀으면 아쉽네요"
+    },
+    {
+      "source_model": "LS-F6UTPD-1MW",
+      "내용": "선이 얇아서 정리하기 좋아요."
+    },
+    {
+      "source_model": "LS-F6UTPD-20MW",
+      "내용": "아직도 잘쓰고 있어요\n인터넷끊김도없어요"
+    },
+    {
+      "source_model": "LS-F6UTPD-20MW",
+      "내용": "가볍고 사용하기 편해요."
+    },
+    {
+      "source_model": "LS-F6UTPD-20MW",
+      "내용": "잘 사용 중입니다. 길이도 길고 납짝해서 선 연결하기 편리하네요"
+    },
+    {
+      "source_model": "LS-F6UTPD-20MW",
+      "내용": "너무좋아요 진짜좋아요 짱아ㅣ에요"
+    },
+    {
+      "source_model": "LS-F6UTPD-20MW",
+      "내용": "깔끔하고 연결도 잘 돼요 ㅎㅎ 튼튼하니 좋네요👍👍"
+    },
+    {
+      "source_model": "LS-F6UTPD-20MW",
+      "내용": "빠른 배송 잘받았어요"
+    },
+    {
+      "source_model": "LS-F6UTPD-20MW",
+      "내용": "속도 잘 나오고 얇아서 깔끔하게 정리되네요. 좋습니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-20MW",
+      "내용": "배송도빠르고 좋아요 감사합니다"
+    },
+    {
+      "source_model": "LS-F6UTPD-20MW",
+      "내용": "빠른배송감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-20MW",
+      "내용": "얇고 흰색이라서 거실에서 아래로 둘러서 방으로 연결때 깔끔하게 배치할수 있어서 용이하네요"
+    },
+    {
+      "source_model": "LS-F6UTPD-20MW",
+      "내용": "제품이좋아서 깔끔하게 원거리 배선 마무리했습니다"
+    },
+    {
+      "source_model": "LS-F6UTPD-20MW",
+      "내용": "엄청 긴 랜선 찾았는데\n너무 좋아요\n특히 얇아서 더 좋네요",
+      "관련내용": "배송도 빠르고 좋아요\n무척 얇은 랜선이라 더 좋았습니다"
+    },
+    {
+      "source_model": "LS-F6UTPD-20MW",
+      "내용": "납작한건 좀 불편한감이있네요.."
+    },
+    {
+      "source_model": "LS-F6UTPD-20MW",
+      "내용": "배송도 빠르고 좋아요\n무척 얇은 랜선이라 더 좋았습니다"
+    },
+    {
+      "source_model": "LS-F6UTPD-2MW",
+      "내용": "빠른 배송 정확한 제품 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-2MW",
+      "내용": "빠른 배송 정확한 제품 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-2MW",
+      "내용": "상품 잘 받았습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-2MW",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-2MW",
+      "내용": "배송이 빠르고 좋아요!"
+    },
+    {
+      "source_model": "LS-F6UTPD-2MW",
+      "내용": "빠르게 잘 도착 했습니다. \n상태도 매우 좋네요 잘 쓰겠습니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-2MW",
+      "내용": "늘 빠른배송에 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-2MW",
+      "내용": "선정리도 편하고 빨리 와서 너무 좋네요"
+    },
+    {
+      "source_model": "LS-F6UTPD-2MW",
+      "내용": "품질 좋고 작동 잘 됩니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-2MW",
+      "내용": "빠른배송감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "내용": "빠른 배송 정확한 제품 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "내용": "빠른 배송 정확한 제품 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "내용": "매우 잘 작동합니다. 플랫이라 선 정리하기도 좋아요!"
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "내용": "얇아서 선정리가 편합니다",
+      "관련내용": "배송 빠르고 물건 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "내용": "배송 빠르고 물건 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "내용": "상품 잘 받았습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "내용": "깔끔하게 전선정리 했어요!"
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "내용": "아주 연결이 잘되고 인터넷도 잘 잡히네요 인터넷 선이 하나밖에 없어서 불편했는데 허브 연결하니 컴퓨터 여러대 연결할 수있어서좋네요"
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "내용": "깔끔한포장 신속배달"
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "내용": "좋다고 ㄷ좋아 아주 좋아"
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "내용": "빠른배송과 정확한 상품 잘 사용하고 있습니다"
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "내용": "저렴한 가격에 필요한 물품을 구입해서 만족스럽습니다"
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "내용": "아주아주 좋아요 변함없어요",
+      "관련내용": "배송도 빠르고 아주 좋아요"
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "내용": "생각보다 더 얇고 납작해서 좋았어요\n인터넷도 잘되구요"
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "내용": "배송도 빠르고 아주 좋아요"
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "내용": "배송 빨리와서 좋아염"
+    },
+    {
+      "source_model": "LS-F6UTPD-5MW",
+      "내용": "빠른 배송 정확한 제품 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-5MW",
+      "내용": "빠른 배송 정확한 제품 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-5MW",
+      "내용": "비싼거 빼고 다좋아요~~~~"
+    },
+    {
+      "source_model": "LS-F6UTPD-5MW",
+      "내용": "상품 잘 받았습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-5MW",
+      "내용": "선이 얇고 가볍네요 배송도 빠르고 잘 빋았습니다 잘 구부러져서 좋아요"
+    },
+    {
+      "source_model": "LS-F6UTPD-5MW",
+      "내용": "아주 대단히 만족합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-5MW",
+      "내용": "원래 사던거라 너무 좋네요 선정리도 편합니다"
+    },
+    {
+      "source_model": "LS-F6UTPD-5MW",
+      "내용": "저렴하게 잘 구입하였습니다"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-F6UTPD",
+      "id": 203241766,
+      "date": "2022-01-25 12:01",
+      "answerDate": "2022-01-25 13:50",
+      "user": "aaa7*****",
+      "productName": "랜스타 CAT6 UTP 기가비트 평면 랜케이블 화이트색상 정품 LS-F6UTPD",
+      "question": "오늘 발송 되요?",
+      "answer": "안녕하세요 랜스타 입니다\n금일 출고 가능 합니다"
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "id": 216458494,
+      "date": "2022-04-21 18:31",
+      "answerDate": "2022-04-22 13:57",
+      "user": "seun****",
+      "productName": "랜스타 CAT6 UTP 기가비트 평면 랜케이블 화이트색상 정품 LS-F6UTPD",
+      "question": "배송예정일이 언젠가요",
+      "answer": "안녕하세요 랜스타입니다.\n\n해당 주문 건은 주문 당일 발송되었으며, 금일 도착 예정입니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "id": 218026378,
+      "date": "2022-05-02 14:52",
+      "answerDate": "2022-05-02 18:06",
+      "user": "anin*******",
+      "productName": "랜스타 CAT6 UTP 기가비트 평면 랜케이블 화이트색상 정품 LS-F6UTPD",
+      "question": "이거랑 슬림랜선이랑 같이 구매할까했는데 배송비 따로 드는게 맞나요?",
+      "answer": "안녕하세요 랜스타입니다.\n\n배송비가 개별 부과되는 경우, 한 품목을 제외한 나머지 품목은 착불 주문 해주시면, 묶음 배송 처리해드리겠습니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "id": 218418107,
+      "date": "2022-05-04 16:21",
+      "answerDate": "2022-05-04 17:53",
+      "user": "sara******",
+      "productName": "랜스타 CAT6 UTP 기가비트 평면 랜케이블 화이트색상 정품 LS-F6UTPD",
+      "question": "일반 원형회색 랜선을 고정시키는 타카심으로 박아도 선에 이상가진않을까요??  아님 좀더 넓은 타킨심으로박아야하나요???",
+      "answer": "안녕하세요 랜스타 입니다.\n\n타카심이 피복안에 박히거나 압착이 심하게 박히면 문제가 생길 수 있습니다. \n평면 케이블 피복은 일반 케이블 피복에 비해 약하기 때문에 주의가 필요합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "id": 218440861,
+      "date": "2022-05-04 18:49",
+      "answerDate": "2022-05-06 08:56",
+      "user": "anin*******",
+      "productName": "랜스타 CAT6 UTP 기가비트 평면 랜케이블 화이트색상 정품 LS-F6UTPD",
+      "question": "슬림이랑 같이 주문했는데 슬림이 안왔네요 묶음배송 해주신다해서 하나는 착불로 주문했는데요",
+      "answer": "안녕하세요 랜스타입니다.\n\n누락건 확인 후, 재발송 처리 해드리겠습니다.\n\n불편을 드려 죄송합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD",
+      "id": 223131371,
+      "date": "2022-06-08 02:05",
+      "answerDate": "2022-06-08 09:20",
+      "user": "yool****",
+      "productName": "랜스타 CAT6 UTP 기가비트 평면 랜케이블 화이트색상 정품 LS-F6UTPD",
+      "question": "25m를 구할수 있을까요?",
+      "answer": "안녕하세요 랜스타입니다.\n\n해당 제품은 20m까지 제작되는 상품이며, 25m는 판매하지 않는 점 양해 부탁드립니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-3MW",
+      "id": 539699663,
+      "date": "2023-07-27 10:57",
+      "answerDate": "2023-07-27 11:17",
+      "user": "hay0***",
+      "productName": "랜스타 LS-F6UTPD-3MW UTP평면케이블 CAT.6 DIRECT 3M WHITE",
+      "question": "50M 주문하려면 17개 주문하면 되나요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품의 경우 양쪽 커넥터가 작업되어있는 3M 패치코드입니다.\n50M 케이블이 필요하실 경우 LS-6UTPD-50MG 제품을 구매하시는 것을 추천 드립니다.\n\n다만 50M 케이블은 평면케이블이 없고 평면 케이블 최대 길이는 20M (LS-F6UTPD-20MW)인점 말씀 드립니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-15MW",
+      "id": 563303643,
+      "date": "2024-01-11 02:58",
+      "answerDate": "2024-01-11 12:43",
+      "user": "heyh*******",
+      "productName": "랜스타 LS-F6UTPD-15MW UTP평면케이블 CAT.6 DIRECT 15M WHITE",
+      "question": "공유기와 전화기 연결하려고 주문했습니다 \n사이즈맞겠쥬??",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품으로 사용 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-F6UTPD-20MW",
+      "id": 590096682,
+      "date": "2024-07-25 06:13",
+      "answerDate": "2024-07-25 08:54",
+      "user": "iisa****",
+      "productName": "랜스타 LS-F6UTPD-20MW UTP평면케이블 CAT.6 DIRECT 20M WHITE",
+      "question": "길이가 20m인가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n네, 문의 주신 제품의 경우 길이가 20M인 제품입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-F6UTPD-15MW",
+      "chatUrl": "2QiJl",
+      "dateIso": "2023-10-10T01:33:18.797Z",
+      "name": "Soyuni",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "혹시 주소를 제대로 안적어주셨나요? 동 호수를 안적어서 다음주에 배달해주신다고 하시는데요",
+      "answer": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+    },
+    {
+      "source_model": "LS-F6UTPD-15MW",
+      "chatUrl": "2QiJl",
+      "dateIso": "2023-10-10T01:33:18.797Z",
+      "name": "Soyuni",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "네 기다리겠습니다 보내시고 연락주시면 감사할거같아요",
+      "answer": "미답변"
+    }
+  ],
+  "_absorbed_fragments": {
+    "LS-F6UTPD-W-STRANDED": {
+      "product_name": "LAN Star CAT.6 UTP FLAT 케이블 (다이렉트 평면 랜 케이블 / 연선 / WHITE)",
+      "category": "네트워크 랜 케이블 / 평면(FLAT) 케이블",
+      "key_features": [
+        "CAT.6 UTP 평면(FLAT) 케이블",
+        "연선(STRANDED) 구조 - 유연성 우수",
+        "최대 1Gbps 전송속도 지원",
+        "250MHz 대역폭 지원",
+        "32AWG 심선",
+        "3u 금도금 커넥터 (3Prongs 형태 핀)",
+        "FLUKE 테스트 통과 제품",
+        "1000BASE-TX 지원",
+        "4PAIR TWISTED 구조로 전송 시 간섭 최소화",
+        "얇고 납작한 평면 디자인으로 좁은 틈새·문틈·바닥 몰딩 아래 배선 용이",
+        "CCA(Copper Clad Aluminum) 연선 구조",
+        "PoE(15W), PoE+(30W) 장비 사용 가능 (PoE++ 60W 제외)",
+        "실내 전용 설계"
+      ],
+      "specifications": {
+        "규격": "CAT.6 UTP FLAT",
+        "전송속도": "최대 1Gbps",
+        "대역폭": "250MHz",
+        "심선": "32AWG",
+        "커넥터": "3u Gold Plated Pin (3Prongs 형태)",
+        "케이블 직경": "OD 1.38(H) x 6.05(W) ±0.1mm",
+        "케이블 색상": "WHITE",
+        "케이블 타입": "연선(STRANDED)",
+        "심선 구조": "CCA (Copper Clad Aluminum)",
+        "외피 재질": "PVC 자켓",
+        "지원 규격": "1000BASE-TX",
+        "사용 환경": "실내 전용",
+        "제조국": "중국 (China)",
+        "제조사/수입사": "라인업시스템(주)",
+        "커넥터 규격": "RJ45",
+        "케이블 길이 라인업": "0.5m, 1m, 2m, 3m, 5m, 10m, 15m, 20m",
+        "모델번호 및 길이": "11039(0.5M), 10855(1M), 10856(2M), 10857(3M), 10858(5M), 10859(10M), 10860(15M), 10861(20M)"
+      },
+      "compatibility": [
+        "CAT.6 UTP 규격 호환 네트워크 장비",
+        "RJ45 포트 지원 장비",
+        "1000BASE-TX 지원 장비",
+        "PoE(15W) 지원 장비",
+        "PoE+(30W) 지원 장비",
+        "100BASE-TX 지원 장비",
+        "일반 라운드 케이블 사용 환경과 동일 규격 호환"
+      ],
+      "package_contents": [
+        "CAT.6 UTP FLAT 랜 케이블 (WHITE) 1개"
+      ],
+      "source_files": [
+        "LS-F6UTPD-W-STRANDED.json"
+      ]
+    }
+  },
+  "_variant_raw_texts": {
+    "LS-F6UTPD-W-STRANDED": "LAN Star\nCAT.6 UTP FLAT 케이블\n다이렉트 평면 랜 케이블 / 연선 / WHITE\n케이블 제품 분류표\n모델No.\n모델명\n길이\n규격\n직경\n심선\n11039\nLS-F6UTPD-0.5MW\n0.5M\n10855\nLS-F6UTPD-IMW\nIM\nM\n10856\nLS-F6UTPD-2MW\n2M\nNe\n10857\nLS-F6UTPD-3MW\n3M\n연선\n1.38 x 6.05(mm)\n32AWG\nH\nW\n10858\nLS-F6UTPD-5MW\n5M\n10859\nLS-F6UTPD-10MW\n10M\n10860\nLS-F6UTPD-15MW\n15M\n10861\nLS-F6UTPD-20MW\n20M\n효과적인 공간 절약!\n평면 케이블\n1. CAT.6 UTP 평면 케이블\n2. 연선(STRANDED) 케이블\n3. 1Gbps 전송속도\n4. 250MHz 대역폭\n5. 32AWG\n6. 3k 금도금 컨넥터\n7. FLUKE 테스트 통과 제품\n일반 라운드 케이블과 다른가요?\n평면 케이블을 왜 사용하는거죠?\n공간 절약\n평면 디자인 덕분에 얇고 납작하여 좁은 틈새나\n\n\n평면 케이블을 왜 사용하는거죠?\n공간 절약\n평면 디자인 덕분에 얇고 납작하여 좁은 틈새나\n바닥 아래, 벽 구석 등에 깔끔하게 배치할 수\n있습니다. 특히 문틈, 창틀 등 공간이 제한된\n장소에 설치하기 용이합니다.\n깔끔한 배선\n벽면이나 바닥을 따라 배선할 때 케이블이\n덜 튀어나와 눈에 덜 띄고, 깔끔한 인테리어를\n유지할 수 있습니다. 이로 인해 여러 케이블을\n정리할 때도 미관을 해치지 않습니다.\n유연성\n①\n평면 케이블은 일반적으로 더 유연하게 제작되어\n있어, 구부리거나 굽힘이 필요한 환경에서 더 쉽게\n설치할 수 있습니다.\n편리한 고정 방식\n평면 케이블은 표면에 밀착되어 배치할 수 있어\n테이프나 클립을 이용해 고정하기 용이합니다.\n이로 인해 정리와 고정 작업이 수월합니다.\nCAT.6 UTP FLAT 케이블 구조\n4PAIR TWISTED STRUCTURE\nPVC 외피로 구성된 케이블 내부는 4개의 구역으로 나눠져 있으며,\n4개의 구역은 꼬임 구조로 쌍을 이뤄 전송 시 간섭이 없습니다.\n신호 전송 시 손실이 적은 구조입니다.\nPVC 자켓\n절연체\n6.05mm\n연선\n1.38mm\nCAT.6 UTP\n1000BASE-TX 지원\n1000BASE-TX를 지원하는 CAT.6 UTP 평면 랜 케이블로\n250MHz 대역폭을 지원하여 최대 1Gbps의 전송속도를 나타냅니다.\n높은 속도와 넓은 대역폭이 필요한 일반적인 네트워크 환경에서\n경제적이고 효율적으로 사용할 수 있습니다.\n케이블 비교\nCAT.5E\nCAT.6\nCAT.6A/CAT.7\n\n\n높은 속도와 넓은 대역폭이 필요한 일반적인 네트워크 환경에서\n경제적이고 효율적으로 사용할 수 있습니다.\n케이블 비교\nCAT.5E\nCAT.6\nCAT.6A/CAT.7\n대역폭\n100MHz\n250MHz\n500MHz/600MHz\n전송속도\n1Gbps\n1Gbps\n10Gbps\n규격\n1000BASE-T\n1000BASE-TX\n10GBASE-T\nUTP/FTP/STP 케이블\n꼬여있는 선과 선 사이에 차단용 십자형 개재가 있어 케이블간의\n간섭을 줄여 전송 속도를 높여주는 기능을 합니다.\nFTP\n(Foiled Twisted Pair)\n알루미늄은박이 선을 감싸고 있으며 별도로 접지용 선이 있습니다.\nUTP에 비해 절연 기능이 탁월하여 공장 배선용으로 많이 사용됩니다.\n외부 피복에 쉴드 처리가 되어 있고 알루미늄 은박이 선을 감싸고 있어\n외부의 노이즈나 전기적 신호 간섭 차단에 탁월한 케이블입니다.\nSTP\n(Shielded Twisted Pair)\n통신 에러 및 속도 저하를 최소화하여 대용량의 정보를 전달할 수 있어\n접지 및 특수 환경의 초고속 네트워크망이 구축된 환경에서 사용됩니다.\n각 페어마다 알루미늄 실드가 있고 전체 페어를 모아 편조차폐로\nS-FTP\n(Screened Foiled Twisted Pair)\n감싼 케이블로 이중차폐 구조로 이루어졌기에 외부 신호간섭을\n최소화하기 가장 좋은 케이블입니다.\n절연의 구리선이 전자기 유도를 줄이기 위해 서로 꼬여져 있으며 전선과\nUTP\n피복만으로 구성되어 있는 케이블입니다. 보통 일반적인 랜케이블이\n(Unshielded Twisted Pair)\n이에 해당되며 사무실 및 가정 배선용으로 사용됩니다.\n연선(STRANDED) 케이블\nCCA(Copper Clad Aluminum)\n알루미늄 코어 바깥 부분에 구리를 씌운 CCA 구조의 연선 케이블로\n저렴한 가격, 가벼운 무게, 고정된 설치 환경에서의 안정성 등의 장점이 있습니다.\n구리\n알루미늄\n연선/ 단선 케이블 구조 비교\n연선\n단선\n가늘거나 굵은 여러개의 가닥이 그룹화되어\n하나의 금속으로 구성\n단일 도체를 구성\n단선보다 유연하여 쉽게 끊어지지 않지만\n연선보다 단단하고 내구성이 강하나\n구부리면 파손될 가능성이 높음\n내구성이 떨어짐\n엘리베이터 등 이동하거나 노출이 많이\n되는 곳에 주로 설치\n내부 배선, 고정된 전선 등 전력을 많이\n사용하는 곳에 주로 설치\n3u 3Pronas 금도금\n\n\n34 3Prongs 금도금\n① 3k 금도금 컨넥터\n② 3Prongs 형태 핀 > 신호 전송시 오류 최소화 형태\n3Prongs\n형태 핀\n3M\n금도금 핀\nFLUKE TEST PASS\nLW LINKWARE\nCABLE TEST MANAGEMENT SOFTWARE\nCable ID: LS-CAT.6-FUTPD-20M\nDate/Time: 12/11/201006.04.02pm\nHeadroom: 5.0 dB (NEXT 36-45)\nTest Limit: TIA Cat 6 Channel\nCable Type: Cat 6 UTP\nOperator: Your Name\nSoftware Version: 22400\nLimits Version: 1.3700\nNVP: 69.0%\nTest Summary: PASS\nModel: DTX-1800\nMain SN 1200000\nRemote SiN 1290030\nMain Adapter DTX-CHA002\nRemote Adapter: DTX-CHA002\nWire Map (T5688)\nPASS\n76m\n[Par 12]\n76\nB\nInsertion Loss\nLength (f), Limit 328\nProp. Delay (ns), Limit 555\nDelary Skew (ns), Limit 50\nResistance (ohms)\n[Pair 45] 22.3\n36\n24\n12\nInsertion Loss Margin(dB)\nFrequency (MHz)\n[Pair 36 17.5\n(Pair 36 250.0\n(Pair 36 35.9\nFrequency (MHz)\n250\nWorst Case Value\nNEXT\n36-45\n36-45\n00\nWorst Case Margin\nPASS\nMAIN\nSR\nWorst Pair\n36-45 36-45\nNEXT (CB)\n5.0\n58\nFreq (MHz)\nLimit (dB)\nWorst Pal\n36\n45\nPS NEXT (dB)\n7.5 8.3\nFreq. (MHz)\n70.5 25.6\nLimit(dB)\n39.7 47.2\n36\n36\n82\n227.5\n8.6\n218.5\n2\nFrequency (MHz)\n250\n30.9\n31.2\nACRF Ramo\nMAIN\nSR\nMAIN\n45-36\n36-45\n45-36\n36-45\n231.5\nPASS\nWorst Pair\nACR-F (dB)\nFreq. (MHz)\nLimit (dB)\nWorst Pair\nPSACR-F (dB)\nFreq (MHz)\nLimit (dB)\n216.0 231.5\n16.6 16.0\n246.0\n154\n12\n45\n12\n6.0\n5.5\n5.4\n229.0\n13.1\n6.1\n250.0\nFrequency (M)\nFrequency (MHz)\n250\n243.0\n12.5\n236.0\n12.8\n12.3\nACRN\nACR-NORemote\nN/A\nMAIN\nSR\nMAIN\nSA\n36-45\n36-45\n36-45\n11.7\n22.9\n11.2\n25.9\n23.3\n219.0\n228.0\n51.7\n-0.2 0.9\nWorst Pair\nACR-N (dB)\nFrea (MHz)\nLimit(dB)\nWorst Pair\nPSACR-N (dB)\nFreq (MHz)\nLimit (dB)\n36\n36\n12.5\n13.1\n24.8 24.5\n227.5 218.5\n8.6\nFrequency (H\n250\nFrequency (4)\n250\n49.2\n48.6\n& 88.\nRL\nRL Remote\nMAIN\nSR\nMAIN SR\n36\n12\n45 78\n48\n3.1\nPASS\nWorst Pair\nRL (dB)\nFreq\nLimit (dB)\nCompliant work\nQ. (MHz)\n1.6\n79.5\n13.0\n22\n3.7\n230.0 173.5\n100BASE-TX\n100BASE-T4\n0 Frequency (MHz)\n250\nFrequency (MHz)\n250\nTR-16 Active\nTR-16 Pastive\nProject DEFAULT\nSite: Client Name\nLinkWare Version 60\nFLUKE\nnetworks.\nUNTITLED\n랜스타 평면 케이블 어디서 사용할까요?\n일반 라운드 케이블과 성능은 동일하나 설치가 어려운 좁은 공간이나\n깔끔한 선 정리를 원할 때 사용하기 적합합니다.\n공간 제약이 있는 환경\n깔끔한 케이블 정리\n고속 인터넷 환경\n벽과 가구 사이, 문 아래, 카펫이나\n바닥 몰딩 밑으로 케이블을\n배치해야 하는 사용자\n케이블이 얇아 여러겹으로 겹쳐도\n부피가 크지 않아, 케이블 타이 등으로\n정리하기 용이\n고해상도 스트리밍과\n대용량 파일 전송을\n자주 하는 사용자\n\n\n공간 제약이 있는 환경\n깔끔한 케이블 정리\n고속 인터넷 환경\n벽과 가구 사이, 문 아래, 카펫이나\n바닥 몰딩 밑으로 케이블을\n배치해야 하는 사용자\n케이블이 얇아 여러겹으로 겹쳐도\n부피가 크지 않아, 케이블 타이 등으로\n정리하기 용이\n고해상도 스트리밍과\n대용량 파일 전송을\n자주 하는 사용자\n33 33\nEMI 간섭이 적은 환경\n이동이 잦은 사용자\n효율적인 네트워크 환경\n차폐 기능이 없어, 전자기 간섭이\n적은 실내 환경에서 효과적\n말아서 보관, 이동이 편리하여\n임시 네트워크 구축, 이사가\n잦은 환경에서 사용\n적절한 예산안에서 성능을 원하는\n가정, 소규모 사무실 사용자\n일반 라운드 케이블과 컨넥터 길이가 다른데\n정상적으로 사용 가능한가요?\n일반 라운드 케이블\n평면 케이블\n네. 사용에 아무 문제 없습니다!\nRJ45 컨넥터는 와이어와 접촉되는 핀의 길이가 평면이든 일반 라운드든 동일하며,\n단지 설계 차이일 뿐, 접촉면이 정확히 연결되면 신호 전달에는 문제가 없습니다.\n컨넥터의 길이 차이는 데이터 전송 속도나 대역폭과 무관합니다.\n동일한 규격(CAT.6 UTP)으로 제작된 평면 케이블은\n일반 라운드 케이블과 동일한 성능을 제공합니다.\n평면 케이블 사용시 주의사항\n심한 당김에 약할 가능성\n평면 케이블은 구조상 외피와 컨넥터의 결합이 라운드 케이블만큼 강하지 않을 수 있습니다.\n장력이 많이 가해지는 환경에서는 손상이 발생할 가능성이 있으니 주의가 필요합니다.\n전문 작업 시 적합성\n평면 케이블은 케이블 테스터기 등으로 작업할 때 접촉 상태가 다소 민감할 수 있습니다.\n이 경우에는 고정이 더 확실한 라운드 케이블이 선호될 수 있습니다.\nPRODUCT SIZE\n11mm\n8mm\n23mm\n16mm\n23mm\n0.5M\nPIN OUT\n\n\n8mm\n렇\n23mm\n16mm\n23mm\n0.5M\nPIN OUT\nIM\n2M\nP2\nP1\n3M\n1\n1 WHITE\n5M\n10M\n2\n2 ORANGE\n15M\n3\n3 WHITE\n20M\n6\n6 GREEN\n4\n4 BLUE\n5\n5 WHITE\n7\n7 WHITE\n8\n8 BROWN\nSHELL\nSHELL\nSPECIFICATION\n규격\nCAT.6 UTP FLAT\n전송속도\n최대 1Gbps\n대역폭\n250MHz\n심선\n32AWG\n콘넥터\n3u Gold Plated Pin\n케이블 길이\n0.5m/1m/2m/3m/5m/10m/15m/20m\n직경\nOD 1.38(H) x 6.05(W) ±0.1mm\nFAQ\n자주 물어보시는 질문\nQ. 일반 라운드 케이블과 차이는 무엇인가요?\n평면 케이블은 얇고 유연해서 좁은 공간이나 깔끔한 설치가 필요한 곳에 적합합니다.\n라운드 케이블에 비해 설치 시 눈에 덜 띄고 정리가 용이합니다.\nQ. POE 장비에 사용할 수 있는 케이블인가요?\nPoE++(60W) 장비를 제외한 PoE(15W), PoE+(30W) 장비에는 사용할 수 있습니다.\n평면 형태의 케이블이지만 CAT.6 UTP 규격이기 때문에 PoE 장비에 사용 가능합니다.\nQ. 실외에서 사용할 수 있는 케이블인가요?\n실내용으로 설계되었기 때문에 실외에서 사용 시 내구성이 떨어질 수 있습니다.\n실외용으로는 방수 처리가 된 케이블을 추천드립니다.\nQ. 전자기 간섭(EMI)에는 강한 편인가요?\n차폐(Shielding)가 없기 때문에 전자기 간섭에 강한편은 아닙니다.\n하지만 일반적인 가정이나 사무실 환경에서는 충분히 안정적으로 작동합니다.\nQ. 설치할 때 특별한 도구가 필요한가요?\n특별한 도구 없이도 간편하게 설치할 수 있습니다. 단, 케이블 길이를 조정하거나\n벽에 고정하려면 추가적인 클립이나 타이 정도가 필요할 수 있습니다.\n\n\n3. 설치할 때 특별한 도구가 필요한가요?\n특별한 도구 없이도 간편하게 설치할 수 있습니다. 단 케이블 길이를 조정하거나\n벽에 고정하려면 추가적인 클립이나 타이 정도가 필요할 수 있습니다.\n당일출고!!\n오후4시 이전 주문건(결제완료)까지 당일출고됩니다.\n오\n상품 도착\n오후 4시 이전까지\n결제완료\n주문건 당일출고\n(평균 1~2일 소요)\n당일출고는 토, 일, 공휴일을 제외한 평일 기준이며\n택배사 사정에 따라 배송기간이 길어질 수 있습니다.\nave\n소재·부품·장비\n전문기업확인서\n소재·부품 상비 전문기업인\nw\n4\n* = 5 1 2017-01.\n평가관리원\n산업통산자원부 시행 제도\nKeit\n223129\n2022.11.29 취득\n한국산업기술평가관\n라인업시스템(주) 정품 인증\nLANSTAR\n정품인증\n본 제품은 “라인업시스템(주) / 랜스타”에서 정식\n수입·유통하는 상품입니다.\n제품 구매시 공식 인증 배너를 확인해주세요!\n※ 라인업시스템(주) / 랜스타 정품 인증 배너가 등록되어 있지 않은\n판매처의 제품은 정품이 아닌 제품이므로 A/S를 받을 수 없습니다.\n라인업시스템(주) / 랜스타 정품 제품은 제조사 기준에 따른 A/S 서비스를 제공합니다.\nM 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\n상 품 정보\n품\n명\nCAT.6 UTP 평면 랜케이블, WHITE\nLS-F6UTPD-0.5MW\nLANStar\nLS-F6UTPD-IMW\nLS-F6UTPD-2MW\nLS-F6UTPD-3MW\n모\n델\n명\nLS-F6UTPD-5MW\nLS-F6UTPD-10MW\nLS-F6UTPD-15MW\nLS-F6UTPD-20MW\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\n\n\nLS-F6UTPD-10MW\nLS-F6UTPD-15MW\n口\nLS-F6UTPD-20MW\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n품질보증기준\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.\nLANSStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이\n변경될 수 있습니다. 라인업시스템(주)에서 제작한 상품과 콘텐츠를\n당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향"
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC",
+        "금도금",
+        "구리"
+      ],
+      "length_options_meters": [
+        0.5,
+        1.0,
+        2.0,
+        3.0,
+        5.0,
+        10.0,
+        15.0,
+        20.0
+      ],
+      "color_options": [
+        "흰색"
+      ]
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "UTP",
+      "conductor": "연선(stranded)",
+      "awg": 32,
+      "pair_count": null,
+      "flame_rating": "PVC",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 8P8C 다이렉트(Direct) 배열",
+    "connectivity.output_signals": "RJ45 8P8C 다이렉트(Direct) 배열",
+    "connectivity.directional": "PC↔공유기/스위치 등 일반 연결에 사용",
+    "form_physical.has_case": "케이블 두께 1.5x6mm 슬림 평면 설계",
+    "form_physical.material": "금도금 단자(50μ) 적용",
+    "form_physical.length_options_meters": "길이: 0.5M, 1M, 2M, 3M, 5M, 10M, 15M, 20M",
+    "form_physical.color_options": "색상: 흰색",
+    "family.cat_category": "CAT.6 UTP 규격",
+    "family.shielding": "CAT.6 UTP 규격",
+    "family.conductor": "연선(Stranded) 케이블로 단선 대비 유연하고 설치 용이",
+    "family.awg": "전선규격: 32AWG",
+    "family.flame_rating": "절연피복: PVC"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:11",
+  "feature_schema_version": "1.0.0"
+}

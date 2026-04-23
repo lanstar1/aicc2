@@ -1,0 +1,91 @@
+{
+  "model_no": "LS-EKTVB-N12",
+  "product_name": "CAT.5E UTP 키스톤잭",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP",
+    "키스톤잭"
+  ],
+  "key_features": [
+    "CAT.5E UTP 규격 지원",
+    "6가지 색상 제공: 회색, 빨강, 노랑, 흰색, 초록, 파랑",
+    "임팩트툴(펀치툴) 사용 방식으로 케이블 결선",
+    "Duct Cap 포함으로 마감 처리 가능",
+    "인증번호 IT-A71-05-0095 보유"
+  ],
+  "specifications": {
+    "규격": "CAT.5E UTP",
+    "커넥터 타입": "RJ45 (8P8C)",
+    "색상": "회색, 빨강, 노랑, 흰색, 초록, 파랑",
+    "인증번호": "IT-A71-05-0095",
+    "제조국/원산지": "중국",
+    "제조자/수입사": "라인업시스템(주)",
+    "A/S 소비자 상담": "라인업시스템(주) / 070-7018-3386"
+  },
+  "compatibility": [
+    "CAT.5E UTP 랜선",
+    "임팩트툴(펀치툴) 사용 필요"
+  ],
+  "package_contents": [
+    "키스톤잭 모듈 1개",
+    "Duct Cap 2개"
+  ],
+  "usage_instructions": "1. 스트리퍼를 사용하여 랜선의 피복을 제거한다. 2. 피복을 제거한 후 적당한 길이로 자른다. 3. 모듈의 뒷면을 확인한다. 4. 랜선을 뒷면 도표에 맞춰 삽입한다. 5. 임팩트툴을 사용하여 마무리 한다. 6. Duct Cap을 덮는다.",
+  "cautions": [
+    "임팩트툴(펀치툴) 사용이 필요하며, 별도 구매 필요",
+    "랜선 삽입 시 모듈 뒷면 배선 도표를 반드시 확인할 것",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자분쟁해결 기준에 의거하여 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-EKTVB-N12",
+      "품목코드": "NEO-키스톤017",
+      "품목명": "[LANstar] 키스톤잭 모듈, CAT.5E 8P8C, Red 대만산[40076]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "N/A"
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "color_options": [
+        "회색",
+        "빨강",
+        "노랑",
+        "흰색",
+        "초록",
+        "파랑"
+      ]
+    },
+    "certification": {
+      "kc": true
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 (8P8C)",
+    "connectivity.output_signals": "RJ45 (8P8C)",
+    "form_physical.has_case": "Duct Cap 포함으로 마감 처리 가능",
+    "form_physical.color_options": "6가지 색상 제공: 회색, 빨강, 노랑, 흰색, 초록, 파랑",
+    "certification.kc": "인증번호 IT-A71-05-0095 보유",
+    "family.cat_category": "CAT.5E UTP 규격 지원",
+    "family.shielding": "CAT.5E UTP 규격 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:52",
+  "feature_schema_version": "1.0.0"
+}

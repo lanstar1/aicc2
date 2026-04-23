@@ -1,0 +1,154 @@
+{
+  "model_no": "LS-C5U305R",
+  "product_name": "LAN Star CAT.5E UTP 통신공사용 박스케이블 (Red) LS-C5U305R",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP"
+  ],
+  "key_features": [
+    "CAT.5E UTP 규격",
+    "단선(SOLID) 케이블 구조",
+    "전송 속도 1Gbps",
+    "대역폭 100MHz",
+    "CCA(Copper Clad Aluminum) 재질 – 알루미늄 코어 외부에 구리를 씌운 구조로 경량·고전도성·고강도",
+    "4PAIR TWISTED(꼬임) 구조로 신호 간섭 방지",
+    "FLUKE TEST 통과 / SGS 인증 / RoHS 인증",
+    "305m 박스 포장 – 필요한 길이만큼 절단하여 사용 가능",
+    "6가지 색상(회색·검정·파랑·빨강·노랑·녹색) 라인업",
+    "컨넥터 미결합 상태 출고 (별도 제작 필요)",
+    "라인업시스템(주) / 랜스타 정품 인증 제품",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "CAT 5E 규격 UTP 랜케이블",
+    "통신공사용",
+    "HIGH QUALITY / GIGABIT SPEED 지원",
+    "305M 롤 단위 제공"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.5E UTP",
+    "전송 속도": "1Gbps",
+    "대역폭": "100MHz",
+    "케이블 길이": "305m / 305M",
+    "심선 직경": "24AWG, 4.5±0.2mm",
+    "케이블 소재": "CCA (Copper Clad Aluminum)",
+    "작동 온도": "섭씨 80℃",
+    "케이블 색상": "회색(Grey), 검정(Black), 파랑(Blue), 빨강(Red), 노랑(Yellow), 녹색(Green)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음",
+    "박스 크기": "345mm × 210mm × 347mm (가로×세로×높이, 이미지 도면 기준)",
+    "FLUKE TEST 기준": "약 83m 기준",
+    "인증": "FLUKE TEST, SGS, RoHS",
+    "규격": "CAT 5E",
+    "케이블 타입": "UTP (TP)",
+    "용도": "통신공사용"
+  },
+  "compatibility": [
+    "CAT.5E 전용 일반 컨넥터 (LSN-CAT5E-UTP50 투명 / LSN-CAT5E-UTP50BL 블루)",
+    "CAT.5E 전용 패스 컨넥터 (LSN-5EPASS-UTP 투명)",
+    "CAT.5E 전용 고급 컨넥터 50p 금도금 핀 (LS-C5K 투명)",
+    "부트(Boot) – 각부트 LSN-BOOT-COVER, 통부트 LSN-BOOT-OPEN, 락부트 LSN-BOOT-LOCK",
+    "EZ 플러그 랜툴 (LS-68P, LS-68PN, LS-68RP-EZ)",
+    "자동스트리퍼 LS-ASTR, 케이블탈피기/스트리퍼 LS-STR-R10",
+    "기가비트(1Gbps) 네트워크 장비",
+    "신축 건물·사무실·PC방·학원·학교 등 네트워크 포설 공사 환경",
+    "CAT 5E Ethernet 규격 호환"
+  ],
+  "package_contents": [
+    "CAT.5E UTP 305m 박스케이블 1박스 (플라스틱 캡 포함)",
+    "※ 컨넥터, 부트, 랜툴, 스트리퍼는 별매",
+    "CAT 5E UTP 랜케이블 305M"
+  ],
+  "usage_instructions": "① 제작할 길이만큼 케이블을 절단한다. ② 스트리퍼로 케이블 피복을 탈피하고 부트를 결합한다. ③ 케이블 핀배열(Direct 또는 Cross)에 맞게 페어를 정렬한다. ④ 컨넥터(패스 또는 일반 컨넥터)를 결합한다. ⑤ 랜툴로 케이블 컷팅 및 컨넥터 압착을 진행한다. ⑥ 처음 결합해둔 부트를 최종 결합하면 작업 완료. ※ FLUKE TEST 기준은 약 83m이며, 최대 속도 이용 시 100m를 넘지 않도록 제작 권장. ※ 실내 고정 배선(내부 배선, 벽체 매립 등)에 적합하며, 옥외 사용 시 별도 옥외용(아웃도어) 이중피복 케이블 구매 필요.",
+  "cautions": [
+    "본 제품은 컨넥터가 결합되지 않은 상태로 출고되므로, 구매자가 직접 컨넥터를 연결하여 사용해야 한다.",
+    "단선(Solid) 케이블 특성상 구부리면 파손될 가능성이 높으므로 무리한 굴곡 적용 금지.",
+    "100m 초과 시 성능(속도)이 저하될 수 있으므로 100m 이하로 제작하여 사용 권장.",
+    "옥외(야외) 환경에서는 본 제품을 사용하지 말고, 이중피복 옥외용(아웃도어) 케이블을 별도 구매할 것.",
+    "엘리베이터 등 이동·노출이 잦은 환경에는 연선(Stranded) 케이블이 적합하며, 본 제품(단선)은 내부 고정 배선 용도에 적합.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처의 제품은 정품이 아닐 수 있으며, A/S를 받을 수 없다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있다.",
+    "FLUKE TEST는 약 83m 기준으로 진행되므로 케이블 제작 시 참고할 것.",
+    "오후 4시 이전 결제 완료 건에 한해 당일 출고(토·일·공휴일 제외, 평일 기준)되며, 택배사 사정에 따라 배송 기간이 길어질 수 있다."
+  ],
+  "variants": [],
+  "_variant_raw_texts": {
+    "LS-C5U305R(1000PIX)_STOP1": "LAN Star\nUP\nHIGHQUALITY/GGA SPEED\n통신공사용 랜케이블\nCAT\nCAT SE ETHERNET CABLE\nCAT\n5E\n5E\nTP\nUTP\n305M"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "PVC",
+        "알루미늄",
+        "구리"
+      ],
+      "length_meters": 305,
+      "length_options_meters": null,
+      "color_options": [
+        "회색",
+        "검정",
+        "파랑",
+        "빨강",
+        "노랑",
+        "녹색"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": "단선(solid)",
+      "awg": 24,
+      "pair_count": 4,
+      "flame_rating": "PVC",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "305m 박스 포장",
+    "form_physical.material": "CCA(Copper Clad Aluminum) 재질",
+    "form_physical.length_meters": "305m 박스 포장",
+    "form_physical.color_options": "6가지 색상(회색·검정·파랑·빨강·노랑·녹색)",
+    "certification.rohs": "RoHS 인증",
+    "family.cat_category": "CAT.5E UTP 규격",
+    "family.shielding": "CAT.5E UTP 규격",
+    "family.conductor": "단선(SOLID) 케이블 구조",
+    "family.awg": "24AWG",
+    "family.pair_count": "4PAIR TWISTED(꼬임) 구조",
+    "family.flame_rating": "실내 고정 배선(내부 배선, 벽체 매립 등)에 적합"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:56",
+  "feature_schema_version": "1.0.0"
+}

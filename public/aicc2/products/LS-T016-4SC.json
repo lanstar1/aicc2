@@ -1,0 +1,154 @@
+{
+  "model_no": "LS-T016-4SC",
+  "product_name": "LAN Star Multi-Vision Wall Controller Monitor Stand (멀티비전 월 컨트롤러 모니터 스탠드)",
+  "category": [
+    "모니터거치대",
+    "멀티비전"
+  ],
+  "key_features": [
+    "모니터 4대 동시 거치 가능",
+    "VESA 홀 최대 600x400(mm) 규격 지원",
+    "지원 디스플레이 크기: 최소 32인치 ~ 최대 65인치",
+    "최대 하중 160Kg 지원",
+    "베사홀 연결 레일 방식으로 손쉬운 탈부착 가능",
+    "이동식 고정 바퀴 4개 포함 (탈부착 가능, 레버로 고정)",
+    "기둥 레일에 선정리 홀 적용으로 깔끔한 케이블 관리 가능",
+    "가정, 방송국, 은행, 종교활동, 학교, 행사장, 강의실, 옥외 광고 등 다양한 환경에서 활용 가능",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "제품 가격에 운임비 포함"
+  ],
+  "specifications": {
+    "VESA_max": "600 x 400 (mm)",
+    "디스플레이_크기": "32\" ~ 65\"",
+    "최대_하중": "160Kg",
+    "제품_크기_mm": "1510(W) x 1050(D) x 1830(H)",
+    "제품_무게": "대박스 43Kg / 소박스 18.85Kg",
+    "제품_색상": "Silver",
+    "재질": "Metal",
+    "KC_인증번호": "해당없음",
+    "제조국_원산지": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "VESA 75x75 (mm)",
+    "VESA 100x100 (mm)",
+    "VESA 200x100 (mm)",
+    "VESA 200x200 (mm)",
+    "VESA 300x300 (mm)",
+    "VESA 400x200 (mm)",
+    "VESA 400x400 (mm)",
+    "VESA 600x200 (mm)",
+    "VESA 600x400 (mm)",
+    "베사홀이 있는 32인치 ~ 65인치 디스플레이"
+  ],
+  "package_contents": [
+    "A x1",
+    "B x1",
+    "C x1",
+    "D x4",
+    "E x1",
+    "F x1",
+    "G x8",
+    "H x4",
+    "H x2",
+    "I x12",
+    "J x2",
+    "K x4",
+    "L x2",
+    "M x4 (볼트 M8x65)",
+    "N x8 (볼트 M8x40)",
+    "O x8 (볼트 M8x16)",
+    "P x6 (볼트 M8x16)",
+    "Q x8 (볼트 M5x10)",
+    "R x4 (볼트 M4x10)",
+    "S x8 (볼트 M6x20)",
+    "T x12",
+    "U x1",
+    "V x8",
+    "Y x1",
+    "Z x1"
+  ],
+  "usage_instructions": "1. 조립 순서에 따라 각 부품을 규격에 맞는 볼트로 순서대로 조립한다. 2. 디스플레이 장착 시 디스플레이의 베사홀에 고정 레일을 결합한 뒤, 고정 레일 위쪽을 거치대 장착 레일에 먼저 고정하고 아래쪽 스트랩을 잡아당겨 장착 레일에 결합시킨 후 스트랩을 놓으면 고정된다. 디스플레이는 아래쪽 레일부터 설치한다. 3. 탈착 시에는 레일에 연결된 스트랩을 잡아당겨 아래쪽부터 분리한다. 4. 이동식 바퀴 4개를 부착하면 이동이 가능하며, 레버를 이용해 고정할 수 있다. 5. 기둥 레일의 선정리 홀을 이용해 케이블을 내부로 정리한다.",
+  "cautions": [
+    "각 부품마다 사용하는 볼트 규격이 정해져 있으므로 정해진 규격과 순서에 맞게 조립할 것",
+    "여분의 볼트가 없으니 분실에 주의할 것",
+    "32인치보다 작은 디스플레이 사용 시 4대의 디스플레이를 정렬할 수 없으므로 최소 32인치부터 사용할 것",
+    "최대 하중 160Kg을 초과하여 거치하지 말 것",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "본 제품(LAN Star) 및 콘텐츠를 사전 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됨",
+    "A/S 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-T016-4SC",
+      "품목코드": "MON-거치대147",
+      "품목명": "[LANstar] 멀티비전 월 컨트롤러 모니터 스탠드 4대 호환 [30600] ★★할인제외★★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "Silver"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "mount_interface": "Freeform",
+      "weight_capacity_kg": 160,
+      "tilt": null,
+      "swivel": null,
+      "height_adjustable": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "LAN Star Multi-Vision Wall Controller Monitor Stand",
+    "form_physical.material": "재질: Metal",
+    "form_physical.color_options": "제품_색상: Silver",
+    "certification.kc": "KC_인증번호: 해당없음",
+    "family.mount_interface": "VESA 홀 최대 600x400(mm) 규격 지원",
+    "family.weight_capacity_kg": "최대 하중 160Kg 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:11",
+  "feature_schema_version": "1.0.0"
+}

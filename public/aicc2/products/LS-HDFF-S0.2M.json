@@ -1,0 +1,133 @@
+{
+  "model_no": "LS-HDFF-S0.2M",
+  "product_name": "HDMI 판넬형 연장 케이블 (HDMI Female - HDMI Female Screw)",
+  "category": [
+    "HDMI케이블",
+    "분배판넬"
+  ],
+  "key_features": [
+    "HDMI 19P Female - HDMI 19P Female(Screw) 구성의 양방향 암-암 연장 케이블",
+    "한쪽 단자는 스크류(나사고정) 타입으로 패널에 고정 설치 가능",
+    "HDMI 2.1 규격 지원 (8K@60Hz / 4K@120Hz)",
+    "해상도 Full HD(1920×1080) / 4K(3840×2160) / 8K(7680×4320) 지원",
+    "28AWG 심선 사용으로 안정적인 신호 전송",
+    "Dynamic HDR, eARC, VRR, QMS, QFT, ALLM, DSC 등 HDMI 2.1 신규 기능 지원",
+    "케이블 길이 0.2M(200mm) 단거리 패널 연장용",
+    "소재·부품·장비 전문기업 확인서 보유 (2022.11.29 취득)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "라인업시스템(주) / 랜스타 정품 인증 제품"
+  ],
+  "specifications": {
+    "규격": "HDMI 19P/F - HDMI 19P/F(Screw)",
+    "해상도": "8K@60Hz / 4K@120Hz",
+    "AWG": "28AWG",
+    "케이블 길이": "0.2M (200mm)",
+    "최대 소비 전력": "DC 30V",
+    "작동 온도": "0°C ~ 80°C",
+    "HDMI 버전": "HDMI 2.1",
+    "커넥터 CN1": "HDMI Female",
+    "커넥터 CN2": "HDMI Female (스크류 타입 / 나사고정)",
+    "케이블 직경": "7.3mm",
+    "제조국": "중국 (China)",
+    "제조사 / 수입사": "라인업시스템(주)",
+    "모델명": "LS-HDFF-S0.2M",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "HDMI 2.1 지원 기기",
+    "HDMI 2.0 지원 기기 (하위 호환)",
+    "8K@60Hz 출력 지원 기기",
+    "4K@120Hz 출력 지원 기기",
+    "블루레이 / HD-DVD 플레이어",
+    "SAMSUNG 등 HDMI 지원 TV / 모니터",
+    "FPS 게임용 고주사율(120Hz) 지원 게임기 / PC"
+  ],
+  "package_contents": [
+    "HDMI 판넬형 연장 케이블 0.2M × 1",
+    "고정나사 2개"
+  ],
+  "usage_instructions": "CN2(스크류 타입) 단자를 패널 홀에 삽입한 후 동봉된 고정나사 2개로 나사 고정하여 설치합니다. CN1(일반 Female) 단자에 HDMI 케이블을 연결하여 사용합니다. HDMI 2.1 케이블 연결 시 8K@60Hz 또는 4K@120Hz 해상도로 동일하게 출력 가능합니다.",
+  "cautions": [
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니며 A/S를 받을 수 없습니다.",
+    "정품 제품은 제조사 기준에 따른 A/S 서비스가 제공됩니다 (A/S 문의: www.LANstar.co.kr).",
+    "당일출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일은 제외한 평일 기준입니다.",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있습니다 (평균 1~2일 소요).",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 무단 복제 및 이용 시 불이익을 받을 수 있습니다.",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDFF-S0.2M",
+      "품목코드": "CAB-HDM897",
+      "품목명": "[LANstar] HDMI 판넬형 케이블, HDMI/F TO HDMI/F, Screw, Black, 0.2M [10942]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "8K@60",
+      "hdr_support": true,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "HDMI2.1",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19P Female - HDMI 19P Female",
+    "connectivity.output_signals": "HDMI 19P Female - HDMI 19P Female",
+    "connectivity.directional": "양방향 암-암 연장 케이블",
+    "form_physical.length_meters": "케이블 길이 0.2M(200mm)",
+    "audio_video.max_resolution": "8K@60Hz / 4K@120Hz",
+    "audio_video.hdr_support": "Dynamic HDR",
+    "audio_video.audio_pass": "eARC",
+    "family.hdmi_version": "HDMI 2.1 규격 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:02",
+  "feature_schema_version": "1.0.0"
+}

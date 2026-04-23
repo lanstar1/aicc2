@@ -1,0 +1,103 @@
+{
+  "model_no": "LS-CAT5E-UTP50",
+  "product_name": "LANStar CAT.5E UTP 콘넥터",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP",
+    "커넥터"
+  ],
+  "key_features": [
+    "8P8C UTP CAT.5E 콘넥터",
+    "국제규격 RJ45 준수",
+    "금도금 플러그 핀 적용",
+    "플러그 핀이 3팁 구조로 견고하게 고정",
+    "KC 전기용품안전인증 획득 (인증번호: T-A71-05-0095)",
+    "국립전파연구원 인증 제품"
+  ],
+  "specifications": {
+    "모델명": "LS-CAT5E-UTP50",
+    "제품명": "CAT.5E UTP 콘넥터",
+    "규격": "8P8C, RJ45, CAT.5E UTP",
+    "핀 사양": "금도금 플러그 핀, 3팁 구조",
+    "인증번호": "T-A71-05-0095",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "수량": "100개입"
+  },
+  "compatibility": [
+    "CAT.5E UTP 케이블",
+    "RJ45 국제규격 호환 장비"
+  ],
+  "package_contents": [
+    "CAT.5E UTP 콘넥터 100개"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "품질보증: 본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상합니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "금도금 플러그 핀 적용",
+    "certification.kc": "KC 전기용품안전인증 획득",
+    "family.cat_category": "CAT.5E UTP 콘넥터",
+    "family.shielding": "UTP 콘넥터"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:02",
+  "feature_schema_version": "1.0.0"
+}

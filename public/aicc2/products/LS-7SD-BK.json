@@ -1,0 +1,158 @@
+{
+  "model_no": "LS-7SD-BK",
+  "product_name": "CAT.7 S/FTP 랜 연장 판넬형 케이블",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "랜케이블-FTP",
+    "랜케이블-SFTP",
+    "커넥터",
+    "분배판넬"
+  ],
+  "key_features": [
+    "최대 10Gbps 전송속도 지원 (CAT.5 대비 10배 이상)",
+    "CAT.7 S/FTP 규격, 대역폭 600MHz",
+    "RJ45 8P8C, 다이렉트(Direct), M/F 판넬형 구조",
+    "50μ 금도금 커넥터 적용",
+    "연선(Stranded) 26AWG 전선 사용",
+    "LSZH(Low Smoke Zero Halogen) 난연 케이블",
+    "알루미늄 차폐막 및 편조쉴드로 외부 노이즈·전자파 차단",
+    "꼬임(Twisted Pair) 방식으로 노이즈 방지",
+    "고정나사 포함으로 흔들림 없이 나사 고정 후 사용 가능",
+    "RoHS 규정 준수 (유해물질 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.7",
+    "케이블 타입": "S/FTP",
+    "최대 전송속도": "10Gbps",
+    "대역폭": "600MHz",
+    "전선규격(AWG)": "26AWG",
+    "커넥터 타입": "RJ45, 8P8C",
+    "결선 방식": "Direct (다이렉트)",
+    "커넥터 성별": "M/F (수-암, 판넬형)",
+    "금도금 두께": "50μ",
+    "전선 구조": "연선(Stranded)",
+    "난연 등급": "LSZH (Low Smoke Zero Halogen)",
+    "지원 전송속도": "10Mbps, 100Mbps, 1000Mbps, 10Gbps",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "모델명 목록": "LS-7SD-BK0.2M, LS-7SD-BK0.5M, LS-7SD-BK1M, LS-7SD-BK2M, LS-7SD-BK3M, LS-7SD-BK5M",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008",
+    "인증번호": "해당없음",
+    "A/S 센터": "www.LANstar.co.kr",
+    "길이 옵션": "0.2M, 0.5M, 1M, 2M, 3M, 5M"
+  },
+  "compatibility": [
+    "허브랙 / 서버랙",
+    "전자교탁",
+    "서버",
+    "PC",
+    "산업용 장비",
+    "LAN 포트 탑재 각종 장비",
+    "CAT.5 / CAT.5E / CAT.6 / CAT.6A / CAT.7 네트워크 환경",
+    "TIA/EIA-568 규격 준수 장비",
+    "ISO/IEC 11801 Class F (CAT.7) 규격 준수 장비"
+  ],
+  "package_contents": [
+    "CAT.7 S/FTP 랜 연장 판넬형 케이블 본체 1개",
+    "고정나사 2개"
+  ],
+  "usage_instructions": "판넬형 케이블을 허브랙/서버랙, 전자교탁, 서버, PC 및 산업용 장비 등의 LAN 포트에 연결한 뒤, 포함된 고정나사 2개를 이용해 케이블이 흔들리지 않도록 나사로 고정한 후 사용한다. 설치 전 제품 상세 사이즈를 확인하여 설치 위치와 제품이 맞는지 반드시 확인하고 구매 및 설치할 것.",
+  "cautions": [
+    "설치할 곳과 제품이 맞는지 상세 사이즈를 확인하고 구매할 것",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "LANstar 라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됨"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "알루미늄",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.2,
+        0.5,
+        1.0,
+        2.0,
+        3.0,
+        5.0
+      ],
+      "color_options": [
+        "BK"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "SSTP",
+      "conductor": "연선(stranded)",
+      "awg": 26,
+      "pair_count": null,
+      "flame_rating": "LSZH",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 8P8C",
+    "connectivity.output_signals": "RJ45 8P8C",
+    "connectivity.directional": "M/F (수-암, 판넬형)",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.material": "알루미늄 차폐막 및 편조쉴드로",
+    "form_physical.length_options_meters": "길이 옵션: 0.2M, 0.5M, 1M, 2M, 3M, 5M",
+    "form_physical.color_options": "LS-7SD-BK",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.cat_category": "CAT.7 S/FTP 규격",
+    "family.shielding": "S/FTP",
+    "family.conductor": "연선(Stranded) 26AWG 전선 사용",
+    "family.awg": "26AWG",
+    "family.flame_rating": "LSZH(Low Smoke Zero Halogen) 난연 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:43",
+  "feature_schema_version": "1.0.0"
+}

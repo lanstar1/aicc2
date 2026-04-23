@@ -1,0 +1,99 @@
+{
+  "model_no": "LS-STFF-S0.2M_600",
+  "product_name": "스테레오 케이블 판넬용 (Stereo Cable Panel Type)",
+  "category": [
+    "분배판넬",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "판넬 마운트(패널 고정) 타입 스테레오 케이블",
+    "3.5mm 스테레오 F/F (암/암) 연결 구조",
+    "나사 고정(Screw) 방식 패널 장착",
+    "RoHS 인증 제품",
+    "High Quality 제품"
+  ],
+  "specifications": {
+    "길이": "0.2m",
+    "커넥터 타입": "3.5mm Stereo F/F (암-암)",
+    "장착 방식": "패널 나사 고정(Screw)",
+    "인증": "RoHS",
+    "생산국": "Made in China"
+  },
+  "compatibility": [
+    "3.5mm 스테레오 단자 패널 장착 기기",
+    "3.55T/F to 3.55T/F 규격 호환 장치"
+  ],
+  "package_contents": [
+    "스테레오 케이블 판넬용 0.2m 1개"
+  ],
+  "usage_instructions": "패널에 나사(Screw)로 고정하여 설치하는 패널 마운트 타입 케이블입니다.",
+  "cautions": [
+    "A/S 문의: www.tr.co.kr",
+    "제조사 웹사이트: www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "3.5mm"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "port_count": null,
+      "mount_style": "wall_plate"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5mm 스테레오 F/F (암/암)",
+    "connectivity.output_signals": "3.5mm 스테레오 F/F (암/암)",
+    "connectivity.directional": "3.5mm 스테레오 F/F (암/암)",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.length_meters": "길이: 0.2m",
+    "certification.rohs": "RoHS 인증 제품",
+    "audio_video.max_resolution": "스테레오 케이블",
+    "audio_video.hdcp_version": "스테레오 케이블",
+    "audio_video.audio_pass": "스테레오 케이블",
+    "family.mount_style": "판넬 마운트(패널 고정) 타입"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:48",
+  "feature_schema_version": "1.0.0"
+}

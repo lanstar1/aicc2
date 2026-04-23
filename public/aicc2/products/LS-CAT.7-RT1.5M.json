@@ -1,0 +1,142 @@
+{
+  "model_no": "LS-CAT.7-RT1.5M",
+  "product_name": "LANStar CAT.7 SSTP 자동감김 랜케이블 1.5M",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "랜케이블-STP",
+    "랜케이블",
+    "자동감김케이블"
+  ],
+  "key_features": [
+    "CAT.7 규격, 600MHz 대역폭 지원",
+    "10Gbps(10,000Mbps) 전송속도 지원",
+    "자동감김(Retractable) 타입으로 휴대 및 보관 용이",
+    "24K 금도금 콘넥터 적용으로 부식·산화 방지 및 노이즈 차단",
+    "S-STP(실드) 구조로 전기적 노이즈 완벽 차단",
+    "몸체 지름 약 5.2cm 소형 디자인",
+    "케이블 길이 1.5m"
+  ],
+  "specifications": {
+    "모델명": "LS-CAT7-RT-1.5M",
+    "품명": "CAT.7 SSTP 자동감김 케이블",
+    "케이블 규격": "CAT.7",
+    "케이블 타입": "S-STP (5-STP)",
+    "전송속도": "10Gbps (10,000Mbps)",
+    "대역폭": "600MHz",
+    "케이블 길이": "1.5m",
+    "몸체 지름": "약 5.2cm",
+    "타입": "자동감김 (Retractable)",
+    "콘넥터": "8P8C RJ45, 24K 금도금",
+    "제조국/원산지": "Made in Taiwan",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "10/100/1,000Mbps 기가비트 네트워크 장비",
+    "10Gbps (10GBase-T) 네트워크 장비",
+    "CAT.5E, CAT.6, CAT.7 호환 네트워크 환경"
+  ],
+  "package_contents": [
+    "CAT.7 자동감김 랜케이블 1.5M (LS-CAT7-RT-1.5M) x 1"
+  ],
+  "usage_instructions": "양쪽 커넥터를 동시에 당겨 케이블을 인출하여 사용하고, 사용 후 자동감김 기능으로 보관합니다.",
+  "cautions": [
+    "반드시 양쪽 선을 동시에 당겨야 합니다.",
+    "한쪽만 당길 경우 고장의 원인이 될 수 있습니다.",
+    "제품에 이상이 있을 경우 공정거래위원회 고시 소비자 분쟁해결 기준에 의거하여 보상받을 수 있습니다."
+  ],
+  "variants": [],
+  "reviews": [
+    {
+      "source_model": "LS-CAT.7-RT1.5M",
+      "내용": "사용하기 아주아주 편하고 좋습니다."
+    },
+    {
+      "source_model": "LS-CAT.7-RT1.5M",
+      "내용": "자동 감김 랜선을 사용해봤는데, 케이블 정리가 너무 깔끔해져서 공간 활용이 좋아졌어요. 필요할 때만 늘어나고, 사용 후엔 자동으로 감겨서 걸리적거림이 없고 안전합니다. 길이도 넉넉하고 속도 손실 없이 안정적인 네트워크 연결을 유지해 줘요. 디자인도 실용적이고 가정이나 사무실에서 강추입니다."
+    },
+    {
+      "source_model": "LS-CAT.7-RT1.5M",
+      "내용": "이동하면서 사용하기 좋은 케이블입니다."
+    },
+    {
+      "source_model": "LS-CAT.7-RT1.5M",
+      "내용": "제품은 좋은것 같습니다. 다만 개인적으로는 길이가 좀 더 긴 제품이였으면 활용도가 휠씬 높을것 같습니다.\n대략 3M정도...."
+    },
+    {
+      "source_model": "LS-CAT.7-RT1.5M",
+      "내용": "잘 풀리고 잘 감기고 좋네요.\n내구성은 오래 써봐야알겠죠.\n플랫 케이블 자체는 두툼해서 튼튼해보여요."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": 1.5,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "SSTP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "8P8C RJ45",
+    "connectivity.output_signals": "8P8C RJ45",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "자동감김(Retractable) 타입",
+    "form_physical.material": "24K 금도금 콘넥터",
+    "form_physical.length_meters": "케이블 길이 1.5m",
+    "family.cat_category": "CAT.7 규격",
+    "family.shielding": "S-STP(실드) 구조"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:01",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,148 @@
+{
+  "model_no": "LSP-EC-BNC",
+  "product_name": "BNC 키스톤 커플러 (BNC/F - BNC/F)",
+  "category": [
+    "키스톤잭",
+    "커플러",
+    "분배판넬",
+    "멀티탭",
+    "서버랙",
+    "허브랙",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "BNC(F) to BNC(F) 동축 케이블 연결용 키스톤 커플러",
+    "CCTV(동축) 케이블 연결 전용",
+    "벽면 부착형 Wall Plate 및 Outlet 백박스에 장착 가능",
+    "허브랙·서버랙 전용 마운트 판넬에 장착 가능",
+    "매립형 사용 가능 (벽면 플레이트 결합)",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "화이트 색상(White Color)"
+  ],
+  "specifications": {
+    "커넥터 타입": "BNC/F - BNC/F",
+    "색상": "White (흰색)",
+    "제조국/원산지": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANstar plus",
+    "인증번호": "해당없음",
+    "치수 참고": "도면 수치 포함 (단위: mm) — OCR 오염으로 일부 수치 불명확",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [
+    "벽부착형 Wall Plate (LS-WP23 시리즈, LS-WP23-xP 시리즈)",
+    "Outlet 백박스",
+    "허브랙 전용 마운트 판넬",
+    "서버랙 전용 마운트 판넬",
+    "표준랙 마운트 판넬 (LS-PLKP 시리즈)"
+  ],
+  "package_contents": [
+    "BNC 키스톤 커플러 본체 1개"
+  ],
+  "usage_instructions": "허브랙·서버랙 마운트 판넬에 장착하거나, 벽면 플레이트(Wall Plate)에 결합하여 매립형으로 사용. BNC(F) 양방향 포트에 동축 케이블을 각각 연결하여 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-EC-BNC",
+      "품목코드": "GEN-USB111",
+      "품목명": "[◆Lanstar-Plus] BNC 키스톤 커플러 ,BNC/F to BNC/F , White[20313] (500개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-EC-BNC",
+      "내용": "잘 사용하고 있어요",
+      "관련내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LSP-EC-BNC",
+      "내용": "배송 빠르고 좋아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "BNC"
+      ],
+      "output_signals": [
+        "BNC"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "BNC(F) to BNC(F) 동축 케이블",
+    "connectivity.output_signals": "BNC(F) to BNC(F) 동축 케이블",
+    "connectivity.directional": "BNC(F) 양방향 포트에 동축 케이블",
+    "connectivity.port_count": "BNC(F) 양방향 포트",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "키스톤 커플러",
+    "form_physical.material": "화이트 색상(White Color)",
+    "form_physical.color_options": "화이트 색상(White Color)",
+    "certification.kc": "인증번호: 해당없음",
+    "audio_video.max_resolution": "CCTV(동축) 케이블 연결 전용",
+    "audio_video.hdr_support": "CCTV(동축) 케이블 연결 전용",
+    "audio_video.hdcp_version": "CCTV(동축) 케이블 연결 전용",
+    "audio_video.audio_pass": "CCTV(동축) 케이블 연결 전용",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.cat_category": "BNC(F) to BNC(F) 동축 케이블",
+    "family.shielding": "BNC(F) to BNC(F) 동축 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:30",
+  "feature_schema_version": "1.0.0"
+}

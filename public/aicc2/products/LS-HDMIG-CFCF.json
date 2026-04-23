@@ -1,0 +1,124 @@
+{
+  "model_no": "LS-HDMIG-CFCF",
+  "product_name": "HDMI 미니 젠더 19핀 Mini HDMI 19P C/F-C/F",
+  "category": [
+    "HDMI케이블",
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "양쪽 모두 Mini HDMI 19P C/F 타입 커넥터로 구성된 연장 변환 젠더",
+    "HDMI 케이블 2개를 연결할 때 사용",
+    "신호 손실을 최소화하는 금도금 커넥터",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 준수 제품 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "커넥터 타입": "Mini HDMI 19P C/F - Mini HDMI 19P C/F",
+    "핀 수": "19핀",
+    "커넥터 도금": "금도금",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "라인업시스템(주) 070-7018-3386",
+    "브랜드": "LANStar",
+    "환경규격": "RoHS Compliant"
+  },
+  "compatibility": [
+    "TV",
+    "PC 모니터",
+    "블루레이 플레이어",
+    "노트북",
+    "프로젝터"
+  ],
+  "package_contents": [
+    "HDMI 미니 젠더 C/F-C/F 본체 1개"
+  ],
+  "usage_instructions": "Mini HDMI 케이블 2개를 연결할 때 본 젠더의 양쪽 단자에 각각 케이블을 꽂아 사용합니다.",
+  "cautions": [
+    "제품의 단자 크기와 모양을 반드시 확인하세요.",
+    "유통 과정상 제품의 모양이 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품은 LANStar 정품이며, 비정품 사용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMIG-CFCF",
+      "품목코드": "GEN-HDI039",
+      "품목명": "[LANstar] HDMI미니젠더, HDMI C／F-C／F, Black[20097]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "Mini HDMI 19P C/F",
+    "connectivity.output_signals": "Mini HDMI 19P C/F",
+    "connectivity.directional": "연장 변환 젠더",
+    "connectivity.port_count": "양쪽 모두 Mini HDMI 19P C/F 타입",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "젠더",
+    "form_physical.material": "금도금 커넥터",
+    "certification.rohs": "RoHS 준수 제품",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:32",
+  "feature_schema_version": "1.0.0"
+}

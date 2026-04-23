@@ -1,0 +1,126 @@
+{
+  "model_no": "LS-NT2-CC",
+  "product_name": "닌텐도 스위치2 크리스탈 보호 케이스",
+  "category": [
+    "데스크스탠드"
+  ],
+  "key_features": [
+    "닌텐도 스위치2 전용 정밀 가공 설계 — 조이콘 일체형 디자인 완벽 호환",
+    "고강도 투명 PC(폴리카보네이트) 소재로 외부 충격 및 스크래치 보호",
+    "내황화(anti-yellowing) 처리 적용으로 변색에 강한 고급 PC 소재",
+    "킥스탠드 간섭 없는 설계 — 케이스 장착 상태에서 테이블 모드 사용 가능",
+    "상/하단 통풍 구조 설계로 장시간 플레이 시 발열 효과적 배출",
+    "약 1mm 슬림 일체형 설계 — 케이스 장착 채로 정품 및 호환 도킹 스테이션 연결 가능",
+    "전면/후면 2단계 간편 탈부착 구조",
+    "모든 포트·버튼·슬롯 위치 정밀 설계로 충전포트·이어폰 단자·게임카드 슬롯 간섭 없이 사용 가능"
+  ],
+  "specifications": {
+    "호환 기기": "닌텐도 스위치2 전용",
+    "소재": "투명 폴리카보네이트(PC)",
+    "색상": "클리어(투명)",
+    "크기": "27.5 x 11.7 cm",
+    "두께": "약 1mm",
+    "무게": "29g",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "닌텐도 스위치2 전용",
+    "정품 도킹 스테이션 호환",
+    "호환 도킹 스테이션 호환",
+    "닌텐도 스위치 OLED 모델 호환 불가",
+    "닌텐도 스위치 1세대 호환 불가",
+    "닌텐도 스위치 라이트 호환 불가"
+  ],
+  "package_contents": [
+    "닌텐도 스위치2 크리스탈 보호 케이스 본체 1개"
+  ],
+  "usage_instructions": "전면/후면 2단계 방식으로 본체에 맞춰 순서대로 장착. 별도 조립·분리 없이 일체형 구조로 그대로 본체에 끼워 장착 가능. 케이스 장착 상태로 도킹 스테이션에 삽입하여 충전 및 TV 연결 사용 가능. 조이콘 분리 시에는 전면 케이스를 먼저 분리 필요.",
+  "cautions": [
+    "본 제품은 닌텐도 스위치2 전용으로, 스위치2 이외의 기기(OLED 모델, 1세대 스위치, 스위치 라이트 등)에는 사용 불가",
+    "조이콘을 본체에서 분리하려면 전면 케이스를 먼저 분리해야 함",
+    "투명 소재 특성상 장기간 자외선에 직접 노출될 경우 미세한 황변 가능성 있음",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처의 제품은 A/S 불가",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "당일출고는 오후 4시 이전 결제완료 기준, 토·일·공휴일 제외 평일에 한함",
+    "택배사 사정에 따라 배송기간이 길어질 수 있음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-NT2-CC",
+      "품목코드": "USB-응용제205",
+      "품목명": "닌텐도 스위치2 본체+조이콘 일체형 보호 클리어 케이스 DOBE [100개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-NT2-CC",
+      "내용": "전체를 보호하지는 않아도 휴대용으로 괜찮아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "클리어(투명)"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "mount_interface": "Freeform",
+      "weight_capacity_kg": null,
+      "tilt": null,
+      "swivel": null,
+      "height_adjustable": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "크리스탈 보호 케이스",
+    "form_physical.material": "투명 PC(폴리카보네이트) 소재",
+    "form_physical.color_options": "클리어(투명)",
+    "family.mount_interface": "킥스탠드 간섭 없는 설계",
+    "family.tilt": "킥스탠드 간섭 없는 설계"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:08",
+  "feature_schema_version": "1.0.0"
+}

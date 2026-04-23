@@ -1,0 +1,106 @@
+{
+  "model_no": "LS-RTH-2030BK",
+  "product_name": "매직테이프 링벨트 (MAGIC TAPE Ring Belt)",
+  "category": [
+    "케이블정리"
+  ],
+  "key_features": [
+    "링벨트(Ring Belt) 방식의 매직테이프로 케이블 정리나 각종 선을 묶을 때 사용 가능",
+    "크기가 큰 제품을 고정할 때 유용",
+    "복잡한 케이블을 간단하게 정리",
+    "각종 케이블을 꼬임 없이 보관 가능",
+    "탈부착 재질이라 여러 번 반복 사용 가능",
+    "링벨트 여러 개를 연결하면 길이 연장 가능하여 크거나 두꺼운 것도 묶을 수 있음"
+  ],
+  "specifications": {
+    "너비": "20mm",
+    "길이": "30cm",
+    "색상": "BLACK",
+    "원산지": "대만 (Taiwan)",
+    "제조사": "라인업시스템(주)",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008",
+    "보험": "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  },
+  "compatibility": [],
+  "package_contents": [
+    "매직테이프 링벨트 5pcs"
+  ],
+  "usage_instructions": "케이블이나 각종 선에 링벨트를 감아 묶어 정리한다. 여러 개를 연결하면 길이가 연장되어 크거나 두꺼운 것도 묶을 수 있다. 탈부착이 가능하여 반복 사용할 수 있다.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-RTH-2030BK",
+      "품목코드": "COM-악세사146",
+      "품목명": "[LANstar] 매직테이프 링벨트 20mm x 30Cm 검정 5pcs(대만산) [60060][250개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-RTH-2030BK",
+      "내용": "선정리 편하게 할수 있겠습니다"
+    },
+    {
+      "source_model": "LS-RTH-2030BK",
+      "내용": "goods goods"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 0.3,
+      "length_options_meters": null,
+      "color_options": [
+        "BLACK"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.length_meters": "길이: 30cm",
+    "form_physical.color_options": "색상: BLACK",
+    "certification.rohs": "RoHS COMPLIANT",
+    "certification.iso9001": "ISO 9001:2008"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:57",
+  "feature_schema_version": "1.0.0"
+}

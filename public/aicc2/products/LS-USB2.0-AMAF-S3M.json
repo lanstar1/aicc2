@@ -1,0 +1,91 @@
+{
+  "model_no": "LS-USB2.0-AMAF-S3M",
+  "product_name": "[LANstar] USB2.0 판넬형 연장케이블 AM-AF Screw 나사고정 3M [10562] (100개)",
+  "category": [
+    "USB케이블",
+    "USB2.0",
+    "익스텐더",
+    "분배판넬"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-USB2.0-AMAF-S3M",
+      "품목코드": "CAB-U연장030",
+      "품목명": "[LANstar] USB2.0 판넬형 연장케이블 AM-AF Screw 나사고정 3M [10562] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-USB2.0-AMAF-S3M",
+      "내용": "싸게 잘 쌌음 인식도 좋음"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 3,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB2.0 판넬형 연장케이블 AM-AF",
+    "connectivity.output_signals": "USB2.0 판넬형 연장케이블 AM-AF",
+    "connectivity.directional": "연장케이블",
+    "form_physical.length_meters": "3M",
+    "family.usb_version": "USB2.0",
+    "family.transfer_speed_gbps": "USB2.0"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:31",
+  "feature_schema_version": "1.0.0"
+}

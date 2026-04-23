@@ -1,0 +1,137 @@
+{
+  "model_no": "LSP-EC-LC",
+  "product_name": "LC 키스톤 커플러 (LC/F-LC/F, White Color)",
+  "category": [
+    "광케이블",
+    "키스톤잭",
+    "커플러",
+    "분배판넬",
+    "멀티탭",
+    "서버랙",
+    "허브랙",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "LC 광케이블 연장용 키스톤 커플러 (F/F 타입)",
+    "벽면 부착형 Wall Plate 및 Outlet 백박스에 장착 가능",
+    "허브랙·서버랙 전용 마운트 판넬에 장착 가능",
+    "매립형 및 랙 마운트형 양용 사용 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 타입": "LC/F - LC/F",
+    "색상": "White (흰색)",
+    "치수 (단위 mm)": "14.7 x 34.8 x 16.2 (참고: 1.7, 8, 20 부분 치수 포함)",
+    "제조국/원산지": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANstar plus",
+    "인증번호": "해당없음",
+    "품질보증": "공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  },
+  "compatibility": [
+    "벽면 부착형 Wall Plate (LS-WP23 시리즈 등)",
+    "Outlet 백박스",
+    "허브랙 전용 마운트 판넬",
+    "서버랙 전용 마운트 판넬",
+    "표준랙 마운트 판넬 (LS-PLKP 시리즈 등)"
+  ],
+  "package_contents": [
+    "LC 키스톤 커플러 (LSP-EC-LC) 본체 1개"
+  ],
+  "usage_instructions": "벽면 플레이트(Wall Plate) 또는 Outlet 백박스에 결합하여 매립형으로 사용하거나, 허브랙·서버랙 마운트 판넬에 장착하여 LC 광케이블을 연장·연결하는 용도로 사용합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-EC-LC",
+      "품목코드": "GEN-USB112",
+      "품목명": "[◆Lanstar-Plus] LC 키스톤 커플러 ,LC/F to LC/F , White[20314]",
+      "variant_suffix": "",
+      "source": "excel"
+    },
+    {
+      "model_no": "LSP-EC-LC",
+      "품목코드": "GEN-USB162",
+      "품목명": "광 포트 키스톤 가이드 [LSP-EC-LC 호환]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-EC-LC",
+      "내용": "배송도 빠르고 상품도 잘 받았습니다. 아울렛에 잘 장착 됩니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Optical"
+      ],
+      "output_signals": [
+        "Optical"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "White"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": null,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "LC 광케이블 연장용 키스톤 커플러",
+    "connectivity.output_signals": "LC 광케이블 연장용 키스톤 커플러",
+    "connectivity.directional": "LC 광케이블 연장용 키스톤 커플러",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "LC 키스톤 커플러",
+    "form_physical.material": "플라스틱",
+    "form_physical.color_options": "White (흰색)"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:33",
+  "feature_schema_version": "1.0.0"
+}

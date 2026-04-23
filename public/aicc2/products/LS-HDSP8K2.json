@@ -1,0 +1,162 @@
+{
+  "model_no": "LS-HDSP8K2",
+  "product_name": "LAN Star HDMI 2.1 1:2 분배기 (8K HDMI Splitter 1x2)",
+  "category": [
+    "HDMI분배기",
+    "UTP포트"
+  ],
+  "key_features": [
+    "HDMI 2.1 규격 / 입력 1포트, 출력 2포트",
+    "8K@60Hz / 4K@120Hz / 1080P@240Hz 해상도 지원",
+    "Dynamic HDR 지원 (Dolby Vision, HDR10+ 등)",
+    "다운스케일 기능 지원 (디스플레이별 최대 해상도 자동 출력)",
+    "HDMI CEC 기능 지원 (OUTPUT1 포트에서만 지원)",
+    "손쉬운 EDID 세팅 (해상도, 오디오 채널 설정)",
+    "3D 비디오 포맷 지원",
+    "고음질 오디오 포맷 지원 (ARC, Dolby Atmos, DTS-X 등)",
+    "VRR, ALLM, QFT, QMS 등 HDMI 2.1 기능 지원",
+    "DSC (Display Stream Compression) 지원",
+    "HDCP 지원",
+    "21:9 와이드 화면비 지원",
+    "크로마 서브샘플링 4:4:4, 4:2:2, 4:2:0 지원",
+    "Plug & Play 방식 (드라이버/프로그램 불필요)",
+    "KC 인증 획득 (인증번호: R-R-LUS-LS-HDSP8K2)",
+    "48Gbps 대역폭 (HDMI 2.1)"
+  ],
+  "specifications": {
+    "입력 포트": "HDMI 1포트, 전원 1포트, RS232 포트",
+    "출력 포트": "HDMI 2포트",
+    "최대 해상도": "8K@60Hz / 4K@120Hz",
+    "비디오 포맷": "8/10/12 bit Deep Color",
+    "오디오 포맷": "DTS-HD, Dolby TrueHD, DTS, DSD 등",
+    "최대 케이블 길이": "최대 5m (HDMI 2.1 표준 케이블 기준, 입·출력 동일)",
+    "전원": "DC 5V 2A",
+    "크기": "154 x 60 x 24 (mm)",
+    "무게": "약 335g",
+    "KC 인증번호": "R-R-LUS-LS-HDSP8K2",
+    "아답터 인증번호": "HU10999-18001A",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "대역폭": "48Gbps"
+  },
+  "compatibility": [
+    "HDMI 2.1 규격 기기",
+    "HDMI 2.0 규격 기기 (하위 호환)",
+    "HDMI 1.4 규격 기기 (하위 호환)",
+    "8K 디스플레이",
+    "4K 디스플레이",
+    "1080P 디스플레이",
+    "PS5, Xbox Series X 등 게임 콘솔",
+    "고사양 PC",
+    "캡처보드",
+    "셋톱박스",
+    "미디어플레이어",
+    "Dolby Vision / HDR10+ 지원 디스플레이",
+    "VRR / ALLM / QFT 지원 디스플레이",
+    "CEC 지원 TV (OUTPUT1 포트 한정)"
+  ],
+  "package_contents": [
+    "HDMI 2.1 1:2 분배기 본체 1개",
+    "DC 5V 2A 전원 아답터 1개",
+    "매뉴얼 1개"
+  ],
+  "usage_instructions": "1. 입력 장치(PC, 콘솔 등)를 INPUT 포트에 HDMI 케이블로 연결한다. 2. 출력 디스플레이를 OUTPUT1, OUTPUT2 포트에 각각 연결한다. 3. DC 5V 2A 아답터를 DC/5V 포트에 연결하여 전원을 공급한다. 4. Plug & Play 방식으로 드라이버 설치 없이 자동 인식된다. 5. EDID 설정 스위치를 조작하여 해상도 및 오디오 채널을 변경할 수 있다(X000~X111 포지션). 6. CEC 기능은 OUTPUT1 포트에서만 사용 가능하다. 7. 출력 포트 1개만 연결해도 정상 작동하며, 이 경우 OUTPUT1 포트 사용을 권장한다. 8. HDMI 케이블 길이는 입·출력 모두 5m 이내 사용을 권장한다.",
+  "cautions": [
+    "HDMI 케이블 길이는 입·출력 모두 5m 이내 사용을 권장하며, 5m 초과 시 노이즈 및 신호 감소 현상이 발생할 수 있다.",
+    "CEC 기능은 OUTPUT1 포트에서만 지원되며, OUTPUT2에서는 사용 불가하다.",
+    "8K 해상도 사용 시 HDMI 2.1 케이블 사용을 권장한다.",
+    "EDID 설정에 따라 출력 해상도가 고정되며, 낮은 해상도 디스플레이가 고해상도 신호를 지원하지 않으면 영상이 출력되지 않을 수 있다.",
+    "IR 기능은 지원하지 않는다 (2/4포트 분배기는 IR 미지원, 8포트 분배기만 지원).",
+    "당일 출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외 평일 기준이다.",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처의 제품은 A/S를 받을 수 없다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있다.",
+    "HDCP를 지원하는 케이블 및 연결 장비를 사용해야 저작권 보호 콘텐츠가 정상 출력된다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDSP8K2",
+      "품목코드": "INT-HDS341",
+      "품목명": "[LANstar] HDMI2.1 8K스플리터, 2포트 모니터 분배기 [30943]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDSP8K2",
+      "내용": "빠른배송 감사합니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "8K@60",
+      "hdr_support": true,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "input_count": 1,
+      "output_count": 2,
+      "mode": [
+        "분배"
+      ],
+      "cascade_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 1포트",
+    "connectivity.output_signals": "HDMI 2포트",
+    "connectivity.directional": "입력 1포트, 출력 2포트",
+    "connectivity.port_count": "HDMI 1포트, 출력 2포트",
+    "power.power_mode": "DC 5V 2A 아답터를 DC/5V 포트에 연결",
+    "form_physical.has_case": "크기: 154 x 60 x 24 (mm)",
+    "certification.kc": "KC 인증 획득",
+    "audio_video.max_resolution": "8K@60Hz / 4K@120Hz",
+    "audio_video.hdr_support": "Dynamic HDR 지원",
+    "audio_video.hdcp_version": "HDCP 지원",
+    "audio_video.audio_pass": "고음질 오디오 포맷 지원 (ARC, Dolby Atmos, DTS-X 등)",
+    "family.input_count": "입력 1포트",
+    "family.output_count": "출력 2포트",
+    "family.mode": "1:2 분배기"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:35",
+  "feature_schema_version": "1.0.0"
+}

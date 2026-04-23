@@ -1,0 +1,838 @@
+{
+  "model_no": "LS-UH319D",
+  "product_name": "USB3.0 to HDMI 듀얼 포트 컨버터 (USB 3.0 to HDMI Dual Display Adapter)",
+  "category": [
+    "USB3.0",
+    "컨버터",
+    "젠더"
+  ],
+  "key_features": [
+    "USB3.0 A타입 및 C타입(USB A to C 젠더 포함) 입력 지원",
+    "HDMI 듀얼 포트 출력 (포트1: 1080P@60Hz / 포트2: 4K@30Hz)",
+    "화면 복제(Mirror Mode) 및 화면 확장(Extend Mode) 지원",
+    "Display Alternate Mode 미지원 구형 기기에서도 화면 확장·복제 사용 가능",
+    "USB 4, 썬더볼트 3/4 사용 가능",
+    "다중 멀티 화면 지원 (Windows: 최대 8대 / Mac: 최대 6대)",
+    "영상 및 음성 신호 동시 전송",
+    "Windows 7/8/10/11, macOS 10.10 이상, Android 7.1 이상 호환",
+    "드라이버 수동 설치 필요 (SiliconMotion SM76x 드라이버)",
+    "KC 인증 획득 (인증번호: R-R-LUS-LS-UH319D)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "입력": "USB-A / USB-C (USB A to C 젠더)",
+    "출력": "HDMI 2포트",
+    "USB 규격": "USB 3.0 (USB 3.1 Gen 1)",
+    "해상도_포트1_1080P": "1080P@60Hz",
+    "해상도_포트2_4K": "4K@30Hz",
+    "지원_해상도_1080P포트_Windows": "1920x1080@60Hz, 1680x1050@60Hz, 1600x1200@60Hz, 1600x900@60Hz, 1440x1050@60Hz, 1440x900@60Hz, 1280x1024@60Hz, 1280x800@60Hz, 1280x720@60Hz, 1152x864@60Hz, 1024x768@60Hz, 800x600@60Hz, 720x480@60Hz, 640x480@60Hz",
+    "지원_해상도_4K포트_Windows": "3840x2160@30Hz, 2560x1440@60Hz, 1920x1080@60Hz, 1680x1050@60Hz, 1600x1200@60Hz, 1600x900@60Hz, 1440x1050@60Hz, 1440x900@60Hz, 1280x1024@60Hz, 1280x800@60Hz, 1280x720@60Hz, 1152x864@60Hz, 1024x768@60Hz, 800x600@60Hz, 720x480@60Hz, 640x480@60Hz",
+    "지원_해상도_1080P포트_macOS": "1920x1080@60Hz, 1920x1080@30Hz, 1600x900@60Hz, 1280x720@60Hz",
+    "지원_해상도_4K포트_macOS": "3840x2160@30Hz, 2560x1440@60Hz, 1920x1080@60Hz, 1920x1080@30Hz, 1600x900@60Hz, 1280x720@60Hz",
+    "디스플레이모드_Windows_Mirror": "1080P 포트: 1920x1080@60Hz / 4K 포트: 1920x1080@60Hz",
+    "디스플레이모드_Windows_Extend": "1080P 포트: 1920x1080@60Hz / 4K 포트: 3840x2160@30Hz",
+    "디스플레이모드_macOS_Mirror": "1080P 포트: 1920x1080@60Hz / 4K 포트: 3840x2160@30Hz",
+    "디스플레이모드_macOS_Extend": "1080P 포트: 1920x1080@60Hz / 4K 포트: 3840x2160@30Hz",
+    "동작온도": "0°C ~ 60°C",
+    "크기": "101 x 53 x 11 (mm)",
+    "케이블길이": "약 15cm",
+    "무게": "약 160g",
+    "재질": "ABS",
+    "제조국": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)",
+    "KC인증번호": "R-R-LUS-LS-UH319D"
+  },
+  "compatibility": [
+    "Windows 7 / 8 / 8.1 / 10 / 11",
+    "macOS 10.10 이상 (Big Sur, Monterey, Ventura 포함, M1/M2 및 Intel MacBook Air/Pro 포함)",
+    "Android 7.1 이상 (전용 앱 설치 시, 미러링 모드만 지원)",
+    "USB 3.0 A타입 입력기기 (데스크탑 PC 등)",
+    "USB-C 입력기기 (노트북, MacBook 등, USB A to C 젠더 사용)",
+    "USB 4 / 썬더볼트 3 / 썬더볼트 4 포트 기기",
+    "Display Alternate Mode 미지원 구형 기기",
+    "1080P FHD 디스플레이 (HDMI)",
+    "4K 디스플레이 (HDMI)"
+  ],
+  "package_contents": [
+    "USB 3.0 to HDMI Dual Display Adapter 본체 (LS-UH319D)",
+    "USB A to C 변환 젠더"
+  ],
+  "usage_instructions": "1. 제품의 USB 입력단을 PC 또는 노트북의 USB 3.0 포트(또는 USB A to C 젠더를 통해 USB-C 포트)에 연결한다. 입력/출력 방향성이 있으므로 반드시 확인 후 연결할 것.\n2. HDMI 출력 포트①(1080P@60Hz)과 포트②(4K@30Hz)에 각각 디스플레이를 HDMI 케이블로 연결한다.\n3. SiliconMotion 드라이버를 반드시 수동으로 설치해야 한다. 드라이버 다운로드 URL: https://www.siliconmotion.com/downloads/index.html\n   - Windows: SM76x Windows 드라이버 (V2.14 R01) 다운로드 후 설치파일 실행, 압축 해제 후 O.S(ARM64 또는 x86) 맞는 파일 선택하여 설치 진행. 장치 관리자 > 디스플레이 어댑터 > 'SMI USB Display' 항목으로 설치 확인.\n   - macOS: InstantView 앱(V3.14 R04, macOS 10.15 이상) 또는 Legacy 드라이버(V2.2.16.0: macOS 10.13~10.15 / V2.1.4.0201: macOS 10.10~10.12) 설치.\n   - Android: Google Play에서 전용 앱 설치 (Android 7.1 이상).\n4. [Windows 디스플레이 설정] 바탕화면 마우스 우클릭 > 디스플레이 설정 > '디스플레이 복제' 또는 '디스플레이 확장' 선택. 디스플레이 선택 및 위치 재배열 가능.\n5. [Mac 디스플레이 설정] 바탕화면 마우스 우클릭 > 시스템 설정 > Displays 항목 선택 > 디스플레이 모드 및 해상도 설정.",
+  "cautions": [
+    "입력/출력 방향성이 있는 제품이므로 입/출력 방향을 확인 후 연결할 것.",
+    "드라이버는 반드시 수동으로 설치해야 하며, 사용자 OS에 맞는 드라이버를 다운로드하여 설치할 것.",
+    "Android에서는 전용 앱 설치 시 미러링(화면 복제) 모드만 지원되며, 화면 확장은 지원하지 않음.",
+    "USB 2.0 포트 연결 시 1920x1080 해상도까지 지원되나, 최대 해상도의 안정적 사용을 위해 USB 3.0 포트 연결을 권장.",
+    "USB 연결 끊김 현상 발생 시: 제어판 > 전원 옵션 > 고성능 > 설정 변경 > 고급 전원관리 옵션 설정 변경 > USB 설정 > USB 선택적 절전 모드 설정 > '사용 안함'으로 변경.",
+    "USB 연결 끊김 현상이 절전 모드 해제 후에도 지속될 경우 랜스타 네이버 톡톡으로 문의.",
+    "모바일·태블릿에서 화면 확장이 필요한 경우 별도의 모바일 미러링 전용 제품 구매 권장.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처 제품은 정품이 아니므로 A/S 불가.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음.",
+    "당일출고는 오후 4시 이전 결제 완료 건 기준이며, 토·일·공휴일 제외 평일에 한함. 택배사 사정에 따라 배송기간이 길어질 수 있음."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UH319D",
+      "품목코드": "COM-외장형690",
+      "품목명": "[LANstar] USB3.0 A/C 듀얼 HDMI 영상 컨버터 [30804] (50개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-UH319D",
+      "chatUrl": "1tK8F",
+      "dateIso": "2025-03-06T02:38:55.263Z",
+      "name": "루씨",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "제품의 드라이버가 동작을 안하고 있네요~",
+      "answer": "네. 고객님. 주문 내역에서 교환 요청 부탁드립니다.\n\n어떤 부분에서 불량으로 느끼셨을까요?",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네~"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n주문 내역에서 교환 요청 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "제품의 드라이버가 동작을 안하고 있네요~"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n어떤 부분에서 불량으로 느끼셨을까요?"
+        },
+        {
+          "role": "customer",
+          "text": "성함 / 정노라\n연락처 / 010-8127-7672\n구매처(사이트) / 네이버스토어\n구매날짜 / 3월3일\n구매한 모델명 (LS-UH319D)\n\n제품이 불량인것 같습니다.\n교환 부탁"
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-UH319D",
+      "chatUrl": "bVK1d",
+      "dateIso": "2025-03-04T01:48:29.781Z",
+      "name": "csko",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "none",
+      "question": "현재 상황에서 앞서 말씀주신 LS-UH319D, LS-UH319D4K 제품을 시도해보는 것이 의미 있을까요? 그렇다면 현 제품을 해당 제품으로 교환해서 시도해보고 싶은데 만약 의미\n(추가 문의) 안녕하세요, DP Alt mode는 제조사에 지원 가능 확인하였고 인텔 Arc 내장 그래픽이 설치되어 있습니다.\n(추가 문의) 안녕하세요, 갤럭시 s연결해본 결과 작동을 하는 것 같아서 제품의 이상 문제는 아닌 것 같습니다.\n(추가 문의) 네 그렇다면 반품 안내 부탁드리겠습니다. 감사합니다.",
+      "answer": "LS-UH319D , LS-UH319D4K 제품 안내드립니다. UC202의 경우 DP ALT모드가 노트북에 지원이 되는지 여부 확인이 필요하며, 내장 그래픽 드라이버가 설치되어 있는지도 확인이 필요합니다.\n\n말씀해주신 내용으로 보아 제품 호환성 문제일 가능성이 보입니다. 제품 불량이 아닌 호환성의 문제라면 제품 교환 해드려도 안될 가능성이 있어 갤럭시S시리즈 또는 아이폰 15이상의 스마트폰을 가지고 계신다면 스마트폰에 연결하여 제품 이\n\n고객님. 다른 제품으로 교환은 어려워 해당 제품 반품 후 안내드린 LS-UH319D, LS-UH319D4K 구매 추천드립니다.",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "안녕하세요, 반품비 입금 하였습니다."
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n반품 접수 도와드리겠습니다.\n원활하게 수거될 수 있도록 준비 부탁드리며, 아래 계좌로 반품 배송비 6,000원 입금 후 말씀 부탁드립니다.\n국민은행 066401-01-000150 라인업시스템(주)"
+        },
+        {
+          "role": "customer",
+          "text": "네 그렇다면 반품 안내 부탁드리겠습니다. 감사합니다."
+        },
+        {
+          "role": "agent",
+          "text": "고객님.\n\n다른 제품으로 교환은 어려워 해당 제품 반품 후 안내드린 LS-UH319D, LS-UH319D4K 구매 추천드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "현재 상황에서 앞서 말씀주신 LS-UH319D, LS-UH319D4K 제품을 시도해보는 것이 의미 있을까요? 그렇다면 현 제품을 해당 제품으로 교환해서 시도해보고 싶은데 만약 의미"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 말씀 주신 부분 확인하였습니다.\n해당 건 어떻게 처리 도와드릴까요?"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요, 갤럭시 s연결해본 결과 작동을 하는 것 같아서 제품의 이상 문제는 아닌 것 같습니다."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n말씀해주신 내용으로 보아 제품 호환성 문제일 가능성이 보입니다.\n제품 불량이 아닌 호환성의 문제라면 제품 교환 해드려도 안될 가능성이 있어 갤럭시S시리즈 또는 아이폰 15이상의 스마트폰을 가지고 계신다면 스마트폰에 연결하여 제품 이"
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요, DP Alt mode는 제조사에 지원 가능 확인하였고 인텔 Arc 내장 그래픽이 설치되어 있습니다."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\nLS-UH319D , LS-UH319D4K 제품 안내드립니다.\nUC202의 경우 DP ALT모드가 노트북에 지원이 되는지 여부 확인이 필요하며, 내장 그래픽 드라이버가 설치되어 있는지도 확인이 필요합니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-UH319D",
+      "chatUrl": "1eT7i",
+      "dateIso": "2025-02-04T04:54:08.454Z",
+      "name": "쵸니",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "듀얼컨버터 사용중인데요 usb에서 C타입으로변경해주는 커넥터가 망가졌는데 일반 쇼핑몰에서 판매하는 USB->C타입 커넥터 사용해도 되나요?",
+      "answer": "자사의 경우 랜스타 스마트스토어와 거래처 문의 상담 공간이 다릅니다. 거래처 문의의 경우 아래 전달 드린 링크에서 다시 진행 부탁드립니다.\n\ntalk.naver.com/W4QWIB",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "듀얼컨버터 사용중인데요 usb에서 C타입으로변경해주는 커넥터가 망가졌는데 일반 쇼핑몰에서 판매하는 USB->C타입 커넥터 사용해도 되나요?"
+        },
+        {
+          "role": "agent",
+          "text": "정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드..."
+        },
+        {
+          "role": "customer",
+          "text": "판매자 문의"
+        },
+        {
+          "role": "agent",
+          "text": "talk.naver.com/W4QWIB"
+        },
+        {
+          "role": "customer",
+          "text": "처음으로"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n자사의 경우 랜스타 스마트스토어와 거래처 문의 상담 공간이 다릅니다.\n거래처 문의의 경우 아래 전달 드린 링크에서 다시 진행 부탁드립니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-UH319D",
+      "chatUrl": "3Ioot",
+      "dateIso": "2025-01-09T02:11:56.200Z",
+      "name": "Kyungwon Kim",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "none",
+      "question": "네, 제품 내 동봉된 user manual 참고하여 siliconmotion.com 방문, 운영체제에 맞는 window download 하였습니다.\n(추가 문의) 답변이 늦었습니다. \n\n다른 PC에 연결하였을 때도 smi usb display 항목이 나오지 않습니다.",
+      "answer": "네. 고객님. siliconMotion 사이트에서 올바른 드라이버를 설치해주셨을까요? 확인 부탁드립니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "네, 제품 내 동봉된 user manual 참고하여 siliconmotion.com 방문, 운영체제에 맞는 window download 하였습니다."
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\nsiliconMotion 사이트에서 올바른 드라이버를 설치해주셨을까요? 확인 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "답변이 늦었습니다. \n\n다른 PC에 연결하였을 때도 smi usb display 항목이 나오지 않습니다."
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-UH319D",
+      "chatUrl": "2hqZC",
+      "dateIso": "2024-10-14T05:56:48.399Z",
+      "name": "jeon****",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "배송확인하면서 상세 설명 다시 읽어봤는데 안드로이드는 지원이 안되는건가요??\n학습용 태블릿에 사용하려고 하려고했는데\n드라이버 다운받으려보니 윈도우와 맥만 써있네요 ㅠㅠ\n(추가 문의) 미러링해서 쓰려고 하는데\n미라캐스트는 끊김현상이 있을까봐 \n우선 유선으로 알아보고 있는중이였어요\n(추가 문의) 안드로이드용이 아니라 사용할수 없겠네요\n취소 신청하고 동글이 주문했습니다\n취소 처리 부탁드려요\n(추가 문의) 이제품 드라이버랑은 호환이 안되는거죠?",
+      "answer": "주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!\n\n네. 고객님. 취소 처리 도와드렸습니다.",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "안드로이드용이 아니라 사용할수 없겠네요\n취소 신청하고 동글이 주문했습니다\n취소 처리 부탁드려요"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "이제품 드라이버랑은 호환이 안되는거죠?"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        },
+        {
+          "role": "customer",
+          "text": "미러링해서 쓰려고 하는데\n미라캐스트는 끊김현상이 있을까봐 \n우선 유선으로 알아보고 있는중이였어요"
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        },
+        {
+          "role": "customer",
+          "text": "배송확인하면서 상세 설명 다시 읽어봤는데 안드로이드는 지원이 안되는건가요??\n학습용 태블릿에 사용하려고 하려고했는데\n드라이버 다운받으려보니 윈도우와 맥만 써있네요 ㅠㅠ"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님.\n\n취소 처리 도와드렸습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-UH319D",
+      "chatUrl": "bAJkQ",
+      "dateIso": "2024-07-23T07:06:14.699Z",
+      "name": "지현",
+      "isTechnical": true,
+      "category": "shipping",
+      "modelConfidence": "high",
+      "question": "그 무슨 DA,,? 무슨 기능을 지원하는지 안하는지 몰라서 이제품은 기능 지원 여부 상관없다길래 샀거든용\n(추가 문의) 이제품 연결하고 드라이버만 설치해주면 디스플ㄹ레이 1번2번3번 나누어 사용가능한게 맞을까영?",
+      "answer": "네 고객님, 노트북에 제품 연결해주시고 모니터에 케이블 연결하여 사용해주시면 트리플 화면으로 사용 가능합니다.",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "이제품 연결하고 드라이버만 설치해주면 디스플ㄹ레이 1번2번3번 나누어 사용가능한게 맞을까영?"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 노트북에 제품 연결해주시고 모니터에 케이블 연결하여 사용해주시면 트리플 화면으로 사용 가능합니다."
+        },
+        {
+          "role": "customer",
+          "text": "그 무슨 DA,,? 무슨 기능을 지원하는지 안하는지 몰라서 이제품은 기능 지원 여부 상관없다길래 샀거든용"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. 빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-UH319D",
+      "chatUrl": "DZuh",
+      "dateIso": "2024-07-12T05:03:39.974Z",
+      "name": "zxxa****",
+      "isTechnical": true,
+      "category": "refund",
+      "modelConfidence": "high",
+      "question": "해결된거 같습니다. 제가 하나씩 덜 꽂았습니다. 죄송합니다.",
+      "answer": "네 고객님, 진행 후 말씀 부탁드립니다. 만약 정상적으로 이용 불가하실 경우 이미지와 함께 전달 주시면 확인 후 안내 도와드리겠습니다.",
+      "turn_count": 1,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "해결된거 같습니다. 제가 하나씩 덜 꽂았습니다. 죄송합니다."
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 진행 후 말씀 부탁드립니다.\n만약 정상적으로 이용 불가하실 경우 이미지와 함께 전달 주시면 확인 후 안내 도와드리겠습니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-UH319D",
+      "chatUrl": "dRzk0",
+      "dateIso": "2024-05-07T00:58:22.024Z",
+      "name": "하나 josa83",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "파일을 깔았는데 트리플은 인식이 안되는데 .따로 또 설치 해야 하는게있나요 ?\n(추가 문의) ㅠㅠ 네 확인 되시면 .. 연락 좀 주세요 ... 트리플은 안되네요\n(추가 문의) 디스플레이 검색해보니 3번째 화면 인식이 안되는 상황입니다",
+      "answer": "네. 고객님 해당 사항 기술팀에 문의 중입니다. 답변까지 시간이 소요될 수 있는 점 양해 부탁드립니다.",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "ㅠㅠ 네 확인 되시면 .. 연락 좀 주세요 ... 트리플은 안되네요"
+        },
+        {
+          "role": "agent",
+          "text": "네. 고객님 해당 사항 기술팀에 문의 중입니다.\n답변까지 시간이 소요될 수 있는 점 양해 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "디스플레이 검색해보니 3번째 화면 인식이 안되는 상황입니다"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "파일을 깔았는데 트리플은 인식이 안되는데 .따로 또 설치 해야 하는게있나요 ?"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-UH319D",
+      "chatUrl": "3UnfJ",
+      "dateIso": "2024-04-09T06:12:58.769Z",
+      "name": "dkdk****",
+      "isTechnical": true,
+      "category": "shipping",
+      "modelConfidence": "high",
+      "question": "네 입금했습니다.",
+      "answer": "제품 수거 확인되어 제품 금액 + 배송비 49,000원 아래 계좌로 입금해주시면 반품 도와드리겠습니다. 국민은행 066401-01-000150 라인업시스템(주)\n\n네 고객님, 저희가 수거 이후에 안내 드리겠습니다. 별도 수거 접수 진행하겠습니다. 제품 수령하셨던 곳에 잘 수거될 수 있도록 준비 부탁드립니다.",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 입금했습니다."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n제품 수거 확인되어 제품 금액 + 배송비 49,000원 아래 계좌로 입금해주시면 반품 도와드리겠습니다.\n국민은행 066401-01-000150 라인업시스템(주)"
+        },
+        {
+          "role": "customer",
+          "text": "네 감사합니다."
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 저희가 수거 이후에 안내 드리겠습니다.\n별도 수거 접수 진행하겠습니다.\n\n제품 수령하셨던 곳에 잘 수거될 수 있도록 준비 부탁드립니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-UH319D",
+      "chatUrl": "27cg5",
+      "dateIso": "2024-04-01T06:27:52.657Z",
+      "name": "꼬마사랑",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "이 제품은 해상도가 4K도 지원되는 것 같은데, 제 모니터는 최고 해상도가 1920X1080 이에요.그래도 더 선명하게 표현이 되는 건가요?\n(추가 문의) 안녕하세요?\nusb hdmi 컨버터 구매해서 듀얼 모니터에 연결했는데 메인 모니터보다 색감이 어두워서 문의드려요.\n(추가 문의) 새로 알려주신 제품으로 사도 비슷할 거라는거죠?\n그럼 그냥 지금꺼 쓰면서 사용할께요.\n(추가 문의) 문서작업을 해야 하는데 글씨도 흐릿하고 화면이 너무 어둡네요...",
+      "answer": "네 고객님, 기술 지원팀 확인 결과 LS-UH319D 제품을 구매하신다고 하더라도 화질 관련해서는 큰 차이가 없다고 합니다. 혹시 원하실 경우 제품 교환으로 진행 도와드려도 괜찮으\n\nUSB 컨버터 연결이다보니 색감 차이가 발생하는 것으로 보입니다. 다이렉트로 연결과 달리 USB 컨버터의 경우 열화현상이 발생됩니다. 사용이\n\n네 고객님, 먼저 말씀 주신 부분이 가능한지 기술지원팀 확인 후 반품 관련하여 안내 도와드리겠습니다.",
+      "turn_count": 12,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "알아봐주셔서 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 확인하였습니다.\n만족스러운 해결 방법을 제시해드리지 못해 죄송합니다.\n\n추가적으로 필요하신 부분 있으시면 언제든지 말씀 부탁드립니다.\n\n정직한 가격과 품질로 고객님을"
+        },
+        {
+          "role": "customer",
+          "text": "새로 알려주신 제품으로 사도 비슷할 거라는거죠?\n그럼 그냥 지금꺼 쓰면서 사용할께요."
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 기술 지원팀 확인 결과 LS-UH319D 제품을 구매하신다고 하더라도 화질 관련해서는 큰 차이가 없다고 합니다.\n혹시 원하실 경우 제품 교환으로 진행 도와드려도 괜찮으"
+        },
+        {
+          "role": "customer",
+          "text": "그러면 먼저 구매한 제품은 반품이나 택배비가 가능한가요?"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 먼저 말씀 주신 부분이 가능한지 기술지원팀 확인 후 반품 관련하여 안내 도와드리겠습니다."
+        },
+        {
+          "role": "customer",
+          "text": "이 제품은 해상도가 4K도 지원되는 것 같은데, 제 모니터는 최고 해상도가 1920X1080 이에요.그래도 더 선명하게 표현이 되는 건가요?"
+        },
+        {
+          "role": "agent",
+          "text": "확인 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "문서작업을 해야 하는데 글씨도 흐릿하고 화면이 너무 어둡네요..."
+        },
+        {
+          "role": "agent",
+          "text": "https://smartstore.naver.com/lineup/products/9924605523"
+        },
+        {
+          "role": "customer",
+          "text": "이 제품보다 품질이 더 나은 것은 없을까요?"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 현재 사용하시는 제품보다 보다 더 원활한 작업을 원하실 경우 아래 제품 추천 드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "답변 좀 주세요~"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\nUSB 컨버터 연결이다보니 색감 차이가 발생하는 것으로 보입니다.\n다이렉트로 연결과 달리 USB 컨버터의 경우 열화현상이 발생됩니다.\n사용이"
+        },
+        {
+          "role": "customer",
+          "text": "왼쪽이 메인이고, 오른쪽이 이번에 연결한 모니터에요."
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-UH319D",
+      "chatUrl": "OtTB",
+      "dateIso": "2024-03-29T00:10:50.051Z",
+      "name": "숏파리",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "화질이 흐려지고 화면상 깍두기라고 해야 하나 원래 노트북 <--> HDMI <--> 모니터 로 연결 했을때보다 화질이 많이 떨어집니다.\n(추가 문의) 기존과 같이 화질이 좋아 질수는 없는 건가요?\n(추가 문의) 화질이 좀 많이 떨어 집니다.",
+      "answer": "정확한 안내를 위해 아래 내용 확인 부탁드립니다. 성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)\n\n자사의 경우 랜스타 스마트스토어와 거래처 문의 상담 공간이 다릅니다. 거래처 문의의 경우 아래 전달 드린 링크에서 다시 진행 부탁드립니다.\n\ntalk.naver.com/W4QWIB",
+      "turn_count": 6,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "넵 수고 하세요"
+        },
+        {
+          "role": "agent",
+          "text": "정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁"
+        },
+        {
+          "role": "customer",
+          "text": "회사 총무 통해 구매 했습니다.\n김민철/010-4768-2326/쿠팡/240327/LS-UH319D"
+        },
+        {
+          "role": "agent",
+          "text": "talk.naver.com/W4QWIB"
+        },
+        {
+          "role": "customer",
+          "text": "기존과 같이 화질이 좋아 질수는 없는 건가요?"
+        },
+        {
+          "role": "agent",
+          "text": "자사의 경우 랜스타 스마트스토어와 거래처 문의 상담 공간이 다릅니다.\n거래처 문의의 경우 아래 전달 드린 링크에서 다시 진행 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "화질이 흐려지고 화면상 깍두기라고 해야 하나 원래 노트북 <--> HDMI <--> 모니터 로 연결 했을때보다 화질이 많이 떨어집니다."
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)"
+        },
+        {
+          "role": "customer",
+          "text": "화질이 좀 많이 떨어 집니다."
+        },
+        {
+          "role": "agent",
+          "text": "이 상품에 대해 무엇이 궁금하세요?"
+        },
+        {
+          "role": "customer",
+          "text": "구매해서 연결은 잘 되는데"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-UH319D",
+      "chatUrl": "5MMxt",
+      "dateIso": "2024-03-28T08:21:47.305Z",
+      "name": "리스펙",
+      "isTechnical": true,
+      "category": "usage",
+      "modelConfidence": "high",
+      "question": "현제 사용중인 노트북은 썬더 볼트는 없습니다. c타입 데이터만 전송가능하고 HDMI 한개가 있습니다.\n(추가 문의) 선택 사양에 모니터 갯수가 나오던데 어떤걸 구매해야 할까요?\n(추가 문의) 그러면 DP ALT MODE 지원이 안된다고 하는데\n(추가 문의) 노트북 외에 모니터 2대를 사용하려고 합니다.",
+      "answer": "네 고객님, 노트북과 모니터 2개 연결을 원하실 경우 'LS-UH319D' 제품을 구매해주시면 됩니다. 선택의 경우 추가 옵션 상품으로 본 제품만 구매해주시면 됩니다.\n\n네 고객님, DP ALT MODE 지원하면 LS-UC202 제품 구매해주시면 됩니다. 만약 지원 안하실 경우, 아래 제품 연결하시어 사용 가능하십니다.\n\nhttps://smartstore.naver.com/lineup/products/9924605523",
+      "turn_count": 12,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 알겠습니다."
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "선택 사양에 모니터 갯수가 나오던데 어떤걸 구매해야 할까요?"
+        },
+        {
+          "role": "agent",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        },
+        {
+          "role": "customer",
+          "text": "노트북 외에 모니터 2대를 사용하려고 합니다."
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        },
+        {
+          "role": "customer",
+          "text": "추천 제품 으로 사용하면 되는거네요"
+        },
+        {
+          "role": "agent",
+          "text": "[배송도착예정] 주문하신 상품이 오늘 도착예정입니다~"
+        },
+        {
+          "role": "customer",
+          "text": "그러면 DP ALT MODE 지원이 안된다고 하는데"
+        },
+        {
+          "role": "agent",
+          "text": "[배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요!"
+        },
+        {
+          "role": "customer",
+          "text": "네"
+        },
+        {
+          "role": "agent",
+          "text": "[배송시작] 주문하신 상품이 택배사에 도착하여 배송을 준비중입니다!"
+        },
+        {
+          "role": "customer",
+          "text": "이모델인에요"
+        },
+        {
+          "role": "agent",
+          "text": "[발송준비] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품을 발송했습니다. 기다려주셔서 감사합니다!"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-UH319D",
+      "chatUrl": "aA3vD",
+      "dateIso": "2024-03-27T02:46:42.692Z",
+      "name": "유예린",
+      "isTechnical": true,
+      "category": "install",
+      "modelConfidence": "high",
+      "question": "모니터가 2개가있는데\n컴퓨터연결해서 듀얼모니터로 쓰기도하고\n노트북연결해서 듀얼모니터로 쓰기도합니다 (노트북화면은 안봄)\n그런데 선 뺏다꼽았다하는게 너무 힘들어서\n(추가 문의) 주문전 문의드릴때 말씀드린것처럼 노트북화면은 보지않고 외부 모니터2개를 듀얼 모니터로 사용할꺼라서 노트북을덮어놓으면\n(추가 문의) 컴퓨터 본체가 아직안와서 데스크탑은 확인못해봤지만 노트북이랑 모니터 2개 연결했을때 화면하나는 뜨지않습니다....\n(추가 문의) 아... 이거 뭔지 몰라서 안꼽았던건데 확인해보겠습니다 감사합니다!",
+      "answer": "LS-HD2KVM-D 듀얼 제품 사용 하시면 말씀해주신 것처럼 사용가능합니다. 아래에 LS-HD2KVM-D 제품 링크 보내드립니다. 정직한\n\n네, 고객님. 상세페이지에 나와 있는 것 처럼 제품 연결해주시면 됩니다. 1. HDMI IN 1 : 노트북 2. HDMI IN 2 : PC 이렇게 연결하여 제품 사용하시면 됩니다.\n\nPC와 제품 후면부에 USB 케이블 연결해주셨을까요? USB A-B 타입 PC와 제품 후면부에 연결해 주셔야 USB 장치 인식이 가능하여 US",
+      "turn_count": 56,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "아... 이거 뭔지 몰라서 안꼽았던건데 확인해보겠습니다 감사합니다!"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님 연결해주신 뒤에 말씀 부탁드립니다.\n정상적인 사용을 위해 상세페이지 내용을 잘 참고 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "이 선 말씀하시는게 맞을까요??"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\nPC와 제품 후면부에 USB 케이블 연결해주셨을까요?\nUSB A-B 타입 PC와 제품 후면부에 연결해 주셔야 USB 장치 인식이 가능하여 US"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "네, 고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중"
+        },
+        {
+          "role": "customer",
+          "text": "잘 작동되서 마우스랑 키보드 문제는 아닌것같습니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 키보드, 마우스, 위쪽 포트까지 스위치 되어 사용 가능하시다는 점 안내 드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "컴퓨터에바로꽂으면"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 해당 연결 이후에도 지속적 사용이 어려우실 경우 언제든지 편하게 말씀 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "여기꼽았던 usb그대로 컴퓨터에꽂아봤는데"
+        },
+        {
+          "role": "agent",
+          "text": "https://smartstore.naver.com/lineup/products/9924605523"
+        },
+        {
+          "role": "customer",
+          "text": "인식이안되네요..ㅜ"
+        },
+        {
+          "role": "agent",
+          "text": "아래 제품 살펴보시는 것을 추천 드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "키보드랑 마우스 usb꽂아서 사용하려니"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n현재 보내주신 이미지를 살펴보면, HDMI 케이블을 노트북에 하나만 꽂아주신 것으로 보입니다.\n2개를 모두 꽂아주셔야 듀얼 모니터로 활용하실"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-UH319D",
+      "chatUrl": "3raIp",
+      "dateIso": "2024-03-04T06:45:32.994Z",
+      "name": "Wus",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "안녕하세요. 저는 pc에 연결하고 싶은데 이 제품은 c타입이잖아요, 제가 c타입을 usb와 연결시키는 컴포터가 있는데, 그렇게 해서 usb랑 연결해서 pc본체랑 연결하면 사용 가능",
+      "answer": "https://smartstore.naver.com/lineup/products/9924605523 문의 주신 제품에서 C TO A 젠더 이용해서 사용이 불가합니다. 자사 제품 중 사용 가능한 제품 LS-UH319D 링크 알려드립니다.",
+      "turn_count": 1,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "안녕하세요. 저는 pc에 연결하고 싶은데 이 제품은 c타입이잖아요, 제가 c타입을 usb와 연결시키는 컴포터가 있는데, 그렇게 해서 usb랑 연결해서 pc본체랑 연결하면 사용 가능"
+        },
+        {
+          "role": "agent",
+          "text": "https://smartstore.naver.com/lineup/products/9924605523 안녕하세요. 고객님. 랜스타입니다.\n\n문의 주신 제품에서 C TO A 젠더 이용해서 사용이 불가합니다.\n자사 제품 중 사용 가능한 제품 LS-UH319D 링크 알려드립니다. \n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다."
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "USB-C"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB3.0 A타입 및 C타입(USB A to C 젠더 포함) 입력 지원",
+    "connectivity.output_signals": "HDMI 듀얼 포트 출력",
+    "connectivity.directional": "USB 입력단을 PC 또는 노트북의 USB 3.0 포트",
+    "connectivity.port_count": "USB-A / USB-C (USB A to C 젠더), HDMI 2포트",
+    "power.power_mode": "USB 입력단을 PC 또는 노트북의 USB 3.0 포트",
+    "power.charging_support": "USB3.0 to HDMI 듀얼 포트 컨버터",
+    "form_physical.has_case": "크기: 101 x 53 x 11 (mm)",
+    "form_physical.material": "재질: ABS",
+    "form_physical.length_meters": "케이블길이: 약 15cm",
+    "certification.kc": "KC 인증 획득 (인증번호: R-R-LUS-LS-UH319D)",
+    "audio_video.max_resolution": "포트2: 4K@30Hz",
+    "audio_video.audio_pass": "영상 및 음성 신호 동시 전송",
+    "control_switching.has_remote": "드라이버 수동 설치 필요",
+    "control_switching.has_hotkey": "드라이버 수동 설치 필요",
+    "control_switching.has_physical_button": "드라이버 수동 설치 필요",
+    "control_switching.has_mouse_switching": "드라이버 수동 설치 필요",
+    "control_switching.has_auto_scan": "드라이버 수동 설치 필요",
+    "control_switching.has_app_control": "Android: Google Play에서 전용 앱 설치",
+    "family.usb_version": "USB 3.0 (USB 3.1 Gen 1)",
+    "family.transfer_speed_gbps": "USB 3.0 (USB 3.1 Gen 1)",
+    "family.charging_only": "USB3.0 to HDMI 듀얼 포트 컨버터",
+    "family.data_only": "USB3.0 to HDMI 듀얼 포트 컨버터"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:16",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 14,
+    "category_breakdown": {
+      "troubleshoot": 3,
+      "usage": 5,
+      "shipping": 2,
+      "refund": 1,
+      "compatibility": 2,
+      "install": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

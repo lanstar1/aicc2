@@ -1,0 +1,205 @@
+{
+  "model_no": "LS-8SLIM",
+  "product_name": "LANStar CAT.8 SSTP Slim 랜 케이블 (Black)",
+  "category": [
+    "랜케이블-CAT8"
+  ],
+  "key_features": [
+    "최대 40Gbps 전송속도 지원",
+    "2000MHz 광대역폭",
+    "FLUKE TEST PASS 인증",
+    "4mm 초슬림 직경으로 공간 절약 50%",
+    "SSTP 2중차폐 구조 (알루미늄 차폐막 + 편조 쉴드)",
+    "연선(Stranded) 30AWG 구조로 유연하고 설치 용이",
+    "LSZH(Low Smoke Zero Halogen) 저연 무할로겐 피복",
+    "Bare Copper(순수 구리) 사용으로 높은 전송률",
+    "TPE 소재 난연 케이블로 화재 확산 억제",
+    "랜 커넥터 보호캡(덮개) 장착으로 파손 및 이물질 침입 방지",
+    "RoHS 규정 준수, ISO 9001:2008 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.8",
+    "차폐 구조": "SSTP (2중차폐: 알루미늄 차폐막 + 편조 쉴드)",
+    "전송속도": "40Gbps",
+    "대역폭": "2000MHz",
+    "이더넷 규격": "40GBASE-T",
+    "AWG": "30AWG",
+    "케이블 직경": "4mm",
+    "도체 구조": "연선 (Stranded)",
+    "도체 재질": "Bare Copper (순수 구리)",
+    "피복 소재": "PVC / LSZH, TPE",
+    "커넥터": "8P8C RJ45, 금도금",
+    "핀아웃": "1:WHITE/ORANGE, 2:ORANGE, 3:WHITE/GREEN, 4:BLUE, 5:WHITE/BLUE, 6:GREEN, 7:WHITE/BROWN",
+    "색상": "Black (검정)",
+    "제품 길이 라인업": "0.3m, 0.5m, 1m, 2m, 3m, 5m",
+    "제품 전체 치수(커넥터 포함)": "길이방향 +11mm(커넥터 높이), 케이블 직경 4mm, 커넥터 폭 24mm, 커넥터 높이 12.5mm",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008, TPE 소재(연)",
+    "보험": "현대해상화재보험 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "CAT.8 (40GBASE-T) 지원 네트워크 장비",
+    "CAT.7 (10GBASE-T) 지원 네트워크 장비",
+    "CAT.6A (10GBASE-T) 지원 네트워크 장비",
+    "CAT.6 (1GBASE-TX) 지원 네트워크 장비",
+    "8P8C RJ45 포트 장착 장비 (스위치, 라우터, NIC 등)",
+    "데이터 센터, 전산실 환경",
+    "공공 장소, 환기가 원활하지 않은 지역 (LSZH 적용)"
+  ],
+  "package_contents": [
+    "CAT.8 SSTP Slim 랜 케이블 (랜 커넥터 보호캡 양단 장착 포함)"
+  ],
+  "usage_instructions": "양단 8P8C RJ45 커넥터의 보호캡을 제거한 후 네트워크 장비의 RJ45 포트에 연결하여 사용. 연선 구조로 유연하여 설치가 용이하며, 슬림 케이블(4mm)로 좁은 공간에서도 다수의 케이블 배선 관리 가능.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "AWG 30은 저항이 높고 허용전류가 낮으므로 PoE 등 전력 공급 용도로는 부적합할 수 있음 (표 기준: 0.339Ω/m, 허용전류 0.147A)",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 문의: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-8SLIM-0.3MB",
+      "품목코드": "CAB-SS8011",
+      "품목명": "[LANstar] CAT.8 slim 케이블 Black, SSTP, 40G, 30AWG, 0.3m [11096] (250개)",
+      "variant_suffix": "-0.3MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-8SLIM-0.5MB",
+      "품목코드": "CAB-SS8012",
+      "품목명": "[LANstar] CAT.8 slim 케이블 Black, SSTP, 40G, 30AWG, 0.5m [11097] (250개)",
+      "variant_suffix": "-0.5MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-8SLIM-1MB",
+      "품목코드": "CAB-SS8013",
+      "품목명": "[LANstar] CAT.8 slim 케이블 Black, SSTP, 40G, 30AWG, 1m [11098] (150개)",
+      "variant_suffix": "-1MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-8SLIM-2MB",
+      "품목코드": "CAB-SS8014",
+      "품목명": "[LANstar] CAT.8 slim 케이블 Black, SSTP, 40G, 30AWG, 2m [11099] (120개)",
+      "variant_suffix": "-2MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-8SLIM-3MB",
+      "품목코드": "CAB-SS8015",
+      "품목명": "[LANstar] CAT.8 slim 케이블 Black, SSTP, 40G, 30AWG, 3m [11100] (80개)",
+      "variant_suffix": "-3MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-8SLIM-5MB",
+      "품목코드": "CAB-SS8016",
+      "품목명": "[LANstar] CAT.8 slim 케이블 Black, SSTP, 40G, 30AWG, 5m [11101] (60개)",
+      "variant_suffix": "-5MB",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-8SLIM",
+      "내용": "3m 2개 주문했는데 3m 1개. 2m 1개  잘못보냈어요  물건은 좋습니다 만."
+    },
+    {
+      "source_model": "LS-8SLIM",
+      "내용": "잘받았어요 물건 좋습니다"
+    },
+    {
+      "source_model": "LS-8SLIM",
+      "내용": "잘 왔고 잘 받았습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "PVC",
+        "TPE",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.3,
+        0.5,
+        1,
+        2,
+        3,
+        5
+      ],
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT8",
+      "shielding": "SSTP",
+      "conductor": "연선(stranded)",
+      "awg": 30,
+      "pair_count": null,
+      "flame_rating": "LSZH",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "8P8C RJ45 커넥터",
+    "connectivity.output_signals": "8P8C RJ45 커넥터",
+    "connectivity.directional": "랜 케이블",
+    "form_physical.material": "PVC / LSZH, TPE",
+    "form_physical.length_options_meters": "0.3m, 0.5m, 1m, 2m, 3m, 5m",
+    "form_physical.color_options": "Black (검정)",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 인증",
+    "family.cat_category": "CAT.8",
+    "family.shielding": "SSTP 2중차폐 구조",
+    "family.conductor": "연선(Stranded) 30AWG 구조",
+    "family.awg": "30AWG",
+    "family.flame_rating": "LSZH(Low Smoke Zero Halogen) 저연 무할로겐 피복"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:47",
+  "feature_schema_version": "1.0.0"
+}

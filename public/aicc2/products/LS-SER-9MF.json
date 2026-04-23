@@ -1,0 +1,330 @@
+{
+  "model_no": "LS-SER-9MF",
+  "product_name": "LANStar 시리얼 연장 케이블 9핀 DB9P/M-DB9P/F",
+  "category": [
+    "시리얼브라켓",
+    "시리얼카드"
+  ],
+  "key_features": [
+    "DB9P Male to DB9P Female 9핀 시리얼 연장 케이블",
+    "두 대의 컴퓨터가 별도의 모뎀 장비 없이 시리얼 포트를 이용하여 통신할 때 케이블을 연장하는 용도",
+    "9핀 다이렉트 배열(PIN 1~9 및 SHELL 1:1 직결)",
+    "RoHS 규정 준수(납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "1M / 1.8M / 3M / 5M / 10M / 15M 6가지 길이 선택 가능"
+  ],
+  "specifications": {
+    "커넥터 타입": "DB9P/M - DB9P/F",
+    "길이": "1M, 1.8M, 3M, 5M, 10M, 15M",
+    "정격 전압": "300V",
+    "작동 온도": "0 ~ 80°C",
+    "핀 배열": "9핀 다이렉트 (Pin 1~9 및 SHELL 1:1 직결)",
+    "핀 색상": "Red(1), Blue(2), Orange(3), Pink(4), Green(5), Brown(6), Yellow(7), White(8), Grey(9)",
+    "제조국/원산지": "중국 (China)",
+    "RoHS": "COMPLIANT",
+    "품질 인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "DB9P(9핀) 시리얼 포트를 갖춘 컴퓨터 및 장치",
+    "RS-232 시리얼 통신 규격 기기"
+  ],
+  "package_contents": [
+    "시리얼 연장 케이블 9핀 (DB9P/M - DB9P/F) × 1"
+  ],
+  "usage_instructions": "DB9P Male 커넥터를 기존 시리얼 케이블 또는 장치의 Female 포트에 연결하고, DB9P Female 커넥터에 연결 대상 기기의 Male 커넥터를 꽂아 시리얼 통신 케이블을 연장하여 사용합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SER-9MF-1M",
+      "품목코드": "CAB-시리M001",
+      "품목명": "[LANstar] 시리얼케이블, DB9P M／F 연장Direct, 1M[10489] (150개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SER-9MF-1.8M",
+      "품목코드": "CAB-시리M002",
+      "품목명": "[LANstar] 시리얼케이블, DB9P M／F 연장Direct, 1.8M[10490] (100개)",
+      "variant_suffix": "-1.8M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SER-9MF-3M",
+      "품목코드": "CAB-시리M003",
+      "품목명": "[LANstar] 시리얼케이블, DB9P M／F 연장Direct, 3M[10491] (80개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SER-9MF-5M",
+      "품목코드": "CAB-시리M004",
+      "품목명": "[LANstar] 시리얼케이블, DB9P M／F 연장Direct, 5M[10492] (50개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SER-9MF-10M",
+      "품목코드": "CAB-시리M005",
+      "품목명": "[LANstar] 시리얼케이블, DB9P M／F 연장Direct, 10M[10493] (36개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SER-9MF-15M",
+      "품목코드": "CAB-시리M006",
+      "품목명": "[LANstar] 시리얼케이블, DB9P M／F 연장Direct, 15M[10494] (28개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-SER-9MF",
+      "내용": "빠른배송감사합니다."
+    },
+    {
+      "source_model": "LS-SER-9MF-1.8M",
+      "내용": "항상 사용하는것. 좋습니다"
+    },
+    {
+      "source_model": "LS-SER-9MF-1.8M",
+      "내용": "랜스타 제품 품질 믿고 항상 사용하고 있습니다."
+    },
+    {
+      "source_model": "LS-SER-9MF-1.8M",
+      "내용": "잘 받았습니다\n감사합니다"
+    },
+    {
+      "source_model": "LS-SER-9MF-1.8M",
+      "내용": "항상쓰는건데 배송이빠르고좋아요 많이파세유"
+    },
+    {
+      "source_model": "LS-SER-9MF-1.8M",
+      "내용": "파른 배송으로 문제없이 생산에 도움 받았네요"
+    },
+    {
+      "source_model": "LS-SER-9MF-1.8M",
+      "내용": "항상 이제품만 사용합니다"
+    },
+    {
+      "source_model": "LS-SER-9MF-10M",
+      "내용": "배송 빠르게 잘 받았습니다."
+    },
+    {
+      "source_model": "LS-SER-9MF-10M",
+      "내용": "급하게 필요했는데 빠르게 잘 받았습니다~ \n 잘 쓰겠습니다~"
+    },
+    {
+      "source_model": "LS-SER-9MF-10M",
+      "내용": "빠른 배송 좋습니다"
+    },
+    {
+      "source_model": "LS-SER-9MF-1M",
+      "내용": "배송이 삐고 저렴하게 구매했아요"
+    },
+    {
+      "source_model": "LS-SER-9MF-1M",
+      "내용": "배송도 빠르고 좋습니다."
+    },
+    {
+      "source_model": "LS-SER-9MF-1M",
+      "내용": "빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-SER-9MF-3M",
+      "내용": "저렴하고 배송 빨라서 좋아요!"
+    },
+    {
+      "source_model": "LS-SER-9MF-3M",
+      "내용": "항상쓰는건데 배송이빠르고좋아요 많이파세유"
+    },
+    {
+      "source_model": "LS-SER-9MF-3M",
+      "내용": "선이 짧아서 연장할려고 구매했어요~"
+    },
+    {
+      "source_model": "LS-SER-9MF-5M",
+      "내용": "배송이 빠르네요 감사합니다"
+    },
+    {
+      "source_model": "LS-SER-9MF-5M",
+      "내용": "잘 사용하고 있어요. 빠른 배송이 너무 좋아요."
+    },
+    {
+      "source_model": "LS-SER-9MF-5M",
+      "내용": "당사의 제품에 적용하여 사용하고 있어요."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-SER-9MF-1",
+      "id": 206169295,
+      "date": "2022-02-14 16:57",
+      "answerDate": "2022-02-15 10:15",
+      "user": "tkdg*****",
+      "productName": "랜스타 LS-SER-9MF-1.8M DB9MF 다이렉트 타입 시리얼 연장케이블 1.8M",
+      "question": "1.8m 20개 구매 하려고 하는데 재고 없는건가요? 없다면 추후 입고 예정 있을까요?",
+      "answer": "안녕하세요 랜스타입니다.\n\n해당 상품은 아직 입고 일정이 나오지 않아 정확한 입고 일정을 말씀드리기가 힘든 상황입니다.\n\n추후 입고 시 안내 드리도록 하겠습니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-SER-9MF",
+      "id": 623257128,
+      "date": "2025-04-01 20:59",
+      "answerDate": "2025-04-02 09:00",
+      "user": "blue********",
+      "productName": "랜스타 DB9MF 다이렉트 연장 시리얼케이블 정품 LS-SER-9MF",
+      "question": "1.[모델명: LS-SER-9MM-1.8M] 을 가지고  두 기계를 연결하고 있는데, 짧아서 연장하려고 합니다. 지금 보이는 제품을 사서, 연결하면 되나요? (아니면 'LS-SER-9MM-3.0M 이런 제품을 사야 하나' 하고 찾아보니, MM은 1.8M 밖에 없는 것 같아요. 그럼 MF를 사서 연장하면 되는 것 맞지요?)",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n정확한 안내를 위해 아래 내용 확인 후 톡톡 부탁드립니다.\n성함 / 연락처 / 구매처(사이트) / 구매날짜 / 구매한 모델명 (LS-~)\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-SER-9MF-1",
+      "chatUrl": "1NAac",
+      "dateIso": "2025-02-27T07:28:26.773Z",
+      "name": "미소지음",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "none",
+      "question": "저희가 다 꺼내서 다시 봤습니다",
+      "answer": "금일 출고 되어 아래에 송장번호 남겨드립니다. [로젠 40698957736]",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "네 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "금일 출고 되어 아래에 송장번호 남겨드립니다.\n[로젠 40698957736]\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다."
+        },
+        {
+          "role": "customer",
+          "text": "언제쯤 회신받을수있나요?"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "없어요"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "저희가 다 꺼내서 다시 봤습니다"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Serial(DB9)"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        1,
+        1.8,
+        3,
+        5,
+        10,
+        15
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "port_count": null,
+      "mount_style": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DB9P Male to DB9P Female 9핀 시리얼",
+    "connectivity.output_signals": "DB9P Male to DB9P Female 9핀 시리얼",
+    "connectivity.directional": "9핀 다이렉트 배열(PIN 1~9 및 SHELL 1:1 직결)",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.length_options_meters": "1M / 1.8M / 3M / 5M / 10M / 15M 6가지 길이",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "시리얼 연장 케이블",
+    "audio_video.hdr_support": "시리얼 연장 케이블",
+    "audio_video.hdcp_version": "시리얼 연장 케이블",
+    "audio_video.audio_pass": "시리얼 연장 케이블",
+    "control_switching.has_remote": "시리얼 연장 케이블",
+    "control_switching.has_hotkey": "시리얼 연장 케이블",
+    "control_switching.has_physical_button": "시리얼 연장 케이블",
+    "control_switching.has_mouse_switching": "시리얼 연장 케이블",
+    "control_switching.has_auto_scan": "시리얼 연장 케이블",
+    "control_switching.has_app_control": "시리얼 연장 케이블",
+    "family.mount_style": "시리얼 연장 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:18:19",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "troubleshoot": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

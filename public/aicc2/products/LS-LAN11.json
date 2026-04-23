@@ -1,0 +1,114 @@
+{
+  "model_no": "LS-LAN11",
+  "product_name": "USB TO Fast Ethernet Converter (USB 1.1 랜카드)",
+  "category": [
+    "랜케이블",
+    "USB케이블",
+    "컨버터",
+    "젠더",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "USB 버전 1.1 지원",
+    "10/100Mbps Fast Ethernet 속도 지원",
+    "TCP/IP, NetBEUI, IPX/SPX 프로토콜 지원",
+    "Realtek RTL8150 USB 10/100 Fast Ethernet Adapter 칩셋 사용",
+    "랜케이블 연결 시 ACT LED 점등, 데이터 전송 시 LED 깜박임"
+  ],
+  "specifications": {
+    "USB 버전": "USB 1.1",
+    "통신 속도": "10/100Mbps",
+    "지원 프로토콜": "TCP/IP, NetBEUI, IPX/SPX",
+    "칩셋": "Realtek RTL8150",
+    "품명 및 모델명": "USB 1.0 랜카드 / LS-LAN11",
+    "인증서 번호": "LUS-LS-LAN11",
+    "제조국/원산지": "중국",
+    "제조자/수입사": "라인업시스템(주)",
+    "A/S 소비자 상담": "라인업시스템(주) / 070-7018-3386"
+  },
+  "compatibility": [
+    "IBM PC 486DX-100MHz 이상",
+    "사용 가능한 USB Port 보유 PC",
+    "CD-ROM 드라이버 보유 PC",
+    "Windows 98",
+    "Windows ME",
+    "Windows 2000",
+    "Windows XP"
+  ],
+  "package_contents": [
+    "USB Ethernet 본체",
+    "연장 케이블 (0.8m)",
+    "드라이버 CD"
+  ],
+  "usage_instructions": "【자동설치】 1. 제품을 PC의 USB 단자에 연결한다. 2. 약 10초 후 PC가 자동으로 USB를 인식하여 드라이버 설치를 준비한다. 3. 드라이버 위치를 찾는 창이 뜨면 동봉된 CD를 삽입 후 'USB TO Fast Ethernet Converter' 폴더에서 사용 중인 OS에 맞는 디렉토리를 선택하여 확인한다. 4. 설치 완료 후 장치관리자 네트워크 어댑터 항목에서 'Realtek RTL8150 USB 10/100 Fast Ethernet Adapter' 추가 여부를 확인한다. 【수동설치】 1. 제품을 USB 단자에 연결하고 동봉된 CD를 삽입한다. 2. 내 컴퓨터 오른쪽 클릭 > 속성 창을 연다. 3. 하드웨어 탭 > 장치관리자로 이동한다. 4. 네트워크 어댑터의 Realtek RTL8150 항목 오른쪽 클릭 > 속성 창으로 이동한다. 5. 드라이버 탭 > 드라이버 업데이트를 클릭한다. 6. 하드웨어 업데이트 마법사에서 [예, 장치를 연결할 때마다 연결] 선택 후 [목록 또는 특정 위치에서 설치(공급)]을 선택한다. 7. [검색할 때 다음 위치 포함]을 체크 후 찾아보기에서 CD 내 드라이버 > USB 1.1 TO Ethernet > driver > PC Driver > 해당 OS 폴더를 지정한 후 다음을 클릭하여 완료한다.",
+  "cautions": [
+    "제조사 사정에 따라 CD와 케이블 선의 색상 차이가 있을 수 있습니다.",
+    "본 제품에 이상이 있을 경우 공정거래위원회 고시 소비자분쟁해결 기준에 의거하여 보상해 드립니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45",
+        "USB-A"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": null,
+      "shielding": null,
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 단자에 연결한다",
+    "connectivity.output_signals": "랜케이블 연결 시 ACT LED 점등",
+    "connectivity.directional": "USB TO Fast Ethernet Converter",
+    "power.power_mode": "PC의 USB 단자에 연결한다",
+    "certification.kc": "인증서 번호: LUS-LS-LAN11"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:00",
+  "feature_schema_version": "1.0.0"
+}

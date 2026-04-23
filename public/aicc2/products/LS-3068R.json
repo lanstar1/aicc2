@@ -1,0 +1,106 @@
+{
+  "model_no": "LS-3068R",
+  "product_name": "LANStar 3in1 랜툴 (커터·스트리퍼·크림핑 일체형) LS-3068R",
+  "category": [
+    "커넥터",
+    "탈피기"
+  ],
+  "key_features": [
+    "커터, 스트리퍼, 랜툴(크림핑) 3가지 기능 일체형",
+    "미끄럼 방지 러버 재질 투톤컬러 그립 적용",
+    "중탄소강 소재 바디로 강력한 내구성 및 내마모성",
+    "기어 구조 적용으로 적은 힘으로 플러그 작업 가능",
+    "전면 스트리퍼 내장으로 별도 탈피기 불필요",
+    "후면 컷터 내장으로 별도 커터기 불필요",
+    "8P(랜선) 및 6P(전화기선) 플러그 작업 가능"
+  ],
+  "specifications": {
+    "바디 소재": "중탄소강",
+    "그립 소재": "러버 (투톤컬러)",
+    "스트리퍼 위치": "전면",
+    "컷터 위치": "후면",
+    "릴리즈 레버": "있음"
+  },
+  "compatibility": [
+    "8P8C (RJ-45)",
+    "6P6C (RJ-12)",
+    "6P4C (RJ-11)"
+  ],
+  "package_contents": [
+    "LS-3068R 랜툴 본체"
+  ],
+  "usage_instructions": "전면 스트리퍼로 케이블 피복을 탈피하고, 플러그를 삽입한 후 손잡이를 눌러 크림핑 작업을 수행한다. 후면 컷터로 케이블 절단 가능. 손잡이를 완전히 누르지 않아 중간에 걸렸을 경우 릴리즈 레버를 돌려 오픈한다.",
+  "cautions": [
+    "손잡이를 완전히 누르지 않으면 중간에 걸려 오픈되지 않을 수 있음 — 이때 릴리즈 레버를 돌려 해제할 것"
+  ],
+  "variants": [],
+  "qna": [
+    {
+      "source_model": "LS-3068R",
+      "id": 104810283,
+      "date": "2020-02-26 13:56",
+      "answerDate": "2020-02-26 18:12",
+      "user": "king****",
+      "productName": "[LANstar] TOOL공구 , 6/8P 용, 고급 기어형 [ LS-3068R ]",
+      "question": "5개 재고 잇는 상품인가요?",
+      "answer": "안녕하세요 랜스타 입니다.\n\n죄송합니다 단종 된 모델이며 68R 또는 468R 제품으로 구매하시면 됩니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "중탄소강",
+        "러버"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": false,
+      "iso9001": false,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": null,
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "power.power_mode": "3가지 기능 일체형",
+    "form_physical.material": "러버 재질 투톤컬러 그립 적용"
+  },
+  "feature_extracted_at": "2026-04-23T03:06:54",
+  "feature_schema_version": "1.0.0"
+}

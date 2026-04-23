@@ -1,0 +1,153 @@
+{
+  "model_no": "LSN-BOOT-COVER-GR",
+  "product_name": "LANStar 통부트 COVER 회색(Gray) 5mm",
+  "category": [
+    "커넥터"
+  ],
+  "key_features": [
+    "랜 케이블과 커넥터 연결 부분 보호",
+    "케이블 꺾임 및 커넥터 lock 파손 방지",
+    "톱니 형태 연결 방식 (락부트만 해당)",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "색상": "회색 (Gray)",
+    "크기": "5mm",
+    "수량": "100개입",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "RoHS": "COMPLIANT",
+    "품질인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "5mm 두께 랜케이블",
+    "랜스타 부트 라인업 (5mm ~ 8.5mm 크기 중 선택 가능)"
+  ],
+  "package_contents": [
+    "통부트 COVER Gray 5mm × 100개"
+  ],
+  "usage_instructions": "랜 케이블 두께에 맞는 부트(5~8.5mm 크기 중 선택)를 선택하여 랜 케이블과 커넥터 연결 부분에 장착한다. 락부트의 경우 톱니 형태 연결 방식을 사용한다.",
+  "cautions": [
+    "유통 과정에서 제품의 모양이나 색상이 조금 달라질 수 있으며, 'LANSTAR' 로고 역시 변경될 수 있으나 모두 정품임.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상."
+  ],
+  "variants": [
+    {
+      "model_no": "LSN-BOOT-COVER-GR",
+      "품목코드": "NNO-부트류003",
+      "품목명": "[LANstar] BOOT , 통부트 COVER GREY(100개)[40648]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSN-BOOT-COVER-GR",
+      "내용": "내구성 좋습니다. 잘쓰고있어요 재구매각입니다.감사합니다.",
+      "관련내용": "배송빨라요. 내구성좋습니다. 재구매 의향있습니다."
+    },
+    {
+      "source_model": "LSN-BOOT-COVER-GR",
+      "내용": "배송빨라요. 내구성좋습니다. 재구매 의향있습니다."
+    },
+    {
+      "source_model": "LSN-BOOT-COVER-GR",
+      "내용": "빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LSN-BOOT-COVER-GR",
+      "내용": "좋아요. 배송이 빨라요!!"
+    },
+    {
+      "source_model": "LSN-BOOT-COVER-GR",
+      "내용": "저렴하게 구입한것 같아요"
+    },
+    {
+      "source_model": "LSN-BOOT-COVER-GR",
+      "내용": "케이블 부트가 rj45 커넥터 연결부에 이물질 안 들어가도록 보호해준다길래 구매함. 그런데, 구매하고보니 실내에서는 굳이 이게 필요할까 의문임."
+    },
+    {
+      "source_model": "LSN-BOOT-COVER-GR",
+      "내용": "커넥터 사는김에 같이 삽니다.\n이전에 여기 랜툴사서 잘쓰고 있습니다."
+    },
+    {
+      "source_model": "LSN-BOOT-COVER-GR",
+      "내용": "회사 업무용으로 구매하였습니다"
+    },
+    {
+      "source_model": "LSN-BOOT-COVER-GR",
+      "내용": "LS CAT6 전선에는 빡빡하게 껴지는대 사용은 문제 없습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "기타"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "회색"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": null,
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.directional": "N/A",
+    "power.power_mode": "N/A",
+    "form_physical.material": "랜 케이블과 커넥터 연결 부분 보호",
+    "form_physical.color_options": "회색(Gray)",
+    "certification.kc": "인증번호\": \"해당없음",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.gender": "N/A"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:59",
+  "feature_schema_version": "1.0.0"
+}

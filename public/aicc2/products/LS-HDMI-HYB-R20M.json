@@ -1,0 +1,120 @@
+{
+  "model_no": "LS-HDMI-HYB-R20M",
+  "product_name": "[LANstar] HDMI REAL 2.0 하이브리드 광케이블 , 19P M/M, Black, 4K*2K 60Hz 20M[11043](10)",
+  "category": [
+    "광케이블",
+    "HDMI케이블",
+    "HDMI광케이블"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-HDMI-HYB-R20M",
+      "품목코드": "CAB-HDO019",
+      "품목명": "[LANstar] HDMI REAL 2.0 하이브리드 광케이블 , 19P M/M, Black, 4K*2K 60Hz 20M[11043](10)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HDMI-HYB-R20M",
+      "id": 128874183,
+      "date": "2020-09-08 12:40",
+      "answerDate": "2020-09-08 18:35",
+      "user": "bsys****",
+      "productName": "[LANstar] HDMI REAL 2.0 하이브리드 광케이블 , [LS-HDMI-HYB-R20M]",
+      "question": "30m케이블입니다...",
+      "answer": "안녕하세요 랜스타 입니다.\n\n사용 가능합니다."
+    },
+    {
+      "source_model": "LS-HDMI-HYB-R20M",
+      "id": 128874304,
+      "date": "2020-09-08 12:41",
+      "answerDate": "2020-09-08 18:35",
+      "user": "bsys****",
+      "productName": "[LANstar] HDMI REAL 2.0 하이브리드 광케이블 , [LS-HDMI-HYB-R20M]",
+      "question": "교회캠코더사용해도 가능한가요",
+      "answer": "안녕하세요 랜스타 입니다.\n\n사용 가능합니다."
+    },
+    {
+      "source_model": "LS-HDMI-HYB-R20M",
+      "id": 128944711,
+      "date": "2020-09-08 20:07",
+      "answerDate": "2020-09-09 09:30",
+      "user": "bsys****",
+      "productName": "[LANstar] HDMI REAL 2.0 하이브리드 광케이블 , [LS-HDMI-HYB-R20M]",
+      "question": "상품사진에은 30m로 되어있고 상품정보에는 20m로 되어있습니다...어느것이 맛나요",
+      "answer": "안녕하세요 랜스타 입니다.\n\n혼동을 드려 죄송합니다.  해당 제품은 20M 입니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 20,
+      "length_options_meters": null,
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "HDMI2.0",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": true,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI REAL 2.0 하이브리드 광케이블",
+    "connectivity.output_signals": "HDMI REAL 2.0 하이브리드 광케이블",
+    "form_physical.length_meters": "20M",
+    "form_physical.color_options": "Black",
+    "audio_video.max_resolution": "4K*2K 60Hz",
+    "family.hdmi_version": "HDMI REAL 2.0",
+    "family.optical_core": "하이브리드 광케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:14",
+  "feature_schema_version": "1.0.0"
+}

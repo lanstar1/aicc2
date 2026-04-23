@@ -1,0 +1,101 @@
+{
+  "model_no": "LS-HOOD-915L",
+  "product_name": "콘넥터후드 9핀/15핀 Hood 케이스 (Long)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "9핀/15핀 전용 후드 케이스",
+    "나사 포함 구성",
+    "Long 타입 케이스"
+  ],
+  "specifications": {
+    "모델명": "LS-HOOD-915L",
+    "제품명": "콘넥터후드, 9P/15P Hood 케이스 (Long)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "9핀(9P) 커넥터",
+    "15핀(15P) 커넥터"
+  ],
+  "package_contents": [
+    "콘넥터 후드 케이스 본체",
+    "나사"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상합니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HOOD-915L",
+      "품목코드": "GEN-후드제002",
+      "품목명": "[LANstar] 콘넥터후드 , 9P／15P겸용 Hood케이스, Long 나사포함[20090](1000개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HOOD-915L",
+      "내용": "좋아요 굿 잘쓸게요 너무 감사합니다"
+    },
+    {
+      "source_model": "LS-HOOD-915L",
+      "내용": "배송 빠르고 가격도 좋아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "9핀/15핀 전용 후드 케이스",
+    "certification.kc": "인증번호: 해당없음"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:43",
+  "feature_schema_version": "1.0.0"
+}

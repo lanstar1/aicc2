@@ -1,0 +1,165 @@
+{
+  "model_no": "LS-SVHS-1R",
+  "product_name": "SVHS-1RCA 케이블",
+  "category": [
+    "컨버터",
+    "RCA케이블"
+  ],
+  "key_features": [
+    "SVHS 단자에서 1RCA(영상) 단자로 변환하는 케이블",
+    "컴퓨터(그래픽 카드)와 TV 연결 용도"
+  ],
+  "specifications": {
+    "모델명": "LS-SVHS-1R",
+    "품명": "SVHS-1RCA 케이블",
+    "제품길이": "0.5m / 1m / 2m / 3m / 5m",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "SVHS(4핀) 단자 기기",
+    "그래픽 카드 7핀 단자 (핀 변환 젠더 필요)",
+    "그래픽 카드 9핀 단자 (핀 변환 젠더 필요)",
+    "RCA(영상) 단자 지원 TV"
+  ],
+  "package_contents": [
+    "SVHS-1RCA 케이블 1개"
+  ],
+  "usage_instructions": "컴퓨터 그래픽 카드가 7핀 또는 9핀인 경우 핀 변환 젠더를 별도 사용하여 SVHS 단자로 변환한 뒤, 본 케이블로 TV의 RCA(영상) 단자에 연결하세요.",
+  "cautions": [
+    "컴퓨터 그래픽 카드가 7핀 또는 9핀인 경우 반드시 핀 변환 젠더를 사용해야 함",
+    "품질 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SVHS-1R-1.5M",
+      "품목코드": "CAB-SVR001",
+      "품목명": "[LANstar] 비디오케이블 ,SVHS-1RCA M／M, 5pi, 1.5M[10424]",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SVHS-1R-2M",
+      "품목코드": "CAB-SVR002",
+      "품목명": "비디오케이블 ,SVHS-1RCA M／M, 5pi, 2M (LANstar)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SVHS-1R-3M",
+      "품목코드": "CAB-SVR003",
+      "품목명": "[LANstar] 비디오케이블 ,SVHS-1RCA M／M, 5pi, 3M[10425]",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SVHS-1R-5M",
+      "품목코드": "CAB-SVR004",
+      "품목명": "[LANstar] 비디오케이블 ,SVHS-1RCA M／M, 5pi, 5M[10426]",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SVHS-1R-10M",
+      "품목코드": "CAB-SVR005",
+      "품목명": "[LANstar] 비디오케이블 ,SVHS-1RCA M／M, 5pi, 10M[10427]",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SVHS-1R-15M",
+      "품목코드": "CAB-SVR006",
+      "품목명": "[LANstar] 비디오케이블 ,SVHS-1RCA M／M, 5pi, 15M[10428]",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SVHS-1R-20M",
+      "품목코드": "CAB-SVR007",
+      "품목명": "[LANstar] 비디오케이블 ,SVHS-1RCA M／M, 5pi, 20M[10429]",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SVHS-1R-30M",
+      "품목코드": "CAB-SVR008",
+      "품목명": "[LANstar] 비디오케이블 ,SVHS-1RCA M／M, 5pi, 30M[10430]",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "SVHS"
+      ],
+      "output_signals": [
+        "RCA"
+      ],
+      "directional": "단방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1,
+        2,
+        3,
+        5
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "SVHS 단자에서",
+    "connectivity.output_signals": "1RCA(영상) 단자로 변환하는 케이블",
+    "connectivity.directional": "SVHS 단자에서 1RCA(영상) 단자로 변환",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.length_options_meters": "0.5m / 1m / 2m / 3m / 5m",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "1RCA(영상) 단자로 변환",
+    "family.conversion_direction": "SVHS 단자에서 1RCA(영상) 단자로 변환",
+    "family.requires_external_power": "무전원"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:12",
+  "feature_schema_version": "1.0.0"
+}

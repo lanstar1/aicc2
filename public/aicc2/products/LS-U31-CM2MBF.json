@@ -1,0 +1,131 @@
+{
+  "model_no": "LS-U31-CM2MBF",
+  "product_name": "USB 3.1 Type C 케이블 (C/M - 2.0 Micro B/F)",
+  "category": [
+    "USB케이블",
+    "USB-C",
+    "USB2.0",
+    "컨버터",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 3.1 Type C Male to USB 2.0 Micro B Female 변환 케이블",
+    "전송속도 480Mbps (USB 2.0 Hi-Speed 규격)",
+    "USB Type C 커넥터는 위아래 방향 구분 없이 연결 가능",
+    "케이블 길이 0.15M (150mm)",
+    "RoHS 및 UL 인증 취득 제품",
+    "애플 맥북 및 구글 크롬북 USB Type C 포트 지원"
+  ],
+  "specifications": {
+    "케이블 타입": "USB 3.1 C/M - 2.0 Micro B/F",
+    "전송속도": "480Mbps",
+    "길이": "0.15M",
+    "전원": "30V",
+    "작동온도": "0℃ ~ 80℃",
+    "색상": "Black",
+    "인증": "RoHS, UL",
+    "제조국": "중국 (China)"
+  },
+  "compatibility": [
+    "애플 맥북 (Apple MacBook) - USB Type C 포트",
+    "구글 크롬북 (Google Chromebook) - USB Type C 포트",
+    "넥서스 5X",
+    "넥서스 6P",
+    "샤오미 Mi4C",
+    "LeTV Le 1 Pro",
+    "LeTV Le 1s",
+    "USB 2.0 Micro B Female 포트 보유 기기"
+  ],
+  "package_contents": [
+    "USB 3.1 Type C 케이블 (C/M - 2.0 Micro B/F) 0.15M × 1"
+  ],
+  "usage_instructions": "USB Type C 커넥터를 기기의 Type C 포트에 방향 구분 없이 삽입하고, 반대편 USB 2.0 Micro B Female 단자에 연결할 기기를 꽂아 데이터 전송 또는 연결에 사용합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품은 USB 2.0 규격(최대 480Mbps)으로 동작하며, USB 3.1 최대 속도(5Gbps)는 지원하지 않습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리됩니다.",
+    "AS 소비자상담: 070-7018-3386",
+    "공식 홈페이지: www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-U31-CM2MBF-0.15M",
+      "품목코드": "CAB-U31007",
+      "품목명": "[LANstar] [USB 3.1] 케이블 USB 3.1 C/M-2.0 MICRO B/F 0.15M Black [10759]",
+      "variant_suffix": "-0.15M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-Micro"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.48,
+      "charging_only": null,
+      "data_only": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.1 Type C Male",
+    "connectivity.output_signals": "USB 2.0 Micro B Female",
+    "connectivity.directional": "데이터 전송 또는 연결에 사용합니다.",
+    "power.power_mode": "전원: 30V",
+    "form_physical.length_meters": "케이블 길이 0.15M (150mm)",
+    "form_physical.color_options": "색상: Black",
+    "certification.rohs": "RoHS 및 UL 인증 취득 제품",
+    "audio_video.max_resolution": "USB 3.1 Type C 케이블",
+    "audio_video.hdr_support": "USB 3.1 Type C 케이블",
+    "audio_video.hdcp_version": "USB 3.1 Type C 케이블",
+    "audio_video.audio_pass": "USB 3.1 Type C 케이블",
+    "family.usb_version": "USB 2.0 Hi-Speed 규격",
+    "family.transfer_speed_gbps": "전송속도 480Mbps"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:30",
+  "feature_schema_version": "1.0.0"
+}

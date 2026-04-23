@@ -1,0 +1,119 @@
+{
+  "model_no": "LS-PLUG-SOS45-BK",
+  "product_name": "LANstar LAN PLUG SOS (RJ45 콘넥터 접촉불량 Repair Cover)",
+  "category": [
+    "랜케이블",
+    "커넥터"
+  ],
+  "key_features": [
+    "부러진 RJ45 콘넥터 고리(latch)를 대체하는 보수 커버",
+    "콘넥터를 새로 구입하지 않아도 재사용 가능",
+    "8가지 색상 제공으로 랜케이블 색상별 식별코드 활용 가능",
+    "빠르고 쉽게 부러진 콘넥터 플러그 대체 가능",
+    "LANstar 특허 출원 제품 (특허출원번호: 10-2015-0027248)",
+    "5개입 및 100개입 구성 판매"
+  ],
+  "specifications": {
+    "제품명": "LAN PLUG-SOS",
+    "브랜드": "LANstar",
+    "특허출원번호": "10-2015-0027248",
+    "제조국/원산지": "대만 (Taiwan)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "색상": "투명(WT), 빨강(RD), 주황(OR), 보라(PU), 검정(BK), 노랑(YL), 초록(GN), 파랑(BL)",
+    "구성 옵션": "5개입, 100개입"
+  },
+  "compatibility": [
+    "RJ45 커넥터 플러그",
+    "고리(latch) 잔여 부분이 남아 있는 RJ45 플러그에 한해 장착 가능"
+  ],
+  "package_contents": [
+    "LAN PLUG SOS 본체 (5개입 또는 100개입, 선택 색상에 따라 상이)"
+  ],
+  "usage_instructions": "1. 콘넥터 고리(latch)가 부러지기 직전이면 손으로 분질러, 남아있는 부분을 펜치로 잘라냅니다 (남아있는 부분이 너무 짧거나 길면 안 됨). 2. 플러그 SOS를 콘넥터 위에서 결합합니다. 3. 결합 시 부러진 고리 위가 아닌 아래로 살짝 밀어 넣습니다.",
+  "cautions": [
+    "콘넥터 고리(latch)가 완전히 제거된 경우(남아있는 부분이 없는 경우) 장착 불가",
+    "남아있는 고리 잔여 부분이 너무 짧거나 너무 길면 장착 불가",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PLUG-SOS45-BK",
+      "품목코드": "NEO-부트류046",
+      "품목명": "[LANstar] LAN PLUG-SOS, RJ45 플러그 잭 복구 유닛, 1pcs, Black[40136]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "투명",
+        "빨강",
+        "주황",
+        "보라",
+        "검정",
+        "노랑",
+        "초록",
+        "파랑"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": "N/A",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "Repair Cover",
+    "form_physical.material": "플러그 SOS를 콘넥터 위에서 결합합니다",
+    "form_physical.color_options": "색상: 투명(WT), 빨강(RD), 주황(OR), 보라(PU), 검정(BK), 노랑(YL), 초록(GN), 파랑(BL)"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:26",
+  "feature_schema_version": "1.0.0"
+}

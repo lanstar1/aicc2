@@ -1,0 +1,264 @@
+{
+  "model_no": "LS-7UTPD",
+  "product_name": "CAT.6A/CAT.7 UTP 다이렉트 랜케이블",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "랜케이블-UTP",
+    "랜케이블"
+  ],
+  "key_features": [
+    "최대 전송속도 10Gbps (10,000Mbps) 지원",
+    "대역폭 500MHz (TIA/EIA-568 CAT.6A 규격)",
+    "LSZH(Low Smoke Zero Halogen) 최상위 난연 피복 적용 — 화재 시 화재확산 억제",
+    "십자형 차단막(개재) 구조로 케이블 간 간섭 감소 및 전송속도 향상",
+    "26AWG 미국전선규격(American Wire Gage) 적용 — 잡음 감소, 안정적 전송",
+    "FLUKE DTX-1800 테스터기 테스트 PASS (반사손실, 삽입손실, NEXT, PS NEXT, ACR-F, PS ACR-F 전 항목 통과)",
+    "RoHS(특정위험물질 사용제한) 준수 — 납·수은·카드뮴 등 중금속 미사용",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "금도금 커넥터(8P8C RJ45) 적용",
+    "다이렉트(Straight) 케이블 핀배열(568B-568B)",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "Twisted Pair(꼬임 방식) 구조로 노이즈 방지"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.7 (CAT.6A)",
+    "최대 전송속도": "10Gbps",
+    "대역폭": "500MHz",
+    "전선 규격": "26AWG (American Wire Gage)",
+    "케이블 타입": "UTP (Unshielded Twisted Pair)",
+    "커넥터": "8P8C RJ45, 금도금",
+    "케이블 구조": "TWIST-PAIR 4P, 26AWG UTP CAT.6A CABLE, 500MHz, 10G, STRAND",
+    "피복 소재": "LSZH (Low Smoke Zero Halogen) / PVC",
+    "절연 소재": "PE 절연",
+    "난연 등급": "LSZH 최상위 난연등급",
+    "케이블 길이 라인업": "0.5M, 1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M, 50M",
+    "제품 길이 범위": "500mm ~ 50000mm",
+    "커넥터 폭": "11.5mm",
+    "커넥터 높이": "6.2mm",
+    "케이블 직경": "6.5mm",
+    "핀배열 방식": "다이렉트 (568B-568B)",
+    "RoHS": "COMPLIANT",
+    "FLUKE TEST": "PASS (DTX-1800)",
+    "품질 인증": "ISO 9001:2008",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "브랜드": "LANStar (랜스타)"
+  },
+  "compatibility": [
+    "10Mbps 네트워크 장비",
+    "100Mbps 네트워크 장비",
+    "1000Mbps(1Gbps) 네트워크 장비",
+    "10Gbps 네트워크 장비",
+    "TIA/EIA-568 규격 준수 장비",
+    "ISO/IEC 11801 Class 규격 준수 장비",
+    "CAT.5 / CAT.5E 하위 호환",
+    "CAT.6 하위 호환",
+    "CAT.6A / CAT.7 규격 장비",
+    "8P8C RJ45 포트 사용 기기"
+  ],
+  "package_contents": [
+    "CAT.6A/CAT.7 UTP 다이렉트 랜케이블 (선택한 길이 1개)"
+  ],
+  "usage_instructions": "다이렉트 케이블(568B-568B 핀배열)로 PC·서버·스위치 등 네트워크 장비의 RJ45 포트에 연결하여 사용. 크로스 연결이 필요한 경우 별도 크로스 케이블(568B-568A) 사용 필요. AWG 수치가 작을수록 내심이 굵어 잡음이 적고 안정적인 전송에 적합하나 설치가 까다로울 수 있음.",
+  "cautions": [
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리",
+    "AWG 수치가 작을수록(굵은 내심) 설치가 까다로울 수 있음",
+    "다이렉트 케이블과 크로스 케이블의 핀배열이 다르므로 용도에 맞는 케이블 선택 필요"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-7UTPD-0.5M",
+      "품목코드": "CAB-U6A001",
+      "품목명": "[LANstar] CAT.6A UTP/CAT.7 UTP 케이블, 26AWG COPPER, 500MHZ, 10G, 0.5M[10801] (250개)",
+      "variant_suffix": "-0.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7UTPD-1M",
+      "품목코드": "CAB-U6A002",
+      "품목명": "[LANstar] CAT.6A UTP/CAT.7 UTP 케이블, 26AWG COPPER, 500MHZ, 10G, 1M[10802] (160개)",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7UTPD-2M",
+      "품목코드": "CAB-U6A003",
+      "품목명": "[LANstar] CAT.6A UTP/CAT.7 UTP 케이블, 26AWG COPPER, 500MHZ, 10G, 2M[10803] (80개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7UTPD-3M",
+      "품목코드": "CAB-U6A004",
+      "품목명": "[LANstar] CAT.6A UTP/CAT.7 UTP 케이블, 26AWG COPPER, 500MHZ, 10G, 3M[10804] (90개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7UTPD-5M",
+      "품목코드": "CAB-U6A005",
+      "품목명": "[LANstar] CAT.6A UTP/CAT.7 UTP 케이블, 26AWG COPPER, 500MHZ, 10G, 5M[10805] (70개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7UTPD-7M",
+      "품목코드": "CAB-U6A006",
+      "품목명": "[LANstar] CAT.6A UTP/CAT.7 UTP 케이블, 26AWG COPPER, 500MHZ, 10G, 7M[10806] (50개)",
+      "variant_suffix": "-7M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7UTPD-10M",
+      "품목코드": "CAB-U6A007",
+      "품목명": "[LANstar] CAT.6A UTP/CAT.7 UTP 케이블, 26AWG COPPER, 500MHZ, 10G, 10M[10807] (32개)",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7UTPD-15M",
+      "품목코드": "CAB-U6A008",
+      "품목명": "[LANstar] CAT.6A UTP/CAT.7 UTP 케이블, 26AWG COPPER, 500MHZ, 10G, 15M[10808] (30개)",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7UTPD-20M",
+      "품목코드": "CAB-U6A009",
+      "품목명": "[LANstar] CAT.6A UTP/CAT.7 UTP 케이블, 26AWG COPPER, 500MHZ, 10G, 20M [10809] (26개)",
+      "variant_suffix": "-20M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7UTPD-30M",
+      "품목코드": "CAB-U6A010",
+      "품목명": "[LANstar] CAT.6A UTP/CAT.7 UTP 케이블, 26AWG COPPER, 500MHZ, 10G, 30M [10810] (20개)",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7UTPD-50M",
+      "품목코드": "CAB-U6A011",
+      "품목명": "[LANstar] CAT.6A UTP/CAT.7 UTP 케이블, 26AWG COPPER, 500MHZ, 10G, 50M [10811] (12개)",
+      "variant_suffix": "-50M",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-7UTPD",
+      "id": 178066938,
+      "date": "2021-08-09 15:12",
+      "answerDate": "2021-08-09 16:01",
+      "user": "fack******",
+      "productName": "랜스타 CAT6A CAT7 UTP 10Gbps 단선 랜케이블 정품 LS-7UTPD",
+      "question": "언제 발송하시나요 급합니다 ㅠㅠ",
+      "answer": "안녕하세요 랜스타 입니다\n\n현재 확인해보니 해당제품이 품절인듯 합니다...\n\nSTP로 바꾸어서 드릴수 있습니다...\n\n재고 확인이 늦게되어 죄송합니다"
+    },
+    {
+      "source_model": "LS-7UTPD",
+      "id": 178078743,
+      "date": "2021-08-09 16:11",
+      "answerDate": "2021-08-09 16:54",
+      "user": "fack******",
+      "productName": "랜스타 CAT6A CAT7 UTP 10Gbps 단선 랜케이블 정품 LS-7UTPD",
+      "question": "STP가뭔가요? 별차이없으면 50M 있으면 변경해주세요",
+      "answer": "안녕하세요 랜스타 입니다\n\nutp는 실드처리가 안된 케이블이며 stp는 실드처리가 된 케이블로\n\nstp가 성능 이 더 좋으며 가격도 상위 입니다\n\nstp케이블로 대체출고 해드리겠습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "LSZH",
+        "PVC",
+        "PE",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.5,
+        1.0,
+        2.0,
+        3.0,
+        5.0,
+        7.0,
+        10.0,
+        15.0,
+        20.0,
+        30.0,
+        50.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "UTP",
+      "conductor": "연선(stranded)",
+      "awg": 26,
+      "pair_count": 4,
+      "flame_rating": "LSZH",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 포트에 연결하여 사용",
+    "connectivity.output_signals": "RJ45 포트에 연결하여 사용",
+    "connectivity.directional": "다이렉트 랜케이블",
+    "form_physical.material": "LSZH(Low Smoke Zero Halogen) 최상위 난연 피복 적용",
+    "form_physical.material.1": "피복 소재: LSZH (Low Smoke Zero Halogen) / PVC",
+    "form_physical.material.2": "절연 소재: PE 절연",
+    "form_physical.material.3": "금도금 커넥터(8P8C RJ45) 적용",
+    "form_physical.length_options_meters": "0.5M, 1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M, 50M",
+    "certification.rohs": "RoHS(특정위험물질 사용제한) 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.cat_category": "CAT.7 (CAT.6A)",
+    "family.shielding": "UTP (Unshielded Twisted Pair)",
+    "family.conductor": "STRAND",
+    "family.awg": "26AWG 미국전선규격",
+    "family.pair_count": "TWIST-PAIR 4P",
+    "family.flame_rating": "LSZH 최상위 난연 피복 적용"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:46",
+  "feature_schema_version": "1.0.0"
+}

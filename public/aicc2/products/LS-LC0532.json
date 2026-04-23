@@ -1,0 +1,105 @@
+{
+  "model_no": "LS-LC0532",
+  "product_name": "[LANstar] 케이블 랩핑 튜브 5m (32Ø)[20268] (30개)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-LC0532",
+      "품목코드": "COM-악세사220",
+      "품목명": "[LANstar] 케이블 랩핑 튜브 5m (32Ø)[20268] (30개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-LC0532",
+      "내용": "돼지꼬리 등 여러가지 선정리 용품을 써봤는데 이것도 괜찮네요.",
+      "관련내용": "간편하게 선정리 가능하네요."
+    },
+    {
+      "source_model": "LS-LC0532",
+      "내용": "간편하게 선정리 가능하네요."
+    },
+    {
+      "source_model": "LS-LC0532",
+      "내용": "기대이상이라 너무 좋습니다"
+    },
+    {
+      "source_model": "LS-LC0532",
+      "내용": "만족스럽게 잘 사용중입니다",
+      "관련내용": "깔끔하게 정리되고 좋습니다"
+    },
+    {
+      "source_model": "LS-LC0532",
+      "내용": "깔끔하게 정리되고 좋습니다"
+    },
+    {
+      "source_model": "LS-LC0532",
+      "내용": "선 정리 하기에 간편하고 깔끔합니다."
+    },
+    {
+      "source_model": "LS-LC0532",
+      "내용": "잘받았습니다 잘받았습니다"
+    },
+    {
+      "source_model": "LS-LC0532",
+      "내용": "조만간 pc구매후 선정리 계획중입니다.\n선정리 마렵네요.ㅎㅎ\n\n물건은 상태 매우 좋습니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [],
+      "length_meters": 5,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.length_meters": "케이블 랩핑 튜브 5m",
+    "form_physical.has_case": "케이블 랩핑 튜브"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:10",
+  "feature_schema_version": "1.0.0"
+}

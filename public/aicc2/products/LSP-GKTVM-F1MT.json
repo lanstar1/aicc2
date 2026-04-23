@@ -1,0 +1,149 @@
+{
+  "model_no": "LSP-GKTVM-F1MT",
+  "product_name": "CAT.6A/CAT.7 STP Tooless 키스톤잭 모듈 8P8C RJ45 1형",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "랜케이블-STP",
+    "키스톤잭",
+    "멀티탭",
+    "UTP포트",
+    "아웃렛박스",
+    "LAN공구"
+  ],
+  "key_features": [
+    "10Gbps(10000Mbps) 전송속도 지원",
+    "별도의 압축 Tool 없이 케이블 선 장착 가능 (Tooless)",
+    "1개의 모듈에서 568A(Cross)와 568B(Direct) 배열 모두 지원",
+    "케이블 선을 보호하는 분리덮개 적용 신형 모듈",
+    "벽부착형 Plate나 Outlet 공박스에 장착하여 사용 가능",
+    "RoHS 인증 (유해물질 사용 제한 준수)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "규격": "CAT.6A / CAT.7 STP",
+    "커넥터 타입": "8P8C RJ45 1형",
+    "전송속도": "10Gbps (10000Mbps)",
+    "배선 배열": "568A (Cross), 568B (Direct) 모두 지원",
+    "모델명": "LSP-GKTVM-F1MT",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주), 한국아이티판매협동조합",
+    "AS 소비자상담": "라인업시스템(주), 한국아이티판매협동조합",
+    "인증번호": "해당없음",
+    "환경인증": "RoHS (Restriction of Hazardous Substances) 준수",
+    "보험": "현대해상화재보험 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "CAT.6A UTP/STP 케이블",
+    "CAT.7 STP 케이블",
+    "벽부착형 Plate (삽입형 아울렛, 1port~6port, 별도 구매)",
+    "Outlet 공박스 (1port~8port, 별도 구매)"
+  ],
+  "package_contents": [
+    "모듈 본체",
+    "모듈 커버",
+    "케이블 타이"
+  ],
+  "usage_instructions": "1. 스트리퍼로 케이블 피복을 적당한 길이로 벗겨낸다. 2. 드러난 케이블 선을 적당한 길이로 잘라낸다. 3. 모듈러 커버에 케이블 선을 568A 또는 568B 배열대로 각각의 홈에 끼운다. 4. 케이블 선이 끼워진 모듈 위로 본체를 화살표 방향으로 끼운다. 5. 모듈 밖으로 나온 케이블 선을 잘라낸다. 6. 양쪽 케이블 선을 모두 잘라낸다. 7. 본체 양쪽 덮개를 씌워 완성한다. 8. 구성품인 케이블타이로 묶어 마무리한다. 완성된 모듈은 벽부착형 Plate 또는 Outlet 공박스에 장착하여 사용한다.",
+  "cautions": [
+    "벽부착형 Plate(삽입형 아울렛, 1port~6port)는 별도 구매 필요",
+    "Outlet 공박스(1port~8port)는 별도 구매 필요",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "한국아이티판매협동조합에서 제작한 상품과 콘텐츠를 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "품질 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "사진 속 시연 제품은 다를 수 있으나 제작 방법은 동일함"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-GKTVM-F1MT",
+      "품목코드": "NEO-키스톤079",
+      "품목명": "[◆Lanstar-Plus] STP CAT.6A, 8P8C, 키스톤잭 모듈, I-Type, Metal [40544][500개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-GKTVM-F1MT",
+      "내용": "배송 빠르고 좋아요"
+    },
+    {
+      "source_model": "LSP-GKTVM-F1MT",
+      "내용": "배송이 늦어져서 한단계 위 제품을 주셨어요."
+    },
+    {
+      "source_model": "LSP-GKTVM-F1MT",
+      "내용": "이것도 하나 예비로 가지고 있어야 마음이 여유로울듯\n급한상황에....."
+    },
+    {
+      "source_model": "LSP-GKTVM-F1MT",
+      "내용": "배송 빠름 깔끔함 ㅇ"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "N/A",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "STP",
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "8P8C RJ45 1형",
+    "connectivity.output_signals": "8P8C RJ45 1형",
+    "connectivity.port_count": "1개의 모듈에서",
+    "form_physical.has_case": "분리덮개 적용 신형 모듈",
+    "certification.rohs": "RoHS 인증 (유해물질 사용 제한 준수)",
+    "family.cat_category": "CAT.6A / CAT.7 STP",
+    "family.shielding": "CAT.6A / CAT.7 STP"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:47",
+  "feature_schema_version": "1.0.0"
+}

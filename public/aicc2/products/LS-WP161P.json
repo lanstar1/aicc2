@@ -1,0 +1,127 @@
+{
+  "model_no": "LS-WP161P",
+  "product_name": "CAT.6 돌출형 아웃렛 1 Port",
+  "category": [
+    "랜케이블-CAT6",
+    "멀티탭",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "표면 장착용(돌출형) OUTLET로 사무실 케이블링 솔루션 제공",
+    "각종 기구 및 지지대는 물론 벽면에도 직접 부착 가능",
+    "소형 디자인으로 책상·워크스테이션 하단 등 제한된 공간 설치 가능",
+    "PCB 기판 위에 배치되어 노이즈 방지 효과",
+    "스냅식 작업 방식으로 작업성 우수",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "모델명": "LS-WP161P",
+    "제품명": "CAT.6 돌출형 아웃렛 1 Port",
+    "포트 수": "1 Port",
+    "지원 규격": "CAT.6 전용",
+    "모듈 포함 여부": "모듈 포함",
+    "기판 유형": "PCB 보급형",
+    "제품 크기(PRODUCT SIZE)": "4.4cm x 6.1cm x 2.6cm / 6.6cm x 4.9cm (OCR 수치 기준)",
+    "인증번호": "해당없음",
+    "인증 마크": "KC, FCC, CE",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "A/S 문의": "랜스타 A/S센터 www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "CAT.6 규격 케이블 전용"
+  ],
+  "package_contents": [
+    "돌출형 아웃렛 본체 1포트 (모듈 포함, PCB 기판 포함)"
+  ],
+  "usage_instructions": "벽면 또는 각종 기구·지지대에 직접 부착 후 스냅식으로 모듈을 결합하여 설치. 상세 설치 단계는 원본 이미지 도해(1~4단계) 참조.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-WP161P",
+      "품목코드": "NEO-아울렛032",
+      "품목명": "[LANstar] 돌출형아울렛 1port, CAT.6, 모듈포함, PCB 보급형[40067][360개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-WP161P",
+      "내용": "배송도 빠르고 저렴하게 잘샀어요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "N/A",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": null,
+      "conductor": null,
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "CAT.6 돌출형 아웃렛 1 Port",
+    "connectivity.output_signals": "CAT.6 돌출형 아웃렛 1 Port",
+    "connectivity.port_count": "1 Port",
+    "form_physical.has_case": "돌출형 아웃렛",
+    "certification.kc": "KC",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "family.cat_category": "CAT.6 전용"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:27",
+  "feature_schema_version": "1.0.0"
+}

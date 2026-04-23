@@ -1,0 +1,236 @@
+{
+  "model_no": "LS-USB3.0-SATA",
+  "product_name": "LANStar USB 3.0 to SATA 컨버터",
+  "category": [
+    "USB3.0",
+    "컨버터",
+    "전원아답터",
+    "HDD관련"
+  ],
+  "key_features": [
+    "2.5인치 및 3.5인치 HDD/SSD 지원",
+    "CD-ROM 등 ODD 지원",
+    "USB 3.0 지원 (USB 1.1/2.0 하위 호환)",
+    "최대 전송속도 5Gbps (USB 3.0 기준)",
+    "SATA I/II/III 지원 (최대 6Gbps)",
+    "별도 드라이버 설치 없이 플러그 앤 플레이",
+    "4TB 외장하드 지원",
+    "Windows 11 공식 지원",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 획득 (인증번호: LUS-LS-COPY7)"
+  ],
+  "specifications": {
+    "인터페이스_호스트": "USB 3.0 (USB 1.1/2.0 하위 호환)",
+    "인터페이스_장치": "SATA I / SATA II / SATA III",
+    "최대_전송속도_USB": "5Gbps (USB 3.0)",
+    "최대_전송속도_SATA": "SATA III 최대 6Gbps, SATA II 최대 3Gbps, SATA I 최대 1.5Gbps",
+    "지원_드라이브_크기": "2.5인치, 3.5인치",
+    "지원_드라이브_종류": "HDD, SSD, ODD (CD-ROM, DVD-ROM)",
+    "최대_용량_지원": "4TB",
+    "보조전원": "12V 2A 아답터 (별도 구매, 3.5인치 장비 및 ODD 사용 시 필요)",
+    "인증번호": "LUS-LS-COPY7",
+    "제조국": "중국 (China)",
+    "제조사_수입사": "라인업시스템(주)",
+    "인증규격": "KC, FCC, CE, RoHS, ISO 9001:2008",
+    "제품_크기": "26cm x 10.5cm x 1.2cm (본체 기준, 패키지 포함 수치 포함)",
+    "패키지_크기": "4.7cm x 2.4cm (부속 치수 포함)"
+  },
+  "compatibility": [
+    "Windows 98SE / 2000 / XP / VISTA / 7 / 8 / 10 / 11",
+    "Mac OS",
+    "Linux",
+    "SATA I (1.5Gbit/s)",
+    "SATA II (3Gbit/s)",
+    "SATA III (6Gbit/s)",
+    "USB 1.1",
+    "USB 2.0",
+    "USB 3.0",
+    "2.5인치 HDD",
+    "3.5인치 HDD",
+    "2.5인치 SSD",
+    "CD-ROM",
+    "DVD-ROM"
+  ],
+  "package_contents": [
+    "USB 3.0 to SATA 컨버터 본체 (LS-USB3.0-SATA)"
+  ],
+  "usage_instructions": "1. 컨버터의 SATA 단자와 사용할 SATA 장비(HDD, ODD, SSD 등)를 연결한다. 2. 3.5인치 장비 또는 CD-ROM 등 높은 전원을 요구하는 제품 연결 시 12V 2A 아답터(별도 구매)를 제품에 연결한다. 3. 컨버터의 USB 단자를 노트북 또는 데스크탑에 연결하면 자동으로 장비를 인식한다. 4. 새 하드디스크의 경우 내 PC에서 검색되지 않을 수 있으므로, '컴퓨터 관리 > 디스크 관리'에서 할당되지 않은 디스크를 우클릭 후 '새 단순 볼륨' 마법사를 실행하여 볼륨을 생성한 후 사용한다.",
+  "cautions": [
+    "3.5인치 HDD 및 ODD 사용 시 12V 2A 아답터(별도 구매) 연결 필요",
+    "환경에 따라 지원 전송 속도가 다를 수 있음",
+    "새 하드디스크는 볼륨 설정(디스크 관리) 후 사용 가능",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "RoHS 규정 준수 제품으로 납, 수은, 카드뮴 등 중금속 사용 제한 기준을 만족함",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB3.0-SATA",
+      "품목코드": "USB-SAT001",
+      "품목명": "[LANstar] USB 3.0 To SATA 컨버터, USB 보조전원 [12V 아답터 별도구매] [30178] (250개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "CD롬 연결해서 잘 사용중입니다."
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "잘 쓰고 있습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "사용법 편하고 잘 작동"
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "보내주신 제품 잘 받았습니다."
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "인식잘되고 전원도 인식 잘됩니다."
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "빠른 배송 감사합니다 잘쓰겠습니다"
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "누락된부분에 대해 빠른 처리하고 다시 보내주셔서 잘 사용하고 있습니다. 아주 좋아요"
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "편리하고 너무 좋아요~"
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "빠른배송 감사합니다.아직 사용전!"
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "잘 작동합니다.!!",
+      "관련내용": "5V USB에 3.5인치 하드가 작동할거라고는 생각치 않았지만, 가지고 있는 어뎁터 꼽아서 하니 잘 작동합니다."
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "Ssd가 윈도우설치하다 에러나서 불안해서 삿어요. Usb 3.0도 데이터 전송속도가 빠르네요"
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "상품 설명과 달리 ODD는 인식을 못하네요. 12V 2A어답터를 연결하니 ODD가 작동은 하지만, 실제로 컴퓨터가 인식을 하지는 못합니다. 대신 하드디스크는 잘 인식하네요. 반품이 귀찮아 그냥 쓰겠습니다. ODD 모델명은 HP GH60L이니 참고하시길 바랍니다."
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "5V USB에 3.5인치 하드가 작동할거라고는 생각치 않았지만, 가지고 있는 어뎁터 꼽아서 하니 잘 작동합니다."
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "하드에 잠들어있던 파일을 구조했습니다."
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "급히 필요해서 구입해서 유용하게 사용합니다."
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "저렴하게 잘구매했어요... 잘사용할께요"
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "가성비가 꾀나 괜찬습니다. 또구매할게요~",
+      "관련내용": "가성비 괜찬습니다. 잘샀내요"
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "가성비 괜찬습니다. 잘샀내요"
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "구매해서 쓰니 좋네요"
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "잘돼고 젛아요 굿굿"
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "덕분에 하드디스크 잘 살펴봤어요\n감사합니다"
+    },
+    {
+      "source_model": "LS-USB3.0-SATA",
+      "내용": "좋아요~ 인식도 너무잘되고 굿"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "SATA"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": 5,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0",
+    "connectivity.output_signals": "SATA I / SATA II / SATA III",
+    "connectivity.directional": "컨버터",
+    "power.power_mode": "12V 2A 아답터 (별도 구매, 3.5인치 장비 및 ODD 사용 시 필요)",
+    "form_physical.has_case": "제품_크기\": \"26cm x 10.5cm x 1.2cm (본체 기준",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "family.usb_version": "USB 3.0",
+    "family.transfer_speed_gbps": "최대 전송속도 5Gbps (USB 3.0 기준)"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:40",
+  "feature_schema_version": "1.0.0"
+}

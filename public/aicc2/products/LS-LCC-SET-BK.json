@@ -1,0 +1,106 @@
+{
+  "model_no": "LS-LCC-SET-BK",
+  "product_name": "LC 광케이블 잠금장치 보안키 1개 + 락포트 10개 1SET (Black Color)",
+  "category": [
+    "광케이블"
+  ],
+  "key_features": [
+    "LC 광케이블 포트를 물리적으로 잠가 데이터 유출 및 바이러스 침투 방지",
+    "보안키 없이는 래칫을 누를 수 없는 잠금 구조로 확실한 물리 보안 제공",
+    "기존 LC 케이블 클립을 제거하고 락포트 클립으로 교체하는 방식",
+    "군부대, 서버실, 망분리 기업, 개발부서 및 연구소 등 다양한 보안 환경에 적용 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "모델명": "LS-LCC-SET-BK",
+    "제품명": "LC 광케이블 잠금장치, 키+락포트 1SET",
+    "색상": "Black",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입",
+    "내열 규격": "R-H TUBE 125°C",
+    "치수(단위 mm)": "75 x 8.5 / 11.5 x 11.5 / 7.5 x 11 / 11 x 5 (도면 참조)"
+  },
+  "compatibility": [
+    "LC 광케이블 (LC 타입 커넥터)",
+    "일반 LC 포트 장착 장비"
+  ],
+  "package_contents": [
+    "잠금키(보안키) 1EA",
+    "케이블 락포트 클립 10EA"
+  ],
+  "usage_instructions": "1. LC 케이블의 기존 클립을 제거한 뒤 락포트 클립을 결합한다. 2. 락포트를 결합한 LC 케이블을 일반 LC 포트에 연결하듯 포트 끝까지 밀어 넣어 연결한다. 3. 케이블을 해제할 때는 보안키를 지정 방향으로 딱 소리가 날 때까지 끝까지 삽입한다. 4. 삽입한 보안키를 천천히 잡아당기면 연결된 케이블을 해제할 수 있다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상·형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-LCC-SET-BK",
+      "품목코드": "NEO-부트류165",
+      "품목명": "[LANstar] LC 광케이블 잠금장치, 락 포트 10개 포함, 블랙색상 [30527]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": null,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.color_options": "Black Color",
+    "certification.kc": "KC 인증 번호: 해당없음"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:13",
+  "feature_schema_version": "1.0.0"
+}

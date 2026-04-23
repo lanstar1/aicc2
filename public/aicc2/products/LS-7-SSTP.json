@@ -1,0 +1,280 @@
+{
+  "model_no": "LS-7-SSTP",
+  "product_name": "LANSStar CAT.7 SSTP 슬림 랜케이블 (Ultra Slim 4.0mm)",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-CAT7",
+    "랜케이블"
+  ],
+  "key_features": [
+    "10Gbps 초고속 전송속도 지원",
+    "600MHz 광대역폭",
+    "4.0mm 초슬림 설계로 일반 랜케이블(4.8mm) 대비 얇음",
+    "SSTP(Screened Shielded Twisted Pair) 이중차폐 구조로 노이즈 방지",
+    "TPE 소재 적용 – 최상위 난연등급, 환경친화적",
+    "연선(Stranded) 케이블로 유연성 우수, 설치 용이",
+    "순수 구리(Bare Copper) 사용으로 높은 전송률",
+    "36AWG 규격으로 슬림 설계, 설치 공간 50% 절약",
+    "랜 커넥터 보호캡(덮개) 기본 장착",
+    "한국기계전기전자시험연구원(KTC) 성능시험 통과 (시험성적서 번호: 12015-07623)",
+    "FLUKE DTX-1800 테스트 PASS",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "RoHS 준수 (납·수은·카드뮴 등 중금속 미사용)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "국립전파연구원 인증 획득 (인증번호: MSIP-REI-LUS-LS-CATZ / MSIP-RTI-LUS-LS-CAT7)"
+  ],
+  "specifications": {
+    "케이블 규격": "CAT.7",
+    "케이블 타입": "SSTP (Screened Shielded Twisted Pair), Direct",
+    "전송속도": "10Gbps (10,000Mbps); 10Mbps/100Mbps/1000Mbps/10Gbps 전송 가능",
+    "대역폭": "600MHz",
+    "커넥터": "RJ45, 8P8C",
+    "AWG": "36AWG",
+    "케이블 외경": "4.0mm (초슬림)",
+    "피복 소재": "TPE (Thermoplastic Elastomer, 열가소성 탄성체)",
+    "도체 소재": "Bare Copper (순수 구리)",
+    "도체 구조": "연선(Stranded)",
+    "차폐 구조": "알루미늄 이중차폐막(Twisted Pair별) + 편조쉴드 + 알루미늄 차폐막 + 쉴드 접지선",
+    "핀배열": "다이렉트 케이블 (568B-568B)",
+    "난연등급": "TPE 최상위 난연등급",
+    "색상": "검정",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "MSIP-RTI-LUS-LS-CAT7",
+    "KTC 시험성적서 번호": "12015-07623",
+    "KTC 시험항목 결과": "반사손실(Return Loss) PASS, 삽입손실(Insertion Loss) PASS, 전기적 누화손실(NEXT) PASS, 전력 누화손실(PS NEXT) PASS, ACR-F(ELFEXT) PASS, PS ACR-F(PSELFEXT) PASS",
+    "보험": "현대해상화재 생산물배상책임보험 1억원",
+    "RoHS": "준수 (COMPLIANT)",
+    "ISO 인증": "ISO 9001:2008",
+    "가용 길이 모델": "1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M"
+  },
+  "compatibility": [
+    "TIA/EIA-568 규정 규격 준수",
+    "ISO/IEC 11801 Class F (CAT.7) 규격 준수",
+    "CAT.5/CAT.5E 하위 호환",
+    "CAT.6 하위 호환",
+    "CAT.6A 하위 호환",
+    "RJ45(8P8C) 포트를 가진 스위치, 라우터, NIC 등 네트워크 장비",
+    "데이터센터, 전산실 등 다량 케이블 관리 환경",
+    "10Mbps / 100Mbps / 1Gbps / 10Gbps 네트워크"
+  ],
+  "package_contents": [
+    "CAT.7 SSTP 슬림 랜케이블 본체 (선택 길이 1종)",
+    "랜 커넥터 보호캡(덮개) 장착 상태로 제공 (양쪽 RJ45 커넥터)"
+  ],
+  "usage_instructions": "1. 커넥터 덮개 분리: 화살표 방향으로 래치를 누르면 커넥터에서 덮개가 쉽게 분리됩니다. 2. RJ45 커넥터를 네트워크 장비(스위치, 라우터, PC NIC 등)의 RJ45 포트에 삽입하여 연결합니다. 3. 슬림(4.0mm) 설계로 다수 케이블 배선 시 일반 케이블 대비 50% 공간 절약이 가능합니다. 4. 연선 구조로 유연하게 휘어지므로 좁은 공간 배선 및 이동형 사용에 적합합니다.",
+  "cautions": [
+    "본 제품은 다이렉트(Direct) 케이블(568B-568B) 핀배열이므로 크로스 케이블이 필요한 환경에서는 사용 불가",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 (A/S 문의: 라인업시스템(주))",
+    "구매·배송·반품은 판매처(쇼핑몰)를 통해 진행"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-7-SSTP-1MB",
+      "품목코드": "CAB-S7T001",
+      "품목명": "[LANstar] CAT.7 SSTP Slim 케이블, 36AWG, TPE, DIRECT 1M, BLACK [10872] (200개)",
+      "variant_suffix": "-1MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7-SSTP-2MB",
+      "품목코드": "CAB-S7T002",
+      "품목명": "[LANstar] CAT.7 SSTP Slim 케이블, 36AWG, TPE, DIRECT 2M, BLACK [10873] (150개)",
+      "variant_suffix": "-2MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7-SSTP-3MB",
+      "품목코드": "CAB-S7T003",
+      "품목명": "[LANstar] CAT.7 SSTP Slim 케이블, 36AWG, TPE, DIRECT 3M, BLACK [10874] (120개)",
+      "variant_suffix": "-3MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7-SSTP-5MB",
+      "품목코드": "CAB-S7T004",
+      "품목명": "[LANstar] CAT.7 SSTP Slim 케이블, 36AWG, TPE, DIRECT 5M, BLACK [10875] (100개)",
+      "variant_suffix": "-5MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7-SSTP-7MB",
+      "품목코드": "CAB-S7T005",
+      "품목명": "[LANstar] CAT.7 SSTP Slim 케이블, 36AWG, TPE, DIRECT 7M, BLACK [10876] (70개)",
+      "variant_suffix": "-7MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7-SSTP-10MB",
+      "품목코드": "CAB-S7T006",
+      "품목명": "[LANstar] CAT.7 SSTP Slim 케이블, 36AWG, TPE, DIRECT 10M, BLACK [10877] (60개)",
+      "variant_suffix": "-10MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7-SSTP-15MB",
+      "품목코드": "CAB-S7T007",
+      "품목명": "[LANstar] CAT.7 SSTP Slim 케이블, 36AWG, TPE, DIRECT 15M, BLACK [10878](44개)",
+      "variant_suffix": "-15MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-7-SSTP-20MB",
+      "품목코드": "CAB-S7T008",
+      "품목명": "[LANstar] CAT.7 SSTP Slim 케이블, 36AWG, TPE, DIRECT 20M, BLACK [10879](34개)",
+      "variant_suffix": "-20MB",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-7-SSTP-1MB",
+      "내용": "좋아요좋아요좋아요좋아요좋아요좋아요좋아요"
+    },
+    {
+      "source_model": "LS-7-SSTP-1MB",
+      "내용": "잘사용하겠습니다.ㅎㅎ"
+    },
+    {
+      "source_model": "LS-7-SSTP-1MB",
+      "내용": "슬림해서 너무 좋아요"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-7-SSTP-3MB",
+      "chatUrl": "XBET",
+      "dateIso": "2023-11-24T04:35:10.393Z",
+      "name": "쿠롬",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "네 말씀하신 단종제품 빼고 제품 추가해서 주문했습니다. 감사합니다.",
+      "answer": "주문을 문의합니다."
+    },
+    {
+      "source_model": "LS-7-SSTP-3MB",
+      "chatUrl": "XBET",
+      "dateIso": "2023-11-24T04:35:10.393Z",
+      "name": "쿠롬",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "LSP-GKTVM-U1WT x 2ea\nLSP-EC-LC x 1ea\nLSP-EC-SC x 1ea\n는 재고 있나요",
+      "answer": "주문을 문의합니다."
+    },
+    {
+      "source_model": "LS-7-SSTP-3MB",
+      "chatUrl": "XBET",
+      "dateIso": "2023-11-24T04:35:10.393Z",
+      "name": "쿠롬",
+      "isTechnical": true,
+      "category": "compatibility",
+      "modelConfidence": "high",
+      "question": "주문 취소 후 상품 추가 후 재주문 하려고 하는데 가능할까요.",
+      "answer": "주문을 문의합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "TPE",
+        "알루미늄",
+        "구리"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1.0,
+        2.0,
+        3.0,
+        5.0,
+        7.0,
+        10.0,
+        15.0,
+        20.0
+      ],
+      "color_options": [
+        "검정"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT7",
+      "shielding": "SSTP",
+      "conductor": "연선(stranded)",
+      "awg": 36,
+      "pair_count": null,
+      "flame_rating": "TPE",
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 커넥터를 네트워크 장비",
+    "connectivity.output_signals": "RJ45 커넥터를 네트워크 장비",
+    "connectivity.directional": "10Gbps 초고속 전송속도 지원",
+    "power.power_mode": "N/A",
+    "power.charging_support": "N/A",
+    "form_physical.material": "TPE 소재 적용",
+    "form_physical.length_options_meters": "1M, 2M, 3M, 5M, 7M, 10M, 15M, 20M",
+    "form_physical.color_options": "색상: 검정",
+    "certification.kc": "국립전파연구원 인증 획득",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "N/A",
+    "control_switching.has_remote": "N/A",
+    "control_switching.has_hotkey": "N/A",
+    "control_switching.has_physical_button": "N/A",
+    "control_switching.has_mouse_switching": "N/A",
+    "control_switching.has_auto_scan": "N/A",
+    "control_switching.has_app_control": "N/A",
+    "family.cat_category": "CAT.7",
+    "family.shielding": "SSTP(Screened Shielded Twisted Pair) 이중차폐",
+    "family.conductor": "연선(Stranded) 케이블",
+    "family.awg": "36AWG 규격",
+    "family.flame_rating": "TPE 소재 적용 – 최상위 난연등급"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:41",
+  "feature_schema_version": "1.0.0"
+}

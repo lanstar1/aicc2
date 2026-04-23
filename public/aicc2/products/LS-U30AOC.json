@@ -1,0 +1,132 @@
+{
+  "model_no": "LS-U30AOC",
+  "product_name": "USB 3.0 AOC Extend Repeater Cable (Active Optical Cable, USB 3.0 A Male - A Female)",
+  "category": [
+    "광케이블",
+    "USB선택기",
+    "USB케이블",
+    "USB3.0",
+    "컨버터",
+    "리피터"
+  ],
+  "key_features": [
+    "광섬유+구리 하이브리드(AOC) 구조로 전기 신호를 광신호로 변환하여 전송",
+    "최대 5Gbps USB 3.0 SuperSpeed 전송속도 지원",
+    "케이블 직경 OD 4.5mm의 얇은 두께와 높은 인장강도",
+    "장거리(10m~50m) 연결 시 신호 손실 최소화",
+    "10m / 20m / 30m / 50m 길이 선택 가능",
+    "산업 현장, 검사 장비, 디지털 현미경, CCTV 등 길이 연장 용도에 적합",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "인터페이스": "USB 3.0 SUPERSPEED",
+    "전송속도": "최대 5Gbps",
+    "커넥터": "USB 3.0 A Male - USB 3.0 A Female",
+    "색상": "케이블: 블랙, 커넥터: 메탈",
+    "선재규격": "Active Optical Cable (4 Fiber + 4 Copper wire)",
+    "직경": "OD 4.5mm",
+    "길이": "10m / 20m / 30m / 50m",
+    "모델명(10m)": "LS-U30AOC10",
+    "모델명(20m)": "LS-U30AOC20",
+    "모델명(30m)": "LS-U30AOC30",
+    "모델명(50m)": "LS-U30AOC50",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "케이블 구조": "OM3 Fiber, Optical, Thinned Copper core, Cover, Aluminum Mylar, Drain, Cloths, PVC Jacket"
+  },
+  "compatibility": [
+    "USB 3.0을 지원하는 PC, 노트북 등 호스트 기기",
+    "USB 3.0을 지원하는 산업용 장비, 검사 장비, 디지털 현미경, CCTV 등",
+    "USB 2.0 하위 호환 (단, USB 2.0 장비 사용 시 호환성이 좋지 않으므로 USB 3.0 장비 사용 권장)"
+  ],
+  "package_contents": [
+    "USB 3.0 AOC 연장 리피터 케이블 본체",
+    "커넥터 보호캡"
+  ],
+  "usage_instructions": "USB 3.0 A Male(Input) 단자를 PC, 노트북 등 USB 3.0 지원 호스트 기기에 연결하고, USB 3.0 A Female(Output) 단자를 연장하려는 장비에 연결합니다. Input/Output 방향성이 있으므로 연결 방향을 반드시 확인하여 사용하십시오.",
+  "cautions": [
+    "Input(USB 3.0 A Male)과 Output(USB 3.0 A Female) 방향성이 있는 제품이므로 사용 시 방향을 반드시 확인할 것",
+    "USB 3.0 AOC 케이블은 웹캠과 같은 비디오 포맷 장비에서는 사용 불가 (데이터 전송 포맷만 지원)",
+    "USB 2.0 장비 사용 시 호환성이 좋지 않으므로 USB 3.0 장비 사용 권장",
+    "최대 5Gbps 속도를 내려면 사용 기기와 케이블 모두 USB 3.0을 지원해야 함",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "PVC",
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        10,
+        20,
+        30,
+        50
+      ],
+      "color_options": [
+        "블랙",
+        "메탈"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": true,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 A Male(Input) 단자를 PC",
+    "connectivity.output_signals": "USB 3.0 A Female(Output) 단자를 연장",
+    "connectivity.directional": "Input/Output 방향성이 있으므로",
+    "power.power_mode": "버스파워",
+    "form_physical.material": "PVC Jacket",
+    "form_physical.length_options_meters": "10m / 20m / 30m / 50m 길이 선택 가능",
+    "form_physical.color_options": "케이블: 블랙, 커넥터: 메탈",
+    "family.optical_core": "광섬유+구리 하이브리드(AOC) 구조"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:26",
+  "feature_schema_version": "1.0.0"
+}

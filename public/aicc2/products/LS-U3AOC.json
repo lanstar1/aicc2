@@ -1,0 +1,136 @@
+{
+  "model_no": "LS-U3AOC",
+  "product_name": "LANStar USB 3.0 AOC 리피터 연장 케이블 (Active Optical Cable)",
+  "category": [
+    "광케이블",
+    "USB케이블",
+    "USB3.0",
+    "USB2.0",
+    "리피터",
+    "안테나케이블"
+  ],
+  "key_features": [
+    "광섬유 + 구리 하이브리드(OM3 Fiber + Thinned Copper Core) 구조로 장거리 신호 손실 없이 전송",
+    "최대 5Gbps USB 3.0 SuperSpeed 전송 속도 지원",
+    "전자기 간섭(EMI) 및 무선 주파수 간섭(RFI) 영향 없음",
+    "OD 5.2mm 얇고 유연한 케이블로 설치·배선 용이",
+    "기존 USB 하위 버전(USB 2.0 등) 하위 호환 지원",
+    "INPUT(A/M) / OUTPUT(A/F) 방향성 구조, 전원 포트(Micro 5Pin) 탑재",
+    "5M / 10M / 15M / 20M / 30M 다양한 길이 라인업",
+    "아라미드 섬유 및 알루미늄 차폐 적용으로 높은 인장 강도"
+  ],
+  "specifications": {
+    "인터페이스": "USB 3.0 SuperSpeed",
+    "전송 속도": "최대 5Gbps",
+    "커넥터 규격": "USB 3.0 A/M (INPUT) - USB 3.0 A/F (OUTPUT)",
+    "케이블 길이": "5M / 10M / 15M / 20M / 30M",
+    "전원": "USB A to Micro 5Pin 전원 케이블 (어댑터 미포함) / 약 50cm",
+    "선재 규격": "4 Core OM3 멀티모드 Fiber + 6 Core Copper",
+    "케이블 직경": "OD 5.2mm",
+    "모델명 (5M)": "LS-U3AOC05",
+    "모델명 (10M)": "LS-U3AOC10",
+    "모델명 (15M)": "LS-U3AOC15",
+    "모델명 (20M)": "LS-U3AOC20",
+    "모델명 (30M)": "LS-U3AOC30",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "USB 3.0 지원 PC 및 노트북",
+    "USB 2.0 하위 버전 기기 (하위 호환 지원)",
+    "키보드, 마우스 등 저전력 USB 입력 장치",
+    "프린터, 스캐너 (전원 연결 필수)",
+    "USB 메모리",
+    "보안 카메라 등 원거리 보안 시스템",
+    "산업용 장비",
+    "공공기관 측정·검사 장비"
+  ],
+  "package_contents": [
+    "USB 3.0 AOC 케이블 본체 × 1",
+    "USB A to Micro 5핀 전원 케이블 (약 35cm) × 2"
+  ],
+  "usage_instructions": "1. USB 3.0 A/M(INPUT) 단자를 PC 또는 노트북의 USB 3.0 포트에 연결한다. 2. USB 3.0 A/F(OUTPUT) 단자에 사용하려는 USB 장비(키보드, 마우스, 프린터, USB 메모리 등)를 연결한다. 3. INPUT 측과 OUTPUT 측 각각의 Micro 5Pin 전원 포트에 동봉된 전원 케이블을 연결하여 외부 전원을 공급한다. 4. 전력 소모가 낮은 장치(키보드, 마우스 등) 또는 고전력 USB 포트(USB 3.1 이상)에 연결하는 경우에는 전원 포트 미연결 상태에서도 동작할 수 있으나, 안정적인 사용을 위해 전원 연결을 권장한다.",
+  "cautions": [
+    "INPUT(A/M)과 OUTPUT(A/F) 방향을 반드시 확인하여 연결할 것",
+    "전원 포트(Micro 5Pin)는 안정적인 데이터 전송을 위해 연결 권장; 프린터·산업용 장비 등 고전력 장치 사용 시 전원 연결 필수",
+    "광섬유는 물 및 습기에 취약하므로, 물이나 습기가 없는 환경에서만 사용할 것",
+    "방수 기능을 지원하지 않음",
+    "어댑터(전원 공급기)는 제품에 포함되지 않으므로 별도 준비 필요",
+    "실제 전송 속도는 PC 환경 및 복합적 요소에 따라 이론적 속도와 차이가 발생할 수 있음",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처 제품은 A/S 불가",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양이 예고 없이 변경될 수 있음"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        5,
+        10,
+        15,
+        20,
+        30
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": true,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 3.0 A/M (INPUT)",
+    "connectivity.output_signals": "USB 3.0 A/F (OUTPUT)",
+    "connectivity.directional": "INPUT(A/M) / OUTPUT(A/F) 방향성 구조",
+    "power.power_mode": "전원 포트(Micro 5Pin) 탑재",
+    "form_physical.material": "알루미늄 차폐 적용",
+    "form_physical.length_options_meters": "5M / 10M / 15M / 20M / 30M",
+    "family.optical_core": "광섬유 + 구리 하이브리드(OM3 Fiber"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:48",
+  "feature_schema_version": "1.0.0"
+}

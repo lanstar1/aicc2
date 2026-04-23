@@ -1,0 +1,153 @@
+{
+  "model_no": "LS-LSTAND",
+  "product_name": "LANStar 알루미늄 접이식 노트북 거치대",
+  "category": [
+    "노트북거치대",
+    "스마트폰거치대"
+  ],
+  "key_features": [
+    "거북목 방지 설계로 만성 두통 및 어깨 통증 예방",
+    "접이식 구조로 휴대 및 보관 용이",
+    "하단 6단계 + 상단 9단계 2단 높이 조절 (최소 8cm ~ 최대 31cm)",
+    "삼각형 이중 지지대 구조로 최대 20kg 하중 지탱",
+    "최대 17.3인치 노트북까지 호환",
+    "실리콘 패드 및 폴더 거치 방식으로 미끄럼 방지",
+    "오픈형 디자인으로 자연 공기 흐름을 통한 발열 저감 효과",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "소재": "알루미늄",
+    "높이 조절 범위": "최소 8cm ~ 최대 31cm",
+    "높이 조절 단계": "하단 6단계, 상단 9단계",
+    "최대 하중": "20kg",
+    "제품 폭(좌우)": "290mm",
+    "제품 깊이(앞뒤)": "290mm",
+    "높이 조절 범위(mm)": "25~310mm",
+    "최대 두께 수용": "최대 20mm",
+    "제품 높이(접었을 때)": "45mm",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "최대 17.3인치 노트북",
+    "MacBook Pro",
+    "Samsung 노트북"
+  ],
+  "package_contents": [
+    "알루미늄 접이식 노트북 거치대 본체"
+  ],
+  "usage_instructions": "접이식 거치대를 펼친 후 하단 6단계 및 상단 9단계 높이 조절 기능을 이용해 사용자 신체에 맞게 높이를 설정하고, 실리콘 패드 및 폴더 거치 방식으로 노트북을 올려 사용한다. 사용 후에는 접어서 가방에 보관한다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)의 동의 없이 상품 및 콘텐츠 무단 복제 및 이용 금지",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-LSTAND",
+      "품목코드": "MON-거치대124",
+      "품목명": "[LANstar] 알루미늄 접이식 노트북 거치대 , 각도조절 [30402] (30개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-LSTAND",
+      "내용": "빠른 배송 감사합니다"
+    },
+    {
+      "source_model": "LS-LSTAND",
+      "내용": "가성비 좋습니다. ㅎ 그런데 조금 허약하네요 ㅎ"
+    },
+    {
+      "source_model": "LS-LSTAND",
+      "내용": "노트북 쓰는 사람은 다 쓰는 제품이어서 만족하고 잘 사용하고 있습니다."
+    },
+    {
+      "source_model": "LS-LSTAND",
+      "내용": "약간.... 부실한거 같긴한데\n사용하는데 문제없어요ㅎㅎ"
+    },
+    {
+      "source_model": "LS-LSTAND",
+      "내용": "너무너무 좋아요 ㅎㅎ 높이조절까지 굳",
+      "관련내용": "너무 좋아요 ㅎㅎㅎ"
+    },
+    {
+      "source_model": "LS-LSTAND",
+      "내용": "노트북 지지대가 매우 가볍고 튼튼해서 좋네요!"
+    },
+    {
+      "source_model": "LS-LSTAND",
+      "내용": "너무 좋아요 ㅎㅎㅎ"
+    },
+    {
+      "source_model": "LS-LSTAND",
+      "내용": "짱짱하게 잘 받혀줘서 좋아요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄",
+        "실리콘"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "mount_interface": "Freeform",
+      "weight_capacity_kg": 20,
+      "tilt": true,
+      "swivel": null,
+      "height_adjustable": true
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "접이식 구조로 휴대 및 보관 용이",
+    "form_physical.material": "소재: 알루미늄",
+    "family.mount_interface": "최대 17.3인치 노트북까지 호환",
+    "family.weight_capacity_kg": "최대 20kg 하중 지탱",
+    "family.tilt": "거북목 방지 설계",
+    "family.height_adjustable": "2단 높이 조절 (최소 8cm ~ 최대 31cm)"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:17",
+  "feature_schema_version": "1.0.0"
+}

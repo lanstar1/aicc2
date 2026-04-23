@@ -1,0 +1,117 @@
+{
+  "model_no": "LS-U1B4A",
+  "product_name": "고급형 USB 수동 선택기 (1:4)",
+  "category": [
+    "USB선택기"
+  ],
+  "key_features": [
+    "1:4 방식의 USB 수동 선택기로, 하나의 USB 장치를 최대 4대의 PC에 연결하거나 하나의 PC에서 최대 4개의 USB 장치 중 선택 사용 가능",
+    "별도의 회로나 DATA 처리 기능 없이 신호를 그대로 통과(By Pass)하는 수동 방식",
+    "양방향 통신 및 역방향 연결 사용 가능",
+    "One-touch 기능으로 동작",
+    "UP-DOWN 방식의 고품질 스위치 채용",
+    "호환성이 뛰어나며 전환 및 선택이 간편하고 반응속도가 빠름",
+    "사용 중 특성 저하나 장애 없음",
+    "4개 단자 동시 출력이 아닌 선택된 포트만 출력",
+    "전시장, 컴퓨터 및 모니터 판매점, 상황실, 회의실 등 다양한 용도로 사용 가능"
+  ],
+  "specifications": {
+    "크기": "약 11.5 × 7.5 × 2.9 cm (최대변 기준)",
+    "선택 방식": "수동 선택기 (Manual Switch)",
+    "포트 구성": "INPUT/OUTPUT 1포트 (B형 Female), A단자·B단자·C단자·D단자 각 1포트 (A형 Female), 총 5포트",
+    "전환 방식": "UP-DOWN 스위치, One-touch",
+    "신호 처리": "By Pass (통과형, 별도 회로·DATA 처리 없음)",
+    "통신 방향": "양방향 및 역방향 연결 가능"
+  },
+  "compatibility": [
+    "USB 장치 (프린터, 허브, 디지털 카메라 등)",
+    "PC 본체",
+    "Windows 환경"
+  ],
+  "package_contents": [],
+  "usage_instructions": "1. 하나의 USB 장치에 여러 PC를 연결하는 경우: USB 장치를 INPUT/OUTPUT 단자에 연결하고 각 PC를 A·B·C·D 단자에 연결한 뒤 스위치로 원하는 PC 선택. 2. 하나의 PC에서 여러 USB 장치를 선택하는 경우: PC를 INPUT/OUTPUT 단자에 연결하고 각 USB 장치를 A·B·C·D 단자에 연결한 뒤 스위치로 원하는 장치 선택.",
+  "cautions": [
+    "노이즈 및 화질 저하를 줄이기 위해 쉴드(Shield) 처리된 USB 케이블 사용을 권장",
+    "4개 단자에서 동시에 출력되는 것이 아닌 선택된 포트만 출력됨",
+    "수동 선택기 방식으로 별도의 회로나 DATA 처리 기능 없음"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-U1B4A",
+      "품목코드": "USB-선택기004",
+      "품목명": "[LANstar] USB수동선택기 4：1 (40개)[30082]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-B"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 5
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "selector_type": "수동",
+      "input_count": 1,
+      "output_count": 4,
+      "interfaces": [
+        "USB"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "INPUT/OUTPUT 1포트 (B형 Female)",
+    "connectivity.output_signals": "A단자·B단자·C단자·D단자 각 1포트 (A형 Female)",
+    "connectivity.directional": "양방향 통신 및 역방향 연결 사용 가능",
+    "connectivity.port_count": "총 5포트",
+    "power.power_mode": "별도의 회로나 DATA 처리 기능 없이 신호를 그대로 통과(By Pass)하는 수동 방식",
+    "power.charging_support": "별도의 회로나 DATA 처리 기능 없이 신호를 그대로 통과(By Pass)하는 수동 방식",
+    "form_physical.has_case": "약 11.5 × 7.5 × 2.9 cm",
+    "control_switching.has_physical_button": "UP-DOWN 방식의 고품질 스위치 채용",
+    "family.selector_type": "USB 수동 선택기",
+    "family.input_count": "1:4 방식의 USB 수동 선택기로, 하나의 USB 장치를",
+    "family.output_count": "최대 4대의 PC에 연결하거나 하나의 PC에서 최대 4개의 USB 장치",
+    "family.interfaces": "USB 수동 선택기"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:25",
+  "feature_schema_version": "1.0.0"
+}

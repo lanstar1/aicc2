@@ -1,0 +1,86 @@
+{
+  "model_no": "LS-USBLOCK-B-SET",
+  "product_name": "[LANstar] USB포트 잠금장치, USB A타입 커넥터 4개 포함 세트 (블루) [20160]",
+  "category": [
+    "커넥터",
+    "USB잠금장치"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-USBLOCK-B-SET",
+      "품목코드": "NEO-부트류148",
+      "품목명": "[LANstar] USB포트 잠금장치, USB A타입 커넥터 4개 포함 세트 (블루) [20160]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-USBLOCK-B-SET",
+      "내용": "랜스타 제품 잘 사용하고 있습니다",
+      "관련내용": "저렴하게 잘 구매했습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-USBLOCK-B-SET",
+      "내용": "저렴하게 잘 구매했습니다 감사합니다"
+    },
+    {
+      "source_model": "LS-USBLOCK-B-SET",
+      "내용": "잘 받았씁니다~~~~~~!!!!!!",
+      "관련내용": "잘 받았습니다~~~~~!!!!!!!"
+    },
+    {
+      "source_model": "LS-USBLOCK-B-SET",
+      "내용": "잘 받았습니다~~~~~!!!!!!!"
+    },
+    {
+      "source_model": "LS-USBLOCK-B-SET",
+      "내용": "빠른 배송과 안전한 포장 만족합니다."
+    },
+    {
+      "source_model": "LS-USBLOCK-B-SET",
+      "내용": "사용은 아직 못해봄"
+    },
+    {
+      "source_model": "LS-USBLOCK-B-SET",
+      "내용": "엄청 빠른 안전한 배송 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "N/A"
+    },
+    "power": {
+      "power_mode": "N/A"
+    },
+    "form_physical": {
+      "color_options": [
+        "블루"
+      ]
+    },
+    "family": {
+      "connector_type_a": "USB-A",
+      "connector_type_b": "USB-A",
+      "gender": "N/A"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A타입 커넥터",
+    "connectivity.output_signals": "USB A타입 커넥터",
+    "form_physical.color_options": "블루",
+    "family.connector_type_a": "USB A타입 커넥터",
+    "family.connector_type_b": "USB A타입 커넥터"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:01",
+  "feature_schema_version": "1.0.0"
+}

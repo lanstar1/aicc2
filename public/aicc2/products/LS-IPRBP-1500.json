@@ -1,0 +1,125 @@
+{
+  "model_no": "LS-IPRBP-1500",
+  "product_name": "랜스타 iPod&iPhone 충전용 비상용 보조 배터리 (RECHARGEABLE iPod&iPhone BATTERY)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "Apple 공식 Licensed Developer RFI Program 인증 제품 (RFI Product ID: 102355-0100)",
+    "Made for iPod / Made for iPhone 공식 인증",
+    "1500mAh 충전 용량의 비상용 보조 배터리",
+    "컴퓨터/노트북 USB 포트, 차량용 시가잭, USB 전원 어댑터로 충전 가능",
+    "휴대가 간편하여 어디서든 iPod&iPhone 배터리 연장 가능",
+    "생산물 책임 보험 가입",
+    "RoHS 인증 제품 (유해물질 사용 제한 규격 준수)",
+    "신속한 A/S 1:1 교환 보상",
+    "국내 순수 브랜드 랜스타 (1993년 설립), 애플 공식 협력 브랜드"
+  ],
+  "specifications": {
+    "배터리 용량": "1500mAh",
+    "인증": "Apple RFI Program 인증, Made for iPod, Made for iPhone, RoHS Compliant",
+    "RFI Product ID": "102355-0100",
+    "브랜드": "LAN Star (랜스타)",
+    "제조/공급사": "라인업시스템(주)",
+    "설립연도": "1993년",
+    "상표등록번호": "제 0514743 호",
+    "사업자번호": "056-08-01145",
+    "RoHS 인증": "카드뮴(Cd), 납(Pb), 수은(Hg), 6가크롬(Cr6+), 브롬계 난연제(PBB) 사용 금지 규격 준수"
+  },
+  "compatibility": [
+    "iPod 5세대 (Video)",
+    "iPod nano 1세대",
+    "iPod nano 2세대 (aluminum)",
+    "iPod nano 3세대 (Video)",
+    "iPod nano 4세대 (Video)",
+    "iPod nano 5세대 (Video camera)",
+    "iPod nano 6세대",
+    "iPod Mini",
+    "iPod Touch 1세대",
+    "iPod Touch 2세대",
+    "iPod Touch 3세대",
+    "iPod Touch 4세대",
+    "iPod Classic 80GB",
+    "iPod Classic 160GB (2007)",
+    "iPod Classic 120GB",
+    "iPod Classic 160GB (2009)",
+    "iPhone 3G",
+    "iPhone 3GS",
+    "iPhone 4"
+  ],
+  "package_contents": [],
+  "usage_instructions": "컴퓨터/노트북의 USB 포트, 차량용 시가잭, 또는 USB 전원 어댑터에 연결하여 본 보조 배터리를 충전한 후, iPod 또는 iPhone에 연결하여 배터리를 연장 사용합니다. iPad의 경우 많은 잔량을 필요로 하기 때문에 용량이 더 큰 충전지를 사용해야 합니다.",
+  "cautions": [
+    "iPad의 경우 많은 잔량을 필요로 하기 때문에 용량이 큰 충전지를 사용해야 합니다.",
+    "본 컨텐츠를 저작권의 허락 없이 무단 복사 및 도용, 변형, 배포, 기타 타용도로 전환 시 민·형사상의 책임을 부담할 수 있습니다.",
+    "구매 전에 호환 가능한 모델인지 확인 후 구매 바랍니다.",
+    "Apple은 본 기기의 작동 또는 안전 및 규제 기준 준수에 대해 책임지지 않습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-IPRBP-1500",
+      "품목코드": "CAB-APP201",
+      "품목명": "[LANstar] 애플용 충전밧데리, 1500R, Rechargeable",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "내장케이블"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "컴퓨터/노트북 USB 포트",
+    "connectivity.output_signals": "iPod&iPhone 충전용 비상용 보조 배터리",
+    "connectivity.directional": "충전용 비상용 보조 배터리",
+    "power.power_mode": "컴퓨터/노트북 USB 포트, 차량용 시가잭, USB 전원 어댑터로 충전 가능",
+    "power.charging_support": "1500mAh 충전 용량의 비상용 보조 배터리",
+    "form_physical.has_case": "비상용 보조 배터리",
+    "certification.rohs": "RoHS 인증 제품"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:51",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,129 @@
+{
+  "model_no": "LS-RS11C",
+  "product_name": "LANStar USB to RS232 컨버터 (USB to 시리얼 컨버터)",
+  "category": [
+    "컨버터",
+    "젠더"
+  ],
+  "key_features": [
+    "Prolific Technology Inc. PL2303 칩셋 사용으로 RS232 장치와 높은 호환성",
+    "양방향/단방향 통신 지원, 최대 1Mbps 전송속도",
+    "1.8M 케이블 길이로 PC와 시리얼 기기 간 원거리 연결 가능",
+    "Plug & Play 지원 - 별도 프로그램 설치 없이 연결 후 자동 인식",
+    "9Pin(M) 단자 및 25Pin 변환 젠더 포함으로 다양한 시리얼 장치 연결 가능",
+    "RoHS, FCC, CE, KC(KCC) 안전규격 인증 제품"
+  ],
+  "specifications": {
+    "인터페이스": "USB (컴퓨터 연결) / RS232 9Pin(M) (시리얼 장치 연결)",
+    "칩셋": "Prolific PL2303 (PL-2303HX)",
+    "최대 전송속도": "1Mbps",
+    "케이블 길이": "1.8M",
+    "통신 방식": "양방향/단방향",
+    "기본 포트 설정 - 비트/초": "9600",
+    "기본 포트 설정 - 데이터 비트": "8",
+    "기본 포트 설정 - 패리티": "없음",
+    "기본 포트 설정 - 정지 비트": "1",
+    "기본 포트 설정 - 흐름 제어": "없음",
+    "9Pin 핀 배열": "Pin1:DCD, Pin2:RXD, Pin3:TXD, Pin4:DTR, Pin5:GND, Pin6:DSR, Pin7:RTS, Pin8:CTS, Pin9:RI",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "LUS-LS-RS11C",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "Windows 98",
+    "Windows 2000",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Mac OS X (8.6 이상)",
+    "Linux",
+    "모뎀 (RS232 규격)",
+    "PDA (RS232 규격)",
+    "GPS (RS232 규격)",
+    "내비게이션 (RS232 규격)",
+    "카드결제 단말기 (RS232 규격)"
+  ],
+  "package_contents": [
+    "USB RS11C 케이블",
+    "9-25 변환 젠더",
+    "드라이버 CD"
+  ],
+  "usage_instructions": "USB 단자를 PC에 연결하면 Plug & Play로 자동 인식됩니다. 장치 관리자에서 느낌표가 표시되는 경우 제품에 동봉된 드라이버 CD로 드라이버를 설치하세요. 포트 설정(비트/초, 데이터 비트, 패리티, 정지 비트, 흐름 제어)은 장치 관리자 > 포트(COM & LPT) > Prolific USB-to-Serial Comm Port 속성에서 변경할 수 있으며, 연결 상태에 문제가 있으면 FIFO 버퍼 설정값을 낮추고, 송수신 속도를 빠르게 하려면 설정값을 높이세요.",
+  "cautions": [
+    "장치 관리자에서 느낌표가 표시되면 제품에 동봉된 CD로 드라이버를 설치하세요.",
+    "연결 상태에 문제가 있으면 FIFO 버퍼 수신/송신 설정값을 낮추세요.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "Serial(DB9)"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 1.8,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": "Prolific PL2303"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB (컴퓨터 연결)",
+    "connectivity.output_signals": "RS232 9Pin(M) (시리얼 장치 연결)",
+    "connectivity.directional": "양방향/단방향 통신 지원",
+    "power.power_mode": "USB 단자를 PC에 연결하면",
+    "form_physical.has_case": "LANStar USB to RS232 컨버터",
+    "form_physical.length_meters": "1.8M 케이블 길이",
+    "certification.kc": "KC(KCC) 안전규격 인증 제품",
+    "certification.rohs": "RoHS, FCC, CE, KC(KCC) 안전규격 인증 제품",
+    "certification.fcc": "RoHS, FCC, CE, KC(KCC) 안전규격 인증 제품",
+    "certification.ce": "RoHS, FCC, CE, KC(KCC) 안전규격 인증 제품",
+    "family.conversion_direction": "양방향/단방향 통신 지원",
+    "family.requires_external_power": "USB 단자를 PC에 연결하면 Plug & Play로 자동 인식됩니다",
+    "family.chipset": "Prolific Technology Inc. PL2303 칩셋 사용"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:45",
+  "feature_schema_version": "1.0.0"
+}

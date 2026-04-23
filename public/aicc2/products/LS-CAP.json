@@ -1,0 +1,134 @@
+{
+  "model_no": "LS-CAP",
+  "product_name": "LANStar 한손키보드 전용 기계식 키보드 키캡 (금색)",
+  "category": [
+    "키캡",
+    "게이밍키보드"
+  ],
+  "key_features": [
+    "스텝 스컬처2(Step Sculpture II) 적용 — 키캡 위치에 따라 높이를 달리 설계하여 인체공학적 타이핑 지원",
+    "에나멜 처리 플라스틱 소재로 디자인과 기능 동시 고려",
+    "깔끔한 LED 투광 설계로 기존 키보드 자판과 자연스럽게 어울림",
+    "키캡 리무버 동봉으로 누구나 손쉽게 교체 가능",
+    "금색·은색 2가지 색상 제공",
+    "W, A, S, D 키를 방향키 키캡으로 교체 가능",
+    "생산물배상책임보험 1억원 가입(현대해상화재)",
+    "인체공학적 스텝 스컬처2(Step Sculpture II) 적용 — 키 위치에 따라 높이와 각도를 달리 설계하여 타이핑 편의성 향상",
+    "깔끔한 LED 투광 설계 — 기존 키보드 자판과 자연스럽게 어울림",
+    "키캡 리무버 동봉 — 누구나 손쉽게 교체 가능",
+    "W, A, S, D 키를 방향키 키캡으로 교체 사용 가능"
+  ],
+  "specifications": {
+    "모델명": "LS-CAP-G / LS-CAP-S",
+    "색상": "금색(G), 은색 / 은색(Silver), 금색(Gold)",
+    "소재": "에나멜 처리 플라스틱",
+    "키캡 설계 방식": "스텝 스컬처2(Step Sculpture II)",
+    "키캡 크기": "18mm x 18mm",
+    "키캡 높이(Q/W/E/R — L/R)": "9.5 / 9.3",
+    "키캡 높이(A/S/D/F — L/R)": "9.8 / 9.2",
+    "키캡 높이(세 번째 행 — L/R)": "10.2 / 9.0",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입",
+    "키캡 방식": "스텝 스컬처2 (Step Sculpture II)",
+    "키 높이(L/R)": "Q,W,E,R: 9.5/9.3mm / A,S,D,F: 9.8/9.2mm / 기타: 10.2/9.0mm"
+  },
+  "compatibility": [
+    "기계식 키보드 십자형 축 전용",
+    "카일 축 호환 가능",
+    "체리 축 호환 가능",
+    "오테뮤 축 호환 가능",
+    "무접점 키보드 호환 불가",
+    "카일(Kailh) 축 호환",
+    "체리(Cherry) 축 호환",
+    "오테뮤(Outemu) 축 호환"
+  ],
+  "package_contents": [
+    "기계식 키보드 키캡 (금색)",
+    "키캡 리무버",
+    "기계식 키보드 키캡 (은색)"
+  ],
+  "usage_instructions": "1. 동봉된 키캡 리무버를 교체하려는 자판에 끼웁니다. 2. 리무버를 그대로 들어올린 후 밀어서 기존 키캡을 분리합니다. 3. 원하는 키캡을 해당 위치에 눌러 장착합니다. W, A, S, D 위치에 방향키 키캡으로 교체하거나, Q/W/E/R에 금색, A/S/D/F에 은색 등 색상 조합 변경이 가능합니다.",
+  "cautions": [
+    "기계식 키보드 십자형 축에만 사용 가능",
+    "무접점 키보드에는 호환 불가",
+    "제조사 사정에 따라 색상 및 형태 등 사양이 예고 없이 변경될 수 있음",
+    "라인업시스템(주)의 상품 및 콘텐츠를 무단 복제·이용 시 불이익이 발생할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-CAP-G",
+      "품목코드": "COM-키마기203",
+      "품목명": "[LANstar] 기계식키보드 키캡 골드색상[60115]",
+      "variant_suffix": "",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-CAP-S",
+      "품목코드": "COM-키마기204",
+      "품목명": "[LANstar] 기계식키보드 키캡 실버색상[60116]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-CAP-S": "LANStar\n한손키보드 전용\n기계식 키보드 키캡\n[LS-CAP-S(은색)\nEsc\nLAN 10 F1\nSS\nF2\nTAB\n2\nF3\n3\nF4\nR\nCaps\n4\nF5\n5\nL\nE\nSHIFT\n6\nCO\nS\nR\nCtrl\nZ\nD\nP\nFN\nX\nC\nG\nAlt\nB\n스텝 스컬처2\nLED 투광\n쉬운 교체\n인체공학적으로 설계된\n스텝스컬쳐2를 적용하여\n키캡의 위치에 따라\n키캡의 높이를 달리 설계\n깔끔한 LED 투광으로\n기존 키보드 자판들과\n잘 어울리는 키캡\n키캡 리무버까지 포함된\n상품으로 손쉬운 교체가\n가능합니다\n01\nStep Sculpture II\n매끈한 디자인\n키캡의 높이와 각도의 차이를 준 스텝 스컬처2의 방식을 적용하여\n타이핑하기 편하게 제작하였습니다\n에나멜 처리가 된 플라스틱 소재로 디자인과 기능을 모두 고려하였습니다\n02\nLED 투광\n화려한 색감\n기존 자판과 어색하지 않고 잘 어우러지게 제작하였습니다.\n3\nTAB\nㅁ\nW\nE\nR\nP\nR\nE\nCaps\nAS\nDIF\nW\n다\nl\nSHIFT\nZ\nX C\na\nח\nCaps\nCtrl\nFN\nAlt\nAN\nR\nE\nw\n\n\nSHIFT\nZX C\n10\nL\nD\nS\nCaps\nCtrl\nFN\nAlt\nR\nE\nFL\nW,A,S,D 키를 대신하여 방향키를 사용하실 수 있습니다.\n03\n간편한 교체\n누구나 손쉽게\n동봉된 키캡 리무버를 이용해 누구나 쉽고 빠르게 교체가 가능합니다\nF1\nEsc\nLANSIT\nQ\nTAB\nCaps\n1. 키캡 리무버를 이용해 교체하고 싶은 자판에 끼워줍니다\n2. 끼워준 리무버를 그대로 들어올린 후 밀어서 빼주시면 됩니다\n※ 주 의 사 항 ※\n기계식 키보드 십자형 축에만 사용가능\n카일 축, 체리축, 오테뮤축도 호환 가능\n무접점 키는 호환 불가!\n04\n2가지 색상\n당신이 원하는대로\n동봉된 키캡 리무버를 이용해 누구나 쉽고 빠르게 교체가 가능합니다\nF2\nTAB\nT\nDS\n3\nW\n4\nE\nR\n8키를 금색 키캡으로 바꿔 사용\n5\n8키를 은색 키캡으로 바꿔 사용\nTAB\n5\n\n\n8키를 은색 키캡으로 바꿔 사용\nTAB\n5\nCaps\nS\nQ,W,E,R4키는 금색으로,\nA,S,D,F4키는 은색으로 사용\nTAB\n3\n5\n6\nR\n게임에 많이 사용되는 W,A,S,D(방향키를\n방향키 키캡으로 바꿔 사용\nP\nG\nB\nPRODUCT SIZE\nAL\n18mm\n18mm\nQ,W, E, R\nA, S, D, F\n1.1.-\n(9.5/9.3)\n(9.8/92)\n(10.2/9.0)\n(L/R)\n(L/R)\n(L/R)\nPRODUCT PACKAGE\n镀金\n透光机械键帽\nThe Key for Mechan\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nLANSStar\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\n기계식키보드 키캡\nLANStar\n모\n델\n명\nLS-CAP-S\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n품질 보증 기준\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "금색",
+        "은색"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.material": "에나멜 처리 플라스틱 소재",
+    "form_physical.color_options": "금색·은색 2가지 색상 제공",
+    "certification.kc": "인증번호: 해당없음"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:57",
+  "feature_schema_version": "1.0.0"
+}

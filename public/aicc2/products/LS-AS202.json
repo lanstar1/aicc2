@@ -1,0 +1,161 @@
+{
+  "model_no": "LS-AS202",
+  "product_name": "LANStar HDMI 2.0 2:1 선택기 (HDMI Switch 2in1out)",
+  "category": [
+    "HDMI선택기"
+  ],
+  "key_features": [
+    "2대의 HDMI 기기를 동시 연결하여 원하는 기기의 영상을 선택 출력",
+    "HDMI 2.0 지원 - 18Gbps 대역폭, 4K2K(4096x2160) 60Hz 출력",
+    "리모컨 및 전면 수동 선택 버튼으로 입력 포트 전환 가능",
+    "HDR(High Dynamic Range) 지원",
+    "HDCP 2.2 지원으로 4K 블루레이 영상 완벽 재생",
+    "32채널 멀티채널 오디오 및 1536kHz 오디오 지원",
+    "3D 및 Full HD 1080p 지원",
+    "데이지 체인(Daisy Chain) 방식 지원 - 분배기와 조합하여 다수 디스플레이 출력 가능",
+    "DTS-HD, Dolby-True-HD, Dolby Atmos, DTS:X 등 다양한 오디오 포맷 지원",
+    "KC, FCC, CE, RoHS 인증 획득",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "입출력포트": "2포트 HDMI 입력, 1포트 HDMI 출력",
+    "지원해상도": "4K*2K(4096x2160), 2160i/p, 1080i/p, 720i/p, 576i/p, 480i/p",
+    "최대전송대역폭": "18Gbps",
+    "최대프레임": "60Hz",
+    "HDMI버전": "HDMI 2.0",
+    "오디오포맷": "DTS-HD, Dolby-True-HD, Dolby Atmos, DTS:X, LPCM7.1, AC3, DTS, DSD",
+    "오디오채널": "32채널",
+    "오디오주파수": "1536kHz",
+    "HDCP": "V2.2 지원",
+    "HDR": "지원",
+    "3D": "지원",
+    "크기": "83×48×24.5mm (W x H x L)",
+    "전원": "DC 5V / 1A (외경 3.5mm, 내경 1.8mm)",
+    "리모컨배터리": "CR2025 (포함)",
+    "인증": "KC (MSIP-REI-LUS-LS-AS204), FCC, CE, RoHS, ISO 9001:2008",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "LCD 모니터",
+    "디지털 TV",
+    "블루레이 플레이어",
+    "게임기",
+    "프로젝터",
+    "HDMI 단자를 가진 디지털 기기 전반",
+    "DVI 단자 기기 (DVI-HDMI 케이블 또는 DVI 젠더 별도 구매 필요, 이 경우 음성 미지원)"
+  ],
+  "package_contents": [
+    "HDMI 선택기 본체 (LS-AS202)",
+    "리모컨 (CR2025 건전지 포함)",
+    "전원 어댑터 DC 5V/1A (외경 3.5mm, 내경 1.8mm)",
+    "한글 매뉴얼"
+  ],
+  "usage_instructions": "2대의 HDMI 입력 기기를 본체의 INPUT 1, INPUT 2 포트에 연결하고, 출력 기기(TV, 모니터 등)를 OUTPUT 포트에 연결합니다. 전면의 수동 선택 버튼 또는 리모컨의 포트 선택 버튼을 이용해 원하는 입력 기기로 전환합니다. 데이지 체인 방식으로 HDMI 분배기와 조합하면 더 많은 디스플레이로 출력할 수 있습니다.",
+  "cautions": [
+    "본 기기는 셋톱박스, 인터넷 TV와 연결 시 작동하지 않습니다. 일시적으로 작동할 수 있으나 방송 송출사에서 신호 차단 시 다시 작동하지 않습니다.",
+    "DVI 단자 기기 연결 시 DVI-HDMI 케이블 또는 DVI 젠더(별도 구매) 필요하며, 이 경우 음성은 지원하지 않아 별도의 스테레오 케이블(M/M)로 연결해야 합니다.",
+    "케이블 길이와 성능에 따라 데이지 체인 연장 가능 여부가 달라집니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "무단 복제 및 콘텐츠 이용 시 불이익을 받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-AS202",
+      "품목코드": "INT-HDS052",
+      "품목명": "[LANstar] LS-AS202 HDMI 2.0 2：1 선택기 3D, 2K/4K/60MHz지원[30128](20개)★★할인제외★★",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": false,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": true,
+      "hdcp_version": "HDCP2.2",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": true,
+      "has_hotkey": false,
+      "has_physical_button": true,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "selector_type": "수동",
+      "input_count": 2,
+      "output_count": 1,
+      "interfaces": [
+        "HDMI"
+      ]
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "2포트 HDMI 입력",
+    "connectivity.output_signals": "1포트 HDMI 출력",
+    "connectivity.directional": "선택 출력",
+    "connectivity.port_count": "2포트 HDMI 입력, 1포트 HDMI 출력",
+    "power.power_mode": "DC 5V / 1A",
+    "power.charging_support": "null",
+    "power.pd_watts": "null",
+    "form_physical.has_case": "83×48×24.5mm (W x H x L)",
+    "form_physical.material": "null",
+    "form_physical.length_meters": "null",
+    "form_physical.length_options_meters": "null",
+    "form_physical.color_options": "null",
+    "certification.kc": "KC (MSIP-REI-LUS-LS-AS204)",
+    "certification.rohs": "RoHS 인증 획득",
+    "certification.iso9001": "null",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "certification.netflix": "null",
+    "audio_video.max_resolution": "4K2K(4096x2160) 60Hz 출력",
+    "audio_video.hdr_support": "HDR(High Dynamic Range) 지원",
+    "audio_video.hdcp_version": "HDCP 2.2 지원",
+    "audio_video.audio_pass": "32채널 멀티채널 오디오 및 1536kHz 오디오 지원",
+    "control_switching.has_remote": "리모컨 및 전면 수동 선택 버튼",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "전면 수동 선택 버튼",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.selector_type": "선택 출력",
+    "family.input_count": "2대의 HDMI 기기를 동시 연결",
+    "family.output_count": "1포트 HDMI 출력",
+    "family.interfaces": "HDMI"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:13",
+  "feature_schema_version": "1.0.0"
+}

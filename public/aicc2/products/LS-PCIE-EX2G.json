@@ -1,0 +1,136 @@
+{
+  "model_no": "LS-PCIE-EX2G",
+  "product_name": "PCIE 인텔 듀얼 기가 랜카드 (PCI-Express Gigabit Ethernet Dual LanCard)",
+  "category": [
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "2개의 RJ45 포트를 제공하는 PCI-Express 듀얼 기가 랜카드",
+    "10/100/1000Mbps 속도 지원 (IEEE 802.3 표준 규격 준수)",
+    "Intel 82576EB 칩셋 사용으로 안정적이고 효과적인 네트워크 성능 제공",
+    "LACP 및 티밍(Teaming) 기능 지원: 2개 회선을 하나로 묶어 대역폭 확장 및 안정성 향상",
+    "망분리 기능 지원: 내부망/외부망 동시 접속 가능 (회사, 관공서 등 활용)",
+    "하나의 회선 장애 발생 시 다른 회선으로 자동 티밍 전환되어 서비스 유지",
+    "PCI-Express x4 슬롯 사용, x4/x8/x16 슬롯 모두 장착 가능",
+    "Windows 11 지원 제품",
+    "다양한 OS 지원: WIN 7/8/8.1/10/11, Server 2008/2012/2016, FreeBSD, Linux, VMWare ESXi",
+    "IEEE 802.3az Energy Efficient Ethernet(EEE) 지원",
+    "WoL(Wake on LAN), PXE 원격 부팅, iSCSI 부팅, VLAN Filtering 기능 지원",
+    "슬림PC용 LP 브라켓 포함",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-EX2000N)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "슬롯": "PCI-Express x4",
+    "인터페이스": "RJ45 x2",
+    "칩셋": "Intel 82576EB",
+    "속도": "10/100/1000Mbps",
+    "Topology": "IEEE 802.3 10BASE-T / 100BASE-TX / 1000BASE-T, IEEE 802.3z, IEEE 802.3Q VLANs, IEEE 802.3x, IEEE 1588, IEEE 802.3az Energy Efficient Ethernet(EEE)",
+    "기능": "IPMI Pass-Through via SMBus or NC-SI, WoL, PXE remote boot, iSCSI boot, VLAN Filtering",
+    "지원 OS": "WIN 7 / Server 2008 / Server 2012 / WIN 8 / WIN 8.1 / WIN 10 / WIN 11 / FreeBSD / Linux / VMWare ESXi",
+    "제품 크기": "122mm x 56mm x 119mm (두께 12mm)",
+    "인증번호": "R-R-LUS-EX2000N",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "PCI-Express x4 슬롯",
+    "PCI-Express x8 슬롯",
+    "PCI-Express x16 슬롯",
+    "Windows 7",
+    "Windows 8 / 8.1",
+    "Windows 10",
+    "Windows 11",
+    "Windows Server 2008",
+    "Windows Server 2012",
+    "Windows Server 2016",
+    "FreeBSD",
+    "Linux",
+    "VMWare ESXi",
+    "CAT-5 케이블",
+    "10/100BASE-T 시스템 (하위 호환)"
+  ],
+  "package_contents": [
+    "LS-PCIE-EX2G 듀얼 랜카드 본체",
+    "슬림PC용 LP 브라켓",
+    "설치 CD (Driver)"
+  ],
+  "usage_instructions": "1. 메인보드의 PCI-Express 슬롯(x4, x8, x16 모두 사용 가능)에 랜카드를 장착한다. 2. PC 부팅 후 장치관리자 > 네트워크 어댑터 항목에 'Intel(R) 82576 Gigabit Dual Port Network Connection' 2개 항목이 표시되는지 확인한다. 3. 랜 포트에 케이블을 연결하면 제어판 > 네트워크 및 인터넷 > 네트워크 연결에서 이더넷8, 이더넷9가 연결된 상태로 표시된다. 4. 티밍(Teaming) 기능 사용 시 티밍 프로그램을 랜스타 자료실(https://www.LANstar.co.kr)에서 다운로드하여 설치한다. 5. LACP(Link Aggregation) 사용 시 연결하는 데이터 서버(NAS, 스토리지), 공유기, 스위칭허브가 LACP를 지원해야 한다.",
+  "cautions": [
+    "티밍(Teaming) 기능은 Windows 7까지만 지원되며 Windows 8/8.1/10에서는 지원되지 않는다.",
+    "티밍 프로그램은 랜스타 자료실(https://www.LANstar.co.kr)에서 다운로드 받아야 한다.",
+    "LACP 사용 조건: 연결하는 데이터 서버(NAS, 스토리지)와 공유기, 스위칭허브가 LACP를 지원해야 한다.",
+    "제조사의 사정에 따라 제품의 색상, 형태 등의 사양은 예고 없이 변경될 수 있다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 처리된다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-EX2G",
+      "품목코드": "USB-PCI266",
+      "품목명": "[LANstar] 인텔 듀얼 PCIe 기가 랜 카드, Intel 82576EB [30568] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 1000,
+      "chipset": "Intel 82576EB"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "2개의 RJ45 포트",
+    "connectivity.port_count": "2개의 RJ45 포트",
+    "certification.kc": "KC 인증 획득",
+    "family.bus_interface": "PCI-Express",
+    "family.speed_mbps": "10/100/1000Mbps 속도 지원",
+    "family.chipset": "Intel 82576EB 칩셋 사용"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:05",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,140 @@
+{
+  "model_no": "LS-SVHS-MM",
+  "product_name": "SVHS 케이블 (M/M) 4핀",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "SVHS 영상단자(4핀)를 이용하는 M/M 타입 케이블",
+    "컴퓨터와 TV 연결 지원",
+    "다양한 길이 옵션 제공 (1.5m ~ 30m)"
+  ],
+  "specifications": {
+    "품명": "SVHS 케이블 (4핀)",
+    "모델명": "LS-SVHS-MM",
+    "제품길이": "1.5m / 3m / 5m / 10m / 15m / 20m / 30m",
+    "커넥터 타입": "4핀 SVHS (M/M)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "SVHS 영상단자 탑재 기기 (4핀)",
+    "SVHS 영상단자 탑재 TV",
+    "SVHS 영상단자 탑재 컴퓨터 그래픽 카드 (4핀)",
+    "7핀 또는 9핀 그래픽 카드 (핀 변환 젠더 별도 사용 시)"
+  ],
+  "package_contents": [
+    "SVHS 케이블 (M/M) 1개"
+  ],
+  "usage_instructions": "SVHS 4핀 단자가 있는 기기(컴퓨터, TV 등)에 케이블 양끝을 연결하여 사용. 컴퓨터 그래픽 카드가 7핀 또는 9핀인 경우, 별도의 핀 변환 젠더를 사용하여 연결.",
+  "cautions": [
+    "컴퓨터 그래픽 카드가 7핀 또는 9핀인 경우 핀 변환 젠더를 별도로 사용해야 함",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-SVHS-MM-1.5M",
+      "품목코드": "CAB-SVH001",
+      "품목명": "[LANstar] 비디오케이블 ,SVHS M／M, 5pi, 1.5M[10417] --> [10952] 로 대체",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SVHS-MM-2M",
+      "품목코드": "CAB-SVH002",
+      "품목명": "[LANstar] 비디오케이블 ,SVHS M／M, 5pi, 2M [10952]",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SVHS-MM-10M",
+      "품목코드": "CAB-SVH005",
+      "품목명": "[LANstar] 비디오케이블 ,SVHS M／M, 5pi, 10M[10420]",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SVHS-MM-15M",
+      "품목코드": "CAB-SVH006",
+      "품목명": "[LANstar] 비디오케이블 ,SVHS M／M, 5pi, 15M[10421]",
+      "variant_suffix": "-15M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-SVHS-MM-30M",
+      "품목코드": "CAB-SVH008",
+      "품목명": "[LANstar] 비디오케이블 ,SVHS M／M, 5pi, 30M[10423]",
+      "variant_suffix": "-30M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "SVHS"
+      ],
+      "output_signals": [
+        "SVHS"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        1.5,
+        3,
+        5,
+        10,
+        15,
+        20,
+        30
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "SVHS 영상단자(4핀)",
+    "connectivity.output_signals": "SVHS 영상단자(4핀)",
+    "connectivity.directional": "케이블 양끝을 연결하여 사용",
+    "power.power_mode": "무전원",
+    "form_physical.length_options_meters": "1.5m / 3m / 5m / 10m / 15m / 20m / 30m",
+    "audio_video.max_resolution": "SVHS 영상단자(4핀)",
+    "audio_video.hdr_support": "SVHS 영상단자(4핀)",
+    "audio_video.hdcp_version": "SVHS 영상단자(4핀)",
+    "audio_video.audio_pass": "SVHS 영상단자(4핀)"
+  },
+  "feature_extracted_at": "2026-04-23T03:19:20",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,174 @@
+{
+  "model_no": "LS-PCIE-EX210AT",
+  "product_name": "LAN Star PCI-Express 기가비트 랜카드 (Gigabit Ethernet LAN Card)",
+  "category": [
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "Intel WGI210AT 칩셋 사용으로 높은 호환성, 안정성, 신호전달력 제공",
+    "10/100/1000Mbps 기가비트 속도 지원",
+    "IEEE 802.3 표준 규격 준수 (10BASE-T / 100BASE-TX / 1000BASE-T)",
+    "PCI-Express x1 규격으로 x1, x4, x8, x16 슬롯 모두 장착 가능",
+    "PCI-Express 1.1 규격 준수",
+    "크로스오버 검출 및 자동 보정, 적응 균등화, 크로스 토크 취소, 에코 취소, 타이밍 복구, 오류 수정 기능 지원",
+    "IPMI Pass-Through via SMBus or NC-SI, WoL, PXE remote boot, iSCSI boot, VLAN Filtering 기능 지원",
+    "IEEE 802.3az Energy Efficient Ethernet(EEE) 지원",
+    "슬림PC용 LP 브라켓 포함",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "RoHS 규격 준수, KC·FCC·CE 안전규격 인증 획득",
+    "국립전파연구원 인증 획득 (인증번호: R-RLUS-LS-PCIE-EX210)",
+    "Windows 11 지원"
+  ],
+  "specifications": {
+    "슬롯": "PCI-Express x1",
+    "인터페이스": "RJ45 x1",
+    "칩셋": "Intel WGI210AT",
+    "데이터 전송 속도": "10/100/1000Mbps",
+    "Topology": "IEEE 802.3, 10BASE-T / 100BASE-TX / 1000BASE-T",
+    "지원 표준": "IEEE 802.3u, IEEE 802.3Q VLANs, IEEE 802.3x, IEEE 1588, IEEE 802.3az (Energy Efficient Ethernet)",
+    "기능": "IPMI Pass-Through via SMBus or NC-SI, WoL, PXE remote boot, iSCSI boot, VLAN Filtering",
+    "제품 크기": "120mm x 66mm x 50mm (두께 18mm)",
+    "제조국": "중국 (MADE IN CHINA)",
+    "인증번호": "R-RLUS-LS-PCIE-EX210",
+    "제조사": "라인업시스템(주)",
+    "품질 인증": "ISO 9001:2008, RoHS, KC, FCC, CE"
+  },
+  "compatibility": [
+    "PCI-Express x1 슬롯",
+    "PCI-Express x4 슬롯",
+    "PCI-Express x8 슬롯",
+    "PCI-Express x16 슬롯",
+    "Windows 7",
+    "Windows 8 / 8.1",
+    "Windows 10",
+    "Windows 11",
+    "Windows Vista",
+    "Windows Server 2008",
+    "Windows Server 2012",
+    "Windows Server 2016",
+    "FreeBSD",
+    "Linux",
+    "VMWare ESXi"
+  ],
+  "package_contents": [
+    "LS-PCIE-EX210AT 랜카드 본체",
+    "슬림PC용 LP 브라켓",
+    "드라이버 설치 CD"
+  ],
+  "usage_instructions": "데스크탑 PC 메인보드의 PCI-Express 슬롯(x1, x4, x8, x16 모두 가능)에 장착하여 기가비트 랜포트를 생성한다. 기가비트 네트워크 환경을 구축하려면 인터넷 회선, 공유기, 허브 모두 기가비트를 지원해야 한다. 슬림PC에 장착 시 동봉된 LP 브라켓으로 교체하여 사용한다.",
+  "cautions": [
+    "기가비트 속도를 활용하려면 연결되는 인터넷, 공유기, 허브 모두 기가비트를 지원해야 함",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "RoHS 규격에 따라 납, 수은, 카드뮴 등 중금속 사용이 제한된 제품임",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-EX210AT",
+      "품목코드": "USB-PCI251",
+      "품목명": "[LANstar] PCIe 기가비트 랜카드 , Intel WGI210AT 칩셋 [30399] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-PCIE-EX210AT",
+      "내용": "배송빠르게 도착했어료"
+    },
+    {
+      "source_model": "LS-PCIE-EX210AT",
+      "내용": "이뻐요~ 빈팀있는곳에 몇장 사서 붙혀야 할듯",
+      "관련내용": "좋네요~~!! 다른 제품도 써봐야겠네요"
+    },
+    {
+      "source_model": "LS-PCIE-EX210AT",
+      "내용": "좋네요~~!! 다른 제품도 써봐야겠네요"
+    },
+    {
+      "source_model": "LS-PCIE-EX210AT",
+      "내용": "잘 사용하고 있습니다.",
+      "관련내용": "이상없이 잘 됩니다~ 추천요~"
+    },
+    {
+      "source_model": "LS-PCIE-EX210AT",
+      "내용": "이상없이 잘 됩니다~ 추천요~"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-PCIE-EX210AT",
+      "id": 231369803,
+      "date": "2022-08-07 20:26",
+      "answerDate": "2022-08-08 09:17",
+      "user": "run7***",
+      "productName": "랜스타 PCIE 기가비트 랜카드 인텔 WGI210AT 칩셋 LS-PCIE-EX210AT",
+      "question": "인텔 EXPI9301CT 기가 랜카드 82574L 칩셋 이제품보다 이제품 칩셋이 더좋은건가요? 칩셋 볼줄 모르곘어요 제가 기가바이트 h110쓰다가 랜카드드 고장이나서 \n사용중인 인터넷상품은 500메가에요  안정적이게 쓰고싶은데요 추천 좀 해주세요 인텔 칩중에서요 ㅠ",
+      "answer": "안녕하세요 랜스타 입니다.\n\n사용하셨던 칩셋이 상위 모델이긴 하지만 큰 차이가 나지는 않습니다.\n인텔 랜카드가 리얼텍 보다는 안정적이기 때문에 권장드립니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [],
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 1000,
+      "chipset": "Intel WGI210AT"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "인터페이스: RJ45 x1",
+    "connectivity.port_count": "RJ45 x1",
+    "certification.kc": "KC·FCC·CE 안전규격 인증 획득",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "KC·FCC·CE 안전규격 인증 획획득",
+    "certification.ce": "KC·FCC·CE 안전규격 인증 획득",
+    "family.bus_interface": "PCI-Express x1 규격",
+    "family.speed_mbps": "10/100/1000Mbps 기가비트 속도 지원",
+    "family.chipset": "Intel WGI210AT 칩셋 사용"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:14",
+  "feature_schema_version": "1.0.0"
+}

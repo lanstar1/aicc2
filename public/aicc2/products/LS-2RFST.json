@@ -1,0 +1,154 @@
+{
+  "model_no": "LS-2RFST",
+  "product_name": "LANStar 3.5 스테레오 연장 케이블 (3.5ST/M-2RCA/F)",
+  "category": [
+    "컨버터",
+    "커넥터",
+    "RCA케이블",
+    "오디오케이블",
+    "AV케이블"
+  ],
+  "key_features": [
+    "3.5파이 스테레오(3극) 입력을 2RCA(음성 좌/우) 출력으로 변환",
+    "아날로그 음성 지원",
+    "신호 손실을 최소화하는 금도금 커넥터",
+    "케이블 두께 4pi",
+    "RoHS 규격 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "커넥터 구성": "3.5ST(Male) - 2RCA(Female)",
+    "신호 방식": "아날로그 음성",
+    "케이블 두께": "4pi",
+    "커넥터 도금": "금도금",
+    "길이 옵션": "1.5M, 3M, 5M, 10M",
+    "모델명_1.5M": "LS-2RFST-1.5M",
+    "모델명_3M": "LS-2RFST-3M",
+    "모델명_5M": "LS-2RFST-5M",
+    "모델명_10M": "LS-2RFST-10M",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조"
+  },
+  "compatibility": [
+    "PC (데스크탑/노트북)",
+    "MP3 플레이어",
+    "오디오 앰프",
+    "TV",
+    "스피커 등 2RCA 입력 음향기기"
+  ],
+  "package_contents": [
+    "3.5ST(M)-2RCA(F) 케이블 1개"
+  ],
+  "usage_instructions": "단자의 색상에 맞게 연결. ① 컴퓨터·MP3·오디오 등의 3.5ST 단자를 케이블 Male 쪽에 연결하고, 2RCA Female 단자를 스피커 등 음향기기의 RCA 입력(좌/우)에 연결하여 음성을 전달. ② 컴퓨터·노트북의 3.5ST 출력을 TV의 RCA 입력에 연결하면 TV 내장 스피커로 음향 출력(TV-OUT) 가능.",
+  "cautions": [
+    "연결되는 기기마다 사용하는 단자가 다르므로 반드시 확인하고 구매할 것",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품 이미지 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-2RFST-1.5M",
+      "품목코드": "CAB-S2R008",
+      "품목명": "[LANstar] AV케이블 ,2RCA／F-3.5ST／M, 3pi, 1.5M[10479]",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-2RFST-3M",
+      "품목코드": "CAB-S2R009",
+      "품목명": "[LANstar] AV케이블 ,2RCA／F-3.5ST／M, 3pi, 3M[10480]",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-2RFST-5M",
+      "품목코드": "CAB-S2R010",
+      "품목명": "[LANstar] AV케이블 ,2RCA／F-3.5ST／M, 3pi, 5M[10481]",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-2RFST-10M",
+      "품목코드": "CAB-S2R011",
+      "품목명": "[LANstar] AV케이블 ,2RCA／F-3.5ST／M, 3pi, 10M[10482]",
+      "variant_suffix": "-10M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "RCA"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1.5,
+        3.0,
+        5.0,
+        10.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5파이 스테레오(3극) 입력을",
+    "connectivity.output_signals": "2RCA(음성 좌/우) 출력으로",
+    "connectivity.directional": "3.5파이 스테레오(3극) 입력을 2RCA(음성 좌/우) 출력으로 변환",
+    "power.power_mode": "아날로그 음성 지원",
+    "form_physical.material": "금도금 커넥터",
+    "form_physical.length_options_meters": "1.5M, 3M, 5M, 10M",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.audio_pass": "아날로그 음성 지원",
+    "family.conversion_direction": "3.5파이 스테레오(3극) 입력을 2RCA(음성 좌/우) 출력으로 변환",
+    "family.requires_external_power": "아날로그 음성 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:06:37",
+  "feature_schema_version": "1.0.0"
+}

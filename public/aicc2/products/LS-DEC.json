@@ -1,0 +1,171 @@
+{
+  "model_no": "LS-DEC",
+  "product_name": "Video to VGA 디코더 (3in1 변환 컨버터)",
+  "category": [
+    "VGA",
+    "컨버터",
+    "RCA케이블"
+  ],
+  "key_features": [
+    "VGA(RGB), SVHS, RCA 3가지 신호를 입력받아 VGA(RGB) 신호로 출력하는 3in1 변환 컨버터",
+    "PIP(Picture in Picture) 기능 지원 - PC 화면과 동시에 소화면으로 DVD, CCTV 등 시청 가능",
+    "출력 해상도 조절 기능 지원 (최대 1920x1200)",
+    "OSD(On Screen Display) 지원 - 밝기/명암/색상/채도 설정 가능",
+    "PIP 창 크기 3단계 조절 (Large / Medium / Small) 및 위치 5단계 조정 가능",
+    "CCTV, VCR, 콘솔 화면을 고화질 VGA 모니터로 출력 가능",
+    "KC, FCC, CE 안전규격 인증 획득",
+    "RoHS 인증 - 유해물질 사용 제한 준수",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "입력 신호": "VGA(RGB), SVHS, RCA",
+    "출력 신호": "VGA(RGB)",
+    "지원 출력 해상도": "800x600, 1024x768, 1280x1024, 1440x900, 1600x1200, 1600x900, 1366x768, 1680x1050, 1920x1080, 1920x1200",
+    "최대 출력 해상도": "1920x1200",
+    "전원": "DC 5V 1A 아답터 (별매), USB 전원 케이블",
+    "제품 크기": "55mm x 20mm x 99mm",
+    "인증번호": "R-R-LUS-LS-ENC",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "브랜드": "LANStar (랜스타)",
+    "안전규격 인증": "KC, FCC, CE",
+    "환경 인증": "RoHS COMPLIANT",
+    "품질 인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "CCTV (RCA to BNC 젠더 별도 구매 필요)",
+    "VCR",
+    "DVD 플레이어",
+    "게임 콘솔",
+    "VGA(RGB) 출력 장치",
+    "SVHS 출력 장치",
+    "RCA 출력 장치",
+    "VGA 입력 모니터"
+  ],
+  "package_contents": [
+    "Video to VGA 디코더 본체 (LS-DEC) 1개",
+    "RCA 케이블 0.9m",
+    "RGB 케이블 1.5m",
+    "SVHS 케이블 1m",
+    "USB 전원 케이블 1m",
+    "User Manual (사용설명서)"
+  ],
+  "usage_instructions": "1. 디코더에 VGA(RGB), SVHS, RCA 중 원하는 입력 신호를 연결하고 VGA OUT을 모니터에 연결한다. CCTV 연결 시 RCA to BNC 젠더(별도 구매)를 사용한다. 2. AV/SV/PC 버튼으로 입력 모드를 선택한다. 3. RESET 버튼으로 해상도를 최대치까지 조절하고, MODE 버튼으로 해상도 및 새로고침 빈도를 변경한다. 4. MENU 버튼으로 밝기/명암/색상/채도를 설정하고, P.P 버튼으로 4가지 사진 모드를 전환한다. 5. PIP 기능 사용 시: PC 신호 입력 후 PIP 버튼을 누르면 소화면이 나타나고, 다시 누르면 종료된다. PIP 상태에서 RESET 버튼으로 창 크기(Large/Medium/Small)를, MODE 버튼으로 창 위치(①~⑤)를 조정한다. PIP 이미지가 깨질 경우 MENU 버튼을 반복하여 눌러 이미지 품질을 개선한다.",
+  "cautions": [
+    "아답터(DC 5V 1A)는 별매이며, USB 전원 케이블로도 전원 공급 가능",
+    "CCTV 연결 시 RCA to BNC 변환 젠더를 별도 구매하여 사용해야 함",
+    "VGA OUT 변환 젠더는 별도 구매 필요",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-DEC",
+      "품목코드": "AVO-디코더020",
+      "품목명": "[LANstar] Video to VGA 디코더 VGA(RGB), SVHS, RCA 입력, VGA(RGB) 출력 [60127] (40개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DEC",
+      "내용": "작동 잘되네요 감사합니다"
+    },
+    {
+      "source_model": "LS-DEC",
+      "내용": "정확란 제품 빠른 배송 만족합니다."
+    },
+    {
+      "source_model": "LS-DEC",
+      "내용": "배송 빨라요. 잘 사용하겠습니다."
+    },
+    {
+      "source_model": "LS-DEC",
+      "내용": "딱 필요한 것이 와서 좋았습니다"
+    },
+    {
+      "source_model": "LS-DEC",
+      "내용": "좋은 제품 적절하게 잘구매했네요.  좋아요!",
+      "관련내용": "빠른배송감사합니다.저렴하게 잘 구매했네요."
+    },
+    {
+      "source_model": "LS-DEC",
+      "내용": "빠른배송감사합니다.저렴하게 잘 구매했네요."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "VGA",
+        "USB-A",
+        "RCA"
+      ],
+      "output_signals": [
+        "VGA"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "하이브리드",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "1920x1200",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": true,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "VGA(RGB), SVHS, RCA 3가지 신호를 입력",
+    "connectivity.output_signals": "VGA(RGB) 신호로 출력",
+    "connectivity.directional": "VGA(RGB), SVHS, RCA 3가지 신호를 입력받아 VGA(RGB) 신호로 출력",
+    "power.power_mode": "DC 5V 1A 아답터 (별매), USB 전원 케이블",
+    "form_physical.has_case": "Video to VGA 디코더 (3in1 변환 컨버터)",
+    "certification.kc": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.rohs": "RoHS 인증 - 유해물질 사용 제한 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증 획득",
+    "certification.ce": "KC, FCC, CE 안전규격 인증 획득",
+    "audio_video.max_resolution": "최대 1920x1200",
+    "control_switching.has_physical_button": "AV/SV/PC 버튼으로 입력 모드를 선택한다."
+  },
+  "feature_extracted_at": "2026-04-23T03:10:41",
+  "feature_schema_version": "1.0.0"
+}

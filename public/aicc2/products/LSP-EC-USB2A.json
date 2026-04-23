@@ -1,0 +1,132 @@
+{
+  "model_no": "LSP-EC-USB2A",
+  "product_name": "USB2.0 키스톤 커플러 (USB2.0 A/F - A/F, White Color)",
+  "category": [
+    "USB허브",
+    "USB2.0",
+    "키스톤잭",
+    "커플러",
+    "분배판넬",
+    "멀티탭",
+    "서버랙",
+    "허브랙",
+    "아웃렛박스"
+  ],
+  "key_features": [
+    "USB2.0 A타입 F/F 암-암 연장용 키스톤 커플러",
+    "벽면 부착형 Wall Plate 및 Outlet 백박스에 장착 가능",
+    "허브랙·서버랙 전용 마운트 판넬에 장착 가능",
+    "매립형(벽면 플레이트 결합) 및 판넬 마운트형 두 가지 방식 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "흰색(White) 색상"
+  ],
+  "specifications": {
+    "인터페이스": "USB2.0 A/F - A/F",
+    "색상": "흰색 (White)",
+    "제조국/원산지": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "치수_가로(mm)": "34.2",
+    "치수_세로1(mm)": "19.1",
+    "치수_세로2(mm)": "17",
+    "치수_높이1(mm)": "16.5",
+    "치수_높이2(mm)": "14.7",
+    "치수_기타1(mm)": "9.6",
+    "치수_기타2(mm)": "8"
+  },
+  "compatibility": [
+    "벽부착형 Wall Plate (LS-WP23 시리즈 등)",
+    "Outlet 백박스",
+    "허브랙·서버랙 전용 마운트 판넬 (LS-PLKP 시리즈 등)",
+    "USB2.0 A타입 케이블"
+  ],
+  "package_contents": [
+    "USB2.0 키스톤 커플러 (LSP-EC-USB2A) 본체 1개"
+  ],
+  "usage_instructions": "벽면 플레이트(Wall Plate) 또는 Outlet 백박스에 결합하여 매립형으로 사용하거나, 허브랙·서버랙 마운트 판넬에 장착하여 사용. USB2.0 A타입 케이블을 양쪽 A/F 포트에 각각 연결하여 케이블 연장.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr",
+    "구매·배송·반품은 판매처(쇼핑몰 하단 참조)에 문의"
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-EC-USB2A",
+      "품목코드": "GEN-USB116",
+      "품목명": "[◆Lanstar-Plus] USB2.0 키스톤 커플러, USB/F to USB/F [20318](600개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "흰색"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "port_count": null,
+      "usb_version": "USB2.0",
+      "ethernet_speed_mbps": null,
+      "has_sd_reader": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB2.0 A타입 F/F 암-암",
+    "connectivity.output_signals": "USB2.0 A타입 F/F 암-암",
+    "connectivity.directional": "USB2.0 A/F - A/F",
+    "connectivity.port_count": "USB2.0 A/F - A/F",
+    "form_physical.has_case": "키스톤 커플러",
+    "form_physical.material": "흰색(White) 색상",
+    "form_physical.color_options": "흰색(White) 색상",
+    "certification.kc": "인증번호: 해당없음",
+    "family.usb_version": "USB2.0 A타입 F/F 암-암"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:33",
+  "feature_schema_version": "1.0.0"
+}

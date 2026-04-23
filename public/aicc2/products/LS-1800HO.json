@@ -1,0 +1,104 @@
+{
+  "model_no": "LS-1800HO",
+  "product_name": "LS-1800HO(37U) 랙 캐비닛",
+  "category": [
+    "허브랙"
+  ],
+  "key_features": [
+    "37U 규격 랙 캐비닛",
+    "바퀴(캐스터) 장착으로 이동 편의성 제공",
+    "상하단 구분 없는 프레임 고정 연결부 설계"
+  ],
+  "specifications": {
+    "모델명": "LS-1800HO(37U)",
+    "높이(H)": "1777mm",
+    "깊이(D)": "600mm",
+    "너비(W)": "600mm",
+    "무게": "16.2kg",
+    "유닛(U)": "37U"
+  },
+  "compatibility": [],
+  "package_contents": [
+    "기둥 프레임 2ea",
+    "하단 프레임 2ea",
+    "프레임 고정 연결부 2ea (상하단 구분 없음)",
+    "랙 바퀴 4ea",
+    "볼트 60ea",
+    "보호 고무 20ea",
+    "너트 20ea",
+    "케이지너트 20ea"
+  ],
+  "usage_instructions": null,
+  "cautions": [],
+  "variants": [
+    {
+      "model_no": "LS-1800HO",
+      "품목코드": "NEO-허브랙193",
+      "품목명": "[LANstar] 오픈허브랙 2POST , 37unit, 아이보리색상 [30852]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "rack_unit": 37,
+      "mount_type": "standing",
+      "depth_mm": 600,
+      "width_mm": 600,
+      "height_mm": 1777,
+      "has_door": null,
+      "has_lock": null,
+      "has_fan": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "랙 캐비닛",
+    "family.rack_unit": "37U 규격 랙 캐비닛",
+    "family.mount_type": "바퀴(캐스터) 장착",
+    "family.depth_mm": "깊이(D)\": \"600mm",
+    "family.width_mm": "너비(W)\": \"600mm",
+    "family.height_mm": "높이(H)\": \"1777mm"
+  },
+  "feature_extracted_at": "2026-04-23T03:05:40",
+  "feature_schema_version": "1.0.0"
+}

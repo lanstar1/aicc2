@@ -1,0 +1,656 @@
+{
+  "model_no": "LS-6SFTP",
+  "product_name": "LAN Star CAT.6 SFTP 랜케이블 단선 300M",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-CAT6",
+    "랜케이블-SFTP",
+    "랜케이블",
+    "LAN공구"
+  ],
+  "key_features": [
+    "CAT.6 SFTP(Shielded Foiled Twisted Pair) 규격의 단선(Solid) 랜케이블",
+    "기존 저가형 대비 구리 함량이 높아 데이터 손실이 적고 통신공사용으로 적합",
+    "알루미늄 차폐막(Al.Mylar 테이프) 및 쉴드 접지선으로 노이즈 방지",
+    "십자형 Spacer(개재)로 케이블 Pair 간 간섭을 줄여 전송 속도 향상",
+    "단선(Solid Cable) 구조로 외부 간섭이 적어 데이터 전송이 안정적",
+    "24AWG 미국전선규격 적용으로 잡음이 적고 안정적인 전송 가능",
+    "친환경 소재(RoHS 인증) 사용",
+    "High Giga Speed 지원, 데이터 전송속도 250MHz / 1Gbps",
+    "기존 저가형 대비 구리 함량이 높아 데이터 손실이 적고 빠른 전도율 제공",
+    "십자형 Spacer(크로스 개재)로 Pair 간 간섭을 줄여 전송 속도 향상",
+    "단선(Solid) 구조로 외부 간섭이 적고 데이터 전송이 안정적",
+    "24AWG 규격으로 잡음이 적고 안정적인 전송에 적합",
+    "RoHS 친환경 소재 사용 인증 제품",
+    "통신공사용(초고속 네트워크 망, 접지 및 특수환경 포함) 적합",
+    "EIA/TIA 568 규격 준수",
+    "CAT.6 S/FTP 규격, 1Gbps 전송속도, 250MHz 대역폭 지원",
+    "SFTP 2중차폐 구조 (편조차폐 + 알루미늄 차폐막)로 노이즈 방지",
+    "24AWG 연선(Stranded) 케이블로 설치 용이 및 안정적 전송",
+    "Bare Copper(순수구리) 사용으로 높은 전송률",
+    "LSZH(Low Smoke Zero Halogen) 피복 적용 - 저연기, 무독성, 무산성 가스",
+    "TPE 소재(열가소성 탄성체) 난연 케이블로 화재 확산 억제",
+    "십자형 차단막으로 페어 간 간섭 차단",
+    "다이렉트 케이블 핀배열(568B-568B)",
+    "RoHS 인증 제품 (유해물질 제한 지침 적합)",
+    "KC 인증 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "제조사: 라인업시스템(주) / 제조국: 중국(China)"
+  ],
+  "specifications": {
+    "모델명": "LS-6SFTP-300M / LS-6SFTP-300MG",
+    "제품명": "CAT.6 SFTP 랜케이블",
+    "케이블 유형": "SFTP (Shielded Foiled Twisted Pair)",
+    "케이블 등급": "CAT.6",
+    "전선 구성": "4Pair / 8Core, 단선(Solid)",
+    "도체 규격": "24AWG (미국전선규격)",
+    "데이터 전송속도": "250MHz / 1Gbps",
+    "길이": "300M",
+    "색상": "회색 / 블랙(Black)",
+    "차폐 구조": "알루미늄 차폐막(Al.Mylar 테이프), 쉴드 접지선, 노이즈 방지 비닐막(PS 테이프) / 알루미늄 차폐막(Al.Mylar 테이프), 쉴드 접지선, 십자형 Spacer, 노이즈 방지 비닐막(PS테이프)",
+    "개재 구조": "십자형 Spacer",
+    "절연 피복": "PE절연, PVC/LSZH 피복",
+    "표준": "EIA/TIA 568",
+    "인증": "RoHS / RoHS Compliant / KC, RoHS, UL",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "A/S 고객상담": "070-7018-3386",
+    "케이블 카테고리": "CAT.6",
+    "케이블 타입": "SFTP (Shielded Foiled Twisted Pair)",
+    "선 구조": "단선 (Solid Cable)",
+    "페어 구성": "4Pair / 8Core",
+    "절연 소재": "PE 절연",
+    "외피 소재": "PVC/LSZH 피복",
+    "케이블 길이": "300M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담 연락처": "070-7018-3386",
+    "규격": "CAT.6 S/FTP (SF/UTP)",
+    "전송속도": "1Gbps",
+    "대역폭": "250MHz",
+    "이더넷규격": "1000BASE-TX",
+    "케이블타입": "다이렉트 케이블 (568B-568B)",
+    "도체": "Bare Copper (순수구리), 24AWG, 연선(Stranded)",
+    "피복소재": "PVC/LSZH, TPE",
+    "차폐구조": "2중차폐 (편조차폐 + 알루미늄 차폐막), 십자형 차단막",
+    "커넥터": "8P8C (RJ45)",
+    "제품길이": "10M, 12M, 14M, 16M",
+    "제품크기(단면)": "외경 약 8mm (케이블), 플러그 포함 시 11mm x 28mm x 20mm",
+    "모델번호(10M)": "LS-6SFTP-10MBK",
+    "모델번호(12M)": "LS-6SFTP-12MBK",
+    "모델번호(14M)": "LS-6SFTP-14MBK",
+    "모델번호(16M)": "LS-6SFTP-16MBK",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 가입",
+    "품질경영시스템": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "CAT.6 규격 호환 네트워크 장비",
+    "초고속 네트워크 환경 (1Gbps급)",
+    "접지 및 특수환경 네트워크 설비",
+    "통신공사용 배선",
+    "EIA/TIA 568 규격 준수 장비",
+    "초고속 네트워크 망(1Gbps급) 환경",
+    "접지 및 특수환경(공장배선, 옥외 배선 등) 네트워크 장비",
+    "CAT.6 규격 네트워크 장비 (스위치, 허브, 공유기 등)",
+    "CAT.5, CAT.5E 하위 호환",
+    "1000BASE-TX (기가비트 이더넷)",
+    "100BASE-TX (100Mbps 이더넷)",
+    "8P8C (RJ45) 포트 지원 기기"
+  ],
+  "package_contents": [
+    "CAT.6 SFTP 랜케이블 단선 300M (BOX 타입, 회색)",
+    "CAT.6 SFTP 랜케이블 단선 300M (1롤)",
+    "CAT.6 S/FTP 다이렉트 랜케이블 (선택 길이: 10M / 12M / 14M / 16M) 1개"
+  ],
+  "usage_instructions": "통신공사용 배선에 적합하며, 접지용 쉴드선이 내장되어 있어 옥외 배선 및 접지가 필요한 특수환경에서 사용 가능. 단선(Solid) 타입이므로 고정 배선용으로 사용하며, 반복적인 굴곡이 필요한 환경에는 연선(Stranded) 제품 사용 권장.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "단선(Solid) 케이블이므로 반복 굴곡·이동용 배선보다 고정 배선용으로 사용 권장"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-6SFTP-12MBK",
+      "품목코드": "CAB-F5G030",
+      "품목명": "[LANstar] GigaLAN케이블 , CAT.5E SFTP, Gray 30M BOA <제작>",
+      "variant_suffix": "-12MBK",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6SFTP-10MBK",
+      "품목코드": "CAB-F6G042",
+      "품목명": "[LANstar] 클라우드 LAN케이블, LSZH, CAT.6 SFTP, 블랙 10M [11056]",
+      "variant_suffix": "-10MBK",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6SFTP-12MBK",
+      "품목코드": "CAB-F6G043",
+      "품목명": "[LANstar] 클라우드 LAN케이블, LSZH, CAT.6 SFTP, 블랙 12M [11057]",
+      "variant_suffix": "-12MBK",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6SFTP-14MBK",
+      "품목코드": "CAB-F6G044",
+      "품목명": "[LANstar] 클라우드 LAN케이블, LSZH, CAT.6 SFTP, 블랙 14M [11058]",
+      "variant_suffix": "-14MBK",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6SFTP-16MBK",
+      "품목코드": "CAB-F6G045",
+      "품목명": "[LANstar] 클라우드 LAN케이블, LSZH, CAT.6 SFTP, 블랙 16M [11059][20개]",
+      "variant_suffix": "-16MBK",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6SFTP-300M",
+      "품목코드": "CAB-F6박005",
+      "품목명": "[LANstar] CAT.6케이블, SFTP, Gray 300M BOA [10723] (2개)",
+      "variant_suffix": "-300M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-6SFTP-300MG",
+      "품목코드": "CAB-F6박006",
+      "품목명": "[LANstar] [10926]CAT.6케이블, SFTP, Gray 300M, RO (2개) ★★단종★★ 10723으로 대체",
+      "variant_suffix": "-300MG",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "가성비가 좋아요 ㅎㅎ"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "가격및 품질에 만족합니다."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "제품이상없고 잘쓰고있습니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "쉴드가 있어서 신호가 안정적으로 좋네요..",
+      "관련내용": "좋은 성능에 업무용으로 잘 사용하고 있습니다~="
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "감사합니다 감사합니다",
+      "관련내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "좋은 성능에 업무용으로 잘 사용하고 있습니다~="
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "빠른배송 감사합니다",
+      "관련내용": "빠른배송 감사합니다. 잘 사용하겠습니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "빠른배송 감사합니다. 잘 사용하겠습니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "빠른배송  감사합니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "아직 사용전이라 품질은 확인후 후기 올릴게요~^^"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "만족하고 잘 사용하고 있습니다",
+      "관련내용": "저렴하게 제가 찾는 제품입니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "회사에서 업무용으로 잘 사용중입니다~",
+      "관련내용": "회사에서 장비 랜선으로 아주 잘 사용하고 있습니다."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "저렴하게 잘쓰고 있습니다",
+      "관련내용": "저렴하게 잘쓰고 있습니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "저렴하게 제가 찾는 제품입니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "회사에서 장비 랜선으로 아주 잘 사용하고 있습니다."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "저렴하게 잘 사서 썼습니다.  당연히 선은 얇습니다. 하지만 쉴드 있고 가성비 좋습니다."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "장비 랜통신용으로 아주 좋네요~~",
+      "관련내용": "안정적인 성능으로 회사에서 이것만 씁니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "역시 컨넥터는 전문적으로나온 Ls제품이 좋아요"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "저렴하게 잘쓰고 있습니다",
+      "관련내용": "납기가 빠르고 만족합니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "저렴하게 잘쓰고 있습니다",
+      "관련내용": "잘 받아서 쓰고 있씁니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "저렴하게 잘쓰고 있습니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "산업용 장비에 사용하는데 최고에요",
+      "관련내용": "공사에 사용하려고 구매했는데 저렴하고 배송빠르고 좋네요.."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "안정적인 성능으로 회사에서 이것만 씁니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "항상 유용하게 잘쓰고 있습니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "잘 받아서 쓰고 있씁니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "납기가 빠르고 만족합니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "공사에 사용하려고 구매했는데 저렴하고 배송빠르고 좋네요.."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "STP중 굵기도 적당하여 작업하기 좋아서 이것만 사용합니다."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "회사에서 업무용으로 잘 쓰고있습니다.\n튼튼하고 통신잘되고 좋아요.."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "품질 도 좋고 / 납기 도 만족"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "회사에서 자주 시켜서 사용합니다..\n성능 좋아요.."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "전체저인 마감이 좋습니다."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "배송빠르고 급하게 필요했는데 잘마무리했어요~"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "가격 저렴해서 자주 사용중입니다.",
+      "관련내용": "잘 사용중 입니다."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "잘 사용중 입니다."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "아주 좋습니다~!!!"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "제품 품질이 좋아요....많이 파세요."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "저렴하고 품질도 튼튼하고 좋아요!"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "회사에서 설비제작용으로 주기적으로 구매해서 사용합니다..\n쉴드있는 타입이라 확실히 통신성능이 좋은것 같습니다.\n배송도 빠르게 와서 좋아요."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "빠른 배송 감사하고 놀랍네요.\n어제 주문 했는데 오늘 오전에 도착 했네요\n성능은 사용 해 보고 리뷰 올리 겠습니다."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "랜선 잘받았습니다~~"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "굿굿 빠른 배송 감사합니다."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "회사에서 사용할려구 구매했어요 전기 담당자님이 이 재품이 좋다고해서 주문하게되었습니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "아직사용전이나 랜케이블이 문제가있진않을거라 생각하고 구매결정합니다\n공유기랑 허브랑 같이사용하려고 구매했습니다"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "빠른배송 감사합니다."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "내부 8가닥은 너무 얇네요. LS꺼랑 비교하면 안됩니다. 기존 CAT5E에서 다운로드 600MB나오다가 이걸로 바꾸니까 900MB 나오네요. 업다운 모두 1000MB 기가 인터넷 이제야 제대로 써먹네요. 화면 전송도 깨끗하게 잘되네요. 노이즈 없구요 (VGA TO RJ45)"
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "내용": "빠른배송 조으네요~~"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-6SFTP-300M",
+      "id": 212671993,
+      "date": "2022-03-28 11:05",
+      "answerDate": "2022-03-28 11:15",
+      "user": "outs******",
+      "productName": "랜스타 LS-6SFTP-300M CAT6 SFTP 단선 300M 회색 제작용 랜케이블",
+      "question": "랜 커넥터도 같이 오나요?",
+      "answer": "안녕하세요 랜스타입니다.\n\n랜 커넥터와 랜툴은 별매입니다.\n\n감사합니다."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "id": 513888478,
+      "date": "2023-01-30 00:05",
+      "answerDate": "2023-01-30 09:06",
+      "user": "zz****",
+      "productName": "랜스타 LS-6SFTP-300M CAT6 SFTP 단선 300M 회색 제작용 랜케이블",
+      "question": "이 제품에 사용할 커넥터는 어떤건가요? 묶음배송 가능한가요?",
+      "answer": "안녕하세요 고객님, 랜스타입니다.\n\n해당 케이블 호환 콘넥터는,\n\nhttps://smartstore.naver.com/lineup/products/7976071353 LSN-CAT6-STP 일반형 콘넥터\n\nhttps://smartstore.naver.com/lineup/products/6187865941 LSN-6PASS-STP 통과형 콘넥터\n\n두 가지 제품 중 용도에 따라 선택하여 구매 가능하며, 랜툴의 경우 CAT.6 콘넥터를 지원하는 모든 랜툴 사용 가능합니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "id": 523829311,
+      "date": "2023-04-06 05:41",
+      "answerDate": "2023-04-06 10:45",
+      "user": "comp******",
+      "productName": "랜스타 LS-6SFTP-300M CAT6 SFTP 단선 300M 회색 제작용 랜케이블",
+      "question": "쉴드접지선은 어떻게 연결을 하나요?",
+      "answer": "안녕하세요 고객님 랜스타 입니다.\n랜커넥터 작업시 실드 접지선은 커넥터에 체결되는 길이만큼은 잘라내어\n커넥터에는  물리적으로 연결되지 않으며, 커넥터 사이 케이블에 실드접지선이 남아있어 작용되는 원리 입니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다으로 CEC 기능은 지원되지 않습니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-6SFTP-300M",
+      "chatUrl": "3xrpD",
+      "dateIso": "2026-03-27T07:35:53.884Z",
+      "name": "로또일등기원",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "네 도와주세요 ㅠ.ㅠ 기다리겠습니다",
+      "answer": "네 고객님, 배송팀 확인 결과 제품 누락으로 확인되어 금일 재출고 도와드렸습니다. 아래에 운송장번호 전달드립니다. [로젠 44073623226]\n\n배송팀에 내용 확인 후 안내 도와드리겠습니다.",
+      "turn_count": 2,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "예 알겠습니다"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 배송팀 확인 결과 제품 누락으로 확인되어 금일 재출고 도와드렸습니다.\n아래에 운송장번호 전달드립니다.\n\n[로젠 44073623226]"
+        },
+        {
+          "role": "customer",
+          "text": "네 도와주세요 ㅠ.ㅠ 기다리겠습니다"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n배송팀에 내용 확인 후 안내 도와드리겠습니다."
+        }
+      ]
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "chatUrl": "1KJ8E",
+      "dateIso": "2025-07-07T01:45:31.283Z",
+      "name": "쏭다",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하세요\n제가 필요한 케이블이 있을까요?\nCAT5e stp 케이블이 필요하고\n블랙으로 있으면 더 좋을것 같습니다\n100m 나 300m 있을까요?\n없다면 CAT6 stp (블랙) 케이블이 있울까요?\n(추가 문의) cat6 stp 혹은 sfpt 케이블요\n(추가 문의) cat6a 케이블도 구매 가능할까요?",
+      "answer": "블랙은없고 LS-6SFTP-300M 회색뿐입니다. FTP아닌 UTP로는 LS-UTP5H-300MBK 블랙색상 있습니다. 빠르고 성...\n\n고객님. CAT6 UTP 문의 주시는 걸까요?",
+      "turn_count": 3,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "cat6 stp 혹은 sfpt 케이블요"
+        },
+        {
+          "role": "agent",
+          "text": "고객님.\n\nCAT6 UTP 문의 주시는 걸까요?"
+        },
+        {
+          "role": "customer",
+          "text": "cat6a 케이블도 구매 가능할까요?"
+        },
+        {
+          "role": "agent",
+          "text": "안녕하세요. 고객님. 랜스타입니다.\n\n블랙은없고 LS-6SFTP-300M 회색뿐입니다.\nFTP아닌 UTP로는 LS-UTP5H-300MBK 블랙색상 있습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다. \n빠르고 성..."
+        },
+        {
+          "role": "customer",
+          "text": "안녕하세요\n제가 필요한 케이블이 있을까요?\nCAT5e stp 케이블이 필요하고\n블랙으로 있으면 더 좋을것 같습니다\n100m 나 300m 있을까요?\n없다면 CAT6 stp (블랙) 케이블이 있울까요?"
+        },
+        {
+          "role": "agent",
+          "text": "미답변"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "chatUrl": "5hDNv",
+      "dateIso": "2024-10-14T01:18:14.721Z",
+      "name": "ChoJae",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "PoE 스위칭허브 <--(전선관(PoE 케이블 100m))--> 무선데이터송수신장치\n이런식으로 케이블 포설을하려고 합니다.\n\nPoE 케이블로는 위 제품\n(랜스타 LS-6SFTP-3",
+      "answer": "https://smartstore.naver.com/lineup/products/6506136950",
+      "turn_count": 1,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "PoE 스위칭허브 <--(전선관(PoE 케이블 100m))--> 무선데이터송수신장치\n이런식으로 케이블 포설을하려고 합니다.\n\nPoE 케이블로는 위 제품\n(랜스타 LS-6SFTP-3"
+        },
+        {
+          "role": "agent",
+          "text": "https://smartstore.naver.com/lineup/products/6506136950"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "chatUrl": "8aWJl",
+      "dateIso": "2024-01-18T08:47:33.623Z",
+      "name": "강동수",
+      "isTechnical": true,
+      "category": "install",
+      "modelConfidence": "high",
+      "question": "https://smartstore.naver.com/lineup/products/6052603546\n(추가 문의) 십자 차폐는 단순하게 선을 분리한거 말고는 용도가 없는건가요?\n(추가 문의) 제품 설명엔 간섭을 줄여 전송속도를 높인다고 나와 있어서요\n(추가 문의) 전송속도등 십자 플라스틱외에 사양등은 같은건가요?",
+      "answer": "네 고객님, 말씀 주신 부분이 맞습니다. 십자 차폐만 없고 알루미늄 차폐랑 노이즈 방지 비닐막은 동일합니다.",
+      "turn_count": 5,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "제품 설명엔 간섭을 줄여 전송속도를 높인다고 나와 있어서요"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 말씀 주신 부분이 맞습니다.\n십자 차폐만 없고 알루미늄 차폐랑 노이즈 방지 비닐막은 동일합니다."
+        },
+        {
+          "role": "customer",
+          "text": "십자 차폐는 단순하게 선을 분리한거 말고는 용도가 없는건가요?"
+        },
+        {
+          "role": "agent",
+          "text": "네 고객님, 말씀 주신 부분이 맞습니다.\n십자 차폐만 없고 알루미늄 차폐랑 노이즈 방지 비닐막은 동일합니다."
+        },
+        {
+          "role": "customer",
+          "text": "전송속도등 십자 플라스틱외에 사양등은 같은건가요?"
+        },
+        {
+          "role": "agent",
+          "text": "고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하"
+        },
+        {
+          "role": "customer",
+          "text": "말씀해주신 이 제품과 처음 문의드린 제품은"
+        },
+        {
+          "role": "agent",
+          "text": "고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하"
+        },
+        {
+          "role": "customer",
+          "text": "https://smartstore.naver.com/lineup/products/6052603546"
+        },
+        {
+          "role": "agent",
+          "text": "고객님 추가로 문의하실 사항이 있으실 경우 언제든지 말씀 주십시오.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다. \n랜스타 제품 이용 중 불편하"
+        }
+      ]
+    },
+    {
+      "source_model": "LS-6SFTP-300M",
+      "chatUrl": "43NON",
+      "dateIso": "2023-12-12T05:09:31.422Z",
+      "name": "비사마",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하세요 주문한cat6sftp재고가없다고 문자받았습니다\n\n있는 재고는 오늘 보내주시구요\n\n나머지는 입고되는데로 보내주세요",
+      "answer": "주문하신 상품의 배송이 시작되었습니다! 배송 문의사항이 있으시면 언제든지 연락주세요.",
+      "turn_count": 1,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "안녕하세요 주문한cat6sftp재고가없다고 문자받았습니다\n\n있는 재고는 오늘 보내주시구요\n\n나머지는 입고되는데로 보내주세요"
+        },
+        {
+          "role": "agent",
+          "text": "[배송안내] 고객님, 랜스타에서 주문해주셔서 감사합니다. 주문하신 상품의 배송이 시작되었습니다! 배송 문의사항이 있으시면 언제든지 연락주세요."
+        }
+      ]
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-6SFTP-300MG": "1\nLANG\nStar\nCAT.6 SFTP 랜케이블 단선\nLS-6SFTP-300MG\n300M\nT\n기존 저가형과 차별화된 고급 랜케이블\n구리 함량이 높아 데이터 손실이 적고\n통신용으로 안전한 랜케이블입니다.\nLAN\nfor\nLAN Star\nHigh Giga Speed\n통신공사용 랜케이블\nCAT.6 LAN Cable\nHigh Giga Speed\n통신공사용 랜케이블 |\nCAT.6\n\"\nCommunications Cable\nTH\nP\n1\nSka\nDUP\nOFTP\nSHIP\n300M\nT\nCAT.6 SFTP LAN CABLE\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다\n알루미늄 차폐막\n노이즈 방지 쉴드\n쉴드 접지선\n십자형 Spacer\n노이즈 방지 비닐막\nSolid Cable\n단선(線) 케이블\n선이 하나이므로 외부간섭을 덜 받아\n데이터 전송이 안정적입니다\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\nUTP (Unshield Twisted Pair)\nCAT.5E\nCAT.6\n절연의 구리선이 전자기유도를 줄이기 위해\n서로 꼬여져 있는 케이블로 4Pair/8Core\n전선과 피복으로 구성되어 있습니다\n케이블\n구조\n절연의 구리선이 전자기유도를 줄이기 위해\n서로 꼬여져 있는 케이블로 4Pair/Core 전선\n과 피복으로 구성되어 있습니다.\n꼬여있는 선과 선사이에 차단용 십자플라스틱\n이 있어 케이블 Pair간의 간섭을 줄여서 전송\n속도를 높여주는 역할을 합니다.\n사용처\n일반적인 랜케이블로 사무실 및 가정배선용\n으로 사용됩니다\n초고속 네트워크 망이 구축된 환경에서 사용\n됩니다.\n십자형 개재\n케이블\n구조도\nPVC/LSZH 피복\n-PE절연\nPVC/LSZH 피복\n-PE절연\n쌍(Pair)\n- 쌍(Pair)\n데이터\n전송속도\n150MHz/550Mbps\n250MHz / 1Gbps\nFTP (Foield Twisted Pair)\nCAT.5E\nCAT.6\n절연의 구리선이 전자기유도를 줄이기 위해\n서로 꼬여져 있는 케이블로 4Pair/Core\n전선과 피복으로 구성되어 있습니다.\n알루미늄 은박이 선을 감싸고 있으며 접지용\n선이 별도로 있습니다.\n케이블\n구조\n절연의 구리선이 전자기유도를 줄이기 위해 서\n로 꼬여져 있는 케이블로 4Pair/Core 전선과\n피복으로 구성되어 있습니다.\n꼬여있는 선과 선사이에 차단용 십자 플라스틱\n이 있어 케이블 Pair간의 간섭을 줄여서 전송\n속도를 높여주는 역할을 합니다.\n알루미늄 은박이 선을 감싸고 있으며 접지용\n선이 별도로 있습니다.\n사용처\n공장배선용으로 많이 사용되며, 접지용 선이\n내장되어 있어 옥외로 선이 지나갈때 사용하\n시면 좋습니다.\n접지 및 특수환경에서의 초고속 네트워크 망이\n구축된 곳에서 사용됩니다.\nAl.Mylar 테이프\nPS테이프-\nPS테이프-\n- 십자형 개재\n케이블\n'PVC/LSZH 피복\n-PE절연\nPVC/LSZH 피복\n-PE절연\n구조도\n쌍(Pair)\nAl.Mylar 테이프\n쌍(Pair)\n데이터\n전송속도\n150MHz / 550Mbps\n250MHz / 1Gbps\nCAT.6 SFTP LAN CABLE\nHIGH QUALITY\nBEST COPPER\n\n\n'데이터\n전송속도\n150MHz/550Mbps\n250MHz / 1Gbps\nCAT.6 SFTP LAN CABLE\nHIGH QUALITY\nBEST COPPER\n일반 저가형 케이블에 비해 구리 함량이 높아\n통신공사용으로 적합하며 빠른 전도율이 가능한 케이블입니다\nTHIST-PAIR 4P <LANstar> <RoHSY SOLID, CAT. 6 SFTP CABLE, (24AWG, EIA/TIA 56\nLAN tar\n랜스타 정품으로 친환경 소재를 사용한 랜케이블입니다\n正品\n[미국전선규격 American Wire Gage]\n24AWG 규격의 굵기로 데이터 전송시 간섭이 적은\n우수한 품질의 랜케이블입니다\n이 제품은 당사가 보증하는\n순정품입니다.\nROHS\nAWG는 케이블 내심의 굵기를 표시하는 단위로\nAWG가 작을수록 굵은 내심을 가지고 있으며\n잡음이 적고 안정적인 전송에 적합합니다.\nCompiant\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\nLAN Stor® 관현압시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nCAT.6 SFTP 랜케이블\n모\n델\n명\nLS-6SFTP-300MG\nLANStar®\nⓇ\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n070-7018-3386\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-6SFTP-MBK": "LAN Star\nⓇ\nCAT.6 S/FTP\n랜케이블\n(10M 12M 14M 16M\nDIRECT CABLE\n“CAT.6 SFTP”\nSFTP 케이블은 랜케이블의 종류중기가비트를 지원하는 규격을 말하는 것으로,\n차세대 네트워크 통신의 빠른 속도를 즐길 수 있는 기본이 되는 케이블\n규격이라고 할 수 있습니다.\n1\n1\nGbps\nGbps\n250\nMHz\n100 100\nMbps MHz\n100\nMHz\nCAT.5\nCAT.5E\nCAT.6\n전송속도\n100Mbps\n1Gbps\n1Gbps\n대역폭\n100MHz\n100MHz\n250MHz\n규격\n100BASE-TX 1000BASE-T 1000BASE-TX|\n\n\n전송속도\n100Mbps\n1Gbps\n1Gbps\n대역폭\n100MHz\n100MHz\n250MHz\n규격\n|100BASE-TX 1000BASE-T 1000BASE-TX\n다이렉트 케이블 핀배열\n크로스 케이블 핀배열\n568B\n568B\n568B\n568A\n주황/흰색 1\n주황 2\n녹색/흰색 3.\n청색 4\n청색/흰색 5\n녹색 6\n갈색/흰색 7\n갈색 8\n1 주황/흰색\n2 주황\n3 녹색/흰색\n4 청색\n5 청색/흰색\n6 녹색\n7 갈색/흰색\n8 갈색\n주황/흰색 1\n주황 2\n녹색/흰색 3\n청색 4\n청색/흰색 51\n녹색 6\n갈색/흰색 7\n갈색 8\nXXIII\n1 녹색/흰색\n2 녹색\n3 주황/흰색\n4 청색\n5 청색/흰색\n6 주황\n7 갈색/흰색\n8 갈색\n250MHz 대역폭\n\"전송속도를 좌우하는 대역폭\"\n대역폭은 데이터를 전송하기 위한 통신 채널로써,\n대역폭이 넓을수록 전송할 수 있는 데이터의 양이 많습니다.\n24AWG\n“American Wire Gauge\"\n케이블 내심의 굵기를 표시하는 단위로 AWG가 작을수록\n굵은 내심을 가지고 있으며 잡음이 적고 안정적인 전송에 적합합니다.\nTHIST-PAIR 4P <LANstar> <RoHS> STRANDED, 24AUG, LSZH, CAT.6 SF/UTP CABLE\n40\n저화질 전송\n설치가 용이\n16\n잡음이 적음\n안정적인 전송\n설치가 까다로움\nAWG\n직경(Inch)\n직경(㎜)\n단면적(㎡)\n저항(2/m) 허용전류(A)\n20\n0.032\n0.812\n0.518\n0.0333\n4.5\n\n\nAWG\n직경(Inch)\n직경(㎜)\n단면적(㎡)\n저항(2/m) 허용전류(A)\n20\n0.032\n0.812\n0.518\n0.0333\n4.5\n21\n121\n0.0285\n0.723\n0.41\n0.042\n3.8\n22\n22\n0.0253\n0.644\n0.326\n0.053\n3.0\n23\n0.0226\n0.573\n0.258\n0.0668\n2,2\n224\n0.0201\n0.511\n0.205\n0.0842\n0.588\n225\n0.0179\n0.455\n0.162\n0.106\n0.477\n26\n0.0159\n0.405\n0.129\n0.134\n0.378\n27\n0.0142\n0.361\n0.102\n0.169\n0.288\n28\n0.0126\n0.321\n0.081\n0.213\n0.250\n29\n20\n0.0113\n0.286\n0.0642\n0,268\n0.212\n30\n0.01\n0.255\n0.0509\n0.339\n0.147\nSTRUCTURE\n\"SFTP / 2중차폐 구조\"\n편조차폐와 4개의 페어를 감싼 알루미늄 차폐로 이루어진 2중차폐 구조입니다.\n알루미늄 차폐막\n(노이즈 방지)\n십자형 차단막\n비닐 차폐\n(습기방지)\n<편조차폐 구조〉\n- 쉴드 접지선\n편조차폐\n(노이즈 방지)\nTwisted Pair\n꼬임방식의 케이블로 노이즈를 방지합니다.\nPVC/LSZH\n피복\n편조차폐\n십자형 차단막\n알루미늄 차폐막\n쌍(Pair)\n비닐차폐\nStranded Cable\n연선(線) 케이블\n연선 케이블은 단선에 비해 잘 휘어져 설치가 용이하여 잡음이나\n감쇄 현상이 현저히적어 널리 쓰입니다.\n\n\n감쇄 현상이 현저히적어 널리 쓰입니다.\n단선\n연선\n단선 Solid\n연선 Stranded\n한가닥의 구리선 여러 가닥의 구리선\nTPE\nThemoPlastic Elastomer, 열가소성 탄성체\n기존 고무가 가진 탄성과 열가소성 수지가 가진 탄성을 결합한 형태로\n환경친화적인 소재입니다.\n불에 강한 난연 케이블이라 화재 시 화재확산을 늦춰줍니다.\nBare Copper\n케이블에 순수구리 성분을 사용하여 전송율이 높습니다.\nLSZH\n“Low Smoke Zero Halogen”\nLSZH 케이블은 매우 낮은 수준의 연기와 독성 및 산성 가스를 생성하지 않습니다.\n따라서 공공장소, 환기가 원활하지 않은 지역에서 사용됩니다.\nUL\nRoHS\nCOMPLIANT\nRoHS 인증제품\nDirective on the use of certain Hazardous Substances in EEE\nRoHS는 유럽 연합에서 시행되는 해로운 물질을 사용한 전자제품을\n제한하는 지침으로, 모든 전기/전자 제품은 이 새로운 지침에 적합하여야\n유럽 시장에 제품을 판매할 수 있습니다.\n\n\ng\nPRODUCT SIZE\n10-16M\n11mm\n8mm\n28mm\n20mm\nPINOUT:\nP1\nP2\n8P8C\n8P8C\n1\n1\nWHITE/ORANGE\nORANGE\n3\n3\nWHITE/GREEN\nGREEN\n¿XXXX\n? ㅁㅇㅇㅇㅇㅇㄷ?\n$XXXXS\nji XXXX\n4\nBLUE\nWHITE / BLUE\n7\n7\nWHITE / BROWN\nBROWN\n10M\n12M\nㅇㅇ\nLS-6SFTP-10MBK\nLS-6SFTP-12MBK\n14M\n16M\nLS-6SFTP-14MBK\nLS-6SFTP-16MBK\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nC\nR\nKC\nHATION\nTPE\nCERTIFICATION\nTPE소재(연)\nISO 9001:2008\n품질경영시스템\n안전규격인증은 최소 안전규격 및 품질기준을 만족하는 적합등록기기를 인증하는\n마크로서 국내는 KC, 미국은 FCC, 유럽연합 및 유럽자유무역국가에서는 CE\n인증마크로 사용합니다.\nLANSStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n\n\nLANG\nNSStarⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품 정보\nHO\n80\nCAT.6 SFTP 20, Black Color\nLS-6SFTP-10MBK\nⓇ\nLS-6SFTP-12MBK\nLANStar®\n모\n델\n20\nLS-6SFTP-14MBK\nLS-6SFTP-16MBK\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\nA/S www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n품질 보증 기준\n기준에 따라 보상해드립니다.\nLAN Star\nⓇ\n자매품\nCAT.8 SSTP\n0,5M\nLS-8SSTPD-0.5MB\n10M\nLS-8SSTPD-10MB\n1M\nLS-8SSTPD-1MB\n15M\nLS-8SSTPD-15MB\n다이렉트,검정\n금도금 콘넥터,\n8P8C RJ45,\n24AWG, L\n2M\nLS-8SSTPD-2MB\n20M\nLS-8SSTPD-20MB\n3M\nLS-8SSTPD-3MB\n25M\nLS-8SSTPD-25MB\n5M\nLS-8SSTPD-5MB\n7M\nLS-8SSTPD-7MB\nCAT.8 SSTP\n0.3M\nLS-8SLIM-0,3MB\n0.5M\nLS-8SLIM-0,5MB\n1M\nLS-8SLIM-1MB\n다이렉트 슬림,\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG, L\n4mm 슬림\n케이블\n2M\nLS-8SLIM-2MB\n3M\nLS-8SLIM-3MB\n5M\nLS-8SLIM-5MB\n0.5M\nLS-7UTPD-0.5M\n10M\nLS-7UTPD-10M\n1M\nLS-7UTPD-1M\n15M\nLS-7UTPD-15M\nCAT.7\n(CAT.6A) UTP\n다이렉트, 회색,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\n2M\nLS-7UTPD-2M\n20M\nLS-7UTPD-20M\n3M\nLS-7UTPD-3M\n30M\nLS-7UTPD-30M\n5M\nLS-7UTPD-5M\n50M\nLS-7UTPD-50M\n7M\nLS-7UTPD-7M\n1M\nLS-7-SSTP-1MB\n15M LS-7-SSTP-15MB\n2M\nLS-7-SSTP-2MB\n20M LS-7-SSTP-20MB\n3M\nLS-7-SSTP-3MB\nCAT.7 SSTP\n다이렉트 슬림,\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n36AWG,\n4mm 초슬림\n5M\nLS-7-SSTP-5MB\n7M\nLS-7-SSTP-7MB\n10M LS-7-SSTP-10MB\n1M\nLS-F7-SFTP-1M\n20M\nLS-F7-SFTP-20M\n2M\nLS-F7-SFTP-2M\n3M\nLS-F7-SFTP-3M\nCAT.7 FTP\n다이렉트 평면,\n연선,흰색,\n금도금 콘넥터,\n8P8C RJ45,\n30AWG,\n알루미늄 쉴드\n5M LS-F7-SFTP-5M\n10M | LS-F7-SFTP-10M\n15M LS-F7-SFTP-15M\n1M\nLS-F7-UTPD-1M\n20M LS-F7-UTPD-20M\nCAT.7 UTP\n기가슬림 평면,\n연선, 검정,\n2M\nLS-F7-UTPD-2M\n3M\nLS-F7-UTPD-3M\n8P8C RJ45,\n30AWG\n5M\nLS-F7-UTPD-5M\n10M LS-F7-UTPD-10M\n15M LS-F7-UTPD-15M\n2M\nLS-7NSTPD-2M\n30M\nLS-7NSTPD-30M\n3M\nLS-7NSTPD-3M\n50M LS-7NSTPD-50M\nCAT.7 SSTP\n다이렉트\n산업용 망사,\n연선, 검정,\n금도금 콘넥터,\n8P8C RJ45,\n5M\nLS-7NSTPD-5M\n10M\nLS-7NSTPD-10M\n15M LS-7NSTPD-15M\n26AWG,\n20M LS-7NSTPD-20M\nCAT.7 SSTP\n다이렉트, 연선,\n흰색, 50u.\n금도금 콘넥터,\n8P8C RJ45,\n0.5M LS-7SSTPD-0.5MG 10M | LS-7SSTPD-10MG\n1M LS-7SSTPD-1MG 15M LS-7SSTPD-15MG\n2M LS-7SSTPD-2MG 20M LS-7SSTPD-20MG\n3M LS-7SSTPD-3MG 30M LS-7SSTPD-30MG\n26AWG,\n5M\nLS-7SSTPD-5MG\n50M LS-7SSTPD-50MG\n7M\nLS-7SSTPD-7MG\nCAT.7 SSTP\n다이렉트, 연선,\n노랑, 50u\n금도금 콘넥터,\n8P8C RJ45,\nCAT.7 SSTP\n다이렉트, 연선,\n빨강, 50u,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG,\nCAT.7 SSTP\n다이렉트, 연선,\n화이트블루,\n50u, 난연,\n금도금 콘넥터,\n8P8C RJ45,\n26AWG\n26AWG,\n2M\nLS-7SSTPD-2MY\n2M\nLS-7SSTPD-2MR\n2M\nLS-7SSTPD-2MB\n3M\nLS-7SSTPD-3MY\n3M\nLS-7SSTPD-3MR\n3M\nLS-7SSTPD-3MB\n5M\nLS-7SSTPD-5MY\n5M\nLS-7SSTPD-5MR\n5M\nLS-7SSTPD-5MB\n7M\nLS-7SSTPD-7MY\n7M\nLS-7SSTPD-7MR\n7M\nLS-7SSTPD-7MB\n10M LS-7SSTPD-10MY\n10M LS-7SSTPD-10MR\n10M LS-7SSTPD-10MB\nCAT.6A UTP\n다이렉트 슬림,\n연선,흰색,\n금도금 콘넥터,\n8P8C RJ45,\n32AWG,\n2.8mm 초슬림\nCAT.7 SSTP\n단선, 주황,\n장거리 이동형\n드럼릴,\n8P8C RJ45,\n23AWG,\nETL 인증\nCAT.7 FTP\n자동감김,\n다이렉트, 오토릴,\n인터넷케이블,\n8P8C RJ45,\n금도금 콘넥터,\n10Gbps\n1M\nLS-6A-UTP-1MW\n50M\nLS-CAT7-50MR\n1.5M LS-CAT.7-RT1.5M\n2M\nLS-6A-UTP-2MW\n80M\nLS-CAT7-80MR\n3M\nLS-6A-UTP-3MW\n5M\nLS-6A-UTP-5MW\n10M LS-6A-UTP-10MW\n\n\n드럼릴,\n8P8C RJ45,\n금도금 콘넥터,\n8P8C RJ45,\n32AWG, 난연,\n2.8mm 초슬림\n인터넷케이블,\n8P8C RJ45\n금도금 콘넥터,\n10Gbps\n23AWG,\nETL 인증\n1M LS-6A-UTP-1MW\n50M\n|_1.5M | LS-CAT.7-RT1.5M\nLS-CAT7-50MR\nLS-CAT7-80MR\n2M LS-6A-UTP-2MW\n80M\n3M\nLS-6A-UTP-3MW\n5M LS-6A-UTP-5MW\n10M LS-6A-UTP-10MW\nCAT.6A SSTP\nBox, 단선,\n연선, LSZH난연,\n27AWG\n미국전선규격,\n엘리베이터 시공\n공사에 특화\nCAT.7 STP\n(CAT.6A겸용)\nBox, 단선,\n난연, 10Gbps,\n화이트블루,\n23AWG\n미국전선규격\n300M LS-SSTP-CAT.6A-300M\n300M\nLS-7SSTP-300MB\nCAT.7 STP\n(CAT.6A겸용)\nBox, 단선,\n난연, 10Gbps,\n회색, 23AWG\n미국전선규격\nCAT.8 SSTP\n박스, 연선\n난연, 40Gbps,\n2000MHz,\n그레이,\n22AWG\n미국전선규격\n100M\n200M\nLS-8SSTP-200MG\nLS-7SSTP-100MG\nLS-7SSTP-300MG\n300M"
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "PVC",
+        "PE"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        300
+      ],
+      "color_options": [
+        "회색",
+        "블랙"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT6",
+      "shielding": "SFTP",
+      "conductor": "단선(solid)",
+      "awg": 24,
+      "pair_count": 4,
+      "flame_rating": "LSZH",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "form_physical.material": "PE절연, PVC/LSZH 피복",
+    "form_physical.length_options_meters": "길이: 300M",
+    "form_physical.color_options": "색상: 회색 / 블랙(Black)",
+    "certification.kc": "인증: KC, RoHS, UL",
+    "certification.rohs": "친환경 소재(RoHS 인증)",
+    "family.cat_category": "CAT.6 SFTP",
+    "family.shielding": "SFTP (Shielded Foiled Twisted Pair)",
+    "family.conductor": "단선(Solid) 랜케이블",
+    "family.awg": "24AWG 미국전선규격 적용",
+    "family.pair_count": "4Pair / 8Core",
+    "family.flame_rating": "LSZH(Low Smoke Zero Halogen) 피복 적용"
+  },
+  "feature_extracted_at": "2026-04-23T03:08:37",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 5,
+    "category_breakdown": {
+      "troubleshoot": 4,
+      "install": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

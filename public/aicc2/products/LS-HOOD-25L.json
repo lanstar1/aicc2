@@ -1,0 +1,95 @@
+{
+  "model_no": "LS-HOOD-25L",
+  "product_name": "콘넥터후드 25핀 Hood 케이스 (Long 나사)",
+  "category": [
+    "기타"
+  ],
+  "key_features": [
+    "25핀 전용 후드 케이스",
+    "나사 포함 구성"
+  ],
+  "specifications": {
+    "품명": "콘넥터후드, 25P Hood 케이스, Long 나사",
+    "모델명": "LS-HOOD-25L",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "25핀(25P) 커넥터"
+  ],
+  "package_contents": [
+    "25핀 Hood 케이스",
+    "Long 나사"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HOOD-25L",
+      "품목코드": "GEN-후드제001",
+      "품목명": "[LANstar] 콘넥터후드 , 25P용 Hood케이스, Long나사포함[20088] (600개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HOOD-25L",
+      "내용": "배송이 빨라서 좋았습니다"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "25핀 전용 후드 케이스",
+    "certification.kc": "인증번호: 해당없음"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:42",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,125 @@
+{
+  "model_no": "LS-25M4P-35FG",
+  "product_name": "LANStar ST 4Pole 2.5/M to ST 3.5/F 모바일 변환 케이블 4극 젠더",
+  "category": [
+    "컨버터",
+    "젠더",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "3.5mm 스테레오(암) → 2.5mm 4극 스테레오(수) 변환 케이블",
+    "케이블 길이 20cm(0.1M 휴대용)",
+    "핸드폰, MD, PDA, 이어폰 연결 변환 용도",
+    "RoHS 준수 (납·수은·카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "KC, FCC, CE 안전규격 인증 적합 기기"
+  ],
+  "specifications": {
+    "규격": "3.5mm STEREO(암) - 2.5mm 4극 STEREO(수)",
+    "케이블 길이": "20cm",
+    "케이블 두께": "3mm",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "품명": "모바일 변환케이블, 4극, 2.5ST/M-3.5ST/F"
+  },
+  "compatibility": [
+    "3.5mm 스테레오 단자 기기",
+    "2.5mm 4극 스테레오 단자 기기",
+    "핸드폰",
+    "MD (MiniDisc 플레이어)",
+    "PDA",
+    "이어폰"
+  ],
+  "package_contents": [
+    "LS-25M4P-35FG 모바일 변환 케이블 1개"
+  ],
+  "usage_instructions": "3.5mm 스테레오(암) 단자에 기존 기기를 연결하고, 2.5mm 4극 스테레오(수) 단자를 핸드폰·MD·PDA·이어폰 등 2.5mm 단자 기기에 꽂아 변환 연결합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-25M4P-35FG",
+      "품목코드": "CAB-모젠케023",
+      "품목명": "[LANstar] 모바일 변환케이블,4극, 2.5ST/M-3.5ST/F, 0.1M [10910]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "3.5mm"
+      ],
+      "output_signals": [
+        "2.5mm"
+      ],
+      "directional": "단방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "conversion_direction": "단방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "3.5mm 스테레오(암) 단자에 기존 기기를 연결",
+    "connectivity.output_signals": "2.5mm 4극 스테레오(수) 단자를 핸드폰",
+    "connectivity.directional": "3.5mm 스테레오(암) → 2.5mm 4극 스테레오(수) 변환 케이블",
+    "power.power_mode": "모바일 변환 케이블",
+    "form_physical.has_case": "모바일 변환 케이블",
+    "form_physical.length_meters": "케이블 길이 20cm",
+    "certification.kc": "KC, FCC, CE 안전규격 인증 적합 기기",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "KC, FCC, CE 안전규격 인증 적합 기기",
+    "certification.ce": "KC, FCC, CE 안전규격 인증 적합 기기",
+    "audio_video.max_resolution": "모바일 변환 케이블",
+    "audio_video.hdcp_version": "모바일 변환 케이블",
+    "audio_video.audio_pass": "3.5mm 스테레오(암) → 2.5mm 4극 스테레오(수) 변환 케이블",
+    "family.conversion_direction": "3.5mm 스테레오(암) → 2.5mm 4극 스테레오(수) 변환 케이블",
+    "family.requires_external_power": "모바일 변환 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:06:36",
+  "feature_schema_version": "1.0.0"
+}

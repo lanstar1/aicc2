@@ -1,0 +1,112 @@
+{
+  "model_no": "LS-USBG-AFAF",
+  "product_name": "LANSStar USB 변환젠더 A/F-A/F",
+  "category": [
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "양쪽 모두 USB A(Female) 타입 커넥터로 구성된 젠더",
+    "데이터 전송 및 충전 동시 지원",
+    "휴대성 높은 소형 젠더",
+    "RoHS 규정 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "모델명": "LS-USBG-AFAF",
+    "커넥터 타입": "USB A Female - USB A Female",
+    "인증번호": "해당없음",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "품질인증": "RoHS COMPLIANT, ISO 9001:2008"
+  },
+  "compatibility": [
+    "USB A Female 타입 포트를 사용하는 기기"
+  ],
+  "package_contents": [
+    "USB 변환젠더 A/F-A/F (LS-USBG-AFAF) 본체"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "유통 과정상 제품의 모양이나 색상은 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단 참조)에 문의하세요."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USBG-AFAF",
+      "품목코드": "GEN-USB003",
+      "품목명": "[LANstar] USB젠더Changer A／F-A／F[20049](1700개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A(Female) 타입 커넥터",
+    "connectivity.output_signals": "USB A(Female) 타입 커넥터",
+    "connectivity.directional": "양쪽 모두 USB A(Female) 타입",
+    "power.charging_support": "충전 동시 지원",
+    "form_physical.has_case": "소형 젠더",
+    "certification.rohs": "RoHS 규정 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.conversion_direction": "양쪽 모두 USB A(Female) 타입",
+    "family.requires_external_power": "데이터 전송 및 충전 동시 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:58",
+  "feature_schema_version": "1.0.0"
+}

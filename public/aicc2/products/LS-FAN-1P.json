@@ -1,0 +1,125 @@
+{
+  "model_no": "LS-FAN-1P",
+  "product_name": "LANStar 허브랙/서버랙 교체용 쿨링팬 1구 (LS-FAN-IP)",
+  "category": [
+    "커넥터",
+    "방열판",
+    "서버랙",
+    "허브랙"
+  ],
+  "key_features": [
+    "허브랙 및 서버랙 상단 쿨링팬 교체용 제품",
+    "120 x 120 x 38mm 크기의 AC 220-240V 팬",
+    "220V 전원 케이블(플러그) 직결 방식과 Faston(터미널) 단자 방식 2가지 전원 연결 지원",
+    "전원 케이블 길이 약 1.8m 포함",
+    "19인치 표준 허브랙·서버랙 전 라인업 호환 (미니 허브랙 제외)",
+    "볼트·너트를 이용한 간편한 결합 방식",
+    "라인업시스템(주) / LANStar 정품 인증 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "소재·부품·장비 전문기업확인서 취득 (2022.11.29)"
+  ],
+  "specifications": {
+    "크기": "120mm x 120mm x 38mm",
+    "전압": "AC 220-240V",
+    "주파수": "50/60Hz",
+    "소비 전류": "0.14A (Max 0.25A)",
+    "케이블 길이": "약 1.8m",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "모델명": "LS-FAN-IP"
+  },
+  "compatibility": [
+    "19인치 표준 허브랙 IVORY (LS-300H ~ LS-2000H)",
+    "19인치 표준 허브랙 BLACK (LS-300HB ~ LS-2000HB)",
+    "19인치 표준 서버랙 BLACK (LS-500HS ~ LS-2000HS)",
+    "19인치 표준 고급 허브랙 (LS-800HQ ~ LS-2000HQ)",
+    "19인치 표준 고급 서버랙·타공랙 (LS-1600HSQ ~ LS-2000HSQ, LS-1800HBS)",
+    "19인치 표준 규격 허브랙·서버랙 전반 (미니 허브랙 제외)"
+  ],
+  "package_contents": [
+    "쿨링팬 본체 (120 x 120 x 38mm) 1개",
+    "220V 전원 케이블 (플러그 포함, 약 1.8m) 1개",
+    "Faston(암단자) 단자 포함"
+  ],
+  "usage_instructions": "기존 쿨링팬을 제거한 후 동일한 자리에 신품 팬을 위치시키고 볼트·너트로 고정한다. 전원 연결은 두 가지 방법 중 선택: ① 220V 전원 케이블을 콘센트에 직접 연결(독립 구동), ② 팬 끝의 Faston 암단자를 랙 내부 팬 컨트롤박스(전원 분배기)에 연결(중앙 제어).",
+  "cautions": [
+    "본 제품은 교체용이며 추가 장착용이 아닙니다.",
+    "미니 허브랙에는 호환되지 않습니다.",
+    "장시간 사용 시 소음 증가 또는 회전 불안정 발생 시 교체를 권장합니다.",
+    "LANStar 정품 인증 배너가 없는 판매처의 제품은 정품이 아니며 A/S를 받을 수 없습니다.",
+    "제조사 사정에 따라 색상 및 형태 등 사양이 예고 없이 변경될 수 있습니다.",
+    "당일출고는 평일 오후 4시 이전 결제 완료 기준이며, 토·일·공휴일 제외입니다.",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-FAN-1P",
+      "품목코드": "NEO-허브랙111",
+      "품목명": "[LANstar] 허브랙/서버랙 전용 팬 1구, 120x120x38 파워케이블 포함 [50081]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": null,
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "power.power_mode": "AC 220-240V 팬",
+    "power.charging_support": "쿨링팬",
+    "audio_video.hdr_support": "쿨링팬",
+    "audio_video.audio_pass": "쿨링팬",
+    "control_switching.has_remote": "쿨링팬",
+    "control_switching.has_hotkey": "쿨링팬",
+    "control_switching.has_physical_button": "쿨링팬",
+    "control_switching.has_mouse_switching": "쿨링팬",
+    "control_switching.has_auto_scan": "쿨링팬",
+    "control_switching.has_app_control": "쿨링팬"
+  },
+  "feature_extracted_at": "2026-04-23T03:11:11",
+  "feature_schema_version": "1.0.0"
+}

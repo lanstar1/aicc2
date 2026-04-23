@@ -1,0 +1,271 @@
+{
+  "model_no": "LS-UH319D-N",
+  "product_name": "LANStar USB3.0 A/C to HDMI 듀얼 모니터 컨버터",
+  "category": [
+    "USB-C",
+    "USB3.0",
+    "컨버터",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "USB Type-A / Type-C 입력, HDMI 2포트 출력",
+    "4K@30Hz 포트와 1080P@60Hz 포트 각각 독립 출력",
+    "DisplayLink 기술 기반 MCT T6-688SL 칩셋 사용 (드라이버 설치 필수)",
+    "MST(Multi-Stream Transport) 지원 – 컨버터 3대 연결 시 최대 6대 디스플레이 확장 가능",
+    "화면 복제(Mirror) 및 확장(Extend) 모드 지원",
+    "USB 4, 썬더볼트 3/4 포트에서도 사용 가능",
+    "USB3.0 전원 공급형 허브 경유 출력 가능",
+    "알루미늄 재질 본체",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-UH319D)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "라인업시스템(주) / 랜스타 정품 수입·유통"
+  ],
+  "specifications": {
+    "입력": "USB Type-A / Type-C (USB A to C 변환 젠더 포함)",
+    "출력": "HDMI 2포트",
+    "USB 규격": "USB 3.0",
+    "출력 해상도": "4K@30Hz / 1080P@60Hz",
+    "칩셋": "MCT T6-688SL",
+    "크기": "82 x 58 x 11.5 mm",
+    "케이블 길이": "약 12cm",
+    "무게": "84g",
+    "재질": "알루미늄",
+    "KC 인증번호": "R-R-LUS-LS-UH319D",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "4K 포트 지원 해상도 (Windows)": "3840x2160@30Hz, 2560x1440@60Hz, 1920x1080@60Hz, 1680x1050@60Hz, 1600x1200@60Hz, 1600x900@60Hz, 1440x1050@60Hz, 1440x900@60Hz, 1280x1024@60Hz, 1280x800@60Hz, 1280x720@60Hz, 1152x864@60Hz, 1024x768@60Hz, 800x600@60Hz, 720x480@60Hz, 640x480@60Hz",
+    "1080P 포트 지원 해상도 (Windows)": "1920x1080@60Hz, 1680x1050@60Hz, 1600x1200@60Hz, 1600x900@60Hz, 1440x1050@60Hz, 1440x900@60Hz, 1280x1024@60Hz, 1280x800@60Hz, 1280x720@60Hz, 1152x864@60Hz, 1024x768@60Hz, 800x600@60Hz, 720x480@60Hz, 640x480@60Hz",
+    "4K 포트 지원 해상도 (Mac OS)": "3840x2160@30Hz, 2560x1440@60Hz, 1920x1080@60Hz, 1920x1080@30Hz, 1600x900@60Hz, 1280x720@60Hz",
+    "1080P 포트 지원 해상도 (Mac OS)": "1920x1080@60Hz, 1920x1080@30Hz, 1600x900@60Hz, 1280x720@60Hz",
+    "Mirror Mode 최대 해상도 (Windows) – 1080P 포트": "1920x1080@60Hz",
+    "Mirror Mode 최대 해상도 (Windows) – 4K 포트": "1920x1080@60Hz",
+    "Extend Mode 최대 해상도 (Windows) – 1080P 포트": "1920x1080@60Hz",
+    "Extend Mode 최대 해상도 (Windows) – 4K 포트": "3840x2160@30Hz",
+    "Mirror Mode 최대 해상도 (Mac OS) – 1080P 포트": "1920x1080@60Hz",
+    "Mirror Mode 최대 해상도 (Mac OS) – 4K 포트": "3840x2160@30Hz",
+    "Extend Mode 최대 해상도 (Mac OS) – 1080P 포트": "1920x1080@60Hz",
+    "Extend Mode 최대 해상도 (Mac OS) – 4K 포트": "3840x2160@30Hz"
+  },
+  "compatibility": [
+    "Windows (Windows 7 / 8.1 / 10 / 11)",
+    "Mac OS (macOS 11.x 이상, macOS 13 이상용 드라이버 별도 제공)",
+    "Chrome OS",
+    "USB 3.0 포트 탑재 PC / 노트북",
+    "USB Type-C 포트 탑재 기기 (변환 젠더 사용)",
+    "USB 4 포트 탑재 기기",
+    "썬더볼트 3 / 4 포트 탑재 기기",
+    "전원 공급형 USB 3.0 허브"
+  ],
+  "package_contents": [
+    "USB A/C to HDMI 듀얼 모니터 컨버터 본체 (LS-UH319D-N)",
+    "USB A to C 변환 젠더"
+  ],
+  "usage_instructions": "1. PC 또는 노트북의 USB 3.0 포트(또는 USB-C / 썬더볼트 포트)에 본 제품을 연결한다. 2. 제품 연결 후 MCT 드라이버가 자동으로 설치된다(Windows 10 기준). 자동 설치가 안 될 경우 MCT 공식 사이트(http://www.mct.com.tw/download.php?lang=en&tb=1&cid=32&ot=all)에서 수동으로 드라이버를 다운로드하여 설치한다. 3. 드라이버 설치 후 장치 관리자 > 디스플레이 어댑터 항목에서 'Trigger 6 External Graphics' 드라이버 생성을 확인한다. 4. HDMI 케이블로 모니터를 각 HDMI 포트에 연결한다(4K@30Hz 포트 / 1080P@60Hz 포트 구분 확인). 5. Windows의 경우 '윈도우 키 + P'로 복제/확장 모드를 선택하거나, 시스템 > 디스플레이 설정에서 세부 조정한다. 6. Mac의 경우 시스템 설정 > 디스플레이에서 모드 및 해상도를 설정한다. 7. 최대 6대 확장 시 본 제품 3대를 USB 3.0 포트에 각각 연결한다.",
+  "cautions": [
+    "드라이버 설치 없이는 사용 불가 – 반드시 MCT 드라이버 설치 후 사용할 것",
+    "입력/출력 방향성이 있는 제품이므로 입/출력 포트를 확인하여 연결할 것",
+    "Android 스마트폰 및 태블릿은 지원하지 않음 (Windows / Mac OS 전용)",
+    "USB 허브 경유 사용 시 USB 3.0 고속 데이터 전송이 가능한 전원 공급형 허브만 사용 가능하며, 성능 저하 가능성 있음 – PC/노트북 USB 3.0 포트 직접 연결 권장",
+    "다중 출력 시 CPU 기반 인코딩·전송 방식 특성상 CPU 점유율이 증가할 수 있음",
+    "4K 포트와 1080P 포트는 각각 출력 전용으로 구분되어 있으므로 혼용 불가",
+    "DP Alt Mode 방식이 아닌 DisplayLink 방식이므로, USB Type-C DP Alt Mode 전용 기기와 동작 방식이 다름",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처 제품은 A/S 불가",
+    "제조사 사정에 따라 제품 색상 및 사양이 예고 없이 변경될 수 있음",
+    "당일 출고는 오후 4시 이전 결제 완료 건 기준, 토·일·공휴일 제외 평일에 한함"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-UH319D-N",
+      "품목코드": "com-외장형768",
+      "품목명": "[LANstar] USB to HDMI 듀얼 모니터 컨버터 [30949]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-UH319D-N",
+      "내용": "필요해서 샀는데 연결도 잘 되고 좋은 것 같아요"
+    },
+    {
+      "source_model": "LS-UH319D-N",
+      "내용": "프로그램 다운받고 하니까 잘 됩니다",
+      "관련내용": "잘 안되네요 \n사용법이 어렵네요. 맥북"
+    },
+    {
+      "source_model": "LS-UH319D-N",
+      "내용": "잘 안되네요 \n사용법이 어렵네요. 맥북"
+    },
+    {
+      "source_model": "LS-UH319D-N",
+      "내용": "m1 트리플모니터 잘쓰고있습니다.",
+      "관련내용": "디스플레이링크 앱 찾아보고 설치하다가 연결안되서\nmst 설치하니까 연결잘되네요\nM1 프로 트리플모니터로 사용합니다."
+    },
+    {
+      "source_model": "LS-UH319D-N",
+      "내용": "디스플레이링크 앱 찾아보고 설치하다가 연결안되서\nmst 설치하니까 연결잘되네요\nM1 프로 트리플모니터로 사용합니다."
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-UH319D-N",
+      "id": 645553213,
+      "date": "2025-10-02 15:54",
+      "answerDate": "2025-10-10 10:24",
+      "user": "john******",
+      "productName": "노트북 맥북 듀얼 모니터 연결 4K 30Hz MST 기능 지원 (LS-UH319D-N)",
+      "question": "해당 제품을 M1 맥북으로 연결하면 복제, 확장으로 듀얼모니터가 가능한가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\nm1 맥북으로 복제, 확장하여 듀얼모니터로 이용 가능하십니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    },
+    {
+      "source_model": "LS-UH319D-N",
+      "id": 646572027,
+      "date": "2025-10-14 08:34",
+      "answerDate": "2025-10-14 17:31",
+      "user": "medi****",
+      "productName": "노트북 맥북 듀얼 모니터 연결 4K 30Hz MST 기능 지원 (LS-UH319D-N)",
+      "question": "맥북 m1 프로 13인치에 사용할 예정이라 문의 드립니다.\n현재 독 사용중 \n1.  독 hdmi+디스플레이링크+ 맥북 모니터\n2.  독 hdmi+디스플레이링크 모니터2개 + 맥북\n위와 같이 사용가능할지 문의드립니다.",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품은 클렘쉘 기능이 없기 떄문에 독에서 이용이 불가합니다. \n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다.수정 삭제"
+    },
+    {
+      "source_model": "LS-UH319D-N",
+      "id": 655933999,
+      "date": "2025-12-20 13:10",
+      "answerDate": "2025-12-22 09:34",
+      "user": "best*******",
+      "productName": "노트북 맥북 듀얼 모니터 연결 4K 30Hz MST 기능 지원 (LS-UH319D-N)",
+      "question": "맥북 에어에서 쓸 경우  MST 방식인가요 DIsplayLick 기술인가요?",
+      "answer": "안녕하세요. 고객님. 랜스타입니다.\n\n해당 제품은 displaylink 방식으로서 드라이버를 설치해야 하는 제품입니다. displaylink 연결 방식에 mst 기능(다중 멀티 화면)이 들어있습니다.\n\n정직한 가격과 품질로 고객님을 더욱 만족시켜 드릴 수 있는 랜스타가 되겠습니다.\n랜스타 제품 이용 중 불편하신 부분이나 궁금하신 사항 있으시면 언제든지 네이버 톡톡으로 문의 부탁드립니다.\n빠르고 성실한 답변으로 고객님의 문제를 해결해드리겠습니다. 감사합니다."
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-UH319D-N",
+      "chatUrl": "3IkLy",
+      "dateIso": "2025-12-17T01:06:31.551Z",
+      "name": "ilov****",
+      "isTechnical": true,
+      "category": "spec",
+      "modelConfidence": "medium",
+      "question": "아 혹시 이 제품인데",
+      "answer": "확장이 되는 제품은LS-UH319D-N 모델입니다. 하나는 fhd를 다른 하나는 4k를 지원합니다. 안녕하세요 해당 제품은 확장 기능이 없는 분배기 입니다. 그러므로 듀얼 모니터\n\n1미터로 구매하시면 됩니다. https://smartstore.naver.com/lineup/products/10842719715\n\n몇미터 필요하신가요? 구입 가능하십니다.",
+      "turn_count": 4,
+      "transcript": [
+        {
+          "role": "customer",
+          "text": "아 네 감사합니다"
+        },
+        {
+          "role": "agent",
+          "text": "확장이 되는 제품은LS-UH319D-N 모델입니다.\n\n하나는 fhd를 다른 하나는 4k를 지원합니다. 안녕하세요 해당 제품은 확장 기능이 없는 분배기 입니다. 그러므로 듀얼 모니터"
+        },
+        {
+          "role": "customer",
+          "text": "아 혹시 이 제품인데"
+        },
+        {
+          "role": "agent",
+          "text": "1미터로 구매하시면 됩니다. https://smartstore.naver.com/lineup/products/10842719715"
+        },
+        {
+          "role": "customer",
+          "text": "기본 길이면 됩니다"
+        },
+        {
+          "role": "agent",
+          "text": "몇미터 필요하신가요? 안녕하세요 랜스타입니다. 구입 가능하십니다."
+        },
+        {
+          "role": "customer",
+          "text": "[이미지]"
+        },
+        {
+          "role": "agent",
+          "text": "주문을 문의합니다. [배송도착예정] 주문하신 상품이 오늘 도착예정입니다~ [배송중] 고객님께 배송을 시작합니다! \n빠르게 배송해드릴게요! [배송시작] 주문하신 상품이 택배사에 도착"
+        }
+      ]
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "USB-C"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": 0.12,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.0",
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB Type-A / Type-C 입력",
+    "connectivity.output_signals": "HDMI 2포트 출력",
+    "connectivity.directional": "USB Type-A / Type-C 입력, HDMI 2포트 출력",
+    "connectivity.port_count": "HDMI 2포트 출력",
+    "power.power_mode": "USB3.0 전원 공급형 허브 경유 출력 가능",
+    "power.charging_support": "USB3.0 전원 공급형 허브 경유 출력 가능",
+    "form_physical.has_case": "알루미늄 재질 본체",
+    "form_physical.material": "알루미늄 재질 본체",
+    "form_physical.length_meters": "케이블 길이: 약 12cm",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "audio_video.max_resolution": "4K@30Hz 포트와 1080P@60Hz 포트",
+    "audio_video.audio_pass": "HDMI 2포트 출력",
+    "family.usb_version": "USB3.0",
+    "family.charging_only": "USB3.0 전원 공급형 허브 경유 출력 가능",
+    "family.data_only": "USB3.0 전원 공급형 허브 경유 출력 가능"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:14",
+  "feature_schema_version": "1.0.0",
+  "_talktalk_meta": {
+    "qna_pair_count": 1,
+    "category_breakdown": {
+      "spec": 1
+    },
+    "consolidation": "per_thread_v1",
+    "consolidated_at": "2026-04-22T00:00:00Z"
+  }
+}

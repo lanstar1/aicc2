@@ -1,0 +1,90 @@
+{
+  "model_no": "LS-DPMF-S2M",
+  "product_name": "[LANstar] 디스플레이 판넬형 케이블, DP/M TO DP/F, Screw, Black, 2M [10941](70개)",
+  "category": [
+    "DisplayPort",
+    "분배판넬"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-DPMF-S2M",
+      "품목코드": "CAB-젠DP122",
+      "품목명": "[LANstar] 디스플레이 판넬형 케이블, DP/M TO DP/F, Screw, Black, 2M [10941](70개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DPMF-S2M",
+      "내용": "배송이 완전 빨라요.\n사용해보려고요."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "DisplayPort"
+      ],
+      "output_signals": [
+        "DisplayPort"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 2,
+      "length_options_meters": null,
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": null,
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "DP/M",
+    "connectivity.output_signals": "DP/F",
+    "form_physical.length_meters": "2M",
+    "form_physical.color_options": "Black"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:41",
+  "feature_schema_version": "1.0.0"
+}

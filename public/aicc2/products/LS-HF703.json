@@ -1,0 +1,68 @@
+{
+  "model_no": "LS-HF703",
+  "product_name": "[LANstar] CAT.6A/7 SFTP 산업용 High-Flex 랜 케이블 3M [30790] (70개)",
+  "category": [
+    "랜케이블-CAT6A",
+    "랜케이블-SFTP"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-HF703",
+      "품목코드": "CAB-SS7219",
+      "품목명": "[LANstar] CAT.6A/7 SFTP 산업용 High-Flex 랜 케이블 3M [30790] (70개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-HF703",
+      "chatUrl": "5mHvF",
+      "dateIso": "2025-06-11T04:52:49.778Z",
+      "name": "아무로레이",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하세요 혹시 3m 가동용 랜케이블 제품이 있을까요?",
+      "answer": "미답변"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향"
+    },
+    "form_physical": {
+      "length_meters": 3.0
+    },
+    "family": {
+      "cat_category": "CAT6A",
+      "shielding": "SFTP",
+      "conductor": "연선(stranded)",
+      "flame_rating": "PVC",
+      "poe_support": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "랜 케이블",
+    "connectivity.output_signals": "랜 케이블",
+    "connectivity.directional": "랜 케이블",
+    "form_physical.length_meters": "3M",
+    "family.cat_category": "CAT.6A",
+    "family.shielding": "SFTP",
+    "family.conductor": "High-Flex",
+    "family.flame_rating": "PVC",
+    "family.poe_support": "랜 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:37",
+  "feature_schema_version": "1.0.0"
+}

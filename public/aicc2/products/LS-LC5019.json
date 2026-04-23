@@ -1,0 +1,119 @@
+{
+  "model_no": "LS-LC5019",
+  "product_name": "선 정리 케이블 랩핑 튜브 50M (19mm) - Flexible Braided Cable Wrap",
+  "category": [
+    "케이블정리"
+  ],
+  "key_features": [
+    "50M 대용량 롤 타입으로 대형 프로젝트에도 끊김 없이 사용 가능",
+    "내열 성능: 연속 사용 -50℃~+125℃, 최대 순간 약 150℃(단시간) 견딤",
+    "폴리에스터 브레이드 구조로 내마모성 우수 (마찰, 꼬임, 긁힘 보호)",
+    "브레이드 메쉬 구조로 유연성 및 확장성 뛰어남 (약 1.5~2배 확장 가능)",
+    "케이블 분리 없이 그대로 감싸서 설치 가능 (툴 불필요)",
+    "가위로 원하는 길이만큼 자유롭게 재단 가능",
+    "폴리에스터 소재로 절연성 기본 확보 (고전압 직접 차폐 기능 없음)",
+    "대부분의 오일, 솔벤트, 연료, 세제 등 화학물질에 비교적 강함",
+    "자동차 하네스, 서버실, 산업기기, 방송장비, 조선소 등 다양한 산업 현장 적용 가능",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "직경(내경)": "19mm",
+    "길이": "50M",
+    "포장 크기": "47 x 47 x 15 (cm)",
+    "무게": "약 1.785kg",
+    "재질": "폴리에스터(Polyester) / 메쉬(Braid 구조)",
+    "연속 사용 온도": "-50℃ ~ +125℃",
+    "최대 순간 내열": "약 150℃ (단시간)",
+    "확장 비율": "약 1.5~2배",
+    "감쌀 수 있는 케이블 수(참고)": "일반 전원선 또는 랜선 4~6개 묶음 기준",
+    "제조국": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "A/S 문의": "www.LANstar.co.kr"
+  },
+  "compatibility": [
+    "일반 전원선 묶음 (4~6개 기준, 환경에 따라 가변)",
+    "랜케이블(LAN Cable) 묶음",
+    "HDMI 케이블",
+    "XLR 케이블",
+    "자동차 하네스 배선",
+    "서버실 배선 (랜케이블, 전원선 등)",
+    "산업기기 배선",
+    "방송·음향 장비 케이블",
+    "대형 사무실 바닥·벽면 배선"
+  ],
+  "package_contents": [
+    "선 정리 케이블 랩핑 튜브 50M (19mm) 롤 1개"
+  ],
+  "usage_instructions": "기존에 연결된 케이블을 분리하지 않고 그대로 튜브 위로 감싸서 설치한다. 필요한 길이만큼 가위로 컷팅하여 사용하며, 별도의 공구 없이 손쉽게 설치 가능하다. 50M 롤 타입이므로 미터 단위로 재단하여 낭비 없이 사용할 수 있다.",
+  "cautions": [
+    "메쉬(망사) 구조로 방수 기능 없음 - 물이나 습기가 내부로 침투 가능하므로 수분이 많은 환경에서는 사용 지양",
+    "습기가 많은 환경에서는 별도 방수 튜브 병행 사용 권장",
+    "150℃ 이상 지속적인 고온 환경에서는 성능 저하 또는 변형 가능",
+    "불꽃이 직접 닿으면 타거나 녹을 수 있음 - 난연(FR) 환경에는 별도 난연 처리 제품 선택 필요",
+    "고전압 직접 차폐 기능 없음 - 차폐가 필요한 경우 알루미늄 등 별도 처리 필요",
+    "정전기 방지 기능 없음 - 정전기 방지가 필요한 환경에는 별도 제품 선택 필요",
+    "라인업시스템(주)/랜스타 정품 인증 배너가 없는 판매처 제품은 정품이 아니며 A/S 불가",
+    "제조사 사정에 따라 색상 및 형태 등 사양이 예고 없이 변경될 수 있음",
+    "당일출고는 오후 4시 이전 결제 완료 기준, 토·일·공휴일 제외 평일 기준이며 택배사 사정에 따라 배송 기간 변동 가능"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-LC5019",
+      "품목코드": "COM-악세사305",
+      "품목명": "[LANstar] 선정리 케이블 랩핑 튜브 50M (19Ø) [30942] [4개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": false,
+      "material": [
+        "폴리에스터"
+      ],
+      "length_meters": 50,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "form_physical.material": "폴리에스터(Polyester)",
+    "form_physical.length_meters": "길이: 50M"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:10",
+  "feature_schema_version": "1.0.0"
+}

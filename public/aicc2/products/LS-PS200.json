@@ -1,0 +1,115 @@
+{
+  "model_no": "LS-PS200",
+  "product_name": "USB to PS200 컨버터",
+  "category": [
+    "USB2.0",
+    "컨버터"
+  ],
+  "key_features": [
+    "PS/2 마우스 및 PS/2 키보드를 USB 단자로 변환해주는 컨버터",
+    "마우스와 키보드 동시 또는 각각 연결 사용 가능",
+    "휠마우스 지원",
+    "멀티미디어 키보드 지원",
+    "한영변환, 한자변환 완벽 지원",
+    "드라이버 설치 없이 자동 인식"
+  ],
+  "specifications": {
+    "모델명": "LS-PS200",
+    "품명": "USB to PS200",
+    "인증서번호": "LUS-LS-PS200",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8",
+    "Windows 10",
+    "Linux",
+    "Unix",
+    "Mac OS 8.6 이상"
+  ],
+  "package_contents": [
+    "USB to PS200 케이블 (10cm)"
+  ],
+  "usage_instructions": "1. 기기를 PC USB 단자에 연결하면 자동으로 인식됩니다. 2. 연결 확인은 내 컴퓨터 오른쪽 클릭 > 속성 > 하드웨어 탭 > 장치관리자로 이동합니다. 3. 장치관리자의 범용 직렬 버스 컨트롤러 항목에서 Generic USB Hub가 추가되어 있으면 정상 연결된 상태입니다.",
+  "cautions": [
+    "제조사의 사정에 따라 케이블 선의 색상 차이가 있을 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상해드립니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PS200",
+      "품목코드": "USB-PS2009",
+      "품목명": "[LANstar] USB 2.0 TO PS2, LS-PS200(150개)[30010]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "PS/2"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "버스파워"
+    },
+    "form_physical": {
+      "has_case": true
+    },
+    "certification": {
+      "kc": true
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 단자에 연결",
+    "connectivity.output_signals": "PS/2 마우스 및 PS/2 키보드를",
+    "connectivity.directional": "PS/2 마우스 및 PS/2 키보드를 USB 단자로 변환",
+    "power.power_mode": "기기를 PC USB 단자에 연결하면",
+    "form_physical.has_case": "컨버터",
+    "certification.kc": "인증서번호: LUS-LS-PS200",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdr_support": "null",
+    "audio_video.hdcp_version": "N/A",
+    "audio_video.audio_pass": "null",
+    "control_switching.has_remote": "null",
+    "control_switching.has_hotkey": "null",
+    "control_switching.has_physical_button": "null",
+    "control_switching.has_mouse_switching": "null",
+    "control_switching.has_auto_scan": "null",
+    "control_switching.has_app_control": "null",
+    "family.usb_version": "USB2.0",
+    "family.charging_only": "null",
+    "family.data_only": "마우스와 키보드 동시 또는 각각 연결"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:33",
+  "feature_schema_version": "1.0.0"
+}

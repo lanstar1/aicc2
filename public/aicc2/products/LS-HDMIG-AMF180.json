@@ -1,0 +1,124 @@
+{
+  "model_no": "LS-HDMIG-AMF180",
+  "product_name": "LANStar HDMI 변환젠더 19핀 180도 회전 A/M-A/F",
+  "category": [
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "HDMI 19핀 A/M(Male) 타입과 A/F(Female) 타입 커넥터로 구성된 연장 변환젠더",
+    "상하좌우 180도 각도로 자유롭게 회전 가능한 3D 입체 회전형 구조",
+    "손으로 쉽게 구부릴 수 있어 공간이 협소한 환경에서 편리하게 사용 가능",
+    "신호 손실을 최소화하는 금도금 커넥터 적용",
+    "영상, 음성 및 가전기기에 폭넓게 사용 가능",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "RoHS 인증 및 ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "커넥터 구성": "HDMI 19핀 A/M (Male) + HDMI 19핀 A/F (Female)",
+    "회전 각도": "상하좌우 180도",
+    "커넥터 도금": "금도금",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "환경 인증": "RoHS COMPLIANT",
+    "품질 인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "TV",
+    "PC 모니터",
+    "블루레이 플레이어",
+    "노트북",
+    "프로젝터"
+  ],
+  "package_contents": [
+    "HDMI 변환젠더 A/M-A/F (LS-HDMIG-AMF180) 본체"
+  ],
+  "usage_instructions": "HDMI A/M(Male) 단자를 기기의 HDMI 포트에 연결하고, A/F(Female) 단자에 HDMI 케이블을 연결하여 사용. 공간이 협소할 경우 손으로 상하좌우 원하는 방향으로 구부려 사용 가능.",
+  "cautions": [
+    "유통 과정상 제품의 모양이나 색상은 조금씩 달라질 수 있음",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMIG-AMF180",
+      "품목코드": "GEN-HDI142",
+      "품목명": "[LANstar] HDMI젠더, HDMI A／M-A／F, Black,180도[20134]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "conversion_direction": "양방향",
+      "requires_external_power": false,
+      "chipset": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI 19핀 A/M(Male) 타입",
+    "connectivity.output_signals": "A/F(Female) 타입 커넥터",
+    "connectivity.directional": "HDMI 변환젠더",
+    "power.power_mode": "무전원",
+    "power.charging_support": "null",
+    "form_physical.has_case": "HDMI 변환젠더",
+    "form_physical.material": "금도금 커넥터 적용",
+    "audio_video.audio_pass": "영상, 음성 및 가전기기에 폭넓게 사용",
+    "certification.rohs": "RoHS 인증",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.conversion_direction": "HDMI 변환젠더",
+    "family.requires_external_power": "null"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:30",
+  "feature_schema_version": "1.0.0"
+}

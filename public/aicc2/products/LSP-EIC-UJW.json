@@ -1,0 +1,163 @@
+{
+  "model_no": "LSP-EIC-UJW",
+  "product_name": "CAT.5E UTP 고급형 커플러 (RJ45 / 8P8C / I형 F-F)",
+  "category": [
+    "랜케이블-CAT5E",
+    "랜케이블-UTP",
+    "커넥터",
+    "커플러"
+  ],
+  "key_features": [
+    "CAT.5E UTP 전용 인라인 커플러",
+    "RJ45 Female - RJ45 Female 1:1 I형 연결",
+    "최대 1Gbps 전송 속도 지원 (1000BASE-T, 100MHz)",
+    "50μ 금도금 커넥터로 신호 손실 최소화",
+    "568A(Cross) / 568B(Direct) 두 가지 배열 모두 연결 가능",
+    "랜 케이블 길이가 짧거나 추가 연장이 필요할 때 사용",
+    "라인업시스템(주) / 랜스타 정품 인증 제품",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "소재·부품·장비 전문기업확인서 보유 (2022.11.29 취득)"
+  ],
+  "specifications": {
+    "규격": "CAT.5E UTP",
+    "형태": "RJ45 Female-Female (F/F), I형",
+    "커넥터 규격": "RJ45, 8P8C",
+    "전송속도": "1Gbps",
+    "대역폭": "100MHz",
+    "통신 규격": "1000BASE-T",
+    "커넥터 도금": "50μ 금도금",
+    "재질": "플라스틱",
+    "색상": "흰색",
+    "제품 크기": "15mm x 30mm x 17mm",
+    "원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증 번호": "해당없음",
+    "모델명": "LSP-EIC-UJW"
+  },
+  "compatibility": [
+    "CAT.5E UTP 랜 케이블",
+    "RJ45 (8P8C) 커넥터",
+    "568A (Cross) 배열 케이블",
+    "568B (Direct) 배열 케이블",
+    "1000BASE-T 네트워크 장비"
+  ],
+  "package_contents": [
+    "CAT.5E UTP 고급형 커플러 (LSP-EIC-UJW) 1개"
+  ],
+  "usage_instructions": "랜 케이블 길이가 짧거나 추가 연장이 필요한 경우, 두 개의 RJ45 케이블을 본 커플러의 양쪽 Female 포트에 각각 삽입하여 1:1로 연결합니다. 568A(Cross) 및 568B(Direct) 배열 케이블 모두 사용 가능합니다.",
+  "cautions": [
+    "CAT.5E UTP 전용 커플러이므로 다른 규격(CAT.6 이상) 적용 시 성능이 보장되지 않을 수 있습니다.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 없는 판매처의 제품은 정품이 아닐 수 있으며 A/S를 받을 수 없습니다.",
+    "제조사 사정에 따라 제품 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "당일출고는 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일을 제외한 평일 기준입니다.",
+    "택배사 사정에 따라 배송 기간이 길어질 수 있습니다.",
+    "본 제품의 콘텐츠 및 상품을 당사 동의 없이 무단 복제·이용 시 불이익을 받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LSP-EIC-UJW",
+      "품목코드": "NEO-커플러055",
+      "품목명": "[◆Lanstar-Plus] UTP CAT.5E, Inline 커플러 I형, White [40545] (500개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LSP-EIC-UJW",
+      "내용": "품질 좋아요. 홈네트워크 구축용도로 모뎀과 거실 직결용도로 구매했습니다. 처음에 작동 안되어서 당황했는데 몇번 뺐다꼽았다하니깐 작동  잘되네용"
+    },
+    {
+      "source_model": "LSP-EIC-UJW",
+      "내용": "너무 잘 쓰고 있습니다",
+      "관련내용": "배송도 빠르고 좋아요"
+    },
+    {
+      "source_model": "LSP-EIC-UJW",
+      "내용": "배송도 빠르고 좋아요"
+    },
+    {
+      "source_model": "LSP-EIC-UJW",
+      "내용": "맘에들어요 매번시켜요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "흰색"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "UTP",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ45 Female - RJ45 Female",
+    "connectivity.output_signals": "RJ45 Female - RJ45 Female",
+    "connectivity.directional": "1:1 I형 연결",
+    "connectivity.port_count": "두 개의 RJ45 케이블을 본 커플러의 양쪽 Female 포트에",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "CAT.5E UTP 고급형 커플러",
+    "form_physical.material": "플라스틱",
+    "form_physical.material.1": "50μ 금도금 커넥터",
+    "form_physical.color_options": "흰색",
+    "certification.kc": "KC 인증 번호: 해당없음",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.cat_category": "CAT.5E UTP 전용 인라인 커플러",
+    "family.shielding": "CAT.5E UTP 전용 인라인 커플러"
+  },
+  "feature_extracted_at": "2026-04-23T03:22:43",
+  "feature_schema_version": "1.0.0"
+}

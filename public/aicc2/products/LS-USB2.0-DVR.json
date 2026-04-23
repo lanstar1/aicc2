@@ -1,0 +1,150 @@
+{
+  "model_no": "LS-USB2.0-DVR",
+  "product_name": "LANStar 이지 캡처 영상캡처편집기 (USB 2.0 영상 캡처 편집기 / USB to DVR)",
+  "category": [
+    "USB2.0",
+    "RCA케이블",
+    "사운드카드"
+  ],
+  "key_features": [
+    "USB 2.0 지원 – 별도 전원 공급 불필요",
+    "SVHS 단자 및 RCA(컴포지트) 단자 동시 지원",
+    "사운드카드 없이 USB 2.0 단자만으로 영상·음성 캡처 가능",
+    "NTSC(720×480 @ 30fps) 및 PAL(720×576 @ 25fps) 방식 모두 지원",
+    "Fushicai UTV007S 칩셋 탑재 – Windows 10 지원",
+    "캡처 프로그램 CD 제공 (한글화 패치 완료, honestech VHS to DVD 3.0 SE)",
+    "동영상 제작 및 편집 가능",
+    "고화질 와이드 화면 캡처 기능",
+    "작은 사이즈로 휴대 간편",
+    "우레탄 코팅 바디",
+    "LED 전원 표시",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 제품 (KC 인증)"
+  ],
+  "specifications": {
+    "모델명": "LS-USB2.0-DVR",
+    "인터페이스": "USB 2.0",
+    "칩셋": "Fushicai UTV007S",
+    "NTSC 해상도/프레임": "720×480 @ 30fps",
+    "PAL 해상도/프레임": "720×576 @ 25fps",
+    "지원 영상 방식": "NTSC, PAL",
+    "영상 입력 단자": "컴포지트(RCA), SVHS",
+    "음성 입력 단자": "RCA (Left/Right)",
+    "전원 공급": "USB 버스 파워 (별도 전원 불필요)",
+    "USB 연장케이블 길이": "0.8m",
+    "본체 크기": "9cm × 17.5cm (연장케이블 포함 구성 기준)",
+    "MIC 인증번호": "LUS-LS-USB2.0-DVR",
+    "KC 인증번호": "KCC-REI-LUS-LS-USB20-DVR",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "AS 소비자상담": "070-7018-3386",
+    "안전규격": "KC, FCC, CE"
+  },
+  "compatibility": [
+    "Windows 2000 / XP / VISTA / 7 / 8 / 10",
+    "USB 2.0 포트를 갖춘 데스크탑 및 노트북",
+    "SVHS 단자를 가진 구형·신형 캠코더 및 비디오 플레이어",
+    "RCA(컴포지트) 단자를 가진 영상 기기",
+    "NTSC 방식 기기 (북미, 한국 등)",
+    "PAL 방식 기기 (유럽 등)"
+  ],
+  "package_contents": [
+    "EASY 캡처 본품 (LS-USB2.0-DVR)",
+    "USB 2.0 연장케이블 0.8m",
+    "설치 드라이버 CD (honestech VHS to DVD 3.0 SE 번들 포함, 한글화 패치 완료)",
+    "EASY 캡처 사용자 매뉴얼 (User Manual)"
+  ],
+  "usage_instructions": "1. EASY 캡처 본품을 컴퓨터 USB 단자(또는 연장케이블)에 연결한다. 2. 동봉된 CD를 삽입하고 'setup' 파일을 실행하면 드라이버 및 honestech VHS to DVD 3.0 SE 번들 프로그램이 자동 설치된다. 3. 설치 완료 후 장치 관리자 > 사운드, 비디오 및 게임 컨트롤러 항목에 'USB2.0 MIC' 또는 'OEM Capture' 또는 'AV TO USB 2.0' 또는 'USB TV Tuner' 항목이 생성되면 드라이버가 정상 설치된 것이다. 4. 바탕화면의 'honestech VHS to DVD 3.0 SE' 아이콘을 실행한 후 영상기기와 EASY 캡처를 연결하여 녹화·편집한다. 5. 화면이 흑백으로 출력될 경우, 프로그램 설정 > 비디오 표준을 'NTSC M'으로 변경하거나, OBS Studio(https://obsproject.com/ko)를 대체 프로그램으로 사용할 수 있다. OBS Studio 사용 시 소스 목록에서 '+' 추가 > '비디오 캡처 장치' 선택 > 장치를 'AV TO USB2.0'으로 설정 > 오디오 출력 방식을 '출력 데스크탑 오디오(DirectSound)'로 설정한다.",
+  "cautions": [
+    "USB 2.0을 지원하지 않는 컴퓨터에서는 사용이 불가합니다.",
+    "SVHS와 컴포지트(RCA) 중 하나만 선택하여 사용하세요. 동시 사용 불가.",
+    "번들 프로그램(honestech VHS to DVD 3.0 SE) 사용법에 관한 책임은 본사에 없으며 상담 또한 제한됩니다.",
+    "번들 프로그램은 사용자 편의를 위해 제공되며, 다양한 기능을 위해서는 별도 프로그램을 구매 또는 확보하여 사용하시기 바랍니다.",
+    "프로그램 속 대부분의 설정은 설정 페이지 버튼을 누르면 그 안에서 이루어집니다.",
+    "사용하는 기기에 따라 번들 프로그램이 정상 작동하지 않을 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품 및 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB2.0-DVR",
+      "품목코드": "usb-응용제036",
+      "품목명": "[LANstar] USB 영상 캡쳐 편집기／DVR 이지캡쳐 EasyCAP capture [30031] (60개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A",
+        "RCA",
+        "SVHS"
+      ],
+      "output_signals": [
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "우레탄코팅"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "720p",
+      "hdr_support": false,
+      "hdcp_version": "없음",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "SVHS 단자 및 RCA(컴포지트) 단자 동시 지원",
+    "connectivity.output_signals": "USB 2.0 단자만으로 영상·음성 캡처 가능",
+    "connectivity.directional": "영상캡처편집기",
+    "power.power_mode": "USB 버스 파워 (별도 전원 불필요)",
+    "form_physical.has_case": "우레탄 코팅 바디",
+    "form_physical.material": "우레탄 코팅 바디",
+    "certification.kc": "국립전파연구원 인증 제품 (KC 인증)",
+    "certification.fcc": "안전규격\": \"KC, FCC, CE",
+    "certification.ce": "안전규격\": \"KC, FCC, CE",
+    "audio_video.max_resolution": "NTSC(720×480 @ 30fps)",
+    "audio_video.audio_pass": "사운드카드 없이 USB 2.0 단자만으로 영상·음성 캡처 가능",
+    "family.usb_version": "USB 2.0 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:32",
+  "feature_schema_version": "1.0.0"
+}

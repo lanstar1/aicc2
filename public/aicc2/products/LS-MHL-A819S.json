@@ -1,0 +1,125 @@
+{
+  "model_no": "LS-MHL-A819S",
+  "product_name": "LANStar 아이폰 미러링 케이블 (iPhone to HDTV Cable)",
+  "category": [
+    "오디오케이블",
+    "아이폰케이블"
+  ],
+  "key_features": [
+    "영상 및 오디오 동시 지원",
+    "1080P Full HD 3D 해상도 지원 (1920x1080)",
+    "아이폰 화면을 HDTV, 모니터, 프로젝터에 미러링 가능",
+    "유튜브 등 스트리밍 영상을 TV에서 시청 가능",
+    "케이블 길이 1.5M",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 KC 인증 획득",
+    "RoHS 규격 준수",
+    "ISO 9001:2008 품질경영시스템 적용"
+  ],
+  "specifications": {
+    "커넥터": "HDMI + 8pin(Male) - USB A(Male)",
+    "해상도": "1920x1080 (Full HD)",
+    "길이": "1.5M",
+    "색상": "Silver",
+    "전원입력": "DC 5V",
+    "인증번호": "KCC-REI-LUS-LS-AP8P",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "iPhone 7",
+    "iPhone 6 Plus",
+    "iPhone 6S",
+    "iPhone 6",
+    "iPhone 5S",
+    "iPhone 5",
+    "iPad (Wi-Fi + Cellular)",
+    "HDMI 단자를 가진 TV, 모니터, 프로젝터"
+  ],
+  "package_contents": [
+    "아이폰 미러링 케이블 본체 (HDMI + 애플 8핀 + USB A(Male), 1.5M)"
+  ],
+  "usage_instructions": "1. 아이폰 미러링 케이블의 HDMI 단자를 TV, 모니터 또는 프로젝터의 HDMI 포트에 연결합니다. 2. 8핀 단자를 아이폰에 연결합니다. 3. USB A/M 단자를 5V 어댑터(별도 구매) 또는 PC의 USB 포트에 연결하여 5V 전원을 공급합니다. 4. 아이폰에서 '이 컴퓨터를 신뢰하겠습니까?' 팝업이 나타나면 '신뢰'를 클릭합니다. 5. TV(모니터)와 미러링이 되어 폰 화면과 동일하게 표시됩니다.",
+  "cautions": [
+    "DC 5V 어댑터는 별도 구매가 필요합니다.",
+    "별도 케이블 연결 시 데이터 전송과 충전이 동시에 지원되는 제품을 사용하세요.",
+    "미러링 연결 시 와이파이 안테나 상태, 현재 시각, 충전 상태 등 일부 상태 표시가 임의 변경됩니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 받을 수 있습니다.",
+    "품질 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "8pin",
+        "USB-A"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "일방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 1.5,
+      "length_options_meters": null,
+      "color_options": [
+        "Silver"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "1080p",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": null,
+      "ethernet_channel": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "8pin(Male) - USB A(Male)",
+    "connectivity.output_signals": "HDMI",
+    "connectivity.directional": "아이폰 화면을 HDTV, 모니터, 프로젝터에 미러링",
+    "power.power_mode": "5V 어댑터(별도 구매) 또는 PC의 USB 포트에 연결하여 5V 전원을 공급",
+    "power.charging_support": "전원을 공급합니다.",
+    "form_physical.length_meters": "케이블 길이 1.5M",
+    "form_physical.color_options": "색상: Silver",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "audio_video.max_resolution": "1080P Full HD 3D 해상도 지원 (1920x1080)",
+    "audio_video.audio_pass": "영상 및 오디오 동시 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:40",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,147 @@
+{
+  "model_no": "LS-CUP-ID64P",
+  "product_name": "고급형 커플러 I형 RJ12 6P4C 1:1",
+  "category": [
+    "젠더",
+    "커플러"
+  ],
+  "key_features": [
+    "RJ12 6P4C 1:1 타입 단자 구성",
+    "전화선 길이가 짧거나 추가 연장이 필요할 때 사용하는 연장 젠더",
+    "전화선 1:1 대응 I형 커플러",
+    "국립전파연구원 KC 인증 획득 (인증번호 T-A71-05-0095)",
+    "RoHS 규격 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 적용",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "커넥터 규격": "RJ12 6P4C",
+    "연결 방식": "1:1 (F/F)",
+    "타입": "I형",
+    "인증번호": "T-A71-05-0095",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "RoHS 준수": "준수",
+    "KC 인증": "획득",
+    "ISO 인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "RJ12 6P4C 전화선",
+    "전화선 연장이 필요한 기기"
+  ],
+  "package_contents": [
+    "RJ12 6P4C 1:1 I형 커플러 본체"
+  ],
+  "usage_instructions": "전화선 길이가 짧거나 추가 연장이 필요한 경우, RJ12 커넥터가 있는 전화선 양쪽을 본 커플러의 양단에 각각 연결하여 전화선을 1:1로 연장한다.",
+  "cautions": [
+    "유통과정상 제품의 모양이나 색상은 조금씩 달라질 수 있습니다.",
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-CUP-ID64P",
+      "품목코드": "NEO-커플러020",
+      "품목명": "[LANstar] 커플러 I형 RJ-11 6P4C 1：1 보급형-핀타입[40020]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-CUP-ID64P",
+      "내용": "회사용으로 급하게 구매했는데 배송이 빨라서 만족해요"
+    },
+    {
+      "source_model": "LS-CUP-ID64P",
+      "내용": "잘받았습니다 빠른배송 감사합니다"
+    },
+    {
+      "source_model": "LS-CUP-ID64P",
+      "내용": "배송 빠르게 잘받았습니다,,"
+    },
+    {
+      "source_model": "LS-CUP-ID64P",
+      "내용": "배송 빠르게 잘받았습니다,,"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ11"
+      ],
+      "output_signals": [
+        "RJ11"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "connector_type_a": "RJ12 6P4C",
+      "connector_type_b": "RJ12 6P4C",
+      "gender": "F-F",
+      "pin_count": 6
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ12 6P4C 1:1 타입 단자 구성",
+    "connectivity.output_signals": "RJ12 6P4C 1:1 타입 단자 구성",
+    "connectivity.directional": "전화선 1:1 대응 I형 커플러",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "고급형 커플러 I형",
+    "certification.kc": "KC 인증 획득",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "audio_video.max_resolution": "전화선 길이가 짧거나 추가 연장이",
+    "audio_video.hdr_support": "전화선 길이가 짧거나 추가 연장이",
+    "audio_video.hdcp_version": "전화선 길이가 짧거나 추가 연장이",
+    "audio_video.audio_pass": "전화선 길이가 짧거나 추가 연장이",
+    "control_switching.has_remote": "전화선 길이가 짧거나 추가 연장이",
+    "control_switching.has_hotkey": "전화선 길이가 짧거나 추가 연장이",
+    "control_switching.has_physical_button": "전화선 길이가 짧거나 추가 연장이",
+    "control_switching.has_mouse_switching": "전화선 길이가 짧거나 추가 연장이",
+    "control_switching.has_auto_scan": "전화선 길이가 짧거나 추가 연장이",
+    "control_switching.has_app_control": "전화선 길이가 짧거나 추가 연장이",
+    "family.connector_type_a": "RJ12 6P4C",
+    "family.connector_type_b": "RJ12 6P4C",
+    "family.gender": "1:1 (F/F)",
+    "family.pin_count": "RJ12 6P4C"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:17",
+  "feature_schema_version": "1.0.0"
+}

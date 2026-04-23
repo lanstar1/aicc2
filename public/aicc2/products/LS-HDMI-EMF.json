@@ -1,0 +1,300 @@
+{
+  "model_no": "LS-HDMI-EMF",
+  "product_name": "LANStar HDMI 1.4 연장 케이블 19P M/F (LS-HDMI-EMF)",
+  "category": [
+    "HDMI케이블",
+    "익스텐더",
+    "커넥터"
+  ],
+  "key_features": [
+    "HDMI 1.4 규격 지원 (4K UHD 방송 시청 필수)",
+    "4K×2K(4096×2160) @60Hz 고화질 해상도 지원 (Full HD 1080p 대비 4배 해상도)",
+    "3D 영상 지원",
+    "전송속도(대역폭) 10.2Gbps",
+    "24K 금도금 커넥터 적용으로 우수한 전송률",
+    "3개의 확장 컬러 영역 지원 (sYCC601 / Adobe RGB / Adobe YCC601) 으로 풍부한 색감",
+    "ARC(Audio Return Channel) 지원 – 별도 케이블 없이 TV 사운드 전송",
+    "HEC(HDMI Ethernet Channel) 지원 – 별도 LAN 케이블 없이 네트워크 접속 및 IPTV·DLNA·UPnP 구현",
+    "돌비 TrueHD 오디오 비트스트림 지원",
+    "8채널 LPCM 192kHz 24비트 오디오 지원",
+    "RoHS 규격 준수 (납·수은·카드뮴 등 중금속 미사용)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재보험 생산물배상책임보험 1억 원 가입",
+    "HDMI(Male)와 HDMI(Female) 단자로 구성된 연장 젠더형 케이블",
+    "4K2K(4096x2160) @60Hz 초고화질 해상도 지원",
+    "최대 18Gbps 고속 전송 대역폭 지원",
+    "21:9 시네마스코프 화면비 지원",
+    "32채널 멀티채널 오디오 지원 (1536kHz 샘플링)",
+    "Deep Color 30비트/36비트 지원",
+    "DTS-HD / Dolby TrueHD / LPCM 7.1 / AC3 / DTS / DSD 오디오 포맷 지원",
+    "ARC(Audio Return Channel) 지원 - 별도 케이블 없이 TV 사운드 전송",
+    "HEC(HDMI Ethernet Channel) 지원 - 별도 랜케이블 없이 네트워크 접속",
+    "24K 금도금 커넥터 적용",
+    "RoHS 친환경 규격 준수",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품",
+    "4K2K UHD(3840x2160 / 4096x2160) 해상도 지원, Full HD 1080p 대비 최대 4배 고해상도",
+    "60Hz(초당 60프레임) 지원으로 매끄러운 영상 구현",
+    "HDMI Ver 1.4 규격 지원",
+    "HDMI High Speed with Ethernet 인증 규격",
+    "3D TV 완벽 지원 - 3D 비디오 포맷 및 해상도 통일 규격 지원",
+    "HEC(HDMI Ethernet Channel) 지원 - 별도 이더넷 케이블 없이 IP 기반 기기 통신 가능",
+    "ARC(Audio Return Channel) 지원 - 별도 AV/RCA/광케이블 없이 오디오 업스트림 전송 가능",
+    "추가 칼라영역 지원(sYCC601 / Adobe RGB / Adobe YCC601) - 풍부하고 자연스러운 색감",
+    "길이가 짧을 때 연장하여 사용하는 연장 케이블(HDMI 수-암)",
+    "랜스타 4K2K 테스트 완료 제품",
+    "HDMI 1.4 규격 지원 연장 케이블 (19P Male to Female)",
+    "4K2K(4096x2160) @60Hz 초고해상도 지원 — 기존 Full HD 1080p 대비 4배 높은 해상도",
+    "24K 금도금 커넥터로 우수한 전송률 제공",
+    "전송 대역폭 10.2Gbps",
+    "ARC(Audio Return Channel) 지원 — 별도 케이블 없이 TV 사운드 전송",
+    "HEC(HDMI Ethernet Channel) 지원 — 별도 랜케이블 없이 네트워크 접속 및 양방향 통신 (IPTV, DLNA, UPnP)",
+    "Deep Color 지원",
+    "xvYCC 지원으로 풍부한 색감(sYCC601, Adobe RGB, Adobe YCC601 색역 추가)",
+    "자동 립싱크(Auto Lip-Sync) 지원",
+    "블루레이/HD-DVD 오디오 최대 해상도 지원",
+    "RoHS 인증(유해물질 사용제한 준수)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "4K2K(4096x2160) @ 30Hz 초고해상도 지원 — 기존 Full HD 1080p 대비 4배 해상도",
+    "3D 영상 신호 전송 지원",
+    "24K 금도금 커넥터로 우수한 전송률 확보",
+    "ARC(Audio Return Channel) 지원 — TV와 AV기기 간 별도 케이블 없이 음성 신호 전송",
+    "HEC(HDMI Ethernet Channel) 지원 — 별도 랜 케이블 없이 네트워크 접속 및 IPTV·DLNA·UPnP 구현",
+    "Deep Color 지원으로 풍부하고 자연스러운 컬러 표현 (sYCC601 / Adobe RGB / Adobe YCC601)",
+    "RoHS 준수 제품 (납·수은·카드뮴 등 중금속 사용 금지)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "HDMI 단자": "HDMI 19P/M - 19P/F / HDMI 19P M/F / HDMI 19P M / HDMI 19P F / HDMI 19P Male to HDMI 19P Female",
+    "HDMI 출력": "4K×2K(4096×2160) @60Hz 지원",
+    "전송속도(대역폭)": "10.2Gbps / 18Gbps",
+    "케이블 길이": "1M / 2M / 5M / 0.15M / 2m",
+    "소비전력 최대": "DC 300V/5s",
+    "작동온도": "섭씨 80도",
+    "커넥터 도금": "24K 금도금",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008",
+    "제조국/원산지": "중국 (China)",
+    "HDMI 해상도": "4K2K(4096x2160) @60Hz",
+    "지원 영상 비트": "Deep Color 30비트/36비트",
+    "지원 오디오 포맷": "DTS-HD, Dolby TrueHD, LPCM 7.1, AC3, DTS, DSD",
+    "구조 및 색상": "19+1 순동선재, PVC JACKET 블랙, 골드메탈 커버",
+    "기타 지원": "Ethernet 지원, 3D 지원",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당 없음 / 상세페이지 참조",
+    "환경 규격": "RoHS Compliant",
+    "품질 인증": "ISO 9001:2008",
+    "HDMI 버전": "Ver 1.4",
+    "규격": "HDMI High Speed with Ethernet",
+    "커넥터 타입": "HDMI(M) - HDMI(F)",
+    "색상": "Black",
+    "최대 해상도": "4K2K (4096x2160) / 4Kx2K (4096x2160) @60Hz / 4Kx2K (4096x2160) @ 30Hz",
+    "지원 해상도": "SD 480p, HD 720p, Full HD 1080p, 1440p, 4K2K (4096x2160)",
+    "최대 주사율": "60Hz",
+    "3D 지원": "지원",
+    "HEC(HDMI Ethernet Channel)": "지원",
+    "ARC(Audio Return Channel)": "지원",
+    "추가 색공간": "sYCC601 color, Adobe RGB color, Adobe YCC601 color",
+    "전송 속도(대역폭)": "10.2Gbps",
+    "소비전력(최대)": "DC 300V / 5s",
+    "작동 온도": "섭씨 80도",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "AS 소비자상담": "라인업시스템(주) 070-7018-3386"
+  },
+  "compatibility": [
+    "TV (HDMI 19P/M 단자 연결)",
+    "PC 모니터 (HDMI 19P/M 단자 연결)",
+    "노트북 (HDMI 19P/F 단자 연결)",
+    "블루레이 플레이어 (HDMI 19P/F 단자 연결)",
+    "게임기 (HDMI 19P/F 단자 연결)",
+    "프로젝터 (HDMI 19P/F 단자 연결)",
+    "셋톱박스 (HDMI 19P/F 단자 연결)",
+    "HDMI 1.4 규격 호환 기기",
+    "HD DVD, Blu-ray Disc",
+    "dts-HD, Dolby TrueHD 지원 기기",
+    "IPTV, DLNA, UPnP 지원 기기",
+    "HDMI 2.0 지원 기기",
+    "TV",
+    "PC 모니터",
+    "노트북",
+    "블루레이 플레이어",
+    "게임기",
+    "프로젝터",
+    "셋톱박스",
+    "4K UHD 방송 수신 기기",
+    "IPTV / DLNA / UPnP 지원 기기",
+    "HDMI 1.4 지원 TV, 모니터, 프로젝터 등 영상 출력 기기",
+    "HDMI 1.4 지원 AV 리시버, 홈시어터 기기",
+    "HDMI 1.4 지원 3D TV 및 3D 홈시어터",
+    "HEC 기능 지원 HDMI 1.4 기기 (IP 기반 주변기기)",
+    "ARC 기능 지원 TV 및 AV 리시버",
+    "4K2K UHD 콘텐츠 재생 기기",
+    "HDMI 표준 규격 기기 (하위 버전 1.3 등과 물리적 호환 가능, 단 1.4 신규 기능은 양단 기기 모두 1.4 지원 필요)",
+    "HDMI 1.4 규격 기기",
+    "HDMI 1.3 규격 기기",
+    "HDMI 1.2 규격 기기",
+    "HDMI 1.1 규격 기기",
+    "HDMI 1.0 규격 기기",
+    "TV (19P Male 단자 연결)",
+    "PC 모니터 (19P Male 단자 연결)",
+    "노트북 (19P Female 단자 연결)",
+    "블루레이 플레이어 (19P Female 단자 연결)",
+    "게임기 (19P Female 단자 연결)",
+    "프로젝터 (19P Female 단자 연결)",
+    "셋톱박스 (19P Female 단자 연결)",
+    "ARC 지원 AV 기기",
+    "HEC(HDMI Ethernet Channel) 지원 기기",
+    "TV, PC 모니터 등 HDMI 19P Female 포트 기기",
+    "노트북, 블루레이 플레이어, 게임기, 프로젝터, 셋톱박스 등 HDMI 19P Male 포트 기기",
+    "HDMI 1.4 이하 버전 기기 (하위 호환)",
+    "HD-DVD 플레이어",
+    "IPTV 셋톱박스",
+    "DLNA / UPnP 지원 네트워크 기기"
+  ],
+  "package_contents": [
+    "HDMI 1.4 연장 케이블 19P M/F (선택 길이: 1M / 2M / 5M 중 1개)",
+    "HDMI 2.0 연장 케이블 (0.15M) 1개",
+    "콘넥터 보호캡",
+    "LANStar HDMI 케이블 Ver 1.4 HDMI(M)-HDMI(F) 2m Black 1개",
+    "HDMI 1.4 연장 케이블 19P M/F 2M 본체 1개",
+    "HDMI 1.4 연장 케이블 19P M/F 5M (LS-HDMI-EMF-5M) 1개"
+  ],
+  "usage_instructions": "19P/M(Male) 단자를 TV 또는 PC 모니터의 HDMI 포트에 연결하고, 19P/F(Female) 단자를 노트북·블루레이 플레이어·게임기·프로젝터·셋톱박스 등의 HDMI 케이블에 연결하여 기존 HDMI 케이블을 연장하여 사용합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매·배송·반품은 판매처(쇼핑몰 하단 참조)를 통해 문의하세요."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDMI-EMF-2M",
+      "품목코드": "CAB-HMF001",
+      "품목명": "[LANstar] HDMI 연장케이블, 19P M／F, Black, 4K 60Hz, 2M[10223] (100개)",
+      "variant_suffix": "-2M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-EMF-5M",
+      "품목코드": "CAB-HMF006",
+      "품목명": "[LANstar] HDMI 연장케이블, 19P M／F, Black, 4K 30Hz, 5M[10224] (50개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-EMF-1M",
+      "품목코드": "CAB-HMF010",
+      "품목명": "[LANstar] HDMI 연장케이블, 19P M／F, Black, 4K 60Hz, 1M [10823]-->20204로 대체",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-HDMI-EMF-0.15M",
+      "품목코드": "CAB-HMF018",
+      "품목명": "[LANstar] HDMI 2.0 연장 케이블, 19P M／F, Black, 4K 60Hz, 0.15M [11022]",
+      "variant_suffix": "-0.15M",
+      "source": "excel"
+    }
+  ],
+  "qna": [
+    {
+      "source_model": "LS-HDMI-EMF-1M",
+      "id": 124256207,
+      "date": "2020-07-30 10:58",
+      "answerDate": "2020-07-30 13:35",
+      "user": "ssan******",
+      "productName": "랜스타 HDMI 1.4 연장케이블 검정 1M LS-HDMI-EMF-1M",
+      "question": "Hdmi연장케이블1m로 구매했구요\n낼 받을수있게 오늘 발송 꼭 부탁드립니다.",
+      "answer": "안녕하세요 랜스타 입니다\n\n출고 해드리겠습니다"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-HDMI-EMF-0.15M": "LANG\nStar\n| 4K]\nULTRA HD\nHDMI™\nHIGH-DEFINITION MULTIMEDIA INTERFACE\nHDMI 2.0 연장 케이블 [0.15M]\n19P M/F\nMEESE-C\n4K2K\n3D\nHDMI 2.0\n21:9\n32채널\n24K\n60Hz\nFull HD\n18Gbps\n시네마스코프\n화면비\n멀티채널\n오디오\n금도금\n콘넥터\nHDMI 연장 케이블이란?\n일반형 HDMI(M) - HFMI(F) 젠더를 연장하는 케이블입니다.\nHDMI(F) 단자에 영상 및 오디오의 디지털 신호를 전달하는\n일반 HDMI 케이블을 연결하여 사용합니다.\nHDMI(Male)\nHDMI(Female)\nHami\nHDMI™*\nHIGH-DEFINITION MULTIMEDIA INTERFACE\n4K @60Hz\nULTRA HD\n4K2K 고화질 해상도는 기존의 Full HD 1080p보다\n4배 높은 고해상도 화질을 표현하여\n얼굴의 솜털까지 볼 수 있는 실물에 가까운\n생생한 화질을 제공하는게 특징입니다.\n3D\nFULL HD\nFULL)\nHD\n4Kx2K (4096x2160)\nHDMI2.0\nHIGH DEFINITION MULTIMEDIA INTERFACE\nHOMLY.3 1440P|\nHDMI 1.2 FULL HD 1080P\nHD 720P\n\n\nHDMI 1.3 1440P\nHDMI 1.2 FULL HD 1080P\nHD 720P\ndts HD\nDODOLBY)' b HD DVD\nTRUEHD Blu-ray Disc\nMaster Audio\n21:9 화면비율\n극장용 시네마스코프 영상 지원\nHDMI 2.0 연장 케이블은 21:9 화면비를 지원하여 극장에서 영화를 감상하듯\n잘리지 않은 화면을 선명하고 생생하게 볼 수 있습니다.\n21:9 UltraWide\n16:9\n........\n4K UHD 방송시청에 필수인\nHDMI 2.0 지원\nHDMI 2.0 연장 케이블은 최대 18Gbps의 전송속도를 지원합니다.\n전송률\n24K 금도금 콘넥터\n풍부한 색감으로 더욱 현실감 있는 색채\n3개의 칼라 영역(sYCC601 color/Adobe RGB color/Adobe YCC601 color)이\n추가되면서 더욱 풍부하고 자연스러운 컬러감을 자랑합니다.\n기존 버전보다 선명하고 뛰어난 화질감을 느낄 수 있습니다.\nHDMI 1.3버전\nHDMI 2.0 버전\nHDMI 버전표\nHDMI version\n1.Over 1.1ver 1.2ver 1.3ver 1.4ver 2.Over\nsRGB\nO\nㅇ\nO\nO\nO\nO\nYCbCr 4:2:2/4:4:4\n0\nㅇ\nO\nO\nO\n0\n8채널 LPCM, 192kHz, 24비트 오디오 지원\nO\nO\nO\n○\n0\n블루레이/HD-DVD 오디오의 최대 해상도 지원\n0\nO\nO\nㅇ\nO\n0\n기기간 컨트롤 링크 (CEC)\n0\nㅇ\nO\nO\n0\n0\n\n\nHDMI 버전표\nHDMI version\n1.Over 1.1ver 1.2ver 1.3ver 1.4ver 2.Over\nsRGB\n0\nO\nO\nO\nYCbCr 4:2:2/4:4:4\nO\n0\n0\n0\n8채널 LPCM, 192kHz, 24비트 오디오 지원\nㅇㅇㅇㅇㅇ\nO\nO\n0\n0\noooooo\n블루레이/HD-DVD 오디오의 최대 해상도 지원\n○\nO\nO\n0\n기기간 컨트롤 링크 (CEC)\nO\nO\nO\nO\n10 0 0 0 00\nDVD 오디오 지원\nO\nX\nO\nO\nSACD (DSD) 지원\nx\nx\nX\nO\nO\nDeep color\nX\nX\nX\nO\nO\nxvYCC\n×\nx\n×\nO\nO\n0\n자동 립싱크\nX\nX\nX\nO\nO\nO\n돌비 TrueHD 오디오 비트스트림 지원\nX\n×\nO\nO\nUpdated list of CEC commands\nX\nX\n×\nO\nO\n이이이이 00\nHDMI 3D 지원\nX\nx\nx\n0\n이더넷채널\nX\nX\nx\nX\nO\n오디오 리턴 채널\nx\nx\nx\nx\nO\n4K 해상도 지원 (30Hz)\nx\nx\nx\n0\nO\n4K 해상도 지원 (60Hz)\nX\nx\nx\nX\nX\nO\n32채널 오디오\nx\nX\nx\nx\n0\n32채널 멀티채널오디오\n1536kHz 오디오 샘플링으로 최대 4명의 사용자에게 동시에 멀티\n스트림 오디오를 전송하여 고음질의 풍성하고 섬세한 소리로\n영화나 음악을 감상할 수 있습니다.\n수구\nage\n오디오 리턴 채널\n(Audio Return Channel)\nTV와 AV기기 간에 별도의 케이블이 없이도\n선명하고 쾌적한 음성신호를 전송합니다.\n9:35\nHD\nGB\nHDMI 케이블을 통해 TV 사운드를 재생하는 ARC(Audio Return Channel) 지원\nHEC 지원\n(HDMI Ethernet Channal)\nHDMI 2.0 연장 케이블은 별도의 랜케이블 없이 네트워크에 접속해\n초고속 양방향 통신 및 IP 기반 응용기술(IPTV, DLNA, UPnp)을\n구현할 수 있습니다.\nHDMI®\nHIGH SPEED\nwith ETHERNET\nINTERNET\nTV, PC 모니터 등에 연결\n\n\nINTERNET\nTV, PC 모니터 등에 연결\nHDMI\n노트북, 블루레이 플레이어, 게임기\n프로젝터, 셋톱박스 등에 연결\n000200\nADD\nBlu-ray 플레이어\n프로젝터\n게임기\nv\n셋톱박스\n노트북\nRoHS\nRestriction of Hazardous Substances\nRoHS(Restriction of Hazardous Substances)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기전자제품의 생산공정에 납, 수은, 카드뮴 등 중금속\n사용을 금지합니다.\nROHS\nCompliant\nPRODUCT SIZE\nSumme\n4mm\n14mm |\n0.175m\n25mml\n6mm\n콘넥터 보호캡 |\nLANStar\nE324\nHDMI 19 Male\n랜스타 정품 로고\nPRODUCT PACKAGE\n0.15M\ntar\nor.co.kr\nch Quai\n사용 전문\nLength:\n[모델명: LS-HDMI-EMF-0.15M\nHOM 19 A/M-AF\n4K 지\nHOME 사용\nM 0.15m\n201845393310\nCables\nAccessories\nROHS\nMade in China Factory\nKAIS\n\n\nHOM 19 AM-AP\n지원\nGold plated, Black\nMAKEMO 0.15m\nEthernet X 30 X\nCables\nAccessories\nROHS\nSPECFICATIONS\nHDMI단자\nHDMI 19P M/F\nHDMI 해상도\n4K2K(4096x2160) @60Hz 지원\n전송속도(대역폭)\n18Gbps\n지원영상 비트\nDeep color 30비트/36비트\n지원 오디오포맷 DTS-HD/Dolby True HD/LPCM7.1/AC3/DTS/DSD\n구조 및 색상\n19+1 순동선재 / PVC JACKET 블랙, 골드메탈 커버\n기타지원\nEthernet 지원, 3D 지원\n케이블 길이\n0.15M\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nC\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기 전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nⓇ\nLANG\ntar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nHDMI 2.0 연장 케이블\nLANStar®\nⓇ\n모\n델\n명\nLS-HDMI-EMF-0.15M\n인증번호\n해당 없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-HDMI-EMF-1M": "4K @60Hz\n4K2K UHD(Ultra High Definition) 해상도는 기존의\nFull HD 1080p보다 4배 높은 고해상도 화질을 표현하여\n얼굴의 솜털까지 볼 수 있는 실물에 가까운 생생한 화질을\n제공하는게 특징입니다. 초당 60프레임(60장)의 화면을\n재생하여 보다 매끄러운 영상을 구현합니다.\nULTRA HD\n|랜스타 4K2K 테스트 완료 제품 >>\nHDMI high Speed with Ethernet\nVer 1.4\nHigh Definition Multimedia Interface\nLANStar HDMI cable\n+42191 Black design\n• 길이가 짧을때 연장하여 쓰는 케이블\n・HDMI(M)-HDMI(F), 2m\nHami\nHDMI™\nAudio Return\nChannel\nHDMI™\nAdditional\nColor Spaces\nHDMI™\nHIGH SPEED\nwith ETHERNET\nFull HD\n1080p\nFull HD\n4K x 2K\n3D TV\n완벽지원\n3D TV\n완벽지원\n3D 입체 영상 지원으로\n진짜보다 더 생생한 영상\n3D 비디오 포맷과 해상도의 통일된 규격을\n지원하여 3D 홈시어터나 3D 게임에 적용하여\n더욱 실감나고 생생한 화면을 즐길 수 있습니다.\nFull HD\n1080p\nFull HD\n4K x 2K\n해상도 1080p 해상도의 최대 4배\nHDMI 1.4 버전은 기존의 Full HD 1080p 해상도의 최대 4배에 이르는 영화관급 해상도를 자랑합니다.\n이로 인해 가정의 홈시어터 환경으로 극장같은 디지털 시네마를 즐길 수 있습니다.\n4K2K\n(4096x2160)\n1440p\nFull HD 1080P\nHD 720p\nSD 480P\nHDMI\nHIGH SPEED\nwith ETHERNET\nHEC(HDMI Ethernet Channel) 기능 지원\nHDMI 이더넷 채널(HEC) 지원으로 영상/음향 신호는 물론 이더넷 케이블을 사용하는 IP기반 주변기기들과의\n통신도 별도의 이더넷 케이블 없이 원스톱으로 사용이 가능합니다.\n1.3버전\n기존의 멀티미디어 기기들 중 인터넷 연결이 가능한 기기들은 기기마다 따로\n이더넷 케이블을 연결해야 사용이 가능하였습니다.\nHDMI 케이블 (1.3버전)\n이더넷 케이블\n\n\nHDMI 케이블 (1.3버전)\n이더넷 케이블\n1.4 버전\nHDMI 1.4 지원 기기와 1.4 버전 케이블을 연결하면 하나의 기기에만 이더넷\n케이블을 연결하여 모든 기기들이 이더넷 신호를 공유할 수 있습니다.\nHDMI 케이블 (1.4버전)\n이더넷 케이블\nBlack design\nHDMI CABLE\nVer 1.4\nHami\nsarees\nHDMI™\nAudio Return\nChannel\nARC(Audio Return Channel) 기능 지원\n오디오 리턴 채널(ARC) 지원으로 TV와 AV기기와의 오디오 신호를 업스트림해 별도의 추가 AV케이블 연결\n없이 최적의 음향 신호를 전달합니다.\n기존의 HDMI의 경우 음성 데이타를 재전송(출력)할 수 있는 기능이 없어 연결시\n1.3버전 별도의 오디오 (AV/RCA/광) 케이블을 연결해야 했습니다.\n별도의\nAV/RCA/광케이블\n연결 필요\nooo\n00.00\nHDMI 케이블 (1.3버전)\nHDMI 케이블 (1.3버전)\nocol\n1.4 버전\n오디오 업스트림 (UpStream) 기능이 추가되어, 음성 데이타를 HDMI 케이블로\n다시 재전송(출력)할 수 있어 최적의 음향 신호를 전달합니다.\n별도의\nAV/RCA/광케이블\n연결이 필요 없습니다.\nㄴㄴ\nooon\n00.00\nHDMI 케이블 (1.4버전)\nㅇㅇㅁ\nHDMI 케이블 (1.4버전)\n방송국에서 영화나 스포츠 중계시 음성 신호를 돌비 디지털 5.1 채널로 전송할 때가 있습니다. TV는\n자체적으로 이 신호를 디코딩할 수 없기 때문에 리시버나 홈씨어터로 신호를 전송해야 합니다. 기존의\nTV와 리시버를 광케이블로 연결해서 TV의 돌비 디지털 5.1 신호를 전달해주었으나 HDMI 1.4를 지원\n하는 TV와 리시버를 사용하면 HDMI 하나로 TV에서 오는 신호를 바로 리시버로 전송합니다.\nHDMI™\nAdditional\nColor Spaces\n풍부한 색감으로 더욱 현실감있는 색채\n3개의 칼라영역(sYCC601 color/Adobe RGB color/Adobe YCC601 color)이 추가되면서 더욱 풍부하고\n자연스러운 칼라감을 자랑합니다. 기존 버전보다 선명하고 뛰어난 화질감을 느낄 수 있습니다.\n\n\n풍부한 색감으로 더욱 현실감있는 색채\n3개의 칼라영역(sYCC601 color/Adobe RGB color/Adobe YCC601 color)이 추가되면서 더욱 풍부하고\n자연스러운 칼라감을 자랑합니다. 기존 버전보다 선명하고 뛰어난 화질감을 느낄 수 있습니다.\nHDMI 1.3버전\nHDMI 1.4버전",
+    "LS-HDMI-EMF-2M": "LANStar®\n4K\nULTRA HD\nTM\nHIGH-DEFINITION MULTIMEDIA INTERFACE\nHDMI 1.4 CABLE\n19P M/F\nLS-HDMI-EMF-2M\n4KX2K\n3D\n2M\n60Hz\nFull HD\nHDMI™\nHIGH-DEFINITION MULTIMEDIA INTERFACE\n4K@6\n@60Hz\nULTRA HD\n4K2K 고화질 해상도는 기존의 Full HD 1080p보다\n4배 높은 고해상도 화질을 표현하여\n얼굴의 솜털까지 볼 수 있는 실물에 가까운\n생생한 화질을 제공하는게 특징입니다.\n3D\nFULL HD\nFULL)\n4KX2K (4096x2160)\nHDMI 1.4\nHD\nHIGH DEFINITION MULTIMEDIA INTERFACE\nHDMI 1.3 1440P\nHDMI 1.2 FULL HD 1080P\nHD 720P\ndts-HD\nDO DOLBY® 6)\nHD DVD\nTRUEHD Blu-ray Disc\nMaster Audio\n4K UHD 방송시청에 필수인\nHDMI 1.4\nHDMI 연장 케이블은 각종 디지털 기기의 HDMI 케이블을\n연장하여 사용할 수 있게 해주는 제품입니다.\nD\n\n\nD\n우수한 전송률의\n24K 금도금 콘넥터\n풍부한 색감으로 더욱 현실감 있는 색채\n3개의 칼라 영역(sYCC601 color/Adobe RGB color/Adobe YCC601 color)이\n추가되면서 더욱 풍부하고 자연스러운 컬러감을 자랑합니다.\n기존 버전보다 선명하고 뛰어난 화질감을 느낄 수 있습니다.\nHDMI 1.3버전\nHDMI 1.4버전\nHDMI 버전표\nHDMI version\n1ver\n1.1 ver 1.2ver 1.3ver 1.4ver\nsRGB\nO\nO\nO\nO\nYCbCr 4:2:2/4:4:4\nO\nO\nO\n8채널 LPCM, 192kHz, 24비트 오디오 지원\n이이이이ㅇ\n이이이이이이름\nO\nO\nO\n블루레이/HD-DVD 오디오의 최대 해상도 지원\nO\n기기간 컨트롤 링크 (CEC)\nO\nDVD 오디오 지원\nx\nO\nO\nO\nSACD (DSD) 지원\nX\nX\n×\nDeep color\nX\nX\nX\nO\nO\nXVYCC\n×\nx\nX\nO\n자동 립싱크\nX\nX\nX\nO\n돌비 TrueHD 오디오 비트스트림 지원\nX\nO\nX\nX\nUpdated list of CEC commands\nO\nX\nX\nx\nHDMI 3D 지원\nx\n×\nX\n×\n이더넷채널\nX\nX\n×\nO\nX\n오디오 리턴 채널\nx\nx\nO\n4K 해상도 지원 (30fps / 60fps)\n×\nX\n×\n×\nO\n오디오 리턴 채널\n(Audio Return Channel)\nTV와 AV기기 간에 별도의 케이블이 없이도\n선명하고 쾌적한 음성신호를 전송합니다.\n935\nStart\nHD\nHDMI 케이블을 통해 TV 사운드를 재생하는 ARC(Audio Return Channel) 지원\nHEC 지원\n(HDMI Ethernet Channal)\nHDMI 1.4 케이블은 별도의 랜케이블 없이 네트워크에 접속해\n초고속 양방향 통신 및 IP 기반 응용기술(IPTV, DLNA, UPnp)을\n구현할 수 있습니다.\nHDMI®\nHIGH SPEED\nwith ETHERNET\n\n\nㅇㅇㅇ ㅇ\n_INA, OPTIP\n구현할 수 있습니다.\nHDMI®\nHIGH SPEED\nwith ETHERNET\nk\nINTERNET\n19P/M\nTV, PC 모니터 등에 연결\n19P/M\ne\nHDMI\n19P/F-\n노트북, 블루레이 플레이어, 게임기\n프로젝터, 셋톱박스 등에 연결\nRID\nBlu-ray 플레이어\n프로젝터\n게임기\nv\nvudu\n셋톱박스\n노트북\nPRODUCT IMAGE\n0\nHDMI 19 Female\nHDMI 19 Malel\nSPECFICATIONS\nHDMI단자\nHDMI 19P/M-19P/F\nHDMI출력\n4Kx2K(4096x2160) @60Hz 지원\n전송속도(대역폭)\n10.2Gbps\n케이블 길이 2M\n소비전력 최대\nDC 300V/5s\n작동온도\n섭씨 80도\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nR\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS (Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nHDMI 1.4 케이블 19P M/F\nLAN Star\n모\n델\n명\nLS-HDMI-EMF-2M\n\n\nLANG\nStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nHDMI 1.4 케이블 19P M/F\nLANStar\nⓇ\n모델\n명\nLS-HDMI-EMF-2M\n인증번호\n상세페이지 참조\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-HDMI-EMF-5M": "LANStar®\n4K\nULTRA HD\nTM\nHIGH-DEFINITION MULTIMEDIA INTERFACE\nHDMI 1.4 CABLE\n19P M/F\nLS-HDMI-EMF-5M\n4KX2K\n3D\n5M\n30Hz\nFull HD\nHDMI™\nHIGH-DEFINITION MULTIMEDIA INTERFACE\n4K@30Hz\nULTRA HD\n4K2K 고화질 해상도는 기존의 Full HD 1080p보다\n4배 높은 고해상도 화질을 표현하여\n얼굴의 솜털까지 볼 수 있는 실물에 가까운\n생생한 화질을 제공하는게 특징입니다.\n3D\nFULL HD\nFULL)\n4KX2K (4096x2160)\nHDMI 1.4\nHD\nHIGH DEFINITION MULTIMEDIA INTERFACE\nHDMI 1.3 1440P\nHDMI 1.2 FULL HD 1080P\nHD 720P\ndts-HD\nDO DOLBY b\nHD DVD\nTRUEHD Blu-ray Disc\nMaster Audio\n4K UHD 방송시청에 필수인\nHDMI 1.4\nHDMI 연장 케이블은 각종 디지털 기기의 HDMI 케이블을\n연장하여 사용할 수 있게 해주는 제품입니다.\nD\nQAFITAPOL\n\n\nD\n우수한 전송률의\n24K 금도금 콘넥터\n풍부한 색감으로 더욱 현실감 있는 색채\n3개의 칼라 영역(sYCC601 color/Adobe RGB color/Adobe YCC601 color)이\n추가되면서 더욱 풍부하고 자연스러운 컬러감을 자랑합니다.\n기존 버전보다 선명하고 뛰어난 화질감을 느낄 수 있습니다.\nHDMI 1.3버전\nHDMI 1.4버전\nHDMI 버전표\nHDMI version\n1ver\n1.1ver 1.2ver 1.3ver 1.4ver\nsRGB\nO\nO\nYCbCr 4:2:2/4:4:4\nO\nO\n0000000\n8채널 LPCM, 192kHz, 24비트 오디오 지원\nO\n0\n블루레이/HD-DVD 오디오의 최대 해상도 지원\nO\n기기간 컨트롤 링크 (CEC)\nO\nlo oc\nO\nDVD 오디오 지원\nO\nx\n0\nmooooooooooo\nSACD (DSD) 지원\nX\nx\nx\nDeep color\nX\nX\nX\noooooooooooooooc\nXVYCC\nX\nX\nX\n자동 립싱크\nX\nx\nX\n돌비 TrueHD 오디오 비트스트림 지원\nx\nX\nX\nUpdated list of CEC commands\n×\n×\nx\nHDMI 3D 지원\nx\nX\nx\n이더넷채널\nX\n×\n×\nX\n오디오 리턴 채널\nx\nx\nx\nX\n4K 해상도 지원 (30fps / 60fps)\nX\nX\nX\nX\n오디오 리턴 채널\n(Audio Return Channel)\nTV와 AV기기 간에 별도의 케이블이 없이도\n선명하고 쾌적한 음성신호를 전송합니다.\n935\nHD\nHDMI 케이블을 통해 TV 사운드를 재생하는 ARC(Audio Return Channel) 지원\nHEC 지원\n(HDMI Ethernet Channal)\nHDMI 1.4 케이블은 별도의 랜케이블 없이 네트워크에 접속해\n초고속 양방향 통신 및 IP 기반 응용기술(IPTV, DLNA, UPnp)을\n구현할 수 있습니다.\nHDMI®\nHIGH SPEED\nwith ETHERNET\n\n\n구현할 수 있습니다.\nHDMI®\nHIGH SPEED\nwith ETHERNET\nINTERNET\nTV, PC 모니터 등에 연결\n19P/M\n19P/M\ne\nHDMI\n19P/F-\n노트북, 블루레이 플레이어, 게임기\n프로젝터, 셋톱박스 등에 연결\n000200\n30\nBlu-ray 플레이어\n프로젝터\n게임기\nv3\nvda\n셋톱박스\n노트북\nPRODUCT IMAGE\nHDMI 19 Female\nHDMI 19 Male\nSPECFICATIONS\nHDMI단자\nHDMI 19P/M-19P/F\nHDMI출력\n4Kx2K(4096x2160) @ 30Hz 지원\n전송속도(대역폭)\n10.2Gbps\n케이블 길이\n5M\n소비전력 최대\nDC 300V/5s\n작동온도\n섭씨 80도\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nROHS\n00\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nLANG\nⓇ\nNSStarⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nHDMI 1.4 케이블 19P M/F\n모\nLANG®\n델\n명\nLS-HDMI-EMF-5M\n\n\nLANG\nStar\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\n라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\nHDMI 1.4 케이블 19P M/F\nⓇ\n모\n델\n명\nLS-HDMI-EMF-5M\nLANG\nNotarStar\n인증번호\n상세페이지 참조\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n라인업시스템(주) 070-7018-3386\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "PVC",
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        0.15,
+        1.0,
+        2.0,
+        5.0
+      ],
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": false,
+      "ce": false,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": "HDMI1.4",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": false,
+      "ethernet_channel": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI(Male)와 HDMI(Female) 단자로",
+    "connectivity.output_signals": "HDMI(Male)와 HDMI(Female) 단자로",
+    "connectivity.directional": "HDMI(Male)와 HDMI(Female) 단자로",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "골드메탈 커버",
+    "form_physical.material": "PVC JACKET 블랙, 골드메탈 커버",
+    "form_physical.length_options_meters": "1M / 2M / 5M / 0.15M / 2m",
+    "form_physical.color_options": "PVC JACKET 블랙, 골드메탈 커버",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.max_resolution": "4K×2K(4096×2160) @60Hz",
+    "audio_video.hdr_support": "Deep Color 30비트/36비트 지원",
+    "audio_video.audio_pass": "ARC(Audio Return Channel) 지원",
+    "family.hdmi_version": "HDMI 1.4 규격 지원",
+    "family.ethernet_channel": "HEC(HDMI Ethernet Channel) 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:10",
+  "feature_schema_version": "1.0.0"
+}

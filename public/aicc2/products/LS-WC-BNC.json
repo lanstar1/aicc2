@@ -1,0 +1,90 @@
+{
+  "model_no": "LS-WC-BNC",
+  "product_name": "[LANstar] 창문설치용 WINDOW BNC케이블, BNA F/F 0.23M [10884]",
+  "category": [
+    "기타"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-WC-BNC",
+      "품목코드": "CAB-윈도우003",
+      "품목명": "[LANstar] 창문설치용 WINDOW BNC케이블, BNA F/F 0.23M [10884]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-WC-BNC",
+      "chatUrl": "1fbcA",
+      "dateIso": "2023-07-04T01:10:00.084Z",
+      "name": "Reve",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하세요. 현관문 앞에 설치할 cctv용 랜케이블을 찾고 있습니다. 해당 케이블이 PoE(Power ove...",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "BNC"
+      ],
+      "output_signals": [
+        "BNC"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": 0.23,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {}
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "BNC케이블, BNA F/F",
+    "connectivity.output_signals": "BNC케이블, BNA F/F",
+    "connectivity.directional": "BNC케이블, BNA F/F",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.length_meters": "0.23M"
+  },
+  "feature_extracted_at": "2026-04-23T03:21:20",
+  "feature_schema_version": "1.0.0"
+}

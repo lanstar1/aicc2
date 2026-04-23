@@ -1,0 +1,142 @@
+{
+  "model_no": "LS-PCIE-EX1G",
+  "product_name": "LANStar PCI-Express 기가랜카드 (PCI-Express Gigabit Ethernet LanCard)",
+  "category": [
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "데스크탑 메인보드 PCI-Express 슬롯에 장착하여 기가비트 랜포트 생성",
+    "Realtek RTL8111F 칩셋 탑재 (최첨단 DSP 기술 및 혼합 모드 신호 기술 채택)",
+    "10/100/1000Mbps 속도 지원",
+    "IEEE 802.3 표준 규격 지원 (10BASE-T / 100BASE-TX / 1000BASE-T)",
+    "IEEE 802.3az Energy Efficient Ethernet(EEE) 지원",
+    "IEEE 802.3Q VLANs 지원",
+    "PCI-Express x1 슬롯 규격 (1배속, 4배속, 8배속, 16배속 슬롯 모두 장착 가능)",
+    "PCI-Express 1.1 규격 준수",
+    "WOL(Wake on LAN), PXE remote boot, iSCSI boot, VLAN Filtering 기능 지원",
+    "IPMI Pass-Through via SMBus or NC-SI 지원",
+    "크로스오버 검출 및 자동 보정, 적응 균등화, 크로스 토크 취소, 에코 취소, 타이밍 복구, 오류 수정 기능 구현",
+    "슬림PC용 LP 브라켓 포함",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 획득 (인증번호: R-R-LUS-EX1000TN)",
+    "RoHS 준수, KC / FCC / CE 인증, ISO 9001:2008 품질경영시스템"
+  ],
+  "specifications": {
+    "슬롯": "PCI-Express x1",
+    "인터페이스": "RJ45 x1",
+    "칩셋": "Realtek RTL8111F",
+    "전송 속도": "10/100/1000Mbps",
+    "Topology": "IEEE 802.3, 10BASE-T / 100BASE-TX / 1000BASE-T",
+    "지원 표준": "IEEE 802.3, IEEE 802.32, IEEE 802.3Q VLANs, IEEE 802.3X, IEEE 1588, IEEE 802.3az (Energy Efficient Ethernet)",
+    "기능": "IPMI Pass-Through via SMBus or NC-SI, WOL, PXE remote boot, iSCSI boot, VLAN Filtering",
+    "제품 크기": "119mm x 62mm x 44mm (두께 12mm)",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "KC 인증번호": "R-R-LUS-EX1000TN",
+    "인증": "KC, FCC, CE, RoHS, ISO 9001:2008"
+  },
+  "compatibility": [
+    "PCI-Express x1 슬롯",
+    "PCI-Express x4 슬롯",
+    "PCI-Express x8 슬롯",
+    "PCI-Express x16 슬롯",
+    "PCI-Express 1.1 규격 메인보드",
+    "Windows 98SE",
+    "Windows ME",
+    "Windows Server 2000",
+    "Windows XP",
+    "Windows Server 2003",
+    "Windows Vista",
+    "Windows 7",
+    "Windows Server 2008",
+    "Windows 8",
+    "Windows 8.1",
+    "Windows 10 (32/64bit)",
+    "Linux"
+  ],
+  "package_contents": [
+    "LS-PCIE-EX1G 랜카드 본체",
+    "슬림PC용 LP 브라켓",
+    "드라이버 설치 CD"
+  ],
+  "usage_instructions": "데스크탑 메인보드의 PCI-Express 슬롯(x1, x4, x8, x16 모두 사용 가능)에 카드를 장착한 후 드라이버 설치 CD를 이용해 드라이버를 설치하여 사용합니다. 기가비트 속도(1000Mbps)를 활용하려면 연결되는 인터넷, 공유기, 허브 또한 기가비트를 지원해야 합니다. 슬림PC 사용 시 동봉된 LP 브라켓으로 교체하여 장착합니다.",
+  "cautions": [
+    "기가비트 네트워크 환경 구축을 위해서는 인터넷, 공유기, 허브 모두 기가비트를 지원해야 합니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "본 제품(LANStar 라인업시스템(주) 제작 상품 및 콘텐츠)을 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-PCIE-EX1G",
+      "품목코드": "USB-PCI265",
+      "품목명": "[LANstar] PCIE 기가 랜카드, RTL8111F [30531] (100개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [],
+      "directional": "N/A",
+      "port_count": 1
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [],
+      "length_meters": null,
+      "length_options_meters": [],
+      "color_options": []
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "bus_interface": "PCIe",
+      "speed_mbps": 1000,
+      "chipset": "Realtek RTL8111F"
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "인터페이스: RJ45 x1",
+    "connectivity.port_count": "인터페이스: RJ45 x1",
+    "certification.kc": "KC 인증번호: R-R-LUS-EX1000TN",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템",
+    "certification.fcc": "FCC 인증",
+    "certification.ce": "CE 인증",
+    "family.bus_interface": "PCI-Express 슬롯에 장착",
+    "family.speed_mbps": "10/100/1000Mbps 속도 지원",
+    "family.chipset": "Realtek RTL8111F 칩셋 탑재"
+  },
+  "feature_extracted_at": "2026-04-23T03:17:04",
+  "feature_schema_version": "1.0.0"
+}

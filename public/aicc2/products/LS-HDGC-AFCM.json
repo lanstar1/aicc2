@@ -1,0 +1,145 @@
+{
+  "model_no": "LS-HDGC-AFCM",
+  "product_name": "LANStar HDMI 젠더 케이블 (HDMI A Female to HDMI C Male)",
+  "category": [
+    "HDMI케이블",
+    "컨버터",
+    "젠더",
+    "커넥터"
+  ],
+  "key_features": [
+    "일반 HDMI(Type A Female) 단자를 미니 HDMI(Type C Male)로 변환",
+    "기존 젠더 타입이 케이블로 이어진 형태",
+    "24K 금도금 커넥터로 우수한 신호 전송율과 영속성 보장",
+    "HDMI Ethernet 채널 지원",
+    "Full HD 4K(4096 x 2160) 해상도 지원",
+    "3D 지원",
+    "케이블 길이 15cm"
+  ],
+  "specifications": {
+    "커넥터 A": "HDMI A Female (일반 HDMI)",
+    "커넥터 B": "HDMI C Male (미니 HDMI)",
+    "케이블 길이": "15cm (0.15M)",
+    "최대 해상도": "4K (4096 x 2160)",
+    "금도금": "24K",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증서번호": "해당없음",
+    "AS 소비자상담": "070-7018-3386"
+  },
+  "compatibility": [
+    "HDMI A Female 포트 보유 기기",
+    "HDMI C (미니 HDMI) Male 포트 보유 기기",
+    "Full HD 1080P 지원 기기",
+    "4K (4096x2160) 지원 기기",
+    "1440P 지원 기기",
+    "HD 720P 지원 기기",
+    "3D 출력 지원 기기",
+    "HDMI Ethernet 채널 지원 기기"
+  ],
+  "package_contents": [
+    "HDMI 젠더 케이블 (LS-HDGC-AFCM-0.15M) x 1"
+  ],
+  "usage_instructions": null,
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상해드립니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-HDGC-AFCM-0.15M",
+      "품목코드": "CAB-HDM493",
+      "품목명": "[LANstar] 미니HDMI케이블 , HDMI A/F-Mini C/M, 4K 60Hz, 0.15M[20102] [구분1]",
+      "variant_suffix": "-0.15M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-HDGC-AFCM-0.15M",
+      "내용": "쓸만하고 좋네요 지퍼백 비닐도 있고"
+    },
+    {
+      "source_model": "LS-HDGC-AFCM-0.15M",
+      "내용": "배송도 빠르고 제품도 좋아 늘 이곳에서 주문합니다. 많이 파세요"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "HDMI"
+      ],
+      "output_signals": [
+        "HDMI"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": 0.15,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": false,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@30",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "hdmi_version": null,
+      "dp_version": null,
+      "dvi_type": null,
+      "optical_core": false,
+      "ethernet_channel": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "HDMI(Type A Female)",
+    "connectivity.output_signals": "미니 HDMI(Type C Male)",
+    "connectivity.directional": "변환",
+    "power.power_mode": "해당없음",
+    "power.charging_support": "해당없음",
+    "form_physical.has_case": "젠더 타입이 케이블로 이어진 형태",
+    "form_physical.material": "24K 금도금 커넥터",
+    "form_physical.length_meters": "케이블 길이 15cm",
+    "certification.kc": "인증서번호: 해당없음",
+    "audio_video.max_resolution": "Full HD 4K(4096 x 2160) 해상도 지원",
+    "audio_video.audio_pass": "HDMI Ethernet 채널 지원",
+    "control_switching.has_remote": "해당없음",
+    "control_switching.has_hotkey": "해당없음",
+    "control_switching.has_physical_button": "해당없음",
+    "control_switching.has_mouse_switching": "해당없음",
+    "control_switching.has_auto_scan": "해당없음",
+    "control_switching.has_app_control": "해당없음",
+    "family.ethernet_channel": "HDMI Ethernet 채널 지원"
+  },
+  "feature_extracted_at": "2026-04-23T03:14:04",
+  "feature_schema_version": "1.0.0"
+}

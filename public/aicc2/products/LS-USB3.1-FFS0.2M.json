@@ -1,0 +1,132 @@
+{
+  "model_no": "LS-USB3.1-FFS0.2M",
+  "product_name": "USB 3.1 케이블 판넬형 (USB C Female / USB C Female + Screw) 0.2M",
+  "category": [
+    "랜케이블-CAT6A",
+    "USB케이블",
+    "USB-C",
+    "USB3.0",
+    "USB2.0",
+    "분배판넬"
+  ],
+  "key_features": [
+    "양쪽 모두 USB C타입 암(Female) 구성의 연장 케이블",
+    "단자 하나는 Screw 타입으로 나사 고정 가능 (판넬 마운트 지원)",
+    "USB 3.1 규격 지원, 최대 전송속도 10Gbps (SUPERSPEED+)",
+    "USB 2.0(480Mbps), USB 3.0(5Gbps) 대비 최대 2배 빠른 전송속도",
+    "25GB HD 영화 기준 약 35초 전송 가능",
+    "34AWG 규격 케이블로 설치가 용이",
+    "RoHS 인증 준수 (납·수은·카드뮴 등 중금속 사용 금지)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입 제품"
+  ],
+  "specifications": {
+    "단자규격": "USB C(F) - USB C(F)",
+    "전송속도": "10Gbps",
+    "AWG": "34AWG",
+    "케이블길이": "0.2M",
+    "소비전력 최대": "DC 30V",
+    "작동온도": "0~80°C",
+    "색상": "Black",
+    "타입": "Panel Type (판넬타입)",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "인증번호": "해당없음"
+  },
+  "compatibility": [
+    "USB 3.1 (SUPERSPEED+, 10Gbps)",
+    "USB 3.0 (SUPERSPEED, 5Gbps) 하위 호환",
+    "USB 2.0 (HI-SPEED, 480Mbps) 하위 호환",
+    "USB 1.1 하위 호환"
+  ],
+  "package_contents": [
+    "USB 3.1 케이블 (판넬형) 1개",
+    "나사 2개"
+  ],
+  "usage_instructions": "판넬 장착 시 Screw 타입 단자를 나사로 고정하여 설치합니다. 34AWG 규격의 가는 케이블로 초보자도 설치가 용이합니다.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상됩니다.",
+    "A/S 및 소비자 상담: 랜스타 A/S센터 www.LANstar.co.kr"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB3.1-FFS0.2M",
+      "품목코드": "CAB-U연장086",
+      "품목명": "[LANstar] USB 3.1 판넬형 연장 케이블 연장 C/F-C/FScrew, Black, 0.2M [10945]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-C"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": 0.2,
+      "length_options_meters": null,
+      "color_options": [
+        "Black"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "cat_category": "N/A",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": 34,
+      "pair_count": null,
+      "flame_rating": null,
+      "poe_support": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB C타입 암(Female) 구성",
+    "connectivity.output_signals": "USB C타입 암(Female) 구성",
+    "connectivity.directional": "양쪽 모두 USB C타입 암(Female)",
+    "form_physical.length_meters": "0.2M",
+    "form_physical.color_options": "Black",
+    "certification.kc": "인증번호: 해당없음",
+    "certification.rohs": "RoHS 인증 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "family.awg": "34AWG 규격 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:41",
+  "feature_schema_version": "1.0.0"
+}

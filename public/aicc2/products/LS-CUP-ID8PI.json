@@ -1,0 +1,113 @@
+{
+  "model_no": "LS-CUP-ID8PI",
+  "product_name": "[LANstar] 아이보리 커플러 8P8C I형 RJ-45 CAT.5E 보급형-핀타입[40024] (3000개)",
+  "category": [
+    "랜케이블-CAT5E",
+    "커플러"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-CUP-ID8PI",
+      "품목코드": "NEO-커플러013",
+      "품목명": "[LANstar] 아이보리 커플러 8P8C I형 RJ-45 CAT.5E 보급형-핀타입[40024] (3000개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-CUP-ID8PI",
+      "내용": "감사합니다 수고하세요^^"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "RJ45"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "플라스틱"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "아이보리"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "cat_category": "CAT5E",
+      "shielding": "N/A",
+      "conductor": "N/A",
+      "awg": null,
+      "pair_count": 4,
+      "flame_rating": "N/A",
+      "poe_support": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "RJ-45",
+    "connectivity.output_signals": "RJ-45",
+    "connectivity.directional": "커플러",
+    "connectivity.port_count": "I형",
+    "power.power_mode": "무전원",
+    "power.charging_support": "무전원",
+    "form_physical.has_case": "아이보리 커플러",
+    "form_physical.material": "아이보리 커플러",
+    "form_physical.color_options": "아이보리",
+    "audio_video.max_resolution": "랜케이블",
+    "audio_video.hdr_support": "랜케이블",
+    "audio_video.hdcp_version": "랜케이블",
+    "audio_video.audio_pass": "랜케이블",
+    "control_switching.has_remote": "커플러",
+    "control_switching.has_hotkey": "커플러",
+    "control_switching.has_physical_button": "커플러",
+    "control_switching.has_mouse_switching": "커플러",
+    "control_switching.has_auto_scan": "커플러",
+    "control_switching.has_app_control": "커플러",
+    "family.cat_category": "CAT.5E",
+    "family.conductor": "핀타입",
+    "family.pair_count": "8P8C",
+    "family.poe_support": "보급형"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:20",
+  "feature_schema_version": "1.0.0"
+}

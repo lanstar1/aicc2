@@ -1,0 +1,133 @@
+{
+  "model_no": "LS-USB-A2M5P",
+  "product_name": "USB 2.0*2 미니 5핀 케이블 (A/M*2-Mini 5P)",
+  "category": [
+    "USB허브",
+    "USB2.0",
+    "커넥터"
+  ],
+  "key_features": [
+    "USB 2.0 규격, 최대 전송 속도 480Mbps (USB 1.1 대비 40배 빠름)",
+    "USB A 타입 커넥터 2개 - Mini 5Pin 구성으로 전원 부족 문제 해결",
+    "무전원 외장하드, USB 허브, 카드리더기, 디지털 기기 등의 인식률 저하 방지",
+    "RoHS 규격 준수 (납, 수은, 카드뮴 등 중금속 사용 제한)",
+    "현대해상화재보험 생산물배상책임보험 1억원 가입",
+    "ISO 9001:2008 품질경영시스템 적용"
+  ],
+  "specifications": {
+    "커넥터 구성": "USB A/M * 2 - Mini 5Pin/M",
+    "USB 규격": "USB 2.0 (HI-SPEED)",
+    "최대 전송 속도": "480Mbps",
+    "케이블 길이": "1M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "RoHS": "COMPLIANT",
+    "품질인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "USB 2.0 (HI-SPEED, 480Mb/s)",
+    "USB 1.1 (FULL SPEED, 12Mb/s) 하위 호환",
+    "USB 1.0 (LOW SPEED, 1.5Mb/s) 하위 호환",
+    "무전원 외장하드",
+    "USB 허브",
+    "카드리더기",
+    "디지털 기기"
+  ],
+  "package_contents": [
+    "USB 2.0*2 미니 5핀 케이블 (LS-USB-A2M5P-1M) 1개"
+  ],
+  "usage_instructions": "전원 부족으로 인식률이 떨어지는 무전원 외장하드, USB 허브, 카드리더기, 디지털 기기 등에 연결하여 사용. USB A 커넥터 2개를 PC의 USB 포트에 연결하고 Mini 5Pin 커넥터를 기기에 연결.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 소비자상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-USB-A2M5P-1M",
+      "품목코드": "CAB-US5017",
+      "품목명": "[LANstar] USB2.0미니파워케이블 , USB A／M*2-5PIN Mini, 1M[10350]",
+      "variant_suffix": "-1M",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-Mini"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": 1.0,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "port_count": 2,
+      "usb_version": "USB2.0",
+      "ethernet_speed_mbps": null,
+      "has_sd_reader": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB A 타입 커넥터 2개",
+    "connectivity.output_signals": "Mini 5Pin",
+    "connectivity.directional": "USB 2.0 규격",
+    "power.power_mode": "전원 부족 문제 해결",
+    "power.charging_support": "전원 부족 문제 해결",
+    "form_physical.has_case": "USB 2.0*2 미니 5핀 케이블",
+    "form_physical.length_meters": "케이블 길이: 1M",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 적용",
+    "audio_video.max_resolution": "USB 2.0 규격",
+    "audio_video.hdr_support": "USB 2.0 규격",
+    "audio_video.hdcp_version": "USB 2.0 규격",
+    "audio_video.audio_pass": "USB 2.0 규격",
+    "control_switching.has_remote": "USB 2.0*2 미니 5핀 케이블",
+    "control_switching.has_hotkey": "USB 2.0*2 미니 5핀 케이블",
+    "control_switching.has_physical_button": "USB 2.0*2 미니 5핀 케이블",
+    "control_switching.has_mouse_switching": "USB 2.0*2 미니 5핀 케이블",
+    "control_switching.has_auto_scan": "USB 2.0*2 미니 5핀 케이블",
+    "control_switching.has_app_control": "USB 2.0*2 미니 5핀 케이블",
+    "family.port_count": "USB A 타입 커넥터 2개",
+    "family.usb_version": "USB 2.0 규격",
+    "family.ethernet_speed_mbps": "USB 2.0 규격",
+    "family.has_sd_reader": "USB 2.0*2 미니 5핀 케이블"
+  },
+  "feature_extracted_at": "2026-04-23T03:20:29",
+  "feature_schema_version": "1.0.0"
+}

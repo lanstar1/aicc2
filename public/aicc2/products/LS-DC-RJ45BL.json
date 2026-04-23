@@ -1,0 +1,86 @@
+{
+  "model_no": "LS-DC-RJ45BL",
+  "product_name": "[LANstar] 랜포트(RJ45) 먼지덮개, DUST 커버, ABS,(25PCS) BLUE 중국산 [40567] (100개입)",
+  "category": [
+    "먼지마개"
+  ],
+  "key_features": [],
+  "specifications": {},
+  "compatibility": [],
+  "package_contents": [],
+  "variants": [
+    {
+      "model_no": "LS-DC-RJ45BL",
+      "품목코드": "NEO-부트류089",
+      "품목명": "[LANstar] 랜포트(RJ45) 먼지덮개, DUST 커버, ABS,(25PCS) BLUE 중국산 [40567] (100개입)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-DC-RJ45BL",
+      "내용": "빠른발송 감사합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": null,
+      "output_signals": null,
+      "directional": "N/A",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "N/A",
+      "charging_support": null,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "ABS"
+      ],
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": [
+        "BLUE"
+      ]
+    },
+    "certification": {
+      "kc": null,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "connector_type_a": "RJ45",
+      "connector_type_b": null,
+      "gender": "N/A",
+      "pin_count": null
+    }
+  },
+  "feature_evidence": {
+    "form_physical.has_case": "먼지덮개, DUST 커버",
+    "form_physical.material": "ABS",
+    "form_physical.color_options": "BLUE",
+    "family.connector_type_a": "랜포트(RJ45)"
+  },
+  "feature_extracted_at": "2026-04-23T03:10:24",
+  "feature_schema_version": "1.0.0"
+}

@@ -1,0 +1,189 @@
+{
+  "model_no": "LS-FOTT",
+  "product_name": "LANStar 광오디오 케이블 (Optical Audio Cable)",
+  "category": [
+    "광케이블",
+    "컨버터",
+    "젠더",
+    "커넥터",
+    "오디오케이블"
+  ],
+  "key_features": [
+    "디지털 광출력 방식으로 잡음 없는 오디오 신호 전송",
+    "화이트 노이즈 등 잡음 발생 현상 방지",
+    "신호 손실을 최소화하는 금도금 커넥터 적용",
+    "Toslink/M-Toslink/M (각대각) 타입 케이블",
+    "각대각을 각원으로 변환하는 변환 젠더 포함",
+    "커넥터 손상 방지를 위한 보호캡 적용",
+    "RoHS 준수 (납, 수은, 카드뮴 등 중금속 사용 금지)",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "ISO 9001:2008 품질경영시스템 인증"
+  ],
+  "specifications": {
+    "커넥터 타입": "Toslink/M - Toslink/M (각대각)",
+    "변환 젠더": "Toslink/M - Mini/M (각원)",
+    "길이 옵션": "1.5M, 3M, 5M",
+    "모델명_1.5M": "LS-FOTT-1.5M",
+    "모델명_3M": "LS-FOTT-3M",
+    "모델명_5M": "LS-FOTT-5M",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "상세페이지 참조",
+    "RoHS": "준수",
+    "품질인증": "ISO 9001:2008"
+  },
+  "compatibility": [
+    "HD TV",
+    "PC",
+    "노트북",
+    "CD 플레이어",
+    "DVD 플레이어",
+    "HDTV",
+    "홈시어터",
+    "XBOX",
+    "PS3",
+    "돌비/DTS 리시버",
+    "앰프",
+    "AV 리시버",
+    "디지털 광출력 단자(Toslink) 지원 기기",
+    "PC 사운드카드"
+  ],
+  "package_contents": [
+    "광오디오 케이블 Toslink/M-Toslink/M (각대각) 1개",
+    "변환 젠더 Toslink/M-Mini/M (각원) 1개"
+  ],
+  "usage_instructions": "디지털 광출력 단자가 있는 PC, 노트북, CD 플레이어, DVD, HDTV 등의 기기에 케이블 한쪽을 연결하고, 반대쪽을 돌비/DTS 리시버, 앰프, 홈시어터 등의 입력 단자에 연결하여 사용. Mini 타입 단자 기기 연결 시 동봉된 각원 변환 젠더를 사용.",
+  "cautions": [
+    "제조사 사정에 따라 제품의 색상 및 형태 등 사양은 예고 없이 변경될 수 있음",
+    "본 제품 이미지 및 콘텐츠를 당사 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품 이상 발생 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 및 소비자 상담: 라인업시스템(주) 070-7018-3386",
+    "구매/배송/반품 문의는 판매처(쇼핑몰 하단 참조)로 문의"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-FOTT-1.5M",
+      "품목코드": "CAB-광오디001",
+      "품목명": "[LANstar] 광오디오케이블 , 1.5M 각대각 각원젠더포함[10483](125개)",
+      "variant_suffix": "-1.5M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-FOTT-3M",
+      "품목코드": "CAB-광오디002",
+      "품목명": "[LANstar] 광오디오케이블 , 3M 각대각 각원젠더포함 [10484](100개)",
+      "variant_suffix": "-3M",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-FOTT-5M",
+      "품목코드": "CAB-광오디003",
+      "품목명": "[LANstar] 광오디오케이블 , 5M 각대각 각원젠더포함[10485](60개)",
+      "variant_suffix": "-5M",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-FOTT-1.5M",
+      "내용": "잘 쓰고 있습니다."
+    },
+    {
+      "source_model": "LS-FOTT-1.5M",
+      "내용": "상품 잘 받았습니다"
+    },
+    {
+      "source_model": "LS-FOTT-3M",
+      "내용": "배송이 빨라서 좋았어요"
+    },
+    {
+      "source_model": "LS-FOTT-3M",
+      "내용": "감사드립니다. 연결이 잘되어 소리가 잘 나옵니다"
+    },
+    {
+      "source_model": "LS-FOTT-3M",
+      "내용": "각대각을 주문하면 딱 주문한 것만 오는데요, 각대원도 넣어주셔서 필요한 곳에 사용할 수 있어서 좋아요"
+    },
+    {
+      "source_model": "LS-FOTT-5M",
+      "내용": "가성비 좋네요. 감사합니다"
+    },
+    {
+      "source_model": "LS-FOTT-5M",
+      "내용": "가성비 좋은 광케이블입니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "Optical"
+      ],
+      "output_signals": [
+        "Optical"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "무전원",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": [
+        "금도금"
+      ],
+      "length_meters": null,
+      "length_options_meters": [
+        1.5,
+        3.0,
+        5.0
+      ],
+      "color_options": null
+    },
+    "certification": {
+      "kc": null,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "hdmi_version": "N/A",
+      "dp_version": "N/A",
+      "dvi_type": "N/A",
+      "optical_core": true,
+      "ethernet_channel": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "디지털 광출력 방식으로",
+    "connectivity.output_signals": "디지털 광출력 단자가 있는 PC",
+    "connectivity.directional": "케이블 한쪽을 연결하고, 반대쪽을",
+    "power.power_mode": "무전원",
+    "form_physical.material": "금도금 커넥터 적용",
+    "form_physical.length_options_meters": "1.5M, 3M, 5M",
+    "certification.rohs": "RoHS 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "audio_video.audio_pass": "잡음 없는 오디오 신호 전송",
+    "family.optical_core": "LANStar 광오디오 케이블 (Optical Audio Cable)"
+  },
+  "feature_extracted_at": "2026-04-23T03:13:00",
+  "feature_schema_version": "1.0.0"
+}

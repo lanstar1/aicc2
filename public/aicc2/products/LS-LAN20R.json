@@ -1,0 +1,177 @@
+{
+  "model_no": "LS-LAN20R",
+  "product_name": "LANStar USB 2.0 랜카드",
+  "category": [
+    "USB케이블",
+    "USB2.0",
+    "PCMCIA카드"
+  ],
+  "key_features": [
+    "USB 2.0 포트를 통해 랜포트를 생성하는 이더넷 어댑터",
+    "별도의 전원케이블 없이 USB 포트만으로 사용 가능",
+    "Plug & Play 및 Hot Swap 지원 (별도 소프트웨어 불필요, 전원 켜진 상태에서 분리 가능)",
+    "리얼텍 칩셋 RTL-8152B 사용으로 안정성과 호환성 향상",
+    "전송속도 10/100Mbps 지원",
+    "IEEE 802.3 표준 지원",
+    "일시정지(Pause) 기능 및 원격 Wake-up 지원",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "국립전파연구원 인증 획득 (인증번호 E-E013-02-3276)"
+  ],
+  "specifications": {
+    "전송속도": "10/100 Mbps",
+    "칩셋": "Realtek RTL-8152B",
+    "인터페이스": "USB 2.0",
+    "운영체제": "Windows XP/Vista/7/8/8.1(32/64bit)/10/11, Mac OS 9/10X, Linux",
+    "운영지원": "IEEE 802.3 표준 지원",
+    "추가기능": "일시정지(Pause) 기능, 원격 Wake-up 지원",
+    "크기": "66×21×16mm (L x W x H)",
+    "인증": "KC, FCC, CE, RoHS, ISO 9001:2008",
+    "인증번호": "E-E013-02-3276",
+    "제조국": "중국 (China)",
+    "제조사": "라인업시스템(주)",
+    "보험": "현대해상화재 생산물배상책임보험 1억원"
+  },
+  "compatibility": [
+    "데스크탑 (USB 2.0 포트 보유 기기)",
+    "노트북 (USB 2.0 포트 보유 기기)",
+    "Windows XP / Vista / 7 / 8 / 8.1 (32/64bit) / 10 / 11",
+    "Mac OS 9 / Mac OS 10X",
+    "Linux"
+  ],
+  "package_contents": [
+    "USB 2.0 랜카드 본체 (LS-LAN20R)",
+    "USB 2.0 to Lan Adapter",
+    "한글 매뉴얼 (User Manual)"
+  ],
+  "usage_instructions": "【Windows 드라이버 설치】 제품 연결 시 내 컴퓨터에 생성되는 CD를 열어 Setup.exe를 클릭하여 설치. 장치 관리자 > 네트워크 어댑터 항목에 'Realtek USB GBE Family Controller'가 표시되면 설치 완료. 【Mac 드라이버 설치】 제품 연결 시 내 컴퓨터에 생성되는 CD롬 폴더에서 RTUNICv.1.0.5.pkg를 클릭하여 설치. 【공통】 Plug & Play 지원으로 별도 소프트웨어 없이도 연결 즉시 사용 가능하며, 전원이 켜진 상태에서도 제품 분리(Hot Swap) 가능.",
+  "cautions": [
+    "제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있음",
+    "LANStar 라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있음",
+    "제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상",
+    "AS 소비자 상담: 라인업시스템(주) 070-7018-3386"
+  ],
+  "variants": [
+    {
+      "model_no": "LS-LAN20R",
+      "품목코드": "NET-유랜카076",
+      "품목명": "[LANstar] 휴대용 USB 2.0 랜카드 , Realtek8152B 10/100M Ethernet 화이트[30163] (200개)",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-LAN20R",
+      "내용": "좋아요/좋아요/좋아요/좋아요/좋아요/",
+      "관련내용": "사용하기 편리하고 좋아요"
+    },
+    {
+      "source_model": "LS-LAN20R",
+      "내용": "사용하기 편리하고 좋아요"
+    },
+    {
+      "source_model": "LS-LAN20R",
+      "내용": "잘사용 중입니다 \n감사합니다",
+      "관련내용": "가성비 좋아요\n동작도 잘됩니다"
+    },
+    {
+      "source_model": "LS-LAN20R",
+      "내용": "가성비 좋아요\n동작도 잘됩니다"
+    },
+    {
+      "source_model": "LS-LAN20R",
+      "내용": "사진에 나온 것처럼 편리하게 잘 쓰고 있습니다."
+    },
+    {
+      "source_model": "LS-LAN20R",
+      "내용": "빠른 배송 가격의 저렴함"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-LAN20R",
+      "chatUrl": "466w8",
+      "dateIso": "2026-03-30T06:34:16.199Z",
+      "name": "임한빈",
+      "isTechnical": true,
+      "category": "troubleshoot",
+      "modelConfidence": "high",
+      "question": "안녕하세요 YCZ-RTL8152B라는 이더넷 젠더 제품을 쓰다가 LS-LAN20R로 바꿀려고 하는데 바꾸고나서 드라이버나 접속에러가 뜰일이 있을까요?",
+      "answer": "이 상품에 대해 무엇이 궁금하세요?"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "RJ45"
+      ],
+      "directional": "양방향"
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": false,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": false
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": false,
+      "hdcp_version": "N/A",
+      "audio_pass": false
+    },
+    "control_switching": {
+      "has_remote": false,
+      "has_hotkey": false,
+      "has_physical_button": false,
+      "has_mouse_switching": false,
+      "has_auto_scan": false,
+      "has_app_control": false
+    },
+    "family": {
+      "usb_version": "USB2.0",
+      "transfer_speed_gbps": 0.1,
+      "charging_only": false,
+      "data_only": true
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB 2.0 포트를 통해",
+    "connectivity.output_signals": "랜포트를 생성하는 이더넷 어댑터",
+    "connectivity.directional": "전송속도 10/100Mbps 지원",
+    "power.power_mode": "별도의 전원케이블 없이 USB 포트만으로",
+    "power.charging_support": "랜포트를 생성하는 이더넷 어댑터",
+    "form_physical.has_case": "66×21×16mm (L x W x H)",
+    "certification.kc": "KC",
+    "certification.rohs": "RoHS",
+    "certification.iso9001": "ISO 9001:2008",
+    "certification.fcc": "FCC",
+    "certification.ce": "CE",
+    "audio_video.max_resolution": "랜포트를 생성하는 이더넷 어댑터",
+    "audio_video.hdr_support": "랜포트를 생성하는 이더넷 어댑터",
+    "audio_video.hdcp_version": "랜포트를 생성하는 이더넷 어댑터",
+    "audio_video.audio_pass": "랜포트를 생성하는 이더넷 어댑터",
+    "family.usb_version": "USB 2.0",
+    "family.transfer_speed_gbps": "전송속도 10/100Mbps 지원",
+    "family.charging_only": "랜포트를 생성하는 이더넷 어댑터",
+    "family.data_only": "랜포트를 생성하는 이더넷 어댑터"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:02",
+  "feature_schema_version": "1.0.0"
+}

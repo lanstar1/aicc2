@@ -1,0 +1,177 @@
+{
+  "model_no": "LS-NT2-HUBC",
+  "product_name": "랜스타 닌텐도 스위치2 전용 휴대용 외장 독 3 IN 1 멀티 허브 (LS-NT2-HUBC)",
+  "category": [
+    "USB허브",
+    "USB3.0",
+    "스위치허브",
+    "무선충전",
+    "게임악세서리"
+  ],
+  "key_features": [
+    "닌텐도 스위치 1세대·2세대·OLED 및 스위치2 완벽 호환",
+    "HDMI 2.0 기준 4K@60Hz 해상도 출력 지원",
+    "PD 3.0 최대 100W 충전 지원 (패스스루 방식으로 게임 중 동시 충전 가능)",
+    "USB 3.0 Type-A 포트 1개 제공 (컨트롤러·키보드·마우스·USB 메모리 등 확장)",
+    "별도 드라이버·펌웨어 불필요, Plug & Play",
+    "소형 경량 설계: 58 x 51.5 x 13mm, 약 36g",
+    "케이블 일체형 (약 22cm, 커넥터 포함)",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-NT2-HUB)",
+    "현대해상화재 생산물배상책임보험 1억 원 가입",
+    "라인업시스템(주) / 랜스타 정품 수입·유통 제품"
+  ],
+  "specifications": {
+    "입력 포트": "USB Type-C 1포트",
+    "출력 포트": "HDMI 1포트, USB Type-C PD 1포트, USB Type-A 1포트",
+    "HDMI 규격": "HDMI 2.0 (4K@60Hz 지원)",
+    "USB-A 규격": "USB 3.0",
+    "충전 규격": "PD 3.0",
+    "최대 해상도": "4K@60Hz (HDMI 2.0 케이블 기준)",
+    "입력 전원": "DC 20V 5A, 100W",
+    "출력 전원": "DC 20V 5A",
+    "충전 출력": "PD 100W",
+    "크기": "58 x 51.5 x 13 (mm)",
+    "케이블 길이": "약 22cm (커넥터 포함)",
+    "무게": "약 36g",
+    "KC 인증번호": "R-R-LUS-LS-NT2-HUB",
+    "제조국": "중국 (China)",
+    "제조사·수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "닌텐도 스위치2: HDMI 4K@60Hz 출력 지원",
+    "닌텐도 스위치 1세대 (2017): HDMI 1080P@60Hz 출력 지원",
+    "닌텐도 스위치 2세대 배터리 개선판 (2019): HDMI 1080P@60Hz 출력 지원",
+    "닌텐도 스위치 OLED (2021): HDMI 1080P@60Hz 출력 지원",
+    "닌텐도 스위치 라이트: 사용 불가 (영상 출력 DP Alt Mode 미지원)",
+    "노트북 (USB-C PD 지원 기기)",
+    "태블릿 (USB-C PD 지원 기기)"
+  ],
+  "package_contents": [
+    "3 IN 1 멀티 허브 본체 (케이블 일체형) 1개"
+  ],
+  "usage_instructions": "별도 드라이버·펌웨어 설치 불필요. USB Type-C 케이블을 닌텐도 스위치2(또는 호환 기기)에 연결한 후, HDMI 포트는 TV/모니터에, PD 포트는 PD 지원 어댑터(권장 39W 이상)에, USB Type-A 포트는 컨트롤러·키보드·USB 메모리 등에 연결하면 즉시 사용 가능(Plug & Play). 패스스루 방식으로 영상 출력과 충전을 동시에 처리할 수 있어 거치 모드 게임 중에도 충전이 가능.",
+  "cautions": [
+    "닌텐도 스위치 라이트는 영상 출력(DP Alt Mode) 미지원으로 HDMI 연결 불가.",
+    "4K@60Hz 출력은 HDMI 2.0 케이블 사용 시에만 지원되며, 케이블 성능에 따라 출력 품질이 달라질 수 있음.",
+    "HDMI 출력 품질 및 충전 안정성은 사용하는 PD 어댑터(권장 39W 이상) 및 HDMI 케이블 성능에 따라 달라질 수 있음.",
+    "장시간 사용 시 약간의 발열이 발생할 수 있으나 정상 동작 범위 내이며, 정품 또는 PD 지원 어댑터 사용 권장.",
+    "라인업시스템(주) / 랜스타 정품 인증 배너가 등록되지 않은 판매처의 제품은 정품이 아니므로 A/S 불가.",
+    "당일 출고는 평일 오후 4시 이전 결제 완료 건에 한하며, 토·일·공휴일 제외. 택배사 사정에 따라 배송 기간이 늘어날 수 있음.",
+    "제조사 사정에 따라 제품 색상·형태 등 사양이 예고 없이 변경될 수 있음.",
+    "본 제품의 콘텐츠를 무단 복제·이용 시 불이익이 발생할 수 있음."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-NT2-HUBC",
+      "품목코드": "CAB-U31559",
+      "품목명": "[LANstar] USB C타입 3in1 멀티허브 스위치2 미니독 4K 60Hz [30957] [100개]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "reviews": [
+    {
+      "source_model": "LS-NT2-HUBC",
+      "내용": "독없이  연결하니 좋아요  해외여행 갈때  독없이  좋을거 같아요"
+    },
+    {
+      "source_model": "LS-NT2-HUBC",
+      "내용": "닌텐도와 태블릿 연결 잘됩니다"
+    }
+  ],
+  "talktalk_qna": [
+    {
+      "source_model": "LS-NT2-HUBC",
+      "chatUrl": "bUMg0",
+      "dateIso": "2026-03-31T02:22:06.342Z",
+      "name": "냥",
+      "isTechnical": true,
+      "category": "spec",
+      "modelConfidence": "high",
+      "question": "판매자 문의",
+      "answer": "안녕하세요 고객님 랜스타 입니다"
+    },
+    {
+      "source_model": "LS-NT2-HUBC",
+      "chatUrl": "bUMg0",
+      "dateIso": "2026-03-31T02:22:06.342Z",
+      "name": "냥",
+      "isTechnical": true,
+      "category": "spec",
+      "modelConfidence": "high",
+      "question": "혹시 안 될까봐 답변 받구 재결제 하겠습니다",
+      "answer": "주문을 문의합니다."
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "HDMI",
+        "USB-C",
+        "USB-A"
+      ],
+      "directional": "양방향",
+      "port_count": 3
+    },
+    "power": {
+      "power_mode": "어댑터",
+      "charging_support": true,
+      "pd_watts": 100
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": null,
+      "color_options": null
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "4K@60",
+      "hdr_support": null,
+      "hdcp_version": null,
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "port_count": 3,
+      "usb_version": "USB3.0",
+      "ethernet_speed_mbps": null,
+      "has_sd_reader": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB Type-C 1포트",
+    "connectivity.output_signals": "HDMI 1포트, USB Type-C PD 1포트, USB Type-A 1포트",
+    "connectivity.directional": "패스스루 방식으로 영상 출력과 충전을 동시에",
+    "connectivity.port_count": "HDMI 1포트, USB Type-C PD 1포트, USB Type-A 1포트",
+    "power.power_mode": "PD 지원 어댑터(권장 39W 이상)에",
+    "power.charging_support": "PD 3.0 최대 100W 충전 지원",
+    "power.pd_watts": "PD 3.0 최대 100W 충전 지원",
+    "form_physical.has_case": "소형 경량 설계: 58 x 51.5 x 13mm",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "audio_video.max_resolution": "4K@60Hz 해상도 출력 지원",
+    "audio_video.audio_pass": "영상 출력과 충전을 동시에",
+    "family.port_count": "HDMI 1포트, USB Type-C PD 1포트, USB Type-A 1포트",
+    "family.usb_version": "USB 3.0 Type-A 포트 1개 제공"
+  },
+  "feature_extracted_at": "2026-04-23T03:16:13",
+  "feature_schema_version": "1.0.0"
+}

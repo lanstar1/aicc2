@@ -1,0 +1,230 @@
+{
+  "model_no": "LS-M3IN1",
+  "product_name": "LANStar USB 3.1 (Type C) 3 in 1 멀티 케이블 0.8M (Type C + 8Pin + Micro 5Pin)",
+  "category": [
+    "USB케이블",
+    "USB-C",
+    "젠더",
+    "커넥터",
+    "자동감김케이블",
+    "아이폰케이블"
+  ],
+  "key_features": [
+    "Type C, 애플 호환 8Pin, Micro 5Pin 3종 커넥터를 하나의 케이블로 지원",
+    "충전 및 데이터 전송 동시 지원 (데이터 전송은 애플 호환 8Pin 전용)",
+    "Type C 및 Micro 5Pin은 충전 전용으로 동작",
+    "컴퓨터 USB 포트 연결을 통한 동기화 및 충전 가능",
+    "USB 어댑터 연결을 통한 충전 가능",
+    "동시 충전 지원 (단, 충전 속도 저하 가능)",
+    "총 길이 0.8M",
+    "RoHS 규격 준수 (유해물질 사용 제한)",
+    "ISO 9001:2008 품질경영시스템 인증",
+    "현대해상화재 생산물배상책임보험 1억원 가입",
+    "C-Type, Micro 5Pin, Apple 8Pin 3종 커넥터 동시 지원 (3 in 1)",
+    "릴 타입 자동감김 방식으로 최대 120cm까지 연장 가능, 미사용 시 줄 길이 조절 보관 가능",
+    "고속 충전 지원 (1개 커넥터 단독 연결 시)",
+    "동시 충전 지원 (단, 동시 충전 시 충전 속도 저하 가능)",
+    "데이터 전송 불가, 충전 전용 케이블",
+    "Flat Type 케이블로 줄 꼬임 방지 및 단선 방지",
+    "앞뒤 구분 없는 커넥터 설계로 파손 위험 감소",
+    "RoHS 준수 (유해물질 사용 제한), ISO 9001:2008 품질경영시스템 인증",
+    "C-Type, Micro 5Pin, 8Pin 3종 커넥터 지원 (3 in 1)",
+    "릴 타입 자동감김 방식으로 최대 120cm까지 연장 가능",
+    "사용하지 않을 때 줄을 줄여 보관 가능, 공간 효율 향상",
+    "줄꼬임 방지 Flat Type 케이블",
+    "C-Type 커넥터 앞뒤 구분 없음",
+    "RoHS 인증 준수 (유해물질 사용 제한)",
+    "ISO 9001:2008 품질경영시스템"
+  ],
+  "specifications": {
+    "모델명": "LS-M3IN1-0.8M / LS-M3IN1-1MB / LS-M3IN1-1MW / LS-M3IN1-1MB/LS-M3IN1-1MW",
+    "품명": "모바일 충전 데이터 케이블 0.8M 3 in 1 / 모바일 충전 케이블 1M, 3 in 1 자동감김",
+    "USB 규격": "USB 3.1 Type C",
+    "커넥터 구성": "Type C + 애플 호환 8Pin + Micro 5Pin",
+    "총 길이": "0.8M",
+    "데이터 전송 지원 커넥터": "애플 호환 8Pin",
+    "충전 전용 커넥터": "Type C, Micro 5Pin",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)",
+    "인증번호": "해당없음",
+    "AS 소비자상담": "랜스타 A/S센터 www.LANstar.co.kr",
+    "보험": "현대해상화재 생산물배상책임보험 1억원 / 현대해상화재 생산물배상책임보험 1억원 가입",
+    "규격 인증": "RoHS COMPLIANT, ISO 9001:2008, CE, FC",
+    "최대 케이블 길이": "120cm",
+    "커넥터 종류": "C-Type, Micro 5Pin, Apple 8Pin",
+    "충전 방식": "고속 충전 지원 (1개 단독 연결 시), 동시 충전 지원 / 고속 충전 지원 (1개 연결 시), 동시 충전 지원",
+    "데이터 전송": "불가 (충전 전용)",
+    "케이블 타입": "Flat Type (평형 케이블) / Flat Type (평평한 줄꼬임 방지 구조), 릴 타입 자동감김",
+    "환경 인증": "RoHS COMPLIANT",
+    "품질 인증": "ISO 9001:2008",
+    "인증": "RoHS COMPLIANT, ISO 9001:2008"
+  },
+  "compatibility": [
+    "Type C 커넥터를 사용하는 모든 기기",
+    "애플 호환 8Pin 커넥터를 사용하는 모든 기기 (iPhone, iPad 등)",
+    "Micro 5Pin 커넥터를 사용하는 모든 기기",
+    "Samsung Galaxy Series",
+    "LG",
+    "HTC",
+    "Vega",
+    "mi",
+    "HUAWEI",
+    "Letv1",
+    "Letv1 Pro",
+    "OnePlus",
+    "NOKIA N1",
+    "ZUK Z1",
+    "Mac Book",
+    "LG G5",
+    "C-Type: Galaxy Note7, Note8, Note9",
+    "C-Type: Galaxy S10e, S10, S10+",
+    "C-Type: Galaxy S9, S9+",
+    "C-Type: Galaxy S8, S8+",
+    "C-Type: Galaxy A9, A8, A7, A5, A3",
+    "C-Type: LG V30, V20, G8, G7, G6, G5",
+    "C-Type: Nexus 5X, 6P",
+    "C-Type: 뉴맥북, 노키아 태블릿 N1",
+    "Micro 5Pin: Galaxy Note2, Note3, Note4, Note5",
+    "Micro 5Pin: Galaxy S7, S7 Edge",
+    "Micro 5Pin: Galaxy S6, S6 Edge, S6 Edge+",
+    "Micro 5Pin: Galaxy S5, S4, S3",
+    "Micro 5Pin: LG G4, G3, G2, V10, K10",
+    "Micro 5Pin: 외 다수 제품",
+    "Apple 8Pin: iPhone X, Xs, Xs MAX",
+    "Apple 8Pin: iPhone Xr, iPhone 8, iPhone 8 Plus",
+    "Apple 8Pin: iPhone 7, iPhone 6, iPhone 5",
+    "Apple 8Pin: 2013년 이후 출시된 아이패드류 모델",
+    "C-Type - Samsung Galaxy Note7, Note8, Note9",
+    "C-Type - Samsung Galaxy S10e, S10, S10+",
+    "C-Type - Samsung Galaxy S9, S9+",
+    "C-Type - Samsung Galaxy S8, S8+",
+    "C-Type - Samsung Galaxy A9, A8, A7, A5, A3",
+    "C-Type - LG V30, V20, G8, G7, G6, G5",
+    "C-Type - Google Nexus 5X, 6P",
+    "C-Type - 뉴맥북, 노키아 태블릿 N1",
+    "Micro 5Pin - Samsung Galaxy Note2, Note3, Note4, Note5",
+    "Micro 5Pin - Samsung Galaxy S7",
+    "Micro 5Pin - Samsung Galaxy S6, S6+",
+    "Micro 5Pin - Samsung Galaxy S5, S4, S3",
+    "Micro 5Pin - LG G4, G3, G2, V10, K10",
+    "Micro 5Pin - 외 다수 제품",
+    "Apple 8Pin - iPhone X, Xs, Xs MAX",
+    "Apple 8Pin - iPhone Xr, iPhone 8, iPhone 8 Plus",
+    "Apple 8Pin - iPhone 7, iPhone 6, iPhone 5",
+    "Apple 8Pin - 2013년 이후 출시된 아이패드류 모델"
+  ],
+  "package_contents": [
+    "3 in 1 USB 케이블 (Type C + 8Pin + Micro 5Pin) 0.8M x 1",
+    "3 in 1 자동감김 충전 케이블 1개"
+  ],
+  "usage_instructions": "케이블의 Type C, 애플 호환 8Pin, Micro 5Pin 커넥터 중 사용 기기에 맞는 커넥터를 연결하고, 반대쪽 USB 단자를 컴퓨터 USB 포트 또는 USB 어댑터에 연결하여 충전 및 데이터 동기화에 사용한다. 데이터 전송은 애플 호환 8Pin 커넥터 연결 시에만 가능하며, Type C와 Micro 5Pin은 충전 전용으로 사용한다.",
+  "cautions": [
+    "데이터 전송은 애플 호환 8Pin 커넥터만 지원하며, Type C와 Micro 5Pin은 충전 전용입니다.",
+    "동시 충전은 지원하나 충전 속도가 다소 느려질 수 있습니다.",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있습니다.",
+    "본 제품에 이상이 있으면 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상받을 수 있습니다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-M3IN1-1MB",
+      "품목코드": "CAB-모바일151",
+      "품목명": "[LANstar] 모바일 충전 데이터 케이블 1M, 3 in 1, 자동감김 (Type C/Micro 5P/ 8P) Black [20153]",
+      "variant_suffix": "-1MB",
+      "source": "excel"
+    },
+    {
+      "model_no": "LS-M3IN1-1MW",
+      "품목코드": "CAB-모바일152",
+      "품목명": "[LANstar] 모바일 충전 케이블 1M, 3 in 1, 자동감김 (Type C/Micro 5P/ 8P) White [20154]",
+      "variant_suffix": "-1MW",
+      "source": "excel"
+    }
+  ],
+  "_variant_raw_texts": {
+    "LS-M3IN1-1MB": "LANStar\nⓇ\n3 IN 1\nCharge\n모바일 충전용 케이블 어디까지 사용해보셨나요?\nC-Type, Micro 5Pin, 8Pin 커넥터를 사용하는 모든\n기기에서 사용이 가능하고, 자동감김 릴 방식을 통해\n케이블 정리까지 가능하다면 이보다 좋은 충전 케이블은\n없을 것입니다.!\nDESIGN\n릴 타입 자동감김 케이블로 작은 사이즈와 편안한\n사용방법을 자랑하는 제품입니다. 최대 120cm까지\n연결이 가능하고, 사용하지 않을 시 줄을 줄여 보관할 수\n있어 공간의 효율을 높일 수 있게 디자인 하였습니다.\nCHARGE\n고속 충전이 가능한 케이블로, 1개의 케이블 연결시 고속\n충전을 지원합니다. 데이터 전송은 불가능하며, 오직\n충전만을 지원하는 케이블입니다.\n\n\n고속 충전이 가능한 케이블로, 1개의 케이블 연결시 고속\n충전을 지원합니다. 데이터 전송은 불가능하며, 오직\n충전만을 지원하는 케이블입니다.\n※ 동시 충전을 지원하지만 동시 충전을 할 경우\n충전 속도가 다소 느려질 수 있습니다.\n(1개만 연결시 고속충전 지원)\nFLAT\n줄꼬임을 방지하기 위해 평평한 Flat Type 케이블로\n제작, 유연함을 자랑합니다. 쉽게 단선되지 않아 오랜\n기간 사용해도 문제가 생기지 않고 선이 엉키지 않아\n스트레스를 받을 일도 없습니다!!\n<선이 꼬여 지저분한 모습〉\nCONUENIENT\n\n\n〈선이 꼬여 지저분한 모습〉\nCONVENIENT\nC-Type, Micro 5Pin, 8Pin 7\n수 있게 제작되어, 편리하게 사용할 수 있습니다. 앞, 뒤\n구분이 없어 파손의 위험도 적고, 편리한 연결을 위해\n제작하였습니다.\n- C-Type\nGalaxy Note7 | Note8 | Note9\nGalaxy S10e | S10 | S10+\nGalaxy S9 | S9+\nGalaxy S8 | S8+\nGalaxy A9 | A8 |A7|A5| A3\nLG V30 | V20 |G8|G7 |G6|G5\n5X 6P\n뉴맥북 | 노키아 태블릿 N1\n> Micro 5Pin\nGalaxy Note2 | Note3 | Note4 | Note5\nGalaxy S7 S7\nGalaxy S6 | S6 | 86 +\nGalaxy S5 S4 | S3\nLG G4 | G3 | G2 | V10 | K10\n외 다수제품\n> Apple 8Pin\niPhone X iPhone Xs | iPhone Xs MAX\niPhone Xr | iPhone 8 | iPhone 8 Plus\niPhone 7 iPhone 6 | iPhone 5\n2013년 이후 출시된 아이패드류 모델\n\n\nUSEFUL\n여러 사람과, 여러 종류의 휴대폰을 하나의 충전 케이블\n만을 이용하여 사용한다면 여러 사람이 충전 케이블을\n챙겨야 하는 번거로움을 줄일 수 있고, 준비성 투철한\n센스 있는 사람으로 자리잡을 수 있습니다.\nLAN Star\n3 IN 1 Cable\nPRODUCT PACKAGE\nDATA\nTRANSMISSION\nHIGH QUALITY\nPige\nSAFE & SPEED\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n\n\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nR\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\nLAN Star® 라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\n모바일 충전 케이블 1M, 3 in 1 자동감김\nLANStar\n모\n델\n명\nLS-M3IN1-1MB/LS-M3IN1-1MW\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다.",
+    "LS-M3IN1-1MW": "LANStar\nⓇ\n3 IN 1\nCharge\n모바일 충전용 케이블 어디까지 사용해보셨나요?\nC-Type, Micro 5Pin, 8Pin 커넥터를 사용하는 모든\n기기에서 사용이 가능하고, 자동감김 릴 방식을 통해\n케이블 정리까지 가능하다면 이보다 좋은 충전 케이블은\n없을 것입니다.!\nDESIGN\n릴 타입 자동감김 케이블로 작은 사이즈와 편안한\n사용방법을 자랑하는 제품입니다. 최대 120cm까지\n연결이 가능하고, 사용하지 않을 시 줄을 줄여 보관할 수\n있어 공간의 효율을 높일 수 있게 디자인 하였습니다.\nCHARGE\n고속 충전이 가능한 케이블로, 1개의 케이블 연결시 고속\n충전을 지원합니다. 데이터 전송은 불가능하며, 오직\n충전만을 지원하는 케이블입니다.\n\n\n고속 충전이 가능한 케이블로, 1개의 케이블 연결시 고속\n충전을 지원합니다. 데이터 전송은 불가능하며, 오직\n충전만을 지원하는 케이블입니다.\n※ 동시 충전을 지원하지만 동시 충전을 할 경우\n충전 속도가 다소 느려질 수 있습니다.\n(1개만 연결시 고속충전 지원)\nFLAT\n줄꼬임을 방지하기 위해 평평한 Flat Type 케이블로\n제작, 유연함을 자랑합니다. 쉽게 단선되지 않아 오랜\n기간 사용해도 문제가 생기지 않고 선이 엉키지 않아\n스트레스를 받을 일도 없습니다!!\n<선이 꼬여 지저분한 모습〉\nCONUENIENT\n\n\n〈선이 꼬여 지저분한 모습〉\nCONVENIENT\nC-Type, Micro 5Pin, 8Pin 7\n수 있게 제작되어, 편리하게 사용할 수 있습니다. 앞, 뒤\n구분이 없어 파손의 위험도 적고, 편리한 연결을 위해\n제작하였습니다.\n- C-Type\nGalaxy Note7 | Note8 | Note9\nGalaxy S10e | S10 | S10+\nGalaxy S9 | S9+\nGalaxy S8 | S8+\nGalaxy A9 | A8 |A7|A5| A3\nLG V30 | V20 |G8|G7 |G6|G5\n5X 6P\n뉴맥북 | 노키아 태블릿 N1\n> Micro 5Pin\nGalaxy Note2 | Note3 | Note4 | Note5\nGalaxy S7 S7\nGalaxy S6 | S6 | 86 +\nGalaxy S5 S4 | S3\nLG G4 | G3 | G2 | V10 | K10\n외 다수제품\n> Apple 8Pin\niPhone X iPhone Xs | iPhone Xs MAX\niPhone Xr | iPhone 8 | iPhone 8 Plus\niPhone 7 iPhone 6 | iPhone 5\n2013년 이후 출시된 아이패드류 모델\n\n\nUSEFUL\n여러 사람과, 여러 종류의 휴대폰을 하나의 충전 케이블\n만을 이용하여 사용한다면 여러 사람이 충전 케이블을\n챙겨야 하는 번거로움을 줄일 수 있고, 준비성 투철한\n센스 있는 사람으로 자리잡을 수 있습니다.\nLAN Star\n3 IN 1 Cable\nPRODUCT PACKAGE\nDATA\nTRANSMID\nNSMISSION\n3in1\nHIGH QUALITY\nCable\nSAFE & SPEED\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n\n\nH 현대해상화재보험\n생산물배상책임보험 1억원 가입\n본 제품은 라인업시스템(주) 제품으로 현대해상화재 생산물배상책임보험에\n가입되어 있어 문제발생시 보상을 받을 수 있습니다.\nR\nROHS\nCOMPLIANT\nISO 9001:2008\n품질경영시스템\nRoHS(Restriction of Hazardous Substance)는 EU에서 발표한 특정위험물질 사용제한\n지침으로 2008년부터 모든 전기·전자제품의 생산공정에 납, 수은, 카드뮴 등\n중금속 사용을 금지합니다.\nⓇ\n제조사의 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있습니다.\nLAN Star® 라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시\n불이익을 당할 수 있습니다.\n상품정보\n품\n명\n모바일 충전 케이블 1M, 3 in 1 자동감김\nLANStar\n모\n델\n명\nLS-M3IN1-1MB/LS-M3IN1-1MW\n인증번호\n해당없음\n제조국/원산지\n중국 (China)\n제조사/수입사\n라인업시스템(주)\nAS 소비자상담\n랜스타 A/S센터 www.LANstar.co.kr\n구매/배송/반품\n판매처 (쇼핑몰 하단 참조)\n품질보증기준\n본 제품에 이상이 있으면\n공정거래위원회 고시 소비자 분쟁해결\n기준에 따라 보상해드립니다."
+  },
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-A"
+      ],
+      "output_signals": [
+        "USB-C",
+        "USB-Micro",
+        "8Pin"
+      ],
+      "directional": "양방향",
+      "port_count": null
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": null,
+      "material": null,
+      "length_meters": null,
+      "length_options_meters": [
+        0.8,
+        1,
+        1.2
+      ],
+      "color_options": [
+        "블랙",
+        "화이트"
+      ]
+    },
+    "certification": {
+      "kc": false,
+      "rohs": true,
+      "iso9001": true,
+      "fcc": true,
+      "ce": true,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": null
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "usb_version": "USB3.1Gen1",
+      "transfer_speed_gbps": null,
+      "charging_only": false,
+      "data_only": false
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "컴퓨터 USB 포트 연결을 통한",
+    "connectivity.output_signals": "Type C, 애플 호환 8Pin, Micro 5Pin",
+    "connectivity.directional": "충전 및 데이터 전송 동시 지원",
+    "power.power_mode": "컴퓨터 USB 포트 연결을 통한",
+    "power.charging_support": "충전 및 데이터 전송 동시 지원",
+    "form_physical.length_options_meters": "총 길이 0.8M",
+    "form_physical.color_options": "LS-M3IN1-1MB/LS-M3IN1-1MW",
+    "certification.kc": "인증번호: 해당없음",
+    "certification.rohs": "RoHS 규격 준수",
+    "certification.iso9001": "ISO 9001:2008 품질경영시스템 인증",
+    "certification.fcc": "CE, FC",
+    "certification.ce": "CE, FC",
+    "audio_video.max_resolution": "N/A",
+    "audio_video.hdcp_version": "N/A",
+    "family.usb_version": "USB 3.1 Type C",
+    "family.charging_only": "Type C 및 Micro 5Pin은 충전 전용으로 동작",
+    "family.data_only": "데이터 전송은 애플 호환 8Pin 전용"
+  },
+  "feature_extracted_at": "2026-04-23T03:15:22",
+  "feature_schema_version": "1.0.0"
+}

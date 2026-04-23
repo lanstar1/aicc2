@@ -1,0 +1,139 @@
+{
+  "model_no": "LS-C2AP",
+  "product_name": "USB Type-C to Audio + PD 컨버터",
+  "category": [
+    "USB허브",
+    "USB-C",
+    "USB2.0",
+    "컨버터"
+  ],
+  "key_features": [
+    "충전과 음악/영화 감상을 동시에 지원하는 Type-C to Type-C Audio + PD 컨버터",
+    "PD 3.0 급속 충전 방식 지원 (C to C 방식)",
+    "USB Type-C 오디오 출력 포트 1개 제공 (이어폰, 헤드셋, 스피커 연결 가능)",
+    "안정적인 충전을 위한 VL103 칩셋 탑재",
+    "USB 2.0 허브용 GL850 칩셋 탑재로 안정성 및 호환성 향상",
+    "알루미늄 재질 바디",
+    "국립전파연구원 KC 인증 획득 (인증번호: R-R-LUS-LS-C2AP)",
+    "현대해상화재 생산물배상책임보험 1억원 가입"
+  ],
+  "specifications": {
+    "인터페이스": "USB 2.0 Interface",
+    "입력 포트": "USB Type-C Male",
+    "출력 포트": "USB Type-C PD 1 Port, USB Type-C Audio 1 Port",
+    "입력 전원": "USB Bus Power",
+    "재질": "알루미늄",
+    "색상": "Silver",
+    "크기": "36 x 30 x 8.5 (mm) / 케이블 약 16cm",
+    "무게": "약 17g",
+    "KC 인증번호": "R-R-LUS-LS-C2AP",
+    "제조국/원산지": "중국 (China)",
+    "제조사/수입사": "라인업시스템(주)"
+  },
+  "compatibility": [
+    "USB Type-C 지원 스마트폰 (예: Samsung Galaxy Note 20 등)",
+    "USB Type-C 지원 태블릿",
+    "USB Type-C 지원 노트북",
+    "USB Type-C 이어폰",
+    "USB Type-C 헤드셋",
+    "USB Type-C 스피커",
+    "3.5mm 이어폰/헤드셋/스피커 (별도 판매 이어폰 변환 젠더 LS-C2S 또는 LS-CS71 사용 시)",
+    "USB PD(Power Delivery) 지원 어댑터 및 케이블"
+  ],
+  "package_contents": [
+    "USB Type-C to Audio + PD 컨버터 본체 (LS-C2AP) 1개",
+    "User Manual 1부"
+  ],
+  "usage_instructions": "USB Type-C Male 입력 포트를 스마트폰, 태블릿, 노트북 등의 Type-C 포트에 연결한다. 출력 포트 중 PD 포트에 PD 지원 어댑터 및 케이블을 연결하여 충전하고, Audio 포트에 Type-C 이어폰/헤드셋/스피커를 연결하여 음악 및 영화를 감상한다. 3.5mm 이어폰 사용 시에는 별도 판매하는 랜스타 이어폰 변환 젠더(LS-C2S 또는 LS-CS71)를 Audio 포트에 연결하여 사용한다.",
+  "cautions": [
+    "PD 충전 시 반드시 USB PD(Power Delivery)를 지원하는 어댑터와 케이블을 사용해야 한다.",
+    "QC(Quick Charging) 규격과는 호환되지 않는다.",
+    "3.5mm 스테레오 단자 이어폰 사용 시 별도 판매하는 랜스타 이어폰 변환 젠더가 필요하다 (이어폰 젠더는 별도 구매 제품).",
+    "제조사 사정에 따라 제품의 색상 및 형태 등의 사양은 예고 없이 변경될 수 있다.",
+    "라인업시스템(주)에서 제작한 상품과 콘텐츠를 당사의 동의 없이 무단 복제 및 이용 시 불이익을 당할 수 있다.",
+    "제품 이상 시 공정거래위원회 고시 소비자 분쟁해결 기준에 따라 보상 가능하며, A/S는 랜스타 A/S센터(www.LANstar.co.kr)에 문의한다."
+  ],
+  "variants": [
+    {
+      "model_no": "LS-C2AP",
+      "품목코드": "AVO-사운드048",
+      "품목명": "[LANstar] USB-C to Audio + PD 컨버터 [30411]",
+      "variant_suffix": "",
+      "source": "excel"
+    }
+  ],
+  "features": {
+    "connectivity": {
+      "input_signals": [
+        "USB-C"
+      ],
+      "output_signals": [
+        "USB-C"
+      ],
+      "directional": "양방향",
+      "port_count": 2
+    },
+    "power": {
+      "power_mode": "버스파워",
+      "charging_support": true,
+      "pd_watts": null
+    },
+    "form_physical": {
+      "has_case": true,
+      "material": [
+        "알루미늄"
+      ],
+      "length_meters": 0.16,
+      "length_options_meters": null,
+      "color_options": [
+        "Silver"
+      ]
+    },
+    "certification": {
+      "kc": true,
+      "rohs": null,
+      "iso9001": null,
+      "fcc": null,
+      "ce": null,
+      "netflix": null
+    },
+    "audio_video": {
+      "max_resolution": "N/A",
+      "hdr_support": null,
+      "hdcp_version": "N/A",
+      "audio_pass": true
+    },
+    "control_switching": {
+      "has_remote": null,
+      "has_hotkey": null,
+      "has_physical_button": null,
+      "has_mouse_switching": null,
+      "has_auto_scan": null,
+      "has_app_control": null
+    },
+    "family": {
+      "port_count": 2,
+      "usb_version": "USB2.0",
+      "ethernet_speed_mbps": null,
+      "has_sd_reader": null
+    }
+  },
+  "feature_evidence": {
+    "connectivity.input_signals": "USB Type-C Male",
+    "connectivity.output_signals": "USB Type-C PD 1 Port, USB Type-C Audio 1 Port",
+    "connectivity.directional": "충전과 음악/영화 감상을 동시에 지원",
+    "connectivity.port_count": "출력 포트: USB Type-C PD 1 Port, USB Type-C Audio 1 Port",
+    "power.power_mode": "USB Bus Power",
+    "power.charging_support": "PD 3.0 급속 충전 방식 지원",
+    "form_physical.has_case": "알루미늄 재질 바디",
+    "form_physical.material": "알루미늄 재질 바디",
+    "form_physical.length_meters": "케이블 약 16cm",
+    "form_physical.color_options": "Silver",
+    "certification.kc": "국립전파연구원 KC 인증 획득",
+    "audio_video.audio_pass": "USB Type-C 오디오 출력 포트 1개 제공",
+    "family.port_count": "출력 포트: USB Type-C PD 1 Port, USB Type-C Audio 1 Port",
+    "family.usb_version": "USB 2.0 허브용 GL850 칩셋 탑재"
+  },
+  "feature_extracted_at": "2026-04-23T03:09:51",
+  "feature_schema_version": "1.0.0"
+}
