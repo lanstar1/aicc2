@@ -2763,7 +2763,17 @@ function buildPartsWithImages(textStr, images) {
   const parts = [];
   if (textStr != null && textStr !== "") parts.push({ text: textStr });
   for (const im of (images || [])) {
-    parts.push({ inline_data: { mime_type: im.mime_type, data: im.base64 } });
+    // base64는 저장/복원된(히스토리) 이미지에는 없을 수 있으므로 dataUrl에서 추출한다.
+    let data = im.base64;
+    if (!data && typeof im.dataUrl === "string" && im.dataUrl.indexOf(",") !== -1) {
+      data = im.dataUrl.split(",")[1];
+    }
+    if (!data) continue; // 데이터 없는 빈 inline_data 전송 금지 (Gemini 400 INVALID_ARGUMENT 방지)
+    let mime = im.mime_type;
+    if (!mime && typeof im.dataUrl === "string" && im.dataUrl.startsWith("data:")) {
+      mime = im.dataUrl.slice(5, im.dataUrl.indexOf(";"));
+    }
+    parts.push({ inline_data: { mime_type: mime || "image/jpeg", data } });
   }
   return parts;
 }
