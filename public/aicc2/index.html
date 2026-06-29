@@ -59,7 +59,7 @@
     color: var(--text);
     font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", "Pretendard",
       "Noto Sans KR", "Apple SD Gothic Neo", "Segoe UI", sans-serif;
-    font-size: 14px; line-height: 1.55;
+    font-size: 15px; line-height: 1.5;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
@@ -472,12 +472,12 @@
     background: linear-gradient(180deg, var(--surface-2) 0%, var(--elev-1) 100%);
     border: 1px solid var(--border);
     border-radius: var(--radius-md);
-    padding: 18px 20px;
-    margin-bottom: 14px;
-    white-space: pre-wrap;
-    line-height: 1.65;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+    line-height: 1.55;
     color: var(--text);
     box-shadow: var(--shadow-sm);
+    overflow-wrap: anywhere;
   }
   .answer-box h3 {
     margin: 0 0 10px;
@@ -496,13 +496,13 @@
   .citations {
     margin-top: 14px; padding-top: 12px;
     border-top: 1px dashed var(--border);
-    font-size: 12px; color: var(--text-2);
+    font-size: 12.5px; color: var(--text-2);
   }
   .citations ul { margin: 6px 0 0; padding-left: 20px; }
   .citations li { margin-bottom: 3px; color: var(--text-2); }
   .badge {
     display: inline-flex; align-items: center;
-    padding: 2px 9px; font-size: 10.5px; font-weight: 700;
+    padding: 2px 9px; font-size: 11.5px; font-weight: 700;
     border-radius: var(--radius-pill);
     margin-right: 5px;
     letter-spacing: 0.04em;
@@ -511,6 +511,32 @@
   .badge.direct   { background: var(--success-soft); color: var(--success); border: 1px solid rgba(13,170,110,.3); }
   .badge.inferred { background: var(--warn-soft);    color: var(--warn);    border: 1px solid rgba(178,94,9,.3); }
   .badge.web      { background: var(--accent-soft);  color: var(--accent);  border: 1px solid rgba(0,113,227,.3); }
+
+  /* ===== AI answer markdown (rendered by renderAnswerMarkdown) ===== */
+  .md-body { font-size: 14.5px; line-height: 1.55; }
+  .md-body .md-p { margin: 0 0 8px; }
+  .md-body > .md-p:last-child,
+  .md-body > .md-ul:last-child,
+  .md-body > .md-ol:last-child,
+  .md-body > .md-h:last-child { margin-bottom: 0; }
+  .md-body .md-h {
+    font-weight: 700; font-size: 14.5px; margin: 10px 0 4px;
+    color: var(--text); letter-spacing: -0.01em;
+  }
+  .md-body > .md-h:first-child { margin-top: 0; }
+  .md-body .md-ul, .md-body .md-ol { margin: 4px 0 8px; padding-left: 20px; }
+  .md-body .md-ul { list-style: disc; }
+  .md-body .md-ol { list-style: decimal; }
+  .md-body .md-ul li, .md-body .md-ol li { margin: 0 0 3px; }
+  .md-body .md-code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 0.92em; background: var(--elev-1);
+    padding: 1px 5px; border-radius: 4px; border: 1px solid var(--border);
+  }
+  .md-body .md-link { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
+  .md-body strong { font-weight: 700; }
+  .md-body em { font-style: italic; }
+  .msg-bubble .md-body { font-size: 14px; }   /* chat bubble slightly tighter than QnA box */
 
   /* ===== [Phase1] Reasoning path ===== */
   details.reasoning-path {
@@ -815,18 +841,19 @@
   .msg { margin-bottom: 14px; display: flex; gap: 9px; align-items: flex-start; }
   .msg.user { flex-direction: row-reverse; }
   .msg-bubble {
-    max-width: 78%;
-    padding: 10px 14px;
+    max-width: 86%;
+    padding: 9px 13px;
     border-radius: var(--radius-md);
-    line-height: 1.6;
-    white-space: pre-wrap;
+    line-height: 1.55;
     box-shadow: var(--shadow-sm);
     word-wrap: break-word;
+    overflow-wrap: anywhere;
   }
   .msg.user .msg-bubble {
     background: var(--accent);
     color: #fff;
     border-bottom-right-radius: 4px;
+    white-space: pre-wrap;   /* 고객이 Shift+Enter로 입력한 줄바꿈 유지 (사용자 말풍선만) */
   }
   .msg.bot .msg-bubble {
     background: var(--elev-2);
@@ -2581,6 +2608,76 @@ function escapeHtml(s) {
     "<":"&lt;",">":"&gt;","&":"&amp;",'"':"&quot;","'":"&#39;"
   }[c]));
 }
+
+// ===== Inline markdown -> HTML renderer for AI answers =====
+// XSS-safe: escapes ALL input first, then applies a small markdown subset to the
+// already-escaped (safe) string, so model output can never inject live HTML.
+// Owns its own formatting -> the .md-body container MUST NOT use white-space:pre-wrap.
+function renderAnswerMarkdown(text) {
+  let src = String(text == null ? "" : text);
+  if (!src.trim()) return '<div class="md-body"></div>';
+
+  // Normalize newlines, strip trailing spaces, collapse 3+ blank lines to one blank line.
+  src = src.replace(/\r\n?/g, "\n")
+           .replace(/[ \t]+$/gm, "")
+           .replace(/\n{3,}/g, "\n\n");
+
+  // Inline level: escape FIRST (XSS gate), then bold/italic/code/link on the safe string.
+  const inline = (raw) => {
+    let s = escapeHtml(raw);                                   // < > & " '  -> entities
+    // `code` first, so * or [ ] inside a code span stay literal
+    s = s.replace(/`([^`]+)`/g, (_, c) => `<code class="md-code">${c}</code>`);
+    // [text](url) — url allowlisted to http/https/mailto, quotes re-escaped
+    s = s.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (m, label, url) => {
+      if (!/^(https?:|mailto:)/i.test(url)) return label;     // drop unsafe scheme, keep label
+      const safeUrl = url.replace(/"/g, "&quot;");
+      return `<a class="md-link" href="${safeUrl}" target="_blank" rel="noopener noreferrer">${label}</a>`;
+    });
+    s = s.replace(/\*\*([^*]+?)\*\*/g, "<strong>$1</strong>"); // **bold**
+    s = s.replace(/(^|[^*])\*([^*\n]+?)\*(?!\*)/g, "$1<em>$2</em>"); // *italic* (not **)
+    return s;
+  };
+
+  const lines = src.split("\n");
+  const out = [];
+  let listType = null;        // "ul" | "ol" | null
+  let para = [];              // buffered consecutive text lines -> one <p>
+
+  const flushPara = () => {
+    if (!para.length) return;
+    out.push(`<p class="md-p">${para.map(inline).join("<br>")}</p>`);
+    para = [];
+  };
+  const closeList = () => {
+    if (listType) { out.push(`</${listType}>`); listType = null; }
+  };
+
+  for (let i = 0; i < lines.length; i++) {
+    const trimmed = lines[i].trim();   // trims leading markdown indentation -> kills "too much indent"
+    if (trimmed === "") { flushPara(); closeList(); continue; }
+
+    let m;
+    if ((m = /^(#{1,6})\s+(.*)$/.exec(trimmed))) {            // # headings -> compact bold line
+      flushPara(); closeList();
+      out.push(`<div class="md-h">${inline(m[2])}</div>`);
+    } else if ((m = /^[-*+•]\s+(.*)$/.exec(trimmed))) {        // -, *, +, • -> <ul>
+      flushPara();
+      if (listType !== "ul") { closeList(); out.push('<ul class="md-ul">'); listType = "ul"; }
+      out.push(`<li>${inline(m[1])}</li>`);
+    } else if ((m = /^\d+[.)]\s+(.*)$/.exec(trimmed))) {       // 1. / 1) -> <ol>
+      flushPara();
+      if (listType !== "ol") { closeList(); out.push('<ol class="md-ol">'); listType = "ol"; }
+      out.push(`<li>${inline(m[1])}</li>`);
+    } else {                                                  // plain text -> paragraph buffer
+      closeList();
+      para.push(trimmed);
+    }
+  }
+  flushPara(); closeList();
+
+  return `<div class="md-body">${out.join("")}</div>`;
+}
+
 function fmtRelTime(ts) {
   if (!ts) return "";
   const now = Date.now();
@@ -4191,7 +4288,7 @@ function renderBotMessage(parsed, grounding) {
     <div class="msg-bubble" style="flex:1">
       <div style="margin-bottom:6px">${typeBadge}${confBadge}</div>
       ${switchBanner}${handoffBanner}
-      <div>${escapeHtml(parsed?.answer || "(응답 없음)").replace(/\n/g, "<br>")}</div>
+      ${renderAnswerMarkdown(parsed?.answer || "(응답 없음)")}
       ${followHtml}
       ${parsed?.alternative_products?.length ? `<div class="small" style="margin-top:8px"><b>대체 제품:</b> ${parsed.alternative_products.map(a => `${escapeHtml(a.model_no)}(${escapeHtml((a.why||"").slice(0,40))})`).join(", ")}</div>` : ""}
       <div class="msg-meta">근거 ${citeCount} · 웹출처 ${webCount}
@@ -4225,7 +4322,7 @@ function renderRestoredBotMessage(text) {
   el.innerHTML = `
     <div class="msg-role">AI</div>
     <div class="msg-bubble" style="flex:1">
-      <div>${escapeHtml(text||"").replace(/\n/g, "<br>")}</div>
+      ${renderAnswerMarkdown(text||"")}
     </div>`;
   $("chat-messages").appendChild(el);
   $("chat-messages").scrollTop = $("chat-messages").scrollHeight;
@@ -4383,7 +4480,7 @@ function renderReasoningPath(intent, candidates, selectedStem) {
 
   const intentAvailable = intent && (intent.wants?.length || intent.avoid?.length);
   return `
-    <details class="reasoning-path" open>
+    <details class="reasoning-path">
       <summary><span class="rp-title">🧭 추론 경로</span> <span class="rp-sub">고객 질문 → 의도 태그 → 후보 매칭</span></summary>
       <div class="rp-body">
         ${intentAvailable ? `
@@ -4449,7 +4546,7 @@ function renderQnaAnswer(question, parsed, grounding, attachedImages, intent, ca
       <div class="small" style="margin-bottom:6px"><b>고객 문의</b></div>
       <div style="margin-bottom:14px; padding: 10px 12px; background: var(--elev-1); border-radius: var(--radius-sm); border-left: 3px solid var(--accent)">${escapeHtml(question||"").replace(/\n/g,"<br>") || "<i>(이미지만 첨부)</i>"}</div>
       ${imgsHtml}
-      <div>${escapeHtml(parsed?.answer || "(응답 파싱 실패)").replace(/\n/g,"<br>")}</div>
+      ${renderAnswerMarkdown(parsed?.answer || "(응답 파싱 실패)")}
       ${altHtml ? `<hr><b>대체 제품 추천</b><ul>${altHtml}</ul>` : ""}
       ${renderReasoningPath(intent, candidates, QNA.productStem)}
       <div class="citations">
@@ -4457,10 +4554,10 @@ function renderQnaAnswer(question, parsed, grounding, attachedImages, intent, ca
         <ul>${citationsHtml || "<li>근거 없음</li>"}</ul>
         ${webHtml ? `<b>웹 검색 출처</b><ul>${webHtml}</ul>` : ""}
       </div>
-      <details style="margin-top:10px">
+      ${localStorage.getItem("aicc_debug") === "1" ? `<details style="margin-top:10px">
         <summary>원시 응답 보기 (디버그)</summary>
         <pre>${escapeHtml(JSON.stringify(parsed, null, 2))}</pre>
-      </details>
+      </details>` : ""}
       <!-- [Phase3] AI 강화 피드백 -->
       <div class="qa-actions">
         <button class="reinforce-btn" id="btn-open-fb">🔬 이 상담으로 AI 강화</button>
