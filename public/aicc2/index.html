@@ -164,12 +164,18 @@
   #view-qna {
     grid-template-columns: 300px 1fr;
   }
+  /* 고객문의 3-pane: 문의목록 | 상세 | 답변 */
+  #view-cs {
+    grid-template-columns: 300px minmax(0, 1fr) 380px;
+  }
   @media (max-width: 1100px) {
     #view-chat { grid-template-columns: 260px 1fr 300px; }
+    #view-cs { grid-template-columns: 280px minmax(0, 1fr) 340px; }
   }
   @media (max-width: 900px) {
     #view-chat { grid-template-columns: 1fr; }
     #view-qna  { grid-template-columns: 1fr; }
+    #view-cs   { grid-template-columns: 1fr; }
     .side-sessions, .side-product, .side-qnahist { display: none; }
   }
 
@@ -680,6 +686,45 @@
   .modal p { color: var(--text-2); font-size: 13px; line-height: 1.6; }
   .modal .apikey-input { font-family: "SF Mono", ui-monospace, Menlo, Consolas, monospace; }
   .modal-actions { display: flex; gap: 8px; justify-content: flex-end; margin-top: 16px; }
+  #cfg-modal { align-items: flex-start; padding: 16px; overflow-y: auto; }
+  #cfg-modal .modal {
+    max-height: calc(100vh - 32px);
+    min-height: 360px;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    resize: vertical;
+  }
+  #cfg-modal .modal > h2 { flex: 0 0 auto; cursor: grab; user-select: none; }
+  #cfg-modal .modal > h2:active { cursor: grabbing; }
+  #cfg-gate,
+  #cfg-form {
+    min-height: 0;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    padding-right: 4px;
+  }
+  .cfg-auth-log-list {
+    display: grid;
+    gap: 7px;
+    max-height: 180px;
+    overflow-y: auto;
+    padding-right: 4px;
+  }
+  .cfg-auth-log-item {
+    display: grid;
+    grid-template-columns: 116px 88px minmax(0, 1fr);
+    gap: 8px;
+    align-items: center;
+    padding: 8px 10px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    background: var(--surface-2);
+    font-size: 12px;
+  }
+  .cfg-auth-log-item .event { font-weight: 700; color: var(--text); }
+  .cfg-auth-log-item .meta { color: var(--muted); overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+  .cfg-auth-log-empty { color: var(--muted); font-size: 12px; padding: 8px 0; }
 
   .small { font-size: 11.5px; color: var(--muted); line-height: 1.55; }
   hr { border: none; border-top: 1px solid var(--border); margin: 14px 0; }
@@ -994,7 +1039,791 @@
     color: var(--muted);
     margin: 0;
   }
-</style>
+
+  /* === Mode Toggle (성능모드 / 빠른모드) === */
+  .mode-toggle {
+    display: inline-flex;
+    flex-wrap: nowrap;
+    flex-shrink: 0;
+    border: 1px solid var(--border, #2a2f3a);
+    border-radius: 6px;
+    overflow: hidden;
+    background: var(--surface, #1a1d24);
+    white-space: nowrap;
+  }
+  .mode-toggle .mode-opt {
+    /* Override global button { width:100%; ... } that breaks segmented layout */
+    width: auto !important;
+    background: transparent !important;
+    color: var(--muted, #8a91a0) !important;
+    border: none !important;
+    padding: 6px 12px !important;
+    font-size: 12px !important;
+    cursor: pointer;
+    font-weight: 600;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    transition: background .15s, color .15s;
+    white-space: nowrap;
+    line-height: 1.2;
+    flex-shrink: 0;
+  }
+  .mode-toggle .mode-opt:hover:not(.active) {
+    background: rgba(255,255,255,0.05);
+    color: var(--text, #e6e8ee);
+  }
+  .mode-toggle .mode-opt.active {
+    background: var(--accent, #4a8eff) !important;
+    color: #fff !important;
+  }
+  .mode-toggle .mode-opt:hover:not(.active):not(:disabled) {
+    background: rgba(0,0,0,0.04) !important;
+    color: var(--text, #1a1d24) !important;
+    box-shadow: none !important;
+  }
+  .mode-toggle .mode-opt + .mode-opt {
+    border-left: 1px solid var(--border, #2a2f3a);
+  }
+  /* Toggle wrapper above input area */
+  .mode-toggle-row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 6px 0 8px;
+    font-size: 12px;
+    color: var(--muted, #8a91a0);
+  }
+  .mode-toggle-row .mode-hint {
+    flex-shrink: 1;
+    min-width: 0;
+  }
+  .mode-toggle-row .mode-toggle .mode-opt {
+    padding: 5px 10px;
+    font-size: 11px;
+  }
+  .mode-toggle-row .mode-hint {
+    font-size: 11px;
+    opacity: 0.75;
+  }
+  /* Sidebar mode badge */
+  .si-mode-badge, .hi-mode-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 10px;
+    font-weight: 700;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid transparent;
+    transition: filter .15s;
+  }
+  .si-mode-badge:hover, .hi-mode-badge:hover { filter: brightness(1.2); }
+  .si-mode-badge.mode-perf, .hi-mode-badge.mode-perf {
+    background: rgba(74, 142, 255, 0.15);
+    color: #4a8eff;
+    border-color: rgba(74, 142, 255, 0.35);
+  }
+  .si-mode-badge.mode-fast, .hi-mode-badge.mode-fast {
+    background: rgba(255, 165, 0, 0.15);
+    color: #ffa500;
+    border-color: rgba(255, 165, 0, 0.35);
+  }
+
+  
+  /* === 스마트스토어 Q&A 자동화 === */
+  .ss-fetch-row { display:flex; align-items:center; gap:8px; margin-bottom:10px; flex-wrap:wrap; }
+  .ss-fetch-btn {
+    background: linear-gradient(135deg, #03c75a, #00b04f);
+    color: #fff !important;
+    border: none;
+    padding: 8px 14px;
+    border-radius: var(--radius-sm);
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 13px;
+    width: auto !important;
+    box-shadow: 0 1px 3px rgba(3, 199, 90, 0.25);
+  }
+  .ss-fetch-btn:hover:not(:disabled) {
+    background: linear-gradient(135deg, #00b04f, #009a44);
+  }
+  .ss-fetch-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+  .ss-status { font-size: 12px; color: var(--muted); }
+
+  /* Modal: 스마트스토어 Q&A 목록 */
+  #ss-list-modal .modal { max-width: 720px; max-height: 80vh; display: flex; flex-direction: column; }
+  #ss-list-modal .ss-list-header { display:flex; gap:8px; margin-bottom: 12px; flex-wrap:wrap; align-items:center; }
+  #ss-list-modal .ss-list-body { overflow-y: auto; flex: 1 1 auto; min-height: 200px; }
+  .ss-card {
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 12px 14px;
+    margin-bottom: 10px;
+    background: var(--surface, #fff);
+    transition: border-color .15s, box-shadow .15s;
+  }
+  .ss-card:hover { border-color: var(--accent); box-shadow: 0 2px 6px rgba(0,113,227,.15); }
+  .ss-card-top { display:flex; justify-content: space-between; align-items: flex-start; gap:8px; }
+  .ss-card-qid { font-family: "SF Mono", ui-monospace, Menlo, Consolas, monospace; font-size:11px; color: var(--muted); }
+  .ss-card-date { font-size: 11px; color: var(--muted); }
+  .ss-card-product { font-size: 12px; font-weight: 600; margin: 4px 0; }
+  .ss-card-product .ss-match-badge {
+    display: inline-block; padding: 1px 6px; border-radius: 3px; font-size: 10px;
+    margin-left: 6px;
+  }
+  .ss-match-badge.matched { background: rgba(3,199,90,.15); color: #00a544; border: 1px solid rgba(3,199,90,.4); }
+  .ss-match-badge.unmatched { background: rgba(255,165,0,.15); color: #d68a00; border: 1px solid rgba(255,165,0,.4); }
+  .ss-card-question {
+    font-size: 13px;
+    line-height: 1.5;
+    margin: 8px 0;
+    padding: 8px 10px;
+    background: var(--elev-1);
+    border-left: 3px solid var(--accent);
+    border-radius: 4px;
+    white-space: pre-wrap;
+    max-height: 100px;
+    overflow-y: auto;
+  }
+  .ss-card-actions { display:flex; gap: 8px; margin-top: 8px; }
+  .ss-card-actions button {
+    width: auto !important;
+    padding: 6px 12px;
+    font-size: 12px;
+  }
+  .ss-card.answered { opacity: 0.55; background: var(--elev-1); }
+  .ss-card.answered::before {
+    content: "✓ 답변완료";
+    display: inline-block;
+    background: rgba(3,199,90,.15);
+    color: #00a544;
+    padding: 1px 8px;
+    border-radius: 3px;
+    font-size: 10px;
+    font-weight: 700;
+    margin-bottom: 6px;
+  }
+  /* Settings - SmartStore 자격증명 섹션 */
+  .ss-creds-section {
+    border-top: 1px solid var(--border);
+    margin-top: 14px;
+    padding-top: 14px;
+  }
+  .ss-creds-section h3 { font-size: 14px; margin: 0 0 10px; color: var(--text); display:flex; align-items:center; gap:6px; }
+  .ss-creds-test-result { margin-top: 8px; font-size: 12px; min-height: 16px; }
+  .ss-creds-test-result.ok { color: #00a544; }
+  .ss-creds-test-result.err { color: var(--err); }
+  /* Register button after AI answer */
+  .ss-register-btn {
+    background: #03c75a !important;
+    color: #fff !important;
+    border: none !important;
+    padding: 8px 16px !important;
+    width: auto !important;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: var(--radius-sm);
+    margin-left: 6px;
+  }
+  .ss-register-btn:hover:not(:disabled) { background: #00b04f !important; }
+  .ss-register-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+  
+  /* 자동 폴링 사이드바 */
+  .ss-pending-section {
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    margin: 0 0 12px;
+    background: linear-gradient(180deg, rgba(3,199,90,.06), transparent 60%);
+    overflow: hidden;
+  }
+  .ss-pending-header {
+    display:flex; align-items:center; gap:8px;
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+    background: rgba(3,199,90,.05);
+  }
+  .ss-pending-title { font-size: 13px; font-weight: 700; color: var(--text); flex: 0 0 auto; }
+  .ss-pending-count-pill {
+    background: #03c75a; color: #fff;
+    padding: 1px 8px; border-radius: 10px;
+    font-size: 11px; font-weight: 700;
+    min-width: 20px; text-align: center;
+  }
+  .ss-pending-count-pill.zero { background: var(--muted); }
+  .ss-pending-refresh {
+    margin-left: auto; width: auto !important;
+    padding: 2px 6px !important; font-size: 12px;
+    background: transparent !important; color: var(--text) !important;
+    border: 1px solid var(--border) !important; box-shadow: none !important;
+  }
+  .ss-pending-refresh:hover:not(:disabled) { background: var(--elev-1) !important; }
+  .ss-pending-refresh:disabled { opacity: .5; cursor: progress; }
+  .ss-pending-meta {
+    padding: 4px 12px; font-size: 11px; color: var(--muted);
+    border-bottom: 1px solid var(--border);
+  }
+  .ss-pending-list { max-height: 260px; overflow-y: auto; }
+  .ss-pending-item {
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    transition: background .12s;
+    position: relative;
+  }
+  .ss-pending-item:last-child { border-bottom: none; }
+  .ss-pending-item:hover { background: var(--elev-1); }
+  .ss-pending-item.is-new::before {
+    content: "NEW"; position: absolute;
+    top: 6px; right: 8px;
+    background: #ff3b30; color: #fff;
+    font-size: 9px; font-weight: 800;
+    padding: 1px 5px; border-radius: 3px;
+    letter-spacing: .5px;
+  }
+  .ss-pending-item .spi-product {
+    font-size: 11px; font-weight: 600; color: var(--text);
+    margin-bottom: 4px;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .ss-pending-item .spi-q {
+    font-size: 11px; color: var(--text-2);
+    line-height: 1.4;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .ss-pending-item .spi-meta { font-size: 10px; color: var(--muted); margin-top: 4px; }
+  .ss-pending-empty {
+    padding: 20px 12px; text-align: center; color: var(--muted); font-size: 12px;
+  }
+  /* Tab badge */
+  .tab-badge {
+    display: inline-block;
+    background: #ff3b30; color: #fff;
+    font-size: 10px; font-weight: 800;
+    padding: 1px 6px;
+    border-radius: 10px;
+    margin-left: 6px;
+    min-width: 16px; text-align: center;
+    vertical-align: middle;
+    line-height: 1.4;
+  }
+
+  
+  /* === 네이버 직접 가져오기 사이드바 === */
+  .naver-pane-header {
+    display:flex; align-items:center; gap:8px; padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface, #fff);
+  }
+  .naver-pane-header h2 { font-size: 14px; margin: 0; flex: 0 0 auto; }
+  .naver-count-pill {
+    background: #03c75a; color: #fff; padding: 1px 8px;
+    border-radius: 10px; font-size: 11px; font-weight: 700;
+    min-width: 22px; text-align: center;
+  }
+  .naver-count-pill.zero { background: var(--muted); }
+  .naver-refresh-btn {
+    margin-left:auto; width:auto !important;
+    padding: 3px 10px !important; font-size: 12px;
+    background: transparent !important; color: var(--text) !important;
+    border: 1px solid var(--border) !important; box-shadow: none !important;
+    border-radius: 4px !important;
+  }
+  .naver-refresh-btn:hover:not(:disabled) { background: var(--elev-1) !important; }
+  .naver-refresh-btn:disabled { opacity: .5; cursor: progress; }
+  .naver-filter-row {
+    display: flex; gap: 6px; padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+  }
+  .naver-filter {
+    flex: 1; padding: 5px 8px; font-size: 12px;
+    border: 1px solid var(--border); border-radius: 4px;
+    background: var(--surface, #fff); color: var(--text);
+  }
+  .naver-search-wrap { padding: 6px 12px; border-bottom: 1px solid var(--border); }
+  .naver-search-wrap input {
+    width: 100%; padding: 6px 10px; font-size: 12px;
+    border: 1px solid var(--border); border-radius: 4px;
+  }
+  .naver-meta-row {
+    padding: 5px 12px; font-size: 11px; color: var(--muted);
+    border-bottom: 1px solid var(--border);
+  }
+  .naver-list-body { max-height: calc(100vh - 320px); overflow-y: auto; padding: 0; }
+  .naver-list-body .empty-hint { padding: 20px 12px; text-align: center; }
+
+  /* 카드 (사이드바 항목) */
+  .nv-card {
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer; transition: background .12s;
+    position: relative;
+  }
+  .nv-card:hover { background: var(--elev-1); }
+  .nv-card.active { background: rgba(0,113,227,.08); border-left: 3px solid var(--accent); padding-left: 9px; }
+  .nv-card.is-new::before {
+    content: "NEW"; position: absolute;
+    top: 8px; right: 10px;
+    background: #ff3b30; color: #fff;
+    font-size: 9px; font-weight: 800;
+    padding: 1px 5px; border-radius: 3px;
+    letter-spacing: .5px;
+  }
+  .nv-card-row1 { display: flex; align-items: center; gap: 6px; margin-bottom: 4px; flex-wrap: wrap; }
+  .nv-card-product {
+    font-size: 12px; font-weight: 600; color: var(--text);
+    margin: 4px 0; line-height: 1.3;
+    overflow: hidden; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical;
+  }
+  .nv-card-q {
+    font-size: 11px; color: var(--text-2); line-height: 1.4;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .nv-card-meta { font-size: 10px; color: var(--muted); margin-top: 4px; }
+  .status-badge {
+    display: inline-block; padding: 1px 6px; border-radius: 3px;
+    font-size: 10px; font-weight: 700;
+  }
+  .status-badge.answered { background: rgba(3,199,90,.15); color: #00a544; border: 1px solid rgba(3,199,90,.4); }
+  .status-badge.unanswered { background: rgba(255,165,0,.15); color: #d68a00; border: 1px solid rgba(255,165,0,.4); }
+
+  /* 문의유형 배지 (CS) */
+  .cat-badge {
+    display: inline-block; padding: 2px 8px; border-radius: 3px;
+    font-size: 10px; font-weight: 700; border: 1px solid;
+  }
+  .cat-반품   { background: rgba(255,140,0,.12); color: #d68a00; border-color: rgba(255,140,0,.4); }
+  .cat-교환   { background: rgba(74,142,255,.12); color: #4a8eff; border-color: rgba(74,142,255,.4); }
+  .cat-환불   { background: rgba(255,59,48,.12); color: #d92525; border-color: rgba(255,59,48,.4); }
+  .cat-배송   { background: rgba(3,199,90,.12); color: #00a544; border-color: rgba(3,199,90,.4); }
+  .cat-상품   { background: rgba(138,141,160,.12); color: #6b6e7d; border-color: rgba(138,141,160,.4); }
+  .cat-기타   { background: rgba(166,124,255,.12); color: #6b3eb5; border-color: rgba(166,124,255,.4); }
+  .cs-status-badge {
+    display: inline-block; padding: 2px 8px; border-radius: 3px;
+    font-size: 10px; font-weight: 700;
+  }
+  .cs-status-badge.answered { background: rgba(3,199,90,.15); color: #00a544; }
+  .cs-status-badge.unanswered { background: rgba(255,165,0,.15); color: #d68a00; }
+
+  /* CS 우측 패널 */
+  .cs-detail-pane {
+    min-width: 0;
+    overflow-y: auto;
+    padding: 18px 20px 28px;
+    background: var(--surface-2);
+  }
+  .cs-answer-pane {
+    min-width: 0;
+    border-left: 1px solid var(--border);
+    background: var(--surface);
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 18px 18px 24px;
+    overflow-y: auto;
+  }
+  .cs-answer-pane h3 { margin: 0; font-size: 14px; }
+  .cs-answer-pane .field { margin-bottom: 0; }
+  .cs-answer-pane textarea {
+    min-height: 260px;
+    resize: vertical;
+  }
+  .cs-answer-actions {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  #cs-selected-info {
+    background: var(--surface, #fff);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 14px 16px; margin-bottom: 0;
+  }
+  .cs-info-row { display:flex; gap:8px; align-items:center; margin-bottom: 8px; flex-wrap:wrap; }
+  .cs-info-date { font-size: 11px; color: var(--muted); margin-left:auto; }
+  .cs-info-title { margin: 6px 0 10px; font-size: 16px; }
+  .cs-info-meta {
+    background: var(--elev-1); border-radius: 4px; padding: 8px 10px;
+    font-size: 12px; line-height: 1.7; margin-bottom: 10px;
+  }
+  .cs-info-meta b { color: var(--text-2); margin-right: 4px; }
+  .cs-info-content-label { font-size: 12px; font-weight: 600; margin-bottom: 4px; color: var(--text-2); }
+  .cs-info-content {
+    background: var(--elev-1); border-left: 3px solid var(--accent);
+    padding: 10px 12px; border-radius: 4px;
+    white-space: pre-wrap; font-size: 13px; line-height: 1.5;
+    max-height: 180px; overflow-y: auto;
+  }
+  /* paging */
+  .naver-paging {
+    display: flex; align-items: center; justify-content: center; gap: 12px;
+    padding: 8px 12px; border-top: 1px solid var(--border);
+    background: var(--surface, #fff); font-size: 12px;
+  }
+  .naver-page-btn {
+    width: auto !important; padding: 4px 10px !important;
+    background: transparent !important; color: var(--text) !important;
+    border: 1px solid var(--border) !important; box-shadow: none !important;
+    border-radius: 4px !important; font-size: 12px;
+  }
+  .naver-page-btn:disabled { opacity: .4; cursor: not-allowed; }
+  .naver-page-btn:hover:not(:disabled) { background: var(--elev-1) !important; }
+
+  
+  /* === 답변완료 컴팩트 편집 패널 === */
+  .nv-edit-panel {
+    background: var(--surface, #fff);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 14px 16px;
+    margin-top: 12px;
+  }
+  .nv-edit-header {
+    display: flex; align-items: center; gap: 8px;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--border);
+  }
+  .nv-edit-header h3 { margin: 0; font-size: 15px; flex: 0 0 auto; }
+  .nv-edit-q-meta { font-size: 11px; color: var(--muted); flex: 1; }
+  .nv-edit-action { margin-left: auto; }
+  .nv-edit-action button {
+    background: #03c75a !important; color: #fff !important;
+    border: none !important; padding: 8px 16px !important;
+    width: auto !important; font-size: 13px; font-weight: 600;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(3,199,90,.25);
+  }
+  .nv-edit-action button:hover:not(:disabled) { background: #00b04f !important; }
+  .nv-edit-action button:disabled { opacity: .5; cursor: not-allowed; }
+  .nv-edit-question {
+    background: var(--elev-1); border-left: 3px solid var(--accent);
+    padding: 10px 12px; border-radius: 4px;
+    font-size: 13px; line-height: 1.5; white-space: pre-wrap;
+    margin-bottom: 12px;
+  }
+  .nv-edit-label {
+    font-size: 12px; font-weight: 600; color: var(--text-2);
+    margin-bottom: 4px;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .nv-edit-label .nv-status-pill {
+    background: rgba(3,199,90,.15); color: #00a544;
+    padding: 1px 8px; border-radius: 3px; font-size: 10px; font-weight: 700;
+  }
+  .nv-edit-textarea {
+    width: 100%; min-height: 200px;
+    padding: 10px 12px; font-size: 13px; line-height: 1.6;
+    border: 1px solid var(--border); border-radius: 4px;
+    font-family: inherit;
+    resize: vertical;
+  }
+  .nv-edit-footer {
+    display: flex; gap: 8px; align-items: center; margin-top: 10px;
+    flex-wrap: wrap;
+  }
+  .nv-edit-footer .nv-secondary-btn {
+    background: transparent !important; color: var(--text) !important;
+    border: 1px solid var(--border) !important;
+    padding: 6px 12px !important; width: auto !important;
+    font-size: 12px; box-shadow: none !important;
+  }
+  .nv-edit-footer .nv-secondary-btn:hover:not(:disabled) {
+    background: var(--elev-1) !important;
+  }
+  .nv-edit-status {
+    flex: 1; text-align: right; font-size: 12px; min-height: 14px;
+  }
+
+  
+  /* === AI 톡톡 BETA 탭 === */
+  .beta-badge {
+    display: inline-block;
+    background: linear-gradient(135deg, #ff6b35, #ff3b30);
+    color: #fff !important;
+    font-size: 9px;
+    font-weight: 800;
+    padding: 1px 5px;
+    border-radius: 3px;
+    margin-left: 5px;
+    vertical-align: middle;
+    letter-spacing: .5px;
+  }
+  #view-talk-ai {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    gap: 0;
+    height: calc(100vh - 60px);
+  }
+  .side-talkai { background: var(--surface, #fff); border-right: 1px solid var(--border); display: flex; flex-direction: column; overflow: hidden; }
+
+  .talkai-status-bar {
+    display: flex; align-items: center; gap: 8px;
+    padding: 10px 12px;
+    background: var(--elev-1);
+    border-bottom: 1px solid var(--border);
+  }
+  .talkai-status { font-size: 12px; font-weight: 600; flex: 1; }
+  .talkai-status.connected { color: #00a544; }
+  .talkai-status.sim { color: #d68a00; }
+  .talkai-status.disconnected { color: var(--err); }
+  .talkai-mode-btn {
+    width: auto !important;
+    padding: 4px 10px !important;
+    font-size: 11px !important;
+    background: linear-gradient(135deg, #d68a00, #ff8c00) !important;
+    color: #fff !important;
+    border: none !important;
+    border-radius: 4px;
+    box-shadow: none !important;
+  }
+  .talkai-mode-btn:hover { filter: brightness(1.1); }
+  .talkai-controls {
+    display: flex; gap: 6px;
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+  }
+  .talkai-sim-add {
+    flex: 1;
+    background: var(--accent) !important;
+    color: #fff !important;
+    border: none !important;
+    padding: 6px 10px !important;
+    width: auto !important;
+    font-size: 12px;
+    border-radius: 4px;
+    box-shadow: none !important;
+  }
+  .talkai-cfg {
+    width: auto !important;
+    padding: 6px 10px !important;
+    background: transparent !important;
+    color: var(--text) !important;
+    border: 1px solid var(--border) !important;
+    box-shadow: none !important;
+    border-radius: 4px;
+  }
+  .talkai-cfg:hover { background: var(--elev-1) !important; }
+
+  /* 스레드 카드 */
+  .ta-thread-card {
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    transition: background .12s;
+    position: relative;
+  }
+  .ta-thread-card:hover { background: var(--elev-1); }
+  .ta-thread-card.active { background: rgba(74,142,255,.08); border-left: 3px solid var(--accent); padding-left: 9px; }
+  .ta-thread-card .ta-th-row1 { display: flex; align-items: center; gap: 6px; margin-bottom: 4px; }
+  .ta-thread-card .ta-th-name { font-size: 13px; font-weight: 600; flex: 1; }
+  .ta-thread-card .ta-th-time { font-size: 11px; color: var(--muted); }
+  .ta-thread-card .ta-th-last {
+    font-size: 11px; color: var(--text-2); line-height: 1.4;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .ta-thread-card .ta-unread {
+    position: absolute; top: 10px; right: 10px;
+    background: #ff3b30; color: #fff;
+    font-size: 9px; font-weight: 800;
+    padding: 1px 5px; border-radius: 8px;
+    min-width: 18px; text-align: center;
+  }
+
+  /* 메인 채팅 영역 */
+  .talkai-main { background: #fafafa; display: flex; flex-direction: column; overflow: hidden; }
+  .talkai-empty { padding: 20px; }
+  .talkai-chat { display: flex; flex-direction: column; height: 100%; }
+  .talkai-chat-header {
+    display: flex; align-items: center;
+    padding: 12px 18px;
+    background: var(--surface, #fff);
+    border-bottom: 1px solid var(--border);
+  }
+  .talkai-customer { display: flex; align-items: center; gap: 10px; flex: 1; }
+  .talkai-avatar {
+    width: 36px; height: 36px;
+    background: linear-gradient(135deg, #03c75a, #00b04f);
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 18px; color: #fff;
+  }
+  .talkai-name { font-weight: 700; font-size: 14px; }
+  .talkai-meta { font-size: 11px; color: var(--muted); }
+  .talkai-handover-btn {
+    width: auto !important;
+    padding: 6px 12px !important;
+    font-size: 12px !important;
+    background: linear-gradient(135deg, #ff8c00, #ff6b35) !important;
+    color: #fff !important;
+    border: none !important;
+    border-radius: 4px;
+    box-shadow: none !important;
+  }
+  .talkai-handover-btn:hover { filter: brightness(1.1); }
+
+  /* 메시지 영역 */
+  .talkai-messages {
+    flex: 1; overflow-y: auto; padding: 16px 18px;
+    display: flex; flex-direction: column; gap: 10px;
+    background: #f0f2f5;
+  }
+  .ta-msg {
+    display: flex; gap: 8px; max-width: 70%;
+  }
+  .ta-msg.from-customer { align-self: flex-start; }
+  .ta-msg.from-bot { align-self: flex-end; flex-direction: row-reverse; }
+  .ta-msg-avatar {
+    width: 28px; height: 28px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 14px; flex-shrink: 0;
+  }
+  .ta-msg.from-customer .ta-msg-avatar { background: #ddd; }
+  .ta-msg.from-bot .ta-msg-avatar { background: linear-gradient(135deg, #4a8eff, #0071e3); color: #fff; }
+  .ta-msg-bubble {
+    padding: 9px 12px; border-radius: 12px;
+    font-size: 13px; line-height: 1.5;
+    white-space: pre-wrap; word-break: break-word;
+  }
+  .ta-msg.from-customer .ta-msg-bubble {
+    background: #fff; color: var(--text);
+    border-bottom-left-radius: 3px;
+    border: 1px solid var(--border);
+  }
+  .ta-msg.from-bot .ta-msg-bubble {
+    background: linear-gradient(135deg, #FEE500, #FDD835); color: #3c1e1e;
+    border-bottom-right-radius: 3px;
+  }
+  .ta-msg-time { font-size: 10px; color: var(--muted); margin-top: 2px; align-self: flex-end; }
+  .ta-msg.from-bot .ta-msg-time { align-self: flex-start; }
+
+  /* 시스템 메시지 */
+  .ta-msg-system {
+    align-self: center;
+    font-size: 11px; color: var(--muted);
+    background: rgba(0,0,0,.05);
+    padding: 4px 12px; border-radius: 12px;
+    margin: 8px 0;
+  }
+
+  /* 입력 영역 */
+  .talkai-input-zone {
+    background: var(--surface, #fff);
+    border-top: 1px solid var(--border);
+    padding: 10px 14px;
+  }
+  .talkai-ai-row {
+    display: flex; align-items: center; gap: 8px;
+    margin-bottom: 8px;
+  }
+  .talkai-ai-btn {
+    width: auto !important;
+    padding: 6px 14px !important;
+    font-size: 12px !important;
+    background: linear-gradient(135deg, #4a8eff, #0071e3) !important;
+    color: #fff !important;
+    border: none !important;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,113,227,.25) !important;
+  }
+  .talkai-ai-btn:disabled { opacity: 0.5; }
+  .talkai-ai-hint { font-size: 11px; color: var(--muted); }
+
+  .talkai-input-row { display: flex; gap: 8px; align-items: flex-end; }
+  .talkai-input-row textarea {
+    flex: 1; min-height: 60px; max-height: 150px;
+    padding: 8px 12px;
+    font-size: 13px; line-height: 1.5;
+    border: 1px solid var(--border); border-radius: 8px;
+    font-family: inherit; resize: vertical;
+  }
+  .talkai-send-btn {
+    width: auto !important;
+    padding: 10px 18px !important;
+    background: #03c75a !important; color: #fff !important;
+    border: none !important;
+    border-radius: 6px;
+    font-weight: 600;
+    box-shadow: 0 1px 3px rgba(3,199,90,.25) !important;
+  }
+  .talkai-send-btn:hover:not(:disabled) { background: #00b04f !important; }
+
+  
+  /* === CS 주문 정보 자동 조회 패널 === */
+  .cs-order-section {
+    margin-top: 12px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    overflow: hidden;
+  }
+  .cs-order-section-header {
+    background: var(--elev-1);
+    padding: 8px 12px;
+    font-size: 12px; font-weight: 700;
+    border-bottom: 1px solid var(--border);
+    display: flex; align-items: center; gap: 6px;
+  }
+  .cs-order-section-header.is-loading::after {
+    content: "⏳ 조회 중..."; margin-left: auto;
+    font-weight: normal; font-size: 11px; color: var(--muted);
+  }
+  .cs-order-info-grid {
+    padding: 10px 12px; font-size: 12px; line-height: 1.7;
+    display: grid; grid-template-columns: 100px 1fr; gap: 4px 12px;
+  }
+  .cs-order-info-grid b { color: var(--text-2); font-weight: 600; }
+  .cs-return-block {
+    background: rgba(255, 140, 0, 0.05);
+    border-top: 1px solid rgba(255, 140, 0, 0.2);
+    padding: 10px 12px; font-size: 12px;
+  }
+  .cs-return-block-title {
+    font-weight: 700; color: #d68a00; margin-bottom: 6px;
+    display: flex; align-items: center; gap: 6px;
+  }
+  .cs-return-block .cs-return-detail {
+    background: #fff; padding: 8px 10px; border-radius: 4px;
+    border-left: 3px solid #ff8c00; margin-top: 6px;
+    white-space: pre-wrap; line-height: 1.5;
+  }
+  .cs-return-images {
+    display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px;
+  }
+  .cs-return-images a {
+    display: block; color: inherit; text-decoration: none;
+    border-radius: 4px; position: relative;
+  }
+  .cs-return-images img {
+    width: 80px; height: 80px; object-fit: cover;
+    border-radius: 4px; border: 1px solid var(--border);
+    cursor: pointer;
+    display: block;
+  }
+  .cs-return-images a::after {
+    content: "다운로드";
+    position: absolute; left: 4px; right: 4px; bottom: 4px;
+    padding: 2px 0; border-radius: 3px;
+    background: rgba(0,0,0,.62); color: #fff;
+    font-size: 10px; text-align: center;
+    opacity: 0; transition: opacity .12s;
+  }
+  .cs-return-images a:hover::after { opacity: 1; }
+  .cs-status-pill {
+    display: inline-block; padding: 1px 7px; border-radius: 3px;
+    font-size: 10px; font-weight: 700; margin-left: 4px;
+  }
+  .cs-status-pill.delivered { background: rgba(3,199,90,.15); color: #00a544; }
+  .cs-status-pill.return-req { background: rgba(255,140,0,.15); color: #d68a00; }
+  .cs-status-pill.holdback { background: rgba(255,59,48,.15); color: #d92525; }
+  .cs-status-pill.canceled { background: rgba(138,141,160,.15); color: #6b6e7d; }
+
+  </style>
 </head>
 <body>
 
@@ -1003,13 +1832,18 @@
   <span class="sub">고객문의 AI 응대</span>
   <div class="tab-bar">
     <button class="tab-btn active" id="tab-chat" data-tab="chat">💬 톡톡문의</button>
-    <button class="tab-btn" id="tab-qna" data-tab="qna">📝 문의관리</button>
+    <button class="tab-btn" id="tab-qna" data-tab="qna">📝 상품문의<span class="tab-badge" id="tab-qna-badge" style="display:none">0</span></button>
+    <button class="tab-btn" id="tab-cs" data-tab="cs">📞 고객문의<span class="tab-badge" id="tab-cs-badge" style="display:none">0</span></button>
+    <button class="tab-btn" id="tab-godo" data-tab="godo">📨 고도몰문의<span class="tab-badge" id="tab-godo-badge" style="display:none">0</span></button>
+    <button class="tab-btn" id="tab-talk-ai" data-tab="talk-ai">🤖 AI 톡톡<span class="beta-badge">BETA</span><span class="tab-badge" id="tab-talk-ai-badge" style="display:none">0</span></button>
     <button class="tab-btn" id="tab-admin" data-tab="admin">🔬 AI 강화</button>
   </div>
   <div class="spacer"></div>
   <span class="status" id="status">초기화 중...</span>
+  <button class="secondary" id="btn-cfg" title="통합 환경설정 (비밀번호 보호 · 서버 저장)">🔐 통합설정</button>
   <button class="secondary" id="btn-settings" title="상담 멘트 설정">⚙️ 설정</button>
   <button class="secondary" id="btn-apikey">API 키</button>
+  <button class="secondary" id="btn-aicc-logout" title="AICC 접속 로그아웃">로그아웃</button>
 </header>
 
 <!-- ========== 톡톡문의 3-pane view ========== -->
@@ -1030,6 +1864,11 @@
     <div class="pane-body" id="chat-session-list">
       <div class="empty-hint">저장된 상담이 없습니다.<br>＋ 새 상담 으로 시작하세요.</div>
     </div>
+    <div class="naver-paging" id="chat-paging" style="display:none">
+      <button id="chat-prev" class="naver-page-btn">◀</button>
+      <span id="chat-page-info">1/1</span>
+      <button id="chat-next" class="naver-page-btn">▶</button>
+    </div>
   </aside>
 
   <!-- Center: 채팅 영역 -->
@@ -1047,6 +1886,14 @@
       </div>
     </div>
     <div class="chat-input-zone">
+      <div class="mode-toggle-row">
+        <span class="mode-hint">응답 모드</span>
+        <div class="mode-toggle" id="chat-mode-toggle">
+          <button type="button" class="mode-opt" data-mode="perf" data-target="chat">🎯 성능모드</button>
+          <button type="button" class="mode-opt" data-mode="fast" data-target="chat">🚀 빠른모드</button>
+        </div>
+        <span class="mode-hint" id="chat-mode-desc">— 정확도 우선 (검색 + 의도분석)</span>
+      </div>
       <div class="chat-input-row">
         <textarea id="chat-input" placeholder="고객 메시지 입력... (Shift+Enter: 줄바꿈, Enter: 전송)" disabled></textarea>
         <button id="btn-chat-send" disabled>전송</button>
@@ -1091,24 +1938,49 @@
 
   <!-- Left: QnA 이력 -->
   <aside class="pane side-qnahist">
-    <div class="pane-header">
-      <h2>문의 이력</h2>
-      <span class="count-pill" id="qna-hist-count">0</span>
+    <div class="naver-pane-header">
+      <h2>📝 상품문의</h2>
+      <span class="naver-count-pill" id="qna-list-count">0</span>
+      <button class="naver-refresh-btn" id="btn-qna-refresh" title="새로고침">🔄</button>
     </div>
-    <div class="pane-actions">
-      <button id="btn-new-qna">＋ 새 문의</button>
+    <div class="naver-filter-row">
+      <select id="qna-filter-status" class="naver-filter">
+        <option value="" selected>전체</option>
+        <option value="false">미답변만</option>
+        <option value="true">답변완료</option>
+      </select>
+      <select id="qna-filter-days" class="naver-filter">
+        <option value="7">7일</option>
+        <option value="30" selected>30일</option>
+        <option value="90">90일</option>
+        <option value="180">180일</option>
+        <option value="365">1년</option>
+      </select>
     </div>
-    <div class="pane-search-wrap">
-      <input id="qna-hist-search" placeholder="고객명·모델·내용 검색..." autocomplete="off">
+    <div class="naver-search-wrap">
+      <input id="qna-keyword" placeholder="🔍 상품/질문 검색 (현재 페이지 내)" autocomplete="off">
     </div>
-    <div class="pane-body" id="qna-hist-list">
-      <div class="empty-hint">저장된 문의가 없습니다.<br>＋ 새 문의 로 시작하세요.</div>
+    <div class="naver-meta-row">
+      <span id="qna-list-meta">대기중...</span>
+    </div>
+    <div class="pane-body naver-list-body" id="qna-naver-list">
+      <div class="empty-hint" style="font-size:12px">자격증명 미설정 시 ⚙️ 설정에서 입력하세요.</div>
+    </div>
+    <div class="naver-paging" id="qna-paging" style="display:none">
+      <button id="qna-prev" class="naver-page-btn">◀</button>
+      <span id="qna-page-info">1/1</span>
+      <button id="qna-next" class="naver-page-btn">▶</button>
     </div>
   </aside>
 
   <!-- Right: QnA 작성/답변 -->
   <main class="qna-main">
     <div class="qna-form">
+      <div class="ss-fetch-row">
+        <button class="ss-fetch-btn" id="btn-ss-fetch">📦 스마트스토어 새 문의 가져오기</button>
+        <span class="ss-status" id="ss-fetch-status">— 자격증명 미설정 (⚙️ 설정에서 입력)</span>
+      </div>
+
       <div class="row-inline">
         <div class="field" style="margin:0">
           <label>1. 제품 모델명</label>
@@ -1146,6 +2018,14 @@
         </div>
       </div>
 
+      <div class="mode-toggle-row">
+        <span class="mode-hint">응답 모드</span>
+        <div class="mode-toggle" id="qna-mode-toggle">
+          <button type="button" class="mode-opt" data-mode="perf" data-target="qna">🎯 성능모드</button>
+          <button type="button" class="mode-opt" data-mode="fast" data-target="qna">🚀 빠른모드</button>
+        </div>
+        <span class="mode-hint" id="qna-mode-desc">— 정확도 우선 (검색 + 의도분석)</span>
+      </div>
       <div style="display:flex; gap:8px; align-items:center">
         <button id="btn-qna-answer" disabled style="width:auto; padding: 10px 20px">AI 답변 생성</button>
         <span class="small" id="qna-hint">먼저 제품을 선택하세요.</span>
@@ -1161,6 +2041,188 @@
       </div>
     </div>
   </main>
+</div>
+
+<!-- ========== 고객문의(CS) 2-pane view ========== -->
+<div id="view-cs" class="view">
+  <!-- Left: CS 목록 (네이버 직접 가져옴) -->
+  <aside class="pane side-qnahist">
+    <div class="naver-pane-header">
+      <h2>📞 고객문의</h2>
+      <span class="naver-count-pill" id="cs-list-count">0</span>
+      <button class="naver-refresh-btn" id="btn-cs-refresh" title="새로고침">🔄</button>
+    </div>
+    <div class="naver-filter-row">
+      <select id="cs-filter-status" class="naver-filter">
+        <option value="" selected>전체</option>
+        <option value="false">미답변만</option>
+        <option value="true">답변완료</option>
+      </select>
+      <select id="cs-filter-days" class="naver-filter">
+        <option value="7">7일</option>
+        <option value="30" selected>30일</option>
+        <option value="90">90일</option>
+        <option value="180">180일</option>
+      </select>
+    </div>
+    <div class="naver-filter-row">
+      <select id="cs-filter-category" class="naver-filter" style="flex:1">
+        <option value="">전체 유형</option>
+        <option value="반품">반품</option>
+        <option value="교환">교환</option>
+        <option value="환불">환불</option>
+        <option value="배송">배송</option>
+        <option value="상품">상품</option>
+        <option value="기타">기타</option>
+      </select>
+    </div>
+    <div class="naver-meta-row"><span id="cs-list-meta">대기중...</span></div>
+    <div class="pane-body naver-list-body" id="cs-naver-list">
+      <div class="empty-hint" style="font-size:12px">자격증명 미설정 시 ⚙️ 설정에서 입력하세요.</div>
+    </div>
+    <div class="naver-paging" id="cs-paging" style="display:none">
+      <button id="cs-prev" class="naver-page-btn">◀</button>
+      <span id="cs-page-info">1/1</span>
+      <button id="cs-next" class="naver-page-btn">▶</button>
+    </div>
+  </aside>
+
+  <!-- Center: CS 문의 상세 -->
+  <main class="cs-detail-pane" id="cs-detail-pane">
+    <div id="cs-empty-state" class="answer-box" style="color:var(--muted); margin-top:0">
+      <h3 style="color:var(--muted)">고객문의 모드</h3>
+      왼쪽에서 문의를 선택하면 이 영역에 상세 정보가 표시됩니다.<br>
+      답변 작성/수정은 오른쪽 패널에서 바로 진행할 수 있습니다.
+    </div>
+
+    <div id="cs-selected-info" style="display:none">
+      <div class="cs-info-row">
+        <span class="cat-badge" id="cs-info-category">-</span>
+        <span class="cs-status-badge" id="cs-info-status">-</span>
+        <span class="cs-info-date" id="cs-info-date">-</span>
+      </div>
+      <h3 class="cs-info-title" id="cs-info-title">-</h3>
+      <div class="cs-info-meta">
+        <div><b>주문번호:</b> <span id="cs-info-order">-</span></div>
+        <div><b>상품:</b> <span id="cs-info-product">-</span></div>
+        <div id="cs-info-option-row" style="display:none"><b>옵션:</b> <span id="cs-info-option">-</span></div>
+        <div><b>고객:</b> <span id="cs-info-customer">-</span></div>
+      </div>
+      <div class="cs-info-content-label">고객 문의 내용</div>
+      <div class="cs-info-content" id="cs-info-content">-</div>
+    </div>
+  </main>
+
+  <!-- Right: CS 답변 작성 -->
+  <aside class="cs-answer-pane" id="cs-answer-pane" style="display:none">
+    <h3>답변 작성</h3>
+    <div id="cs-answer-area" style="display:none">
+      <div class="field">
+        <label>답변 내용</label>
+        <textarea id="cs-answer-input" placeholder="고객에게 전달할 답변을 입력하세요..." rows="10"></textarea>
+      </div>
+      <div class="mode-toggle-row">
+        <span class="mode-hint">AI 모드</span>
+        <div class="mode-toggle" id="cs-mode-toggle">
+          <button type="button" class="mode-opt" data-mode="perf" data-target="cs">🎯 성능모드</button>
+          <button type="button" class="mode-opt" data-mode="fast" data-target="cs">🚀 빠른모드</button>
+        </div>
+        <span class="mode-hint" id="cs-mode-desc">— 정확도 우선</span>
+      </div>
+      <div class="cs-answer-actions">
+        <button id="btn-cs-ai-generate" class="secondary" style="width:auto; padding:8px 14px">🤖 AI 답변 생성</button>
+        <button id="btn-cs-submit" class="ss-register-btn" style="padding:8px 14px">📤 스마트스토어에 등록</button>
+      </div>
+      <div class="small" id="cs-submit-status" style="margin-top:8px; min-height:14px"></div>
+    </div>
+  </aside>
+</div>
+
+<!-- ========== AI 톡톡문의 (BETA) ========== -->
+<div id="view-talk-ai" class="view">
+  <!-- 좌: 대화 스레드 목록 -->
+  <aside class="pane side-talkai">
+    <div class="talkai-status-bar">
+      <span class="talkai-status" id="talkai-status">❌ 챗봇 미연동</span>
+      <button class="talkai-mode-btn" id="btn-talkai-mode-toggle">🧪 시뮬레이션 ON</button>
+    </div>
+    <div class="talkai-controls">
+      <button class="talkai-sim-add" id="btn-talkai-sim-add">+ 테스트 메시지 추가</button>
+      <button class="talkai-cfg" id="btn-talkai-cfg" title="챗봇 설정">⚙️</button>
+    </div>
+    <div class="pane-search-wrap">
+      <input id="talkai-search" placeholder="고객명·메시지 검색..." autocomplete="off">
+    </div>
+    <div class="pane-body" id="talkai-thread-list">
+      <div class="empty-hint" style="font-size:12px">대화 없음. "+ 테스트 메시지" 버튼으로 시뮬레이션 시작.</div>
+    </div>
+  </aside>
+
+  <!-- 중앙: 채팅 영역 -->
+  <main class="talkai-main" id="talkai-main">
+    <div class="talkai-empty" id="talkai-empty">
+      <div style="text-align:center; color:var(--muted); margin-top:60px">
+        <div style="font-size:42px; margin-bottom:12px">🤖</div>
+        <h3 style="margin:0 0 8px">AI 톡톡문의 (BETA)</h3>
+        <p style="font-size:13px; max-width:440px; margin:0 auto; line-height:1.6">
+          네이버 톡톡 챗봇 API와 연동되어 자동 답변·실시간 대응을 시뮬레이션합니다.<br>
+          좌측에서 대화를 선택하거나 "+ 테스트 메시지" 로 가짜 고객 문의를 만들어 흐름을 확인하세요.<br>
+          실연동은 챗봇 파트너 계정 검수 통과 후 ⚙️ 설정에서 인증키 입력하면 자동 활성화됩니다.
+        </p>
+      </div>
+    </div>
+    <div class="talkai-chat" id="talkai-chat" style="display:none">
+      <div class="talkai-chat-header" id="talkai-chat-header">
+        <div class="talkai-customer">
+          <div class="talkai-avatar" id="talkai-avatar">👤</div>
+          <div>
+            <div class="talkai-name" id="talkai-name">-</div>
+            <div class="talkai-meta" id="talkai-meta">-</div>
+          </div>
+        </div>
+        <div class="talkai-actions">
+          <button class="talkai-handover-btn" id="btn-talkai-handover" title="사람 상담사에게 대화 이양">🤝 사람에게 넘기기</button>
+        </div>
+      </div>
+      <div class="talkai-messages" id="talkai-messages"></div>
+      <div class="talkai-input-zone">
+        <div class="talkai-ai-row">
+          <button class="talkai-ai-btn" id="btn-talkai-ai">🤖 AI 답변 생성</button>
+          <span class="talkai-ai-hint" id="talkai-ai-hint">고객 메시지 분석 중...</span>
+        </div>
+        <div class="talkai-input-row">
+          <textarea id="talkai-input" placeholder="답변 입력 (Shift+Enter 줄바꿈, Enter 전송)..."></textarea>
+          <button class="talkai-send-btn" id="btn-talkai-send">📤 전송</button>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<!-- 챗봇 설정 모달 -->
+<div class="modal-overlay" id="talkai-cfg-modal">
+  <div class="modal" style="max-width:560px">
+    <h2>🤖 톡톡 챗봇 설정</h2>
+    <p class="small" style="margin:0 0 12px">파트너센터에서 발급받은 챗봇 인증키와 파트너 ID를 입력하세요. 미입력 시 시뮬레이션 모드로 동작합니다.</p>
+    <div class="fb-field" style="margin-bottom:8px">
+      <label>Webhook URL (파트너센터에 등록)</label>
+      <input type="text" id="talkai-webhook-url" readonly value="https://lanstar.co.kr/blank.php?key=ls2026tmp&action=naver_talk_webhook" onclick="this.select()" style="font-family:monospace; font-size:11px; background:var(--elev-1)">
+      <p class="small" style="margin-top:4px; color:var(--muted)">파트너센터 → 개발자도구 → 챗봇API 설정 → Webhook URL 에 위 주소 등록</p>
+    </div>
+    <div class="fb-field" style="margin-bottom:8px">
+      <label>보내기 API 인증키 (Authorization)</label>
+      <input type="password" id="talkai-auth-key" placeholder="ct_wc8b1i_Pb1AXDQ0RZWuCccpzdNL" autocomplete="off">
+    </div>
+    <div class="fb-field" style="margin-bottom:8px">
+      <label>파트너 ID (옵션)</label>
+      <input type="text" id="talkai-partner-id" placeholder="wc8b1i" autocomplete="off">
+    </div>
+    <div class="modal-actions">
+      <button class="secondary" id="btn-talkai-cfg-cancel" style="width:auto">취소</button>
+      <button id="btn-talkai-cfg-save" style="width:auto">저장</button>
+    </div>
+    <p class="small" id="talkai-cfg-status" style="margin-top:10px; min-height:14px"></p>
+  </div>
 </div>
 
 <!-- [Phase3] AI 강화 관리자 뷰 -->
@@ -1255,12 +2317,59 @@
       <p class="small" style="margin-top:4px">입력창에 이 키워드를 입력(Enter 불필요)하면 저장된 마무리 멘트로 자동 치환됩니다.</p>
     </div>
 
+    <div class="ss-creds-section">
+      <h3>🛒 스마트스토어 API 자격증명</h3>
+      <p class="small" style="margin:0 0 8px">네이버 커머스API 센터에서 발급받은 정보. 브라우저(localStorage)에만 저장됩니다.</p>
+      <div class="fb-field" style="margin-bottom:8px">
+        <label>애플리케이션 ID</label>
+        <input type="text" id="opt-ss-appid" placeholder="예: ohuS4jAcXLh..." autocomplete="off">
+      </div>
+      <div class="fb-field" style="margin-bottom:8px">
+        <label>애플리케이션 시크릿</label>
+        <input type="password" id="opt-ss-secret" placeholder="$2a$04$..." autocomplete="off">
+      </div>
+      <div style="display:flex; gap:8px; align-items:center">
+        <button class="secondary" id="btn-ss-test" style="width:auto">토큰 발급 테스트</button>
+        <span class="small" id="ss-creds-test-result" class="ss-creds-test-result"></span>
+      </div>
+    </div>
+
     <div class="modal-actions">
       <button class="secondary" id="btn-settings-reset" style="width:auto">초기화</button>
       <button class="secondary" id="btn-settings-cancel" style="width:auto">취소</button>
       <button id="btn-settings-save" style="width:auto">저장</button>
     </div>
     <p class="small" id="settings-status" style="margin-top:10px; min-height:14px"></p>
+  </div>
+</div>
+
+<!-- 스마트스토어 Q&A 목록 Modal -->
+<div class="modal-overlay" id="ss-list-modal">
+  <div class="modal">
+    <h2 style="margin:0 0 10px">📦 스마트스토어 상품문의</h2>
+    <div class="ss-list-header">
+      <label style="font-size:12px">상태:</label>
+      <select id="ss-filter-answered" style="width:auto; padding:4px 8px; font-size:12px">
+        <option value="false" selected>미답변만</option>
+        <option value="true">답변완료</option>
+        <option value="">전체</option>
+      </select>
+      <label style="font-size:12px">기간(일):</label>
+      <select id="ss-filter-days" style="width:auto; padding:4px 8px; font-size:12px">
+        <option value="7" selected>7일</option>
+        <option value="14">14일</option>
+        <option value="30">30일</option>
+        <option value="90">90일</option>
+      </select>
+      <button class="secondary" id="btn-ss-refresh" style="width:auto; padding:4px 12px; font-size:12px">🔄 새로고침</button>
+      <span class="small" id="ss-list-status" style="margin-left:auto"></span>
+    </div>
+    <div class="ss-list-body" id="ss-list-body">
+      <div class="empty-hint">새로고침을 눌러 문의 목록을 가져오세요.</div>
+    </div>
+    <div class="modal-actions" style="margin-top:12px">
+      <button class="secondary" id="btn-ss-list-close" style="width:auto">닫기</button>
+    </div>
   </div>
 </div>
 
@@ -1277,6 +2386,112 @@
     <p class="small" style="margin-top:12px">
       키 발급: <a href="https://aistudio.google.com/app/apikey" target="_blank" style="color:var(--accent)">aistudio.google.com/app/apikey</a>
     </p>
+  </div>
+</div>
+
+<!-- 통합 환경설정 모달 (비밀번호 보호 · 서버 영속) -->
+<div class="modal-overlay" id="cfg-modal">
+  <div class="modal" style="max-width:600px">
+    <h2>🔐 통합 환경설정</h2>
+
+    <!-- 1단계: 비밀번호 게이트 -->
+    <div id="cfg-gate">
+      <p class="small" id="cfg-gate-desc" style="margin:0 0 12px"></p>
+      <div class="fb-field" id="cfg-gate-newpw-wrap" style="display:none; margin-bottom:8px">
+        <label>새 비밀번호 (최소 4자)</label>
+        <input type="password" id="cfg-newpw" autocomplete="new-password" placeholder="설정할 비밀번호">
+      </div>
+      <div class="fb-field" style="margin-bottom:8px">
+        <label id="cfg-pw-label">비밀번호</label>
+        <input type="password" id="cfg-pw" autocomplete="off" placeholder="비밀번호 입력 후 Enter">
+      </div>
+      <div class="modal-actions">
+        <button class="secondary" id="btn-cfg-cancel" style="width:auto">취소</button>
+        <button id="btn-cfg-unlock" style="width:auto">잠금 해제</button>
+      </div>
+      <p class="small" id="cfg-gate-status" style="margin-top:10px; min-height:14px"></p>
+    </div>
+
+    <!-- 2단계: 설정 폼 -->
+      <div id="cfg-form" style="display:none">
+      <p class="small" style="margin:0 0 12px; color:var(--success)">🔓 잠금 해제됨 — 입력값은 <b>서버에 저장</b>되어 모든 브라우저·PC에서 공유되며 재배포해도 유지됩니다.</p>
+
+      <div class="ss-creds-section" style="margin-top:0">
+        <h3>🔐 AICC 접속 SMS 인증</h3>
+        <p class="small" style="margin:0 0 8px; color:var(--muted)">아래에 등록된 휴대폰 번호만 SMS 인증 후 이 페이지에 접속할 수 있습니다. 여러 번호는 줄바꿈 또는 쉼표로 구분하세요.</p>
+        <div class="fb-field">
+          <label>접속 허용 휴대폰 번호</label>
+          <textarea id="cfg-aicc-auth-phones" rows="3" placeholder="01012345678&#10;01098765432"></textarea>
+        </div>
+      </div>
+
+      <div class="ss-creds-section">
+        <div style="display:flex; align-items:center; gap:8px; justify-content:space-between">
+          <h3 style="margin:0">📋 SMS 접속 기록</h3>
+          <button class="secondary" id="btn-cfg-auth-log-refresh" type="button" style="width:auto; padding:5px 10px; font-size:12px">새로고침</button>
+        </div>
+        <p class="small" style="margin:8px 0 10px; color:var(--muted)">최근 SMS 인증 성공 및 로그아웃 기록입니다.</p>
+        <div class="cfg-auth-log-list" id="cfg-auth-log-list">
+          <div class="cfg-auth-log-empty">기록을 불러오는 중...</div>
+        </div>
+      </div>
+
+      <div class="ss-creds-section">
+        <h3>🤖 Gemini API</h3>
+        <div class="fb-field">
+          <label>API 키</label>
+          <input type="password" id="cfg-gemini" autocomplete="off" placeholder="AIza...">
+        </div>
+      </div>
+
+      <div class="ss-creds-section">
+        <h3>🛒 네이버 커머스 (스마트스토어)</h3>
+        <div class="fb-field" style="margin-bottom:8px">
+          <label>애플리케이션 ID</label>
+          <input type="text" id="cfg-naver-id" autocomplete="off" placeholder="예: ohuS4jAcXLh...">
+        </div>
+        <div class="fb-field">
+          <label>애플리케이션 시크릿</label>
+          <input type="password" id="cfg-naver-secret" autocomplete="off" placeholder="$2a$04$...">
+        </div>
+      </div>
+
+      <div class="ss-creds-section">
+        <h3>💬 네이버 톡톡 챗봇</h3>
+        <div class="fb-field" style="margin-bottom:8px">
+          <label>보내기 API 인증키</label>
+          <input type="password" id="cfg-talk-key" autocomplete="off" placeholder="ct_...">
+        </div>
+        <div class="fb-field">
+          <label>파트너 ID</label>
+          <input type="text" id="cfg-talk-partner" autocomplete="off" placeholder="wc8b1i">
+        </div>
+      </div>
+
+      <div class="ss-creds-section">
+        <h3>📨 고도몰 OpenAPI</h3>
+        <p class="small" style="margin:0 0 8px; color:var(--muted)">openhub.godo.co.kr 게시판 조회·답변 등록용 (partner_key + key). 서버에서만 사용되며 공개 조회에는 노출되지 않습니다.</p>
+        <div class="fb-field" style="margin-bottom:8px">
+          <label>Partner Key (파트너 키)</label>
+          <input type="password" id="cfg-godo-partner" autocomplete="off" placeholder="JUIzRyVF...">
+        </div>
+        <div class="fb-field" style="margin-bottom:8px">
+          <label>Key (시크릿 키)</label>
+          <input type="password" id="cfg-godo-key" autocomplete="off" placeholder="bCU5NC...">
+        </div>
+        <div class="fb-field">
+          <label>CS 패널 Admin 토큰 <span style="color:var(--muted); font-weight:400">(자동값, 보통 변경 불필요)</span></label>
+          <input type="password" id="cfg-godo" autocomplete="off" placeholder="lsadm-...">
+        </div>
+      </div>
+
+      <div class="modal-actions">
+        <button class="secondary" id="btn-cfg-changepw" style="width:auto">비밀번호 변경</button>
+        <button class="secondary" id="btn-cfg-close" style="width:auto">닫기</button>
+        <button id="btn-cfg-save" style="width:auto">서버에 저장</button>
+      </div>
+      <p class="small" id="cfg-form-status" style="margin-top:10px; min-height:14px"></p>
+    </div>
   </div>
 </div>
 
@@ -2286,23 +3501,29 @@ async function fetchGeminiWithRetry(url, body, maxRetry = 2) {
   throw new Error(friendlyGeminiError(lastErr.status, lastErr.raw));
 }
 
-async function callGemini(prompt, apikey, images) {
+async function callGemini(prompt, apikey, images, useSearch) {
+  // useSearch: undefined or true → enable google_search (성능모드 default)
+  //           false → disable google_search (빠른모드)
+  if (useSearch === undefined) useSearch = true;
   const url = `${API_BASE}/${MODEL}:generateContent?key=${encodeURIComponent(apikey)}`;
   const parts = buildPartsWithImages(prompt, images || []);
   const hasImages = (images || []).length > 0;
+  const enableSearch = useSearch && !hasImages;  // search incompatible with images
   const body = {
     contents: [{ role: "user", parts: parts }],
-    ...(hasImages ? {} : { tools: [{ google_search: {} }] }),
+    ...(enableSearch ? { tools: [{ google_search: {} }] } : {}),
     generationConfig: { temperature: 0.3, topP: 0.95, maxOutputTokens: 4096, responseMimeType: "application/json" },
   };
   return await fetchGeminiWithRetry(url, body);
 }
-async function callGeminiChat(contents, apikey) {
+async function callGeminiChat(contents, apikey, useSearch) {
+  if (useSearch === undefined) useSearch = true;
   const url = `${API_BASE}/${MODEL}:generateContent?key=${encodeURIComponent(apikey)}`;
   const hasImages = contents.some(c => (c.parts || []).some(p => p.inline_data));
+  const enableSearch = useSearch && !hasImages;
   const body = {
     contents: contents,
-    ...(hasImages ? {} : { tools: [{ google_search: {} }] }),
+    ...(enableSearch ? { tools: [{ google_search: {} }] } : {}),
     generationConfig: { temperature: 0.4, topP: 0.95, maxOutputTokens: 4096, responseMimeType: "application/json" },
   };
   return await fetchGeminiWithRetry(url, body);
@@ -2332,6 +3553,7 @@ const CHAT = {
   createdAt: null,
   updatedAt: null,
   tag: null,        // 'open' | 'handoff' | 'closed'
+  mode: "perf",     // 'perf' | 'fast' — per-session response mode
 };
 
 function newId() {
@@ -2340,6 +3562,8 @@ function newId() {
 
 // List cache
 const CHAT_SESSIONS = []; // array of metadata items
+let CHAT_PAGE = 1;          // [페이지네이션] 현재 페이지 (클라이언트 사이드)
+const CHAT_PAGE_SIZE = 30;  // [페이지네이션] 페이지당 세션 수
 const QNA_HISTORY = [];
 
 async function refreshChatList() {
@@ -2389,20 +3613,15 @@ function removeFromCustomOrder(key, id) {
  * Sort sessions: items listed in custom order come first (in that order),
  * followed by remaining items sorted by updated_at desc (newest first).
  */
-function applyCustomOrder(items, key) {
-  const order = loadCustomOrder(key);
-  if (!items?.length) return items || [];
-  if (!order.length) return [...items].sort((a,b) => (b.updated_at||0) - (a.updated_at||0));
-  const byId = new Map(items.map(s => [s.id, s]));
-  const picked = new Set();
-  const head = [];
-  for (const id of order) {
-    const it = byId.get(id);
-    if (it) { head.push(it); picked.add(id); }
-  }
-  const tail = items.filter(s => !picked.has(s.id))
-    .sort((a,b) => (b.updated_at||0) - (a.updated_at||0));
-  return head.concat(tail);
+function applyCustomOrder(items, _key) {
+  // 항상 updated_at 내림차순 (최신 위) — ISO 문자열/숫자 모두 정확히 처리
+  // 드래그 정렬은 세션 내에서만 효과, reload 시 항상 시간순으로 리셋
+  const toMs = (v) => {
+    if (typeof v === "number") return v;
+    if (typeof v === "string") { const t = Date.parse(v); return isFinite(t) ? t : 0; }
+    return 0;
+  };
+  return [...(items || [])].sort((a, b) => toMs(b.updated_at) - toMs(a.updated_at));
 }
 
 /**
@@ -2465,6 +3684,18 @@ function attachDragAndDrop(listEl, selector, onReorder) {
   });
 }
 
+function chatUpdatePaging(page, totalPages) {
+  const p = document.getElementById("chat-paging");
+  if (!p) return;
+  if (!totalPages || totalPages <= 1) { p.style.display = "none"; return; }
+  p.style.display = "flex";
+  const info = document.getElementById("chat-page-info");
+  if (info) info.textContent = `${page}/${totalPages}`;
+  const prev = document.getElementById("chat-prev");
+  const next = document.getElementById("chat-next");
+  if (prev) prev.disabled = page <= 1;
+  if (next) next.disabled = page >= totalPages;
+}
 function renderChatSessionList() {
   const filter = ($("chat-session-search").value || "").toLowerCase();
   // Apply custom sort order first (drag-and-drop)
@@ -2481,15 +3712,23 @@ function renderChatSessionList() {
     list.innerHTML = CHAT_SESSIONS.length
       ? '<div class="empty-hint">검색 결과가 없습니다.</div>'
       : '<div class="empty-hint">저장된 상담이 없습니다.<br>＋ 새 상담 으로 시작하세요.</div>';
+    chatUpdatePaging(0, 0);
     return;
   }
-  list.innerHTML = filtered.map(s => {
+  const chatTotalPages = Math.max(1, Math.ceil(filtered.length / CHAT_PAGE_SIZE));
+  if (CHAT_PAGE > chatTotalPages) CHAT_PAGE = chatTotalPages;
+  if (CHAT_PAGE < 1) CHAT_PAGE = 1;
+  const chatPageItems = filtered.slice((CHAT_PAGE - 1) * CHAT_PAGE_SIZE, CHAT_PAGE * CHAT_PAGE_SIZE);
+  chatUpdatePaging(CHAT_PAGE, chatTotalPages);
+  list.innerHTML = chatPageItems.map(s => {
     const active = s.id === CHAT.activeId ? "active" : "";
     const name = s.customer_name || "(이름없음)";
     const model = s.model_stem || "";
     const last = s.last_message || "";
     const time = fmtRelTime(s.updated_at);
     const turns = s.turn_count || 0;
+    const mode = (s.mode === "fast") ? "fast" : "perf";
+    const modeLabel = mode === "fast" ? "🚀 빠름" : "🎯 성능";
     return `
       <div class="session-item ${active}" draggable="true" data-id="${escapeHtml(s.id)}">
         <span class="si-drag" title="드래그하여 위치 변경">⋮⋮</span>
@@ -2497,7 +3736,7 @@ function renderChatSessionList() {
           <div class="si-name">${escapeHtml(name)}</div>
           <div class="si-time">${escapeHtml(time)}</div>
         </div>
-        <div class="si-model">${escapeHtml(model)} · ${turns}턴</div>
+        <div class="si-model">${escapeHtml(model)} · ${turns}턴 <span class="si-mode-badge mode-${mode}" data-toggle-mode="chat" data-id="${escapeHtml(s.id)}" title="클릭하여 모드 변경">${modeLabel}</span></div>
         <div class="si-last">${escapeHtml(last)}</div>
         <button class="si-del" data-del-id="${escapeHtml(s.id)}" title="삭제">×</button>
       </div>
@@ -2530,6 +3769,8 @@ function renderChatSessionList() {
 }
 
 function renderQnaHistoryList() {
+  if (!document.getElementById("qna-hist-list")) return;  // legacy sidebar removed
+
   const filter = ($("qna-hist-search").value || "").toLowerCase();
   const sorted = applyCustomOrder(QNA_HISTORY, "aicc_qna_order_v1");
   const filtered = !filter ? sorted : sorted.filter(s =>
@@ -2552,11 +3793,13 @@ function renderQnaHistoryList() {
     const name = s.customer_name || "";
     const q = s.last_message || "";
     const time = fmtRelTime(s.updated_at);
+    const mode = (s.mode === "fast") ? "fast" : "perf";
+    const modeLabel = mode === "fast" ? "🚀 빠름" : "🎯 성능";
     return `
       <div class="hist-item ${active}" draggable="true" data-id="${escapeHtml(s.id)}">
         <span class="si-drag" title="드래그하여 위치 변경">⋮⋮</span>
         <div class="hi-top">
-          <div class="hi-model">${escapeHtml(model)}</div>
+          <div class="hi-model">${escapeHtml(model)} <span class="hi-mode-badge mode-${mode}" data-toggle-mode="qna" data-id="${escapeHtml(s.id)}" title="클릭하여 모드 변경">${modeLabel}</span></div>
           <div class="hi-time">${escapeHtml(time)}</div>
         </div>
         ${name ? `<div class="hi-cust">👤 ${escapeHtml(name)}</div>` : ""}
@@ -2622,6 +3865,7 @@ async function saveCurrentChat() {
     turns: turnsToStore,
     summary: CHAT.summary || "",
     systemPrompt: CHAT.systemPrompt || "",
+    mode: (CHAT.mode === "fast") ? "fast" : "perf",
     created_at: CHAT.createdAt,
     updated_at: Date.now(),
   };
@@ -2637,6 +3881,7 @@ async function saveCurrentChat() {
       last_message: payload.last_message,
       turn_count: payload.turn_count,
       status: payload.status,
+      mode: payload.mode,
       created_at: payload.created_at,
       updated_at: payload.updated_at,
     };
@@ -2660,6 +3905,7 @@ function startNewChatSession(silent) {
   CHAT.createdAt = Date.now();
   CHAT.updatedAt = null;
   CHAT.tag = "open";
+  CHAT.mode = (loadUserPrefs().lastMode === "fast") ? "fast" : "perf";
   $("chat-cust-name").value = "";
   $("chat-messages").innerHTML = `
     <div class="answer-box" style="color:var(--muted); margin:0">
@@ -2670,6 +3916,7 @@ function startNewChatSession(silent) {
   chatAttacher.clear();
   updateChatMeta();
   renderChatSessionList();
+  if (typeof refreshModeToggleUI === "function") refreshModeToggleUI("chat");
   if (!silent) status("새 상담 시작", "ok");
 }
 
@@ -2686,6 +3933,7 @@ async function openChatSession(id) {
     CHAT.createdAt = s.created_at || Date.now();
     CHAT.updatedAt = s.updated_at || null;
     CHAT.tag = s.status || "open";
+    CHAT.mode = (s.mode === "fast") ? "fast" : "perf";
     $("chat-cust-name").value = CHAT.customerName;
 
     // Load the product for the session (in the right panel)
@@ -2713,6 +3961,7 @@ async function openChatSession(id) {
     }
     updateChatMeta();
     renderChatSessionList();
+    if (typeof refreshModeToggleUI === "function") refreshModeToggleUI("chat");
     status("상담 로드됨", "ok");
   } catch (e) {
     status("상담 로드 실패: " + e.message, "err");
@@ -2734,6 +3983,7 @@ const QNA = {
   candidatesUsed: null, // [Phase1] re-ranked candidates for reasoning path
   createdAt: null,
   updatedAt: null,
+  mode: "perf",         // 'perf' | 'fast' — per-session response mode
 };
 
 function startNewQnaSession() {
@@ -2748,6 +3998,7 @@ function startNewQnaSession() {
   QNA.candidatesUsed = null;     // [Phase1]
   QNA.createdAt = Date.now();
   QNA.updatedAt = null;
+  QNA.mode = (loadUserPrefs().lastMode === "fast") ? "fast" : "perf";
   $("qna-cust-name").value = "";
   $("qna-question").value = "";
   $("qna-answer-area").innerHTML = `
@@ -2757,6 +4008,7 @@ function startNewQnaSession() {
     </div>`;
   qnaAttacher.clear();
   renderQnaHistoryList();
+  if (typeof refreshModeToggleUI === "function") refreshModeToggleUI("qna");
 }
 
 async function saveCurrentQna() {
@@ -2787,6 +4039,7 @@ async function saveCurrentQna() {
         matched_wants: c.matched_wants, hit_avoid: c.hit_avoid,
         intent_bonus: c.intent_bonus, structure_score: c.structure_score
       })),
+    mode: (QNA.mode === "fast") ? "fast" : "perf",
     created_at: QNA.createdAt,
     updated_at: Date.now(),
   };
@@ -2802,6 +4055,7 @@ async function saveCurrentQna() {
       last_message: payload.last_message,
       turn_count: 1,
       status: "answered",
+      mode: payload.mode,
       created_at: payload.created_at,
       updated_at: payload.updated_at,
     };
@@ -2830,6 +4084,7 @@ async function openQnaSession(id) {
     QNA.candidatesUsed = s.candidates_top5 || null;             // [Phase1]
     QNA.createdAt = s.created_at || Date.now();
     QNA.updatedAt = s.updated_at || null;
+    QNA.mode = (s.mode === "fast") ? "fast" : "perf";
 
     $("qna-cust-name").value = QNA.customerName;
     $("qna-question").value = QNA.question;
@@ -2852,6 +4107,7 @@ async function openQnaSession(id) {
       $("qna-answer-area").innerHTML = `<div class="answer-box" style="color:var(--muted)"><h3 style="color:var(--muted)">기록된 문의</h3>아직 답변이 저장되지 않았습니다. 답변 생성 버튼을 눌러 새 답변을 생성할 수 있습니다.</div>`;
     }
     renderQnaHistoryList();
+    if (typeof refreshModeToggleUI === "function") refreshModeToggleUI("qna");
     status("문의 로드됨", "ok");
   } catch (e) {
     status("문의 로드 실패: " + e.message, "err");
@@ -3061,7 +4317,7 @@ async function sendChatMessage() {
   const t0 = performance.now();
   try {
     const contents = buildChatContents(text, images);
-    const apiResp = await callGeminiChat(contents, apikey);
+    const apiResp = await callGeminiChat(contents, apikey, (CHAT.mode !== "fast"));
     const { parsed, grounding, raw } = parseLLMResponse(apiResp);
     thinking.remove();
     if (!parsed) throw new Error("응답 JSON 파싱 실패: " + raw.slice(0, 300));
@@ -3228,10 +4484,13 @@ $("btn-qna-answer").addEventListener("click", async () => {
   const t0 = performance.now();
   try {
     const effectiveQ = q || "(고객이 텍스트 없이 이미지만 첨부함. 이미지를 보고 무엇을 묻는지 먼저 추정하고 답하세요.)";
-    // [Phase1] 1단계: 고객 의도 태그 추출 (실패해도 답변 플로우는 계속)
+    // [Mode] 세션 모드 확인
+    const sessionMode = (QNA.mode === "fast") ? "fast" : "perf";
+    const useSearch = (sessionMode === "perf");
+    // [Phase1] 1단계: 고객 의도 태그 추출 — 성능모드일 때만
     let intent = null;
-    if (q) {
-      status("고객 의도 분석 중...");
+    if (q && sessionMode === "perf") {
+      status("고객 의도 분석 중... (성능모드)");
       intent = await extractIntent(effectiveQ, DATA.selected, apikey);
     }
     // [Phase1] 2단계: 후보 가져온 뒤, 의도 태그로 재정렬
@@ -3239,9 +4498,9 @@ $("btn-qna-answer").addEventListener("click", async () => {
     if (intent) {
       candidates = rerankByIntent(candidates, intent);
     }
-    status("AI 분석 중...");
+    status(sessionMode === "fast" ? "AI 분석 중... (빠른모드)" : "AI 분석 중... (성능모드)");
     const prompt = buildPrompt(DATA.selected, effectiveQ, candidates, imgs.length, intent);
-    const apiResp = await callGemini(prompt, apikey, imgs);
+    const apiResp = await callGemini(prompt, apikey, imgs, useSearch);
     const { parsed, grounding, raw } = parseLLMResponse(apiResp);
     if (!parsed) throw new Error("응답 JSON 파싱 실패. 원시 응답: " + raw.slice(0, 300));
     QNA.answer = parsed;
@@ -3609,6 +4868,246 @@ $("apikey-modal").addEventListener("click", (e) => {
 });
 
 // =====================================================
+// 통합 환경설정 모달 (서버 영속 + 비밀번호 게이트)
+//   비밀번호는 잠금해제 동안만 메모리(CFG_PW)에 보관, 저장 안 함
+// =====================================================
+let CFG_PW = "";
+let CFG_HAS_PW = false;
+let CFG_FULL = {};   // 비번 확인 후 받은 전체설정(고도몰 OpenAPI 키 포함) — 폼 프리필용
+
+async function cfgApi(action, payload) {
+  const url = AICC_API + "&action=" + action + "&t=" + Date.now();
+  const opt = payload
+    ? { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(payload), cache: "no-cache" }
+    : { cache: "no-cache" };
+  const r = await fetch(url, opt);
+  const d = await r.json().catch(() => ({}));
+  return { httpOk: r.ok, status: r.status, data: d };
+}
+
+async function cfgAuthLogApi() {
+  const r = await fetch("/aicc2/auth.php?action=log&limit=50&t=" + Date.now(), {
+    cache: "no-cache",
+    credentials: "same-origin",
+  });
+  return r.json().catch(() => ({}));
+}
+
+function cfgAuthLogEventLabel(event) {
+  if (event === "login") return "접속";
+  if (event === "logout") return "로그아웃";
+  if (event === "setup_allowed_phone") return "번호등록";
+  return event || "-";
+}
+
+function renderCfgAuthLog(items) {
+  const box = $("cfg-auth-log-list");
+  if (!box) return;
+  if (!Array.isArray(items) || items.length === 0) {
+    box.innerHTML = '<div class="cfg-auth-log-empty">아직 접속 기록이 없습니다.</div>';
+    return;
+  }
+  box.innerHTML = items.map(it => `
+    <div class="cfg-auth-log-item">
+      <div class="meta">${escapeHtml(it.at || "-")}</div>
+      <div class="event">${escapeHtml(cfgAuthLogEventLabel(it.event))}</div>
+      <div class="meta" title="${escapeHtml((it.ip || "-") + " / " + (it.ua || ""))}">
+        ${escapeHtml(it.hp_masked || "-")} · ${escapeHtml(it.ip || "-")}
+      </div>
+    </div>
+  `).join("");
+}
+
+async function loadCfgAuthLog() {
+  const box = $("cfg-auth-log-list");
+  if (box) box.innerHTML = '<div class="cfg-auth-log-empty">기록을 불러오는 중...</div>';
+  try {
+    const data = await cfgAuthLogApi();
+    if (!data.ok) throw new Error(data.error || "load_failed");
+    renderCfgAuthLog(data.items || []);
+  } catch (e) {
+    if (box) box.innerHTML = '<div class="cfg-auth-log-empty">접속 기록을 불러오지 못했습니다.</div>';
+  }
+}
+
+function cfgShowGate(hasPw) {
+  $("cfg-gate").style.display = "";
+  $("cfg-form").style.display = "none";
+  $("cfg-gate-newpw-wrap").style.display = hasPw ? "none" : "";
+  $("cfg-pw-label").textContent = hasPw ? "비밀번호" : "비밀번호 확인 (위와 동일하게 다시 입력)";
+  $("cfg-gate-desc").textContent = hasPw
+    ? "관리자 비밀번호를 입력하면 환경설정을 보고 수정할 수 있습니다."
+    : "처음 사용입니다. 환경설정을 보호할 비밀번호를 설정하세요.";
+  $("cfg-gate-status").textContent = "";
+  $("cfg-pw").value = "";
+  $("cfg-newpw").value = "";
+  setTimeout(() => (hasPw ? $("cfg-pw") : $("cfg-newpw")).focus(), 40);
+}
+
+function cfgShowForm() {
+  $("cfg-gate").style.display = "none";
+  $("cfg-form").style.display = "";
+  $("cfg-form-status").textContent = "";
+  const c = CFG_FULL || {};
+  // 프론트 운영값: 서버값 우선, 비어있으면 기존 localStorage로 채워 최초 1회 마이그레이션을 돕는다.
+  let lsNaver = {}, lsTalk = {};
+  try { lsNaver = JSON.parse(localStorage.getItem("aicc_ss_creds_v1") || "{}") || {}; } catch (_) {}
+  try { lsTalk  = JSON.parse(localStorage.getItem("aicc_talkai_cfg_v1") || "{}") || {}; } catch (_) {}
+  const lsGemini = localStorage.getItem("lanstar_aicc_apikey") || "";
+  $("cfg-gemini").value       = c.gemini_key       || lsGemini          || "";
+  $("cfg-naver-id").value     = c.naver_app_id      || lsNaver.app_id     || "";
+  $("cfg-naver-secret").value = c.naver_app_secret  || lsNaver.app_secret || "";
+  $("cfg-talk-key").value     = c.talk_auth_key     || lsTalk.authKey     || "";
+  $("cfg-talk-partner").value = c.talk_partner_id   || lsTalk.partnerId   || "";
+  $("cfg-aicc-auth-phones").value = c.aicc_auth_phones || "";
+  $("cfg-godo").value         = c.godo_token        || "";
+  // 고도몰 OpenAPI 키 (서버 비번게이트 응답 CFG_FULL 에서만 옴 — 공개 조회엔 없음)
+  $("cfg-godo-partner").value = c.godo_partner_key  || "";
+  $("cfg-godo-key").value     = c.godo_key          || "";
+  loadCfgAuthLog();
+}
+
+async function openCfgModal() {
+  $("cfg-modal").classList.add("show");
+  $("cfg-gate-desc").textContent = "확인 중...";
+  try {
+    const { data } = await cfgApi("aicc_cfg_status");
+    CFG_HAS_PW = !!(data && data.has_password);
+  } catch (_) { CFG_HAS_PW = false; }
+  cfgShowGate(CFG_HAS_PW);
+}
+
+function closeCfgModal() {
+  $("cfg-modal").classList.remove("show");
+  CFG_PW = "";
+  CFG_FULL = {};
+  ["cfg-gemini","cfg-naver-id","cfg-naver-secret","cfg-talk-key","cfg-talk-partner","cfg-aicc-auth-phones","cfg-godo","cfg-godo-partner","cfg-godo-key","cfg-pw","cfg-newpw"]
+    .forEach(id => { const el = $(id); if (el) el.value = ""; });
+}
+
+async function cfgUnlock() {
+  const st = $("cfg-gate-status");
+  if (!CFG_HAS_PW) {
+    const np = $("cfg-newpw").value, cf = $("cfg-pw").value;
+    if (np.length < 4) { st.textContent = "비밀번호는 최소 4자입니다."; st.style.color = "var(--err)"; return; }
+    if (np !== cf)     { st.textContent = "두 비밀번호가 일치하지 않습니다."; st.style.color = "var(--err)"; return; }
+    st.textContent = "설정 중..."; st.style.color = "var(--muted)";
+    const { httpOk, data } = await cfgApi("aicc_cfg_setpw", { new_password: np });
+    if (!httpOk || data.error) { st.textContent = "실패: " + (data.error || "unknown"); st.style.color = "var(--err)"; return; }
+    CFG_PW = np; CFG_HAS_PW = true;
+    CFG_FULL = data.config || {};
+    cfgShowForm();
+    return;
+  }
+  const pw = $("cfg-pw").value;
+  if (!pw) { st.textContent = "비밀번호를 입력하세요."; st.style.color = "var(--err)"; return; }
+  st.textContent = "확인 중..."; st.style.color = "var(--muted)";
+  const { httpOk, data } = await cfgApi("aicc_cfg_verify", { password: pw });
+  if (!httpOk || data.error) { st.textContent = "비밀번호가 올바르지 않습니다."; st.style.color = "var(--err)"; return; }
+  CFG_PW = pw;
+  CFG_FULL = data.config || {};
+  cfgShowForm();
+}
+
+async function cfgSave() {
+  const st = $("cfg-form-status");
+  st.textContent = "저장 중..."; st.style.color = "var(--muted)";
+  const config = {
+    gemini_key:       $("cfg-gemini").value.trim(),
+    naver_app_id:     $("cfg-naver-id").value.trim(),
+    naver_app_secret: $("cfg-naver-secret").value.trim(),
+    talk_auth_key:    $("cfg-talk-key").value.trim(),
+    talk_partner_id:  $("cfg-talk-partner").value.trim(),
+    aicc_auth_phones: $("cfg-aicc-auth-phones").value.trim(),
+    godo_token:       $("cfg-godo").value.trim(),
+    godo_partner_key: $("cfg-godo-partner").value.trim(),
+    godo_key:         $("cfg-godo-key").value.trim(),
+  };
+  const { httpOk, data } = await cfgApi("aicc_cfg_set", { password: CFG_PW, config });
+  if (!httpOk || data.error) {
+    const extra = data.error === "invalid_password" ? " (비밀번호 만료 — 다시 잠금해제 하세요)" : "";
+    st.textContent = "저장 실패: " + (data.error || "unknown") + extra;
+    st.style.color = "var(--err)";
+    return;
+  }
+  CFG_FULL = data.config || CFG_FULL;
+  applyServerConfig(data.config);  // 프론트 운영값을 즉시 현재 브라우저에도 반영
+  st.textContent = "✅ 저장됨 — 네이버/Gemini/톡톡은 모든 브라우저, 고도몰 키는 서버 CS에 즉시 적용됩니다.";
+  st.style.color = "var(--success)";
+}
+
+async function cfgChangePw() {
+  const np = prompt("새 비밀번호 (최소 4자):");
+  if (np === null) return;
+  if (np.length < 4) { alert("최소 4자입니다."); return; }
+  const { httpOk, data } = await cfgApi("aicc_cfg_setpw", { password: CFG_PW, new_password: np });
+  if (!httpOk || data.error) { alert("변경 실패: " + (data.error || "unknown")); return; }
+  CFG_PW = np;
+  alert("비밀번호가 변경되었습니다.");
+}
+
+(function wireCfgModal() {
+  const on = (id, fn) => { const el = $(id); if (el) el.addEventListener("click", fn); };
+  on("btn-cfg", openCfgModal);
+  on("btn-cfg-cancel", closeCfgModal);
+  on("btn-cfg-close", closeCfgModal);
+  on("btn-cfg-unlock", cfgUnlock);
+  on("btn-cfg-save", cfgSave);
+  on("btn-cfg-changepw", cfgChangePw);
+  on("btn-cfg-auth-log-refresh", loadCfgAuthLog);
+  ["cfg-pw","cfg-newpw"].forEach(id => {
+    const el = $(id);
+    if (el) el.addEventListener("keydown", e => { if (e.key === "Enter") { e.preventDefault(); cfgUnlock(); } });
+  });
+  const m = $("cfg-modal");
+  if (m) m.addEventListener("click", e => { if (e.target === m) closeCfgModal(); });
+})();
+
+(function makeCfgModalDraggable() {
+  const modal = document.querySelector("#cfg-modal .modal");
+  const handle = document.querySelector("#cfg-modal .modal > h2");
+  if (!modal || !handle) return;
+  let dragging = false, sx = 0, sy = 0, ox = 0, oy = 0, bounds = null;
+  const clamp = (v, min, max) => Math.max(min, Math.min(max, v));
+  handle.addEventListener("pointerdown", (e) => {
+    if (e.button !== 0) return;
+    dragging = true;
+    sx = e.clientX; sy = e.clientY;
+    const m = (modal.style.transform || "").match(/translate\((-?\d+(?:\.\d+)?)px,\s*(-?\d+(?:\.\d+)?)px\)/);
+    ox = m ? parseFloat(m[1]) : 0;
+    oy = m ? parseFloat(m[2]) : 0;
+    bounds = modal.getBoundingClientRect();
+    modal.style.animation = "none";
+    handle.setPointerCapture(e.pointerId);
+  });
+  handle.addEventListener("pointermove", (e) => {
+    if (!dragging) return;
+    const rect = bounds || modal.getBoundingClientRect();
+    const nextX = clamp(ox + e.clientX - sx, ox - rect.left + 8, ox + window.innerWidth - rect.right - 8);
+    const nextY = clamp(oy + e.clientY - sy, oy - rect.top + 8, oy + window.innerHeight - rect.bottom - 8);
+    modal.style.transform = `translate(${nextX}px, ${nextY}px)`;
+  });
+  handle.addEventListener("pointerup", (e) => {
+    dragging = false;
+    bounds = null;
+    try { handle.releasePointerCapture(e.pointerId); } catch (_) {}
+  });
+})();
+
+{
+  const btn = document.getElementById("btn-aicc-logout");
+  if (btn) {
+    btn.addEventListener("click", async () => {
+      btn.disabled = true;
+      try {
+        await fetch("/aicc2/auth.php?action=logout", { method: "POST", credentials: "same-origin", cache: "no-cache" });
+      } catch (_) {}
+      location.replace("/aicc2/");
+    });
+  }
+}
+
+// =====================================================
 // User preferences (상담 멘트 설정)
 // =====================================================
 const PREFS_KEY = "aicc_user_prefs_v1";
@@ -3617,16 +5116,17 @@ const DEFAULT_CLOSING_TRIGGER = "/마무리";
 function loadUserPrefs() {
   try {
     const raw = localStorage.getItem(PREFS_KEY);
-    if (!raw) return { opening: "", closing: "", closingTrigger: DEFAULT_CLOSING_TRIGGER };
+    if (!raw) return { opening: "", closing: "", closingTrigger: DEFAULT_CLOSING_TRIGGER, lastMode: "perf" };
     const p = JSON.parse(raw);
     return {
       opening: typeof p.opening === "string" ? p.opening : "",
       closing: typeof p.closing === "string" ? p.closing : "",
       closingTrigger: (typeof p.closingTrigger === "string" && p.closingTrigger.trim())
         ? p.closingTrigger.trim() : DEFAULT_CLOSING_TRIGGER,
+      lastMode: (p.lastMode === "fast" ? "fast" : "perf"),
     };
   } catch (_) {
-    return { opening: "", closing: "", closingTrigger: DEFAULT_CLOSING_TRIGGER };
+    return { opening: "", closing: "", closingTrigger: DEFAULT_CLOSING_TRIGGER, lastMode: "perf" };
   }
 }
 function saveUserPrefs(p) {
@@ -3739,17 +5239,19 @@ $("chat-cust-name").addEventListener("input", (e) => {
   CHAT.customerName = e.target.value.trim();
   saveChatDebounced();
 });
-$("qna-cust-name").addEventListener("input", (e) => {
+document.getElementById("qna-cust-name")?.addEventListener("input", (e) => {
   QNA.customerName = e.target.value.trim();
 });
 
 // New session buttons
-$("btn-new-chat").addEventListener("click", () => startNewChatSession(false));
-$("btn-new-qna").addEventListener("click", () => { startNewQnaSession(); status("새 문의", "ok"); });
+document.getElementById("btn-new-chat")?.addEventListener("click", () => startNewChatSession(false));
+document.getElementById("btn-new-qna")?.addEventListener("click", () => { startNewQnaSession(); status("새 문의", "ok"); });
 
-// Search filters
-$("chat-session-search").addEventListener("input", renderChatSessionList);
-$("qna-hist-search").addEventListener("input", renderQnaHistoryList);
+// Search filters (legacy — old hist sidebar removed for QnA, so guard)
+document.getElementById("chat-session-search")?.addEventListener("input", () => { CHAT_PAGE = 1; renderChatSessionList(); });
+document.getElementById("chat-prev")?.addEventListener("click", () => { if (CHAT_PAGE > 1) { CHAT_PAGE--; renderChatSessionList(); } });
+document.getElementById("chat-next")?.addEventListener("click", () => { CHAT_PAGE++; renderChatSessionList(); });
+document.getElementById("qna-hist-search")?.addEventListener("input", renderQnaHistoryList);
 
 // Image attachers
 const qnaAttacher = makeImageAttacher({
@@ -3804,7 +5306,34 @@ AUTOFILL_IDS.forEach(id => {
   if (el) el.addEventListener("input", () => { el.dataset.userTyped = "1"; });
 });
 
+// =====================================================
+// 서버 영속 환경설정 하이드레이션 (모든 브라우저·PC 공통, 재배포에도 유지)
+//   aicc_cfg_get → window.__AICC_CFG + 기존 localStorage 키로 주입
+//   (기존 코드 경로는 그대로 localStorage를 읽으므로 수정 불필요)
+// =====================================================
+function applyServerConfig(c) {
+  if (!c || typeof c !== "object") return;
+  window.__AICC_CFG = c;
+  try {
+    if (c.gemini_key) localStorage.setItem("lanstar_aicc_apikey", c.gemini_key);
+    if (c.naver_app_id && c.naver_app_secret) {
+      localStorage.setItem("aicc_ss_creds_v1", JSON.stringify({ app_id: c.naver_app_id, app_secret: c.naver_app_secret }));
+    }
+    if (c.talk_auth_key || c.talk_partner_id) {
+      localStorage.setItem("aicc_talkai_cfg_v1", JSON.stringify({ authKey: c.talk_auth_key || "", partnerId: c.talk_partner_id || "" }));
+    }
+  } catch (_) {}
+}
+async function loadServerConfig() {
+  try {
+    const r = await fetch(AICC_API + "&action=aicc_cfg_get&t=" + Date.now(), { cache: "no-cache" });
+    const d = await r.json();
+    if (d && d.ok && d.config) applyServerConfig(d.config);
+  } catch (_) { /* 서버 미응답 시 기존 localStorage 값 사용 */ }
+}
+
 (async () => {
+  await loadServerConfig();   // 서버 자격증명 먼저 주입 (gemini/naver/talk/godo)
   await loadIndices();
   // Prepare empty sessions
   startNewChatSession(true);
@@ -3816,6 +5345,2581 @@ AUTOFILL_IDS.forEach(id => {
     setTimeout(() => openApiKeyModal(), 400);
   }
 })();
+
+// ===== 멀티 브라우저 동기화 =====
+// 1) 30초마다 서버 상태 폴링 (다른 브라우저에서 만든 세션이 자동으로 나타남)
+setInterval(() => {
+  refreshChatList();
+  refreshQnaList();
+}, 30000);
+
+// 2) 탭이 백그라운드 → 포어그라운드 복귀 시 즉시 동기화 (사용자 체감 빠름)
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "visible") {
+    refreshChatList();
+    refreshQnaList();
+  }
+});
+
+
+// =====================================================
+// Per-session Mode Toggle (성능모드 / 빠른모드)
+// =====================================================
+const MODE_DESCRIPTIONS = {
+  perf: "— 정확도 우선 (검색 + 의도분석, ~30-50초)",
+  fast: "— 속도 우선 (검색·의도분석 OFF, ~10-20초)",
+};
+
+function refreshModeToggleUI(target) {
+  // target: "chat" | "qna" | "cs" | undefined (모두)
+  const updateOne = (key) => {
+    let state;
+    if (key === "chat") state = CHAT;
+    else if (key === "qna") state = QNA;
+    else if (key === "cs") state = (typeof CS !== "undefined") ? CS : { mode: "perf" };
+    else return;
+    const mode = (state.mode === "fast") ? "fast" : "perf";
+    const wrap = document.getElementById(key + "-mode-toggle");
+    const desc = document.getElementById(key + "-mode-desc");
+    if (wrap) {
+      wrap.querySelectorAll(".mode-opt").forEach(b => {
+        b.classList.toggle("active", b.dataset.mode === mode);
+      });
+    }
+    if (desc) desc.textContent = MODE_DESCRIPTIONS[mode];
+  };
+  if (!target || target === "chat") updateOne("chat");
+  if (!target || target === "qna") updateOne("qna");
+  if (!target || target === "cs")   updateOne("cs");
+}
+
+async function changeSessionMode(target, newMode) {
+  newMode = (newMode === "fast") ? "fast" : "perf";
+  // Update in-memory state
+  if (target === "chat") {
+    CHAT.mode = newMode;
+  } else if (target === "qna") {
+    QNA.mode = newMode;
+  } else if (target === "cs") {
+    if (typeof CS !== "undefined") CS.mode = newMode;
+  }
+  // Remember as user's last preference
+  const prefs = loadUserPrefs();
+  prefs.lastMode = newMode;
+  saveUserPrefs(prefs);
+  // Persist if there's an active session with content
+  try {
+    if (target === "chat" && CHAT.activeId && CHAT.turns.length) {
+      await saveCurrentChat();
+    } else if (target === "qna" && QNA.activeId && (QNA.question || QNA.answer)) {
+      await saveCurrentQna();
+    }
+    // CS는 서버 저장 안함 (in-memory only)
+  } catch (e) { console.warn("session save (mode) failed:", e); }
+  refreshModeToggleUI(target);
+  // Refresh sidebar to reflect new badge color
+  try {
+    if (target === "chat") renderChatSessionList();
+    else renderQnaHistoryList();
+  } catch (e) {}
+}
+
+async function changeListItemMode(target, sessionId, newMode) {
+  newMode = (newMode === "fast") ? "fast" : "perf";
+  const list = (target === "chat") ? CHAT_SESSIONS : QNA_HISTORY;
+  const idx = list.findIndex(s => s.id === sessionId);
+  if (idx < 0) return;
+  // If this is the active session, route through changeSessionMode (saves + UI)
+  const isActive = (target === "chat") ? (CHAT.activeId === sessionId) : (QNA.activeId === sessionId);
+  if (isActive) { await changeSessionMode(target, newMode); return; }
+  // Otherwise, load → patch mode → save
+  try {
+    const data = await apiLoadSession(target, sessionId);
+    data.mode = newMode;
+    await apiSaveSession(target, data);
+    list[idx].mode = newMode;
+    if (target === "chat") renderChatSessionList();
+    else renderQnaHistoryList();
+    status("모드 변경됨: " + (newMode === "fast" ? "빠른모드" : "성능모드"), "ok");
+  } catch (e) {
+    status("모드 변경 실패: " + e.message, "err");
+  }
+}
+
+// Event delegation: clicks on inline toggles + sidebar badges
+document.addEventListener("click", (e) => {
+  // 1. Mode toggle buttons (in input area)
+  const modeOpt = e.target.closest("#chat-mode-toggle .mode-opt, #qna-mode-toggle .mode-opt, #cs-mode-toggle .mode-opt");
+  if (modeOpt) {
+    const target = modeOpt.dataset.target;
+    const mode = modeOpt.dataset.mode;
+    changeSessionMode(target, mode);
+    return;
+  }
+  // 2. Sidebar badge (cycles between perf <-> fast)
+  const badge = e.target.closest("[data-toggle-mode]");
+  if (badge) {
+    e.stopPropagation();  // prevent opening the session
+    const target = badge.dataset.toggleMode;
+    const sid = badge.dataset.id;
+    const cur = badge.classList.contains("mode-fast") ? "fast" : "perf";
+    const next = cur === "fast" ? "perf" : "fast";
+    changeListItemMode(target, sid, next);
+    return;
+  }
+});
+
+// Initialize toggle UI on page load (after DOM ready)
+(function initModeToggle(){
+  const init = () => {
+    // Set CHAT/QNA defaults from prefs
+    const lastMode = loadUserPrefs().lastMode === "fast" ? "fast" : "perf";
+    if (!CHAT.activeId) CHAT.mode = lastMode;
+    if (!QNA.activeId) QNA.mode = lastMode;
+    refreshModeToggleUI();
+  };
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+})();
+
+
+
+// =====================================================
+// 스마트스토어 (네이버 커머스API) Q&A 자동화
+// =====================================================
+const SS_CREDS_KEY = "aicc_ss_creds_v1";
+
+function loadSSCreds() {
+  try {
+    const raw = localStorage.getItem(SS_CREDS_KEY);
+    if (!raw) return null;
+    const c = JSON.parse(raw);
+    if (c && typeof c.app_id === "string" && typeof c.app_secret === "string") return c;
+    return null;
+  } catch (_) { return null; }
+}
+function saveSSCreds(app_id, app_secret) {
+  try {
+    localStorage.setItem(SS_CREDS_KEY, JSON.stringify({app_id, app_secret}));
+  } catch (_) {}
+}
+function clearSSCreds() {
+  try { localStorage.removeItem(SS_CREDS_KEY); } catch(_) {}
+}
+
+function updateSSStatusBadge() {
+  const el = $("ss-fetch-status");
+  if (!el) return;
+  const c = loadSSCreds();
+  if (!c) {
+    el.textContent = "— 자격증명 미설정 (⚙️ 설정에서 입력)";
+    el.style.color = "var(--muted)";
+    $("btn-ss-fetch").disabled = true;
+  } else {
+    el.textContent = "— 준비됨 (앱: " + c.app_id.slice(0, 8) + "...)";
+    el.style.color = "var(--accent)";
+    $("btn-ss-fetch").disabled = false;
+  }
+}
+
+// Settings modal — load/save creds
+function ssCredsLoadIntoModal() {
+  const c = loadSSCreds();
+  $("opt-ss-appid").value  = c?.app_id     || "";
+  $("opt-ss-secret").value = c?.app_secret || "";
+  $("ss-creds-test-result").textContent = "";
+  $("ss-creds-test-result").className   = "small";
+}
+function ssCredsSaveFromModal() {
+  const id = $("opt-ss-appid").value.trim();
+  const sk = $("opt-ss-secret").value.trim();
+  if (id && sk) saveSSCreds(id, sk);
+  else if (!id && !sk) clearSSCreds();
+  updateSSStatusBadge();
+}
+
+// Token test from settings modal
+$("btn-ss-test").addEventListener("click", async () => {
+  const id = $("opt-ss-appid").value.trim();
+  const sk = $("opt-ss-secret").value.trim();
+  const res = $("ss-creds-test-result");
+  if (!id || !sk) { res.textContent = "❌ ID와 시크릿을 모두 입력하세요"; res.className = "small err"; return; }
+  res.textContent = "⏳ 네이버에 토큰 요청 중...";
+  res.className = "small";
+  try {
+    const r = await fetch(AICC_API + "&action=naver_token_test&t=" + Date.now(), {
+      method: "POST",
+      headers: {"Content-Type": "application/json"},
+      body: JSON.stringify({app_id: id, app_secret: sk})
+    });
+    const d = await r.json();
+    if (d.success) {
+      res.textContent = "✓ 토큰 발급 성공 (만료까지 " + Math.floor(d.expires_in/60) + "분)";
+      res.className = "small ok";
+      saveSSCreds(id, sk);
+      updateSSStatusBadge();
+    } else {
+      const msg = d.naver_response?.message || d.naver?.message || d.error || "unknown error";
+      res.textContent = "❌ " + msg + (d.http_code ? " (HTTP " + d.http_code + ")" : "");
+      res.className = "small err";
+    }
+  } catch (e) {
+    res.textContent = "❌ 호출 실패: " + e.message;
+    res.className = "small err";
+  }
+});
+
+// =====================================================
+// Q&A 목록 가져오기
+// =====================================================
+let SS_LIST_CACHE = [];
+
+async function ssFetchList() {
+  const creds = loadSSCreds();
+  if (!creds) { status("자격증명 먼저 설정하세요", "err"); return; }
+
+  const answered = $("ss-filter-answered").value;
+  const days = parseInt($("ss-filter-days").value || "7", 10);
+  const now = new Date();
+  const from = new Date(now.getTime() - days * 86400000);
+  const fmt = (d) => {
+    // 2026-05-07T12:30:00.000+09:00 (Asia/Seoul)
+    const tz = "+09:00";
+    const pad = (n) => String(n).padStart(2, "0");
+    const ms = d.getMilliseconds().toString().padStart(3, "0");
+    // local time → format as Seoul
+    return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}T${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}.${ms}${tz}`;
+  };
+
+  const body = {
+    app_id: creds.app_id,
+    app_secret: creds.app_secret,
+    fromDate: fmt(from),
+    toDate: fmt(now),
+    size: 100,
+  };
+  if (answered !== "") body.answered = answered;
+
+  $("ss-list-status").textContent = "불러오는 중...";
+  $("ss-list-body").innerHTML = '<div class="empty-hint">불러오는 중...</div>';
+  try {
+    const r = await fetch(AICC_API + "&action=naver_qna_list&t=" + Date.now(), {
+      method: "POST", headers: {"Content-Type":"application/json"}, body: JSON.stringify(body)
+    });
+    const d = await r.json();
+    if (!d.success) {
+      const msg = d.naver?.message || d.error || "fetch failed";
+      $("ss-list-status").textContent = "❌ " + msg;
+      $("ss-list-body").innerHTML = '<div class="empty-hint" style="color:var(--err)">실패: ' + escapeHtml(msg) + '</div>';
+      return;
+    }
+    SS_LIST_CACHE = d.items || [];
+    $("ss-list-status").textContent = `${d.totalElements}건 (${days}일)`;
+    renderSSList();
+  } catch (e) {
+    $("ss-list-status").textContent = "❌ " + e.message;
+    $("ss-list-body").innerHTML = '<div class="empty-hint" style="color:var(--err)">오류: ' + escapeHtml(e.message) + '</div>';
+  }
+}
+
+// 모델명 추출 (제품명에서 LS-XXX 패턴 추출)
+function extractModelFromName(productName) {
+  if (!productName) return null;
+  const re = /\b(LS|LSN|LSP|HT|ZOT)[A-Z0-9-]*\b/gi;
+  const matches = productName.match(re) || [];
+  // 가장 긴 매치를 선택 (LS-HD2KVM-D 우선, LS만 단독은 제외)
+  const valid = matches.filter(m => m.length > 3 && m.includes("-"));
+  if (!valid.length) return null;
+  return valid.sort((a,b) => b.length - a.length)[0].toUpperCase();
+}
+
+function tryMatchProductId(item) {
+  // 1) 모델명 직접 매칭 (productName에서 추출 → models_index에 있는지 확인)
+  const extracted = extractModelFromName(item.productName);
+  if (extracted && DATA.modelsIndex && DATA.modelsIndex[extracted]) {
+    return { stem: extracted, confidence: "exact" };
+  }
+  // 2) variant_models 까지 검색
+  if (extracted && DATA.modelsIndex) {
+    for (const [stem, info] of Object.entries(DATA.modelsIndex)) {
+      if (info.variant_models && info.variant_models.includes(extracted)) {
+        return { stem, confidence: "variant", matched: extracted };
+      }
+    }
+  }
+  // 3) 부분 일치 fallback
+  if (extracted && DATA.modelsIndex) {
+    const prefix = extracted.split("-")[0] + "-";
+    for (const stem of Object.keys(DATA.modelsIndex)) {
+      if (stem.startsWith(extracted) || extracted.startsWith(stem)) {
+        return { stem, confidence: "partial", matched: extracted };
+      }
+    }
+  }
+  return null;
+}
+
+function renderSSList() {
+  const container = $("ss-list-body");
+  if (!SS_LIST_CACHE.length) {
+    container.innerHTML = '<div class="empty-hint">조회 결과 없음</div>';
+    return;
+  }
+  container.innerHTML = SS_LIST_CACHE.map((it, idx) => {
+    const match = tryMatchProductId(it);
+    const matchBadge = match
+      ? `<span class="ss-match-badge matched">✓ ${escapeHtml(match.stem)}</span>`
+      : `<span class="ss-match-badge unmatched">⚠ 모델 자동매칭 실패</span>`;
+    const date = (it.createDate || "").replace("T", " ").slice(0, 16);
+    const answeredCls = it.answered ? "answered" : "";
+    return `
+      <div class="ss-card ${answeredCls}" data-idx="${idx}">
+        <div class="ss-card-top">
+          <span class="ss-card-qid">Q${escapeHtml(String(it.questionId))}</span>
+          <span class="ss-card-date">${escapeHtml(date)} · ${escapeHtml(it.maskedWriterId || "")}</span>
+        </div>
+        <div class="ss-card-product">${escapeHtml((it.productName || "").slice(0, 80))}${matchBadge}</div>
+        <div class="ss-card-question">${escapeHtml(it.question || "")}</div>
+        ${it.answer ? `<details><summary class="small">기존 답변 보기</summary><div class="small" style="padding:8px; background:var(--elev-1); border-radius:4px; margin-top:6px; white-space:pre-wrap">${escapeHtml(it.answer)}</div></details>` : ""}
+        <div class="ss-card-actions">
+          <button class="secondary" data-action="open" data-idx="${idx}">📝 이 문의로 답변 작성</button>
+        </div>
+      </div>
+    `;
+  }).join("");
+}
+
+// [FIX 2026-05-08] 모델 자동매칭 실패 시 이전 선택 잔존 제거 + 키워드 입력 안내
+function deselectQnaModel(productName) {
+  // 내부 선택 상태 초기화
+  DATA.selected = null;
+  // 검색창 비우고 readonly 해제 (사용자가 즉시 타이핑 가능)
+  const searchEl = document.getElementById("qna-model-search");
+  if (searchEl) {
+    searchEl.value = "";
+    searchEl.removeAttribute("readonly");
+  }
+  // 드롭다운 닫기
+  const dd = document.getElementById("qna-dropdown-list");
+  if (dd) dd.style.display = "none";
+  // 선택된 제품 카드 자리에 안내 카드 표시
+  const safeName = (productName || "").toString().slice(0, 80);
+  document.getElementById("qna-selected-product").innerHTML = `
+    <div class="qna-meta-card" style="border:1px dashed var(--err); background:var(--elev-1)">
+      <b style="color:var(--err)">⚠ 모델 자동매칭 실패</b>
+      <div class="small" style="margin-top:4px">상품명: ${escapeHtml(safeName)}</div>
+      <div class="small" style="margin-top:6px; color:var(--muted)">
+        위 검색창에 <b>제품 키워드</b>(예: 모델코드, 카테고리명 등)를 입력해 모델을 직접 선택하세요.
+      </div>
+    </div>`;
+  // 답변 생성 버튼 비활성화
+  const btn = document.getElementById("btn-qna-answer");
+  if (btn) btn.disabled = true;
+  // 안내 텍스트
+  const hint = document.getElementById("qna-hint");
+  if (hint) hint.textContent = "⚠ 제품을 직접 선택하세요 — 위 검색창에 키워드 입력";
+  // 템플릿 영역 숨김
+  const tplWrap = document.getElementById("qna-templates-wrap");
+  if (tplWrap) tplWrap.style.display = "none";
+  // 검색창에 포커스 (사용자 즉시 입력 가능)
+  setTimeout(() => { if (searchEl) searchEl.focus(); }, 80);
+}
+
+// 카드 클릭 시 자동 채움 + 모델 매칭
+async function ssOpenInQnaForm(item) {
+  // 1) 모델 자동 매칭
+  const match = tryMatchProductId(item);
+  if (match && match.stem) {
+    try {
+      await selectModel(match.stem, "qna");
+    } catch (e) { console.warn("auto-select failed:", e); }
+  } else {
+    // [FIX 2026-05-08] 매칭 실패 시 이전 모델 잔존 제거 + 키워드 입력 안내
+    deselectQnaModel(item.productName);
+    status(`모델 자동매칭 실패 — 위 검색창에 제품 키워드를 입력하세요. (${item.productName?.slice(0,40) || ""})`, "warn");
+  }
+  // 2) 질문 자동 채움
+  $("qna-question").value = item.question || "";
+  // 3) 작성자 정보 (마스킹된 ID 사용)
+  $("qna-cust-name").value = item.maskedWriterId || "";
+  // 4) Q&A 메타정보 저장 (등록 시 questionId 사용)
+  QNA._ss_questionId = item.questionId;
+  QNA._ss_productName = item.productName;
+  // 5) 모달 닫기
+  $("ss-list-modal").classList.remove("show");
+  // 6) 새 QnA 세션 시작 (활성 세션이 있으면)
+  if (QNA.activeId && (QNA.question || QNA.answer)) {
+    startNewQnaSession();
+    $("qna-question").value = item.question || "";
+    $("qna-cust-name").value = item.maskedWriterId || "";
+    QNA._ss_questionId = item.questionId;
+    QNA._ss_productName = item.productName;
+  }
+  status(`Q${item.questionId} 로드 — AI 답변 생성 버튼을 누르세요`, "ok");
+}
+
+// =====================================================
+// AI 답변 후 "스마트스토어에 등록" 버튼 추가
+// =====================================================
+function injectSSRegisterButtonIfNeeded() {
+  if (!QNA._ss_questionId) return;
+  if (!QNA.answer || !QNA.answer.answer) return;
+  const actions = document.querySelector("#qna-answer-area .qa-actions");
+  if (!actions) return;
+  if (actions.querySelector(".ss-register-btn")) return;
+  const btn = document.createElement("button");
+  btn.className = "ss-register-btn";
+  btn.id = "btn-ss-register";
+  btn.textContent = `📤 스마트스토어에 등록 (Q${QNA._ss_questionId})`;
+  btn.addEventListener("click", () => ssRegisterAnswer());
+  actions.appendChild(btn);
+}
+
+async function ssRegisterAnswer() {
+  const creds = loadSSCreds();
+  if (!creds) { alert("자격증명 미설정"); return; }
+  if (!QNA._ss_questionId) { alert("등록할 questionId 없음"); return; }
+  const text = QNA.answer?.answer || "";
+  if (!text.trim()) { alert("답변 내용 없음"); return; }
+  if (!confirm(`Q${QNA._ss_questionId} 에 다음 답변을 스마트스토어에 등록할까요?\n\n${text.slice(0, 200)}${text.length > 200 ? "..." : ""}`)) return;
+
+  const btn = document.getElementById("btn-ss-register");
+  if (btn) { btn.disabled = true; btn.textContent = "⏳ 등록 중..."; }
+  try {
+    const r = await fetch(AICC_API + "&action=naver_qna_answer&t=" + Date.now(), {
+      method: "POST",
+      headers: {"Content-Type":"application/json"},
+      body: JSON.stringify({
+        app_id: creds.app_id,
+        app_secret: creds.app_secret,
+        questionId: QNA._ss_questionId,
+        commentContent: text,
+      })
+    });
+    const d = await r.json();
+    if (d.success) {
+      if (btn) { btn.textContent = "✓ 등록 완료"; btn.style.background = "#00a544"; btn.disabled = true; }
+      status(`Q${QNA._ss_questionId} 등록 완료`, "ok");
+      // 캐시에서 제거 (재조회 시 안 보이도록)
+      SS_LIST_CACHE = SS_LIST_CACHE.filter(x => x.questionId !== QNA._ss_questionId);
+    } else {
+      const msg = d.naver?.message || d.error || "등록 실패";
+      if (btn) { btn.disabled = false; btn.textContent = "📤 스마트스토어에 등록 (재시도)"; }
+      alert("❌ 등록 실패: " + msg + (d.http_code ? " (HTTP " + d.http_code + ")" : ""));
+    }
+  } catch (e) {
+    if (btn) { btn.disabled = false; btn.textContent = "📤 재시도"; }
+    alert("❌ 호출 실패: " + e.message);
+  }
+}
+
+// 기존 renderQnaAnswer 직후에 register 버튼 주입 (MutationObserver로 감지)
+const _origRenderQnaAnswer = renderQnaAnswer;
+renderQnaAnswer = function(...args) {
+  const ret = _origRenderQnaAnswer.apply(this, args);
+  setTimeout(injectSSRegisterButtonIfNeeded, 0);
+  return ret;
+};
+
+// =====================================================
+// Event handlers
+// =====================================================
+$("btn-ss-fetch").addEventListener("click", () => {
+  const creds = loadSSCreds();
+  if (!creds) {
+    alert("⚙️ 설정에서 스마트스토어 자격증명을 먼저 입력해주세요.");
+    openSettingsModal();
+    return;
+  }
+  $("ss-list-modal").classList.add("show");
+  ssFetchList();
+});
+$("btn-ss-list-close").addEventListener("click", () => $("ss-list-modal").classList.remove("show"));
+$("btn-ss-refresh").addEventListener("click", ssFetchList);
+$("ss-filter-answered").addEventListener("change", ssFetchList);
+$("ss-filter-days").addEventListener("change", ssFetchList);
+
+// Card click delegation
+$("ss-list-body").addEventListener("click", (e) => {
+  const btn = e.target.closest("button[data-action='open']");
+  if (!btn) return;
+  const idx = parseInt(btn.dataset.idx, 10);
+  const item = SS_LIST_CACHE[idx];
+  if (item) ssOpenInQnaForm(item);
+});
+
+// 설정 모달 열릴 때 자격증명도 같이 로드
+const _origOpenSettings = openSettingsModal;
+openSettingsModal = function() {
+  _origOpenSettings();
+  ssCredsLoadIntoModal();
+};
+// 저장 시 자격증명도 같이 저장
+const _origSaveBtn = $("btn-settings-save");
+const _origSaveHandler = _origSaveBtn.onclick;
+_origSaveBtn.addEventListener("click", () => { ssCredsSaveFromModal(); });
+// 초기화 시 자격증명도 클리어 (옵션)
+$("btn-settings-reset").addEventListener("click", () => {
+  if (confirm("스마트스토어 자격증명도 함께 삭제할까요?")) {
+    clearSSCreds();
+    ssCredsLoadIntoModal();
+    updateSSStatusBadge();
+  }
+});
+
+// 페이지 로드 시 상태 표시 갱신
+(function ssInit(){
+  const init = () => updateSSStatusBadge();
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
+  else init();
+})();
+
+
+
+
+// =====================================================
+// 자동 폴링 (10분 주기 새 미답변 문의 자동 조회)
+// =====================================================
+const SS_POLL_INTERVAL_MS = 10 * 60 * 1000;  // 10 minutes
+const SS_POLL_DAYS        = 30;              // 30일 범위 미답변 조회
+const SS_SEEN_KEY         = "aicc_ss_seen_v1";
+
+let SS_PENDING        = [];   // 현재 미답변 목록
+let SS_LAST_POLL_AT   = 0;    // 마지막 폴링 timestamp
+let SS_POLL_TIMER     = null; // setInterval handle
+let SS_FETCH_INFLIGHT = false; // 중복 호출 방지
+
+function ssLoadSeen() {
+  try {
+    const raw = localStorage.getItem(SS_SEEN_KEY);
+    return raw ? new Set(JSON.parse(raw)) : new Set();
+  } catch(_) { return new Set(); }
+}
+function ssSaveSeen(set) {
+  try {
+    // 캡: 최근 500개만 (메모리 누적 방지)
+    const arr = [...set].slice(-500);
+    localStorage.setItem(SS_SEEN_KEY, JSON.stringify(arr));
+  } catch(_) {}
+}
+function ssMarkSeen(qid) {
+  const seen = ssLoadSeen();
+  seen.add(qid);
+  ssSaveSeen(seen);
+}
+
+async function ssAutoFetch(force) {
+  if (SS_FETCH_INFLIGHT) return;
+  const creds = loadSSCreds();
+  if (!creds) return;  // 자격증명 없으면 폴링 자체 중단
+  if (!force && document.hidden) return;  // 자동 폴링은 background 탭에서 스킵 (수동/visibility는 force=true)
+
+  SS_FETCH_INFLIGHT = true;
+  const refreshBtn = document.getElementById("btn-ss-poll-now");
+  if (refreshBtn) { refreshBtn.disabled = true; refreshBtn.textContent = "⏳"; }
+
+  const now = new Date();
+  const from = new Date(now.getTime() - SS_POLL_DAYS * 86400000);
+  const fmt = (d) => {
+    const pad = n => String(n).padStart(2,"0");
+    const ms = d.getMilliseconds().toString().padStart(3,"0");
+    return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}T${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}.${ms}+09:00`;
+  };
+
+  try {
+    const r = await fetch(AICC_API + "&action=naver_qna_list&t=" + Date.now(), {
+      method: "POST", headers: {"Content-Type":"application/json"},
+      body: JSON.stringify({
+        app_id: creds.app_id, app_secret: creds.app_secret,
+        fromDate: fmt(from), toDate: fmt(now),
+        answered: "false", size: 100
+      })
+    });
+    const d = await r.json();
+    if (d.success) {
+      SS_PENDING = d.items || [];
+      SS_LAST_POLL_AT = Date.now();
+      ssRenderPending();
+      ssUpdateTabBadge();
+    } else {
+      console.warn("[ss-poll] fail:", d);
+      const meta = document.getElementById("ss-pending-meta-text");
+      if (meta) meta.textContent = "❌ " + (d.naver?.message || d.error || "fetch failed");
+    }
+  } catch (e) {
+    console.warn("[ss-poll] error:", e);
+  } finally {
+    SS_FETCH_INFLIGHT = false;
+    if (refreshBtn) { refreshBtn.disabled = false; refreshBtn.textContent = "🔄"; }
+  }
+}
+
+function ssRenderPending() {
+  const sec = document.getElementById("ss-pending-section");
+  const list = document.getElementById("ss-pending-list");
+  const cntEl = document.getElementById("ss-pending-count");
+  const meta = document.getElementById("ss-pending-meta-text");
+  if (!sec || !list || !cntEl) return;
+
+  // 자격증명 없으면 섹션 숨김
+  if (!loadSSCreds()) { sec.style.display = "none"; return; }
+  sec.style.display = "block";
+
+  const seen = ssLoadSeen();
+  cntEl.textContent = SS_PENDING.length;
+  cntEl.classList.toggle("zero", SS_PENDING.length === 0);
+
+  if (meta) {
+    if (SS_LAST_POLL_AT) {
+      const t = new Date(SS_LAST_POLL_AT);
+      const hh = String(t.getHours()).padStart(2,"0");
+      const mm = String(t.getMinutes()).padStart(2,"0");
+      meta.textContent = `마지막 확인: ${hh}:${mm}  ·  ${SS_POLL_DAYS}일 범위`;
+    } else {
+      meta.textContent = "확인 대기...";
+    }
+  }
+
+  if (!SS_PENDING.length) {
+    list.innerHTML = '<div class="ss-pending-empty">미답변 문의 없음 ✓</div>';
+    return;
+  }
+
+  list.innerHTML = SS_PENDING.map((it, idx) => {
+    const isNew = !seen.has(it.questionId);
+    const date = (it.createDate || "").replace("T", " ").slice(5, 16);
+    const product = (it.productName || "").slice(0, 40);
+    const q = (it.question || "").slice(0, 100);
+    return `
+      <div class="ss-pending-item ${isNew ? 'is-new' : ''}" data-pidx="${idx}">
+        <div class="spi-product">${escapeHtml(product)}</div>
+        <div class="spi-q">${escapeHtml(q)}</div>
+        <div class="spi-meta">Q${escapeHtml(String(it.questionId))} · ${escapeHtml(date)} · ${escapeHtml(it.maskedWriterId || "")}</div>
+      </div>
+    `;
+  }).join("");
+}
+
+function ssUpdateTabBadge() {
+  const badge = document.getElementById("tab-qna-badge");
+  if (!badge) return;
+  const seen = ssLoadSeen();
+  const newCount = SS_PENDING.filter(it => !seen.has(it.questionId)).length;
+  if (newCount > 0) {
+    badge.textContent = newCount;
+    badge.style.display = "inline-block";
+  } else {
+    badge.style.display = "none";
+  }
+}
+
+// 사이드바 항목 클릭 → 폼에 자동 채움 + seen 표시
+document.addEventListener("click", (e) => {
+  const item = e.target.closest("#ss-pending-list .ss-pending-item");
+  if (!item) return;
+  const idx = parseInt(item.dataset.pidx, 10);
+  const it = SS_PENDING[idx];
+  if (!it) return;
+  ssMarkSeen(it.questionId);
+  ssOpenInQnaForm(it);
+  ssRenderPending();
+  ssUpdateTabBadge();
+});
+
+// "🔄" 즉시 새로고침
+document.addEventListener("click", (e) => {
+  if (e.target.id === "btn-ss-poll-now") {
+    e.preventDefault();
+    ssAutoFetch(true);
+  }
+});
+
+// 탭 가시성 변경 시 — 보이게 되면 즉시 1회 폴링 (캐시가 오래된 경우)
+document.addEventListener("visibilitychange", () => {
+  if (!document.hidden && loadSSCreds()) {
+    const elapsed = Date.now() - SS_LAST_POLL_AT;
+    // 마지막 조회로부터 1분 이상 지났으면 즉시 갱신 (force=true)
+    if (elapsed > 60000) ssAutoFetch(true);
+  }
+});
+
+// 자격증명 변경(저장/삭제) 시 즉시 1회 폴링 또는 클리어
+const _origSaveSSCreds = saveSSCreds;
+saveSSCreds = function(id, sk) {
+  _origSaveSSCreds(id, sk);
+  ssAutoFetch(true);
+};
+const _origClearSSCreds = clearSSCreds;
+clearSSCreds = function() {
+  _origClearSSCreds();
+  SS_PENDING = [];
+  ssRenderPending();
+  ssUpdateTabBadge();
+};
+
+// 폴링 시작
+function ssStartPolling() {
+  if (SS_POLL_TIMER) clearInterval(SS_POLL_TIMER);
+  SS_POLL_TIMER = setInterval(() => ssAutoFetch(false), SS_POLL_INTERVAL_MS);
+  // 페이지 로드 직후 1회 즉시 호출 (force=true: 처음 로드 시 보장)
+  setTimeout(() => ssAutoFetch(true), 1500);
+}
+
+// 페이지 로드 후 시작
+(function ssPollInit(){
+  const init = () => {
+    ssRenderPending();
+    ssUpdateTabBadge();
+    ssStartPolling();
+  };
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
+  else init();
+})();
+
+
+
+
+// =====================================================
+// [개편] 네이버 직접 사이드바 (상품Q&A + 고객문의)
+// =====================================================
+const NV_PAGE_SIZE = 30;
+
+let QNA_LIST_CACHE  = [];
+let QNA_PAGE        = 1;
+let QNA_TOTAL_PAGES = 1;
+let QNA_TOTAL       = 0;
+let QNA_FETCHING    = false;
+let QNA_ACTIVE_QID  = null;
+
+let CS_LIST_CACHE   = [];
+let CS_PAGE         = 1;
+let CS_TOTAL_PAGES  = 1;
+let CS_TOTAL        = 0;
+let CS_FETCHING     = false;
+let CS_ACTIVE_INQID = null;
+let CS_SELECTED     = null;
+const CS = { mode: "perf" };
+
+function _credCheck() { return !!loadSSCreds(); }
+
+// === 상품 Q&A 페이지 가져오기 ===
+async function qnaFetchPage() {
+  if (QNA_FETCHING) return;
+  if (!_credCheck()) {
+    document.getElementById("qna-naver-list").innerHTML =
+      `<div class="empty-hint" style="font-size:12px">⚙️ 설정에서 스마트스토어 자격증명 입력 필요</div>`;
+    return;
+  }
+  QNA_FETCHING = true;
+  const refreshBtn = document.getElementById("btn-qna-refresh");
+  if (refreshBtn) { refreshBtn.disabled = true; refreshBtn.textContent = "⏳"; }
+
+  const creds = loadSSCreds();
+  const days = parseInt(document.getElementById("qna-filter-days").value, 10);
+  const status = document.getElementById("qna-filter-status").value;
+  const now = new Date();
+  const from = new Date(now.getTime() - days * 86400000);
+  const fmt = d => {
+    const pad = n => String(n).padStart(2, "0");
+    const ms = d.getMilliseconds().toString().padStart(3, "0");
+    return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}T${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}.${ms}+09:00`;
+  };
+  const body = {
+    app_id: creds.app_id, app_secret: creds.app_secret,
+    fromDate: fmt(from), toDate: fmt(now),
+    page: QNA_PAGE, size: NV_PAGE_SIZE,
+  };
+  if (status !== "") body.answered = status;
+
+  try {
+    const r = await fetch(AICC_API + "&action=naver_qna_list&t=" + Date.now(), {
+      method: "POST", headers: {"Content-Type":"application/json"}, body: JSON.stringify(body)
+    });
+    const d = await r.json();
+    if (!d.success) {
+      const msg = d.naver?.message || d.error || "fetch failed";
+      document.getElementById("qna-list-meta").textContent = "❌ " + msg;
+      document.getElementById("qna-naver-list").innerHTML = `<div class="empty-hint" style="font-size:12px; color:var(--err)">${escapeHtml(msg)}</div>`;
+      return;
+    }
+    QNA_LIST_CACHE = d.items || [];
+    QNA_TOTAL = d.totalElements || 0;
+    QNA_TOTAL_PAGES = d.totalPages || 1;
+    document.getElementById("qna-list-count").textContent = QNA_TOTAL;
+    document.getElementById("qna-list-count").classList.toggle("zero", QNA_TOTAL === 0);
+    document.getElementById("qna-list-meta").textContent = `${QNA_TOTAL}건 · 페이지 ${QNA_PAGE}/${QNA_TOTAL_PAGES}`;
+    qnaRenderList();
+    qnaUpdatePaging();
+    if (typeof ssUpdateTabBadge === "function") ssUpdateTabBadge();
+  } catch (e) {
+    document.getElementById("qna-list-meta").textContent = "❌ " + e.message;
+  } finally {
+    QNA_FETCHING = false;
+    if (refreshBtn) { refreshBtn.disabled = false; refreshBtn.textContent = "🔄"; }
+  }
+}
+
+function qnaFilterCache() {
+  const kw = (document.getElementById("qna-keyword").value || "").toLowerCase().trim();
+  if (!kw) return QNA_LIST_CACHE;
+  return QNA_LIST_CACHE.filter(it =>
+    (it.productName||"").toLowerCase().includes(kw) ||
+    (it.question||"").toLowerCase().includes(kw) ||
+    (it.answer||"").toLowerCase().includes(kw)
+  );
+}
+
+function qnaRenderList() {
+  const list = document.getElementById("qna-naver-list");
+  const seen = ssLoadSeen();
+  const filtered = qnaFilterCache();
+  if (!filtered.length) {
+    list.innerHTML = `<div class="empty-hint" style="font-size:12px">결과 없음</div>`;
+    return;
+  }
+  list.innerHTML = filtered.map((it, i) => {
+    const isNew = !seen.has(it.questionId);
+    const isActive = QNA_ACTIVE_QID === it.questionId;
+    const date = (it.createDate || "").replace("T"," ").slice(5,16);
+    const statBadge = it.answered
+      ? `<span class="status-badge answered">답변완료</span>`
+      : `<span class="status-badge unanswered">미답변</span>`;
+    return `
+      <div class="nv-card ${isActive?'active':''} ${isNew && !it.answered ? 'is-new':''}" data-qidx="${i}">
+        <div class="nv-card-row1">${statBadge}</div>
+        <div class="nv-card-product">${escapeHtml((it.productName||"").slice(0,60))}</div>
+        <div class="nv-card-q">${escapeHtml((it.question||"").slice(0,90))}</div>
+        <div class="nv-card-meta">Q${escapeHtml(String(it.questionId))} · ${escapeHtml(date)} · ${escapeHtml(it.maskedWriterId||"")}</div>
+      </div>
+    `;
+  }).join("");
+}
+
+function qnaUpdatePaging() {
+  const p = document.getElementById("qna-paging");
+  if (QNA_TOTAL_PAGES <= 1) { p.style.display = "none"; return; }
+  p.style.display = "flex";
+  document.getElementById("qna-page-info").textContent = `${QNA_PAGE}/${QNA_TOTAL_PAGES}`;
+  document.getElementById("qna-prev").disabled = QNA_PAGE <= 1;
+  document.getElementById("qna-next").disabled = QNA_PAGE >= QNA_TOTAL_PAGES;
+}
+
+async function qnaOpenItem(item) {
+  ssMarkSeen(item.questionId);
+  QNA_ACTIVE_QID = item.questionId;
+  qnaRenderList();
+  if (typeof ssUpdateTabBadge === "function") ssUpdateTabBadge();
+  // [FIX 2026-05-08] 항목 선택 시 답변 영역 초기화
+  // 이전 클릭이 답변완료였다면 renderQnaCompactEditor가 #qna-answer-area에
+  // 편집 패널을 주입한 상태이므로, 다음 항목(특히 미답변)으로 전환 시 잔존을 막아야 함.
+  // 모델 자동매칭(selectModel)이 실패하면 이 영역을 갱신하는 다른 경로도 없어
+  // 이전 패널이 그대로 보이는 버그가 발생한다.
+  document.getElementById("qna-answer-area").innerHTML = `
+    <div class="answer-box" style="color:var(--muted)">
+      <h3 style="color:var(--muted)">문의 로드됨</h3>
+      제품·고객명·문의내용 확인 후 <b>AI 답변 생성</b>을 눌러주세요.
+    </div>`;
+  await ssOpenInQnaForm(item);
+  if (item.answered && item.answer) {
+    // 답변완료: 컴팩트 편집 패널 표시 (renderQnaAnswer 우회)
+    QNA._ss_questionId = item.questionId;
+    setTimeout(() => renderQnaCompactEditor(item), 200);
+  }
+}
+
+// 답변완료 시 표시되는 컴팩트 편집 패널
+function renderQnaCompactEditor(item) {
+  const date = (item.createDate || "").replace("T"," ").slice(0, 16);
+  const writer = item.maskedWriterId || "";
+  const html = `
+    <div class="nv-edit-panel">
+      <div class="nv-edit-header">
+        <h3>📝 답변 수정</h3>
+        <span class="nv-edit-q-meta">Q${item.questionId} · ${escapeHtml(date)} · ${escapeHtml(writer)}</span>
+        <div class="nv-edit-action">
+          <button id="btn-qna-update-top" type="button">📤 스마트스토어에 답변 수정</button>
+        </div>
+      </div>
+      <div class="nv-edit-label">고객 문의</div>
+      <div class="nv-edit-question">${escapeHtml(item.question || "")}</div>
+      <div class="nv-edit-label">기존 답변 <span class="nv-status-pill">답변완료</span> <span class="small" style="color:var(--muted); font-weight:normal">(편집 후 위 버튼으로 업데이트)</span></div>
+      <textarea id="qna-edit-textarea" class="nv-edit-textarea">${escapeHtml(item.answer || "")}</textarea>
+      <div class="nv-edit-footer">
+        <button class="nv-secondary-btn" id="btn-qna-ai-regen" type="button">🤖 AI로 답변 재생성</button>
+        <button class="nv-secondary-btn" id="btn-qna-revert" type="button">↶ 원본 답변 복원</button>
+        <span class="nv-edit-status" id="qna-edit-status"></span>
+      </div>
+    </div>
+  `;
+  document.getElementById("qna-answer-area").innerHTML = html;
+
+  // 원본 답변 백업 (복원용)
+  const ORIGINAL = item.answer || "";
+
+  // 수정 버튼 (상단)
+  document.getElementById("btn-qna-update-top").addEventListener("click", async () => {
+    const text = document.getElementById("qna-edit-textarea").value.trim();
+    if (!text) { alert("답변을 입력하세요"); return; }
+    const creds = loadSSCreds();
+    if (!creds) { alert("자격증명 미설정"); return; }
+    if (!confirm(`Q${item.questionId} 답변을 스마트스토어에 수정 등록할까요?\n\n${text.slice(0,200)}${text.length>200?"...":""}`)) return;
+
+    const btn = document.getElementById("btn-qna-update-top");
+    const stat = document.getElementById("qna-edit-status");
+    btn.disabled = true; btn.textContent = "⏳ 수정 중...";
+    stat.textContent = "";
+    try {
+      const r = await fetch(AICC_API + "&action=naver_qna_answer&t=" + Date.now(), {
+        method: "POST", headers: {"Content-Type":"application/json"},
+        body: JSON.stringify({
+          app_id: creds.app_id, app_secret: creds.app_secret,
+          questionId: item.questionId, commentContent: text
+        })
+      });
+      const d = await r.json();
+      if (d.success) {
+        stat.textContent = "✓ 수정 완료";
+        stat.style.color = "#00a544";
+        btn.textContent = "✓ 수정 완료";
+        // 캐시의 답변도 갱신
+        item.answer = text;
+        const cacheItem = QNA_LIST_CACHE.find(x => x.questionId === item.questionId);
+        if (cacheItem) cacheItem.answer = text;
+        setTimeout(() => qnaFetchPage(), 800);
+      } else {
+        const msg = d.naver?.message || d.error || "수정 실패";
+        stat.textContent = "❌ " + msg;
+        stat.style.color = "var(--err)";
+        btn.disabled = false; btn.textContent = "📤 스마트스토어에 답변 수정";
+      }
+    } catch (e) {
+      stat.textContent = "❌ " + e.message;
+      stat.style.color = "var(--err)";
+      btn.disabled = false; btn.textContent = "📤 스마트스토어에 답변 수정";
+    }
+  });
+
+  // 원본 복원
+  document.getElementById("btn-qna-revert").addEventListener("click", () => {
+    document.getElementById("qna-edit-textarea").value = ORIGINAL;
+    const stat = document.getElementById("qna-edit-status");
+    stat.textContent = "↶ 원본 답변으로 복원됨";
+    stat.style.color = "var(--muted)";
+    setTimeout(() => { stat.textContent = ""; }, 2000);
+  });
+
+  // AI 재생성 (기존 AI 답변 생성 흐름 호출)
+  document.getElementById("btn-qna-ai-regen").addEventListener("click", () => {
+    const stat = document.getElementById("qna-edit-status");
+    stat.textContent = "AI 답변 생성 버튼을 누르세요 ↑ (제품·질문 자동 채워짐)";
+    stat.style.color = "var(--muted)";
+    document.getElementById("btn-qna-answer").scrollIntoView({behavior:"smooth", block:"center"});
+  });
+}
+
+document.getElementById("qna-naver-list").addEventListener("click", (e) => {
+  const card = e.target.closest(".nv-card");
+  if (!card) return;
+  const idx = parseInt(card.dataset.qidx, 10);
+  const item = qnaFilterCache()[idx];
+  if (item) qnaOpenItem(item);
+});
+
+document.getElementById("btn-qna-refresh").addEventListener("click", () => { QNA_PAGE=1; qnaFetchPage(); });
+document.getElementById("qna-filter-status").addEventListener("change", () => { QNA_PAGE=1; qnaFetchPage(); });
+document.getElementById("qna-filter-days").addEventListener("change", () => { QNA_PAGE=1; qnaFetchPage(); });
+document.getElementById("qna-keyword").addEventListener("input", () => qnaRenderList());
+document.getElementById("qna-prev").addEventListener("click", () => { if (QNA_PAGE>1) {QNA_PAGE--; qnaFetchPage();} });
+document.getElementById("qna-next").addEventListener("click", () => { if (QNA_PAGE<QNA_TOTAL_PAGES) {QNA_PAGE++; qnaFetchPage();} });
+
+// =====================================================
+// 고객문의 (CS)
+// =====================================================
+async function csFetchPage() {
+  if (CS_FETCHING) return;
+  if (!_credCheck()) {
+    document.getElementById("cs-naver-list").innerHTML =
+      `<div class="empty-hint" style="font-size:12px">⚙️ 설정에서 스마트스토어 자격증명 입력 필요</div>`;
+    return;
+  }
+  CS_FETCHING = true;
+  const refreshBtn = document.getElementById("btn-cs-refresh");
+  if (refreshBtn) { refreshBtn.disabled = true; refreshBtn.textContent = "⏳"; }
+
+  const creds = loadSSCreds();
+  const days = parseInt(document.getElementById("cs-filter-days").value, 10);
+  const statusFilter = document.getElementById("cs-filter-status").value;
+  const now = new Date();
+  const from = new Date(now.getTime() - days * 86400000);
+  const fmtDate = d => `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
+
+  const body = {
+    app_id: creds.app_id, app_secret: creds.app_secret,
+    startSearchDate: fmtDate(from), endSearchDate: fmtDate(now),
+    page: CS_PAGE, size: NV_PAGE_SIZE,
+  };
+  if (statusFilter !== "") body.answered = statusFilter;
+
+  try {
+    const r = await fetch(AICC_API + "&action=naver_cs_list&t=" + Date.now(), {
+      method: "POST", headers: {"Content-Type":"application/json"}, body: JSON.stringify(body)
+    });
+    const d = await r.json();
+    if (!d.success) {
+      const msg = d.naver?.message || d.error || "fetch failed";
+      document.getElementById("cs-list-meta").textContent = "❌ " + msg;
+      document.getElementById("cs-naver-list").innerHTML = `<div class="empty-hint" style="font-size:12px; color:var(--err)">${escapeHtml(msg)}</div>`;
+      return;
+    }
+    CS_LIST_CACHE = d.items || [];
+    CS_TOTAL = d.totalElements || 0;
+    CS_TOTAL_PAGES = d.totalPages || 1;
+    document.getElementById("cs-list-count").textContent = CS_TOTAL;
+    document.getElementById("cs-list-count").classList.toggle("zero", CS_TOTAL === 0);
+    document.getElementById("cs-list-meta").textContent = `${CS_TOTAL}건 · 페이지 ${CS_PAGE}/${CS_TOTAL_PAGES}`;
+    csRenderList();
+    csUpdatePaging();
+    csUpdateTabBadge();
+  } catch (e) {
+    document.getElementById("cs-list-meta").textContent = "❌ " + e.message;
+  } finally {
+    CS_FETCHING = false;
+    if (refreshBtn) { refreshBtn.disabled = false; refreshBtn.textContent = "🔄"; }
+  }
+}
+
+function csFilterCache() {
+  const catFilter = document.getElementById("cs-filter-category").value;
+  return CS_LIST_CACHE.filter(it => !catFilter || it.category === catFilter);
+}
+
+function csRenderList() {
+  const list = document.getElementById("cs-naver-list");
+  const filtered = csFilterCache();
+  if (!filtered.length) {
+    list.innerHTML = `<div class="empty-hint" style="font-size:12px">결과 없음</div>`;
+    return;
+  }
+  list.innerHTML = filtered.map((it, i) => {
+    const isActive = CS_ACTIVE_INQID === it.inquiryNo;
+    const isNew = !it.answered && !ssLoadSeen().has("cs_" + it.inquiryNo);
+    const date = (it.inquiryRegistrationDateTime || "").replace("T"," ").slice(5,16);
+    const cat = it.category || "기타";
+    const catBadge = `<span class="cat-badge cat-${cat}">${escapeHtml(cat)}</span>`;
+    const statBadge = it.answered
+      ? `<span class="status-badge answered">답변완료</span>`
+      : `<span class="status-badge unanswered">미답변</span>`;
+    return `
+      <div class="nv-card ${isActive?'active':''} ${isNew?'is-new':''}" data-cidx="${i}">
+        <div class="nv-card-row1">${catBadge}${statBadge}</div>
+        <div class="nv-card-product">${escapeHtml((it.title||it.productName||"").slice(0,60))}</div>
+        <div class="nv-card-q">${escapeHtml((it.inquiryContent||"").slice(0,80))}</div>
+        <div class="nv-card-meta">Inq${it.inquiryNo} · ${escapeHtml(date)} · ${escapeHtml(it.customerName||"")}</div>
+      </div>
+    `;
+  }).join("");
+}
+
+function csUpdatePaging() {
+  const p = document.getElementById("cs-paging");
+  if (CS_TOTAL_PAGES <= 1) { p.style.display = "none"; return; }
+  p.style.display = "flex";
+  document.getElementById("cs-page-info").textContent = `${CS_PAGE}/${CS_TOTAL_PAGES}`;
+  document.getElementById("cs-prev").disabled = CS_PAGE <= 1;
+  document.getElementById("cs-next").disabled = CS_PAGE >= CS_TOTAL_PAGES;
+}
+
+function csUpdateTabBadge() {
+  const badge = document.getElementById("tab-cs-badge");
+  if (!badge) return;
+  const seen = ssLoadSeen();
+  const newCount = CS_LIST_CACHE.filter(it => !it.answered && !seen.has("cs_" + it.inquiryNo)).length;
+  if (newCount > 0) { badge.textContent = newCount; badge.style.display = "inline-block"; }
+  else { badge.style.display = "none"; }
+}
+
+function csOpenItem(item) {
+  CS_ACTIVE_INQID = item.inquiryNo;
+  CS_SELECTED = item;
+  const seen = ssLoadSeen();
+  seen.add("cs_" + item.inquiryNo);
+  try { localStorage.setItem(SS_SEEN_KEY, JSON.stringify([...seen].slice(-500))); } catch(_){}
+  csRenderList();
+  csUpdateTabBadge();
+  document.getElementById("cs-empty-state").style.display = "none";
+  document.getElementById("cs-selected-info").style.display = "block";
+  document.getElementById("cs-answer-pane").style.display = "flex";
+  document.getElementById("cs-answer-area").style.display = "block";
+
+  const cat = item.category || "기타";
+  document.getElementById("cs-info-category").textContent = cat;
+  document.getElementById("cs-info-category").className = "cat-badge cat-" + cat;
+  document.getElementById("cs-info-status").textContent = item.answered ? "답변완료" : "미답변";
+  document.getElementById("cs-info-status").className = "cs-status-badge " + (item.answered ? "answered" : "unanswered");
+  document.getElementById("cs-info-date").textContent = (item.inquiryRegistrationDateTime||"").replace("T"," ").slice(0,16);
+  document.getElementById("cs-info-title").textContent = item.title || "(제목 없음)";
+  document.getElementById("cs-info-order").textContent = item.orderId || "-";
+  document.getElementById("cs-info-product").textContent = (item.productName||"-") + (item.productNo ? ` (#${item.productNo})` : "");
+  if (item.productOrderOption) {
+    document.getElementById("cs-info-option").textContent = item.productOrderOption;
+    document.getElementById("cs-info-option-row").style.display = "block";
+  } else {
+    document.getElementById("cs-info-option-row").style.display = "none";
+  }
+  document.getElementById("cs-info-customer").textContent = (item.customerName||"") + (item.customerId ? ` (${item.customerId})` : "");
+  document.getElementById("cs-info-content").textContent = item.inquiryContent || "";
+
+  document.getElementById("cs-answer-input").value = item.answerContent || "";
+  const submitBtn = document.getElementById("btn-cs-submit");
+  submitBtn.textContent = item.answered ? `📤 답변 수정 (Inq${item.inquiryNo})` : `📤 답변 등록 (Inq${item.inquiryNo})`;
+  document.getElementById("cs-submit-status").textContent = "";
+  if (typeof refreshModeToggleUI === "function") refreshModeToggleUI("cs");
+}
+
+document.getElementById("cs-naver-list").addEventListener("click", (e) => {
+  const card = e.target.closest(".nv-card");
+  if (!card) return;
+  const idx = parseInt(card.dataset.cidx, 10);
+  const item = csFilterCache()[idx];
+  if (item) csOpenItem(item);
+});
+
+document.getElementById("btn-cs-refresh").addEventListener("click", () => { CS_PAGE=1; csFetchPage(); });
+document.getElementById("cs-filter-status").addEventListener("change", () => { CS_PAGE=1; csFetchPage(); });
+document.getElementById("cs-filter-days").addEventListener("change", () => { CS_PAGE=1; csFetchPage(); });
+document.getElementById("cs-filter-category").addEventListener("change", () => csRenderList());
+document.getElementById("cs-prev").addEventListener("click", () => { if (CS_PAGE>1) {CS_PAGE--; csFetchPage();} });
+document.getElementById("cs-next").addEventListener("click", () => { if (CS_PAGE<CS_TOTAL_PAGES) {CS_PAGE++; csFetchPage();} });
+
+// AI 답변 생성 (CS)
+document.getElementById("btn-cs-ai-generate").addEventListener("click", async () => {
+  if (!CS_SELECTED) { alert("문의를 먼저 선택하세요"); return; }
+  const apikey = localStorage.getItem(LS_KEY);
+  if (!apikey) { openApiKeyModal(); return; }
+  const btn = document.getElementById("btn-cs-ai-generate");
+  btn.disabled = true; btn.textContent = "⏳ 생성 중...";
+  try {
+    const cat = CS_SELECTED.category || "기타";
+    const promptParts = [
+      "당신은 랜스타 고객센터 AI 상담사입니다. 아래 고객문의에 대한 답변을 한국어로 작성하세요. 정중하고 간결하게.",
+      `[문의유형] ${cat}`,
+      `[제목] ${CS_SELECTED.title || ""}`,
+      `[상품] ${CS_SELECTED.productName || ""}`,
+      `[옵션] ${CS_SELECTED.productOrderOption || "(없음)"}`,
+      `[주문번호] ${CS_SELECTED.orderId || "-"}`,
+      `[고객명] ${CS_SELECTED.customerName || ""}`,
+      "[문의내용]",
+      CS_SELECTED.inquiryContent || "",
+      "",
+      "응답 형식: JSON만 출력 (마크다운/백틱 금지)",
+      `{ "answer": "<한국어 답변>" }`
+    ];
+    const prompt = promptParts.join("\n");
+    const useSearch = (CS.mode !== "fast");
+    const url = `${API_BASE}/${MODEL}:generateContent?key=${encodeURIComponent(apikey)}`;
+    const body = {
+      contents: [{ role: "user", parts: [{ text: prompt }] }],
+    };
+    if (useSearch) body.tools = [{ google_search: {} }];
+    body.generationConfig = { temperature: 0.4, topP: 0.95, maxOutputTokens: 2048, responseMimeType: "application/json" };
+
+    const r = await fetchGeminiWithRetry(url, body);
+    const txt = r?.candidates?.[0]?.content?.parts?.[0]?.text || "";
+    let parsed = null;
+    try { parsed = JSON.parse(txt); }
+    catch(e) { const m = txt.match(/\{[\s\S]*\}/); if (m) try { parsed = JSON.parse(m[0]); } catch{} }
+    if (parsed && parsed.answer) {
+      document.getElementById("cs-answer-input").value = parsed.answer;
+      status("AI 답변 생성됨 — 검토 후 등록하세요", "ok");
+    } else {
+      alert("응답 파싱 실패: " + txt.slice(0, 200));
+    }
+  } catch (e) {
+    alert("AI 호출 실패: " + e.message);
+  } finally {
+    btn.disabled = false; btn.textContent = "🤖 AI 답변 생성";
+  }
+});
+
+// CS 답변 등록/수정
+document.getElementById("btn-cs-submit").addEventListener("click", async () => {
+  if (!CS_SELECTED) { alert("문의를 먼저 선택하세요"); return; }
+  const creds = loadSSCreds();
+  if (!creds) { alert("자격증명 미설정"); return; }
+  const text = document.getElementById("cs-answer-input").value.trim();
+  if (!text) { alert("답변 내용을 입력하세요"); return; }
+  const isUpdate = !!CS_SELECTED.answered;
+  const verb = isUpdate ? "수정" : "등록";
+  if (!confirm(`Inq${CS_SELECTED.inquiryNo} 답변을 스마트스토어에 ${verb}할까요?\n\n${text.slice(0,200)}${text.length>200?"...":""}`)) return;
+
+  const btn = document.getElementById("btn-cs-submit");
+  const statEl = document.getElementById("cs-submit-status");
+  btn.disabled = true; btn.textContent = "⏳ " + verb + " 중...";
+  statEl.textContent = "";
+  try {
+    const body = {
+      app_id: creds.app_id, app_secret: creds.app_secret,
+      inquiryNo: CS_SELECTED.inquiryNo,
+      answerContent: text,
+    };
+    if (isUpdate && CS_SELECTED.answerContentId) body.answerContentId = CS_SELECTED.answerContentId;
+
+    const r = await fetch(AICC_API + "&action=naver_cs_answer&t=" + Date.now(), {
+      method: "POST", headers: {"Content-Type":"application/json"}, body: JSON.stringify(body)
+    });
+    const d = await r.json();
+    if (d.success) {
+      statEl.textContent = "✓ " + verb + " 완료 (HTTP " + d.http_code + ")";
+      statEl.style.color = "#00a544";
+      btn.textContent = "✓ " + verb + " 완료";
+      setTimeout(() => csFetchPage(), 800);
+    } else {
+      const msg = d.naver?.message || d.error || verb + " 실패";
+      statEl.textContent = "❌ " + msg + (d.http_code ? " (HTTP " + d.http_code + ")" : "");
+      statEl.style.color = "var(--err)";
+      btn.disabled = false; btn.textContent = `📤 답변 ${verb} (Inq${CS_SELECTED.inquiryNo})`;
+    }
+  } catch (e) {
+    statEl.textContent = "❌ " + e.message;
+    statEl.style.color = "var(--err)";
+    btn.disabled = false;
+  }
+});
+
+// 탭 전환 시 자동 로드
+document.querySelectorAll(`[data-tab="qna"]`).forEach(b => b.addEventListener("click", () => {
+  if (!QNA_LIST_CACHE.length && _credCheck()) qnaFetchPage();
+}));
+document.querySelectorAll(`[data-tab="cs"]`).forEach(b => b.addEventListener("click", () => {
+  if (!CS_LIST_CACHE.length && _credCheck()) csFetchPage();
+}));
+
+// 자격증명 저장 시 양쪽 갱신
+const _origSaveCreds_v2 = saveSSCreds;
+saveSSCreds = function(id, sk) {
+  _origSaveCreds_v2(id, sk);
+  QNA_PAGE = 1; CS_PAGE = 1;
+  if (document.getElementById("tab-qna").classList.contains("active")) qnaFetchPage();
+  if (document.getElementById("tab-cs").classList.contains("active"))  csFetchPage();
+};
+
+// 10분 폴링
+setInterval(() => {
+  if (document.hidden || !_credCheck()) return;
+  if (document.getElementById("tab-qna").classList.contains("active")) qnaFetchPage();
+  if (document.getElementById("tab-cs").classList.contains("active"))  csFetchPage();
+}, 10 * 60 * 1000);
+
+
+
+
+// =====================================================
+// 🤖 AI 톡톡문의 (BETA) — 시뮬레이션 + (향후 실연동)
+// =====================================================
+const TALK_CFG_KEY = "aicc_talkai_cfg_v1";
+let TALK_THREADS = [];   // [{userId, name, masked, messages:[{from,text,ts,inputType}], lastUpdate, unread}]
+let TALK_ACTIVE = null;  // active userId
+let TALK_SIM_MODE = true; // 기본 시뮬레이션 ON
+
+// 시뮬레이션용 가짜 고객 데이터 (제품 카탈로그 기반)
+const SIM_CUSTOMERS = [
+  { name: "이*수", masked: "lee***", q: "안녕하세요! LS-HD2KVM 제품으로 모니터 2대에 동시 출력 가능한가요?" },
+  { name: "박*영", masked: "park****", q: "주문한 LSN-6PASS-UTP 제품이 언제쯤 발송되나요? 빨리 받아보고 싶어요" },
+  { name: "최*진", masked: "choi**", q: "안녕하세요. CAT.6 케이블이랑 같이 쓸 수 있는 모듈러 콘넥터인가요? 호환성이 궁금합니다." },
+  { name: "김*윤", masked: "kim****", q: "택배 분실된 것 같은데, 추적이 안되네요. 도와주세요" },
+];
+let SIM_NEXT_IDX = 0;
+
+function loadTalkCfg() {
+  try {
+    const raw = localStorage.getItem(TALK_CFG_KEY);
+    return raw ? JSON.parse(raw) : { authKey: "", partnerId: "" };
+  } catch (_) { return { authKey: "", partnerId: "" }; }
+}
+function saveTalkCfg(authKey, partnerId) {
+  try { localStorage.setItem(TALK_CFG_KEY, JSON.stringify({authKey, partnerId})); } catch(_){}
+}
+function isTalkLive() {
+  const c = loadTalkCfg();
+  return !!(c.authKey && c.authKey.length > 5);
+}
+
+function updateTalkStatus() {
+  const el = document.getElementById("talkai-status");
+  const badge = document.getElementById("tab-talk-ai-badge");
+  if (!el) return;
+  if (isTalkLive() && !TALK_SIM_MODE) {
+    el.textContent = "✅ 챗봇 연동됨"; el.className = "talkai-status connected";
+  } else if (TALK_SIM_MODE) {
+    el.textContent = "🧪 시뮬레이션 모드"; el.className = "talkai-status sim";
+  } else {
+    el.textContent = "❌ 챗봇 미연동"; el.className = "talkai-status disconnected";
+  }
+  // tab badge: 미답변(고객 메시지로 끝나는 스레드) 수
+  const unanswered = TALK_THREADS.filter(t => {
+    const last = t.messages[t.messages.length-1];
+    return last && last.from === "customer";
+  }).length;
+  if (unanswered > 0) { badge.textContent = unanswered; badge.style.display = "inline-block"; }
+  else { badge.style.display = "none"; }
+}
+
+function fmtTime(ts) {
+  const d = new Date(ts);
+  const h = String(d.getHours()).padStart(2,"0");
+  const m = String(d.getMinutes()).padStart(2,"0");
+  return `${h}:${m}`;
+}
+function fmtRel(ts) {
+  const sec = Math.floor((Date.now()-ts)/1000);
+  if (sec < 60) return "방금";
+  if (sec < 3600) return Math.floor(sec/60)+"분 전";
+  if (sec < 86400) return Math.floor(sec/3600)+"시간 전";
+  return Math.floor(sec/86400)+"일 전";
+}
+
+// === Render thread list (left sidebar) ===
+function renderTalkThreadList() {
+  const list = document.getElementById("talkai-thread-list");
+  if (!list) return;
+  const kw = (document.getElementById("talkai-search").value || "").toLowerCase().trim();
+  const filtered = TALK_THREADS.filter(t => {
+    if (!kw) return true;
+    if ((t.name||"").toLowerCase().includes(kw)) return true;
+    return t.messages.some(m => (m.text||"").toLowerCase().includes(kw));
+  });
+  if (!filtered.length) {
+    list.innerHTML = `<div class="empty-hint" style="font-size:12px">${kw ? "검색 결과 없음" : "대화 없음"}</div>`;
+    return;
+  }
+  filtered.sort((a,b) => b.lastUpdate - a.lastUpdate);
+  list.innerHTML = filtered.map(t => {
+    const last = t.messages[t.messages.length-1];
+    const lastText = last ? (last.from === "bot" ? "[나] " : "") + (last.text||"").slice(0, 40) : "";
+    const isActive = TALK_ACTIVE === t.userId;
+    const unreadHtml = t.unread > 0 ? `<span class="ta-unread">${t.unread}</span>` : "";
+    return `
+      <div class="ta-thread-card ${isActive?'active':''}" data-uid="${escapeHtml(t.userId)}">
+        ${unreadHtml}
+        <div class="ta-th-row1">
+          <span class="ta-th-name">${escapeHtml(t.name || t.masked || "고객")}</span>
+          <span class="ta-th-time">${fmtRel(t.lastUpdate)}</span>
+        </div>
+        <div class="ta-th-last">${escapeHtml(lastText)}</div>
+      </div>
+    `;
+  }).join("");
+}
+
+// === Render messages (center) ===
+function renderTalkMessages() {
+  const empty = document.getElementById("talkai-empty");
+  const chat = document.getElementById("talkai-chat");
+  if (!TALK_ACTIVE) {
+    empty.style.display = "block";
+    chat.style.display = "none";
+    return;
+  }
+  const t = TALK_THREADS.find(x => x.userId === TALK_ACTIVE);
+  if (!t) return;
+  empty.style.display = "none";
+  chat.style.display = "flex";
+
+  document.getElementById("talkai-name").textContent = t.name || "고객";
+  document.getElementById("talkai-meta").textContent = `${t.masked||""} · ${t.messages.length}개 메시지`;
+
+  const msgs = document.getElementById("talkai-messages");
+  msgs.innerHTML = t.messages.map(m => {
+    if (m.from === "system") {
+      return `<div class="ta-msg-system">${escapeHtml(m.text)}</div>`;
+    }
+    const fromCls = m.from === "customer" ? "from-customer" : "from-bot";
+    const avatar = m.from === "customer" ? "👤" : "🤖";
+    return `
+      <div class="ta-msg ${fromCls}">
+        <div class="ta-msg-avatar">${avatar}</div>
+        <div>
+          <div class="ta-msg-bubble">${escapeHtml(m.text)}</div>
+          <div class="ta-msg-time">${fmtTime(m.ts)}</div>
+        </div>
+      </div>
+    `;
+  }).join("");
+  msgs.scrollTop = msgs.scrollHeight;
+
+  document.getElementById("talkai-ai-hint").textContent =
+    t.messages.length ? "고객 메시지 분석 → AI 답변 생성" : "메시지 없음";
+}
+
+// === Add fake customer message (시뮬레이션) ===
+function simAddFakeCustomer() {
+  const c = SIM_CUSTOMERS[SIM_NEXT_IDX % SIM_CUSTOMERS.length];
+  SIM_NEXT_IDX++;
+  const userId = "sim_" + Date.now() + "_" + Math.random().toString(36).slice(2,6);
+  const thread = {
+    userId, name: c.name, masked: c.masked,
+    messages: [{ from: "customer", text: c.q, ts: Date.now() }],
+    lastUpdate: Date.now(), unread: 1,
+  };
+  TALK_THREADS.unshift(thread);
+  renderTalkThreadList();
+  updateTalkStatus();
+  // 자동으로 첫 메시지면 활성화
+  if (!TALK_ACTIVE) selectTalkThread(userId);
+  status("시뮬레이션 메시지 추가됨", "ok");
+}
+
+function selectTalkThread(userId) {
+  TALK_ACTIVE = userId;
+  const t = TALK_THREADS.find(x => x.userId === userId);
+  if (t) t.unread = 0;
+  renderTalkThreadList();
+  renderTalkMessages();
+  updateTalkStatus();
+}
+
+// === AI 답변 생성 ===
+async function talkGenerateAi() {
+  if (!TALK_ACTIVE) return;
+  const t = TALK_THREADS.find(x => x.userId === TALK_ACTIVE);
+  if (!t || !t.messages.length) return;
+  const lastCustomer = [...t.messages].reverse().find(m => m.from === "customer");
+  if (!lastCustomer) return;
+
+  const apikey = localStorage.getItem(LS_KEY);
+  if (!apikey) { openApiKeyModal(); return; }
+
+  const btn = document.getElementById("btn-talkai-ai");
+  btn.disabled = true; btn.textContent = "⏳ 생성 중...";
+  const hint = document.getElementById("talkai-ai-hint");
+  hint.textContent = "AI 답변 생성 중...";
+  try {
+    const promptParts = [
+      "당신은 랜스타 고객센터 AI 상담사입니다. 톡톡 채팅에서 다음 고객 메시지에 대한 답변을 한국어로 정중하고 간결하게 작성하세요.",
+      "[지금까지 대화]",
+      ...t.messages.slice(-6).map(m => `${m.from === "customer" ? "고객" : "상담사"}: ${m.text}`),
+      "",
+      "응답 형식 (JSON만, 백틱·마크다운 금지):",
+      `{ "answer": "<짧고 친절한 한국어 답변>" }`
+    ];
+    const prompt = promptParts.join("\n");
+    const url = `${API_BASE}/${MODEL}:generateContent?key=${encodeURIComponent(apikey)}`;
+    const body = {
+      contents: [{ role: "user", parts: [{ text: prompt }] }],
+      generationConfig: { temperature: 0.4, topP: 0.95, maxOutputTokens: 1024, responseMimeType: "application/json" },
+    };
+    const r = await fetchGeminiWithRetry(url, body);
+    const txt = r?.candidates?.[0]?.content?.parts?.[0]?.text || "";
+    let parsed = null;
+    try { parsed = JSON.parse(txt); }
+    catch(e) { const m = txt.match(/\{[\s\S]*\}/); if (m) try { parsed = JSON.parse(m[0]); } catch{} }
+    if (parsed && parsed.answer) {
+      document.getElementById("talkai-input").value = parsed.answer;
+      hint.textContent = "✓ AI 답변 생성됨 — 검토 후 전송";
+    } else {
+      hint.textContent = "❌ 응답 파싱 실패";
+    }
+  } catch (e) {
+    hint.textContent = "❌ " + e.message;
+  } finally {
+    btn.disabled = false; btn.textContent = "🤖 AI 답변 생성";
+  }
+}
+
+// === 전송 ===
+async function talkSendMessage() {
+  if (!TALK_ACTIVE) return;
+  const t = TALK_THREADS.find(x => x.userId === TALK_ACTIVE);
+  if (!t) return;
+  const text = document.getElementById("talkai-input").value.trim();
+  if (!text) return;
+
+  if (!TALK_SIM_MODE && isTalkLive()) {
+    // 실연동 모드: blank.php 통해 보내기 API 호출
+    const cfg = loadTalkCfg();
+    const btn = document.getElementById("btn-talkai-send");
+    btn.disabled = true; btn.textContent = "⏳ 전송 중...";
+    try {
+      const r = await fetch(AICC_API + "&action=naver_talk_send&t=" + Date.now(), {
+        method: "POST", headers: {"Content-Type":"application/json"},
+        body: JSON.stringify({ authKey: cfg.authKey, userId: t.userId, text })
+      });
+      const d = await r.json();
+      if (!d.success) {
+        alert("전송 실패: " + (d.error || JSON.stringify(d)));
+        return;
+      }
+    } catch (e) {
+      alert("전송 실패: " + e.message);
+      return;
+    } finally {
+      btn.disabled = false; btn.textContent = "📤 전송";
+    }
+  }
+  // 메시지 추가 (시뮬·실연동 동일)
+  t.messages.push({ from: "bot", text, ts: Date.now() });
+  t.lastUpdate = Date.now();
+  document.getElementById("talkai-input").value = "";
+  renderTalkMessages();
+  renderTalkThreadList();
+  updateTalkStatus();
+}
+
+// === Handover ===
+function talkHandover() {
+  if (!TALK_ACTIVE) return;
+  const t = TALK_THREADS.find(x => x.userId === TALK_ACTIVE);
+  if (!t) return;
+  if (!confirm("이 대화를 사람 상담사에게 넘길까요? 이후 챗봇은 응답하지 않습니다.")) return;
+  t.messages.push({
+    from: "system",
+    text: "🤝 사람 상담사에게 대화를 이양했습니다.",
+    ts: Date.now()
+  });
+  t.lastUpdate = Date.now();
+  renderTalkMessages();
+  renderTalkThreadList();
+  if (!TALK_SIM_MODE && isTalkLive()) {
+    const cfg = loadTalkCfg();
+    fetch(AICC_API + "&action=naver_talk_handover&t=" + Date.now(), {
+      method: "POST", headers: {"Content-Type":"application/json"},
+      body: JSON.stringify({ authKey: cfg.authKey, userId: t.userId, control: "passThread" })
+    }).catch(()=>{});
+  }
+  status("핸드오버 완료", "ok");
+}
+
+// === Event handlers ===
+document.getElementById("btn-talkai-sim-add").addEventListener("click", simAddFakeCustomer);
+document.getElementById("btn-talkai-mode-toggle").addEventListener("click", () => {
+  TALK_SIM_MODE = !TALK_SIM_MODE;
+  document.getElementById("btn-talkai-mode-toggle").textContent = TALK_SIM_MODE ? "🧪 시뮬레이션 ON" : "🧪 시뮬레이션 OFF";
+  updateTalkStatus();
+});
+document.getElementById("btn-talkai-cfg").addEventListener("click", () => {
+  const cfg = loadTalkCfg();
+  document.getElementById("talkai-auth-key").value = cfg.authKey || "";
+  document.getElementById("talkai-partner-id").value = cfg.partnerId || "";
+  document.getElementById("talkai-cfg-status").textContent = "";
+  document.getElementById("talkai-cfg-modal").classList.add("show");
+});
+document.getElementById("btn-talkai-cfg-cancel").addEventListener("click", () => {
+  document.getElementById("talkai-cfg-modal").classList.remove("show");
+});
+document.getElementById("btn-talkai-cfg-save").addEventListener("click", () => {
+  const k = document.getElementById("talkai-auth-key").value.trim();
+  const p = document.getElementById("talkai-partner-id").value.trim();
+  saveTalkCfg(k, p);
+  document.getElementById("talkai-cfg-status").textContent = "✓ 저장됨";
+  document.getElementById("talkai-cfg-status").style.color = "var(--success, #00a544)";
+  setTimeout(() => document.getElementById("talkai-cfg-modal").classList.remove("show"), 600);
+  updateTalkStatus();
+});
+document.getElementById("talkai-thread-list").addEventListener("click", (e) => {
+  const card = e.target.closest(".ta-thread-card");
+  if (!card) return;
+  selectTalkThread(card.dataset.uid);
+});
+document.getElementById("talkai-search").addEventListener("input", renderTalkThreadList);
+document.getElementById("btn-talkai-ai").addEventListener("click", talkGenerateAi);
+document.getElementById("btn-talkai-send").addEventListener("click", talkSendMessage);
+document.getElementById("btn-talkai-handover").addEventListener("click", talkHandover);
+document.getElementById("talkai-input").addEventListener("keydown", (e) => {
+  if (e.key === "Enter" && !e.shiftKey) {
+    e.preventDefault();
+    talkSendMessage();
+  }
+});
+
+// 탭 처음 들어올 때 시뮬레이션 데이터 1건 자동 추가 (UX 데모)
+document.querySelector('[data-tab="talk-ai"]').addEventListener("click", () => {
+  if (TALK_THREADS.length === 0 && TALK_SIM_MODE) {
+    setTimeout(simAddFakeCustomer, 300);
+  }
+});
+
+// 초기화
+(function talkInit(){
+  const init = () => updateTalkStatus();
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
+  else init();
+})();
+
+
+
+
+// =====================================================
+// CS 문의: 주문 정보 자동 조회 + 풍부한 AI 답변
+// =====================================================
+let CS_ORDER_CACHE = {};  // productOrderId → order detail object
+let CS_ORDER_CONTEXT = null;  // 현재 선택된 CS의 주문 컨텍스트
+
+// 한글 매핑 테이블
+const RETURN_REASON_KR = {
+  "MISTAKE_ORDER": "구매자 단순 변심/잘못 주문",
+  "INVALID_PRODUCT_ARRIVED": "상품 불량",
+  "WRONG_PRODUCT_ARRIVED": "다른 상품 도착",
+  "WRONG_OPTION_ARRIVED": "다른 옵션 도착",
+  "WRONG_DELIVERY": "배송 오류",
+  "BROKEN_PRODUCT": "파손/훼손",
+  "CHANGE_MIND": "단순 변심",
+  "PRODUCT_DEFECT": "상품 결함",
+  "DELIVERY_LATE": "배송 지연",
+  "INCORRECT_INFO": "상품 정보 상이",
+  "OTHER": "기타",
+};
+const ORDER_STATUS_KR = {
+  "PAYMENT_WAITING": "결제 대기",
+  "PAYED": "결제 완료",
+  "DELIVERING": "배송 중",
+  "DELIVERED": "배송 완료",
+  "PURCHASE_DECIDED": "구매 확정",
+  "EXCHANGED": "교환 완료",
+  "CANCELED": "취소",
+  "RETURNED": "반품 완료",
+  "CANCELED_BY_NOPAYMENT": "미결제 취소",
+};
+const CLAIM_STATUS_KR = {
+  "RETURN_REQUEST": "반품 요청",
+  "COLLECT_REQUEST": "수거 요청",
+  "COLLECT_DONE": "수거 완료",
+  "RETURN_REJECT": "반품 거부",
+  "RETURN_DONE": "반품 완료",
+  "EXCHANGE_REQUEST": "교환 요청",
+  "EXCHANGE_REDELIVERY": "교환 재배송",
+  "EXCHANGE_DONE": "교환 완료",
+  "CANCEL_REQUEST": "취소 요청",
+  "CANCEL_DONE": "취소 완료",
+};
+const HOLDBACK_REASON_KR = {
+  "RETURN_DELIVERYFEE": "반품 배송비",
+  "DELIVERY_DELAY": "배송 지연",
+  "PRODUCT_PREPARATION": "상품 준비",
+  "STOCK_OUT": "재고 부족",
+};
+
+function csKr(map, code) { return map[code] || code || "-"; }
+function csFmtMoney(n) { return (n || 0).toLocaleString("ko-KR") + "원"; }
+function csDownloadName(url, fallback = "attachment") {
+  try {
+    const u = new URL(url, location.origin);
+    return decodeURIComponent(u.pathname.split("/").pop() || fallback);
+  } catch (_) {
+    return fallback;
+  }
+}
+
+// === 주문 상세 자동 조회 ===
+async function csFetchOrderDetail(productOrderIdList) {
+  if (!productOrderIdList) return null;
+  const ids = (typeof productOrderIdList === "string" ? productOrderIdList.split(",") : productOrderIdList)
+    .map(s => String(s).trim()).filter(Boolean);
+  if (!ids.length) return null;
+  // 캐시 확인
+  if (ids.every(id => CS_ORDER_CACHE[id])) {
+    return ids.map(id => CS_ORDER_CACHE[id]);
+  }
+  const creds = loadSSCreds();
+  if (!creds) return null;
+
+  try {
+    const r = await fetch(AICC_API + "&action=naver_order_detail&t=" + Date.now(), {
+      method: "POST", headers: {"Content-Type":"application/json"},
+      body: JSON.stringify({
+        app_id: creds.app_id, app_secret: creds.app_secret,
+        productOrderIds: ids,
+      })
+    });
+    const d = await r.json();
+    if (!d.success) {
+      console.warn("[cs] order detail fail:", d);
+      return null;
+    }
+    (d.orders || []).forEach(o => {
+      const pid = o.productOrder?.productOrderId;
+      if (pid) CS_ORDER_CACHE[pid] = o;
+    });
+    return d.orders || [];
+  } catch (e) {
+    console.warn("[cs] order detail error:", e);
+    return null;
+  }
+}
+
+// === 주문 정보 박스 렌더 ===
+function csRenderOrderInfo(orderData) {
+  if (!orderData) return "";
+  const o = orderData;
+  const order = o.order || {};
+  const po = o.productOrder || {};
+  const dlv = o.delivery || {};
+  const ret = o.return || null;
+
+  const orderStatus = csKr(ORDER_STATUS_KR, po.productOrderStatus);
+  const claimStatus = po.claimStatus ? csKr(CLAIM_STATUS_KR, po.claimStatus) : null;
+
+  let html = `
+    <div class="cs-order-section">
+      <div class="cs-order-section-header">📦 주문 정보 (자동 조회)
+        <span class="cs-status-pill ${po.productOrderStatus === 'DELIVERED' ? 'delivered' : ''}">${escapeHtml(orderStatus)}</span>
+        ${claimStatus ? `<span class="cs-status-pill ${po.claimStatus.includes('RETURN') ? 'return-req' : 'canceled'}">${escapeHtml(claimStatus)}</span>` : ''}
+      </div>
+      <div class="cs-order-info-grid">
+        <b>주문일자</b><span>${escapeHtml((order.orderDate||"").replace("T"," ").slice(0,16))}</span>
+        <b>결제수단</b><span>${escapeHtml(order.paymentMeans||"-")}</span>
+        <b>결제금액</b><span>${csFmtMoney(po.totalPaymentAmount)} (배송비 ${csFmtMoney(po.deliveryFeeAmount)})</span>
+        <b>주문자</b><span>${escapeHtml(order.ordererName||"-")} · ${escapeHtml(order.ordererTel||"-")}</span>
+        <b>상품옵션</b><span>${escapeHtml(po.productOption || (po.productOrderId === po.itemNo ? "(단일상품)" : "-"))}</span>
+        <b>수량</b><span>${po.quantity}개 (남은 ${po.remainQuantity}개)</span>
+  `;
+  if (dlv.trackingNumber) {
+    html += `
+        <b>배송정보</b><span>${escapeHtml(dlv.deliveryCompany||"-")} ${escapeHtml(dlv.trackingNumber)} ${dlv.deliveredDate ? `· 배송완료 ${dlv.deliveredDate.replace("T"," ").slice(0,16)}` : ""}</span>
+    `;
+  }
+  html += `</div>`;
+
+  // === 교환 정보 블록 ===
+  const ex = o.exchange || (o.currentClaim && o.currentClaim.exchange) || null;
+  if (ex) {
+    const reasonKr = csKr(RETURN_REASON_KR, ex.reason || ex.exchangeReason);
+    const holdback = ex.holdbackStatus === "HOLDBACK";
+    html += `
+      <div class="cs-return-block" style="background: rgba(74,142,255,0.05); border-top: 1px solid rgba(74,142,255,0.2)">
+        <div class="cs-return-block-title" style="color:#4a8eff">🔄 교환 정보
+          ${holdback ? `<span class="cs-status-pill holdback">보류: ${escapeHtml(csKr(HOLDBACK_REASON_KR, ex.holdbackReason))}</span>` : ""}
+        </div>
+        <div style="display: grid; grid-template-columns: 90px 1fr; gap: 3px 10px; font-size:12px">
+          <b>교환 사유</b><span>${escapeHtml(reasonKr || "-")}</span>
+          <b>신청일</b><span>${escapeHtml((ex.claimRequestDate||ex.requestDate||"").replace("T"," ").slice(0,16))}</span>
+          ${ex.claimDeliveryFeeDemandAmount ? `<b>교환 배송비</b><span>${csFmtMoney(ex.claimDeliveryFeeDemandAmount)} · ${escapeHtml(ex.claimDeliveryFeePayMethod||"-")}</span>` : ""}
+        </div>
+        ${ex.detailedReason || ex.exchangeDetailedReason ? `<div class="cs-return-detail" style="border-left-color:#4a8eff"><b style="color:#4a8eff">고객 작성 교환 사유:</b><br>${escapeHtml(ex.detailedReason || ex.exchangeDetailedReason)}</div>` : ""}
+      </div>
+    `;
+  }
+
+  // === 취소 정보 블록 ===
+  const cn = o.cancel || (o.currentClaim && o.currentClaim.cancel) || null;
+  if (cn) {
+    const reasonKr = csKr(RETURN_REASON_KR, cn.cancelReason || cn.reason);
+    html += `
+      <div class="cs-return-block" style="background: rgba(138,141,160,0.05); border-top: 1px solid rgba(138,141,160,0.2)">
+        <div class="cs-return-block-title" style="color:#6b6e7d">✕ 취소 정보</div>
+        <div style="display: grid; grid-template-columns: 90px 1fr; gap: 3px 10px; font-size:12px">
+          <b>취소 사유</b><span>${escapeHtml(reasonKr || "-")}</span>
+          <b>신청일</b><span>${escapeHtml((cn.claimRequestDate||cn.requestDate||"").replace("T"," ").slice(0,16))}</span>
+          <b>환불금액</b><span>${csFmtMoney(cn.refundAmount || cn.cancelCompleteAmount || 0)}</span>
+        </div>
+        ${cn.cancelDetailedReason || cn.detailedReason ? `<div class="cs-return-detail" style="border-left-color:#6b6e7d"><b style="color:#6b6e7d">고객 작성 취소 사유:</b><br>${escapeHtml(cn.cancelDetailedReason || cn.detailedReason)}</div>` : ""}
+      </div>
+    `;
+  }
+
+  // 반품 정보 블록
+  if (ret) {
+    const reasonKr = csKr(RETURN_REASON_KR, ret.returnReason);
+    const holdback = ret.holdbackStatus === "HOLDBACK";
+    html += `
+      <div class="cs-return-block">
+        <div class="cs-return-block-title">↩️ 반품 정보
+          ${holdback ? `<span class="cs-status-pill holdback">보류: ${escapeHtml(csKr(HOLDBACK_REASON_KR, ret.holdbackReason))}</span>` : ""}
+        </div>
+        <div style="display: grid; grid-template-columns: 90px 1fr; gap: 3px 10px; font-size:12px">
+          <b>반품 사유</b><span>${escapeHtml(reasonKr)}</span>
+          <b>신청자</b><span>${escapeHtml(ret.requestChannel||"-")} · ${(ret.claimRequestDate||"").replace("T"," ").slice(0,16)}</span>
+          <b>반품 배송비</b><span>${csFmtMoney(ret.claimDeliveryFeeDemandAmount)} · ${escapeHtml(ret.claimDeliveryFeePayMethod||"-")}</span>
+        </div>
+        ${ret.returnDetailedReason ? `<div class="cs-return-detail"><b style="color:#d68a00">고객 작성 반품 사유:</b><br>${escapeHtml(ret.returnDetailedReason)}</div>` : ""}
+        ${(ret.returnImageUrl && ret.returnImageUrl.length) ? `
+          <div class="cs-return-images">
+            ${ret.returnImageUrl.slice(0,5).map(u => {
+              const href = escapeHtml(u);
+              const name = escapeHtml(csDownloadName(u, "return-image"));
+              return `<a href="${href}" download="${name}" title="첨부 이미지 다운로드">
+                <img src="${href}" alt="반품증빙">
+              </a>`;
+            }).join("")}
+          </div>
+        ` : ""}
+      </div>
+    `;
+  }
+  html += `</div>`;
+  return html;
+}
+
+// csOpenItem 확장: 주문 정보 자동 조회 추가
+const _origCsOpenItem = csOpenItem;
+csOpenItem = function(item) {
+  _origCsOpenItem(item);
+  // 주문 정보 자동 조회 (productOrderIdList 있으면)
+  CS_ORDER_CONTEXT = null;
+  if (item.productOrderIdList) {
+    const sectionParent = document.getElementById("cs-info-content");
+    if (sectionParent) {
+      // loading placeholder
+      let placeholder = document.getElementById("cs-order-section-wrap");
+      if (!placeholder) {
+        placeholder = document.createElement("div");
+        placeholder.id = "cs-order-section-wrap";
+        sectionParent.parentNode.insertBefore(placeholder, sectionParent.nextSibling);
+      }
+      placeholder.innerHTML = `<div class="cs-order-section"><div class="cs-order-section-header is-loading">📦 주문 정보 (자동 조회)</div></div>`;
+      csFetchOrderDetail(item.productOrderIdList).then(orders => {
+        if (!orders || !orders.length) {
+          placeholder.innerHTML = `<div class="cs-order-section"><div class="cs-order-section-header" style="color:var(--muted)">📦 주문 정보 조회 실패 또는 만료</div></div>`;
+          return;
+        }
+        // 첫 주문만 표시 (대부분 1건)
+        CS_ORDER_CONTEXT = orders[0];
+        placeholder.innerHTML = csRenderOrderInfo(orders[0]);
+      });
+    }
+  } else {
+    // productOrderIdList 없으면 기존 박스 제거
+    const placeholder = document.getElementById("cs-order-section-wrap");
+    if (placeholder) placeholder.remove();
+  }
+};
+
+// === AI 답변 생성 흐름에 주문 컨텍스트 주입 ===
+// 기존 btn-cs-ai-generate 핸들러가 이미 있으므로 prompt 만들기 직전에 주문 정보 추가
+const _origCsAiBtn = document.getElementById("btn-cs-ai-generate");
+if (_origCsAiBtn) {
+  // 핸들러 자체를 교체
+  const newBtn = _origCsAiBtn.cloneNode(true);
+  _origCsAiBtn.parentNode.replaceChild(newBtn, _origCsAiBtn);
+  newBtn.addEventListener("click", async () => {
+    if (!CS_SELECTED) { alert("문의를 먼저 선택하세요"); return; }
+    const apikey = localStorage.getItem(LS_KEY);
+    if (!apikey) { openApiKeyModal(); return; }
+    const btn = newBtn;
+    btn.disabled = true; btn.textContent = "⏳ 생성 중...";
+    try {
+      const cat = CS_SELECTED.category || "기타";
+      // 주문 컨텍스트 (있으면 풍부하게)
+      let orderContext = "";
+      if (CS_ORDER_CONTEXT) {
+        const o = CS_ORDER_CONTEXT;
+        const order = o.order || {};
+        const po = o.productOrder || {};
+        const dlv = o.delivery || {};
+        const ret = o.return || null;
+        const lines = [
+          "[주문 정보]",
+          `- 주문번호: ${order.orderId || ""}`,
+          `- 주문일자: ${(order.orderDate||"").replace("T"," ").slice(0,16)}`,
+          `- 결제수단: ${order.paymentMeans||"-"}`,
+          `- 결제금액: ${csFmtMoney(po.totalPaymentAmount)} (배송비 ${csFmtMoney(po.deliveryFeeAmount)})`,
+          `- 주문상태: ${csKr(ORDER_STATUS_KR, po.productOrderStatus)}`,
+          `- 클레임 상태: ${po.claimStatus ? csKr(CLAIM_STATUS_KR, po.claimStatus) : "(없음)"}`,
+          `- 상품: ${po.productName||""} ${po.productOption||""}`,
+          `- 수량: ${po.quantity}개`,
+        ];
+        if (dlv.trackingNumber) {
+          lines.push(`- 배송: ${dlv.deliveryCompany||""} ${dlv.trackingNumber}` + (dlv.deliveredDate ? ` (${dlv.deliveredDate.replace("T"," ").slice(0,16)} 배송완료)` : ""));
+        }
+        if (ret) {
+          lines.push("");
+          lines.push("[반품 정보]");
+          lines.push(`- 반품 사유 코드: ${ret.returnReason} (${csKr(RETURN_REASON_KR, ret.returnReason)})`);
+          lines.push(`- 반품 신청자: ${ret.requestChannel||""} (${(ret.claimRequestDate||"").replace("T"," ").slice(0,16)})`);
+          lines.push(`- 반품 배송비: ${csFmtMoney(ret.claimDeliveryFeeDemandAmount)} (${ret.claimDeliveryFeePayMethod||""})`);
+          if (ret.holdbackStatus === "HOLDBACK") {
+            lines.push(`- 보류 상태: ${csKr(HOLDBACK_REASON_KR, ret.holdbackReason)} 으로 보류 중`);
+          }
+          if (ret.returnDetailedReason) {
+            lines.push(`- 고객 작성 반품 사유:\n  ${ret.returnDetailedReason.replace(/\n/g, "\n  ")}`);
+          }
+        }
+        orderContext = lines.join("\n");
+      }
+      // 카테고리별 답변 가이드
+      const guide = {
+        "반품": "단순 변심(MISTAKE_ORDER, CHANGE_MIND)이면 왕복 배송비 6,000원 고객 부담 안내. 상품 불량(BROKEN_PRODUCT, INVALID_PRODUCT_ARRIVED)/배송 오류이면 판매자 부담으로 즉시 처리 약속. 보류 상태면 보류 사유(반품 배송비 미입금/미수령 등) 해제 절차 단계별 안내. 반품 신청 후 일주일 이상 경과 시 회수 진행 상황 확인 약속.",
+        "교환": "옵션 변경/색상/사이즈/모델 차이 등 명확히 확인. 단순 변심 교환은 왕복 배송비 발생, 불량/오배송 교환은 무료 안내. 재고 확인 필요시 1-2영업일 내 회신 약속.",
+        "환불": "결제수단별 환불 일정 정확히 안내(카드: 카드사 영업일 기준 3-5일, 무통장입금: 즉시, 네이버페이: 24시간 이내). 환불 진행 단계 명시.",
+        "배송": "송장번호/택배사 명시 후 추적 안내. 이미 배송완료 상태면 도착 확인. 미배송이면 출고일·예상 도착일·택배사 연락처 안내. 배송 지연 시 사과 + 빠른 처리 약속.",
+        "상품": "제품 사양/사용법/호환성 정확히 안내. 모델 정보 인용. 추가 설명 필요 시 매뉴얼/문서 안내. 단순 변심 가능성이면 사양 차이 명확히 안내해 반품 부담 방지.",
+        "기타": "정중하게 상황 파악 후 단계별 안내. 추가 정보 필요시 정중히 요청.",
+      }[cat] || "";
+
+      // 시나리오별 보강 — 데이터 기반 자동 진단
+      const advisories = [];
+      if (CS_ORDER_CONTEXT) {
+        const _po = CS_ORDER_CONTEXT.productOrder || {};
+        const _ret = CS_ORDER_CONTEXT.return;
+        const _ex = CS_ORDER_CONTEXT.exchange || (CS_ORDER_CONTEXT.currentClaim && CS_ORDER_CONTEXT.currentClaim.exchange);
+        const _cn = CS_ORDER_CONTEXT.cancel || (CS_ORDER_CONTEXT.currentClaim && CS_ORDER_CONTEXT.currentClaim.cancel);
+        if (_ret && _ret.holdbackStatus === "HOLDBACK") {
+          advisories.push("⚠ 반품 보류 상태이므로 보류 사유 해제 절차를 답변에 명시하라.");
+        }
+        if (_po.productOrderStatus === "DELIVERED" && cat === "취소") {
+          advisories.push("⚠ 이미 배송완료된 주문이므로 일반 취소는 불가하며 반품으로 안내해야 한다.");
+        }
+        if (_po.productOrderStatus === "DELIVERING" && cat === "배송") {
+          advisories.push("ℹ 배송 중 상태이므로 송장번호로 추적 가능함을 안내.");
+        }
+        if (_ex) {
+          advisories.push("ℹ 이미 교환 신청 진행 중인 건이다. 신규 교환 안내 X, 현재 진행 단계만 알린다.");
+        }
+        if (_cn) {
+          advisories.push("ℹ 이미 취소 신청 진행 중인 건이다. 취소 진행 단계 안내.");
+        }
+      }
+      const advisoryBlock = advisories.length ? "\n\n[자동 진단]\n" + advisories.join("\n") : "";
+
+      const promptParts = [
+        "당신은 랜스타 고객센터 AI 상담사입니다. 아래 정보를 종합하여 정중하고 구체적인 한국어 답변을 작성하세요. 추측하지 말고 주어진 데이터만 인용하세요.",
+        `[문의유형] ${cat}`,
+        `[답변 가이드] ${guide}${advisoryBlock}`,
+        `[제목] ${CS_SELECTED.title || ""}`,
+        `[고객명] ${CS_SELECTED.customerName || ""}`,
+        `[문의내용]`,
+        CS_SELECTED.inquiryContent || "",
+        "",
+        orderContext || "[주문 정보] 조회 안 됨 (productOrderIdList 없음)",
+        "",
+        "응답 형식 (JSON만, 마크다운/백틱 금지):",
+        `{ "answer": "<한국어 답변, 주문번호와 구체적 금액·상태를 답변에 인용할 것>" }`
+      ];
+      const prompt = promptParts.join("\n");
+      const useSearch = (CS.mode !== "fast");
+      const url = `${API_BASE}/${MODEL}:generateContent?key=${encodeURIComponent(apikey)}`;
+      const body = {
+        contents: [{ role: "user", parts: [{ text: prompt }] }],
+      };
+      if (useSearch) body.tools = [{ google_search: {} }];
+      body.generationConfig = { temperature: 0.4, topP: 0.95, maxOutputTokens: 2048, responseMimeType: "application/json" };
+
+      const r = await fetchGeminiWithRetry(url, body);
+      const txt = r?.candidates?.[0]?.content?.parts?.[0]?.text || "";
+      let parsed = null;
+      try { parsed = JSON.parse(txt); }
+      catch(e) { const m = txt.match(/\{[\s\S]*\}/); if (m) try { parsed = JSON.parse(m[0]); } catch{} }
+      if (parsed && parsed.answer) {
+        document.getElementById("cs-answer-input").value = parsed.answer;
+        const ctx = CS_ORDER_CONTEXT ? "주문정보 포함" : "주문정보 없음";
+        status(`AI 답변 생성됨 (${ctx})`, "ok");
+      } else {
+        alert("응답 파싱 실패: " + txt.slice(0, 200));
+      }
+    } catch (e) {
+      alert("AI 호출 실패: " + e.message);
+    } finally {
+      btn.disabled = false; btn.textContent = "🤖 AI 답변 생성";
+    }
+  });
+}
+
+
 </script>
+
+<!-- ============================================================ -->
+<!-- ========== 고도몰문의 view (lanstaras 게시판) ============== -->
+<!-- ============================================================ -->
+<style>
+  /* 고도몰문의 탭 — 3-pane */
+  #view-godo { display: none; grid-template-columns: 340px 1fr 380px; height: calc(100vh - var(--header-h)); }
+  #view-godo.active { display: grid; }
+  @media (max-width: 1100px) {
+    #view-godo { grid-template-columns: 280px 1fr 320px; }
+  }
+  @media (max-width: 900px) {
+    #view-godo { grid-template-columns: 1fr; }
+  }
+
+  /* 좌측 리스트 */
+  #view-godo .godo-list-pane { border-right: 1px solid var(--border); display:flex; flex-direction:column; }
+  #view-godo .godo-list-header { padding: 10px 12px; border-bottom: 1px solid var(--border); display:flex; gap:6px; align-items:center; flex-wrap:wrap; }
+  #view-godo .godo-list-header input.search { flex:1; min-width: 140px; padding: 6px 8px; border: 1px solid var(--border); border-radius: 6px; font-size: 13px; }
+  #view-godo .godo-list-header .filter-bar { display:flex; gap: 4px; padding: 0 10px 8px; }
+  #view-godo .godo-list-header .filter-bar button {
+    flex:1; padding: 5px 0; font-size: 12px; cursor: pointer;
+    background: var(--elev-1); border: 1px solid var(--border); border-radius: 6px; color: var(--text-2);
+  }
+  #view-godo .godo-list-header .filter-bar button.active {
+    background: var(--text); color: #fff; border-color: var(--text);
+  }
+  #view-godo .godo-list-body { flex:1; overflow-y: auto; }
+  #view-godo .godo-item {
+    padding: 12px 14px; border-bottom: 1px solid var(--border-soft, #f0f0f0); cursor: pointer;
+    position: relative;
+  }
+  #view-godo .godo-item:hover { background: var(--elev-1); }
+  #view-godo .godo-item.selected { background: #f0f7ff; border-left: 3px solid #2563eb; padding-left: 11px; }
+  #view-godo .godo-item-top { display:flex; align-items:center; gap:6px; padding-right: 30px; }
+  #view-godo .godo-item .ticket { font-size: 11px; color: #888; font-family: monospace; }
+  #view-godo .godo-item .badge { font-size: 10.5px; padding: 2px 6px; border-radius: 999px; margin-left: 6px; }
+  #view-godo .godo-item .badge.pending { background: #fde68a; color: #92400e; }
+  #view-godo .godo-item .badge.answered { background: #d1fae5; color: #065f46; }
+  #view-godo .godo-del {
+    position: absolute; top: 8px; right: 8px;
+    width: 24px; height: 24px; border-radius: 6px;
+    border: 1px solid transparent; background: transparent; color: #aaa;
+    font-size: 17px; line-height: 1; cursor: pointer; opacity: .65;
+  }
+  #view-godo .godo-item:hover .godo-del,
+  #view-godo .godo-del:focus { opacity: 1; }
+  #view-godo .godo-del:hover { background: var(--err); border-color: var(--err); color: #fff; }
+  #view-godo .godo-item .subject { font-size: 13.5px; font-weight: 600; color: #222; margin: 4px 0 4px; word-break: break-all; }
+  #view-godo .godo-item .meta { font-size: 11.5px; color: #999; display:flex; gap:10px; }
+
+  /* 중앙 상세 */
+  #view-godo .godo-detail-pane { overflow-y: auto; padding: 16px 18px; }
+  #view-godo .godo-detail-pane h2 { font-size: 16px; margin: 0 0 12px; }
+  #view-godo .godo-meta-row { display: grid; grid-template-columns: 80px 1fr; font-size: 13px; padding: 4px 0; gap: 8px; }
+  #view-godo .godo-meta-row .k { color: #888; }
+  #view-godo .godo-meta-row .v { color: #222; word-break: break-all; }
+  #view-godo .godo-body-box { margin-top: 12px; padding: 14px; background: #fafafa; border-radius: 8px; font-size: 13.5px; line-height: 1.6; }
+  #view-godo .godo-empty { padding: 60px 20px; text-align: center; color: #aaa; }
+  #view-godo .godo-attach-link { display:inline-block; margin-top:8px; padding: 6px 12px; background: var(--elev-1); border-radius: 6px; font-size: 12px; color: #555; text-decoration: none; }
+  #view-godo .godo-attachments { margin-top: 14px; padding: 12px; background: #fff; border: 1px solid var(--border); border-radius: 8px; }
+  #view-godo .godo-attachments-title { font-size: 13px; font-weight: 700; color: #222; margin-bottom: 10px; }
+  #view-godo .godo-attachments-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(132px, 1fr)); gap: 10px; }
+  #view-godo .godo-media-card {
+    display: block; min-width: 0; border: 1px solid var(--border); border-radius: 8px;
+    background: var(--elev-1); overflow: hidden; color: inherit; text-decoration: none;
+  }
+  #view-godo .godo-media-card img,
+  #view-godo .godo-media-card video { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; display: block; background: #f3f4f6; }
+  #view-godo .godo-media-card video { object-fit: contain; }
+  #view-godo .godo-media-name {
+    padding: 7px 8px; font-size: 11px; color: #555; line-height: 1.35;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  #view-godo .godo-file-card { padding: 10px 12px; font-size: 12px; }
+  #view-godo .godo-body-box img,
+  #view-godo .godo-body-box video { max-width: 100%; height: auto; border-radius: 6px; }
+
+  /* 우측 답변 입력 */
+  #view-godo .godo-answer-pane { border-left: 1px solid var(--border); display:flex; flex-direction:column; padding: 16px; gap: 10px; overflow-y: auto; }
+  #view-godo .godo-answer-pane h3 { font-size: 14px; margin: 0; }
+  #view-godo .godo-answer-pane textarea {
+    flex: 0 0 auto; min-height: 180px; height: 240px; padding: 10px; border: 1px solid var(--border); border-radius: 6px;
+    font-size: 13.5px; font-family: inherit; line-height: 1.5; resize: vertical;
+  }
+  #view-godo .godo-answer-pane .ai-btn {
+    padding: 8px 12px; background: linear-gradient(135deg, #6366f1, #8b5cf6); color: #fff;
+    border: none; border-radius: 6px; font-size: 13px; cursor: pointer; font-weight: 600;
+  }
+  #view-godo .godo-answer-pane .ai-btn:hover { filter: brightness(1.05); }
+  #view-godo .godo-answer-pane .send-btn {
+    padding: 10px 12px; background: #111; color: #fff;
+    border: none; border-radius: 6px; font-size: 14px; cursor: pointer; font-weight: 600;
+  }
+  #view-godo .godo-answer-pane .send-btn:hover { background: #333; }
+  #view-godo .godo-answer-pane .options { display:flex; gap: 12px; align-items: center; font-size: 12px; color: #666; }
+  #view-godo .godo-answer-pane .options label { display:flex; gap: 4px; align-items: center; cursor: pointer; }
+  #view-godo .godo-answer-pane .existing-answer {
+    padding: 10px 12px; background: #f0fdf4; border-left: 3px solid #0a8043;
+    border-radius: 6px; font-size: 13px; line-height: 1.6; color: #1f2937;
+  }
+</style>
+
+<section id="view-godo" class="view">
+  <!-- Left: 리스트 -->
+  <aside class="godo-list-pane">
+    <div class="godo-list-header">
+      <input class="search" id="godo-search" placeholder="제목·내용·이름·연락처 검색..." autocomplete="off">
+      <button id="godo-refresh" title="새로고침" style="padding:6px 10px; background:var(--elev-1); border:1px solid var(--border); border-radius:6px; cursor:pointer;">⟳</button>
+    </div>
+    <div class="godo-list-header filter-bar" style="padding:0 12px 8px;">
+      <button data-filter="all"      class="active">전체</button>
+      <button data-filter="pending"  >답변대기</button>
+      <button data-filter="answered" >답변완료</button>
+    </div>
+    <div class="godo-list-body" id="godo-list-body">
+      <div class="godo-empty">로딩 중…</div>
+    </div>
+    <div class="naver-paging" id="godo-paging" style="display:none">
+      <button id="godo-prev" class="naver-page-btn">◀</button>
+      <span id="godo-page-info">1/1</span>
+      <button id="godo-next" class="naver-page-btn">▶</button>
+    </div>
+  </aside>
+
+  <!-- Center: 상세 -->
+  <section class="godo-detail-pane" id="godo-detail-pane">
+    <div class="godo-empty">왼쪽 리스트에서 접수 글을 선택하세요.</div>
+  </section>
+
+  <!-- Right: 답변 입력 -->
+  <aside class="godo-answer-pane" id="godo-answer-pane" style="display:none;">
+    <h3>답변 작성</h3>
+    <div id="godo-existing-answer-wrap" style="display:none;">
+      <div style="font-size:12px; color:#0a8043; font-weight:600; margin-bottom:4px;">✓ 등록된 답변 (수정 시 덮어쓰기)</div>
+      <div class="existing-answer" id="godo-existing-answer"></div>
+    </div>
+    <input type="text" id="godo-answer-subject" placeholder="답변 제목 (선택)" style="padding:8px 10px; border:1px solid var(--border); border-radius:6px; font-size:13px;">
+    <textarea id="godo-answer-text" placeholder="답변 내용을 입력하세요..."></textarea>
+    <button type="button" class="ai-btn" id="godo-ai-suggest" title="cs 탭과 동일한 Gemini 모델 호출">🤖 AI 추천 답변</button>
+    <div class="options">
+      <label><input type="checkbox" id="godo-secret" checked> 비밀글</label>
+      <label><input type="checkbox" id="godo-notify" checked> SMS 알림</label>
+    </div>
+    <button type="button" class="send-btn" id="godo-send">답변 등록</button>
+  </aside>
+</section>
+
+<script>
+(function(){
+  // godo admin 토큰: 서버 통합설정(window.__AICC_CFG)에서 읽고, 없으면 기본값 폴백
+  const getGodoToken = () => (window.__AICC_CFG && window.__AICC_CFG.godo_token) || "";
+  const API_BASE_ADMIN = "https://lanstar.co.kr/cs/api/admin";
+
+  const GODO = {
+    items: [],
+    page: 1,
+    selected: null,
+    filter: 'all',
+    search: '',
+    loaded: false,
+  };
+
+  function $(sel, root) { return (root || document).querySelector(sel); }
+  function $$(sel, root) { return Array.from((root || document).querySelectorAll(sel)); }
+
+  function escapeHtml(s) {
+    return (s || '').toString()
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  }
+
+  function normalizeGodoMediaUrl(url) {
+    url = (url || '').toString().trim();
+    if (!url) return '';
+    if (/^https?:\/\//i.test(url)) return url;
+    if (url.startsWith('//')) return location.protocol + url;
+    if (url.startsWith('/')) return location.origin + url;
+    return location.origin + '/' + url.replace(/^\.?\//, '');
+  }
+
+  function godoFileName(url, fallback) {
+    try {
+      const u = new URL(normalizeGodoMediaUrl(url));
+      const name = decodeURIComponent(u.pathname.split('/').pop() || '');
+      return name || fallback || '첨부파일';
+    } catch (e) {
+      return fallback || '첨부파일';
+    }
+  }
+
+  function godoMediaKind(url) {
+    const path = (url || '').split('?')[0].split('#')[0].toLowerCase();
+    if (/\.(jpe?g|png|gif|webp|bmp|heic|heif)$/i.test(path)) return 'image';
+    if (/\.(mp4|mov|m4v|webm|avi|wmv|mpeg|mpg)$/i.test(path)) return 'video';
+    return 'file';
+  }
+
+  function collectGodoAttachments(j) {
+    const out = [];
+    const seen = new Set();
+    const add = (url, name) => {
+      const href = normalizeGodoMediaUrl(url);
+      if (!href || seen.has(href)) return;
+      seen.add(href);
+      out.push({ href, name: name || godoFileName(href), kind: godoMediaKind(href) });
+    };
+
+    if (j.attachment?.saved) {
+      add('/data/board/upload/lanstaras/' + j.attachment.saved, j.attachment.orig);
+    }
+
+    const doc = new DOMParser().parseFromString(j.contents || '', 'text/html');
+    doc.querySelectorAll('img[src], video[src], video source[src]').forEach(el => {
+      add(el.getAttribute('src'), el.getAttribute('alt') || '');
+    });
+    doc.querySelectorAll('a[href]').forEach(el => {
+      const href = el.getAttribute('href') || '';
+      if (godoMediaKind(href) !== 'file' || /\/data\/board\/upload\//i.test(href)) {
+        add(href, (el.textContent || '').trim());
+      }
+    });
+
+    return out;
+  }
+
+  function renderGodoAttachments(j) {
+    const files = collectGodoAttachments(j);
+    if (!files.length) return '';
+    return `
+      <div class="godo-attachments">
+        <div class="godo-attachments-title">첨부 자료 (${files.length})</div>
+        <div class="godo-attachments-grid">
+          ${files.map(f => {
+            const name = escapeHtml(f.name || godoFileName(f.href));
+            const href = escapeHtml(f.href);
+            if (f.kind === 'image') {
+              return `<a class="godo-media-card" href="${href}" download="${name}" title="첨부 이미지 다운로드">
+                <img src="${href}" alt="${name}" loading="lazy">
+                <div class="godo-media-name">${name}</div>
+              </a>`;
+            }
+            if (f.kind === 'video') {
+              return `<div class="godo-media-card">
+                <video src="${href}" controls preload="metadata"></video>
+                <a class="godo-media-name" href="${href}" download="${name}" title="첨부 영상 다운로드">${name}</a>
+              </div>`;
+            }
+            return `<a class="godo-media-card godo-file-card" href="${href}" download="${name}" title="첨부 파일 다운로드">📎 ${name}</a>`;
+          }).join('')}
+        </div>
+      </div>
+    `;
+  }
+
+  async function godoFetchList() {
+    const body = $('#godo-list-body');
+    body.innerHTML = '<div class="godo-empty">로딩 중…</div>';
+    const p = new URLSearchParams({
+      token: getGodoToken(),
+      page: '1', size: '100',
+      status: GODO.filter,
+    });
+    if (GODO.search) p.append('q', GODO.search);
+    try {
+      const r = await fetch(`${API_BASE_ADMIN}/list.php?${p}`, { credentials: 'same-origin' });
+      const j = await r.json();
+      if (!j.ok) { body.innerHTML = `<div class="godo-empty">${j.error || '조회 실패'}</div>`; return; }
+      GODO.items = j.items || [];
+      GODO.page = 1;
+      renderGodoList();
+      // 답변대기 카운트 → 탭 뱃지
+      const pending = GODO.items.filter(x => !x.answered).length;
+      const badge = $('#tab-godo-badge');
+      if (pending > 0) { badge.style.display = ''; badge.textContent = pending; }
+      else { badge.style.display = 'none'; }
+    } catch(e) {
+      console.error(e);
+      body.innerHTML = '<div class="godo-empty">서버 통신 오류</div>';
+    }
+  }
+
+  function renderGodoPaging(page, totalPages) {
+    const pg = $('#godo-paging');
+    if (!pg) return;
+    if (!totalPages || totalPages <= 1) { pg.style.display = 'none'; return; }
+    pg.style.display = 'flex';
+    const info = $('#godo-page-info'); if (info) info.textContent = `${page}/${totalPages}`;
+    const prev = $('#godo-prev'); if (prev) prev.disabled = page <= 1;
+    const next = $('#godo-next'); if (next) next.disabled = page >= totalPages;
+  }
+  function renderGodoList() {
+    const body = $('#godo-list-body');
+    if (GODO.items.length === 0) { body.innerHTML = '<div class="godo-empty">접수 글이 없습니다.</div>'; renderGodoPaging(0, 0); return; }
+    const GODO_SIZE = 30;
+    const godoTotalPages = Math.max(1, Math.ceil(GODO.items.length / GODO_SIZE));
+    if (GODO.page > godoTotalPages) GODO.page = godoTotalPages;
+    if (GODO.page < 1) GODO.page = 1;
+    const godoPageItems = GODO.items.slice((GODO.page - 1) * GODO_SIZE, GODO.page * GODO_SIZE);
+    renderGodoPaging(GODO.page, godoTotalPages);
+    body.innerHTML = godoPageItems.map(it => `
+      <div class="godo-item" data-sno="${it.sno}" ${GODO.selected === it.sno ? 'data-selected="1"' : ''}>
+        <div class="godo-item-top">
+          <span class="ticket">${it.ticket}</span>
+          <span class="badge ${it.answered ? 'answered' : 'pending'}">${it.statusLabel}</span>
+          <button type="button" class="godo-del" data-godo-del="${it.sno}" title="문의 삭제" aria-label="문의 삭제">×</button>
+        </div>
+        <div class="subject">${escapeHtml(it.subject)}</div>
+        <div class="meta">
+          <span>${escapeHtml(it.writerNm)}</span>
+          <span>${escapeHtml(it.writerHp)}</span>
+          <span>${it.regDt}</span>
+        </div>
+      </div>
+    `).join('');
+    body.querySelectorAll('.godo-item').forEach(el => {
+      if (el.dataset.selected === '1') el.classList.add('selected');
+      el.addEventListener('click', (e) => {
+        if (e.target.closest('[data-godo-del]')) return;
+        godoSelect(parseInt(el.dataset.sno));
+      });
+    });
+    body.querySelectorAll('[data-godo-del]').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        godoDelete(parseInt(btn.dataset.godoDel), btn);
+      });
+    });
+  }
+
+  async function godoDelete(sno, btn) {
+    if (!sno) return;
+    const item = GODO.items.find(x => x.sno === sno);
+    const label = item ? `${item.ticket} · ${item.subject}` : `SNO ${sno}`;
+    if (!confirm(`이 문의를 사이드바 목록에서 삭제할까요?\n\n${label}`)) return;
+
+    const prev = btn ? btn.textContent : '';
+    if (btn) { btn.disabled = true; btn.textContent = '…'; }
+    try {
+      const r = await fetch(`${API_BASE_ADMIN}/delete.php`, {
+        method: 'POST',
+        credentials: 'same-origin',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({ token: getGodoToken(), sno }),
+      });
+      const j = await r.json();
+      if (!j.ok) throw new Error(j.error || '삭제 실패');
+
+      if (GODO.selected === sno) {
+        GODO.selected = null;
+        $('#godo-detail-pane').innerHTML = '<div class="godo-empty">왼쪽 리스트에서 접수 글을 선택하세요.</div>';
+        $('#godo-answer-pane').style.display = 'none';
+      }
+      GODO.items = GODO.items.filter(x => x.sno !== sno);
+      renderGodoList();
+      godoFetchList();
+    } catch (e) {
+      console.error(e);
+      alert('삭제 실패: ' + e.message);
+      if (btn) { btn.disabled = false; btn.textContent = prev; }
+    }
+  }
+
+  async function godoSelect(sno) {
+    GODO.selected = sno;
+    renderGodoList();
+    const detail = $('#godo-detail-pane');
+    const answerPane = $('#godo-answer-pane');
+    detail.innerHTML = '<div class="godo-empty">로딩 중…</div>';
+    answerPane.style.display = 'none';
+
+    try {
+      const r = await fetch(`${API_BASE_ADMIN}/detail.php?token=${getGodoToken()}&sno=${sno}`);
+      const j = await r.json();
+      if (!j.ok) { detail.innerHTML = `<div class="godo-empty">${j.error}</div>`; return; }
+      detail.innerHTML = `
+        <h2>${escapeHtml(j.subject)}</h2>
+        <div class="godo-meta-row"><span class="k">접수번호</span><span class="v">${j.ticket}</span></div>
+        <div class="godo-meta-row"><span class="k">상태</span><span class="v">${j.statusLabel}</span></div>
+        <div class="godo-meta-row"><span class="k">분류</span><span class="v">${escapeHtml(j.category || '-')}</span></div>
+        <div class="godo-meta-row"><span class="k">신청자</span><span class="v">${escapeHtml(j.writerNm)}</span></div>
+        <div class="godo-meta-row"><span class="k">연락처</span><span class="v">${escapeHtml(j.writerHp)}</span></div>
+        <div class="godo-meta-row"><span class="k">이메일</span><span class="v">${escapeHtml(j.writerEmail || '-')}</span></div>
+        <div class="godo-meta-row"><span class="k">채널</span><span class="v">${escapeHtml(j.channel || '-')}</span></div>
+        <div class="godo-meta-row"><span class="k">접수일</span><span class="v">${j.regDt}</span></div>
+        ${renderGodoAttachments(j)}
+        <div class="godo-body-box">${j.contents || '-'}</div>
+      `;
+      // 답변 패널 표시
+      answerPane.style.display = 'flex';
+      if (j.answered) {
+        $('#godo-existing-answer-wrap').style.display = 'block';
+        $('#godo-existing-answer').innerHTML = j.answerContents;
+        $('#godo-answer-subject').value = j.answerSubject || '';
+        $('#godo-answer-text').value = j.answerContents || '';
+      } else {
+        $('#godo-existing-answer-wrap').style.display = 'none';
+        $('#godo-answer-subject').value = '';
+        $('#godo-answer-text').value = '';
+      }
+    } catch(e) {
+      console.error(e);
+      detail.innerHTML = '<div class="godo-empty">서버 통신 오류</div>';
+    }
+  }
+
+  // ===== AI 답변 추천 (aicc2 qna/cs 와 동일한 Gemini 패턴) =====
+  async function godoAiSuggest() {
+    if (!GODO.selected) { alert('답변할 접수 글을 먼저 선택하세요.'); return; }
+
+    // aicc2 global: LS_KEY, API_BASE, MODEL, fetchGeminiWithRetry, openApiKeyModal
+    const apikey = (typeof LS_KEY !== 'undefined') ? localStorage.getItem(LS_KEY) : null;
+    if (!apikey) {
+      if (typeof openApiKeyModal === 'function') openApiKeyModal();
+      else alert('우측 상단 "API 키" 버튼으로 Gemini API 키를 먼저 등록해주세요.');
+      return;
+    }
+    if (typeof fetchGeminiWithRetry !== 'function' || typeof API_BASE === 'undefined' || typeof MODEL === 'undefined') {
+      alert('Gemini 헬퍼를 찾을 수 없습니다. 페이지를 새로고침 해주세요.');
+      return;
+    }
+
+    // 현재 선택 글의 상세 한 번 더 fetch (최신 본문 사용)
+    let detail = null;
+    try {
+      const r = await fetch(`${API_BASE_ADMIN}/detail.php?token=${getGodoToken()}&sno=${GODO.selected}`);
+      const j = await r.json();
+      if (!j.ok) { alert('글 상세 조회 실패: ' + (j.error || '')); return; }
+      detail = j;
+    } catch (e) { alert('서버 통신 오류'); return; }
+
+    const btn = $('#godo-ai-suggest');
+    const prev = btn.textContent;
+    btn.disabled = true; btn.textContent = '⏳ AI 답변 생성중...';
+
+    // 본문 HTML → 텍스트 추출
+    const tmpDiv = document.createElement('div');
+    tmpDiv.innerHTML = detail.contents || '';
+    const plainContent = tmpDiv.textContent.replace(/\s+/g, ' ').trim().slice(0, 3000);
+
+    const promptParts = [
+      "당신은 랜스타 A/S 고객센터 AI 상담사입니다. 아래 고객 접수 내역에 대한 답변을 한국어로 작성하세요.",
+      "톤은 정중하고 친절하며, 간결한 문장으로 답변 절차/예상 일정/필요 사항을 안내하세요.",
+      "랜스타 네트워크 장비/허브랙/콘솔 등의 제품 지식과 일반적인 A/S 안내 규정을 반영하세요.",
+      "",
+      `[접수번호] ${detail.ticket}`,
+      `[분류] ${detail.category || '(없음)'}`,
+      `[접수 유형] ${detail.extra?.caseTypeNm || '-'}`,
+      `[문제 유형] ${detail.extra?.issueNm || '-'}`,
+      `[구매 채널] ${detail.extra?.channelNm || detail.channel || '-'}`,
+      `[주문번호] ${detail.orderNo || '-'}`,
+      `[제품] ${detail.extra?.modelNmDisplay || ''} (${detail.extra?.modelNm || '-'})`,
+      `[시리얼] ${detail.extra?.serialNo || '-'}`,
+      `[신청자] ${detail.writerNm} / ${detail.writerHp}`,
+      `[수거주소] ${detail.extra?.address ? `(${detail.extra.address.zipcode||''}) ${detail.extra.address.address||''} ${detail.extra.address.addressSub||''}` : '-'}`,
+      "",
+      "[고객이 작성한 증상/내용]",
+      plainContent,
+      "",
+      "응답 형식: JSON만 출력 (마크다운/백틱 금지)",
+      `{ "answer": "<한국어 답변>", "subject": "<답변 제목, 20자 이내>" }`
+    ];
+    const prompt = promptParts.join('\n');
+
+    const url = `${API_BASE}/${MODEL}:generateContent?key=${encodeURIComponent(apikey)}`;
+    const body = {
+      contents: [{ role: 'user', parts: [{ text: prompt }] }],
+      generationConfig: { temperature: 0.4, topP: 0.95, maxOutputTokens: 2048, responseMimeType: 'application/json' },
+    };
+
+    try {
+      const r = await fetchGeminiWithRetry(url, body);
+      const txt = r?.candidates?.[0]?.content?.parts?.[0]?.text || '';
+      let parsed = null;
+      try { parsed = JSON.parse(txt); }
+      catch (e) {
+        const m = txt.match(/\{[\s\S]*\}/);
+        if (m) { try { parsed = JSON.parse(m[0]); } catch(_) {} }
+      }
+      if (parsed && parsed.answer) {
+        $('#godo-answer-text').value = parsed.answer;
+        if (parsed.subject) $('#godo-answer-subject').value = parsed.subject;
+        btn.textContent = '✓ 생성 완료';
+        setTimeout(() => { btn.textContent = prev; }, 1500);
+      } else {
+        alert('AI 응답 파싱 실패:\n' + txt.slice(0, 300));
+        btn.textContent = prev;
+      }
+    } catch (e) {
+      console.error(e);
+      alert('AI 호출 실패: ' + (e.message || e));
+      btn.textContent = prev;
+    } finally {
+      btn.disabled = false;
+    }
+  }
+
+  async function godoSend() {
+    if (!GODO.selected) return alert('답변할 접수 글을 선택해주세요.');
+    const text = $('#godo-answer-text').value.trim();
+    if (!text) return alert('답변 내용을 입력해주세요.');
+    const subject = $('#godo-answer-subject').value.trim() || '답변 드립니다';
+    const secret = $('#godo-secret').checked ? 'y' : 'n';
+    const notify = $('#godo-notify').checked ? 'y' : 'n';
+
+    const btn = $('#godo-send');
+    const prev = btn.textContent;
+    btn.disabled = true; btn.textContent = '등록중…';
+    try {
+      const fd = new FormData();
+      fd.append('token', getGodoToken());
+      fd.append('sno', GODO.selected);
+      fd.append('subject', subject);
+      fd.append('contents', text);
+      fd.append('secret', secret);
+      fd.append('notify', notify);
+      const r = await fetch(`${API_BASE_ADMIN}/answer.php`, { method: 'POST', body: fd });
+      const j = await r.json();
+      if (!j.ok) { alert('답변 등록 실패: ' + (j.error || '')); btn.disabled = false; btn.textContent = prev; return; }
+
+      const smsNote = j.sms.ok ? ' (SMS 발송 큐 등록 완료)' : (j.sms.skip ? '' : ' (SMS 알림 실패)');
+      const godoNote = j.godo.ok ? ' / 고도몰 API ✓' : ` / 고도몰 API 실패 (${j.godo.message})`;
+      alert('답변 등록 완료' + godoNote + smsNote);
+      btn.disabled = false; btn.textContent = prev;
+      // 새로고침
+      await godoFetchList();
+      await godoSelect(GODO.selected);
+    } catch(e) {
+      console.error(e);
+      alert('서버 통신 오류');
+      btn.disabled = false; btn.textContent = prev;
+    }
+  }
+
+  // 이벤트 바인딩 — 우리 script가 </body> 직전에 위치하므로 DOM 이미 로드 완료
+  function godoInit() {
+    // 탭 진입 시 자동 로드
+    function activateGodo() {
+      // inline style로 강제 — CSS class보다 우선, 다른 핸들러가 토글해도 유지됨
+      $$('.view').forEach(v => {
+        if (v.id === 'view-godo') {
+          v.style.display = 'grid';
+          v.classList.add('active');
+        } else {
+          v.style.display = 'none';
+          v.classList.remove('active');
+        }
+      });
+      $$('.tab-btn').forEach(b => b.classList.remove('active'));
+      $('#tab-godo').classList.add('active');
+    }
+    function deactivateGodo() {
+      // 다른 탭으로 갈 때 우리 inline style 해제 → CSS class 토글로 복귀
+      $$('.view').forEach(v => { v.style.display = ''; });
+      $('#view-godo').classList.remove('active');
+    }
+    // capture phase로 등록 → 다른 핸들러보다 먼저 실행
+    document.querySelector('[data-tab="godo"]').addEventListener('click', () => {
+      activateGodo();
+      setTimeout(activateGodo, 0);
+      setTimeout(activateGodo, 50);
+      setTimeout(activateGodo, 200);
+      if (!GODO.loaded) {
+        GODO.loaded = true;
+        godoFetchList();
+      }
+    }, true);
+    // 다른 탭 클릭 시 우리 inline style 해제
+    $$('.tab-btn').forEach(b => {
+      if (b.dataset.tab === 'godo') return;
+      b.addEventListener('click', deactivateGodo, true);
+    });
+    $('#godo-refresh').addEventListener('click', godoFetchList);
+    $('#godo-prev').addEventListener('click', () => { if (GODO.page > 1) { GODO.page--; renderGodoList(); } });
+    $('#godo-next').addEventListener('click', () => { GODO.page++; renderGodoList(); });
+    $('#godo-search').addEventListener('input', e => {
+      clearTimeout(GODO._t);
+      GODO._t = setTimeout(() => { GODO.search = e.target.value.trim(); godoFetchList(); }, 300);
+    });
+    $$('.godo-list-header.filter-bar button').forEach(b => {
+      b.addEventListener('click', () => {
+        $$('.godo-list-header.filter-bar button').forEach(x => x.classList.remove('active'));
+        b.classList.add('active');
+        GODO.filter = b.dataset.filter;
+        godoFetchList();
+      });
+    });
+    $('#godo-send').addEventListener('click', godoSend);
+    $('#godo-ai-suggest').addEventListener('click', godoAiSuggest);
+
+    // 페이지 로드 후 백그라운드로 한 번 fetch — 뱃지(답변대기 수) 표시용
+    setTimeout(godoFetchList, 1500);
+  }
+  // 즉시 또는 DOM 준비되면 실행
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', godoInit);
+  else godoInit();
+})();
+</script>
+<!-- ============================================================ -->
+<!-- ========== //고도몰문의 view 끝 ============================ -->
+<!-- ============================================================ -->
+
 </body>
 </html>
