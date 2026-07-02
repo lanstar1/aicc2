@@ -1568,6 +1568,34 @@
     flex: 1; text-align: right; font-size: 12px; min-height: 14px;
   }
 
+  /* === 상품문의 AI 답변 편집·전송 패널 === */
+  .qna-send-panel {
+    margin-top: 14px;
+    padding: 12px 14px;
+    background: var(--elev-1);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+  }
+  .qna-send-panel .qna-send-label {
+    font-size: 12px; font-weight: 600; color: var(--text-2);
+    margin-bottom: 6px;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .qna-send-panel .nv-edit-textarea { background: var(--surface, #fff); }
+  .qna-send-actions {
+    display: flex; gap: 8px; align-items: center; margin-top: 10px;
+    flex-wrap: wrap;
+  }
+  .qna-send-actions .nv-secondary-btn {
+    background: transparent !important; color: var(--text) !important;
+    border: 1px solid var(--border) !important;
+    padding: 6px 12px !important; width: auto !important;
+    font-size: 12px; box-shadow: none !important;
+  }
+  .qna-send-actions .nv-secondary-btn:hover:not(:disabled) {
+    background: var(--elev-1) !important;
+  }
+
   
   /* === AI 톡톡 BETA 탭 === */
   .beta-badge {
@@ -3926,8 +3954,18 @@ function renderQnaHistoryList() {
       e.stopPropagation();
       if (!confirm("이 문의 기록을 삭제하시겠습니까?")) return;
       try {
+        // 삭제할 세션에 대기 중인 편집 저장이 있으면 취소 (플러시하면 삭제된 세션이 부활함)
+        if (QNA.activeId === btn.dataset.delId && QNA._editSaveTimer) {
+          clearTimeout(QNA._editSaveTimer);
+          QNA._editSaveTimer = null;
+        }
         await apiDeleteSession("qna", btn.dataset.delId);
-        if (QNA.activeId === btn.dataset.delId) startNewQnaSession();
+        if (QNA.activeId === btn.dataset.delId) {
+          // await 중 타이핑으로 타이머가 재무장됐을 수 있음 — 플러시(=부활) 대신 취소
+          clearTimeout(QNA._editSaveTimer);
+          QNA._editSaveTimer = null;
+          startNewQnaSession();
+        }
         removeFromCustomOrder("aicc_qna_order_v1", btn.dataset.delId);
         await refreshQnaList();
         status("삭제됨", "ok");
@@ -4094,6 +4132,7 @@ const QNA = {
 };
 
 function startNewQnaSession() {
+  flushQnaEditSave(); // 이전 세션의 대기 중 편집 저장을 상태 교체 전에 플러시
   QNA.activeId = newId();
   QNA.customerName = "";
   QNA.productStem = DATA.selected?.stem || null;
@@ -4106,6 +4145,10 @@ function startNewQnaSession() {
   QNA.createdAt = Date.now();
   QNA.updatedAt = null;
   QNA.mode = (loadUserPrefs().lastMode === "fast") ? "fast" : "perf";
+  // 스마트스토어 연결 초기화 — 이전 문의의 questionId로 오등록되는 것 방지
+  QNA._ss_questionId = null;
+  QNA._ss_productName = null;
+  QNA._ss_question = null;
   $("qna-cust-name").value = "";
   $("qna-question").value = "";
   $("qna-answer-area").innerHTML = `
@@ -4152,10 +4195,11 @@ async function saveCurrentQna() {
   };
   try {
     await apiSaveSession("qna", payload);
-    QNA.updatedAt = payload.updated_at;
-    const idx = QNA_HISTORY.findIndex(s => s.id === QNA.activeId);
+    // await 중 세션이 전환됐을 수 있으므로 라이브 activeId가 아닌 payload.id 기준으로 정리
+    if (QNA.activeId === payload.id) QNA.updatedAt = payload.updated_at;
+    const idx = QNA_HISTORY.findIndex(s => s.id === payload.id);
     const meta = {
-      id: QNA.activeId,
+      id: payload.id,
       customer_name: payload.customer_name,
       model_stem: payload.model_stem,
       product_name: payload.product_name,
@@ -4176,7 +4220,17 @@ async function saveCurrentQna() {
   }
 }
 
+// 답변 편집 디바운스 저장 플러시 — 세션 전환 직전에 대기 중인 저장을 즉시 실행
+// (saveCurrentQna는 페이로드를 동기적으로 스냅샷하므로 상태 교체 전에 호출하면 이전 세션이 올바르게 저장됨)
+function flushQnaEditSave() {
+  if (!QNA._editSaveTimer) return;
+  clearTimeout(QNA._editSaveTimer);
+  QNA._editSaveTimer = null;
+  saveCurrentQna();
+}
+
 async function openQnaSession(id) {
+  flushQnaEditSave();
   try {
     status("문의 로딩 중...");
     const s = await apiLoadSession("qna", id);
@@ -4192,6 +4246,10 @@ async function openQnaSession(id) {
     QNA.createdAt = s.created_at || Date.now();
     QNA.updatedAt = s.updated_at || null;
     QNA.mode = (s.mode === "fast") ? "fast" : "perf";
+    // 저장된 세션은 실시간 스마트스토어 문의와 연결되지 않음 — stale questionId 제거
+    QNA._ss_questionId = null;
+    QNA._ss_productName = null;
+    QNA._ss_question = null;
 
     $("qna-cust-name").value = QNA.customerName;
     $("qna-question").value = QNA.question;
@@ -4546,7 +4604,16 @@ function renderQnaAnswer(question, parsed, grounding, attachedImages, intent, ca
       <div class="small" style="margin-bottom:6px"><b>고객 문의</b></div>
       <div style="margin-bottom:14px; padding: 10px 12px; background: var(--elev-1); border-radius: var(--radius-sm); border-left: 3px solid var(--accent)">${escapeHtml(question||"").replace(/\n/g,"<br>") || "<i>(이미지만 첨부)</i>"}</div>
       ${imgsHtml}
-      ${renderAnswerMarkdown(parsed?.answer || "(응답 파싱 실패)")}
+      <div id="qna-answer-md">${renderAnswerMarkdown(parsed?.answer || "(응답 파싱 실패)")}</div>
+      <div class="qna-send-panel">
+        <div class="qna-send-label">✏️ 전송할 답변 — 자유롭게 수정하세요 (위 미리보기에 실시간 반영)</div>
+        <textarea id="qna-send-textarea" class="nv-edit-textarea"></textarea>
+        <div class="qna-send-actions">
+          ${QNA._ss_questionId ? `<button class="ss-register-btn" id="btn-ss-register" type="button">📤 스마트스토어에 등록 (Q${escapeHtml(String(QNA._ss_questionId))})</button>` : ""}
+          <button class="nv-secondary-btn" id="btn-qna-send-revert" type="button">↶ AI 원본 복원</button>
+          <span class="nv-edit-status" id="qna-send-status"></span>
+        </div>
+      </div>
       ${altHtml ? `<hr><b>대체 제품 추천</b><ul>${altHtml}</ul>` : ""}
       ${renderReasoningPath(intent, candidates, QNA.productStem)}
       <div class="citations">
@@ -4568,6 +4635,40 @@ function renderQnaAnswer(question, parsed, grounding, attachedImages, intent, ca
   // 버튼 핸들러는 innerHTML 재작성 후 다시 연결
   const btnFb = document.getElementById("btn-open-fb");
   if (btnFb) btnFb.addEventListener("click", () => openFeedbackModal(question, parsed, intent));
+
+  // 답변 편집 패널: textarea ↔ QNA 상태 ↔ 마크다운 미리보기 동기화
+  // (QNA.answer === parsed 동일 참조이므로 편집 즉시 세션 저장·AI강화 모달에도 수정본이 쓰인다)
+  // answer_original: 편집이 answer를 덮어써도 "AI 원본 복원"이 동작하도록 별도 보존 (세션 저장에 함께 실림)
+  if (parsed && parsed.answer_original === undefined) parsed.answer_original = parsed.answer || "";
+  const aiOriginal = parsed?.answer_original ?? (parsed?.answer || "");
+  const sendTa = document.getElementById("qna-send-textarea");
+  if (sendTa) {
+    // 초기값은 현재 답변(편집본 포함) — aiOriginal은 "원본 복원" 전용
+    sendTa.value = parsed?.answer || "";
+    sendTa.addEventListener("input", () => {
+      if (QNA.answer) QNA.answer.answer = sendTa.value;
+      const md = document.getElementById("qna-answer-md");
+      if (md) md.innerHTML = renderAnswerMarkdown(sendTa.value || "(비어 있음)");
+      clearTimeout(QNA._editSaveTimer);
+      const sid = QNA.activeId; // 타이머 발화 시점에 세션이 바뀌었으면 저장하지 않음
+      QNA._editSaveTimer = setTimeout(() => {
+        QNA._editSaveTimer = null;
+        if (QNA.activeId === sid && typeof saveCurrentQna === "function") saveCurrentQna();
+      }, 1200);
+    });
+  }
+  const btnSendRevert = document.getElementById("btn-qna-send-revert");
+  if (btnSendRevert) btnSendRevert.addEventListener("click", () => {
+    if (!sendTa) return;
+    sendTa.value = aiOriginal;
+    sendTa.dispatchEvent(new Event("input"));
+    const stEl = document.getElementById("qna-send-status");
+    if (stEl) { stEl.textContent = "↶ AI 원본으로 복원됨"; setTimeout(() => { stEl.textContent = ""; }, 2000); }
+  });
+  const btnSsReg = document.getElementById("btn-ss-register");
+  if (btnSsReg) btnSsReg.addEventListener("click", () => {
+    if (typeof ssRegisterAnswer === "function") ssRegisterAnswer();
+  });
 }
 
 $("btn-qna-answer").addEventListener("click", async () => {
@@ -4575,11 +4676,24 @@ $("btn-qna-answer").addEventListener("click", async () => {
   if (!apikey) { openApiKeyModal(); return; }
   if (!DATA.selected) { status("제품을 먼저 선택하세요.", "err"); return; }
   const q = $("qna-question").value.trim();
+  const custName = ($("qna-cust-name").value || "").trim();
   const imgs = QNA_IMAGES.slice();
   if (!q && imgs.length === 0) { status("고객 문의 또는 이미지를 입력하세요.", "err"); return; }
 
-  if (!QNA.activeId) startNewQnaSession();
-  QNA.customerName = ($("qna-cust-name").value || "").trim();
+  // 직접 작성 패널에 쓰다 만 초안이 있으면 경고 없이 날리지 않는다 (이미 등록된 답변은 제외)
+  const manualTa = document.getElementById("qna-manual-textarea");
+  if (manualTa && manualTa.value.trim() && manualTa.dataset.registered !== "1" &&
+      !confirm("직접 작성 중인 답변 초안이 있습니다. AI 답변을 생성하면 초안이 대체됩니다. 계속할까요?")) return;
+
+  if (!QNA.activeId) {
+    // startNewQnaSession이 스마트스토어 연결(questionId)을 초기화하므로 보존 후 복원
+    const _ssQid = QNA._ss_questionId, _ssPname = QNA._ss_productName, _ssQ = QNA._ss_question;
+    startNewQnaSession();
+    QNA._ss_questionId = _ssQid;
+    QNA._ss_productName = _ssPname;
+    QNA._ss_question = _ssQ;
+  }
+  QNA.customerName = custName;
   QNA.productStem = DATA.selected.stem;
   QNA.question = q;
   QNA.images = imgs;
@@ -5835,8 +5949,60 @@ function deselectQnaModel(productName) {
   setTimeout(() => { if (searchEl) searchEl.focus(); }, 80);
 }
 
+// 미답변 문의 직접 작성 패널 — AI 생성 없이도 답변을 작성해 바로 등록할 수 있다
+function renderQnaManualComposer(item) {
+  const area = document.getElementById("qna-answer-area");
+  if (!area) return;
+  const date = (item.createDate || "").replace("T", " ").slice(0, 16);
+  const writer = item.maskedWriterId || "";
+  area.innerHTML = `
+    <div class="nv-edit-panel">
+      <div class="nv-edit-header">
+        <h3>✍️ 답변 작성</h3>
+        <span class="nv-edit-q-meta">Q${escapeHtml(String(item.questionId))} · ${escapeHtml(date)} · ${escapeHtml(writer)}</span>
+        <div class="nv-edit-action">
+          <button id="btn-qna-manual-send" type="button">📤 스마트스토어에 등록</button>
+        </div>
+      </div>
+      <div class="nv-edit-label">고객 문의</div>
+      <div class="nv-edit-question">${escapeHtml(item.question || "")}</div>
+      <div class="nv-edit-label">답변 내용 <span class="small" style="color:var(--muted); font-weight:normal">— 직접 작성해 바로 등록하거나, 위 <b>AI 답변 생성</b>으로 초안을 만들 수 있습니다.</span></div>
+      <textarea id="qna-manual-textarea" class="nv-edit-textarea" placeholder="고객에게 전달할 답변을 직접 입력하세요..."></textarea>
+      <div class="nv-edit-footer">
+        <span class="nv-edit-status" id="qna-manual-status"></span>
+      </div>
+    </div>
+  `;
+  document.getElementById("btn-qna-manual-send").addEventListener("click", () => {
+    const text = document.getElementById("qna-manual-textarea").value.trim();
+    if (!text) { alert("답변 내용을 입력하세요"); return; }
+    ssRegisterAnswer(text, document.getElementById("btn-qna-manual-send"));
+  });
+}
+
 // 카드 클릭 시 자동 채움 + 모델 매칭
-async function ssOpenInQnaForm(item) {
+// 연속 클릭 시 실행을 직렬화(프로미스 체인)해 selectModel의 비동기 부수효과(DATA.selected,
+// 제품 카드, 답변생성 버튼 활성화)가 다른 클릭의 상태와 뒤섞이지 않게 한다.
+// 더 최근 클릭이 이미 들어온 호출은 본문 진입 시점에 통째로 건너뛴다.
+function ssOpenInQnaForm(item) {
+  const seq = (QNA._openSeq = (QNA._openSeq || 0) + 1);
+  // 클릭 즉시 이전 패널 제거 + 로딩 표시 (제품 fetch 동안 이전 문의의 패널이 남지 않도록)
+  const answerArea = document.getElementById("qna-answer-area");
+  if (answerArea) answerArea.innerHTML = `
+    <div class="answer-box" style="color:var(--muted)">
+      <span class="loader"></span> Q${escapeHtml(String(item.questionId))} 문의 로딩 중...
+    </div>`;
+  QNA._openChain = (QNA._openChain || Promise.resolve())
+    .then(() => _ssOpenInQnaFormRun(item, seq))
+    .catch(e => console.warn("ssOpenInQnaForm failed:", e));
+  return QNA._openChain;
+}
+
+async function _ssOpenInQnaFormRun(item, seq) {
+  if (seq !== QNA._openSeq) return; // 대기 중 더 최근 클릭이 들어옴 — 이 호출은 건너뜀
+  // 0) 이전 세션의 대기 중 편집 저장을 지금 플러시
+  //    (DATA.selected가 새 제품으로 바뀌기 전이어야 이전 세션의 product_name이 올바르게 저장됨)
+  flushQnaEditSave();
   // 1) 모델 자동 매칭
   const match = tryMatchProductId(item);
   if (match && match.stem) {
@@ -5852,9 +6018,10 @@ async function ssOpenInQnaForm(item) {
   $("qna-question").value = item.question || "";
   // 3) 작성자 정보 (마스킹된 ID 사용)
   $("qna-cust-name").value = item.maskedWriterId || "";
-  // 4) Q&A 메타정보 저장 (등록 시 questionId 사용)
+  // 4) Q&A 메타정보 저장 (등록 시 questionId 사용, 등록 확인창에 원 문의 표시)
   QNA._ss_questionId = item.questionId;
   QNA._ss_productName = item.productName;
+  QNA._ss_question = item.question || "";
   // 5) 모달 닫기
   $("ss-list-modal").classList.remove("show");
   // 6) 새 QnA 세션 시작 (활성 세션이 있으면)
@@ -5864,36 +6031,40 @@ async function ssOpenInQnaForm(item) {
     $("qna-cust-name").value = item.maskedWriterId || "";
     QNA._ss_questionId = item.questionId;
     QNA._ss_productName = item.productName;
+    QNA._ss_question = item.question || "";
   }
-  status(`Q${item.questionId} 로드 — AI 답변 생성 버튼을 누르세요`, "ok");
+  // 7) 답변 영역 렌더링: 답변완료 → 편집 패널 / 미답변 → 직접 작성 패널 (AI 없이 등록 가능)
+  if (item.answered && item.answer) {
+    renderQnaCompactEditor(item);
+  } else {
+    renderQnaManualComposer(item);
+  }
+  status(`Q${item.questionId} 로드 — 직접 답변을 작성하거나 AI 답변 생성을 누르세요`, "ok");
 }
 
 // =====================================================
-// AI 답변 후 "스마트스토어에 등록" 버튼 추가
+// 스마트스토어 답변 등록 (AI 답변 편집 패널 / 직접 작성 패널 공용)
+// textOverride: 직접 작성 패널 등에서 전달하는 답변 텍스트
+// btnOverride: 진행 상태를 표시할 버튼 (기본 #btn-ss-register)
 // =====================================================
-function injectSSRegisterButtonIfNeeded() {
-  if (!QNA._ss_questionId) return;
-  if (!QNA.answer || !QNA.answer.answer) return;
-  const actions = document.querySelector("#qna-answer-area .qa-actions");
-  if (!actions) return;
-  if (actions.querySelector(".ss-register-btn")) return;
-  const btn = document.createElement("button");
-  btn.className = "ss-register-btn";
-  btn.id = "btn-ss-register";
-  btn.textContent = `📤 스마트스토어에 등록 (Q${QNA._ss_questionId})`;
-  btn.addEventListener("click", () => ssRegisterAnswer());
-  actions.appendChild(btn);
-}
-
-async function ssRegisterAnswer() {
+async function ssRegisterAnswer(textOverride, btnOverride) {
   const creds = loadSSCreds();
   if (!creds) { alert("자격증명 미설정"); return; }
   if (!QNA._ss_questionId) { alert("등록할 questionId 없음"); return; }
-  const text = QNA.answer?.answer || "";
-  if (!text.trim()) { alert("답변 내용 없음"); return; }
-  if (!confirm(`Q${QNA._ss_questionId} 에 다음 답변을 스마트스토어에 등록할까요?\n\n${text.slice(0, 200)}${text.length > 200 ? "..." : ""}`)) return;
+  // 요청 진행 중 다른 문의로 전환돼도 대상이 바뀌지 않도록 로컬로 고정
+  const qid = QNA._ss_questionId;
+  const sendTa = document.getElementById("qna-send-textarea");
+  const text = (typeof textOverride === "string"
+    ? textOverride
+    : (sendTa ? sendTa.value : (QNA.answer?.answer || ""))).trim();
+  if (!text) { alert("답변 내용 없음"); return; }
+  // 확인창에 원 문의를 함께 표시 — 다른 문의에 오등록하는 실수를 눈으로 잡을 수 있게
+  const qSnippet = (QNA._ss_question || "").slice(0, 80);
+  if (!confirm(`Q${qid} 에 다음 답변을 스마트스토어에 등록할까요?`
+    + (qSnippet ? `\n\n[문의] ${qSnippet}${(QNA._ss_question || "").length > 80 ? "..." : ""}` : "")
+    + `\n\n[답변] ${text.slice(0, 200)}${text.length > 200 ? "..." : ""}`)) return;
 
-  const btn = document.getElementById("btn-ss-register");
+  const btn = btnOverride || document.getElementById("btn-ss-register");
   if (btn) { btn.disabled = true; btn.textContent = "⏳ 등록 중..."; }
   try {
     const r = await fetch(AICC_API + "&action=naver_qna_answer&t=" + Date.now(), {
@@ -5902,16 +6073,32 @@ async function ssRegisterAnswer() {
       body: JSON.stringify({
         app_id: creds.app_id,
         app_secret: creds.app_secret,
-        questionId: QNA._ss_questionId,
+        questionId: qid,
         commentContent: text,
       })
     });
     const d = await r.json();
     if (d.success) {
-      if (btn) { btn.textContent = "✓ 등록 완료"; btn.style.background = "#00a544"; btn.disabled = true; }
-      status(`Q${QNA._ss_questionId} 등록 완료`, "ok");
+      // .ss-register-btn / .nv-edit-action button 의 background가 !important라 setProperty로 덮음
+      if (btn) { btn.textContent = "✓ 등록 완료"; btn.style.setProperty("background", "#00a544", "important"); btn.disabled = true; }
+      status(`Q${qid} 등록 완료`, "ok");
       // 캐시에서 제거 (재조회 시 안 보이도록)
-      SS_LIST_CACHE = SS_LIST_CACHE.filter(x => x.questionId !== QNA._ss_questionId);
+      SS_LIST_CACHE = SS_LIST_CACHE.filter(x => x.questionId !== qid);
+      // 등록 완료 — 스마트스토어 연결 해제 (이후 새 질문 작성 시 이 questionId로 오등록 방지)
+      if (QNA._ss_questionId === qid) {
+        QNA._ss_questionId = null;
+        QNA._ss_productName = null;
+        QNA._ss_question = null;
+      }
+      // 직접 작성 패널에서 보낸 경우: 등록됨 표시 (이후 AI 생성 시 불필요한 초안 경고 방지)
+      if (typeof textOverride === "string") {
+        const manualTa = document.getElementById("qna-manual-textarea");
+        if (manualTa) { manualTa.dataset.registered = "1"; manualTa.readOnly = true; }
+        const mst = document.getElementById("qna-manual-status");
+        if (mst) { mst.textContent = "✓ 등록 완료"; mst.style.color = "#00a544"; }
+      }
+      // 좌측 사이드바 목록도 갱신
+      if (typeof qnaFetchPage === "function") setTimeout(() => qnaFetchPage(), 800);
     } else {
       const msg = d.naver?.message || d.error || "등록 실패";
       if (btn) { btn.disabled = false; btn.textContent = "📤 스마트스토어에 등록 (재시도)"; }
@@ -5923,13 +6110,7 @@ async function ssRegisterAnswer() {
   }
 }
 
-// 기존 renderQnaAnswer 직후에 register 버튼 주입 (MutationObserver로 감지)
-const _origRenderQnaAnswer = renderQnaAnswer;
-renderQnaAnswer = function(...args) {
-  const ret = _origRenderQnaAnswer.apply(this, args);
-  setTimeout(injectSSRegisterButtonIfNeeded, 0);
-  return ret;
-};
+// (등록 버튼은 renderQnaAnswer의 답변 편집 패널에서 직접 렌더링됨)
 
 // =====================================================
 // Event handlers
@@ -6319,22 +6500,9 @@ async function qnaOpenItem(item) {
   QNA_ACTIVE_QID = item.questionId;
   qnaRenderList();
   if (typeof ssUpdateTabBadge === "function") ssUpdateTabBadge();
-  // [FIX 2026-05-08] 항목 선택 시 답변 영역 초기화
-  // 이전 클릭이 답변완료였다면 renderQnaCompactEditor가 #qna-answer-area에
-  // 편집 패널을 주입한 상태이므로, 다음 항목(특히 미답변)으로 전환 시 잔존을 막아야 함.
-  // 모델 자동매칭(selectModel)이 실패하면 이 영역을 갱신하는 다른 경로도 없어
-  // 이전 패널이 그대로 보이는 버그가 발생한다.
-  document.getElementById("qna-answer-area").innerHTML = `
-    <div class="answer-box" style="color:var(--muted)">
-      <h3 style="color:var(--muted)">문의 로드됨</h3>
-      제품·고객명·문의내용 확인 후 <b>AI 답변 생성</b>을 눌러주세요.
-    </div>`;
+  // 답변 패널 렌더링은 ssOpenInQnaForm이 담당:
+  // 답변완료 → 편집 패널(renderQnaCompactEditor) / 미답변 → 직접 작성 패널(renderQnaManualComposer)
   await ssOpenInQnaForm(item);
-  if (item.answered && item.answer) {
-    // 답변완료: 컴팩트 편집 패널 표시 (renderQnaAnswer 우회)
-    QNA._ss_questionId = item.questionId;
-    setTimeout(() => renderQnaCompactEditor(item), 200);
-  }
 }
 
 // 답변완료 시 표시되는 컴팩트 편집 패널
